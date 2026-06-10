@@ -1905,7 +1905,7 @@ export const montenegroLandmarksV2: POI[] = [
     id: "montenegro-ostrog-lower-church-landmarks-v2", "sights": {
       "de": [
             {
-                  "name": "Манастир Острог",
+                  "name": "Manastir Ostrog",
                   "text": "Das Kloster Ostrog ist ein bedeutendes serbisch-orthodoxes Kloster, das in eine steile Felswand gebaut wurde.",
                   "category": "religious",
                   "coords": [
@@ -1943,7 +1943,7 @@ export const montenegroLandmarksV2: POI[] = [
       ],
       "hu": [
             {
-                  "name": "Манастир Острог",
+                  "name": "Manastir Ostrog",
                   "text": "Az Ostrog-kolostor egy meredek sziklafalba épült, jelentős szerb ortodox kolostor.",
                   "category": "religious",
                   "coords": [
@@ -1981,7 +1981,7 @@ export const montenegroLandmarksV2: POI[] = [
       ],
       "ro": [
             {
-                  "name": "Манастир Острог",
+                  "name": "Manastir Ostrog",
                   "text": "Mănăstirea Ostrog este un lăcaș de cult ortodox sârb renumit, construit direct într-o stâncă abruptă.",
                   "category": "religious",
                   "coords": [
@@ -2166,7 +2166,7 @@ export const montenegroLandmarksV2: POI[] = [
                   ]
             },
             {
-                  "name": "Краљичина плажа",
+                  "name": "Kraljichina plazha",
                   "text": "Ein exklusiver Strand, benannt nach Königin Marija Karađorđević, bekannt für seine landschaftliche Schönheit.",
                   "category": "recreational",
                   "coords": [
@@ -2249,7 +2249,7 @@ export const montenegroLandmarksV2: POI[] = [
                   ]
             },
             {
-                  "name": "Краљичина плажа",
+                  "name": "Kraljichina plazha",
                   "text": "Exkluzív tengerpart, amely Marija Karađorđević királynéról kapta a nevét és természeti szépségéről híres.",
                   "category": "recreational",
                   "coords": [

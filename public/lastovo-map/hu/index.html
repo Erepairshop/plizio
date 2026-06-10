@@ -143,6 +143,9 @@ header .langs{display:flex;gap:.25rem}
 .mapcard .mc-desc{font-size:.76rem;color:#cfe0ff;line-height:1.4;margin:0 0 9px;display:none}
 .mapcard .mc-desc.show{display:block}
 .mapcard .mc-more{display:inline-block;background:linear-gradient(135deg,#3b82f6,#2563eb);color:#fff;text-decoration:none;font-weight:700;font-size:.78rem;padding:.42rem .75rem;border-radius:8px}
+.mapcard .mc-sv{align-items:center;justify-content:center;width:28px;height:28px;margin-left:7px;vertical-align:-8px;border-radius:50%;background:#fbbc04;color:#fff;box-shadow:0 1px 3px rgba(0,0,0,.4)}
+.mapcard .mc-sv:hover{background:#f9ab00}
+.mapcard .mc-sv svg{display:block}
 .mapcard .mc-x{position:absolute;top:5px;right:5px;width:24px;height:24px;border-radius:50%;background:rgba(0,0,0,.5);border:none;color:#fff;font-size:.95rem;cursor:pointer;z-index:2;display:flex;align-items:center;justify-content:center;line-height:1;padding:0}
 .burst{position:fixed;inset:0;z-index:15;pointer-events:none;display:none}
 .burst.open{display:block}
@@ -201,6 +204,7 @@ header .langs{display:flex;gap:.25rem}
     <div class="mc-name" id="mcName"></div>
     <p class="mc-desc" id="mcDesc"></p>
     <a class="mc-more" id="mcMore" href="#">Bővebben →</a>
+    <a class="mc-sv" id="mcSv" href="#" target="_blank" rel="nofollow noopener" title="Street View" aria-label="Street View" style="display:none"><svg viewBox="0 0 24 24" width="14" height="14" fill="currentColor" aria-hidden="true"><circle cx="12" cy="6" r="3.1"/><path d="M12 9.8c-2 0-3.4 1.1-3.4 2.6v3l1.5.6.5 5h2.8l.5-5 1.5-.6v-3c0-1.5-1.4-2.6-3.4-2.6z"/></svg></a>
   </div>
 </div>
 <div class="burst" id="burst"><svg class="burst-svg" id="burstSvg"></svg><div class="burst-dots" id="burstDots"></div></div>
@@ -209,7 +213,7 @@ const LANG="hu",W=1120,H=855.4;
 try{localStorage.setItem('plizio_language',LANG)}catch(e){}
 const CLUSTERS=[];
 const SEARCH_EXTRA=[];
-const POI_CARD={"croatia-lastovo-life-v2":{"i":"/poi-images/croatia-lastovo-life-v2.webp","s":"A park 44 szigetet és zátonyt foglal magában az Adria déli részén, távol a szárazföldtől.","f":["Itt a legsötétebb az égbolt","Híres lastovói kémények"]},"croatia-lastovo-archipelago-nature-v2":{"i":"/poi-images/croatia-lastovo-archipelago-nature-v2.webp","s":"A termÃ©szetvÃ©delmi park 44 szigetet Ã©s zÃ¡tonyt foglal magÃ¡ban HorvÃ¡torszÃ¡g dÃ©li rÃ©szÃ©n.","f":["44 sziget","2006-ban alapÃ­tottÃ¡k"]},"lastovo-grad":{"i":"/geo-images/croatia/lastovo-grad.webp","s":"Amfiteátrum alakban épült középkori település az azonos nevű szigeten, amely különleges, díszes kéményeiről vált híressé.","f":["A sziget belsejében fekszik","Amfiteátrum szerű elrendezés"]},"croatia-uble-cities-v2":{"i":"/poi-images/croatia-uble-cities-v2.webp","s":"Lastovo-sziget bájos kikötővárosa, amely ókori romjairól, kristálytiszta vizéről és a Lastovói-szigetek Természetvédelmi Park kapujáról ismert.","f":["Lastovo-sziget","Kompkikötő"]},"croatia-zaklopatica-cities-v2":{"i":"/poi-images/croatia-zaklopatica-cities-v2.webp","s":"Mélyen benyúló, védett öböl Lastovo északi partján, amely kiváló éttermeiről és biztonságos kikötőjéről ismert.","f":["Védett öböl Lastovón","Sziget óvja a bejáratot"]}};
+const POI_CARD={"croatia-lastovo-life-v2":{"i":"/poi-images/croatia-lastovo-life-v2.webp","s":"A park 44 szigetet és zátonyt foglal magában az Adria déli részén, távol a szárazföldtől.","f":["Itt a legsötétebb az égbolt","Híres lastovói kémények"]},"croatia-lastovo-archipelago-nature-v2":{"i":"/poi-images/croatia-lastovo-archipelago-nature-v2.webp","s":"A termÃ©szetvÃ©delmi park 44 szigetet Ã©s zÃ¡tonyt foglal magÃ¡ban HorvÃ¡torszÃ¡g dÃ©li rÃ©szÃ©n.","f":["44 sziget","2006-ban alapÃ­tottÃ¡k"]},"lastovo-grad":{"i":"/geo-images/croatia/lastovo-grad.webp","s":"Amfiteátrum alakban épült középkori település az azonos nevű szigeten, amely különleges, díszes kéményeiről vált híressé.","f":["A sziget belsejében fekszik","Amfiteátrum szerű elrendezés"],"v":"_KQr2n0dplglfHw00A1f8w@42.7700,16.8950"},"croatia-uble-cities-v2":{"s":"Lastovo-sziget bájos kikötővárosa, amely ókori romjairól, kristálytiszta vizéről és a Lastovói-szigetek Természetvédelmi Park kapujáról ismert.","f":["Lastovo-sziget","Kompkikötő"]},"croatia-zaklopatica-cities-v2":{"i":"/poi-images/croatia-zaklopatica-cities-v2.webp","s":"Mélyen benyúló, védett öböl Lastovo északi partján, amely kiváló éttermeiről és biztonságos kikötőjéről ismert.","f":["Védett öböl Lastovón","Sziget óvja a bejáratot"]}};
 const svg=document.getElementById('svg'),stage=document.getElementById('stage');
 const gR=document.getElementById('gR'),gL=document.getElementById('gL'),gP=document.getElementById('gP'),gC=document.getElementById('gC');
 const EXPAND_SCALE=3.5;
@@ -268,6 +272,8 @@ function fillCard(d){
   if(c.i){img.style.backgroundImage='url("'+c.i.replace(/"/g,'\"')+'")';img.classList.add('has')}else{img.classList.remove('has');img.style.backgroundImage=''}
   const ds=mapcard.querySelector('.mc-desc');
   if(c.s){ds.textContent=c.s;ds.classList.add('show')}else{ds.textContent='';ds.classList.remove('show')}
+  const sv=document.getElementById('mcSv');
+  if(c.v){var vAt=c.v.indexOf('@');sv.href='https://www.google.com/maps/@?api=1&map_action=pano&'+(vAt>0?'pano='+c.v.slice(0,vAt)+'&viewpoint='+c.v.slice(vAt+1):'viewpoint='+c.v);sv.style.display='inline-flex'}else{sv.style.display='none'}
 }
 function openPopup(el){
   closePopup();

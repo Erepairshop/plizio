@@ -607,7 +607,7 @@ imageHint: "Sandy hills and pine forest of Slonim",
     id: "belarus-neman-lowland-relief-v2", "sights": {
       "de": [
             {
-                  "name": "Сіні Камень",
+                  "name": "Sini Kamen'",
                   "text": "Sini Kamen ist ein Denkmal in der Region der Memelniederung.",
                   "category": "historical",
                   "coords": [
@@ -618,7 +618,7 @@ imageHint: "Sandy hills and pine forest of Slonim",
       ],
       "hu": [
             {
-                  "name": "Сіні Камень",
+                  "name": "Sini Kamen'",
                   "text": "Sini Kamen egy emlékmű a Nyeman-alföld régiójában.",
                   "category": "historical",
                   "coords": [
@@ -629,7 +629,7 @@ imageHint: "Sandy hills and pine forest of Slonim",
       ],
       "ro": [
             {
-                  "name": "Сіні Камень",
+                  "name": "Sini Kamen'",
                   "text": "Sini Kamen este un monument situat în regiunea câmpiei râului Niemen.",
                   "category": "historical",
                   "coords": [
@@ -745,7 +745,7 @@ imageHint: "Vast marshlands of Polesie",
     id: "belarus-logoysk-crater-relief-v2", "sights": {
       "de": [
             {
-                  "name": "Лагойская замкавая гара",
+                  "name": "Lagoiskaia zamkavaia gara",
                   "text": "Ein archäologischer Fundplatz auf dem Schlosshügel von Lahojsk in Belarus.",
                   "category": "historical",
                   "coords": [
@@ -754,7 +754,7 @@ imageHint: "Vast marshlands of Polesie",
                   ]
             },
             {
-                  "name": "Лагойская ткацкая фабрыка",
+                  "name": "Lagoiskaia tkatskaia fabryka",
                   "text": "Eine Weberei in Lahoysk, die traditionelles Handwerk präsentiert.",
                   "category": "landmark",
                   "coords": [
@@ -763,7 +763,7 @@ imageHint: "Vast marshlands of Polesie",
                   ]
             },
             {
-                  "name": "Мастацкая галерэя Сяргея Давідовіча",
+                  "name": "Mastatskaia galereia Siargeia Davidovicha",
                   "text": "Eine Kunstgalerie in Lahoysk, die Werke von Syarhey Davidovich ausstellt.",
                   "category": "museum",
                   "coords": [
@@ -772,7 +772,7 @@ imageHint: "Vast marshlands of Polesie",
                   ]
             },
             {
-                  "name": "Касцёл Святога Казіміра",
+                  "name": "Kastsiol Sviatoga Kazimira",
                   "text": "Eine katholische Kirche in Lahoysk, dem heiligen Kasimir geweiht.",
                   "category": "landmark",
                   "coords": [
@@ -783,7 +783,7 @@ imageHint: "Vast marshlands of Polesie",
       ],
       "hu": [
             {
-                  "name": "Лагойская замкавая гара",
+                  "name": "Lagoiskaia zamkavaia gara",
                   "text": "Régészeti lelőhely a fehéroroszországi Lahojszk várhegyén.",
                   "category": "historical",
                   "coords": [
@@ -792,7 +792,7 @@ imageHint: "Vast marshlands of Polesie",
                   ]
             },
             {
-                  "name": "Лагойская ткацкая фабрыка",
+                  "name": "Lagoiskaia tkatskaia fabryka",
                   "text": "Hagyományos kézművességet bemutató szövőgyár Lahojszkban.",
                   "category": "landmark",
                   "coords": [
@@ -801,7 +801,7 @@ imageHint: "Vast marshlands of Polesie",
                   ]
             },
             {
-                  "name": "Мастацкая галерэя Сяргея Давідовіча",
+                  "name": "Mastatskaia galereia Siargeia Davidovicha",
                   "text": "Syarhey Davidovich műveit bemutató művészeti galéria Lahojszkban.",
                   "category": "museum",
                   "coords": [
@@ -810,7 +810,7 @@ imageHint: "Vast marshlands of Polesie",
                   ]
             },
             {
-                  "name": "Касцёл Святога Казіміра",
+                  "name": "Kastsiol Sviatoga Kazimira",
                   "text": "Szent Kázmér tiszteletére szentelt katolikus templom Lahojszkban.",
                   "category": "landmark",
                   "coords": [
@@ -821,7 +821,7 @@ imageHint: "Vast marshlands of Polesie",
       ],
       "ro": [
             {
-                  "name": "Лагойская замкавая гара",
+                  "name": "Lagoiskaia zamkavaia gara",
                   "text": "Un sit arheologic situat pe dealul castelului din Lahojsk, Belarus.",
                   "category": "historical",
                   "coords": [
@@ -830,7 +830,7 @@ imageHint: "Vast marshlands of Polesie",
                   ]
             },
             {
-                  "name": "Лагойская ткацкая фабрыка",
+                  "name": "Lagoiskaia tkatskaia fabryka",
                   "text": "O fabrică de țesut din Lahojsk care prezintă meșteșugul tradițional.",
                   "category": "landmark",
                   "coords": [
@@ -839,7 +839,7 @@ imageHint: "Vast marshlands of Polesie",
                   ]
             },
             {
-                  "name": "Мастацкая галерэя Сяргея Давідовіча",
+                  "name": "Mastatskaia galereia Siargeia Davidovicha",
                   "text": "O galerie de artă din Lahojsk care expune lucrările lui Syarhey Davidovich.",
                   "category": "museum",
                   "coords": [
@@ -848,7 +848,7 @@ imageHint: "Vast marshlands of Polesie",
                   ]
             },
             {
-                  "name": "Касцёл Святога Казіміра",
+                  "name": "Kastsiol Sviatoga Kazimira",
                   "text": "O biserică catolică din Lahojsk, dedicată Sfântului Cazimir.",
                   "category": "landmark",
                   "coords": [

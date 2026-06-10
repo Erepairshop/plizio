@@ -17,7 +17,7 @@ export const bulgariaNatureV2: POI[] = [
       ],
       "hu": [
             {
-                  "name": "Голям Кръстец",
+                  "name": "Goliam Kr'stets",
                   "text": "Jellegzetes hegycsúcs a bulgáriai Központi-Balkán Nemzeti Parkban.",
                   "category": "landmark",
                   "coords": [
@@ -28,7 +28,7 @@ export const bulgariaNatureV2: POI[] = [
       ],
       "ro": [
             {
-                  "name": "Голям Кръстец",
+                  "name": "Goliam Kr'stets",
                   "text": "Un vârf montan proeminent în Parcul Național Balkan Central din Bulgaria.",
                   "category": "landmark",
                   "coords": [
@@ -366,7 +366,7 @@ export const bulgariaNatureV2: POI[] = [
     id: "bulgaria-batak-dam-nature-v2", "sights": {
       "de": [
             {
-                  "name": "Исторически музей",
+                  "name": "Istoricheski muzei",
                   "text": "Ein Regionalmuseum in Batak, das die Geschichte der Stadt dokumentiert.",
                   "category": "museum",
                   "coords": [
@@ -377,7 +377,7 @@ export const bulgariaNatureV2: POI[] = [
       ],
       "hu": [
             {
-                  "name": "Исторически музей",
+                  "name": "Istoricheski muzei",
                   "text": "Batak városának történetét bemutató regionális múzeum.",
                   "category": "museum",
                   "coords": [
@@ -388,7 +388,7 @@ export const bulgariaNatureV2: POI[] = [
       ],
       "ro": [
             {
-                  "name": "Исторически музей",
+                  "name": "Istoricheski muzei",
                   "text": "Un muzeu regional în Batak care documentează istoria orașului.",
                   "category": "museum",
                   "coords": [
@@ -474,7 +474,7 @@ export const bulgariaNatureV2: POI[] = [
                   ]
             },
             {
-                  "name": "Резерват Камчия",
+                  "name": "Rezervat Kamchiia",
                   "text": "Ein UNESCO-Biosphärenreservat, das den Auwald am Fluss schützt.",
                   "category": "natural",
                   "coords": [
@@ -483,7 +483,7 @@ export const bulgariaNatureV2: POI[] = [
                   ]
             },
             {
-                  "name": "Камчия",
+                  "name": "Kamchiia",
                   "text": "Ein breiter Sandstrand an der Mündung des Flusses Kamtschia.",
                   "category": "recreational",
                   "coords": [
@@ -492,7 +492,7 @@ export const bulgariaNatureV2: POI[] = [
                   ]
             },
             {
-                  "name": "Лястовица бяла клуб",
+                  "name": "Liastovitsa biala klub",
                   "text": "Eine lokale touristische Attraktion in der Nähe des Flusses.",
                   "category": "landmark",
                   "coords": [
@@ -521,7 +521,7 @@ export const bulgariaNatureV2: POI[] = [
                   ]
             },
             {
-                  "name": "Резерват Камчия",
+                  "name": "Rezervat Kamchiia",
                   "text": "UNESCO bioszféra-rezervátum, amely a folyómenti erdőket védi.",
                   "category": "natural",
                   "coords": [
@@ -530,7 +530,7 @@ export const bulgariaNatureV2: POI[] = [
                   ]
             },
             {
-                  "name": "Камчия",
+                  "name": "Kamchiia",
                   "text": "Széles homokos tengerpart a Kamcsija-folyó torkolatánál.",
                   "category": "recreational",
                   "coords": [
@@ -539,7 +539,7 @@ export const bulgariaNatureV2: POI[] = [
                   ]
             },
             {
-                  "name": "Лястовица бяла клуб",
+                  "name": "Liastovitsa biala klub",
                   "text": "Helyi turisztikai látványosság a folyó közelében.",
                   "category": "landmark",
                   "coords": [
@@ -568,7 +568,7 @@ export const bulgariaNatureV2: POI[] = [
                   ]
             },
             {
-                  "name": "Резерват Камчия",
+                  "name": "Rezervat Kamchiia",
                   "text": "O rezervație a biosferei UNESCO care protejează pădurea inundabilă a râului.",
                   "category": "natural",
                   "coords": [
@@ -577,7 +577,7 @@ export const bulgariaNatureV2: POI[] = [
                   ]
             },
             {
-                  "name": "Камчия",
+                  "name": "Kamchiia",
                   "text": "O plajă largă de nisip situată la gura de vărsare a râului Kamchia.",
                   "category": "recreational",
                   "coords": [
@@ -586,7 +586,7 @@ export const bulgariaNatureV2: POI[] = [
                   ]
             },
             {
-                  "name": "Лястовица бяла клуб",
+                  "name": "Liastovitsa biala klub",
                   "text": "O atracție turistică locală în apropierea râului.",
                   "category": "landmark",
                   "coords": [
@@ -780,7 +780,7 @@ export const bulgariaNatureV2: POI[] = [
     id: "bulgaria-rosen-mountain-nature-v2", "sights": {
       "de": [
             {
-                  "name": "Българската Ясна поляна",
+                  "name": "B'lgarskata Iasna poliana",
                   "text": "Ein Museum im Dorf Jasna Poljana, das dem Leben und Werk von Leo Tolstoi gewidmet ist.",
                   "category": "museum",
                   "coords": [
@@ -791,7 +791,7 @@ export const bulgariaNatureV2: POI[] = [
       ],
       "hu": [
             {
-                  "name": "Българската Ясна поляна",
+                  "name": "B'lgarskata Iasna poliana",
                   "text": "Múzeum Jasna Poljana faluban, amelyet Lev Tolsztoj életének és munkásságának szenteltek.",
                   "category": "museum",
                   "coords": [
@@ -802,7 +802,7 @@ export const bulgariaNatureV2: POI[] = [
       ],
       "ro": [
             {
-                  "name": "Българската Ясна поляна",
+                  "name": "B'lgarskata Iasna poliana",
                   "text": "Un muzeu în satul Yasna Polyana, dedicat vieții și operei lui Lev Tolstoi.",
                   "category": "museum",
                   "coords": [
@@ -1005,7 +1005,7 @@ export const bulgariaNatureV2: POI[] = [
     id: "bulgaria-vitosha-peak-nature-v2", "sights": {
       "de": [
             {
-                  "name": "Резерват Бистришко бранище",
+                  "name": "Rezervat Bistrishko branishche",
                   "text": "Biosphärenreservat im Witoscha-Gebirge, das zum Schutz ursprünglicher Fichtenwälder eingerichtet wurde.",
                   "category": "natural",
                   "coords": [
@@ -1014,7 +1014,7 @@ export const bulgariaNatureV2: POI[] = [
                   ]
             },
             {
-                  "name": "Торфено бранище",
+                  "name": "Torfeno branishche",
                   "text": "Streng geschütztes Naturschutzgebiet im Witoscha-Gebirge zur Erhaltung von Hochmooren.",
                   "category": "natural",
                   "coords": [
@@ -1032,7 +1032,7 @@ export const bulgariaNatureV2: POI[] = [
                   ]
             },
             {
-                  "name": "Голям Резен;TT16A",
+                  "name": "TT16A",
                   "text": "Einer der höchsten Gipfel im Witoscha-Massiv, beliebt zum Wandern.",
                   "category": "landmark",
                   "coords": [
@@ -1052,7 +1052,7 @@ export const bulgariaNatureV2: POI[] = [
       ],
       "hu": [
             {
-                  "name": "Резерват Бистришко бранище",
+                  "name": "Rezervat Bistrishko branishche",
                   "text": "Bioszféra-rezervátum a Vitosa-hegységben, amelyet az őshonos fenyőerdők védelmére hoztak létre.",
                   "category": "natural",
                   "coords": [
@@ -1061,7 +1061,7 @@ export const bulgariaNatureV2: POI[] = [
                   ]
             },
             {
-                  "name": "Торфено бранище",
+                  "name": "Torfeno branishche",
                   "text": "Szigorúan védett természetvédelmi terület a Vitosa-hegységben, amely a magashegyi tőzeglápokat őrzi.",
                   "category": "natural",
                   "coords": [
@@ -1070,7 +1070,7 @@ export const bulgariaNatureV2: POI[] = [
                   ]
             },
             {
-                  "name": "Малък Резен",
+                  "name": "Mal'k Rezen",
                   "text": "Magas csúcs a Vitosa-hegységben, ahonnan panorámás kilátás nyílik a régióra.",
                   "category": "landmark",
                   "coords": [
@@ -1079,7 +1079,7 @@ export const bulgariaNatureV2: POI[] = [
                   ]
             },
             {
-                  "name": "Голям Резен;TT16A",
+                  "name": "TT16A",
                   "text": "A Vitosa-masszívum egyik legmagasabb csúcsa, népszerű a túrázók körében.",
                   "category": "landmark",
                   "coords": [
@@ -1088,7 +1088,7 @@ export const bulgariaNatureV2: POI[] = [
                   ]
             },
             {
-                  "name": "Черни връх",
+                  "name": "Cherni vr'kh",
                   "text": "A Vitosa-hegység legmagasabb pontja, 2290 méteres tengerszint feletti magassággal.",
                   "category": "landmark",
                   "coords": [
@@ -1099,7 +1099,7 @@ export const bulgariaNatureV2: POI[] = [
       ],
       "ro": [
             {
-                  "name": "Резерват Бистришко бранище",
+                  "name": "Rezervat Bistrishko branishche",
                   "text": "Rezervație a biosferei în Munții Vitoșa, înființată pentru a proteja pădurile primare de molid.",
                   "category": "natural",
                   "coords": [
@@ -1108,7 +1108,7 @@ export const bulgariaNatureV2: POI[] = [
                   ]
             },
             {
-                  "name": "Торфено бранище",
+                  "name": "Torfeno branishche",
                   "text": "Rezervație naturală strict protejată în Munții Vitoșa, care conservă turbăriile de altitudine.",
                   "category": "natural",
                   "coords": [
@@ -1117,7 +1117,7 @@ export const bulgariaNatureV2: POI[] = [
                   ]
             },
             {
-                  "name": "Малък Резен",
+                  "name": "Mal'k Rezen",
                   "text": "Vârf înalt în lanțul muntos Vitoșa, oferind vederi panoramice asupra regiunii.",
                   "category": "landmark",
                   "coords": [
@@ -1126,7 +1126,7 @@ export const bulgariaNatureV2: POI[] = [
                   ]
             },
             {
-                  "name": "Голям Резен;TT16A",
+                  "name": "TT16A",
                   "text": "Unul dintre cele mai înalte vârfuri din masivul Vitoșa, popular pentru drumeții.",
                   "category": "landmark",
                   "coords": [
@@ -1135,7 +1135,7 @@ export const bulgariaNatureV2: POI[] = [
                   ]
             },
             {
-                  "name": "Черни връх",
+                  "name": "Cherni vr'kh",
                   "text": "Cel mai înalt punct al Muntelui Vitoșa, situat la 2.290 de metri deasupra nivelului mării.",
                   "category": "landmark",
                   "coords": [

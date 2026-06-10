@@ -52,7 +52,7 @@ imageHint: "Lake Plastira panoramic view with mountains",
     id: "greece-vikos-gorge-nature-v2", "sights": {
       "de": [
             {
-                  "name": "Μουσείο Κώστα Λαζαρίδη",
+                  "name": "Mouseio Kosta Lazaride",
                   "text": "Ein Naturkundemuseum in der Vikos-Schlucht, das die lokale Flora und Fauna dokumentiert.",
                   "category": "museum",
                   "coords": [
@@ -61,7 +61,7 @@ imageHint: "Lake Plastira panoramic view with mountains",
                   ]
             },
             {
-                  "name": "Βίτσα Ζαγορίου",
+                  "name": "Bitsa Zagoriou",
                   "text": "Die Überreste einer antiken Siedlung der Molosser in der Nähe der Vikos-Schlucht.",
                   "category": "historical",
                   "coords": [
@@ -79,7 +79,7 @@ imageHint: "Lake Plastira panoramic view with mountains",
                   ]
             },
             {
-                  "name": "Ριζάρειο Εκθεσιακό Κεντπο",
+                  "name": "Rizareio Ekthesiako Kentpo",
                   "text": "Ein Ausstellungszentrum in Monodendri, das sich dem kulturellen Erbe der Region widmet.",
                   "category": "museum",
                   "coords": [
@@ -126,7 +126,7 @@ imageHint: "Lake Plastira panoramic view with mountains",
       ],
       "hu": [
             {
-                  "name": "Μουσείο Κώστα Λαζαρίδη",
+                  "name": "Mouseio Kosta Lazaride",
                   "text": "Természettudományi múzeum a Vikos-szurdokban, amely a helyi növény- és állatvilágot mutatja be.",
                   "category": "museum",
                   "coords": [
@@ -135,7 +135,7 @@ imageHint: "Lake Plastira panoramic view with mountains",
                   ]
             },
             {
-                  "name": "Βίτσα Ζαγορίου",
+                  "name": "Bitsa Zagoriou",
                   "text": "Egy ókori molosszus település maradványai a Vikos-szurdok közelében.",
                   "category": "historical",
                   "coords": [
@@ -144,7 +144,7 @@ imageHint: "Lake Plastira panoramic view with mountains",
                   ]
             },
             {
-                  "name": "Οξιά",
+                  "name": "Oxia",
                   "text": "Látványos kilátópont, ahonnan lenyűgöző panoráma nyílik a mély Vikos-szurdokra.",
                   "category": "natural",
                   "coords": [
@@ -153,7 +153,7 @@ imageHint: "Lake Plastira panoramic view with mountains",
                   ]
             },
             {
-                  "name": "Ριζάρειο Εκθεσιακό Κεντπο",
+                  "name": "Rizareio Ekthesiako Kentpo",
                   "text": "Kiállítási központ Monodendriben, amely a régió kulturális örökségének van szentelve.",
                   "category": "museum",
                   "coords": [
@@ -189,7 +189,7 @@ imageHint: "Lake Plastira panoramic view with mountains",
                   ]
             },
             {
-                  "name": "Πέτρινο Δάσος",
+                  "name": "Petrino Dasos",
                   "text": "Egyedülálló geológiai képződmény rétegzett mészkősziklákból Monodendri közelében.",
                   "category": "landmark",
                   "coords": [
@@ -200,7 +200,7 @@ imageHint: "Lake Plastira panoramic view with mountains",
       ],
       "ro": [
             {
-                  "name": "Μουσείο Κώστα Λαζαρίδη",
+                  "name": "Mouseio Kosta Lazaride",
                   "text": "Un muzeu de istorie naturală din Defileul Vikos, care documentează flora și fauna locală.",
                   "category": "museum",
                   "coords": [
@@ -209,7 +209,7 @@ imageHint: "Lake Plastira panoramic view with mountains",
                   ]
             },
             {
-                  "name": "Βίτσα Ζαγορίου",
+                  "name": "Bitsa Zagoriou",
                   "text": "Ruinele unei vechi așezări a molosilor, situate lângă Defileul Vikos.",
                   "category": "historical",
                   "coords": [
@@ -218,7 +218,7 @@ imageHint: "Lake Plastira panoramic view with mountains",
                   ]
             },
             {
-                  "name": "Οξιά",
+                  "name": "Oxia",
                   "text": "Un punct de belvedere spectaculos care oferă o vedere panoramică asupra Defileului Vikos.",
                   "category": "natural",
                   "coords": [
@@ -227,7 +227,7 @@ imageHint: "Lake Plastira panoramic view with mountains",
                   ]
             },
             {
-                  "name": "Ριζάρειο Εκθεσιακό Κεντπο",
+                  "name": "Rizareio Ekthesiako Kentpo",
                   "text": "Un centru expozițional din Monodendri, dedicat moștenirii culturale a regiunii.",
                   "category": "museum",
                   "coords": [
@@ -263,7 +263,7 @@ imageHint: "Lake Plastira panoramic view with mountains",
                   ]
             },
             {
-                  "name": "Πέτρινο Δάσος",
+                  "name": "Petrino Dasos",
                   "text": "O formațiune geologică unică din roci calcaroase stratificate, lângă Monodendri.",
                   "category": "landmark",
                   "coords": [
@@ -422,7 +422,7 @@ imageHint: "Vikos Gorge deep canyon landscape",
                   ]
             },
             {
-                  "name": "Κούλες Αγγελοκαμπή",
+                  "name": "Koules Aggelokampe",
                   "text": "Eine osmanische Festung in der Nähe der Samaria-Schlucht auf Kreta.",
                   "category": "castle",
                   "coords": [
@@ -458,7 +458,7 @@ imageHint: "Vikos Gorge deep canyon landscape",
                   ]
             },
             {
-                  "name": "Ψσιριστρα",
+                  "name": "Pssiristra",
                   "text": "Ein Berggipfel im Gebiet der Samaria-Schlucht auf Kreta.",
                   "category": "landmark",
                   "coords": [
@@ -496,7 +496,7 @@ imageHint: "Vikos Gorge deep canyon landscape",
                   ]
             },
             {
-                  "name": "Κούλες Αγγελοκαμπή",
+                  "name": "Koules Aggelokampe",
                   "text": "Oszmán kori erőd a krétai Szamaria-szurdok közelében.",
                   "category": "castle",
                   "coords": [
@@ -514,7 +514,7 @@ imageHint: "Vikos Gorge deep canyon landscape",
                   ]
             },
             {
-                  "name": "Εθνικός Δρυμός Σαμαριάς",
+                  "name": "Ethnikos Drumos Samarias",
                   "text": "Híres krétai nemzeti park, amely Európa egyik leghosszabb szurdokát foglalja magában.",
                   "category": "natural",
                   "coords": [
@@ -523,7 +523,7 @@ imageHint: "Vikos Gorge deep canyon landscape",
                   ]
             },
             {
-                  "name": "Βολακιάς",
+                  "name": "Bolakias",
                   "text": "Hegycsúcs a krétai Fehér-hegységben, a Szamaria-szurdok közelében.",
                   "category": "landmark",
                   "coords": [
@@ -532,7 +532,7 @@ imageHint: "Vikos Gorge deep canyon landscape",
                   ]
             },
             {
-                  "name": "Ψσιριστρα",
+                  "name": "Pssiristra",
                   "text": "Hegycsúcs a krétai Szamaria-szurdok területén.",
                   "category": "landmark",
                   "coords": [
@@ -570,7 +570,7 @@ imageHint: "Vikos Gorge deep canyon landscape",
                   ]
             },
             {
-                  "name": "Κούλες Αγγελοκαμπή",
+                  "name": "Koules Aggelokampe",
                   "text": "O fortăreață otomană în apropierea Cheilor Samariei din Creta.",
                   "category": "castle",
                   "coords": [
@@ -588,7 +588,7 @@ imageHint: "Vikos Gorge deep canyon landscape",
                   ]
             },
             {
-                  "name": "Εθνικός Δρυμός Σαμαριάς",
+                  "name": "Ethnikos Drumos Samarias",
                   "text": "Un faimos parc național din Creta, ce cuprinde unul dintre cele mai lungi chei din Europa.",
                   "category": "natural",
                   "coords": [
@@ -597,7 +597,7 @@ imageHint: "Vikos Gorge deep canyon landscape",
                   ]
             },
             {
-                  "name": "Βολακιάς",
+                  "name": "Bolakias",
                   "text": "Un vârf montan în Munții Albi din Creta, lângă Cheile Samariei.",
                   "category": "landmark",
                   "coords": [
@@ -606,7 +606,7 @@ imageHint: "Vikos Gorge deep canyon landscape",
                   ]
             },
             {
-                  "name": "Ψσιριστρα",
+                  "name": "Pssiristra",
                   "text": "Un vârf montan în zona Cheilor Samariei din Creta.",
                   "category": "landmark",
                   "coords": [
@@ -738,7 +738,7 @@ imageHint: "Samaria Gorge narrow canyon walls",
     id: "greece-lake-prespa-nature-v2", "sights": {
       "de": [
             {
-                  "name": "Τσουτσούλι (Βροντερό)",
+                  "name": "Tsoutsouli (Brontero)",
                   "text": "Ein Berggipfel in der Nähe des Prespasees mit herrlicher Aussicht auf die Grenzregion.",
                   "category": "landmark",
                   "coords": [
@@ -747,7 +747,7 @@ imageHint: "Samaria Gorge narrow canyon walls",
                   ]
             },
             {
-                  "name": "Παλαιά Πύλη",
+                  "name": "Palaia Pule",
                   "text": "Historische Ruinen in der Region des Prespasees, die von der antiken Besiedlung zeugen.",
                   "category": "historical",
                   "coords": [
@@ -767,7 +767,7 @@ imageHint: "Samaria Gorge narrow canyon walls",
       ],
       "hu": [
             {
-                  "name": "Τσουτσούλι (Βροντερό)",
+                  "name": "Tsoutsouli (Brontero)",
                   "text": "Hegycsúcs a Preszpa-tó közelében, gyönyörű kilátással a határmenti régióra.",
                   "category": "landmark",
                   "coords": [
@@ -776,7 +776,7 @@ imageHint: "Samaria Gorge narrow canyon walls",
                   ]
             },
             {
-                  "name": "Παλαιά Πύλη",
+                  "name": "Palaia Pule",
                   "text": "Történelmi romok a Preszpa-tó környékén, amelyek az ősi településekről tanúskodnak.",
                   "category": "historical",
                   "coords": [
@@ -796,7 +796,7 @@ imageHint: "Samaria Gorge narrow canyon walls",
       ],
       "ro": [
             {
-                  "name": "Τσουτσούλι (Βροντερό)",
+                  "name": "Tsoutsouli (Brontero)",
                   "text": "Un vârf montan lângă Lacul Prespa, oferind vederi panoramice asupra regiunii de frontieră.",
                   "category": "landmark",
                   "coords": [
@@ -805,7 +805,7 @@ imageHint: "Samaria Gorge narrow canyon walls",
                   ]
             },
             {
-                  "name": "Παλαιά Πύλη",
+                  "name": "Palaia Pule",
                   "text": "Ruine istorice în regiunea Lacului Prespa, dovezi ale așezărilor antice.",
                   "category": "historical",
                   "coords": [
@@ -901,7 +901,7 @@ imageHint: "Lake Prespa with pelicans",
     id: "greece-mount-athos-nature-v2", "sights": {
       "de": [
             {
-                  "name": "Προφήτης Ηλίας",
+                  "name": "Prophetes Elias",
                   "text": "Der zweithöchste Gipfel des Berges Athos mit einer kleinen Kapelle auf der Spitze.",
                   "category": "landmark",
                   "coords": [
@@ -919,7 +919,7 @@ imageHint: "Lake Prespa with pelicans",
                   ]
             },
             {
-                  "name": "Κυριακό Αγ. Τριάδος",
+                  "name": "Kuriako Ag. Triados",
                   "text": "Eine kleine Kapelle oder Kirche, die der Heiligen Dreifaltigkeit auf dem Berg Athos gewidmet ist.",
                   "category": "religious",
                   "coords": [
@@ -939,7 +939,7 @@ imageHint: "Lake Prespa with pelicans",
       ],
       "hu": [
             {
-                  "name": "Προφήτης Ηλίας",
+                  "name": "Prophetes Elias",
                   "text": "Az Athos-hegy második legmagasabb csúcsa, tetején egy kis kápolnával.",
                   "category": "landmark",
                   "coords": [
@@ -948,7 +948,7 @@ imageHint: "Lake Prespa with pelicans",
                   ]
             },
             {
-                  "name": "Άθως",
+                  "name": "Athos",
                   "text": "Az Athos-félsziget szent csúcsa, amely fontos zarándokhely.",
                   "category": "landmark",
                   "coords": [
@@ -957,7 +957,7 @@ imageHint: "Lake Prespa with pelicans",
                   ]
             },
             {
-                  "name": "Κυριακό Αγ. Τριάδος",
+                  "name": "Kuriako Ag. Triados",
                   "text": "A Szentháromságnak szentelt kis kápolna vagy templom az Athos-hegyen.",
                   "category": "religious",
                   "coords": [
@@ -966,7 +966,7 @@ imageHint: "Lake Prespa with pelicans",
                   ]
             },
             {
-                  "name": "Σκήτη Αγίας Άννας",
+                  "name": "Skete Agias Annas",
                   "text": "Az Athos-hegy legrégebbi és legnagyobb szkítéje, amely a Megisti Lavra kolostorhoz tartozik.",
                   "category": "religious",
                   "coords": [
@@ -977,7 +977,7 @@ imageHint: "Lake Prespa with pelicans",
       ],
       "ro": [
             {
-                  "name": "Προφήτης Ηλίας",
+                  "name": "Prophetes Elias",
                   "text": "Al doilea cel mai înalt vârf al Muntelui Athos, având o mică capelă în vârf.",
                   "category": "landmark",
                   "coords": [
@@ -1192,7 +1192,7 @@ imageHint: "Pindus Mountains snow-capped peaks",
     id: "greece-mount-pelion-nature-v2", "sights": {
       "de": [
             {
-                  "name": "Οχύρωση Λόφου Επισκοπής",
+                  "name": "Okhurose Lophou Episkopes",
                   "text": "Überreste einer mittelalterlichen Befestigungsanlage auf dem Berg Pilion.",
                   "category": "castle",
                   "coords": [
@@ -1201,7 +1201,7 @@ imageHint: "Pindus Mountains snow-capped peaks",
                   ]
             },
             {
-                  "name": "Σαρακηνός, Καλιακούδα, Παναγιάς, Πουρνάρι, Ελατόρεμα Κοινότητα Μακρινίτσας",
+                  "name": "Sarakenos, Kaliakouda, Panagias, Pournari, Elatorema Koinoteta Makrinitsas",
                   "text": "Ein Informationspunkt für Wanderwege und Naturpfade in der Region Makrinitsa am Pilion.",
                   "category": "landmark",
                   "coords": [
@@ -1212,7 +1212,7 @@ imageHint: "Pindus Mountains snow-capped peaks",
       ],
       "hu": [
             {
-                  "name": "Οχύρωση Λόφου Επισκοπής",
+                  "name": "Okhurose Lophou Episkopes",
                   "text": "Egy középkori erődítmény maradványai a Pelion-hegyen.",
                   "category": "castle",
                   "coords": [
@@ -1221,7 +1221,7 @@ imageHint: "Pindus Mountains snow-capped peaks",
                   ]
             },
             {
-                  "name": "Σαρακηνός, Καλιακούδα, Παναγιάς, Πουρνάρι, Ελατόρεμα Κοινότητα Μακρινίτσας",
+                  "name": "Sarakenos, Kaliakouda, Panagias, Pournari, Elatorema Koinoteta Makrinitsas",
                   "text": "Tájékoztató pont a Makrinitsa környéki túraútvonalakról a Pelion-hegyen.",
                   "category": "landmark",
                   "coords": [
@@ -1232,7 +1232,7 @@ imageHint: "Pindus Mountains snow-capped peaks",
       ],
       "ro": [
             {
-                  "name": "Οχύρωση Λόφου Επισκοπής",
+                  "name": "Okhurose Lophou Episkopes",
                   "text": "Vestigiile unei fortificații medievale situată pe Muntele Pelion.",
                   "category": "castle",
                   "coords": [
@@ -1241,7 +1241,7 @@ imageHint: "Pindus Mountains snow-capped peaks",
                   ]
             },
             {
-                  "name": "Σαρακηνός, Καλιακούδα, Παναγιάς, Πουρνάρι, Ελατόρεμα Κοινότητα Μακρινίτσας",
+                  "name": "Sarakenos, Kaliakouda, Panagias, Pournari, Elatorema Koinoteta Makrinitsas",
                   "text": "Un punct de informare pentru trasee montane în regiunea Makrinitsa din Muntele Pelion.",
                   "category": "landmark",
                   "coords": [
@@ -1328,7 +1328,7 @@ imageHint: "Mount Pelion lush forest landscape",
                   ]
             },
             {
-                  "name": "Αγκαθιάς",
+                  "name": "Agkathias",
                   "text": "Markanter Gipfel im Psiloritis-Massiv auf Kreta.",
                   "category": "landmark",
                   "coords": [
@@ -1337,7 +1337,7 @@ imageHint: "Mount Pelion lush forest landscape",
                   ]
             },
             {
-                  "name": "Κουρούνα",
+                  "name": "Kourouna",
                   "text": "Bergspitze im Gebirgszug des Psiloritis.",
                   "category": "landmark",
                   "coords": [
@@ -1346,7 +1346,7 @@ imageHint: "Mount Pelion lush forest landscape",
                   ]
             },
             {
-                  "name": "Κούσακας",
+                  "name": "Kousakas",
                   "text": "Berggipfel in der Region des Berges Ida auf Kreta.",
                   "category": "landmark",
                   "coords": [
@@ -1355,7 +1355,7 @@ imageHint: "Mount Pelion lush forest landscape",
                   ]
             },
             {
-                  "name": "Εκδορά",
+                  "name": "Ekdora",
                   "text": "Erhebung im Psiloritis-Gebirge.",
                   "category": "landmark",
                   "coords": [
@@ -1373,7 +1373,7 @@ imageHint: "Mount Pelion lush forest landscape",
                   ]
             },
             {
-                  "name": "Ακώλυτα",
+                  "name": "Akoluta",
                   "text": "Ort mit schöner Aussicht am Berg Ida.",
                   "category": "natural",
                   "coords": [
@@ -1384,7 +1384,7 @@ imageHint: "Mount Pelion lush forest landscape",
       ],
       "hu": [
             {
-                  "name": "Σπήλαιο Ιδαίον Άντρον",
+                  "name": "Spelaio Idaion Antron",
                   "text": "Legendás barlang az Ida-hegyen, amelyet Zeusz szülőhelyének tartanak.",
                   "category": "historical",
                   "coords": [
@@ -1393,7 +1393,7 @@ imageHint: "Mount Pelion lush forest landscape",
                   ]
             },
             {
-                  "name": "Αγκαθιάς",
+                  "name": "Agkathias",
                   "text": "Jellegzetes hegycsúcs a krétai Psziloritisz-hegységben.",
                   "category": "landmark",
                   "coords": [
@@ -1402,7 +1402,7 @@ imageHint: "Mount Pelion lush forest landscape",
                   ]
             },
             {
-                  "name": "Κουρούνα",
+                  "name": "Kourouna",
                   "text": "Hegycsúcs a Psziloritisz-hegységben.",
                   "category": "landmark",
                   "coords": [
@@ -1411,7 +1411,7 @@ imageHint: "Mount Pelion lush forest landscape",
                   ]
             },
             {
-                  "name": "Κούσακας",
+                  "name": "Kousakas",
                   "text": "Hegycsúcs a krétai Ida-hegy régiójában.",
                   "category": "landmark",
                   "coords": [
@@ -1420,7 +1420,7 @@ imageHint: "Mount Pelion lush forest landscape",
                   ]
             },
             {
-                  "name": "Εκδορά",
+                  "name": "Ekdora",
                   "text": "Kiemelkedés a Psziloritisz-hegységben.",
                   "category": "landmark",
                   "coords": [
@@ -1438,7 +1438,7 @@ imageHint: "Mount Pelion lush forest landscape",
                   ]
             },
             {
-                  "name": "Ακώλυτα",
+                  "name": "Akoluta",
                   "text": "Szép kilátást nyújtó hely az Ida-hegyen.",
                   "category": "natural",
                   "coords": [
@@ -1449,7 +1449,7 @@ imageHint: "Mount Pelion lush forest landscape",
       ],
       "ro": [
             {
-                  "name": "Σπήλαιο Ιδαίον Άντρον",
+                  "name": "Spelaio Idaion Antron",
                   "text": "Peșteră legendară de pe muntele Ida, considerată locul de naștere al lui Zeus.",
                   "category": "historical",
                   "coords": [
@@ -1458,7 +1458,7 @@ imageHint: "Mount Pelion lush forest landscape",
                   ]
             },
             {
-                  "name": "Αγκαθιάς",
+                  "name": "Agkathias",
                   "text": "Vârf muntos proeminent în masivul Psiloritis din Creta.",
                   "category": "landmark",
                   "coords": [
@@ -1467,7 +1467,7 @@ imageHint: "Mount Pelion lush forest landscape",
                   ]
             },
             {
-                  "name": "Κουρούνα",
+                  "name": "Kourouna",
                   "text": "Vârf muntos în lanțul Psiloritis.",
                   "category": "landmark",
                   "coords": [
@@ -1476,7 +1476,7 @@ imageHint: "Mount Pelion lush forest landscape",
                   ]
             },
             {
-                  "name": "Κούσακας",
+                  "name": "Kousakas",
                   "text": "Vârf de munte în regiunea muntelui Ida din Creta.",
                   "category": "landmark",
                   "coords": [
@@ -1485,7 +1485,7 @@ imageHint: "Mount Pelion lush forest landscape",
                   ]
             },
             {
-                  "name": "Εκδορά",
+                  "name": "Ekdora",
                   "text": "O culme în munții Psiloritis.",
                   "category": "landmark",
                   "coords": [
@@ -1503,7 +1503,7 @@ imageHint: "Mount Pelion lush forest landscape",
                   ]
             },
             {
-                  "name": "Ακώλυτα",
+                  "name": "Akoluta",
                   "text": "Loc cu o vedere frumoasă pe muntele Ida.",
                   "category": "natural",
                   "coords": [
@@ -1856,7 +1856,7 @@ imageHint: "Mount Helmos snow peaks observatory",
     id: "greece-mount-parnassus-nature-v2", "sights": {
       "de": [
             {
-                  "name": "Ασπρόχωμα-Ψιλό-Προντόλη-Κελάρι (Αράχωβας)",
+                  "name": "Asprokhoma-Psilo-Prontole-Kelari (Arakhobas)",
                   "text": "Ein Naturschutzgebiet am Berg Parnass, bekannt für seine alpine Flora.",
                   "category": "natural",
                   "coords": [
@@ -1867,7 +1867,7 @@ imageHint: "Mount Helmos snow peaks observatory",
       ],
       "hu": [
             {
-                  "name": "Ασπρόχωμα-Ψιλό-Προντόλη-Κελάρι (Αράχωβας)",
+                  "name": "Asprokhoma-Psilo-Prontole-Kelari (Arakhobas)",
                   "text": "Természetvédelmi terület a Parnasszosz-hegyen, alpesi flórájáról ismert.",
                   "category": "natural",
                   "coords": [
@@ -1878,7 +1878,7 @@ imageHint: "Mount Helmos snow peaks observatory",
       ],
       "ro": [
             {
-                  "name": "Ασπρόχωμα-Ψιλό-Προντόλη-Κελάρι (Αράχωβας)",
+                  "name": "Asprokhoma-Psilo-Prontole-Kelari (Arakhobas)",
                   "text": "O rezervație naturală pe Muntele Parnas, cunoscută pentru flora alpină.",
                   "category": "natural",
                   "coords": [
@@ -1947,7 +1947,7 @@ imageHint: "Mount Parnassus snow peaks",
     id: "greece-mount-taygetos-nature-v2", "sights": {
       "de": [
             {
-                  "name": "Προφήτης Ηλίας",
+                  "name": "Prophetes Elias",
                   "text": "Profitis Ilias ist mit 2.407 Metern der höchste Gipfel des Taygetos-Gebirges.",
                   "category": "landmark",
                   "coords": [
@@ -1956,7 +1956,7 @@ imageHint: "Mount Parnassus snow peaks",
                   ]
             },
             {
-                  "name": "Χαλασμένο",
+                  "name": "Khalasmeno",
                   "text": "Halasmeno ist ein schroffer Berggipfel im Taygetos-Gebirge.",
                   "category": "landmark",
                   "coords": [
@@ -1976,7 +1976,7 @@ imageHint: "Mount Parnassus snow peaks",
       ],
       "hu": [
             {
-                  "name": "Προφήτης Ηλίας",
+                  "name": "Prophetes Elias",
                   "text": "A Profitis Ilias a Tajgetosz-hegység legmagasabb csúcsa, 2407 méter magas.",
                   "category": "landmark",
                   "coords": [
@@ -1985,7 +1985,7 @@ imageHint: "Mount Parnassus snow peaks",
                   ]
             },
             {
-                  "name": "Χαλασμένο",
+                  "name": "Khalasmeno",
                   "text": "A Halasmeno a Tajgetosz-hegység egyik sziklás hegycsúcsa.",
                   "category": "landmark",
                   "coords": [
@@ -2005,7 +2005,7 @@ imageHint: "Mount Parnassus snow peaks",
       ],
       "ro": [
             {
-                  "name": "Προφήτης Ηλίας",
+                  "name": "Prophetes Elias",
                   "text": "Profitis Ilias este cel mai înalt vârf al Muntelui Taygetos, având 2.407 metri.",
                   "category": "landmark",
                   "coords": [
@@ -2014,7 +2014,7 @@ imageHint: "Mount Parnassus snow peaks",
                   ]
             },
             {
-                  "name": "Χαλασμένο",
+                  "name": "Khalasmeno",
                   "text": "Halasmeno este un vârf muntos accidentat din lanțul Taygetos.",
                   "category": "landmark",
                   "coords": [
@@ -2429,7 +2429,7 @@ imageHint: "Lake Trichonida panoramic landscape",
     id: "greece-mount-dirfi-nature-v2", "sights": {
       "de": [
             {
-                  "name": "Ενετικός Πύργος",
+                  "name": "Enetikos Purgos",
                   "text": "Ein historischer Wachturm aus der venezianischen Zeit am Fuße des Mount Dirfi.",
                   "category": "castle",
                   "coords": [
@@ -2440,7 +2440,7 @@ imageHint: "Lake Trichonida panoramic landscape",
       ],
       "hu": [
             {
-                  "name": "Ενετικός Πύργος",
+                  "name": "Enetikos Purgos",
                   "text": "Történelmi őrtorony a velencei korszakból a Dirfi-hegy lábánál.",
                   "category": "castle",
                   "coords": [
@@ -2451,7 +2451,7 @@ imageHint: "Lake Trichonida panoramic landscape",
       ],
       "ro": [
             {
-                  "name": "Ενετικός Πύργος",
+                  "name": "Enetikos Purgos",
                   "text": "Un turn istoric de pază din perioada venețiană, situat la poalele muntelui Dirfi.",
                   "category": "castle",
                   "coords": [
@@ -2520,7 +2520,7 @@ imageHint: "Mount Dirfi snow conical peak Evia",
     id: "greece-mount-aenos-nature-v2", "sights": {
       "de": [
             {
-                  "name": "Τραπεζάκι",
+                  "name": "Trapezaki",
                   "text": "Ein malerischer Strand am Fuße des Berges Aenos, bekannt für sein klares Wasser und die grüne Umgebung.",
                   "category": "recreational",
                   "coords": [
@@ -2529,7 +2529,7 @@ imageHint: "Mount Dirfi snow conical peak Evia",
                   ]
             },
             {
-                  "name": "Λουρδάτα",
+                  "name": "Lourdata",
                   "text": "Ein weitläufiger Sandstrand am Ionischen Meer, der Entspannung in herrlicher Natur bietet.",
                   "category": "recreational",
                   "coords": [
@@ -2538,7 +2538,7 @@ imageHint: "Mount Dirfi snow conical peak Evia",
                   ]
             },
             {
-                  "name": "Άγιος Θωμάς",
+                  "name": "Agios Thomas",
                   "text": "Ein ruhiger Küstenabschnitt mit klarem Wasser, ideal zum Schwimmen und Schnorcheln.",
                   "category": "recreational",
                   "coords": [
@@ -2574,7 +2574,7 @@ imageHint: "Mount Dirfi snow conical peak Evia",
                   ]
             },
             {
-                  "name": "Κανάλι",
+                  "name": "Kanali",
                   "text": "Ein naturbelassener und ruhiger Strandabschnitt für Besucher, die Abgeschiedenheit suchen.",
                   "category": "recreational",
                   "coords": [
@@ -2585,7 +2585,7 @@ imageHint: "Mount Dirfi snow conical peak Evia",
       ],
       "hu": [
             {
-                  "name": "Τραπεζάκι",
+                  "name": "Trapezaki",
                   "text": "Festői strand az Enosz-hegy lábánál, amely tiszta vizéről és zöld környezetéről ismert.",
                   "category": "recreational",
                   "coords": [
@@ -2594,7 +2594,7 @@ imageHint: "Mount Dirfi snow conical peak Evia",
                   ]
             },
             {
-                  "name": "Λουρδάτα",
+                  "name": "Lourdata",
                   "text": "Kiterjedt homokos strand a Jón-tengerparton, amely kikapcsolódást kínál a csodálatos természetben.",
                   "category": "recreational",
                   "coords": [
@@ -2603,7 +2603,7 @@ imageHint: "Mount Dirfi snow conical peak Evia",
                   ]
             },
             {
-                  "name": "Άγιος Θωμάς",
+                  "name": "Agios Thomas",
                   "text": "Nyugodt tengerparti szakasz tiszta vízzel, amely ideális úszáshoz és búvárkodáshoz.",
                   "category": "recreational",
                   "coords": [
@@ -2639,7 +2639,7 @@ imageHint: "Mount Dirfi snow conical peak Evia",
                   ]
             },
             {
-                  "name": "Κανάλι",
+                  "name": "Kanali",
                   "text": "Természetes és csendes strandrész a visszavonultságot kedvelő látogatók számára.",
                   "category": "recreational",
                   "coords": [
@@ -2650,7 +2650,7 @@ imageHint: "Mount Dirfi snow conical peak Evia",
       ],
       "ro": [
             {
-                  "name": "Τραπεζάκι",
+                  "name": "Trapezaki",
                   "text": "O plajă pitorească la poalele Muntelui Aenos, cunoscută pentru apa sa limpede și împrejurimile verzi.",
                   "category": "recreational",
                   "coords": [
@@ -2659,7 +2659,7 @@ imageHint: "Mount Dirfi snow conical peak Evia",
                   ]
             },
             {
-                  "name": "Λουρδάτα",
+                  "name": "Lourdata",
                   "text": "O plajă întinsă cu nisip la Marea Ionică, oferind relaxare într-un cadru natural superb.",
                   "category": "recreational",
                   "coords": [
@@ -2668,7 +2668,7 @@ imageHint: "Mount Dirfi snow conical peak Evia",
                   ]
             },
             {
-                  "name": "Άγιος Θωμάς",
+                  "name": "Agios Thomas",
                   "text": "O porțiune liniștită de coastă cu apă limpede, ideală pentru înot și snorkeling.",
                   "category": "recreational",
                   "coords": [
@@ -2704,7 +2704,7 @@ imageHint: "Mount Dirfi snow conical peak Evia",
                   ]
             },
             {
-                  "name": "Κανάλι",
+                  "name": "Kanali",
                   "text": "O secțiune de plajă naturală și liniștită pentru vizitatorii care caută izolare.",
                   "category": "recreational",
                   "coords": [
@@ -2873,7 +2873,7 @@ imageHint: "Mount Giona Pyramida peak cliff",
     id: "greece-enipeas-waterfall-nature-v2", "sights": {
       "de": [
             {
-                  "name": "Εθνικός Δρυμός Ολύμπου",
+                  "name": "Ethnikos Drumos Olumpou",
                   "text": "Ein Schutzgebiet rund um den Olymp, den höchsten Berg Griechenlands.",
                   "category": "natural",
                   "coords": [
@@ -2882,7 +2882,7 @@ imageHint: "Mount Giona Pyramida peak cliff",
                   ]
             },
             {
-                  "name": "Μύτικας",
+                  "name": "Mutikas",
                   "text": "Der höchste Gipfel des Olymp-Massivs und der höchste Punkt Griechenlands.",
                   "category": "landmark",
                   "coords": [
@@ -2891,7 +2891,7 @@ imageHint: "Mount Giona Pyramida peak cliff",
                   ]
             },
             {
-                  "name": "Καταρράκτες Ενιπέα",
+                  "name": "Katarraktes Enipea",
                   "text": "Ein Aussichtspunkt mit Blick auf die beeindruckenden Wasserfälle in der Enipeas-Schlucht.",
                   "category": "natural",
                   "coords": [
@@ -2911,7 +2911,7 @@ imageHint: "Mount Giona Pyramida peak cliff",
       ],
       "hu": [
             {
-                  "name": "Εθνικός Δρυμός Ολύμπου",
+                  "name": "Ethnikos Drumos Olumpou",
                   "text": "Védett terület az Olümposz, Görögország legmagasabb hegye körül.",
                   "category": "natural",
                   "coords": [
@@ -2920,7 +2920,7 @@ imageHint: "Mount Giona Pyramida peak cliff",
                   ]
             },
             {
-                  "name": "Μύτικας",
+                  "name": "Mutikas",
                   "text": "Az Olümposz-masszívum legmagasabb csúcsa és Görögország legmagasabb pontja.",
                   "category": "landmark",
                   "coords": [
@@ -2929,7 +2929,7 @@ imageHint: "Mount Giona Pyramida peak cliff",
                   ]
             },
             {
-                  "name": "Καταρράκτες Ενιπέα",
+                  "name": "Katarraktes Enipea",
                   "text": "Kilátópont az Enipeasz-szurdok lenyűgöző vízeséseire.",
                   "category": "natural",
                   "coords": [
@@ -2949,7 +2949,7 @@ imageHint: "Mount Giona Pyramida peak cliff",
       ],
       "ro": [
             {
-                  "name": "Εθνικός Δρυμός Ολύμπου",
+                  "name": "Ethnikos Drumos Olumpou",
                   "text": "O zonă protejată în jurul Olimpului, cel mai înalt munte din Grecia.",
                   "category": "natural",
                   "coords": [
@@ -2958,7 +2958,7 @@ imageHint: "Mount Giona Pyramida peak cliff",
                   ]
             },
             {
-                  "name": "Μύτικας",
+                  "name": "Mutikas",
                   "text": "Cel mai înalt vârf al masivului Olimp și cel mai înalt punct din Grecia.",
                   "category": "landmark",
                   "coords": [
@@ -2967,7 +2967,7 @@ imageHint: "Mount Giona Pyramida peak cliff",
                   ]
             },
             {
-                  "name": "Καταρράκτες Ενιπέα",
+                  "name": "Katarraktes Enipea",
                   "text": "Punct de observație asupra cascadelor impresionante din cheile Enipeas.",
                   "category": "natural",
                   "coords": [
@@ -3118,7 +3118,7 @@ imageHint: "Enipeas Waterfall Baths of Zeus Olympus",
     id: "greece-acheron-river-nature-v2", "sights": {
       "de": [
             {
-                  "name": "Νεκρομαντειο",
+                  "name": "Nekromanteio",
                   "text": "Eine antike griechische Tempelanlage am Acheron, die in der Mythologie als Orakel der Toten galt.",
                   "category": "historical",
                   "coords": [
@@ -3145,7 +3145,7 @@ imageHint: "Enipeas Waterfall Baths of Zeus Olympus",
                   ]
             },
             {
-                  "name": "Αρχαιολογικός χώρος Εφύρας - Νεκρομαντείου",
+                  "name": "Arkhaiologikos khoros Ephuras - Nekromanteiou",
                   "text": "Diese archäologische Stätte umfasst die Überreste der antiken Stadt Efyra und das Heiligtum des Nekromanteion.",
                   "category": "historical",
                   "coords": [
@@ -3165,7 +3165,7 @@ imageHint: "Enipeas Waterfall Baths of Zeus Olympus",
       ],
       "hu": [
             {
-                  "name": "Νεκρομαντειο",
+                  "name": "Nekromanteio",
                   "text": "Ókori görög templomegyüttes az Aheron-folyónál, amely a mitológiában a holtak jóslóhelye volt.",
                   "category": "historical",
                   "coords": [
@@ -3174,7 +3174,7 @@ imageHint: "Enipeas Waterfall Baths of Zeus Olympus",
                   ]
             },
             {
-                  "name": "Σκάλα",
+                  "name": "Skala",
                   "text": "Egy strand az Aheron-folyó közelében, amely természetes környezetben kínál kikapcsolódást.",
                   "category": "recreational",
                   "coords": [
@@ -3183,7 +3183,7 @@ imageHint: "Enipeas Waterfall Baths of Zeus Olympus",
                   ]
             },
             {
-                  "name": "Αλωνάκι",
+                  "name": "Alonaki",
                   "text": "Gleccseres vizű, festői strand, amely nem messze található az Aheron-folyó torkolatától.",
                   "category": "recreational",
                   "coords": [
@@ -3192,7 +3192,7 @@ imageHint: "Enipeas Waterfall Baths of Zeus Olympus",
                   ]
             },
             {
-                  "name": "Αρχαιολογικός χώρος Εφύρας - Νεκρομαντείου",
+                  "name": "Arkhaiologikos khoros Ephuras - Nekromanteiou",
                   "text": "Ez a régészeti lelőhely Efira ókori városának maradványait és a halotti jósda szentélyét foglalja magában.",
                   "category": "historical",
                   "coords": [
@@ -3212,7 +3212,7 @@ imageHint: "Enipeas Waterfall Baths of Zeus Olympus",
       ],
       "ro": [
             {
-                  "name": "Νεκρομαντειο",
+                  "name": "Nekromanteio",
                   "text": "Un sit arheologic antic grecesc pe râul Acheron, considerat în mitologie oracolul morților.",
                   "category": "historical",
                   "coords": [
@@ -3221,7 +3221,7 @@ imageHint: "Enipeas Waterfall Baths of Zeus Olympus",
                   ]
             },
             {
-                  "name": "Σκάλα",
+                  "name": "Skala",
                   "text": "O plajă în apropierea râului Acheron, care oferă vizitatorilor un loc de relaxare într-un cadru natural.",
                   "category": "recreational",
                   "coords": [
@@ -3230,7 +3230,7 @@ imageHint: "Enipeas Waterfall Baths of Zeus Olympus",
                   ]
             },
             {
-                  "name": "Αλωνάκι",
+                  "name": "Alonaki",
                   "text": "O plajă pitorească cu ape limpezi, situată nu departe de gura de vărsare a râului Acheron.",
                   "category": "recreational",
                   "coords": [
@@ -3239,7 +3239,7 @@ imageHint: "Enipeas Waterfall Baths of Zeus Olympus",
                   ]
             },
             {
-                  "name": "Αρχαιολογικός χώρος Εφύρας - Νεκρομαντείου",
+                  "name": "Arkhaiologikos khoros Ephuras - Nekromanteiou",
                   "text": "Acest sit arheologic cuprinde vestigiile orașului antic Efyra și sanctuarul Nekromanteion.",
                   "category": "historical",
                   "coords": [
@@ -3442,7 +3442,7 @@ imageHint: "Snowy peak of Mount Mainalo with fir forest",
     id: "greece-polylimnio-waterfalls-nature-v2", "sights": {
       "de": [
             {
-                  "name": "Κάστρο του Πέρα",
+                  "name": "Kastro tou Pera",
                   "text": "Die Ruinen einer historischen Festung in der Nähe der Polylimnio-Wasserfälle.",
                   "category": "castle",
                   "coords": [
@@ -3451,7 +3451,7 @@ imageHint: "Snowy peak of Mount Mainalo with fir forest",
                   ]
             },
             {
-                  "name": "Καραρράκτης",
+                  "name": "Kararraktes",
                   "text": "Ein Aussichtspunkt mit Blick auf eine der Kaskaden der Polylimnio-Wasserfälle.",
                   "category": "natural",
                   "coords": [
@@ -3460,7 +3460,7 @@ imageHint: "Snowy peak of Mount Mainalo with fir forest",
                   ]
             },
             {
-                  "name": "Μαυρολίμνα",
+                  "name": "Maurolimna",
                   "text": "Ein Aussichtspunkt am Mavrolimna-See im Polylimnio-Gebiet.",
                   "category": "natural",
                   "coords": [
@@ -3469,7 +3469,7 @@ imageHint: "Snowy peak of Mount Mainalo with fir forest",
                   ]
             },
             {
-                  "name": "Πολυλίμνιο",
+                  "name": "Polulimnio",
                   "text": "Ein Aussichtspunkt im Polylimnio-Schluchtgebiet, bekannt für seine Wasserfälle und Seen.",
                   "category": "natural",
                   "coords": [
@@ -3489,7 +3489,7 @@ imageHint: "Snowy peak of Mount Mainalo with fir forest",
       ],
       "hu": [
             {
-                  "name": "Κάστρο του Πέρα",
+                  "name": "Kastro tou Pera",
                   "text": "Történelmi várromok a Polylimnio-vízesések közelében.",
                   "category": "castle",
                   "coords": [
@@ -3498,7 +3498,7 @@ imageHint: "Snowy peak of Mount Mainalo with fir forest",
                   ]
             },
             {
-                  "name": "Καραρράκτης",
+                  "name": "Kararraktes",
                   "text": "Kilátópont, ahonnan rálátás nyílik a Polylimnio-vízesések egyikére.",
                   "category": "natural",
                   "coords": [
@@ -3507,7 +3507,7 @@ imageHint: "Snowy peak of Mount Mainalo with fir forest",
                   ]
             },
             {
-                  "name": "Μαυρολίμνα",
+                  "name": "Maurolimna",
                   "text": "Kilátópont a Polylimnio területén található Mavrolimna-tónál.",
                   "category": "natural",
                   "coords": [
@@ -3516,7 +3516,7 @@ imageHint: "Snowy peak of Mount Mainalo with fir forest",
                   ]
             },
             {
-                  "name": "Πολυλίμνιο",
+                  "name": "Polulimnio",
                   "text": "Kilátópont a vízeséseiről és tavairól nevezetes Polylimnio-szurdokban.",
                   "category": "natural",
                   "coords": [
@@ -3536,7 +3536,7 @@ imageHint: "Snowy peak of Mount Mainalo with fir forest",
       ],
       "ro": [
             {
-                  "name": "Κάστρο του Πέρα",
+                  "name": "Kastro tou Pera",
                   "text": "Ruinele unei fortărețe istorice situate în apropierea cascadelor Polylimnio.",
                   "category": "castle",
                   "coords": [
@@ -3545,7 +3545,7 @@ imageHint: "Snowy peak of Mount Mainalo with fir forest",
                   ]
             },
             {
-                  "name": "Καραρράκτης",
+                  "name": "Kararraktes",
                   "text": "Un punct de observație cu vedere la una dintre cascadele Polylimnio.",
                   "category": "natural",
                   "coords": [
@@ -3554,7 +3554,7 @@ imageHint: "Snowy peak of Mount Mainalo with fir forest",
                   ]
             },
             {
-                  "name": "Μαυρολίμνα",
+                  "name": "Maurolimna",
                   "text": "Un punct de observație la lacul Mavrolimna din zona Polylimnio.",
                   "category": "natural",
                   "coords": [
@@ -3563,7 +3563,7 @@ imageHint: "Snowy peak of Mount Mainalo with fir forest",
                   ]
             },
             {
-                  "name": "Πολυλίμνιο",
+                  "name": "Polulimnio",
                   "text": "Un punct de observație în zona cheilor Polylimnio, cunoscută pentru cascade și lacuri.",
                   "category": "natural",
                   "coords": [
@@ -3676,7 +3676,7 @@ imageHint: "Polylimnio turquoise lake and waterfall in forest",
     id: "greece-lake-stymphalia-nature-v2", "sights": {
       "de": [
             {
-                  "name": "Στύμφαλος",
+                  "name": "Stumphalos",
                   "text": "Die Überreste einer antiken Stadt am Ufer des Stymphalischen Sees.",
                   "category": "historical",
                   "coords": [
@@ -3685,7 +3685,7 @@ imageHint: "Polylimnio turquoise lake and waterfall in forest",
                   ]
             },
             {
-                  "name": "Μοναστήρι Ζάρακα",
+                  "name": "Monasteri Zaraka",
                   "text": "Die Ruinen eines Zisterzienserklosters aus dem 13. Jahrhundert am Stymphalischen See.",
                   "category": "historical",
                   "coords": [
@@ -3694,7 +3694,7 @@ imageHint: "Polylimnio turquoise lake and waterfall in forest",
                   ]
             },
             {
-                  "name": "Αρχαιολογικός χώρος Στυμφάλου",
+                  "name": "Arkhaiologikos khoros Stumphalou",
                   "text": "Eine weitläufige Ausgrabungsstätte mit Funden aus der klassischen und hellenistischen Zeit.",
                   "category": "historical",
                   "coords": [
@@ -3703,7 +3703,7 @@ imageHint: "Polylimnio turquoise lake and waterfall in forest",
                   ]
             },
             {
-                  "name": "Θέατρο Αρχαίας Στυμφάλου",
+                  "name": "Theatro Arkhaias Stumphalou",
                   "text": "Die Überreste eines antiken griechischen Theaters in der Nähe des Stymphalischen Sees.",
                   "category": "historical",
                   "coords": [
@@ -3714,7 +3714,7 @@ imageHint: "Polylimnio turquoise lake and waterfall in forest",
       ],
       "hu": [
             {
-                  "name": "Στύμφαλος",
+                  "name": "Stumphalos",
                   "text": "Egy ókori város maradványai a Sztümphaloszi-tó partján.",
                   "category": "historical",
                   "coords": [
@@ -3723,7 +3723,7 @@ imageHint: "Polylimnio turquoise lake and waterfall in forest",
                   ]
             },
             {
-                  "name": "Μοναστήρι Ζάρακα",
+                  "name": "Monasteri Zaraka",
                   "text": "Egy 13. századi ciszterci kolostor romjai a Sztümphaloszi-tó közelében.",
                   "category": "historical",
                   "coords": [
@@ -3732,7 +3732,7 @@ imageHint: "Polylimnio turquoise lake and waterfall in forest",
                   ]
             },
             {
-                  "name": "Αρχαιολογικός χώρος Στυμφάλου",
+                  "name": "Arkhaiologikos khoros Stumphalou",
                   "text": "Kiterjedt régészeti terület klasszikus és hellenisztikus kori leletekkel.",
                   "category": "historical",
                   "coords": [
@@ -3741,7 +3741,7 @@ imageHint: "Polylimnio turquoise lake and waterfall in forest",
                   ]
             },
             {
-                  "name": "Θέατρο Αρχαίας Στυμφάλου",
+                  "name": "Theatro Arkhaias Stumphalou",
                   "text": "Egy ókori görög színház maradványai a Sztümphaloszi-tó közelében.",
                   "category": "historical",
                   "coords": [
@@ -3752,7 +3752,7 @@ imageHint: "Polylimnio turquoise lake and waterfall in forest",
       ],
       "ro": [
             {
-                  "name": "Στύμφαλος",
+                  "name": "Stumphalos",
                   "text": "Vestigiile unui oraș antic situat pe malul lacului Stymphalia.",
                   "category": "historical",
                   "coords": [
@@ -3761,7 +3761,7 @@ imageHint: "Polylimnio turquoise lake and waterfall in forest",
                   ]
             },
             {
-                  "name": "Μοναστήρι Ζάρακα",
+                  "name": "Monasteri Zaraka",
                   "text": "Ruinele unei mănăstiri cisterciene din secolul al XIII-lea, lângă lacul Stymphalia.",
                   "category": "historical",
                   "coords": [
@@ -3770,7 +3770,7 @@ imageHint: "Polylimnio turquoise lake and waterfall in forest",
                   ]
             },
             {
-                  "name": "Αρχαιολογικός χώρος Στυμφάλου",
+                  "name": "Arkhaiologikos khoros Stumphalou",
                   "text": "Un sit arheologic extins cu descoperiri din perioadele clasică și elenistică.",
                   "category": "historical",
                   "coords": [
@@ -3779,7 +3779,7 @@ imageHint: "Polylimnio turquoise lake and waterfall in forest",
                   ]
             },
             {
-                  "name": "Θέατρο Αρχαίας Στυμφάλου",
+                  "name": "Theatro Arkhaias Stumphalou",
                   "text": "Resturile unui teatru grecesc antic situat în apropierea lacului Stymphalia.",
                   "category": "historical",
                   "coords": [
@@ -3875,7 +3875,7 @@ imageHint: "Polylimnio turquoise lake and waterfall in forest",
     id: "greece-melissani-cave-nature-v2", "sights": {
       "de": [
             {
-                  "name": "Ναυτικό Μουσείο Σάμης",
+                  "name": "Nautiko Mouseio Sames",
                   "text": "Ein Museum in der Nähe der Melissani-Höhle, das sich der maritimen Geschichte widmet.",
                   "category": "museum",
                   "coords": [
@@ -3893,7 +3893,7 @@ imageHint: "Polylimnio turquoise lake and waterfall in forest",
                   ]
             },
             {
-                  "name": "Καραβόμυλος",
+                  "name": "Karabomulos",
                   "text": "Ein Strand im Dorf Karavomilos, ganz in der Nähe der berühmten Melissani-Höhle.",
                   "category": "recreational",
                   "coords": [
@@ -3902,7 +3902,7 @@ imageHint: "Polylimnio turquoise lake and waterfall in forest",
                   ]
             },
             {
-                  "name": "Λιμνοσπήλαιο Μελισσάνης",
+                  "name": "Limnospelaio Melissanes",
                   "text": "Eine berühmte unterirdische Seehöhle auf Kefalonia, die für ihr leuchtend blaues Wasser bekannt ist.",
                   "category": "landmark",
                   "coords": [
@@ -3911,7 +3911,7 @@ imageHint: "Polylimnio turquoise lake and waterfall in forest",
                   ]
             },
             {
-                  "name": "Σπήλαιο Δρογκαράτη",
+                  "name": "Spelaio Drogkarate",
                   "text": "Eine beeindruckende Höhle mit spektakulären Stalaktiten und Stalagmiten auf Kefalonia.",
                   "category": "landmark",
                   "coords": [
@@ -3929,7 +3929,7 @@ imageHint: "Polylimnio turquoise lake and waterfall in forest",
                   ]
             },
             {
-                  "name": "Σπήλαιο Ζερβάτη",
+                  "name": "Spelaio Zerbate",
                   "text": "Eine weniger bekannte, wassergefüllte Höhle in der Region Melissani auf Kefalonia.",
                   "category": "landmark",
                   "coords": [
@@ -3949,7 +3949,7 @@ imageHint: "Polylimnio turquoise lake and waterfall in forest",
       ],
       "hu": [
             {
-                  "name": "Ναυτικό Μουσείο Σάμης",
+                  "name": "Nautiko Mouseio Sames",
                   "text": "A Melissani-barlang közelében található múzeum, amely a tengerészeti történelemnek szentelt.",
                   "category": "museum",
                   "coords": [
@@ -3967,7 +3967,7 @@ imageHint: "Polylimnio turquoise lake and waterfall in forest",
                   ]
             },
             {
-                  "name": "Καραβόμυλος",
+                  "name": "Karabomulos",
                   "text": "Tengerpart Karavomilos faluban, a híres Melissani-barlang közvetlen közelében.",
                   "category": "recreational",
                   "coords": [
@@ -3976,7 +3976,7 @@ imageHint: "Polylimnio turquoise lake and waterfall in forest",
                   ]
             },
             {
-                  "name": "Λιμνοσπήλαιο Μελισσάνης",
+                  "name": "Limnospelaio Melissanes",
                   "text": "Híres föld alatti tavas barlang Kefalónián, amely ragyogó kék vizéről ismert.",
                   "category": "landmark",
                   "coords": [
@@ -3985,7 +3985,7 @@ imageHint: "Polylimnio turquoise lake and waterfall in forest",
                   ]
             },
             {
-                  "name": "Σπήλαιο Δρογκαράτη",
+                  "name": "Spelaio Drogkarate",
                   "text": "Lenyűgöző barlang látványos sztalaktitokkal és sztalagmitokkal Kefalónián.",
                   "category": "landmark",
                   "coords": [
@@ -4003,7 +4003,7 @@ imageHint: "Polylimnio turquoise lake and waterfall in forest",
                   ]
             },
             {
-                  "name": "Σπήλαιο Ζερβάτη",
+                  "name": "Spelaio Zerbate",
                   "text": "Egy kevésbé ismert, vízzel teli barlang a kefalóniai Melissani régióban.",
                   "category": "landmark",
                   "coords": [
@@ -4023,7 +4023,7 @@ imageHint: "Polylimnio turquoise lake and waterfall in forest",
       ],
       "ro": [
             {
-                  "name": "Ναυτικό Μουσείο Σάμης",
+                  "name": "Nautiko Mouseio Sames",
                   "text": "Un muzeu situat lângă peștera Melissani, dedicat istoriei maritime.",
                   "category": "museum",
                   "coords": [
@@ -4041,7 +4041,7 @@ imageHint: "Polylimnio turquoise lake and waterfall in forest",
                   ]
             },
             {
-                  "name": "Καραβόμυλος",
+                  "name": "Karabomulos",
                   "text": "O plajă în satul Karavomilos, aflată foarte aproape de celebra peșteră Melissani.",
                   "category": "recreational",
                   "coords": [
@@ -4050,7 +4050,7 @@ imageHint: "Polylimnio turquoise lake and waterfall in forest",
                   ]
             },
             {
-                  "name": "Λιμνοσπήλαιο Μελισσάνης",
+                  "name": "Limnospelaio Melissanes",
                   "text": "O celebră peșteră cu lac subteran din Kefalonia, cunoscută pentru apele sale albastre strălucitoare.",
                   "category": "landmark",
                   "coords": [
@@ -4059,7 +4059,7 @@ imageHint: "Polylimnio turquoise lake and waterfall in forest",
                   ]
             },
             {
-                  "name": "Σπήλαιο Δρογκαράτη",
+                  "name": "Spelaio Drogkarate",
                   "text": "O peșteră impresionantă cu stalactite și stalagmite spectaculoase în Kefalonia.",
                   "category": "landmark",
                   "coords": [
@@ -4077,7 +4077,7 @@ imageHint: "Polylimnio turquoise lake and waterfall in forest",
                   ]
             },
             {
-                  "name": "Σπήλαιο Ζερβάτη",
+                  "name": "Spelaio Zerbate",
                   "text": "O peșteră plină cu apă, mai puțin cunoscută, din regiunea Melissani din Kefalonia.",
                   "category": "landmark",
                   "coords": [
@@ -4226,7 +4226,7 @@ imageHint: "Polylimnio turquoise lake and waterfall in forest",
                   ]
             },
             {
-                  "name": "Υπαίθριο Μουσείο Υδροκίνησης",
+                  "name": "Upaithrio Mouseio Udrokineses",
                   "text": "Ein einzigartiges Museum in Dimitsana, das die traditionelle Nutzung von Wasserkraft in der lokalen Industrie demonstriert.",
                   "category": "museum",
                   "coords": [
@@ -4235,7 +4235,7 @@ imageHint: "Polylimnio turquoise lake and waterfall in forest",
                   ]
             },
             {
-                  "name": "Γεφύρι Μονόπορης",
+                  "name": "Gephuri Monopores",
                   "text": "Eine historische Steinbrücke über den Fluss Lousios, die für ihre traditionelle Architektur bekannt ist.",
                   "category": "landmark",
                   "coords": [
@@ -4246,7 +4246,7 @@ imageHint: "Polylimnio turquoise lake and waterfall in forest",
       ],
       "hu": [
             {
-                  "name": "Γόρτυνα – Ασκληπιείο",
+                  "name": "Gortuna - Asklepieio",
                   "text": "Ókori régészeti lelőhely Árkádiában, ahol az Aszklépiosznak szentelt szentély maradványai találhatók.",
                   "category": "historical",
                   "coords": [
@@ -4255,7 +4255,7 @@ imageHint: "Polylimnio turquoise lake and waterfall in forest",
                   ]
             },
             {
-                  "name": "Υπαίθριο Μουσείο Υδροκίνησης",
+                  "name": "Upaithrio Mouseio Udrokineses",
                   "text": "Egyedülálló múzeum Dimitsanában, amely a vízi energia hagyományos felhasználását mutatja be a helyi iparban.",
                   "category": "museum",
                   "coords": [
@@ -4264,7 +4264,7 @@ imageHint: "Polylimnio turquoise lake and waterfall in forest",
                   ]
             },
             {
-                  "name": "Γεφύρι Μονόπορης",
+                  "name": "Gephuri Monopores",
                   "text": "Történelmi kőhíd a Lousios-folyón, amely hagyományos építészetéről ismert.",
                   "category": "landmark",
                   "coords": [
@@ -4275,7 +4275,7 @@ imageHint: "Polylimnio turquoise lake and waterfall in forest",
       ],
       "ro": [
             {
-                  "name": "Γόρτυνα – Ασκληπιείο",
+                  "name": "Gortuna - Asklepieio",
                   "text": "Un sit arheologic antic din Arcadia care prezintă rămășițele unui sanctuar dedicat lui Asclepios.",
                   "category": "historical",
                   "coords": [
@@ -4284,7 +4284,7 @@ imageHint: "Polylimnio turquoise lake and waterfall in forest",
                   ]
             },
             {
-                  "name": "Υπαίθριο Μουσείο Υδροκίνησης",
+                  "name": "Upaithrio Mouseio Udrokineses",
                   "text": "Un muzeu unic în Dimitsana care demonstrează utilizarea tradițională a energiei apei în industriile locale.",
                   "category": "museum",
                   "coords": [
@@ -4293,7 +4293,7 @@ imageHint: "Polylimnio turquoise lake and waterfall in forest",
                   ]
             },
             {
-                  "name": "Γεφύρι Μονόπορης",
+                  "name": "Gephuri Monopores",
                   "text": "Un pod istoric din piatră care traversează râul Lousios, cunoscut pentru arhitectura sa tradițională.",
                   "category": "landmark",
                   "coords": [
@@ -4463,7 +4463,7 @@ imageHint: "Polylimnio turquoise lake and waterfall in forest",
     id: "greece-ha-gorge-nature-v2", "sights": {
       "de": [
             {
-                  "name": "Χαλασμένος",
+                  "name": "Khalasmenos",
                   "text": "Eine spätminoische Siedlung auf Kreta in der Nähe der Ha-Schlucht.",
                   "category": "historical",
                   "coords": [
@@ -4481,7 +4481,7 @@ imageHint: "Polylimnio turquoise lake and waterfall in forest",
                   ]
             },
             {
-                  "name": "Κουλές Επισκοπής",
+                  "name": "Koules Episkopes",
                   "text": "Die Ruinen einer osmanischen Festung mit Blick auf die Region der Ha-Schlucht.",
                   "category": "castle",
                   "coords": [
@@ -4490,7 +4490,7 @@ imageHint: "Polylimnio turquoise lake and waterfall in forest",
                   ]
             },
             {
-                  "name": "Κουλές Βασιλικής",
+                  "name": "Koules Basilikes",
                   "text": "Eine historische Befestigungsanlage aus der osmanischen Zeit in der Nähe von Vasiliki.",
                   "category": "castle",
                   "coords": [
@@ -4508,7 +4508,7 @@ imageHint: "Polylimnio turquoise lake and waterfall in forest",
                   ]
             },
             {
-                  "name": "Θρυπτή Δήμου Ιεράπετρας",
+                  "name": "Thrupte Demou Ierapetras",
                   "text": "Ein Gebirgszug und Naturschutzgebiet auf Kreta, das für seine wilde Schönheit bekannt ist.",
                   "category": "natural",
                   "coords": [
@@ -4526,7 +4526,7 @@ imageHint: "Polylimnio turquoise lake and waterfall in forest",
                   ]
             },
             {
-                  "name": "Καταρράκτης Μάστωρα",
+                  "name": "Katarraktes Mastora",
                   "text": "Ein Wasserfall innerhalb der Ha-Schlucht, der nach Regenfällen besonders beeindruckend ist.",
                   "category": "natural",
                   "coords": [
@@ -4537,7 +4537,7 @@ imageHint: "Polylimnio turquoise lake and waterfall in forest",
       ],
       "hu": [
             {
-                  "name": "Χαλασμένος",
+                  "name": "Khalasmenos",
                   "text": "Egy késő minószi település Krétán, a Ha-szurdok közelében.",
                   "category": "historical",
                   "coords": [
@@ -4555,7 +4555,7 @@ imageHint: "Polylimnio turquoise lake and waterfall in forest",
                   ]
             },
             {
-                  "name": "Κουλές Επισκοπής",
+                  "name": "Koules Episkopes",
                   "text": "Egy oszmán erőd romjai, amelyek a Ha-szurdok régiójára néznek.",
                   "category": "castle",
                   "coords": [
@@ -4564,7 +4564,7 @@ imageHint: "Polylimnio turquoise lake and waterfall in forest",
                   ]
             },
             {
-                  "name": "Κουλές Βασιλικής",
+                  "name": "Koules Basilikes",
                   "text": "Egy oszmán kori történelmi erődítmény Vasiliki közelében.",
                   "category": "castle",
                   "coords": [
@@ -4582,7 +4582,7 @@ imageHint: "Polylimnio turquoise lake and waterfall in forest",
                   ]
             },
             {
-                  "name": "Θρυπτή Δήμου Ιεράπετρας",
+                  "name": "Thrupte Demou Ierapetras",
                   "text": "Egy hegyvonulat és természetvédelmi terület Krétán, amely vad szépségéről ismert.",
                   "category": "natural",
                   "coords": [
@@ -4591,7 +4591,7 @@ imageHint: "Polylimnio turquoise lake and waterfall in forest",
                   ]
             },
             {
-                  "name": "Φαράγγι Χά",
+                  "name": "Pharaggi Kha",
                   "text": "Egy rendkívül keskeny és látványos szurdok Kréta szigetének keleti oldalán.",
                   "category": "landmark",
                   "coords": [
@@ -4600,7 +4600,7 @@ imageHint: "Polylimnio turquoise lake and waterfall in forest",
                   ]
             },
             {
-                  "name": "Καταρράκτης Μάστωρα",
+                  "name": "Katarraktes Mastora",
                   "text": "A Ha-szurdok belsejében található vízesés, amely esőzések után különösen látványos.",
                   "category": "natural",
                   "coords": [
@@ -4611,7 +4611,7 @@ imageHint: "Polylimnio turquoise lake and waterfall in forest",
       ],
       "ro": [
             {
-                  "name": "Χαλασμένος",
+                  "name": "Khalasmenos",
                   "text": "O așezare minoică târzie din Creta, situată în apropierea Cheilor Ha.",
                   "category": "historical",
                   "coords": [
@@ -4629,7 +4629,7 @@ imageHint: "Polylimnio turquoise lake and waterfall in forest",
                   ]
             },
             {
-                  "name": "Κουλές Επισκοπής",
+                  "name": "Koules Episkopes",
                   "text": "Ruinele unei fortărețe otomane ce domină regiunea Cheilor Ha.",
                   "category": "castle",
                   "coords": [
@@ -4638,7 +4638,7 @@ imageHint: "Polylimnio turquoise lake and waterfall in forest",
                   ]
             },
             {
-                  "name": "Κουλές Βασιλικής",
+                  "name": "Koules Basilikes",
                   "text": "O fortificație istorică din perioada otomană situată în apropiere de Vasiliki.",
                   "category": "castle",
                   "coords": [
@@ -4656,7 +4656,7 @@ imageHint: "Polylimnio turquoise lake and waterfall in forest",
                   ]
             },
             {
-                  "name": "Θρυπτή Δήμου Ιεράπετρας",
+                  "name": "Thrupte Demou Ierapetras",
                   "text": "Un lanț muntos și rezervație naturală din Creta, cunoscută pentru frumusețea sa sălbatică.",
                   "category": "natural",
                   "coords": [
@@ -4665,7 +4665,7 @@ imageHint: "Polylimnio turquoise lake and waterfall in forest",
                   ]
             },
             {
-                  "name": "Φαράγγι Χά",
+                  "name": "Pharaggi Kha",
                   "text": "O strâmtoare extrem de îngustă și spectaculoasă situată în partea de est a insulei Creta.",
                   "category": "landmark",
                   "coords": [
@@ -4674,7 +4674,7 @@ imageHint: "Polylimnio turquoise lake and waterfall in forest",
                   ]
             },
             {
-                  "name": "Καταρράκτης Μάστωρα",
+                  "name": "Katarraktes Mastora",
                   "text": "O cascadă situată în interiorul Cheilor Ha, spectaculoasă mai ales după perioadele ploioase.",
                   "category": "natural",
                   "coords": [
@@ -4814,7 +4814,7 @@ imageHint: "Polylimnio turquoise lake and waterfall in forest",
       ],
       "hu": [
             {
-                  "name": "Ναός της Αθήνας",
+                  "name": "Naos tes Athenas",
                   "text": "Athéné istennőnek szentelt ókori görög templom maradványai.",
                   "category": "historical",
                   "coords": [
@@ -4825,7 +4825,7 @@ imageHint: "Polylimnio turquoise lake and waterfall in forest",
       ],
       "ro": [
             {
-                  "name": "Ναός της Αθήνας",
+                  "name": "Naos tes Athenas",
                   "text": "Vestigiile unui templu antic grec dedicat zeiței Atena.",
                   "category": "historical",
                   "coords": [

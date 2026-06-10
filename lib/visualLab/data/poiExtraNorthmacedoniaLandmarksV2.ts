@@ -6,7 +6,7 @@ export const northmacedoniaLandmarksV2: POI[] = [
     id: "northmacedonia-sultan-murat-mosque-landmarks-v2", "sights": {
       "de": [
             {
-                  "name": "Природонаучен Музеј",
+                  "name": "Prirodonauchen Muzej",
                   "text": "Ein Museum in Skopje, das der Flora, Fauna und Geologie Nordmazedoniens gewidmet ist.",
                   "category": "museum",
                   "coords": [
@@ -15,7 +15,7 @@ export const northmacedoniaLandmarksV2: POI[] = [
                   ]
             },
             {
-                  "name": "Скопско кале",
+                  "name": "Skopsko kale",
                   "text": "Eine historische Festung auf dem höchsten Punkt der Stadt Skopje.",
                   "category": "castle",
                   "coords": [
@@ -24,7 +24,7 @@ export const northmacedoniaLandmarksV2: POI[] = [
                   ]
             },
             {
-                  "name": "Зоолошка градина Скопје",
+                  "name": "Zooloshka gradina Skopje",
                   "text": "Der 1926 gegründete zoologische Garten der nordmazedonischen Hauptstadt.",
                   "category": "recreational",
                   "coords": [
@@ -33,7 +33,7 @@ export const northmacedoniaLandmarksV2: POI[] = [
                   ]
             },
             {
-                  "name": "Скупи",
+                  "name": "Skupi",
                   "text": "Die Überreste einer antiken römischen Stadt in der Nähe von Skopje.",
                   "category": "historical",
                   "coords": [
@@ -42,7 +42,7 @@ export const northmacedoniaLandmarksV2: POI[] = [
                   ]
             },
             {
-                  "name": "Музеј на Македонија",
+                  "name": "Muzej na Makedonija",
                   "text": "Nationalmuseum in Skopje, das Archäologie, Ethnologie und Geschichte vereint.",
                   "category": "museum",
                   "coords": [
@@ -51,7 +51,7 @@ export const northmacedoniaLandmarksV2: POI[] = [
                   ]
             },
             {
-                  "name": "Македонска Национална опера и балет",
+                  "name": "Makedonska Natsionalna opera i balet",
                   "text": "Die führende Institution für Opern- und Ballettaufführungen in Nordmazedonien.",
                   "category": "cultural",
                   "coords": [
@@ -60,7 +60,7 @@ export const northmacedoniaLandmarksV2: POI[] = [
                   ]
             },
             {
-                  "name": "Музеј на современата уметност",
+                  "name": "Muzej na sovremenata umetnost",
                   "text": "Ein Museum für moderne Kunst in Skopje mit einer internationalen Sammlung.",
                   "category": "museum",
                   "coords": [
@@ -69,7 +69,7 @@ export const northmacedoniaLandmarksV2: POI[] = [
                   ]
             },
             {
-                  "name": "Национална галерија „Даут-пашин амам“",
+                  "name": "Natsionalna galerija ,,Daut-pashin amam\"",
                   "text": "Eine Kunstgalerie in einem ehemaligen osmanischen Bad aus dem 15. Jahrhundert.",
                   "category": "museum",
                   "coords": [
@@ -80,7 +80,7 @@ export const northmacedoniaLandmarksV2: POI[] = [
       ],
       "hu": [
             {
-                  "name": "Природонаучен Музеј",
+                  "name": "Prirodonauchen Muzej",
                   "text": "Skopjei múzeum, amely Észak-Macedónia állat- és növényvilágát, valamint geológiáját mutatja be.",
                   "category": "museum",
                   "coords": [
@@ -89,7 +89,7 @@ export const northmacedoniaLandmarksV2: POI[] = [
                   ]
             },
             {
-                  "name": "Скопско кале",
+                  "name": "Skopsko kale",
                   "text": "Történelmi erődítmény Skopje legmagasabb pontján, a Vardar folyó mellett.",
                   "category": "castle",
                   "coords": [
@@ -98,7 +98,7 @@ export const northmacedoniaLandmarksV2: POI[] = [
                   ]
             },
             {
-                  "name": "Зоолошка градина Скопје",
+                  "name": "Zooloshka gradina Skopje",
                   "text": "Észak-Macedónia fővárosának állatkertje, amelyet 1926-ban alapítottak.",
                   "category": "recreational",
                   "coords": [
@@ -107,7 +107,7 @@ export const northmacedoniaLandmarksV2: POI[] = [
                   ]
             },
             {
-                  "name": "Скупи",
+                  "name": "Skupi",
                   "text": "Egy ókori római város maradványai Skopje közelében.",
                   "category": "historical",
                   "coords": [
@@ -116,7 +116,7 @@ export const northmacedoniaLandmarksV2: POI[] = [
                   ]
             },
             {
-                  "name": "Музеј на Македонија",
+                  "name": "Muzej na Makedonija",
                   "text": "Nemzeti múzeum Skopjéban, amely régészeti, néprajzi és történelmi gyűjteményeket mutat be.",
                   "category": "museum",
                   "coords": [
@@ -125,7 +125,7 @@ export const northmacedoniaLandmarksV2: POI[] = [
                   ]
             },
             {
-                  "name": "Македонска Национална опера и балет",
+                  "name": "Makedonska Natsionalna opera i balet",
                   "text": "Észak-Macedónia vezető opera- és balettintézménye Skopjéban.",
                   "category": "cultural",
                   "coords": [
@@ -134,7 +134,7 @@ export const northmacedoniaLandmarksV2: POI[] = [
                   ]
             },
             {
-                  "name": "Музеј на современата уметност",
+                  "name": "Muzej na sovremenata umetnost",
                   "text": "Modern művészeti múzeum Skopjéban, amely nemzetközi gyűjteménnyel rendelkezik.",
                   "category": "museum",
                   "coords": [
@@ -143,7 +143,7 @@ export const northmacedoniaLandmarksV2: POI[] = [
                   ]
             },
             {
-                  "name": "Национална галерија „Даут-пашин амам“",
+                  "name": "Natsionalna galerija ,,Daut-pashin amam\"",
                   "text": "Művészeti galéria egy egykori 15. századi oszmán fürdő épületében.",
                   "category": "museum",
                   "coords": [
@@ -154,7 +154,7 @@ export const northmacedoniaLandmarksV2: POI[] = [
       ],
       "ro": [
             {
-                  "name": "Природонаучен Музеј",
+                  "name": "Prirodonauchen Muzej",
                   "text": "Un muzeu din Skopje dedicat florei, faunei și geologiei Macedoniei de Nord.",
                   "category": "museum",
                   "coords": [
@@ -163,7 +163,7 @@ export const northmacedoniaLandmarksV2: POI[] = [
                   ]
             },
             {
-                  "name": "Скопско кале",
+                  "name": "Skopsko kale",
                   "text": "O cetate istorică situată pe cel mai înalt punct al orașului Skopje.",
                   "category": "castle",
                   "coords": [
@@ -172,7 +172,7 @@ export const northmacedoniaLandmarksV2: POI[] = [
                   ]
             },
             {
-                  "name": "Зоолошка градина Скопје",
+                  "name": "Zooloshka gradina Skopje",
                   "text": "Grădina zoologică a capitalei Macedoniei de Nord, fondată în 1926.",
                   "category": "recreational",
                   "coords": [
@@ -181,7 +181,7 @@ export const northmacedoniaLandmarksV2: POI[] = [
                   ]
             },
             {
-                  "name": "Скупи",
+                  "name": "Skupi",
                   "text": "Vestigiile unui vechi oraș roman situat în apropiere de Skopje.",
                   "category": "historical",
                   "coords": [
@@ -190,7 +190,7 @@ export const northmacedoniaLandmarksV2: POI[] = [
                   ]
             },
             {
-                  "name": "Музеј на Македонија",
+                  "name": "Muzej na Makedonija",
                   "text": "Muzeu național din Skopje ce reunește colecții de arheologie, etnologie și istorie.",
                   "category": "museum",
                   "coords": [
@@ -199,7 +199,7 @@ export const northmacedoniaLandmarksV2: POI[] = [
                   ]
             },
             {
-                  "name": "Македонска Национална опера и балет",
+                  "name": "Makedonska Natsionalna opera i balet",
                   "text": "Principala instituție pentru spectacole de operă și balet din Macedonia de Nord.",
                   "category": "cultural",
                   "coords": [
@@ -208,7 +208,7 @@ export const northmacedoniaLandmarksV2: POI[] = [
                   ]
             },
             {
-                  "name": "Музеј на современата уметност",
+                  "name": "Muzej na sovremenata umetnost",
                   "text": "Un muzeu de artă modernă din Skopje care găzduiește o colecție internațională.",
                   "category": "museum",
                   "coords": [
@@ -217,7 +217,7 @@ export const northmacedoniaLandmarksV2: POI[] = [
                   ]
             },
             {
-                  "name": "Национална галерија „Даут-пашин амам“",
+                  "name": "Natsionalna galerija ,,Daut-pashin amam\"",
                   "text": "O galerie de artă situată într-o fostă baie otomană din secolul al XV-lea.",
                   "category": "museum",
                   "coords": [
@@ -348,7 +348,7 @@ export const northmacedoniaLandmarksV2: POI[] = [
     id: "northmacedonia-monastery-matka-landmarks-v2", "sights": {
       "de": [
             {
-                  "name": "Пештера Врело",
+                  "name": "Peshtera Vrelo",
                   "text": "Beeindruckendes Höhlensystem im Matka-Canyon.",
                   "category": "landmark",
                   "coords": [
@@ -357,7 +357,7 @@ export const northmacedoniaLandmarksV2: POI[] = [
                   ]
             },
             {
-                  "name": "Изложбен центар Матка",
+                  "name": "Izlozhben tsentar Matka",
                   "text": "Informations- und Ausstellungszentrum im Matka-Canyon-Komplex.",
                   "category": "landmark",
                   "coords": [
@@ -366,7 +366,7 @@ export const northmacedoniaLandmarksV2: POI[] = [
                   ]
             },
             {
-                  "name": "Кањон Матка",
+                  "name": "Kanjon Matka",
                   "text": "Wunderschöner Canyon mit einem See, Höhlen und mittelalterlichen Klöstern.",
                   "category": "landmark",
                   "coords": [
@@ -375,7 +375,7 @@ export const northmacedoniaLandmarksV2: POI[] = [
                   ]
             },
             {
-                  "name": "Манастир Успение на Пресвета Богородица",
+                  "name": "Манастир Uspenie na Presveta Bogoroditsa",
                   "text": "Historisches orthodoxes Kloster in der malerischen Schlucht.",
                   "category": "landmark",
                   "coords": [
@@ -384,7 +384,7 @@ export const northmacedoniaLandmarksV2: POI[] = [
                   ]
             },
             {
-                  "name": "Шишевски Манастир",
+                  "name": "Shishevski Manastir",
                   "text": "Abgelegene religiöse Stätte mit Blick auf den Fluss Matka.",
                   "category": "landmark",
                   "coords": [
@@ -402,7 +402,7 @@ export const northmacedoniaLandmarksV2: POI[] = [
                   ]
             },
             {
-                  "name": "Св. Недела",
+                  "name": "Sv. Nedela",
                   "text": "Kleine orthodoxe Kirche und religiöse Stätte in der Matka-Region.",
                   "category": "religious",
                   "coords": [
@@ -413,7 +413,7 @@ export const northmacedoniaLandmarksV2: POI[] = [
       ],
       "hu": [
             {
-                  "name": "Пештера Врело",
+                  "name": "Peshtera Vrelo",
                   "text": "Lenyűgöző barlangrendszer a Matka-kanyonban.",
                   "category": "landmark",
                   "coords": [
@@ -422,7 +422,7 @@ export const northmacedoniaLandmarksV2: POI[] = [
                   ]
             },
             {
-                  "name": "Изложбен центар Матка",
+                  "name": "Izlozhben tsentar Matka",
                   "text": "Információs és kiállítási központ a Matka-kanyon területén.",
                   "category": "landmark",
                   "coords": [
@@ -431,7 +431,7 @@ export const northmacedoniaLandmarksV2: POI[] = [
                   ]
             },
             {
-                  "name": "Кањон Матка",
+                  "name": "Kanjon Matka",
                   "text": "Gyönyörű természeti kanyon tóval, barlangokkal és kolostorokkal.",
                   "category": "landmark",
                   "coords": [
@@ -440,7 +440,7 @@ export const northmacedoniaLandmarksV2: POI[] = [
                   ]
             },
             {
-                  "name": "Манастир Успение на Пресвета Богородица",
+                  "name": "Манастир Uspenie na Presveta Bogoroditsa",
                   "text": "Történelmi ortodox kolostor a festői kanyonban.",
                   "category": "landmark",
                   "coords": [
@@ -449,7 +449,7 @@ export const northmacedoniaLandmarksV2: POI[] = [
                   ]
             },
             {
-                  "name": "Шишевски Манастир",
+                  "name": "Shishevski Manastir",
                   "text": "Elszigetelt vallási helyszín kilátással a Matka-folyóra.",
                   "category": "landmark",
                   "coords": [
@@ -467,7 +467,7 @@ export const northmacedoniaLandmarksV2: POI[] = [
                   ]
             },
             {
-                  "name": "Св. Недела",
+                  "name": "Sv. Nedela",
                   "text": "Kis ortodox templom és vallási helyszín a Matka-vidéken.",
                   "category": "religious",
                   "coords": [
@@ -478,7 +478,7 @@ export const northmacedoniaLandmarksV2: POI[] = [
       ],
       "ro": [
             {
-                  "name": "Пештера Врело",
+                  "name": "Peshtera Vrelo",
                   "text": "Sistem impresionant de peșteri în canionul Matka.",
                   "category": "landmark",
                   "coords": [
@@ -487,7 +487,7 @@ export const northmacedoniaLandmarksV2: POI[] = [
                   ]
             },
             {
-                  "name": "Изложбен центар Матка",
+                  "name": "Izlozhben tsentar Matka",
                   "text": "Centru de informare și expoziții situat în complexul canionului Matka.",
                   "category": "landmark",
                   "coords": [
@@ -496,7 +496,7 @@ export const northmacedoniaLandmarksV2: POI[] = [
                   ]
             },
             {
-                  "name": "Кањон Матка",
+                  "name": "Kanjon Matka",
                   "text": "Canion natural superb cu un lac, peșteri și mănăstiri medievale.",
                   "category": "landmark",
                   "coords": [
@@ -505,7 +505,7 @@ export const northmacedoniaLandmarksV2: POI[] = [
                   ]
             },
             {
-                  "name": "Манастир Успение на Пресвета Богородица",
+                  "name": "Манастир Uspenie na Presveta Bogoroditsa",
                   "text": "Mănăstire ortodoxă istorică situată în canionul pitoresc.",
                   "category": "landmark",
                   "coords": [
@@ -514,7 +514,7 @@ export const northmacedoniaLandmarksV2: POI[] = [
                   ]
             },
             {
-                  "name": "Шишевски Манастир",
+                  "name": "Shishevski Manastir",
                   "text": "Sit religios retras ce oferă vederi asupra râului Matka.",
                   "category": "landmark",
                   "coords": [
@@ -532,7 +532,7 @@ export const northmacedoniaLandmarksV2: POI[] = [
                   ]
             },
             {
-                  "name": "Св. Недела",
+                  "name": "Sv. Nedela",
                   "text": "Mică biserică ortodoxă și sit religios în regiunea Matka.",
                   "category": "religious",
                   "coords": [
@@ -663,7 +663,7 @@ export const northmacedoniaLandmarksV2: POI[] = [
                   ]
             },
             {
-                  "name": "Татар Синан Бег џамија",
+                  "name": "Tatar Sinan Beg dzhamija",
                   "text": "Eine historische Moschee in Kumanovo aus dem 16. Jahrhundert.",
                   "category": "religious",
                   "coords": [
@@ -683,7 +683,7 @@ export const northmacedoniaLandmarksV2: POI[] = [
                   ]
             },
             {
-                  "name": "Татар Синан Бег џамија",
+                  "name": "Tatar Sinan Beg dzhamija",
                   "text": "Kumanovói történelmi mecset a 16. századból.",
                   "category": "religious",
                   "coords": [
@@ -703,7 +703,7 @@ export const northmacedoniaLandmarksV2: POI[] = [
                   ]
             },
             {
-                  "name": "Татар Синан Бег џамија",
+                  "name": "Tatar Sinan Beg dzhamija",
                   "text": "O moschee istorică din Kumanovo datând din secolul al XVI-lea.",
                   "category": "religious",
                   "coords": [
@@ -780,7 +780,7 @@ export const northmacedoniaLandmarksV2: POI[] = [
     id: "northmacedonia-church-st-dimitrius-bitola-landmarks-v2", "sights": {
       "de": [
             {
-                  "name": "Зоолошка градина",
+                  "name": "Zooloshka gradina",
                   "text": "Städtischer Zoo in Bitola mit einer Vielzahl regionaler und exotischer Tiere.",
                   "category": "recreational",
                   "coords": [
@@ -789,7 +789,7 @@ export const northmacedoniaLandmarksV2: POI[] = [
                   ]
             },
             {
-                  "name": "Битолска Тврдина",
+                  "name": "Bitolska Tvrdina",
                   "text": "Ruinen einer historischen Festung mit Blick auf die Stadt Bitola.",
                   "category": "castle",
                   "coords": [
@@ -807,7 +807,7 @@ export const northmacedoniaLandmarksV2: POI[] = [
                   ]
             },
             {
-                  "name": "Музеј на Битола",
+                  "name": "Muzej na Bitola",
                   "text": "Nationalmuseum mit archäologischen und historischen Funden aus der Region.",
                   "category": "museum",
                   "coords": [
@@ -816,7 +816,7 @@ export const northmacedoniaLandmarksV2: POI[] = [
                   ]
             },
             {
-                  "name": "Хераклеа Линкестис",
+                  "name": "Kheraklea Linkestis",
                   "text": "Gut erhaltene antike Stadt, die von Philipp II. von Mazedonien gegründet wurde.",
                   "category": "historical",
                   "coords": [
@@ -825,7 +825,7 @@ export const northmacedoniaLandmarksV2: POI[] = [
                   ]
             },
             {
-                  "name": "Музеј на христијанската и муслиманската култура",
+                  "name": "Muzej na khristijanskata i muslimanskata kultura",
                   "text": "Museum in der Yeni-Moschee aus dem 16. Jahrhundert in Bitola.",
                   "category": "museum",
                   "coords": [
@@ -843,7 +843,7 @@ export const northmacedoniaLandmarksV2: POI[] = [
                   ]
             },
             {
-                  "name": "Св. Троица",
+                  "name": "Sv. Troitsa",
                   "text": "Orthodoxe Kirche in Bitola mit traditioneller religiöser Architektur.",
                   "category": "landmark",
                   "coords": [
@@ -854,7 +854,7 @@ export const northmacedoniaLandmarksV2: POI[] = [
       ],
       "hu": [
             {
-                  "name": "Зоолошка градина",
+                  "name": "Zooloshka gradina",
                   "text": "Bitolai városi állatkert regionális és egzotikus állatokkal.",
                   "category": "recreational",
                   "coords": [
@@ -863,7 +863,7 @@ export const northmacedoniaLandmarksV2: POI[] = [
                   ]
             },
             {
-                  "name": "Битолска Тврдина",
+                  "name": "Bitolska Tvrdina",
                   "text": "Egy történelmi erőd romjai, amelyek Bitola városára néznek.",
                   "category": "castle",
                   "coords": [
@@ -881,7 +881,7 @@ export const northmacedoniaLandmarksV2: POI[] = [
                   ]
             },
             {
-                  "name": "Музеј на Битола",
+                  "name": "Muzej na Bitola",
                   "text": "Nemzeti múzeum a régió régészeti és történelmi leleteivel.",
                   "category": "museum",
                   "coords": [
@@ -890,7 +890,7 @@ export const northmacedoniaLandmarksV2: POI[] = [
                   ]
             },
             {
-                  "name": "Хераклеа Линкестис",
+                  "name": "Kheraklea Linkestis",
                   "text": "Jó állapotban fennmaradt ókori város, amelyet II. Philipposz makedón király alapított.",
                   "category": "historical",
                   "coords": [
@@ -899,7 +899,7 @@ export const northmacedoniaLandmarksV2: POI[] = [
                   ]
             },
             {
-                  "name": "Музеј на христијанската и муслиманската култура",
+                  "name": "Muzej na khristijanskata i muslimanskata kultura",
                   "text": "Múzeum a 16. századi Yeni mecsetben, Bitolában.",
                   "category": "museum",
                   "coords": [
@@ -917,7 +917,7 @@ export const northmacedoniaLandmarksV2: POI[] = [
                   ]
             },
             {
-                  "name": "Св. Троица",
+                  "name": "Sv. Troitsa",
                   "text": "Ortodox templom Bitolában, amely a hagyományos vallási építészetet képviseli.",
                   "category": "landmark",
                   "coords": [
@@ -928,7 +928,7 @@ export const northmacedoniaLandmarksV2: POI[] = [
       ],
       "ro": [
             {
-                  "name": "Зоолошка градина",
+                  "name": "Zooloshka gradina",
                   "text": "Grădina zoologică municipală din Bitola, cu o varietate de animale regionale și exotice.",
                   "category": "recreational",
                   "coords": [
@@ -937,7 +937,7 @@ export const northmacedoniaLandmarksV2: POI[] = [
                   ]
             },
             {
-                  "name": "Битолска Тврдина",
+                  "name": "Bitolska Tvrdina",
                   "text": "Ruinele unei cetăți istorice care domină orașul Bitola.",
                   "category": "castle",
                   "coords": [
@@ -955,7 +955,7 @@ export const northmacedoniaLandmarksV2: POI[] = [
                   ]
             },
             {
-                  "name": "Музеј на Битола",
+                  "name": "Muzej na Bitola",
                   "text": "Muzeu național care expune descoperiri arheologice și istorice din regiune.",
                   "category": "museum",
                   "coords": [
@@ -964,7 +964,7 @@ export const northmacedoniaLandmarksV2: POI[] = [
                   ]
             },
             {
-                  "name": "Хераклеа Линкестис",
+                  "name": "Kheraklea Linkestis",
                   "text": "Oraș antic bine conservat, fondat de Filip al II-lea al Macedoniei.",
                   "category": "historical",
                   "coords": [
@@ -973,7 +973,7 @@ export const northmacedoniaLandmarksV2: POI[] = [
                   ]
             },
             {
-                  "name": "Музеј на христијанската и муслиманската култура",
+                  "name": "Muzej na khristijanskata i muslimanskata kultura",
                   "text": "Muzeu găzduit în moscheea Yeni din secolul al XVI-lea din Bitola.",
                   "category": "museum",
                   "coords": [
@@ -991,7 +991,7 @@ export const northmacedoniaLandmarksV2: POI[] = [
                   ]
             },
             {
-                  "name": "Св. Троица",
+                  "name": "Sv. Troitsa",
                   "text": "Biserică ortodoxă din Bitola care prezintă arhitectura religioasă tradițională.",
                   "category": "landmark",
                   "coords": [
@@ -1167,7 +1167,7 @@ export const northmacedoniaLandmarksV2: POI[] = [
     id: "northmacedonia-clock-tower-bitola-landmarks-v2", "sights": {
       "de": [
             {
-                  "name": "Зоолошка градина",
+                  "name": "Zooloshka gradina",
                   "text": "Der städtische Zoo von Bitola beherbergt verschiedene Tierarten und ist ein beliebtes Ziel für Familien.",
                   "category": "recreational",
                   "coords": [
@@ -1176,7 +1176,7 @@ export const northmacedoniaLandmarksV2: POI[] = [
                   ]
             },
             {
-                  "name": "Битолска Тврдина",
+                  "name": "Bitolska Tvrdina",
                   "text": "Die Überreste einer mittelalterlichen Festung, die einst die Stadt Bitola verteidigte.",
                   "category": "castle",
                   "coords": [
@@ -1194,7 +1194,7 @@ export const northmacedoniaLandmarksV2: POI[] = [
                   ]
             },
             {
-                  "name": "Музеј на Битола",
+                  "name": "Muzej na Bitola",
                   "text": "Das Hauptmuseum von Bitola präsentiert die reiche Geschichte und Kultur der Stadt von der Antike bis heute.",
                   "category": "museum",
                   "coords": [
@@ -1203,7 +1203,7 @@ export const northmacedoniaLandmarksV2: POI[] = [
                   ]
             },
             {
-                  "name": "Хераклеа Линкестис",
+                  "name": "Kheraklea Linkestis",
                   "text": "Eine bedeutende antike Stadt, die von Philipp II. von Mazedonien gegründet wurde und für ihre Mosaike bekannt ist.",
                   "category": "historical",
                   "coords": [
@@ -1212,7 +1212,7 @@ export const northmacedoniaLandmarksV2: POI[] = [
                   ]
             },
             {
-                  "name": "Музеј на христијанската и муслиманската култура",
+                  "name": "Muzej na khristijanskata i muslimanskata kultura",
                   "text": "Dieses Museum ist in einer ehemaligen Moschee untergebracht und beleuchtet das Zusammenleben verschiedener Kulturen.",
                   "category": "museum",
                   "coords": [
@@ -1230,7 +1230,7 @@ export const northmacedoniaLandmarksV2: POI[] = [
                   ]
             },
             {
-                  "name": "Св. Троица",
+                  "name": "Sv. Troitsa",
                   "text": "Eine markante orthodoxe Kirche in Bitola, die ein wichtiges religiöses Denkmal der Stadt darstellt.",
                   "category": "landmark",
                   "coords": [
@@ -1241,7 +1241,7 @@ export const northmacedoniaLandmarksV2: POI[] = [
       ],
       "hu": [
             {
-                  "name": "Зоолошка градина",
+                  "name": "Zooloshka gradina",
                   "text": "Bitola városi állatkertje számos állatfajnak ad otthont, és népszerű célpont a családok körében.",
                   "category": "recreational",
                   "coords": [
@@ -1250,7 +1250,7 @@ export const northmacedoniaLandmarksV2: POI[] = [
                   ]
             },
             {
-                  "name": "Битолска Тврдина",
+                  "name": "Bitolska Tvrdina",
                   "text": "Egy középkori erődítmény maradványai, amely egykor Bitola városát védelmezte.",
                   "category": "castle",
                   "coords": [
@@ -1268,7 +1268,7 @@ export const northmacedoniaLandmarksV2: POI[] = [
                   ]
             },
             {
-                  "name": "Музеј на Битола",
+                  "name": "Muzej na Bitola",
                   "text": "Bitola főmúzeuma bemutatja a város gazdag történelmét és kultúráját az ókortól napjainkig.",
                   "category": "museum",
                   "coords": [
@@ -1277,7 +1277,7 @@ export const northmacedoniaLandmarksV2: POI[] = [
                   ]
             },
             {
-                  "name": "Хераклеа Линкестис",
+                  "name": "Kheraklea Linkestis",
                   "text": "Jelentős ókori város, amelyet II. Philipposz alapított, és híres gyönyörű mozaikjairól.",
                   "category": "historical",
                   "coords": [
@@ -1286,7 +1286,7 @@ export const northmacedoniaLandmarksV2: POI[] = [
                   ]
             },
             {
-                  "name": "Музеј на христијанската и муслиманската култура",
+                  "name": "Muzej na khristijanskata i muslimanskata kultura",
                   "text": "Ez a múzeum egy egykori mecsetben található, és a különböző kultúrák együttélését mutatja be.",
                   "category": "museum",
                   "coords": [
@@ -1304,7 +1304,7 @@ export const northmacedoniaLandmarksV2: POI[] = [
                   ]
             },
             {
-                  "name": "Св. Троица",
+                  "name": "Sv. Troitsa",
                   "text": "Jellegzetes ortodox templom Bitolában, amely a város fontos vallási műemléke.",
                   "category": "landmark",
                   "coords": [
@@ -1315,7 +1315,7 @@ export const northmacedoniaLandmarksV2: POI[] = [
       ],
       "ro": [
             {
-                  "name": "Зоолошка градина",
+                  "name": "Zooloshka gradina",
                   "text": "Grădina zoologică municipală din Bitola găzduiește diverse specii de animale și este o destinație populară pentru familii.",
                   "category": "recreational",
                   "coords": [
@@ -1324,7 +1324,7 @@ export const northmacedoniaLandmarksV2: POI[] = [
                   ]
             },
             {
-                  "name": "Битолска Тврдина",
+                  "name": "Bitolska Tvrdina",
                   "text": "Vestigiile unei cetăți medievale care a asigurat odinioară apărarea orașului Bitola.",
                   "category": "castle",
                   "coords": [
@@ -1342,7 +1342,7 @@ export const northmacedoniaLandmarksV2: POI[] = [
                   ]
             },
             {
-                  "name": "Музеј на Битола",
+                  "name": "Muzej na Bitola",
                   "text": "Principalul muzeu din Bitola prezintă istoria și cultura bogată a orașului, din antichitate până în prezent.",
                   "category": "museum",
                   "coords": [
@@ -1351,7 +1351,7 @@ export const northmacedoniaLandmarksV2: POI[] = [
                   ]
             },
             {
-                  "name": "Хераклеа Линкестис",
+                  "name": "Kheraklea Linkestis",
                   "text": "Un important oraș antic fondat de Filip al II-lea al Macedoniei, renumit pentru mozaicurile sale.",
                   "category": "historical",
                   "coords": [
@@ -1360,7 +1360,7 @@ export const northmacedoniaLandmarksV2: POI[] = [
                   ]
             },
             {
-                  "name": "Музеј на христијанската и муслиманската култура",
+                  "name": "Muzej na khristijanskata i muslimanskata kultura",
                   "text": "Acest muzeu este găzduit într-o fostă moschee și evidențiază conviețuirea diverselor culturi.",
                   "category": "museum",
                   "coords": [
@@ -1378,7 +1378,7 @@ export const northmacedoniaLandmarksV2: POI[] = [
                   ]
             },
             {
-                  "name": "Св. Троица",
+                  "name": "Sv. Troitsa",
                   "text": "O biserică ortodoxă distinctivă din Bitola, care reprezintă un monument religios important al orașului.",
                   "category": "landmark",
                   "coords": [
@@ -1554,7 +1554,7 @@ export const northmacedoniaLandmarksV2: POI[] = [
     id: "northmacedonia-kurshumli-an-landmarks-v2", "sights": {
       "de": [
             {
-                  "name": "Природонаучен Музеј",
+                  "name": "Prirodonauchen Muzej",
                   "text": "Ein Museum in Skopje, das die reiche Flora und Fauna Nordmazedoniens präsentiert.",
                   "category": "museum",
                   "coords": [
@@ -1563,7 +1563,7 @@ export const northmacedoniaLandmarksV2: POI[] = [
                   ]
             },
             {
-                  "name": "Скопско кале",
+                  "name": "Skopsko kale",
                   "text": "Eine historische Festung auf dem höchsten Punkt der Stadt Skopje.",
                   "category": "castle",
                   "coords": [
@@ -1572,7 +1572,7 @@ export const northmacedoniaLandmarksV2: POI[] = [
                   ]
             },
             {
-                  "name": "Зоолошка градина Скопје",
+                  "name": "Zooloshka gradina Skopje",
                   "text": "Der Zoo von Skopje beherbergt zahlreiche Tierarten und ist ein beliebtes Ziel für Familien.",
                   "category": "recreational",
                   "coords": [
@@ -1581,7 +1581,7 @@ export const northmacedoniaLandmarksV2: POI[] = [
                   ]
             },
             {
-                  "name": "Скупи",
+                  "name": "Skupi",
                   "text": "Scupi ist eine bedeutende antike römische Ausgrabungsstätte in der Nähe von Skopje.",
                   "category": "historical",
                   "coords": [
@@ -1590,7 +1590,7 @@ export const northmacedoniaLandmarksV2: POI[] = [
                   ]
             },
             {
-                  "name": "Музеј на Македонија",
+                  "name": "Muzej na Makedonija",
                   "text": "Dieses Museum dokumentiert die reiche Geschichte und das kulturelle Erbe Mazedoniens.",
                   "category": "museum",
                   "coords": [
@@ -1599,7 +1599,7 @@ export const northmacedoniaLandmarksV2: POI[] = [
                   ]
             },
             {
-                  "name": "Македонска Национална опера и балет",
+                  "name": "Makedonska Natsionalna opera i balet",
                   "text": "Das Gebäude beherbergt die nationalen Ensembles für Opern- und Ballettaufführungen in der Hauptstadt.",
                   "category": "cultural",
                   "coords": [
@@ -1608,7 +1608,7 @@ export const northmacedoniaLandmarksV2: POI[] = [
                   ]
             },
             {
-                  "name": "Музеј на современата уметност",
+                  "name": "Muzej na sovremenata umetnost",
                   "text": "Das Museum zeigt eine bedeutende Sammlung moderner und zeitgenössischer Kunstwerke.",
                   "category": "museum",
                   "coords": [
@@ -1617,7 +1617,7 @@ export const northmacedoniaLandmarksV2: POI[] = [
                   ]
             },
             {
-                  "name": "Национална галерија „Даут-пашин амам“",
+                  "name": "Natsionalna galerija ,,Daut-pashin amam\"",
                   "text": "Diese Nationalgalerie ist in einem restaurierten osmanischen Badehaus aus dem 15. Jahrhundert untergebracht.",
                   "category": "museum",
                   "coords": [
@@ -1628,7 +1628,7 @@ export const northmacedoniaLandmarksV2: POI[] = [
       ],
       "hu": [
             {
-                  "name": "Природонаучен Музеј",
+                  "name": "Prirodonauchen Muzej",
                   "text": "Szkopjei múzeum, amely Észak-Macedónia gazdag növény- és állatvilágát mutatja be.",
                   "category": "museum",
                   "coords": [
@@ -1637,7 +1637,7 @@ export const northmacedoniaLandmarksV2: POI[] = [
                   ]
             },
             {
-                  "name": "Скопско кале",
+                  "name": "Skopsko kale",
                   "text": "Történelmi erőd Szkopje városának legmagasabb pontján.",
                   "category": "castle",
                   "coords": [
@@ -1646,7 +1646,7 @@ export const northmacedoniaLandmarksV2: POI[] = [
                   ]
             },
             {
-                  "name": "Зоолошка градина Скопје",
+                  "name": "Zooloshka gradina Skopje",
                   "text": "A szkopszei állatkert számos állatfajnak ad otthont, és népszerű családi úticél.",
                   "category": "recreational",
                   "coords": [
@@ -1655,7 +1655,7 @@ export const northmacedoniaLandmarksV2: POI[] = [
                   ]
             },
             {
-                  "name": "Скупи",
+                  "name": "Skupi",
                   "text": "Scupi egy jelentős ókori római régészeti lelőhely Szkopje közelében.",
                   "category": "historical",
                   "coords": [
@@ -1664,7 +1664,7 @@ export const northmacedoniaLandmarksV2: POI[] = [
                   ]
             },
             {
-                  "name": "Музеј на Македонија",
+                  "name": "Muzej na Makedonija",
                   "text": "Ez a múzeum Macedónia gazdag történelmét és kulturális örökségét mutatja be.",
                   "category": "museum",
                   "coords": [
@@ -1673,7 +1673,7 @@ export const northmacedoniaLandmarksV2: POI[] = [
                   ]
             },
             {
-                  "name": "Македонска Национална опера и балет",
+                  "name": "Makedonska Natsionalna opera i balet",
                   "text": "Az épület a főváros nemzeti opera- és balettelőadásainak ad otthont.",
                   "category": "cultural",
                   "coords": [
@@ -1682,7 +1682,7 @@ export const northmacedoniaLandmarksV2: POI[] = [
                   ]
             },
             {
-                  "name": "Музеј на современата уметност",
+                  "name": "Muzej na sovremenata umetnost",
                   "text": "A múzeum a modern és kortárs műalkotások jelentős gyűjteményét mutatja be.",
                   "category": "museum",
                   "coords": [
@@ -1691,7 +1691,7 @@ export const northmacedoniaLandmarksV2: POI[] = [
                   ]
             },
             {
-                  "name": "Национална галерија „Даут-пашин амам“",
+                  "name": "Natsionalna galerija ,,Daut-pashin amam\"",
                   "text": "Ez a nemzeti galéria egy felújított 15. századi oszmán fürdőépületben található.",
                   "category": "museum",
                   "coords": [
@@ -1702,7 +1702,7 @@ export const northmacedoniaLandmarksV2: POI[] = [
       ],
       "ro": [
             {
-                  "name": "Природонаучен Музеј",
+                  "name": "Prirodonauchen Muzej",
                   "text": "Un muzeu din Skopje care prezintă flora și fauna bogată a Macedoniei de Nord.",
                   "category": "museum",
                   "coords": [
@@ -1711,7 +1711,7 @@ export const northmacedoniaLandmarksV2: POI[] = [
                   ]
             },
             {
-                  "name": "Скопско кале",
+                  "name": "Skopsko kale",
                   "text": "O cetate istorică situată pe cel mai înalt punct al orașului Skopje.",
                   "category": "castle",
                   "coords": [
@@ -1720,7 +1720,7 @@ export const northmacedoniaLandmarksV2: POI[] = [
                   ]
             },
             {
-                  "name": "Зоолошка градина Скопје",
+                  "name": "Zooloshka gradina Skopje",
                   "text": "Grădina zoologică din Skopje găzduiește numeroase specii de animale și este o destinație populară pentru familii.",
                   "category": "recreational",
                   "coords": [
@@ -1729,7 +1729,7 @@ export const northmacedoniaLandmarksV2: POI[] = [
                   ]
             },
             {
-                  "name": "Скупи",
+                  "name": "Skupi",
                   "text": "Scupi este un sit arheologic roman antic important situat lângă Skopje.",
                   "category": "historical",
                   "coords": [
@@ -1738,7 +1738,7 @@ export const northmacedoniaLandmarksV2: POI[] = [
                   ]
             },
             {
-                  "name": "Музеј на Македонија",
+                  "name": "Muzej na Makedonija",
                   "text": "Acest muzeu documentează istoria bogată și patrimoniul cultural al Macedoniei.",
                   "category": "museum",
                   "coords": [
@@ -1747,7 +1747,7 @@ export const northmacedoniaLandmarksV2: POI[] = [
                   ]
             },
             {
-                  "name": "Македонска Национална опера и балет",
+                  "name": "Makedonska Natsionalna opera i balet",
                   "text": "Clădirea găzduiește ansamblurile naționale de operă și balet din capitală.",
                   "category": "cultural",
                   "coords": [
@@ -1756,7 +1756,7 @@ export const northmacedoniaLandmarksV2: POI[] = [
                   ]
             },
             {
-                  "name": "Музеј на современата уметност",
+                  "name": "Muzej na sovremenata umetnost",
                   "text": "Muzeul expune o colecție importantă de opere de artă modernă și contemporană.",
                   "category": "museum",
                   "coords": [
@@ -1765,7 +1765,7 @@ export const northmacedoniaLandmarksV2: POI[] = [
                   ]
             },
             {
-                  "name": "Национална галерија „Даут-пашин амам“",
+                  "name": "Natsionalna galerija ,,Daut-pashin amam\"",
                   "text": "Această galerie națională este găzduită într-o fostă baie otomană restaurată din secolul al XV-lea.",
                   "category": "museum",
                   "coords": [
@@ -1941,7 +1941,7 @@ export const northmacedoniaLandmarksV2: POI[] = [
     id: "northmacedonia-st-pantaleon-gorno-nerezi-landmarks-v2", "sights": {
       "de": [
             {
-                  "name": "Музеј на Град Скопје",
+                  "name": "Muzej na Grad Skopje",
                   "text": "Dieses Museum befindet sich im historischen Gebäude des alten Bahnhofs von Skopje.",
                   "category": "museum",
                   "coords": [
@@ -1959,7 +1959,7 @@ export const northmacedoniaLandmarksV2: POI[] = [
                   ]
             },
             {
-                  "name": "Летна сцена",
+                  "name": "Letna stsena",
                   "text": "Eine Freilichtbühne für kulturelle Veranstaltungen und Theateraufführungen in der Region.",
                   "category": "cultural",
                   "coords": [
@@ -1968,7 +1968,7 @@ export const northmacedoniaLandmarksV2: POI[] = [
                   ]
             },
             {
-                  "name": "Театар Комедија",
+                  "name": "Teatar Komedija",
                   "text": "Ein lokales Theater, das sich auf komödiantische Aufführungen und moderne Stücke spezialisiert hat.",
                   "category": "cultural",
                   "coords": [
@@ -1977,7 +1977,7 @@ export const northmacedoniaLandmarksV2: POI[] = [
                   ]
             },
             {
-                  "name": "Маркови Кули",
+                  "name": "Markovi Kuli",
                   "text": "Ruinen einer mittelalterlichen Festung am Hang des Berges Vodno.",
                   "category": "historical",
                   "coords": [
@@ -1986,7 +1986,7 @@ export const northmacedoniaLandmarksV2: POI[] = [
                   ]
             },
             {
-                  "name": "Орашец",
+                  "name": "Orashets",
                   "text": "Ein Berggipfel in der Nähe von Skopje, der Ausblicke auf die umliegende Landschaft bietet.",
                   "category": "landmark",
                   "coords": [
@@ -1995,7 +1995,7 @@ export const northmacedoniaLandmarksV2: POI[] = [
                   ]
             },
             {
-                  "name": "Крстовар",
+                  "name": "Krstovar",
                   "text": "Der höchste Gipfel des Berges Vodno, bekannt für das markante Millenniumskreuz.",
                   "category": "landmark",
                   "coords": [
@@ -2004,7 +2004,7 @@ export const northmacedoniaLandmarksV2: POI[] = [
                   ]
             },
             {
-                  "name": "Абедиште",
+                  "name": "Abedishte",
                   "text": "Ein Berggipfel in der Region, der Wanderer mit Panoramablicken belohnt.",
                   "category": "landmark",
                   "coords": [
@@ -2015,7 +2015,7 @@ export const northmacedoniaLandmarksV2: POI[] = [
       ],
       "hu": [
             {
-                  "name": "Музеј на Град Скопје",
+                  "name": "Muzej na Grad Skopje",
                   "text": "Ez a múzeum Szkopje régi vasútállomásának történelmi épületében kapott helyet.",
                   "category": "museum",
                   "coords": [
@@ -2033,7 +2033,7 @@ export const northmacedoniaLandmarksV2: POI[] = [
                   ]
             },
             {
-                  "name": "Летна сцена",
+                  "name": "Letna stsena",
                   "text": "Szabadtéri színpad kulturális események és színházi előadások számára a régióban.",
                   "category": "cultural",
                   "coords": [
@@ -2042,7 +2042,7 @@ export const northmacedoniaLandmarksV2: POI[] = [
                   ]
             },
             {
-                  "name": "Театар Комедија",
+                  "name": "Teatar Komedija",
                   "text": "Komédiákra és modern darabokra szakosodott helyi színház.",
                   "category": "cultural",
                   "coords": [
@@ -2051,7 +2051,7 @@ export const northmacedoniaLandmarksV2: POI[] = [
                   ]
             },
             {
-                  "name": "Маркови Кули",
+                  "name": "Markovi Kuli",
                   "text": "Egy középkori erőd romjai a Vodno-hegy lejtőjén.",
                   "category": "historical",
                   "coords": [
@@ -2060,7 +2060,7 @@ export const northmacedoniaLandmarksV2: POI[] = [
                   ]
             },
             {
-                  "name": "Орашец",
+                  "name": "Orashets",
                   "text": "Egy Szkopje közeli hegycsúcs, ahonnan kilátás nyílik a környező tájra.",
                   "category": "landmark",
                   "coords": [
@@ -2069,7 +2069,7 @@ export const northmacedoniaLandmarksV2: POI[] = [
                   ]
             },
             {
-                  "name": "Крстовар",
+                  "name": "Krstovar",
                   "text": "A Vodno-hegy legmagasabb csúcsa, amely a jellegzetes Millenniumi-keresztről ismert.",
                   "category": "landmark",
                   "coords": [
@@ -2078,7 +2078,7 @@ export const northmacedoniaLandmarksV2: POI[] = [
                   ]
             },
             {
-                  "name": "Абедиште",
+                  "name": "Abedishte",
                   "text": "Egy hegycsúcs a régióban, amely panorámás kilátással jutalmazza a túrázókat.",
                   "category": "landmark",
                   "coords": [
@@ -2089,7 +2089,7 @@ export const northmacedoniaLandmarksV2: POI[] = [
       ],
       "ro": [
             {
-                  "name": "Музеј на Град Скопје",
+                  "name": "Muzej na Grad Skopje",
                   "text": "Acest muzeu este situat în clădirea istorică a vechii gări din Skopje.",
                   "category": "museum",
                   "coords": [
@@ -2107,7 +2107,7 @@ export const northmacedoniaLandmarksV2: POI[] = [
                   ]
             },
             {
-                  "name": "Летна сцена",
+                  "name": "Letna stsena",
                   "text": "O scenă în aer liber pentru evenimente culturale și spectacole de teatru în regiune.",
                   "category": "cultural",
                   "coords": [
@@ -2116,7 +2116,7 @@ export const northmacedoniaLandmarksV2: POI[] = [
                   ]
             },
             {
-                  "name": "Театар Комедија",
+                  "name": "Teatar Komedija",
                   "text": "Un teatru local specializat în spectacole de comedie și piese moderne.",
                   "category": "cultural",
                   "coords": [
@@ -2125,7 +2125,7 @@ export const northmacedoniaLandmarksV2: POI[] = [
                   ]
             },
             {
-                  "name": "Маркови Кули",
+                  "name": "Markovi Kuli",
                   "text": "Ruinele unei cetăți medievale situate pe versantul muntelui Vodno.",
                   "category": "historical",
                   "coords": [
@@ -2134,7 +2134,7 @@ export const northmacedoniaLandmarksV2: POI[] = [
                   ]
             },
             {
-                  "name": "Орашец",
+                  "name": "Orashets",
                   "text": "Un vârf montan de lângă Skopje care oferă vederi asupra peisajului înconjurător.",
                   "category": "landmark",
                   "coords": [
@@ -2143,7 +2143,7 @@ export const northmacedoniaLandmarksV2: POI[] = [
                   ]
             },
             {
-                  "name": "Крстовар",
+                  "name": "Krstovar",
                   "text": "Cel mai înalt vârf al muntelui Vodno, cunoscut pentru Crucea Mileniului.",
                   "category": "landmark",
                   "coords": [
@@ -2152,7 +2152,7 @@ export const northmacedoniaLandmarksV2: POI[] = [
                   ]
             },
             {
-                  "name": "Абедиште",
+                  "name": "Abedishte",
                   "text": "Un vârf montan din regiune care îi răsplătește pe turiști cu vederi panoramice.",
                   "category": "landmark",
                   "coords": [
@@ -2283,7 +2283,7 @@ export const northmacedoniaLandmarksV2: POI[] = [
     id: "northmacedonia-st-george-staro-nagoricane-landmarks-v2", "sights": {
       "de": [
             {
-                  "name": "Св. Великомаченик Георгиј",
+                  "name": "Sv. Velikomachenik Georgij",
                   "text": "Diese historische orthodoxe Kirche in Staro Nagoričane ist für ihre bedeutenden mittelalterlichen Fresken bekannt.",
                   "category": "religious",
                   "coords": [
@@ -2294,7 +2294,7 @@ export const northmacedoniaLandmarksV2: POI[] = [
       ],
       "hu": [
             {
-                  "name": "Св. Великомаченик Георгиј",
+                  "name": "Sv. Velikomachenik Georgij",
                   "text": "Ez a történelmi ortodox templom Sztaro Nagoricsane faluban jelentős középkori freskóiról híres.",
                   "category": "religious",
                   "coords": [
@@ -2305,7 +2305,7 @@ export const northmacedoniaLandmarksV2: POI[] = [
       ],
       "ro": [
             {
-                  "name": "Св. Великомаченик Георгиј",
+                  "name": "Sv. Velikomachenik Georgij",
                   "text": "Această biserică ortodoxă istorică din Staro Nagoričane este renumită pentru frescele sale medievale importante.",
                   "category": "religious",
                   "coords": [
@@ -2373,7 +2373,7 @@ export const northmacedoniaLandmarksV2: POI[] = [
     id: "northmacedonia-monument-karpos-skopje-landmarks-v2", "sights": {
       "de": [
             {
-                  "name": "Природонаучен Музеј",
+                  "name": "Prirodonauchen Muzej",
                   "text": "Das Museum präsentiert eine umfangreiche Sammlung zur Flora, Fauna und Geologie Mazedoniens.",
                   "category": "museum",
                   "coords": [
@@ -2382,7 +2382,7 @@ export const northmacedoniaLandmarksV2: POI[] = [
                   ]
             },
             {
-                  "name": "Скопско кале",
+                  "name": "Skopsko kale",
                   "text": "Die historische Festung thront über Skopje und bietet einen bedeutenden Einblick in die Stadtgeschichte.",
                   "category": "castle",
                   "coords": [
@@ -2391,7 +2391,7 @@ export const northmacedoniaLandmarksV2: POI[] = [
                   ]
             },
             {
-                  "name": "Зоолошка градина Скопје",
+                  "name": "Zooloshka gradina Skopje",
                   "text": "Der Zoo von Skopje beherbergt zahlreiche Tierarten und ist ein beliebtes Ziel für Familien.",
                   "category": "recreational",
                   "coords": [
@@ -2400,7 +2400,7 @@ export const northmacedoniaLandmarksV2: POI[] = [
                   ]
             },
             {
-                  "name": "Скупи",
+                  "name": "Skupi",
                   "text": "Scupi ist eine bedeutende archäologische Ausgrabungsstätte einer antiken römischen Stadt.",
                   "category": "historical",
                   "coords": [
@@ -2409,7 +2409,7 @@ export const northmacedoniaLandmarksV2: POI[] = [
                   ]
             },
             {
-                  "name": "Музеј на Македонија",
+                  "name": "Muzej na Makedonija",
                   "text": "Das Nationalmuseum zeigt Exponate zur Geschichte, Archäologie und Ethnologie des Landes.",
                   "category": "museum",
                   "coords": [
@@ -2418,7 +2418,7 @@ export const northmacedoniaLandmarksV2: POI[] = [
                   ]
             },
             {
-                  "name": "Македонска Национална опера и балет",
+                  "name": "Makedonska Natsionalna opera i balet",
                   "text": "Dieses Kulturzentrum ist die wichtigste Bühne für Opern- und Ballettaufführungen in Nordmazedonien.",
                   "category": "cultural",
                   "coords": [
@@ -2427,7 +2427,7 @@ export const northmacedoniaLandmarksV2: POI[] = [
                   ]
             },
             {
-                  "name": "Музеј на современата уметност",
+                  "name": "Muzej na sovremenata umetnost",
                   "text": "Das Museum beherbergt eine bedeutende Sammlung zeitgenössischer Kunst aus dem In- und Ausland.",
                   "category": "museum",
                   "coords": [
@@ -2436,7 +2436,7 @@ export const northmacedoniaLandmarksV2: POI[] = [
                   ]
             },
             {
-                  "name": "Национална галерија „Даут-пашин амам“",
+                  "name": "Natsionalna galerija ,,Daut-pashin amam\"",
                   "text": "Die Nationalgalerie ist in einem ehemaligen osmanischen Hamam aus dem 15. Jahrhundert untergebracht.",
                   "category": "museum",
                   "coords": [
@@ -2447,7 +2447,7 @@ export const northmacedoniaLandmarksV2: POI[] = [
       ],
       "hu": [
             {
-                  "name": "Природонаучен Музеј",
+                  "name": "Prirodonauchen Muzej",
                   "text": "A múzeum Macedónia növény- és állatvilágát, valamint geológiáját bemutató gazdag gyűjteménnyel rendelkezik.",
                   "category": "museum",
                   "coords": [
@@ -2456,7 +2456,7 @@ export const northmacedoniaLandmarksV2: POI[] = [
                   ]
             },
             {
-                  "name": "Скопско кале",
+                  "name": "Skopsko kale",
                   "text": "A Szkopje fölé magasodó történelmi erődítmény fontos betekintést nyújt a város múltjába.",
                   "category": "castle",
                   "coords": [
@@ -2465,7 +2465,7 @@ export const northmacedoniaLandmarksV2: POI[] = [
                   ]
             },
             {
-                  "name": "Зоолошка градина Скопје",
+                  "name": "Zooloshka gradina Skopje",
                   "text": "A szkopjei állatkert számos állatfajnak ad otthont, és népszerű úti cél a családok körében.",
                   "category": "recreational",
                   "coords": [
@@ -2474,7 +2474,7 @@ export const northmacedoniaLandmarksV2: POI[] = [
                   ]
             },
             {
-                  "name": "Скупи",
+                  "name": "Skupi",
                   "text": "Scupi egy ókori római város jelentős régészeti lelőhelye Szkopje közelében.",
                   "category": "historical",
                   "coords": [
@@ -2483,7 +2483,7 @@ export const northmacedoniaLandmarksV2: POI[] = [
                   ]
             },
             {
-                  "name": "Музеј на Македонија",
+                  "name": "Muzej na Makedonija",
                   "text": "A nemzeti múzeum az ország történelmét, régészetét és néprajzát bemutató kiállításokat kínál.",
                   "category": "museum",
                   "coords": [
@@ -2492,7 +2492,7 @@ export const northmacedoniaLandmarksV2: POI[] = [
                   ]
             },
             {
-                  "name": "Македонска Национална опера и балет",
+                  "name": "Makedonska Natsionalna opera i balet",
                   "text": "Ez a kulturális központ Észak-Macedónia legfontosabb opera- és balettelőadásainak helyszíne.",
                   "category": "cultural",
                   "coords": [
@@ -2501,7 +2501,7 @@ export const northmacedoniaLandmarksV2: POI[] = [
                   ]
             },
             {
-                  "name": "Музеј на современата уметност",
+                  "name": "Muzej na sovremenata umetnost",
                   "text": "A múzeum a kortárs művészet jelentős hazai és nemzetközi gyűjteményének ad otthont.",
                   "category": "museum",
                   "coords": [
@@ -2510,7 +2510,7 @@ export const northmacedoniaLandmarksV2: POI[] = [
                   ]
             },
             {
-                  "name": "Национална галерија „Даут-пашин амам“",
+                  "name": "Natsionalna galerija ,,Daut-pashin amam\"",
                   "text": "A nemzeti galéria egy 15. századi egykori oszmán fürdőben, egy hamamban kapott helyet.",
                   "category": "museum",
                   "coords": [
@@ -2521,7 +2521,7 @@ export const northmacedoniaLandmarksV2: POI[] = [
       ],
       "ro": [
             {
-                  "name": "Природонаучен Музеј",
+                  "name": "Prirodonauchen Muzej",
                   "text": "Muzeul prezintă o colecție vastă dedicată florei, faunei și geologiei Macedoniei.",
                   "category": "museum",
                   "coords": [
@@ -2530,7 +2530,7 @@ export const northmacedoniaLandmarksV2: POI[] = [
                   ]
             },
             {
-                  "name": "Скопско кале",
+                  "name": "Skopsko kale",
                   "text": "Cetatea istorică domină orașul Skopje și oferă o perspectivă importantă asupra istoriei locale.",
                   "category": "castle",
                   "coords": [
@@ -2539,7 +2539,7 @@ export const northmacedoniaLandmarksV2: POI[] = [
                   ]
             },
             {
-                  "name": "Зоолошка градина Скопје",
+                  "name": "Zooloshka gradina Skopje",
                   "text": "Grădina Zoologică din Skopje adăpostește numeroase specii de animale și este o destinație populară pentru familii.",
                   "category": "recreational",
                   "coords": [
@@ -2548,7 +2548,7 @@ export const northmacedoniaLandmarksV2: POI[] = [
                   ]
             },
             {
-                  "name": "Скупи",
+                  "name": "Skupi",
                   "text": "Scupi este un sit arheologic important ce cuprinde ruinele unui oraș roman antic.",
                   "category": "historical",
                   "coords": [
@@ -2557,7 +2557,7 @@ export const northmacedoniaLandmarksV2: POI[] = [
                   ]
             },
             {
-                  "name": "Музеј на Македонија",
+                  "name": "Muzej na Makedonija",
                   "text": "Muzeul național prezintă exponate legate de istoria, arheologia și etnologia țării.",
                   "category": "museum",
                   "coords": [
@@ -2566,7 +2566,7 @@ export const northmacedoniaLandmarksV2: POI[] = [
                   ]
             },
             {
-                  "name": "Македонска Национална опера и балет",
+                  "name": "Makedonska Natsionalna opera i balet",
                   "text": "Acest centru cultural este cea mai importantă scenă pentru spectacole de operă și balet din Macedonia de Nord.",
                   "category": "cultural",
                   "coords": [
@@ -2575,7 +2575,7 @@ export const northmacedoniaLandmarksV2: POI[] = [
                   ]
             },
             {
-                  "name": "Музеј на современата уметност",
+                  "name": "Muzej na sovremenata umetnost",
                   "text": "Muzeul găzduiește o colecție importantă de artă contemporană, atât națională, cât și internațională.",
                   "category": "museum",
                   "coords": [
@@ -2584,7 +2584,7 @@ export const northmacedoniaLandmarksV2: POI[] = [
                   ]
             },
             {
-                  "name": "Национална галерија „Даут-пашин амам“",
+                  "name": "Natsionalna galerija ,,Daut-pashin amam\"",
                   "text": "Galeria națională este găzduită într-un fost hamam otoman din secolul al XV-lea.",
                   "category": "museum",
                   "coords": [
@@ -2715,7 +2715,7 @@ export const northmacedoniaLandmarksV2: POI[] = [
     id: "northmacedonia-st-archangel-michael-varos-landmarks-v2", "sights": {
       "de": [
             {
-                  "name": "Војдан Чернодрински",
+                  "name": "Vojdan Chernodrinski",
                   "text": "Ein bedeutendes Theater in Prilep, benannt nach dem mazedonischen Dramatiker.",
                   "category": "cultural",
                   "coords": [
@@ -2724,7 +2724,7 @@ export const northmacedoniaLandmarksV2: POI[] = [
                   ]
             },
             {
-                  "name": "Куќата на Ѓошеви",
+                  "name": "Kukjata na Gjoshevi",
                   "text": "Eine archäologische Stätte in Varos, die traditionelle mazedonische Wohnarchitektur zeigt.",
                   "category": "historical",
                   "coords": [
@@ -2733,7 +2733,7 @@ export const northmacedoniaLandmarksV2: POI[] = [
                   ]
             },
             {
-                  "name": "Меморијален музеј Народен херој Кузман Јосифоски-Питу",
+                  "name": "Memorijalen muzej Naroden kheroj Kuzman Josifoski-Pitu",
                   "text": "Ein Gedenkmuseum für den mazedonischen Nationalhelden Kuzman Josifoski-Pitu.",
                   "category": "museum",
                   "coords": [
@@ -2742,7 +2742,7 @@ export const northmacedoniaLandmarksV2: POI[] = [
                   ]
             },
             {
-                  "name": "Маркови Кули",
+                  "name": "Markovi Kuli",
                   "text": "Eine mittelalterliche Festung auf einem Hügel über Prilep, bekannt als Türme von Marko.",
                   "category": "castle",
                   "coords": [
@@ -2751,7 +2751,7 @@ export const northmacedoniaLandmarksV2: POI[] = [
                   ]
             },
             {
-                  "name": "Куќата на Мантови",
+                  "name": "Kukjata na Mantovi",
                   "text": "Ein historisches Gebäude und archäologisches Denkmal im Viertel Varos.",
                   "category": "historical",
                   "coords": [
@@ -2760,7 +2760,7 @@ export const northmacedoniaLandmarksV2: POI[] = [
                   ]
             },
             {
-                  "name": "Меморијален музеј 11. Октомври 1941",
+                  "name": "Memorijalen muzej 11. Oktomvri 1941",
                   "text": "Ein Museum in Prilep, das an den Beginn des antifaschistischen Aufstands im Jahr 1941 erinnert.",
                   "category": "museum",
                   "coords": [
@@ -2769,7 +2769,7 @@ export const northmacedoniaLandmarksV2: POI[] = [
                   ]
             },
             {
-                  "name": "Комплекс Варош",
+                  "name": "Kompleks Varosh",
                   "text": "Eine Freizeitanlage im historischen Viertel Varos bei Prilep.",
                   "category": "recreational",
                   "coords": [
@@ -2780,7 +2780,7 @@ export const northmacedoniaLandmarksV2: POI[] = [
       ],
       "hu": [
             {
-                  "name": "Војдан Чернодрински",
+                  "name": "Vojdan Chernodrinski",
                   "text": "Jelentős színház Prilepben, amelyet a macedón drámaíróról neveztek el.",
                   "category": "cultural",
                   "coords": [
@@ -2789,7 +2789,7 @@ export const northmacedoniaLandmarksV2: POI[] = [
                   ]
             },
             {
-                  "name": "Куќата на Ѓошеви",
+                  "name": "Kukjata na Gjoshevi",
                   "text": "Régészeti lelőhely Varosban, amely a hagyományos macedón lakóépítészetet mutatja be.",
                   "category": "historical",
                   "coords": [
@@ -2798,7 +2798,7 @@ export const northmacedoniaLandmarksV2: POI[] = [
                   ]
             },
             {
-                  "name": "Меморијален музеј Народен херој Кузман Јосифоски-Питу",
+                  "name": "Memorijalen muzej Naroden kheroj Kuzman Josifoski-Pitu",
                   "text": "Emlékmúzeum Kuzman Josifoski-Pitu macedón nemzeti hős tiszteletére.",
                   "category": "museum",
                   "coords": [
@@ -2807,7 +2807,7 @@ export const northmacedoniaLandmarksV2: POI[] = [
                   ]
             },
             {
-                  "name": "Маркови Кули",
+                  "name": "Markovi Kuli",
                   "text": "Középkori erőd egy dombon Prilep felett, amely Marko tornyai néven ismert.",
                   "category": "castle",
                   "coords": [
@@ -2816,7 +2816,7 @@ export const northmacedoniaLandmarksV2: POI[] = [
                   ]
             },
             {
-                  "name": "Куќата на Мантови",
+                  "name": "Kukjata na Mantovi",
                   "text": "Történelmi épület és régészeti műemlék a Varos negyedben.",
                   "category": "historical",
                   "coords": [
@@ -2825,7 +2825,7 @@ export const northmacedoniaLandmarksV2: POI[] = [
                   ]
             },
             {
-                  "name": "Меморијален музеј 11. Октомври 1941",
+                  "name": "Memorijalen muzej 11. Oktomvri 1941",
                   "text": "Prilepi múzeum, amely az 1941-es antifasiszta felkelés kezdetének állít emléket.",
                   "category": "museum",
                   "coords": [
@@ -2834,7 +2834,7 @@ export const northmacedoniaLandmarksV2: POI[] = [
                   ]
             },
             {
-                  "name": "Комплекс Варош",
+                  "name": "Kompleks Varosh",
                   "text": "Szabadidős komplexum a Prilep melletti történelmi Varos negyedben.",
                   "category": "recreational",
                   "coords": [
@@ -2845,7 +2845,7 @@ export const northmacedoniaLandmarksV2: POI[] = [
       ],
       "ro": [
             {
-                  "name": "Војдан Чернодрински",
+                  "name": "Vojdan Chernodrinski",
                   "text": "Un teatru important în Prilep, numit după dramaturgul macedonean.",
                   "category": "cultural",
                   "coords": [
@@ -2854,7 +2854,7 @@ export const northmacedoniaLandmarksV2: POI[] = [
                   ]
             },
             {
-                  "name": "Куќата на Ѓошеви",
+                  "name": "Kukjata na Gjoshevi",
                   "text": "Un sit arheologic în Varos care prezintă arhitectura rezidențială tradițională macedoneană.",
                   "category": "historical",
                   "coords": [
@@ -2863,7 +2863,7 @@ export const northmacedoniaLandmarksV2: POI[] = [
                   ]
             },
             {
-                  "name": "Меморијален музеј Народен херој Кузман Јосифоски-Питу",
+                  "name": "Memorijalen muzej Naroden kheroj Kuzman Josifoski-Pitu",
                   "text": "Un muzeu memorial dedicat eroului național macedonean Kuzman Josifoski-Pitu.",
                   "category": "museum",
                   "coords": [
@@ -2872,7 +2872,7 @@ export const northmacedoniaLandmarksV2: POI[] = [
                   ]
             },
             {
-                  "name": "Маркови Кули",
+                  "name": "Markovi Kuli",
                   "text": "O cetate medievală pe un deal deasupra Prilepului, cunoscută sub numele de Turnurile lui Marko.",
                   "category": "castle",
                   "coords": [
@@ -2881,7 +2881,7 @@ export const northmacedoniaLandmarksV2: POI[] = [
                   ]
             },
             {
-                  "name": "Куќата на Мантови",
+                  "name": "Kukjata na Mantovi",
                   "text": "O clădire istorică și monument arheologic în cartierul Varos.",
                   "category": "historical",
                   "coords": [
@@ -2890,7 +2890,7 @@ export const northmacedoniaLandmarksV2: POI[] = [
                   ]
             },
             {
-                  "name": "Меморијален музеј 11. Октомври 1941",
+                  "name": "Memorijalen muzej 11. Oktomvri 1941",
                   "text": "Un muzeu din Prilep care comemorează începutul insurecției antifasciste din 1941.",
                   "category": "museum",
                   "coords": [
@@ -2899,7 +2899,7 @@ export const northmacedoniaLandmarksV2: POI[] = [
                   ]
             },
             {
-                  "name": "Комплекс Варош",
+                  "name": "Kompleks Varosh",
                   "text": "Un complex de agrement situat în cartierul istoric Varos de lângă Prilep.",
                   "category": "recreational",
                   "coords": [
@@ -3066,7 +3066,7 @@ export const northmacedoniaLandmarksV2: POI[] = [
     id: "northmacedonia-monastery-andreas-matka-landmarks-v2", "sights": {
       "de": [
             {
-                  "name": "Пештера Врело",
+                  "name": "Peshtera Vrelo",
                   "text": "Tiefes Unterwasserhöhlensystem im Matka-Canyon.",
                   "category": "landmark",
                   "coords": [
@@ -3075,7 +3075,7 @@ export const northmacedoniaLandmarksV2: POI[] = [
                   ]
             },
             {
-                  "name": "Изложбен центар Матка",
+                  "name": "Izlozhben tsentar Matka",
                   "text": "Ausstellung zur Elektrizität und zur Geschichte der Matka-Talsperre.",
                   "category": "landmark",
                   "coords": [
@@ -3084,7 +3084,7 @@ export const northmacedoniaLandmarksV2: POI[] = [
                   ]
             },
             {
-                  "name": "Кањон Матка",
+                  "name": "Kanjon Matka",
                   "text": "Beeindruckende Schlucht des Flusses Treska, beliebt für Bootsfahrten und Wanderungen.",
                   "category": "landmark",
                   "coords": [
@@ -3093,7 +3093,7 @@ export const northmacedoniaLandmarksV2: POI[] = [
                   ]
             },
             {
-                  "name": "Манастир Успение на Пресвета Богородица",
+                  "name": "Манастир Uspenie na Presveta Bogoroditsa",
                   "text": "Orthodoxes Kloster im Gebiet des Matka-Canyons.",
                   "category": "landmark",
                   "coords": [
@@ -3102,7 +3102,7 @@ export const northmacedoniaLandmarksV2: POI[] = [
                   ]
             },
             {
-                  "name": "Шишевски Манастир",
+                  "name": "Shishevski Manastir",
                   "text": "Historisches orthodoxes Kloster mit Blick auf den Matka-Canyon.",
                   "category": "landmark",
                   "coords": [
@@ -3120,7 +3120,7 @@ export const northmacedoniaLandmarksV2: POI[] = [
                   ]
             },
             {
-                  "name": "Св. Недела",
+                  "name": "Sv. Nedela",
                   "text": "Kleine orthodoxe Kirche oder Kapelle im Matka-Canyon.",
                   "category": "religious",
                   "coords": [
@@ -3131,7 +3131,7 @@ export const northmacedoniaLandmarksV2: POI[] = [
       ],
       "hu": [
             {
-                  "name": "Пештера Врело",
+                  "name": "Peshtera Vrelo",
                   "text": "Mély víz alatti barlangrendszer a Matka-kanyonban.",
                   "category": "landmark",
                   "coords": [
@@ -3140,7 +3140,7 @@ export const northmacedoniaLandmarksV2: POI[] = [
                   ]
             },
             {
-                  "name": "Изложбен центар Матка",
+                  "name": "Izlozhben tsentar Matka",
                   "text": "Villamossággal és a Matka-gát történetével foglalkozó kiállítás.",
                   "category": "landmark",
                   "coords": [
@@ -3149,7 +3149,7 @@ export const northmacedoniaLandmarksV2: POI[] = [
                   ]
             },
             {
-                  "name": "Кањон Матка",
+                  "name": "Kanjon Matka",
                   "text": "A Treska folyó lenyűgöző kanyonja, népszerű csónaktúrák és túrázás helyszíne.",
                   "category": "landmark",
                   "coords": [
@@ -3158,7 +3158,7 @@ export const northmacedoniaLandmarksV2: POI[] = [
                   ]
             },
             {
-                  "name": "Манастир Успение на Пресвета Богородица",
+                  "name": "Манастир Uspenie na Presveta Bogoroditsa",
                   "text": "Ortodox kolostor a Matka-kanyon területén.",
                   "category": "landmark",
                   "coords": [
@@ -3167,7 +3167,7 @@ export const northmacedoniaLandmarksV2: POI[] = [
                   ]
             },
             {
-                  "name": "Шишевски Манастир",
+                  "name": "Shishevski Manastir",
                   "text": "Történelmi ortodox kolostor, amely a Matka-kanyonra néz.",
                   "category": "landmark",
                   "coords": [
@@ -3185,7 +3185,7 @@ export const northmacedoniaLandmarksV2: POI[] = [
                   ]
             },
             {
-                  "name": "Св. Недела",
+                  "name": "Sv. Nedela",
                   "text": "Kis ortodox templom vagy kápolna a Matka-kanyonban.",
                   "category": "religious",
                   "coords": [
@@ -3196,7 +3196,7 @@ export const northmacedoniaLandmarksV2: POI[] = [
       ],
       "ro": [
             {
-                  "name": "Пештера Врело",
+                  "name": "Peshtera Vrelo",
                   "text": "Sistem de peșteri subacvatice adânci situat în Canyonul Matka.",
                   "category": "landmark",
                   "coords": [
@@ -3205,7 +3205,7 @@ export const northmacedoniaLandmarksV2: POI[] = [
                   ]
             },
             {
-                  "name": "Изложбен центар Матка",
+                  "name": "Izlozhben tsentar Matka",
                   "text": "Expoziție dedicată electricității și istoriei barajului Matka.",
                   "category": "landmark",
                   "coords": [
@@ -3214,7 +3214,7 @@ export const northmacedoniaLandmarksV2: POI[] = [
                   ]
             },
             {
-                  "name": "Кањон Матка",
+                  "name": "Kanjon Matka",
                   "text": "Defileu natural spectaculos al râului Treska, popular pentru plimbări cu barca și drumeții.",
                   "category": "landmark",
                   "coords": [
@@ -3223,7 +3223,7 @@ export const northmacedoniaLandmarksV2: POI[] = [
                   ]
             },
             {
-                  "name": "Манастир Успение на Пресвета Богородица",
+                  "name": "Манастир Uspenie na Presveta Bogoroditsa",
                   "text": "Mănăstire ortodoxă situată în zona Canyonului Matka.",
                   "category": "landmark",
                   "coords": [
@@ -3232,7 +3232,7 @@ export const northmacedoniaLandmarksV2: POI[] = [
                   ]
             },
             {
-                  "name": "Шишевски Манастир",
+                  "name": "Shishevski Manastir",
                   "text": "Mănăstire ortodoxă istorică ce oferă vedere asupra Canyonului Matka.",
                   "category": "landmark",
                   "coords": [
@@ -3250,7 +3250,7 @@ export const northmacedoniaLandmarksV2: POI[] = [
                   ]
             },
             {
-                  "name": "Св. Недела",
+                  "name": "Sv. Nedela",
                   "text": "O mică biserică sau capelă ortodoxă situată în Canyonul Matka.",
                   "category": "religious",
                   "coords": [
@@ -3372,7 +3372,7 @@ export const northmacedoniaLandmarksV2: POI[] = [
     id: "northmacedonia-monastery-marko-landmarks-v2", "sights": {
       "de": [
             {
-                  "name": "Марков Манастир",
+                  "name": "Markov Manastir",
                   "text": "Ein bedeutendes mittelalterliches serbisch-orthodoxes Kloster in der Nähe von Skopje.",
                   "category": "landmark",
                   "coords": [
@@ -3383,7 +3383,7 @@ export const northmacedoniaLandmarksV2: POI[] = [
       ],
       "hu": [
             {
-                  "name": "Марков Манастир",
+                  "name": "Markov Manastir",
                   "text": "Jelentős középkori szerb ortodox kolostor Szkopje közelében.",
                   "category": "landmark",
                   "coords": [
@@ -3394,7 +3394,7 @@ export const northmacedoniaLandmarksV2: POI[] = [
       ],
       "ro": [
             {
-                  "name": "Марков Манастир",
+                  "name": "Markov Manastir",
                   "text": "O importantă mănăstire ortodoxă sârbă medievală situată lângă Skopje.",
                   "category": "landmark",
                   "coords": [

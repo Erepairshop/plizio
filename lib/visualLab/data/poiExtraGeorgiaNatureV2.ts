@@ -15,7 +15,7 @@ export const poiExtraGeorgiaNatureV2: POI[] = [
                   ]
             },
             {
-                  "name": "მყინვარი შოთა რუსთაველი - Шота Руставели",
+                  "name": "mqinvari shot`a rust`aveli - Shota Rustaveli",
                   "text": "Ein Berggipfel im Kaukasus, benannt nach dem berühmten georgischen Dichter Schota Rustaweli.",
                   "category": "landmark",
                   "coords": [
@@ -26,7 +26,7 @@ export const poiExtraGeorgiaNatureV2: POI[] = [
       ],
       "hu": [
             {
-                  "name": "შხარა - Шхара",
+                  "name": "shxara - Shkhara",
                   "text": "Grúzia legmagasabb hegycsúcsa a Nagy-Kaukázus hegységben.",
                   "category": "landmark",
                   "coords": [
@@ -35,7 +35,7 @@ export const poiExtraGeorgiaNatureV2: POI[] = [
                   ]
             },
             {
-                  "name": "მყინვარი შოთა რუსთაველი - Шота Руставели",
+                  "name": "mqinvari shot`a rust`aveli - Shota Rustaveli",
                   "text": "Hegycsúcs a Kaukázusban, amelyet a híres középkori grúz költőről, Sota Rusztaveliről neveztek el.",
                   "category": "landmark",
                   "coords": [
@@ -55,7 +55,7 @@ export const poiExtraGeorgiaNatureV2: POI[] = [
                   ]
             },
             {
-                  "name": "მყინვარი შოთა რუსთაველი - Шота Руставели",
+                  "name": "mqinvari shot`a rust`aveli - Shota Rustaveli",
                   "text": "Un vârf muntos din Caucaz, numit după celebrul poet georgian medieval Shota Rustaveli.",
                   "category": "landmark",
                   "coords": [
@@ -145,7 +145,7 @@ export const poiExtraGeorgiaNatureV2: POI[] = [
       ],
       "ro": [
             {
-                  "name": "მყინვარწვერი - Казбек",
+                  "name": "mqinvarcveri - Kazbek",
                   "text": "Un vârf muntos proeminent din Caucaz, cunoscut și sub numele de Mkinvartsveri.",
                   "category": "landmark",
                   "coords": [
@@ -204,7 +204,7 @@ export const poiExtraGeorgiaNatureV2: POI[] = [
     id: "ushba-nature-v2", "sights": {
       "de": [
             {
-                  "name": "Щуровского / შჩუროვსკის",
+                  "name": "Shchurovskogo / shch`urovskis",
                   "text": "Ein markanter Berggipfel im Kaukasus in der Nähe des Mount Ushba.",
                   "category": "landmark",
                   "coords": [
@@ -233,7 +233,7 @@ export const poiExtraGeorgiaNatureV2: POI[] = [
       ],
       "hu": [
             {
-                  "name": "Щуровского / შჩუროვსკის",
+                  "name": "Shchurovskogo / shch`urovskis",
                   "text": "Egy jellegzetes hegycsúcs a Kaukázusban, az Usba-hegy közelében.",
                   "category": "landmark",
                   "coords": [
@@ -262,7 +262,7 @@ export const poiExtraGeorgiaNatureV2: POI[] = [
       ],
       "ro": [
             {
-                  "name": "Щуровского / შჩუროვსკის",
+                  "name": "Shchurovskogo / shch`urovskis",
                   "text": "Un vârf montan proeminent în Caucaz, situat lângă muntele Ushba.",
                   "category": "landmark",
                   "coords": [
@@ -1046,7 +1046,7 @@ export const poiExtraGeorgiaNatureV2: POI[] = [
     id: "tetnuldi-nature-v2", "sights": {
       "de": [
             {
-                  "name": "გისტოლა - Гестола",
+                  "name": "gistola - Gestola",
                   "text": "Ein markanter Gipfel im Großen Kaukasus.",
                   "category": "landmark",
                   "coords": [
@@ -1055,7 +1055,7 @@ export const poiExtraGeorgiaNatureV2: POI[] = [
                   ]
             },
             {
-                  "name": "Катынтау / კათინთაუ",
+                  "name": "Katyntau / kat`int`au",
                   "text": "Ein hoher Berggipfel im zentralen Kaukasus.",
                   "category": "landmark",
                   "coords": [
@@ -1075,7 +1075,7 @@ export const poiExtraGeorgiaNatureV2: POI[] = [
       ],
       "hu": [
             {
-                  "name": "გისტოლა - Гестола",
+                  "name": "gistola - Gestola",
                   "text": "Kiemelkedő hegycsúcs a Nagy-Kaukázusban.",
                   "category": "landmark",
                   "coords": [
@@ -1084,7 +1084,7 @@ export const poiExtraGeorgiaNatureV2: POI[] = [
                   ]
             },
             {
-                  "name": "Катынтау / კათინთაუ",
+                  "name": "Katyntau / kat`int`au",
                   "text": "Magas hegycsúcs a központi Kaukázusban.",
                   "category": "landmark",
                   "coords": [
@@ -1104,7 +1104,7 @@ export const poiExtraGeorgiaNatureV2: POI[] = [
       ],
       "ro": [
             {
-                  "name": "გისტოლა - Гестола",
+                  "name": "gistola - Gestola",
                   "text": "Un vârf proeminent din munții Caucazul Mare.",
                   "category": "landmark",
                   "coords": [
@@ -1113,7 +1113,7 @@ export const poiExtraGeorgiaNatureV2: POI[] = [
                   ]
             },
             {
-                  "name": "Катынтау / კათინთაუ",
+                  "name": "Katyntau / kat`int`au",
                   "text": "Un vârf montan înalt în lanțul muntos al Caucazului central.",
                   "category": "landmark",
                   "coords": [

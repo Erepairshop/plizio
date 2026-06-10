@@ -7,7 +7,7 @@ export const mkPoisPart3: POI[] = [
     id: "MK-031-st-george-church", "sights": {
       "de": [
             {
-                  "name": "Св. Великомаченик Георгиј",
+                  "name": "Sv. Velikomachenik Georgij",
                   "text": "Eine historische Kirche aus dem 14. Jahrhundert in Staro Nagoričane, bekannt für ihre gut erhaltenen byzantinischen Fresken.",
                   "category": "religious",
                   "coords": [
@@ -18,7 +18,7 @@ export const mkPoisPart3: POI[] = [
       ],
       "hu": [
             {
-                  "name": "Св. Великомаченик Георгиј",
+                  "name": "Sv. Velikomachenik Georgij",
                   "text": "Staro Nagoričane 14. századi történelmi temploma, amely jól megőrzött bizánci freskóiról ismert.",
                   "category": "religious",
                   "coords": [
@@ -29,7 +29,7 @@ export const mkPoisPart3: POI[] = [
       ],
       "ro": [
             {
-                  "name": "Св. Великомаченик Георгиј",
+                  "name": "Sv. Velikomachenik Georgij",
                   "text": "O biserică istorică din secolul al XIV-lea din Staro Nagoričane, cunoscută pentru frescele sale bizantine bine conservate.",
                   "category": "religious",
                   "coords": [
@@ -141,7 +141,7 @@ export const mkPoisPart3: POI[] = [
     id: "MK-032-kokino-observatory", "sights": {
       "de": [
             {
-                  "name": "Кокино - Мегалитска опсерваторија",
+                  "name": "Kokino - Megalitska opservatorija",
                   "text": "Ein bedeutendes megalithisches Observatorium aus der Bronzezeit in der Nähe von Kokino.",
                   "category": "historical",
                   "coords": [
@@ -152,7 +152,7 @@ export const mkPoisPart3: POI[] = [
       ],
       "hu": [
             {
-                  "name": "Кокино - Мегалитска опсерваторија",
+                  "name": "Kokino - Megalitska opservatorija",
                   "text": "Jelentős bronzkori megalitikus obszervatórium Kokino közelében.",
                   "category": "historical",
                   "coords": [
@@ -163,7 +163,7 @@ export const mkPoisPart3: POI[] = [
       ],
       "ro": [
             {
-                  "name": "Кокино - Мегалитска опсерваторија",
+                  "name": "Kokino - Megalitska opservatorija",
                   "text": "Un important observator megalitic din epoca bronzului, situat lângă Kokino.",
                   "category": "historical",
                   "coords": [
@@ -239,7 +239,7 @@ export const mkPoisPart3: POI[] = [
                   ]
             },
             {
-                  "name": "Татар Синан Бег џамија",
+                  "name": "Tatar Sinan Beg dzhamija",
                   "text": "Eine historische Moschee aus dem 16. Jahrhundert am Stadtplatz von Kumanovo.",
                   "category": "religious",
                   "coords": [
@@ -259,7 +259,7 @@ export const mkPoisPart3: POI[] = [
                   ]
             },
             {
-                  "name": "Татар Синан Бег џамија",
+                  "name": "Tatar Sinan Beg dzhamija",
                   "text": "Egy 16. századi történelmi mecset Kumanovó főterén.",
                   "category": "religious",
                   "coords": [
@@ -279,7 +279,7 @@ export const mkPoisPart3: POI[] = [
                   ]
             },
             {
-                  "name": "Татар Синан Бег џамија",
+                  "name": "Tatar Sinan Beg dzhamija",
                   "text": "O moschee istorică din secolul al XVI-lea, situată în piața orașului Kumanovo.",
                   "category": "religious",
                   "coords": [
@@ -400,7 +400,7 @@ export const mkPoisPart3: POI[] = [
     id: "MK-033-delcevo-city-park", "sights": {
       "de": [
             {
-                  "name": "Музеј на град Делчево",
+                  "name": "Muzej na grad Delchevo",
                   "text": "Das Stadtmuseum dokumentiert die Geschichte und Entwicklung der Stadt Delčevo.",
                   "category": "museum",
                   "coords": [
@@ -409,7 +409,7 @@ export const mkPoisPart3: POI[] = [
                   ]
             },
             {
-                  "name": "Гоце Делчев (Биста)",
+                  "name": "Gotse Delchev (Bista)",
                   "text": "Ein Denkmal in Delčevo zu Ehren des revolutionären Anführers Goce Delčev.",
                   "category": "historical",
                   "coords": [
@@ -418,7 +418,7 @@ export const mkPoisPart3: POI[] = [
                   ]
             },
             {
-                  "name": "КУД Гоце Делчев",
+                  "name": "KUD Gotse Delchev",
                   "text": "Ein Kulturzentrum in Delčevo, das lokale künstlerische und folkloristische Aktivitäten fördert.",
                   "category": "cultural",
                   "coords": [
@@ -427,7 +427,7 @@ export const mkPoisPart3: POI[] = [
                   ]
             },
             {
-                  "name": "Кула",
+                  "name": "Kula",
                   "text": "Ein markantes Denkmal oder historisches Bauwerk im Stadtpark von Delčevo.",
                   "category": "historical",
                   "coords": [
@@ -438,7 +438,7 @@ export const mkPoisPart3: POI[] = [
       ],
       "hu": [
             {
-                  "name": "Музеј на град Делчево",
+                  "name": "Muzej na grad Delchevo",
                   "text": "A városi múzeum Delčevo történelmét és fejlődését dokumentálja.",
                   "category": "museum",
                   "coords": [
@@ -447,7 +447,7 @@ export const mkPoisPart3: POI[] = [
                   ]
             },
             {
-                  "name": "Гоце Делчев (Биста)",
+                  "name": "Gotse Delchev (Bista)",
                   "text": "Emlékmű Delčevóban Goce Delčev forradalmi vezető tiszteletére.",
                   "category": "historical",
                   "coords": [
@@ -456,7 +456,7 @@ export const mkPoisPart3: POI[] = [
                   ]
             },
             {
-                  "name": "КУД Гоце Делчев",
+                  "name": "KUD Gotse Delchev",
                   "text": "Kulturális központ Delčevóban, amely a helyi művészeti és folklór tevékenységeket támogatja.",
                   "category": "cultural",
                   "coords": [
@@ -465,7 +465,7 @@ export const mkPoisPart3: POI[] = [
                   ]
             },
             {
-                  "name": "Кула",
+                  "name": "Kula",
                   "text": "Jellegzetes emlékmű vagy történelmi építmény Delčevo városi parkjában.",
                   "category": "historical",
                   "coords": [
@@ -476,7 +476,7 @@ export const mkPoisPart3: POI[] = [
       ],
       "ro": [
             {
-                  "name": "Музеј на град Делчево",
+                  "name": "Muzej na grad Delchevo",
                   "text": "Muzeul orașului documentează istoria și dezvoltarea orașului Delčevo.",
                   "category": "museum",
                   "coords": [
@@ -485,7 +485,7 @@ export const mkPoisPart3: POI[] = [
                   ]
             },
             {
-                  "name": "Гоце Делчев (Биста)",
+                  "name": "Gotse Delchev (Bista)",
                   "text": "Un monument în Delčevo ridicat în onoarea liderului revoluționar Goce Delčev.",
                   "category": "historical",
                   "coords": [
@@ -494,7 +494,7 @@ export const mkPoisPart3: POI[] = [
                   ]
             },
             {
-                  "name": "КУД Гоце Делчев",
+                  "name": "KUD Gotse Delchev",
                   "text": "Un centru cultural din Delčevo, care promovează activitățile artistice și folclorice locale.",
                   "category": "cultural",
                   "coords": [
@@ -503,7 +503,7 @@ export const mkPoisPart3: POI[] = [
                   ]
             },
             {
-                  "name": "Кула",
+                  "name": "Kula",
                   "text": "Un monument proeminent sau o structură istorică în parcul central din Delčevo.",
                   "category": "historical",
                   "coords": [
@@ -1031,7 +1031,7 @@ export const mkPoisPart3: POI[] = [
     id: "MK-039-pesna-cave", "sights": {
       "de": [
             {
-                  "name": "Асаноец",
+                  "name": "Asanoets",
                   "text": "Eine natürliche Quelle in der Nähe der beeindruckenden Pesna-Höhle in Nordmazedonien.",
                   "category": "landmark",
                   "coords": [
@@ -1040,7 +1040,7 @@ export const mkPoisPart3: POI[] = [
                   ]
             },
             {
-                  "name": "Св. Архангел Михаил",
+                  "name": "Sv. Arkhangel Mikhail",
                   "text": "Eine historische orthodoxe Kirche in Devič, die dem Erzengel Michael gewidmet ist.",
                   "category": "religious",
                   "coords": [
@@ -1049,7 +1049,7 @@ export const mkPoisPart3: POI[] = [
                   ]
             },
             {
-                  "name": "Св. Георгиј",
+                  "name": "Sv. Georgij",
                   "text": "Eine dem heiligen Georg gewidmete traditionelle Kirche in der Nähe des Dorfes Devič.",
                   "category": "religious",
                   "coords": [
@@ -1058,7 +1058,7 @@ export const mkPoisPart3: POI[] = [
                   ]
             },
             {
-                  "name": "Св. Атанасиј Велики",
+                  "name": "Sv. Atanasij Veliki",
                   "text": "Eine orthodoxe Kirche in Lokvica, die dem heiligen Athanasius dem Großen geweiht ist.",
                   "category": "religious",
                   "coords": [
@@ -1067,7 +1067,7 @@ export const mkPoisPart3: POI[] = [
                   ]
             },
             {
-                  "name": "Св. Димитриј Солунски",
+                  "name": "Sv. Dimitrij Solunski",
                   "text": "Eine Kirche in Lokvica, gewidmet dem heiligen Demetrius von Thessaloniki.",
                   "category": "religious",
                   "coords": [
@@ -1076,7 +1076,7 @@ export const mkPoisPart3: POI[] = [
                   ]
             },
             {
-                  "name": "Св. Никола",
+                  "name": "Sv. Nikola",
                   "text": "Ein Sakralbau im Dorf Suvodol, der dem heiligen Nikolaus gewidmet ist.",
                   "category": "religious",
                   "coords": [
@@ -1087,7 +1087,7 @@ export const mkPoisPart3: POI[] = [
       ],
       "hu": [
             {
-                  "name": "Асаноец",
+                  "name": "Asanoets",
                   "text": "Természetes forrás a lenyűgöző észak-macedóniai Pesna-barlang közelében.",
                   "category": "landmark",
                   "coords": [
@@ -1096,7 +1096,7 @@ export const mkPoisPart3: POI[] = [
                   ]
             },
             {
-                  "name": "Св. Архангел Михаил",
+                  "name": "Sv. Arkhangel Mikhail",
                   "text": "Szent Mihály arkangyalnak szentelt történelmi ortodox templom Devičben.",
                   "category": "religious",
                   "coords": [
@@ -1105,7 +1105,7 @@ export const mkPoisPart3: POI[] = [
                   ]
             },
             {
-                  "name": "Св. Георгиј",
+                  "name": "Sv. Georgij",
                   "text": "Szent György tiszteletére szentelt hagyományos templom Devič falu közelében.",
                   "category": "religious",
                   "coords": [
@@ -1114,7 +1114,7 @@ export const mkPoisPart3: POI[] = [
                   ]
             },
             {
-                  "name": "Св. Атанасиј Велики",
+                  "name": "Sv. Atanasij Veliki",
                   "text": "Szent Atanáz tiszteletére szentelt ortodox templom Lokvicában.",
                   "category": "religious",
                   "coords": [
@@ -1123,7 +1123,7 @@ export const mkPoisPart3: POI[] = [
                   ]
             },
             {
-                  "name": "Св. Димитриј Солунски",
+                  "name": "Sv. Dimitrij Solunski",
                   "text": "Szent Demeter tiszteletére szentelt templom Lokvicában.",
                   "category": "religious",
                   "coords": [
@@ -1132,7 +1132,7 @@ export const mkPoisPart3: POI[] = [
                   ]
             },
             {
-                  "name": "Св. Никола",
+                  "name": "Sv. Nikola",
                   "text": "Szent Miklósnak szentelt vallási épület Suvodol faluban.",
                   "category": "religious",
                   "coords": [
@@ -1143,7 +1143,7 @@ export const mkPoisPart3: POI[] = [
       ],
       "ro": [
             {
-                  "name": "Асаноец",
+                  "name": "Asanoets",
                   "text": "Un izvor natural situat lângă impresionanta peșteră Pesna din Macedonia de Nord.",
                   "category": "landmark",
                   "coords": [
@@ -1152,7 +1152,7 @@ export const mkPoisPart3: POI[] = [
                   ]
             },
             {
-                  "name": "Св. Архангел Михаил",
+                  "name": "Sv. Arkhangel Mikhail",
                   "text": "O biserică ortodoxă istorică din Devič, dedicată Arhanghelului Mihail.",
                   "category": "religious",
                   "coords": [
@@ -1161,7 +1161,7 @@ export const mkPoisPart3: POI[] = [
                   ]
             },
             {
-                  "name": "Св. Георгиј",
+                  "name": "Sv. Georgij",
                   "text": "O biserică tradițională dedicată Sfântului Gheorghe, situată lângă satul Devič.",
                   "category": "religious",
                   "coords": [
@@ -1170,7 +1170,7 @@ export const mkPoisPart3: POI[] = [
                   ]
             },
             {
-                  "name": "Св. Атанасиј Велики",
+                  "name": "Sv. Atanasij Veliki",
                   "text": "O biserică ortodoxă din Lokvica, sfințită în cinstea Sfântului Atanasie cel Mare.",
                   "category": "religious",
                   "coords": [
@@ -1179,7 +1179,7 @@ export const mkPoisPart3: POI[] = [
                   ]
             },
             {
-                  "name": "Св. Димитриј Солунски",
+                  "name": "Sv. Dimitrij Solunski",
                   "text": "O biserică din Lokvica, dedicată Sfântului Dumitru din Salonic.",
                   "category": "religious",
                   "coords": [
@@ -1188,7 +1188,7 @@ export const mkPoisPart3: POI[] = [
                   ]
             },
             {
-                  "name": "Св. Никола",
+                  "name": "Sv. Nikola",
                   "text": "Un lăcaș de cult în satul Suvodol, dedicat Sfântului Nicolae.",
                   "category": "religious",
                   "coords": [
@@ -1309,7 +1309,7 @@ export const mkPoisPart3: POI[] = [
                   ]
             },
             {
-                  "name": "Асаноец",
+                  "name": "Asanoets",
                   "text": "Asanoec ist eine natürliche Quelle und wichtige Wasserquelle in Makedonski Brod.",
                   "category": "landmark",
                   "coords": [
@@ -1318,7 +1318,7 @@ export const mkPoisPart3: POI[] = [
                   ]
             },
             {
-                  "name": "Св. Никола",
+                  "name": "Sv. Nikola",
                   "text": "St. Nikolaus ist eine orthodoxe Kirche in Makedonski Brod aus dem 19. Jahrhundert.",
                   "category": "religious",
                   "coords": [
@@ -1327,7 +1327,7 @@ export const mkPoisPart3: POI[] = [
                   ]
             },
             {
-                  "name": "Св. Димитриј",
+                  "name": "Sv. Dimitrij",
                   "text": "St. Demetrius von Saloniki in Trebino ist eine Kirche mit traditionellen Fresken.",
                   "category": "religious",
                   "coords": [
@@ -1336,7 +1336,7 @@ export const mkPoisPart3: POI[] = [
                   ]
             },
             {
-                  "name": "Пресвета Богородица",
+                  "name": "Presveta Bogoroditsa",
                   "text": "Die Kirche der Heiligen Gottesmutter in Makedonski Brod hat eine schöne Ikonostase.",
                   "category": "religious",
                   "coords": [
@@ -1345,7 +1345,7 @@ export const mkPoisPart3: POI[] = [
                   ]
             },
             {
-                  "name": "Св. Георгиј",
+                  "name": "Sv. Georgij",
                   "text": "St. Georg ist eine Kirche in Makedonski Brod nahe der Ruinen der Festung Devič.",
                   "category": "religious",
                   "coords": [
@@ -1354,7 +1354,7 @@ export const mkPoisPart3: POI[] = [
                   ]
             },
             {
-                  "name": "Св. Илија",
+                  "name": "Sv. Ilija",
                   "text": "St. Eliyah ist eine Kirche in Slansko, die im August ihren Schutzpatron feiert.",
                   "category": "religious",
                   "coords": [
@@ -1374,7 +1374,7 @@ export const mkPoisPart3: POI[] = [
                   ]
             },
             {
-                  "name": "Асаноец",
+                  "name": "Asanoets",
                   "text": "Az Asanoec egy természetes forrás és létfontosságú vízforrás Makedonski Brodban.",
                   "category": "landmark",
                   "coords": [
@@ -1383,7 +1383,7 @@ export const mkPoisPart3: POI[] = [
                   ]
             },
             {
-                  "name": "Св. Никола",
+                  "name": "Sv. Nikola",
                   "text": "A Szent Miklós-templom egy 19. századi ortodox templom Makedonski Brodban.",
                   "category": "religious",
                   "coords": [
@@ -1392,7 +1392,7 @@ export const mkPoisPart3: POI[] = [
                   ]
             },
             {
-                  "name": "Св. Димитриј",
+                  "name": "Sv. Dimitrij",
                   "text": "A trebinói Szent Demeter-templom hagyományos freskókkal díszített épület.",
                   "category": "religious",
                   "coords": [
@@ -1401,7 +1401,7 @@ export const mkPoisPart3: POI[] = [
                   ]
             },
             {
-                  "name": "Пресвета Богородица",
+                  "name": "Presveta Bogoroditsa",
                   "text": "A Makedonski Brodban található Szent Istenanya-templom szép ikonosztázzal rendelkezik.",
                   "category": "religious",
                   "coords": [
@@ -1410,7 +1410,7 @@ export const mkPoisPart3: POI[] = [
                   ]
             },
             {
-                  "name": "Св. Георгиј",
+                  "name": "Sv. Georgij",
                   "text": "A Szent György-templom a Devič-erőd romjainak közelében található Makedonski Brodban.",
                   "category": "religious",
                   "coords": [
@@ -1419,7 +1419,7 @@ export const mkPoisPart3: POI[] = [
                   ]
             },
             {
-                  "name": "Св. Илија",
+                  "name": "Sv. Ilija",
                   "text": "A szlanszkói Szent Illés-templom augusztusban ünnepli védőszentjét.",
                   "category": "religious",
                   "coords": [
@@ -1439,7 +1439,7 @@ export const mkPoisPart3: POI[] = [
                   ]
             },
             {
-                  "name": "Асаноец",
+                  "name": "Asanoets",
                   "text": "Asanoec este un izvor natural și o sursă de apă vitală din Makedonski Brod.",
                   "category": "landmark",
                   "coords": [
@@ -1448,7 +1448,7 @@ export const mkPoisPart3: POI[] = [
                   ]
             },
             {
-                  "name": "Св. Никола",
+                  "name": "Sv. Nikola",
                   "text": "Sfântul Nicolae este o biserică ortodoxă din Makedonski Brod, construită în secolul al XIX-lea.",
                   "category": "religious",
                   "coords": [
@@ -1457,7 +1457,7 @@ export const mkPoisPart3: POI[] = [
                   ]
             },
             {
-                  "name": "Св. Димитриј",
+                  "name": "Sv. Dimitrij",
                   "text": "Sfântul Dumitru din Salonic din Trebino este o biserică cu fresce tradiționale.",
                   "category": "religious",
                   "coords": [
@@ -1466,7 +1466,7 @@ export const mkPoisPart3: POI[] = [
                   ]
             },
             {
-                  "name": "Пресвета Богородица",
+                  "name": "Presveta Bogoroditsa",
                   "text": "Sfânta Născătoare de Dumnezeu este o biserică din Makedonski Brod cu o catapeteasmă frumoasă.",
                   "category": "religious",
                   "coords": [
@@ -1475,7 +1475,7 @@ export const mkPoisPart3: POI[] = [
                   ]
             },
             {
-                  "name": "Св. Георгиј",
+                  "name": "Sv. Georgij",
                   "text": "Sfântul Gheorghe este o biserică din Makedonski Brod situată lângă ruinele cetății Devič.",
                   "category": "religious",
                   "coords": [
@@ -1484,7 +1484,7 @@ export const mkPoisPart3: POI[] = [
                   ]
             },
             {
-                  "name": "Св. Илија",
+                  "name": "Sv. Ilija",
                   "text": "Sfântul Ilie este o biserică din Slansko care își sărbătorește hramul în august.",
                   "category": "religious",
                   "coords": [

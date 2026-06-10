@@ -1820,7 +1820,7 @@ imageHint: "Cukal mountains karst landscape Albania",
                   ]
             },
             {
-                  "name": "Μουργκάνα",
+                  "name": "Mourgkana",
                   "text": "Hegycsúcs Albánia és Görögország határán, vadregényes alpesi tájjal.",
                   "category": "landmark",
                   "coords": [
@@ -1867,7 +1867,7 @@ imageHint: "Cukal mountains karst landscape Albania",
                   ]
             },
             {
-                  "name": "Μουργκάνα",
+                  "name": "Mourgkana",
                   "text": "Un vârf montan la granița dintre Albania și Grecia, oferind peisaje alpine accidentate.",
                   "category": "landmark",
                   "coords": [

@@ -6,7 +6,7 @@ export const northmacedoniaEconomicV2: POI[] = [
     id: "northmacedonia-bitola-industrial-zone-economic-v2", "sights": {
       "de": [
             {
-                  "name": "Зоолошка градина",
+                  "name": "Zooloshka gradina",
                   "text": "Der städtische Zoo von Bitola in Nordmazedonien.",
                   "category": "recreational",
                   "coords": [
@@ -15,7 +15,7 @@ export const northmacedoniaEconomicV2: POI[] = [
                   ]
             },
             {
-                  "name": "Битолска Тврдина",
+                  "name": "Bitolska Tvrdina",
                   "text": "Eine historische osmanische Festung und Kaserne in Bitola.",
                   "category": "castle",
                   "coords": [
@@ -33,7 +33,7 @@ export const northmacedoniaEconomicV2: POI[] = [
                   ]
             },
             {
-                  "name": "Музеј на Битола",
+                  "name": "Muzej na Bitola",
                   "text": "Das Nationalmuseum von Bitola, untergebracht in der ehemaligen Militärakademie.",
                   "category": "museum",
                   "coords": [
@@ -42,7 +42,7 @@ export const northmacedoniaEconomicV2: POI[] = [
                   ]
             },
             {
-                  "name": "Хераклеа Линкестис",
+                  "name": "Kheraklea Linkestis",
                   "text": "Eine bedeutende antike Stadt, die von Philipp II. von Makedonien gegründet wurde.",
                   "category": "historical",
                   "coords": [
@@ -51,7 +51,7 @@ export const northmacedoniaEconomicV2: POI[] = [
                   ]
             },
             {
-                  "name": "Музеј на христијанската и муслиманската култура",
+                  "name": "Muzej na khristijanskata i muslimanskata kultura",
                   "text": "Ein Museum für christliche und muslimische Kultur in der Neuen Moschee.",
                   "category": "museum",
                   "coords": [
@@ -69,7 +69,7 @@ export const northmacedoniaEconomicV2: POI[] = [
                   ]
             },
             {
-                  "name": "Св. Троица",
+                  "name": "Sv. Troitsa",
                   "text": "Eine orthodoxe Kirche der Heiligen Dreifaltigkeit in Bitola.",
                   "category": "landmark",
                   "coords": [
@@ -80,7 +80,7 @@ export const northmacedoniaEconomicV2: POI[] = [
       ],
       "hu": [
             {
-                  "name": "Зоолошка градина",
+                  "name": "Zooloshka gradina",
                   "text": "Bitola városi állatkertje Észak-Macedóniában.",
                   "category": "recreational",
                   "coords": [
@@ -89,7 +89,7 @@ export const northmacedoniaEconomicV2: POI[] = [
                   ]
             },
             {
-                  "name": "Битолска Тврдина",
+                  "name": "Bitolska Tvrdina",
                   "text": "Történelmi oszmán erőd és laktanya Bitolában.",
                   "category": "castle",
                   "coords": [
@@ -107,7 +107,7 @@ export const northmacedoniaEconomicV2: POI[] = [
                   ]
             },
             {
-                  "name": "Музеј на Битола",
+                  "name": "Muzej na Bitola",
                   "text": "Bitola nemzeti múzeuma, amely az egykori katonai akadémián található.",
                   "category": "museum",
                   "coords": [
@@ -116,7 +116,7 @@ export const northmacedoniaEconomicV2: POI[] = [
                   ]
             },
             {
-                  "name": "Хераклеа Линкестис",
+                  "name": "Kheraklea Linkestis",
                   "text": "II. Philipposz makedón király által alapított jelentős ókori város.",
                   "category": "historical",
                   "coords": [
@@ -125,7 +125,7 @@ export const northmacedoniaEconomicV2: POI[] = [
                   ]
             },
             {
-                  "name": "Музеј на христијанската и муслиманската култура",
+                  "name": "Muzej na khristijanskata i muslimanskata kultura",
                   "text": "A keresztény és muszlim kultúra múzeuma az Új-mecsetben.",
                   "category": "museum",
                   "coords": [
@@ -143,7 +143,7 @@ export const northmacedoniaEconomicV2: POI[] = [
                   ]
             },
             {
-                  "name": "Св. Троица",
+                  "name": "Sv. Troitsa",
                   "text": "Szentháromság ortodox templom Bitolában.",
                   "category": "landmark",
                   "coords": [
@@ -154,7 +154,7 @@ export const northmacedoniaEconomicV2: POI[] = [
       ],
       "ro": [
             {
-                  "name": "Зоолошка градина",
+                  "name": "Zooloshka gradina",
                   "text": "Grădina zoologică municipală din Bitola, Macedonia de Nord.",
                   "category": "recreational",
                   "coords": [
@@ -163,7 +163,7 @@ export const northmacedoniaEconomicV2: POI[] = [
                   ]
             },
             {
-                  "name": "Битолска Тврдина",
+                  "name": "Bitolska Tvrdina",
                   "text": "O fortăreață și cazarmă otomană istorică în Bitola.",
                   "category": "castle",
                   "coords": [
@@ -181,7 +181,7 @@ export const northmacedoniaEconomicV2: POI[] = [
                   ]
             },
             {
-                  "name": "Музеј на Битола",
+                  "name": "Muzej na Bitola",
                   "text": "Muzeul Național din Bitola, situat în fosta academie militară.",
                   "category": "museum",
                   "coords": [
@@ -190,7 +190,7 @@ export const northmacedoniaEconomicV2: POI[] = [
                   ]
             },
             {
-                  "name": "Хераклеа Линкестис",
+                  "name": "Kheraklea Linkestis",
                   "text": "Un important oraș antic fondat de Filip al II-lea al Macedoniei.",
                   "category": "historical",
                   "coords": [
@@ -199,7 +199,7 @@ export const northmacedoniaEconomicV2: POI[] = [
                   ]
             },
             {
-                  "name": "Музеј на христијанската и муслиманската култура",
+                  "name": "Muzej na khristijanskata i muslimanskata kultura",
                   "text": "Muzeu al culturii creștine și musulmane situat în Noua Moschee.",
                   "category": "museum",
                   "coords": [
@@ -217,7 +217,7 @@ export const northmacedoniaEconomicV2: POI[] = [
                   ]
             },
             {
-                  "name": "Св. Троица",
+                  "name": "Sv. Troitsa",
                   "text": "O biserică ortodoxă cu hramul Sfânta Treime din Bitola.",
                   "category": "landmark",
                   "coords": [
@@ -348,7 +348,7 @@ export const northmacedoniaEconomicV2: POI[] = [
     id: "northmacedonia-vardar-hydro-plant-economic-v2", "sights": {
       "de": [
             {
-                  "name": "Аџибегово",
+                  "name": "Adzhibegovo",
                   "text": "Historische Ruinen in der Nähe des Wasserkraftwerks Vardar.",
                   "category": "historical",
                   "coords": [
@@ -359,7 +359,7 @@ export const northmacedoniaEconomicV2: POI[] = [
       ],
       "hu": [
             {
-                  "name": "Аџибегово",
+                  "name": "Adzhibegovo",
                   "text": "Történelmi romok a Vardar vízerőmű közelében.",
                   "category": "historical",
                   "coords": [
@@ -370,7 +370,7 @@ export const northmacedoniaEconomicV2: POI[] = [
       ],
       "ro": [
             {
-                  "name": "Аџибегово",
+                  "name": "Adzhibegovo",
                   "text": "Ruine istorice situate în apropierea hidrocentralei Vardar.",
                   "category": "historical",
                   "coords": [
@@ -528,7 +528,7 @@ export const northmacedoniaEconomicV2: POI[] = [
     id: "northmacedonia-skopje-technological-park-economic-v2", "sights": {
       "de": [
             {
-                  "name": "Природонаучен Музеј",
+                  "name": "Prirodonauchen Muzej",
                   "text": "Ein Nationalmuseum in Skopje, das die vielfältige Flora, Fauna und Geologie Mazedoniens zeigt.",
                   "category": "museum",
                   "coords": [
@@ -537,7 +537,7 @@ export const northmacedoniaEconomicV2: POI[] = [
                   ]
             },
             {
-                  "name": "Скопско кале",
+                  "name": "Skopsko kale",
                   "text": "Eine historische byzantinische und osmanische Festung, die die Stadt Skopje überblickt.",
                   "category": "castle",
                   "coords": [
@@ -546,7 +546,7 @@ export const northmacedoniaEconomicV2: POI[] = [
                   ]
             },
             {
-                  "name": "Зоолошка градина Скопје",
+                  "name": "Zooloshka gradina Skopje",
                   "text": "Der städtische Zoo von Skopje, in dem verschiedene Tierarten aus aller Welt beheimatet sind.",
                   "category": "recreational",
                   "coords": [
@@ -555,7 +555,7 @@ export const northmacedoniaEconomicV2: POI[] = [
                   ]
             },
             {
-                  "name": "Скупи",
+                  "name": "Skupi",
                   "text": "Die Ruinen einer antiken römischen Stadt in der Nähe der heutigen Stadt Skopje.",
                   "category": "historical",
                   "coords": [
@@ -564,7 +564,7 @@ export const northmacedoniaEconomicV2: POI[] = [
                   ]
             },
             {
-                  "name": "Музеј на Македонија",
+                  "name": "Muzej na Makedonija",
                   "text": "Eine nationale Institution und ein Museum, das der Archäologie und Geschichte Mazedoniens gewidmet ist.",
                   "category": "museum",
                   "coords": [
@@ -573,7 +573,7 @@ export const northmacedoniaEconomicV2: POI[] = [
                   ]
             },
             {
-                  "name": "Македонска Национална опера и балет",
+                  "name": "Makedonska Natsionalna opera i balet",
                   "text": "Ein Berggipfel in den Albula-Alpen in der Nähe des Piz da la Margna.",
                   "category": "cultural",
                   "coords": [
@@ -582,7 +582,7 @@ export const northmacedoniaEconomicV2: POI[] = [
                   ]
             },
             {
-                  "name": "Музеј на современата уметност",
+                  "name": "Muzej na sovremenata umetnost",
                   "text": "Ein Museum im Skopje Technology Park, das der zeitgenössischen mazedonischen Kunst gewidmet ist.",
                   "category": "museum",
                   "coords": [
@@ -591,7 +591,7 @@ export const northmacedoniaEconomicV2: POI[] = [
                   ]
             },
             {
-                  "name": "Национална галерија „Даут-пашин амам“",
+                  "name": "Natsionalna galerija ,,Daut-pashin amam\"",
                   "text": "Eine Kunstgalerie in einem ehemaligen osmanischen Badehaus im Skopje Technology Park.",
                   "category": "museum",
                   "coords": [
@@ -602,7 +602,7 @@ export const northmacedoniaEconomicV2: POI[] = [
       ],
       "hu": [
             {
-                  "name": "Природонаучен Музеј",
+                  "name": "Prirodonauchen Muzej",
                   "text": "Nemzeti múzeum Szkopjéban, amely Macedónia változatos növény- és állatvilágát mutatja be.",
                   "category": "museum",
                   "coords": [
@@ -611,7 +611,7 @@ export const northmacedoniaEconomicV2: POI[] = [
                   ]
             },
             {
-                  "name": "Скопско кале",
+                  "name": "Skopsko kale",
                   "text": "Történelmi bizánci és oszmán erőd, amely Szkopje városára néz.",
                   "category": "castle",
                   "coords": [
@@ -620,7 +620,7 @@ export const northmacedoniaEconomicV2: POI[] = [
                   ]
             },
             {
-                  "name": "Зоолошка градина Скопје",
+                  "name": "Zooloshka gradina Skopje",
                   "text": "Szkopje városi állatkertje, amely a világ számos állatfajának ad otthont.",
                   "category": "recreational",
                   "coords": [
@@ -629,7 +629,7 @@ export const northmacedoniaEconomicV2: POI[] = [
                   ]
             },
             {
-                  "name": "Скупи",
+                  "name": "Skupi",
                   "text": "Egy ókori római város romjai a modern Szkopje városa közelében.",
                   "category": "historical",
                   "coords": [
@@ -638,7 +638,7 @@ export const northmacedoniaEconomicV2: POI[] = [
                   ]
             },
             {
-                  "name": "Музеј на Македонија",
+                  "name": "Muzej na Makedonija",
                   "text": "Nemzeti intézmény és múzeum, amely Macedónia régészetével és történelmével foglalkozik.",
                   "category": "museum",
                   "coords": [
@@ -647,7 +647,7 @@ export const northmacedoniaEconomicV2: POI[] = [
                   ]
             },
             {
-                  "name": "Македонска Национална опера и балет",
+                  "name": "Makedonska Natsionalna opera i balet",
                   "text": "Hegycsúcs az Albula-Alpokban, a Piz da la Margna közelében.",
                   "category": "cultural",
                   "coords": [
@@ -656,7 +656,7 @@ export const northmacedoniaEconomicV2: POI[] = [
                   ]
             },
             {
-                  "name": "Музеј на современата уметност",
+                  "name": "Muzej na sovremenata umetnost",
                   "text": "A kortárs macedón művészetnek szentelt múzeum a Skopje Technology Park területén.",
                   "category": "museum",
                   "coords": [
@@ -665,7 +665,7 @@ export const northmacedoniaEconomicV2: POI[] = [
                   ]
             },
             {
-                  "name": "Национална галерија „Даут-пашин амам“",
+                  "name": "Natsionalna galerija ,,Daut-pashin amam\"",
                   "text": "Egy egykori oszmán fürdőházban működő művészeti galéria a Skopje Technology Parkban.",
                   "category": "museum",
                   "coords": [
@@ -676,7 +676,7 @@ export const northmacedoniaEconomicV2: POI[] = [
       ],
       "ro": [
             {
-                  "name": "Природонаучен Музеј",
+                  "name": "Prirodonauchen Muzej",
                   "text": "Un muzeu național din Skopje care prezintă flora, fauna și geologia diversă a Macedoniei.",
                   "category": "museum",
                   "coords": [
@@ -685,7 +685,7 @@ export const northmacedoniaEconomicV2: POI[] = [
                   ]
             },
             {
-                  "name": "Скопско кале",
+                  "name": "Skopsko kale",
                   "text": "O fortăreață istorică bizantină și otomană care domină orașul Skopje.",
                   "category": "castle",
                   "coords": [
@@ -694,7 +694,7 @@ export const northmacedoniaEconomicV2: POI[] = [
                   ]
             },
             {
-                  "name": "Зоолошка градина Скопје",
+                  "name": "Zooloshka gradina Skopje",
                   "text": "Grădina zoologică municipală din Skopje, care găzduiește diverse specii de animale din întreaga lume.",
                   "category": "recreational",
                   "coords": [
@@ -703,7 +703,7 @@ export const northmacedoniaEconomicV2: POI[] = [
                   ]
             },
             {
-                  "name": "Скупи",
+                  "name": "Skupi",
                   "text": "Ruinele unui oraș roman antic situat lângă orașul modern Skopje.",
                   "category": "historical",
                   "coords": [
@@ -712,7 +712,7 @@ export const northmacedoniaEconomicV2: POI[] = [
                   ]
             },
             {
-                  "name": "Музеј на Македонија",
+                  "name": "Muzej na Makedonija",
                   "text": "O instituție națională și un muzeu dedicat arheologiei și istoriei Macedoniei.",
                   "category": "museum",
                   "coords": [
@@ -721,7 +721,7 @@ export const northmacedoniaEconomicV2: POI[] = [
                   ]
             },
             {
-                  "name": "Македонска Национална опера и балет",
+                  "name": "Makedonska Natsionalna opera i balet",
                   "text": "Un vârf muntos în Alpii Albula, în apropiere de Piz da la Margna.",
                   "category": "cultural",
                   "coords": [
@@ -730,7 +730,7 @@ export const northmacedoniaEconomicV2: POI[] = [
                   ]
             },
             {
-                  "name": "Музеј на современата уметност",
+                  "name": "Muzej na sovremenata umetnost",
                   "text": "Un muzeu din Skopje Technology Park dedicat artei contemporane macedonene.",
                   "category": "museum",
                   "coords": [
@@ -739,7 +739,7 @@ export const northmacedoniaEconomicV2: POI[] = [
                   ]
             },
             {
-                  "name": "Национална галерија „Даут-пашин амам“",
+                  "name": "Natsionalna galerija ,,Daut-pashin amam\"",
                   "text": "O galerie de artă situată într-o fostă baie otomană din Skopje Technology Park.",
                   "category": "museum",
                   "coords": [
@@ -870,7 +870,7 @@ export const northmacedoniaEconomicV2: POI[] = [
     id: "northmacedonia-stip-textile-district-economic-v2", "sights": {
       "de": [
             {
-                  "name": "ЗОО Парк „Бриони“",
+                  "name": "ZOO Park ,,Brioni\"",
                   "text": "Ein kleiner Zoo im Stadtteil Stip, der verschiedene Tierarten beherbergt.",
                   "category": "recreational",
                   "coords": [
@@ -879,7 +879,7 @@ export const northmacedoniaEconomicV2: POI[] = [
                   ]
             },
             {
-                  "name": "Бања \"Ќежовица\"",
+                  "name": "Banja \"Kjezhovitsa\"",
                   "text": "Ein bekanntes Kurzentrum in Stip, das für seine Thermalquellen genutzt wird.",
                   "category": "landmark",
                   "coords": [
@@ -888,7 +888,7 @@ export const northmacedoniaEconomicV2: POI[] = [
                   ]
             },
             {
-                  "name": "Успение на Пресвета Богородица",
+                  "name": "Uspenie na Presveta Bogoroditsa",
                   "text": "Eine bedeutende orthodoxe Kirche im Viertel Novo Selo in Stip.",
                   "category": "religious",
                   "coords": [
@@ -897,7 +897,7 @@ export const northmacedoniaEconomicV2: POI[] = [
                   ]
             },
             {
-                  "name": "Св. Спас",
+                  "name": "Sv. Spas",
                   "text": "Eine historische Kirche in Novo Selo, die der Himmelfahrt Christi geweiht ist.",
                   "category": "religious",
                   "coords": [
@@ -906,7 +906,7 @@ export const northmacedoniaEconomicV2: POI[] = [
                   ]
             },
             {
-                  "name": "Св. Архангел Михаил (Главатов)",
+                  "name": "Sv. Arkhangel Mikhail (Главатов)",
                   "text": "Eine orthodoxe Kirche in Stip, die dem Erzengel Michael gewidmet ist.",
                   "category": "religious",
                   "coords": [
@@ -915,7 +915,7 @@ export const northmacedoniaEconomicV2: POI[] = [
                   ]
             },
             {
-                  "name": "Св. Архангел Михаил (Фитијата)",
+                  "name": "Sv. Arkhangel Mikhail (Фитијата)",
                   "text": "Ein religiöses Bauwerk in Stip, bekannt als die Kirche des Erzengels Michael (Fitijata).",
                   "category": "religious",
                   "coords": [
@@ -924,7 +924,7 @@ export const northmacedoniaEconomicV2: POI[] = [
                   ]
             },
             {
-                  "name": "Св. Троица",
+                  "name": "Sv. Troitsa",
                   "text": "Die Dreifaltigkeitskirche ist ein markantes religiöses Gebäude in Novo Selo.",
                   "category": "religious",
                   "coords": [
@@ -933,7 +933,7 @@ export const northmacedoniaEconomicV2: POI[] = [
                   ]
             },
             {
-                  "name": "Св. Јован Крстител",
+                  "name": "Sv. Jovan Krstitel",
                   "text": "Eine der Johannes dem Täufer geweihte Kirche in der Stadt Stip.",
                   "category": "religious",
                   "coords": [
@@ -944,7 +944,7 @@ export const northmacedoniaEconomicV2: POI[] = [
       ],
       "hu": [
             {
-                  "name": "ЗОО Парк „Бриони“",
+                  "name": "ZOO Park ,,Brioni\"",
                   "text": "Kis állatkert Stip városrészében, amely különféle állatfajoknak ad otthont.",
                   "category": "recreational",
                   "coords": [
@@ -953,7 +953,7 @@ export const northmacedoniaEconomicV2: POI[] = [
                   ]
             },
             {
-                  "name": "Бања \"Ќежовица\"",
+                  "name": "Banja \"Kjezhovitsa\"",
                   "text": "Ismert gyógyközpont Stipben, amelyet termálforrásai miatt látogatnak.",
                   "category": "landmark",
                   "coords": [
@@ -962,7 +962,7 @@ export const northmacedoniaEconomicV2: POI[] = [
                   ]
             },
             {
-                  "name": "Успение на Пресвета Богородица",
+                  "name": "Uspenie na Presveta Bogoroditsa",
                   "text": "Jelentős ortodox templom Stip Novo Selo negyedében.",
                   "category": "religious",
                   "coords": [
@@ -971,7 +971,7 @@ export const northmacedoniaEconomicV2: POI[] = [
                   ]
             },
             {
-                  "name": "Св. Спас",
+                  "name": "Sv. Spas",
                   "text": "Történelmi templom Novo Selóban, amelyet Krisztus mennybemenetelének szenteltek.",
                   "category": "religious",
                   "coords": [
@@ -980,7 +980,7 @@ export const northmacedoniaEconomicV2: POI[] = [
                   ]
             },
             {
-                  "name": "Св. Архангел Михаил (Главатов)",
+                  "name": "Sv. Arkhangel Mikhail (Главатов)",
                   "text": "Szent Mihály arkangyalnak szentelt ortodox templom Stipben.",
                   "category": "religious",
                   "coords": [
@@ -989,7 +989,7 @@ export const northmacedoniaEconomicV2: POI[] = [
                   ]
             },
             {
-                  "name": "Св. Архангел Михаил (Фитијата)",
+                  "name": "Sv. Arkhangel Mikhail (Фитијата)",
                   "text": "Vallási épület Stipben, amely Szent Mihály arkangyal (Fitijata) templomaként ismert.",
                   "category": "religious",
                   "coords": [
@@ -998,7 +998,7 @@ export const northmacedoniaEconomicV2: POI[] = [
                   ]
             },
             {
-                  "name": "Св. Троица",
+                  "name": "Sv. Troitsa",
                   "text": "A Szentháromság-templom Novo Selo egyik jellegzetes vallási épülete.",
                   "category": "religious",
                   "coords": [
@@ -1007,7 +1007,7 @@ export const northmacedoniaEconomicV2: POI[] = [
                   ]
             },
             {
-                  "name": "Св. Јован Крстител",
+                  "name": "Sv. Jovan Krstitel",
                   "text": "Keresztelő Szent Jánosnak szentelt templom Stip városában.",
                   "category": "religious",
                   "coords": [
@@ -1018,7 +1018,7 @@ export const northmacedoniaEconomicV2: POI[] = [
       ],
       "ro": [
             {
-                  "name": "ЗОО Парк „Бриони“",
+                  "name": "ZOO Park ,,Brioni\"",
                   "text": "O grădină zoologică mică în districtul Stip, care găzduiește diverse specii de animale.",
                   "category": "recreational",
                   "coords": [
@@ -1027,7 +1027,7 @@ export const northmacedoniaEconomicV2: POI[] = [
                   ]
             },
             {
-                  "name": "Бања \"Ќежовица\"",
+                  "name": "Banja \"Kjezhovitsa\"",
                   "text": "Un centru balnear cunoscut în Stip, utilizat pentru izvoarele sale termale.",
                   "category": "landmark",
                   "coords": [
@@ -1036,7 +1036,7 @@ export const northmacedoniaEconomicV2: POI[] = [
                   ]
             },
             {
-                  "name": "Успение на Пресвета Богородица",
+                  "name": "Uspenie na Presveta Bogoroditsa",
                   "text": "O biserică ortodoxă importantă din cartierul Novo Selo din Stip.",
                   "category": "religious",
                   "coords": [
@@ -1045,7 +1045,7 @@ export const northmacedoniaEconomicV2: POI[] = [
                   ]
             },
             {
-                  "name": "Св. Спас",
+                  "name": "Sv. Spas",
                   "text": "O biserică istorică din Novo Selo, dedicată Înălțării Domnului.",
                   "category": "religious",
                   "coords": [
@@ -1054,7 +1054,7 @@ export const northmacedoniaEconomicV2: POI[] = [
                   ]
             },
             {
-                  "name": "Св. Архангел Михаил (Главатов)",
+                  "name": "Sv. Arkhangel Mikhail (Главатов)",
                   "text": "O biserică ortodoxă din Stip, dedicată Sfântului Arhanghel Mihail.",
                   "category": "religious",
                   "coords": [
@@ -1063,7 +1063,7 @@ export const northmacedoniaEconomicV2: POI[] = [
                   ]
             },
             {
-                  "name": "Св. Архангел Михаил (Фитијата)",
+                  "name": "Sv. Arkhangel Mikhail (Фитијата)",
                   "text": "Un edificiu religios din Stip, cunoscut sub numele de biserica Sfântului Arhanghel Mihail (Fitijata).",
                   "category": "religious",
                   "coords": [
@@ -1072,7 +1072,7 @@ export const northmacedoniaEconomicV2: POI[] = [
                   ]
             },
             {
-                  "name": "Св. Троица",
+                  "name": "Sv. Troitsa",
                   "text": "Biserica Sfânta Treime este o clădire religioasă proeminentă din Novo Selo.",
                   "category": "religious",
                   "coords": [
@@ -1081,7 +1081,7 @@ export const northmacedoniaEconomicV2: POI[] = [
                   ]
             },
             {
-                  "name": "Св. Јован Крстител",
+                  "name": "Sv. Jovan Krstitel",
                   "text": "O biserică dedicată Sfântului Ioan Botezătorul în orașul Stip.",
                   "category": "religious",
                   "coords": [
@@ -2121,7 +2121,7 @@ export const northmacedoniaEconomicV2: POI[] = [
                   ]
             },
             {
-                  "name": "Татар Синан Бег џамија",
+                  "name": "Tatar Sinan Beg dzhamija",
                   "text": "Eine historische osmanische Moschee aus dem 16. Jahrhundert in Kumanovo.",
                   "category": "religious",
                   "coords": [
@@ -2141,7 +2141,7 @@ export const northmacedoniaEconomicV2: POI[] = [
                   ]
             },
             {
-                  "name": "Татар Синан Бег џамија",
+                  "name": "Tatar Sinan Beg dzhamija",
                   "text": "Történelmi, 16. századi oszmán mecset Kumanovóban.",
                   "category": "religious",
                   "coords": [
@@ -2161,7 +2161,7 @@ export const northmacedoniaEconomicV2: POI[] = [
                   ]
             },
             {
-                  "name": "Татар Синан Бег џамија",
+                  "name": "Tatar Sinan Beg dzhamija",
                   "text": "O moschee otomană istorică din secolul al XVI-lea în Kumanovo.",
                   "category": "religious",
                   "coords": [
@@ -2449,7 +2449,7 @@ export const northmacedoniaEconomicV2: POI[] = [
     id: "northmacedonia-gazi-baba-industrial-zone-economic-v2", "sights": {
       "de": [
             {
-                  "name": "Скопско кале",
+                  "name": "Skopsko kale",
                   "text": "Eine historische Festung am höchsten Punkt der Stadt mit Blick auf den Fluss Vardar.",
                   "category": "castle",
                   "coords": [
@@ -2458,7 +2458,7 @@ export const northmacedoniaEconomicV2: POI[] = [
                   ]
             },
             {
-                  "name": "Музеј на Македонија",
+                  "name": "Muzej na Makedonija",
                   "text": "Eines der ältesten Museen des Landes mit archäologischen und ethnologischen Sammlungen.",
                   "category": "museum",
                   "coords": [
@@ -2467,7 +2467,7 @@ export const northmacedoniaEconomicV2: POI[] = [
                   ]
             },
             {
-                  "name": "Македонска Национална опера и балет",
+                  "name": "Makedonska Natsionalna opera i balet",
                   "text": "Die führende Kulturinstitution für Opern- und Ballettaufführungen in Skopje.",
                   "category": "cultural",
                   "coords": [
@@ -2476,7 +2476,7 @@ export const northmacedoniaEconomicV2: POI[] = [
                   ]
             },
             {
-                  "name": "Музеј на современата уметност",
+                  "name": "Muzej na sovremenata umetnost",
                   "text": "Ein bedeutendes Museum mit einer umfangreichen Sammlung moderner und zeitgenössischer Kunst.",
                   "category": "museum",
                   "coords": [
@@ -2485,7 +2485,7 @@ export const northmacedoniaEconomicV2: POI[] = [
                   ]
             },
             {
-                  "name": "Национална галерија „Даут-пашин амам“",
+                  "name": "Natsionalna galerija ,,Daut-pashin amam\"",
                   "text": "Ein ehemaliges osmanisches Bad aus dem 15. Jahrhundert, das heute als nationale Kunstgalerie dient.",
                   "category": "museum",
                   "coords": [
@@ -2503,7 +2503,7 @@ export const northmacedoniaEconomicV2: POI[] = [
                   ]
             },
             {
-                  "name": "Музеј на Град Скопје",
+                  "name": "Muzej na Grad Skopje",
                   "text": "Dieses im alten Bahnhof untergebrachte Museum zeigt die Geschichte und Kultur der Stadt.",
                   "category": "museum",
                   "coords": [
@@ -2514,7 +2514,7 @@ export const northmacedoniaEconomicV2: POI[] = [
       ],
       "hu": [
             {
-                  "name": "Скопско кале",
+                  "name": "Skopsko kale",
                   "text": "Történelmi erőd a város legmagasabb pontján, kilátással a Vardar-folyóra.",
                   "category": "castle",
                   "coords": [
@@ -2523,7 +2523,7 @@ export const northmacedoniaEconomicV2: POI[] = [
                   ]
             },
             {
-                  "name": "Музеј на Македонија",
+                  "name": "Muzej na Makedonija",
                   "text": "Az ország egyik legrégebbi múzeuma, régészeti és néprajzi gyűjteményekkel.",
                   "category": "museum",
                   "coords": [
@@ -2532,7 +2532,7 @@ export const northmacedoniaEconomicV2: POI[] = [
                   ]
             },
             {
-                  "name": "Македонска Национална опера и балет",
+                  "name": "Makedonska Natsionalna opera i balet",
                   "text": "Szkopje vezető kulturális intézménye opera- és balettelőadások számára.",
                   "category": "cultural",
                   "coords": [
@@ -2541,7 +2541,7 @@ export const northmacedoniaEconomicV2: POI[] = [
                   ]
             },
             {
-                  "name": "Музеј на современата уметност",
+                  "name": "Muzej na sovremenata umetnost",
                   "text": "Jelentős múzeum, amely modern és kortárs művészeti gyűjteménynek ad otthont.",
                   "category": "museum",
                   "coords": [
@@ -2550,7 +2550,7 @@ export const northmacedoniaEconomicV2: POI[] = [
                   ]
             },
             {
-                  "name": "Национална галерија „Даут-пашин амам“",
+                  "name": "Natsionalna galerija ,,Daut-pashin amam\"",
                   "text": "Egykori 15. századi oszmán fürdő, amely ma nemzeti művészeti galériaként működik.",
                   "category": "museum",
                   "coords": [
@@ -2559,7 +2559,7 @@ export const northmacedoniaEconomicV2: POI[] = [
                   ]
             },
             {
-                  "name": "Музеј на македонската борба",
+                  "name": "Muzej na makedonskata borba",
                   "text": "A macedón nép függetlenségi harcának történetét bemutató múzeum.",
                   "category": "museum",
                   "coords": [
@@ -2568,7 +2568,7 @@ export const northmacedoniaEconomicV2: POI[] = [
                   ]
             },
             {
-                  "name": "Музеј на Град Скопје",
+                  "name": "Muzej na Grad Skopje",
                   "text": "A régi vasútállomáson található múzeum a város történelmét és kultúráját mutatja be.",
                   "category": "museum",
                   "coords": [
@@ -2579,7 +2579,7 @@ export const northmacedoniaEconomicV2: POI[] = [
       ],
       "ro": [
             {
-                  "name": "Скопско кале",
+                  "name": "Skopsko kale",
                   "text": "O cetate istorică situată pe cel mai înalt punct al orașului, cu vedere la râul Vardar.",
                   "category": "castle",
                   "coords": [
@@ -2588,7 +2588,7 @@ export const northmacedoniaEconomicV2: POI[] = [
                   ]
             },
             {
-                  "name": "Музеј на Македонија",
+                  "name": "Muzej na Makedonija",
                   "text": "Unul dintre cele mai vechi muzee din țară, cu colecții arheologice și etnologice.",
                   "category": "museum",
                   "coords": [
@@ -2597,7 +2597,7 @@ export const northmacedoniaEconomicV2: POI[] = [
                   ]
             },
             {
-                  "name": "Македонска Национална опера и балет",
+                  "name": "Makedonska Natsionalna opera i balet",
                   "text": "Principala instituție culturală pentru spectacole de operă și balet din Skopje.",
                   "category": "cultural",
                   "coords": [
@@ -2606,7 +2606,7 @@ export const northmacedoniaEconomicV2: POI[] = [
                   ]
             },
             {
-                  "name": "Музеј на современата уметност",
+                  "name": "Muzej na sovremenata umetnost",
                   "text": "Un muzeu major care găzduiește o colecție semnificativă de artă modernă și contemporană.",
                   "category": "museum",
                   "coords": [
@@ -2615,7 +2615,7 @@ export const northmacedoniaEconomicV2: POI[] = [
                   ]
             },
             {
-                  "name": "Национална галерија „Даут-пашин амам“",
+                  "name": "Natsionalna galerija ,,Daut-pashin amam\"",
                   "text": "O fostă baie otomană din secolul al XV-lea, care servește acum ca galerie națională de artă.",
                   "category": "museum",
                   "coords": [
@@ -2624,7 +2624,7 @@ export const northmacedoniaEconomicV2: POI[] = [
                   ]
             },
             {
-                  "name": "Музеј на македонската борба",
+                  "name": "Muzej na makedonskata borba",
                   "text": "Un muzeu dedicat istoriei luptei poporului macedonean pentru independență.",
                   "category": "museum",
                   "coords": [
@@ -2633,7 +2633,7 @@ export const northmacedoniaEconomicV2: POI[] = [
                   ]
             },
             {
-                  "name": "Музеј на Град Скопје",
+                  "name": "Muzej na Grad Skopje",
                   "text": "Situat în vechea gară, acest muzeu prezintă istoria și cultura orașului.",
                   "category": "museum",
                   "coords": [

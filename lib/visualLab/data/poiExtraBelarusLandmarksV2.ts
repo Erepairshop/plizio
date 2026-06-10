@@ -277,7 +277,7 @@ export const belarusLandmarksV2: POI[] = [
     id: "belarus-kosava-castle-landmarks-v2", "sights": {
       "de": [
             {
-                  "name": "Палац Пуслоўскіх",
+                  "name": "Palats Puslouskikh",
                   "text": "Ein prächtiger Palast des Geschlechts Pusłowski in der Nähe von Kosava.",
                   "category": "castle",
                   "coords": [
@@ -286,7 +286,7 @@ export const belarusLandmarksV2: POI[] = [
                   ]
             },
             {
-                  "name": "Царква св. Антонія Вялікага (1868)",
+                  "name": "Tsarkva sv. Antoniia Vialikaga (1868)",
                   "text": "Eine im Jahr 1868 errichtete St.-Antonius-Kirche in Kosava.",
                   "category": "landmark",
                   "coords": [
@@ -295,7 +295,7 @@ export const belarusLandmarksV2: POI[] = [
                   ]
             },
             {
-                  "name": "Касцёл Найсвяцейшай Тройцы (1877)",
+                  "name": "Kastsiol Naisviatseishai Troitsy (1877)",
                   "text": "Eine historische Dreifaltigkeitskirche aus dem Jahr 1877 in Kosava.",
                   "category": "landmark",
                   "coords": [
@@ -304,7 +304,7 @@ export const belarusLandmarksV2: POI[] = [
                   ]
             },
             {
-                  "name": "Музей Тадэвуша Касцюшкі",
+                  "name": "Muzei Tadevusha Kastsiushki",
                   "text": "Das Museum im Geburtshaus von Tadeusz Kościuszko in der Nähe des Kosava-Palastes.",
                   "category": "historical",
                   "coords": [
@@ -313,7 +313,7 @@ export const belarusLandmarksV2: POI[] = [
                   ]
             },
             {
-                  "name": "Царква Святога Георгія",
+                  "name": "Tsarkva Sviatoga Georgiia",
                   "text": "Eine dem heiligen Georg geweihte Kirche in Kosava.",
                   "category": "religious",
                   "coords": [
@@ -324,7 +324,7 @@ export const belarusLandmarksV2: POI[] = [
       ],
       "hu": [
             {
-                  "name": "Палац Пуслоўскіх",
+                  "name": "Palats Puslouskikh",
                   "text": "A Pusłowski család impozáns palotája Koszava közelében.",
                   "category": "castle",
                   "coords": [
@@ -333,7 +333,7 @@ export const belarusLandmarksV2: POI[] = [
                   ]
             },
             {
-                  "name": "Царква св. Антонія Вялікага (1868)",
+                  "name": "Tsarkva sv. Antoniia Vialikaga (1868)",
                   "text": "1868-ban épült Szent Antal-templom Koszavában.",
                   "category": "landmark",
                   "coords": [
@@ -342,7 +342,7 @@ export const belarusLandmarksV2: POI[] = [
                   ]
             },
             {
-                  "name": "Касцёл Найсвяцейшай Тройцы (1877)",
+                  "name": "Kastsiol Naisviatseishai Troitsy (1877)",
                   "text": "Történelmi Szentháromság-templom 1877-ből Koszavában.",
                   "category": "landmark",
                   "coords": [
@@ -351,7 +351,7 @@ export const belarusLandmarksV2: POI[] = [
                   ]
             },
             {
-                  "name": "Музей Тадэвуша Касцюшкі",
+                  "name": "Muzei Tadevusha Kastsiushki",
                   "text": "Tadeusz Kościuszko szülőházában berendezett múzeum a koszavai palota mellett.",
                   "category": "historical",
                   "coords": [
@@ -360,7 +360,7 @@ export const belarusLandmarksV2: POI[] = [
                   ]
             },
             {
-                  "name": "Царква Святога Георгія",
+                  "name": "Tsarkva Sviatoga Georgiia",
                   "text": "Szent György tiszteletére szentelt templom Koszavában.",
                   "category": "religious",
                   "coords": [
@@ -371,7 +371,7 @@ export const belarusLandmarksV2: POI[] = [
       ],
       "ro": [
             {
-                  "name": "Палац Пуслоўскіх",
+                  "name": "Palats Puslouskikh",
                   "text": "Un palat grandios al familiei Pusłowski, situat lângă Kosava.",
                   "category": "castle",
                   "coords": [
@@ -380,7 +380,7 @@ export const belarusLandmarksV2: POI[] = [
                   ]
             },
             {
-                  "name": "Царква св. Антонія Вялікага (1868)",
+                  "name": "Tsarkva sv. Antoniia Vialikaga (1868)",
                   "text": "Biserica Sfântul Anton, construită în anul 1868 în Kosava.",
                   "category": "landmark",
                   "coords": [
@@ -389,7 +389,7 @@ export const belarusLandmarksV2: POI[] = [
                   ]
             },
             {
-                  "name": "Касцёл Найсвяцейшай Тройцы (1877)",
+                  "name": "Kastsiol Naisviatseishai Troitsy (1877)",
                   "text": "Biserica Sfânta Treime, datând din 1877, situată în Kosava.",
                   "category": "landmark",
                   "coords": [
@@ -398,7 +398,7 @@ export const belarusLandmarksV2: POI[] = [
                   ]
             },
             {
-                  "name": "Музей Тадэвуша Касцюшкі",
+                  "name": "Muzei Tadevusha Kastsiushki",
                   "text": "Muzeul amenajat în casa natală a lui Tadeusz Kościuszko, lângă palatul din Kosava.",
                   "category": "historical",
                   "coords": [
@@ -407,7 +407,7 @@ export const belarusLandmarksV2: POI[] = [
                   ]
             },
             {
-                  "name": "Царква Святога Георгія",
+                  "name": "Tsarkva Sviatoga Georgiia",
                   "text": "O biserică dedicată Sfântului Gheorghe în Kosava.",
                   "category": "religious",
                   "coords": [
@@ -511,7 +511,7 @@ export const belarusLandmarksV2: POI[] = [
     id: "belarus-ruzhany-palace-ruins-landmarks-v2", "sights": {
       "de": [
             {
-                  "name": "Палацавы комплекс князёў Сапегаў",
+                  "name": "Palatsavy kompleks kniaziou Sapegau",
                   "text": "Die Ruinen einer prächtigen Residenz der Familie Sapieha, einst ein bedeutendes politisches Zentrum.",
                   "category": "castle",
                   "coords": [
@@ -522,7 +522,7 @@ export const belarusLandmarksV2: POI[] = [
       ],
       "hu": [
             {
-                  "name": "Палацавы комплекс князёў Сапегаў",
+                  "name": "Palatsavy kompleks kniaziou Sapegau",
                   "text": "A Sapieha család pompás rezidenciájának romjai, amely egykor jelentős politikai központ volt.",
                   "category": "castle",
                   "coords": [
@@ -533,7 +533,7 @@ export const belarusLandmarksV2: POI[] = [
       ],
       "ro": [
             {
-                  "name": "Палацавы комплекс князёў Сапегаў",
+                  "name": "Palatsavy kompleks kniaziou Sapegau",
                   "text": "Ruinele unei reședințe magnifice a familiei Sapieha, odinioară un important centru politic.",
                   "category": "castle",
                   "coords": [
@@ -647,7 +647,7 @@ export const belarusLandmarksV2: POI[] = [
     id: "belarus-kamyanets-tower-landmarks-v2", "sights": {
       "de": [
             {
-                  "name": "Камянецкая вежа",
+                  "name": "Kamianetskaia vezha",
                   "text": "Ein gut erhaltener Backsteinturm aus dem 13. Jahrhundert, auch als Weißer Turm bekannt.",
                   "category": "landmark",
                   "coords": [
@@ -658,7 +658,7 @@ export const belarusLandmarksV2: POI[] = [
       ],
       "hu": [
             {
-                  "name": "Камянецкая вежа",
+                  "name": "Kamianetskaia vezha",
                   "text": "Egy jó állapotban fennmaradt 13. századi téglatorony, amelyet Fehér-toronyként is ismernek.",
                   "category": "landmark",
                   "coords": [
@@ -669,7 +669,7 @@ export const belarusLandmarksV2: POI[] = [
       ],
       "ro": [
             {
-                  "name": "Камянецкая вежа",
+                  "name": "Kamianetskaia vezha",
                   "text": "Un turn de cărămidă bine conservat din secolul al XIII-lea, cunoscut și sub numele de Turnul Alb.",
                   "category": "landmark",
                   "coords": [
@@ -1057,7 +1057,7 @@ export const belarusLandmarksV2: POI[] = [
     id: "belarus-halshany-castle-ruins-landmarks-v2", "sights": {
       "de": [
             {
-                  "name": "Гальшанскі замак Сапегаў",
+                  "name": "Gal'shanski zamak Sapegau",
                   "text": "Die Ruinen eines befestigten Schlosses aus dem 17. Jahrhundert, einst Sitz der Familie Sapieha.",
                   "category": "castle",
                   "coords": [
@@ -1066,7 +1066,7 @@ export const belarusLandmarksV2: POI[] = [
                   ]
             },
             {
-                  "name": "Гандлёвыя рады (XIX ст.)",
+                  "name": "XIX",
                   "text": "Historische Arkadengänge aus dem 19. Jahrhundert im Zentrum von Halshany.",
                   "category": "landmark",
                   "coords": [
@@ -1075,7 +1075,7 @@ export const belarusLandmarksV2: POI[] = [
                   ]
             },
             {
-                  "name": "Касцёл Святога Яна Хрысціцеля",
+                  "name": "Kastsiol Sviatoga Iana Khrystsitselia",
                   "text": "Eine bedeutende Barockkirche und ein ehemaliges Franziskanerkloster in Halshany.",
                   "category": "religious",
                   "coords": [
@@ -1086,7 +1086,7 @@ export const belarusLandmarksV2: POI[] = [
       ],
       "hu": [
             {
-                  "name": "Гальшанскі замак Сапегаў",
+                  "name": "Gal'shanski zamak Sapegau",
                   "text": "Egy 17. századi erődített kastély romjai, amely egykor a Sapieha család székhelye volt.",
                   "category": "castle",
                   "coords": [
@@ -1095,7 +1095,7 @@ export const belarusLandmarksV2: POI[] = [
                   ]
             },
             {
-                  "name": "Гандлёвыя рады (XIX ст.)",
+                  "name": "XIX",
                   "text": "19. századi történelmi árkádsor Halshany központjában.",
                   "category": "landmark",
                   "coords": [
@@ -1104,7 +1104,7 @@ export const belarusLandmarksV2: POI[] = [
                   ]
             },
             {
-                  "name": "Касцёл Святога Яна Хрысціцеля",
+                  "name": "Kastsiol Sviatoga Iana Khrystsitselia",
                   "text": "Jelentős barokk templom és egykori ferences kolostor Halshanyban.",
                   "category": "religious",
                   "coords": [
@@ -1115,7 +1115,7 @@ export const belarusLandmarksV2: POI[] = [
       ],
       "ro": [
             {
-                  "name": "Гальшанскі замак Сапегаў",
+                  "name": "Gal'shanski zamak Sapegau",
                   "text": "Ruinele unui castel fortificat din secolul al XVII-lea, fostă reședință a familiei Sapieha.",
                   "category": "castle",
                   "coords": [
@@ -1124,7 +1124,7 @@ export const belarusLandmarksV2: POI[] = [
                   ]
             },
             {
-                  "name": "Гандлёвыя рады (XIX ст.)",
+                  "name": "XIX",
                   "text": "Arcade comerciale istorice din secolul al XIX-lea în centrul localității Halshany.",
                   "category": "landmark",
                   "coords": [
@@ -1133,7 +1133,7 @@ export const belarusLandmarksV2: POI[] = [
                   ]
             },
             {
-                  "name": "Касцёл Святога Яна Хрысціцеля",
+                  "name": "Kastsiol Sviatoga Iana Khrystsitselia",
                   "text": "O biserică barocă importantă și o fostă mănăstire franciscană din Halshany.",
                   "category": "religious",
                   "coords": [

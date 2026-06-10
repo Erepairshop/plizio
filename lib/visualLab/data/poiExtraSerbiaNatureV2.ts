@@ -6,7 +6,7 @@ export const serbiaNatureV2: POI[] = [
     id: "serbia-raska-river-nature-v2", "sights": {
       "de": [
             {
-                  "name": "Манастир Ђурђеви Ступови",
+                  "name": "Manastir Djurdjevi Stupovi",
                   "text": "Das Kloster Đurđevi stupovi ist ein serbisch-orthodoxes Kloster aus dem 12. Jahrhundert.",
                   "category": "religious",
                   "coords": [
@@ -33,7 +33,7 @@ export const serbiaNatureV2: POI[] = [
                   ]
             },
             {
-                  "name": "Црква Светих апостола Петра и Павла",
+                  "name": "Tsrkva Svetikh apostola Petra i Pavla",
                   "text": "Eine der ältesten Kirchen Serbiens und Teil der UNESCO-geschützten Stätte Stari Ras.",
                   "category": "religious",
                   "coords": [
@@ -44,7 +44,7 @@ export const serbiaNatureV2: POI[] = [
       ],
       "hu": [
             {
-                  "name": "Манастир Ђурђеви Ступови",
+                  "name": "Manastir Djurdjevi Stupovi",
                   "text": "A Đurđevi stupovi egy 12. századi szerb ortodox kolostor a Raška-folyó közelében.",
                   "category": "religious",
                   "coords": [
@@ -71,7 +71,7 @@ export const serbiaNatureV2: POI[] = [
                   ]
             },
             {
-                  "name": "Црква Светих апостола Петра и Павла",
+                  "name": "Tsrkva Svetikh apostola Petra i Pavla",
                   "text": "Szerbia egyik legrégebbi temploma, az UNESCO által védett Ó-Ras régészeti terület része.",
                   "category": "religious",
                   "coords": [
@@ -82,7 +82,7 @@ export const serbiaNatureV2: POI[] = [
       ],
       "ro": [
             {
-                  "name": "Манастир Ђурђеви Ступови",
+                  "name": "Manastir Djurdjevi Stupovi",
                   "text": "Mănăstirea Đurđevi stupovi este o mănăstire ortodoxă sârbă din secolul al XII-lea.",
                   "category": "religious",
                   "coords": [
@@ -109,7 +109,7 @@ export const serbiaNatureV2: POI[] = [
                   ]
             },
             {
-                  "name": "Црква Светих апостола Петра и Павла",
+                  "name": "Tsrkva Svetikh apostola Petra i Pavla",
                   "text": "Una dintre cele mai vechi biserici din Serbia și parte a sitului Stari Ras protejat de UNESCO.",
                   "category": "religious",
                   "coords": [
@@ -294,7 +294,7 @@ export const serbiaNatureV2: POI[] = [
     id: "serbia-cer-mountain-nature-v2", "sights": {
       "de": [
             {
-                  "name": "Спомен-костурница на Церу",
+                  "name": "Spomen-kosturnitsa na Tseru",
                   "text": "Ein Denkmal und Beinhaus auf dem Berg Cer, das an die Gefallenen der Schlacht von Cer erinnert.",
                   "category": "historical",
                   "coords": [
@@ -314,7 +314,7 @@ export const serbiaNatureV2: POI[] = [
       ],
       "hu": [
             {
-                  "name": "Спомен-костурница на Церу",
+                  "name": "Spomen-kosturnitsa na Tseru",
                   "text": "A Cer-hegyen található emlékmű és csontház, amely a ceri csata elesett katonáinak állít emléket.",
                   "category": "historical",
                   "coords": [
@@ -334,7 +334,7 @@ export const serbiaNatureV2: POI[] = [
       ],
       "ro": [
             {
-                  "name": "Спомен-костурница на Церу",
+                  "name": "Spomen-kosturnitsa na Tseru",
                   "text": "Un monument și osuar de pe muntele Cer, dedicat soldaților căzuți în bătălia de la Cer.",
                   "category": "historical",
                   "coords": [
@@ -825,7 +825,7 @@ export const serbiaNatureV2: POI[] = [
     id: "serbia-babina-zub-nature-v2", "sights": {
       "de": [
             {
-                  "name": "Бабин зуб",
+                  "name": "Babin zub",
                   "text": "Ein prominenter Gipfel im Stara-Planina-Gebirge in Serbien.",
                   "category": "landmark",
                   "coords": [
@@ -834,7 +834,7 @@ export const serbiaNatureV2: POI[] = [
                   ]
             },
             {
-                  "name": "Миджур / Миџор",
+                  "name": "Midzhur / Midzhor",
                   "text": "Der höchste Gipfel des Balkangebirges, an der Grenze zwischen Serbien und Bulgarien.",
                   "category": "landmark",
                   "coords": [
@@ -854,7 +854,7 @@ export const serbiaNatureV2: POI[] = [
       ],
       "hu": [
             {
-                  "name": "Бабин зуб",
+                  "name": "Babin zub",
                   "text": "Kiemelkedő hegycsúcs a szerbiai Stara Planina-hegységben.",
                   "category": "landmark",
                   "coords": [
@@ -863,7 +863,7 @@ export const serbiaNatureV2: POI[] = [
                   ]
             },
             {
-                  "name": "Миджур / Миџор",
+                  "name": "Midzhur / Midzhor",
                   "text": "A Balkán-hegység legmagasabb csúcsa Szerbia és Bulgária határán.",
                   "category": "landmark",
                   "coords": [
@@ -883,7 +883,7 @@ export const serbiaNatureV2: POI[] = [
       ],
       "ro": [
             {
-                  "name": "Бабин зуб",
+                  "name": "Babin zub",
                   "text": "Un vârf proeminent din lanțul muntos Stara Planina din Serbia.",
                   "category": "landmark",
                   "coords": [
@@ -892,7 +892,7 @@ export const serbiaNatureV2: POI[] = [
                   ]
             },
             {
-                  "name": "Миджур / Миџор",
+                  "name": "Midzhur / Midzhor",
                   "text": "Cel mai înalt vârf din Munții Balcani, situat la granița dintre Serbia și Bulgaria.",
                   "category": "landmark",
                   "coords": [
@@ -1043,7 +1043,7 @@ export const serbiaNatureV2: POI[] = [
       ],
       "hu": [
             {
-                  "name": "Тврђава Козник",
+                  "name": "Tvrdjava Koznik",
                   "text": "Középkori várrom Szerbiában, amely egy hegycsúcson magasodik a Rasina-folyó felett.",
                   "category": "castle",
                   "coords": [
@@ -1054,7 +1054,7 @@ export const serbiaNatureV2: POI[] = [
       ],
       "ro": [
             {
-                  "name": "Тврђава Козник",
+                  "name": "Tvrdjava Koznik",
                   "text": "O ruină de cetate medievală din Serbia, situată pe un vârf de munte deasupra râului Rasina.",
                   "category": "castle",
                   "coords": [
@@ -1122,7 +1122,7 @@ export const serbiaNatureV2: POI[] = [
     id: "serbia-kosutnjak-forest-nature-v2", "sights": {
       "de": [
             {
-                  "name": "Културни центар Чукарица",
+                  "name": "Културни центар Chukarица",
                   "text": "Ein Kulturzentrum in Belgrad, das Theateraufführungen und künstlerische Veranstaltungen anbietet.",
                   "category": "cultural",
                   "coords": [
@@ -1131,7 +1131,7 @@ export const serbiaNatureV2: POI[] = [
                   ]
             },
             {
-                  "name": "Плаво позориште",
+                  "name": "Plavo pozorishte",
                   "text": "Ein unabhängiges zeitgenössisches Theaterlabor und Performance-Raum in Belgrad.",
                   "category": "cultural",
                   "coords": [
@@ -1140,7 +1140,7 @@ export const serbiaNatureV2: POI[] = [
                   ]
             },
             {
-                  "name": "Веспа музеј Србија",
+                  "name": "Vespa muzej Srbija",
                   "text": "Ein spezialisiertes Museum, das der Geschichte der Vespa-Motorroller in Serbien gewidmet ist.",
                   "category": "museum",
                   "coords": [
@@ -1149,7 +1149,7 @@ export const serbiaNatureV2: POI[] = [
                   ]
             },
             {
-                  "name": "Јавни акваријум и тропикаријум",
+                  "name": "Javni akvarijum i tropikarijum",
                   "text": "Ein öffentliches Aquarium in Belgrad mit einer Vielzahl von tropischen Fischen und Reptilien.",
                   "category": "recreational",
                   "coords": [
@@ -1158,7 +1158,7 @@ export const serbiaNatureV2: POI[] = [
                   ]
             },
             {
-                  "name": "Музеј Томе Росандића",
+                  "name": "Muzej Tome Rosanditsha",
                   "text": "Ein Museum im ehemaligen Atelier des berühmten jugoslawischen Bildhauers Toma Rosandić.",
                   "category": "museum",
                   "coords": [
@@ -1167,7 +1167,7 @@ export const serbiaNatureV2: POI[] = [
                   ]
             },
             {
-                  "name": "Музеј афричке уметности",
+                  "name": "Muzej africhke umetnosti",
                   "text": "Ein bedeutendes Museum in Belgrad, das der Kunst und Kultur des afrikanischen Kontinents gewidmet ist.",
                   "category": "museum",
                   "coords": [
@@ -1176,7 +1176,7 @@ export const serbiaNatureV2: POI[] = [
                   ]
             },
             {
-                  "name": "Музеј Југославије",
+                  "name": "Muzej Jugoslavije",
                   "text": "Ein Museumskomplex, der die Geschichte und das Erbe Jugoslawiens dokumentiert.",
                   "category": "museum",
                   "coords": [
@@ -1185,7 +1185,7 @@ export const serbiaNatureV2: POI[] = [
                   ]
             },
             {
-                  "name": "Краљевски двор",
+                  "name": "Kraljevski dvor",
                   "text": "Der ehemalige königliche Palast in Belgrad, ein wichtiges Beispiel serbisch-byzantinischer Architektur.",
                   "category": "castle",
                   "coords": [
@@ -1196,7 +1196,7 @@ export const serbiaNatureV2: POI[] = [
       ],
       "hu": [
             {
-                  "name": "Културни центар Чукарица",
+                  "name": "Културни центар Chukarица",
                   "text": "Belgrádi kulturális központ, amely színházi előadásoknak és művészeti eseményeknek ad otthont.",
                   "category": "cultural",
                   "coords": [
@@ -1205,7 +1205,7 @@ export const serbiaNatureV2: POI[] = [
                   ]
             },
             {
-                  "name": "Плаво позориште",
+                  "name": "Plavo pozorishte",
                   "text": "Független kortárs színházi laboratórium és előadóhely Belgrádban.",
                   "category": "cultural",
                   "coords": [
@@ -1214,7 +1214,7 @@ export const serbiaNatureV2: POI[] = [
                   ]
             },
             {
-                  "name": "Веспа музеј Србија",
+                  "name": "Vespa muzej Srbija",
                   "text": "A szerbiai Vespa robogók történetének szentelt szakmúzeum.",
                   "category": "museum",
                   "coords": [
@@ -1223,7 +1223,7 @@ export const serbiaNatureV2: POI[] = [
                   ]
             },
             {
-                  "name": "Јавни акваријум и тропикаријум",
+                  "name": "Javni akvarijum i tropikarijum",
                   "text": "Belgrádi nyilvános akvárium trópusi halak és hüllők széles választékával.",
                   "category": "recreational",
                   "coords": [
@@ -1232,7 +1232,7 @@ export const serbiaNatureV2: POI[] = [
                   ]
             },
             {
-                  "name": "Музеј Томе Росандића",
+                  "name": "Muzej Tome Rosanditsha",
                   "text": "Múzeum a híres jugoszláv szobrász, Toma Rosandić egykori műtermében.",
                   "category": "museum",
                   "coords": [
@@ -1241,7 +1241,7 @@ export const serbiaNatureV2: POI[] = [
                   ]
             },
             {
-                  "name": "Музеј афричке уметности",
+                  "name": "Muzej africhke umetnosti",
                   "text": "Jelentős belgrádi múzeum, amelyet az afrikai kontinens művészetének és kultúrájának szenteltek.",
                   "category": "museum",
                   "coords": [
@@ -1250,7 +1250,7 @@ export const serbiaNatureV2: POI[] = [
                   ]
             },
             {
-                  "name": "Музеј Југославије",
+                  "name": "Muzej Jugoslavije",
                   "text": "Múzeumi komplexum, amely Jugoszlávia történelmét és örökségét dokumentálja.",
                   "category": "museum",
                   "coords": [
@@ -1259,7 +1259,7 @@ export const serbiaNatureV2: POI[] = [
                   ]
             },
             {
-                  "name": "Краљевски двор",
+                  "name": "Kraljevski dvor",
                   "text": "Az egykori királyi palota Belgrádban, a szerb-bizánci építészet jelentős példája.",
                   "category": "castle",
                   "coords": [
@@ -1270,7 +1270,7 @@ export const serbiaNatureV2: POI[] = [
       ],
       "ro": [
             {
-                  "name": "Културни центар Чукарица",
+                  "name": "Културни центар Chukarица",
                   "text": "Un centru cultural din Belgrad care găzduiește spectacole de teatru și evenimente artistice.",
                   "category": "cultural",
                   "coords": [
@@ -1279,7 +1279,7 @@ export const serbiaNatureV2: POI[] = [
                   ]
             },
             {
-                  "name": "Плаво позориште",
+                  "name": "Plavo pozorishte",
                   "text": "Un laborator de teatru contemporan independent și spațiu de spectacol din Belgrad.",
                   "category": "cultural",
                   "coords": [
@@ -1288,7 +1288,7 @@ export const serbiaNatureV2: POI[] = [
                   ]
             },
             {
-                  "name": "Веспа музеј Србија",
+                  "name": "Vespa muzej Srbija",
                   "text": "Un muzeu specializat dedicat istoriei scuterelor Vespa în Serbia.",
                   "category": "museum",
                   "coords": [
@@ -1297,7 +1297,7 @@ export const serbiaNatureV2: POI[] = [
                   ]
             },
             {
-                  "name": "Јавни акваријум и тропикаријум",
+                  "name": "Javni akvarijum i tropikarijum",
                   "text": "Un acvariu public din Belgrad cu o varietate de pești tropicali și reptile.",
                   "category": "recreational",
                   "coords": [
@@ -1306,7 +1306,7 @@ export const serbiaNatureV2: POI[] = [
                   ]
             },
             {
-                  "name": "Музеј Томе Росандића",
+                  "name": "Muzej Tome Rosanditsha",
                   "text": "Un muzeu situat în fostul atelier al celebrului sculptor iugoslav Toma Rosandić.",
                   "category": "museum",
                   "coords": [
@@ -1315,7 +1315,7 @@ export const serbiaNatureV2: POI[] = [
                   ]
             },
             {
-                  "name": "Музеј афричке уметности",
+                  "name": "Muzej africhke umetnosti",
                   "text": "Un muzeu important din Belgrad dedicat artei și culturii continentului african.",
                   "category": "museum",
                   "coords": [
@@ -1324,7 +1324,7 @@ export const serbiaNatureV2: POI[] = [
                   ]
             },
             {
-                  "name": "Музеј Југославије",
+                  "name": "Muzej Jugoslavije",
                   "text": "Un complex muzeal care documentează istoria și moștenirea Iugoslaviei.",
                   "category": "museum",
                   "coords": [
@@ -1333,7 +1333,7 @@ export const serbiaNatureV2: POI[] = [
                   ]
             },
             {
-                  "name": "Краљевски двор",
+                  "name": "Kraljevski dvor",
                   "text": "Fostul palat regal din Belgrad, un exemplu important de arhitectură sârbo-bizantină.",
                   "category": "castle",
                   "coords": [

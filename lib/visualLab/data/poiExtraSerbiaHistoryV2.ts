@@ -6,7 +6,7 @@ export const serbiaHistoryV2: POI[] = [
     id: "serbia-mediana-history-v2", "sights": {
       "de": [
             {
-                  "name": "Нишка тврђава",
+                  "name": "Nishka tvrdjava",
                   "text": "Eine gut erhaltene osmanische Festung im Zentrum von Niš.",
                   "category": "castle",
                   "coords": [
@@ -15,7 +15,7 @@ export const serbiaHistoryV2: POI[] = [
                   ]
             },
             {
-                  "name": "Палата са октогоном",
+                  "name": "Palata sa oktogonom",
                   "text": "Eine bedeutende archäologische Ausgrabungsstätte mit den Überresten eines spätrömischen Palastes.",
                   "category": "historical",
                   "coords": [
@@ -24,7 +24,7 @@ export const serbiaHistoryV2: POI[] = [
                   ]
             },
             {
-                  "name": "Хамам у нишкој тврђави",
+                  "name": "Khamam u nishkoj tvrdjavi",
                   "text": "Ein historischer Hamam innerhalb der Festung von Niš aus der osmanischen Zeit.",
                   "category": "historical",
                   "coords": [
@@ -53,7 +53,7 @@ export const serbiaHistoryV2: POI[] = [
       ],
       "hu": [
             {
-                  "name": "Нишка тврђава",
+                  "name": "Nishka tvrdjava",
                   "text": "Jó állapotban fennmaradt oszmán erődítmény Niš központjában.",
                   "category": "castle",
                   "coords": [
@@ -62,7 +62,7 @@ export const serbiaHistoryV2: POI[] = [
                   ]
             },
             {
-                  "name": "Палата са октогоном",
+                  "name": "Palata sa oktogonom",
                   "text": "Jelentős régészeti lelőhely egy késő római palota maradványaival.",
                   "category": "historical",
                   "coords": [
@@ -71,7 +71,7 @@ export const serbiaHistoryV2: POI[] = [
                   ]
             },
             {
-                  "name": "Хамам у нишкој тврђави",
+                  "name": "Khamam u nishkoj tvrdjavi",
                   "text": "Történelmi hamam a niši erődben, az oszmán korszakból.",
                   "category": "historical",
                   "coords": [
@@ -80,7 +80,7 @@ export const serbiaHistoryV2: POI[] = [
                   ]
             },
             {
-                  "name": "Народни музеј",
+                  "name": "Narodni muzej",
                   "text": "Ez a madiánai (Mediana) régészeti csarnok a római korból származó jelentős leleteket mutat be.",
                   "category": "museum",
                   "coords": [
@@ -89,7 +89,7 @@ export const serbiaHistoryV2: POI[] = [
                   ]
             },
             {
-                  "name": "Медијана",
+                  "name": "Medijana",
                   "text": "Mediana egy jelentős késő antik régészeti lelőhely, amely Nagy Konstantin egykori rezidenciája volt.",
                   "category": "historical",
                   "coords": [
@@ -100,7 +100,7 @@ export const serbiaHistoryV2: POI[] = [
       ],
       "ro": [
             {
-                  "name": "Нишка тврђава",
+                  "name": "Nishka tvrdjava",
                   "text": "O cetate otomană bine conservată, situată în centrul orașului Niš.",
                   "category": "castle",
                   "coords": [
@@ -109,7 +109,7 @@ export const serbiaHistoryV2: POI[] = [
                   ]
             },
             {
-                  "name": "Палата са октогоном",
+                  "name": "Palata sa oktogonom",
                   "text": "Un sit arheologic important ce cuprinde vestigiile unui palat roman târziu.",
                   "category": "historical",
                   "coords": [
@@ -118,7 +118,7 @@ export const serbiaHistoryV2: POI[] = [
                   ]
             },
             {
-                  "name": "Хамам у нишкој тврђави",
+                  "name": "Khamam u nishkoj tvrdjavi",
                   "text": "Un hamam istoric din interiorul cetății Niš, datând din perioada otomană.",
                   "category": "historical",
                   "coords": [
@@ -127,7 +127,7 @@ export const serbiaHistoryV2: POI[] = [
                   ]
             },
             {
-                  "name": "Народни музеј",
+                  "name": "Narodni muzej",
                   "text": "Această sală arheologică din Mediana prezintă descoperiri semnificative din epoca romană.",
                   "category": "museum",
                   "coords": [
@@ -136,7 +136,7 @@ export const serbiaHistoryV2: POI[] = [
                   ]
             },
             {
-                  "name": "Медијана",
+                  "name": "Medijana",
                   "text": "Mediana este un important sit arheologic din antichitatea târzie și fosta reședință a lui Constantin cel Mare.",
                   "category": "historical",
                   "coords": [
@@ -240,7 +240,7 @@ export const serbiaHistoryV2: POI[] = [
     id: "serbia-bac-fortress-history-v2", "sights": {
       "de": [
             {
-                  "name": "Бачка тврђава",
+                  "name": "Bachka tvrdjava",
                   "text": "Eine bedeutende mittelalterliche Festungsanlage in der serbischen Vojvodina.",
                   "category": "castle",
                   "coords": [
@@ -262,7 +262,7 @@ export const serbiaHistoryV2: POI[] = [
       ],
       "ro": [
             {
-                  "name": "Бачка тврђава",
+                  "name": "Bachka tvrdjava",
                   "text": "O importantă fortăreață medievală situată în Voivodina, Serbia.",
                   "category": "castle",
                   "coords": [
@@ -339,7 +339,7 @@ export const serbiaHistoryV2: POI[] = [
                   ]
             },
             {
-                  "name": "Остаци замка деспота Стефана Лазаревића",
+                  "name": "Ostatsi zamka despota Stefana Lazarevitsha",
                   "text": "Ausgrabungsstätte mit den Überresten der mittelalterlichen Residenz des serbischen Herrschers Stefan Lazarević.",
                   "category": "historical",
                   "coords": [
@@ -348,7 +348,7 @@ export const serbiaHistoryV2: POI[] = [
                   ]
             },
             {
-                  "name": "Историјски музеј Србије",
+                  "name": "Istorijski muzej Srbije",
                   "text": "Das Museum dokumentiert die reiche Geschichte Serbiens von der Antike bis zur Gegenwart.",
                   "category": "museum",
                   "coords": [
@@ -357,7 +357,7 @@ export const serbiaHistoryV2: POI[] = [
                   ]
             },
             {
-                  "name": "Железнички музеј",
+                  "name": "Zheleznichki muzej",
                   "text": "Dieses Museum in Belgrad zeigt die Entwicklung des Schienenverkehrs und historische Lokomotiven in Serbien.",
                   "category": "museum",
                   "coords": [
@@ -366,7 +366,7 @@ export const serbiaHistoryV2: POI[] = [
                   ]
             },
             {
-                  "name": "Музеј Иве Андрића",
+                  "name": "Muzej Ive Andritsha",
                   "text": "Das Museum ist dem Leben und Werk des Literaturnobelpreisträgers Ivo Andrić in seiner ehemaligen Belgrader Wohnung gewidmet.",
                   "category": "museum",
                   "coords": [
@@ -375,7 +375,7 @@ export const serbiaHistoryV2: POI[] = [
                   ]
             },
             {
-                  "name": "Музеј Паје Јовановића",
+                  "name": "Muzej Paje Jovanovitsha",
                   "text": "Ein Museum, das dem berühmten serbischen Maler Paja Jovanović gewidmet ist und eine Auswahl seiner bedeutenden Werke zeigt.",
                   "category": "museum",
                   "coords": [
@@ -384,7 +384,7 @@ export const serbiaHistoryV2: POI[] = [
                   ]
             },
             {
-                  "name": "Музеј Цептер",
+                  "name": "Muzej Tsepter",
                   "text": "Dieses Privatmuseum in Belgrad präsentiert eine bedeutende Sammlung moderner und zeitgenössischer serbischer Kunst.",
                   "category": "museum",
                   "coords": [
@@ -393,7 +393,7 @@ export const serbiaHistoryV2: POI[] = [
                   ]
             },
             {
-                  "name": "ПТТ музеј",
+                  "name": "PTT muzej",
                   "text": "Das Museum beleuchtet die Geschichte des Post-, Telegrafen- und Telefonwesens in Serbien.",
                   "category": "museum",
                   "coords": [
@@ -404,7 +404,7 @@ export const serbiaHistoryV2: POI[] = [
       ],
       "hu": [
             {
-                  "name": "Римски бунар",
+                  "name": "Rimski bunar",
                   "text": "Rejtélyes történelmi kút a belgrádi erődben, amely neve ellenére valószínűleg a 18. századból származik.",
                   "category": "museum",
                   "coords": [
@@ -413,7 +413,7 @@ export const serbiaHistoryV2: POI[] = [
                   ]
             },
             {
-                  "name": "Остаци замка деспота Стефана Лазаревића",
+                  "name": "Ostatsi zamka despota Stefana Lazarevitsha",
                   "text": "Régészeti lelőhely Stefan Lazarević szerb uralkodó középkori rezidenciájának maradványaival.",
                   "category": "historical",
                   "coords": [
@@ -422,7 +422,7 @@ export const serbiaHistoryV2: POI[] = [
                   ]
             },
             {
-                  "name": "Историјски музеј Србије",
+                  "name": "Istorijski muzej Srbije",
                   "text": "A múzeum Szerbia gazdag történelmét dokumentálja az ókortól napjainkig.",
                   "category": "museum",
                   "coords": [
@@ -431,7 +431,7 @@ export const serbiaHistoryV2: POI[] = [
                   ]
             },
             {
-                  "name": "Железнички музеј",
+                  "name": "Zheleznichki muzej",
                   "text": "Ez a belgrádi múzeum a vasúti közlekedés fejlődését és a szerbiai történelmi mozdonyokat mutatja be.",
                   "category": "museum",
                   "coords": [
@@ -440,7 +440,7 @@ export const serbiaHistoryV2: POI[] = [
                   ]
             },
             {
-                  "name": "Музеј Иве Андрића",
+                  "name": "Muzej Ive Andritsha",
                   "text": "A múzeum az irodalmi Nobel-díjas Ivo Andrić életének és munkásságának állít emléket egykori belgrádi lakásában.",
                   "category": "museum",
                   "coords": [
@@ -449,7 +449,7 @@ export const serbiaHistoryV2: POI[] = [
                   ]
             },
             {
-                  "name": "Музеј Паје Јовановића",
+                  "name": "Muzej Paje Jovanovitsha",
                   "text": "A híres szerb festő, Paja Jovanović munkásságának szentelt múzeum, amely jelentős alkotásait mutatja be.",
                   "category": "museum",
                   "coords": [
@@ -458,7 +458,7 @@ export const serbiaHistoryV2: POI[] = [
                   ]
             },
             {
-                  "name": "Музеј Цептер",
+                  "name": "Muzej Tsepter",
                   "text": "Ez a belgrádi magánmúzeum a modern és kortárs szerb művészet jelentős gyűjteményét mutatja be.",
                   "category": "museum",
                   "coords": [
@@ -467,7 +467,7 @@ export const serbiaHistoryV2: POI[] = [
                   ]
             },
             {
-                  "name": "ПТТ музеј",
+                  "name": "PTT muzej",
                   "text": "A múzeum a szerbiai posta-, távíró- és telefonhálózat történetét mutatja be.",
                   "category": "museum",
                   "coords": [
@@ -478,7 +478,7 @@ export const serbiaHistoryV2: POI[] = [
       ],
       "ro": [
             {
-                  "name": "Римски бунар",
+                  "name": "Rimski bunar",
                   "text": "O fântână istorică misterioasă în cetatea Belgradului, care, în ciuda numelui, datează probabil din secolul al XVIII-lea.",
                   "category": "museum",
                   "coords": [
@@ -487,7 +487,7 @@ export const serbiaHistoryV2: POI[] = [
                   ]
             },
             {
-                  "name": "Остаци замка деспота Стефана Лазаревића",
+                  "name": "Ostatsi zamka despota Stefana Lazarevitsha",
                   "text": "Sit arheologic cu rămășițele reședinței medievale a domnitorului sârb Stefan Lazarević.",
                   "category": "historical",
                   "coords": [
@@ -496,7 +496,7 @@ export const serbiaHistoryV2: POI[] = [
                   ]
             },
             {
-                  "name": "Историјски музеј Србије",
+                  "name": "Istorijski muzej Srbije",
                   "text": "Muzeul documentează istoria bogată a Serbiei, din antichitate până în prezent.",
                   "category": "museum",
                   "coords": [
@@ -505,7 +505,7 @@ export const serbiaHistoryV2: POI[] = [
                   ]
             },
             {
-                  "name": "Железнички музеј",
+                  "name": "Zheleznichki muzej",
                   "text": "Acest muzeu din Belgrad prezintă evoluția transportului feroviar și locomotive istorice din Serbia.",
                   "category": "museum",
                   "coords": [
@@ -514,7 +514,7 @@ export const serbiaHistoryV2: POI[] = [
                   ]
             },
             {
-                  "name": "Музеј Иве Андрића",
+                  "name": "Muzej Ive Andritsha",
                   "text": "Muzeul este dedicat vieții și operei laureatului Premiului Nobel pentru literatură, Ivo Andrić, în fostul său apartament din Belgrad.",
                   "category": "museum",
                   "coords": [
@@ -523,7 +523,7 @@ export const serbiaHistoryV2: POI[] = [
                   ]
             },
             {
-                  "name": "Музеј Паје Јовановића",
+                  "name": "Muzej Paje Jovanovitsha",
                   "text": "Un muzeu dedicat celebrului pictor sârb Paja Jovanović, expunând o selecție a operelor sale importante.",
                   "category": "museum",
                   "coords": [
@@ -532,7 +532,7 @@ export const serbiaHistoryV2: POI[] = [
                   ]
             },
             {
-                  "name": "Музеј Цептер",
+                  "name": "Muzej Tsepter",
                   "text": "Acest muzeu privat din Belgrad prezintă o colecție importantă de artă sârbă modernă și contemporană.",
                   "category": "museum",
                   "coords": [
@@ -541,7 +541,7 @@ export const serbiaHistoryV2: POI[] = [
                   ]
             },
             {
-                  "name": "ПТТ музеј",
+                  "name": "PTT muzej",
                   "text": "Muzeul prezintă istoria serviciilor poștale, telegrafice și telefonice din Serbia.",
                   "category": "museum",
                   "coords": [
@@ -717,7 +717,7 @@ export const serbiaHistoryV2: POI[] = [
     id: "serbia-pet-crkava-history-v2", "sights": {
       "de": [
             {
-                  "name": "Манастир Ђурђеви Ступови",
+                  "name": "Manastir Djurdjevi Stupovi",
                   "text": "Serbisch-orthodoxes Kloster aus dem 12. Jahrhundert bei Novi Pazar.",
                   "category": "religious",
                   "coords": [
@@ -744,7 +744,7 @@ export const serbiaHistoryV2: POI[] = [
                   ]
             },
             {
-                  "name": "Црква Светих апостола Петра и Павла",
+                  "name": "Tsrkva Svetikh apostola Petra i Pavla",
                   "text": "Eine der ältesten Kirchen Serbiens, deren Ursprünge bis ins 9. Jahrhundert zurückreichen.",
                   "category": "religious",
                   "coords": [
@@ -755,7 +755,7 @@ export const serbiaHistoryV2: POI[] = [
       ],
       "hu": [
             {
-                  "name": "Манастир Ђурђеви Ступови",
+                  "name": "Manastir Djurdjevi Stupovi",
                   "text": "12. századi szerb ortodox kolostor Novi Pazar közelében.",
                   "category": "religious",
                   "coords": [
@@ -782,7 +782,7 @@ export const serbiaHistoryV2: POI[] = [
                   ]
             },
             {
-                  "name": "Црква Светих апостола Петра и Павла",
+                  "name": "Tsrkva Svetikh apostola Petra i Pavla",
                   "text": "Szerbia egyik legrégebbi temploma, amely a 9. századból származik.",
                   "category": "religious",
                   "coords": [
@@ -793,7 +793,7 @@ export const serbiaHistoryV2: POI[] = [
       ],
       "ro": [
             {
-                  "name": "Манастир Ђурђеви Ступови",
+                  "name": "Manastir Djurdjevi Stupovi",
                   "text": "O mănăstire ortodoxă sârbă din secolul al XII-lea, lângă Novi Pazar.",
                   "category": "religious",
                   "coords": [
@@ -820,7 +820,7 @@ export const serbiaHistoryV2: POI[] = [
                   ]
             },
             {
-                  "name": "Црква Светих апостола Петра и Павла",
+                  "name": "Tsrkva Svetikh apostola Petra i Pavla",
                   "text": "Una dintre cele mai vechi biserici din Serbia, datând din secolul al IX-lea.",
                   "category": "religious",
                   "coords": [
@@ -915,7 +915,7 @@ export const serbiaHistoryV2: POI[] = [
     id: "serbia-maglic-fortress-history-v2", "sights": {
       "de": [
             {
-                  "name": "Маглич",
+                  "name": "Maglich",
                   "text": "Eine gut erhaltene mittelalterliche Festung aus dem 13. Jahrhundert auf einem Hügel in Serbien.",
                   "category": "castle",
                   "coords": [
@@ -926,7 +926,7 @@ export const serbiaHistoryV2: POI[] = [
       ],
       "hu": [
             {
-                  "name": "Маглич",
+                  "name": "Maglich",
                   "text": "Jó állapotban fennmaradt 13. századi középkori erőd egy dombtetőn Szerbiában.",
                   "category": "castle",
                   "coords": [
@@ -937,7 +937,7 @@ export const serbiaHistoryV2: POI[] = [
       ],
       "ro": [
             {
-                  "name": "Маглич",
+                  "name": "Maglich",
                   "text": "O fortăreață medievală bine conservată din secolul al XIII-lea, situată pe un deal din Serbia.",
                   "category": "castle",
                   "coords": [
@@ -1014,7 +1014,7 @@ export const serbiaHistoryV2: POI[] = [
                   ]
             },
             {
-                  "name": "Остаци замка деспота Стефана Лазаревића",
+                  "name": "Ostatsi zamka despota Stefana Lazarevitsha",
                   "text": "Archäologische Überreste der mittelalterlichen Residenz des serbischen Despoten Stefan Lazarević.",
                   "category": "historical",
                   "coords": [
@@ -1023,7 +1023,7 @@ export const serbiaHistoryV2: POI[] = [
                   ]
             },
             {
-                  "name": "Историјски музеј Србије",
+                  "name": "Istorijski muzej Srbije",
                   "text": "Das Nationalmuseum in Belgrad, das die reiche Geschichte des serbischen Staates dokumentiert.",
                   "category": "museum",
                   "coords": [
@@ -1032,7 +1032,7 @@ export const serbiaHistoryV2: POI[] = [
                   ]
             },
             {
-                  "name": "Железнички музеј",
+                  "name": "Zheleznichki muzej",
                   "text": "Ein Museum in Belgrad, das die Geschichte des Schienenverkehrs in Serbien präsentiert.",
                   "category": "museum",
                   "coords": [
@@ -1041,7 +1041,7 @@ export const serbiaHistoryV2: POI[] = [
                   ]
             },
             {
-                  "name": "Музеј Иве Андрића",
+                  "name": "Muzej Ive Andritsha",
                   "text": "Ein Gedenkmuseum für den Nobelpreisträger Ivo Andrić in seiner ehemaligen Belgrader Wohnung.",
                   "category": "museum",
                   "coords": [
@@ -1050,7 +1050,7 @@ export const serbiaHistoryV2: POI[] = [
                   ]
             },
             {
-                  "name": "Музеј Паје Јовановића",
+                  "name": "Muzej Paje Jovanovitsha",
                   "text": "Dieses Museum am Nebojša-Turm ist dem Leben und Werk des berühmten serbischen Malers Paja Jovanović gewidmet.",
                   "category": "museum",
                   "coords": [
@@ -1059,7 +1059,7 @@ export const serbiaHistoryV2: POI[] = [
                   ]
             },
             {
-                  "name": "Музеј Цептер",
+                  "name": "Muzej Tsepter",
                   "text": "Ein Kunstmuseum am Nebojša-Turm, das eine bedeutende Sammlung moderner und zeitgenössischer Werke zeigt.",
                   "category": "museum",
                   "coords": [
@@ -1068,7 +1068,7 @@ export const serbiaHistoryV2: POI[] = [
                   ]
             },
             {
-                  "name": "ПТТ музеј",
+                  "name": "PTT muzej",
                   "text": "Dieses Museum am Nebojša-Turm dokumentiert die Geschichte des Post-, Telegrafen- und Telefonwesens in Belgrad.",
                   "category": "museum",
                   "coords": [
@@ -1079,7 +1079,7 @@ export const serbiaHistoryV2: POI[] = [
       ],
       "hu": [
             {
-                  "name": "Римски бунар",
+                  "name": "Rimski bunar",
                   "text": "Történelmi kút a belgrádi várban, amely neve ellenére a 18. századból származik.",
                   "category": "museum",
                   "coords": [
@@ -1088,7 +1088,7 @@ export const serbiaHistoryV2: POI[] = [
                   ]
             },
             {
-                  "name": "Остаци замка деспота Стефана Лазаревића",
+                  "name": "Ostatsi zamka despota Stefana Lazarevitsha",
                   "text": "Stefan Lazarević szerb despota középkori rezidenciájának régészeti maradványai.",
                   "category": "historical",
                   "coords": [
@@ -1097,7 +1097,7 @@ export const serbiaHistoryV2: POI[] = [
                   ]
             },
             {
-                  "name": "Историјски музеј Србије",
+                  "name": "Istorijski muzej Srbije",
                   "text": "Belgrádi nemzeti múzeum, amely a szerb állam gazdag történelmét dokumentálja.",
                   "category": "museum",
                   "coords": [
@@ -1106,7 +1106,7 @@ export const serbiaHistoryV2: POI[] = [
                   ]
             },
             {
-                  "name": "Железнички музеј",
+                  "name": "Zheleznichki muzej",
                   "text": "Belgrádi múzeum, amely a szerbiai vasúti közlekedés történetét mutatja be.",
                   "category": "museum",
                   "coords": [
@@ -1115,7 +1115,7 @@ export const serbiaHistoryV2: POI[] = [
                   ]
             },
             {
-                  "name": "Музеј Иве Андрића",
+                  "name": "Muzej Ive Andritsha",
                   "text": "Ivo Andrić Nobel-díjas író emlékmúzeuma az egykori belgrádi lakásában.",
                   "category": "museum",
                   "coords": [
@@ -1124,7 +1124,7 @@ export const serbiaHistoryV2: POI[] = [
                   ]
             },
             {
-                  "name": "Музеј Паје Јовановића",
+                  "name": "Muzej Paje Jovanovitsha",
                   "text": "Ez a Nebojša-toronynál található múzeum a híres szerb festő, Paja Jovanović életét és munkásságát mutatja be.",
                   "category": "museum",
                   "coords": [
@@ -1133,7 +1133,7 @@ export const serbiaHistoryV2: POI[] = [
                   ]
             },
             {
-                  "name": "Музеј Цептер",
+                  "name": "Muzej Tsepter",
                   "text": "Művészeti múzeum a Nebojša-toronynál, amely modern és kortárs művek jelentős gyűjteményét mutatja be.",
                   "category": "museum",
                   "coords": [
@@ -1142,7 +1142,7 @@ export const serbiaHistoryV2: POI[] = [
                   ]
             },
             {
-                  "name": "ПТТ музеј",
+                  "name": "PTT muzej",
                   "text": "Ez a Nebojša-toronynál található múzeum a belgrádi posta, távíró és telefon történetét dokumentálja.",
                   "category": "museum",
                   "coords": [
@@ -1153,7 +1153,7 @@ export const serbiaHistoryV2: POI[] = [
       ],
       "ro": [
             {
-                  "name": "Римски бунар",
+                  "name": "Rimski bunar",
                   "text": "O fântână istorică din cetatea Belgradului, care, în ciuda numelui, datează din secolul al XVIII-lea.",
                   "category": "museum",
                   "coords": [
@@ -1162,7 +1162,7 @@ export const serbiaHistoryV2: POI[] = [
                   ]
             },
             {
-                  "name": "Остаци замка деспота Стефана Лазаревића",
+                  "name": "Ostatsi zamka despota Stefana Lazarevitsha",
                   "text": "Vestigii arheologice ale reședinței medievale a despotului sârb Stefan Lazarević.",
                   "category": "historical",
                   "coords": [
@@ -1171,7 +1171,7 @@ export const serbiaHistoryV2: POI[] = [
                   ]
             },
             {
-                  "name": "Историјски музеј Србије",
+                  "name": "Istorijski muzej Srbije",
                   "text": "Muzeul național din Belgrad care documentează istoria bogată a statului sârb.",
                   "category": "museum",
                   "coords": [
@@ -1180,7 +1180,7 @@ export const serbiaHistoryV2: POI[] = [
                   ]
             },
             {
-                  "name": "Железнички музеј",
+                  "name": "Zheleznichki muzej",
                   "text": "Un muzeu din Belgrad care prezintă istoria transportului feroviar în Serbia.",
                   "category": "museum",
                   "coords": [
@@ -1189,7 +1189,7 @@ export const serbiaHistoryV2: POI[] = [
                   ]
             },
             {
-                  "name": "Музеј Иве Андрића",
+                  "name": "Muzej Ive Andritsha",
                   "text": "Un muzeu memorial dedicat laureatului Nobel Ivo Andrić, situat în fostul său apartament din Belgrad.",
                   "category": "museum",
                   "coords": [
@@ -1198,7 +1198,7 @@ export const serbiaHistoryV2: POI[] = [
                   ]
             },
             {
-                  "name": "Музеј Паје Јовановића",
+                  "name": "Muzej Paje Jovanovitsha",
                   "text": "Acest muzeu de la Turnul Nebojșa este dedicat vieții și operei celebrului pictor sârb Paja Jovanović.",
                   "category": "museum",
                   "coords": [
@@ -1207,7 +1207,7 @@ export const serbiaHistoryV2: POI[] = [
                   ]
             },
             {
-                  "name": "Музеј Цептер",
+                  "name": "Muzej Tsepter",
                   "text": "Un muzeu de artă de la Turnul Nebojșa, care expune o colecție importantă de opere moderne și contemporane.",
                   "category": "museum",
                   "coords": [
@@ -1216,7 +1216,7 @@ export const serbiaHistoryV2: POI[] = [
                   ]
             },
             {
-                  "name": "ПТТ музеј",
+                  "name": "PTT muzej",
                   "text": "Acest muzeu de la Turnul Nebojșa documentează istoria poștei, telegrafiei și telefoniei din Belgrad.",
                   "category": "museum",
                   "coords": [
@@ -1437,7 +1437,7 @@ export const serbiaHistoryV2: POI[] = [
     id: "serbia-priboj-banja-history-v2", "sights": {
       "de": [
             {
-                  "name": "Бања",
+                  "name": "Banja",
                   "text": "Eine archäologische Stätte in der Nähe des Klosters Banja mit Überresten historischer Bauwerke.",
                   "category": "historical",
                   "coords": [
@@ -1448,7 +1448,7 @@ export const serbiaHistoryV2: POI[] = [
       ],
       "hu": [
             {
-                  "name": "Бања",
+                  "name": "Banja",
                   "text": "Régészeti lelőhely a Banja-kolostor közelében, ahol történelmi építmények maradványai találhatók.",
                   "category": "historical",
                   "coords": [
@@ -1459,7 +1459,7 @@ export const serbiaHistoryV2: POI[] = [
       ],
       "ro": [
             {
-                  "name": "Бања",
+                  "name": "Banja",
                   "text": "Un sit arheologic lângă Mănăstirea Banja, cuprinzând vestigii ale unor structuri istorice.",
                   "category": "historical",
                   "coords": [
@@ -1572,7 +1572,7 @@ export const serbiaHistoryV2: POI[] = [
     id: "serbia-hopovo-history-v2", "sights": {
       "de": [
             {
-                  "name": "Орлово бојиште",
+                  "name": "Orlovo bojishte",
                   "text": "Ein beliebter Aussichtspunkt im Nationalpark Fruška Gora in Serbien.",
                   "category": "natural",
                   "coords": [
@@ -1581,7 +1581,7 @@ export const serbiaHistoryV2: POI[] = [
                   ]
             },
             {
-                  "name": "Слобода",
+                  "name": "Sloboda",
                   "text": "Ein Denkmal in der Nähe des Iriški Venac, das dem Kampf für die Freiheit gewidmet ist.",
                   "category": "historical",
                   "coords": [
@@ -1590,7 +1590,7 @@ export const serbiaHistoryV2: POI[] = [
                   ]
             },
             {
-                  "name": "Торањ на Иришком венцу",
+                  "name": "Toranj na Irishkom ventsu",
                   "text": "Ein markanter Fernsehturm auf dem Iriški Venac im Gebirge Fruška Gora.",
                   "category": "tower",
                   "coords": [
@@ -1601,7 +1601,7 @@ export const serbiaHistoryV2: POI[] = [
       ],
       "hu": [
             {
-                  "name": "Орлово бојиште",
+                  "name": "Orlovo bojishte",
                   "text": "Népszerű kilátópont a szerbiai Fruška Gora Nemzeti Parkban.",
                   "category": "natural",
                   "coords": [
@@ -1619,7 +1619,7 @@ export const serbiaHistoryV2: POI[] = [
                   ]
             },
             {
-                  "name": "Торањ на Иришком венцу",
+                  "name": "Toranj na Irishkom ventsu",
                   "text": "Jellegzetes tévétorony az Iriški Venac-csúcson, a Fruška Gora-hegységben.",
                   "category": "tower",
                   "coords": [
@@ -1630,7 +1630,7 @@ export const serbiaHistoryV2: POI[] = [
       ],
       "ro": [
             {
-                  "name": "Орлово бојиште",
+                  "name": "Orlovo bojishte",
                   "text": "Un punct de belvedere popular în Parcul Național Fruška Gora din Serbia.",
                   "category": "natural",
                   "coords": [
@@ -1639,7 +1639,7 @@ export const serbiaHistoryV2: POI[] = [
                   ]
             },
             {
-                  "name": "Слобода",
+                  "name": "Sloboda",
                   "text": "Un monument situat lângă Iriški Venac, dedicat luptei pentru libertate.",
                   "category": "historical",
                   "coords": [
@@ -1648,7 +1648,7 @@ export const serbiaHistoryV2: POI[] = [
                   ]
             },
             {
-                  "name": "Торањ на Иришком венцу",
+                  "name": "Toranj na Irishkom ventsu",
                   "text": "Un turn de televiziune proeminent pe Iriški Venac, în munții Fruška Gora.",
                   "category": "tower",
                   "coords": [
@@ -1734,7 +1734,7 @@ export const serbiaHistoryV2: POI[] = [
     id: "serbia-djurdjevi-stupovi-history-v2", "sights": {
       "de": [
             {
-                  "name": "Манастир Ђурђеви Ступови",
+                  "name": "Manastir Djurdjevi Stupovi",
                   "text": "Ein serbisch-orthodoxes Kloster aus dem 12. Jahrhundert, das zum UNESCO-Welterbe gehört.",
                   "category": "religious",
                   "coords": [
@@ -1761,7 +1761,7 @@ export const serbiaHistoryV2: POI[] = [
                   ]
             },
             {
-                  "name": "Црква Светих апостола Петра и Павла",
+                  "name": "Tsrkva Svetikh apostola Petra i Pavla",
                   "text": "Diese Kirche aus dem 9. Jahrhundert ist eines der ältesten erhaltenen Gotteshäuser in Serbien.",
                   "category": "religious",
                   "coords": [
@@ -1772,7 +1772,7 @@ export const serbiaHistoryV2: POI[] = [
       ],
       "hu": [
             {
-                  "name": "Манастир Ђурђеви Ступови",
+                  "name": "Manastir Djurdjevi Stupovi",
                   "text": "12. századi szerb ortodox kolostor, amely az UNESCO Világörökség része.",
                   "category": "religious",
                   "coords": [
@@ -1799,7 +1799,7 @@ export const serbiaHistoryV2: POI[] = [
                   ]
             },
             {
-                  "name": "Црква Светих апостола Петра и Павла",
+                  "name": "Tsrkva Svetikh apostola Petra i Pavla",
                   "text": "Ez a 9. századi templom Szerbia egyik legrégebbi épségben maradt keresztény építménye.",
                   "category": "religious",
                   "coords": [
@@ -1810,7 +1810,7 @@ export const serbiaHistoryV2: POI[] = [
       ],
       "ro": [
             {
-                  "name": "Манастир Ђурђеви Ступови",
+                  "name": "Manastir Djurdjevi Stupovi",
                   "text": "O mănăstire ortodoxă sârbă din secolul al XII-lea, inclusă în patrimoniul mondial UNESCO.",
                   "category": "religious",
                   "coords": [
@@ -1837,7 +1837,7 @@ export const serbiaHistoryV2: POI[] = [
                   ]
             },
             {
-                  "name": "Црква Светих апостола Петра и Павла",
+                  "name": "Tsrkva Svetikh apostola Petra i Pavla",
                   "text": "Această biserică din secolul al IX-lea este una dintre cele mai vechi lăcașuri de cult conservate din Serbia.",
                   "category": "religious",
                   "coords": [
@@ -2607,7 +2607,7 @@ export const serbiaHistoryV2: POI[] = [
                   ]
             },
             {
-                  "name": "Голо брдо",
+                  "name": "Golo brdo",
                   "text": "Ein Berggipfel in der Nähe des Studenica-Klosters, der weite Ausblicke über die Region bietet.",
                   "category": "landmark",
                   "coords": [
@@ -2618,7 +2618,7 @@ export const serbiaHistoryV2: POI[] = [
       ],
       "hu": [
             {
-                  "name": "Манастир Студеница",
+                  "name": "Manastir Studenitsa",
                   "text": "Fontos 12. századi szerb ortodox kolostor, amely az UNESCO Világörökség része.",
                   "category": "religious",
                   "coords": [
@@ -2627,7 +2627,7 @@ export const serbiaHistoryV2: POI[] = [
                   ]
             },
             {
-                  "name": "Голо брдо",
+                  "name": "Golo brdo",
                   "text": "Hegyi csúcs a Studenica-kolostor közelében, ahonnan kilátás nyílik a környező vidékre.",
                   "category": "landmark",
                   "coords": [
@@ -2638,7 +2638,7 @@ export const serbiaHistoryV2: POI[] = [
       ],
       "ro": [
             {
-                  "name": "Манастир Студеница",
+                  "name": "Manastir Studenitsa",
                   "text": "O importantă mănăstire ortodoxă sârbă din secolul al XII-lea, inclusă în patrimoniul mondial UNESCO.",
                   "category": "religious",
                   "coords": [
@@ -2647,7 +2647,7 @@ export const serbiaHistoryV2: POI[] = [
                   ]
             },
             {
-                  "name": "Голо брдо",
+                  "name": "Golo brdo",
                   "text": "Un vârf montan în apropierea mănăstirii Studenica, oferind vederi panoramice asupra regiunii.",
                   "category": "landmark",
                   "coords": [
@@ -2769,7 +2769,7 @@ export const serbiaHistoryV2: POI[] = [
     id: "serbia-kalenic-history-v2", "sights": {
       "de": [
             {
-                  "name": "Географски центар централне Србије",
+                  "name": "Geografski tsentar tsentralne Srbije",
                   "text": "Ein markierter Punkt bei Kalenić Monastery, der den geografischen Mittelpunkt von Zentralserbien kennzeichnet.",
                   "category": "landmark",
                   "coords": [
@@ -2780,7 +2780,7 @@ export const serbiaHistoryV2: POI[] = [
       ],
       "hu": [
             {
-                  "name": "Географски центар централне Србије",
+                  "name": "Geografski tsentar tsentralne Srbije",
                   "text": "Kalenić-kolostor közelében lévő jelölt pont, amely Szerbia központi részének földrajzi középpontját jelzi.",
                   "category": "landmark",
                   "coords": [
@@ -2791,7 +2791,7 @@ export const serbiaHistoryV2: POI[] = [
       ],
       "ro": [
             {
-                  "name": "Географски центар централне Србије",
+                  "name": "Geografski tsentar tsentralne Srbije",
                   "text": "Un punct marcat lângă mănăstirea Kalenić care indică centrul geografic al Serbiei centrale.",
                   "category": "landmark",
                   "coords": [
@@ -3084,7 +3084,7 @@ export const serbiaHistoryV2: POI[] = [
     id: "serbia-hopovo-novo-history-v2", "sights": {
       "de": [
             {
-                  "name": "Орлово бојиште",
+                  "name": "Orlovo bojishte",
                   "text": "Aussichtspunkt in der Nähe des Klosters Novo Hopovo mit weitem Blick.",
                   "category": "natural",
                   "coords": [
@@ -3093,7 +3093,7 @@ export const serbiaHistoryV2: POI[] = [
                   ]
             },
             {
-                  "name": "Испосница Исаије Париводског",
+                  "name": "Isposnitsa Isaije Parivodskog",
                   "text": "Eine historische Einsiedelei in der Region des Klosters Novo Hopovo.",
                   "category": "landmark",
                   "coords": [
@@ -3102,7 +3102,7 @@ export const serbiaHistoryV2: POI[] = [
                   ]
             },
             {
-                  "name": "Манастир Савинац",
+                  "name": "Manastir Savinats",
                   "text": "Überreste einer mittelalterlichen Kirche in der Nähe von Novo Hopovo.",
                   "category": "historical",
                   "coords": [
@@ -3120,7 +3120,7 @@ export const serbiaHistoryV2: POI[] = [
                   ]
             },
             {
-                  "name": "Слобода",
+                  "name": "Sloboda",
                   "text": "Ein Denkmal namens Freiheit bei Novo Hopovo.",
                   "category": "historical",
                   "coords": [
@@ -3129,7 +3129,7 @@ export const serbiaHistoryV2: POI[] = [
                   ]
             },
             {
-                  "name": "Врдничка кула",
+                  "name": "Vrdnichka kula",
                   "text": "Historischer Turm und Ruine einer mittelalterlichen Festung bei Vrdnik.",
                   "category": "landmark",
                   "coords": [
@@ -3140,7 +3140,7 @@ export const serbiaHistoryV2: POI[] = [
       ],
       "hu": [
             {
-                  "name": "Орлово бојиште",
+                  "name": "Orlovo bojishte",
                   "text": "Kilátóhely a Novo Hopovo-kolostor közelében, szép panorámával.",
                   "category": "natural",
                   "coords": [
@@ -3149,7 +3149,7 @@ export const serbiaHistoryV2: POI[] = [
                   ]
             },
             {
-                  "name": "Испосница Исаије Париводског",
+                  "name": "Isposnitsa Isaije Parivodskog",
                   "text": "Történelmi remetelak a Novo Hopovo-kolostor régiójában.",
                   "category": "landmark",
                   "coords": [
@@ -3158,7 +3158,7 @@ export const serbiaHistoryV2: POI[] = [
                   ]
             },
             {
-                  "name": "Манастир Савинац",
+                  "name": "Manastir Savinats",
                   "text": "Egy középkori templom maradványai Novo Hopovo közelében.",
                   "category": "historical",
                   "coords": [
@@ -3185,7 +3185,7 @@ export const serbiaHistoryV2: POI[] = [
                   ]
             },
             {
-                  "name": "Врдничка кула",
+                  "name": "Vrdnichka kula",
                   "text": "Történelmi torony és egy középkori erőd romjai Vrdnik közelében.",
                   "category": "landmark",
                   "coords": [
@@ -3196,7 +3196,7 @@ export const serbiaHistoryV2: POI[] = [
       ],
       "ro": [
             {
-                  "name": "Орлово бојиште",
+                  "name": "Orlovo bojishte",
                   "text": "Un punct de observație situat lângă mănăstirea Novo Hopovo, oferind o panoramă vastă.",
                   "category": "natural",
                   "coords": [
@@ -3205,7 +3205,7 @@ export const serbiaHistoryV2: POI[] = [
                   ]
             },
             {
-                  "name": "Испосница Исаије Париводског",
+                  "name": "Isposnitsa Isaije Parivodskog",
                   "text": "O sihăstrie istorică situată în regiunea mănăstirii Novo Hopovo.",
                   "category": "landmark",
                   "coords": [
@@ -3214,7 +3214,7 @@ export const serbiaHistoryV2: POI[] = [
                   ]
             },
             {
-                  "name": "Манастир Савинац",
+                  "name": "Manastir Savinats",
                   "text": "Rămășițele unei biserici medievale situate în apropiere de Novo Hopovo.",
                   "category": "historical",
                   "coords": [
@@ -3232,7 +3232,7 @@ export const serbiaHistoryV2: POI[] = [
                   ]
             },
             {
-                  "name": "Слобода",
+                  "name": "Sloboda",
                   "text": "Un monument numit Libertate situat lângă Novo Hopovo.",
                   "category": "historical",
                   "coords": [
@@ -3241,7 +3241,7 @@ export const serbiaHistoryV2: POI[] = [
                   ]
             },
             {
-                  "name": "Врдничка кула",
+                  "name": "Vrdnichka kula",
                   "text": "Un turn istoric și ruinele unei fortărețe medievale situat lângă Vrdnik.",
                   "category": "landmark",
                   "coords": [
@@ -3363,7 +3363,7 @@ export const serbiaHistoryV2: POI[] = [
                   ]
             },
             {
-                  "name": "Врдничка кула",
+                  "name": "Vrdnichka kula",
                   "text": "Überreste einer mittelalterlichen Festung und eines Turms über Vrdnik.",
                   "category": "landmark",
                   "coords": [
@@ -3372,7 +3372,7 @@ export const serbiaHistoryV2: POI[] = [
                   ]
             },
             {
-                  "name": "Црква Светог Николе",
+                  "name": "Tsrkva Svetog Nikole",
                   "text": "Eine historische serbisch-orthodoxe Kirche im Dorf Jazak.",
                   "category": "religious",
                   "coords": [
@@ -3392,7 +3392,7 @@ export const serbiaHistoryV2: POI[] = [
                   ]
             },
             {
-                  "name": "Врдничка кула",
+                  "name": "Vrdnichka kula",
                   "text": "Egy középkori erőd és torony maradványai Vrdnik felett.",
                   "category": "landmark",
                   "coords": [
@@ -3401,7 +3401,7 @@ export const serbiaHistoryV2: POI[] = [
                   ]
             },
             {
-                  "name": "Црква Светог Николе",
+                  "name": "Tsrkva Svetog Nikole",
                   "text": "Történelmi szerb ortodox templom Jazak faluban.",
                   "category": "religious",
                   "coords": [
@@ -3421,7 +3421,7 @@ export const serbiaHistoryV2: POI[] = [
                   ]
             },
             {
-                  "name": "Врдничка кула",
+                  "name": "Vrdnichka kula",
                   "text": "Rămășițele unei cetăți și ale unui turn medieval deasupra localității Vrdnik.",
                   "category": "landmark",
                   "coords": [
@@ -3430,7 +3430,7 @@ export const serbiaHistoryV2: POI[] = [
                   ]
             },
             {
-                  "name": "Црква Светог Николе",
+                  "name": "Tsrkva Svetog Nikole",
                   "text": "O biserică ortodoxă sârbă istorică situată în satul Jazak.",
                   "category": "religious",
                   "coords": [
@@ -3516,7 +3516,7 @@ export const serbiaHistoryV2: POI[] = [
     id: "serbia-beocin-history-v2", "sights": {
       "de": [
             {
-                  "name": "Шпицеров дворац",
+                  "name": "Shpitserov dvorats",
                   "text": "Ein historisches Herrenhaus in Beočin, bekannt für seine eklektische Architektur.",
                   "category": "historical",
                   "coords": [
@@ -3525,7 +3525,7 @@ export const serbiaHistoryV2: POI[] = [
                   ]
             },
             {
-                  "name": "Видиковац Кобилица",
+                  "name": "Vidikovats Kobilitsa",
                   "text": "Ein Aussichtspunkt mit Blick auf die umliegende Region Beočin.",
                   "category": "natural",
                   "coords": [
@@ -3534,7 +3534,7 @@ export const serbiaHistoryV2: POI[] = [
                   ]
             },
             {
-                  "name": "Црква Преображења Господњег",
+                  "name": "Tsrkva Preobrazhenja Gospodnjeg",
                   "text": "Eine serbisch-orthodoxe Kirche in der Stadt Beočin.",
                   "category": "religious",
                   "coords": [
@@ -3545,7 +3545,7 @@ export const serbiaHistoryV2: POI[] = [
       ],
       "hu": [
             {
-                  "name": "Шпицеров дворац",
+                  "name": "Shpitserov dvorats",
                   "text": "Történelmi udvarház Belcsényben (Beočin), amely eklektikus építészetéről ismert.",
                   "category": "historical",
                   "coords": [
@@ -3554,7 +3554,7 @@ export const serbiaHistoryV2: POI[] = [
                   ]
             },
             {
-                  "name": "Видиковац Кобилица",
+                  "name": "Vidikovats Kobilitsa",
                   "text": "Kilátópont, ahonnan kilátás nyílik Belcsény (Beočin) környékére.",
                   "category": "natural",
                   "coords": [
@@ -3563,7 +3563,7 @@ export const serbiaHistoryV2: POI[] = [
                   ]
             },
             {
-                  "name": "Црква Преображења Господњег",
+                  "name": "Tsrkva Preobrazhenja Gospodnjeg",
                   "text": "Szerb ortodox templom Belcsény (Beočin) városában.",
                   "category": "religious",
                   "coords": [
@@ -3574,7 +3574,7 @@ export const serbiaHistoryV2: POI[] = [
       ],
       "ro": [
             {
-                  "name": "Шпицеров дворац",
+                  "name": "Shpitserov dvorats",
                   "text": "Un conac istoric din Beočin, cunoscut pentru arhitectura sa eclectică.",
                   "category": "historical",
                   "coords": [
@@ -3583,7 +3583,7 @@ export const serbiaHistoryV2: POI[] = [
                   ]
             },
             {
-                  "name": "Видиковац Кобилица",
+                  "name": "Vidikovats Kobilitsa",
                   "text": "Un punct de observație panoramic ce oferă vederi asupra zonei înconjurătoare a Beočinului.",
                   "category": "natural",
                   "coords": [
@@ -3592,7 +3592,7 @@ export const serbiaHistoryV2: POI[] = [
                   ]
             },
             {
-                  "name": "Црква Преображења Господњег",
+                  "name": "Tsrkva Preobrazhenja Gospodnjeg",
                   "text": "O biserică ortodoxă sârbă situată în orașul Beočin.",
                   "category": "religious",
                   "coords": [
@@ -3678,7 +3678,7 @@ export const serbiaHistoryV2: POI[] = [
     id: "serbia-sisatovac-history-v2", "sights": {
       "de": [
             {
-                  "name": "Остаци манастира Светог Гргура",
+                  "name": "Ostatsi manastira Svetog Grgura",
                   "text": "Die archäologischen Überreste eines alten Klosters in der Nähe von Šišatovac.",
                   "category": "historical",
                   "coords": [
@@ -3687,7 +3687,7 @@ export const serbiaHistoryV2: POI[] = [
                   ]
             },
             {
-                  "name": "Вила Равне",
+                  "name": "Vila Ravne",
                   "text": "Ein historisches Herrenhaus auf der Fruška Gora, das als Regierungsresidenz dient.",
                   "category": "historical",
                   "coords": [
@@ -3696,7 +3696,7 @@ export const serbiaHistoryV2: POI[] = [
                   ]
             },
             {
-                  "name": "Црква Светог архангела Гаврила",
+                  "name": "Tsrkva Svetog arkhangela Гаврила",
                   "text": "Eine serbisch-orthodoxe Kirche in Grgurevci, die dem Erzengel Gabriel geweiht ist.",
                   "category": "religious",
                   "coords": [
@@ -3707,7 +3707,7 @@ export const serbiaHistoryV2: POI[] = [
       ],
       "hu": [
             {
-                  "name": "Остаци манастира Светог Гргура",
+                  "name": "Ostatsi manastira Svetog Grgura",
                   "text": "Egy régi kolostor régészeti maradványai Šišatovac közelében.",
                   "category": "historical",
                   "coords": [
@@ -3716,7 +3716,7 @@ export const serbiaHistoryV2: POI[] = [
                   ]
             },
             {
-                  "name": "Вила Равне",
+                  "name": "Vila Ravne",
                   "text": "Történelmi udvarház a Fruška Gorán, amely kormányzati rezidenciaként szolgál.",
                   "category": "historical",
                   "coords": [
@@ -3725,7 +3725,7 @@ export const serbiaHistoryV2: POI[] = [
                   ]
             },
             {
-                  "name": "Црква Светог архангела Гаврила",
+                  "name": "Tsrkva Svetog arkhangela Гаврила",
                   "text": "Gábriel arkangyalnak szentelt szerb ortodox templom Grgurevciben.",
                   "category": "religious",
                   "coords": [
@@ -3736,7 +3736,7 @@ export const serbiaHistoryV2: POI[] = [
       ],
       "ro": [
             {
-                  "name": "Остаци манастира Светог Гргура",
+                  "name": "Ostatsi manastira Svetog Grgura",
                   "text": "Vestigiile arheologice ale unei vechi mănăstiri în apropiere de Šišatovac.",
                   "category": "historical",
                   "coords": [
@@ -3745,7 +3745,7 @@ export const serbiaHistoryV2: POI[] = [
                   ]
             },
             {
-                  "name": "Вила Равне",
+                  "name": "Vila Ravne",
                   "text": "Un conac istoric pe Fruška Gora, care servește drept reședință guvernamentală.",
                   "category": "historical",
                   "coords": [
@@ -3754,7 +3754,7 @@ export const serbiaHistoryV2: POI[] = [
                   ]
             },
             {
-                  "name": "Црква Светог архангела Гаврила",
+                  "name": "Tsrkva Svetog arkhangela Гаврила",
                   "text": "O biserică ortodoxă sârbă din Grgurevci, închinată Sfântului Arhanghel Gavriil.",
                   "category": "religious",
                   "coords": [
@@ -3840,7 +3840,7 @@ export const serbiaHistoryV2: POI[] = [
     id: "serbia-petkovica-history-v2", "sights": {
       "de": [
             {
-                  "name": "Вила Равне",
+                  "name": "Vila Ravne",
                   "text": "Eine elegante historische Residenz am Fruška Gora in der Nähe des Klosters Petkovica.",
                   "category": "historical",
                   "coords": [
@@ -3849,7 +3849,7 @@ export const serbiaHistoryV2: POI[] = [
                   ]
             },
             {
-                  "name": "Видиковац Грабово",
+                  "name": "Видиковац Grabово",
                   "text": "Ein Aussichtspunkt im Nationalpark Fruška Gora mit Blick auf das Dorf Grabovo und die Donau.",
                   "category": "natural",
                   "coords": [
@@ -3860,7 +3860,7 @@ export const serbiaHistoryV2: POI[] = [
       ],
       "hu": [
             {
-                  "name": "Вила Равне",
+                  "name": "Vila Ravne",
                   "text": "Elegáns történelmi rezidencia a Fruška Gora hegységben, a Petkovica-kolostor közelében.",
                   "category": "historical",
                   "coords": [
@@ -3869,7 +3869,7 @@ export const serbiaHistoryV2: POI[] = [
                   ]
             },
             {
-                  "name": "Видиковац Грабово",
+                  "name": "Видиковац Grabово",
                   "text": "Kilátópont a Fruška Gora Nemzeti Parkban, ahonnan kilátás nyílik Grabovo falura és a Dunára.",
                   "category": "natural",
                   "coords": [
@@ -3880,7 +3880,7 @@ export const serbiaHistoryV2: POI[] = [
       ],
       "ro": [
             {
-                  "name": "Вила Равне",
+                  "name": "Vila Ravne",
                   "text": "O reședință istorică elegantă situată pe Fruška Gora, lângă Mănăstirea Petkovica.",
                   "category": "historical",
                   "coords": [
@@ -3889,7 +3889,7 @@ export const serbiaHistoryV2: POI[] = [
                   ]
             },
             {
-                  "name": "Видиковац Грабово",
+                  "name": "Видиковац Grabово",
                   "text": "Un punct de belvedere din Parcul Național Fruška Gora, care oferă priveliști asupra satului Grabovo și a Dunării.",
                   "category": "natural",
                   "coords": [
@@ -3966,7 +3966,7 @@ export const serbiaHistoryV2: POI[] = [
     id: "serbia-divsa-history-v2", "sights": {
       "de": [
             {
-                  "name": "Вила Равне",
+                  "name": "Vila Ravne",
                   "text": "Ein repräsentatives Herrenhaus in der Nähe des Klosters Divša.",
                   "category": "historical",
                   "coords": [
@@ -3975,7 +3975,7 @@ export const serbiaHistoryV2: POI[] = [
                   ]
             },
             {
-                  "name": "Црква Лежимир",
+                  "name": "Tsrkva Lezhimir",
                   "text": "Eine serbisch-orthodoxe Kirche im Dorf Ležimir, dem Heiligen Georg gewidmet.",
                   "category": "religious",
                   "coords": [
@@ -3984,7 +3984,7 @@ export const serbiaHistoryV2: POI[] = [
                   ]
             },
             {
-                  "name": "Црква Светог архангела",
+                  "name": "Tsrkva Svetog arkhangela",
                   "text": "Eine orthodoxe Kirche in Grabovo, die den Heiligen Erzengeln gewidmet ist.",
                   "category": "religious",
                   "coords": [
@@ -3995,7 +3995,7 @@ export const serbiaHistoryV2: POI[] = [
       ],
       "hu": [
             {
-                  "name": "Вила Равне",
+                  "name": "Vila Ravne",
                   "text": "Reprezentatív udvarház a Divša-kolostor közelében.",
                   "category": "historical",
                   "coords": [
@@ -4004,7 +4004,7 @@ export const serbiaHistoryV2: POI[] = [
                   ]
             },
             {
-                  "name": "Црква Лежимир",
+                  "name": "Tsrkva Lezhimir",
                   "text": "Szent Györgynek szentelt szerb ortodox templom Ležimir faluban.",
                   "category": "religious",
                   "coords": [
@@ -4013,7 +4013,7 @@ export const serbiaHistoryV2: POI[] = [
                   ]
             },
             {
-                  "name": "Црква Светог архангела",
+                  "name": "Tsrkva Svetog arkhangela",
                   "text": "A Szent Arkangyaloknak szentelt ortodox templom Grabovóban.",
                   "category": "religious",
                   "coords": [
@@ -4024,7 +4024,7 @@ export const serbiaHistoryV2: POI[] = [
       ],
       "ro": [
             {
-                  "name": "Вила Равне",
+                  "name": "Vila Ravne",
                   "text": "Un conac reprezentativ situat lângă Mănăstirea Divša.",
                   "category": "historical",
                   "coords": [
@@ -4033,7 +4033,7 @@ export const serbiaHistoryV2: POI[] = [
                   ]
             },
             {
-                  "name": "Црква Лежимир",
+                  "name": "Tsrkva Lezhimir",
                   "text": "O biserică ortodoxă sârbă din satul Ležimir, dedicată Sfântului Gheorghe.",
                   "category": "religious",
                   "coords": [
@@ -4042,7 +4042,7 @@ export const serbiaHistoryV2: POI[] = [
                   ]
             },
             {
-                  "name": "Црква Светог архангела",
+                  "name": "Tsrkva Svetog arkhangela",
                   "text": "O biserică ortodoxă din Grabovo, dedicată Sfinților Arhangheli.",
                   "category": "religious",
                   "coords": [
@@ -4128,7 +4128,7 @@ export const serbiaHistoryV2: POI[] = [
     id: "serbia-kuvezdin-history-v2", "sights": {
       "de": [
             {
-                  "name": "Градац",
+                  "name": "Gradats",
                   "text": "Eine archäologische Stätte in der Nähe des Klosters Kuveždin mit antiken Überresten.",
                   "category": "historical",
                   "coords": [
@@ -4137,7 +4137,7 @@ export const serbiaHistoryV2: POI[] = [
                   ]
             },
             {
-                  "name": "Вила Равне",
+                  "name": "Vila Ravne",
                   "text": "Ein historisches Herrenhaus in der Nähe des Klosters Kuveždin in einer natürlichen Umgebung.",
                   "category": "historical",
                   "coords": [
@@ -4146,7 +4146,7 @@ export const serbiaHistoryV2: POI[] = [
                   ]
             },
             {
-                  "name": "Видиковац Грабово",
+                  "name": "Видиковац Grabово",
                   "text": "Ein Aussichtspunkt mit weitem Blick auf die Landschaft rund um das Kloster Kuveždin.",
                   "category": "natural",
                   "coords": [
@@ -4155,7 +4155,7 @@ export const serbiaHistoryV2: POI[] = [
                   ]
             },
             {
-                  "name": "Црква Светог архангела",
+                  "name": "Tsrkva Svetog arkhangela",
                   "text": "Eine Kultstätte in der Nähe des Klosters Kuveždin, die den heiligen Erzengeln gewidmet ist.",
                   "category": "religious",
                   "coords": [
@@ -4166,7 +4166,7 @@ export const serbiaHistoryV2: POI[] = [
       ],
       "hu": [
             {
-                  "name": "Градац",
+                  "name": "Gradats",
                   "text": "A Kuveždin-kolostor közelében található régészeti lelőhely ősi maradványokkal.",
                   "category": "historical",
                   "coords": [
@@ -4175,7 +4175,7 @@ export const serbiaHistoryV2: POI[] = [
                   ]
             },
             {
-                  "name": "Вила Равне",
+                  "name": "Vila Ravne",
                   "text": "Történelmi kúria a Kuveždin-kolostor közelében, természeti környezetben.",
                   "category": "historical",
                   "coords": [
@@ -4184,7 +4184,7 @@ export const serbiaHistoryV2: POI[] = [
                   ]
             },
             {
-                  "name": "Видиковац Грабово",
+                  "name": "Видиковац Grabово",
                   "text": "Kilátópont, amely széles kilátást nyújt a Kuveždin-kolostor környéki tájra.",
                   "category": "natural",
                   "coords": [
@@ -4193,7 +4193,7 @@ export const serbiaHistoryV2: POI[] = [
                   ]
             },
             {
-                  "name": "Црква Светог архангела",
+                  "name": "Tsrkva Svetog arkhangela",
                   "text": "A Kuveždin-kolostor közelében található istentiszteleti hely, amelyet a Szent Arkangyaloknak szenteltek.",
                   "category": "religious",
                   "coords": [
@@ -4204,7 +4204,7 @@ export const serbiaHistoryV2: POI[] = [
       ],
       "ro": [
             {
-                  "name": "Градац",
+                  "name": "Gradats",
                   "text": "Un sit arheologic lângă Mănăstirea Kuveždin, cu vestigii antice.",
                   "category": "historical",
                   "coords": [
@@ -4213,7 +4213,7 @@ export const serbiaHistoryV2: POI[] = [
                   ]
             },
             {
-                  "name": "Вила Равне",
+                  "name": "Vila Ravne",
                   "text": "Un conac istoric situat lângă Mănăstirea Kuveždin, într-un cadru natural.",
                   "category": "historical",
                   "coords": [
@@ -4222,7 +4222,7 @@ export const serbiaHistoryV2: POI[] = [
                   ]
             },
             {
-                  "name": "Видиковац Грабово",
+                  "name": "Видиковац Grabово",
                   "text": "Un punct de belvedere care oferă vederi asupra peisajului din jurul Mănăstirii Kuveždin.",
                   "category": "natural",
                   "coords": [
@@ -4231,7 +4231,7 @@ export const serbiaHistoryV2: POI[] = [
                   ]
             },
             {
-                  "name": "Црква Светог архангела",
+                  "name": "Tsrkva Svetog arkhangela",
                   "text": "Un lăcaș de cult lângă Mănăstirea Kuveždin, dedicat Sfinților Arhangheli.",
                   "category": "religious",
                   "coords": [
@@ -4416,7 +4416,7 @@ export const serbiaHistoryV2: POI[] = [
     id: "serbia-sopotnica-history-v2", "sights": {
       "de": [
             {
-                  "name": "ПИО Озрен-Јадовник",
+                  "name": "PIO Ozren-Jadovnik",
                   "text": "Ein geschütztes Landschaftsgebiet in Serbien, bekannt für seine natürliche Schönheit.",
                   "category": "natural",
                   "coords": [
@@ -4427,7 +4427,7 @@ export const serbiaHistoryV2: POI[] = [
       ],
       "hu": [
             {
-                  "name": "ПИО Озрен-Јадовник",
+                  "name": "PIO Ozren-Jadovnik",
                   "text": "Védett tájegység Szerbiában, amely természeti szépségeiről ismert.",
                   "category": "natural",
                   "coords": [
@@ -4438,7 +4438,7 @@ export const serbiaHistoryV2: POI[] = [
       ],
       "ro": [
             {
-                  "name": "ПИО Озрен-Јадовник",
+                  "name": "PIO Ozren-Jadovnik",
                   "text": "O zonă de peisaj protejat din Serbia, cunoscută pentru frumusețea sa naturală.",
                   "category": "natural",
                   "coords": [

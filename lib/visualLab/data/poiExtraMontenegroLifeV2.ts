@@ -1275,7 +1275,7 @@ export const montenegroLifeV2: POI[] = [
     id: "montenegro-vjeternik-peak-life-v2", "sights": {
       "de": [
             {
-                  "name": "Манастир Острог",
+                  "name": "Manastir Ostrog",
                   "text": "Ein bedeutendes serbisch-orthodoxes Kloster in Montenegro, das eindrucksvoll in eine Felswand gebaut wurde.",
                   "category": "religious",
                   "coords": [
@@ -1313,7 +1313,7 @@ export const montenegroLifeV2: POI[] = [
       ],
       "hu": [
             {
-                  "name": "Манастир Острог",
+                  "name": "Manastir Ostrog",
                   "text": "Egy jelentős szerb ortodox kolostor Montenegróban, amely látványosan egy sziklafalba épült.",
                   "category": "religious",
                   "coords": [
@@ -1351,7 +1351,7 @@ export const montenegroLifeV2: POI[] = [
       ],
       "ro": [
             {
-                  "name": "Манастир Острог",
+                  "name": "Manastir Ostrog",
                   "text": "O mănăstire ortodoxă sârbă importantă din Muntenegru, construită spectaculos într-o stâncă.",
                   "category": "religious",
                   "coords": [

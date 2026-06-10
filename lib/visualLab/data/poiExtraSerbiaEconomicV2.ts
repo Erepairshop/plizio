@@ -231,7 +231,7 @@ export const serbiaEconomicV2: POI[] = [
     id: "serbia-subotica-industrial-zone-economic-v2", "sights": {
       "de": [
             {
-                  "name": "Народно позориште Суботица",
+                  "name": "Narodno pozorishte Subotitsa",
                   "text": "Das Nationaltheater von Subotica ist ein bedeutendes kulturelles Zentrum im Stadtzentrum.",
                   "category": "cultural",
                   "coords": [
@@ -249,7 +249,7 @@ export const serbiaEconomicV2: POI[] = [
                   ]
             },
             {
-                  "name": "Градски музеj Cyботица",
+                  "name": "j Cy",
                   "text": "Das Stadtmuseum von Subotica bewahrt das historische Erbe der Region.",
                   "category": "museum",
                   "coords": [
@@ -267,7 +267,7 @@ export const serbiaEconomicV2: POI[] = [
                   ]
             },
             {
-                  "name": "Градска кућа",
+                  "name": "Gradska kutsha",
                   "text": "Das prunkvolle Rathaus von Subotica ist ein Meisterwerk des ungarischen Jugendstils.",
                   "category": "landmark",
                   "coords": [
@@ -285,7 +285,7 @@ export const serbiaEconomicV2: POI[] = [
                   ]
             },
             {
-                  "name": "Споменик Ивану Сарићу",
+                  "name": "Spomenik Ivanu Saritshu",
                   "text": "Ein Denkmal in Subotica zu Ehren des Luftfahrtpioniers Ivan Sarić.",
                   "category": "historical",
                   "coords": [
@@ -305,7 +305,7 @@ export const serbiaEconomicV2: POI[] = [
                   ]
             },
             {
-                  "name": "Палата Рајхл",
+                  "name": "Palata Rajkhl",
                   "text": "Szabadka egyik legszebb szecessziós épülete, amelyet Raichle Ferenc építész tervezett.",
                   "category": "castle",
                   "coords": [
@@ -361,7 +361,7 @@ export const serbiaEconomicV2: POI[] = [
       ],
       "ro": [
             {
-                  "name": "Народно позориште Суботица",
+                  "name": "Narodno pozorishte Subotitsa",
                   "text": "Teatrul Național din Subotica este un centru cultural important din centrul orașului.",
                   "category": "cultural",
                   "coords": [
@@ -370,7 +370,7 @@ export const serbiaEconomicV2: POI[] = [
                   ]
             },
             {
-                  "name": "Палата Рајхл",
+                  "name": "Palata Rajkhl",
                   "text": "Un palat splendid în stil Art Nouveau din Subotica, proiectat de arhitectul Ferenc Raichle.",
                   "category": "castle",
                   "coords": [
@@ -379,7 +379,7 @@ export const serbiaEconomicV2: POI[] = [
                   ]
             },
             {
-                  "name": "Градски музеj Cyботица",
+                  "name": "j Cy",
                   "text": "Muzeul Orașului Subotica păstrează moștenirea istorică a regiunii.",
                   "category": "museum",
                   "coords": [
@@ -397,7 +397,7 @@ export const serbiaEconomicV2: POI[] = [
                   ]
             },
             {
-                  "name": "Градска кућа",
+                  "name": "Gradska kutsha",
                   "text": "Primăria somptuoasă din Subotica este o capodoperă a stilului Art Nouveau maghiar.",
                   "category": "landmark",
                   "coords": [
@@ -415,7 +415,7 @@ export const serbiaEconomicV2: POI[] = [
                   ]
             },
             {
-                  "name": "Споменик Ивану Сарићу",
+                  "name": "Spomenik Ivanu Saritshu",
                   "text": "Un monument din Subotica ridicat în onoarea pionierului aviației Ivan Sarić.",
                   "category": "historical",
                   "coords": [
@@ -627,7 +627,7 @@ export const serbiaEconomicV2: POI[] = [
     id: "serbia-zrenjanin-industrial-park-economic-v2", "sights": {
       "de": [
             {
-                  "name": "Народни музеј Зрењанин",
+                  "name": "Narodni muzej Zrenjanin",
                   "text": "Das bedeutendste Museum von Zrenjanin, das die Geschichte und Kultur des Banats präsentiert.",
                   "category": "museum",
                   "coords": [
@@ -645,7 +645,7 @@ export const serbiaEconomicV2: POI[] = [
                   ]
             },
             {
-                  "name": "Споменик Жарку Зрењанину",
+                  "name": "Spomenik Zharku Zrenjaninu",
                   "text": "Ein Denkmal zu Ehren von Žarko Zrenjanin, einem Helden der Widerstandsbewegung im Zweiten Weltkrieg.",
                   "category": "historical",
                   "coords": [
@@ -663,7 +663,7 @@ export const serbiaEconomicV2: POI[] = [
                   ]
             },
             {
-                  "name": "Реформатска црква",
+                  "name": "Reformatska tsrkva",
                   "text": "Eine historische Kirche der reformierten Gemeinde im Zentrum von Zrenjanin.",
                   "category": "religious",
                   "coords": [
@@ -674,7 +674,7 @@ export const serbiaEconomicV2: POI[] = [
       ],
       "hu": [
             {
-                  "name": "Народни музеј Зрењанин",
+                  "name": "Narodni muzej Zrenjanin",
                   "text": "Nagybecskerek legjelentősebb múzeuma, amely a Bánság történelmét és kultúráját mutatja be.",
                   "category": "museum",
                   "coords": [
@@ -683,7 +683,7 @@ export const serbiaEconomicV2: POI[] = [
                   ]
             },
             {
-                  "name": "Мост на сувом",
+                  "name": "Most na suvom",
                   "text": "Különleges híd Nagybecskereken, amely alatt a folyó elterelése óta nem folyik víz.",
                   "category": "landmark",
                   "coords": [
@@ -692,7 +692,7 @@ export const serbiaEconomicV2: POI[] = [
                   ]
             },
             {
-                  "name": "Споменик Жарку Зрењанину",
+                  "name": "Spomenik Zharku Zrenjaninu",
                   "text": "Emlékmű Žarko Zrenjanin tiszteletére, aki a második világháborús ellenállás hőse volt.",
                   "category": "historical",
                   "coords": [
@@ -701,7 +701,7 @@ export const serbiaEconomicV2: POI[] = [
                   ]
             },
             {
-                  "name": "Црква Успења Богородице",
+                  "name": "Tsrkva Uspenja Bogoroditse",
                   "text": "Jelentős szerb ortodox templom Nagybecskereken, Szűz Mária elszenderedésének szentelve.",
                   "category": "religious",
                   "coords": [
@@ -710,7 +710,7 @@ export const serbiaEconomicV2: POI[] = [
                   ]
             },
             {
-                  "name": "Реформатска црква",
+                  "name": "Reformatska tsrkva",
                   "text": "A református közösség történelmi temploma Nagybecskerek központjában.",
                   "category": "religious",
                   "coords": [
@@ -721,7 +721,7 @@ export const serbiaEconomicV2: POI[] = [
       ],
       "ro": [
             {
-                  "name": "Народни музеј Зрењанин",
+                  "name": "Narodni muzej Zrenjanin",
                   "text": "Cel mai important muzeu din Zrenjanin, prezentând istoria și cultura regiunii Banat.",
                   "category": "museum",
                   "coords": [
@@ -730,7 +730,7 @@ export const serbiaEconomicV2: POI[] = [
                   ]
             },
             {
-                  "name": "Мост на сувом",
+                  "name": "Most na suvom",
                   "text": "Un pod neobișnuit din Zrenjanin sub care nu mai curge apă în urma devierii râului.",
                   "category": "landmark",
                   "coords": [
@@ -739,7 +739,7 @@ export const serbiaEconomicV2: POI[] = [
                   ]
             },
             {
-                  "name": "Споменик Жарку Зрењанину",
+                  "name": "Spomenik Zharku Zrenjaninu",
                   "text": "Un monument în onoarea lui Žarko Zrenjanin, un erou al rezistenței din Al Doilea Război Mondial.",
                   "category": "historical",
                   "coords": [
@@ -748,7 +748,7 @@ export const serbiaEconomicV2: POI[] = [
                   ]
             },
             {
-                  "name": "Црква Успења Богородице",
+                  "name": "Tsrkva Uspenja Bogoroditse",
                   "text": "O importantă biserică ortodoxă sârbă din Zrenjanin, dedicată Adormirii Maicii Domnului.",
                   "category": "religious",
                   "coords": [
@@ -757,7 +757,7 @@ export const serbiaEconomicV2: POI[] = [
                   ]
             },
             {
-                  "name": "Реформатска црква",
+                  "name": "Reformatska tsrkva",
                   "text": "O biserică istorică a comunității reformate, situată în centrul orașului Zrenjanin.",
                   "category": "religious",
                   "coords": [
@@ -915,7 +915,7 @@ export const serbiaEconomicV2: POI[] = [
                   ]
             },
             {
-                  "name": "Пожаревачки мир",
+                  "name": "Pozharevachki mir",
                   "text": "Ein Museum, das an den historischen Friedensvertrag von 1718 erinnert.",
                   "category": "museum",
                   "coords": [
@@ -924,7 +924,7 @@ export const serbiaEconomicV2: POI[] = [
                   ]
             },
             {
-                  "name": "Споменик слободе и победе над фашизмом „Звезда”",
+                  "name": "Spomenik slobode i pobede nad fashizmom ,,Zvezda\"",
                   "text": "Ein Denkmal, das der Freiheit und dem Sieg über den Faschismus gewidmet ist.",
                   "category": "historical",
                   "coords": [
@@ -933,7 +933,7 @@ export const serbiaEconomicV2: POI[] = [
                   ]
             },
             {
-                  "name": "Споменик палим борцима Црвене армије 1944. године",
+                  "name": "Spomenik palim bortsima Tsrvene armije 1944. godine",
                   "text": "Ein Denkmal zu Ehren der Soldaten der Roten Armee, die 1944 in der Region fielen.",
                   "category": "historical",
                   "coords": [
@@ -942,7 +942,7 @@ export const serbiaEconomicV2: POI[] = [
                   ]
             },
             {
-                  "name": "Споменик стрељаним родољубима 1941-1944",
+                  "name": "Spomenik streljanim rodoljubima 1941-1944",
                   "text": "Ein Gedenkort für die jugoslawischen Partisanen, die zwischen 1941 und 1944 hingerichtet wurden.",
                   "category": "historical",
                   "coords": [
@@ -951,7 +951,7 @@ export const serbiaEconomicV2: POI[] = [
                   ]
             },
             {
-                  "name": "Споменик Покрету горана",
+                  "name": "Spomenik Pokretu gorana",
                   "text": "Ein Denkmal zu Ehren der ökologischen Jugendbewegung Pokret gorana.",
                   "category": "historical",
                   "coords": [
@@ -971,7 +971,7 @@ export const serbiaEconomicV2: POI[] = [
                   ]
             },
             {
-                  "name": "Пожаревачки мир",
+                  "name": "Pozharevachki mir",
                   "text": "Az 1718-as történelmi békeszerződésnek emléket állító múzeum.",
                   "category": "museum",
                   "coords": [
@@ -980,7 +980,7 @@ export const serbiaEconomicV2: POI[] = [
                   ]
             },
             {
-                  "name": "Споменик слободе и победе над фашизмом „Звезда”",
+                  "name": "Spomenik slobode i pobede nad fashizmom ,,Zvezda\"",
                   "text": "A szabadságnak és a fasizmus feletti győzelemnek szentelt emlékmű.",
                   "category": "historical",
                   "coords": [
@@ -989,7 +989,7 @@ export const serbiaEconomicV2: POI[] = [
                   ]
             },
             {
-                  "name": "Споменик палим борцима Црвене армије 1944. године",
+                  "name": "Spomenik palim bortsima Tsrvene armije 1944. godine",
                   "text": "A Vörös Hadsereg 1944-ben a régióban elesett katonáinak tiszteletére emelt emlékmű.",
                   "category": "historical",
                   "coords": [
@@ -998,7 +998,7 @@ export const serbiaEconomicV2: POI[] = [
                   ]
             },
             {
-                  "name": "Споменик стрељаним родољубима 1941-1944",
+                  "name": "Spomenik streljanim rodoljubima 1941-1944",
                   "text": "Az 1941 és 1944 között kivégzett jugoszláv partizánok emlékhelye.",
                   "category": "historical",
                   "coords": [
@@ -1007,7 +1007,7 @@ export const serbiaEconomicV2: POI[] = [
                   ]
             },
             {
-                  "name": "Споменик Покрету горана",
+                  "name": "Spomenik Pokretu gorana",
                   "text": "A Pokret gorana ökológiai ifjúsági mozgalom tiszteletére emelt emlékmű.",
                   "category": "historical",
                   "coords": [
@@ -1027,7 +1027,7 @@ export const serbiaEconomicV2: POI[] = [
                   ]
             },
             {
-                  "name": "Пожаревачки мир",
+                  "name": "Pozharevachki mir",
                   "text": "Un muzeu care comemorează tratatul istoric de pace din 1718.",
                   "category": "museum",
                   "coords": [
@@ -1036,7 +1036,7 @@ export const serbiaEconomicV2: POI[] = [
                   ]
             },
             {
-                  "name": "Споменик слободе и победе над фашизмом „Звезда”",
+                  "name": "Spomenik slobode i pobede nad fashizmom ,,Zvezda\"",
                   "text": "Un monument dedicat libertății și victoriei asupra fascismului.",
                   "category": "historical",
                   "coords": [
@@ -1045,7 +1045,7 @@ export const serbiaEconomicV2: POI[] = [
                   ]
             },
             {
-                  "name": "Споменик палим борцима Црвене армије 1944. године",
+                  "name": "Spomenik palim bortsima Tsrvene armije 1944. godine",
                   "text": "Un monument în onoarea soldaților Armatei Roșii care au căzut în regiune în 1944.",
                   "category": "historical",
                   "coords": [
@@ -1054,7 +1054,7 @@ export const serbiaEconomicV2: POI[] = [
                   ]
             },
             {
-                  "name": "Споменик стрељаним родољубима 1941-1944",
+                  "name": "Spomenik streljanim rodoljubima 1941-1944",
                   "text": "Un sit memorial pentru partizanii iugoslavi executați între 1941 și 1944.",
                   "category": "historical",
                   "coords": [
@@ -1063,7 +1063,7 @@ export const serbiaEconomicV2: POI[] = [
                   ]
             },
             {
-                  "name": "Споменик Покрету горана",
+                  "name": "Spomenik Pokretu gorana",
                   "text": "Un monument în onoarea mișcării ecologiste de tineret Pokret gorana.",
                   "category": "historical",
                   "coords": [
@@ -1293,7 +1293,7 @@ export const serbiaEconomicV2: POI[] = [
                   ]
             },
             {
-                  "name": "Спомен-парк борбе и победе",
+                  "name": "Spomen-park borbe i pobede",
                   "text": "Gedenkpark in Čačak mit monumentalen Steinskulpturen von Bogdan Bogdanović.",
                   "category": "park",
                   "coords": [
@@ -1302,7 +1302,7 @@ export const serbiaEconomicV2: POI[] = [
                   ]
             },
             {
-                  "name": "Мегарон",
+                  "name": "Megaron",
                   "text": "Ein symbolisches Bauwerk innerhalb des Gedenkparks in Čačak.",
                   "category": "historical",
                   "coords": [
@@ -1340,7 +1340,7 @@ export const serbiaEconomicV2: POI[] = [
                   ]
             },
             {
-                  "name": "Спомен-парк борбе и победе",
+                  "name": "Spomen-park borbe i pobede",
                   "text": "Emlékpark Čačakban, Bogdan Bogdanović monumentális kőszobraival.",
                   "category": "park",
                   "coords": [
@@ -1349,7 +1349,7 @@ export const serbiaEconomicV2: POI[] = [
                   ]
             },
             {
-                  "name": "Мегарон",
+                  "name": "Megaron",
                   "text": "Szimbolikus építmény a čačaki emlékpark területén.",
                   "category": "historical",
                   "coords": [
@@ -1387,7 +1387,7 @@ export const serbiaEconomicV2: POI[] = [
                   ]
             },
             {
-                  "name": "Спомен-парк борбе и победе",
+                  "name": "Spomen-park borbe i pobede",
                   "text": "Parc memorial în Čačak, cuprinzând monumente din piatră de Bogdan Bogdanović.",
                   "category": "park",
                   "coords": [
@@ -1396,7 +1396,7 @@ export const serbiaEconomicV2: POI[] = [
                   ]
             },
             {
-                  "name": "Мегарон",
+                  "name": "Megaron",
                   "text": "O structură simbolică situată în cadrul complexului memorial din Čačak.",
                   "category": "historical",
                   "coords": [
@@ -2472,7 +2472,7 @@ export const serbiaEconomicV2: POI[] = [
     id: "serbia-novi-sad-industrial-zone-economic-v2", "sights": {
       "de": [
             {
-                  "name": "Музеј савремене уметности Војводине",
+                  "name": "Muzej savremene umetnosti Vojvodine",
                   "text": "Ein Museum in Novi Sad, das zeitgenössische Kunst aus der Vojvodina zeigt.",
                   "category": "museum",
                   "coords": [
@@ -2481,7 +2481,7 @@ export const serbiaEconomicV2: POI[] = [
                   ]
             },
             {
-                  "name": "Музеј Војводине",
+                  "name": "Muzej Vojvodine",
                   "text": "Eines der größten Museen Serbiens mit Sammlungen zur Archäologie und Geschichte.",
                   "category": "museum",
                   "coords": [
@@ -2490,7 +2490,7 @@ export const serbiaEconomicV2: POI[] = [
                   ]
             },
             {
-                  "name": "Галерија Рајка Мамузића",
+                  "name": "Galerija Rajka Mamuzitsha",
                   "text": "Eine Kunstgalerie in Novi Sad, die die Schenkung von Rajko Mamuzić zeigt.",
                   "category": "museum",
                   "coords": [
@@ -2499,7 +2499,7 @@ export const serbiaEconomicV2: POI[] = [
                   ]
             },
             {
-                  "name": "Природњачки музеј",
+                  "name": "Prirodnjachki muzej",
                   "text": "Ein Museum in Novi Sad, das der Flora und Fauna der Region gewidmet ist.",
                   "category": "museum",
                   "coords": [
@@ -2517,7 +2517,7 @@ export const serbiaEconomicV2: POI[] = [
                   ]
             },
             {
-                  "name": "Позоришни музеј Војводине",
+                  "name": "Pozorishni muzej Vojvodine",
                   "text": "Ein Museum, das die Geschichte des Theaters in der Vojvodina dokumentiert.",
                   "category": "museum",
                   "coords": [
@@ -2526,7 +2526,7 @@ export const serbiaEconomicV2: POI[] = [
                   ]
             },
             {
-                  "name": "Музеј Града Новог Сада",
+                  "name": "Muzej Grada Novog Sada",
                   "text": "Das Stadtmuseum von Novi Sad, untergebracht in der Festung Petrovaradin.",
                   "category": "museum",
                   "coords": [
@@ -2537,7 +2537,7 @@ export const serbiaEconomicV2: POI[] = [
       ],
       "hu": [
             {
-                  "name": "Музеј савремене уметности Војводине",
+                  "name": "Muzej savremene umetnosti Vojvodine",
                   "text": "Kortárs művészeti múzeum Újvidéken, vajdasági alkotásokkal.",
                   "category": "museum",
                   "coords": [
@@ -2546,7 +2546,7 @@ export const serbiaEconomicV2: POI[] = [
                   ]
             },
             {
-                  "name": "Музеј Војводине",
+                  "name": "Muzej Vojvodine",
                   "text": "Szerbia egyik legnagyobb múzeuma régészeti és történelmi gyűjteményekkel.",
                   "category": "museum",
                   "coords": [
@@ -2555,7 +2555,7 @@ export const serbiaEconomicV2: POI[] = [
                   ]
             },
             {
-                  "name": "Галерија Рајка Мамузића",
+                  "name": "Galerija Rajka Mamuzitsha",
                   "text": "Művészeti galéria Újvidéken, Rajko Mamuzić ajándékgyűjteményével.",
                   "category": "museum",
                   "coords": [
@@ -2564,7 +2564,7 @@ export const serbiaEconomicV2: POI[] = [
                   ]
             },
             {
-                  "name": "Природњачки музеј",
+                  "name": "Prirodnjachki muzej",
                   "text": "Természettudományi múzeum Újvidéken, a régió élővilágának szentelve.",
                   "category": "museum",
                   "coords": [
@@ -2582,7 +2582,7 @@ export const serbiaEconomicV2: POI[] = [
                   ]
             },
             {
-                  "name": "Позоришни музеј Војводине",
+                  "name": "Pozorishni muzej Vojvodine",
                   "text": "A vajdasági színjátszás történetét bemutató múzeum.",
                   "category": "museum",
                   "coords": [
@@ -2591,7 +2591,7 @@ export const serbiaEconomicV2: POI[] = [
                   ]
             },
             {
-                  "name": "Музеј Града Новог Сада",
+                  "name": "Muzej Grada Novog Sada",
                   "text": "Újvidék városi múzeuma a péterváradi erődben.",
                   "category": "museum",
                   "coords": [
@@ -2602,7 +2602,7 @@ export const serbiaEconomicV2: POI[] = [
       ],
       "ro": [
             {
-                  "name": "Музеј савремене уметности Војводине",
+                  "name": "Muzej savremene umetnosti Vojvodine",
                   "text": "Un muzeu în Novi Sad care expune artă contemporană din Voivodina.",
                   "category": "museum",
                   "coords": [
@@ -2611,7 +2611,7 @@ export const serbiaEconomicV2: POI[] = [
                   ]
             },
             {
-                  "name": "Музеј Војводине",
+                  "name": "Muzej Vojvodine",
                   "text": "Unul dintre cele mai mari muzee din Serbia, cu colecții de arheologie și istorie.",
                   "category": "museum",
                   "coords": [
@@ -2620,7 +2620,7 @@ export const serbiaEconomicV2: POI[] = [
                   ]
             },
             {
-                  "name": "Галерија Рајка Мамузића",
+                  "name": "Galerija Rajka Mamuzitsha",
                   "text": "O galerie de artă din Novi Sad care prezintă colecția donată de Rajko Mamuzić.",
                   "category": "museum",
                   "coords": [
@@ -2629,7 +2629,7 @@ export const serbiaEconomicV2: POI[] = [
                   ]
             },
             {
-                  "name": "Природњачки музеј",
+                  "name": "Prirodnjachki muzej",
                   "text": "Un muzeu în Novi Sad dedicat florei și faunei din regiune.",
                   "category": "museum",
                   "coords": [
@@ -2638,7 +2638,7 @@ export const serbiaEconomicV2: POI[] = [
                   ]
             },
             {
-                  "name": "Петроварадинска тврђава",
+                  "name": "Petrovaradinska tvrdjava",
                   "text": "O fortăreață impresionantă pe malul Dunării, cunoscută pentru turnul său cu ceas.",
                   "category": "castle",
                   "coords": [
@@ -2647,7 +2647,7 @@ export const serbiaEconomicV2: POI[] = [
                   ]
             },
             {
-                  "name": "Позоришни музеј Војводине",
+                  "name": "Pozorishni muzej Vojvodine",
                   "text": "Un muzeu care documentează istoria teatrului în Voivodina.",
                   "category": "museum",
                   "coords": [
@@ -2656,7 +2656,7 @@ export const serbiaEconomicV2: POI[] = [
                   ]
             },
             {
-                  "name": "Музеј Града Новог Сада",
+                  "name": "Muzej Grada Novog Sada",
                   "text": "Muzeul orașului Novi Sad, situat în fortăreața Petrovaradin.",
                   "category": "museum",
                   "coords": [
@@ -3093,7 +3093,7 @@ export const serbiaEconomicV2: POI[] = [
     id: "serbia-subotica-food-industry-economic-v2", "sights": {
       "de": [
             {
-                  "name": "Народно позориште Суботица",
+                  "name": "Narodno pozorishte Subotitsa",
                   "text": "Das Nationaltheater von Subotica ist eine bedeutende kulturelle Einrichtung der Stadt.",
                   "category": "cultural",
                   "coords": [
@@ -3111,7 +3111,7 @@ export const serbiaEconomicV2: POI[] = [
                   ]
             },
             {
-                  "name": "Градски музеj Cyботица",
+                  "name": "j Cy",
                   "text": "Das Stadtmuseum von Subotica präsentiert lokale historische und künstlerische Sammlungen.",
                   "category": "museum",
                   "coords": [
@@ -3129,7 +3129,7 @@ export const serbiaEconomicV2: POI[] = [
                   ]
             },
             {
-                  "name": "Градска кућа",
+                  "name": "Gradska kutsha",
                   "text": "Das Rathaus von Subotica ist ein monumentales Wahrzeichen im ungarischen Jugendstil.",
                   "category": "landmark",
                   "coords": [
@@ -3147,7 +3147,7 @@ export const serbiaEconomicV2: POI[] = [
                   ]
             },
             {
-                  "name": "Споменик Ивану Сарићу",
+                  "name": "Spomenik Ivanu Saritshu",
                   "text": "Ein Denkmal in Subotica zu Ehren des Luftfahrtpioniers Ivan Sarić.",
                   "category": "historical",
                   "coords": [
@@ -3167,7 +3167,7 @@ export const serbiaEconomicV2: POI[] = [
                   ]
             },
             {
-                  "name": "Палата Рајхл",
+                  "name": "Palata Rajkhl",
                   "text": "Szecessziós stílusú palota Szabadkán, melyet Raichle Ferenc építész tervezett.",
                   "category": "castle",
                   "coords": [
@@ -3223,7 +3223,7 @@ export const serbiaEconomicV2: POI[] = [
       ],
       "ro": [
             {
-                  "name": "Народно позориште Суботица",
+                  "name": "Narodno pozorishte Subotitsa",
                   "text": "Teatrul Național din Subotica este o instituție culturală majoră a orașului.",
                   "category": "cultural",
                   "coords": [
@@ -3232,7 +3232,7 @@ export const serbiaEconomicV2: POI[] = [
                   ]
             },
             {
-                  "name": "Палата Рајхл",
+                  "name": "Palata Rajkhl",
                   "text": "Un palat spectaculos în stil Secession din Subotica, proiectat de arhitectul Ferenc Raichle.",
                   "category": "castle",
                   "coords": [
@@ -3241,7 +3241,7 @@ export const serbiaEconomicV2: POI[] = [
                   ]
             },
             {
-                  "name": "Градски музеj Cyботица",
+                  "name": "j Cy",
                   "text": "Muzeul Orașului Subotica prezintă colecții de istorie și artă locală.",
                   "category": "museum",
                   "coords": [
@@ -3259,7 +3259,7 @@ export const serbiaEconomicV2: POI[] = [
                   ]
             },
             {
-                  "name": "Градска кућа",
+                  "name": "Gradska kutsha",
                   "text": "Primăria din Subotica este un simbol monumental al stilului Secession maghiar.",
                   "category": "landmark",
                   "coords": [
@@ -3277,7 +3277,7 @@ export const serbiaEconomicV2: POI[] = [
                   ]
             },
             {
-                  "name": "Споменик Ивану Сарићу",
+                  "name": "Spomenik Ivanu Saritshu",
                   "text": "Un monument în Subotica ridicat în cinstea pionierului aviației Ivan Sarić.",
                   "category": "historical",
                   "coords": [

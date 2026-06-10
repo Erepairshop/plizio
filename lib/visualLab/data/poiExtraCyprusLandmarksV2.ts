@@ -105,7 +105,7 @@ export const cyprusLandmarksV2: POI[] = [
                   ]
             },
             {
-                  "name": "Παραλια Ασπροποταμου",
+                  "name": "Paralia Aspropotamou",
                   "text": "Ein ruhiger Sandstrand an der Küste in der Nähe des Dorfes Pegeia.",
                   "category": "recreational",
                   "coords": [
@@ -170,7 +170,7 @@ export const cyprusLandmarksV2: POI[] = [
                   ]
             },
             {
-                  "name": "Παραλια Ασπροποταμου",
+                  "name": "Paralia Aspropotamou",
                   "text": "Csendes homokos strand a tengerparton, Pegeia falu közelében.",
                   "category": "recreational",
                   "coords": [
@@ -235,7 +235,7 @@ export const cyprusLandmarksV2: POI[] = [
                   ]
             },
             {
-                  "name": "Παραλια Ασπροποταμου",
+                  "name": "Paralia Aspropotamou",
                   "text": "O plajă de nisip liniștită situată pe coastă, în apropierea satului Pegeia.",
                   "category": "recreational",
                   "coords": [

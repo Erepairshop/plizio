@@ -942,7 +942,7 @@ export const bulgariaCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Къща-музей \"Баба Ванга\"",
+                  "name": "K'shcha-muzei \"Baba Vanga\"",
                   "text": "Das Haus-Museum 'Baba Vanga' in Petrich ist der berühmten bulgarischen Seherin gewidmet. Besucher können die persönlichen Gegenstände und die Wohnräume besichtigen, in denen sie einst lebte.",
                   "category": "museum",
                   "coords": [
@@ -962,7 +962,7 @@ export const bulgariaCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Къща-музей \"Баба Ванга\"",
+                  "name": "K'shcha-muzei \"Baba Vanga\"",
                   "text": "A petrics-i 'Baba Vanga' házmúzeum a híres bolgár látnoknak van szentelve. A látogatók megtekinthetik a személyes tárgyakat és azokat a szobákat, ahol egykor élt.",
                   "category": "museum",
                   "coords": [
@@ -982,7 +982,7 @@ export const bulgariaCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Къща-музей \"Баба Ванга\"",
+                  "name": "K'shcha-muzei \"Baba Vanga\"",
                   "text": "Casa-muzeu „Baba Vanga” din Petrich este dedicată celebrei clarvăzătoare bulgare. Vizitatorii pot vedea obiectele personale și camerele în care a locuit odinioară.",
                   "category": "museum",
                   "coords": [
@@ -1002,7 +1002,7 @@ export const bulgariaCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Къща-музей \"Баба Ванга\"",
+                  "name": "K'shcha-muzei \"Baba Vanga\"",
                   "text": "The house-museum 'Baba Vanga' in Petrich is dedicated to the famous Bulgarian clairvoyant. Visitors can view the personal belongings and the rooms where she once lived.",
                   "category": "museum",
                   "coords": [
@@ -1293,7 +1293,7 @@ export const bulgariaCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Исторически музей",
+                  "name": "Istoricheski muzei",
                   "text": "Ein lokales Museum, das die Geschichte und die Teppichweberei von Tschiprowzi zeigt.",
                   "category": "museum",
                   "coords": [
@@ -1331,7 +1331,7 @@ export const bulgariaCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Исторически музей",
+                  "name": "Istoricheski muzei",
                   "text": "Helyi múzeum, amely Csiprovci történelmét és szőnyegszövő hagyományait mutatja be.",
                   "category": "museum",
                   "coords": [
@@ -1369,7 +1369,7 @@ export const bulgariaCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Исторически музей",
+                  "name": "Istoricheski muzei",
                   "text": "Un muzeu local care prezintă istoria și tradițiile țesutului de covoare din Ciprovți.",
                   "category": "museum",
                   "coords": [
@@ -3372,7 +3372,7 @@ export const bulgariaCitiesV2: POI[] = [
     id: "bulgaria-yagodina-cities-v2", "sights": {
       "de": [
             {
-                  "name": "Ягодинска пещера",
+                  "name": "Iagodinska peshchera",
                   "text": "Der Eingang zu einer der längsten und schönsten Schauhöhlen in den Rhodopen bei Yagodina.",
                   "category": "landmark",
                   "coords": [
@@ -3390,7 +3390,7 @@ export const bulgariaCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Триградското ждрело",
+                  "name": "Trigradskoto zhdrelo",
                   "text": "Eine tiefe und beeindruckende Kalksteinschlucht in den westlichen Rhodopen bei Yagodina.",
                   "category": "landmark",
                   "coords": [
@@ -3399,7 +3399,7 @@ export const bulgariaCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "\"Via Ferrata\" - Триград",
+                  "name": "Via Ferrata",
                   "text": "Ein Klettersteig in Trigrad, der Abenteuer und Panoramablicke in der Schlucht bietet.",
                   "category": "landmark",
                   "coords": [
@@ -3408,7 +3408,7 @@ export const bulgariaCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Площадка \"Орлово око\"",
+                  "name": "Ploshchadka \"Orlovo oko\"",
                   "text": "Eine Aussichtsplattform auf einem Berggipfel bei Yagodina mit weitem Blick über die Rhodopen.",
                   "category": "natural",
                   "coords": [
@@ -3417,7 +3417,7 @@ export const bulgariaCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Дяволския мост",
+                  "name": "Diavolskiia most",
                   "text": "Eine markante natürliche Felsformation in der Nähe von Yagodina.",
                   "category": "landmark",
                   "coords": [
@@ -3426,7 +3426,7 @@ export const bulgariaCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "начало на пътека за Орлово око",
+                  "name": "nachalo na p'teka za Orlovo oko",
                   "text": "Der Ausgangspunkt für den Wanderweg zum berühmten Aussichtspunkt Eagle's Eye.",
                   "category": "natural",
                   "coords": [
@@ -3435,7 +3435,7 @@ export const bulgariaCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Буйновското ждрело",
+                  "name": "Buinovskoto zhdrelo",
                   "text": "Eine malerische Schlucht bei Yagodina, die für ihre steilen Felswände bekannt ist.",
                   "category": "landmark",
                   "coords": [
@@ -3446,7 +3446,7 @@ export const bulgariaCitiesV2: POI[] = [
       ],
       "hu": [
             {
-                  "name": "Ягодинска пещера",
+                  "name": "Iagodinska peshchera",
                   "text": "A Rodope-hegység egyik leghosszabb és legszebb barlangjának bejárata Jagodina közelében.",
                   "category": "landmark",
                   "coords": [
@@ -3455,7 +3455,7 @@ export const bulgariaCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Дяволското Гърло",
+                  "name": "Diavolskoto G'rlo",
                   "text": "Látványos barlang a Trigrád-szurdokban, amely hatalmas földalatti vízeséséről ismert.",
                   "category": "landmark",
                   "coords": [
@@ -3464,7 +3464,7 @@ export const bulgariaCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Триградското ждрело",
+                  "name": "Trigradskoto zhdrelo",
                   "text": "Mély és lenyűgöző mészkőszurdok a Nyugati-Rodopéban, Jagodina közelében.",
                   "category": "landmark",
                   "coords": [
@@ -3473,7 +3473,7 @@ export const bulgariaCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "\"Via Ferrata\" - Триград",
+                  "name": "Via Ferrata",
                   "text": "Via ferrata útvonal Trigrádban, amely kalandot és panorámás kilátást kínál a szurdokban.",
                   "category": "landmark",
                   "coords": [
@@ -3482,7 +3482,7 @@ export const bulgariaCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Площадка \"Орлово око\"",
+                  "name": "Ploshchadka \"Orlovo oko\"",
                   "text": "Kilátóplatform egy hegycsúcson Jagodina közelében, széles panorámával a Rodopéra.",
                   "category": "natural",
                   "coords": [
@@ -3491,7 +3491,7 @@ export const bulgariaCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Дяволския мост",
+                  "name": "Diavolskiia most",
                   "text": "Egy jellegzetes természetes sziklaformáció Jagodina közelében.",
                   "category": "landmark",
                   "coords": [
@@ -3500,7 +3500,7 @@ export const bulgariaCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "начало на пътека за Орлово око",
+                  "name": "nachalo na p'teka za Orlovo oko",
                   "text": "A híres Eagle's Eye kilátóhoz vezető túraútvonal kezdőpontja.",
                   "category": "natural",
                   "coords": [
@@ -3509,7 +3509,7 @@ export const bulgariaCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Буйновското ждрело",
+                  "name": "Buinovskoto zhdrelo",
                   "text": "Festői szurdok Jagodina közelében, amely meredek sziklafalairól ismert.",
                   "category": "landmark",
                   "coords": [
@@ -3520,7 +3520,7 @@ export const bulgariaCitiesV2: POI[] = [
       ],
       "ro": [
             {
-                  "name": "Ягодинска пещера",
+                  "name": "Iagodinska peshchera",
                   "text": "Intrarea într-una dintre cele mai lungi și frumoase peșteri amenajate din Rodopi, lângă Yagodina.",
                   "category": "landmark",
                   "coords": [
@@ -3529,7 +3529,7 @@ export const bulgariaCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Дяволското Гърло",
+                  "name": "Diavolskoto G'rlo",
                   "text": "O peșteră spectaculoasă în Cheile Trigradului, renumită pentru cascada sa subterană masivă.",
                   "category": "landmark",
                   "coords": [
@@ -3538,7 +3538,7 @@ export const bulgariaCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Триградското ждрело",
+                  "name": "Trigradskoto zhdrelo",
                   "text": "Un defileu de calcar adânc și impresionant în Rodopii de Vest, lângă Yagodina.",
                   "category": "landmark",
                   "coords": [
@@ -3547,7 +3547,7 @@ export const bulgariaCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "\"Via Ferrata\" - Триград",
+                  "name": "Via Ferrata",
                   "text": "Un traseu de via ferrata în Trigrad, oferind aventură și vederi panoramice în defileu.",
                   "category": "landmark",
                   "coords": [
@@ -3556,7 +3556,7 @@ export const bulgariaCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Площадка \"Орлово око\"",
+                  "name": "Ploshchadka \"Orlovo oko\"",
                   "text": "O platformă de belvedere pe un vârf de munte lângă Yagodina, cu o panoramă vastă asupra Rodopilor.",
                   "category": "natural",
                   "coords": [
@@ -3565,7 +3565,7 @@ export const bulgariaCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Дяволския мост",
+                  "name": "Diavolskiia most",
                   "text": "O formațiune stâncoasă naturală distinctivă situată lângă Yagodina.",
                   "category": "landmark",
                   "coords": [
@@ -3574,7 +3574,7 @@ export const bulgariaCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "начало на пътека за Орлово око",
+                  "name": "nachalo na p'teka za Orlovo oko",
                   "text": "Punctul de plecare pentru traseul montan către faimosul belvedere Eagle's Eye.",
                   "category": "natural",
                   "coords": [
@@ -3583,7 +3583,7 @@ export const bulgariaCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Буйновското ждрело",
+                  "name": "Buinovskoto zhdrelo",
                   "text": "Un defileu pitoresc lângă Yagodina, cunoscut pentru pereții săi de stâncă abrupți.",
                   "category": "landmark",
                   "coords": [
@@ -4101,7 +4101,7 @@ export const bulgariaCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Исторически музей Панагюрище",
+                  "name": "Istoricheski muzei Панагюрище",
                   "text": "Das Museum zeigt den berühmten thrakischen Goldschatz von Panagjurischte.",
                   "category": "museum",
                   "coords": [
@@ -4184,7 +4184,7 @@ export const bulgariaCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Исторически музей Панагюрище",
+                  "name": "Istoricheski muzei Панагюрище",
                   "text": "A múzeumban őrzik a világhírű panagjuristei trák aranykincset.",
                   "category": "museum",
                   "coords": [
@@ -4267,7 +4267,7 @@ export const bulgariaCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Исторически музей Панагюрище",
+                  "name": "Istoricheski muzei Панагюрище",
                   "text": "Muzeul adăpostește celebrul tezaur trac de aur descoperit la Panaghiuriște.",
                   "category": "museum",
                   "coords": [
@@ -4506,7 +4506,7 @@ export const bulgariaCitiesV2: POI[] = [
     id: "bulgaria-kustendil-cities-v2", "sights": {
       "de": [
             {
-                  "name": "Терме \"Пауталия\"",
+                  "name": "Terme \"Pautaliia\"",
                   "text": "Antike römische Thermenruinen in der Stadt Kjustendil.",
                   "category": "recreational",
                   "coords": [
@@ -4515,7 +4515,7 @@ export const bulgariaCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Регионален исторически музей “Акад. Йордан Иванов”",
+                  "name": "Regionalen istoricheski muzei \"Akad. Iordan Ivanov\"",
                   "text": "Regionales Museum zur Geschichte und Archäologie der Region Kjustendil.",
                   "category": "museum",
                   "coords": [
@@ -4524,7 +4524,7 @@ export const bulgariaCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Художествена галерия \"Вл.Димитров - Майстора\"",
+                  "name": "Khudozhestvena galeriia \"Vl.Dimitrov - Maistora\"",
                   "text": "Kunstgalerie, die den Werken des bekannten bulgarischen Malers Vladimir Dimitrov gewidmet ist.",
                   "category": "museum",
                   "coords": [
@@ -4533,7 +4533,7 @@ export const bulgariaCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Църква \"Свети Георги\"",
+                  "name": "Ts'rkva \"Sveti Georgi\"",
                   "text": "Eine mittelalterliche bulgarisch-orthodoxe Kirche im Viertel Kolosch von Kjustendil.",
                   "category": "religious",
                   "coords": [
@@ -4544,7 +4544,7 @@ export const bulgariaCitiesV2: POI[] = [
       ],
       "hu": [
             {
-                  "name": "Терме \"Пауталия\"",
+                  "name": "Terme \"Pautaliia\"",
                   "text": "Ókori római termálfürdő romjai Kjusztendil városában.",
                   "category": "recreational",
                   "coords": [
@@ -4553,7 +4553,7 @@ export const bulgariaCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Регионален исторически музей “Акад. Йордан Иванов”",
+                  "name": "Regionalen istoricheski muzei \"Akad. Iordan Ivanov\"",
                   "text": "Regionális múzeum, amely Kjusztendil térségének történelmét és régészetét mutatja be.",
                   "category": "museum",
                   "coords": [
@@ -4562,7 +4562,7 @@ export const bulgariaCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Художествена галерия \"Вл.Димитров - Майстора\"",
+                  "name": "Khudozhestvena galeriia \"Vl.Dimitrov - Maistora\"",
                   "text": "A híres bolgár festő, Vladimir Dimitrov műveinek szentelt művészeti galéria.",
                   "category": "museum",
                   "coords": [
@@ -4571,7 +4571,7 @@ export const bulgariaCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Църква \"Свети Георги\"",
+                  "name": "Ts'rkva \"Sveti Georgi\"",
                   "text": "Középkori bolgár ortodox templom Kjusztendil Kolos negyedében.",
                   "category": "religious",
                   "coords": [
@@ -4582,7 +4582,7 @@ export const bulgariaCitiesV2: POI[] = [
       ],
       "ro": [
             {
-                  "name": "Терме \"Пауталия\"",
+                  "name": "Terme \"Pautaliia\"",
                   "text": "Ruinele unor termele romane antice situate în orașul Kiustendil.",
                   "category": "recreational",
                   "coords": [
@@ -4591,7 +4591,7 @@ export const bulgariaCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Регионален исторически музей “Акад. Йордан Иванов”",
+                  "name": "Regionalen istoricheski muzei \"Akad. Iordan Ivanov\"",
                   "text": "Muzeu regional dedicat istoriei și arheologiei zonei Kiustendil.",
                   "category": "museum",
                   "coords": [
@@ -4600,7 +4600,7 @@ export const bulgariaCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Художествена галерия \"Вл.Димитров - Майстора\"",
+                  "name": "Khudozhestvena galeriia \"Vl.Dimitrov - Maistora\"",
                   "text": "Galerie de artă dedicată lucrărilor cunoscutului pictor bulgar Vladimir Dimitrov.",
                   "category": "museum",
                   "coords": [
@@ -4609,7 +4609,7 @@ export const bulgariaCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Църква \"Свети Георги\"",
+                  "name": "Ts'rkva \"Sveti Georgi\"",
                   "text": "O biserică ortodoxă bulgară medievală situată în cartierul Koloș din Kiustendil.",
                   "category": "religious",
                   "coords": [
@@ -5046,7 +5046,7 @@ export const bulgariaCitiesV2: POI[] = [
     id: "bulgaria-kaspichan-cities-v2", "sights": {
       "de": [
             {
-                  "name": "Археологически музей",
+                  "name": "Arkheologicheski muzei",
                   "text": "Ein Museum, das archäologische Funde aus der Region Kaspitschan ausstellt.",
                   "category": "museum",
                   "coords": [
@@ -5064,7 +5064,7 @@ export const bulgariaCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Крепост Мадара",
+                  "name": "Krepost Madara",
                   "text": "Ruinen einer historischen Festung auf dem Madara-Plateau.",
                   "category": "historical",
                   "coords": [
@@ -5075,7 +5075,7 @@ export const bulgariaCitiesV2: POI[] = [
       ],
       "hu": [
             {
-                  "name": "Археологически музей",
+                  "name": "Arkheologicheski muzei",
                   "text": "A kaspicsani régió régészeti leleteit bemutató múzeum.",
                   "category": "museum",
                   "coords": [
@@ -5084,7 +5084,7 @@ export const bulgariaCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Мадарски конник",
+                  "name": "Madarski konnik",
                   "text": "Híres kora középkori szikladombormű és UNESCO világörökségi helyszín Kaspicsan közelében.",
                   "category": "landmark",
                   "coords": [
@@ -5093,7 +5093,7 @@ export const bulgariaCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Крепост Мадара",
+                  "name": "Krepost Madara",
                   "text": "Történelmi erőd romjai a Madara-fennsíkon.",
                   "category": "historical",
                   "coords": [
@@ -5104,7 +5104,7 @@ export const bulgariaCitiesV2: POI[] = [
       ],
       "ro": [
             {
-                  "name": "Археологически музей",
+                  "name": "Arkheologicheski muzei",
                   "text": "Un muzeu care expune descoperiri arheologice din regiunea Kaspichan.",
                   "category": "museum",
                   "coords": [
@@ -5122,7 +5122,7 @@ export const bulgariaCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Крепост Мадара",
+                  "name": "Krepost Madara",
                   "text": "Ruinele unei cetăți istorice situate pe platoul Madara.",
                   "category": "historical",
                   "coords": [

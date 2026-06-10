@@ -1076,7 +1076,7 @@ imageHint: "Bohdan Khmelnytsky Monument Kyiv equestrian statue in the square",
       ],
       "hu": [
             {
-                  "name": "Свято-Успенська Почаївська Лавра РПЦ",
+                  "name": "Sviato-Uspens'ka Pochayivs'ka Lavra RPTs",
                   "text": "Ukrajna egyik legjelentősebb ortodox kolostora, amely vallási építészetéről ismert.",
                   "category": "religious",
                   "coords": [
@@ -1165,7 +1165,7 @@ imageHint: "Pochayiv Lavra monastery complex golden domes",
                   ]
             },
             {
-                  "name": "Лавочка бiля урвища",
+                  "name": "Lavochka bilia urvishcha",
                   "text": "Ein Ort zur Beobachtung des Sonnenuntergangs über dem Kloster Swjatohirsk.",
                   "category": "natural",
                   "coords": [
@@ -1176,7 +1176,7 @@ imageHint: "Pochayiv Lavra monastery complex golden domes",
       ],
       "hu": [
             {
-                  "name": "Святогорська Свято-Успенська лавра",
+                  "name": "Sviatogors'ka Sviato-Uspens'ka lavra",
                   "text": "Jelentős ortodox barlangkolostor a Donyec folyó krétafalainál.",
                   "category": "religious",
                   "coords": [
@@ -1185,7 +1185,7 @@ imageHint: "Pochayiv Lavra monastery complex golden domes",
                   ]
             },
             {
-                  "name": "Лавочка бiля урвища",
+                  "name": "Lavochka bilia urvishcha",
                   "text": "Naplemente-néző hely a Szvjatohirszki kolostoregyüttes felett.",
                   "category": "natural",
                   "coords": [
@@ -1196,7 +1196,7 @@ imageHint: "Pochayiv Lavra monastery complex golden domes",
       ],
       "ro": [
             {
-                  "name": "Святогорська Свято-Успенська лавра",
+                  "name": "Sviatogors'ka Sviato-Uspens'ka lavra",
                   "text": "O importantă mănăstire ortodoxă rupestră situată pe malul râului Doneț.",
                   "category": "religious",
                   "coords": [
@@ -1205,7 +1205,7 @@ imageHint: "Pochayiv Lavra monastery complex golden domes",
                   ]
             },
             {
-                  "name": "Лавочка бiля урвища",
+                  "name": "Lavochka bilia urvishcha",
                   "text": "Un loc pentru observarea apusului de soare deasupra complexului monahal Sviatohirsk.",
                   "category": "natural",
                   "coords": [

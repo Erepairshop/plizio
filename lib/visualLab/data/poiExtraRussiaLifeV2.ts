@@ -425,7 +425,7 @@ imageHint: "Russian sable in pine forest",
       ],
       "hu": [
             {
-                  "name": "Воронежский государственный природный биосферный заповедник имени В.М. Пескова",
+                  "name": "Voronezhskii gosudarstvennyi prirodnyi biosfernyi zapovednik imeni V.M. Peskova",
                   "text": "Ez az állami bioszféra-rezervátum a Voronyezs régió változatos erdei ökoszisztémáit és vadvilágát védi.",
                   "category": "natural",
                   "coords": [
@@ -436,7 +436,7 @@ imageHint: "Russian sable in pine forest",
       ],
       "ro": [
             {
-                  "name": "Воронежский государственный природный биосферный заповедник имени В.М. Пескова",
+                  "name": "Voronezhskii gosudarstvennyi prirodnyi biosfernyi zapovednik imeni V.M. Peskova",
                   "text": "Această rezervație biosferei de stat protejează ecosistemele forestiere diverse și viața sălbatică din regiunea Voronezh.",
                   "category": "natural",
                   "coords": [
@@ -781,7 +781,7 @@ imageHint: "Sochi Arboretum palms and fountain",
     id: "russia-curonian-spit-life-v2", "sights": {
       "de": [
             {
-                  "name": "Танцующий лес",
+                  "name": "Tantsuiushchii les",
                   "text": "Ein berühmter Kiefernwald auf der Kurischen Nehrung, bekannt für seine bizarr verformten Stämme.",
                   "category": "natural",
                   "coords": [
@@ -790,7 +790,7 @@ imageHint: "Sochi Arboretum palms and fountain",
                   ]
             },
             {
-                  "name": "Пешеходный маршрут \"Высота Мюллера\"",
+                  "name": "Peshekhodnyi marshrut \"Vysota Miullera\"",
                   "text": "Ein beliebter Wanderweg im Nationalpark Kurische Nehrung mit herrlicher Aussicht.",
                   "category": "landmark",
                   "coords": [
@@ -799,7 +799,7 @@ imageHint: "Sochi Arboretum palms and fountain",
                   ]
             },
             {
-                  "name": "Высота Мюллера 1882",
+                  "name": "Vysota Miullera 1882",
                   "text": "Ein historisches Denkmal auf der Kurischen Nehrung zur Erinnerung an den Forstmeister Muller.",
                   "category": "historical",
                   "coords": [
@@ -810,7 +810,7 @@ imageHint: "Sochi Arboretum palms and fountain",
       ],
       "hu": [
             {
-                  "name": "Танцующий лес",
+                  "name": "Tantsuiushchii les",
                   "text": "A Kur-földnyelv híres fenyőerdője, amely különös módon megcsavarodott törzseiről ismert.",
                   "category": "natural",
                   "coords": [
@@ -819,7 +819,7 @@ imageHint: "Sochi Arboretum palms and fountain",
                   ]
             },
             {
-                  "name": "Пешеходный маршрут \"Высота Мюллера\"",
+                  "name": "Peshekhodnyi marshrut \"Vysota Miullera\"",
                   "text": "Népszerű túraútvonal a Kur-földnyelv Nemzeti Parkban, szép kilátással.",
                   "category": "landmark",
                   "coords": [
@@ -828,7 +828,7 @@ imageHint: "Sochi Arboretum palms and fountain",
                   ]
             },
             {
-                  "name": "Высота Мюллера 1882",
+                  "name": "Vysota Miullera 1882",
                   "text": "Történelmi emlékmű a Kur-földnyelven, amely Muller erdőmesternek állít emléket.",
                   "category": "historical",
                   "coords": [
@@ -839,7 +839,7 @@ imageHint: "Sochi Arboretum palms and fountain",
       ],
       "ro": [
             {
-                  "name": "Танцующий лес",
+                  "name": "Tantsuiushchii les",
                   "text": "O celebră pădure de pini de pe Grindul Curonian, cunoscută pentru trunchiurile sale torsionate.",
                   "category": "natural",
                   "coords": [
@@ -848,7 +848,7 @@ imageHint: "Sochi Arboretum palms and fountain",
                   ]
             },
             {
-                  "name": "Пешеходный маршрут \"Высота Мюллера\"",
+                  "name": "Peshekhodnyi marshrut \"Vysota Miullera\"",
                   "text": "Un traseu pietonal popular în Parcul Național Grindul Curonian, oferind vederi pitorești.",
                   "category": "landmark",
                   "coords": [
@@ -857,7 +857,7 @@ imageHint: "Sochi Arboretum palms and fountain",
                   ]
             },
             {
-                  "name": "Высота Мюллера 1882",
+                  "name": "Vysota Miullera 1882",
                   "text": "Un monument istoric pe Grindul Curonian, dedicat pădurarului-șef Muller.",
                   "category": "historical",
                   "coords": [

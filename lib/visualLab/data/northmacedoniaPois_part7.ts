@@ -51,7 +51,7 @@ export const mkPoisPart7: POI[] = [
     id: "MK-061-zletovo-river-valley", "sights": {
       "de": [
             {
-                  "name": "Црна Дудинка",
+                  "name": "Tsrna Dudinka",
                   "text": "Ein Naturschutzgebiet, das für seine alten schwarzen Maulbeerbäume bekannt ist.",
                   "category": "natural",
                   "coords": [
@@ -62,7 +62,7 @@ export const mkPoisPart7: POI[] = [
       ],
       "hu": [
             {
-                  "name": "Црна Дудинка",
+                  "name": "Tsrna Dudinka",
                   "text": "Védett természeti terület, amely ősi fekete eperfáiról ismert.",
                   "category": "natural",
                   "coords": [
@@ -73,7 +73,7 @@ export const mkPoisPart7: POI[] = [
       ],
       "ro": [
             {
-                  "name": "Црна Дудинка",
+                  "name": "Tsrna Dudinka",
                   "text": "O zonă naturală protejată, cunoscută pentru duzii săi negri antici.",
                   "category": "natural",
                   "coords": [
@@ -230,7 +230,7 @@ export const mkPoisPart7: POI[] = [
     id: "MK-063-aracinovo-mosque", "sights": {
       "de": [
             {
-                  "name": "Св. Талалеј",
+                  "name": "Sv. Talalej",
                   "text": "Eine dem Heiligen Thalaleus geweihte christliche Kirche in Aračinovo.",
                   "category": "religious",
                   "coords": [
@@ -241,7 +241,7 @@ export const mkPoisPart7: POI[] = [
       ],
       "hu": [
             {
-                  "name": "Св. Талалеј",
+                  "name": "Sv. Talalej",
                   "text": "Szent Thalaleusnak szentelt keresztény templom Aračinovo településen.",
                   "category": "religious",
                   "coords": [
@@ -252,7 +252,7 @@ export const mkPoisPart7: POI[] = [
       ],
       "ro": [
             {
-                  "name": "Св. Талалеј",
+                  "name": "Sv. Talalej",
                   "text": "O biserică creștină dedicată Sfântului Thalaleus situată în Aračinovo.",
                   "category": "religious",
                   "coords": [
@@ -319,7 +319,7 @@ export const mkPoisPart7: POI[] = [
     id: "MK-063-skopje-valley-view", "sights": {
       "de": [
             {
-                  "name": "Ајватовски Манастир",
+                  "name": "Ajvatovski Manastir",
                   "text": "Ein friedliches Kloster im Bereich des Skopje-Tal-Blicks.",
                   "category": "landmark",
                   "coords": [
@@ -328,7 +328,7 @@ export const mkPoisPart7: POI[] = [
                   ]
             },
             {
-                  "name": "Св. Талалеј",
+                  "name": "Sv. Talalej",
                   "text": "Eine dem heiligen Thalaleus geweihte orthodoxe Kirche im Dorf Aracinovo.",
                   "category": "religious",
                   "coords": [
@@ -339,7 +339,7 @@ export const mkPoisPart7: POI[] = [
       ],
       "hu": [
             {
-                  "name": "Ајватовски Манастир",
+                  "name": "Ajvatovski Manastir",
                   "text": "Békés kolostor a Szkopje-völgyre néző területen.",
                   "category": "landmark",
                   "coords": [
@@ -348,7 +348,7 @@ export const mkPoisPart7: POI[] = [
                   ]
             },
             {
-                  "name": "Св. Талалеј",
+                  "name": "Sv. Talalej",
                   "text": "Szent Thalaleus tiszteletére szentelt ortodox templom Aracinovo faluban.",
                   "category": "religious",
                   "coords": [
@@ -359,7 +359,7 @@ export const mkPoisPart7: POI[] = [
       ],
       "ro": [
             {
-                  "name": "Ајватовски Манастир",
+                  "name": "Ajvatovski Manastir",
                   "text": "O mănăstire liniștită situată în zona cu vedere la Valea Skopje.",
                   "category": "landmark",
                   "coords": [
@@ -368,7 +368,7 @@ export const mkPoisPart7: POI[] = [
                   ]
             },
             {
-                  "name": "Св. Талалеј",
+                  "name": "Sv. Talalej",
                   "text": "O biserică ortodoxă dedicată Sfântului Thalaleus, situată în satul Aracinovo.",
                   "category": "religious",
                   "coords": [
@@ -445,7 +445,7 @@ export const mkPoisPart7: POI[] = [
     id: "MK-064-tauresium-archaeological-site", "sights": {
       "de": [
             {
-                  "name": "Тауресиум",
+                  "name": "Tauresium",
                   "text": "Eine archäologische Stätte in Nordmazedonien, die als Geburtsort des Kaisers Justinian I. gilt.",
                   "category": "historical",
                   "coords": [
@@ -454,7 +454,7 @@ export const mkPoisPart7: POI[] = [
                   ]
             },
             {
-                  "name": "Видиковец Таор",
+                  "name": "Vidikovets Taor",
                   "text": "Ein Aussichtspunkt in der Nähe der antiken Stätte Tauresium.",
                   "category": "natural",
                   "coords": [
@@ -465,7 +465,7 @@ export const mkPoisPart7: POI[] = [
       ],
       "hu": [
             {
-                  "name": "Тауресиум",
+                  "name": "Tauresium",
                   "text": "Régészeti lelőhely Észak-Macedóniában, I. Justinianus császár feltételezett szülőhelye.",
                   "category": "historical",
                   "coords": [
@@ -474,7 +474,7 @@ export const mkPoisPart7: POI[] = [
                   ]
             },
             {
-                  "name": "Видиковец Таор",
+                  "name": "Vidikovets Taor",
                   "text": "Kilátóhely a közelben fekvő ókori Tauresium lelőhelyénél.",
                   "category": "natural",
                   "coords": [
@@ -485,7 +485,7 @@ export const mkPoisPart7: POI[] = [
       ],
       "ro": [
             {
-                  "name": "Тауресиум",
+                  "name": "Tauresium",
                   "text": "Un sit arheologic în Macedonia de Nord, considerat locul de naștere al împăratului Iustinian I.",
                   "category": "historical",
                   "coords": [
@@ -494,7 +494,7 @@ export const mkPoisPart7: POI[] = [
                   ]
             },
             {
-                  "name": "Видиковец Таор",
+                  "name": "Vidikovets Taor",
                   "text": "Un punct de observație situat în apropierea sitului antic Tauresium.",
                   "category": "natural",
                   "coords": [
@@ -624,7 +624,7 @@ export const mkPoisPart7: POI[] = [
                   ]
             },
             {
-                  "name": "Поглед кон Кичево",
+                  "name": "Pogled kon Kichevo",
                   "text": "Ein malerischer Aussichtspunkt, der einen weiten Blick über die Stadt Kičevo bietet.",
                   "category": "natural",
                   "coords": [
@@ -633,7 +633,7 @@ export const mkPoisPart7: POI[] = [
                   ]
             },
             {
-                  "name": "Китино Кале",
+                  "name": "Kitino Kale",
                   "text": "Ein Denkmal an der historischen Burgstätte Kitino Kale in Kičevo.",
                   "category": "historical",
                   "coords": [
@@ -653,7 +653,7 @@ export const mkPoisPart7: POI[] = [
                   ]
             },
             {
-                  "name": "Поглед кон Кичево",
+                  "name": "Pogled kon Kichevo",
                   "text": "Festői kilátóhely, ahonnan panorámás kilátás nyílik Kicsevo városára.",
                   "category": "natural",
                   "coords": [
@@ -662,7 +662,7 @@ export const mkPoisPart7: POI[] = [
                   ]
             },
             {
-                  "name": "Китино Кале",
+                  "name": "Kitino Kale",
                   "text": "Emlékmű a történelmi Kitino Kale várhelyszínén, Kicsevóban.",
                   "category": "historical",
                   "coords": [
@@ -682,7 +682,7 @@ export const mkPoisPart7: POI[] = [
                   ]
             },
             {
-                  "name": "Поглед кон Кичево",
+                  "name": "Pogled kon Kichevo",
                   "text": "Un punct de observație pitoresc care oferă o vedere panoramică asupra orașului Kicevo.",
                   "category": "natural",
                   "coords": [
@@ -691,7 +691,7 @@ export const mkPoisPart7: POI[] = [
                   ]
             },
             {
-                  "name": "Китино Кале",
+                  "name": "Kitino Kale",
                   "text": "Un monument situat pe situl istoric al castelului Kitino Kale din Kicevo.",
                   "category": "historical",
                   "coords": [
@@ -785,7 +785,7 @@ export const mkPoisPart7: POI[] = [
                   ]
             },
             {
-                  "name": "Поглед кон Кичево",
+                  "name": "Pogled kon Kichevo",
                   "text": "Dieser Aussichtspunkt bietet einen weiten Panoramablick über die Landschaft rund um Kičevo.",
                   "category": "natural",
                   "coords": [
@@ -794,7 +794,7 @@ export const mkPoisPart7: POI[] = [
                   ]
             },
             {
-                  "name": "Китино Кале",
+                  "name": "Kitino Kale",
                   "text": "Die Überreste dieser historischen Befestigung zeugen von der strategischen Bedeutung der Region.",
                   "category": "historical",
                   "coords": [
@@ -814,7 +814,7 @@ export const mkPoisPart7: POI[] = [
                   ]
             },
             {
-                  "name": "Поглед кон Кичево",
+                  "name": "Pogled kon Kichevo",
                   "text": "Erről a kilátópontról széles panoráma nyílik a Kičevo környéki tájra.",
                   "category": "natural",
                   "coords": [
@@ -823,7 +823,7 @@ export const mkPoisPart7: POI[] = [
                   ]
             },
             {
-                  "name": "Китино Кале",
+                  "name": "Kitino Kale",
                   "text": "Ennek a történelmi erődítménynek a maradványai a régió stratégiai jelentőségéről tanúskodnak.",
                   "category": "historical",
                   "coords": [
@@ -843,7 +843,7 @@ export const mkPoisPart7: POI[] = [
                   ]
             },
             {
-                  "name": "Поглед кон Кичево",
+                  "name": "Pogled kon Kichevo",
                   "text": "Acest punct de observare oferă o vedere panoramică largă asupra peisajului din jurul Kičevo.",
                   "category": "natural",
                   "coords": [
@@ -852,7 +852,7 @@ export const mkPoisPart7: POI[] = [
                   ]
             },
             {
-                  "name": "Китино Кале",
+                  "name": "Kitino Kale",
                   "text": "Rămășițele acestei fortificații istorice atestă importanța strategică a regiunii.",
                   "category": "historical",
                   "coords": [
@@ -1116,7 +1116,7 @@ export const mkPoisPart7: POI[] = [
     id: "MK-068-kale-fortress", "sights": {
       "de": [
             {
-                  "name": "Природонаучен Музеј",
+                  "name": "Prirodonauchen Muzej",
                   "text": "Ein Museum in Skopje, das die geologische und biologische Vielfalt Mazedoniens zeigt.",
                   "category": "museum",
                   "coords": [
@@ -1125,7 +1125,7 @@ export const mkPoisPart7: POI[] = [
                   ]
             },
             {
-                  "name": "Скопско кале",
+                  "name": "Skopsko kale",
                   "text": "Eine historische Festung auf dem höchsten Punkt der Stadt mit Panoramablick über Skopje.",
                   "category": "castle",
                   "coords": [
@@ -1134,7 +1134,7 @@ export const mkPoisPart7: POI[] = [
                   ]
             },
             {
-                  "name": "Зоолошка градина Скопје",
+                  "name": "Zooloshka gradina Skopje",
                   "text": "Der wichtigste zoologische Garten der Stadt, Heimat einer Vielzahl von Tierarten aus aller Welt.",
                   "category": "recreational",
                   "coords": [
@@ -1143,7 +1143,7 @@ export const mkPoisPart7: POI[] = [
                   ]
             },
             {
-                  "name": "Скупи",
+                  "name": "Skupi",
                   "text": "Die Ruinen einer antiken römischen Stadt und archäologischen Stätte in der Nähe von Skopje.",
                   "category": "historical",
                   "coords": [
@@ -1152,7 +1152,7 @@ export const mkPoisPart7: POI[] = [
                   ]
             },
             {
-                  "name": "Музеј на Македонија",
+                  "name": "Muzej na Makedonija",
                   "text": "Eines der ältesten Museen des Landes, das die nationale Geschichte und Kultur dokumentiert.",
                   "category": "museum",
                   "coords": [
@@ -1161,7 +1161,7 @@ export const mkPoisPart7: POI[] = [
                   ]
             },
             {
-                  "name": "Македонска Национална опера и балет",
+                  "name": "Makedonska Natsionalna opera i balet",
                   "text": "Die führende Institution für Opern- und Ballettaufführungen in Nordmazedonien.",
                   "category": "cultural",
                   "coords": [
@@ -1170,7 +1170,7 @@ export const mkPoisPart7: POI[] = [
                   ]
             },
             {
-                  "name": "Музеј на современата уметност",
+                  "name": "Muzej na sovremenata umetnost",
                   "text": "Ein bedeutendes Kunstmuseum in Skopje, das modernen und zeitgenössischen Werken gewidmet ist.",
                   "category": "museum",
                   "coords": [
@@ -1179,7 +1179,7 @@ export const mkPoisPart7: POI[] = [
                   ]
             },
             {
-                  "name": "Национална галерија „Даут-пашин амам“",
+                  "name": "Natsionalna galerija ,,Daut-pashin amam\"",
                   "text": "Ein ehemaliges osmanisches Badehaus, das heute die Nationalgalerie von Mazedonien beherbergt.",
                   "category": "museum",
                   "coords": [
@@ -1190,7 +1190,7 @@ export const mkPoisPart7: POI[] = [
       ],
       "hu": [
             {
-                  "name": "Природонаучен Музеј",
+                  "name": "Prirodonauchen Muzej",
                   "text": "Szkopjei múzeum, amely Macedónia geológiai és biológiai sokféleségét mutatja be.",
                   "category": "museum",
                   "coords": [
@@ -1199,7 +1199,7 @@ export const mkPoisPart7: POI[] = [
                   ]
             },
             {
-                  "name": "Скопско кале",
+                  "name": "Skopsko kale",
                   "text": "Történelmi erőd a város legmagasabb pontján, ahonnan panorámás kilátás nyílik Szkopjéra.",
                   "category": "castle",
                   "coords": [
@@ -1208,7 +1208,7 @@ export const mkPoisPart7: POI[] = [
                   ]
             },
             {
-                  "name": "Зоолошка градина Скопје",
+                  "name": "Zooloshka gradina Skopje",
                   "text": "A város elsődleges állatkertje, amely a világ minden tájáról származó számos állatfajnak ad otthont.",
                   "category": "recreational",
                   "coords": [
@@ -1217,7 +1217,7 @@ export const mkPoisPart7: POI[] = [
                   ]
             },
             {
-                  "name": "Скупи",
+                  "name": "Skupi",
                   "text": "Egy ókori római város romjai és régészeti lelőhelye Szkopje közelében.",
                   "category": "historical",
                   "coords": [
@@ -1226,7 +1226,7 @@ export const mkPoisPart7: POI[] = [
                   ]
             },
             {
-                  "name": "Музеј на Македонија",
+                  "name": "Muzej na Makedonija",
                   "text": "Az ország egyik legrégebbi múzeuma, amely a nemzeti történelmet és kultúrát dokumentálja.",
                   "category": "museum",
                   "coords": [
@@ -1235,7 +1235,7 @@ export const mkPoisPart7: POI[] = [
                   ]
             },
             {
-                  "name": "Македонска Национална опера и балет",
+                  "name": "Makedonska Natsionalna opera i balet",
                   "text": "Észak-Macedónia vezető intézménye az opera- és balettelőadások terén.",
                   "category": "cultural",
                   "coords": [
@@ -1244,7 +1244,7 @@ export const mkPoisPart7: POI[] = [
                   ]
             },
             {
-                  "name": "Музеј на современата уметност",
+                  "name": "Muzej na sovremenata umetnost",
                   "text": "Jelentős művészeti múzeum Szkopjéban, amelyet modern és kortárs alkotásoknak szenteltek.",
                   "category": "museum",
                   "coords": [
@@ -1253,7 +1253,7 @@ export const mkPoisPart7: POI[] = [
                   ]
             },
             {
-                  "name": "Национална галерија „Даут-пашин амам“",
+                  "name": "Natsionalna galerija ,,Daut-pashin amam\"",
                   "text": "Egykori oszmán fürdőház, amely ma a Macedón Nemzeti Galériának ad otthont.",
                   "category": "museum",
                   "coords": [
@@ -1264,7 +1264,7 @@ export const mkPoisPart7: POI[] = [
       ],
       "ro": [
             {
-                  "name": "Природонаучен Музеј",
+                  "name": "Prirodonauchen Muzej",
                   "text": "Un muzeu din Skopje care prezintă diversitatea geologică și biologică a Macedoniei.",
                   "category": "museum",
                   "coords": [
@@ -1273,7 +1273,7 @@ export const mkPoisPart7: POI[] = [
                   ]
             },
             {
-                  "name": "Скопско кале",
+                  "name": "Skopsko kale",
                   "text": "O fortăreață istorică situată pe cel mai înalt punct al orașului, oferind vederi panoramice asupra Skopje.",
                   "category": "castle",
                   "coords": [
@@ -1282,7 +1282,7 @@ export const mkPoisPart7: POI[] = [
                   ]
             },
             {
-                  "name": "Зоолошка градина Скопје",
+                  "name": "Zooloshka gradina Skopje",
                   "text": "Grădina zoologică principală a orașului, care găzduiește o varietate de specii de animale din întreaga lume.",
                   "category": "recreational",
                   "coords": [
@@ -1291,7 +1291,7 @@ export const mkPoisPart7: POI[] = [
                   ]
             },
             {
-                  "name": "Скупи",
+                  "name": "Skupi",
                   "text": "Ruinele unui antic oraș roman și sit arheologic situat lângă Skopje.",
                   "category": "historical",
                   "coords": [
@@ -1300,7 +1300,7 @@ export const mkPoisPart7: POI[] = [
                   ]
             },
             {
-                  "name": "Музеј на Македонија",
+                  "name": "Muzej na Makedonija",
                   "text": "Unul dintre cele mai vechi muzee din țară, care documentează istoria și cultura națională.",
                   "category": "museum",
                   "coords": [
@@ -1309,7 +1309,7 @@ export const mkPoisPart7: POI[] = [
                   ]
             },
             {
-                  "name": "Македонска Национална опера и балет",
+                  "name": "Makedonska Natsionalna opera i balet",
                   "text": "Instituția principală pentru spectacole de operă și balet din Macedonia de Nord.",
                   "category": "cultural",
                   "coords": [
@@ -1318,7 +1318,7 @@ export const mkPoisPart7: POI[] = [
                   ]
             },
             {
-                  "name": "Музеј на современата уметност",
+                  "name": "Muzej na sovremenata umetnost",
                   "text": "Un muzeu de artă proeminent din Skopje dedicat lucrărilor moderne și contemporane.",
                   "category": "museum",
                   "coords": [
@@ -1327,7 +1327,7 @@ export const mkPoisPart7: POI[] = [
                   ]
             },
             {
-                  "name": "Национална галерија „Даут-пашин амам“",
+                  "name": "Natsionalna galerija ,,Daut-pashin amam\"",
                   "text": "O fostă baie otomană care găzduiește acum Galeria Națională a Macedoniei.",
                   "category": "museum",
                   "coords": [
@@ -1466,7 +1466,7 @@ export const mkPoisPart7: POI[] = [
                   ]
             },
             {
-                  "name": "Летна сцена",
+                  "name": "Letna stsena",
                   "text": "Eine Freilichtbühne für kulturelle Veranstaltungen am Gipfel des Berges Vodno.",
                   "category": "cultural",
                   "coords": [
@@ -1475,7 +1475,7 @@ export const mkPoisPart7: POI[] = [
                   ]
             },
             {
-                  "name": "Маркови Кули",
+                  "name": "Markovi Kuli",
                   "text": "Ruinen einer mittelalterlichen Festung am Fuße des Berges Vodno bei Skopje.",
                   "category": "historical",
                   "coords": [
@@ -1484,7 +1484,7 @@ export const mkPoisPart7: POI[] = [
                   ]
             },
             {
-                  "name": "Орашец",
+                  "name": "Orashets",
                   "text": "Ein Berggipfel im Vodno-Massiv, der Aussichtspunkte über die Region bietet.",
                   "category": "landmark",
                   "coords": [
@@ -1493,7 +1493,7 @@ export const mkPoisPart7: POI[] = [
                   ]
             },
             {
-                  "name": "Крстовар",
+                  "name": "Krstovar",
                   "text": "Der höchste Gipfel des Berges Vodno, auf dem das markante Millennium-Kreuz steht.",
                   "category": "landmark",
                   "coords": [
@@ -1502,7 +1502,7 @@ export const mkPoisPart7: POI[] = [
                   ]
             },
             {
-                  "name": "Абедиште",
+                  "name": "Abedishte",
                   "text": "Ein Gipfel in der Umgebung von Skopje, beliebt bei Wanderern und Naturfreunden.",
                   "category": "landmark",
                   "coords": [
@@ -1511,7 +1511,7 @@ export const mkPoisPart7: POI[] = [
                   ]
             },
             {
-                  "name": "Споменик на Јуриј Гагарин",
+                  "name": "Spomenik na Jurij Gagarin",
                   "text": "Ein Denkmal zu Ehren des ersten Kosmonauten im Weltraum auf dem Berg Vodno.",
                   "category": "historical",
                   "coords": [
@@ -1540,7 +1540,7 @@ export const mkPoisPart7: POI[] = [
                   ]
             },
             {
-                  "name": "Летна сцена",
+                  "name": "Letna stsena",
                   "text": "Kulturális eseményeknek otthont adó szabadtéri színpad a Vodno-hegy csúcsán.",
                   "category": "cultural",
                   "coords": [
@@ -1549,7 +1549,7 @@ export const mkPoisPart7: POI[] = [
                   ]
             },
             {
-                  "name": "Маркови Кули",
+                  "name": "Markovi Kuli",
                   "text": "Középkori erőd romjai a Vodno-hegy lábánál, Szkopje közelében.",
                   "category": "historical",
                   "coords": [
@@ -1558,7 +1558,7 @@ export const mkPoisPart7: POI[] = [
                   ]
             },
             {
-                  "name": "Орашец",
+                  "name": "Orashets",
                   "text": "Hegycsúcs a Vodno-masszívumban, amely kilátást nyújt a régióra.",
                   "category": "landmark",
                   "coords": [
@@ -1567,7 +1567,7 @@ export const mkPoisPart7: POI[] = [
                   ]
             },
             {
-                  "name": "Крстовар",
+                  "name": "Krstovar",
                   "text": "A Vodno-hegy legmagasabb csúcsa, amelyen a jellegzetes Millenniumi kereszt áll.",
                   "category": "landmark",
                   "coords": [
@@ -1576,7 +1576,7 @@ export const mkPoisPart7: POI[] = [
                   ]
             },
             {
-                  "name": "Абедиште",
+                  "name": "Abedishte",
                   "text": "Hegycsúcs Szkopje környékén, a túrázók és természetbarátok körében népszerű.",
                   "category": "landmark",
                   "coords": [
@@ -1585,7 +1585,7 @@ export const mkPoisPart7: POI[] = [
                   ]
             },
             {
-                  "name": "Споменик на Јуриј Гагарин",
+                  "name": "Spomenik na Jurij Gagarin",
                   "text": "Az első űrhajós tiszteletére emelt emlékmű a Vodno-hegyen.",
                   "category": "historical",
                   "coords": [
@@ -1614,7 +1614,7 @@ export const mkPoisPart7: POI[] = [
                   ]
             },
             {
-                  "name": "Летна сцена",
+                  "name": "Letna stsena",
                   "text": "O scenă în aer liber pentru evenimente culturale, situată pe muntele Vodno.",
                   "category": "cultural",
                   "coords": [
@@ -1623,7 +1623,7 @@ export const mkPoisPart7: POI[] = [
                   ]
             },
             {
-                  "name": "Маркови Кули",
+                  "name": "Markovi Kuli",
                   "text": "Ruinele unei cetăți medievale la poalele muntelui Vodno, lângă Skopje.",
                   "category": "historical",
                   "coords": [
@@ -1632,7 +1632,7 @@ export const mkPoisPart7: POI[] = [
                   ]
             },
             {
-                  "name": "Орашец",
+                  "name": "Orashets",
                   "text": "Un vârf montan în masivul Vodno, oferind puncte de belvedere asupra regiunii.",
                   "category": "landmark",
                   "coords": [
@@ -1641,7 +1641,7 @@ export const mkPoisPart7: POI[] = [
                   ]
             },
             {
-                  "name": "Крстовар",
+                  "name": "Krstovar",
                   "text": "Cel mai înalt vârf al muntelui Vodno, unde se află Crucea Mileniului.",
                   "category": "landmark",
                   "coords": [
@@ -1650,7 +1650,7 @@ export const mkPoisPart7: POI[] = [
                   ]
             },
             {
-                  "name": "Абедиште",
+                  "name": "Abedishte",
                   "text": "Un vârf în împrejurimile orașului Skopje, popular printre excursioniști.",
                   "category": "landmark",
                   "coords": [
@@ -1659,7 +1659,7 @@ export const mkPoisPart7: POI[] = [
                   ]
             },
             {
-                  "name": "Споменик на Јуриј Гагарин",
+                  "name": "Spomenik na Jurij Gagarin",
                   "text": "Un monument dedicat primului cosmonaut în spațiu, situat pe muntele Vodno.",
                   "category": "historical",
                   "coords": [
@@ -1799,7 +1799,7 @@ export const mkPoisPart7: POI[] = [
     id: "MK-069-st-athanasius-lozovo", "sights": {
       "de": [
             {
-                  "name": "Куридере",
+                  "name": "Kuridere",
                   "text": "Historische Ruinen in der Nähe der Kirche des Heiligen Athanasius in Lozovo.",
                   "category": "historical",
                   "coords": [
@@ -1810,7 +1810,7 @@ export const mkPoisPart7: POI[] = [
       ],
       "hu": [
             {
-                  "name": "Куридере",
+                  "name": "Kuridere",
                   "text": "Történelmi romok Lozovo környékén, a Szent Atanáz-templom közelében.",
                   "category": "historical",
                   "coords": [
@@ -1821,7 +1821,7 @@ export const mkPoisPart7: POI[] = [
       ],
       "ro": [
             {
-                  "name": "Куридере",
+                  "name": "Kuridere",
                   "text": "Ruine istorice situate în apropierea bisericii Sfântul Atanasie din Lozovo.",
                   "category": "historical",
                   "coords": [

@@ -321,7 +321,7 @@ export const northmacedoniaCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Музеј на град Берово",
+                  "name": "Muzej na grad Berovo",
                   "text": "Das Stadtmuseum von Berovo präsentiert die Geschichte, Ethnologie und Archäologie der Region.",
                   "category": "museum",
                   "coords": [
@@ -330,7 +330,7 @@ export const northmacedoniaCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Дом на културата",
+                  "name": "Dom na kulturata",
                   "text": "Ein Kulturzentrum in Berovo, das als Treffpunkt für Kunst, Musik und lokale Veranstaltungen dient.",
                   "category": "cultural",
                   "coords": [
@@ -339,7 +339,7 @@ export const northmacedoniaCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Манастир Св. Архангел Михаил",
+                  "name": "Манастир Sv. Arkhangel Mikhail",
                   "text": "Ein bedeutendes Kloster in Berovo, das für seine Architektur und spirituelle Atmosphäre bekannt ist.",
                   "category": "landmark",
                   "coords": [
@@ -359,7 +359,7 @@ export const northmacedoniaCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Музеј на град Берово",
+                  "name": "Muzej na grad Berovo",
                   "text": "Berovo városi múzeuma a régió történelmét, néprajzát és régészetét mutatja be.",
                   "category": "museum",
                   "coords": [
@@ -368,7 +368,7 @@ export const northmacedoniaCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Дом на културата",
+                  "name": "Dom na kulturata",
                   "text": "Kulturális központ Berovóban, amely a művészet, a zene és a helyi események találkozóhelyeként szolgál.",
                   "category": "cultural",
                   "coords": [
@@ -377,7 +377,7 @@ export const northmacedoniaCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Манастир Св. Архангел Михаил",
+                  "name": "Манастир Sv. Arkhangel Mikhail",
                   "text": "Jelentős kolostor Berovóban, amely építészetéről és spirituális légköréről ismert.",
                   "category": "landmark",
                   "coords": [
@@ -397,7 +397,7 @@ export const northmacedoniaCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Музеј на град Берово",
+                  "name": "Muzej na grad Berovo",
                   "text": "Muzeul orașului Berovo prezintă istoria, etnologia și arheologia regiunii.",
                   "category": "museum",
                   "coords": [
@@ -406,7 +406,7 @@ export const northmacedoniaCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Дом на културата",
+                  "name": "Dom na kulturata",
                   "text": "Un centru cultural din Berovo care servește ca loc de întâlnire pentru artă, muzică și evenimente locale.",
                   "category": "cultural",
                   "coords": [
@@ -415,7 +415,7 @@ export const northmacedoniaCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Манастир Св. Архангел Михаил",
+                  "name": "Манастир Sv. Arkhangel Mikhail",
                   "text": "O mănăstire importantă din Berovo, cunoscută pentru arhitectura sa și atmosfera spirituală.",
                   "category": "landmark",
                   "coords": [
@@ -924,7 +924,7 @@ export const northmacedoniaCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Музеј на град Кратово",
+                  "name": "Muzej na grad Kratovo",
                   "text": "Das städtische Museum von Kratovo dokumentiert die reiche Geschichte und Kultur der Region.",
                   "category": "museum",
                   "coords": [
@@ -933,7 +933,7 @@ export const northmacedoniaCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Емин-бегова кула",
+                  "name": "Emin-begova kula",
                   "text": "Einer der charakteristischen mittelalterlichen Türme der Stadt Kratovo.",
                   "category": "historical",
                   "coords": [
@@ -942,7 +942,7 @@ export const northmacedoniaCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Саат-кула",
+                  "name": "Saat-kula",
                   "text": "Ein historischer Uhrturm in Kratovo, der ein wichtiges Denkmal der osmanischen Zeit darstellt.",
                   "category": "historical",
                   "coords": [
@@ -951,7 +951,7 @@ export const northmacedoniaCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Симиќева кула",
+                  "name": "Simikjeva kula",
                   "text": "Ein steinerner Turm in Kratovo, der die mittelalterliche Befestigungskunst der Region repräsentiert.",
                   "category": "historical",
                   "coords": [
@@ -971,7 +971,7 @@ export const northmacedoniaCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Музеј на град Кратово",
+                  "name": "Muzej na grad Kratovo",
                   "text": "Kratovo városi múzeuma a régió gazdag történelmét és kultúráját mutatja be.",
                   "category": "museum",
                   "coords": [
@@ -980,7 +980,7 @@ export const northmacedoniaCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Емин-бегова кула",
+                  "name": "Emin-begova kula",
                   "text": "Kratovo városának egyik jellegzetes középkori tornya.",
                   "category": "historical",
                   "coords": [
@@ -989,7 +989,7 @@ export const northmacedoniaCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Саат-кула",
+                  "name": "Saat-kula",
                   "text": "Kratovo történelmi óratornya, az oszmán korszak egyik fontos műemléke.",
                   "category": "historical",
                   "coords": [
@@ -998,7 +998,7 @@ export const northmacedoniaCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Симиќева кула",
+                  "name": "Simikjeva kula",
                   "text": "Kőtorony Kratovóban, amely a régió középkori erődépítészetét képviseli.",
                   "category": "historical",
                   "coords": [
@@ -1018,7 +1018,7 @@ export const northmacedoniaCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Музеј на град Кратово",
+                  "name": "Muzej na grad Kratovo",
                   "text": "Muzeul orașului Kratovo documentează istoria și cultura bogată a regiunii.",
                   "category": "museum",
                   "coords": [
@@ -1027,7 +1027,7 @@ export const northmacedoniaCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Емин-бегова кула",
+                  "name": "Emin-begova kula",
                   "text": "Unul dintre turnurile medievale caracteristice ale orașului Kratovo.",
                   "category": "historical",
                   "coords": [
@@ -1036,7 +1036,7 @@ export const northmacedoniaCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Саат-кула",
+                  "name": "Saat-kula",
                   "text": "Turnul cu ceas istoric din Kratovo, un monument important din perioada otomană.",
                   "category": "historical",
                   "coords": [
@@ -1045,7 +1045,7 @@ export const northmacedoniaCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Симиќева кула",
+                  "name": "Simikjeva kula",
                   "text": "Un turn de piatră din Kratovo, reprezentativ pentru arhitectura fortificată medievală a regiunii.",
                   "category": "historical",
                   "coords": [

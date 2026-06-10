@@ -661,7 +661,7 @@ export const poiExtraGreeceCities: POI[] = [
             },
             {
                   "name": "Palaio Archaiologiko Moyseio Chalkidas",
-                  "text": "Παλαιό Αρχαιολογικό Μουσείο Χαλκίδας ist ein Museum in der Stadt Chalkida.",
+                  "text": "Παλαιό Arkhaiologiko Mouseio Χαλκίδας ist ein Museum in der Stadt Chalkida.",
                   "category": "museum",
                   "coords": [
                         23.59401,
@@ -715,7 +715,7 @@ export const poiExtraGreeceCities: POI[] = [
             },
             {
                   "name": "Archaiologiko Moyseio Chalkidas «Arethoysa»",
-                  "text": "Αρχαιολογικό Μουσείο Χαλκίδας «Αρέθουσα» ist ein Museum in der Stadt Chalkida.",
+                  "text": "Arkhaiologiko Mouseio Χαλκίδας «Αρέθουσα» ist ein Museum in der Stadt Chalkida.",
                   "category": "museum",
                   "coords": [
                         23.610305,
@@ -1014,7 +1014,7 @@ export const poiExtraGreeceCities: POI[] = [
             },
             {
                   "name": "Palaio Archaiologiko Moyseio Chalkidas",
-                  "text": "A Παλαιό Αρχαιολογικό Μουσείο Χαλκίδας egy múzeum Chalkida városában.",
+                  "text": "A Παλαιό Arkhaiologiko Mouseio Χαλκίδας egy múzeum Chalkida városában.",
                   "category": "museum",
                   "coords": [
                         23.59401,
@@ -1068,7 +1068,7 @@ export const poiExtraGreeceCities: POI[] = [
             },
             {
                   "name": "Archaiologiko Moyseio Chalkidas «Arethoysa»",
-                  "text": "Az Αρχαιολογικό Μουσείο Χαλκίδας «Αρέθουσα» egy múzeum Chalkida városában.",
+                  "text": "Az Arkhaiologiko Mouseio Χαλκίδας «Αρέθουσα» egy múzeum Chalkida városában.",
                   "category": "museum",
                   "coords": [
                         23.610305,
@@ -1367,7 +1367,7 @@ export const poiExtraGreeceCities: POI[] = [
             },
             {
                   "name": "Palaio Archaiologiko Moyseio Chalkidas",
-                  "text": "Παλαιό Αρχαιολογικό Μουσείο Χαλκίδας este un muzeu situat în orașul Chalkida.",
+                  "text": "Παλαιό Arkhaiologiko Mouseio Χαλκίδας este un muzeu situat în orașul Chalkida.",
                   "category": "museum",
                   "coords": [
                         23.59401,
@@ -1421,7 +1421,7 @@ export const poiExtraGreeceCities: POI[] = [
             },
             {
                   "name": "Archaiologiko Moyseio Chalkidas «Arethoysa»",
-                  "text": "Αρχαιολογικό Μουσείο Χαλκίδας «Αρέθουσα» este un muzeu situat în orașul Chalkida.",
+                  "text": "Arkhaiologiko Mouseio Χαλκίδας «Αρέθουσα» este un muzeu situat în orașul Chalkida.",
                   "category": "museum",
                   "coords": [
                         23.610305,
@@ -1720,7 +1720,7 @@ export const poiExtraGreeceCities: POI[] = [
             },
             {
                   "name": "Palaio Archaiologiko Moyseio Chalkidas",
-                  "text": "Παλαιό Αρχαιολογικό Μουσείο Χαλκίδας is a museum located in the city of Chalkida.",
+                  "text": "Παλαιό Arkhaiologiko Mouseio Χαλκίδας is a museum located in the city of Chalkida.",
                   "category": "museum",
                   "coords": [
                         23.59401,
@@ -1774,7 +1774,7 @@ export const poiExtraGreeceCities: POI[] = [
             },
             {
                   "name": "Archaiologiko Moyseio Chalkidas «Arethoysa»",
-                  "text": "Αρχαιολογικό Μουσείο Χαλκίδας «Αρέθουσα» is a museum located in the city of Chalkida.",
+                  "text": "Arkhaiologiko Mouseio Χαλκίδας «Αρέθουσα» is a museum located in the city of Chalkida.",
                   "category": "museum",
                   "coords": [
                         23.610305,
@@ -2463,7 +2463,7 @@ export const poiExtraGreeceCities: POI[] = [
     id: "city-igoumenitsa-extra", "sights": {
       "de": [
             {
-                  "name": "Κάστρο Ηγουμενίτσας",
+                  "name": "Kastro Egoumenitsas",
                   "text": "Die Ruinen einer byzantinischen und osmanischen Burg mit Blick auf die moderne Stadt und den Hafen.",
                   "category": "castle",
                   "coords": [
@@ -2483,7 +2483,7 @@ export const poiExtraGreeceCities: POI[] = [
       ],
       "hu": [
             {
-                  "name": "Κάστρο Ηγουμενίτσας",
+                  "name": "Kastro Egoumenitsas",
                   "text": "Bizánci és oszmán vár romjai, amelyek a modern városra és a kikötőre néznek.",
                   "category": "castle",
                   "coords": [
@@ -2492,7 +2492,7 @@ export const poiExtraGreeceCities: POI[] = [
                   ]
             },
             {
-                  "name": "Όρμος Ηγουμενίτσας",
+                  "name": "Ormos Egoumenitsas",
                   "text": "Természetes öböl a Jón-tengeren, amely kapuként szolgál Görögország és Olaszország között.",
                   "category": "landmark",
                   "coords": [
@@ -2503,7 +2503,7 @@ export const poiExtraGreeceCities: POI[] = [
       ],
       "ro": [
             {
-                  "name": "Κάστρο Ηγουμενίτσας",
+                  "name": "Kastro Egoumenitsas",
                   "text": "Ruinele unui castel bizantin și otoman, cu vedere spre orașul modern și port.",
                   "category": "castle",
                   "coords": [
@@ -2512,7 +2512,7 @@ export const poiExtraGreeceCities: POI[] = [
                   ]
             },
             {
-                  "name": "Όρμος Ηγουμενίτσας",
+                  "name": "Ormos Egoumenitsas",
                   "text": "Un golf natural la Marea Ionică, servind drept poartă de legătură între Grecia și Italia.",
                   "category": "landmark",
                   "coords": [

@@ -511,7 +511,7 @@ imageHint: "Sindos industrial park aerial with warehouses",
     id: "greece-volos-port-economic-v2", "sights": {
       "de": [
             {
-                  "name": "Μουσείο Πλινθοκεραμοποιίας",
+                  "name": "Mouseio Plinthokeramopoiias",
                   "text": "Ein Industriemuseum in Volos, das in einer ehemaligen Ziegel- und Dachziegelfabrik untergebracht ist.",
                   "category": "museum",
                   "coords": [
@@ -520,7 +520,7 @@ imageHint: "Sindos industrial park aerial with warehouses",
                   ]
             },
             {
-                  "name": "Αρχαιολογικός χώρος Γορίτσας",
+                  "name": "Arkhaiologikos khoros Goritsas",
                   "text": "Eine archäologische Stätte auf einem Hügel bei Volos mit Überresten einer antiken befestigten Stadt.",
                   "category": "historical",
                   "coords": [
@@ -529,7 +529,7 @@ imageHint: "Sindos industrial park aerial with warehouses",
                   ]
             },
             {
-                  "name": "Κάστρο Παλαιών",
+                  "name": "Kastro Palaion",
                   "text": "Historische Befestigungsanlagen in Volos mit byzantinischen und osmanischen Bauelementen.",
                   "category": "castle",
                   "coords": [
@@ -538,7 +538,7 @@ imageHint: "Sindos industrial park aerial with warehouses",
                   ]
             },
             {
-                  "name": "Οχύρωση Λόφου Επισκοπής",
+                  "name": "Okhurose Lophou Episkopes",
                   "text": "Überreste einer mittelalterlichen Befestigungsanlage in der Nähe des Hafens von Volos.",
                   "category": "castle",
                   "coords": [
@@ -547,7 +547,7 @@ imageHint: "Sindos industrial park aerial with warehouses",
                   ]
             },
             {
-                  "name": "Μουσείο Πόλης Βόλου",
+                  "name": "Mouseio Poles Bolou",
                   "text": "Ein Museum in Volos, das der Geschichte und Kultur der modernen Stadt gewidmet ist.",
                   "category": "museum",
                   "coords": [
@@ -556,7 +556,7 @@ imageHint: "Sindos industrial park aerial with warehouses",
                   ]
             },
             {
-                  "name": "Θερινό Δημοτικό Θέατρο Νέας Ιωνίας",
+                  "name": "Therino Demotiko Theatro Neas Ionias",
                   "text": "Ein Open-Air-Theater in Volos, in dem während der Sommermonate kulturelle Aufführungen stattfinden.",
                   "category": "cultural",
                   "coords": [
@@ -565,7 +565,7 @@ imageHint: "Sindos industrial park aerial with warehouses",
                   ]
             },
             {
-                  "name": "Αρχαίο Θέατρο Δημητριάδας",
+                  "name": "Arkhaio Theatro Demetriadas",
                   "text": "Ein antikes griechisches Theater in der Nähe von Volos, das Teil der archäologischen Stätte von Demetrias ist.",
                   "category": "historical",
                   "coords": [
@@ -574,7 +574,7 @@ imageHint: "Sindos industrial park aerial with warehouses",
                   ]
             },
             {
-                  "name": "Δημοτικό Θέατρο Βαγγέλης Παπαθανασίου",
+                  "name": "Demotiko Theatro Baggeles Papathanasiou",
                   "text": "Ein modernes Theater in Volos, das nach dem berühmten Komponisten Vangelis benannt ist.",
                   "category": "cultural",
                   "coords": [
@@ -585,7 +585,7 @@ imageHint: "Sindos industrial park aerial with warehouses",
       ],
       "hu": [
             {
-                  "name": "Μουσείο Πλινθοκεραμοποιίας",
+                  "name": "Mouseio Plinthokeramopoiias",
                   "text": "Ipari múzeum Voloszban, amely egy egykori tégla- és cserépgyárban kapott helyet.",
                   "category": "museum",
                   "coords": [
@@ -594,7 +594,7 @@ imageHint: "Sindos industrial park aerial with warehouses",
                   ]
             },
             {
-                  "name": "Αρχαιολογικός χώρος Γορίτσας",
+                  "name": "Arkhaiologikos khoros Goritsas",
                   "text": "Régészeti lelőhely egy dombtetőn Volosz közelében, egy ókori erődített város maradványaival.",
                   "category": "historical",
                   "coords": [
@@ -603,7 +603,7 @@ imageHint: "Sindos industrial park aerial with warehouses",
                   ]
             },
             {
-                  "name": "Κάστρο Παλαιών",
+                  "name": "Kastro Palaion",
                   "text": "Történelmi erődítmény Voloszban, bizánci és oszmán építészeti elemekkel.",
                   "category": "castle",
                   "coords": [
@@ -612,7 +612,7 @@ imageHint: "Sindos industrial park aerial with warehouses",
                   ]
             },
             {
-                  "name": "Οχύρωση Λόφου Επισκοπής",
+                  "name": "Okhurose Lophou Episkopes",
                   "text": "Egy középkori erődítmény maradványai Volosz kikötőjének közelében.",
                   "category": "castle",
                   "coords": [
@@ -621,7 +621,7 @@ imageHint: "Sindos industrial park aerial with warehouses",
                   ]
             },
             {
-                  "name": "Μουσείο Πόλης Βόλου",
+                  "name": "Mouseio Poles Bolou",
                   "text": "Múzeum Voloszban, amely a modern város történelmének és kultúrájának van szentelve.",
                   "category": "museum",
                   "coords": [
@@ -630,7 +630,7 @@ imageHint: "Sindos industrial park aerial with warehouses",
                   ]
             },
             {
-                  "name": "Θερινό Δημοτικό Θέατρο Νέας Ιωνίας",
+                  "name": "Therino Demotiko Theatro Neas Ionias",
                   "text": "Szabadtéri színház Voloszban, amely nyári kulturális előadásoknak ad otthont.",
                   "category": "cultural",
                   "coords": [
@@ -639,7 +639,7 @@ imageHint: "Sindos industrial park aerial with warehouses",
                   ]
             },
             {
-                  "name": "Αρχαίο Θέατρο Δημητριάδας",
+                  "name": "Arkhaio Theatro Demetriadas",
                   "text": "Egy ókori görög színház Volosz közelében, amely Demetrias régészeti lelőhelyének része.",
                   "category": "historical",
                   "coords": [
@@ -648,7 +648,7 @@ imageHint: "Sindos industrial park aerial with warehouses",
                   ]
             },
             {
-                  "name": "Δημοτικό Θέατρο Βαγγέλης Παπαθανασίου",
+                  "name": "Demotiko Theatro Baggeles Papathanasiou",
                   "text": "Egy modern színház Voloszban, amelyet a híres zeneszerzőről, Vangeliszről neveztek el.",
                   "category": "cultural",
                   "coords": [
@@ -659,7 +659,7 @@ imageHint: "Sindos industrial park aerial with warehouses",
       ],
       "ro": [
             {
-                  "name": "Μουσείο Πλινθοκεραμοποιίας",
+                  "name": "Mouseio Plinthokeramopoiias",
                   "text": "Un muzeu industrial din Volos, găzduit într-o fostă fabrică de cărămidă și țiglă.",
                   "category": "museum",
                   "coords": [
@@ -668,7 +668,7 @@ imageHint: "Sindos industrial park aerial with warehouses",
                   ]
             },
             {
-                  "name": "Αρχαιολογικός χώρος Γορίτσας",
+                  "name": "Arkhaiologikos khoros Goritsas",
                   "text": "Un sit arheologic pe un deal lângă Volos, conținând vestigiile unui oraș fortificat antic.",
                   "category": "historical",
                   "coords": [
@@ -677,7 +677,7 @@ imageHint: "Sindos industrial park aerial with warehouses",
                   ]
             },
             {
-                  "name": "Κάστρο Παλαιών",
+                  "name": "Kastro Palaion",
                   "text": "Fortificații istorice în Volos, prezentând elemente arhitecturale bizantine și otomane.",
                   "category": "castle",
                   "coords": [
@@ -686,7 +686,7 @@ imageHint: "Sindos industrial park aerial with warehouses",
                   ]
             },
             {
-                  "name": "Οχύρωση Λόφου Επισκοπής",
+                  "name": "Okhurose Lophou Episkopes",
                   "text": "Vestigiile unei fortificații medievale situate în apropierea portului Volos.",
                   "category": "castle",
                   "coords": [
@@ -695,7 +695,7 @@ imageHint: "Sindos industrial park aerial with warehouses",
                   ]
             },
             {
-                  "name": "Μουσείο Πόλης Βόλου",
+                  "name": "Mouseio Poles Bolou",
                   "text": "Un muzeu din Volos dedicat istoriei și culturii orașului modern.",
                   "category": "museum",
                   "coords": [
@@ -704,7 +704,7 @@ imageHint: "Sindos industrial park aerial with warehouses",
                   ]
             },
             {
-                  "name": "Θερινό Δημοτικό Θέατρο Νέας Ιωνίας",
+                  "name": "Therino Demotiko Theatro Neas Ionias",
                   "text": "Un teatru în aer liber din Volos, care găzduiește spectacole culturale în timpul verii.",
                   "category": "cultural",
                   "coords": [
@@ -713,7 +713,7 @@ imageHint: "Sindos industrial park aerial with warehouses",
                   ]
             },
             {
-                  "name": "Αρχαίο Θέατρο Δημητριάδας",
+                  "name": "Arkhaio Theatro Demetriadas",
                   "text": "Un teatru grecesc antic lângă Volos, care face parte din situl arheologic Demetrias.",
                   "category": "historical",
                   "coords": [
@@ -722,7 +722,7 @@ imageHint: "Sindos industrial park aerial with warehouses",
                   ]
             },
             {
-                  "name": "Δημοτικό Θέατρο Βαγγέλης Παπαθανασίου",
+                  "name": "Demotiko Theatro Baggeles Papathanasiou",
                   "text": "Un teatru modern din Volos, numit după celebrul compozitor Vangelis.",
                   "category": "cultural",
                   "coords": [
@@ -900,7 +900,7 @@ imageHint: "Heraklion port with large ferry and Venetian fortress",
     id: "greece-patras-port-economic-v2", "sights": {
       "de": [
             {
-                  "name": "Ρωμαΐκό Νυμφαίο",
+                  "name": "RomaIko Numphaio",
                   "text": "Überreste eines monumentalen antiken römischen Brunnens in Patras.",
                   "category": "historical",
                   "coords": [
@@ -909,7 +909,7 @@ imageHint: "Heraklion port with large ferry and Venetian fortress",
                   ]
             },
             {
-                  "name": "Ρωμαϊκό Ωδείο",
+                  "name": "Romaiko Odeio",
                   "text": "Ein gut erhaltenes antikes römisches Theater, das heute für Aufführungen genutzt wird.",
                   "category": "cultural",
                   "coords": [
@@ -927,7 +927,7 @@ imageHint: "Heraklion port with large ferry and Venetian fortress",
                   ]
             },
             {
-                  "name": "Σταφιδεργοστάσιο Βουρλούμη",
+                  "name": "Staphidergostasio Bourloume",
                   "text": "Eine archäologische Stätte, die sich auf dem Gelände einer ehemaligen Rosinenfabrik befindet.",
                   "category": "historical",
                   "coords": [
@@ -936,7 +936,7 @@ imageHint: "Heraklion port with large ferry and Venetian fortress",
                   ]
             },
             {
-                  "name": "Ρωμαικό Στάδιο",
+                  "name": "Romaiko Stadio",
                   "text": "Die Ruinen eines großen antiken Stadions aus der römischen Epoche in Patras.",
                   "category": "historical",
                   "coords": [
@@ -945,7 +945,7 @@ imageHint: "Heraklion port with large ferry and Venetian fortress",
                   ]
             },
             {
-                  "name": "Δημοτικό Θέατρο Απόλλων",
+                  "name": "Demotiko Theatro Apollon",
                   "text": "Ein elegantes Opernhaus aus dem 19. Jahrhundert in Patras, entworfen von Ernst Ziller.",
                   "category": "cultural",
                   "coords": [
@@ -974,7 +974,7 @@ imageHint: "Heraklion port with large ferry and Venetian fortress",
       ],
       "hu": [
             {
-                  "name": "Ρωμαΐκό Νυμφαίο",
+                  "name": "RomaIko Numphaio",
                   "text": "Egy monumentális ókori római szökőkút maradványai Patraszban.",
                   "category": "historical",
                   "coords": [
@@ -983,7 +983,7 @@ imageHint: "Heraklion port with large ferry and Venetian fortress",
                   ]
             },
             {
-                  "name": "Ρωμαϊκό Ωδείο",
+                  "name": "Romaiko Odeio",
                   "text": "Jó állapotban fennmaradt ókori római színház, amelyet ma is használnak előadásokra.",
                   "category": "cultural",
                   "coords": [
@@ -992,7 +992,7 @@ imageHint: "Heraklion port with large ferry and Venetian fortress",
                   ]
             },
             {
-                  "name": "Κάστρο της Πάτρας",
+                  "name": "Kastro tes Patras",
                   "text": "Bizánci korszakból származó erőd, amely Patrasz város legmagasabb pontján épült.",
                   "category": "castle",
                   "coords": [
@@ -1001,7 +1001,7 @@ imageHint: "Heraklion port with large ferry and Venetian fortress",
                   ]
             },
             {
-                  "name": "Σταφιδεργοστάσιο Βουρλούμη",
+                  "name": "Staphidergostasio Bourloume",
                   "text": "Egy egykori mazsolagyár területén található régészeti helyszín.",
                   "category": "historical",
                   "coords": [
@@ -1010,7 +1010,7 @@ imageHint: "Heraklion port with large ferry and Venetian fortress",
                   ]
             },
             {
-                  "name": "Ρωμαικό Στάδιο",
+                  "name": "Romaiko Stadio",
                   "text": "Egy nagy ókori római stadion romjai Patraszban.",
                   "category": "historical",
                   "coords": [
@@ -1019,7 +1019,7 @@ imageHint: "Heraklion port with large ferry and Venetian fortress",
                   ]
             },
             {
-                  "name": "Δημοτικό Θέατρο Απόλλων",
+                  "name": "Demotiko Theatro Apollon",
                   "text": "Elegáns 19. századi operaház Patraszban, amelyet Ernst Ziller tervezett.",
                   "category": "cultural",
                   "coords": [
@@ -1028,7 +1028,7 @@ imageHint: "Heraklion port with large ferry and Venetian fortress",
                   ]
             },
             {
-                  "name": "Φάρος της Πάτρας",
+                  "name": "Pharos tes Patras",
                   "text": "Jellegzetes kő világítótorony és tájékozódási pont Patrasz kikötőjében.",
                   "category": "landmark",
                   "coords": [
@@ -1048,7 +1048,7 @@ imageHint: "Heraklion port with large ferry and Venetian fortress",
       ],
       "ro": [
             {
-                  "name": "Ρωμαΐκό Νυμφαίο",
+                  "name": "RomaIko Numphaio",
                   "text": "Rămășițele unei fântâni monumentale din perioada romană în Patras.",
                   "category": "historical",
                   "coords": [
@@ -1057,7 +1057,7 @@ imageHint: "Heraklion port with large ferry and Venetian fortress",
                   ]
             },
             {
-                  "name": "Ρωμαϊκό Ωδείο",
+                  "name": "Romaiko Odeio",
                   "text": "Un teatru antic roman bine conservat, utilizat astăzi pentru spectacole.",
                   "category": "cultural",
                   "coords": [
@@ -1066,7 +1066,7 @@ imageHint: "Heraklion port with large ferry and Venetian fortress",
                   ]
             },
             {
-                  "name": "Κάστρο της Πάτρας",
+                  "name": "Kastro tes Patras",
                   "text": "O cetate din epoca bizantină construită pe cel mai înalt punct al orașului Patras.",
                   "category": "castle",
                   "coords": [
@@ -1075,7 +1075,7 @@ imageHint: "Heraklion port with large ferry and Venetian fortress",
                   ]
             },
             {
-                  "name": "Σταφιδεργοστάσιο Βουρλούμη",
+                  "name": "Staphidergostasio Bourloume",
                   "text": "Un sit arheologic situat pe locul unei foste fabrici de stafide.",
                   "category": "historical",
                   "coords": [
@@ -1084,7 +1084,7 @@ imageHint: "Heraklion port with large ferry and Venetian fortress",
                   ]
             },
             {
-                  "name": "Ρωμαικό Στάδιο",
+                  "name": "Romaiko Stadio",
                   "text": "Ruinele unui stadion antic de mari dimensiuni din epoca romană în Patras.",
                   "category": "historical",
                   "coords": [
@@ -1093,7 +1093,7 @@ imageHint: "Heraklion port with large ferry and Venetian fortress",
                   ]
             },
             {
-                  "name": "Δημοτικό Θέατρο Απόλλων",
+                  "name": "Demotiko Theatro Apollon",
                   "text": "O operă elegantă din secolul al XIX-lea în Patras, proiectată de Ernst Ziller.",
                   "category": "cultural",
                   "coords": [
@@ -1102,7 +1102,7 @@ imageHint: "Heraklion port with large ferry and Venetian fortress",
                   ]
             },
             {
-                  "name": "Φάρος της Πάτρας",
+                  "name": "Pharos tes Patras",
                   "text": "Un far iconic din piatră și un punct de reper în portul Patras.",
                   "category": "landmark",
                   "coords": [
@@ -1289,7 +1289,7 @@ imageHint: "Igoumenitsa port ferry terminal and green hills",
     id: "greece-aliveri-power-plant-economic-v2", "sights": {
       "de": [
             {
-                  "name": "Ριζόκαστρο",
+                  "name": "Rizokastro",
                   "text": "Die Ruinen einer mittelalterlichen Festung auf einem Hügel nahe Aliveri.",
                   "category": "castle",
                   "coords": [
@@ -1298,7 +1298,7 @@ imageHint: "Igoumenitsa port ferry terminal and green hills",
                   ]
             },
             {
-                  "name": "Ενετικός Πύργος",
+                  "name": "Enetikos Purgos",
                   "text": "Ein historischer Wehrturm aus der venezianischen Zeit in der Nähe von Aliveri.",
                   "category": "castle",
                   "coords": [
@@ -1309,7 +1309,7 @@ imageHint: "Igoumenitsa port ferry terminal and green hills",
       ],
       "hu": [
             {
-                  "name": "Ριζόκαστρο",
+                  "name": "Rizokastro",
                   "text": "Egy dombtetőn lévő középkori erődítmény romjai Aliveri közelében.",
                   "category": "castle",
                   "coords": [
@@ -1318,7 +1318,7 @@ imageHint: "Igoumenitsa port ferry terminal and green hills",
                   ]
             },
             {
-                  "name": "Ενετικός Πύργος",
+                  "name": "Enetikos Purgos",
                   "text": "Történelmi védőtorony a velencei korszakból Aliveri közelében.",
                   "category": "castle",
                   "coords": [
@@ -1329,7 +1329,7 @@ imageHint: "Igoumenitsa port ferry terminal and green hills",
       ],
       "ro": [
             {
-                  "name": "Ριζόκαστρο",
+                  "name": "Rizokastro",
                   "text": "Ruinele unei fortificații medievale pe un deal lângă Aliveri.",
                   "category": "castle",
                   "coords": [
@@ -1338,7 +1338,7 @@ imageHint: "Igoumenitsa port ferry terminal and green hills",
                   ]
             },
             {
-                  "name": "Ενετικός Πύργος",
+                  "name": "Enetikos Purgos",
                   "text": "Un turn de apărare istoric din perioada venețiană, situat lângă Aliveri.",
                   "category": "castle",
                   "coords": [
@@ -1846,7 +1846,7 @@ imageHint: "Aliveri power plant smoke stacks and sea",
                   ]
             },
             {
-                  "name": "Αρχαιολογικό Μουσείο Λαυρίου",
+                  "name": "Arkhaiologiko Mouseio Lauriou",
                   "text": "Ein Museum, das archäologische Funde aus der antiken Bergbauregion von Lavrio ausstellt.",
                   "category": "museum",
                   "coords": [
@@ -1855,7 +1855,7 @@ imageHint: "Aliveri power plant smoke stacks and sea",
                   ]
             },
             {
-                  "name": "Ορυκτολογικό μουσείο Λαυρίου",
+                  "name": "Oruktologiko mouseio Lauriou",
                   "text": "Ein Museum in Lavrio, das der reichen Vielfalt an Mineralien aus den lokalen Minen gewidmet ist.",
                   "category": "museum",
                   "coords": [
@@ -1873,7 +1873,7 @@ imageHint: "Aliveri power plant smoke stacks and sea",
                   ]
             },
             {
-                  "name": "Ορυκτολογικό Μεταλλευτικό Μουσείο Καμάριζας",
+                  "name": "Oruktologiko Metalleutiko Mouseio Kamarizas",
                   "text": "Ein Fachmuseum in Lavrio, das die Mineralogie der Region dokumentiert.",
                   "category": "museum",
                   "coords": [
@@ -1882,7 +1882,7 @@ imageHint: "Aliveri power plant smoke stacks and sea",
                   ]
             },
             {
-                  "name": "Όρμος Αγίου Νικολάου",
+                  "name": "Ormos Agiou Nikolaou",
                   "text": "Eine Bucht in der Nähe von Lavrio an der Küste der Ägäis.",
                   "category": "landmark",
                   "coords": [
@@ -1893,7 +1893,7 @@ imageHint: "Aliveri power plant smoke stacks and sea",
       ],
       "hu": [
             {
-                  "name": "Δρυμός Σουνίου",
+                  "name": "Drumos Souniou",
                   "text": "Természetvédelmi terület Attika déli csücskén, tengerparti tájáról nevezetes.",
                   "category": "natural",
                   "coords": [
@@ -1902,7 +1902,7 @@ imageHint: "Aliveri power plant smoke stacks and sea",
                   ]
             },
             {
-                  "name": "Αρχαιολογικό Μουσείο Λαυρίου",
+                  "name": "Arkhaiologiko Mouseio Lauriou",
                   "text": "Múzeum, amely Lavrio ókori bányavidékének régészeti leleteit mutatja be.",
                   "category": "museum",
                   "coords": [
@@ -1911,7 +1911,7 @@ imageHint: "Aliveri power plant smoke stacks and sea",
                   ]
             },
             {
-                  "name": "Ορυκτολογικό μουσείο Λαυρίου",
+                  "name": "Oruktologiko mouseio Lauriou",
                   "text": "Lavriói múzeum, amely a helyi bányákból származó gazdag ásványvilágot mutatja be.",
                   "category": "museum",
                   "coords": [
@@ -1929,7 +1929,7 @@ imageHint: "Aliveri power plant smoke stacks and sea",
                   ]
             },
             {
-                  "name": "Ορυκτολογικό Μεταλλευτικό Μουσείο Καμάριζας",
+                  "name": "Oruktologiko Metalleutiko Mouseio Kamarizas",
                   "text": "Szakmúzeum Lavrióban, amely a régió ásványtanát dokumentálja.",
                   "category": "museum",
                   "coords": [
@@ -1938,7 +1938,7 @@ imageHint: "Aliveri power plant smoke stacks and sea",
                   ]
             },
             {
-                  "name": "Όρμος Αγίου Νικολάου",
+                  "name": "Ormos Agiou Nikolaou",
                   "text": "Öböl Lavrio közelében az Égei-tenger partján.",
                   "category": "landmark",
                   "coords": [
@@ -1949,7 +1949,7 @@ imageHint: "Aliveri power plant smoke stacks and sea",
       ],
       "ro": [
             {
-                  "name": "Δρυμός Σουνίου",
+                  "name": "Drumos Souniou",
                   "text": "O rezervație naturală în vârful sudic al Atticii, cunoscută pentru peisajul său costier.",
                   "category": "natural",
                   "coords": [
@@ -1958,7 +1958,7 @@ imageHint: "Aliveri power plant smoke stacks and sea",
                   ]
             },
             {
-                  "name": "Αρχαιολογικό Μουσείο Λαυρίου",
+                  "name": "Arkhaiologiko Mouseio Lauriou",
                   "text": "Un muzeu care expune descoperiri arheologice din vechea regiune minieră Lavrio.",
                   "category": "museum",
                   "coords": [
@@ -1967,7 +1967,7 @@ imageHint: "Aliveri power plant smoke stacks and sea",
                   ]
             },
             {
-                  "name": "Ορυκτολογικό μουσείο Λαυρίου",
+                  "name": "Oruktologiko mouseio Lauriou",
                   "text": "Un muzeu în Lavrio dedicat varietății bogate de minerale din minele locale.",
                   "category": "museum",
                   "coords": [
@@ -1985,7 +1985,7 @@ imageHint: "Aliveri power plant smoke stacks and sea",
                   ]
             },
             {
-                  "name": "Ορυκτολογικό Μεταλλευτικό Μουσείο Καμάριζας",
+                  "name": "Oruktologiko Metalleutiko Mouseio Kamarizas",
                   "text": "Un muzeu specializat în Lavrio care documentează mineralogia regiunii.",
                   "category": "museum",
                   "coords": [
@@ -1994,7 +1994,7 @@ imageHint: "Aliveri power plant smoke stacks and sea",
                   ]
             },
             {
-                  "name": "Όρμος Αγίου Νικολάου",
+                  "name": "Ormos Agiou Nikolaou",
                   "text": "Un golf lângă Lavrio, situat pe coasta Mării Egee.",
                   "category": "landmark",
                   "coords": [

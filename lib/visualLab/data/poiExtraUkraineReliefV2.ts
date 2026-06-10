@@ -6,7 +6,7 @@ export const ukraineReliefV2: POI[] = [
     id: "ukraine-brebeneskul-relief-v2", "sights": {
       "de": [
             {
-                  "name": "Менчул",
+                  "name": "Menchul",
                   "text": "Der Menchul ist einer der Zweitausender im Chornohora-Massiv der ukrainischen Karpaten.",
                   "category": "landmark",
                   "coords": [
@@ -15,7 +15,7 @@ export const ukraineReliefV2: POI[] = [
                   ]
             },
             {
-                  "name": "Ребра",
+                  "name": "Rebra",
                   "text": "Die Rebra ist einer der höchsten Gipfel der Ukraine und liegt im zentralen Chornohora-Kamm.",
                   "category": "landmark",
                   "coords": [
@@ -24,7 +24,7 @@ export const ukraineReliefV2: POI[] = [
                   ]
             },
             {
-                  "name": "Гутин Томнатик",
+                  "name": "Gutin Tomnatik",
                   "text": "Ein markanter Karpatengipfel, der für seine alpine Flora und weite Aussicht bekannt ist.",
                   "category": "landmark",
                   "coords": [
@@ -33,7 +33,7 @@ export const ukraineReliefV2: POI[] = [
                   ]
             },
             {
-                  "name": "Шпиці",
+                  "name": "Shpitsi",
                   "text": "Die Shpytsi sind bekannt für ihre bizarren, spitzen Felsformationen im Chornohora-Massiv.",
                   "category": "landmark",
                   "coords": [
@@ -51,7 +51,7 @@ export const ukraineReliefV2: POI[] = [
                   ]
             },
             {
-                  "name": "Дземброня",
+                  "name": "Dzembronia",
                   "text": "Die Dzembronia ist ein markanter Berggipfel im Tschornohora-Massiv.",
                   "category": "landmark",
                   "coords": [
@@ -62,7 +62,7 @@ export const ukraineReliefV2: POI[] = [
       ],
       "hu": [
             {
-                  "name": "Менчул",
+                  "name": "Menchul",
                   "text": "A Mencsul az ukrán Kárpátok egyik kétezer méter feletti csúcsa a Csornohora-hegységben.",
                   "category": "landmark",
                   "coords": [
@@ -71,7 +71,7 @@ export const ukraineReliefV2: POI[] = [
                   ]
             },
             {
-                  "name": "Ребра",
+                  "name": "Rebra",
                   "text": "A Rebra Ukrajna egyik legmagasabb csúcsa, a Csornohora központi gerincén található.",
                   "category": "landmark",
                   "coords": [
@@ -80,7 +80,7 @@ export const ukraineReliefV2: POI[] = [
                   ]
             },
             {
-                  "name": "Гутин Томнатик",
+                  "name": "Gutin Tomnatik",
                   "text": "Jellegzetes kárpáti hegycsúcs, amely alpesi flórájáról és tágas kilátásáról ismert.",
                   "category": "landmark",
                   "coords": [
@@ -89,7 +89,7 @@ export const ukraineReliefV2: POI[] = [
                   ]
             },
             {
-                  "name": "Шпиці",
+                  "name": "Shpitsi",
                   "text": "A Spici csúcs a Csornohora-hegység bizarr, hegyes sziklaalakzatairól nevezetes.",
                   "category": "landmark",
                   "coords": [
@@ -98,7 +98,7 @@ export const ukraineReliefV2: POI[] = [
                   ]
             },
             {
-                  "name": "Бребенескул",
+                  "name": "Brebeneskul",
                   "text": "A 2035 méter magas Brebeneszkul Ukrajna második legmagasabb hegye.",
                   "category": "landmark",
                   "coords": [
@@ -107,7 +107,7 @@ export const ukraineReliefV2: POI[] = [
                   ]
             },
             {
-                  "name": "Дземброня",
+                  "name": "Dzembronia",
                   "text": "A Dzembronia a Csornohora-hegység egyik jellegzetes hegycsúcsa.",
                   "category": "landmark",
                   "coords": [
@@ -127,7 +127,7 @@ export const ukraineReliefV2: POI[] = [
                   ]
             },
             {
-                  "name": "Ребра",
+                  "name": "Rebra",
                   "text": "Rebra este unul dintre cele mai înalte vârfuri din Ucraina, situat în creasta centrală a masivului Chornohora.",
                   "category": "landmark",
                   "coords": [
@@ -136,7 +136,7 @@ export const ukraineReliefV2: POI[] = [
                   ]
             },
             {
-                  "name": "Гутин Томнатик",
+                  "name": "Gutin Tomnatik",
                   "text": "Un vârf proeminent din Carpați, cunoscut pentru flora sa alpină și panoramele vaste.",
                   "category": "landmark",
                   "coords": [
@@ -145,7 +145,7 @@ export const ukraineReliefV2: POI[] = [
                   ]
             },
             {
-                  "name": "Шпиці",
+                  "name": "Shpitsi",
                   "text": "Vârful Shpytsi este renumit pentru formațiunile sale stâncoase bizare și ascuțite din masivul Chornohora.",
                   "category": "landmark",
                   "coords": [
@@ -154,7 +154,7 @@ export const ukraineReliefV2: POI[] = [
                   ]
             },
             {
-                  "name": "Бребенескул",
+                  "name": "Brebeneskul",
                   "text": "Brebeneskul este, cu 2035 de metri, al doilea cel mai înalt munte din Ucraina.",
                   "category": "landmark",
                   "coords": [
@@ -163,7 +163,7 @@ export const ukraineReliefV2: POI[] = [
                   ]
             },
             {
-                  "name": "Дземброня",
+                  "name": "Dzembronia",
                   "text": "Dzembronia este un vârf montan proeminent din masivul Ciornohora.",
                   "category": "landmark",
                   "coords": [
@@ -277,7 +277,7 @@ imageHint: "Mount Brebeneskul peak in the Ukrainian Carpathians",
     id: "ukraine-petros-relief-v2", "sights": {
       "de": [
             {
-                  "name": "Петрос",
+                  "name": "Petros",
                   "text": "Mit einer Höhe von 2020 Metern ist dies einer der höchsten Gipfel der ukrainischen Karpaten.",
                   "category": "landmark",
                   "coords": [
@@ -286,7 +286,7 @@ imageHint: "Mount Brebeneskul peak in the Ukrainian Carpathians",
                   ]
             },
             {
-                  "name": "Петросул",
+                  "name": "Petrosул",
                   "text": "Ein markanter Berggipfel im Tschornohora-Gebirge in der Ukraine.",
                   "category": "landmark",
                   "coords": [
@@ -297,7 +297,7 @@ imageHint: "Mount Brebeneskul peak in the Ukrainian Carpathians",
       ],
       "hu": [
             {
-                  "name": "Петрос",
+                  "name": "Petros",
                   "text": "2020 méteres magasságával ez az ukrán Kárpátok egyik legmagasabb csúcsa.",
                   "category": "landmark",
                   "coords": [
@@ -306,7 +306,7 @@ imageHint: "Mount Brebeneskul peak in the Ukrainian Carpathians",
                   ]
             },
             {
-                  "name": "Петросул",
+                  "name": "Petrosул",
                   "text": "Jellegzetes hegyi csúcs a Csornohora-hegységben, Ukrajnában.",
                   "category": "landmark",
                   "coords": [
@@ -317,7 +317,7 @@ imageHint: "Mount Brebeneskul peak in the Ukrainian Carpathians",
       ],
       "ro": [
             {
-                  "name": "Петрос",
+                  "name": "Petros",
                   "text": "Cu o înălțime de 2020 de metri, acesta este unul dintre cele mai înalte vârfuri din Carpații Ucraineni.",
                   "category": "landmark",
                   "coords": [
@@ -326,7 +326,7 @@ imageHint: "Mount Brebeneskul peak in the Ukrainian Carpathians",
                   ]
             },
             {
-                  "name": "Петросул",
+                  "name": "Petrosул",
                   "text": "Un vârf muntos distinctiv în masivul Ciornohora din Ucraina.",
                   "category": "landmark",
                   "coords": [
@@ -404,7 +404,7 @@ imageHint: "Steep slopes of Mount Petros in the Carpathians",
     id: "ukraine-rebra-relief-v2", "sights": {
       "de": [
             {
-                  "name": "Менчул",
+                  "name": "Menchul",
                   "text": "Ein Berggipfel in den ukrainischen Karpaten nahe der Ortschaft Rebra.",
                   "category": "landmark",
                   "coords": [
@@ -413,7 +413,7 @@ imageHint: "Steep slopes of Mount Petros in the Carpathians",
                   ]
             },
             {
-                  "name": "Ребра",
+                  "name": "Rebra",
                   "text": "Ein prominenter Gipfel im Tschornohora-Massiv der ukrainischen Karpaten.",
                   "category": "landmark",
                   "coords": [
@@ -422,7 +422,7 @@ imageHint: "Steep slopes of Mount Petros in the Carpathians",
                   ]
             },
             {
-                  "name": "Гутин Томнатик",
+                  "name": "Gutin Tomnatik",
                   "text": "Einer der höchsten Berggipfel der Ukraine im Tschornohora-Massiv.",
                   "category": "landmark",
                   "coords": [
@@ -431,7 +431,7 @@ imageHint: "Steep slopes of Mount Petros in the Carpathians",
                   ]
             },
             {
-                  "name": "Туркул",
+                  "name": "Turkul",
                   "text": "Ein charakteristischer Berggipfel in den ukrainischen Ostkarpaten.",
                   "category": "landmark",
                   "coords": [
@@ -440,7 +440,7 @@ imageHint: "Steep slopes of Mount Petros in the Carpathians",
                   ]
             },
             {
-                  "name": "Шпиці",
+                  "name": "Shpitsi",
                   "text": "Ein markanter Gipfel mit bizarren Felsformationen in den Karpaten.",
                   "category": "landmark",
                   "coords": [
@@ -458,7 +458,7 @@ imageHint: "Steep slopes of Mount Petros in the Carpathians",
                   ]
             },
             {
-                  "name": "Данциж",
+                  "name": "Dantsizh",
                   "text": "Ein Gipfel in den Karpaten, der für seine alpinen Landschaften bekannt ist.",
                   "category": "landmark",
                   "coords": [
@@ -467,7 +467,7 @@ imageHint: "Steep slopes of Mount Petros in the Carpathians",
                   ]
             },
             {
-                  "name": "Гомул",
+                  "name": "Gomul",
                   "text": "Ein Berggipfel im Hochgebirge der ukrainischen Karpaten.",
                   "category": "landmark",
                   "coords": [
@@ -478,7 +478,7 @@ imageHint: "Steep slopes of Mount Petros in the Carpathians",
       ],
       "hu": [
             {
-                  "name": "Менчул",
+                  "name": "Menchul",
                   "text": "Egy hegycsúcs az Ukrán-Kárpátokban, Rebra település közelében.",
                   "category": "landmark",
                   "coords": [
@@ -487,7 +487,7 @@ imageHint: "Steep slopes of Mount Petros in the Carpathians",
                   ]
             },
             {
-                  "name": "Ребра",
+                  "name": "Rebra",
                   "text": "Az Ukrán-Kárpátokhoz tartozó Máramarosi-havasok egyik jelentős csúcsa.",
                   "category": "landmark",
                   "coords": [
@@ -496,7 +496,7 @@ imageHint: "Steep slopes of Mount Petros in the Carpathians",
                   ]
             },
             {
-                  "name": "Гутин Томнатик",
+                  "name": "Gutin Tomnatik",
                   "text": "Ukrajna egyik legmagasabb hegycsúcsa a Máramarosi-havasokban.",
                   "category": "landmark",
                   "coords": [
@@ -505,7 +505,7 @@ imageHint: "Steep slopes of Mount Petros in the Carpathians",
                   ]
             },
             {
-                  "name": "Туркул",
+                  "name": "Turkul",
                   "text": "Jellegzetes hegycsúcs az Ukrán-Kelet-Kárpátok területén.",
                   "category": "landmark",
                   "coords": [
@@ -514,7 +514,7 @@ imageHint: "Steep slopes of Mount Petros in the Carpathians",
                   ]
             },
             {
-                  "name": "Шпиці",
+                  "name": "Shpitsi",
                   "text": "Különleges sziklaalakzatairól ismert hegycsúcs a Kárpátokban.",
                   "category": "landmark",
                   "coords": [
@@ -523,7 +523,7 @@ imageHint: "Steep slopes of Mount Petros in the Carpathians",
                   ]
             },
             {
-                  "name": "Бребенескул",
+                  "name": "Brebeneskul",
                   "text": "Ukrajna második legmagasabb hegycsúcsa a Máramarosi-havasok láncában.",
                   "category": "landmark",
                   "coords": [
@@ -532,7 +532,7 @@ imageHint: "Steep slopes of Mount Petros in the Carpathians",
                   ]
             },
             {
-                  "name": "Данциж",
+                  "name": "Dantsizh",
                   "text": "Alpesi tájairól ismert hegycsúcs az Ukrán-Kárpátokban.",
                   "category": "landmark",
                   "coords": [
@@ -541,7 +541,7 @@ imageHint: "Steep slopes of Mount Petros in the Carpathians",
                   ]
             },
             {
-                  "name": "Гомул",
+                  "name": "Gomul",
                   "text": "Hegycsúcs az Ukrán-Kárpátok magashegyi övezetében.",
                   "category": "landmark",
                   "coords": [
@@ -561,7 +561,7 @@ imageHint: "Steep slopes of Mount Petros in the Carpathians",
                   ]
             },
             {
-                  "name": "Ребра",
+                  "name": "Rebra",
                   "text": "Un vârf proeminent din masivul Cernohora, situat în Carpații Ucraineni.",
                   "category": "landmark",
                   "coords": [
@@ -570,7 +570,7 @@ imageHint: "Steep slopes of Mount Petros in the Carpathians",
                   ]
             },
             {
-                  "name": "Гутин Томнатик",
+                  "name": "Gutin Tomnatik",
                   "text": "Unul dintre cele mai înalte vârfuri montane din Ucraina, în masivul Cernohora.",
                   "category": "landmark",
                   "coords": [
@@ -579,7 +579,7 @@ imageHint: "Steep slopes of Mount Petros in the Carpathians",
                   ]
             },
             {
-                  "name": "Туркул",
+                  "name": "Turkul",
                   "text": "Un vârf montan caracteristic din Carpații Orientali ai Ucrainei.",
                   "category": "landmark",
                   "coords": [
@@ -588,7 +588,7 @@ imageHint: "Steep slopes of Mount Petros in the Carpathians",
                   ]
             },
             {
-                  "name": "Шпиці",
+                  "name": "Shpitsi",
                   "text": "Un vârf muntos din Carpați, cunoscut pentru formațiunile sale stâncoase bizare.",
                   "category": "landmark",
                   "coords": [
@@ -597,7 +597,7 @@ imageHint: "Steep slopes of Mount Petros in the Carpathians",
                   ]
             },
             {
-                  "name": "Бребенескул",
+                  "name": "Brebeneskul",
                   "text": "Al doilea cel mai înalt vârf din Ucraina, situat în lanțul muntos Cernohora.",
                   "category": "landmark",
                   "coords": [
@@ -606,7 +606,7 @@ imageHint: "Steep slopes of Mount Petros in the Carpathians",
                   ]
             },
             {
-                  "name": "Данциж",
+                  "name": "Dantsizh",
                   "text": "Un vârf din Carpații Ucraineni, cunoscut pentru peisajele sale alpine.",
                   "category": "landmark",
                   "coords": [
@@ -615,7 +615,7 @@ imageHint: "Steep slopes of Mount Petros in the Carpathians",
                   ]
             },
             {
-                  "name": "Гомул",
+                  "name": "Gomul",
                   "text": "Un vârf montan situat în zona de înaltă munte a Carpaților Ucraineni.",
                   "category": "landmark",
                   "coords": [
@@ -747,7 +747,7 @@ imageHint: "Rocky ridges of Mount Rebra in Ukraine",
     id: "ukraine-hutyn-tomnatyk-relief-v2", "sights": {
       "de": [
             {
-                  "name": "Менчул",
+                  "name": "Menchul",
                   "text": "Ein markanter Gipfel im Tschornohora-Massiv der ukrainischen Karpaten.",
                   "category": "landmark",
                   "coords": [
@@ -756,7 +756,7 @@ imageHint: "Rocky ridges of Mount Rebra in Ukraine",
                   ]
             },
             {
-                  "name": "Ребра",
+                  "name": "Rebra",
                   "text": "Einer der höchsten Gipfel der Ukraine mit beeindruckenden Felsformationen.",
                   "category": "landmark",
                   "coords": [
@@ -765,7 +765,7 @@ imageHint: "Rocky ridges of Mount Rebra in Ukraine",
                   ]
             },
             {
-                  "name": "Гутин Томнатик",
+                  "name": "Gutin Tomnatik",
                   "text": "Ein hoher Berg der Tschornohora, bekannt für seine weite Aussicht.",
                   "category": "landmark",
                   "coords": [
@@ -774,7 +774,7 @@ imageHint: "Rocky ridges of Mount Rebra in Ukraine",
                   ]
             },
             {
-                  "name": "Туркул",
+                  "name": "Turkul",
                   "text": "Ein pyramidenförmiger Berggipfel in der Nähe des Bergsees Nesamowyte.",
                   "category": "landmark",
                   "coords": [
@@ -783,7 +783,7 @@ imageHint: "Rocky ridges of Mount Rebra in Ukraine",
                   ]
             },
             {
-                  "name": "Шпиці",
+                  "name": "Shpitsi",
                   "text": "Ein Gipfel, der für seine charakteristischen, spitzen Felsnadeln bekannt ist.",
                   "category": "landmark",
                   "coords": [
@@ -803,7 +803,7 @@ imageHint: "Rocky ridges of Mount Rebra in Ukraine",
       ],
       "hu": [
             {
-                  "name": "Менчул",
+                  "name": "Menchul",
                   "text": "A Csornohora-hegység egyik jellegzetes csúcsa az ukrán Kárpátokban.",
                   "category": "landmark",
                   "coords": [
@@ -812,7 +812,7 @@ imageHint: "Rocky ridges of Mount Rebra in Ukraine",
                   ]
             },
             {
-                  "name": "Ребра",
+                  "name": "Rebra",
                   "text": "Ukrajna egyik legmagasabb csúcsa, lenyűgöző sziklaalakzatokkal.",
                   "category": "landmark",
                   "coords": [
@@ -821,7 +821,7 @@ imageHint: "Rocky ridges of Mount Rebra in Ukraine",
                   ]
             },
             {
-                  "name": "Гутин Томнатик",
+                  "name": "Gutin Tomnatik",
                   "text": "A Csornohora-hegység magas csúcsa, amely széles kilátásáról ismert.",
                   "category": "landmark",
                   "coords": [
@@ -830,7 +830,7 @@ imageHint: "Rocky ridges of Mount Rebra in Ukraine",
                   ]
             },
             {
-                  "name": "Туркул",
+                  "name": "Turkul",
                   "text": "Piramis alakú hegycsúcs a Nesamovite-tó közelében.",
                   "category": "landmark",
                   "coords": [
@@ -839,7 +839,7 @@ imageHint: "Rocky ridges of Mount Rebra in Ukraine",
                   ]
             },
             {
-                  "name": "Шпиці",
+                  "name": "Shpitsi",
                   "text": "Jellegzetes, hegyes sziklatornyairól ismert hegycsúcs.",
                   "category": "landmark",
                   "coords": [
@@ -848,7 +848,7 @@ imageHint: "Rocky ridges of Mount Rebra in Ukraine",
                   ]
             },
             {
-                  "name": "Бребенескул",
+                  "name": "Brebeneskul",
                   "text": "Ukrajna második legmagasabb hegye a Csornohora-hegységben.",
                   "category": "landmark",
                   "coords": [
@@ -868,7 +868,7 @@ imageHint: "Rocky ridges of Mount Rebra in Ukraine",
                   ]
             },
             {
-                  "name": "Ребра",
+                  "name": "Rebra",
                   "text": "Unul dintre cele mai înalte vârfuri din Ucraina, cu formațiuni stâncoase impresionante.",
                   "category": "landmark",
                   "coords": [
@@ -877,7 +877,7 @@ imageHint: "Rocky ridges of Mount Rebra in Ukraine",
                   ]
             },
             {
-                  "name": "Гутин Томнатик",
+                  "name": "Gutin Tomnatik",
                   "text": "Un vârf înalt din Ciornohora, cunoscut pentru vederile sale panoramice.",
                   "category": "landmark",
                   "coords": [
@@ -886,7 +886,7 @@ imageHint: "Rocky ridges of Mount Rebra in Ukraine",
                   ]
             },
             {
-                  "name": "Туркул",
+                  "name": "Turkul",
                   "text": "Un vârf montan în formă de piramidă, situat lângă lacul Nesamovyte.",
                   "category": "landmark",
                   "coords": [
@@ -895,7 +895,7 @@ imageHint: "Rocky ridges of Mount Rebra in Ukraine",
                   ]
             },
             {
-                  "name": "Шпиці",
+                  "name": "Shpitsi",
                   "text": "Un vârf cunoscut pentru acele sale stâncoase caracteristice și ascuțite.",
                   "category": "landmark",
                   "coords": [
@@ -904,7 +904,7 @@ imageHint: "Rocky ridges of Mount Rebra in Ukraine",
                   ]
             },
             {
-                  "name": "Бребенескул",
+                  "name": "Brebeneskul",
                   "text": "Al doilea cel mai înalt munte din Ucraina, situat în lanțul Ciornohora.",
                   "category": "landmark",
                   "coords": [
@@ -1029,7 +1029,7 @@ imageHint: "Hutyn Tomnatyk peak near a mountain lake",
       ],
       "hu": [
             {
-                  "name": "Роман-Кош",
+                  "name": "Roman-Kosh",
                   "text": "Az 1545 méter magas Roman-Kos a Krími-hegység legmagasabb pontja.",
                   "category": "landmark",
                   "coords": [
@@ -1040,7 +1040,7 @@ imageHint: "Hutyn Tomnatyk peak near a mountain lake",
       ],
       "ro": [
             {
-                  "name": "Роман-Кош",
+                  "name": "Roman-Kosh",
                   "text": "Cu o înălțime de 1545 de metri, Roman-Koș este cel mai înalt vârf din Munții Crimeii.",
                   "category": "landmark",
                   "coords": [
@@ -1109,7 +1109,7 @@ imageHint: "Rolling plateau of Roman-Kosh mountain in Crimea",
     id: "ukraine-ai-petri-relief-v2", "sights": {
       "de": [
             {
-                  "name": "Музей дважды Героя Советского Союза Амет-Хана Султана",
+                  "name": "Muzei dvazhdy Geroia Sovetskogo Soiuza Amet-Khana Sultana",
                   "text": "Ein Museum in Alupka, das dem Leben und der Karriere des berühmten Kampfpiloten gewidmet ist.",
                   "category": "museum",
                   "coords": [
@@ -1154,7 +1154,7 @@ imageHint: "Rolling plateau of Roman-Kosh mountain in Crimea",
                   ]
             },
             {
-                  "name": "Парапланерный старт - АйПетри",
+                  "name": "Paraplanernyi start - AiPetri",
                   "text": "Ein beliebter Platz auf dem Ai-Petri-Plateau zum Paragliding mit Blick auf die Küste.",
                   "category": "natural",
                   "coords": [
@@ -1163,7 +1163,7 @@ imageHint: "Rolling plateau of Roman-Kosh mountain in Crimea",
                   ]
             },
             {
-                  "name": "Вид на Ай-Петри с Крестовой",
+                  "name": "Vid na Ai-Petri s Krestovoi",
                   "text": "Ein Aussichtspunkt auf dem Krestovaya-Berg mit einem dramatischen Blick auf den Ai-Petri.",
                   "category": "natural",
                   "coords": [
@@ -1174,7 +1174,7 @@ imageHint: "Rolling plateau of Roman-Kosh mountain in Crimea",
       ],
       "hu": [
             {
-                  "name": "Музей дважды Героя Советского Союза Амет-Хана Султана",
+                  "name": "Muzei dvazhdy Geroia Sovetskogo Soiuza Amet-Khana Sultana",
                   "text": "Alupkai múzeum, amely a híres vadászpilóta életének és pályafutásának szentelt.",
                   "category": "museum",
                   "coords": [
@@ -1183,7 +1183,7 @@ imageHint: "Rolling plateau of Roman-Kosh mountain in Crimea",
                   ]
             },
             {
-                  "name": "Ялтинский горно-лесной природный заповедник",
+                  "name": "Ialtinskii gorno-lesnoi prirodnyi zapovednik",
                   "text": "Természetvédelmi terület a Krím-hegységben, változatos ökoszisztémákkal és karsztbarlangokkal.",
                   "category": "natural",
                   "coords": [
@@ -1192,7 +1192,7 @@ imageHint: "Rolling plateau of Roman-Kosh mountain in Crimea",
                   ]
             },
             {
-                  "name": "Воронцовский Дворец",
+                  "name": "Vorontsovskii Dvorets",
                   "text": "Történelmi palota Alupkában, az Ai-Petri lábánál, amely egyedülálló építészeti stílusáról ismert.",
                   "category": "museum",
                   "coords": [
@@ -1201,7 +1201,7 @@ imageHint: "Rolling plateau of Roman-Kosh mountain in Crimea",
                   ]
             },
             {
-                  "name": "Чайный домик",
+                  "name": "Chainyi domik",
                   "text": "Történelmi épület a Voroncov-palota parkkomplexumában.",
                   "category": "museum",
                   "coords": [
@@ -1210,7 +1210,7 @@ imageHint: "Rolling plateau of Roman-Kosh mountain in Crimea",
                   ]
             },
             {
-                  "name": "Ай-Петри",
+                  "name": "Ai-Petri",
                   "text": "A Krím-hegység egyik leghíresebb csúcsa, amely drótkötélpályával érhető el.",
                   "category": "landmark",
                   "coords": [
@@ -1219,7 +1219,7 @@ imageHint: "Rolling plateau of Roman-Kosh mountain in Crimea",
                   ]
             },
             {
-                  "name": "Парапланерный старт - АйПетри",
+                  "name": "Paraplanernyi start - AiPetri",
                   "text": "Népszerű siklóernyős hely az Ai-Petri-fennsíkon, kilátással a tengerpartra.",
                   "category": "natural",
                   "coords": [
@@ -1228,7 +1228,7 @@ imageHint: "Rolling plateau of Roman-Kosh mountain in Crimea",
                   ]
             },
             {
-                  "name": "Вид на Ай-Петри с Крестовой",
+                  "name": "Vid na Ai-Petri s Krestovoi",
                   "text": "Kilátópont a Kresztovaja-hegyen, ahonnan látványos perspektíva nyílik az Ai-Petri-re.",
                   "category": "natural",
                   "coords": [
@@ -1239,7 +1239,7 @@ imageHint: "Rolling plateau of Roman-Kosh mountain in Crimea",
       ],
       "ro": [
             {
-                  "name": "Музей дважды Героя Советского Союза Амет-Хана Султана",
+                  "name": "Muzei dvazhdy Geroia Sovetskogo Soiuza Amet-Khana Sultana",
                   "text": "Un muzeu din Alupka dedicat vieții și carierei celebrului pilot de vânătoare.",
                   "category": "museum",
                   "coords": [
@@ -1248,7 +1248,7 @@ imageHint: "Rolling plateau of Roman-Kosh mountain in Crimea",
                   ]
             },
             {
-                  "name": "Ялтинский горно-лесной природный заповедник",
+                  "name": "Ialtinskii gorno-lesnoi prirodnyi zapovednik",
                   "text": "O arie protejată din Munții Crimeii, cu ecosisteme diverse și peșteri carstice.",
                   "category": "natural",
                   "coords": [
@@ -1257,7 +1257,7 @@ imageHint: "Rolling plateau of Roman-Kosh mountain in Crimea",
                   ]
             },
             {
-                  "name": "Воронцовский Дворец",
+                  "name": "Vorontsovskii Dvorets",
                   "text": "Un palat istoric din Alupka, la poalele muntelui Ai-Petri, cunoscut pentru amestecul său arhitectural unic.",
                   "category": "museum",
                   "coords": [
@@ -1266,7 +1266,7 @@ imageHint: "Rolling plateau of Roman-Kosh mountain in Crimea",
                   ]
             },
             {
-                  "name": "Чайный домик",
+                  "name": "Chainyi domik",
                   "text": "O clădire istorică situată în complexul parcului Palatului Voronțov.",
                   "category": "museum",
                   "coords": [
@@ -1275,7 +1275,7 @@ imageHint: "Rolling plateau of Roman-Kosh mountain in Crimea",
                   ]
             },
             {
-                  "name": "Ай-Петри",
+                  "name": "Ai-Petri",
                   "text": "Unul dintre cele mai renumite vârfuri din Munții Crimeii, accesibil cu telecabina.",
                   "category": "landmark",
                   "coords": [
@@ -1284,7 +1284,7 @@ imageHint: "Rolling plateau of Roman-Kosh mountain in Crimea",
                   ]
             },
             {
-                  "name": "Парапланерный старт - АйПетри",
+                  "name": "Paraplanernyi start - AiPetri",
                   "text": "Un loc popular pe platoul Ai-Petri pentru parapantă, cu vedere la coastă.",
                   "category": "natural",
                   "coords": [
@@ -1293,7 +1293,7 @@ imageHint: "Rolling plateau of Roman-Kosh mountain in Crimea",
                   ]
             },
             {
-                  "name": "Вид на Ай-Петри с Крестовой",
+                  "name": "Vid na Ai-Petri s Krestovoi",
                   "text": "Un punct de belvedere pe muntele Krestovaya, oferind o perspectivă dramatică asupra Ai-Petri.",
                   "category": "natural",
                   "coords": [
@@ -1416,7 +1416,7 @@ imageHint: "Sharp limestone teeth of Ai-Petri peak in Crimea",
     id: "ukraine-chatyr-dag-relief-v2", "sights": {
       "de": [
             {
-                  "name": "Мраморная",
+                  "name": "Mramornaia",
                   "text": "Eine der berühmtesten Höhlen auf der Krim, bekannt für ihre ausgedehnten Stalaktitenformationen.",
                   "category": "landmark",
                   "coords": [
@@ -1425,7 +1425,7 @@ imageHint: "Sharp limestone teeth of Ai-Petri peak in Crimea",
                   ]
             },
             {
-                  "name": "Эмине-Баир-Хосар",
+                  "name": "Emine-Bair-Khosar",
                   "text": "Eine berühmte vertikale Höhle auf dem Tschatyr-Dag, die auch für ihre gut erhaltenen Mammutreste bekannt ist.",
                   "category": "landmark",
                   "coords": [
@@ -1436,7 +1436,7 @@ imageHint: "Sharp limestone teeth of Ai-Petri peak in Crimea",
       ],
       "hu": [
             {
-                  "name": "Мраморная",
+                  "name": "Mramornaia",
                   "text": "A Krím egyik leghíresebb barlangja, amely kiterjedt cseppkőképződményeiről ismert.",
                   "category": "landmark",
                   "coords": [
@@ -1445,7 +1445,7 @@ imageHint: "Sharp limestone teeth of Ai-Petri peak in Crimea",
                   ]
             },
             {
-                  "name": "Эмине-Баир-Хосар",
+                  "name": "Emine-Bair-Khosar",
                   "text": "Híres függőleges barlang a Csatir-dagon, amely jól megőrzött mamutmaradványairól is ismert.",
                   "category": "landmark",
                   "coords": [
@@ -1456,7 +1456,7 @@ imageHint: "Sharp limestone teeth of Ai-Petri peak in Crimea",
       ],
       "ro": [
             {
-                  "name": "Мраморная",
+                  "name": "Mramornaia",
                   "text": "Una dintre cele mai faimoase peșteri din Crimeea, cunoscută pentru formațiunile sale extinse de stalactite.",
                   "category": "landmark",
                   "coords": [
@@ -1465,7 +1465,7 @@ imageHint: "Sharp limestone teeth of Ai-Petri peak in Crimea",
                   ]
             },
             {
-                  "name": "Эмине-Баир-Хосар",
+                  "name": "Emine-Bair-Khosar",
                   "text": "O faimoasă peșteră verticală pe Chatyr-Dag, cunoscută și pentru resturile de mamut bine conservate.",
                   "category": "landmark",
                   "coords": [
@@ -1543,7 +1543,7 @@ imageHint: "Chatyr-Dag mountain massif with plateaus in Crimea",
     id: "ukraine-demerdzhi-yaila-relief-v2", "sights": {
       "de": [
             {
-                  "name": "Северная Демерджи",
+                  "name": "Severnaia Demerdzhi",
                   "text": "Ein markanter Berggipfel im Demerdzhi-Massiv, bekannt für seine bizarren Felsformationen.",
                   "category": "landmark",
                   "coords": [
@@ -1561,7 +1561,7 @@ imageHint: "Chatyr-Dag mountain massif with plateaus in Crimea",
                   ]
             },
             {
-                  "name": "Марусин поворот",
+                  "name": "Marusin povorot",
                   "text": "Ein Aussichtspunkt, der weite Blicke über das Gebirge und die umliegende Landschaft bietet.",
                   "category": "natural",
                   "coords": [
@@ -1570,7 +1570,7 @@ imageHint: "Chatyr-Dag mountain massif with plateaus in Crimea",
                   ]
             },
             {
-                  "name": "Каблетрубомост",
+                  "name": "Kabletrubomost",
                   "text": "Eine interessante lokale Sehenswürdigkeit in der Region Demerdzhi-Yaila.",
                   "category": "landmark",
                   "coords": [
@@ -1581,7 +1581,7 @@ imageHint: "Chatyr-Dag mountain massif with plateaus in Crimea",
       ],
       "hu": [
             {
-                  "name": "Северная Демерджи",
+                  "name": "Severnaia Demerdzhi",
                   "text": "A Demerdzsi-masszívum jellegzetes csúcsa, amely bizarr sziklaalakzatairól ismert.",
                   "category": "landmark",
                   "coords": [
@@ -1590,7 +1590,7 @@ imageHint: "Chatyr-Dag mountain massif with plateaus in Crimea",
                   ]
             },
             {
-                  "name": "Долина привидений",
+                  "name": "Dolina prividenii",
                   "text": "Lenyűgöző sziklaalakzatok völgye, amelyek emberi és állati alakokra emlékeztetnek.",
                   "category": "landmark",
                   "coords": [
@@ -1599,7 +1599,7 @@ imageHint: "Chatyr-Dag mountain massif with plateaus in Crimea",
                   ]
             },
             {
-                  "name": "Марусин поворот",
+                  "name": "Marusin povorot",
                   "text": "Kilátóhely, ahonnan messzire el lehet látni a hegyek és a környező táj felett.",
                   "category": "natural",
                   "coords": [
@@ -1608,7 +1608,7 @@ imageHint: "Chatyr-Dag mountain massif with plateaus in Crimea",
                   ]
             },
             {
-                  "name": "Каблетрубомост",
+                  "name": "Kabletrubomost",
                   "text": "Érdekes helyi látnivaló a Demerdzsi-Jajla régióban.",
                   "category": "landmark",
                   "coords": [
@@ -1619,7 +1619,7 @@ imageHint: "Chatyr-Dag mountain massif with plateaus in Crimea",
       ],
       "ro": [
             {
-                  "name": "Северная Демерджи",
+                  "name": "Severnaia Demerdzhi",
                   "text": "Un vârf muntos distinctiv în masivul Demerdzhi, cunoscut pentru formațiunile sale stâncoase bizare.",
                   "category": "landmark",
                   "coords": [
@@ -1628,7 +1628,7 @@ imageHint: "Chatyr-Dag mountain massif with plateaus in Crimea",
                   ]
             },
             {
-                  "name": "Долина привидений",
+                  "name": "Dolina prividenii",
                   "text": "O vale cu formațiuni stâncoase impresionante care seamănă cu figuri umane și animale.",
                   "category": "landmark",
                   "coords": [
@@ -1637,7 +1637,7 @@ imageHint: "Chatyr-Dag mountain massif with plateaus in Crimea",
                   ]
             },
             {
-                  "name": "Марусин поворот",
+                  "name": "Marusin povorot",
                   "text": "Un punct de belvedere care oferă vederi largi peste munți și peisajul înconjurător.",
                   "category": "natural",
                   "coords": [
@@ -1646,7 +1646,7 @@ imageHint: "Chatyr-Dag mountain massif with plateaus in Crimea",
                   ]
             },
             {
-                  "name": "Каблетрубомост",
+                  "name": "Kabletrubomost",
                   "text": "O atracție locală interesantă în regiunea Demerdzhi-Yaila.",
                   "category": "landmark",
                   "coords": [
@@ -1742,7 +1742,7 @@ imageHint: "Strange rock pillars in the Valley of Ghosts, Demerdzhi",
     id: "ukraine-karadag-relief-v2", "sights": {
       "de": [
             {
-                  "name": "Природный заповедник «Карадагский»",
+                  "name": "Prirodnyi zapovednik <<Karadagskii>>",
                   "text": "Ein bedeutendes Naturschutzgebiet im Karadag-Gebirgsmassiv.",
                   "category": "natural",
                   "coords": [
@@ -1753,7 +1753,7 @@ imageHint: "Strange rock pillars in the Valley of Ghosts, Demerdzhi",
       ],
       "hu": [
             {
-                  "name": "Природный заповедник «Карадагский»",
+                  "name": "Prirodnyi zapovednik <<Karadagskii>>",
                   "text": "Fontos természetvédelmi terület a Karadag-hegységben.",
                   "category": "natural",
                   "coords": [
@@ -1764,7 +1764,7 @@ imageHint: "Strange rock pillars in the Valley of Ghosts, Demerdzhi",
       ],
       "ro": [
             {
-                  "name": "Природный заповедник «Карадагский»",
+                  "name": "Prirodnyi zapovednik <<Karadagskii>>",
                   "text": "O rezervație naturală importantă în masivul Karadag.",
                   "category": "natural",
                   "coords": [
@@ -1833,7 +1833,7 @@ imageHint: "Volcanic coastal rocks of Karadag in Crimea",
     id: "ukraine-mohyla-mechetna-relief-v2", "sights": {
       "de": [
             {
-                  "name": "Могила Мечетна",
+                  "name": "Mogila Mechetna",
                   "text": "Der höchste Punkt des Donezrückens und der Region Luhansk, gekennzeichnet durch antike Grabhügel.",
                   "category": "landmark",
                   "coords": [
@@ -1844,7 +1844,7 @@ imageHint: "Volcanic coastal rocks of Karadag in Crimea",
       ],
       "hu": [
             {
-                  "name": "Могила Мечетна",
+                  "name": "Mogila Mechetna",
                   "text": "A Donyeci-hátság és a Luhanszki terület legmagasabb pontja, amelyet ősi kurgánok jelölnek.",
                   "category": "landmark",
                   "coords": [
@@ -1855,7 +1855,7 @@ imageHint: "Volcanic coastal rocks of Karadag in Crimea",
       ],
       "ro": [
             {
-                  "name": "Могила Мечетна",
+                  "name": "Mogila Mechetna",
                   "text": "Cel mai înalt punct al crestei Doneț și al regiunii Luhansk, marcat de vechi tumuli funerari.",
                   "category": "landmark",
                   "coords": [
@@ -1970,7 +1970,7 @@ imageHint: "Gentle slopes of Mohyla Mechetna hill in Luhansk region",
     id: "ukraine-mount-syvulia-relief-v2", "sights": {
       "de": [
             {
-                  "name": "Сивуля Велика",
+                  "name": "Sivulia Velika",
                   "text": "Der höchste Berggipfel im Gorgany-Massiv in den ukrainischen Karpaten.",
                   "category": "landmark",
                   "coords": [
@@ -1979,7 +1979,7 @@ imageHint: "Gentle slopes of Mohyla Mechetna hill in Luhansk region",
                   ]
             },
             {
-                  "name": "Лопушна",
+                  "name": "Lopushna",
                   "text": "Ein Berggipfel in den Gorgany, der Teil des zentralen Kammes ist.",
                   "category": "landmark",
                   "coords": [
@@ -1988,7 +1988,7 @@ imageHint: "Gentle slopes of Mohyla Mechetna hill in Luhansk region",
                   ]
             },
             {
-                  "name": "Неґрова",
+                  "name": "Neg'rova",
                   "text": "Ein Gipfel in den ukrainischen Karpaten, der für seine steinigen Hänge bekannt ist.",
                   "category": "landmark",
                   "coords": [
@@ -1997,7 +1997,7 @@ imageHint: "Gentle slopes of Mohyla Mechetna hill in Luhansk region",
                   ]
             },
             {
-                  "name": "Сивуля Мала",
+                  "name": "Sivulia Mala",
                   "text": "Ein markanter Gipfel in der Nähe der Großen Syvulia in den Gorgany.",
                   "category": "landmark",
                   "coords": [
@@ -2006,7 +2006,7 @@ imageHint: "Gentle slopes of Mohyla Mechetna hill in Luhansk region",
                   ]
             },
             {
-                  "name": "Урвище Пекло",
+                  "name": "Urvishche Peklo",
                   "text": "Eine beeindruckende Felsformation und Klippe in den Gorgany-Bergen.",
                   "category": "landmark",
                   "coords": [
@@ -2015,7 +2015,7 @@ imageHint: "Gentle slopes of Mohyla Mechetna hill in Luhansk region",
                   ]
             },
             {
-                  "name": "Боревка",
+                  "name": "Borevka",
                   "text": "Ein Berggipfel im Gorgany-Massiv, der entlang beliebter Wanderrouten liegt.",
                   "category": "landmark",
                   "coords": [
@@ -2024,7 +2024,7 @@ imageHint: "Gentle slopes of Mohyla Mechetna hill in Luhansk region",
                   ]
             },
             {
-                  "name": "Руїни туристичного притулку 1938",
+                  "name": "Ruyini turistichnogo pritulku 1938",
                   "text": "Überreste einer ehemaligen Touristenhütte am Berg Sywulja.",
                   "category": "historical",
                   "coords": [
@@ -2033,7 +2033,7 @@ imageHint: "Gentle slopes of Mohyla Mechetna hill in Luhansk region",
                   ]
             },
             {
-                  "name": "Кінець Ґорґану",
+                  "name": "Kinets' G'org'anu",
                   "text": "Ein markanter Berggipfel im Gorganu-Massiv am Sywulja.",
                   "category": "landmark",
                   "coords": [
@@ -2044,7 +2044,7 @@ imageHint: "Gentle slopes of Mohyla Mechetna hill in Luhansk region",
       ],
       "hu": [
             {
-                  "name": "Сивуля Велика",
+                  "name": "Sivulia Velika",
                   "text": "Az ukrán Kárpátokban található Gorgánok-hegység legmagasabb csúcsa.",
                   "category": "landmark",
                   "coords": [
@@ -2053,7 +2053,7 @@ imageHint: "Gentle slopes of Mohyla Mechetna hill in Luhansk region",
                   ]
             },
             {
-                  "name": "Лопушна",
+                  "name": "Lopushna",
                   "text": "Hegycsúcs a Gorgánokban, a központi hegygerinc része.",
                   "category": "landmark",
                   "coords": [
@@ -2062,7 +2062,7 @@ imageHint: "Gentle slopes of Mohyla Mechetna hill in Luhansk region",
                   ]
             },
             {
-                  "name": "Неґрова",
+                  "name": "Neg'rova",
                   "text": "Hegycsúcs az ukrán Kárpátokban, amely köves lejtőiről ismert.",
                   "category": "landmark",
                   "coords": [
@@ -2071,7 +2071,7 @@ imageHint: "Gentle slopes of Mohyla Mechetna hill in Luhansk region",
                   ]
             },
             {
-                  "name": "Сивуля Мала",
+                  "name": "Sivulia Mala",
                   "text": "Jellegzetes hegycsúcs a Nagy-Szivulja közelében, a Gorgánokban.",
                   "category": "landmark",
                   "coords": [
@@ -2080,7 +2080,7 @@ imageHint: "Gentle slopes of Mohyla Mechetna hill in Luhansk region",
                   ]
             },
             {
-                  "name": "Урвище Пекло",
+                  "name": "Urvishche Peklo",
                   "text": "Lenyűgöző sziklaalakzat és szirt a Gorgánok-hegységben.",
                   "category": "landmark",
                   "coords": [
@@ -2089,7 +2089,7 @@ imageHint: "Gentle slopes of Mohyla Mechetna hill in Luhansk region",
                   ]
             },
             {
-                  "name": "Боревка",
+                  "name": "Borevka",
                   "text": "Hegycsúcs a Gorgánokban, amely népszerű túraútvonalak mentén található.",
                   "category": "landmark",
                   "coords": [
@@ -2098,7 +2098,7 @@ imageHint: "Gentle slopes of Mohyla Mechetna hill in Luhansk region",
                   ]
             },
             {
-                  "name": "Руїни туристичного притулку 1938",
+                  "name": "Ruyini turistichnogo pritulku 1938",
                   "text": "Egy egykori turistaház romjai a Szivulja-hegyen.",
                   "category": "historical",
                   "coords": [
@@ -2107,7 +2107,7 @@ imageHint: "Gentle slopes of Mohyla Mechetna hill in Luhansk region",
                   ]
             },
             {
-                  "name": "Кінець Ґорґану",
+                  "name": "Kinets' G'org'anu",
                   "text": "Jellegzetes hegycsúcs a Szivulja-hegy közelében.",
                   "category": "landmark",
                   "coords": [
@@ -2118,7 +2118,7 @@ imageHint: "Gentle slopes of Mohyla Mechetna hill in Luhansk region",
       ],
       "ro": [
             {
-                  "name": "Сивуля Велика",
+                  "name": "Sivulia Velika",
                   "text": "Cel mai înalt vârf montan din masivul Gorgany, situat în Carpații Ucraineni.",
                   "category": "landmark",
                   "coords": [
@@ -2127,7 +2127,7 @@ imageHint: "Gentle slopes of Mohyla Mechetna hill in Luhansk region",
                   ]
             },
             {
-                  "name": "Лопушна",
+                  "name": "Lopushna",
                   "text": "Un vârf montan în masivul Gorgany, parte a crestei centrale.",
                   "category": "landmark",
                   "coords": [
@@ -2136,7 +2136,7 @@ imageHint: "Gentle slopes of Mohyla Mechetna hill in Luhansk region",
                   ]
             },
             {
-                  "name": "Неґрова",
+                  "name": "Neg'rova",
                   "text": "Un vârf în Carpații Ucraineni, cunoscut pentru pantele sale stâncoase.",
                   "category": "landmark",
                   "coords": [
@@ -2145,7 +2145,7 @@ imageHint: "Gentle slopes of Mohyla Mechetna hill in Luhansk region",
                   ]
             },
             {
-                  "name": "Сивуля Мала",
+                  "name": "Sivulia Mala",
                   "text": "Un vârf proeminent situat lângă Velyka Syvulia în masivul Gorgany.",
                   "category": "landmark",
                   "coords": [
@@ -2154,7 +2154,7 @@ imageHint: "Gentle slopes of Mohyla Mechetna hill in Luhansk region",
                   ]
             },
             {
-                  "name": "Урвище Пекло",
+                  "name": "Urvishche Peklo",
                   "text": "O formațiune stâncoasă impresionantă și o prăpastie în munții Gorgany.",
                   "category": "landmark",
                   "coords": [
@@ -2163,7 +2163,7 @@ imageHint: "Gentle slopes of Mohyla Mechetna hill in Luhansk region",
                   ]
             },
             {
-                  "name": "Боревка",
+                  "name": "Borevka",
                   "text": "Un vârf montan în masivul Gorgany, situat de-a lungul unor rute populare de drumeție.",
                   "category": "landmark",
                   "coords": [
@@ -2172,7 +2172,7 @@ imageHint: "Gentle slopes of Mohyla Mechetna hill in Luhansk region",
                   ]
             },
             {
-                  "name": "Руїни туристичного притулку 1938",
+                  "name": "Ruyini turistichnogo pritulku 1938",
                   "text": "Ruinele unui fost refugiu turistic de pe muntele Syvulia.",
                   "category": "historical",
                   "coords": [
@@ -2181,7 +2181,7 @@ imageHint: "Gentle slopes of Mohyla Mechetna hill in Luhansk region",
                   ]
             },
             {
-                  "name": "Кінець Ґорґану",
+                  "name": "Kinets' G'org'anu",
                   "text": "Un vârf montan proeminent situat în apropierea muntelui Syvulia.",
                   "category": "landmark",
                   "coords": [
@@ -2313,7 +2313,7 @@ imageHint: "Sandstone boulder fields on Mount Syvulia",
     id: "ukraine-mount-stih-relief-v2", "sights": {
       "de": [
             {
-                  "name": "Ворожеське",
+                  "name": "Vorozhes'ke",
                   "text": "Ein geschütztes Berggebiet mit einem Gletschersee.",
                   "category": "natural",
                   "coords": [
@@ -2322,7 +2322,7 @@ imageHint: "Sandstone boulder fields on Mount Syvulia",
                   ]
             },
             {
-                  "name": "Стіг",
+                  "name": "Stig",
                   "text": "Ein markanter Berggipfel im Swydowez-Massiv der ukrainischen Karpaten.",
                   "category": "landmark",
                   "coords": [
@@ -2331,7 +2331,7 @@ imageHint: "Sandstone boulder fields on Mount Syvulia",
                   ]
             },
             {
-                  "name": "Великий Котел",
+                  "name": "Velikii Kotel",
                   "text": "Ein Berggipfel in der Nähe des Berges Stih im Swydowez-Massiv.",
                   "category": "landmark",
                   "coords": [
@@ -2340,7 +2340,7 @@ imageHint: "Sandstone boulder fields on Mount Syvulia",
                   ]
             },
             {
-                  "name": "Жандарм",
+                  "name": "Zhandarm",
                   "text": "Ein bekannter Gipfel im Dragobrat-Gebiet, der für seine Aussicht bekannt ist.",
                   "category": "landmark",
                   "coords": [
@@ -2349,7 +2349,7 @@ imageHint: "Sandstone boulder fields on Mount Syvulia",
                   ]
             },
             {
-                  "name": "Близниця Велика",
+                  "name": "Bliznitsia Velika",
                   "text": "Der höchste Gipfel des Swydowez-Massivs in den ukrainischen Karpaten.",
                   "category": "landmark",
                   "coords": [
@@ -2360,7 +2360,7 @@ imageHint: "Sandstone boulder fields on Mount Syvulia",
       ],
       "hu": [
             {
-                  "name": "Ворожеське",
+                  "name": "Vorozhes'ke",
                   "text": "Védett hegyi terület egy gleccsertóval.",
                   "category": "natural",
                   "coords": [
@@ -2369,7 +2369,7 @@ imageHint: "Sandstone boulder fields on Mount Syvulia",
                   ]
             },
             {
-                  "name": "Стіг",
+                  "name": "Stig",
                   "text": "A Szvidovec-hegység egyik jellegzetes csúcsa az ukrán Kárpátokban.",
                   "category": "landmark",
                   "coords": [
@@ -2378,7 +2378,7 @@ imageHint: "Sandstone boulder fields on Mount Syvulia",
                   ]
             },
             {
-                  "name": "Великий Котел",
+                  "name": "Velikii Kotel",
                   "text": "Hegycsúcs a Szvidovec-hegységben, a Sztih-hegy közelében.",
                   "category": "landmark",
                   "coords": [
@@ -2387,7 +2387,7 @@ imageHint: "Sandstone boulder fields on Mount Syvulia",
                   ]
             },
             {
-                  "name": "Жандарм",
+                  "name": "Zhandarm",
                   "text": "Népszerű hegycsúcs a Dragobrat-vidéken, amely kilátásáról ismert.",
                   "category": "landmark",
                   "coords": [
@@ -2396,7 +2396,7 @@ imageHint: "Sandstone boulder fields on Mount Syvulia",
                   ]
             },
             {
-                  "name": "Близниця Велика",
+                  "name": "Bliznitsia Velika",
                   "text": "A Szvidovec-hegység legmagasabb csúcsa az ukrán Kárpátokban.",
                   "category": "landmark",
                   "coords": [
@@ -2407,7 +2407,7 @@ imageHint: "Sandstone boulder fields on Mount Syvulia",
       ],
       "ro": [
             {
-                  "name": "Ворожеське",
+                  "name": "Vorozhes'ke",
                   "text": "O zonă montană protejată care include un lac glaciar.",
                   "category": "natural",
                   "coords": [
@@ -2416,7 +2416,7 @@ imageHint: "Sandstone boulder fields on Mount Syvulia",
                   ]
             },
             {
-                  "name": "Стіг",
+                  "name": "Stig",
                   "text": "Un vârf montan proeminent în masivul Svîdoveț din Carpații Ucraineni.",
                   "category": "landmark",
                   "coords": [
@@ -2425,7 +2425,7 @@ imageHint: "Sandstone boulder fields on Mount Syvulia",
                   ]
             },
             {
-                  "name": "Великий Котел",
+                  "name": "Velikii Kotel",
                   "text": "Un vârf montan situat în apropierea muntelui Stih din masivul Svîdoveț.",
                   "category": "landmark",
                   "coords": [
@@ -2434,7 +2434,7 @@ imageHint: "Sandstone boulder fields on Mount Syvulia",
                   ]
             },
             {
-                  "name": "Жандарм",
+                  "name": "Zhandarm",
                   "text": "Un vârf popular în zona Dragobrat, cunoscut pentru panoramele sale.",
                   "category": "landmark",
                   "coords": [
@@ -2443,7 +2443,7 @@ imageHint: "Sandstone boulder fields on Mount Syvulia",
                   ]
             },
             {
-                  "name": "Близниця Велика",
+                  "name": "Bliznitsia Velika",
                   "text": "Cel mai înalt vârf din masivul Svîdoveț din Carpații Ucraineni.",
                   "category": "landmark",
                   "coords": [
@@ -2548,7 +2548,7 @@ imageHint: "Sandstone boulder fields on Mount Syvulia",
     id: "ukraine-mount-gemba-relief-v2", "sights": {
       "de": [
             {
-                  "name": "Жид-Магура",
+                  "name": "Zhid-Magura",
                   "text": "Ein Berggipfel in den ukrainischen Karpaten nahe dem Berg Gemba.",
                   "category": "landmark",
                   "coords": [
@@ -2557,7 +2557,7 @@ imageHint: "Sandstone boulder fields on Mount Syvulia",
                   ]
             },
             {
-                  "name": "Граб",
+                  "name": "Grab",
                   "text": "Eine markante Erhebung im Gebirgszug der Karpaten in der Ukraine.",
                   "category": "landmark",
                   "coords": [
@@ -2588,7 +2588,7 @@ imageHint: "Sandstone boulder fields on Mount Syvulia",
       ],
       "ro": [
             {
-                  "name": "Жид-Магура",
+                  "name": "Zhid-Magura",
                   "text": "Un vârf muntos în Carpații Ucraineni, lângă muntele Gemba.",
                   "category": "landmark",
                   "coords": [
@@ -2597,7 +2597,7 @@ imageHint: "Sandstone boulder fields on Mount Syvulia",
                   ]
             },
             {
-                  "name": "Граб",
+                  "name": "Grab",
                   "text": "O culme proeminentă în lanțul muntos al Carpaților din Ucraina.",
                   "category": "landmark",
                   "coords": [
@@ -2684,7 +2684,7 @@ imageHint: "Grassy slopes of Mount Gemba in summer",
                   ]
             },
             {
-                  "name": "Парашка",
+                  "name": "Parashka",
                   "text": "Der höchste Berggipfel im Skole-Beskiden-Massiv in der Ukraine.",
                   "category": "landmark",
                   "coords": [
@@ -2693,7 +2693,7 @@ imageHint: "Grassy slopes of Mount Gemba in summer",
                   ]
             },
             {
-                  "name": "Крушельницький",
+                  "name": "Krushel'nits'kii",
                   "text": "Ein malerischer Wasserfall in den Skole-Beskiden bei dem Dorf Krushelnytsya.",
                   "category": "landmark",
                   "coords": [
@@ -2702,7 +2702,7 @@ imageHint: "Grassy slopes of Mount Gemba in summer",
                   ]
             },
             {
-                  "name": "Оленяча",
+                  "name": "Oleniacha",
                   "text": "Ein Berggipfel in den ukrainischen Karpaten nahe dem Berg Paraska.",
                   "category": "landmark",
                   "coords": [
@@ -2713,7 +2713,7 @@ imageHint: "Grassy slopes of Mount Gemba in summer",
       ],
       "hu": [
             {
-                  "name": "Національний природний парк „Сколівські Бескиди“",
+                  "name": "Natsional'nii prirodnii park ,,Skolivs'ki Beskidi\"",
                   "text": "Hatalmas nemzeti park az ukrán Kárpátokban, amely biológiai sokféleségéről ismert.",
                   "category": "natural",
                   "coords": [
@@ -2722,7 +2722,7 @@ imageHint: "Grassy slopes of Mount Gemba in summer",
                   ]
             },
             {
-                  "name": "Парашка",
+                  "name": "Parashka",
                   "text": "A Szkolei-Beszkidek legmagasabb hegycsúcsa Ukrajnában.",
                   "category": "landmark",
                   "coords": [
@@ -2731,7 +2731,7 @@ imageHint: "Grassy slopes of Mount Gemba in summer",
                   ]
             },
             {
-                  "name": "Крушельницький",
+                  "name": "Krushel'nits'kii",
                   "text": "Gleccser eredetű, festői vízesés a Szkolei-Beszkidekben, Kruselnicja falu közelében.",
                   "category": "landmark",
                   "coords": [
@@ -2740,7 +2740,7 @@ imageHint: "Grassy slopes of Mount Gemba in summer",
                   ]
             },
             {
-                  "name": "Оленяча",
+                  "name": "Oleniacha",
                   "text": "Hegycsúcs az ukrán Kárpátokban, a Paraska-hegy közelében.",
                   "category": "landmark",
                   "coords": [
@@ -2751,7 +2751,7 @@ imageHint: "Grassy slopes of Mount Gemba in summer",
       ],
       "ro": [
             {
-                  "name": "Національний природний парк „Сколівські Бескиди“",
+                  "name": "Natsional'nii prirodnii park ,,Skolivs'ki Beskidi\"",
                   "text": "Un parc național extins în Carpații ucraineni, cunoscut pentru biodiversitatea sa.",
                   "category": "natural",
                   "coords": [
@@ -2760,7 +2760,7 @@ imageHint: "Grassy slopes of Mount Gemba in summer",
                   ]
             },
             {
-                  "name": "Парашка",
+                  "name": "Parashka",
                   "text": "Cel mai înalt vârf muntos din masivul Beskizii Skole din Ucraina.",
                   "category": "landmark",
                   "coords": [
@@ -2769,7 +2769,7 @@ imageHint: "Grassy slopes of Mount Gemba in summer",
                   ]
             },
             {
-                  "name": "Крушельницький",
+                  "name": "Krushel'nits'kii",
                   "text": "O cascadă pitorească în Beskizii Skole, lângă satul Krușelnîțea.",
                   "category": "landmark",
                   "coords": [
@@ -2778,7 +2778,7 @@ imageHint: "Grassy slopes of Mount Gemba in summer",
                   ]
             },
             {
-                  "name": "Оленяча",
+                  "name": "Oleniacha",
                   "text": "Un vârf muntos în Carpații ucraineni, în apropiere de muntele Paraska.",
                   "category": "landmark",
                   "coords": [
@@ -2874,7 +2874,7 @@ imageHint: "Hiking trail on Mount Parashka ridge",
     id: "ukraine-mount-pikuy-relief-v2", "sights": {
       "de": [
             {
-                  "name": "Пікуй",
+                  "name": "Pikui",
                   "text": "Der Pikui ist der höchste Gipfel der Beskiden in der Ukraine und bietet einen weiten Panoramablick.",
                   "category": "landmark",
                   "coords": [
@@ -2883,7 +2883,7 @@ imageHint: "Hiking trail on Mount Parashka ridge",
                   ]
             },
             {
-                  "name": "Зелемений",
+                  "name": "Zelemenii",
                   "text": "Ein Berggipfel in der Nähe des Berges Pikui.",
                   "category": "landmark",
                   "coords": [
@@ -2903,7 +2903,7 @@ imageHint: "Hiking trail on Mount Parashka ridge",
                   ]
             },
             {
-                  "name": "Зелемений",
+                  "name": "Zelemenii",
                   "text": "Egy hegycsúcs a Pikuj-hegy közelében.",
                   "category": "landmark",
                   "coords": [
@@ -2914,7 +2914,7 @@ imageHint: "Hiking trail on Mount Parashka ridge",
       ],
       "ro": [
             {
-                  "name": "Пікуй",
+                  "name": "Pikui",
                   "text": "Pikui este cel mai înalt vârf din munții Bieszczady din Ucraina, oferind vederi panoramice.",
                   "category": "landmark",
                   "coords": [
@@ -2923,7 +2923,7 @@ imageHint: "Hiking trail on Mount Parashka ridge",
                   ]
             },
             {
-                  "name": "Зелемений",
+                  "name": "Zelemenii",
                   "text": "Un vârf muntos situat în apropierea Muntelui Pikui.",
                   "category": "landmark",
                   "coords": [
@@ -3461,7 +3461,7 @@ imageHint: "Rolling plateau of the Azov Upland",
     id: "ukraine-ivano-frankivsk-plateau-relief-v2", "sights": {
       "de": [
             {
-                  "name": "Музей мистецтв Прикарпаття",
+                  "name": "Muzei mistetstv Prikarpattia",
                   "text": "Kunstmuseum in Iwano-Frankiwsk, das in einer ehemaligen Stiftskirche untergebracht ist.",
                   "category": "museum",
                   "coords": [
@@ -3470,7 +3470,7 @@ imageHint: "Rolling plateau of the Azov Upland",
                   ]
             },
             {
-                  "name": "Палац Потоцьких",
+                  "name": "Palats Potots'kikh",
                   "text": "Ehemalige Residenz der Familie Potocki in Iwano-Frankiwsk.",
                   "category": "castle",
                   "coords": [
@@ -3479,7 +3479,7 @@ imageHint: "Rolling plateau of the Azov Upland",
                   ]
             },
             {
-                  "name": "Обласна філармонія імені Іри Маланюк",
+                  "name": "Oblasna filarmoniia imeni Iri Malaniuk",
                   "text": "Nach der Opernsängerin Ira Malaniuk benannte Philharmonie in Iwano-Frankiwsk.",
                   "category": "cultural",
                   "coords": [
@@ -3488,7 +3488,7 @@ imageHint: "Rolling plateau of the Azov Upland",
                   ]
             },
             {
-                  "name": "Палац Ромашканів",
+                  "name": "Palats Romashkaniv",
                   "text": "Schloss aus dem 19. Jahrhundert in Iwano-Frankiwsk, das heute Teil eines Parks ist.",
                   "category": "castle",
                   "coords": [
@@ -3497,7 +3497,7 @@ imageHint: "Rolling plateau of the Azov Upland",
                   ]
             },
             {
-                  "name": "Бастіон Станіславівської фортеці",
+                  "name": "Bastion Stanislavivs'koyi fortetsi",
                   "text": "Überrest der ursprünglichen Stadtbefestigung von Iwano-Frankiwsk.",
                   "category": "castle",
                   "coords": [
@@ -3506,7 +3506,7 @@ imageHint: "Rolling plateau of the Azov Upland",
                   ]
             },
             {
-                  "name": "Краєзнавчий музей",
+                  "name": "Kraieznavchii muzei",
                   "text": "Regionalmuseum in Iwano-Frankiwsk, das sich im historischen Rathaus befindet.",
                   "category": "museum",
                   "coords": [
@@ -3526,7 +3526,7 @@ imageHint: "Rolling plateau of the Azov Upland",
       ],
       "hu": [
             {
-                  "name": "Музей мистецтв Прикарпаття",
+                  "name": "Muzei mistetstv Prikarpattia",
                   "text": "Ivano-frankivszki művészeti múzeum, amely egy egykori templom épületében működik.",
                   "category": "museum",
                   "coords": [
@@ -3535,7 +3535,7 @@ imageHint: "Rolling plateau of the Azov Upland",
                   ]
             },
             {
-                  "name": "Палац Потоцьких",
+                  "name": "Palats Potots'kikh",
                   "text": "A Potocki család egykori palotája Ivano-Frankivszkban.",
                   "category": "castle",
                   "coords": [
@@ -3544,7 +3544,7 @@ imageHint: "Rolling plateau of the Azov Upland",
                   ]
             },
             {
-                  "name": "Обласна філармонія імені Іри Маланюк",
+                  "name": "Oblasna filarmoniia imeni Iri Malaniuk",
                   "text": "Az Ira Malanyiuk operaénekesnőről elnevezett filharmónia Ivano-Frankivszkban.",
                   "category": "cultural",
                   "coords": [
@@ -3553,7 +3553,7 @@ imageHint: "Rolling plateau of the Azov Upland",
                   ]
             },
             {
-                  "name": "Палац Ромашканів",
+                  "name": "Palats Romashkaniv",
                   "text": "19. századi palota Ivano-Frankivszkban, amely ma egy park területén található.",
                   "category": "castle",
                   "coords": [
@@ -3562,7 +3562,7 @@ imageHint: "Rolling plateau of the Azov Upland",
                   ]
             },
             {
-                  "name": "Бастіон Станіславівської фортеці",
+                  "name": "Bastion Stanislavivs'koyi fortetsi",
                   "text": "Ivano-Frankivszk egykori erődítményének fennmaradt bástyája.",
                   "category": "castle",
                   "coords": [
@@ -3571,7 +3571,7 @@ imageHint: "Rolling plateau of the Azov Upland",
                   ]
             },
             {
-                  "name": "Краєзнавчий музей",
+                  "name": "Kraieznavchii muzei",
                   "text": "Ivano-frankivszki regionális múzeum, amely a történelmi városháza épületében található.",
                   "category": "museum",
                   "coords": [
@@ -3591,7 +3591,7 @@ imageHint: "Rolling plateau of the Azov Upland",
       ],
       "ro": [
             {
-                  "name": "Музей мистецтв Прикарпаття",
+                  "name": "Muzei mistetstv Prikarpattia",
                   "text": "Muzeul de artă din Ivano-Frankivsk, găzduit în clădirea unei foste biserici colegiale.",
                   "category": "museum",
                   "coords": [
@@ -3600,7 +3600,7 @@ imageHint: "Rolling plateau of the Azov Upland",
                   ]
             },
             {
-                  "name": "Палац Потоцьких",
+                  "name": "Palats Potots'kikh",
                   "text": "Fosta reședință a familiei Potocki din Ivano-Frankivsk.",
                   "category": "castle",
                   "coords": [
@@ -3609,7 +3609,7 @@ imageHint: "Rolling plateau of the Azov Upland",
                   ]
             },
             {
-                  "name": "Обласна філармонія імені Іри Маланюк",
+                  "name": "Oblasna filarmoniia imeni Iri Malaniuk",
                   "text": "Filarmonica din Ivano-Frankivsk, numită după cântăreața de operă Ira Malaniuk.",
                   "category": "cultural",
                   "coords": [
@@ -3618,7 +3618,7 @@ imageHint: "Rolling plateau of the Azov Upland",
                   ]
             },
             {
-                  "name": "Палац Ромашканів",
+                  "name": "Palats Romashkaniv",
                   "text": "Palat din secolul al XIX-lea din Ivano-Frankivsk, situat astăzi într-un parc.",
                   "category": "castle",
                   "coords": [
@@ -3627,7 +3627,7 @@ imageHint: "Rolling plateau of the Azov Upland",
                   ]
             },
             {
-                  "name": "Бастіон Станіславівської фортеці",
+                  "name": "Bastion Stanislavivs'koyi fortetsi",
                   "text": "Rămășiță a vechilor fortificații ale orașului Ivano-Frankivsk.",
                   "category": "castle",
                   "coords": [
@@ -3636,7 +3636,7 @@ imageHint: "Rolling plateau of the Azov Upland",
                   ]
             },
             {
-                  "name": "Краєзнавчий музей",
+                  "name": "Kraieznavchii muzei",
                   "text": "Muzeul regional din Ivano-Frankivsk, situat în clădirea istorică a primăriei.",
                   "category": "museum",
                   "coords": [
@@ -3767,7 +3767,7 @@ imageHint: "Rolling plateau of the Azov Upland",
     id: "ukraine-mount-tytov-relief-v2", "sights": {
       "de": [
             {
-                  "name": "Регеска Велика",
+                  "name": "Regeska Velika",
                   "text": "Ein Berggipfel in den ukrainischen Karpaten mit weitem Ausblick.",
                   "category": "landmark",
                   "coords": [
@@ -3776,7 +3776,7 @@ imageHint: "Rolling plateau of the Azov Upland",
                   ]
             },
             {
-                  "name": "Роги",
+                  "name": "Rogi",
                   "text": "Ein markanter Berggipfel in der Gebirgsregion der Ukraine.",
                   "category": "landmark",
                   "coords": [
@@ -3785,7 +3785,7 @@ imageHint: "Rolling plateau of the Azov Upland",
                   ]
             },
             {
-                  "name": "Мунчелик",
+                  "name": "Munchelik",
                   "text": "Ein weiterer Gipfel in den Karpaten, der für Wanderer von Interesse ist.",
                   "category": "landmark",
                   "coords": [
@@ -3796,7 +3796,7 @@ imageHint: "Rolling plateau of the Azov Upland",
       ],
       "hu": [
             {
-                  "name": "Регеска Велика",
+                  "name": "Regeska Velika",
                   "text": "Hegycsúcs az ukrán Kárpátokban, széles kilátással.",
                   "category": "landmark",
                   "coords": [
@@ -3805,7 +3805,7 @@ imageHint: "Rolling plateau of the Azov Upland",
                   ]
             },
             {
-                  "name": "Роги",
+                  "name": "Rogi",
                   "text": "Jellegzetes hegycsúcs Ukrajna hegyvidéki régiójában.",
                   "category": "landmark",
                   "coords": [
@@ -3814,7 +3814,7 @@ imageHint: "Rolling plateau of the Azov Upland",
                   ]
             },
             {
-                  "name": "Мунчелик",
+                  "name": "Munchelik",
                   "text": "Újabb kárpáti hegycsúcs, amely a túrázók számára érdekes.",
                   "category": "landmark",
                   "coords": [
@@ -3825,7 +3825,7 @@ imageHint: "Rolling plateau of the Azov Upland",
       ],
       "ro": [
             {
-                  "name": "Регеска Велика",
+                  "name": "Regeska Velika",
                   "text": "Un vârf montan din Carpații ucraineni, oferind o panoramă vastă.",
                   "category": "landmark",
                   "coords": [
@@ -3834,7 +3834,7 @@ imageHint: "Rolling plateau of the Azov Upland",
                   ]
             },
             {
-                  "name": "Роги",
+                  "name": "Rogi",
                   "text": "Un vârf montan distinctiv în regiunea muntoasă a Ucrainei.",
                   "category": "landmark",
                   "coords": [
@@ -3843,7 +3843,7 @@ imageHint: "Rolling plateau of the Azov Upland",
                   ]
             },
             {
-                  "name": "Мунчелик",
+                  "name": "Munchelik",
                   "text": "Un alt vârf din Carpați, de interes pentru drumeți.",
                   "category": "landmark",
                   "coords": [
@@ -4253,7 +4253,7 @@ imageHint: "Rolling plateau of the Azov Upland",
                   ]
             },
             {
-                  "name": "Довга",
+                  "name": "Dovga",
                   "text": "Ein markanter Berggipfel in den ukrainischen Karpaten.",
                   "category": "landmark",
                   "coords": [
@@ -4262,7 +4262,7 @@ imageHint: "Rolling plateau of the Azov Upland",
                   ]
             },
             {
-                  "name": "Буковельські гірки",
+                  "name": "Bukовельські гірки",
                   "text": "Diese Abenteuerattraktion am Berg Dowbuschanka bietet ein aufregendes Zipline-Erlebnis.",
                   "category": "landmark",
                   "coords": [
@@ -4289,7 +4289,7 @@ imageHint: "Rolling plateau of the Azov Upland",
                   ]
             },
             {
-                  "name": "Мрійлива постать",
+                  "name": "Mriiliva postat'",
                   "text": "Ein Denkmal auf dem Berg Dowbuschanka, das ein lokales künstlerisches Motiv darstellt.",
                   "category": "historical",
                   "coords": [
@@ -4309,7 +4309,7 @@ imageHint: "Rolling plateau of the Azov Upland",
                   ]
             },
             {
-                  "name": "Довга",
+                  "name": "Dovga",
                   "text": "Jellegzetes hegycsúcs az ukrán Kárpátokban.",
                   "category": "landmark",
                   "coords": [
@@ -4318,7 +4318,7 @@ imageHint: "Rolling plateau of the Azov Upland",
                   ]
             },
             {
-                  "name": "Буковельські гірки",
+                  "name": "Bukовельські гірки",
                   "text": "Ez a Dovbusanka-hegyen található kalandpark izgalmas zipline-élményt kínál.",
                   "category": "landmark",
                   "coords": [
@@ -4345,7 +4345,7 @@ imageHint: "Rolling plateau of the Azov Upland",
                   ]
             },
             {
-                  "name": "Мрійлива постать",
+                  "name": "Mriiliva postat'",
                   "text": "Egy emlékmű a Dovbusanka-hegyen, amely egy helyi művészeti motívumot ábrázol.",
                   "category": "historical",
                   "coords": [
@@ -4365,7 +4365,7 @@ imageHint: "Rolling plateau of the Azov Upland",
                   ]
             },
             {
-                  "name": "Довга",
+                  "name": "Dovga",
                   "text": "Un vârf montan proeminent în Carpații Ucraineni.",
                   "category": "landmark",
                   "coords": [
@@ -4374,7 +4374,7 @@ imageHint: "Rolling plateau of the Azov Upland",
                   ]
             },
             {
-                  "name": "Буковельські гірки",
+                  "name": "Bukовельські гірки",
                   "text": "Această atracție de aventură de pe muntele Dovbușanka oferă o experiență palpitantă de tiroliană.",
                   "category": "landmark",
                   "coords": [
@@ -4401,7 +4401,7 @@ imageHint: "Rolling plateau of the Azov Upland",
                   ]
             },
             {
-                  "name": "Мрійлива постать",
+                  "name": "Mriiliva postat'",
                   "text": "Un monument de pe muntele Dovbușanka care înfățișează un motiv artistic local.",
                   "category": "historical",
                   "coords": [

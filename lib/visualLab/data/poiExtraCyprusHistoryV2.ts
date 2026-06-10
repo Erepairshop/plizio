@@ -78,7 +78,7 @@ export const cyprusHistoryV2: POI[] = [
                   ]
             },
             {
-                  "name": "Τοπικό Μουσείο Αρχαίου Ιδαλίου",
+                  "name": "Topiko Mouseio Arkhaiou Idaliou",
                   "text": "Ein lokales Museum, das Fundstücke aus dem antiken Idalion ausstellt.",
                   "category": "museum",
                   "coords": [
@@ -134,7 +134,7 @@ export const cyprusHistoryV2: POI[] = [
                   ]
             },
             {
-                  "name": "Τοπικό Μουσείο Αρχαίου Ιδαλίου",
+                  "name": "Topiko Mouseio Arkhaiou Idaliou",
                   "text": "Helyi múzeum, amely az ókori Idalion leleteit mutatja be.",
                   "category": "museum",
                   "coords": [
@@ -190,7 +190,7 @@ export const cyprusHistoryV2: POI[] = [
                   ]
             },
             {
-                  "name": "Τοπικό Μουσείο Αρχαίου Ιδαλίου",
+                  "name": "Topiko Mouseio Arkhaiou Idaliou",
                   "text": "Un muzeu local care expune descoperiri din anticul Idalion.",
                   "category": "museum",
                   "coords": [
@@ -350,7 +350,7 @@ export const cyprusHistoryV2: POI[] = [
       ],
       "hu": [
             {
-                  "name": "Ταμασσός",
+                  "name": "Tamassos",
                   "text": "Jelentős ókori város Cipruson, amely királyi sírjairól és templomromjairól ismert.",
                   "category": "historical",
                   "coords": [
@@ -379,7 +379,7 @@ export const cyprusHistoryV2: POI[] = [
       ],
       "ro": [
             {
-                  "name": "Ταμασσός",
+                  "name": "Tamassos",
                   "text": "Un oraș antic important din Cipru, cunoscut pentru mormintele sale regale și ruinele templelor.",
                   "category": "historical",
                   "coords": [
@@ -690,7 +690,7 @@ export const cyprusHistoryV2: POI[] = [
                   ]
             },
             {
-                  "name": "Πάρκο Πουλιών Σάββας",
+                  "name": "Parko Poulion Sabbas",
                   "text": "Ein Vogelpark und Zoo in der Nähe von Vouni Palace, der verschiedene Vogelarten beherbergt.",
                   "category": "recreational",
                   "coords": [
@@ -737,7 +737,7 @@ export const cyprusHistoryV2: POI[] = [
                   ]
             },
             {
-                  "name": "Πάρκο Πουλιών Σάββας",
+                  "name": "Parko Poulion Sabbas",
                   "text": "Madárpark és állatkert a Vouni-palota közelében, amely különféle madárfajoknak ad otthont.",
                   "category": "recreational",
                   "coords": [
@@ -784,7 +784,7 @@ export const cyprusHistoryV2: POI[] = [
                   ]
             },
             {
-                  "name": "Πάρκο Πουλιών Σάββας",
+                  "name": "Parko Poulion Sabbas",
                   "text": "Un parc de păsări și grădină zoologică lângă Palatul Vouni, care găzduiește diverse specii de păsări.",
                   "category": "recreational",
                   "coords": [
@@ -1491,7 +1491,7 @@ export const cyprusHistoryV2: POI[] = [
     id: "cyprus-machairas-monastery-history-v2", "sights": {
       "de": [
             {
-                  "name": "Εθνολογικό Μουσείο Φικάρδου",
+                  "name": "Ethnologiko Mouseio Phikardou",
                   "text": "Ein Museum im historischen Dorf Fikardou, das das ländliche Leben auf Zypern zeigt.",
                   "category": "museum",
                   "coords": [
@@ -1500,7 +1500,7 @@ export const cyprusHistoryV2: POI[] = [
                   ]
             },
             {
-                  "name": "Γρηγόρης Αυξεντίου",
+                  "name": "Gregores Auxentiou",
                   "text": "Ein Museum, das Grigoris Afxentiou gewidmet ist, einem Helden des zyprischen Unabhängigkeitskampfes.",
                   "category": "museum",
                   "coords": [
@@ -1509,7 +1509,7 @@ export const cyprusHistoryV2: POI[] = [
                   ]
             },
             {
-                  "name": "Μαχαιράς",
+                  "name": "Makhairas",
                   "text": "Ein Berggipfel im Machairas-Wald, der weite Ausblicke über die Region bietet.",
                   "category": "landmark",
                   "coords": [
@@ -1529,7 +1529,7 @@ export const cyprusHistoryV2: POI[] = [
       ],
       "hu": [
             {
-                  "name": "Εθνολογικό Μουσείο Φικάρδου",
+                  "name": "Ethnologiko Mouseio Phikardou",
                   "text": "Múzeum a történelmi Fikardou faluban, amely a ciprusi vidéki életet mutatja be.",
                   "category": "museum",
                   "coords": [
@@ -1538,7 +1538,7 @@ export const cyprusHistoryV2: POI[] = [
                   ]
             },
             {
-                  "name": "Γρηγόρης Αυξεντίου",
+                  "name": "Gregores Auxentiou",
                   "text": "Grigoris Afxentiounak, a ciprusi függetlenségi harc hősének szentelt múzeum.",
                   "category": "museum",
                   "coords": [
@@ -1547,7 +1547,7 @@ export const cyprusHistoryV2: POI[] = [
                   ]
             },
             {
-                  "name": "Μαχαιράς",
+                  "name": "Makhairas",
                   "text": "Hegycsúcs a Machairas-erdőben, amely széles kilátást nyújt a régióra.",
                   "category": "landmark",
                   "coords": [
@@ -1567,7 +1567,7 @@ export const cyprusHistoryV2: POI[] = [
       ],
       "ro": [
             {
-                  "name": "Εθνολογικό Μουσείο Φικάρδου",
+                  "name": "Ethnologiko Mouseio Phikardou",
                   "text": "Un muzeu în satul istoric Fikardou, care prezintă viața rurală din Cipru.",
                   "category": "museum",
                   "coords": [
@@ -1576,7 +1576,7 @@ export const cyprusHistoryV2: POI[] = [
                   ]
             },
             {
-                  "name": "Γρηγόρης Αυξεντίου",
+                  "name": "Gregores Auxentiou",
                   "text": "Un muzeu dedicat lui Grigoris Afxentiou, un erou al luptei pentru independența Ciprului.",
                   "category": "museum",
                   "coords": [
@@ -1585,7 +1585,7 @@ export const cyprusHistoryV2: POI[] = [
                   ]
             },
             {
-                  "name": "Μαχαιράς",
+                  "name": "Makhairas",
                   "text": "Un vârf montan în pădurea Machairas, care oferă vederi largi asupra regiunii.",
                   "category": "landmark",
                   "coords": [
@@ -1959,7 +1959,7 @@ export const cyprusHistoryV2: POI[] = [
     id: "cyprus-agios-nikolaos-tis-stegis-history-v2", "sights": {
       "de": [
             {
-                  "name": "Εθνικό Δασικό Πάρκο Τροόδους",
+                  "name": "Ethniko Dasiko Parko Troodous",
                   "text": "Ein Naturschutzgebiet im Troodos-Gebirge auf Zypern.",
                   "category": "natural",
                   "coords": [
@@ -2024,7 +2024,7 @@ export const cyprusHistoryV2: POI[] = [
       ],
       "hu": [
             {
-                  "name": "Εθνικό Δασικό Πάρκο Τροόδους",
+                  "name": "Ethniko Dasiko Parko Troodous",
                   "text": "Természetvédelmi terület a ciprusi Tróodosz-hegységben.",
                   "category": "natural",
                   "coords": [
@@ -2042,7 +2042,7 @@ export const cyprusHistoryV2: POI[] = [
                   ]
             },
             {
-                  "name": "Όλυμπος",
+                  "name": "Olumpos",
                   "text": "Ciprus legmagasabb hegye a Tróodosz-hegységben.",
                   "category": "landmark",
                   "coords": [
@@ -2089,7 +2089,7 @@ export const cyprusHistoryV2: POI[] = [
       ],
       "ro": [
             {
-                  "name": "Εθνικό Δασικό Πάρκο Τροόδους",
+                  "name": "Ethniko Dasiko Parko Troodous",
                   "text": "O rezervație naturală în Munții Troodos din Cipru.",
                   "category": "natural",
                   "coords": [
@@ -2107,7 +2107,7 @@ export const cyprusHistoryV2: POI[] = [
                   ]
             },
             {
-                  "name": "Όλυμπος",
+                  "name": "Olumpos",
                   "text": "Cel mai înalt munte din Cipru, situat în masivul Troodos.",
                   "category": "landmark",
                   "coords": [
@@ -2301,7 +2301,7 @@ export const cyprusHistoryV2: POI[] = [
                   ]
             },
             {
-                  "name": "Αγίας Πέτρας",
+                  "name": "Agias Petras",
                   "text": "Ein Aussichtspunkt mit weitem Blick über die umliegende Landschaft von Zypern.",
                   "category": "natural",
                   "coords": [
@@ -2366,7 +2366,7 @@ export const cyprusHistoryV2: POI[] = [
                   ]
             },
             {
-                  "name": "Αγίας Πέτρας",
+                  "name": "Agias Petras",
                   "text": "Kilátópont, amely széles kilátást nyújt Ciprus környező tájaira.",
                   "category": "natural",
                   "coords": [
@@ -2431,7 +2431,7 @@ export const cyprusHistoryV2: POI[] = [
                   ]
             },
             {
-                  "name": "Αγίας Πέτρας",
+                  "name": "Agias Petras",
                   "text": "Un punct de observație care oferă o vedere panoramică asupra peisajului din Cipru.",
                   "category": "natural",
                   "coords": [
@@ -2652,7 +2652,7 @@ export const cyprusHistoryV2: POI[] = [
                   ]
             },
             {
-                  "name": "Τοπικό Αρχαιολογικό Μουσείο Παλαιπάφου",
+                  "name": "Topiko Arkhaiologiko Mouseio Palaipaphou",
                   "text": "Museum in Kouklia, das Funde aus dem Heiligtum der Aphrodite ausstellt.",
                   "category": "museum",
                   "coords": [
@@ -2708,7 +2708,7 @@ export const cyprusHistoryV2: POI[] = [
                   ]
             },
             {
-                  "name": "Τοπικό Αρχαιολογικό Μουσείο Παλαιπάφου",
+                  "name": "Topiko Arkhaiologiko Mouseio Palaipaphou",
                   "text": "Koukliai múzeum, amely az Aphrodité-szentélyből származó leleteket mutat be.",
                   "category": "museum",
                   "coords": [
@@ -2764,7 +2764,7 @@ export const cyprusHistoryV2: POI[] = [
                   ]
             },
             {
-                  "name": "Τοπικό Αρχαιολογικό Μουσείο Παλαιπάφου",
+                  "name": "Topiko Arkhaiologiko Mouseio Palaipaphou",
                   "text": "Muzeu în Kouklia ce expune descoperiri de la sanctuarul Afroditei.",
                   "category": "museum",
                   "coords": [
@@ -2931,7 +2931,7 @@ export const cyprusHistoryV2: POI[] = [
     id: "cyprus-panagia-asinou-history-v2", "sights": {
       "de": [
             {
-                  "name": "Παναγίας της Ασίνου",
+                  "name": "Panagias tes Asinou",
                   "text": "Eine byzantinische UNESCO-Welterbekirche, die für ihre Wandmalereien bekannt ist.",
                   "category": "landmark",
                   "coords": [
@@ -2942,7 +2942,7 @@ export const cyprusHistoryV2: POI[] = [
       ],
       "hu": [
             {
-                  "name": "Παναγίας της Ασίνου",
+                  "name": "Panagias tes Asinou",
                   "text": "UNESCO világörökségi bizánci templom, amely falfestményeiről híres.",
                   "category": "landmark",
                   "coords": [
@@ -2953,7 +2953,7 @@ export const cyprusHistoryV2: POI[] = [
       ],
       "ro": [
             {
-                  "name": "Παναγίας της Ασίνου",
+                  "name": "Panagias tes Asinou",
                   "text": "O biserică bizantină inclusă în patrimoniul UNESCO, celebră pentru picturile sale murale.",
                   "category": "landmark",
                   "coords": [
@@ -3021,7 +3021,7 @@ export const cyprusHistoryV2: POI[] = [
     id: "cyprus-agios-ioannis-agros-history-v2", "sights": {
       "de": [
             {
-                  "name": "Αστεροσκοπείο Τροόδους",
+                  "name": "Asteroskopeio Troodous",
                   "text": "Ein modernes astronomisches Observatorium im Troodos-Gebirge, das für Sternenbeobachtung und wissenschaftliche Bildung konzipiert ist.",
                   "category": "museum",
                   "coords": [
@@ -3050,7 +3050,7 @@ export const cyprusHistoryV2: POI[] = [
       ],
       "hu": [
             {
-                  "name": "Αστεροσκοπείο Τροόδους",
+                  "name": "Asteroskopeio Troodous",
                   "text": "Modern csillagászati obszervatórium a Troodos-hegységben, amely csillagvizsgálatra és tudományos ismeretterjesztésre szolgál.",
                   "category": "museum",
                   "coords": [
@@ -3079,7 +3079,7 @@ export const cyprusHistoryV2: POI[] = [
       ],
       "ro": [
             {
-                  "name": "Αστεροσκοπείο Τροόδους",
+                  "name": "Asteroskopeio Troodous",
                   "text": "Un observator astronomic modern în Munții Troodos, conceput pentru observarea stelelor și educație științifică.",
                   "category": "museum",
                   "coords": [
@@ -3210,7 +3210,7 @@ export const cyprusHistoryV2: POI[] = [
                   ]
             },
             {
-                  "name": "Παναγία Ποδίθου",
+                  "name": "Panagia Podithou",
                   "text": "Eine Klosterkirche aus dem 16. Jahrhundert in Galata, die als UNESCO-Welterbe anerkannt ist.",
                   "category": "landmark",
                   "coords": [
@@ -3248,7 +3248,7 @@ export const cyprusHistoryV2: POI[] = [
                   ]
             },
             {
-                  "name": "Παναγία Ποδίθου",
+                  "name": "Panagia Podithou",
                   "text": "16. századi kolostortemplom Galata településen, amely az UNESCO Világörökség része.",
                   "category": "landmark",
                   "coords": [
@@ -3286,7 +3286,7 @@ export const cyprusHistoryV2: POI[] = [
                   ]
             },
             {
-                  "name": "Παναγία Ποδίθου",
+                  "name": "Panagia Podithou",
                   "text": "O biserică mănăstirească din secolul al XVI-lea în Galata, recunoscută ca sit al Patrimoniului Mondial UNESCO.",
                   "category": "landmark",
                   "coords": [

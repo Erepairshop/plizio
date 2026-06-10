@@ -142,7 +142,7 @@ export const bulgariaAllPoi: POI[] = [
                   ]
             },
             {
-                  "name": "Възела",
+                  "name": "V'zela",
                   "text": "Ein Berggipfel im bulgarischen Pirin-Nationalpark.",
                   "category": "landmark",
                   "coords": [
@@ -151,7 +151,7 @@ export const bulgariaAllPoi: POI[] = [
                   ]
             },
             {
-                  "name": "Кутело 2",
+                  "name": "Kutelo 2",
                   "text": "Der zweithöchste Punkt des Kutelo-Massivs im Pirin-Gebirge.",
                   "category": "landmark",
                   "coords": [
@@ -160,7 +160,7 @@ export const bulgariaAllPoi: POI[] = [
                   ]
             },
             {
-                  "name": "Кутело",
+                  "name": "Kutelo",
                   "text": "Mit 2908 Metern der zweithöchste Gipfel im Pirin-Gebirge.",
                   "category": "landmark",
                   "coords": [
@@ -169,7 +169,7 @@ export const bulgariaAllPoi: POI[] = [
                   ]
             },
             {
-                  "name": "Бански суходол",
+                  "name": "Banski sukhodol",
                   "text": "Ein markanter Gipfel im Pirin-Gebirge, bekannt für seine steilen Kalksteinwände.",
                   "category": "landmark",
                   "coords": [
@@ -178,7 +178,7 @@ export const bulgariaAllPoi: POI[] = [
                   ]
             },
             {
-                  "name": "Байкушевата мура;Байкушева мура",
+                  "name": "Baikushevata mura;Baikusheva mura",
                   "text": "Eine über 1300 Jahre alte Panzerkiefer, der älteste Nadelbaum Bulgariens.",
                   "category": "landmark",
                   "coords": [
@@ -198,7 +198,7 @@ export const bulgariaAllPoi: POI[] = [
                   ]
             },
             {
-                  "name": "Възела",
+                  "name": "V'zela",
                   "text": "Hegyi csúcs a bulgáriai Pirin Nemzeti Parkban.",
                   "category": "landmark",
                   "coords": [
@@ -207,7 +207,7 @@ export const bulgariaAllPoi: POI[] = [
                   ]
             },
             {
-                  "name": "Кутело 2",
+                  "name": "Kutelo 2",
                   "text": "A Pirin-hegységben található Kutelo-masszívum második legmagasabb pontja.",
                   "category": "landmark",
                   "coords": [
@@ -216,7 +216,7 @@ export const bulgariaAllPoi: POI[] = [
                   ]
             },
             {
-                  "name": "Кутело",
+                  "name": "Kutelo",
                   "text": "2908 méteres magasságával a Pirin-hegység második legmagasabb csúcsa.",
                   "category": "landmark",
                   "coords": [
@@ -225,7 +225,7 @@ export const bulgariaAllPoi: POI[] = [
                   ]
             },
             {
-                  "name": "Бански суходол",
+                  "name": "Banski sukhodol",
                   "text": "Jellegzetes csúcs a Pirin-hegységben, amely meredek mészkőfalairól ismert.",
                   "category": "landmark",
                   "coords": [
@@ -234,7 +234,7 @@ export const bulgariaAllPoi: POI[] = [
                   ]
             },
             {
-                  "name": "Байкушевата мура;Байкушева мура",
+                  "name": "Baikushevata mura;Baikusheva mura",
                   "text": "Egy több mint 1300 éves páncélfenyő, Bulgária legöregebb tűlevelű fája.",
                   "category": "landmark",
                   "coords": [
@@ -245,7 +245,7 @@ export const bulgariaAllPoi: POI[] = [
       ],
       "ro": [
             {
-                  "name": "Вихрен",
+                  "name": "Vikhren",
                   "text": "Cel mai înalt vârf din munții Pirin și un punct de belvedere popular în Bulgaria.",
                   "category": "natural",
                   "coords": [
@@ -254,7 +254,7 @@ export const bulgariaAllPoi: POI[] = [
                   ]
             },
             {
-                  "name": "Възела",
+                  "name": "V'zela",
                   "text": "Un vârf muntos în Parcul Național Pirin din Bulgaria.",
                   "category": "landmark",
                   "coords": [
@@ -263,7 +263,7 @@ export const bulgariaAllPoi: POI[] = [
                   ]
             },
             {
-                  "name": "Кутело 2",
+                  "name": "Kutelo 2",
                   "text": "Al doilea cel mai înalt punct al masivului Kutelo din munții Pirin.",
                   "category": "landmark",
                   "coords": [
@@ -272,7 +272,7 @@ export const bulgariaAllPoi: POI[] = [
                   ]
             },
             {
-                  "name": "Кутело",
+                  "name": "Kutelo",
                   "text": "Cu 2908 metri, este al doilea cel mai înalt vârf din munții Pirin.",
                   "category": "landmark",
                   "coords": [
@@ -281,7 +281,7 @@ export const bulgariaAllPoi: POI[] = [
                   ]
             },
             {
-                  "name": "Бански суходол",
+                  "name": "Banski sukhodol",
                   "text": "Un vârf distinctiv în munții Pirin, cunoscut pentru pereții săi abrupți de calcar.",
                   "category": "landmark",
                   "coords": [
@@ -290,7 +290,7 @@ export const bulgariaAllPoi: POI[] = [
                   ]
             },
             {
-                  "name": "Байкушевата мура;Байкушева мура",
+                  "name": "Baikushevata mura;Baikusheva mura",
                   "text": "Un pin de peste 1300 de ani, cel mai bătrân conifer din Bulgaria.",
                   "category": "landmark",
                   "coords": [
@@ -471,7 +471,7 @@ export const bulgariaCulture: POI[] = [
                   ]
             },
             {
-                  "name": "Хаджи Димитър",
+                  "name": "Khadzhi Dimit'r",
                   "text": "Ein Denkmal zu Ehren des bulgarischen Revolutionärs Hadshi Dimitar.",
                   "category": "historical",
                   "coords": [
@@ -491,7 +491,7 @@ export const bulgariaCulture: POI[] = [
                   ]
             },
             {
-                  "name": "Хаджи Димитър",
+                  "name": "Khadzhi Dimit'r",
                   "text": "Hadzsi Dimitar bolgár forradalmár tiszteletére emelt emlékmű.",
                   "category": "historical",
                   "coords": [
@@ -502,7 +502,7 @@ export const bulgariaCulture: POI[] = [
       ],
       "ro": [
             {
-                  "name": "Паметникът на Бузлуджа",
+                  "name": "Pametnik't na Buzludzha",
                   "text": "Un monument comunist masiv situat pe muntele Buzludja.",
                   "category": "historical",
                   "coords": [
@@ -511,7 +511,7 @@ export const bulgariaCulture: POI[] = [
                   ]
             },
             {
-                  "name": "Хаджи Димитър",
+                  "name": "Khadzhi Dimit'r",
                   "text": "Un monument dedicat revoluționarului bulgar Hadji Dimitar.",
                   "category": "historical",
                   "coords": [
@@ -1395,7 +1395,7 @@ export const bulgariaCulture: POI[] = [
     id: "agriculture-rose-valley-kazanlak", "sights": {
       "de": [
             {
-                  "name": "Музей на розата",
+                  "name": "Muzei na rozata",
                   "text": "Ein Museum in Kasanlak, das der Geschichte und Produktion des berühmten bulgarischen Rosenöls gewidmet ist.",
                   "category": "museum",
                   "coords": [
@@ -1413,7 +1413,7 @@ export const bulgariaCulture: POI[] = [
                   ]
             },
             {
-                  "name": "Исторически Музей Искра Казанлък",
+                  "name": "Istoricheski Muzei Iskra Kazanl'k",
                   "text": "Ein Regionalmuseum in Kasanlak mit bedeutenden archäologischen Funden aus dem Tal der thrakischen Könige.",
                   "category": "museum",
                   "coords": [
@@ -1422,7 +1422,7 @@ export const bulgariaCulture: POI[] = [
                   ]
             },
             {
-                  "name": "Литературно-художовествен мусей Чудомир",
+                  "name": "Literaturno-khudozhovestven musei Chudomir",
                   "text": "Dem bulgarischen Schriftsteller und Maler Dimitar Tschorbadschijski (Chudomir) gewidmetes Museum.",
                   "category": "museum",
                   "coords": [
@@ -1431,7 +1431,7 @@ export const bulgariaCulture: POI[] = [
                   ]
             },
             {
-                  "name": "Тюлбето",
+                  "name": "Tiulbeto",
                   "text": "Ein Stadtpark in Kasanlak, in dem sich die thrakische Grabstätte befindet.",
                   "category": "park",
                   "coords": [
@@ -1440,7 +1440,7 @@ export const bulgariaCulture: POI[] = [
                   ]
             },
             {
-                  "name": "Евро монумент",
+                  "name": "Evro monument",
                   "text": "Ein Monument in Kasanlak, das der Einführung der europäischen Währung gewidmet ist.",
                   "category": "historical",
                   "coords": [
@@ -1451,7 +1451,7 @@ export const bulgariaCulture: POI[] = [
       ],
       "hu": [
             {
-                  "name": "Музей на розата",
+                  "name": "Muzei na rozata",
                   "text": "Kazanlakban található múzeum, amely a bolgár rózsaolaj-termelés történetét mutatja be.",
                   "category": "museum",
                   "coords": [
@@ -1460,7 +1460,7 @@ export const bulgariaCulture: POI[] = [
                   ]
             },
             {
-                  "name": "Тракийска гробница",
+                  "name": "Trakiiska grobnitsa",
                   "text": "Híres, Kr. e. 4. századi trák sírbolt Kazanlakban, amely az UNESCO Világörökség része.",
                   "category": "historical",
                   "coords": [
@@ -1469,7 +1469,7 @@ export const bulgariaCulture: POI[] = [
                   ]
             },
             {
-                  "name": "Исторически Музей Искра Казанлък",
+                  "name": "Istoricheski Muzei Iskra Kazanl'k",
                   "text": "Kazanlaki történelmi múzeum, amely a Trák Királyok Völgyének régészeti leleteit őrzi.",
                   "category": "museum",
                   "coords": [
@@ -1478,7 +1478,7 @@ export const bulgariaCulture: POI[] = [
                   ]
             },
             {
-                  "name": "Литературно-художовествен мусей Чудомир",
+                  "name": "Literaturno-khudozhovestven musei Chudomir",
                   "text": "Dimitar Csorbadzsijszki (Csudomir) bolgár író és festőművész emlékét őrző múzeum.",
                   "category": "museum",
                   "coords": [
@@ -1487,7 +1487,7 @@ export const bulgariaCulture: POI[] = [
                   ]
             },
             {
-                  "name": "Тюлбето",
+                  "name": "Tiulbeto",
                   "text": "Kazanlak városi parkja, amelynek területén a híres trák sírbolt is található.",
                   "category": "park",
                   "coords": [
@@ -1496,7 +1496,7 @@ export const bulgariaCulture: POI[] = [
                   ]
             },
             {
-                  "name": "Евро монумент",
+                  "name": "Evro monument",
                   "text": "Kazanlakban található emlékmű, amelyet az európai valuta tiszteletére emeltek.",
                   "category": "historical",
                   "coords": [
@@ -1507,7 +1507,7 @@ export const bulgariaCulture: POI[] = [
       ],
       "ro": [
             {
-                  "name": "Музей на розата",
+                  "name": "Muzei na rozata",
                   "text": "Un muzeu din Kazanlak dedicat istoriei și producției faimosului ulei de trandafir bulgăresc.",
                   "category": "museum",
                   "coords": [
@@ -1516,7 +1516,7 @@ export const bulgariaCulture: POI[] = [
                   ]
             },
             {
-                  "name": "Тракийска гробница",
+                  "name": "Trakiiska grobnitsa",
                   "text": "Un celebru mormânt tracic din secolul al IV-lea î.Hr., inclus în patrimoniul mondial UNESCO.",
                   "category": "historical",
                   "coords": [
@@ -1525,7 +1525,7 @@ export const bulgariaCulture: POI[] = [
                   ]
             },
             {
-                  "name": "Исторически Музей Искра Казанлък",
+                  "name": "Istoricheski Muzei Iskra Kazanl'k",
                   "text": "Un muzeu de istorie din Kazanlak ce deține descoperiri arheologice din Valea Regilor Traci.",
                   "category": "museum",
                   "coords": [
@@ -1534,7 +1534,7 @@ export const bulgariaCulture: POI[] = [
                   ]
             },
             {
-                  "name": "Литературно-художовествен мусей Чудомир",
+                  "name": "Literaturno-khudozhovestven musei Chudomir",
                   "text": "Muzeu dedicat scriitorului și pictorului bulgar Dimitar Ciorbadjiiski, cunoscut sub numele de Ciudomir.",
                   "category": "museum",
                   "coords": [
@@ -1543,7 +1543,7 @@ export const bulgariaCulture: POI[] = [
                   ]
             },
             {
-                  "name": "Тюлбето",
+                  "name": "Tiulbeto",
                   "text": "Un parc urban din Kazanlak pe cuprinsul căruia se află celebrul mormânt tracic.",
                   "category": "park",
                   "coords": [
@@ -1552,7 +1552,7 @@ export const bulgariaCulture: POI[] = [
                   ]
             },
             {
-                  "name": "Евро монумент",
+                  "name": "Evro monument",
                   "text": "Un monument din Kazanlak ridicat în onoarea monedei europene.",
                   "category": "historical",
                   "coords": [
@@ -1741,7 +1741,7 @@ export const bulgariaNature: POI[] = [
       ],
       "hu": [
             {
-                  "name": "Централен рилски резерват",
+                  "name": "Tsentralen rilski rezervat",
                   "text": "Központi természetvédelmi terület a Rila-hegységben, amely az alpesi élővilágot védi.",
                   "category": "natural",
                   "coords": [
@@ -1750,7 +1750,7 @@ export const bulgariaNature: POI[] = [
                   ]
             },
             {
-                  "name": "Мусала",
+                  "name": "Musala",
                   "text": "2925 méteres magasságával a Rila-hegység és a Balkán-félsziget legmagasabb csúcsa.",
                   "category": "landmark",
                   "coords": [
@@ -1761,7 +1761,7 @@ export const bulgariaNature: POI[] = [
       ],
       "ro": [
             {
-                  "name": "Централен рилски резерват",
+                  "name": "Tsentralen rilski rezervat",
                   "text": "O rezervație naturală centrală în Munții Rila, care protejează biodiversitatea alpină.",
                   "category": "natural",
                   "coords": [
@@ -1770,7 +1770,7 @@ export const bulgariaNature: POI[] = [
                   ]
             },
             {
-                  "name": "Мусала",
+                  "name": "Musala",
                   "text": "Cu o înălțime de 2925 de metri, este cel mai înalt vârf din Munții Rila și din Peninsula Balcanică.",
                   "category": "landmark",
                   "coords": [
@@ -1851,7 +1851,7 @@ export const bulgariaNature: POI[] = [
     id: "nat-vitosha", "sights": {
       "de": [
             {
-                  "name": "Резерват Бистришко бранище",
+                  "name": "Rezervat Bistrishko branishche",
                   "text": "Ein Naturschutzgebiet im Witoscha-Gebirge.",
                   "category": "natural",
                   "coords": [
@@ -1860,7 +1860,7 @@ export const bulgariaNature: POI[] = [
                   ]
             },
             {
-                  "name": "Торфено бранище",
+                  "name": "Torfeno branishche",
                   "text": "Ein Naturschutzgebiet im Witoscha-Gebirge, das für seine Torfmoore bekannt ist.",
                   "category": "natural",
                   "coords": [
@@ -1869,7 +1869,7 @@ export const bulgariaNature: POI[] = [
                   ]
             },
             {
-                  "name": "Голям Купен",
+                  "name": "Goliam Kupen",
                   "text": "Ein Berggipfel im Witoscha-Gebirge.",
                   "category": "landmark",
                   "coords": [
@@ -1887,7 +1887,7 @@ export const bulgariaNature: POI[] = [
                   ]
             },
             {
-                  "name": "Голям Резен;TT16A",
+                  "name": "TT16A",
                   "text": "Ein Berggipfel im Witoscha-Gebirge.",
                   "category": "landmark",
                   "coords": [
@@ -1907,7 +1907,7 @@ export const bulgariaNature: POI[] = [
       ],
       "hu": [
             {
-                  "name": "Резерват Бистришко бранище",
+                  "name": "Rezervat Bistrishko branishche",
                   "text": "Természetvédelmi terület a Vitosa-hegységben.",
                   "category": "natural",
                   "coords": [
@@ -1916,7 +1916,7 @@ export const bulgariaNature: POI[] = [
                   ]
             },
             {
-                  "name": "Торфено бранище",
+                  "name": "Torfeno branishche",
                   "text": "Tőzeglápos természetvédelmi terület a Vitosa-hegységben.",
                   "category": "natural",
                   "coords": [
@@ -1925,7 +1925,7 @@ export const bulgariaNature: POI[] = [
                   ]
             },
             {
-                  "name": "Голям Купен",
+                  "name": "Goliam Kupen",
                   "text": "Egy hegycsúcs a Vitosa-hegységben.",
                   "category": "landmark",
                   "coords": [
@@ -1934,7 +1934,7 @@ export const bulgariaNature: POI[] = [
                   ]
             },
             {
-                  "name": "Малък Резен",
+                  "name": "Mal'k Rezen",
                   "text": "Egy hegycsúcs a Vitosa-hegységben.",
                   "category": "landmark",
                   "coords": [
@@ -1943,7 +1943,7 @@ export const bulgariaNature: POI[] = [
                   ]
             },
             {
-                  "name": "Голям Резен;TT16A",
+                  "name": "TT16A",
                   "text": "Egy hegycsúcs a Vitosa-hegységben.",
                   "category": "landmark",
                   "coords": [
@@ -1952,7 +1952,7 @@ export const bulgariaNature: POI[] = [
                   ]
             },
             {
-                  "name": "Черни връх",
+                  "name": "Cherni vr'kh",
                   "text": "A Vitosa-hegység legmagasabb csúcsa.",
                   "category": "landmark",
                   "coords": [
@@ -1963,7 +1963,7 @@ export const bulgariaNature: POI[] = [
       ],
       "ro": [
             {
-                  "name": "Резерват Бистришко бранище",
+                  "name": "Rezervat Bistrishko branishche",
                   "text": "O rezervație naturală în munții Vitoșa.",
                   "category": "natural",
                   "coords": [
@@ -1972,7 +1972,7 @@ export const bulgariaNature: POI[] = [
                   ]
             },
             {
-                  "name": "Торфено бранище",
+                  "name": "Torfeno branishche",
                   "text": "O rezervație naturală de turbărie în munții Vitoșa.",
                   "category": "natural",
                   "coords": [
@@ -1981,7 +1981,7 @@ export const bulgariaNature: POI[] = [
                   ]
             },
             {
-                  "name": "Голям Купен",
+                  "name": "Goliam Kupen",
                   "text": "Un vârf muntos în munții Vitoșa.",
                   "category": "landmark",
                   "coords": [
@@ -1990,7 +1990,7 @@ export const bulgariaNature: POI[] = [
                   ]
             },
             {
-                  "name": "Малък Резен",
+                  "name": "Mal'k Rezen",
                   "text": "Un vârf muntos în munții Vitoșa.",
                   "category": "landmark",
                   "coords": [
@@ -1999,7 +1999,7 @@ export const bulgariaNature: POI[] = [
                   ]
             },
             {
-                  "name": "Голям Резен;TT16A",
+                  "name": "TT16A",
                   "text": "Un vârf muntos în munții Vitoșa.",
                   "category": "landmark",
                   "coords": [
@@ -2008,7 +2008,7 @@ export const bulgariaNature: POI[] = [
                   ]
             },
             {
-                  "name": "Черни връх",
+                  "name": "Cherni vr'kh",
                   "text": "Cel mai înalt vârf din munții Vitoșa.",
                   "category": "landmark",
                   "coords": [
@@ -2243,7 +2243,7 @@ export const bulgariaNature: POI[] = [
       ],
       "hu": [
             {
-                  "name": "Централен рилски резерват",
+                  "name": "Tsentralen rilski rezervat",
                   "text": "Bulgária legnagyobb természetvédelmi területe, amely a Rila-hegység magashegyi tájait őrzi.",
                   "category": "natural",
                   "coords": [
@@ -2252,7 +2252,7 @@ export const bulgariaNature: POI[] = [
                   ]
             },
             {
-                  "name": "Мусала",
+                  "name": "Musala",
                   "text": "A Rila-hegység és az egész Balkán-félsziget legmagasabb csúcsa.",
                   "category": "landmark",
                   "coords": [
@@ -2263,7 +2263,7 @@ export const bulgariaNature: POI[] = [
       ],
       "ro": [
             {
-                  "name": "Централен рилски резерват",
+                  "name": "Tsentralen rilski rezervat",
                   "text": "Cea mai mare rezervație naturală din Bulgaria, care conservă peisajele montane din Munții Rila.",
                   "category": "natural",
                   "coords": [
@@ -2272,7 +2272,7 @@ export const bulgariaNature: POI[] = [
                   ]
             },
             {
-                  "name": "Мусала",
+                  "name": "Musala",
                   "text": "Cel mai înalt vârf din Munții Rila și din întreaga Peninsulă Balcanică.",
                   "category": "landmark",
                   "coords": [
@@ -2362,7 +2362,7 @@ export const bulgariaNature: POI[] = [
                   ]
             },
             {
-                  "name": "Кутело 2",
+                  "name": "Kutelo 2",
                   "text": "Ein felsiger Gipfel im Pirin-Gebirge, benachbart zum Berg Vihren.",
                   "category": "landmark",
                   "coords": [
@@ -2371,7 +2371,7 @@ export const bulgariaNature: POI[] = [
                   ]
             },
             {
-                  "name": "Кутело",
+                  "name": "Kutelo",
                   "text": "Der zweithöchste Gipfel des Pirin-Gebirges, bekannt für seinen schmalen Grat.",
                   "category": "landmark",
                   "coords": [
@@ -2380,7 +2380,7 @@ export const bulgariaNature: POI[] = [
                   ]
             },
             {
-                  "name": "Бански суходол",
+                  "name": "Banski sukhodol",
                   "text": "Ein markanter Alpengipfel im bulgarischen Pirin-Nationalpark.",
                   "category": "landmark",
                   "coords": [
@@ -2389,7 +2389,7 @@ export const bulgariaNature: POI[] = [
                   ]
             },
             {
-                  "name": "Байкушевата мура;Байкушева мура",
+                  "name": "Baikushevata mura;Baikusheva mura",
                   "text": "Eine über 1300 Jahre alte Panzerkiefer, der älteste Nadelbaum Bulgariens.",
                   "category": "landmark",
                   "coords": [
@@ -2409,7 +2409,7 @@ export const bulgariaNature: POI[] = [
                   ]
             },
             {
-                  "name": "Кутело 2",
+                  "name": "Kutelo 2",
                   "text": "Sziklás hegycsúcs a Pirin-hegységben, a Vihren-csúcs szomszédságában.",
                   "category": "landmark",
                   "coords": [
@@ -2418,7 +2418,7 @@ export const bulgariaNature: POI[] = [
                   ]
             },
             {
-                  "name": "Кутело",
+                  "name": "Kutelo",
                   "text": "A Pirin-hegység második legmagasabb csúcsa, amely keskeny gerincéről ismert.",
                   "category": "landmark",
                   "coords": [
@@ -2427,7 +2427,7 @@ export const bulgariaNature: POI[] = [
                   ]
             },
             {
-                  "name": "Бански суходол",
+                  "name": "Banski sukhodol",
                   "text": "Jellegzetes alpesi csúcs a bulgáriai Pirin Nemzeti Parkban.",
                   "category": "landmark",
                   "coords": [
@@ -2436,7 +2436,7 @@ export const bulgariaNature: POI[] = [
                   ]
             },
             {
-                  "name": "Байкушевата мура;Байкушева мура",
+                  "name": "Baikushevata mura;Baikusheva mura",
                   "text": "Több mint 1300 éves páncélfenyő, Bulgária legidősebb fenyőféléje.",
                   "category": "landmark",
                   "coords": [
@@ -2447,7 +2447,7 @@ export const bulgariaNature: POI[] = [
       ],
       "ro": [
             {
-                  "name": "Вихрен",
+                  "name": "Vikhren",
                   "text": "Cel mai înalt vârf din Munții Pirin din Bulgaria, oferind priveliști superbe.",
                   "category": "natural",
                   "coords": [
@@ -2456,7 +2456,7 @@ export const bulgariaNature: POI[] = [
                   ]
             },
             {
-                  "name": "Кутело 2",
+                  "name": "Kutelo 2",
                   "text": "Un vârf stâncos din Munții Pirin, situat în vecinătatea muntelui Vihren.",
                   "category": "landmark",
                   "coords": [
@@ -2465,7 +2465,7 @@ export const bulgariaNature: POI[] = [
                   ]
             },
             {
-                  "name": "Кутело",
+                  "name": "Kutelo",
                   "text": "Al doilea cel mai înalt vârf din Munții Pirin, cunoscut pentru creasta sa îngustă.",
                   "category": "landmark",
                   "coords": [
@@ -2474,7 +2474,7 @@ export const bulgariaNature: POI[] = [
                   ]
             },
             {
-                  "name": "Бански суходол",
+                  "name": "Banski sukhodol",
                   "text": "Un vârf alpin proeminent din Parcul Național Pirin din Bulgaria.",
                   "category": "landmark",
                   "coords": [
@@ -2483,7 +2483,7 @@ export const bulgariaNature: POI[] = [
                   ]
             },
             {
-                  "name": "Байкушевата мура;Байкушева мура",
+                  "name": "Baikushevata mura;Baikusheva mura",
                   "text": "Un pin de peste 1300 de ani, cel mai bătrân conifer din Bulgaria.",
                   "category": "landmark",
                   "coords": [
@@ -2602,7 +2602,7 @@ export const bulgariaNature: POI[] = [
       ],
       "hu": [
             {
-                  "name": "Ботев",
+                  "name": "Botev",
                   "text": "A bulgáriai Balkán-hegység legmagasabb csúcsa.",
                   "category": "landmark",
                   "coords": [
@@ -2613,7 +2613,7 @@ export const bulgariaNature: POI[] = [
       ],
       "ro": [
             {
-                  "name": "Ботев",
+                  "name": "Botev",
                   "text": "Cel mai înalt vârf din Munții Balcani, situat în Bulgaria.",
                   "category": "landmark",
                   "coords": [
@@ -2685,7 +2685,7 @@ export const bulgariaNature: POI[] = [
     id: "nat-rhodopes", "sights": {
       "de": [
             {
-                  "name": "Чудните мостове",
+                  "name": "Chudnite mostove",
                   "text": "Beeindruckende natürliche Felsbögen im Rhodopen-Gebirge.",
                   "category": "landmark",
                   "coords": [
@@ -2696,7 +2696,7 @@ export const bulgariaNature: POI[] = [
       ],
       "hu": [
             {
-                  "name": "Чудните мостове",
+                  "name": "Chudnite mostove",
                   "text": "Lenyűgöző természetes sziklahidak a Rodope-hegységben.",
                   "category": "landmark",
                   "coords": [
@@ -2707,7 +2707,7 @@ export const bulgariaNature: POI[] = [
       ],
       "ro": [
             {
-                  "name": "Чудните мостове",
+                  "name": "Chudnite mostove",
                   "text": "Arcuri naturale de stâncă impresionante în munții Rodopi.",
                   "category": "landmark",
                   "coords": [
@@ -2779,7 +2779,7 @@ export const bulgariaNature: POI[] = [
     id: "nat-srebarna-lake", "sights": {
       "de": [
             {
-                  "name": "Природен резерват Сребърна",
+                  "name": "Priroden rezervat Sreb'rna",
                   "text": "Ein UNESCO-Weltnaturerbe und Vogelschutzgebiet am Srebarna-See.",
                   "category": "natural",
                   "coords": [
@@ -2790,7 +2790,7 @@ export const bulgariaNature: POI[] = [
       ],
       "hu": [
             {
-                  "name": "Природен резерват Сребърна",
+                  "name": "Priroden rezervat Sreb'rna",
                   "text": "UNESCO világörökségi helyszín és madárrezervátum a Srebarna-tónál.",
                   "category": "natural",
                   "coords": [
@@ -2801,7 +2801,7 @@ export const bulgariaNature: POI[] = [
       ],
       "ro": [
             {
-                  "name": "Природен резерват Сребърна",
+                  "name": "Priroden rezervat Sreb'rna",
                   "text": "Rezervație naturală inclusă în patrimoniul UNESCO, celebră pentru colonii de păsări.",
                   "category": "natural",
                   "coords": [

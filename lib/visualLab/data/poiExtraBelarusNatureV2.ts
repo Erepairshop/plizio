@@ -402,7 +402,7 @@ export const belarusNatureV2: POI[] = [
     id: "belarus-pripyat-river-nature-v2", "sights": {
       "de": [
             {
-                  "name": "Музей прыроды",
+                  "name": "Muzei pryrody",
                   "text": "Dieses Museum am Fluss Pripjat widmet sich der lokalen Flora und Fauna der Region.",
                   "category": "museum",
                   "coords": [
@@ -413,7 +413,7 @@ export const belarusNatureV2: POI[] = [
       ],
       "hu": [
             {
-                  "name": "Музей прыроды",
+                  "name": "Muzei pryrody",
                   "text": "Ez a Pripjaty-folyó menti múzeum a régió helyi növény- és állatvilágát mutatja be.",
                   "category": "museum",
                   "coords": [
@@ -424,7 +424,7 @@ export const belarusNatureV2: POI[] = [
       ],
       "ro": [
             {
-                  "name": "Музей прыроды",
+                  "name": "Muzei pryrody",
                   "text": "Acest muzeu de pe râul Pripeat este dedicat florei și faunei locale din regiune.",
                   "category": "museum",
                   "coords": [
@@ -548,7 +548,7 @@ export const belarusNatureV2: POI[] = [
       ],
       "hu": [
             {
-                  "name": "Дзяржынская",
+                  "name": "Dziarzhynskaia",
                   "text": "345 méteres magasságával ez Fehéroroszország legmagasabb földrajzi pontja.",
                   "category": "landmark",
                   "coords": [
@@ -559,7 +559,7 @@ export const belarusNatureV2: POI[] = [
       ],
       "ro": [
             {
-                  "name": "Дзяржынская",
+                  "name": "Dziarzhynskaia",
                   "text": "Cu o înălțime de 345 de metri, acesta este cel mai înalt punct geografic din Belarus.",
                   "category": "landmark",
                   "coords": [
@@ -1415,7 +1415,7 @@ imageHint: "Small river winding through ancient broadleaf forest",
       ],
       "hu": [
             {
-                  "name": "Ландшафтны заказнік «Сарачанскія азёры»",
+                  "name": "Landshaftny zakaznik <<Sarachanskiia aziory>>",
                   "text": "Tájvédelmi körzet, amely a Szorocsanszkij-tavakat foglalja magában.",
                   "category": "natural",
                   "coords": [
@@ -1426,7 +1426,7 @@ imageHint: "Small river winding through ancient broadleaf forest",
       ],
       "ro": [
             {
-                  "name": "Ландшафтны заказнік «Сарачанскія азёры»",
+                  "name": "Landshaftny zakaznik <<Sarachanskiia aziory>>",
                   "text": "O rezervație peisagistică ce cuprinde lacurile Sorochanskiye.",
                   "category": "natural",
                   "coords": [
@@ -1590,7 +1590,7 @@ imageHint: "Small river winding through ancient broadleaf forest",
     id: "belarus-svitiaz-lake-nature-v2", "sights": {
       "de": [
             {
-                  "name": "Навагрудскі пляж",
+                  "name": "Navagrudski pliazh",
                   "text": "Öffentlicher Badestrand am Switjas-See zur Erholung.",
                   "category": "recreational",
                   "coords": [
@@ -1599,7 +1599,7 @@ imageHint: "Small river winding through ancient broadleaf forest",
                   ]
             },
             {
-                  "name": "Карэліцкі пляж",
+                  "name": "Karelitski pliazh",
                   "text": "Strand am Seeufer, geeignet für sommerliche Freizeitaktivitäten.",
                   "category": "recreational",
                   "coords": [
@@ -1608,7 +1608,7 @@ imageHint: "Small river winding through ancient broadleaf forest",
                   ]
             },
             {
-                  "name": "Ландшафтны заказнік «Свіцязянскі»",
+                  "name": "Landshaftny zakaznik <<Svitsiazianski>>",
                   "text": "Naturschutzgebiet zur Erhaltung des Ökosystems rund um den See.",
                   "category": "natural",
                   "coords": [
@@ -1619,7 +1619,7 @@ imageHint: "Small river winding through ancient broadleaf forest",
       ],
       "hu": [
             {
-                  "name": "Навагрудскі пляж",
+                  "name": "Navagrudski pliazh",
                   "text": "Nyilvános strand a Szvityáz-tónál kikapcsolódáshoz és fürdéshez.",
                   "category": "recreational",
                   "coords": [
@@ -1628,7 +1628,7 @@ imageHint: "Small river winding through ancient broadleaf forest",
                   ]
             },
             {
-                  "name": "Карэліцкі пляж",
+                  "name": "Karelitski pliazh",
                   "text": "Tóparti strand, amely alkalmas nyári szabadidős tevékenységekre.",
                   "category": "recreational",
                   "coords": [
@@ -1637,7 +1637,7 @@ imageHint: "Small river winding through ancient broadleaf forest",
                   ]
             },
             {
-                  "name": "Ландшафтны заказнік «Свіцязянскі»",
+                  "name": "Landshaftny zakaznik <<Svitsiazianski>>",
                   "text": "Természetvédelmi terület a tó körüli ökoszisztéma megőrzésére.",
                   "category": "natural",
                   "coords": [
@@ -1648,7 +1648,7 @@ imageHint: "Small river winding through ancient broadleaf forest",
       ],
       "ro": [
             {
-                  "name": "Навагрудскі пляж",
+                  "name": "Navagrudski pliazh",
                   "text": "Zonă de plajă publică pentru înot și relaxare pe lacul Svitiaz.",
                   "category": "recreational",
                   "coords": [
@@ -1657,7 +1657,7 @@ imageHint: "Small river winding through ancient broadleaf forest",
                   ]
             },
             {
-                  "name": "Карэліцкі пляж",
+                  "name": "Karelitski pliazh",
                   "text": "Plajă pe malul lacului, potrivită pentru activități recreative de vară.",
                   "category": "recreational",
                   "coords": [
@@ -1666,7 +1666,7 @@ imageHint: "Small river winding through ancient broadleaf forest",
                   ]
             },
             {
-                  "name": "Ландшафтны заказнік «Свіцязянскі»",
+                  "name": "Landshaftny zakaznik <<Svitsiazianski>>",
                   "text": "Rezervație naturală protejată care conservă ecosistemul din jurul lacului.",
                   "category": "natural",
                   "coords": [

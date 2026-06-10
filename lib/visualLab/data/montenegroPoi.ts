@@ -148,7 +148,7 @@ export const montenegroAllPoi: POI[] = [
                   ]
             },
             {
-                  "name": "Краљичина плажа",
+                  "name": "Kraljichina plazha",
                   "text": "Ein renommierter Strand in einer kleinen Bucht in der Nähe von Sveti Stefan.",
                   "category": "recreational",
                   "coords": [
@@ -222,7 +222,7 @@ export const montenegroAllPoi: POI[] = [
                   ]
             },
             {
-                  "name": "Краљичина плажа",
+                  "name": "Kraljichina plazha",
                   "text": "Előkelő strand egy kis öbölben, Sveti Stefan közelében.",
                   "category": "recreational",
                   "coords": [

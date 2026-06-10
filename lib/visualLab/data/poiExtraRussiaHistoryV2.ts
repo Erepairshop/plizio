@@ -189,7 +189,7 @@ imageHint: "The Motherland Calls statue Mamayev Kurgan Volgograd",
                   ]
             },
             {
-                  "name": "Дворец «Коттедж»",
+                  "name": "Dvorets «Коттедж»",
                   "text": "Ein neugotisches Palais im Alexandria-Park von Peterhof.",
                   "category": "museum",
                   "coords": [
@@ -198,7 +198,7 @@ imageHint: "The Motherland Calls statue Mamayev Kurgan Volgograd",
                   ]
             },
             {
-                  "name": "Фермерский дворец",
+                  "name": "Fermerskii dvorets",
                   "text": "Ein ehemaliges Wirtschaftsgebäude und späterer kaiserlicher Wohnsitz in Peterhof.",
                   "category": "museum",
                   "coords": [
@@ -207,7 +207,7 @@ imageHint: "The Motherland Calls statue Mamayev Kurgan Volgograd",
                   ]
             },
             {
-                  "name": "Готическая капелла",
+                  "name": "Goticheskaia kapella",
                   "text": "Die Privatkapelle der russischen kaiserlichen Familie im Peterhofer Alexandria-Park.",
                   "category": "museum",
                   "coords": [
@@ -218,7 +218,7 @@ imageHint: "The Motherland Calls statue Mamayev Kurgan Volgograd",
       ],
       "hu": [
             {
-                  "name": "Большой дворец",
+                  "name": "Bol'shoi dvorets",
                   "text": "A peterhofi palotaegyüttes központi és legnagyobb palotája.",
                   "category": "castle",
                   "coords": [
@@ -227,7 +227,7 @@ imageHint: "The Motherland Calls statue Mamayev Kurgan Volgograd",
                   ]
             },
             {
-                  "name": "Дворец «Монплезир»",
+                  "name": "Dvorets «Монплезир»",
                   "text": "Nagy Péter kedvenc nyári palotája a peterhofi parkban.",
                   "category": "castle",
                   "coords": [
@@ -236,7 +236,7 @@ imageHint: "The Motherland Calls statue Mamayev Kurgan Volgograd",
                   ]
             },
             {
-                  "name": "Вольер",
+                  "name": "Vol'er",
                   "text": "Történelmi madárházak a peterhofi parkban, amelyek egykor egzotikus madaraknak adtak otthont.",
                   "category": "museum",
                   "coords": [
@@ -245,7 +245,7 @@ imageHint: "The Motherland Calls statue Mamayev Kurgan Volgograd",
                   ]
             },
             {
-                  "name": "Дворец «Марли»",
+                  "name": "Dvorets <<Marli>>",
                   "text": "Elegáns barokk palota a peterhofi park nyugati részén.",
                   "category": "castle",
                   "coords": [
@@ -254,7 +254,7 @@ imageHint: "The Motherland Calls statue Mamayev Kurgan Volgograd",
                   ]
             },
             {
-                  "name": "Павильон «Эрмитаж»",
+                  "name": "Pavil'on <<Ermitazh>>",
                   "text": "Pavilon a peterhofi parkban, amelyet privát császári vacsorákhoz használtak.",
                   "category": "museum",
                   "coords": [
@@ -263,7 +263,7 @@ imageHint: "The Motherland Calls statue Mamayev Kurgan Volgograd",
                   ]
             },
             {
-                  "name": "Дворец «Коттедж»",
+                  "name": "Dvorets «Коттедж»",
                   "text": "Neogótikus stílusú palota a peterhofi Alexandria parkban.",
                   "category": "museum",
                   "coords": [
@@ -272,7 +272,7 @@ imageHint: "The Motherland Calls statue Mamayev Kurgan Volgograd",
                   ]
             },
             {
-                  "name": "Фермерский дворец",
+                  "name": "Fermerskii dvorets",
                   "text": "Egykori gazdasági épület, majd császári lakóhely Peterhofban.",
                   "category": "museum",
                   "coords": [
@@ -281,7 +281,7 @@ imageHint: "The Motherland Calls statue Mamayev Kurgan Volgograd",
                   ]
             },
             {
-                  "name": "Готическая капелла",
+                  "name": "Goticheskaia kapella",
                   "text": "Az orosz cári család magánkápolnája a peterhofi Alexandria parkban.",
                   "category": "museum",
                   "coords": [
@@ -292,7 +292,7 @@ imageHint: "The Motherland Calls statue Mamayev Kurgan Volgograd",
       ],
       "ro": [
             {
-                  "name": "Большой дворец",
+                  "name": "Bol'shoi dvorets",
                   "text": "Palatul central și cel mai mare din ansamblul Peterhof.",
                   "category": "castle",
                   "coords": [
@@ -301,7 +301,7 @@ imageHint: "The Motherland Calls statue Mamayev Kurgan Volgograd",
                   ]
             },
             {
-                  "name": "Дворец «Монплезир»",
+                  "name": "Dvorets «Монплезир»",
                   "text": "Palatul de vară preferat al lui Petru cel Mare din parcul Peterhof.",
                   "category": "castle",
                   "coords": [
@@ -310,7 +310,7 @@ imageHint: "The Motherland Calls statue Mamayev Kurgan Volgograd",
                   ]
             },
             {
-                  "name": "Вольер",
+                  "name": "Vol'er",
                   "text": "Voliere istorice în parcul Peterhof, care adăposteau odinioară păsări exotice.",
                   "category": "museum",
                   "coords": [
@@ -319,7 +319,7 @@ imageHint: "The Motherland Calls statue Mamayev Kurgan Volgograd",
                   ]
             },
             {
-                  "name": "Дворец «Марли»",
+                  "name": "Dvorets <<Marli>>",
                   "text": "Un palat baroc elegant în partea de vest a parcului Peterhof.",
                   "category": "castle",
                   "coords": [
@@ -328,7 +328,7 @@ imageHint: "The Motherland Calls statue Mamayev Kurgan Volgograd",
                   ]
             },
             {
-                  "name": "Павильон «Эрмитаж»",
+                  "name": "Pavil'on <<Ermitazh>>",
                   "text": "Un pavilion în parcul Peterhof utilizat pentru cine imperiale private.",
                   "category": "museum",
                   "coords": [
@@ -337,7 +337,7 @@ imageHint: "The Motherland Calls statue Mamayev Kurgan Volgograd",
                   ]
             },
             {
-                  "name": "Дворец «Коттедж»",
+                  "name": "Dvorets «Коттедж»",
                   "text": "Un palat în stil neogotic situat în parcul Alexandria din Peterhof.",
                   "category": "museum",
                   "coords": [
@@ -346,7 +346,7 @@ imageHint: "The Motherland Calls statue Mamayev Kurgan Volgograd",
                   ]
             },
             {
-                  "name": "Фермерский дворец",
+                  "name": "Fermerskii dvorets",
                   "text": "O fostă clădire agricolă și ulterior reședință imperială în Peterhof.",
                   "category": "museum",
                   "coords": [
@@ -355,7 +355,7 @@ imageHint: "The Motherland Calls statue Mamayev Kurgan Volgograd",
                   ]
             },
             {
-                  "name": "Готическая капелла",
+                  "name": "Goticheskaia kapella",
                   "text": "Capela privată a familiei imperiale ruse din parcul Alexandria din Peterhof.",
                   "category": "museum",
                   "coords": [
@@ -496,7 +496,7 @@ imageHint: "Grand Palace and Cascade fountains Peterhof St Petersburg",
                   ]
             },
             {
-                  "name": "Морской музей",
+                  "name": "Morskoi muzei",
                   "text": "Ein Museum, das der Seefahrtsgeschichte der Solowezki-Inseln gewidmet ist.",
                   "category": "museum",
                   "coords": [
@@ -505,7 +505,7 @@ imageHint: "Grand Palace and Cascade fountains Peterhof St Petersburg",
                   ]
             },
             {
-                  "name": "Преображенская гостиница (разрушенная)",
+                  "name": "Preobrazhenskaia gostinitsa (razrushennaia)",
                   "text": "Ruinen eines historischen Gästehauses in der Nähe des Solowezki-Klosters.",
                   "category": "historical",
                   "coords": [
@@ -514,7 +514,7 @@ imageHint: "Grand Palace and Cascade fountains Peterhof St Petersburg",
                   ]
             },
             {
-                  "name": "Монастырская электростанция",
+                  "name": "Monastyrskaia elektrostantsiia",
                   "text": "Die Überreste eines ehemaligen Kraftwerks, das das Solowezki-Kloster versorgte.",
                   "category": "historical",
                   "coords": [
@@ -525,7 +525,7 @@ imageHint: "Grand Palace and Cascade fountains Peterhof St Petersburg",
       ],
       "hu": [
             {
-                  "name": "Соловецкий Спасо-Преображенский монастырь",
+                  "name": "Solovetskii Spaso-Preobrazhenskii monastyr'",
                   "text": "Történelmi erődített kolostor a Fehér-tengernél, az UNESCO Világörökség része.",
                   "category": "castle",
                   "coords": [
@@ -534,7 +534,7 @@ imageHint: "Grand Palace and Cascade fountains Peterhof St Petersburg",
                   ]
             },
             {
-                  "name": "Морской музей",
+                  "name": "Morskoi muzei",
                   "text": "A Szoloveckij-szigetek tengerészeti történelmének szentelt múzeum.",
                   "category": "museum",
                   "coords": [
@@ -543,7 +543,7 @@ imageHint: "Grand Palace and Cascade fountains Peterhof St Petersburg",
                   ]
             },
             {
-                  "name": "Преображенская гостиница (разрушенная)",
+                  "name": "Preobrazhenskaia gostinitsa (razrushennaia)",
                   "text": "Egy történelmi vendégház romjai a Szoloveckij-kolostor közelében.",
                   "category": "historical",
                   "coords": [
@@ -552,7 +552,7 @@ imageHint: "Grand Palace and Cascade fountains Peterhof St Petersburg",
                   ]
             },
             {
-                  "name": "Монастырская электростанция",
+                  "name": "Monastyrskaia elektrostantsiia",
                   "text": "A Szoloveckij-kolostort kiszolgáló egykori erőmű maradványai.",
                   "category": "historical",
                   "coords": [
@@ -572,7 +572,7 @@ imageHint: "Grand Palace and Cascade fountains Peterhof St Petersburg",
                   ]
             },
             {
-                  "name": "Морской музей",
+                  "name": "Morskoi muzei",
                   "text": "Un muzeu dedicat istoriei maritime a Insulelor Solovetsky.",
                   "category": "museum",
                   "coords": [
@@ -581,7 +581,7 @@ imageHint: "Grand Palace and Cascade fountains Peterhof St Petersburg",
                   ]
             },
             {
-                  "name": "Преображенская гостиница (разрушенная)",
+                  "name": "Preobrazhenskaia gostinitsa (razrushennaia)",
                   "text": "Ruinele unei case de oaspeți istorice de lângă mănăstirea Solovetsky.",
                   "category": "historical",
                   "coords": [
@@ -590,7 +590,7 @@ imageHint: "Grand Palace and Cascade fountains Peterhof St Petersburg",
                   ]
             },
             {
-                  "name": "Монастырская электростанция",
+                  "name": "Monastyrskaia elektrostantsiia",
                   "text": "Rămășițele unei foste centrale electrice care deservea mănăstirea Solovetsky.",
                   "category": "historical",
                   "coords": [
@@ -870,7 +870,7 @@ imageHint: "Novgorod Kremlin red brick walls and towers",
     id: "russia-suzdal-kremlin-history-v2", "sights": {
       "de": [
             {
-                  "name": "Спасо-Евфимиев мужской монастырь",
+                  "name": "Spaso-Evfimiev muzhskoi monastyr'",
                   "text": "Das Erlöser-Euthymios-Kloster ist ein bedeutendes Susdaler Kloster, das 1352 gegründet wurde.",
                   "category": "religious",
                   "coords": [
@@ -879,7 +879,7 @@ imageHint: "Novgorod Kremlin red brick walls and towers",
                   ]
             },
             {
-                  "name": "Дом кино",
+                  "name": "Dom kino",
                   "text": "Das Kinohaus in Susdal ist ein Museum zur Geschichte des Films.",
                   "category": "museum",
                   "coords": [
@@ -888,7 +888,7 @@ imageHint: "Novgorod Kremlin red brick walls and towers",
                   ]
             },
             {
-                  "name": "Государственный заказник \"Ильинский луг\"",
+                  "name": "Gosudarstvennyi zakaznik \"Il'inskii lug\"",
                   "text": "Das Ilinskiy meadow zakaznik ist ein Naturschutzgebiet nahe dem Susdaler Kreml.",
                   "category": "natural",
                   "coords": [
@@ -897,7 +897,7 @@ imageHint: "Novgorod Kremlin red brick walls and towers",
                   ]
             },
             {
-                  "name": "Музей деревянного зодчества и крестьянского быта",
+                  "name": "Muzei dereviannogo zodchestva i krest'ianskogo byta",
                   "text": "Das Museum für Holzbaukunst in Susdal zeigt historische Gebäude aus der Region.",
                   "category": "museum",
                   "coords": [
@@ -908,7 +908,7 @@ imageHint: "Novgorod Kremlin red brick walls and towers",
       ],
       "hu": [
             {
-                  "name": "Спасо-Евфимиев мужской монастырь",
+                  "name": "Spaso-Evfimiev muzhskoi monastyr'",
                   "text": "A Megváltó-Euthümiosz-kolostor egy jelentős szuzdali kolostor, amelyet 1352-ben alapítottak.",
                   "category": "religious",
                   "coords": [
@@ -917,7 +917,7 @@ imageHint: "Novgorod Kremlin red brick walls and towers",
                   ]
             },
             {
-                  "name": "Дом кино",
+                  "name": "Dom kino",
                   "text": "A szuzdali Moziház a filmtörténetnek szentelt múzeum.",
                   "category": "museum",
                   "coords": [
@@ -926,7 +926,7 @@ imageHint: "Novgorod Kremlin red brick walls and towers",
                   ]
             },
             {
-                  "name": "Государственный заказник \"Ильинский луг\"",
+                  "name": "Gosudarstvennyi zakaznik \"Il'inskii lug\"",
                   "text": "Az Ilinszkij-rét természetvédelmi terület a szuzdali Kreml közelében.",
                   "category": "natural",
                   "coords": [
@@ -935,7 +935,7 @@ imageHint: "Novgorod Kremlin red brick walls and towers",
                   ]
             },
             {
-                  "name": "Музей деревянного зодчества и крестьянского быта",
+                  "name": "Muzei dereviannogo zodchestva i krest'ianskogo byta",
                   "text": "A szuzdali fűépítészeti múzeum a régió történelmi épületeit mutatja be.",
                   "category": "museum",
                   "coords": [
@@ -946,7 +946,7 @@ imageHint: "Novgorod Kremlin red brick walls and towers",
       ],
       "ro": [
             {
-                  "name": "Спасо-Евфимиев мужской монастырь",
+                  "name": "Spaso-Evfimiev muzhskoi monastyr'",
                   "text": "Mănăstirea Sfântul Eufimie este o mănăstire majoră din Suzdal, fondată în 1352.",
                   "category": "religious",
                   "coords": [
@@ -955,7 +955,7 @@ imageHint: "Novgorod Kremlin red brick walls and towers",
                   ]
             },
             {
-                  "name": "Дом кино",
+                  "name": "Dom kino",
                   "text": "Casa cinematografului din Suzdal este un muzeu dedicat istoriei filmului.",
                   "category": "museum",
                   "coords": [
@@ -964,7 +964,7 @@ imageHint: "Novgorod Kremlin red brick walls and towers",
                   ]
             },
             {
-                  "name": "Государственный заказник \"Ильинский луг\"",
+                  "name": "Gosudarstvennyi zakaznik \"Il'inskii lug\"",
                   "text": "Rezervația naturală Lunca Ilinski se află lângă Kremlinul Suzdal.",
                   "category": "natural",
                   "coords": [
@@ -973,7 +973,7 @@ imageHint: "Novgorod Kremlin red brick walls and towers",
                   ]
             },
             {
-                  "name": "Музей деревянного зодчества и крестьянского быта",
+                  "name": "Muzei dereviannogo zodchestva i krest'ianskogo byta",
                   "text": "Muzeul arhitecturii populare din lemn din Suzdal expune clădiri istorice din lemn din regiune.",
                   "category": "museum",
                   "coords": [
@@ -1170,7 +1170,7 @@ imageHint: "Ancient Bolghar ruins and the White Mosque",
                   ]
             },
             {
-                  "name": "Археологический музей-заповедник «Танаис»",
+                  "name": "Arkheologicheskii muzei-zapovednik <<Tanais>>",
                   "text": "Ein archäologisches Reservat, das die Überreste der antiken Stadt Tanais bewahrt.",
                   "category": "historical",
                   "coords": [
@@ -1188,7 +1188,7 @@ imageHint: "Ancient Bolghar ruins and the White Mosque",
                   ]
             },
             {
-                  "name": "Позднепалеолитическая стоянка Каменная Балка 2",
+                  "name": "Pozdnepaleoliticheskaia stoianka Kamennaia Balka 2",
                   "text": "Eine prähistorische archäologische Fundstätte aus dem Jungpaläolithikum in der Nähe von Tanais.",
                   "category": "historical",
                   "coords": [
@@ -1197,7 +1197,7 @@ imageHint: "Ancient Bolghar ruins and the White Mosque",
                   ]
             },
             {
-                  "name": "Позднепалеолитическая стоянка Каменная Балка1",
+                  "name": "Pozdnepaleoliticheskaia stoianka Kamennaia Balka1",
                   "text": "Diese Fundstätte ist ein archäologisch bedeutsamer Ort aus der Zeit des Jungpaläolithikums.",
                   "category": "historical",
                   "coords": [
@@ -1206,7 +1206,7 @@ imageHint: "Ancient Bolghar ruins and the White Mosque",
                   ]
             },
             {
-                  "name": "Музей истории Танаиса",
+                  "name": "Muzei istorii Tanaisa",
                   "text": "Ein Museum, das der Geschichte und den archäologischen Entdeckungen der Region Tanais gewidmet ist.",
                   "category": "museum",
                   "coords": [
@@ -1217,7 +1217,7 @@ imageHint: "Ancient Bolghar ruins and the White Mosque",
       ],
       "hu": [
             {
-                  "name": "Танаис",
+                  "name": "Tanais",
                   "text": "Tanaisz egykori görög gyarmat volt, ma pedig fontos régészeti lelőhely.",
                   "category": "historical",
                   "coords": [
@@ -1226,7 +1226,7 @@ imageHint: "Ancient Bolghar ruins and the White Mosque",
                   ]
             },
             {
-                  "name": "Археологический музей-заповедник «Танаис»",
+                  "name": "Arkheologicheskii muzei-zapovednik <<Tanais>>",
                   "text": "Régészeti rezervátum, amely az ókori Tanaisz városának maradványait őrzi.",
                   "category": "historical",
                   "coords": [
@@ -1235,7 +1235,7 @@ imageHint: "Ancient Bolghar ruins and the White Mosque",
                   ]
             },
             {
-                  "name": "Музей Танаис",
+                  "name": "Muzei Tanais",
                   "text": "Ez a múzeum a közeli Tanaisz régészeti lelőhelyről származó leleteket mutatja be.",
                   "category": "museum",
                   "coords": [
@@ -1244,7 +1244,7 @@ imageHint: "Ancient Bolghar ruins and the White Mosque",
                   ]
             },
             {
-                  "name": "Позднепалеолитическая стоянка Каменная Балка 2",
+                  "name": "Pozdnepaleoliticheskaia stoianka Kamennaia Balka 2",
                   "text": "Egy késő paleolitikumból származó őskori régészeti lelőhely Tanaisz közelében.",
                   "category": "historical",
                   "coords": [
@@ -1253,7 +1253,7 @@ imageHint: "Ancient Bolghar ruins and the White Mosque",
                   ]
             },
             {
-                  "name": "Позднепалеолитическая стоянка Каменная Балка1",
+                  "name": "Pozdnepaleoliticheskaia stoianka Kamennaia Balka1",
                   "text": "Ez a lelőhely egy régészetileg jelentős terület a késő paleolitikum idejéből.",
                   "category": "historical",
                   "coords": [
@@ -1262,7 +1262,7 @@ imageHint: "Ancient Bolghar ruins and the White Mosque",
                   ]
             },
             {
-                  "name": "Музей истории Танаиса",
+                  "name": "Muzei istorii Tanaisa",
                   "text": "A Tanaisz régió történelmének és régészeti felfedezéseinek szentelt múzeum.",
                   "category": "museum",
                   "coords": [
@@ -1273,7 +1273,7 @@ imageHint: "Ancient Bolghar ruins and the White Mosque",
       ],
       "ro": [
             {
-                  "name": "Танаис",
+                  "name": "Tanais",
                   "text": "Tanais a fost o colonie greacă antică și este astăzi un sit arheologic important.",
                   "category": "historical",
                   "coords": [
@@ -1282,7 +1282,7 @@ imageHint: "Ancient Bolghar ruins and the White Mosque",
                   ]
             },
             {
-                  "name": "Археологический музей-заповедник «Танаис»",
+                  "name": "Arkheologicheskii muzei-zapovednik <<Tanais>>",
                   "text": "O rezervație arheologică ce păstrează vestigiile orașului antic Tanais.",
                   "category": "historical",
                   "coords": [
@@ -1291,7 +1291,7 @@ imageHint: "Ancient Bolghar ruins and the White Mosque",
                   ]
             },
             {
-                  "name": "Музей Танаис",
+                  "name": "Muzei Tanais",
                   "text": "Acest muzeu expune descoperiri și artefacte de la situl arheologic Tanais din apropiere.",
                   "category": "museum",
                   "coords": [
@@ -1300,7 +1300,7 @@ imageHint: "Ancient Bolghar ruins and the White Mosque",
                   ]
             },
             {
-                  "name": "Позднепалеолитическая стоянка Каменная Балка 2",
+                  "name": "Pozdnepaleoliticheskaia stoianka Kamennaia Balka 2",
                   "text": "Un sit arheologic preistoric din paleoliticul târziu situat lângă Tanais.",
                   "category": "historical",
                   "coords": [
@@ -1309,7 +1309,7 @@ imageHint: "Ancient Bolghar ruins and the White Mosque",
                   ]
             },
             {
-                  "name": "Позднепалеолитическая стоянка Каменная Балка1",
+                  "name": "Pozdnepaleoliticheskaia stoianka Kamennaia Balka1",
                   "text": "Acest sit este un loc important din punct de vedere arheologic din perioada paleoliticului târziu.",
                   "category": "historical",
                   "coords": [
@@ -1318,7 +1318,7 @@ imageHint: "Ancient Bolghar ruins and the White Mosque",
                   ]
             },
             {
-                  "name": "Музей истории Танаиса",
+                  "name": "Muzei istorii Tanaisa",
                   "text": "Un muzeu dedicat istoriei și descoperirilor arheologice din regiunea Tanais.",
                   "category": "museum",
                   "coords": [
@@ -1441,7 +1441,7 @@ imageHint: "Archaeological excavations of Tanais ancient Greek city",
                   ]
             },
             {
-                  "name": "Кошкино Парк",
+                  "name": "Koshkino Park",
                   "text": "Ein Freizeit- und Seilpark in der Nähe der Festung Oreschek.",
                   "category": "recreational",
                   "coords": [
@@ -1450,7 +1450,7 @@ imageHint: "Archaeological excavations of Tanais ancient Greek city",
                   ]
             },
             {
-                  "name": "Новая тюрьма",
+                  "name": "Novaia tiur'ma",
                   "text": "Ein Teil des Museumskomplexes der Festung Oreschek, der die Gefängnisgeschichte zeigt.",
                   "category": "museum",
                   "coords": [
@@ -1459,7 +1459,7 @@ imageHint: "Archaeological excavations of Tanais ancient Greek city",
                   ]
             },
             {
-                  "name": "Государева башня",
+                  "name": "Gosudareva bashnia",
                   "text": "Ein markanter Turm der historischen Festung Oreschek.",
                   "category": "landmark",
                   "coords": [
@@ -1468,7 +1468,7 @@ imageHint: "Archaeological excavations of Tanais ancient Greek city",
                   ]
             },
             {
-                  "name": "Королевская башня",
+                  "name": "Korolevskaia bashnia",
                   "text": "Einer der Verteidigungstürme der Festungsanlage Oreschek.",
                   "category": "landmark",
                   "coords": [
@@ -1479,7 +1479,7 @@ imageHint: "Archaeological excavations of Tanais ancient Greek city",
       ],
       "hu": [
             {
-                  "name": "крепость Орешек",
+                  "name": "krepost' Oreshek",
                   "text": "Történelmi orosz szigeterőd a Neva folyó eredeténél, a Ladoga-tavon.",
                   "category": "castle",
                   "coords": [
@@ -1488,7 +1488,7 @@ imageHint: "Archaeological excavations of Tanais ancient Greek city",
                   ]
             },
             {
-                  "name": "Кошкино Парк",
+                  "name": "Koshkino Park",
                   "text": "Szabadidőpark és kötélpálya az Oreseki erőd közelében.",
                   "category": "recreational",
                   "coords": [
@@ -1497,7 +1497,7 @@ imageHint: "Archaeological excavations of Tanais ancient Greek city",
                   ]
             },
             {
-                  "name": "Новая тюрьма",
+                  "name": "Novaia tiur'ma",
                   "text": "Az Oreseki erőd múzeumi komplexumának része, amely a börtöntörténetet mutatja be.",
                   "category": "museum",
                   "coords": [
@@ -1506,7 +1506,7 @@ imageHint: "Archaeological excavations of Tanais ancient Greek city",
                   ]
             },
             {
-                  "name": "Государева башня",
+                  "name": "Gosudareva bashnia",
                   "text": "Az Oreseki erőd egyik jellegzetes bástyája.",
                   "category": "landmark",
                   "coords": [
@@ -1515,7 +1515,7 @@ imageHint: "Archaeological excavations of Tanais ancient Greek city",
                   ]
             },
             {
-                  "name": "Королевская башня",
+                  "name": "Korolevskaia bashnia",
                   "text": "Az Oreseki erődrendszer egyik védőbástyája.",
                   "category": "landmark",
                   "coords": [
@@ -1526,7 +1526,7 @@ imageHint: "Archaeological excavations of Tanais ancient Greek city",
       ],
       "ro": [
             {
-                  "name": "крепость Орешек",
+                  "name": "krepost' Oreshek",
                   "text": "O cetate istorică rusă situată pe o insulă la ieșirea râului Neva din lacul Ladoga.",
                   "category": "castle",
                   "coords": [
@@ -1535,7 +1535,7 @@ imageHint: "Archaeological excavations of Tanais ancient Greek city",
                   ]
             },
             {
-                  "name": "Кошкино Парк",
+                  "name": "Koshkino Park",
                   "text": "Un parc de agrement și aventură situat lângă cetatea Oreșek.",
                   "category": "recreational",
                   "coords": [
@@ -1544,7 +1544,7 @@ imageHint: "Archaeological excavations of Tanais ancient Greek city",
                   ]
             },
             {
-                  "name": "Новая тюрьма",
+                  "name": "Novaia tiur'ma",
                   "text": "O parte a complexului muzeal al cetății Oreșek, prezentând istoria închisorii.",
                   "category": "museum",
                   "coords": [
@@ -1553,7 +1553,7 @@ imageHint: "Archaeological excavations of Tanais ancient Greek city",
                   ]
             },
             {
-                  "name": "Государева башня",
+                  "name": "Gosudareva bashnia",
                   "text": "Un turn proeminent al cetății istorice Oreșek.",
                   "category": "landmark",
                   "coords": [
@@ -1562,7 +1562,7 @@ imageHint: "Archaeological excavations of Tanais ancient Greek city",
                   ]
             },
             {
-                  "name": "Королевская башня",
+                  "name": "Korolevskaia bashnia",
                   "text": "Unul dintre turnurile de apărare ale complexului fortificat Oreșek.",
                   "category": "landmark",
                   "coords": [
@@ -1667,7 +1667,7 @@ imageHint: "Oreshek Fortress on an island in Lake Ladoga",
     id: "russia-vyborg-castle-history-v2", "sights": {
       "de": [
             {
-                  "name": "Анненские укрепления",
+                  "name": "Annenskie ukrepleniia",
                   "text": "Historische Befestigungsanlagen aus dem 18. Jahrhundert zum Schutz von Wyborg.",
                   "category": "fortress",
                   "coords": [
@@ -1676,7 +1676,7 @@ imageHint: "Oreshek Fortress on an island in Lake Ladoga",
                   ]
             },
             {
-                  "name": "Башня Ратуши",
+                  "name": "Bashnia Ratushi",
                   "text": "Ein mittelalterlicher Wehrturm, der einst Teil der Stadtmauer von Wyborg war.",
                   "category": "museum",
                   "coords": [
@@ -1694,7 +1694,7 @@ imageHint: "Oreshek Fortress on an island in Lake Ladoga",
                   ]
             },
             {
-                  "name": "Нарцисс",
+                  "name": "Nartsiss",
                   "text": "Eine bekannte Quelle und ein Pavillon im Landschaftspark Monrepos.",
                   "category": "landmark",
                   "coords": [
@@ -1703,7 +1703,7 @@ imageHint: "Oreshek Fortress on an island in Lake Ladoga",
                   ]
             },
             {
-                  "name": "парк Монрепо",
+                  "name": "park Monrepo",
                   "text": "Ein weitläufiger romantischer Landschaftspark am Ufer der Wyborger Bucht.",
                   "category": "park",
                   "coords": [
@@ -1721,7 +1721,7 @@ imageHint: "Oreshek Fortress on an island in Lake Ladoga",
                   ]
             },
             {
-                  "name": "Круглая башня",
+                  "name": "Kruglaia bashnia",
                   "text": "Ein markanter runder Artillerieturm aus dem 16. Jahrhundert im Zentrum von Wyborg.",
                   "category": "landmark",
                   "coords": [
@@ -1730,7 +1730,7 @@ imageHint: "Oreshek Fortress on an island in Lake Ladoga",
                   ]
             },
             {
-                  "name": "кедр «Лира»",
+                  "name": "kedr <<Lira>>",
                   "text": "Eine Sehenswürdigkeit in der Burg Wiborg.",
                   "category": "landmark",
                   "coords": [
@@ -1741,7 +1741,7 @@ imageHint: "Oreshek Fortress on an island in Lake Ladoga",
       ],
       "hu": [
             {
-                  "name": "Анненские укрепления",
+                  "name": "Annenskie ukrepleniia",
                   "text": "18. századi történelmi erődítmények Viborg védelmére.",
                   "category": "fortress",
                   "coords": [
@@ -1750,7 +1750,7 @@ imageHint: "Oreshek Fortress on an island in Lake Ladoga",
                   ]
             },
             {
-                  "name": "Башня Ратуши",
+                  "name": "Bashnia Ratushi",
                   "text": "Egy középkori védőtorony, amely egykor Viborg városfalának része volt.",
                   "category": "museum",
                   "coords": [
@@ -1759,7 +1759,7 @@ imageHint: "Oreshek Fortress on an island in Lake Ladoga",
                   ]
             },
             {
-                  "name": "Выборгский замок",
+                  "name": "Vyborgskii zamok",
                   "text": "Svéd középkori erődítmény, Viborg városának jelképe.",
                   "category": "castle",
                   "coords": [
@@ -1768,7 +1768,7 @@ imageHint: "Oreshek Fortress on an island in Lake Ladoga",
                   ]
             },
             {
-                  "name": "Нарцисс",
+                  "name": "Nartsiss",
                   "text": "Ismert forrás és pavilon a Monrepos tájparkban.",
                   "category": "landmark",
                   "coords": [
@@ -1777,7 +1777,7 @@ imageHint: "Oreshek Fortress on an island in Lake Ladoga",
                   ]
             },
             {
-                  "name": "парк Монрепо",
+                  "name": "park Monrepo",
                   "text": "Kiterjedt romantikus tájpark a Viborgi-öböl partján.",
                   "category": "park",
                   "coords": [
@@ -1786,7 +1786,7 @@ imageHint: "Oreshek Fortress on an island in Lake Ladoga",
                   ]
             },
             {
-                  "name": "Библиотека Алвара Аалто",
+                  "name": "Biblioteka Alvara Aalto",
                   "text": "A modern építészet remekműve, amelyet Alvar Aalto finn építész tervezett.",
                   "category": "landmark",
                   "coords": [
@@ -1795,7 +1795,7 @@ imageHint: "Oreshek Fortress on an island in Lake Ladoga",
                   ]
             },
             {
-                  "name": "Круглая башня",
+                  "name": "Kruglaia bashnia",
                   "text": "Jellegzetes kerek tüzérségi torony a 16. századból Viborg központjában.",
                   "category": "landmark",
                   "coords": [
@@ -1804,7 +1804,7 @@ imageHint: "Oreshek Fortress on an island in Lake Ladoga",
                   ]
             },
             {
-                  "name": "кедр «Лира»",
+                  "name": "kedr <<Lira>>",
                   "text": "Látványosság a viborgi várban.",
                   "category": "landmark",
                   "coords": [
@@ -1815,7 +1815,7 @@ imageHint: "Oreshek Fortress on an island in Lake Ladoga",
       ],
       "ro": [
             {
-                  "name": "Анненские укрепления",
+                  "name": "Annenskie ukrepleniia",
                   "text": "Fortificații istorice din secolul al XVIII-lea construite pentru protecția orașului Vîborg.",
                   "category": "fortress",
                   "coords": [
@@ -1824,7 +1824,7 @@ imageHint: "Oreshek Fortress on an island in Lake Ladoga",
                   ]
             },
             {
-                  "name": "Башня Ратуши",
+                  "name": "Bashnia Ratushi",
                   "text": "Un turn de apărare medieval care a făcut parte din zidurile orașului Vîborg.",
                   "category": "museum",
                   "coords": [
@@ -1833,7 +1833,7 @@ imageHint: "Oreshek Fortress on an island in Lake Ladoga",
                   ]
             },
             {
-                  "name": "Выборгский замок",
+                  "name": "Vyborgskii zamok",
                   "text": "O fortăreață medievală suedeză, simbolul orașului Vîborg.",
                   "category": "castle",
                   "coords": [
@@ -1842,7 +1842,7 @@ imageHint: "Oreshek Fortress on an island in Lake Ladoga",
                   ]
             },
             {
-                  "name": "Нарцисс",
+                  "name": "Nartsiss",
                   "text": "Un izvor cunoscut și un pavilion situat în parcul peisagistic Monrepos.",
                   "category": "landmark",
                   "coords": [
@@ -1851,7 +1851,7 @@ imageHint: "Oreshek Fortress on an island in Lake Ladoga",
                   ]
             },
             {
-                  "name": "парк Монрепо",
+                  "name": "park Monrepo",
                   "text": "Un vast parc peisagistic romantic situat pe malul golfului Vîborg.",
                   "category": "park",
                   "coords": [
@@ -1860,7 +1860,7 @@ imageHint: "Oreshek Fortress on an island in Lake Ladoga",
                   ]
             },
             {
-                  "name": "Библиотека Алвара Аалто",
+                  "name": "Biblioteka Alvara Aalto",
                   "text": "O capodoperă a arhitecturii moderne, proiectată de arhitectul finlandez Alvar Aalto.",
                   "category": "landmark",
                   "coords": [
@@ -1869,7 +1869,7 @@ imageHint: "Oreshek Fortress on an island in Lake Ladoga",
                   ]
             },
             {
-                  "name": "Круглая башня",
+                  "name": "Kruglaia bashnia",
                   "text": "Un turn de artilerie rotund distinctiv din secolul al XVI-lea, situat în centrul orașului Vîborg.",
                   "category": "landmark",
                   "coords": [
@@ -1878,7 +1878,7 @@ imageHint: "Oreshek Fortress on an island in Lake Ladoga",
                   ]
             },
             {
-                  "name": "кедр «Лира»",
+                  "name": "kedr <<Lira>>",
                   "text": "O atracție situată în Castelul Vyborg.",
                   "category": "landmark",
                   "coords": [
@@ -2065,7 +2065,7 @@ imageHint: "Winter Palace Hermitage Museum St Petersburg",
                   ]
             },
             {
-                  "name": "Камеронова галерея",
+                  "name": "Kameronova galereia",
                   "text": "Eine klassizistische Galerie im Katharinenpark, entworfen vom Architekten Charles Cameron.",
                   "category": "museum",
                   "coords": [
@@ -2083,7 +2083,7 @@ imageHint: "Winter Palace Hermitage Museum St Petersburg",
                   ]
             },
             {
-                  "name": "выставка \"Восковых персон. Любовь и власть\"",
+                  "name": "vystavka \"Voskovykh person. Liubov' i vlast'\"",
                   "text": "Eine Ausstellung von Wachsfiguren im Katharinenpalast, die historische Persönlichkeiten darstellt.",
                   "category": "museum",
                   "coords": [
@@ -2092,7 +2092,7 @@ imageHint: "Winter Palace Hermitage Museum St Petersburg",
                   ]
             },
             {
-                  "name": "Царскосельский арсенал",
+                  "name": "Tsarskosel'skii arsenal",
                   "text": "Ein Museum im Katharinenpalast, das eine umfangreiche Sammlung historischer kaiserlicher Waffen und Rüstungen zeigt.",
                   "category": "museum",
                   "coords": [
@@ -2101,7 +2101,7 @@ imageHint: "Winter Palace Hermitage Museum St Petersburg",
                   ]
             },
             {
-                  "name": "Дом-музей П. П. Чистякова",
+                  "name": "Dom-muzei P. P. Chistiakova",
                   "text": "Das ehemalige Wohnhaus und Atelier des einflussreichen russischen Malers und Lehrers Pawel Tschistjakow, heute ein Museum.",
                   "category": "museum",
                   "coords": [
@@ -2110,7 +2110,7 @@ imageHint: "Winter Palace Hermitage Museum St Petersburg",
                   ]
             },
             {
-                  "name": "Музей храмов Царскосельского благочиния",
+                  "name": "Muzei khramov Tsarskosel'skogo blagochiniia",
                   "text": "Ein Museum, das der Geschichte und Architektur der Kirchen im kirchlichen Bezirk Zarskoje Selo gewidmet ist.",
                   "category": "museum",
                   "coords": [
@@ -2121,7 +2121,7 @@ imageHint: "Winter Palace Hermitage Museum St Petersburg",
       ],
       "hu": [
             {
-                  "name": "Александровский дворец",
+                  "name": "Aleksandrovskii dvorets",
                   "text": "Egykori császári palota a Katalin-palotánál, amely ma múzeumként működik.",
                   "category": "museum",
                   "coords": [
@@ -2130,7 +2130,7 @@ imageHint: "Winter Palace Hermitage Museum St Petersburg",
                   ]
             },
             {
-                  "name": "Камеронова галерея",
+                  "name": "Kameronova galereia",
                   "text": "Klasszicista galéria a Katalin-parkban, amelyet Charles Cameron építész tervezett.",
                   "category": "museum",
                   "coords": [
@@ -2139,7 +2139,7 @@ imageHint: "Winter Palace Hermitage Museum St Petersburg",
                   ]
             },
             {
-                  "name": "Екатерининский дворец",
+                  "name": "Ekaterininskii dvorets",
                   "text": "Az orosz cárok pompás barokk palotája a Katalin-palota komplexumában.",
                   "category": "castle",
                   "coords": [
@@ -2148,7 +2148,7 @@ imageHint: "Winter Palace Hermitage Museum St Petersburg",
                   ]
             },
             {
-                  "name": "выставка \"Восковых персон. Любовь и власть\"",
+                  "name": "vystavka \"Voskovykh person. Liubov' i vlast'\"",
                   "text": "Viaszfigurák kiállítása a Katalin-palotában, amely történelmi személyiségeket mutat be.",
                   "category": "museum",
                   "coords": [
@@ -2157,7 +2157,7 @@ imageHint: "Winter Palace Hermitage Museum St Petersburg",
                   ]
             },
             {
-                  "name": "Царскосельский арсенал",
+                  "name": "Tsarskosel'skii arsenal",
                   "text": "A Katalin-palotában található múzeum, amely történelmi császári fegyverek és páncélok széles gyűjteményét mutatja be.",
                   "category": "museum",
                   "coords": [
@@ -2166,7 +2166,7 @@ imageHint: "Winter Palace Hermitage Museum St Petersburg",
                   ]
             },
             {
-                  "name": "Дом-музей П. П. Чистякова",
+                  "name": "Dom-muzei P. P. Chistiakova",
                   "text": "Pavel Csistyakov befolyásos orosz festő és tanár egykori otthona és műterme, amely ma múzeumként működik.",
                   "category": "museum",
                   "coords": [
@@ -2175,7 +2175,7 @@ imageHint: "Winter Palace Hermitage Museum St Petersburg",
                   ]
             },
             {
-                  "name": "Музей храмов Царскосельского благочиния",
+                  "name": "Muzei khramov Tsarskosel'skogo blagochiniia",
                   "text": "A Carszkoje Szelo-i esperesség templomainak történetét és építészetét bemutató múzeum.",
                   "category": "museum",
                   "coords": [
@@ -2186,7 +2186,7 @@ imageHint: "Winter Palace Hermitage Museum St Petersburg",
       ],
       "ro": [
             {
-                  "name": "Александровский дворец",
+                  "name": "Aleksandrovskii dvorets",
                   "text": "Un fost palat imperial de lângă Palatul Ecaterina, care astăzi servește ca muzeu.",
                   "category": "museum",
                   "coords": [
@@ -2195,7 +2195,7 @@ imageHint: "Winter Palace Hermitage Museum St Petersburg",
                   ]
             },
             {
-                  "name": "Камеронова галерея",
+                  "name": "Kameronova galereia",
                   "text": "O galerie clasicistă în Parcul Ecaterinei, proiectată de arhitectul Charles Cameron.",
                   "category": "museum",
                   "coords": [
@@ -2204,7 +2204,7 @@ imageHint: "Winter Palace Hermitage Museum St Petersburg",
                   ]
             },
             {
-                  "name": "Екатерининский дворец",
+                  "name": "Ekaterininskii dvorets",
                   "text": "Splendidul palat baroc al țarilor ruși din complexul Palatului Ecaterina.",
                   "category": "castle",
                   "coords": [
@@ -2213,7 +2213,7 @@ imageHint: "Winter Palace Hermitage Museum St Petersburg",
                   ]
             },
             {
-                  "name": "выставка \"Восковых персон. Любовь и власть\"",
+                  "name": "vystavka \"Voskovykh person. Liubov' i vlast'\"",
                   "text": "O expoziție de figuri de ceară în Palatul Ecaterina, reprezentând personalități istorice.",
                   "category": "museum",
                   "coords": [
@@ -2222,7 +2222,7 @@ imageHint: "Winter Palace Hermitage Museum St Petersburg",
                   ]
             },
             {
-                  "name": "Царскосельский арсенал",
+                  "name": "Tsarskosel'skii arsenal",
                   "text": "Un muzeu din Palatul Ecaterina care expune o colecție vastă de arme și armuri imperiale istorice.",
                   "category": "museum",
                   "coords": [
@@ -2231,7 +2231,7 @@ imageHint: "Winter Palace Hermitage Museum St Petersburg",
                   ]
             },
             {
-                  "name": "Дом-музей П. П. Чистякова",
+                  "name": "Dom-muzei P. P. Chistiakova",
                   "text": "Fosta casă și atelierul influentului pictor și profesor rus Pavel Cistiakov, astăzi muzeu.",
                   "category": "museum",
                   "coords": [
@@ -2240,7 +2240,7 @@ imageHint: "Winter Palace Hermitage Museum St Petersburg",
                   ]
             },
             {
-                  "name": "Музей храмов Царскосельского благочиния",
+                  "name": "Muzei khramov Tsarskosel'skogo blagochiniia",
                   "text": "Un muzeu dedicat istoriei și arhitecturii bisericilor din cadrul protopopiatului Țarskoe Selo.",
                   "category": "museum",
                   "coords": [
@@ -2501,7 +2501,7 @@ imageHint: "Peter and Paul Fortress aerial view Hare Island",
     id: "russia-kizhi-pogost-history-v2", "sights": {
       "de": [
             {
-                  "name": "Васильево",
+                  "name": "Vasil'evo",
                   "text": "Vasilyevo ist ein historisches Dorf in der Nähe des Kizhi Pogost in Karelien.",
                   "category": "landmark",
                   "coords": [
@@ -2510,7 +2510,7 @@ imageHint: "Peter and Paul Fortress aerial view Hare Island",
                   ]
             },
             {
-                  "name": "Кижский погост",
+                  "name": "Kizhskii pogost",
                   "text": "Der Kizhi Pogost ist ein UNESCO-Weltkulturerbe, das für seine monumentalen Holzkirchen bekannt ist.",
                   "category": "landmark",
                   "coords": [
@@ -2519,7 +2519,7 @@ imageHint: "Peter and Paul Fortress aerial view Hare Island",
                   ]
             },
             {
-                  "name": "Музей-заповедник \"Кижи\"",
+                  "name": "Muzei-zapovednik \"Kizhi\"",
                   "text": "Das Kizhi Freilichtmuseum zeigt Meisterwerke der russischen Holzarchitektur.",
                   "category": "landmark",
                   "coords": [
@@ -2528,7 +2528,7 @@ imageHint: "Peter and Paul Fortress aerial view Hare Island",
                   ]
             },
             {
-                  "name": "Часовня Архангела Михаила из деревни Леликозеро",
+                  "name": "Chasovnia Arkhangela Mikhaila iz derevni Lelikozero",
                   "text": "Die Kapelle des Erzengels Michael ist ein feines Beispiel für die sakrale Holzbauweise in Kizhi.",
                   "category": "landmark",
                   "coords": [
@@ -2537,7 +2537,7 @@ imageHint: "Peter and Paul Fortress aerial view Hare Island",
                   ]
             },
             {
-                  "name": "Дом Ошевнева из деревни Ошевнево",
+                  "name": "Dom Oshevneva iz derevni Oshevnevo",
                   "text": "Das Haus Oshevnev ist ein traditionelles Holzhaus, das bäuerliches Leben in Kizhi veranschaulicht.",
                   "category": "landmark",
                   "coords": [
@@ -2546,7 +2546,7 @@ imageHint: "Peter and Paul Fortress aerial view Hare Island",
                   ]
             },
             {
-                  "name": "Амбар из деревни Коккойла",
+                  "name": "Ambar iz derevni Kokkoila",
                   "text": "Der Speicher aus Kokkoila ist ein historisches hölzernes Wirtschaftsgebäude im Kizhi-Museum.",
                   "category": "landmark",
                   "coords": [
@@ -2557,7 +2557,7 @@ imageHint: "Peter and Paul Fortress aerial view Hare Island",
       ],
       "hu": [
             {
-                  "name": "Васильево",
+                  "name": "Vasil'evo",
                   "text": "Vasziljevo egy történelmi falu a karéliai Kizsi-pogoszt közelében.",
                   "category": "landmark",
                   "coords": [
@@ -2566,7 +2566,7 @@ imageHint: "Peter and Paul Fortress aerial view Hare Island",
                   ]
             },
             {
-                  "name": "Кижский погост",
+                  "name": "Kizhskii pogost",
                   "text": "A Kizsi-pogoszt egy UNESCO világörökségi helyszín, amely monumentális fatemplomairól ismert.",
                   "category": "landmark",
                   "coords": [
@@ -2575,7 +2575,7 @@ imageHint: "Peter and Paul Fortress aerial view Hare Island",
                   ]
             },
             {
-                  "name": "Музей-заповедник \"Кижи\"",
+                  "name": "Muzei-zapovednik \"Kizhi\"",
                   "text": "A Kizsi Szabadtéri Múzeum az orosz faépítészet remekműveit mutatja be.",
                   "category": "landmark",
                   "coords": [
@@ -2584,7 +2584,7 @@ imageHint: "Peter and Paul Fortress aerial view Hare Island",
                   ]
             },
             {
-                  "name": "Часовня Архангела Михаила из деревни Леликозеро",
+                  "name": "Chasovnia Arkhangela Mikhaila iz derevni Lelikozero",
                   "text": "A Mihály arkangyal-kápolna a kizsi szakrális faépítészet szép példája.",
                   "category": "landmark",
                   "coords": [
@@ -2593,7 +2593,7 @@ imageHint: "Peter and Paul Fortress aerial view Hare Island",
                   ]
             },
             {
-                  "name": "Дом Ошевнева из деревни Ошевнево",
+                  "name": "Dom Oshevneva iz derevni Oshevnevo",
                   "text": "Az Osevnyev-ház egy hagyományos faház, amely a paraszti életet mutatja be Kizsiben.",
                   "category": "landmark",
                   "coords": [
@@ -2602,7 +2602,7 @@ imageHint: "Peter and Paul Fortress aerial view Hare Island",
                   ]
             },
             {
-                  "name": "Амбар из деревни Коккойла",
+                  "name": "Ambar iz derevni Kokkoila",
                   "text": "A Kokkoilából származó magtár egy történelmi fából készült gazdasági épület a Kizsi-múzeumban.",
                   "category": "landmark",
                   "coords": [
@@ -2613,7 +2613,7 @@ imageHint: "Peter and Paul Fortress aerial view Hare Island",
       ],
       "ro": [
             {
-                  "name": "Васильево",
+                  "name": "Vasil'evo",
                   "text": "Vasilyevo este un sat istoric situat lângă Kizhi Pogost în Karelia.",
                   "category": "landmark",
                   "coords": [
@@ -2622,7 +2622,7 @@ imageHint: "Peter and Paul Fortress aerial view Hare Island",
                   ]
             },
             {
-                  "name": "Кижский погост",
+                  "name": "Kizhskii pogost",
                   "text": "Kizhi Pogost este un sit din patrimoniul mondial UNESCO, faimos pentru bisericile sale monumentale din lemn.",
                   "category": "landmark",
                   "coords": [
@@ -2631,7 +2631,7 @@ imageHint: "Peter and Paul Fortress aerial view Hare Island",
                   ]
             },
             {
-                  "name": "Музей-заповедник \"Кижи\"",
+                  "name": "Muzei-zapovednik \"Kizhi\"",
                   "text": "Muzeul în aer liber Kizhi prezintă capodopere ale arhitecturii rusești în lemn.",
                   "category": "landmark",
                   "coords": [
@@ -2640,7 +2640,7 @@ imageHint: "Peter and Paul Fortress aerial view Hare Island",
                   ]
             },
             {
-                  "name": "Часовня Архангела Михаила из деревни Леликозеро",
+                  "name": "Chasovnia Arkhangela Mikhaila iz derevni Lelikozero",
                   "text": "Capela Arhanghelului Mihail este un exemplu fin de arhitectură religioasă din lemn în Kizhi.",
                   "category": "landmark",
                   "coords": [
@@ -2649,7 +2649,7 @@ imageHint: "Peter and Paul Fortress aerial view Hare Island",
                   ]
             },
             {
-                  "name": "Дом Ошевнева из деревни Ошевнево",
+                  "name": "Dom Oshevneva iz derevni Oshevnevo",
                   "text": "Casa Oshevnev este o locuință tradițională din lemn ce ilustrează viața țărănească în Kizhi.",
                   "category": "landmark",
                   "coords": [
@@ -2658,7 +2658,7 @@ imageHint: "Peter and Paul Fortress aerial view Hare Island",
                   ]
             },
             {
-                  "name": "Амбар из деревни Коккойла",
+                  "name": "Ambar iz derevni Kokkoila",
                   "text": "Grânarul din Kokkoila este o clădire istorică din lemn aflată în muzeul Kizhi.",
                   "category": "landmark",
                   "coords": [
@@ -2818,7 +2818,7 @@ imageHint: "Prokhorovka battlefield memorial bell tower and tanks",
     id: "russia-intercession-on-nerl-history-v2", "sights": {
       "de": [
             {
-                  "name": "храм Покрова на Нерли",
+                  "name": "khram Pokrova na Nerli",
                   "text": "Ein Meisterwerk der altrussischen Baukunst und UNESCO-Welterbe am Fluss Nerl.",
                   "category": "landmark",
                   "coords": [
@@ -2829,7 +2829,7 @@ imageHint: "Prokhorovka battlefield memorial bell tower and tanks",
       ],
       "hu": [
             {
-                  "name": "храм Покрова на Нерли",
+                  "name": "khram Pokrova na Nerli",
                   "text": "Az óorosz építészet mesterműve és UNESCO világörökségi helyszín a Nerl folyó partján.",
                   "category": "landmark",
                   "coords": [
@@ -2840,7 +2840,7 @@ imageHint: "Prokhorovka battlefield memorial bell tower and tanks",
       ],
       "ro": [
             {
-                  "name": "храм Покрова на Нерли",
+                  "name": "khram Pokrova na Nerli",
                   "text": "O capodoperă a arhitecturii vechi rusești și sit UNESCO situat pe malul râului Nerl.",
                   "category": "landmark",
                   "coords": [
@@ -2955,7 +2955,7 @@ imageHint: "Trinity Lavra of St Sergius Sergiyev Posad",
     id: "russia-kronstadt-naval-cathedral-history-v2", "sights": {
       "de": [
             {
-                  "name": "Квартира святого Иоанна Кронштадтского",
+                  "name": "Kvartira sviatogo Ioanna Kronshtadtskogo",
                   "text": "Ein interessantes Museum, das historische Exponate und lokales Erbe in Kronstadt Naval Cathedral präsentiert.",
                   "category": "museum",
                   "coords": [
@@ -3000,7 +3000,7 @@ imageHint: "Trinity Lavra of St Sergius Sergiyev Posad",
                   ]
             },
             {
-                  "name": "Пороховой форт",
+                  "name": "Porokhovoi fort",
                   "text": "Eine historische militärische Festungsanlage in der Nähe von Kronstadt Naval Cathedral.",
                   "category": "fortress",
                   "coords": [
@@ -3029,7 +3029,7 @@ imageHint: "Trinity Lavra of St Sergius Sergiyev Posad",
       ],
       "hu": [
             {
-                  "name": "Квартира святого Иоанна Кронштадтского",
+                  "name": "Kvartira sviatogo Ioanna Kronshtadtskogo",
                   "text": "Érdekes múzeum, amely történelmi kiállításokat és a helyi örökséget mutatja be Kronstadt Naval Cathedral területén.",
                   "category": "museum",
                   "coords": [
@@ -3038,7 +3038,7 @@ imageHint: "Trinity Lavra of St Sergius Sergiyev Posad",
                   ]
             },
             {
-                  "name": "Морской собор Николая Чудотворца",
+                  "name": "Morskoi sobor Nikolaia Chudotvortsa",
                   "text": "Lenyűgöző orosz ortodox székesegyház, amely az elesett tengerészek emlékhelye.",
                   "category": "museum",
                   "coords": [
@@ -3047,7 +3047,7 @@ imageHint: "Trinity Lavra of St Sergius Sergiyev Posad",
                   ]
             },
             {
-                  "name": "форт Петр Первый",
+                  "name": "fort Petr Pervyi",
                   "text": "Történelmi katonai erődítmény Kronstadt Naval Cathedral közelében.",
                   "category": "fortress",
                   "coords": [
@@ -3056,7 +3056,7 @@ imageHint: "Trinity Lavra of St Sergius Sergiyev Posad",
                   ]
             },
             {
-                  "name": "форт Павел I",
+                  "name": "fort Pavel I",
                   "text": "Történelmi katonai erődítmény Kronstadt Naval Cathedral közelében.",
                   "category": "fortress",
                   "coords": [
@@ -3074,7 +3074,7 @@ imageHint: "Trinity Lavra of St Sergius Sergiyev Posad",
                   ]
             },
             {
-                  "name": "Пороховой форт",
+                  "name": "Porokhovoi fort",
                   "text": "Történelmi katonai erődítmény Kronstadt Naval Cathedral közelében.",
                   "category": "fortress",
                   "coords": [
@@ -3083,7 +3083,7 @@ imageHint: "Trinity Lavra of St Sergius Sergiyev Posad",
                   ]
             },
             {
-                  "name": "Задний створный маяк Морского Канала",
+                  "name": "Zadnii stvornyi maiak Morskogo Kanala",
                   "text": "Hajózási világítótorony Kronstadt Naval Cathedral közelében.",
                   "category": "landmark",
                   "coords": [
@@ -3092,7 +3092,7 @@ imageHint: "Trinity Lavra of St Sergius Sergiyev Posad",
                   ]
             },
             {
-                  "name": "Передний створный маяк Морского Канала",
+                  "name": "Perednii stvornyi maiak Morskogo Kanala",
                   "text": "Hajózási világítótorony Kronstadt Naval Cathedral közelében.",
                   "category": "landmark",
                   "coords": [
@@ -3103,7 +3103,7 @@ imageHint: "Trinity Lavra of St Sergius Sergiyev Posad",
       ],
       "ro": [
             {
-                  "name": "Квартира святого Иоанна Кронштадтского",
+                  "name": "Kvartira sviatogo Ioanna Kronshtadtskogo",
                   "text": "Un muzeu interesant care prezintă exponate istorice și moștenirea locală din Kronstadt Naval Cathedral.",
                   "category": "museum",
                   "coords": [
@@ -3112,7 +3112,7 @@ imageHint: "Trinity Lavra of St Sergius Sergiyev Posad",
                   ]
             },
             {
-                  "name": "Морской собор Николая Чудотворца",
+                  "name": "Morskoi sobor Nikolaia Chudotvortsa",
                   "text": "O catedrală ortodoxă rusă uimitoare, care servește drept memorial pentru marinarii căzuți.",
                   "category": "museum",
                   "coords": [
@@ -3121,7 +3121,7 @@ imageHint: "Trinity Lavra of St Sergius Sergiyev Posad",
                   ]
             },
             {
-                  "name": "форт Петр Первый",
+                  "name": "fort Petr Pervyi",
                   "text": "O fortificație militară istorică situată lângă Kronstadt Naval Cathedral.",
                   "category": "fortress",
                   "coords": [
@@ -3130,7 +3130,7 @@ imageHint: "Trinity Lavra of St Sergius Sergiyev Posad",
                   ]
             },
             {
-                  "name": "форт Павел I",
+                  "name": "fort Pavel I",
                   "text": "O fortificație militară istorică situată lângă Kronstadt Naval Cathedral.",
                   "category": "fortress",
                   "coords": [
@@ -3148,7 +3148,7 @@ imageHint: "Trinity Lavra of St Sergius Sergiyev Posad",
                   ]
             },
             {
-                  "name": "Пороховой форт",
+                  "name": "Porokhovoi fort",
                   "text": "O fortificație militară istorică situată lângă Kronstadt Naval Cathedral.",
                   "category": "fortress",
                   "coords": [
@@ -3157,7 +3157,7 @@ imageHint: "Trinity Lavra of St Sergius Sergiyev Posad",
                   ]
             },
             {
-                  "name": "Задний створный маяк Морского Канала",
+                  "name": "Zadnii stvornyi maiak Morskogo Kanala",
                   "text": "Un far maritim utilizat pentru navigație în apropiere de Kronstadt Naval Cathedral.",
                   "category": "landmark",
                   "coords": [
@@ -3166,7 +3166,7 @@ imageHint: "Trinity Lavra of St Sergius Sergiyev Posad",
                   ]
             },
             {
-                  "name": "Передний створный маяк Морского Канала",
+                  "name": "Perednii stvornyi maiak Morskogo Kanala",
                   "text": "Un far maritim utilizat pentru navigație în apropiere de Kronstadt Naval Cathedral.",
                   "category": "landmark",
                   "coords": [
@@ -3344,7 +3344,7 @@ imageHint: "Yusupov Palace on Moika River St Petersburg",
     id: "russia-gatchina-palace-history-v2", "sights": {
       "de": [
             {
-                  "name": "Коннетабль",
+                  "name": "Konnetabl'",
                   "text": "Ein prächtiges Obelisk-Denkmal im historischen Gatchina-Palast-Ensemble.",
                   "category": "historical",
                   "coords": [
@@ -3353,7 +3353,7 @@ imageHint: "Yusupov Palace on Moika River St Petersburg",
                   ]
             },
             {
-                  "name": "парк Сильвия",
+                  "name": "park Sil'viia",
                   "text": "Ein malerischer Landschaftspark mit Waldwegen und historischen Bauwerken in Gattschina.",
                   "category": "park",
                   "coords": [
@@ -3362,7 +3362,7 @@ imageHint: "Yusupov Palace on Moika River St Petersburg",
                   ]
             },
             {
-                  "name": "Дворцовый парк",
+                  "name": "Dvortsovyi park",
                   "text": "Der zentrale Schlosspark in Gattschina, bekannt für seine schönen Seen und Brücken.",
                   "category": "park",
                   "coords": [
@@ -3373,7 +3373,7 @@ imageHint: "Yusupov Palace on Moika River St Petersburg",
       ],
       "hu": [
             {
-                  "name": "Коннетабль",
+                  "name": "Konnetabl'",
                   "text": "Egy impozáns obeliszk emlékmű a történelmi Gatcsina-palota együttesében.",
                   "category": "historical",
                   "coords": [
@@ -3382,7 +3382,7 @@ imageHint: "Yusupov Palace on Moika River St Petersburg",
                   ]
             },
             {
-                  "name": "парк Сильвия",
+                  "name": "park Sil'viia",
                   "text": "Festői tájképi park erdei ösvényekkel és történelmi építményekkel Gatcsinában.",
                   "category": "park",
                   "coords": [
@@ -3391,7 +3391,7 @@ imageHint: "Yusupov Palace on Moika River St Petersburg",
                   ]
             },
             {
-                  "name": "Дворцовый парк",
+                  "name": "Dvortsovyi park",
                   "text": "A gatcsinai központi palotapark, amely gyönyörű tavairól és hídjairól ismert.",
                   "category": "park",
                   "coords": [
@@ -3402,7 +3402,7 @@ imageHint: "Yusupov Palace on Moika River St Petersburg",
       ],
       "ro": [
             {
-                  "name": "Коннетабль",
+                  "name": "Konnetabl'",
                   "text": "Un monument grandios sub formă de obelisc situat în ansamblul istoric al Palatului Gatchina.",
                   "category": "historical",
                   "coords": [
@@ -3411,7 +3411,7 @@ imageHint: "Yusupov Palace on Moika River St Petersburg",
                   ]
             },
             {
-                  "name": "парк Сильвия",
+                  "name": "park Sil'viia",
                   "text": "Un parc peisagistic pitoresc, cu poteci prin pădure și structuri istorice în Gatchina.",
                   "category": "park",
                   "coords": [
@@ -3420,7 +3420,7 @@ imageHint: "Yusupov Palace on Moika River St Petersburg",
                   ]
             },
             {
-                  "name": "Дворцовый парк",
+                  "name": "Dvortsovyi park",
                   "text": "Principalul parc al palatului din Gatchina, cunoscut pentru lacurile și podurile sale frumoase.",
                   "category": "park",
                   "coords": [
@@ -3507,7 +3507,7 @@ imageHint: "Gatchina Palace and park St Petersburg",
     id: "russia-pavlovsk-palace-history-v2", "sights": {
       "de": [
             {
-                  "name": "Замок Мариенталь",
+                  "name": "Zamok Mariental'",
                   "text": "Eine historische Festung und ein architektonisches Wahrzeichen in Pawlowsk.",
                   "category": "castle",
                   "coords": [
@@ -3516,7 +3516,7 @@ imageHint: "Gatchina Palace and park St Petersburg",
                   ]
             },
             {
-                  "name": "Павловский дворец",
+                  "name": "Pavlovskii dvorets",
                   "text": "Eine prächtige kaiserliche Residenz aus dem 18. Jahrhundert und ein Museum in Pawlowsk.",
                   "category": "museum",
                   "coords": [
@@ -3525,7 +3525,7 @@ imageHint: "Gatchina Palace and park St Petersburg",
                   ]
             },
             {
-                  "name": "Дом-музей П. П. Чистякова",
+                  "name": "Dom-muzei P. P. Chistiakova",
                   "text": "Ein Museum, das dem Leben und Werk des Künstlers Pawel Tschistjakow gewidmet ist.",
                   "category": "museum",
                   "coords": [
@@ -3534,7 +3534,7 @@ imageHint: "Gatchina Palace and park St Petersburg",
                   ]
             },
             {
-                  "name": "Павловский парк",
+                  "name": "Pavlovskii park",
                   "text": "Ein weitläufiger Landschaftspark im englischen Stil, der das Schloss Pawlowsk umgibt.",
                   "category": "park",
                   "coords": [
@@ -3543,7 +3543,7 @@ imageHint: "Gatchina Palace and park St Petersburg",
                   ]
             },
             {
-                  "name": "Старое Шале",
+                  "name": "Staroe Shale",
                   "text": "Ein charmantes historisches Gebäude auf dem Gelände des Parks von Pawlowsk.",
                   "category": "landmark",
                   "coords": [
@@ -3554,7 +3554,7 @@ imageHint: "Gatchina Palace and park St Petersburg",
       ],
       "hu": [
             {
-                  "name": "Замок Мариенталь",
+                  "name": "Zamok Mariental'",
                   "text": "Történelmi erőd és építészeti látnivaló Pavlovszkban.",
                   "category": "castle",
                   "coords": [
@@ -3563,7 +3563,7 @@ imageHint: "Gatchina Palace and park St Petersburg",
                   ]
             },
             {
-                  "name": "Павловский дворец",
+                  "name": "Pavlovskii dvorets",
                   "text": "Nagyszabású 18. századi császári rezidencia és múzeum Pavlovszkban.",
                   "category": "museum",
                   "coords": [
@@ -3572,7 +3572,7 @@ imageHint: "Gatchina Palace and park St Petersburg",
                   ]
             },
             {
-                  "name": "Дом-музей П. П. Чистякова",
+                  "name": "Dom-muzei P. P. Chistiakova",
                   "text": "Pavel Csisztyakov művész életének és munkásságának szentelt múzeum.",
                   "category": "museum",
                   "coords": [
@@ -3581,7 +3581,7 @@ imageHint: "Gatchina Palace and park St Petersburg",
                   ]
             },
             {
-                  "name": "Павловский парк",
+                  "name": "Pavlovskii park",
                   "text": "A pavlovszki palotát körülvevő hatalmas, angol stílusú tájképi park.",
                   "category": "park",
                   "coords": [
@@ -3590,7 +3590,7 @@ imageHint: "Gatchina Palace and park St Petersburg",
                   ]
             },
             {
-                  "name": "Старое Шале",
+                  "name": "Staroe Shale",
                   "text": "Bájos történelmi épület a pavlovszki park területén.",
                   "category": "landmark",
                   "coords": [
@@ -3601,7 +3601,7 @@ imageHint: "Gatchina Palace and park St Petersburg",
       ],
       "ro": [
             {
-                  "name": "Замок Мариенталь",
+                  "name": "Zamok Mariental'",
                   "text": "O cetate istorică și un punct de reper arhitectural situat în Pavlovsk.",
                   "category": "castle",
                   "coords": [
@@ -3610,7 +3610,7 @@ imageHint: "Gatchina Palace and park St Petersburg",
                   ]
             },
             {
-                  "name": "Павловский дворец",
+                  "name": "Pavlovskii dvorets",
                   "text": "O reședință imperială grandioasă din secolul al XVIII-lea și un muzeu în Pavlovsk.",
                   "category": "museum",
                   "coords": [
@@ -3619,7 +3619,7 @@ imageHint: "Gatchina Palace and park St Petersburg",
                   ]
             },
             {
-                  "name": "Дом-музей П. П. Чистякова",
+                  "name": "Dom-muzei P. P. Chistiakova",
                   "text": "Un muzeu dedicat vieții și operei artistului Pavel Cisteakov.",
                   "category": "museum",
                   "coords": [
@@ -3628,7 +3628,7 @@ imageHint: "Gatchina Palace and park St Petersburg",
                   ]
             },
             {
-                  "name": "Павловский парк",
+                  "name": "Pavlovskii park",
                   "text": "Un vast parc peisagistic care înconjoară palatul Pavlovsk, proiectat în stil englezesc.",
                   "category": "park",
                   "coords": [
@@ -3637,7 +3637,7 @@ imageHint: "Gatchina Palace and park St Petersburg",
                   ]
             },
             {
-                  "name": "Старое Шале",
+                  "name": "Staroe Shale",
                   "text": "O clădire istorică fermecătoare situată pe terenul parcului Pavlovsk.",
                   "category": "landmark",
                   "coords": [
@@ -3879,7 +3879,7 @@ imageHint: "Pavlovsk Palace golden facade and dome",
     id: "russia-staraya-ladoga-fortress-history-v2", "sights": {
       "de": [
             {
-                  "name": "Староладожская крепость",
+                  "name": "Staroladozhskaia krepost'",
                   "text": "Eine historische Festung in Alt-Ladoga, die als eine der ältesten Verteidigungsanlagen Russlands gilt.",
                   "category": "castle",
                   "coords": [
@@ -3888,7 +3888,7 @@ imageHint: "Pavlovsk Palace golden facade and dome",
                   ]
             },
             {
-                  "name": "Староладожский Свято-Успенский девичий монастырь",
+                  "name": "Staroladozhskii Sviato-Uspenskii devichii monastyr'",
                   "text": "Ein historisches Frauenkloster in Alt-Ladoga, dessen Ursprünge bis ins 12. Jahrhundert zurückreichen.",
                   "category": "landmark",
                   "coords": [
@@ -3897,7 +3897,7 @@ imageHint: "Pavlovsk Palace golden facade and dome",
                   ]
             },
             {
-                  "name": "Церковь Рождества Иоанна Предтечи",
+                  "name": "Tserkov' Rozhdestva Ioanna Predtechi",
                   "text": "Diese Kirche auf einem Hügel in Alt-Ladoga ist ein markantes Beispiel russisch-orthodoxer Baukunst.",
                   "category": "religious",
                   "coords": [
@@ -3908,7 +3908,7 @@ imageHint: "Pavlovsk Palace golden facade and dome",
       ],
       "hu": [
             {
-                  "name": "Староладожская крепость",
+                  "name": "Staroladozhskaia krepost'",
                   "text": "Történelmi erőd Ó-Ladogában, amelyet Oroszország egyik legrégebbi védelmi építményeként tartanak számon.",
                   "category": "castle",
                   "coords": [
@@ -3917,7 +3917,7 @@ imageHint: "Pavlovsk Palace golden facade and dome",
                   ]
             },
             {
-                  "name": "Староладожский Свято-Успенский девичий монастырь",
+                  "name": "Staroladozhskii Sviato-Uspenskii devichii monastyr'",
                   "text": "Történelmi női kolostor Ó-Ladogában, amelynek eredete a 12. századig nyúlik vissza.",
                   "category": "landmark",
                   "coords": [
@@ -3926,7 +3926,7 @@ imageHint: "Pavlovsk Palace golden facade and dome",
                   ]
             },
             {
-                  "name": "Церковь Рождества Иоанна Предтечи",
+                  "name": "Tserkov' Rozhdestva Ioanna Predtechi",
                   "text": "Ez a dombtetőn álló templom Ó-Ladogában az orosz ortodox építészet jellegzetes példája.",
                   "category": "religious",
                   "coords": [
@@ -3937,7 +3937,7 @@ imageHint: "Pavlovsk Palace golden facade and dome",
       ],
       "ro": [
             {
-                  "name": "Староладожская крепость",
+                  "name": "Staroladozhskaia krepost'",
                   "text": "O fortăreață istorică din Staraia Ladoga, considerată una dintre cele mai vechi structuri defensive din Rusia.",
                   "category": "castle",
                   "coords": [
@@ -3946,7 +3946,7 @@ imageHint: "Pavlovsk Palace golden facade and dome",
                   ]
             },
             {
-                  "name": "Староладожский Свято-Успенский девичий монастырь",
+                  "name": "Staroladozhskii Sviato-Uspenskii devichii monastyr'",
                   "text": "O mănăstire istorică de maici din Staraia Ladoga, ale cărei origini datează din secolul al XII-lea.",
                   "category": "landmark",
                   "coords": [
@@ -3955,7 +3955,7 @@ imageHint: "Pavlovsk Palace golden facade and dome",
                   ]
             },
             {
-                  "name": "Церковь Рождества Иоанна Предтечи",
+                  "name": "Tserkov' Rozhdestva Ioanna Predtechi",
                   "text": "Această biserică situată pe un deal din Staraia Ladoga este un exemplu distinctiv al arhitecturii ortodoxe ruse.",
                   "category": "religious",
                   "coords": [
@@ -4086,7 +4086,7 @@ imageHint: "Pavlovsk Palace golden facade and dome",
     id: "russia-izborsk-fortress-history-v2", "sights": {
       "de": [
             {
-                  "name": "Изборская крепость",
+                  "name": "Izborskaia krepost'",
                   "text": "Diese historische Steinburg in Isborsk ist eine der ältesten in Russland.",
                   "category": "castle",
                   "coords": [
@@ -4095,7 +4095,7 @@ imageHint: "Pavlovsk Palace golden facade and dome",
                   ]
             },
             {
-                  "name": "Два валуна",
+                  "name": "Dva valuna",
                   "text": "Ein Aussichtspunkt mit weitem Blick über die Landschaft bei der Festung Isborsk.",
                   "category": "natural",
                   "coords": [
@@ -4104,7 +4104,7 @@ imageHint: "Pavlovsk Palace golden facade and dome",
                   ]
             },
             {
-                  "name": "Развалины Мельницы",
+                  "name": "Razvaliny Mel'nitsy",
                   "text": "Die Überreste einer alten Mühle in der Nähe der Festung Isborsk.",
                   "category": "landmark",
                   "coords": [
@@ -4115,7 +4115,7 @@ imageHint: "Pavlovsk Palace golden facade and dome",
       ],
       "hu": [
             {
-                  "name": "Изборская крепость",
+                  "name": "Izborskaia krepost'",
                   "text": "Ez a történelmi kővár Izborszkban Oroszország egyik legrégebbi erődítménye.",
                   "category": "castle",
                   "coords": [
@@ -4124,7 +4124,7 @@ imageHint: "Pavlovsk Palace golden facade and dome",
                   ]
             },
             {
-                  "name": "Два валуна",
+                  "name": "Dva valuna",
                   "text": "Kilátópont, ahonnan szép kilátás nyílik az Izborszk erőd környéki tájra.",
                   "category": "natural",
                   "coords": [
@@ -4133,7 +4133,7 @@ imageHint: "Pavlovsk Palace golden facade and dome",
                   ]
             },
             {
-                  "name": "Развалины Мельницы",
+                  "name": "Razvaliny Mel'nitsy",
                   "text": "Egy régi malom maradványai az Izborszk erőd közelében.",
                   "category": "landmark",
                   "coords": [
@@ -4144,7 +4144,7 @@ imageHint: "Pavlovsk Palace golden facade and dome",
       ],
       "ro": [
             {
-                  "name": "Изборская крепость",
+                  "name": "Izborskaia krepost'",
                   "text": "Această cetate istorică de piatră din Izborsk este una dintre cele mai vechi din Rusia.",
                   "category": "castle",
                   "coords": [
@@ -4153,7 +4153,7 @@ imageHint: "Pavlovsk Palace golden facade and dome",
                   ]
             },
             {
-                  "name": "Два валуна",
+                  "name": "Dva valuna",
                   "text": "Un punct de belvedere care oferă o vedere pitorească asupra peisajului de lângă Cetatea Izborsk.",
                   "category": "natural",
                   "coords": [
@@ -4162,7 +4162,7 @@ imageHint: "Pavlovsk Palace golden facade and dome",
                   ]
             },
             {
-                  "name": "Развалины Мельницы",
+                  "name": "Razvaliny Mel'nitsy",
                   "text": "Ruinele unei vechi mori situate în vecinătatea Cetății Izborsk.",
                   "category": "landmark",
                   "coords": [
@@ -4887,7 +4887,7 @@ imageHint: "Pavlovsk Palace golden facade and dome",
                   ]
             },
             {
-                  "name": "Тульский областной краеведческий музей",
+                  "name": "Tul'skii oblastnoi kraevedcheskii muzei",
                   "text": "Ein Museum, das die lokale Geschichte und Kultur von Tula präsentiert.",
                   "category": "museum",
                   "coords": [
@@ -4905,7 +4905,7 @@ imageHint: "Pavlovsk Palace golden facade and dome",
                   ]
             },
             {
-                  "name": "Тульский академический театр драмы им. М. Горького",
+                  "name": "Tul'skii akademicheskii teatr dramy im. M. Gor'kogo",
                   "text": "Eines der ältesten Schauspielhäuser Russlands, benannt nach Maxim Gorki.",
                   "category": "cultural",
                   "coords": [
@@ -4914,7 +4914,7 @@ imageHint: "Pavlovsk Palace golden facade and dome",
                   ]
             },
             {
-                  "name": "Музейно-выставочный центр \"Тульские древности\"",
+                  "name": "Muzeino-vystavochnyi tsentr \"Tul'skie drevnosti\"",
                   "text": "Ein Museumszentrum, das sich mit der Archäologie und Geschichte der Region Tula befasst.",
                   "category": "museum",
                   "coords": [
@@ -4923,7 +4923,7 @@ imageHint: "Pavlovsk Palace golden facade and dome",
                   ]
             },
             {
-                  "name": "Мемориальный музей Н. И. Белобородова",
+                  "name": "Memorial'nyi muzei N. I. Beloborodova",
                   "text": "Ein Gedenkmuseum für den Erfinder des chromatischen Akkordeons.",
                   "category": "museum",
                   "coords": [
@@ -4932,7 +4932,7 @@ imageHint: "Pavlovsk Palace golden facade and dome",
                   ]
             },
             {
-                  "name": "Музей Пряника",
+                  "name": "Muzei Prianika",
                   "text": "Ein Museum, das den berühmten Tulak Lebkuchen gewidmet ist.",
                   "category": "museum",
                   "coords": [
@@ -4941,7 +4941,7 @@ imageHint: "Pavlovsk Palace golden facade and dome",
                   ]
             },
             {
-                  "name": "Тульский Камерный Драматический Театр",
+                  "name": "Tul'skii Kamernyi Dramaticheskii Teatr",
                   "text": "Ein Kammertheater in Tula, das moderne und klassische Stücke aufführt.",
                   "category": "cultural",
                   "coords": [
@@ -4952,7 +4952,7 @@ imageHint: "Pavlovsk Palace golden facade and dome",
       ],
       "hu": [
             {
-                  "name": "Тульские самовары",
+                  "name": "Tul'skie samovary",
                   "text": "Tula városának múzeuma, amely az orosz szamovárok történetét és készítését mutatja be.",
                   "category": "museum",
                   "coords": [
@@ -4961,7 +4961,7 @@ imageHint: "Pavlovsk Palace golden facade and dome",
                   ]
             },
             {
-                  "name": "Тульский областной краеведческий музей",
+                  "name": "Tul'skii oblastnoi kraevedcheskii muzei",
                   "text": "Tula helytörténetét és kultúráját bemutató múzeum.",
                   "category": "museum",
                   "coords": [
@@ -4970,7 +4970,7 @@ imageHint: "Pavlovsk Palace golden facade and dome",
                   ]
             },
             {
-                  "name": "Кремль",
+                  "name": "Kreml'",
                   "text": "Tula történelmi erődítménye, amely a 16. század elején épült.",
                   "category": "castle",
                   "coords": [
@@ -4979,7 +4979,7 @@ imageHint: "Pavlovsk Palace golden facade and dome",
                   ]
             },
             {
-                  "name": "Тульский академический театр драмы им. М. Горького",
+                  "name": "Tul'skii akademicheskii teatr dramy im. M. Gor'kogo",
                   "text": "Oroszország egyik legrégebbi színháza, amely Maxim Gorkij nevét viseli.",
                   "category": "cultural",
                   "coords": [
@@ -4988,7 +4988,7 @@ imageHint: "Pavlovsk Palace golden facade and dome",
                   ]
             },
             {
-                  "name": "Музейно-выставочный центр \"Тульские древности\"",
+                  "name": "Muzeino-vystavochnyi tsentr \"Tul'skie drevnosti\"",
                   "text": "Múzeumi központ, amely Tula régiójának régészetével és történelmével foglalkozik.",
                   "category": "museum",
                   "coords": [
@@ -4997,7 +4997,7 @@ imageHint: "Pavlovsk Palace golden facade and dome",
                   ]
             },
             {
-                  "name": "Мемориальный музей Н. И. Белобородова",
+                  "name": "Memorial'nyi muzei N. I. Beloborodova",
                   "text": "Emlékmúzeum a kromatikus harmonika feltalálója tiszteletére.",
                   "category": "museum",
                   "coords": [
@@ -5006,7 +5006,7 @@ imageHint: "Pavlovsk Palace golden facade and dome",
                   ]
             },
             {
-                  "name": "Музей Пряника",
+                  "name": "Muzei Prianika",
                   "text": "A híres tulai mézeskalácsnak szentelt múzeum.",
                   "category": "museum",
                   "coords": [
@@ -5015,7 +5015,7 @@ imageHint: "Pavlovsk Palace golden facade and dome",
                   ]
             },
             {
-                  "name": "Тульский Камерный Драматический Театр",
+                  "name": "Tul'skii Kamernyi Dramaticheskii Teatr",
                   "text": "Tulai kamaradrámai színház, amely modern és klasszikus darabokat mutat be.",
                   "category": "cultural",
                   "coords": [
@@ -5026,7 +5026,7 @@ imageHint: "Pavlovsk Palace golden facade and dome",
       ],
       "ro": [
             {
-                  "name": "Тульские самовары",
+                  "name": "Tul'skie samovary",
                   "text": "Un muzeu din Tula dedicat istoriei și fabricării samovarelor rusești.",
                   "category": "museum",
                   "coords": [
@@ -5035,7 +5035,7 @@ imageHint: "Pavlovsk Palace golden facade and dome",
                   ]
             },
             {
-                  "name": "Тульский областной краеведческий музей",
+                  "name": "Tul'skii oblastnoi kraevedcheskii muzei",
                   "text": "Un muzeu care prezintă istoria și cultura locală din Tula.",
                   "category": "museum",
                   "coords": [
@@ -5044,7 +5044,7 @@ imageHint: "Pavlovsk Palace golden facade and dome",
                   ]
             },
             {
-                  "name": "Кремль",
+                  "name": "Kreml'",
                   "text": "Cetatea istorică din Tula, construită la începutul secolului al XVI-lea.",
                   "category": "castle",
                   "coords": [
@@ -5053,7 +5053,7 @@ imageHint: "Pavlovsk Palace golden facade and dome",
                   ]
             },
             {
-                  "name": "Тульский академический театр драмы им. М. Горького",
+                  "name": "Tul'skii akademicheskii teatr dramy im. M. Gor'kogo",
                   "text": "Unul dintre cele mai vechi teatre de dramă din Rusia, numit după Maxim Gorki.",
                   "category": "cultural",
                   "coords": [
@@ -5062,7 +5062,7 @@ imageHint: "Pavlovsk Palace golden facade and dome",
                   ]
             },
             {
-                  "name": "Музейно-выставочный центр \"Тульские древности\"",
+                  "name": "Muzeino-vystavochnyi tsentr \"Tul'skie drevnosti\"",
                   "text": "Un centru muzeal dedicat arheologiei și istoriei regiunii Tula.",
                   "category": "museum",
                   "coords": [
@@ -5071,7 +5071,7 @@ imageHint: "Pavlovsk Palace golden facade and dome",
                   ]
             },
             {
-                  "name": "Мемориальный музей Н. И. Белобородова",
+                  "name": "Memorial'nyi muzei N. I. Beloborodova",
                   "text": "Un muzeu memorial dedicat inventatorului acordeonului cromatic.",
                   "category": "museum",
                   "coords": [
@@ -5080,7 +5080,7 @@ imageHint: "Pavlovsk Palace golden facade and dome",
                   ]
             },
             {
-                  "name": "Музей Пряника",
+                  "name": "Muzei Prianika",
                   "text": "Un muzeu dedicat celebrului turtă dulce din Tula.",
                   "category": "museum",
                   "coords": [
@@ -5089,7 +5089,7 @@ imageHint: "Pavlovsk Palace golden facade and dome",
                   ]
             },
             {
-                  "name": "Тульский Камерный Драматический Театр",
+                  "name": "Tul'skii Kamernyi Dramaticheskii Teatr",
                   "text": "Un teatru de cameră din Tula care pune în scenă piese moderne și clasice.",
                   "category": "cultural",
                   "coords": [
@@ -5229,7 +5229,7 @@ imageHint: "Pavlovsk Palace golden facade and dome",
                   ]
             },
             {
-                  "name": "Тульский областной краеведческий музей",
+                  "name": "Tul'skii oblastnoi kraevedcheskii muzei",
                   "text": "Ein Regionalmuseum, das die Geschichte, Kultur und Natur der Region Tula zeigt.",
                   "category": "museum",
                   "coords": [
@@ -5247,7 +5247,7 @@ imageHint: "Pavlovsk Palace golden facade and dome",
                   ]
             },
             {
-                  "name": "Тульский академический театр драмы им. М. Горького",
+                  "name": "Tul'skii akademicheskii teatr dramy im. M. Gor'kogo",
                   "text": "Eines der ältesten professionellen Dramentheater Russlands, gegründet in Tula.",
                   "category": "cultural",
                   "coords": [
@@ -5256,7 +5256,7 @@ imageHint: "Pavlovsk Palace golden facade and dome",
                   ]
             },
             {
-                  "name": "Музейно-выставочный центр \"Тульские древности\"",
+                  "name": "Muzeino-vystavochnyi tsentr \"Tul'skie drevnosti\"",
                   "text": "Ein Ausstellungszentrum, das sich auf das archäologische Erbe der Region Tula konzentriert.",
                   "category": "museum",
                   "coords": [
@@ -5265,7 +5265,7 @@ imageHint: "Pavlovsk Palace golden facade and dome",
                   ]
             },
             {
-                  "name": "Мемориальный музей Н. И. Белобородова",
+                  "name": "Memorial'nyi muzei N. I. Beloborodova",
                   "text": "Ein Gedenkmuseum, das dem Erfinder des chromatischen Akkordeons gewidmet ist.",
                   "category": "museum",
                   "coords": [
@@ -5274,7 +5274,7 @@ imageHint: "Pavlovsk Palace golden facade and dome",
                   ]
             },
             {
-                  "name": "Музей Пряника",
+                  "name": "Muzei Prianika",
                   "text": "Ein einzigartiges Museum, das die Geschichte und Herstellung des berühmten Tula-Lebkuchens zeigt.",
                   "category": "museum",
                   "coords": [
@@ -5283,7 +5283,7 @@ imageHint: "Pavlovsk Palace golden facade and dome",
                   ]
             },
             {
-                  "name": "Тульский Камерный Драматический Театр",
+                  "name": "Tul'skii Kamernyi Dramaticheskii Teatr",
                   "text": "Ein kleines professionelles Theater in Tula, das intime Dramenaufführungen anbietet.",
                   "category": "cultural",
                   "coords": [
@@ -5294,7 +5294,7 @@ imageHint: "Pavlovsk Palace golden facade and dome",
       ],
       "hu": [
             {
-                  "name": "Тульские самовары",
+                  "name": "Tul'skie samovary",
                   "text": "A hagyományos tulai szamovárok történetének és változatosságának szentelt múzeum.",
                   "category": "museum",
                   "coords": [
@@ -5303,7 +5303,7 @@ imageHint: "Pavlovsk Palace golden facade and dome",
                   ]
             },
             {
-                  "name": "Тульский областной краеведческий музей",
+                  "name": "Tul'skii oblastnoi kraevedcheskii muzei",
                   "text": "Regionális múzeum, amely Tula környékének történelmét, kultúráját és természetét mutatja be.",
                   "category": "museum",
                   "coords": [
@@ -5312,7 +5312,7 @@ imageHint: "Pavlovsk Palace golden facade and dome",
                   ]
             },
             {
-                  "name": "Кремль",
+                  "name": "Kreml'",
                   "text": "Történelmi 16. századi erőd és építészeti műemlék Tulában.",
                   "category": "castle",
                   "coords": [
@@ -5321,7 +5321,7 @@ imageHint: "Pavlovsk Palace golden facade and dome",
                   ]
             },
             {
-                  "name": "Тульский академический театр драмы им. М. Горького",
+                  "name": "Tul'skii akademicheskii teatr dramy im. M. Gor'kogo",
                   "text": "Oroszország egyik legrégebbi professzionális drámai színháza Tulában.",
                   "category": "cultural",
                   "coords": [
@@ -5330,7 +5330,7 @@ imageHint: "Pavlovsk Palace golden facade and dome",
                   ]
             },
             {
-                  "name": "Музейно-выставочный центр \"Тульские древности\"",
+                  "name": "Muzeino-vystavochnyi tsentr \"Tul'skie drevnosti\"",
                   "text": "Kiállítóhely, amely Tula régió régészeti örökségére összpontosít.",
                   "category": "museum",
                   "coords": [
@@ -5339,7 +5339,7 @@ imageHint: "Pavlovsk Palace golden facade and dome",
                   ]
             },
             {
-                  "name": "Мемориальный музей Н. И. Белобородова",
+                  "name": "Memorial'nyi muzei N. I. Beloborodova",
                   "text": "Emlékmúzeum, amelyet a kromatikus harmonika feltalálójának szenteltek.",
                   "category": "museum",
                   "coords": [
@@ -5348,7 +5348,7 @@ imageHint: "Pavlovsk Palace golden facade and dome",
                   ]
             },
             {
-                  "name": "Музей Пряника",
+                  "name": "Muzei Prianika",
                   "text": "Egyedülálló múzeum, amely a híres tulai mézeskalács történetét és készítését mutatja be.",
                   "category": "museum",
                   "coords": [
@@ -5357,7 +5357,7 @@ imageHint: "Pavlovsk Palace golden facade and dome",
                   ]
             },
             {
-                  "name": "Тульский Камерный Драматический Театр",
+                  "name": "Tul'skii Kamernyi Dramaticheskii Teatr",
                   "text": "Egy kis professzionális színház Tulában, amely bensőséges drámai előadásokat kínál.",
                   "category": "cultural",
                   "coords": [
@@ -5368,7 +5368,7 @@ imageHint: "Pavlovsk Palace golden facade and dome",
       ],
       "ro": [
             {
-                  "name": "Тульские самовары",
+                  "name": "Tul'skie samovary",
                   "text": "Un muzeu dedicat istoriei și varietății samovarelor tradiționale din Tula.",
                   "category": "museum",
                   "coords": [
@@ -5377,7 +5377,7 @@ imageHint: "Pavlovsk Palace golden facade and dome",
                   ]
             },
             {
-                  "name": "Тульский областной краеведческий музей",
+                  "name": "Tul'skii oblastnoi kraevedcheskii muzei",
                   "text": "Un muzeu regional care prezintă istoria, cultura și natura zonei Tula.",
                   "category": "museum",
                   "coords": [
@@ -5386,7 +5386,7 @@ imageHint: "Pavlovsk Palace golden facade and dome",
                   ]
             },
             {
-                  "name": "Кремль",
+                  "name": "Kreml'",
                   "text": "O cetate istorică din secolul al XVI-lea și un monument arhitectural din Tula.",
                   "category": "castle",
                   "coords": [
@@ -5395,7 +5395,7 @@ imageHint: "Pavlovsk Palace golden facade and dome",
                   ]
             },
             {
-                  "name": "Тульский академический театр драмы им. М. Горького",
+                  "name": "Tul'skii akademicheskii teatr dramy im. M. Gor'kogo",
                   "text": "Unul dintre cele mai vechi teatre dramatice profesioniste din Rusia, înființat la Tula.",
                   "category": "cultural",
                   "coords": [
@@ -5404,7 +5404,7 @@ imageHint: "Pavlovsk Palace golden facade and dome",
                   ]
             },
             {
-                  "name": "Музейно-выставочный центр \"Тульские древности\"",
+                  "name": "Muzeino-vystavochnyi tsentr \"Tul'skie drevnosti\"",
                   "text": "Un centru expozițional axat pe moștenirea arheologică a regiunii Tula.",
                   "category": "museum",
                   "coords": [
@@ -5413,7 +5413,7 @@ imageHint: "Pavlovsk Palace golden facade and dome",
                   ]
             },
             {
-                  "name": "Мемориальный музей Н. И. Белобородова",
+                  "name": "Memorial'nyi muzei N. I. Beloborodova",
                   "text": "Un muzeu memorial dedicat inventatorului acordeonului cromatic.",
                   "category": "museum",
                   "coords": [
@@ -5422,7 +5422,7 @@ imageHint: "Pavlovsk Palace golden facade and dome",
                   ]
             },
             {
-                  "name": "Музей Пряника",
+                  "name": "Muzei Prianika",
                   "text": "Un muzeu unic care explorează istoria și producția faimosului turtă dulce din Tula.",
                   "category": "museum",
                   "coords": [
@@ -5431,7 +5431,7 @@ imageHint: "Pavlovsk Palace golden facade and dome",
                   ]
             },
             {
-                  "name": "Тульский Камерный Драматический Театр",
+                  "name": "Tul'skii Kamernyi Dramaticheskii Teatr",
                   "text": "Un mic teatru profesionist din Tula, care oferă spectacole dramatice intime.",
                   "category": "cultural",
                   "coords": [
@@ -5931,7 +5931,7 @@ imageHint: "Pavlovsk Palace golden facade and dome",
                   ]
             },
             {
-                  "name": "Храм Св Иоанна Богослова на Ишне",
+                  "name": "Khram Sv Ioanna Bogoslova na Ishne",
                   "text": "Eine seltene und gut erhaltene Holzkirche aus dem 17. Jahrhundert.",
                   "category": "religious",
                   "coords": [
@@ -5951,7 +5951,7 @@ imageHint: "Pavlovsk Palace golden facade and dome",
                   ]
             },
             {
-                  "name": "Храм Св Иоанна Богослова на Ишне",
+                  "name": "Khram Sv Ioanna Bogoslova na Ishne",
                   "text": "Ritka és jól megőrzött 17. századi fatemplom.",
                   "category": "religious",
                   "coords": [
@@ -5971,7 +5971,7 @@ imageHint: "Pavlovsk Palace golden facade and dome",
                   ]
             },
             {
-                  "name": "Храм Св Иоанна Богослова на Ишне",
+                  "name": "Khram Sv Ioanna Bogoslova na Ishne",
                   "text": "O biserică din lemn rară și bine conservată din secolul al XVII-lea.",
                   "category": "religious",
                   "coords": [
@@ -6597,7 +6597,7 @@ imageHint: "Pavlovsk Palace golden facade and dome",
                   ]
             },
             {
-                  "name": "Тульский областной краеведческий музей",
+                  "name": "Tul'skii oblastnoi kraevedcheskii muzei",
                   "text": "Ein Museum, das der Geschichte, Kultur und natürlichen Umwelt der Region Tula gewidmet ist.",
                   "category": "museum",
                   "coords": [
@@ -6615,7 +6615,7 @@ imageHint: "Pavlovsk Palace golden facade and dome",
                   ]
             },
             {
-                  "name": "Тульский академический театр драмы им. М. Горького",
+                  "name": "Tul'skii akademicheskii teatr dramy im. M. Gor'kogo",
                   "text": "Dieses renommierte Theater in Tula bietet eine Vielzahl von dramatischen Aufführungen.",
                   "category": "cultural",
                   "coords": [
@@ -6624,7 +6624,7 @@ imageHint: "Pavlovsk Palace golden facade and dome",
                   ]
             },
             {
-                  "name": "Музейно-выставочный центр \"Тульские древности\"",
+                  "name": "Muzeino-vystavochnyi tsentr \"Tul'skie drevnosti\"",
                   "text": "Dieses Museum in Tula widmet sich der Erhaltung und Ausstellung lokaler Antiquitäten.",
                   "category": "museum",
                   "coords": [
@@ -6633,7 +6633,7 @@ imageHint: "Pavlovsk Palace golden facade and dome",
                   ]
             },
             {
-                  "name": "Мемориальный музей Н. И. Белобородова",
+                  "name": "Memorial'nyi muzei N. I. Beloborodova",
                   "text": "Ein Gedenkmuseum in Tula, das dem Leben und Werk von N. I. Beloborodov gewidmet ist.",
                   "category": "museum",
                   "coords": [
@@ -6642,7 +6642,7 @@ imageHint: "Pavlovsk Palace golden facade and dome",
                   ]
             },
             {
-                  "name": "Музей Пряника",
+                  "name": "Muzei Prianika",
                   "text": "Dieses Museum zeigt die Geschichte und Herstellung der berühmten Tulaer Lebkuchen.",
                   "category": "museum",
                   "coords": [
@@ -6651,7 +6651,7 @@ imageHint: "Pavlovsk Palace golden facade and dome",
                   ]
             },
             {
-                  "name": "Тульский Камерный Драматический Театр",
+                  "name": "Tul'skii Kamernyi Dramaticheskii Teatr",
                   "text": "Ein Kammertheater in Tula, das für seine intimen und ausdrucksstarken Aufführungen bekannt ist.",
                   "category": "cultural",
                   "coords": [
@@ -6662,7 +6662,7 @@ imageHint: "Pavlovsk Palace golden facade and dome",
       ],
       "hu": [
             {
-                  "name": "Тульские самовары",
+                  "name": "Tul'skie samovary",
                   "text": "Egyedülálló múzeum Tulában, amely hagyományos orosz szamovárok hatalmas gyűjteményét mutatja be.",
                   "category": "museum",
                   "coords": [
@@ -6671,7 +6671,7 @@ imageHint: "Pavlovsk Palace golden facade and dome",
                   ]
             },
             {
-                  "name": "Тульский областной краеведческий музей",
+                  "name": "Tul'skii oblastnoi kraevedcheskii muzei",
                   "text": "Tula régió történelmének, kultúrájának és természeti környezetének szentelt múzeum.",
                   "category": "museum",
                   "coords": [
@@ -6680,7 +6680,7 @@ imageHint: "Pavlovsk Palace golden facade and dome",
                   ]
             },
             {
-                  "name": "Кремль",
+                  "name": "Kreml'",
                   "text": "A tulai kreml egy történelmi erődítmény és jelentős építészeti emlékmű Tulában.",
                   "category": "castle",
                   "coords": [
@@ -6689,7 +6689,7 @@ imageHint: "Pavlovsk Palace golden facade and dome",
                   ]
             },
             {
-                  "name": "Тульский академический театр драмы им. М. Горького",
+                  "name": "Tul'skii akademicheskii teatr dramy im. M. Gor'kogo",
                   "text": "Ez a neves tulai színház számos drámai előadásnak ad otthont.",
                   "category": "cultural",
                   "coords": [
@@ -6698,7 +6698,7 @@ imageHint: "Pavlovsk Palace golden facade and dome",
                   ]
             },
             {
-                  "name": "Музейно-выставочный центр \"Тульские древности\"",
+                  "name": "Muzeino-vystavochnyi tsentr \"Tul'skie drevnosti\"",
                   "text": "Ez a tulai múzeum a helyi régiségek megőrzésének és bemutatásának szenteli magát.",
                   "category": "museum",
                   "coords": [
@@ -6707,7 +6707,7 @@ imageHint: "Pavlovsk Palace golden facade and dome",
                   ]
             },
             {
-                  "name": "Мемориальный музей Н. И. Белобородова",
+                  "name": "Memorial'nyi muzei N. I. Beloborodova",
                   "text": "N. I. Beloborodov életének és munkásságának szentelt emlékmuzeúm Tulában.",
                   "category": "museum",
                   "coords": [
@@ -6716,7 +6716,7 @@ imageHint: "Pavlovsk Palace golden facade and dome",
                   ]
             },
             {
-                  "name": "Музей Пряника",
+                  "name": "Muzei Prianika",
                   "text": "Ez a múzeum a híres tulai mézeskalács történetét és készítését mutatja be.",
                   "category": "museum",
                   "coords": [
@@ -6725,7 +6725,7 @@ imageHint: "Pavlovsk Palace golden facade and dome",
                   ]
             },
             {
-                  "name": "Тульский Камерный Драматический Театр",
+                  "name": "Tul'skii Kamernyi Dramaticheskii Teatr",
                   "text": "Egy tulai kamaraszínház, amely bensőséges és kifejező előadásairól ismert.",
                   "category": "cultural",
                   "coords": [
@@ -6736,7 +6736,7 @@ imageHint: "Pavlovsk Palace golden facade and dome",
       ],
       "ro": [
             {
-                  "name": "Тульские самовары",
+                  "name": "Tul'skie samovary",
                   "text": "Un muzeu unic în Tula, care expune o colecție vastă de samovare rusești tradiționale.",
                   "category": "museum",
                   "coords": [
@@ -6745,7 +6745,7 @@ imageHint: "Pavlovsk Palace golden facade and dome",
                   ]
             },
             {
-                  "name": "Тульский областной краеведческий музей",
+                  "name": "Tul'skii oblastnoi kraevedcheskii muzei",
                   "text": "Un muzeu dedicat istoriei, culturii și mediului natural al regiunii Tula.",
                   "category": "museum",
                   "coords": [
@@ -6754,7 +6754,7 @@ imageHint: "Pavlovsk Palace golden facade and dome",
                   ]
             },
             {
-                  "name": "Кремль",
+                  "name": "Kreml'",
                   "text": "Kremlinul din Tula este o cetate istorică și un monument arhitectural important din Tula.",
                   "category": "castle",
                   "coords": [
@@ -6763,7 +6763,7 @@ imageHint: "Pavlovsk Palace golden facade and dome",
                   ]
             },
             {
-                  "name": "Тульский академический театр драмы им. М. Горького",
+                  "name": "Tul'skii akademicheskii teatr dramy im. M. Gor'kogo",
                   "text": "Acest teatru renumit din Tula oferă o varietate de spectacole dramatice.",
                   "category": "cultural",
                   "coords": [
@@ -6772,7 +6772,7 @@ imageHint: "Pavlovsk Palace golden facade and dome",
                   ]
             },
             {
-                  "name": "Музейно-выставочный центр \"Тульские древности\"",
+                  "name": "Muzeino-vystavochnyi tsentr \"Tul'skie drevnosti\"",
                   "text": "Acest muzeu din Tula este dedicat conservării și expunerii antichităților locale.",
                   "category": "museum",
                   "coords": [
@@ -6781,7 +6781,7 @@ imageHint: "Pavlovsk Palace golden facade and dome",
                   ]
             },
             {
-                  "name": "Мемориальный музей Н. И. Белобородова",
+                  "name": "Memorial'nyi muzei N. I. Beloborodova",
                   "text": "Un muzeu memorial din Tula dedicat vieții și operei lui N. I. Beloborodov.",
                   "category": "museum",
                   "coords": [
@@ -6790,7 +6790,7 @@ imageHint: "Pavlovsk Palace golden facade and dome",
                   ]
             },
             {
-                  "name": "Музей Пряника",
+                  "name": "Muzei Prianika",
                   "text": "Acest muzeu prezintă istoria și fabricarea faimoaselor turtă dulce din Tula.",
                   "category": "museum",
                   "coords": [
@@ -6799,7 +6799,7 @@ imageHint: "Pavlovsk Palace golden facade and dome",
                   ]
             },
             {
-                  "name": "Тульский Камерный Драматический Театр",
+                  "name": "Tul'skii Kamernyi Dramaticheskii Teatr",
                   "text": "Un teatru de cameră din Tula, cunoscut pentru spectacolele sale intime și expresive.",
                   "category": "cultural",
                   "coords": [

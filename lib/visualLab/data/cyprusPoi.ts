@@ -2662,7 +2662,7 @@ export const cyprusRegions: POI[] = [
                   ]
             },
             {
-                  "name": "Κούριο",
+                  "name": "Kourio",
                   "text": "Eine bedeutende antike Stadtfestung auf Zypern mit römischen Theatern und Mosaiken.",
                   "category": "historical",
                   "coords": [
@@ -2680,7 +2680,7 @@ export const cyprusRegions: POI[] = [
                   ]
             },
             {
-                  "name": "Τοπικό Αρχαιολογικό Μουσείο Κουρίου",
+                  "name": "Topiko Arkhaiologiko Mouseio Kouriou",
                   "text": "Ein Museum, das Fundstücke aus der antiken Stadt Kourion ausstellt.",
                   "category": "museum",
                   "coords": [
@@ -2689,7 +2689,7 @@ export const cyprusRegions: POI[] = [
                   ]
             },
             {
-                  "name": "Κυπριακό Οινομουσείο",
+                  "name": "Kupriako Oinomouseio",
                   "text": "Ein Museum in Erimi, das die 6000-jährige Geschichte der Weinherstellung auf Zypern zeigt.",
                   "category": "museum",
                   "coords": [
@@ -2736,7 +2736,7 @@ export const cyprusRegions: POI[] = [
                   ]
             },
             {
-                  "name": "Κούριο",
+                  "name": "Kourio",
                   "text": "Jelentős ókori városállam Cipruson, római színházzal és mozaikokkal.",
                   "category": "historical",
                   "coords": [
@@ -2754,7 +2754,7 @@ export const cyprusRegions: POI[] = [
                   ]
             },
             {
-                  "name": "Τοπικό Αρχαιολογικό Μουσείο Κουρίου",
+                  "name": "Topiko Arkhaiologiko Mouseio Kouriou",
                   "text": "Múzeum, amely az ókori Kourion városából származó leleteket mutatja be.",
                   "category": "museum",
                   "coords": [
@@ -2763,7 +2763,7 @@ export const cyprusRegions: POI[] = [
                   ]
             },
             {
-                  "name": "Κυπριακό Οινομουσείο",
+                  "name": "Kupriako Oinomouseio",
                   "text": "Erimiben található múzeum, amely Ciprus 6000 éves borkészítési múltját mutatja be.",
                   "category": "museum",
                   "coords": [
@@ -2810,7 +2810,7 @@ export const cyprusRegions: POI[] = [
                   ]
             },
             {
-                  "name": "Κούριο",
+                  "name": "Kourio",
                   "text": "Un important oraș-stat antic din Cipru, cu un teatru roman și mozaicuri.",
                   "category": "historical",
                   "coords": [
@@ -2828,7 +2828,7 @@ export const cyprusRegions: POI[] = [
                   ]
             },
             {
-                  "name": "Τοπικό Αρχαιολογικό Μουσείο Κουρίου",
+                  "name": "Topiko Arkhaiologiko Mouseio Kouriou",
                   "text": "Un muzeu care expune artefacte descoperite în orașul antic Kourion.",
                   "category": "museum",
                   "coords": [
@@ -2837,7 +2837,7 @@ export const cyprusRegions: POI[] = [
                   ]
             },
             {
-                  "name": "Κυπριακό Οινομουσείο",
+                  "name": "Kupriako Oinomouseio",
                   "text": "Un muzeu în Erimi care prezintă istoria de 6000 de ani a vinificației în Cipru.",
                   "category": "museum",
                   "coords": [
@@ -3151,7 +3151,7 @@ export const cyprusRegions: POI[] = [
                   ]
             },
             {
-                  "name": "Ιερά Μονή Κύκκου",
+                  "name": "Iera Mone Kukkou",
                   "text": "Ciprus egyik leggazdagabb és leghíresebb kolostora a Troodos-hegységben.",
                   "category": "landmark",
                   "coords": [
@@ -3180,7 +3180,7 @@ export const cyprusRegions: POI[] = [
                   ]
             },
             {
-                  "name": "Ιερά Μονή Κύκκου",
+                  "name": "Iera Mone Kukkou",
                   "text": "Una dintre cele mai bogate și renumite mănăstiri din Cipru, situată în Munții Troodos.",
                   "category": "landmark",
                   "coords": [
@@ -3581,7 +3581,7 @@ export const cyprusRegions: POI[] = [
     id: "cy-mount-olympus", "sights": {
       "de": [
             {
-                  "name": "Εθνικό Δασικό Πάρκο Τροόδους",
+                  "name": "Ethniko Dasiko Parko Troodous",
                   "text": "Ein weitläufiges Waldschutzgebiet im Troodos-Gebirge mit Wanderwegen und reicher Flora.",
                   "category": "natural",
                   "coords": [
@@ -3655,7 +3655,7 @@ export const cyprusRegions: POI[] = [
       ],
       "hu": [
             {
-                  "name": "Εθνικό Δασικό Πάρκο Τροόδους",
+                  "name": "Ethniko Dasiko Parko Troodous",
                   "text": "Kiterjedt erdővédelmi terület a Troodos-hegységben, túraútvonalakkal és gazdag flórával.",
                   "category": "natural",
                   "coords": [
@@ -3664,7 +3664,7 @@ export const cyprusRegions: POI[] = [
                   ]
             },
             {
-                  "name": "Όλυμπος",
+                  "name": "Olumpos",
                   "text": "1952 méterével Ciprus legmagasabb csúcsa, a Troodos-hegység szívében.",
                   "category": "landmark",
                   "coords": [
@@ -3729,7 +3729,7 @@ export const cyprusRegions: POI[] = [
       ],
       "ro": [
             {
-                  "name": "Εθνικό Δασικό Πάρκο Τροόδους",
+                  "name": "Ethniko Dasiko Parko Troodous",
                   "text": "O rezervație forestieră vastă în Munții Troodos, cu trasee de drumeție și floră bogată.",
                   "category": "natural",
                   "coords": [
@@ -3738,7 +3738,7 @@ export const cyprusRegions: POI[] = [
                   ]
             },
             {
-                  "name": "Όλυμπος",
+                  "name": "Olumpos",
                   "text": "Cel mai înalt vârf din Cipru, cu o altitudine de 1952 metri, situat în Munții Troodos.",
                   "category": "landmark",
                   "coords": [
@@ -3964,7 +3964,7 @@ export const cyprusRegions: POI[] = [
     id: "cy-akamas", "sights": {
       "de": [
             {
-                  "name": "Χερσόνησος Ακάμα",
+                  "name": "Khersonesos Akama",
                   "text": "Ein unberührtes Naturschutzgebiet im Westen Zyperns mit reicher Biodiversität.",
                   "category": "natural",
                   "coords": [
@@ -3982,7 +3982,7 @@ export const cyprusRegions: POI[] = [
                   ]
             },
             {
-                  "name": "Πύργος της Ρήγαινας",
+                  "name": "Purgos tes Regainas",
                   "text": "Die Ruinen eines mittelalterlichen Turms, der mit lokalen Legenden verbunden ist.",
                   "category": "historical",
                   "coords": [
@@ -4011,7 +4011,7 @@ export const cyprusRegions: POI[] = [
       ],
       "hu": [
             {
-                  "name": "Χερσόνησος Ακάμα",
+                  "name": "Khersonesos Akama",
                   "text": "Érintetlen természetvédelmi terület Ciprus nyugati részén, gazdag élővilággal.",
                   "category": "natural",
                   "coords": [
@@ -4029,7 +4029,7 @@ export const cyprusRegions: POI[] = [
                   ]
             },
             {
-                  "name": "Πύργος της Ρήγαινας",
+                  "name": "Purgos tes Regainas",
                   "text": "Egy középkori torony romjai, amelyhez helyi legendák fűződnek.",
                   "category": "historical",
                   "coords": [
@@ -4058,7 +4058,7 @@ export const cyprusRegions: POI[] = [
       ],
       "ro": [
             {
-                  "name": "Χερσόνησος Ακάμα",
+                  "name": "Khersonesos Akama",
                   "text": "O peninsulă sălbatică și rezervație naturală în vestul Ciprului, cu o biodiversitate bogată.",
                   "category": "natural",
                   "coords": [
@@ -4076,7 +4076,7 @@ export const cyprusRegions: POI[] = [
                   ]
             },
             {
-                  "name": "Πύργος της Ρήγαινας",
+                  "name": "Purgos tes Regainas",
                   "text": "Ruinele unui turn medieval, asociate cu legende locale.",
                   "category": "historical",
                   "coords": [
@@ -4248,7 +4248,7 @@ export const cyprusRegions: POI[] = [
                   ]
             },
             {
-                  "name": "Εθνικό Δασικό Πάρκο Πέτρα του Ρωμιού",
+                  "name": "Ethniko Dasiko Parko Petra tou Romiou",
                   "text": "Ein geschütztes Waldgebiet, das die Küstenformation Petra tou Romiou umgibt.",
                   "category": "natural",
                   "coords": [
@@ -4304,7 +4304,7 @@ export const cyprusRegions: POI[] = [
                   ]
             },
             {
-                  "name": "Εθνικό Δασικό Πάρκο Πέτρα του Ρωμιού",
+                  "name": "Ethniko Dasiko Parko Petra tou Romiou",
                   "text": "Védett erdős terület, amely körülveszi a Petra tou Romiou parti képződményt.",
                   "category": "natural",
                   "coords": [
@@ -4313,7 +4313,7 @@ export const cyprusRegions: POI[] = [
                   ]
             },
             {
-                  "name": "Πέτρα του Ρωμιού",
+                  "name": "Petra tou Romiou",
                   "text": "Jellegzetes szikla a tengerparton, amelyet Aphrodité születési helyének tartanak.",
                   "category": "landmark",
                   "coords": [
@@ -4360,7 +4360,7 @@ export const cyprusRegions: POI[] = [
                   ]
             },
             {
-                  "name": "Εθνικό Δασικό Πάρκο Πέτρα του Ρωμιού",
+                  "name": "Ethniko Dasiko Parko Petra tou Romiou",
                   "text": "O zonă forestieră protejată care înconjoară formațiunea de coastă Petra tou Romiou.",
                   "category": "natural",
                   "coords": [
@@ -4369,7 +4369,7 @@ export const cyprusRegions: POI[] = [
                   ]
             },
             {
-                  "name": "Πέτρα του Ρωμιού",
+                  "name": "Petra tou Romiou",
                   "text": "O stâncă proeminentă de pe coastă, considerată locul de naștere al Afroditei.",
                   "category": "landmark",
                   "coords": [
@@ -4508,7 +4508,7 @@ export const cyprusRegions: POI[] = [
       "de": [
             {
                   "name": "Paralia Aspropotamoy",
-                  "text": "Παραλια Ασπροποταμου ist ein Strand bei der Avakas-Schlucht.",
+                  "text": "Paralia Aspropotamou ist ein Strand bei der Avakas-Schlucht.",
                   "category": "recreational",
                   "coords": [
                         32.326024,
@@ -4573,7 +4573,7 @@ export const cyprusRegions: POI[] = [
       "hu": [
             {
                   "name": "Paralia Aspropotamoy",
-                  "text": "A Παραλια Ασπροποταμου egy strand az Avakas-szurdok közelében.",
+                  "text": "A Paralia Aspropotamou egy strand az Avakas-szurdok közelében.",
                   "category": "recreational",
                   "coords": [
                         32.326024,
@@ -4638,7 +4638,7 @@ export const cyprusRegions: POI[] = [
       "ro": [
             {
                   "name": "Paralia Aspropotamoy",
-                  "text": "Παραλια Ασπροποταμου este o plajă lângă Cheile Avakas.",
+                  "text": "Paralia Aspropotamou este o plajă lângă Cheile Avakas.",
                   "category": "recreational",
                   "coords": [
                         32.326024,
@@ -4703,7 +4703,7 @@ export const cyprusRegions: POI[] = [
       "en": [
             {
                   "name": "Paralia Aspropotamoy",
-                  "text": "Παραλια Ασπροποταμου is a beach near Avakas Gorge.",
+                  "text": "Paralia Aspropotamou is a beach near Avakas Gorge.",
                   "category": "recreational",
                   "coords": [
                         32.326024,
@@ -5172,7 +5172,7 @@ export const cyprusRegions: POI[] = [
                   ]
             },
             {
-                  "name": "Πύργος της Ρήγαινας",
+                  "name": "Purgos tes Regainas",
                   "text": "Antike Ruinen eines mittelalterlichen Turms in der Nähe der Blauen Lagune.",
                   "category": "historical",
                   "coords": [
@@ -5246,7 +5246,7 @@ export const cyprusRegions: POI[] = [
                   ]
             },
             {
-                  "name": "Πύργος της Ρήγαινας",
+                  "name": "Purgos tes Regainas",
                   "text": "Egy középkori torony ősi romjai a Kék Lagúna közelében.",
                   "category": "historical",
                   "coords": [
@@ -5320,7 +5320,7 @@ export const cyprusRegions: POI[] = [
                   ]
             },
             {
-                  "name": "Πύργος της Ρήγαινας",
+                  "name": "Purgos tes Regainas",
                   "text": "Ruinele antice ale unui turn medieval situat lângă Laguna Albastră.",
                   "category": "historical",
                   "coords": [
@@ -5788,7 +5788,7 @@ export const cyprusRegions: POI[] = [
                   ]
             },
             {
-                  "name": "Κούριο",
+                  "name": "Kourio",
                   "text": "Ein bedeutender antiker griechischer Stadtstaat auf Zypern mit beeindruckenden Mosaiken und archäologischen Überresten.",
                   "category": "historical",
                   "coords": [
@@ -5806,7 +5806,7 @@ export const cyprusRegions: POI[] = [
                   ]
             },
             {
-                  "name": "Τοπικό Αρχαιολογικό Μουσείο Κουρίου",
+                  "name": "Topiko Arkhaiologiko Mouseio Kouriou",
                   "text": "Ein Museum in Episkopi, das bedeutende Artefakte und Funde aus der nahe gelegenen antiken Stadt Kourion beherbergt.",
                   "category": "museum",
                   "coords": [
@@ -5833,7 +5833,7 @@ export const cyprusRegions: POI[] = [
                   ]
             },
             {
-                  "name": "Κourion Ancient Amphitheater",
+                  "name": "ourion Ancient Amphitheater",
                   "text": "Ein restauriertes griechisch-römisches Theater in Kourion, das ursprünglich Tausenden Platz bot und heute noch für Aufführungen genutzt wird.",
                   "category": "historical",
                   "coords": [
@@ -5862,7 +5862,7 @@ export const cyprusRegions: POI[] = [
                   ]
             },
             {
-                  "name": "Κούριο",
+                  "name": "Kourio",
                   "text": "Fontos ókori görög városállam Cipruson, amely lenyűgöző mozaikokkal és régészeti maradványokkal rendelkezik.",
                   "category": "historical",
                   "coords": [
@@ -5880,7 +5880,7 @@ export const cyprusRegions: POI[] = [
                   ]
             },
             {
-                  "name": "Τοπικό Αρχαιολογικό Μουσείο Κουρίου",
+                  "name": "Topiko Arkhaiologiko Mouseio Kouriou",
                   "text": "Episkopi múzeuma, amely a közeli ókori Kourion városából származó jelentős leleteket és tárgyakat őriz.",
                   "category": "museum",
                   "coords": [
@@ -5936,7 +5936,7 @@ export const cyprusRegions: POI[] = [
                   ]
             },
             {
-                  "name": "Κούριο",
+                  "name": "Kourio",
                   "text": "Un important oraș-stat grec antic din Cipru, cu mozaicuri impresionante și resturi arheologice.",
                   "category": "historical",
                   "coords": [
@@ -5954,7 +5954,7 @@ export const cyprusRegions: POI[] = [
                   ]
             },
             {
-                  "name": "Τοπικό Αρχαιολογικό Μουσείο Κουρίου",
+                  "name": "Topiko Arkhaiologiko Mouseio Kouriou",
                   "text": "Un muzeu din Episkopi care adăpostește artefacte și descoperiri semnificative din orașul antic Kourion din apropiere.",
                   "category": "museum",
                   "coords": [

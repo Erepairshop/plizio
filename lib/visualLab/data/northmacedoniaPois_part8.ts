@@ -229,7 +229,7 @@ export const mkPoisPart8: POI[] = [
     id: "MK-073-ilinden-monument", "sights": {
       "de": [
             {
-                  "name": "Ајватовски Манастир",
+                  "name": "Ajvatovski Manastir",
                   "text": "Eine religiöse Stätte in der Nähe des Ilinden-Denkmals, die für die lokale Gemeinschaft von Bedeutung ist.",
                   "category": "landmark",
                   "coords": [
@@ -240,7 +240,7 @@ export const mkPoisPart8: POI[] = [
       ],
       "hu": [
             {
-                  "name": "Ајватовски Манастир",
+                  "name": "Ajvatovski Manastir",
                   "text": "Vallási helyszín az Ilinden-emlékmű közelében, amely fontos a helyi közösség számára.",
                   "category": "landmark",
                   "coords": [
@@ -251,7 +251,7 @@ export const mkPoisPart8: POI[] = [
       ],
       "ro": [
             {
-                  "name": "Ајватовски Манастир",
+                  "name": "Ajvatovski Manastir",
                   "text": "Un lăcaș religios lângă Monumentul Ilinden, având importanță pentru comunitatea locală.",
                   "category": "landmark",
                   "coords": [
@@ -498,7 +498,7 @@ export const mkPoisPart8: POI[] = [
     id: "MK-075-isari-fortress", "sights": {
       "de": [
             {
-                  "name": "ЗОО Парк „Бриони“",
+                  "name": "ZOO Park ,,Brioni\"",
                   "text": "Ein kleiner Zoo in der Nähe der Festung Isar in Štip mit verschiedenen Tierarten.",
                   "category": "recreational",
                   "coords": [
@@ -507,7 +507,7 @@ export const mkPoisPart8: POI[] = [
                   ]
             },
             {
-                  "name": "Бања \"Ќежовица\"",
+                  "name": "Banja \"Kjezhovitsa\"",
                   "text": "Ein Thermalbadzentrum in Štip, bekannt für sein Mineralwasser und seine therapeutischen Behandlungen.",
                   "category": "landmark",
                   "coords": [
@@ -516,7 +516,7 @@ export const mkPoisPart8: POI[] = [
                   ]
             },
             {
-                  "name": "Успение на Пресвета Богородица",
+                  "name": "Uspenie na Presveta Bogoroditsa",
                   "text": "Eine historische orthodoxe Kirche im Stadtteil Novo Selo von Štip, bekannt für ihre religiöse Bedeutung.",
                   "category": "religious",
                   "coords": [
@@ -525,7 +525,7 @@ export const mkPoisPart8: POI[] = [
                   ]
             },
             {
-                  "name": "Св. Спас",
+                  "name": "Sv. Spas",
                   "text": "Eine mittelalterliche orthodoxe Kirche im Viertel Novo Selo in der Nähe der Festung Isar.",
                   "category": "religious",
                   "coords": [
@@ -534,7 +534,7 @@ export const mkPoisPart8: POI[] = [
                   ]
             },
             {
-                  "name": "Св. Архангел Михаил (Главатов)",
+                  "name": "Sv. Arkhangel Mikhail (Главатов)",
                   "text": "Eine historische kleine Kirche, die dem Erzengel Michael gewidmet ist und sich in der Stadt Štip befindet.",
                   "category": "religious",
                   "coords": [
@@ -543,7 +543,7 @@ export const mkPoisPart8: POI[] = [
                   ]
             },
             {
-                  "name": "Св. Архангел Михаил (Фитијата)",
+                  "name": "Sv. Arkhangel Mikhail (Фитијата)",
                   "text": "Eine orthodoxe Kirche aus dem 14. Jahrhundert in Štip, die in die Hänge des Isar-Hügels gebaut wurde.",
                   "category": "religious",
                   "coords": [
@@ -552,7 +552,7 @@ export const mkPoisPart8: POI[] = [
                   ]
             },
             {
-                  "name": "Св. Троица",
+                  "name": "Sv. Troitsa",
                   "text": "Eine orthodoxe Kirche im Stadtteil Novo Selo von Štip, die der örtlichen Gemeinde dient.",
                   "category": "religious",
                   "coords": [
@@ -561,7 +561,7 @@ export const mkPoisPart8: POI[] = [
                   ]
             },
             {
-                  "name": "Св. Јован Крстител",
+                  "name": "Sv. Jovan Krstitel",
                   "text": "Eine mittelalterliche Kirche in Štip, die dem heiligen Johannes dem Täufer gewidmet ist und für ihre schlichte Steinarchitektur bekannt ist.",
                   "category": "religious",
                   "coords": [
@@ -572,7 +572,7 @@ export const mkPoisPart8: POI[] = [
       ],
       "hu": [
             {
-                  "name": "ЗОО Парк „Бриони“",
+                  "name": "ZOO Park ,,Brioni\"",
                   "text": "Egy kis állatkert a štipi Isar-erőd közelében, különféle állatfajokkal.",
                   "category": "recreational",
                   "coords": [
@@ -581,7 +581,7 @@ export const mkPoisPart8: POI[] = [
                   ]
             },
             {
-                  "name": "Бања \"Ќежовица\"",
+                  "name": "Banja \"Kjezhovitsa\"",
                   "text": "Termálfürdő központ Štipben, amely ásványvizeiről és terápiás kezeléseiről ismert.",
                   "category": "landmark",
                   "coords": [
@@ -590,7 +590,7 @@ export const mkPoisPart8: POI[] = [
                   ]
             },
             {
-                  "name": "Успение на Пресвета Богородица",
+                  "name": "Uspenie na Presveta Bogoroditsa",
                   "text": "Történelmi ortodox templom Štip Novo Selo negyedében, amely vallási jelentőségéről ismert.",
                   "category": "religious",
                   "coords": [
@@ -599,7 +599,7 @@ export const mkPoisPart8: POI[] = [
                   ]
             },
             {
-                  "name": "Св. Спас",
+                  "name": "Sv. Spas",
                   "text": "Középkori ortodox templom Novo Selo területén, az Isar-erőd közelében.",
                   "category": "religious",
                   "coords": [
@@ -608,7 +608,7 @@ export const mkPoisPart8: POI[] = [
                   ]
             },
             {
-                  "name": "Св. Архангел Михаил (Главатов)",
+                  "name": "Sv. Arkhangel Mikhail (Главатов)",
                   "text": "Szent Mihály arkangyalnak szentelt történelmi kis templom Štip városában.",
                   "category": "religious",
                   "coords": [
@@ -617,7 +617,7 @@ export const mkPoisPart8: POI[] = [
                   ]
             },
             {
-                  "name": "Св. Архангел Михаил (Фитијата)",
+                  "name": "Sv. Arkhangel Mikhail (Фитијата)",
                   "text": "14. századi ortodox templom Štipben, amely az Isar-domb lejtőjébe épült.",
                   "category": "religious",
                   "coords": [
@@ -626,7 +626,7 @@ export const mkPoisPart8: POI[] = [
                   ]
             },
             {
-                  "name": "Св. Троица",
+                  "name": "Sv. Troitsa",
                   "text": "Ortodox templom Štip Novo Selo negyedében, amely a helyi közösséget szolgálja.",
                   "category": "religious",
                   "coords": [
@@ -635,7 +635,7 @@ export const mkPoisPart8: POI[] = [
                   ]
             },
             {
-                  "name": "Св. Јован Крстител",
+                  "name": "Sv. Jovan Krstitel",
                   "text": "Keresztelő Szent Jánosnak szentelt középkori templom Štipben, amely egyszerű kőépítészetéről ismert.",
                   "category": "religious",
                   "coords": [
@@ -646,7 +646,7 @@ export const mkPoisPart8: POI[] = [
       ],
       "ro": [
             {
-                  "name": "ЗОО Парк „Бриони“",
+                  "name": "ZOO Park ,,Brioni\"",
                   "text": "O mică grădină zoologică situată lângă Cetatea Isar din Štip, care adăpostește diverse specii de animale.",
                   "category": "recreational",
                   "coords": [
@@ -655,7 +655,7 @@ export const mkPoisPart8: POI[] = [
                   ]
             },
             {
-                  "name": "Бања \"Ќежовица\"",
+                  "name": "Banja \"Kjezhovitsa\"",
                   "text": "Un centru balnear termal din Štip, cunoscut pentru apele sale minerale și tratamentele terapeutice.",
                   "category": "landmark",
                   "coords": [
@@ -664,7 +664,7 @@ export const mkPoisPart8: POI[] = [
                   ]
             },
             {
-                  "name": "Успение на Пресвета Богородица",
+                  "name": "Uspenie na Presveta Bogoroditsa",
                   "text": "O biserică ortodoxă istorică din districtul Novo Selo din Štip, cunoscută pentru semnificația sa religioasă.",
                   "category": "religious",
                   "coords": [
@@ -673,7 +673,7 @@ export const mkPoisPart8: POI[] = [
                   ]
             },
             {
-                  "name": "Св. Спас",
+                  "name": "Sv. Spas",
                   "text": "O biserică ortodoxă medievală situată în zona Novo Selo, lângă Cetatea Isar.",
                   "category": "religious",
                   "coords": [
@@ -682,7 +682,7 @@ export const mkPoisPart8: POI[] = [
                   ]
             },
             {
-                  "name": "Св. Архангел Михаил (Главатов)",
+                  "name": "Sv. Arkhangel Mikhail (Главатов)",
                   "text": "O mică biserică istorică dedicată Arhanghelului Mihail, situată în orașul Štip.",
                   "category": "religious",
                   "coords": [
@@ -691,7 +691,7 @@ export const mkPoisPart8: POI[] = [
                   ]
             },
             {
-                  "name": "Св. Архангел Михаил (Фитијата)",
+                  "name": "Sv. Arkhangel Mikhail (Фитијата)",
                   "text": "O biserică ortodoxă din secolul al XIV-lea din Štip, construită în panta dealului Isar.",
                   "category": "religious",
                   "coords": [
@@ -700,7 +700,7 @@ export const mkPoisPart8: POI[] = [
                   ]
             },
             {
-                  "name": "Св. Троица",
+                  "name": "Sv. Troitsa",
                   "text": "O biserică ortodoxă situată în districtul Novo Selo din Štip, care deservește comunitatea locală.",
                   "category": "religious",
                   "coords": [
@@ -709,7 +709,7 @@ export const mkPoisPart8: POI[] = [
                   ]
             },
             {
-                  "name": "Св. Јован Крстител",
+                  "name": "Sv. Jovan Krstitel",
                   "text": "O biserică medievală din Štip dedicată Sfântului Ioan Botezătorul, cunoscută pentru arhitectura sa simplă din piatră.",
                   "category": "religious",
                   "coords": [
@@ -839,7 +839,7 @@ export const mkPoisPart8: POI[] = [
     id: "MK-075-st-nicholas-stip", "sights": {
       "de": [
             {
-                  "name": "ЗОО Парк „Бриони“",
+                  "name": "ZOO Park ,,Brioni\"",
                   "text": "Ein Tierpark in Štip, der verschiedene Tierarten beherbergt.",
                   "category": "recreational",
                   "coords": [
@@ -848,7 +848,7 @@ export const mkPoisPart8: POI[] = [
                   ]
             },
             {
-                  "name": "Бања \"Ќежовица\"",
+                  "name": "Banja \"Kjezhovitsa\"",
                   "text": "Ein bekanntes Thermalbad und Kurzentrum bei Štip.",
                   "category": "landmark",
                   "coords": [
@@ -857,7 +857,7 @@ export const mkPoisPart8: POI[] = [
                   ]
             },
             {
-                  "name": "Успение на Пресвета Богородица",
+                  "name": "Uspenie na Presveta Bogoroditsa",
                   "text": "Eine bedeutende orthodoxe Kirche im Stadtteil Novo Selo von Štip.",
                   "category": "religious",
                   "coords": [
@@ -866,7 +866,7 @@ export const mkPoisPart8: POI[] = [
                   ]
             },
             {
-                  "name": "Св. Спас",
+                  "name": "Sv. Spas",
                   "text": "Eine historische christliche Kirche in Štip.",
                   "category": "religious",
                   "coords": [
@@ -875,7 +875,7 @@ export const mkPoisPart8: POI[] = [
                   ]
             },
             {
-                  "name": "Св. Архангел Михаил (Главатов)",
+                  "name": "Sv. Arkhangel Mikhail (Главатов)",
                   "text": "Eine der alten Kirchen in Štip, die dem Erzengel Michael gewidmet ist.",
                   "category": "religious",
                   "coords": [
@@ -884,7 +884,7 @@ export const mkPoisPart8: POI[] = [
                   ]
             },
             {
-                  "name": "Св. Архангел Михаил (Фитијата)",
+                  "name": "Sv. Arkhangel Mikhail (Фитијата)",
                   "text": "Eine weitere historische Kirche in Štip, bekannt unter dem Namen Fitijata.",
                   "category": "religious",
                   "coords": [
@@ -893,7 +893,7 @@ export const mkPoisPart8: POI[] = [
                   ]
             },
             {
-                  "name": "Св. Троица",
+                  "name": "Sv. Troitsa",
                   "text": "Eine orthodoxe Kirche im Stadtteil Novo Selo von Štip.",
                   "category": "religious",
                   "coords": [
@@ -902,7 +902,7 @@ export const mkPoisPart8: POI[] = [
                   ]
             },
             {
-                  "name": "Св. Јован Крстител",
+                  "name": "Sv. Jovan Krstitel",
                   "text": "Eine dem heiligen Johannes dem Täufer gewidmete Kirche in Štip.",
                   "category": "religious",
                   "coords": [
@@ -913,7 +913,7 @@ export const mkPoisPart8: POI[] = [
       ],
       "hu": [
             {
-                  "name": "ЗОО Парк „Бриони“",
+                  "name": "ZOO Park ,,Brioni\"",
                   "text": "Állatkert Štipben, amely különféle állatfajoknak ad otthont.",
                   "category": "recreational",
                   "coords": [
@@ -922,7 +922,7 @@ export const mkPoisPart8: POI[] = [
                   ]
             },
             {
-                  "name": "Бања \"Ќежовица\"",
+                  "name": "Banja \"Kjezhovitsa\"",
                   "text": "Ismert termálfürdő és gyógyközpont Štip közelében.",
                   "category": "landmark",
                   "coords": [
@@ -931,7 +931,7 @@ export const mkPoisPart8: POI[] = [
                   ]
             },
             {
-                  "name": "Успение на Пресвета Богородица",
+                  "name": "Uspenie na Presveta Bogoroditsa",
                   "text": "Egy jelentős ortodox templom Štip Novo Selo negyedében.",
                   "category": "religious",
                   "coords": [
@@ -940,7 +940,7 @@ export const mkPoisPart8: POI[] = [
                   ]
             },
             {
-                  "name": "Св. Спас",
+                  "name": "Sv. Spas",
                   "text": "Egy történelmi keresztény templom Štip városában.",
                   "category": "religious",
                   "coords": [
@@ -949,7 +949,7 @@ export const mkPoisPart8: POI[] = [
                   ]
             },
             {
-                  "name": "Св. Архангел Михаил (Главатов)",
+                  "name": "Sv. Arkhangel Mikhail (Главатов)",
                   "text": "Štip egyik régi temploma, amelyet Szent Mihály arkangyalnak szenteltek.",
                   "category": "religious",
                   "coords": [
@@ -958,7 +958,7 @@ export const mkPoisPart8: POI[] = [
                   ]
             },
             {
-                  "name": "Св. Архангел Михаил (Фитијата)",
+                  "name": "Sv. Arkhangel Mikhail (Фитијата)",
                   "text": "Egy másik történelmi templom Štipben, amely Fitijata néven ismert.",
                   "category": "religious",
                   "coords": [
@@ -967,7 +967,7 @@ export const mkPoisPart8: POI[] = [
                   ]
             },
             {
-                  "name": "Св. Троица",
+                  "name": "Sv. Troitsa",
                   "text": "Ortodox templom Štip Novo Selo negyedében.",
                   "category": "religious",
                   "coords": [
@@ -976,7 +976,7 @@ export const mkPoisPart8: POI[] = [
                   ]
             },
             {
-                  "name": "Св. Јован Крстител",
+                  "name": "Sv. Jovan Krstitel",
                   "text": "Keresztelő Szent Jánosnak szentelt templom Štip városában.",
                   "category": "religious",
                   "coords": [
@@ -987,7 +987,7 @@ export const mkPoisPart8: POI[] = [
       ],
       "ro": [
             {
-                  "name": "ЗОО Парк „Бриони“",
+                  "name": "ZOO Park ,,Brioni\"",
                   "text": "O grădină zoologică din Štip care găzduiește diverse specii de animale.",
                   "category": "recreational",
                   "coords": [
@@ -996,7 +996,7 @@ export const mkPoisPart8: POI[] = [
                   ]
             },
             {
-                  "name": "Бања \"Ќежовица\"",
+                  "name": "Banja \"Kjezhovitsa\"",
                   "text": "Un cunoscut centru termal și balnear situat lângă Štip.",
                   "category": "landmark",
                   "coords": [
@@ -1005,7 +1005,7 @@ export const mkPoisPart8: POI[] = [
                   ]
             },
             {
-                  "name": "Успение на Пресвета Богородица",
+                  "name": "Uspenie na Presveta Bogoroditsa",
                   "text": "O biserică ortodoxă importantă situată în cartierul Novo Selo din Štip.",
                   "category": "religious",
                   "coords": [
@@ -1014,7 +1014,7 @@ export const mkPoisPart8: POI[] = [
                   ]
             },
             {
-                  "name": "Св. Спас",
+                  "name": "Sv. Spas",
                   "text": "O biserică creștină istorică din Štip.",
                   "category": "religious",
                   "coords": [
@@ -1023,7 +1023,7 @@ export const mkPoisPart8: POI[] = [
                   ]
             },
             {
-                  "name": "Св. Архангел Михаил (Главатов)",
+                  "name": "Sv. Arkhangel Mikhail (Главатов)",
                   "text": "Una dintre bisericile vechi din Štip, dedicată Sfântului Arhanghel Mihail.",
                   "category": "religious",
                   "coords": [
@@ -1032,7 +1032,7 @@ export const mkPoisPart8: POI[] = [
                   ]
             },
             {
-                  "name": "Св. Архангел Михаил (Фитијата)",
+                  "name": "Sv. Arkhangel Mikhail (Фитијата)",
                   "text": "O altă biserică istorică din Štip, cunoscută sub numele de Fitijata.",
                   "category": "religious",
                   "coords": [
@@ -1041,7 +1041,7 @@ export const mkPoisPart8: POI[] = [
                   ]
             },
             {
-                  "name": "Св. Троица",
+                  "name": "Sv. Troitsa",
                   "text": "O biserică ortodoxă situată în cartierul Novo Selo din Štip.",
                   "category": "religious",
                   "coords": [
@@ -1050,7 +1050,7 @@ export const mkPoisPart8: POI[] = [
                   ]
             },
             {
-                  "name": "Св. Јован Крстител",
+                  "name": "Sv. Jovan Krstitel",
                   "text": "O biserică dedicată Sfântului Ioan Botezătorul în Štip.",
                   "category": "religious",
                   "coords": [
@@ -1359,7 +1359,7 @@ export const mkPoisPart8: POI[] = [
     id: "MK-078-veles-old-architecture", "sights": {
       "de": [
             {
-                  "name": "Спомен Костурница",
+                  "name": "Spomen Kosturnitsa",
                   "text": "Ein Denkmal und Beinhaus in Veles, das den Kämpfern des Zweiten Weltkriegs gewidmet ist.",
                   "category": "museum",
                   "coords": [
@@ -1377,7 +1377,7 @@ export const mkPoisPart8: POI[] = [
                   ]
             },
             {
-                  "name": "Црна Џамија",
+                  "name": "Tsrna Dzhamija",
                   "text": "Eine historische Moschee in der Altstadt von Veles, auch bekannt als Fazil-Ahmet-Pascha-Moschee.",
                   "category": "religious",
                   "coords": [
@@ -1388,7 +1388,7 @@ export const mkPoisPart8: POI[] = [
       ],
       "hu": [
             {
-                  "name": "Спомен Костурница",
+                  "name": "Spomen Kosturnitsa",
                   "text": "A második világháború elesett harcosainak emléket állító emlékmű és csontkamra Velesben.",
                   "category": "museum",
                   "coords": [
@@ -1406,7 +1406,7 @@ export const mkPoisPart8: POI[] = [
                   ]
             },
             {
-                  "name": "Црна Џамија",
+                  "name": "Tsrna Dzhamija",
                   "text": "Történelmi mecset Veles óvárosában, Fazil Ahmed pasa mecseteként is ismert.",
                   "category": "religious",
                   "coords": [
@@ -1417,7 +1417,7 @@ export const mkPoisPart8: POI[] = [
       ],
       "ro": [
             {
-                  "name": "Спомен Костурница",
+                  "name": "Spomen Kosturnitsa",
                   "text": "Un monument și osuar în Veles, dedicat luptătorilor căzuți în al Doilea Război Mondial.",
                   "category": "museum",
                   "coords": [
@@ -1435,7 +1435,7 @@ export const mkPoisPart8: POI[] = [
                   ]
             },
             {
-                  "name": "Црна Џамија",
+                  "name": "Tsrna Dzhamija",
                   "text": "O moschee istorică în centrul vechi al orașului Veles, cunoscută și sub numele de Moscheea Fazil Ahmed Pașa.",
                   "category": "religious",
                   "coords": [
@@ -1520,7 +1520,7 @@ export const mkPoisPart8: POI[] = [
     id: "MK-078-st-pantaleon-veles", "sights": {
       "de": [
             {
-                  "name": "Спомен Костурница",
+                  "name": "Spomen Kosturnitsa",
                   "text": "Ein monumentales Ossuarium, das an die gefallenen Kämpfer aus Veles erinnert.",
                   "category": "museum",
                   "coords": [
@@ -1538,7 +1538,7 @@ export const mkPoisPart8: POI[] = [
                   ]
             },
             {
-                  "name": "Црна Џамија",
+                  "name": "Tsrna Dzhamija",
                   "text": "Eine historische Moschee in Veles, auch bekannt als Fazil-Ahmed-Pascha-Moschee.",
                   "category": "religious",
                   "coords": [
@@ -1549,7 +1549,7 @@ export const mkPoisPart8: POI[] = [
       ],
       "hu": [
             {
-                  "name": "Спомен Костурница",
+                  "name": "Spomen Kosturnitsa",
                   "text": "Monumentális csontváz-emlékmű, amely a veleszi elesett harcosoknak állít emléket.",
                   "category": "museum",
                   "coords": [
@@ -1567,7 +1567,7 @@ export const mkPoisPart8: POI[] = [
                   ]
             },
             {
-                  "name": "Црна Џамија",
+                  "name": "Tsrna Dzhamija",
                   "text": "Történelmi mecset Velesben, más néven Fazil Ahmed pasa mecset.",
                   "category": "religious",
                   "coords": [
@@ -1578,7 +1578,7 @@ export const mkPoisPart8: POI[] = [
       ],
       "ro": [
             {
-                  "name": "Спомен Костурница",
+                  "name": "Spomen Kosturnitsa",
                   "text": "Un osuar monumental care comemorează luptătorii căzuți din Veles.",
                   "category": "museum",
                   "coords": [
@@ -1596,7 +1596,7 @@ export const mkPoisPart8: POI[] = [
                   ]
             },
             {
-                  "name": "Црна Џамија",
+                  "name": "Tsrna Dzhamija",
                   "text": "O moschee istorică din Veles, cunoscută și sub numele de Moscheea Fazil Ahmed Pașa.",
                   "category": "religious",
                   "coords": [

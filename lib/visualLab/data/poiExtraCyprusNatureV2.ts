@@ -7,7 +7,7 @@ export const cyprusNatureV2: POI[] = [
       "de": [
             {
                   "name": "Marinoparea",
-                  "text": "Μαρινοπαρέα-Strand an der Küste von Zygi.",
+                  "text": "Marinoparea-Strand an der Küste von Zygi.",
                   "category": "recreational",
                   "coords": [
                         33.340568,
@@ -36,7 +36,7 @@ export const cyprusNatureV2: POI[] = [
       "hu": [
             {
                   "name": "Marinoparea",
-                  "text": "Μαρινοπαρέα-part Zygi partvidékén.",
+                  "text": "Marinoparea-part Zygi partvidékén.",
                   "category": "recreational",
                   "coords": [
                         33.340568,
@@ -65,7 +65,7 @@ export const cyprusNatureV2: POI[] = [
       "ro": [
             {
                   "name": "Marinoparea",
-                  "text": "Plaja Μαρινοπαρέα pe coasta Zygi.",
+                  "text": "Plaja Marinoparea pe coasta Zygi.",
                   "category": "recreational",
                   "coords": [
                         33.340568,
@@ -94,7 +94,7 @@ export const cyprusNatureV2: POI[] = [
       "en": [
             {
                   "name": "Marinoparea",
-                  "text": "Μαρινοπαρέα beach on the Zygi coast.",
+                  "text": "Marinoparea beach on the Zygi coast.",
                   "category": "recreational",
                   "coords": [
                         33.340568,
@@ -195,7 +195,7 @@ export const cyprusNatureV2: POI[] = [
                   ]
             },
             {
-                  "name": "Κοιλάδα των Κέδρων",
+                  "name": "Koilada ton Kedron",
                   "text": "Ein malerisches Tal im Troodos-Gebirge, das für seine zahlreichen einheimischen Zedern bekannt ist.",
                   "category": "landmark",
                   "coords": [
@@ -215,7 +215,7 @@ export const cyprusNatureV2: POI[] = [
                   ]
             },
             {
-                  "name": "Ιερά Μονή Κύκκου",
+                  "name": "Iera Mone Kukkou",
                   "text": "Történelmi és jelentős kolostor Cipruson, a festői Paphos-erdő területén.",
                   "category": "landmark",
                   "coords": [
@@ -233,7 +233,7 @@ export const cyprusNatureV2: POI[] = [
                   ]
             },
             {
-                  "name": "Κοιλάδα των Κέδρων",
+                  "name": "Koilada ton Kedron",
                   "text": "A Tróodosz-hegység festői völgye, amely nagyszámú őshonos cédrusfájáról híres.",
                   "category": "landmark",
                   "coords": [
@@ -253,7 +253,7 @@ export const cyprusNatureV2: POI[] = [
                   ]
             },
             {
-                  "name": "Ιερά Μονή Κύκκου",
+                  "name": "Iera Mone Kukkou",
                   "text": "O mănăstire istorică și prestigioasă din Cipru, situată în zona pitorească a pădurii Paphos.",
                   "category": "landmark",
                   "coords": [
@@ -271,7 +271,7 @@ export const cyprusNatureV2: POI[] = [
                   ]
             },
             {
-                  "name": "Κοιλάδα των Κέδρων",
+                  "name": "Koilada ton Kedron",
                   "text": "O vale pitorească din Munții Troodos, faimoasă pentru numărul mare de cedri indigeni.",
                   "category": "landmark",
                   "coords": [
@@ -519,7 +519,7 @@ export const cyprusNatureV2: POI[] = [
                   ]
             },
             {
-                  "name": "Κοιλάδα των Κέδρων",
+                  "name": "Koilada ton Kedron",
                   "text": "Ein bekanntes Tal im Paphos-Wald, das für seine einheimischen Zedern berühmt ist.",
                   "category": "landmark",
                   "coords": [
@@ -548,7 +548,7 @@ export const cyprusNatureV2: POI[] = [
                   ]
             },
             {
-                  "name": "Κοιλάδα των Κέδρων",
+                  "name": "Koilada ton Kedron",
                   "text": "A Paphos-erdő ismert völgye, amely őshonos cédrusairól híres.",
                   "category": "landmark",
                   "coords": [
@@ -577,7 +577,7 @@ export const cyprusNatureV2: POI[] = [
                   ]
             },
             {
-                  "name": "Κοιλάδα των Κέδρων",
+                  "name": "Koilada ton Kedron",
                   "text": "O vale cunoscută în pădurea Paphos, faimoasă pentru cedrii săi nativi.",
                   "category": "landmark",
                   "coords": [
@@ -681,7 +681,7 @@ export const cyprusNatureV2: POI[] = [
                   ]
             },
             {
-                  "name": "Μοναστήρι Αγίου Νικολάου των Γατών",
+                  "name": "Monasteri Agiou Nikolaou ton Gaton",
                   "text": "Ein historisches Kloster, das für seine vielen dort lebenden Katzen bekannt ist.",
                   "category": "landmark",
                   "coords": [
@@ -690,7 +690,7 @@ export const cyprusNatureV2: POI[] = [
                   ]
             },
             {
-                  "name": "Κέντρο Περιβαλλοντικής Εκπαίδευσης Κοινότητας Ακρωτηρίου",
+                  "name": "Kentro Periballontikes Ekpaideuses Koinotetas Akroteriou",
                   "text": "Ein Zentrum, das über das Ökosystem und die Tierwelt der Akrotiri-Salzsee informiert.",
                   "category": "landmark",
                   "coords": [
@@ -728,7 +728,7 @@ export const cyprusNatureV2: POI[] = [
                   ]
             },
             {
-                  "name": "Μοναστήρι Αγίου Νικολάου των Γατών",
+                  "name": "Monasteri Agiou Nikolaou ton Gaton",
                   "text": "Történelmi kolostor, amely az ott élő számos macskáról nevezetes.",
                   "category": "landmark",
                   "coords": [
@@ -737,7 +737,7 @@ export const cyprusNatureV2: POI[] = [
                   ]
             },
             {
-                  "name": "Κέντρο Περιβαλλοντικής Εκπαίδευσης Κοινότητας Ακρωτηρίου",
+                  "name": "Kentro Periballontikes Ekpaideuses Koinotetas Akroteriou",
                   "text": "Központ, amely az Akrotiri-sóstó ökoszisztémáját és élővilágát mutatja be.",
                   "category": "landmark",
                   "coords": [
@@ -775,7 +775,7 @@ export const cyprusNatureV2: POI[] = [
                   ]
             },
             {
-                  "name": "Μοναστήρι Αγίου Νικολάου των Γατών",
+                  "name": "Monasteri Agiou Nikolaou ton Gaton",
                   "text": "O mănăstire istorică cunoscută pentru numeroasele pisici care trăiesc acolo.",
                   "category": "landmark",
                   "coords": [
@@ -784,7 +784,7 @@ export const cyprusNatureV2: POI[] = [
                   ]
             },
             {
-                  "name": "Κέντρο Περιβαλλοντικής Εκπαίδευσης Κοινότητας Ακρωτηρίου",
+                  "name": "Kentro Periballontikes Ekpaideuses Koinotetas Akroteriou",
                   "text": "Un centru care oferă informații despre ecosistemul și fauna lacului sărat Akrotiri.",
                   "category": "landmark",
                   "coords": [
@@ -971,7 +971,7 @@ export const cyprusNatureV2: POI[] = [
                   ]
             },
             {
-                  "name": "Όλυμπος",
+                  "name": "Olumpos",
                   "text": "Ciprus legmagasabb hegycsúcsa a Tróodosz-hegységben.",
                   "category": "landmark",
                   "coords": [
@@ -1027,7 +1027,7 @@ export const cyprusNatureV2: POI[] = [
                   ]
             },
             {
-                  "name": "Όλυμπος",
+                  "name": "Olumpos",
                   "text": "Cel mai înalt vârf muntos din Cipru, situat în Munții Troodos.",
                   "category": "landmark",
                   "coords": [
@@ -1167,7 +1167,7 @@ export const cyprusNatureV2: POI[] = [
     id: "cyprus-lefkara-hills-nature-v2", "sights": {
       "de": [
             {
-                  "name": "Τοπικο Μουσείο Παραδοσιακής Κεντητικής και Αργυροχοΐας-Λεύκαρα",
+                  "name": "Topiko Mouseio Paradosiakes Kentetikes kai ArgurokhoIas-Leukara",
                   "text": "Ein Museum in Lefkara, das sich der traditionellen Stickerei und Silberschmiedekunst widmet.",
                   "category": "museum",
                   "coords": [
@@ -1214,7 +1214,7 @@ export const cyprusNatureV2: POI[] = [
       ],
       "hu": [
             {
-                  "name": "Τοπικο Μουσείο Παραδοσιακής Κεντητικής και Αργυροχοΐας-Λεύκαρα",
+                  "name": "Topiko Mouseio Paradosiakes Kentetikes kai ArgurokhoIas-Leukara",
                   "text": "Lefkarai múzeum, amely a hagyományos hímzést és ezüstművességet mutatja be.",
                   "category": "museum",
                   "coords": [
@@ -1261,7 +1261,7 @@ export const cyprusNatureV2: POI[] = [
       ],
       "ro": [
             {
-                  "name": "Τοπικο Μουσείο Παραδοσιακής Κεντητικής και Αργυροχοΐας-Λεύκαρα",
+                  "name": "Topiko Mouseio Paradosiakes Kentetikes kai ArgurokhoIas-Leukara",
                   "text": "Un muzeu din Lefkara dedicat broderiei tradiționale și argintăriei.",
                   "category": "museum",
                   "coords": [
@@ -1419,7 +1419,7 @@ export const cyprusNatureV2: POI[] = [
                   ]
             },
             {
-                  "name": "Κούριο",
+                  "name": "Kourio",
                   "text": "Eine bedeutende antike Stadtruine auf Zypern mit römischen Mosaiken und einem Theater.",
                   "category": "historical",
                   "coords": [
@@ -1437,7 +1437,7 @@ export const cyprusNatureV2: POI[] = [
                   ]
             },
             {
-                  "name": "Τοπικό Αρχαιολογικό Μουσείο Κουρίου",
+                  "name": "Topiko Arkhaiologiko Mouseio Kouriou",
                   "text": "Ein Museum, das archäologische Funde aus der antiken Stadt Kourion ausstellt.",
                   "category": "museum",
                   "coords": [
@@ -1446,7 +1446,7 @@ export const cyprusNatureV2: POI[] = [
                   ]
             },
             {
-                  "name": "Κυπριακό Οινομουσείο",
+                  "name": "Kupriako Oinomouseio",
                   "text": "Ein Museum, das sich der langen Geschichte der Weinherstellung auf Zypern widmet.",
                   "category": "museum",
                   "coords": [
@@ -1493,7 +1493,7 @@ export const cyprusNatureV2: POI[] = [
                   ]
             },
             {
-                  "name": "Κούριο",
+                  "name": "Kourio",
                   "text": "Jelentős ókori városrom Cipruson, római mozaikokkal és színházzal.",
                   "category": "historical",
                   "coords": [
@@ -1511,7 +1511,7 @@ export const cyprusNatureV2: POI[] = [
                   ]
             },
             {
-                  "name": "Τοπικό Αρχαιολογικό Μουσείο Κουρίου",
+                  "name": "Topiko Arkhaiologiko Mouseio Kouriou",
                   "text": "Az ókori Kourion városából származó régészeti leleteket bemutató múzeum.",
                   "category": "museum",
                   "coords": [
@@ -1520,7 +1520,7 @@ export const cyprusNatureV2: POI[] = [
                   ]
             },
             {
-                  "name": "Κυπριακό Οινομουσείο",
+                  "name": "Kupriako Oinomouseio",
                   "text": "A ciprusi borászat hosszú történelmének szentelt múzeum.",
                   "category": "museum",
                   "coords": [
@@ -1567,7 +1567,7 @@ export const cyprusNatureV2: POI[] = [
                   ]
             },
             {
-                  "name": "Κούριο",
+                  "name": "Kourio",
                   "text": "O ruină importantă a unui oraș antic din Cipru, cu mozaicuri romane și un teatru.",
                   "category": "historical",
                   "coords": [
@@ -1585,7 +1585,7 @@ export const cyprusNatureV2: POI[] = [
                   ]
             },
             {
-                  "name": "Τοπικό Αρχαιολογικό Μουσείο Κουρίου",
+                  "name": "Topiko Arkhaiologiko Mouseio Kouriou",
                   "text": "Un muzeu care expune descoperiri arheologice din orașul antic Kourion.",
                   "category": "museum",
                   "coords": [
@@ -1594,7 +1594,7 @@ export const cyprusNatureV2: POI[] = [
                   ]
             },
             {
-                  "name": "Κυπριακό Οινομουσείο",
+                  "name": "Kupriako Oinomouseio",
                   "text": "Un muzeu dedicat istoriei îndelungate a producției de vin în Cipru.",
                   "category": "museum",
                   "coords": [

@@ -98,7 +98,7 @@ imageHint: "Carpathian Mountains forest and valley of daffodils",
     id: "ukraine-shatsk-national-park-life-v2", "sights": {
       "de": [
             {
-                  "name": "Центральний пляж",
+                  "name": "Tsentral'nii pliazh",
                   "text": "Ein beliebter Strand im Schazker Nationalnaturpark, ideal für Erholung am Wasser.",
                   "category": "recreational",
                   "coords": [
@@ -109,7 +109,7 @@ imageHint: "Carpathian Mountains forest and valley of daffodils",
       ],
       "hu": [
             {
-                  "name": "Центральний пляж",
+                  "name": "Tsentral'nii pliazh",
                   "text": "Népszerű strand a Sacki Nemzeti Parkban, amely ideális a vízparti kikapcsolódásra.",
                   "category": "recreational",
                   "coords": [
@@ -120,7 +120,7 @@ imageHint: "Carpathian Mountains forest and valley of daffodils",
       ],
       "ro": [
             {
-                  "name": "Центральний пляж",
+                  "name": "Tsentral'nii pliazh",
                   "text": "O plajă populară în Parcul Național Natural Shatsk, ideală pentru relaxare pe malul apei.",
                   "category": "recreational",
                   "coords": [
@@ -189,7 +189,7 @@ imageHint: "Shatsk Lakes aerial view with Svitiaz Lake",
     id: "ukraine-synevyr-national-park-life-v2", "sights": {
       "de": [
             {
-                  "name": "Музей лісу і сплаву",
+                  "name": "Muzei lisu i splavu",
                   "text": "Dieses Museum im Nationalpark Synevyr widmet sich der Geschichte der Forstwirtschaft und Flößerei.",
                   "category": "museum",
                   "coords": [
@@ -198,7 +198,7 @@ imageHint: "Shatsk Lakes aerial view with Svitiaz Lake",
                   ]
             },
             {
-                  "name": "Негровець",
+                  "name": "Negrovets'",
                   "text": "Der Nehrovets ist ein markanter Berggipfel im Gebiet des Nationalparks Synevyr.",
                   "category": "landmark",
                   "coords": [
@@ -207,7 +207,7 @@ imageHint: "Shatsk Lakes aerial view with Svitiaz Lake",
                   ]
             },
             {
-                  "name": "Велика Гропа",
+                  "name": "Velika Gropa",
                   "text": "Ein Aussichtspunkt im Nationalpark Synevyr, der weite Panoramablicke über die Karpaten bietet.",
                   "category": "natural",
                   "coords": [
@@ -218,7 +218,7 @@ imageHint: "Shatsk Lakes aerial view with Svitiaz Lake",
       ],
       "hu": [
             {
-                  "name": "Музей лісу і сплаву",
+                  "name": "Muzei lisu i splavu",
                   "text": "Ez a Szinevéri Nemzeti Parkban található múzeum az erdőgazdálkodás és a tutajozás történetét mutatja be.",
                   "category": "museum",
                   "coords": [
@@ -227,7 +227,7 @@ imageHint: "Shatsk Lakes aerial view with Svitiaz Lake",
                   ]
             },
             {
-                  "name": "Негровець",
+                  "name": "Negrovets'",
                   "text": "A Nehrovets egy jellegzetes hegycsúcs a Szinevéri Nemzeti Park területén.",
                   "category": "landmark",
                   "coords": [
@@ -236,7 +236,7 @@ imageHint: "Shatsk Lakes aerial view with Svitiaz Lake",
                   ]
             },
             {
-                  "name": "Велика Гропа",
+                  "name": "Velika Gropa",
                   "text": "Kilátópont a Szinevéri Nemzeti Parkban, amely széles panorámát kínál a Kárpátokra.",
                   "category": "natural",
                   "coords": [
@@ -247,7 +247,7 @@ imageHint: "Shatsk Lakes aerial view with Svitiaz Lake",
       ],
       "ro": [
             {
-                  "name": "Музей лісу і сплаву",
+                  "name": "Muzei lisu i splavu",
                   "text": "Acest muzeu din Parcul Național Sinevir este dedicat istoriei silviculturii și plutăritului.",
                   "category": "museum",
                   "coords": [
@@ -256,7 +256,7 @@ imageHint: "Shatsk Lakes aerial view with Svitiaz Lake",
                   ]
             },
             {
-                  "name": "Негровець",
+                  "name": "Negrovets'",
                   "text": "Nehrovets este un vârf montan proeminent situat în zona Parcului Național Sinevir.",
                   "category": "landmark",
                   "coords": [
@@ -265,7 +265,7 @@ imageHint: "Shatsk Lakes aerial view with Svitiaz Lake",
                   ]
             },
             {
-                  "name": "Велика Гропа",
+                  "name": "Velika Gropa",
                   "text": "Un punct de belvedere în Parcul Național Sinevir, oferind vederi panoramice largi asupra Carpaților.",
                   "category": "natural",
                   "coords": [
@@ -352,7 +352,7 @@ imageHint: "Synevyr Lake in the Carpathian mountains",
     id: "ukraine-oleshky-sands-life-v2", "sights": {
       "de": [
             {
-                  "name": "Олешківські піски",
+                  "name": "Oleshkivs'ki piski",
                   "text": "Ein Aussichtspunkt im Nationalpark Oleschky-Sande, einem großen Sandgebiet in der Ukraine.",
                   "category": "natural",
                   "coords": [
@@ -363,7 +363,7 @@ imageHint: "Synevyr Lake in the Carpathian mountains",
       ],
       "hu": [
             {
-                  "name": "Олешківські піски",
+                  "name": "Oleshkivs'ki piski",
                   "text": "Kilátópont az Oleskivszki-homok Nemzeti Parkban, Ukrajna hatalmas homokvidékén.",
                   "category": "natural",
                   "coords": [
@@ -374,7 +374,7 @@ imageHint: "Synevyr Lake in the Carpathian mountains",
       ],
       "ro": [
             {
-                  "name": "Олешківські піски",
+                  "name": "Oleshkivs'ki piski",
                   "text": "Un punct de observație în Parcul Național Nisipurile Oleșki, o zonă vastă de nisip din Ucraina.",
                   "category": "natural",
                   "coords": [
@@ -1179,7 +1179,7 @@ imageHint: "Udai River floodplains in Pyriatynskyi Park",
     id: "ukraine-homilshanski-lisy-life-v2", "sights": {
       "de": [
             {
-                  "name": "літак Як-40",
+                  "name": "litak Iak-40",
                   "text": "Ein ausgestelltes Flugzeug vom Typ Jak-40 im Nationalen Naturpark Homilshanski Lisy.",
                   "category": "landmark",
                   "coords": [
@@ -1190,7 +1190,7 @@ imageHint: "Udai River floodplains in Pyriatynskyi Park",
       ],
       "hu": [
             {
-                  "name": "літак Як-40",
+                  "name": "litak Iak-40",
                   "text": "Kiállított Jak-40 típusú repülőgép a Homilsanszki Liszi Nemzeti Parkban.",
                   "category": "landmark",
                   "coords": [
@@ -1201,7 +1201,7 @@ imageHint: "Udai River floodplains in Pyriatynskyi Park",
       ],
       "ro": [
             {
-                  "name": "літак Як-40",
+                  "name": "litak Iak-40",
                   "text": "O aeronavă Yak-40 expusă în Parcul Natural Național Homilshanski Lisy.",
                   "category": "landmark",
                   "coords": [
@@ -1279,7 +1279,7 @@ imageHint: "Ancient oak forest in Homilshanski Lisy",
                   ]
             },
             {
-                  "name": "Лавочка бiля урвища",
+                  "name": "Lavochka bilia urvishcha",
                   "text": "Ein schöner Ort zur Beobachtung des Sonnenuntergangs im Nationalpark.",
                   "category": "natural",
                   "coords": [
@@ -1290,7 +1290,7 @@ imageHint: "Ancient oak forest in Homilshanski Lisy",
       ],
       "hu": [
             {
-                  "name": "Святогорська Свято-Успенська лавра",
+                  "name": "Sviatogors'ka Sviato-Uspens'ka lavra",
                   "text": "Történelmi ortodox barlangkolostor, amelyet krétahegyekbe vájtak.",
                   "category": "religious",
                   "coords": [
@@ -1299,7 +1299,7 @@ imageHint: "Ancient oak forest in Homilshanski Lisy",
                   ]
             },
             {
-                  "name": "Лавочка бiля урвища",
+                  "name": "Lavochka bilia urvishcha",
                   "text": "Szép hely a naplemente megtekintéséhez a nemzeti parkban.",
                   "category": "natural",
                   "coords": [
@@ -1310,7 +1310,7 @@ imageHint: "Ancient oak forest in Homilshanski Lisy",
       ],
       "ro": [
             {
-                  "name": "Святогорська Свято-Успенська лавра",
+                  "name": "Sviatogors'ka Sviato-Uspens'ka lavra",
                   "text": "O mănăstire ortodoxă istorică săpată în stânci de cretă.",
                   "category": "religious",
                   "coords": [
@@ -1319,7 +1319,7 @@ imageHint: "Ancient oak forest in Homilshanski Lisy",
                   ]
             },
             {
-                  "name": "Лавочка бiля урвища",
+                  "name": "Lavochka bilia urvishcha",
                   "text": "Un loc pitoresc pentru a privi apusul în parcul național.",
                   "category": "natural",
                   "coords": [
@@ -1535,7 +1535,7 @@ imageHint: "Southern Bug river canyon and granite rocks",
     id: "ukraine-skolivski-beskydy-life-v2", "sights": {
       "de": [
             {
-                  "name": "Оленяча",
+                  "name": "Oleniacha",
                   "text": "Ein Berggipfel im Nationalpark Skoler Beskiden.",
                   "category": "landmark",
                   "coords": [
@@ -1546,7 +1546,7 @@ imageHint: "Southern Bug river canyon and granite rocks",
       ],
       "hu": [
             {
-                  "name": "Оленяча",
+                  "name": "Oleniacha",
                   "text": "Hegycsúcs a Szkolivszki Beszkidek Nemzeti Park területén.",
                   "category": "landmark",
                   "coords": [
@@ -1557,7 +1557,7 @@ imageHint: "Southern Bug river canyon and granite rocks",
       ],
       "ro": [
             {
-                  "name": "Оленяча",
+                  "name": "Oleniacha",
                   "text": "Un vârf muntos situat în Parcul Național Natural Beskizii Skole.",
                   "category": "landmark",
                   "coords": [

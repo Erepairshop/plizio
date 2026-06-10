@@ -15,7 +15,7 @@ export const belarusHistoryV2: POI[] = [
                   ]
             },
             {
-                  "name": "Капліца-пахавальня Святаполк-Мірскіх",
+                  "name": "Kaplitsa-pakhaval'nia Sviatapolk-Mirskikh",
                   "text": "Eine prunkvolle Kapelle und Grabstätte der Adelsfamilie Swjatopolk-Mirski in der Nähe des Schlosses Mir.",
                   "category": "landmark",
                   "coords": [
@@ -24,7 +24,7 @@ export const belarusHistoryV2: POI[] = [
                   ]
             },
             {
-                  "name": "Касцёл Святога Мікалая",
+                  "name": "Kastsiol Sviatoga Mikalaia",
                   "text": "Eine historische katholische Kirche in Mir mit architektonischen Elementen der Renaissance und des Barocks.",
                   "category": "landmark",
                   "coords": [
@@ -33,7 +33,7 @@ export const belarusHistoryV2: POI[] = [
                   ]
             },
             {
-                  "name": "Прыдарожная Капліца",
+                  "name": "Prydarozhnaia Kaplitsa",
                   "text": "Eine kleine historische Kapelle am Wegesrand, die als lokales religiöses Wahrzeichen bei Mir dient.",
                   "category": "landmark",
                   "coords": [
@@ -42,7 +42,7 @@ export const belarusHistoryV2: POI[] = [
                   ]
             },
             {
-                  "name": "Бровар",
+                  "name": "Brovar",
                   "text": "Eine historische Brauerei auf dem Gelände der Schlossanlage Mir.",
                   "category": "landmark",
                   "coords": [
@@ -53,7 +53,7 @@ export const belarusHistoryV2: POI[] = [
       ],
       "hu": [
             {
-                  "name": "Мірскі Замак",
+                  "name": "Mirski Zamak",
                   "text": "Ez az UNESCO világörökségi helyszín a 16. századi fehéroroszországi erőd- és palotaépítészet lenyűgöző példája.",
                   "category": "castle",
                   "coords": [
@@ -62,7 +62,7 @@ export const belarusHistoryV2: POI[] = [
                   ]
             },
             {
-                  "name": "Капліца-пахавальня Святаполк-Мірскіх",
+                  "name": "Kaplitsa-pakhaval'nia Sviatapolk-Mirskikh",
                   "text": "A Szvjatopolk-Mirszkij nemesi család díszes kápolnája und sírboltja a miri vár közelében.",
                   "category": "landmark",
                   "coords": [
@@ -71,7 +71,7 @@ export const belarusHistoryV2: POI[] = [
                   ]
             },
             {
-                  "name": "Касцёл Святога Мікалая",
+                  "name": "Kastsiol Sviatoga Mikalaia",
                   "text": "Történelmi katolikus templom Mirben, reneszánsz és barokk építészeti elemekkel.",
                   "category": "landmark",
                   "coords": [
@@ -80,7 +80,7 @@ export const belarusHistoryV2: POI[] = [
                   ]
             },
             {
-                  "name": "Прыдарожная Капліца",
+                  "name": "Prydarozhnaia Kaplitsa",
                   "text": "Kisméretű történelmi útmenti kápolna, amely helyi vallási nevezetességként szolgál Mir közelében.",
                   "category": "landmark",
                   "coords": [
@@ -89,7 +89,7 @@ export const belarusHistoryV2: POI[] = [
                   ]
             },
             {
-                  "name": "Бровар",
+                  "name": "Brovar",
                   "text": "Történelmi sörfőzde a Miri várkastély területén.",
                   "category": "landmark",
                   "coords": [
@@ -109,7 +109,7 @@ export const belarusHistoryV2: POI[] = [
                   ]
             },
             {
-                  "name": "Капліца-пахавальня Святаполк-Мірскіх",
+                  "name": "Kaplitsa-pakhaval'nia Sviatapolk-Mirskikh",
                   "text": "O capelă ornamentată și cavou pentru familia nobiliară Svyatopolk-Mirsky, situată lângă Castelul Mir.",
                   "category": "landmark",
                   "coords": [
@@ -118,7 +118,7 @@ export const belarusHistoryV2: POI[] = [
                   ]
             },
             {
-                  "name": "Касцёл Святога Мікалая",
+                  "name": "Kastsiol Sviatoga Mikalaia",
                   "text": "O biserică catolică istorică din Mir, prezentând elemente arhitecturale renascentiste și baroce.",
                   "category": "landmark",
                   "coords": [
@@ -127,7 +127,7 @@ export const belarusHistoryV2: POI[] = [
                   ]
             },
             {
-                  "name": "Прыдарожная Капліца",
+                  "name": "Prydarozhnaia Kaplitsa",
                   "text": "O mică capelă istorică la marginea drumului, care servește ca punct de reper religios local lângă Mir.",
                   "category": "landmark",
                   "coords": [
@@ -136,7 +136,7 @@ export const belarusHistoryV2: POI[] = [
                   ]
             },
             {
-                  "name": "Бровар",
+                  "name": "Brovar",
                   "text": "O berărie istorică situată în incinta complexului Castelului Mir.",
                   "category": "landmark",
                   "coords": [
@@ -341,7 +341,7 @@ export const belarusHistoryV2: POI[] = [
       ],
       "hu": [
             {
-                  "name": "Мемарыяльны комплекс Хатынь",
+                  "name": "Memaryial'ny kompleks Khatyn'",
                   "text": "Emlékhely Fehéroroszországban, amely az 1943-ban elpusztított falunak és áldozatainak állít emléket.",
                   "category": "museum",
                   "coords": [
@@ -352,7 +352,7 @@ export const belarusHistoryV2: POI[] = [
       ],
       "ro": [
             {
-                  "name": "Мемарыяльны комплекс Хатынь",
+                  "name": "Memaryial'ny kompleks Khatyn'",
                   "text": "Un complex memorial din Belarus care comemorează satul distrus în 1943 și victimele sale.",
                   "category": "museum",
                   "coords": [
@@ -602,7 +602,7 @@ export const belarusHistoryV2: POI[] = [
     id: "belarus-ruzhany-palace-history-v2", "sights": {
       "de": [
             {
-                  "name": "Палацавы комплекс князёў Сапегаў",
+                  "name": "Palatsavy kompleks kniaziou Sapegau",
                   "text": "Die Ruinen einer prächtigen Residenz der Familie Sapieha.",
                   "category": "castle",
                   "coords": [
@@ -613,7 +613,7 @@ export const belarusHistoryV2: POI[] = [
       ],
       "hu": [
             {
-                  "name": "Палацавы комплекс князёў Сапегаў",
+                  "name": "Palatsavy kompleks kniaziou Sapegau",
                   "text": "A Sapieha család egykori pompás rezidenciájának romjai.",
                   "category": "castle",
                   "coords": [
@@ -624,7 +624,7 @@ export const belarusHistoryV2: POI[] = [
       ],
       "ro": [
             {
-                  "name": "Палацавы комплекс князёў Сапегаў",
+                  "name": "Palatsavy kompleks kniaziou Sapegau",
                   "text": "Ruinele unei rezidențe somptuoase a familiei Sapieha.",
                   "category": "castle",
                   "coords": [
@@ -782,7 +782,7 @@ export const belarusHistoryV2: POI[] = [
     id: "belarus-krevo-castle-ruins-history-v2", "sights": {
       "de": [
             {
-                  "name": "Крэўскі замак",
+                  "name": "Kreuski zamak",
                   "text": "Die Ruinen dieser mittelalterlichen Burg sind ein bedeutendes historisches Denkmal.",
                   "category": "castle",
                   "coords": [
@@ -791,7 +791,7 @@ export const belarusHistoryV2: POI[] = [
                   ]
             },
             {
-                  "name": "Царква Святога Аляксандра Неўскага",
+                  "name": "Tsarkva Sviatoga Aliaksandra Neuskaga",
                   "text": "Eine orthodoxe Kirche, die dem Heiligen Alexander Newski gewidmet ist.",
                   "category": "landmark",
                   "coords": [
@@ -800,7 +800,7 @@ export const belarusHistoryV2: POI[] = [
                   ]
             },
             {
-                  "name": "Сінагога (руіны)",
+                  "name": "Sinagoga (ruiny)",
                   "text": "Die Überreste einer historischen Synagoge in der Nähe der Burgruine.",
                   "category": "landmark",
                   "coords": [
@@ -809,7 +809,7 @@ export const belarusHistoryV2: POI[] = [
                   ]
             },
             {
-                  "name": "Касцёл Перамянення Пана",
+                  "name": "Kastsiol Peramianennia Pana",
                   "text": "Eine katholische Kirche, die der Verklärung Christi gewidmet ist.",
                   "category": "religious",
                   "coords": [
@@ -820,7 +820,7 @@ export const belarusHistoryV2: POI[] = [
       ],
       "hu": [
             {
-                  "name": "Крэўскі замак",
+                  "name": "Kreuski zamak",
                   "text": "Ez a középkori várrom jelentős történelmi emlékhely.",
                   "category": "castle",
                   "coords": [
@@ -829,7 +829,7 @@ export const belarusHistoryV2: POI[] = [
                   ]
             },
             {
-                  "name": "Царква Святога Аляксандра Неўскага",
+                  "name": "Tsarkva Sviatoga Aliaksandra Neuskaga",
                   "text": "Szent Alekszandr Nyevszkijnek szentelt ortodox templom.",
                   "category": "landmark",
                   "coords": [
@@ -838,7 +838,7 @@ export const belarusHistoryV2: POI[] = [
                   ]
             },
             {
-                  "name": "Сінагога (руіны)",
+                  "name": "Sinagoga (ruiny)",
                   "text": "Egy történelmi zsinagóga maradványai a várromok közelében.",
                   "category": "landmark",
                   "coords": [
@@ -847,7 +847,7 @@ export const belarusHistoryV2: POI[] = [
                   ]
             },
             {
-                  "name": "Касцёл Перамянення Пана",
+                  "name": "Kastsiol Peramianennia Pana",
                   "text": "Urunk Színeváltozásának szentelt katolikus templom.",
                   "category": "religious",
                   "coords": [
@@ -858,7 +858,7 @@ export const belarusHistoryV2: POI[] = [
       ],
       "ro": [
             {
-                  "name": "Крэўскі замак",
+                  "name": "Kreuski zamak",
                   "text": "Ruinele acestui castel medieval reprezintă un monument istoric important.",
                   "category": "castle",
                   "coords": [
@@ -867,7 +867,7 @@ export const belarusHistoryV2: POI[] = [
                   ]
             },
             {
-                  "name": "Царква Святога Аляксандра Неўскага",
+                  "name": "Tsarkva Sviatoga Aliaksandra Neuskaga",
                   "text": "O biserică ortodoxă dedicată Sfântului Alexandru Nevski.",
                   "category": "landmark",
                   "coords": [
@@ -876,7 +876,7 @@ export const belarusHistoryV2: POI[] = [
                   ]
             },
             {
-                  "name": "Сінагога (руіны)",
+                  "name": "Sinagoga (ruiny)",
                   "text": "Rămășițele unei sinagogi istorice situate lângă ruinele castelului.",
                   "category": "landmark",
                   "coords": [
@@ -885,7 +885,7 @@ export const belarusHistoryV2: POI[] = [
                   ]
             },
             {
-                  "name": "Касцёл Перамянення Пана",
+                  "name": "Kastsiol Peramianennia Pana",
                   "text": "O biserică catolică dedicată Schimbării la Față a lui Hristos.",
                   "category": "religious",
                   "coords": [
@@ -1026,7 +1026,7 @@ export const belarusHistoryV2: POI[] = [
     id: "belarus-halshany-castle-history-v2", "sights": {
       "de": [
             {
-                  "name": "Гальшанскі замак Сапегаў",
+                  "name": "Gal'shanski zamak Sapegau",
                   "text": "Die Ruinen einer prächtigen Residenz der Familie Sapieha aus dem 17. Jahrhundert.",
                   "category": "castle",
                   "coords": [
@@ -1035,7 +1035,7 @@ export const belarusHistoryV2: POI[] = [
                   ]
             },
             {
-                  "name": "Гандлёвыя рады (XIX ст.)",
+                  "name": "XIX",
                   "text": "Ein historisches Handelsgebäude aus dem 19. Jahrhundert in Halshany.",
                   "category": "landmark",
                   "coords": [
@@ -1044,7 +1044,7 @@ export const belarusHistoryV2: POI[] = [
                   ]
             },
             {
-                  "name": "Касцёл Святога Яна Хрысціцеля",
+                  "name": "Kastsiol Sviatoga Iana Khrystsitselia",
                   "text": "Eine barocke Franziskanerkirche mit angeschlossenem Klosterkomplex.",
                   "category": "religious",
                   "coords": [
@@ -1055,7 +1055,7 @@ export const belarusHistoryV2: POI[] = [
       ],
       "hu": [
             {
-                  "name": "Гальшанскі замак Сапегаў",
+                  "name": "Gal'shanski zamak Sapegau",
                   "text": "A Sapieha család 17. századi pompás rezidenciájának romjai.",
                   "category": "castle",
                   "coords": [
@@ -1064,7 +1064,7 @@ export const belarusHistoryV2: POI[] = [
                   ]
             },
             {
-                  "name": "Гандлёвыя рады (XIX ст.)",
+                  "name": "XIX",
                   "text": "Történelmi kereskedelmi épület a 19. századból Holsaniban.",
                   "category": "landmark",
                   "coords": [
@@ -1073,7 +1073,7 @@ export const belarusHistoryV2: POI[] = [
                   ]
             },
             {
-                  "name": "Касцёл Святога Яна Хрысціцеля",
+                  "name": "Kastsiol Sviatoga Iana Khrystsitselia",
                   "text": "Barokk ferences templom és a hozzá tartozó kolostorkomplexum.",
                   "category": "religious",
                   "coords": [
@@ -1084,7 +1084,7 @@ export const belarusHistoryV2: POI[] = [
       ],
       "ro": [
             {
-                  "name": "Гальшанскі замак Сапегаў",
+                  "name": "Gal'shanski zamak Sapegau",
                   "text": "Ruinele unei reședințe magnifice a familiei Sapieha din secolul al XVII-lea.",
                   "category": "castle",
                   "coords": [
@@ -1093,7 +1093,7 @@ export const belarusHistoryV2: POI[] = [
                   ]
             },
             {
-                  "name": "Гандлёвыя рады (XIX ст.)",
+                  "name": "XIX",
                   "text": "O clădire comercială istorică din secolul al XIX-lea în Halshany.",
                   "category": "landmark",
                   "coords": [
@@ -1102,7 +1102,7 @@ export const belarusHistoryV2: POI[] = [
                   ]
             },
             {
-                  "name": "Касцёл Святога Яна Хрысціцеля",
+                  "name": "Kastsiol Sviatoga Iana Khrystsitselia",
                   "text": "O biserică franciscană barocă și complexul mănăstiresc adiacent.",
                   "category": "religious",
                   "coords": [
@@ -1337,7 +1337,7 @@ export const belarusHistoryV2: POI[] = [
       ],
       "hu": [
             {
-                  "name": "Царква Святога Арханёла Міхала",
+                  "name": "Tsarkva Sviatoga Arkhaniola Mikhala",
                   "text": "Ritka 16. századi gótikus erődtemplom védőfalakkal.",
                   "category": "religious",
                   "coords": [
@@ -1348,7 +1348,7 @@ export const belarusHistoryV2: POI[] = [
       ],
       "ro": [
             {
-                  "name": "Царква Святога Арханёла Міхала",
+                  "name": "Tsarkva Sviatoga Arkhaniola Mikhala",
                   "text": "O rară biserică fortificată din secolul al XVI-lea, cu arhitectură gotică.",
                   "category": "religious",
                   "coords": [
@@ -1472,7 +1472,7 @@ export const belarusHistoryV2: POI[] = [
       ],
       "hu": [
             {
-                  "name": "Любчанскі замак",
+                  "name": "Liubchanski zamak",
                   "text": "Történelmi vár a Nyeman folyó partján.",
                   "category": "castle",
                   "coords": [
@@ -1483,7 +1483,7 @@ export const belarusHistoryV2: POI[] = [
       ],
       "ro": [
             {
-                  "name": "Любчанскі замак",
+                  "name": "Liubchanski zamak",
                   "text": "Un castel istoric situat pe malul râului Niemen.",
                   "category": "castle",
                   "coords": [

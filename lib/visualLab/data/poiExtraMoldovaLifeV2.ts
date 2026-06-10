@@ -510,7 +510,7 @@ export const moldovaLifeV2: POI[] = [
       ],
       "hu": [
             {
-                  "name": "Научный заповедник «Ягорлык»",
+                  "name": "Nauchnyi zapovednik <<Iagorlyk>>",
                   "text": "Tudományos természetvédelmi terület Moldovában, amely a Dnyeszter bal partjának ökoszisztémáit védi.",
                   "category": "natural",
                   "coords": [

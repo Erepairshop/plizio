@@ -236,7 +236,7 @@ export const moldovaPoi: POI[] = [
                   ]
             },
             {
-                  "name": "ДОТ № 701 ТиУР",
+                  "name": "DOT No. 701 TiUR",
                   "text": "Die Ruinen eines Militärbunkers an der Gedenkstätte des Brückenkopfs von Șerpeni.",
                   "category": "historical",
                   "coords": [
@@ -256,7 +256,7 @@ export const moldovaPoi: POI[] = [
                   ]
             },
             {
-                  "name": "ДОТ № 701 ТиУР",
+                  "name": "DOT No. 701 TiUR",
                   "text": "Egy katonai bunker romjai a Șerpeni hídfő emlékhelyén.",
                   "category": "historical",
                   "coords": [

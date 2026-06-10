@@ -7895,7 +7895,7 @@ export const albaniaNature: POI[] = [
     id: "nat-korab", "sights": {
       "de": [
             {
-                  "name": "Голем Кораб",
+                  "name": "Golem Korab",
                   "text": "Der Korab ist der höchste Berg Albaniens und Nordmazedoniens und bietet weite Ausblicke.",
                   "category": "natural",
                   "coords": [
@@ -7915,7 +7915,7 @@ export const albaniaNature: POI[] = [
       ],
       "hu": [
             {
-                  "name": "Голем Кораб",
+                  "name": "Golem Korab",
                   "text": "A Korab-hegy Albánia és Észak-Macedónia legmagasabb pontja, ahonnan pazar kilátás nyílik.",
                   "category": "natural",
                   "coords": [
@@ -7935,7 +7935,7 @@ export const albaniaNature: POI[] = [
       ],
       "ro": [
             {
-                  "name": "Голем Кораб",
+                  "name": "Golem Korab",
                   "text": "Muntele Korab este cel mai înalt vârf din Albania și Macedonia de Nord, oferind vederi vaste.",
                   "category": "natural",
                   "coords": [

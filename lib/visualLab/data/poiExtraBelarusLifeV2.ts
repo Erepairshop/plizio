@@ -322,7 +322,7 @@ export const belarusLifeV2: POI[] = [
                   ]
             },
             {
-                  "name": "Лясны Заапарк",
+                  "name": "Liasny Zaapark",
                   "text": "Ein Zoo innerhalb des Reservats, der einheimische Tiere der belarussischen Wälder zeigt.",
                   "category": "recreational",
                   "coords": [
@@ -333,7 +333,7 @@ export const belarusLifeV2: POI[] = [
       ],
       "hu": [
             {
-                  "name": "Бярэзінскі біясферны запаведнік",
+                  "name": "Biarezinski biiasferny zapavednik",
                   "text": "Hatalmas természetvédelmi terület Fehéroroszországban, amely mocsarakat és erdőket óv.",
                   "category": "natural",
                   "coords": [
@@ -342,7 +342,7 @@ export const belarusLifeV2: POI[] = [
                   ]
             },
             {
-                  "name": "Лясны Заапарк",
+                  "name": "Liasny Zaapark",
                   "text": "A rezervátumon belüli állatkert, amely a fehérorosz erdők őshonos állatait mutatja be.",
                   "category": "recreational",
                   "coords": [
@@ -353,7 +353,7 @@ export const belarusLifeV2: POI[] = [
       ],
       "ro": [
             {
-                  "name": "Бярэзінскі біясферны запаведнік",
+                  "name": "Biarezinski biiasferny zapavednik",
                   "text": "O rezervatțe naturală vastă în Belarus, care protejează zone valoroase de mlaștină și pădure.",
                   "category": "natural",
                   "coords": [
@@ -362,7 +362,7 @@ export const belarusLifeV2: POI[] = [
                   ]
             },
             {
-                  "name": "Лясны Заапарк",
+                  "name": "Liasny Zaapark",
                   "text": "O grădină zoologică în cadrul rezervației, care prezintă animale native din pădurile belaruse.",
                   "category": "recreational",
                   "coords": [
@@ -493,7 +493,7 @@ export const belarusLifeV2: POI[] = [
                   ]
             },
             {
-                  "name": "Вадзяны млын",
+                  "name": "Vadziany mlyn",
                   "text": "Eine historische Wassermühle im Nationalpark Narotschanski.",
                   "category": "landmark",
                   "coords": [
@@ -502,7 +502,7 @@ export const belarusLifeV2: POI[] = [
                   ]
             },
             {
-                  "name": "Нямецкае вайсковае пахаванне 1 Сусветнай вайны",
+                  "name": "Niametskae vaiskovae pakhavanne 1 Susvetnai vainy",
                   "text": "Ein Soldatenfriedhof aus dem Ersten Weltkrieg im Nationalpark Narotschanski.",
                   "category": "landmark",
                   "coords": [
@@ -513,7 +513,7 @@ export const belarusLifeV2: POI[] = [
       ],
       "hu": [
             {
-                  "name": "Нацыянальны парк «Нарачанскі»",
+                  "name": "Natsyianal'ny park <<Narachanski>>",
                   "text": "Fehéroroszországi védett terület, amely változatos ökoszisztémájáról és a Naracs-tóról ismert.",
                   "category": "natural",
                   "coords": [
@@ -522,7 +522,7 @@ export const belarusLifeV2: POI[] = [
                   ]
             },
             {
-                  "name": "Вадзяны млын",
+                  "name": "Vadziany mlyn",
                   "text": "Történelmi vízimalom a Naracsanszki Nemzeti Park területén.",
                   "category": "landmark",
                   "coords": [
@@ -531,7 +531,7 @@ export const belarusLifeV2: POI[] = [
                   ]
             },
             {
-                  "name": "Нямецкае вайсковае пахаванне 1 Сусветнай вайны",
+                  "name": "Niametskae vaiskovae pakhavanne 1 Susvetnai vainy",
                   "text": "Első világháborús katonai temető a Naracsanszki Nemzeti Parkban.",
                   "category": "landmark",
                   "coords": [
@@ -542,7 +542,7 @@ export const belarusLifeV2: POI[] = [
       ],
       "ro": [
             {
-                  "name": "Нацыянальны парк «Нарачанскі»",
+                  "name": "Natsyianal'ny park <<Narachanski>>",
                   "text": "O arie protejată întinsă din Belarus, cunoscută pentru ecosistemele sale diverse și lacul Naraci.",
                   "category": "natural",
                   "coords": [
@@ -551,7 +551,7 @@ export const belarusLifeV2: POI[] = [
                   ]
             },
             {
-                  "name": "Вадзяны млын",
+                  "name": "Vadziany mlyn",
                   "text": "O moară de apă istorică situată în cadrul Parcului Național Naraci.",
                   "category": "landmark",
                   "coords": [
@@ -560,7 +560,7 @@ export const belarusLifeV2: POI[] = [
                   ]
             },
             {
-                  "name": "Нямецкае вайсковае пахаванне 1 Сусветнай вайны",
+                  "name": "Niametskae vaiskovae pakhavanne 1 Susvetnai vainy",
                   "text": "Un cimitir militar din Primul Război Mondial situat în Parcul Național Naraci.",
                   "category": "landmark",
                   "coords": [
@@ -961,7 +961,7 @@ export const belarusLifeV2: POI[] = [
     id: "belarus-osveysky-reserve-life-v2", "sights": {
       "de": [
             {
-                  "name": "Палацава-паркавы комплекс Гільзенаў і Шадурскіх.",
+                  "name": "Palatsava-parkavy kompleks Gil'zenau i Shadurskikh.",
                   "text": "Ruinen einer Palastanlage aus dem 18. Jahrhundert in einem historischen Park.",
                   "category": "landmark",
                   "coords": [
@@ -970,7 +970,7 @@ export const belarusLifeV2: POI[] = [
                   ]
             },
             {
-                  "name": "Руіны касцёла Найсвяцейшай Тройцы",
+                  "name": "Ruiny kastsiola Naisviatseishai Troitsy",
                   "text": "Die Überreste einer historischen Barockkirche im Osveysky-Landschaftsschutzgebiet.",
                   "category": "historical",
                   "coords": [
@@ -979,7 +979,7 @@ export const belarusLifeV2: POI[] = [
                   ]
             },
             {
-                  "name": "Манастырскі шпіталь",
+                  "name": "Manastyrski shpital'",
                   "text": "Ein historisches Gebäude, das ehemals als Krankenhaus für das örtliche Kloster diente.",
                   "category": "landmark",
                   "coords": [
@@ -990,7 +990,7 @@ export const belarusLifeV2: POI[] = [
       ],
       "hu": [
             {
-                  "name": "Палацава-паркавы комплекс Гільзенаў і Шадурскіх.",
+                  "name": "Palatsava-parkavy kompleks Gil'zenau i Shadurskikh.",
                   "text": "Egy 18. századi palotakomplexum romjai egy történelmi parkban.",
                   "category": "landmark",
                   "coords": [
@@ -999,7 +999,7 @@ export const belarusLifeV2: POI[] = [
                   ]
             },
             {
-                  "name": "Руіны касцёла Найсвяцейшай Тройцы",
+                  "name": "Ruiny kastsiola Naisviatseishai Troitsy",
                   "text": "Történelmi barokk templom maradványai az Osveysky tájvédelmi körzetben.",
                   "category": "historical",
                   "coords": [
@@ -1008,7 +1008,7 @@ export const belarusLifeV2: POI[] = [
                   ]
             },
             {
-                  "name": "Манастырскі шпіталь",
+                  "name": "Manastyrski shpital'",
                   "text": "Történelmi épület, amely korábban a helyi kolostor kórházaként működött.",
                   "category": "landmark",
                   "coords": [
@@ -1019,7 +1019,7 @@ export const belarusLifeV2: POI[] = [
       ],
       "ro": [
             {
-                  "name": "Палацава-паркавы комплекс Гільзенаў і Шадурскіх.",
+                  "name": "Palatsava-parkavy kompleks Gil'zenau i Shadurskikh.",
                   "text": "Ruinele unui complex palat de secol XVIII situat într-un parc istoric.",
                   "category": "landmark",
                   "coords": [
@@ -1028,7 +1028,7 @@ export const belarusLifeV2: POI[] = [
                   ]
             },
             {
-                  "name": "Руіны касцёла Найсвяцейшай Тройцы",
+                  "name": "Ruiny kastsiola Naisviatseishai Troitsy",
                   "text": "Rămășițele unei biserici baroce istorice din rezervația peisagistică Osveia.",
                   "category": "historical",
                   "coords": [
@@ -1037,7 +1037,7 @@ export const belarusLifeV2: POI[] = [
                   ]
             },
             {
-                  "name": "Манастырскі шпіталь",
+                  "name": "Manastyrski shpital'",
                   "text": "O clădire istorică ce a servit anterior drept spital pentru mănăstirea locală.",
                   "category": "landmark",
                   "coords": [
@@ -1213,7 +1213,7 @@ export const belarusLifeV2: POI[] = [
     id: "belarus-kozyansky-reserve-life-v2", "sights": {
       "de": [
             {
-                  "name": "Музей Обальскага камсамольскага падполля",
+                  "name": "Muzei Obal'skaga kamsamol'skaga padpollia",
                   "text": "Ein Museum in Obal, das an die Untergrundbewegung des Komsomol während des Zweiten Weltkriegs erinnert.",
                   "category": "museum",
                   "coords": [
@@ -1222,7 +1222,7 @@ export const belarusLifeV2: POI[] = [
                   ]
             },
             {
-                  "name": "Руіны сядзібы Грабніцкіх",
+                  "name": "Ruiny siadziby Grabnitskikh",
                   "text": "Die Ruinen des Hrabnitsky-Herrenhauses in Obal sind Überreste eines historischen Adelsbesitzes.",
                   "category": "historical",
                   "coords": [
@@ -1233,7 +1233,7 @@ export const belarusLifeV2: POI[] = [
       ],
       "hu": [
             {
-                  "name": "Музей Обальскага камсамольскага падполля",
+                  "name": "Muzei Obal'skaga kamsamol'skaga padpollia",
                   "text": "Múzeum Obalban, amely a második világháború alatti komszomol földalatti mozgalomnak állít emléket.",
                   "category": "museum",
                   "coords": [
@@ -1242,7 +1242,7 @@ export const belarusLifeV2: POI[] = [
                   ]
             },
             {
-                  "name": "Руіны сядзібы Грабніцкіх",
+                  "name": "Ruiny siadziby Grabnitskikh",
                   "text": "A Hrabnitsky-udvarház romjai Obalban egy történelmi nemesi birtok maradványai.",
                   "category": "historical",
                   "coords": [
@@ -1253,7 +1253,7 @@ export const belarusLifeV2: POI[] = [
       ],
       "ro": [
             {
-                  "name": "Музей Обальскага камсамольскага падполля",
+                  "name": "Muzei Obal'skaga kamsamol'skaga padpollia",
                   "text": "Un muzeu din Obal care comemorează mișcarea subterană Komsomol din timpul celui de-al Doilea Război Mondial.",
                   "category": "museum",
                   "coords": [
@@ -1262,7 +1262,7 @@ export const belarusLifeV2: POI[] = [
                   ]
             },
             {
-                  "name": "Руіны сядзібы Грабніцкіх",
+                  "name": "Ruiny siadziby Grabnitskikh",
                   "text": "Ruinele conacului Hrabnitsky din Obal sunt vestigiile unei reședințe nobiliare istorice.",
                   "category": "historical",
                   "coords": [
@@ -1757,7 +1757,7 @@ export const belarusLifeV2: POI[] = [
       ],
       "hu": [
             {
-                  "name": "Палескі радыяцыйна-экалагічны запаведнік",
+                  "name": "Paleski radyiatsyina-ekalagichny zapavednik",
                   "text": "Állami természetvédelmi terület a csernobili zóna fehéroroszországi részén.",
                   "category": "natural",
                   "coords": [
@@ -1768,7 +1768,7 @@ export const belarusLifeV2: POI[] = [
       ],
       "ro": [
             {
-                  "name": "Палескі радыяцыйна-экалагічны запаведнік",
+                  "name": "Paleski radyiatsyina-ekalagichny zapavednik",
                   "text": "O rezervație naturală de stat situată în zona de excluziune a Cernobîlului din Belarus.",
                   "category": "natural",
                   "coords": [

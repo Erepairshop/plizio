@@ -15,7 +15,7 @@ export const serbiaLandmarksV2: POI[] = [
                   ]
             },
             {
-                  "name": "Остаци замка деспота Стефана Лазаревића",
+                  "name": "Ostatsi zamka despota Stefana Lazarevitsha",
                   "text": "Die Grundmauern der einstigen Residenz des serbischen Despoten Stefan Lazarević.",
                   "category": "historical",
                   "coords": [
@@ -24,7 +24,7 @@ export const serbiaLandmarksV2: POI[] = [
                   ]
             },
             {
-                  "name": "Историјски музеј Србије",
+                  "name": "Istorijski muzej Srbije",
                   "text": "Das Museum präsentiert die politische und kulturelle Entwicklung Serbiens durch die Jahrhunderte.",
                   "category": "museum",
                   "coords": [
@@ -33,7 +33,7 @@ export const serbiaLandmarksV2: POI[] = [
                   ]
             },
             {
-                  "name": "Железнички музеј",
+                  "name": "Zheleznichki muzej",
                   "text": "Eine Sammlung von Exponaten zur Geschichte und Technik des Eisenbahnwesens in Serbien.",
                   "category": "museum",
                   "coords": [
@@ -42,7 +42,7 @@ export const serbiaLandmarksV2: POI[] = [
                   ]
             },
             {
-                  "name": "Музеј Иве Андрића",
+                  "name": "Muzej Ive Andritsha",
                   "text": "Das Museum im ehemaligen Apartment des Nobelpreisträgers zeigt persönliche Gegenstände und Manuskripte.",
                   "category": "museum",
                   "coords": [
@@ -51,7 +51,7 @@ export const serbiaLandmarksV2: POI[] = [
                   ]
             },
             {
-                  "name": "Музеј Паје Јовановића",
+                  "name": "Muzej Paje Jovanovitsha",
                   "text": "Gewidmet dem Leben und Werk des bedeutenden serbischen Malers Paja Jovanović.",
                   "category": "museum",
                   "coords": [
@@ -60,7 +60,7 @@ export const serbiaLandmarksV2: POI[] = [
                   ]
             },
             {
-                  "name": "Музеј Цептер",
+                  "name": "Muzej Tsepter",
                   "text": "Eine private Kunstgalerie, die moderne und zeitgenössische Werke serbischer Künstler ausstellt.",
                   "category": "museum",
                   "coords": [
@@ -69,7 +69,7 @@ export const serbiaLandmarksV2: POI[] = [
                   ]
             },
             {
-                  "name": "ПТТ музеј",
+                  "name": "PTT muzej",
                   "text": "Ein Museum über die Entwicklung des Post- und Fernmeldewesens in Serbien.",
                   "category": "museum",
                   "coords": [
@@ -80,7 +80,7 @@ export const serbiaLandmarksV2: POI[] = [
       ],
       "hu": [
             {
-                  "name": "Римски бунар",
+                  "name": "Rimski bunar",
                   "text": "Egy történelmi, mély kút a belgrádi várban, lenyűgöző csigalépcsővel.",
                   "category": "museum",
                   "coords": [
@@ -89,7 +89,7 @@ export const serbiaLandmarksV2: POI[] = [
                   ]
             },
             {
-                  "name": "Остаци замка деспота Стефана Лазаревића",
+                  "name": "Ostatsi zamka despota Stefana Lazarevitsha",
                   "text": "Stefan Lazarević szerb despota egykori rezidenciájának alapfalai.",
                   "category": "historical",
                   "coords": [
@@ -98,7 +98,7 @@ export const serbiaLandmarksV2: POI[] = [
                   ]
             },
             {
-                  "name": "Историјски музеј Србије",
+                  "name": "Istorijski muzej Srbije",
                   "text": "A múzeum Szerbia politikai és kulturális fejlődését mutatja be az évszázadok során.",
                   "category": "museum",
                   "coords": [
@@ -107,7 +107,7 @@ export const serbiaLandmarksV2: POI[] = [
                   ]
             },
             {
-                  "name": "Железнички музеј",
+                  "name": "Zheleznichki muzej",
                   "text": "Kiállítási tárgyak gyűjteménye a szerbiai vasút történetéről és technológiájáról.",
                   "category": "museum",
                   "coords": [
@@ -116,7 +116,7 @@ export const serbiaLandmarksV2: POI[] = [
                   ]
             },
             {
-                  "name": "Музеј Иве Андрића",
+                  "name": "Muzej Ive Andritsha",
                   "text": "A Nobel-díjas író egykori lakásában található múzeum személyes tárgyakat és kéziratokat mutat be.",
                   "category": "museum",
                   "coords": [
@@ -125,7 +125,7 @@ export const serbiaLandmarksV2: POI[] = [
                   ]
             },
             {
-                  "name": "Музеј Паје Јовановића",
+                  "name": "Muzej Paje Jovanovitsha",
                   "text": "Paja Jovanović jelentős szerb festőművész életének és munkásságának szentelve.",
                   "category": "museum",
                   "coords": [
@@ -134,7 +134,7 @@ export const serbiaLandmarksV2: POI[] = [
                   ]
             },
             {
-                  "name": "Музеј Цептер",
+                  "name": "Muzej Tsepter",
                   "text": "Magánművészeti galéria, amely szerb művészek modern és kortárs alkotásait állítja ki.",
                   "category": "museum",
                   "coords": [
@@ -143,7 +143,7 @@ export const serbiaLandmarksV2: POI[] = [
                   ]
             },
             {
-                  "name": "ПТТ музеј",
+                  "name": "PTT muzej",
                   "text": "Múzeum a szerbiai posta- és távközlési szolgáltatások fejlődéséről.",
                   "category": "museum",
                   "coords": [
@@ -154,7 +154,7 @@ export const serbiaLandmarksV2: POI[] = [
       ],
       "ro": [
             {
-                  "name": "Римски бунар",
+                  "name": "Rimski bunar",
                   "text": "O fântână istorică adâncă în cetatea Belgradului, cu o scară în spirală impresionantă.",
                   "category": "museum",
                   "coords": [
@@ -163,7 +163,7 @@ export const serbiaLandmarksV2: POI[] = [
                   ]
             },
             {
-                  "name": "Остаци замка деспота Стефана Лазаревића",
+                  "name": "Ostatsi zamka despota Stefana Lazarevitsha",
                   "text": "Fundatiile fostei reședințe a despotului sârb Stefan Lazarević.",
                   "category": "historical",
                   "coords": [
@@ -172,7 +172,7 @@ export const serbiaLandmarksV2: POI[] = [
                   ]
             },
             {
-                  "name": "Историјски музеј Србије",
+                  "name": "Istorijski muzej Srbije",
                   "text": "Muzeul prezintă dezvoltarea politică și culturală a Serbiei de-a lungul secolelor.",
                   "category": "museum",
                   "coords": [
@@ -181,7 +181,7 @@ export const serbiaLandmarksV2: POI[] = [
                   ]
             },
             {
-                  "name": "Железнички музеј",
+                  "name": "Zheleznichki muzej",
                   "text": "O colecție de exponate despre istoria și tehnologia căilor ferate din Serbia.",
                   "category": "museum",
                   "coords": [
@@ -190,7 +190,7 @@ export const serbiaLandmarksV2: POI[] = [
                   ]
             },
             {
-                  "name": "Музеј Иве Андрића",
+                  "name": "Muzej Ive Andritsha",
                   "text": "Muzeul din fostul apartament al laureatului Nobel expune obiecte personale și manuscrise.",
                   "category": "museum",
                   "coords": [
@@ -199,7 +199,7 @@ export const serbiaLandmarksV2: POI[] = [
                   ]
             },
             {
-                  "name": "Музеј Паје Јовановића",
+                  "name": "Muzej Paje Jovanovitsha",
                   "text": "Dedicat vieții și operei importantului pictor sârb Paja Jovanović.",
                   "category": "museum",
                   "coords": [
@@ -208,7 +208,7 @@ export const serbiaLandmarksV2: POI[] = [
                   ]
             },
             {
-                  "name": "Музеј Цептер",
+                  "name": "Muzej Tsepter",
                   "text": "O galerie de artă privată care expune lucrări moderne și contemporane ale artiștilor sârbi.",
                   "category": "museum",
                   "coords": [
@@ -217,7 +217,7 @@ export const serbiaLandmarksV2: POI[] = [
                   ]
             },
             {
-                  "name": "ПТТ музеј",
+                  "name": "PTT muzej",
                   "text": "Un muzeu despre dezvoltarea serviciilor poștale și de telecomunicații din Serbia.",
                   "category": "museum",
                   "coords": [
@@ -357,7 +357,7 @@ export const serbiaLandmarksV2: POI[] = [
                   ]
             },
             {
-                  "name": "Остаци замка деспота Стефана Лазаревића",
+                  "name": "Ostatsi zamka despota Stefana Lazarevitsha",
                   "text": "Archäologische Überreste der mittelalterlichen Burg von Despot Stefan Lazarević.",
                   "category": "historical",
                   "coords": [
@@ -366,7 +366,7 @@ export const serbiaLandmarksV2: POI[] = [
                   ]
             },
             {
-                  "name": "Историјски музеј Србије",
+                  "name": "Istorijski muzej Srbije",
                   "text": "Museum in Belgrad, das der Geschichte des serbischen Volkes gewidmet ist.",
                   "category": "museum",
                   "coords": [
@@ -375,7 +375,7 @@ export const serbiaLandmarksV2: POI[] = [
                   ]
             },
             {
-                  "name": "Железнички музеј",
+                  "name": "Zheleznichki muzej",
                   "text": "Museum in Belgrad, das die Geschichte des Eisenbahnwesens in Serbien zeigt.",
                   "category": "museum",
                   "coords": [
@@ -384,7 +384,7 @@ export const serbiaLandmarksV2: POI[] = [
                   ]
             },
             {
-                  "name": "Музеј Иве Андрића",
+                  "name": "Muzej Ive Andritsha",
                   "text": "Gedenkmuseum für den Literaturnobelpreisträger Ivo Andrić.",
                   "category": "museum",
                   "coords": [
@@ -393,7 +393,7 @@ export const serbiaLandmarksV2: POI[] = [
                   ]
             },
             {
-                  "name": "Музеј Паје Јовановића",
+                  "name": "Muzej Paje Jovanovitsha",
                   "text": "Ein Museum, das dem Leben und Werk des Malers Paja Jovanović gewidmet ist.",
                   "category": "museum",
                   "coords": [
@@ -402,7 +402,7 @@ export const serbiaLandmarksV2: POI[] = [
                   ]
             },
             {
-                  "name": "Музеј Цептер",
+                  "name": "Muzej Tsepter",
                   "text": "Ein privates Kunstmuseum in Belgrad mit zeitgenössischen Werken.",
                   "category": "museum",
                   "coords": [
@@ -411,7 +411,7 @@ export const serbiaLandmarksV2: POI[] = [
                   ]
             },
             {
-                  "name": "ПТТ музеј",
+                  "name": "PTT muzej",
                   "text": "Museum zur Geschichte der Post, des Telegrafen und des Telefons in Serbien.",
                   "category": "museum",
                   "coords": [
@@ -422,7 +422,7 @@ export const serbiaLandmarksV2: POI[] = [
       ],
       "hu": [
             {
-                  "name": "Римски бунар",
+                  "name": "Rimski bunar",
                   "text": "Egy mély történelmi kút a belgrádi erődben.",
                   "category": "museum",
                   "coords": [
@@ -431,7 +431,7 @@ export const serbiaLandmarksV2: POI[] = [
                   ]
             },
             {
-                  "name": "Остаци замка деспота Стефана Лазаревића",
+                  "name": "Ostatsi zamka despota Stefana Lazarevitsha",
                   "text": "Stefan Lazarević despota középkori várának régészeti maradványai.",
                   "category": "historical",
                   "coords": [
@@ -440,7 +440,7 @@ export const serbiaLandmarksV2: POI[] = [
                   ]
             },
             {
-                  "name": "Историјски музеј Србије",
+                  "name": "Istorijski muzej Srbije",
                   "text": "Belgrádi múzeum, amelyet a szerb nép történelmének szenteltek.",
                   "category": "museum",
                   "coords": [
@@ -449,7 +449,7 @@ export const serbiaLandmarksV2: POI[] = [
                   ]
             },
             {
-                  "name": "Железнички музеј",
+                  "name": "Zheleznichki muzej",
                   "text": "Belgrádi múzeum, amely a szerbiai vasút történetét mutatja be.",
                   "category": "museum",
                   "coords": [
@@ -458,7 +458,7 @@ export const serbiaLandmarksV2: POI[] = [
                   ]
             },
             {
-                  "name": "Музеј Иве Андрића",
+                  "name": "Muzej Ive Andritsha",
                   "text": "Emlékmúzeum Ivo Andrić Nobel-díjas író tiszteletére.",
                   "category": "museum",
                   "coords": [
@@ -467,7 +467,7 @@ export const serbiaLandmarksV2: POI[] = [
                   ]
             },
             {
-                  "name": "Музеј Паје Јовановића",
+                  "name": "Muzej Paje Jovanovitsha",
                   "text": "Paja Jovanović festőművész életének és munkásságának szentelt múzeum.",
                   "category": "museum",
                   "coords": [
@@ -476,7 +476,7 @@ export const serbiaLandmarksV2: POI[] = [
                   ]
             },
             {
-                  "name": "Музеј Цептер",
+                  "name": "Muzej Tsepter",
                   "text": "Magánkézben lévő művészeti múzeum Belgrádban, kortárs alkotásokkal.",
                   "category": "museum",
                   "coords": [
@@ -485,7 +485,7 @@ export const serbiaLandmarksV2: POI[] = [
                   ]
             },
             {
-                  "name": "ПТТ музеј",
+                  "name": "PTT muzej",
                   "text": "A szerbiai posta, távíró és telefon történetét bemutató múzeum.",
                   "category": "museum",
                   "coords": [
@@ -496,7 +496,7 @@ export const serbiaLandmarksV2: POI[] = [
       ],
       "ro": [
             {
-                  "name": "Римски бунар",
+                  "name": "Rimski bunar",
                   "text": "O fântână istorică adâncă situată în incinta Cetății Belgradului.",
                   "category": "museum",
                   "coords": [
@@ -505,7 +505,7 @@ export const serbiaLandmarksV2: POI[] = [
                   ]
             },
             {
-                  "name": "Остаци замка деспота Стефана Лазаревића",
+                  "name": "Ostatsi zamka despota Stefana Lazarevitsha",
                   "text": "Rămășițe arheologice ale castelului medieval al despotului Stefan Lazarević.",
                   "category": "historical",
                   "coords": [
@@ -514,7 +514,7 @@ export const serbiaLandmarksV2: POI[] = [
                   ]
             },
             {
-                  "name": "Историјски музеј Србије",
+                  "name": "Istorijski muzej Srbije",
                   "text": "Muzeu din Belgrad dedicat istoriei poporului sârb.",
                   "category": "museum",
                   "coords": [
@@ -523,7 +523,7 @@ export const serbiaLandmarksV2: POI[] = [
                   ]
             },
             {
-                  "name": "Железнички музеј",
+                  "name": "Zheleznichki muzej",
                   "text": "Muzeu din Belgrad care prezintă istoria căilor ferate din Serbia.",
                   "category": "museum",
                   "coords": [
@@ -532,7 +532,7 @@ export const serbiaLandmarksV2: POI[] = [
                   ]
             },
             {
-                  "name": "Музеј Иве Андрића",
+                  "name": "Muzej Ive Andritsha",
                   "text": "Muzeu memorial dedicat laureatului Premiului Nobel pentru Literatură, Ivo Andrić.",
                   "category": "museum",
                   "coords": [
@@ -541,7 +541,7 @@ export const serbiaLandmarksV2: POI[] = [
                   ]
             },
             {
-                  "name": "Музеј Паје Јовановића",
+                  "name": "Muzej Paje Jovanovitsha",
                   "text": "Un muzeu dedicat vieții și operei pictorului Paja Jovanović.",
                   "category": "museum",
                   "coords": [
@@ -550,7 +550,7 @@ export const serbiaLandmarksV2: POI[] = [
                   ]
             },
             {
-                  "name": "Музеј Цептер",
+                  "name": "Muzej Tsepter",
                   "text": "Un muzeu de artă privat din Belgrad care expune lucrări contemporane.",
                   "category": "museum",
                   "coords": [
@@ -559,7 +559,7 @@ export const serbiaLandmarksV2: POI[] = [
                   ]
             },
             {
-                  "name": "ПТТ музеј",
+                  "name": "PTT muzej",
                   "text": "Muzeu dedicat istoriei poștei, telegrafului și telefonului din Serbia.",
                   "category": "museum",
                   "coords": [
@@ -690,7 +690,7 @@ export const serbiaLandmarksV2: POI[] = [
     id: "serbia-subotica-city-hall-landmarks-v2", "sights": {
       "de": [
             {
-                  "name": "Народно позориште Суботица",
+                  "name": "Narodno pozorishte Subotitsa",
                   "text": "Das Haupttheater von Subotica, ein bedeutendes kulturelles Zentrum der Stadt.",
                   "category": "cultural",
                   "coords": [
@@ -708,7 +708,7 @@ export const serbiaLandmarksV2: POI[] = [
                   ]
             },
             {
-                  "name": "Градски музеj Cyботица",
+                  "name": "j Cy",
                   "text": "Das Stadtmuseum von Subotica, das Exponate zur lokalen Geschichte und Kunst zeigt.",
                   "category": "museum",
                   "coords": [
@@ -726,7 +726,7 @@ export const serbiaLandmarksV2: POI[] = [
                   ]
             },
             {
-                  "name": "Градска кућа",
+                  "name": "Gradska kutsha",
                   "text": "Das monumentale Rathaus von Subotica, ein Meisterwerk des ungarischen Jugendstils.",
                   "category": "landmark",
                   "coords": [
@@ -744,7 +744,7 @@ export const serbiaLandmarksV2: POI[] = [
                   ]
             },
             {
-                  "name": "Споменик Ивану Сарићу",
+                  "name": "Spomenik Ivanu Saritshu",
                   "text": "Ein Denkmal in Subotica zu Ehren des Luftfahrtpioniers Ivan Sarić.",
                   "category": "historical",
                   "coords": [
@@ -764,7 +764,7 @@ export const serbiaLandmarksV2: POI[] = [
                   ]
             },
             {
-                  "name": "Палата Рајхл",
+                  "name": "Palata Rajkhl",
                   "text": "Szabadka impozáns szecessziós palotája, melyet Raichle Ferenc építész tervezett.",
                   "category": "castle",
                   "coords": [
@@ -820,7 +820,7 @@ export const serbiaLandmarksV2: POI[] = [
       ],
       "ro": [
             {
-                  "name": "Народно позориште Суботица",
+                  "name": "Narodno pozorishte Subotitsa",
                   "text": "Teatrul Național din Subotica, un centru cultural major al orașului.",
                   "category": "cultural",
                   "coords": [
@@ -829,7 +829,7 @@ export const serbiaLandmarksV2: POI[] = [
                   ]
             },
             {
-                  "name": "Палата Рајхл",
+                  "name": "Palata Rajkhl",
                   "text": "Un splendid palat în stil Secession din Subotica, proiectat de arhitectul Ferenc Raichle.",
                   "category": "castle",
                   "coords": [
@@ -838,7 +838,7 @@ export const serbiaLandmarksV2: POI[] = [
                   ]
             },
             {
-                  "name": "Градски музеj Cyботица",
+                  "name": "j Cy",
                   "text": "Muzeul orașului Subotica, ce prezintă exponate legate de istoria și arta locală.",
                   "category": "museum",
                   "coords": [
@@ -856,7 +856,7 @@ export const serbiaLandmarksV2: POI[] = [
                   ]
             },
             {
-                  "name": "Градска кућа",
+                  "name": "Gradska kutsha",
                   "text": "Primăria monumentală din Subotica, o capodoperă a stilului Secession maghiar.",
                   "category": "landmark",
                   "coords": [
@@ -874,7 +874,7 @@ export const serbiaLandmarksV2: POI[] = [
                   ]
             },
             {
-                  "name": "Споменик Ивану Сарићу",
+                  "name": "Spomenik Ivanu Saritshu",
                   "text": "Un monument în Subotica ridicat în onoarea pionierului aviației Ivan Sarić.",
                   "category": "historical",
                   "coords": [
@@ -1221,7 +1221,7 @@ export const serbiaLandmarksV2: POI[] = [
     id: "serbia-kragujevac-old-parliament-landmarks-v2", "sights": {
       "de": [
             {
-                  "name": "Музеј 21. октобар",
+                  "name": "Muzej 21. oktobar",
                   "text": "Ein Gedenkmuseum, das den Opfern des Massakers von Kragujevac im Oktober 1941 gewidmet ist.",
                   "category": "museum",
                   "coords": [
@@ -1230,7 +1230,7 @@ export const serbiaLandmarksV2: POI[] = [
                   ]
             },
             {
-                  "name": "Споменик Узнесење",
+                  "name": "Spomenik Uznesenje",
                   "text": "Ein Gedenkmonument im Gedenkpark „Kragujevacer Oktober“.",
                   "category": "historical",
                   "coords": [
@@ -1239,7 +1239,7 @@ export const serbiaLandmarksV2: POI[] = [
                   ]
             },
             {
-                  "name": "Споменик „Против зла”",
+                  "name": "Spomenik ,,Protiv zla\"",
                   "text": "Eine Gedenkskulptur im Gedenkpark „Kragujevacer Oktober“.",
                   "category": "historical",
                   "coords": [
@@ -1257,7 +1257,7 @@ export const serbiaLandmarksV2: POI[] = [
                   ]
             },
             {
-                  "name": "Спомен-парк Крагујевачки октобар",
+                  "name": "Spomen-park Kragujevachki oktobar",
                   "text": "Ein weitläufiger Gedenkpark zum Gedenken an die Opfer des Massakers von 1941 in Kragujevac.",
                   "category": "park",
                   "coords": [
@@ -1268,7 +1268,7 @@ export const serbiaLandmarksV2: POI[] = [
       ],
       "hu": [
             {
-                  "name": "Музеј 21. октобар",
+                  "name": "Muzej 21. oktobar",
                   "text": "Az 1941 októberi kragujevaci mészárlás áldozatainak szentelt emlékmúzeum.",
                   "category": "museum",
                   "coords": [
@@ -1277,7 +1277,7 @@ export const serbiaLandmarksV2: POI[] = [
                   ]
             },
             {
-                  "name": "Споменик Узнесење",
+                  "name": "Spomenik Uznesenje",
                   "text": "Emlékmű a Kragujevaci Október Emlékpark területén.",
                   "category": "historical",
                   "coords": [
@@ -1286,7 +1286,7 @@ export const serbiaLandmarksV2: POI[] = [
                   ]
             },
             {
-                  "name": "Споменик „Против зла”",
+                  "name": "Spomenik ,,Protiv zla\"",
                   "text": "Emlékszobor a Kragujevaci Október Emlékparkban.",
                   "category": "historical",
                   "coords": [
@@ -1295,7 +1295,7 @@ export const serbiaLandmarksV2: POI[] = [
                   ]
             },
             {
-                  "name": "Споменик „Прекинут лет”",
+                  "name": "Spomenik ,,Prekinut let\"",
                   "text": "Híres emlékmű a kragujevaci mészárlás során kivégzett diákok és tanárok emlékére.",
                   "category": "historical",
                   "coords": [
@@ -1304,7 +1304,7 @@ export const serbiaLandmarksV2: POI[] = [
                   ]
             },
             {
-                  "name": "Спомен-парк Крагујевачки октобар",
+                  "name": "Spomen-park Kragujevachki oktobar",
                   "text": "Hatalmas emlékpark az 1941-es kragujevaci mészárlás áldozatainak emlékére.",
                   "category": "park",
                   "coords": [
@@ -1315,7 +1315,7 @@ export const serbiaLandmarksV2: POI[] = [
       ],
       "ro": [
             {
-                  "name": "Музеј 21. октобар",
+                  "name": "Muzej 21. oktobar",
                   "text": "Un muzeu memorial dedicat victimelor masacrului de la Kragujevac din octombrie 1941.",
                   "category": "museum",
                   "coords": [
@@ -1324,7 +1324,7 @@ export const serbiaLandmarksV2: POI[] = [
                   ]
             },
             {
-                  "name": "Споменик Узнесење",
+                  "name": "Spomenik Uznesenje",
                   "text": "Un monument memorial situat în Parcul Memorial Octombrie din Kragujevac.",
                   "category": "historical",
                   "coords": [
@@ -1333,7 +1333,7 @@ export const serbiaLandmarksV2: POI[] = [
                   ]
             },
             {
-                  "name": "Споменик „Против зла”",
+                  "name": "Spomenik ,,Protiv zla\"",
                   "text": "O sculptură memorială în Parcul Memorial Octombrie din Kragujevac.",
                   "category": "historical",
                   "coords": [
@@ -1342,7 +1342,7 @@ export const serbiaLandmarksV2: POI[] = [
                   ]
             },
             {
-                  "name": "Споменик „Прекинут лет”",
+                  "name": "Spomenik ,,Prekinut let\"",
                   "text": "Un monument celebru dedicat elevilor și profesorilor executați în timpul masacrului de la Kragujevac.",
                   "category": "historical",
                   "coords": [
@@ -1351,7 +1351,7 @@ export const serbiaLandmarksV2: POI[] = [
                   ]
             },
             {
-                  "name": "Спомен-парк Крагујевачки октобар",
+                  "name": "Spomen-park Kragujevachki oktobar",
                   "text": "Un vast parc memorial care comemorează victimele masacrului din 1941 de la Kragujevac.",
                   "category": "park",
                   "coords": [
@@ -1464,7 +1464,7 @@ export const serbiaLandmarksV2: POI[] = [
                   ]
             },
             {
-                  "name": "Остаци замка деспота Стефана Лазаревића",
+                  "name": "Ostatsi zamka despota Stefana Lazarevitsha",
                   "text": "Überreste der mittelalterlichen Burg aus dem 15. Jahrhundert, erbaut von Despot Stefan Lazarević.",
                   "category": "historical",
                   "coords": [
@@ -1473,7 +1473,7 @@ export const serbiaLandmarksV2: POI[] = [
                   ]
             },
             {
-                  "name": "Историјски музеј Србије",
+                  "name": "Istorijski muzej Srbije",
                   "text": "Ein Museum in Belgrad, das der reichen politischen und kulturellen Geschichte Serbiens gewidmet ist.",
                   "category": "museum",
                   "coords": [
@@ -1482,7 +1482,7 @@ export const serbiaLandmarksV2: POI[] = [
                   ]
             },
             {
-                  "name": "Железнички музеј",
+                  "name": "Zheleznichki muzej",
                   "text": "Dieses Museum zeigt die Geschichte und Entwicklung des Eisenbahnsystems in Serbien.",
                   "category": "museum",
                   "coords": [
@@ -1491,7 +1491,7 @@ export const serbiaLandmarksV2: POI[] = [
                   ]
             },
             {
-                  "name": "Музеј Иве Андрића",
+                  "name": "Muzej Ive Andritsha",
                   "text": "Ein Museum, das dem Leben und Werk des Literaturnobelpreisträgers Ivo Andrić gewidmet ist.",
                   "category": "museum",
                   "coords": [
@@ -1500,7 +1500,7 @@ export const serbiaLandmarksV2: POI[] = [
                   ]
             },
             {
-                  "name": "Музеј Паје Јовановића",
+                  "name": "Muzej Paje Jovanovitsha",
                   "text": "Ein Museum, das Werke und persönliche Gegenstände des berühmten serbischen Malers Paja Jovanović zeigt.",
                   "category": "museum",
                   "coords": [
@@ -1509,7 +1509,7 @@ export const serbiaLandmarksV2: POI[] = [
                   ]
             },
             {
-                  "name": "Музеј Цептер",
+                  "name": "Muzej Tsepter",
                   "text": "Ein privates Kunstmuseum in Belgrad mit einer bedeutenden Sammlung zeitgenössischer serbischer Werke.",
                   "category": "museum",
                   "coords": [
@@ -1518,7 +1518,7 @@ export const serbiaLandmarksV2: POI[] = [
                   ]
             },
             {
-                  "name": "ПТТ музеј",
+                  "name": "PTT muzej",
                   "text": "Ein Museum, das die Geschichte der Post-, Telegrafen- und Telefondienste in Serbien dokumentiert.",
                   "category": "museum",
                   "coords": [
@@ -1529,7 +1529,7 @@ export const serbiaLandmarksV2: POI[] = [
       ],
       "hu": [
             {
-                  "name": "Римски бунар",
+                  "name": "Rimski bunar",
                   "text": "Rejtélyes történelmi kút a belgrádi vár területén.",
                   "category": "museum",
                   "coords": [
@@ -1538,7 +1538,7 @@ export const serbiaLandmarksV2: POI[] = [
                   ]
             },
             {
-                  "name": "Остаци замка деспота Стефана Лазаревића",
+                  "name": "Ostatsi zamka despota Stefana Lazarevitsha",
                   "text": "Despota Stefan Lazarević 15. századi középkori várának maradványai.",
                   "category": "historical",
                   "coords": [
@@ -1547,7 +1547,7 @@ export const serbiaLandmarksV2: POI[] = [
                   ]
             },
             {
-                  "name": "Историјски музеј Србије",
+                  "name": "Istorijski muzej Srbije",
                   "text": "Szerbia gazdag politikai és kulturális történelmének szentelt múzeum Belgrádban.",
                   "category": "museum",
                   "coords": [
@@ -1556,7 +1556,7 @@ export const serbiaLandmarksV2: POI[] = [
                   ]
             },
             {
-                  "name": "Железнички музеј",
+                  "name": "Zheleznichki muzej",
                   "text": "A szerbiai vasúti rendszer történetét és fejlődését bemutató múzeum.",
                   "category": "museum",
                   "coords": [
@@ -1565,7 +1565,7 @@ export const serbiaLandmarksV2: POI[] = [
                   ]
             },
             {
-                  "name": "Музеј Иве Андрића",
+                  "name": "Muzej Ive Andritsha",
                   "text": "Az irodalmi Nobel-díjas író, Ivo Andrić életének és munkásságának szentelt múzeum.",
                   "category": "museum",
                   "coords": [
@@ -1574,7 +1574,7 @@ export const serbiaLandmarksV2: POI[] = [
                   ]
             },
             {
-                  "name": "Музеј Паје Јовановића",
+                  "name": "Muzej Paje Jovanovitsha",
                   "text": "A neves szerb festő, Paja Jovanović műveit és személyes tárgyait bemutató múzeum.",
                   "category": "museum",
                   "coords": [
@@ -1583,7 +1583,7 @@ export const serbiaLandmarksV2: POI[] = [
                   ]
             },
             {
-                  "name": "Музеј Цептер",
+                  "name": "Muzej Tsepter",
                   "text": "Magánmúzeum Belgrádban, amely a kortárs szerb művészet jelentős gyűjteményét mutatja be.",
                   "category": "museum",
                   "coords": [
@@ -1592,7 +1592,7 @@ export const serbiaLandmarksV2: POI[] = [
                   ]
             },
             {
-                  "name": "ПТТ музеј",
+                  "name": "PTT muzej",
                   "text": "A szerbiai posta-, távíró- és telefonszolgáltatások történetét dokumentáló múzeum.",
                   "category": "museum",
                   "coords": [
@@ -1603,7 +1603,7 @@ export const serbiaLandmarksV2: POI[] = [
       ],
       "ro": [
             {
-                  "name": "Римски бунар",
+                  "name": "Rimski bunar",
                   "text": "O fântână istorică enigmatică situată în Cetatea Belgradului.",
                   "category": "museum",
                   "coords": [
@@ -1612,7 +1612,7 @@ export const serbiaLandmarksV2: POI[] = [
                   ]
             },
             {
-                  "name": "Остаци замка деспота Стефана Лазаревића",
+                  "name": "Ostatsi zamka despota Stefana Lazarevitsha",
                   "text": "Ruinele castelului medieval din secolul al XV-lea construit de despotul Stefan Lazarević.",
                   "category": "historical",
                   "coords": [
@@ -1621,7 +1621,7 @@ export const serbiaLandmarksV2: POI[] = [
                   ]
             },
             {
-                  "name": "Историјски музеј Србије",
+                  "name": "Istorijski muzej Srbije",
                   "text": "Un muzeu din Belgrad dedicat istoriei politice și culturale bogate a Serbiei.",
                   "category": "museum",
                   "coords": [
@@ -1630,7 +1630,7 @@ export const serbiaLandmarksV2: POI[] = [
                   ]
             },
             {
-                  "name": "Железнички музеј",
+                  "name": "Zheleznichki muzej",
                   "text": "Acest muzeu prezintă istoria și dezvoltarea sistemului feroviar din Serbia.",
                   "category": "museum",
                   "coords": [
@@ -1639,7 +1639,7 @@ export const serbiaLandmarksV2: POI[] = [
                   ]
             },
             {
-                  "name": "Музеј Иве Андрића",
+                  "name": "Muzej Ive Andritsha",
                   "text": "Un muzeu dedicat vieții și operei scriitorului laureat al Premiului Nobel, Ivo Andrić.",
                   "category": "museum",
                   "coords": [
@@ -1648,7 +1648,7 @@ export const serbiaLandmarksV2: POI[] = [
                   ]
             },
             {
-                  "name": "Музеј Паје Јовановића",
+                  "name": "Muzej Paje Jovanovitsha",
                   "text": "Un muzeu care prezintă lucrările și obiectele personale ale renumitului pictor sârb Paja Jovanović.",
                   "category": "museum",
                   "coords": [
@@ -1657,7 +1657,7 @@ export const serbiaLandmarksV2: POI[] = [
                   ]
             },
             {
-                  "name": "Музеј Цептер",
+                  "name": "Muzej Tsepter",
                   "text": "Un muzeu privat din Belgrad care găzduiește o colecție semnificativă de artă sârbă contemporană.",
                   "category": "museum",
                   "coords": [
@@ -1666,7 +1666,7 @@ export const serbiaLandmarksV2: POI[] = [
                   ]
             },
             {
-                  "name": "ПТТ музеј",
+                  "name": "PTT muzej",
                   "text": "Un muzeu care documentează istoria serviciilor poștale, telegrafice și telefonice din Serbia.",
                   "category": "museum",
                   "coords": [
@@ -1797,7 +1797,7 @@ export const serbiaLandmarksV2: POI[] = [
     id: "serbia-niš-fortress-landmarks-v2", "sights": {
       "de": [
             {
-                  "name": "Нишка тврђава",
+                  "name": "Nishka tvrdjava",
                   "text": "Eine gut erhaltene osmanische Festung in Niš, die bedeutende historische Epochen der Stadt widerspiegelt.",
                   "category": "castle",
                   "coords": [
@@ -1806,7 +1806,7 @@ export const serbiaLandmarksV2: POI[] = [
                   ]
             },
             {
-                  "name": "Палата са октогоном",
+                  "name": "Palata sa oktogonom",
                   "text": "Archäologische Überreste einer spätantiken Palastanlage innerhalb der Festung Niš.",
                   "category": "historical",
                   "coords": [
@@ -1815,7 +1815,7 @@ export const serbiaLandmarksV2: POI[] = [
                   ]
             },
             {
-                  "name": "Хамам у нишкој тврђави",
+                  "name": "Khamam u nishkoj tvrdjavi",
                   "text": "Die Überreste eines historischen türkischen Bades aus der osmanischen Zeit in der Festung Niš.",
                   "category": "historical",
                   "coords": [
@@ -1833,7 +1833,7 @@ export const serbiaLandmarksV2: POI[] = [
                   ]
             },
             {
-                  "name": "Меморијални комплекс „12. фебруар”",
+                  "name": "Memorijalni kompleks ,,12. februar\"",
                   "text": "Ein Gedenkmuseum auf dem Areal eines ehemaligen Lagers aus dem Zweiten Weltkrieg in Niš.",
                   "category": "museum",
                   "coords": [
@@ -1844,7 +1844,7 @@ export const serbiaLandmarksV2: POI[] = [
       ],
       "hu": [
             {
-                  "name": "Нишка тврђава",
+                  "name": "Nishka tvrdjava",
                   "text": "Jó állapotban fennmaradt oszmán erőd Nišben, amely a város jelentős történelmi korszakait tükrözi.",
                   "category": "castle",
                   "coords": [
@@ -1853,7 +1853,7 @@ export const serbiaLandmarksV2: POI[] = [
                   ]
             },
             {
-                  "name": "Палата са октогоном",
+                  "name": "Palata sa oktogonom",
                   "text": "Késő antik palotakomplexum régészeti maradványai a niši erődben.",
                   "category": "historical",
                   "coords": [
@@ -1862,7 +1862,7 @@ export const serbiaLandmarksV2: POI[] = [
                   ]
             },
             {
-                  "name": "Хамам у нишкој тврђави",
+                  "name": "Khamam u nishkoj tvrdjavi",
                   "text": "Egy oszmán kori történelmi török fürdő maradványai a niši erődben.",
                   "category": "historical",
                   "coords": [
@@ -1871,7 +1871,7 @@ export const serbiaLandmarksV2: POI[] = [
                   ]
             },
             {
-                  "name": "Народни музеј",
+                  "name": "Narodni muzej",
                   "text": "Kiállítóterem a niši erődben, amely a régió régészeti leleteit mutatja be.",
                   "category": "museum",
                   "coords": [
@@ -1880,7 +1880,7 @@ export const serbiaLandmarksV2: POI[] = [
                   ]
             },
             {
-                  "name": "Меморијални комплекс „12. фебруар”",
+                  "name": "Memorijalni kompleks ,,12. februar\"",
                   "text": "Emlékmúzeum egy egykori második világháborús tábor területén Nišben.",
                   "category": "museum",
                   "coords": [
@@ -1891,7 +1891,7 @@ export const serbiaLandmarksV2: POI[] = [
       ],
       "ro": [
             {
-                  "name": "Нишка тврђава",
+                  "name": "Nishka tvrdjava",
                   "text": "O fortăreață otomană bine conservată în Niš, care reflectă epoci istorice importante ale orașului.",
                   "category": "castle",
                   "coords": [
@@ -1900,7 +1900,7 @@ export const serbiaLandmarksV2: POI[] = [
                   ]
             },
             {
-                  "name": "Палата са октогоном",
+                  "name": "Palata sa oktogonom",
                   "text": "Vestigii arheologice ale unui complex palatinal din antichitatea târzie, în interiorul cetății Niš.",
                   "category": "historical",
                   "coords": [
@@ -1909,7 +1909,7 @@ export const serbiaLandmarksV2: POI[] = [
                   ]
             },
             {
-                  "name": "Хамам у нишкој тврђави",
+                  "name": "Khamam u nishkoj tvrdjavi",
                   "text": "Rămășițele unei băi turcești istorice din perioada otomană, în interiorul cetății Niš.",
                   "category": "historical",
                   "coords": [
@@ -1918,7 +1918,7 @@ export const serbiaLandmarksV2: POI[] = [
                   ]
             },
             {
-                  "name": "Народни музеј",
+                  "name": "Narodni muzej",
                   "text": "O sală de expoziție în cetatea Niš, care prezintă descoperiri arheologice din regiune.",
                   "category": "museum",
                   "coords": [
@@ -1927,7 +1927,7 @@ export const serbiaLandmarksV2: POI[] = [
                   ]
             },
             {
-                  "name": "Меморијални комплекс „12. фебруар”",
+                  "name": "Memorijalni kompleks ,,12. februar\"",
                   "text": "Un muzeu memorial situat pe locul unui fost lagăr din al Doilea Război Mondial în Niš.",
                   "category": "museum",
                   "coords": [
@@ -2040,7 +2040,7 @@ export const serbiaLandmarksV2: POI[] = [
                   ]
             },
             {
-                  "name": "Остаци замка деспота Стефана Лазаревића",
+                  "name": "Ostatsi zamka despota Stefana Lazarevitsha",
                   "text": "Diese archäologische Stätte zeigt die Überreste der Burg von Despot Stefan Lazarević.",
                   "category": "historical",
                   "coords": [
@@ -2049,7 +2049,7 @@ export const serbiaLandmarksV2: POI[] = [
                   ]
             },
             {
-                  "name": "Историјски музеј Србије",
+                  "name": "Istorijski muzej Srbije",
                   "text": "Dieses Museum in Belgrad widmet sich der reichen Geschichte Serbiens von der Antike bis zur Gegenwart.",
                   "category": "museum",
                   "coords": [
@@ -2058,7 +2058,7 @@ export const serbiaLandmarksV2: POI[] = [
                   ]
             },
             {
-                  "name": "Железнички музеј",
+                  "name": "Zheleznichki muzej",
                   "text": "Ein Museum, das die technische Entwicklung und das Erbe des serbischen Eisenbahnwesens dokumentiert.",
                   "category": "museum",
                   "coords": [
@@ -2067,7 +2067,7 @@ export const serbiaLandmarksV2: POI[] = [
                   ]
             },
             {
-                  "name": "Музеј Иве Андрића",
+                  "name": "Muzej Ive Andritsha",
                   "text": "Die ehemalige Wohnung des Nobelpreisträgers Ivo Andrić dient heute als Gedenkstätte für sein Leben und Werk.",
                   "category": "museum",
                   "coords": [
@@ -2076,7 +2076,7 @@ export const serbiaLandmarksV2: POI[] = [
                   ]
             },
             {
-                  "name": "Музеј Паје Јовановића",
+                  "name": "Muzej Paje Jovanovitsha",
                   "text": "Ein Museum in Belgrad, das dem Leben und den Werken des bedeutenden serbischen Realisten Paja Jovanović gewidmet ist.",
                   "category": "museum",
                   "coords": [
@@ -2085,7 +2085,7 @@ export const serbiaLandmarksV2: POI[] = [
                   ]
             },
             {
-                  "name": "Музеј Цептер",
+                  "name": "Muzej Tsepter",
                   "text": "Ein privates Museum für moderne Kunst, das eine bedeutende Sammlung serbischer und internationaler Werke zeigt.",
                   "category": "museum",
                   "coords": [
@@ -2094,7 +2094,7 @@ export const serbiaLandmarksV2: POI[] = [
                   ]
             },
             {
-                  "name": "ПТТ музеј",
+                  "name": "PTT muzej",
                   "text": "Dieses Museum zeigt die Geschichte des Post-, Telegrafen- und Telefonwesens in Serbien.",
                   "category": "museum",
                   "coords": [
@@ -2105,7 +2105,7 @@ export const serbiaLandmarksV2: POI[] = [
       ],
       "hu": [
             {
-                  "name": "Римски бунар",
+                  "name": "Rimski bunar",
                   "text": "A Római kút egy történelmi látványosság a belgrádi erődben.",
                   "category": "museum",
                   "coords": [
@@ -2114,7 +2114,7 @@ export const serbiaLandmarksV2: POI[] = [
                   ]
             },
             {
-                  "name": "Остаци замка деспота Стефана Лазаревића",
+                  "name": "Ostatsi zamka despota Stefana Lazarevitsha",
                   "text": "Ez a régészeti helyszín Stefan Lazarević despota várának maradványait mutatja be.",
                   "category": "historical",
                   "coords": [
@@ -2123,7 +2123,7 @@ export const serbiaLandmarksV2: POI[] = [
                   ]
             },
             {
-                  "name": "Историјски музеј Србије",
+                  "name": "Istorijski muzej Srbije",
                   "text": "Ez a belgrádi múzeum Szerbia gazdag történelmét mutatja be az ókortól napjainkig.",
                   "category": "museum",
                   "coords": [
@@ -2132,7 +2132,7 @@ export const serbiaLandmarksV2: POI[] = [
                   ]
             },
             {
-                  "name": "Железнички музеј",
+                  "name": "Zheleznichki muzej",
                   "text": "A szerb vasúti közlekedés technikai fejlődését és örökségét dokumentáló múzeum.",
                   "category": "museum",
                   "coords": [
@@ -2141,7 +2141,7 @@ export const serbiaLandmarksV2: POI[] = [
                   ]
             },
             {
-                  "name": "Музеј Иве Андрића",
+                  "name": "Muzej Ive Andritsha",
                   "text": "Ivo Andrić Nobel-díjas író egykori lakása ma életét és munkásságát bemutató emlékhely.",
                   "category": "museum",
                   "coords": [
@@ -2150,7 +2150,7 @@ export const serbiaLandmarksV2: POI[] = [
                   ]
             },
             {
-                  "name": "Музеј Паје Јовановића",
+                  "name": "Muzej Paje Jovanovitsha",
                   "text": "Belgrádi múzeum, amely a jelentős szerb realista festő, Paja Jovanović életének és műveinek állít emléket.",
                   "category": "museum",
                   "coords": [
@@ -2159,7 +2159,7 @@ export const serbiaLandmarksV2: POI[] = [
                   ]
             },
             {
-                  "name": "Музеј Цептер",
+                  "name": "Muzej Tsepter",
                   "text": "Magán modern művészeti múzeum, amely jelentős szerb és nemzetközi alkotásokat mutat be.",
                   "category": "museum",
                   "coords": [
@@ -2168,7 +2168,7 @@ export const serbiaLandmarksV2: POI[] = [
                   ]
             },
             {
-                  "name": "ПТТ музеј",
+                  "name": "PTT muzej",
                   "text": "Ez a múzeum a szerbiai posta, távíró és telefon történetét mutatja be.",
                   "category": "museum",
                   "coords": [
@@ -2179,7 +2179,7 @@ export const serbiaLandmarksV2: POI[] = [
       ],
       "ro": [
             {
-                  "name": "Римски бунар",
+                  "name": "Rimski bunar",
                   "text": "Fântâna Romană este o atracție istorică din interiorul cetății Belgradului.",
                   "category": "museum",
                   "coords": [
@@ -2188,7 +2188,7 @@ export const serbiaLandmarksV2: POI[] = [
                   ]
             },
             {
-                  "name": "Остаци замка деспота Стефана Лазаревића",
+                  "name": "Ostatsi zamka despota Stefana Lazarevitsha",
                   "text": "Acest sit arheologic prezintă rămășițele castelului despotului Stefan Lazarević.",
                   "category": "historical",
                   "coords": [
@@ -2197,7 +2197,7 @@ export const serbiaLandmarksV2: POI[] = [
                   ]
             },
             {
-                  "name": "Историјски музеј Србије",
+                  "name": "Istorijski muzej Srbije",
                   "text": "Acest muzeu din Belgrad este dedicat istoriei bogate a Serbiei, din antichitate până în prezent.",
                   "category": "museum",
                   "coords": [
@@ -2206,7 +2206,7 @@ export const serbiaLandmarksV2: POI[] = [
                   ]
             },
             {
-                  "name": "Железнички музеј",
+                  "name": "Zheleznichki muzej",
                   "text": "Un muzeu care documentează dezvoltarea tehnică și moștenirea sistemului feroviar sârb.",
                   "category": "museum",
                   "coords": [
@@ -2215,7 +2215,7 @@ export const serbiaLandmarksV2: POI[] = [
                   ]
             },
             {
-                  "name": "Музеј Иве Андрића",
+                  "name": "Muzej Ive Andritsha",
                   "text": "Fosta locuință a laureatului premiului Nobel Ivo Andrić servește astăzi ca memorial dedicat vieții și operei sale.",
                   "category": "museum",
                   "coords": [
@@ -2224,7 +2224,7 @@ export const serbiaLandmarksV2: POI[] = [
                   ]
             },
             {
-                  "name": "Музеј Паје Јовановића",
+                  "name": "Muzej Paje Jovanovitsha",
                   "text": "Un muzeu din Belgrad dedicat vieții și operelor importantului pictor realist sârb Paja Jovanović.",
                   "category": "museum",
                   "coords": [
@@ -2233,7 +2233,7 @@ export const serbiaLandmarksV2: POI[] = [
                   ]
             },
             {
-                  "name": "Музеј Цептер",
+                  "name": "Muzej Tsepter",
                   "text": "Un muzeu privat de artă modernă care expune o colecție importantă de lucrări sârbești și internaționale.",
                   "category": "museum",
                   "coords": [
@@ -2242,7 +2242,7 @@ export const serbiaLandmarksV2: POI[] = [
                   ]
             },
             {
-                  "name": "ПТТ музеј",
+                  "name": "PTT muzej",
                   "text": "Acest muzeu prezintă istoria serviciilor poștale, telegrafice și telefonice din Serbia.",
                   "category": "museum",
                   "coords": [
@@ -2373,7 +2373,7 @@ export const serbiaLandmarksV2: POI[] = [
     id: "serbia-subotica-synagogue-landmarks-v2", "sights": {
       "de": [
             {
-                  "name": "Народно позориште Суботица",
+                  "name": "Narodno pozorishte Subotitsa",
                   "text": "Das prächtige Nationaltheater in Subotica, bekannt für seine klassizistische Architektur mit markanten Säulen.",
                   "category": "cultural",
                   "coords": [
@@ -2391,7 +2391,7 @@ export const serbiaLandmarksV2: POI[] = [
                   ]
             },
             {
-                  "name": "Градски музеj Cyботица",
+                  "name": "j Cy",
                   "text": "Das Stadtmuseum von Subotica, das in einem historischen Gebäude wertvolle Sammlungen zur Region zeigt.",
                   "category": "museum",
                   "coords": [
@@ -2409,7 +2409,7 @@ export const serbiaLandmarksV2: POI[] = [
                   ]
             },
             {
-                  "name": "Градска кућа",
+                  "name": "Gradska kutsha",
                   "text": "Das Rathaus von Subotica ist ein Meisterwerk des ungarischen Jugendstils und Wahrzeichen der Stadt.",
                   "category": "landmark",
                   "coords": [
@@ -2427,7 +2427,7 @@ export const serbiaLandmarksV2: POI[] = [
                   ]
             },
             {
-                  "name": "Споменик Ивану Сарићу",
+                  "name": "Spomenik Ivanu Saritshu",
                   "text": "Ein Denkmal zu Ehren von Ivan Sarić, einem Pionier der Luftfahrt aus Subotica.",
                   "category": "historical",
                   "coords": [
@@ -2447,7 +2447,7 @@ export const serbiaLandmarksV2: POI[] = [
                   ]
             },
             {
-                  "name": "Палата Рајхл",
+                  "name": "Palata Rajkhl",
                   "text": "Pompás szecessziós palota Szabadkán, amelyet Raichle Ferenc építész tervezett.",
                   "category": "castle",
                   "coords": [
@@ -2503,7 +2503,7 @@ export const serbiaLandmarksV2: POI[] = [
       ],
       "ro": [
             {
-                  "name": "Народно позориште Суботица",
+                  "name": "Narodno pozorishte Subotitsa",
                   "text": "Teatrul Național din Subotica, o clădire grandioasă cunoscută pentru coloanele sale clasiciste.",
                   "category": "cultural",
                   "coords": [
@@ -2512,7 +2512,7 @@ export const serbiaLandmarksV2: POI[] = [
                   ]
             },
             {
-                  "name": "Палата Рајхл",
+                  "name": "Palata Rajkhl",
                   "text": "Un palat somptuos în stil Art Nouveau din Subotica, proiectat de arhitectul Ferenc Raichle.",
                   "category": "castle",
                   "coords": [
@@ -2521,7 +2521,7 @@ export const serbiaLandmarksV2: POI[] = [
                   ]
             },
             {
-                  "name": "Градски музеj Cyботица",
+                  "name": "j Cy",
                   "text": "Muzeul orașului Subotica, care expune colecții valoroase despre regiune într-o clădire istorică.",
                   "category": "museum",
                   "coords": [
@@ -2539,7 +2539,7 @@ export const serbiaLandmarksV2: POI[] = [
                   ]
             },
             {
-                  "name": "Градска кућа",
+                  "name": "Gradska kutsha",
                   "text": "Primăria din Subotica este o capodoperă a stilului Art Nouveau maghiar și un simbol al orașului.",
                   "category": "landmark",
                   "coords": [
@@ -2557,7 +2557,7 @@ export const serbiaLandmarksV2: POI[] = [
                   ]
             },
             {
-                  "name": "Споменик Ивану Сарићу",
+                  "name": "Spomenik Ivanu Saritshu",
                   "text": "Un monument ridicat în cinstea lui Ivan Sarić, un pionier al aviației din Subotica.",
                   "category": "historical",
                   "coords": [
@@ -2904,7 +2904,7 @@ export const serbiaLandmarksV2: POI[] = [
     id: "serbia-subotica-raichle-palace-landmarks-v2", "sights": {
       "de": [
             {
-                  "name": "Народно позориште Суботица",
+                  "name": "Narodno pozorishte Subotitsa",
                   "text": "Ein ikonisches Theatergebäude in Subotica mit einer monumentalen neoklassizistischen Fassade.",
                   "category": "cultural",
                   "coords": [
@@ -2922,7 +2922,7 @@ export const serbiaLandmarksV2: POI[] = [
                   ]
             },
             {
-                  "name": "Градски музеj Cyботица",
+                  "name": "j Cy",
                   "text": "Ein Museum, das das archäologische, historische und künstlerische Erbe von Subotica zeigt.",
                   "category": "museum",
                   "coords": [
@@ -2940,7 +2940,7 @@ export const serbiaLandmarksV2: POI[] = [
                   ]
             },
             {
-                  "name": "Градска кућа",
+                  "name": "Gradska kutsha",
                   "text": "Ein Meisterwerk des ungarischen Jugendstils und das Wahrzeichen von Subotica.",
                   "category": "landmark",
                   "coords": [
@@ -2958,7 +2958,7 @@ export const serbiaLandmarksV2: POI[] = [
                   ]
             },
             {
-                  "name": "Споменик Ивану Сарићу",
+                  "name": "Spomenik Ivanu Saritshu",
                   "text": "Ein Denkmal in Subotica für den lokalen Luftfahrtpionier Ivan Sarić.",
                   "category": "historical",
                   "coords": [
@@ -2978,7 +2978,7 @@ export const serbiaLandmarksV2: POI[] = [
                   ]
             },
             {
-                  "name": "Палата Рајхл",
+                  "name": "Palata Rajkhl",
                   "text": "Egy pompás szecessziós palota Szabadkán, amely modern művészeti galériának ad otthont.",
                   "category": "castle",
                   "coords": [
@@ -3034,7 +3034,7 @@ export const serbiaLandmarksV2: POI[] = [
       ],
       "ro": [
             {
-                  "name": "Народно позориште Суботица",
+                  "name": "Narodno pozorishte Subotitsa",
                   "text": "O clădire emblematică de teatru din Subotica, cu o fațadă neoclasică monumentală.",
                   "category": "cultural",
                   "coords": [
@@ -3043,7 +3043,7 @@ export const serbiaLandmarksV2: POI[] = [
                   ]
             },
             {
-                  "name": "Палата Рајхл",
+                  "name": "Palata Rajkhl",
                   "text": "Un palat Art Nouveau magnific din Subotica, care găzduiește o galerie de artă modernă.",
                   "category": "castle",
                   "coords": [
@@ -3052,7 +3052,7 @@ export const serbiaLandmarksV2: POI[] = [
                   ]
             },
             {
-                  "name": "Градски музеj Cyботица",
+                  "name": "j Cy",
                   "text": "Un muzeu care prezintă moștenirea arheologică, istorică și artistică a orașului Subotica.",
                   "category": "museum",
                   "coords": [
@@ -3070,7 +3070,7 @@ export const serbiaLandmarksV2: POI[] = [
                   ]
             },
             {
-                  "name": "Градска кућа",
+                  "name": "Gradska kutsha",
                   "text": "O capodoperă a stilului Art Nouveau maghiar, servind drept simbol al orașului Subotica.",
                   "category": "landmark",
                   "coords": [
@@ -3088,7 +3088,7 @@ export const serbiaLandmarksV2: POI[] = [
                   ]
             },
             {
-                  "name": "Споменик Ивану Сарићу",
+                  "name": "Spomenik Ivanu Saritshu",
                   "text": "Un monument în Subotica dedicat pionierului aviației locale Ivan Sarić.",
                   "category": "historical",
                   "coords": [
@@ -3219,7 +3219,7 @@ export const serbiaLandmarksV2: POI[] = [
                   ]
             },
             {
-                  "name": "Остаци замка деспота Стефана Лазаревића",
+                  "name": "Ostatsi zamka despota Stefana Lazarevitsha",
                   "text": "Die archäologischen Überreste der mittelalterlichen Burg, die Despot Stefan Lazarević im 15. Jahrhundert errichten ließ.",
                   "category": "historical",
                   "coords": [
@@ -3228,7 +3228,7 @@ export const serbiaLandmarksV2: POI[] = [
                   ]
             },
             {
-                  "name": "Историјски музеј Србије",
+                  "name": "Istorijski muzej Srbije",
                   "text": "Ein Museum, das der Bewahrung und Präsentation der nationalen Geschichte und des kulturellen Erbes Serbiens gewidmet ist.",
                   "category": "museum",
                   "coords": [
@@ -3237,7 +3237,7 @@ export const serbiaLandmarksV2: POI[] = [
                   ]
             },
             {
-                  "name": "Железнички музеј",
+                  "name": "Zheleznichki muzej",
                   "text": "Ein Museum in Belgrad, das die Entwicklung des Eisenbahnsystems und historische Lokomotiven in Serbien zeigt.",
                   "category": "museum",
                   "coords": [
@@ -3246,7 +3246,7 @@ export const serbiaLandmarksV2: POI[] = [
                   ]
             },
             {
-                  "name": "Музеј Иве Андрића",
+                  "name": "Muzej Ive Andritsha",
                   "text": "Ein Gedenkmuseum in der ehemaligen Wohnung von Ivo Andrić, dem jugoslawischen Nobelpreisträger für Literatur.",
                   "category": "museum",
                   "coords": [
@@ -3255,7 +3255,7 @@ export const serbiaLandmarksV2: POI[] = [
                   ]
             },
             {
-                  "name": "Музеј Паје Јовановића",
+                  "name": "Muzej Paje Jovanovitsha",
                   "text": "Ein Museum, das dem Leben und Werk von Paja Jovanović gewidmet ist, einem der berühmtesten realistischen Maler Serbiens.",
                   "category": "museum",
                   "coords": [
@@ -3264,7 +3264,7 @@ export const serbiaLandmarksV2: POI[] = [
                   ]
             },
             {
-                  "name": "Музеј Цептер",
+                  "name": "Muzej Tsepter",
                   "text": "Ein privates Kunstmuseum in Belgrad mit Werken moderner serbischer und internationaler Künstler.",
                   "category": "museum",
                   "coords": [
@@ -3273,7 +3273,7 @@ export const serbiaLandmarksV2: POI[] = [
                   ]
             },
             {
-                  "name": "ПТТ музеј",
+                  "name": "PTT muzej",
                   "text": "Ein Museum, das die Geschichte der Post-, Telegrafen- und Telefondienste in Serbien erkundet.",
                   "category": "museum",
                   "coords": [
@@ -3284,7 +3284,7 @@ export const serbiaLandmarksV2: POI[] = [
       ],
       "hu": [
             {
-                  "name": "Римски бунар",
+                  "name": "Rimski bunar",
                   "text": "Rejtélyes történelmi mély kút a belgrádi Kalemegdan erődben, amelyet neve ellenére valószínűleg a 18. században építettek.",
                   "category": "museum",
                   "coords": [
@@ -3293,7 +3293,7 @@ export const serbiaLandmarksV2: POI[] = [
                   ]
             },
             {
-                  "name": "Остаци замка деспота Стефана Лазаревића",
+                  "name": "Ostatsi zamka despota Stefana Lazarevitsha",
                   "text": "Stefan Lazarević despota által a 15. században építtetett középkori vár régészeti maradványai.",
                   "category": "historical",
                   "coords": [
@@ -3302,7 +3302,7 @@ export const serbiaLandmarksV2: POI[] = [
                   ]
             },
             {
-                  "name": "Историјски музеј Србије",
+                  "name": "Istorijski muzej Srbije",
                   "text": "Szerbia nemzeti történelmének és kulturális örökségének megőrzésére és bemutatására szolgáló múzeum.",
                   "category": "museum",
                   "coords": [
@@ -3311,7 +3311,7 @@ export const serbiaLandmarksV2: POI[] = [
                   ]
             },
             {
-                  "name": "Железнички музеј",
+                  "name": "Zheleznichki muzej",
                   "text": "Belgrádi múzeum, amely a vasúti rendszer fejlődését és a történelmi mozdonyokat mutatja be Szerbiában.",
                   "category": "museum",
                   "coords": [
@@ -3320,7 +3320,7 @@ export const serbiaLandmarksV2: POI[] = [
                   ]
             },
             {
-                  "name": "Музеј Иве Андрића",
+                  "name": "Muzej Ive Andritsha",
                   "text": "Emlékmúzeum Ivo Andrić Nobel-díjas jugoszláv író egykori lakásában.",
                   "category": "museum",
                   "coords": [
@@ -3329,7 +3329,7 @@ export const serbiaLandmarksV2: POI[] = [
                   ]
             },
             {
-                  "name": "Музеј Паје Јовановића",
+                  "name": "Muzej Paje Jovanovitsha",
                   "text": "Paja Jovanović, az egyik leghíresebb szerb realista festő életének és munkásságának szentelt múzeum.",
                   "category": "museum",
                   "coords": [
@@ -3338,7 +3338,7 @@ export const serbiaLandmarksV2: POI[] = [
                   ]
             },
             {
-                  "name": "Музеј Цептер",
+                  "name": "Muzej Tsepter",
                   "text": "Magánkézben lévő művészeti múzeum Belgrádban, amely modern szerb és nemzetközi művészek alkotásait mutatja be.",
                   "category": "museum",
                   "coords": [
@@ -3347,7 +3347,7 @@ export const serbiaLandmarksV2: POI[] = [
                   ]
             },
             {
-                  "name": "ПТТ музеј",
+                  "name": "PTT muzej",
                   "text": "Szerbia postai, távíró- és telefonszolgáltatásainak történetét bemutató múzeum.",
                   "category": "museum",
                   "coords": [
@@ -3358,7 +3358,7 @@ export const serbiaLandmarksV2: POI[] = [
       ],
       "ro": [
             {
-                  "name": "Римски бунар",
+                  "name": "Rimski bunar",
                   "text": "O fântână adâncă istorică misterioasă din Cetatea Kalemegdan din Belgrad, care, în ciuda numelui, a fost probabil construită în secolul al XVIII-lea.",
                   "category": "museum",
                   "coords": [
@@ -3367,7 +3367,7 @@ export const serbiaLandmarksV2: POI[] = [
                   ]
             },
             {
-                  "name": "Остаци замка деспота Стефана Лазаревића",
+                  "name": "Ostatsi zamka despota Stefana Lazarevitsha",
                   "text": "Rămășițele arheologice ale castelului medieval construit de despotul Stefan Lazarević în secolul al XV-lea.",
                   "category": "historical",
                   "coords": [
@@ -3376,7 +3376,7 @@ export const serbiaLandmarksV2: POI[] = [
                   ]
             },
             {
-                  "name": "Историјски музеј Србије",
+                  "name": "Istorijski muzej Srbije",
                   "text": "Un muzeu dedicat conservării și prezentării istoriei naționale și moștenirii culturale a Serbiei.",
                   "category": "museum",
                   "coords": [
@@ -3385,7 +3385,7 @@ export const serbiaLandmarksV2: POI[] = [
                   ]
             },
             {
-                  "name": "Железнички музеј",
+                  "name": "Zheleznichki muzej",
                   "text": "Un muzeu din Belgrad care prezintă dezvoltarea sistemului feroviar și locomotivele istorice din Serbia.",
                   "category": "museum",
                   "coords": [
@@ -3394,7 +3394,7 @@ export const serbiaLandmarksV2: POI[] = [
                   ]
             },
             {
-                  "name": "Музеј Иве Андрића",
+                  "name": "Muzej Ive Andritsha",
                   "text": "Un muzeu memorial situat în fostul apartament al lui Ivo Andrić, romancierul iugoslav laureat al Premiului Nobel.",
                   "category": "museum",
                   "coords": [
@@ -3403,7 +3403,7 @@ export const serbiaLandmarksV2: POI[] = [
                   ]
             },
             {
-                  "name": "Музеј Паје Јовановића",
+                  "name": "Muzej Paje Jovanovitsha",
                   "text": "Un muzeu dedicat vieții și operei lui Paja Jovanović, unul dintre cei mai faimoși pictori realiști din Serbia.",
                   "category": "museum",
                   "coords": [
@@ -3412,7 +3412,7 @@ export const serbiaLandmarksV2: POI[] = [
                   ]
             },
             {
-                  "name": "Музеј Цептер",
+                  "name": "Muzej Tsepter",
                   "text": "Un muzeu de artă privat din Belgrad, care prezintă lucrări ale artiștilor sârbi și internaționali moderni.",
                   "category": "museum",
                   "coords": [
@@ -3421,7 +3421,7 @@ export const serbiaLandmarksV2: POI[] = [
                   ]
             },
             {
-                  "name": "ПТТ музеј",
+                  "name": "PTT muzej",
                   "text": "Un muzeu care explorează istoria serviciilor poștale, de telegraf și de telefonie din Serbia.",
                   "category": "museum",
                   "coords": [
@@ -3741,7 +3741,7 @@ export const serbiaLandmarksV2: POI[] = [
                   ]
             },
             {
-                  "name": "Остаци замка деспота Стефана Лазаревића",
+                  "name": "Ostatsi zamka despota Stefana Lazarevitsha",
                   "text": "Archäologische Überreste der mittelalterlichen Residenz von Despot Stefan Lazarević in Belgrad.",
                   "category": "historical",
                   "coords": [
@@ -3750,7 +3750,7 @@ export const serbiaLandmarksV2: POI[] = [
                   ]
             },
             {
-                  "name": "Историјски музеј Србије",
+                  "name": "Istorijski muzej Srbije",
                   "text": "Das Museum präsentiert die reiche politische und kulturelle Geschichte Serbiens von der Antike bis heute.",
                   "category": "museum",
                   "coords": [
@@ -3759,7 +3759,7 @@ export const serbiaLandmarksV2: POI[] = [
                   ]
             },
             {
-                  "name": "Железнички музеј",
+                  "name": "Zheleznichki muzej",
                   "text": "Ein Museum in Belgrad, das die Entwicklung des Schienenverkehrs und historischer Lokomotiven dokumentiert.",
                   "category": "museum",
                   "coords": [
@@ -3768,7 +3768,7 @@ export const serbiaLandmarksV2: POI[] = [
                   ]
             },
             {
-                  "name": "Музеј Иве Андрића",
+                  "name": "Muzej Ive Andritsha",
                   "text": "Das Gedenkmuseum für den Literaturnobelpreisträger Ivo Andrić in seiner ehemaligen Belgrader Wohnung.",
                   "category": "museum",
                   "coords": [
@@ -3777,7 +3777,7 @@ export const serbiaLandmarksV2: POI[] = [
                   ]
             },
             {
-                  "name": "Музеј Паје Јовановића",
+                  "name": "Muzej Paje Jovanovitsha",
                   "text": "Ein Museum, das dem Leben und Werk des berühmten serbischen Malers Paja Jovanović gewidmet ist.",
                   "category": "museum",
                   "coords": [
@@ -3786,7 +3786,7 @@ export const serbiaLandmarksV2: POI[] = [
                   ]
             },
             {
-                  "name": "Музеј Цептер",
+                  "name": "Muzej Tsepter",
                   "text": "Ein privates Kunstmuseum in Belgrad, das Werke der modernen und zeitgenössischen serbischen Kunst ausstellt.",
                   "category": "museum",
                   "coords": [
@@ -3795,7 +3795,7 @@ export const serbiaLandmarksV2: POI[] = [
                   ]
             },
             {
-                  "name": "ПТТ музеј",
+                  "name": "PTT muzej",
                   "text": "Das Postmuseum in Belgrad zeigt die Geschichte des Post- und Telekommunikationswesens in Serbien.",
                   "category": "museum",
                   "coords": [
@@ -3806,7 +3806,7 @@ export const serbiaLandmarksV2: POI[] = [
       ],
       "hu": [
             {
-                  "name": "Римски бунар",
+                  "name": "Rimski bunar",
                   "text": "Mély és rejtélyes kút a belgrádi várban, amely a 18. századból származik.",
                   "category": "museum",
                   "coords": [
@@ -3815,7 +3815,7 @@ export const serbiaLandmarksV2: POI[] = [
                   ]
             },
             {
-                  "name": "Остаци замка деспота Стефана Лазаревића",
+                  "name": "Ostatsi zamka despota Stefana Lazarevitsha",
                   "text": "Stefan Lazarević despota középkori belgrádi rezidenciájának régészeti maradványai.",
                   "category": "historical",
                   "coords": [
@@ -3824,7 +3824,7 @@ export const serbiaLandmarksV2: POI[] = [
                   ]
             },
             {
-                  "name": "Историјски музеј Србије",
+                  "name": "Istorijski muzej Srbije",
                   "text": "A múzeum Szerbia gazdag politikai és kulturális történelmét mutatja be az ókortól napjainkig.",
                   "category": "museum",
                   "coords": [
@@ -3833,7 +3833,7 @@ export const serbiaLandmarksV2: POI[] = [
                   ]
             },
             {
-                  "name": "Железнички музеј",
+                  "name": "Zheleznichki muzej",
                   "text": "Belgrádi múzeum, amely a vasúti közlekedés és a történelmi mozdonyok fejlődését dokumentálja.",
                   "category": "museum",
                   "coords": [
@@ -3842,7 +3842,7 @@ export const serbiaLandmarksV2: POI[] = [
                   ]
             },
             {
-                  "name": "Музеј Иве Андрића",
+                  "name": "Muzej Ive Andritsha",
                   "text": "Andrić Ivo Nobel-díjas író emlékmúzeuma egykori belgrádi lakásában.",
                   "category": "museum",
                   "coords": [
@@ -3851,7 +3851,7 @@ export const serbiaLandmarksV2: POI[] = [
                   ]
             },
             {
-                  "name": "Музеј Паје Јовановића",
+                  "name": "Muzej Paje Jovanovitsha",
                   "text": "A híres szerb festőművész, Paja Jovanović életének és munkásságának szentelt múzeum.",
                   "category": "museum",
                   "coords": [
@@ -3860,7 +3860,7 @@ export const serbiaLandmarksV2: POI[] = [
                   ]
             },
             {
-                  "name": "Музеј Цептер",
+                  "name": "Muzej Tsepter",
                   "text": "Belgrádi magánművészeti múzeum, amely modern és kortárs szerb képzőművészeti alkotásokat mutat be.",
                   "category": "museum",
                   "coords": [
@@ -3869,7 +3869,7 @@ export const serbiaLandmarksV2: POI[] = [
                   ]
             },
             {
-                  "name": "ПТТ музеј",
+                  "name": "PTT muzej",
                   "text": "A belgrádi postamúzeum Szerbia posta- és távközlési történetét mutatja be.",
                   "category": "museum",
                   "coords": [
@@ -3880,7 +3880,7 @@ export const serbiaLandmarksV2: POI[] = [
       ],
       "ro": [
             {
-                  "name": "Римски бунар",
+                  "name": "Rimski bunar",
                   "text": "O fântână adâncă și misterioasă din incinta cetății Belgradului, datând din secolul al XVIII-lea.",
                   "category": "museum",
                   "coords": [
@@ -3889,7 +3889,7 @@ export const serbiaLandmarksV2: POI[] = [
                   ]
             },
             {
-                  "name": "Остаци замка деспота Стефана Лазаревића",
+                  "name": "Ostatsi zamka despota Stefana Lazarevitsha",
                   "text": "Vestigii arheologice ale reședinței medievale a despotului Stefan Lazarević din Belgrad.",
                   "category": "historical",
                   "coords": [
@@ -3898,7 +3898,7 @@ export const serbiaLandmarksV2: POI[] = [
                   ]
             },
             {
-                  "name": "Историјски музеј Србије",
+                  "name": "Istorijski muzej Srbije",
                   "text": "Muzeul prezintă istoria politică și culturală bogată a Serbiei, din antichitate până în prezent.",
                   "category": "museum",
                   "coords": [
@@ -3907,7 +3907,7 @@ export const serbiaLandmarksV2: POI[] = [
                   ]
             },
             {
-                  "name": "Железнички музеј",
+                  "name": "Zheleznichki muzej",
                   "text": "Un muzeu din Belgrad care documentează dezvoltarea transportului feroviar și a locomotivelor istorice.",
                   "category": "museum",
                   "coords": [
@@ -3916,7 +3916,7 @@ export const serbiaLandmarksV2: POI[] = [
                   ]
             },
             {
-                  "name": "Музеј Иве Андрића",
+                  "name": "Muzej Ive Andritsha",
                   "text": "Muzeul memorial al scriitorului laureat al Premiului Nobel, Ivo Andrić, în fostul său apartament din Belgrad.",
                   "category": "museum",
                   "coords": [
@@ -3925,7 +3925,7 @@ export const serbiaLandmarksV2: POI[] = [
                   ]
             },
             {
-                  "name": "Музеј Паје Јовановића",
+                  "name": "Muzej Paje Jovanovitsha",
                   "text": "Un muzeu dedicat vieții și operei celebrului pictor sârb Paja Jovanović.",
                   "category": "museum",
                   "coords": [
@@ -3934,7 +3934,7 @@ export const serbiaLandmarksV2: POI[] = [
                   ]
             },
             {
-                  "name": "Музеј Цептер",
+                  "name": "Muzej Tsepter",
                   "text": "Un muzeu de artă privat din Belgrad care expune lucrări de artă modernă și contemporană sârbă.",
                   "category": "museum",
                   "coords": [
@@ -3943,7 +3943,7 @@ export const serbiaLandmarksV2: POI[] = [
                   ]
             },
             {
-                  "name": "ПТТ музеј",
+                  "name": "PTT muzej",
                   "text": "Muzeul poștei din Belgrad prezintă istoria serviciilor poștale și de telecomunicații din Serbia.",
                   "category": "museum",
                   "coords": [
@@ -4281,7 +4281,7 @@ export const serbiaLandmarksV2: POI[] = [
     id: "serbia-zrenjanin-city-hall-landmarks-v2", "sights": {
       "de": [
             {
-                  "name": "Народни музеј Зрењанин",
+                  "name": "Narodni muzej Zrenjanin",
                   "text": "Regionalmuseum in Zrenjanin, das bedeutende Kunst- und Geschichtssammlungen beherbergt.",
                   "category": "museum",
                   "coords": [
@@ -4299,7 +4299,7 @@ export const serbiaLandmarksV2: POI[] = [
                   ]
             },
             {
-                  "name": "Споменик Жарку Зрењанину",
+                  "name": "Spomenik Zharku Zrenjaninu",
                   "text": "Denkmal für den revolutionären Widerstandskämpfer Žarko Zrenjanin.",
                   "category": "historical",
                   "coords": [
@@ -4317,7 +4317,7 @@ export const serbiaLandmarksV2: POI[] = [
                   ]
             },
             {
-                  "name": "Реформатска црква",
+                  "name": "Reformatska tsrkva",
                   "text": "Ein historisches Kirchengebäude der reformierten Gemeinde in Zrenjanin.",
                   "category": "religious",
                   "coords": [
@@ -4328,7 +4328,7 @@ export const serbiaLandmarksV2: POI[] = [
       ],
       "hu": [
             {
-                  "name": "Народни музеј Зрењанин",
+                  "name": "Narodni muzej Zrenjanin",
                   "text": "Nagy múltú regionális múzeum Nagybecskereken, jelentős művészeti és történelmi gyűjteménnyel.",
                   "category": "museum",
                   "coords": [
@@ -4337,7 +4337,7 @@ export const serbiaLandmarksV2: POI[] = [
                   ]
             },
             {
-                  "name": "Мост на сувом",
+                  "name": "Most na suvom",
                   "text": "Egy különleges híd Nagybecskereken, amely alatt a folyómeder elterelése miatt már nem folyik víz.",
                   "category": "landmark",
                   "coords": [
@@ -4346,7 +4346,7 @@ export const serbiaLandmarksV2: POI[] = [
                   ]
             },
             {
-                  "name": "Споменик Жарку Зрењанину",
+                  "name": "Spomenik Zharku Zrenjaninu",
                   "text": "Emlékmű Nagybecskereken, amelyet Žarko Zrenjanin forradalmár tiszteletére emeltek.",
                   "category": "historical",
                   "coords": [
@@ -4355,7 +4355,7 @@ export const serbiaLandmarksV2: POI[] = [
                   ]
             },
             {
-                  "name": "Црква Успења Богородице",
+                  "name": "Tsrkva Uspenja Bogoroditse",
                   "text": "Szerb ortodox templom Nagybecskereken, amely építészetéről és ikonosztázáról ismert.",
                   "category": "religious",
                   "coords": [
@@ -4364,7 +4364,7 @@ export const serbiaLandmarksV2: POI[] = [
                   ]
             },
             {
-                  "name": "Реформатска црква",
+                  "name": "Reformatska tsrkva",
                   "text": "A nagybecskereki református közösség történelmi templomépülete.",
                   "category": "religious",
                   "coords": [
@@ -4375,7 +4375,7 @@ export const serbiaLandmarksV2: POI[] = [
       ],
       "ro": [
             {
-                  "name": "Народни музеј Зрењанин",
+                  "name": "Narodni muzej Zrenjanin",
                   "text": "Muzeu regional din Zrenjanin care găzduiește colecții importante de artă și istorie.",
                   "category": "museum",
                   "coords": [
@@ -4384,7 +4384,7 @@ export const serbiaLandmarksV2: POI[] = [
                   ]
             },
             {
-                  "name": "Мост на сувом",
+                  "name": "Most na suvom",
                   "text": "Un pod unic din Zrenjanin sub care nu mai curge niciun râu.",
                   "category": "landmark",
                   "coords": [
@@ -4393,7 +4393,7 @@ export const serbiaLandmarksV2: POI[] = [
                   ]
             },
             {
-                  "name": "Споменик Жарку Зрењанину",
+                  "name": "Spomenik Zharku Zrenjaninu",
                   "text": "Monument dedicat luptătorului revoluționar Žarko Zrenjanin.",
                   "category": "historical",
                   "coords": [
@@ -4402,7 +4402,7 @@ export const serbiaLandmarksV2: POI[] = [
                   ]
             },
             {
-                  "name": "Црква Успења Богородице",
+                  "name": "Tsrkva Uspenja Bogoroditse",
                   "text": "Biserică ortodoxă sârbă din Zrenjanin, cunoscută pentru arhitectura și iconostasul său.",
                   "category": "religious",
                   "coords": [
@@ -4411,7 +4411,7 @@ export const serbiaLandmarksV2: POI[] = [
                   ]
             },
             {
-                  "name": "Реформатска црква",
+                  "name": "Reformatska tsrkva",
                   "text": "O clădire istorică a bisericii aparținând comunității reformate din Zrenjanin.",
                   "category": "religious",
                   "coords": [
@@ -4605,7 +4605,7 @@ export const serbiaLandmarksV2: POI[] = [
     id: "serbia-nis-skull-tower-monument-landmarks-v2", "sights": {
       "de": [
             {
-                  "name": "Нишка тврђава",
+                  "name": "Nishka tvrdjava",
                   "text": "Diese bedeutende osmanische Festung in Niš beherbergt heute Parkanlagen und historische Monumente.",
                   "category": "castle",
                   "coords": [
@@ -4614,7 +4614,7 @@ export const serbiaLandmarksV2: POI[] = [
                   ]
             },
             {
-                  "name": "Палата са октогоном",
+                  "name": "Palata sa oktogonom",
                   "text": "Eine archäologische Ausgrabungsstätte in Niš, die Überreste eines antiken Palastes mit achteckigem Grundriss zeigt.",
                   "category": "historical",
                   "coords": [
@@ -4623,7 +4623,7 @@ export const serbiaLandmarksV2: POI[] = [
                   ]
             },
             {
-                  "name": "Хамам у нишкој тврђави",
+                  "name": "Khamam u nishkoj tvrdjavi",
                   "text": "Überreste eines historischen türkischen Bades innerhalb der Festungsanlage von Niš.",
                   "category": "historical",
                   "coords": [
@@ -4641,7 +4641,7 @@ export const serbiaLandmarksV2: POI[] = [
                   ]
             },
             {
-                  "name": "Меморијални комплекс „12. фебруар”",
+                  "name": "Memorijalni kompleks ,,12. februar\"",
                   "text": "Ein Museum am Ort des ehemaligen Konzentrationslagers Crveni Krst aus dem Zweiten Weltkrieg.",
                   "category": "museum",
                   "coords": [
@@ -4661,7 +4661,7 @@ export const serbiaLandmarksV2: POI[] = [
       ],
       "hu": [
             {
-                  "name": "Нишка тврђава",
+                  "name": "Nishka tvrdjava",
                   "text": "Ez a jelentős niši oszmán erődítmény ma parkoknak és történelmi emlékműveknek ad otthont.",
                   "category": "castle",
                   "coords": [
@@ -4670,7 +4670,7 @@ export const serbiaLandmarksV2: POI[] = [
                   ]
             },
             {
-                  "name": "Палата са октогоном",
+                  "name": "Palata sa oktogonom",
                   "text": "Régészeti lelőhely Nišben, amely egy antik, nyolcszögletű alaprajzú palota maradványait mutatja be.",
                   "category": "historical",
                   "coords": [
@@ -4679,7 +4679,7 @@ export const serbiaLandmarksV2: POI[] = [
                   ]
             },
             {
-                  "name": "Хамам у нишкој тврђави",
+                  "name": "Khamam u nishkoj tvrdjavi",
                   "text": "Egy történelmi török fürdő maradványai a niši erőd területén.",
                   "category": "historical",
                   "coords": [
@@ -4688,7 +4688,7 @@ export const serbiaLandmarksV2: POI[] = [
                   ]
             },
             {
-                  "name": "Народни музеј",
+                  "name": "Narodni muzej",
                   "text": "Múzeum Nišben, amely a régió régészeti leleteit mutatja be.",
                   "category": "museum",
                   "coords": [
@@ -4697,7 +4697,7 @@ export const serbiaLandmarksV2: POI[] = [
                   ]
             },
             {
-                  "name": "Меморијални комплекс „12. фебруар”",
+                  "name": "Memorijalni kompleks ,,12. februar\"",
                   "text": "Múzeum a második világháborús Crveni Krst koncentrációs tábor helyszínén.",
                   "category": "museum",
                   "coords": [
@@ -4706,7 +4706,7 @@ export const serbiaLandmarksV2: POI[] = [
                   ]
             },
             {
-                  "name": "Медијана",
+                  "name": "Medijana",
                   "text": "Fontos római régészeti lelőhely Nagy Konstantin luxusrezidenciájának maradványaival.",
                   "category": "historical",
                   "coords": [
@@ -4717,7 +4717,7 @@ export const serbiaLandmarksV2: POI[] = [
       ],
       "ro": [
             {
-                  "name": "Нишка тврђава",
+                  "name": "Nishka tvrdjava",
                   "text": "Această fortăreață otomană importantă din Niș găzduiește astăzi parcuri și monumente istorice.",
                   "category": "castle",
                   "coords": [
@@ -4726,7 +4726,7 @@ export const serbiaLandmarksV2: POI[] = [
                   ]
             },
             {
-                  "name": "Палата са октогоном",
+                  "name": "Palata sa oktogonom",
                   "text": "Un sit arheologic din Niș care prezintă resturile unui palat antic cu plan octogonal.",
                   "category": "historical",
                   "coords": [
@@ -4735,7 +4735,7 @@ export const serbiaLandmarksV2: POI[] = [
                   ]
             },
             {
-                  "name": "Хамам у нишкој тврђави",
+                  "name": "Khamam u nishkoj tvrdjavi",
                   "text": "Rămășițele unei băi turcești istorice în incinta cetății din Niș.",
                   "category": "historical",
                   "coords": [
@@ -4744,7 +4744,7 @@ export const serbiaLandmarksV2: POI[] = [
                   ]
             },
             {
-                  "name": "Народни музеј",
+                  "name": "Narodni muzej",
                   "text": "Un muzeu din Niș care prezintă descoperiri arheologice din regiune.",
                   "category": "museum",
                   "coords": [
@@ -4753,7 +4753,7 @@ export const serbiaLandmarksV2: POI[] = [
                   ]
             },
             {
-                  "name": "Меморијални комплекс „12. фебруар”",
+                  "name": "Memorijalni kompleks ,,12. februar\"",
                   "text": "Un muzeu situat pe locul fostului lagăr de concentrare Crveni Krst din al Doilea Război Mondial.",
                   "category": "museum",
                   "coords": [
@@ -4762,7 +4762,7 @@ export const serbiaLandmarksV2: POI[] = [
                   ]
             },
             {
-                  "name": "Медијана",
+                  "name": "Medijana",
                   "text": "Un sit arheologic roman important cu resturile unei reședințe luxoase a lui Constantin cel Mare.",
                   "category": "historical",
                   "coords": [
@@ -4974,7 +4974,7 @@ export const serbiaLandmarksV2: POI[] = [
                   ]
             },
             {
-                  "name": "Остаци замка деспота Стефана Лазаревића",
+                  "name": "Ostatsi zamka despota Stefana Lazarevitsha",
                   "text": "Diese Ausgrabungsstätte zeigt die Fundamente des Schlosses von Despot Stefan Lazarević in der Belgrader Festung.",
                   "category": "historical",
                   "coords": [
@@ -4983,7 +4983,7 @@ export const serbiaLandmarksV2: POI[] = [
                   ]
             },
             {
-                  "name": "Историјски музеј Србије",
+                  "name": "Istorijski muzej Srbije",
                   "text": "Das Museum präsentiert die reiche Geschichte Serbiens von der Antike bis zur Gegenwart.",
                   "category": "museum",
                   "coords": [
@@ -4992,7 +4992,7 @@ export const serbiaLandmarksV2: POI[] = [
                   ]
             },
             {
-                  "name": "Железнички музеј",
+                  "name": "Zheleznichki muzej",
                   "text": "Das Eisenbahnmuseum in Belgrad zeigt die Entwicklung des Schienenverkehrs in Serbien.",
                   "category": "museum",
                   "coords": [
@@ -5001,7 +5001,7 @@ export const serbiaLandmarksV2: POI[] = [
                   ]
             },
             {
-                  "name": "Музеј Иве Андрића",
+                  "name": "Muzej Ive Andritsha",
                   "text": "Das Museum ist dem Leben und Werk des Literaturnobelpreisträgers Ivo Andrić gewidmet.",
                   "category": "museum",
                   "coords": [
@@ -5010,7 +5010,7 @@ export const serbiaLandmarksV2: POI[] = [
                   ]
             },
             {
-                  "name": "Музеј Паје Јовановића",
+                  "name": "Muzej Paje Jovanovitsha",
                   "text": "Ein Museum, das den Werken des berühmten serbischen Malers Paja Jovanović gewidmet ist.",
                   "category": "museum",
                   "coords": [
@@ -5019,7 +5019,7 @@ export const serbiaLandmarksV2: POI[] = [
                   ]
             },
             {
-                  "name": "Музеј Цептер",
+                  "name": "Muzej Tsepter",
                   "text": "Ein privates Kunstmuseum in Belgrad, das moderne und zeitgenössische Werke ausstellt.",
                   "category": "museum",
                   "coords": [
@@ -5028,7 +5028,7 @@ export const serbiaLandmarksV2: POI[] = [
                   ]
             },
             {
-                  "name": "ПТТ музеј",
+                  "name": "PTT muzej",
                   "text": "Museum zur Geschichte der Post- und Telegrafendienste in Serbien.",
                   "category": "museum",
                   "coords": [
@@ -5039,7 +5039,7 @@ export const serbiaLandmarksV2: POI[] = [
       ],
       "hu": [
             {
-                  "name": "Римски бунар",
+                  "name": "Rimski bunar",
                   "text": "A „Római kút” egy 18. századi történelmi ciszterna a belgrádi erődben.",
                   "category": "museum",
                   "coords": [
@@ -5048,7 +5048,7 @@ export const serbiaLandmarksV2: POI[] = [
                   ]
             },
             {
-                  "name": "Остаци замка деспота Стефана Лазаревића",
+                  "name": "Ostatsi zamka despota Stefana Lazarevitsha",
                   "text": "Ez a régészeti lelőhely Stefan Lazarević despota várának alapjait mutatja be a belgrádi erődben.",
                   "category": "historical",
                   "coords": [
@@ -5057,7 +5057,7 @@ export const serbiaLandmarksV2: POI[] = [
                   ]
             },
             {
-                  "name": "Историјски музеј Србије",
+                  "name": "Istorijski muzej Srbije",
                   "text": "A múzeum Szerbia gazdag történelmét mutatja be az ókortól napjainkig.",
                   "category": "museum",
                   "coords": [
@@ -5066,7 +5066,7 @@ export const serbiaLandmarksV2: POI[] = [
                   ]
             },
             {
-                  "name": "Железнички музеј",
+                  "name": "Zheleznichki muzej",
                   "text": "A belgrádi vasútmúzeum a szerbiai vasúti közlekedés fejlődését mutatja be.",
                   "category": "museum",
                   "coords": [
@@ -5075,7 +5075,7 @@ export const serbiaLandmarksV2: POI[] = [
                   ]
             },
             {
-                  "name": "Музеј Иве Андрића",
+                  "name": "Muzej Ive Andritsha",
                   "text": "A múzeum Ivo Andrić Nobel-díjas író életének és munkásságának állít emléket.",
                   "category": "museum",
                   "coords": [
@@ -5084,7 +5084,7 @@ export const serbiaLandmarksV2: POI[] = [
                   ]
             },
             {
-                  "name": "Музеј Паје Јовановића",
+                  "name": "Muzej Paje Jovanovitsha",
                   "text": "A híres szerb festő, Paja Jovanović műveinek szentelt múzeum.",
                   "category": "museum",
                   "coords": [
@@ -5093,7 +5093,7 @@ export const serbiaLandmarksV2: POI[] = [
                   ]
             },
             {
-                  "name": "Музеј Цептер",
+                  "name": "Muzej Tsepter",
                   "text": "Belgrádi magánmúzeum, amely modern és kortárs műalkotásokat mutat be.",
                   "category": "museum",
                   "coords": [
@@ -5102,7 +5102,7 @@ export const serbiaLandmarksV2: POI[] = [
                   ]
             },
             {
-                  "name": "ПТТ музеј",
+                  "name": "PTT muzej",
                   "text": "Szerbia postai és távíró-szolgáltatásainak történetét bemutató múzeum.",
                   "category": "museum",
                   "coords": [
@@ -5113,7 +5113,7 @@ export const serbiaLandmarksV2: POI[] = [
       ],
       "ro": [
             {
-                  "name": "Римски бунар",
+                  "name": "Rimski bunar",
                   "text": "„Fântâna Romană” este o cisternă istorică din secolul al XVIII-lea situată în cetatea Belgradului.",
                   "category": "museum",
                   "coords": [
@@ -5122,7 +5122,7 @@ export const serbiaLandmarksV2: POI[] = [
                   ]
             },
             {
-                  "name": "Остаци замка деспота Стефана Лазаревића",
+                  "name": "Ostatsi zamka despota Stefana Lazarevitsha",
                   "text": "Acest sit arheologic prezintă fundațiile castelului despotului Stefan Lazarević din cetatea Belgradului.",
                   "category": "historical",
                   "coords": [
@@ -5131,7 +5131,7 @@ export const serbiaLandmarksV2: POI[] = [
                   ]
             },
             {
-                  "name": "Историјски музеј Србије",
+                  "name": "Istorijski muzej Srbije",
                   "text": "Muzeul prezintă istoria bogată a Serbiei, din antichitate până în prezent.",
                   "category": "museum",
                   "coords": [
@@ -5140,7 +5140,7 @@ export const serbiaLandmarksV2: POI[] = [
                   ]
             },
             {
-                  "name": "Железнички музеј",
+                  "name": "Zheleznichki muzej",
                   "text": "Muzeul Căilor Ferate din Belgrad prezintă evoluția transportului feroviar în Serbia.",
                   "category": "museum",
                   "coords": [
@@ -5149,7 +5149,7 @@ export const serbiaLandmarksV2: POI[] = [
                   ]
             },
             {
-                  "name": "Музеј Иве Андрића",
+                  "name": "Muzej Ive Andritsha",
                   "text": "Muzeul este dedicat vieții și operei scriitorului laureat al Premiului Nobel, Ivo Andrić.",
                   "category": "museum",
                   "coords": [
@@ -5158,7 +5158,7 @@ export const serbiaLandmarksV2: POI[] = [
                   ]
             },
             {
-                  "name": "Музеј Паје Јовановића",
+                  "name": "Muzej Paje Jovanovitsha",
                   "text": "Un muzeu dedicat operelor celebrului pictor sârb Paja Jovanović.",
                   "category": "museum",
                   "coords": [
@@ -5167,7 +5167,7 @@ export const serbiaLandmarksV2: POI[] = [
                   ]
             },
             {
-                  "name": "Музеј Цептер",
+                  "name": "Muzej Tsepter",
                   "text": "Un muzeu de artă privat din Belgrad care expune lucrări moderne și contemporane.",
                   "category": "museum",
                   "coords": [
@@ -5176,7 +5176,7 @@ export const serbiaLandmarksV2: POI[] = [
                   ]
             },
             {
-                  "name": "ПТТ музеј",
+                  "name": "PTT muzej",
                   "text": "Muzeu dedicat istoriei serviciilor poștale și telegrafice din Serbia.",
                   "category": "museum",
                   "coords": [
@@ -5307,7 +5307,7 @@ export const serbiaLandmarksV2: POI[] = [
     id: "serbia-kragujevac-amidza-konak-landmarks-v2", "sights": {
       "de": [
             {
-                  "name": "Музеј 21. октобар",
+                  "name": "Muzej 21. oktobar",
                   "text": "Ein Museum in Kragujevac, das an das Massaker vom 21. Oktober 1941 erinnert.",
                   "category": "museum",
                   "coords": [
@@ -5316,7 +5316,7 @@ export const serbiaLandmarksV2: POI[] = [
                   ]
             },
             {
-                  "name": "Споменик Узнесење",
+                  "name": "Spomenik Uznesenje",
                   "text": "Ein monumentales Denkmal in Kragujevac, das Teil des Gedenkparks der Stadt ist.",
                   "category": "historical",
                   "coords": [
@@ -5325,7 +5325,7 @@ export const serbiaLandmarksV2: POI[] = [
                   ]
             },
             {
-                  "name": "Споменик „Против зла”",
+                  "name": "Spomenik ,,Protiv zla\"",
                   "text": "Ein Denkmal in Kragujevac, das als Mahnmal gegen das Böse und die Gewalt steht.",
                   "category": "historical",
                   "coords": [
@@ -5343,7 +5343,7 @@ export const serbiaLandmarksV2: POI[] = [
                   ]
             },
             {
-                  "name": "Спомен-парк Крагујевачки октобар",
+                  "name": "Spomen-park Kragujevachki oktobar",
                   "text": "Ein weitläufiger Gedenkpark in Kragujevac, der den Opfern der Tragödie von 1941 gewidmet ist.",
                   "category": "park",
                   "coords": [
@@ -5354,7 +5354,7 @@ export const serbiaLandmarksV2: POI[] = [
       ],
       "hu": [
             {
-                  "name": "Музеј 21. октобар",
+                  "name": "Muzej 21. oktobar",
                   "text": "Kragujevaci múzeum, amely az 1941. október 21-i mészárlásnak állít emléket.",
                   "category": "museum",
                   "coords": [
@@ -5363,7 +5363,7 @@ export const serbiaLandmarksV2: POI[] = [
                   ]
             },
             {
-                  "name": "Споменик Узнесење",
+                  "name": "Spomenik Uznesenje",
                   "text": "Monumentális emlékmű Kragujevacban, a város emlékparkjának része.",
                   "category": "historical",
                   "coords": [
@@ -5372,7 +5372,7 @@ export const serbiaLandmarksV2: POI[] = [
                   ]
             },
             {
-                  "name": "Споменик „Против зла”",
+                  "name": "Spomenik ,,Protiv zla\"",
                   "text": "Kragujevaci emlékmű, amely mementóként áll a gonoszság és az erőszak ellen.",
                   "category": "historical",
                   "coords": [
@@ -5381,7 +5381,7 @@ export const serbiaLandmarksV2: POI[] = [
                   ]
             },
             {
-                  "name": "Споменик „Прекинут лет”",
+                  "name": "Spomenik ,,Prekinut let\"",
                   "text": "Kragujevaci emlékmű, amelyet a második világháborúban kivégzett diákoknak és tanároknak szenteltek.",
                   "category": "historical",
                   "coords": [
@@ -5390,7 +5390,7 @@ export const serbiaLandmarksV2: POI[] = [
                   ]
             },
             {
-                  "name": "Спомен-парк Крагујевачки октобар",
+                  "name": "Spomen-park Kragujevachki oktobar",
                   "text": "Kiterjedt emlékpark Kragujevacban, az 1941-es tragédia áldozatainak szentelve.",
                   "category": "park",
                   "coords": [
@@ -5401,7 +5401,7 @@ export const serbiaLandmarksV2: POI[] = [
       ],
       "ro": [
             {
-                  "name": "Музеј 21. октобар",
+                  "name": "Muzej 21. oktobar",
                   "text": "Un muzeu din Kragujevac care comemorează masacrul din 21 octombrie 1941.",
                   "category": "museum",
                   "coords": [
@@ -5410,7 +5410,7 @@ export const serbiaLandmarksV2: POI[] = [
                   ]
             },
             {
-                  "name": "Споменик Узнесење",
+                  "name": "Spomenik Uznesenje",
                   "text": "Un monument monumental în Kragujevac, făcând parte din parcul memorial al orașului.",
                   "category": "historical",
                   "coords": [
@@ -5419,7 +5419,7 @@ export const serbiaLandmarksV2: POI[] = [
                   ]
             },
             {
-                  "name": "Споменик „Против зла”",
+                  "name": "Spomenik ,,Protiv zla\"",
                   "text": "Un monument în Kragujevac care servește ca un avertisment împotriva răului și violenței.",
                   "category": "historical",
                   "coords": [
@@ -5428,7 +5428,7 @@ export const serbiaLandmarksV2: POI[] = [
                   ]
             },
             {
-                  "name": "Споменик „Прекинут лет”",
+                  "name": "Spomenik ,,Prekinut let\"",
                   "text": "Un monument în Kragujevac dedicat elevilor și profesorilor împușcați în timpul celui de-al Doilea Război Mondial.",
                   "category": "historical",
                   "coords": [
@@ -5437,7 +5437,7 @@ export const serbiaLandmarksV2: POI[] = [
                   ]
             },
             {
-                  "name": "Спомен-парк Крагујевачки октобар",
+                  "name": "Spomen-park Kragujevachki oktobar",
                   "text": "Un parc memorial vast în Kragujevac, dedicat victimelor tragediei din 1941.",
                   "category": "park",
                   "coords": [
@@ -5586,7 +5586,7 @@ export const serbiaLandmarksV2: POI[] = [
     id: "serbia-subotica-city-library-landmarks-v2", "sights": {
       "de": [
             {
-                  "name": "Народно позориште Суботица",
+                  "name": "Narodno pozorishte Subotitsa",
                   "text": "Das Nationaltheater von Subotica ist eine bedeutende kulturelle Institution in einem klassizistischen Gebäude.",
                   "category": "cultural",
                   "coords": [
@@ -5604,7 +5604,7 @@ export const serbiaLandmarksV2: POI[] = [
                   ]
             },
             {
-                  "name": "Градски музеj Cyботица",
+                  "name": "j Cy",
                   "text": "Ein Museum, das die Geschichte, Archäologie und Kunst der Stadt Subotica präsentiert.",
                   "category": "museum",
                   "coords": [
@@ -5622,7 +5622,7 @@ export const serbiaLandmarksV2: POI[] = [
                   ]
             },
             {
-                  "name": "Градска кућа",
+                  "name": "Gradska kutsha",
                   "text": "Das Rathaus von Subotica ist ein herausragendes Beispiel für den ungarischen Jugendstil.",
                   "category": "landmark",
                   "coords": [
@@ -5640,7 +5640,7 @@ export const serbiaLandmarksV2: POI[] = [
                   ]
             },
             {
-                  "name": "Споменик Ивану Сарићу",
+                  "name": "Spomenik Ivanu Saritshu",
                   "text": "Ein Denkmal zu Ehren von Ivan Sarić, einem Pionier der Luftfahrt aus Subotica.",
                   "category": "historical",
                   "coords": [
@@ -5660,7 +5660,7 @@ export const serbiaLandmarksV2: POI[] = [
                   ]
             },
             {
-                  "name": "Палата Рајхл",
+                  "name": "Palata Rajkhl",
                   "text": "Pompás szecessziós palota Szabadkán, amely ma a Modern Művészeti Galériának ad otthont.",
                   "category": "castle",
                   "coords": [
@@ -5716,7 +5716,7 @@ export const serbiaLandmarksV2: POI[] = [
       ],
       "ro": [
             {
-                  "name": "Народно позориште Суботица",
+                  "name": "Narodno pozorishte Subotitsa",
                   "text": "Teatrul Național din Subotica este o instituție culturală majoră, situată într-o clădire neoclasică.",
                   "category": "cultural",
                   "coords": [
@@ -5725,7 +5725,7 @@ export const serbiaLandmarksV2: POI[] = [
                   ]
             },
             {
-                  "name": "Палата Рајхл",
+                  "name": "Palata Rajkhl",
                   "text": "Un palat somptuos în stil Art Nouveau din Subotica, care găzduiește astăzi Galeria de Artă Modernă.",
                   "category": "castle",
                   "coords": [
@@ -5734,7 +5734,7 @@ export const serbiaLandmarksV2: POI[] = [
                   ]
             },
             {
-                  "name": "Градски музеj Cyботица",
+                  "name": "j Cy",
                   "text": "Un muzeu care prezintă istoria, arheologia și arta orașului Subotica.",
                   "category": "museum",
                   "coords": [
@@ -5752,7 +5752,7 @@ export const serbiaLandmarksV2: POI[] = [
                   ]
             },
             {
-                  "name": "Градска кућа",
+                  "name": "Gradska kutsha",
                   "text": "Primăria din Subotica este un exemplu remarcabil al stilului Art Nouveau maghiar.",
                   "category": "landmark",
                   "coords": [
@@ -5770,7 +5770,7 @@ export const serbiaLandmarksV2: POI[] = [
                   ]
             },
             {
-                  "name": "Споменик Ивану Сарићу",
+                  "name": "Spomenik Ivanu Saritshu",
                   "text": "Un monument în onoarea lui Ivan Sarić, un pionier al aviației din Subotica.",
                   "category": "historical",
                   "coords": [
@@ -6072,7 +6072,7 @@ export const serbiaLandmarksV2: POI[] = [
     id: "serbia-zrenjanin-museum-landmarks-v2", "sights": {
       "de": [
             {
-                  "name": "Народни музеј Зрењанин",
+                  "name": "Narodni muzej Zrenjanin",
                   "text": "Das Regionalmuseum von Zrenjanin zeigt Exponate zur Geschichte und Kultur des Banats.",
                   "category": "museum",
                   "coords": [
@@ -6090,7 +6090,7 @@ export const serbiaLandmarksV2: POI[] = [
                   ]
             },
             {
-                  "name": "Споменик Жарку Зрењанину",
+                  "name": "Spomenik Zharku Zrenjaninu",
                   "text": "Ein Denkmal in Zrenjanin zu Ehren des jugoslawischen Widerstandskämpfers Žarko Zrenjanin.",
                   "category": "historical",
                   "coords": [
@@ -6108,7 +6108,7 @@ export const serbiaLandmarksV2: POI[] = [
                   ]
             },
             {
-                  "name": "Реформатска црква",
+                  "name": "Reformatska tsrkva",
                   "text": "Eine historische reformierte Kirche, die zur religiösen Vielfalt von Zrenjanin beiträgt.",
                   "category": "religious",
                   "coords": [
@@ -6119,7 +6119,7 @@ export const serbiaLandmarksV2: POI[] = [
       ],
       "hu": [
             {
-                  "name": "Народни музеј Зрењанин",
+                  "name": "Narodni muzej Zrenjanin",
                   "text": "A nagybecskereki múzeum a Bánát történelmét és kultúráját bemutató tárgyakat őriz.",
                   "category": "museum",
                   "coords": [
@@ -6128,7 +6128,7 @@ export const serbiaLandmarksV2: POI[] = [
                   ]
             },
             {
-                  "name": "Мост на сувом",
+                  "name": "Most na suvom",
                   "text": "Különleges híd Nagybecskereken, amely egy folyóelterelés után szárazföldön áll.",
                   "category": "landmark",
                   "coords": [
@@ -6137,7 +6137,7 @@ export const serbiaLandmarksV2: POI[] = [
                   ]
             },
             {
-                  "name": "Споменик Жарку Зрењанину",
+                  "name": "Spomenik Zharku Zrenjaninu",
                   "text": "Emlékmű Nagybecskereken Žarko Zrenjanin jugoszláv ellenálló tiszteletére.",
                   "category": "historical",
                   "coords": [
@@ -6146,7 +6146,7 @@ export const serbiaLandmarksV2: POI[] = [
                   ]
             },
             {
-                  "name": "Црква Успења Богородице",
+                  "name": "Tsrkva Uspenja Bogoroditse",
                   "text": "Jelentős szerb ortodox templom Nagybecskereken, gazdagon díszített belsővel.",
                   "category": "religious",
                   "coords": [
@@ -6155,7 +6155,7 @@ export const serbiaLandmarksV2: POI[] = [
                   ]
             },
             {
-                  "name": "Реформатска црква",
+                  "name": "Reformatska tsrkva",
                   "text": "Történelmi református templom, amely hozzájárul Nagybecskerek vallási sokszínűségéhez.",
                   "category": "religious",
                   "coords": [
@@ -6166,7 +6166,7 @@ export const serbiaLandmarksV2: POI[] = [
       ],
       "ro": [
             {
-                  "name": "Народни музеј Зрењанин",
+                  "name": "Narodni muzej Zrenjanin",
                   "text": "Muzeul regional din Zrenjanin expune obiecte legate de istoria și cultura Banatului.",
                   "category": "museum",
                   "coords": [
@@ -6175,7 +6175,7 @@ export const serbiaLandmarksV2: POI[] = [
                   ]
             },
             {
-                  "name": "Мост на сувом",
+                  "name": "Most na suvom",
                   "text": "Un pod neobișnuit în Zrenjanin, care stă pe uscat după devierea unui râu.",
                   "category": "landmark",
                   "coords": [
@@ -6184,7 +6184,7 @@ export const serbiaLandmarksV2: POI[] = [
                   ]
             },
             {
-                  "name": "Споменик Жарку Зрењанину",
+                  "name": "Spomenik Zharku Zrenjaninu",
                   "text": "Un monument în Zrenjanin ridicat în onoarea luptătorului iugoslav Žarko Zrenjanin.",
                   "category": "historical",
                   "coords": [
@@ -6193,7 +6193,7 @@ export const serbiaLandmarksV2: POI[] = [
                   ]
             },
             {
-                  "name": "Црква Успења Богородице",
+                  "name": "Tsrkva Uspenja Bogoroditse",
                   "text": "O biserică ortodoxă sârbă importantă în Zrenjanin, cu un interior bogat decorat.",
                   "category": "religious",
                   "coords": [
@@ -6202,7 +6202,7 @@ export const serbiaLandmarksV2: POI[] = [
                   ]
             },
             {
-                  "name": "Реформатска црква",
+                  "name": "Reformatska tsrkva",
                   "text": "O biserică reformată istorică, ce contribuie la diversitatea religioasă a orașului Zrenjanin.",
                   "category": "religious",
                   "coords": [
@@ -6360,7 +6360,7 @@ export const serbiaLandmarksV2: POI[] = [
                   ]
             },
             {
-                  "name": "Остаци замка деспота Стефана Лазаревића",
+                  "name": "Ostatsi zamka despota Stefana Lazarevitsha",
                   "text": "Archäologische Überreste einer Burg aus dem 15. Jahrhundert, die von Despot Stefan Lazarević erbaut wurde.",
                   "category": "historical",
                   "coords": [
@@ -6369,7 +6369,7 @@ export const serbiaLandmarksV2: POI[] = [
                   ]
             },
             {
-                  "name": "Историјски музеј Србије",
+                  "name": "Istorijski muzej Srbije",
                   "text": "Ein Museum in Belgrad, das der Bewahrung des historischen Erbes Serbiens gewidmet ist.",
                   "category": "museum",
                   "coords": [
@@ -6378,7 +6378,7 @@ export const serbiaLandmarksV2: POI[] = [
                   ]
             },
             {
-                  "name": "Железнички музеј",
+                  "name": "Zheleznichki muzej",
                   "text": "Ein Fachmuseum, das die Entwicklung des Schienenverkehrs in Serbien zeigt.",
                   "category": "museum",
                   "coords": [
@@ -6387,7 +6387,7 @@ export const serbiaLandmarksV2: POI[] = [
                   ]
             },
             {
-                  "name": "Музеј Иве Андрића",
+                  "name": "Muzej Ive Andritsha",
                   "text": "Ein Gedenkmuseum in der ehemaligen Wohnung des Nobelpreisträgers Ivo Andrić.",
                   "category": "museum",
                   "coords": [
@@ -6396,7 +6396,7 @@ export const serbiaLandmarksV2: POI[] = [
                   ]
             },
             {
-                  "name": "Музеј Паје Јовановића",
+                  "name": "Muzej Paje Jovanovitsha",
                   "text": "Ein Museum, das dem Leben und Werk des bedeutenden serbischen Malers Paja Jovanović gewidmet ist.",
                   "category": "museum",
                   "coords": [
@@ -6405,7 +6405,7 @@ export const serbiaLandmarksV2: POI[] = [
                   ]
             },
             {
-                  "name": "Музеј Цептер",
+                  "name": "Muzej Tsepter",
                   "text": "Ein privates Museum in Belgrad, das eine vielfältige Sammlung zeitgenössischer Kunst zeigt.",
                   "category": "museum",
                   "coords": [
@@ -6414,7 +6414,7 @@ export const serbiaLandmarksV2: POI[] = [
                   ]
             },
             {
-                  "name": "ПТТ музеј",
+                  "name": "PTT muzej",
                   "text": "Ein Museum, das die Geschichte des Post-, Telegrafen- und Telefonwesens in Serbien dokumentiert.",
                   "category": "museum",
                   "coords": [
@@ -6425,7 +6425,7 @@ export const serbiaLandmarksV2: POI[] = [
       ],
       "hu": [
             {
-                  "name": "Римски бунар",
+                  "name": "Rimski bunar",
                   "text": "Mély történelmi kút a belgrádi Kalemegdan erődben.",
                   "category": "museum",
                   "coords": [
@@ -6434,7 +6434,7 @@ export const serbiaLandmarksV2: POI[] = [
                   ]
             },
             {
-                  "name": "Остаци замка деспота Стефана Лазаревића",
+                  "name": "Ostatsi zamka despota Stefana Lazarevitsha",
                   "text": "Despot Stefan Lazarević által épített 15. századi kastély régészeti maradványai.",
                   "category": "historical",
                   "coords": [
@@ -6443,7 +6443,7 @@ export const serbiaLandmarksV2: POI[] = [
                   ]
             },
             {
-                  "name": "Историјски музеј Србије",
+                  "name": "Istorijski muzej Srbije",
                   "text": "Belgrádi múzeum, amely Szerbia történelmi örökségének megőrzésével foglalkozik.",
                   "category": "museum",
                   "coords": [
@@ -6452,7 +6452,7 @@ export const serbiaLandmarksV2: POI[] = [
                   ]
             },
             {
-                  "name": "Железнички музеј",
+                  "name": "Zheleznichki muzej",
                   "text": "Szakmúzeum, amely a szerbiai vasúti közlekedés fejlődését mutatja be.",
                   "category": "museum",
                   "coords": [
@@ -6461,7 +6461,7 @@ export const serbiaLandmarksV2: POI[] = [
                   ]
             },
             {
-                  "name": "Музеј Иве Андрића",
+                  "name": "Muzej Ive Andritsha",
                   "text": "Emlékmúzeum Ivo Andrić Nobel-díjas író egykori lakásában.",
                   "category": "museum",
                   "coords": [
@@ -6470,7 +6470,7 @@ export const serbiaLandmarksV2: POI[] = [
                   ]
             },
             {
-                  "name": "Музеј Паје Јовановића",
+                  "name": "Muzej Paje Jovanovitsha",
                   "text": "A neves szerb festő, Paja Jovanović életének és műveinek szentelt múzeum.",
                   "category": "museum",
                   "coords": [
@@ -6479,7 +6479,7 @@ export const serbiaLandmarksV2: POI[] = [
                   ]
             },
             {
-                  "name": "Музеј Цептер",
+                  "name": "Muzej Tsepter",
                   "text": "Belgrádi magánmúzeum, amely kortárs művészeti alkotások változatos gyűjteményét mutatja be.",
                   "category": "museum",
                   "coords": [
@@ -6488,7 +6488,7 @@ export const serbiaLandmarksV2: POI[] = [
                   ]
             },
             {
-                  "name": "ПТТ музеј",
+                  "name": "PTT muzej",
                   "text": "A szerbiai posta-, távíró- és telefonszolgáltatások történetét bemutató múzeum.",
                   "category": "museum",
                   "coords": [
@@ -6499,7 +6499,7 @@ export const serbiaLandmarksV2: POI[] = [
       ],
       "ro": [
             {
-                  "name": "Римски бунар",
+                  "name": "Rimski bunar",
                   "text": "O fântână istorică adâncă situată în cadrul cetății Kalemegdan din Belgrad.",
                   "category": "museum",
                   "coords": [
@@ -6508,7 +6508,7 @@ export const serbiaLandmarksV2: POI[] = [
                   ]
             },
             {
-                  "name": "Остаци замка деспота Стефана Лазаревића",
+                  "name": "Ostatsi zamka despota Stefana Lazarevitsha",
                   "text": "Rămășițe arheologice ale unui castel din secolul al XV-lea construit de despotul Stefan Lazarević.",
                   "category": "historical",
                   "coords": [
@@ -6517,7 +6517,7 @@ export const serbiaLandmarksV2: POI[] = [
                   ]
             },
             {
-                  "name": "Историјски музеј Србије",
+                  "name": "Istorijski muzej Srbije",
                   "text": "Un muzeu din Belgrad dedicat conservării moștenirii istorice a Serbiei.",
                   "category": "museum",
                   "coords": [
@@ -6526,7 +6526,7 @@ export const serbiaLandmarksV2: POI[] = [
                   ]
             },
             {
-                  "name": "Железнички музеј",
+                  "name": "Zheleznichki muzej",
                   "text": "Un muzeu specializat care prezintă evoluția transportului feroviar în Serbia.",
                   "category": "museum",
                   "coords": [
@@ -6535,7 +6535,7 @@ export const serbiaLandmarksV2: POI[] = [
                   ]
             },
             {
-                  "name": "Музеј Иве Андрића",
+                  "name": "Muzej Ive Andritsha",
                   "text": "Un muzeu memorial situat în fostul apartament al laureatului Nobel Ivo Andrić.",
                   "category": "museum",
                   "coords": [
@@ -6544,7 +6544,7 @@ export const serbiaLandmarksV2: POI[] = [
                   ]
             },
             {
-                  "name": "Музеј Паје Јовановића",
+                  "name": "Muzej Paje Jovanovitsha",
                   "text": "Un muzeu dedicat vieții și operelor cunoscutului pictor sârb Paja Jovanović.",
                   "category": "museum",
                   "coords": [
@@ -6553,7 +6553,7 @@ export const serbiaLandmarksV2: POI[] = [
                   ]
             },
             {
-                  "name": "Музеј Цептер",
+                  "name": "Muzej Tsepter",
                   "text": "Un muzeu privat din Belgrad care expune o colecție diversă de artă contemporană.",
                   "category": "museum",
                   "coords": [
@@ -6562,7 +6562,7 @@ export const serbiaLandmarksV2: POI[] = [
                   ]
             },
             {
-                  "name": "ПТТ музеј",
+                  "name": "PTT muzej",
                   "text": "Un muzeu care documentează istoria serviciilor poștale, telegrafice și telefonice din Serbia.",
                   "category": "museum",
                   "coords": [
@@ -6738,7 +6738,7 @@ export const serbiaLandmarksV2: POI[] = [
     id: "serbia-subotica-city-museum-landmarks-v2", "sights": {
       "de": [
             {
-                  "name": "Народно позориште Суботица",
+                  "name": "Narodno pozorishte Subotitsa",
                   "text": "Ein bedeutendes neoklassizistisches Theatergebäude in Subotica.",
                   "category": "cultural",
                   "coords": [
@@ -6756,7 +6756,7 @@ export const serbiaLandmarksV2: POI[] = [
                   ]
             },
             {
-                  "name": "Градски музеj Cyботица",
+                  "name": "j Cy",
                   "text": "Das Stadtmuseum von Subotica beherbergt regionale historische Sammlungen.",
                   "category": "museum",
                   "coords": [
@@ -6774,7 +6774,7 @@ export const serbiaLandmarksV2: POI[] = [
                   ]
             },
             {
-                  "name": "Градска кућа",
+                  "name": "Gradska kutsha",
                   "text": "Das monumentale Rathaus von Subotica ist ein Wahrzeichen des ungarischen Jugendstils.",
                   "category": "landmark",
                   "coords": [
@@ -6792,7 +6792,7 @@ export const serbiaLandmarksV2: POI[] = [
                   ]
             },
             {
-                  "name": "Споменик Ивану Сарићу",
+                  "name": "Spomenik Ivanu Saritshu",
                   "text": "Denkmal zu Ehren des Luftfahrtpioniers Ivan Sarić.",
                   "category": "historical",
                   "coords": [
@@ -6812,7 +6812,7 @@ export const serbiaLandmarksV2: POI[] = [
                   ]
             },
             {
-                  "name": "Палата Рајхл",
+                  "name": "Palata Rajkhl",
                   "text": "Pompás szecessziós palota, melyet Raichle Ferenc tervezett.",
                   "category": "castle",
                   "coords": [
@@ -6868,7 +6868,7 @@ export const serbiaLandmarksV2: POI[] = [
       ],
       "ro": [
             {
-                  "name": "Народно позориште Суботица",
+                  "name": "Narodno pozorishte Subotitsa",
                   "text": "O clădire teatrală neoclasică importantă din Subotica.",
                   "category": "cultural",
                   "coords": [
@@ -6877,7 +6877,7 @@ export const serbiaLandmarksV2: POI[] = [
                   ]
             },
             {
-                  "name": "Палата Рајхл",
+                  "name": "Palata Rajkhl",
                   "text": "Un palat spectaculos în stil Secession, proiectat de Ferenc Raichle.",
                   "category": "castle",
                   "coords": [
@@ -6886,7 +6886,7 @@ export const serbiaLandmarksV2: POI[] = [
                   ]
             },
             {
-                  "name": "Градски музеj Cyботица",
+                  "name": "j Cy",
                   "text": "Muzeul Orașului Subotica găzduiește colecții istorice regionale.",
                   "category": "museum",
                   "coords": [
@@ -6904,7 +6904,7 @@ export const serbiaLandmarksV2: POI[] = [
                   ]
             },
             {
-                  "name": "Градска кућа",
+                  "name": "Gradska kutsha",
                   "text": "Primăria monumentală din Subotica este un simbol al stilului Secession maghiar.",
                   "category": "landmark",
                   "coords": [
@@ -6922,7 +6922,7 @@ export const serbiaLandmarksV2: POI[] = [
                   ]
             },
             {
-                  "name": "Споменик Ивану Сарићу",
+                  "name": "Spomenik Ivanu Saritshu",
                   "text": "Monument în cinstea pionierului aviației Ivan Sarić.",
                   "category": "historical",
                   "coords": [

@@ -6,7 +6,7 @@ export const cyprusReliefV2: POI[] = [
     id: "cyprus-papoutsa-peak-relief-v2", "sights": {
       "de": [
             {
-                  "name": "Μουσείο Λαϊκής Τέχνης",
+                  "name": "Mouseio Laikes Tekhnes",
                   "text": "Ein Museum, das traditionelles Kunsthandwerk und Volkskunst der Region präsentiert.",
                   "category": "museum",
                   "coords": [
@@ -15,7 +15,7 @@ export const cyprusReliefV2: POI[] = [
                   ]
             },
             {
-                  "name": "Αστεροσκοπείο Τροόδους",
+                  "name": "Asteroskopeio Troodous",
                   "text": "Ein Observatorium im Troodos-Gebirge, das Einblicke in die Astronomie bietet.",
                   "category": "museum",
                   "coords": [
@@ -24,7 +24,7 @@ export const cyprusReliefV2: POI[] = [
                   ]
             },
             {
-                  "name": "Παναγίας του Άρακα",
+                  "name": "Panagias tou Araka",
                   "text": "Die byzantinische Kirche Panagia tou Araka gehört zum UNESCO-Weltkulturerbe.",
                   "category": "landmark",
                   "coords": [
@@ -53,7 +53,7 @@ export const cyprusReliefV2: POI[] = [
       ],
       "hu": [
             {
-                  "name": "Μουσείο Λαϊκής Τέχνης",
+                  "name": "Mouseio Laikes Tekhnes",
                   "text": "A régió hagyományos kézművességét és népművészetét bemutató múzeum.",
                   "category": "museum",
                   "coords": [
@@ -62,7 +62,7 @@ export const cyprusReliefV2: POI[] = [
                   ]
             },
             {
-                  "name": "Αστεροσκοπείο Τροόδους",
+                  "name": "Asteroskopeio Troodous",
                   "text": "A Troodos-hegységben található csillagvizsgáló, amely betekintést nyújt a csillagászatba.",
                   "category": "museum",
                   "coords": [
@@ -71,7 +71,7 @@ export const cyprusReliefV2: POI[] = [
                   ]
             },
             {
-                  "name": "Παναγίας του Άρακα",
+                  "name": "Panagias tou Araka",
                   "text": "A bizánci Panagia tou Araka-templom az UNESCO Világörökség része.",
                   "category": "landmark",
                   "coords": [
@@ -100,7 +100,7 @@ export const cyprusReliefV2: POI[] = [
       ],
       "ro": [
             {
-                  "name": "Μουσείο Λαϊκής Τέχνης",
+                  "name": "Mouseio Laikes Tekhnes",
                   "text": "Un muzeu care prezintă meșteșugurile tradiționale și arta populară a regiunii.",
                   "category": "museum",
                   "coords": [
@@ -109,7 +109,7 @@ export const cyprusReliefV2: POI[] = [
                   ]
             },
             {
-                  "name": "Αστεροσκοπείο Τροόδους",
+                  "name": "Asteroskopeio Troodous",
                   "text": "Un observator situat în munții Troodos, oferind informații despre astronomie.",
                   "category": "museum",
                   "coords": [
@@ -118,7 +118,7 @@ export const cyprusReliefV2: POI[] = [
                   ]
             },
             {
-                  "name": "Παναγίας του Άρακα",
+                  "name": "Panagias tou Araka",
                   "text": "Biserica bizantină Panagia tou Araka face parte din patrimoniul mondial UNESCO.",
                   "category": "landmark",
                   "coords": [
@@ -240,7 +240,7 @@ export const cyprusReliefV2: POI[] = [
     id: "cyprus-kionia-peak-relief-v2", "sights": {
       "de": [
             {
-                  "name": "Εθνολογικό Μουσείο Φικάρδου",
+                  "name": "Ethnologiko Mouseio Phikardou",
                   "text": "Ein Museum im denkmalgeschützten Dorf Fikardou, das das traditionelle zypriotische Landleben bewahrt.",
                   "category": "museum",
                   "coords": [
@@ -249,7 +249,7 @@ export const cyprusReliefV2: POI[] = [
                   ]
             },
             {
-                  "name": "Γρηγόρης Αυξεντίου",
+                  "name": "Gregores Auxentiou",
                   "text": "Ein dem EOKA-Helden Grigoris Afxentiou gewidmetes Museum an seinem historischen Versteck bei Machairas.",
                   "category": "museum",
                   "coords": [
@@ -260,7 +260,7 @@ export const cyprusReliefV2: POI[] = [
       ],
       "hu": [
             {
-                  "name": "Εθνολογικό Μουσείο Φικάρδου",
+                  "name": "Ethnologiko Mouseio Phikardou",
                   "text": "Múzeum a műemlékvédelem alatt álló Fikardou faluban, amely a hagyományos ciprusi vidéki életet őrzi.",
                   "category": "museum",
                   "coords": [
@@ -269,7 +269,7 @@ export const cyprusReliefV2: POI[] = [
                   ]
             },
             {
-                  "name": "Γρηγόρης Αυξεντίου",
+                  "name": "Gregores Auxentiou",
                   "text": "Az EOKA-hős Grigorisz Afxentiunak szentelt múzeum történelmi rejtekhelyénél, Machairas közelében.",
                   "category": "museum",
                   "coords": [
@@ -280,7 +280,7 @@ export const cyprusReliefV2: POI[] = [
       ],
       "ro": [
             {
-                  "name": "Εθνολογικό Μουσείο Φικάρδου",
+                  "name": "Ethnologiko Mouseio Phikardou",
                   "text": "Un muzeu în satul protejat Fikardou, care conservă viața rurală tradițională cipriotă.",
                   "category": "museum",
                   "coords": [
@@ -289,7 +289,7 @@ export const cyprusReliefV2: POI[] = [
                   ]
             },
             {
-                  "name": "Γρηγόρης Αυξεντίου",
+                  "name": "Gregores Auxentiou",
                   "text": "Un muzeu dedicat eroului EOKA Grigoris Afxentiou, situat la ascunzătoarea sa istorică de lângă Machairas.",
                   "category": "museum",
                   "coords": [
@@ -375,7 +375,7 @@ export const cyprusReliefV2: POI[] = [
                   ]
             },
             {
-                  "name": "Ιερά Μονή Παναγίας Χρυσοκουρδαλιώτισσας",
+                  "name": "Iera Mone Panagias Khrusokourdaliotissas",
                   "text": "Ein historisches byzantinisches Kloster in der Nähe des Adelphi-Gipfels.",
                   "category": "landmark",
                   "coords": [
@@ -384,7 +384,7 @@ export const cyprusReliefV2: POI[] = [
                   ]
             },
             {
-                  "name": "Παναγίας του Άρακα",
+                  "name": "Panagias tou Araka",
                   "text": "Eine UNESCO-geschützte byzantinische Kirche aus dem 12. Jahrhundert mit bedeutenden Fresken.",
                   "category": "landmark",
                   "coords": [
@@ -431,7 +431,7 @@ export const cyprusReliefV2: POI[] = [
                   ]
             },
             {
-                  "name": "Ιερά Μονή Παναγίας Χρυσοκουρδαλιώτισσας",
+                  "name": "Iera Mone Panagias Khrusokourdaliotissas",
                   "text": "Történelmi bizánci kolostor az Adelphi-csúcs közelében.",
                   "category": "landmark",
                   "coords": [
@@ -440,7 +440,7 @@ export const cyprusReliefV2: POI[] = [
                   ]
             },
             {
-                  "name": "Παναγίας του Άρακα",
+                  "name": "Panagias tou Araka",
                   "text": "UNESCO által védett 12. századi bizánci templom jelentős freskókkal.",
                   "category": "landmark",
                   "coords": [
@@ -487,7 +487,7 @@ export const cyprusReliefV2: POI[] = [
                   ]
             },
             {
-                  "name": "Ιερά Μονή Παναγίας Χρυσοκουρδαλιώτισσας",
+                  "name": "Iera Mone Panagias Khrusokourdaliotissas",
                   "text": "O mănăstire bizantină istorică situată lângă vârful Adelphi.",
                   "category": "landmark",
                   "coords": [
@@ -496,7 +496,7 @@ export const cyprusReliefV2: POI[] = [
                   ]
             },
             {
-                  "name": "Παναγίας του Άρακα",
+                  "name": "Panagias tou Araka",
                   "text": "O biserică bizantină din secolul al XII-lea, protejată de UNESCO, cu fresce semnificative.",
                   "category": "landmark",
                   "coords": [
@@ -789,7 +789,7 @@ export const cyprusReliefV2: POI[] = [
                   ]
             },
             {
-                  "name": "Αγιος Αντρόνικος",
+                  "name": "Agios Antronikos",
                   "text": "Die Ruinen einer historischen Stätte im Trooditissa-Tal, die von der Vergangenheit der Region zeugen.",
                   "category": "historical",
                   "coords": [
@@ -800,7 +800,7 @@ export const cyprusReliefV2: POI[] = [
       ],
       "hu": [
             {
-                  "name": "Όλυμπος",
+                  "name": "Olumpos",
                   "text": "Ciprus legmagasabb csúcsa a Tróodosz-hegységben, ahonnan kilátás nyílik az egész szigetre.",
                   "category": "landmark",
                   "coords": [
@@ -863,7 +863,7 @@ export const cyprusReliefV2: POI[] = [
                   ]
             },
             {
-                  "name": "Αγιος Αντρόνικος",
+                  "name": "Agios Antronikos",
                   "text": "Egy történelmi helyszín romjai a Trooditissa-völgyben, amelyek a régió múltjáról tanúskodnak.",
                   "category": "historical",
                   "coords": [
@@ -874,7 +874,7 @@ export const cyprusReliefV2: POI[] = [
       ],
       "ro": [
             {
-                  "name": "Όλυμπος",
+                  "name": "Olumpos",
                   "text": "Cel mai înalt vârf din Cipru, situat în munții Troodos, oferind o vedere panoramică asupra insulei.",
                   "category": "landmark",
                   "coords": [
@@ -937,7 +937,7 @@ export const cyprusReliefV2: POI[] = [
                   ]
             },
             {
-                  "name": "Αγιος Αντρόνικος",
+                  "name": "Agios Antronikos",
                   "text": "Ruinele unui sit istoric din valea Trooditissa, care atestă trecutul regiunii.",
                   "category": "historical",
                   "coords": [
@@ -1095,7 +1095,7 @@ export const cyprusReliefV2: POI[] = [
                   ]
             },
             {
-                  "name": "Παναγία Ποδίθου",
+                  "name": "Panagia Podithou",
                   "text": "Eine zum UNESCO-Weltkulturerbe gehörende Kirche mit bedeutender Wandmalerei bei Galata.",
                   "category": "landmark",
                   "coords": [
@@ -1133,7 +1133,7 @@ export const cyprusReliefV2: POI[] = [
                   ]
             },
             {
-                  "name": "Παναγία Ποδίθου",
+                  "name": "Panagia Podithou",
                   "text": "Az UNESCO Világörökség részét képező, gazdagon díszített templom Galata közelében.",
                   "category": "landmark",
                   "coords": [
@@ -1171,7 +1171,7 @@ export const cyprusReliefV2: POI[] = [
                   ]
             },
             {
-                  "name": "Παναγία Ποδίθου",
+                  "name": "Panagia Podithou",
                   "text": "O biserică inclusă în Patrimoniul Mondial UNESCO, cu picturi murale importante, lângă Galata.",
                   "category": "landmark",
                   "coords": [
@@ -1752,7 +1752,7 @@ export const cyprusReliefV2: POI[] = [
                   ]
             },
             {
-                  "name": "Μοναστήρι Αγίου Νικολάου των Γατών",
+                  "name": "Monasteri Agiou Nikolaou ton Gaton",
                   "text": "Ein historisches Kloster, das für seine Legende und die große Anzahl an Katzen bekannt ist.",
                   "category": "landmark",
                   "coords": [
@@ -1761,7 +1761,7 @@ export const cyprusReliefV2: POI[] = [
                   ]
             },
             {
-                  "name": "Κέντρο Περιβαλλοντικής Εκπαίδευσης Κοινότητας Ακρωτηρίου",
+                  "name": "Kentro Periballontikes Ekpaideuses Koinotetas Akroteriou",
                   "text": "Ein Informationszentrum, das sich der Artenvielfalt und Ökologie der Akrotiri-Feuchtgebiete widmet.",
                   "category": "landmark",
                   "coords": [
@@ -1790,7 +1790,7 @@ export const cyprusReliefV2: POI[] = [
                   ]
             },
             {
-                  "name": "Μοναστήρι Αγίου Νικολάου των Γατών",
+                  "name": "Monasteri Agiou Nikolaou ton Gaton",
                   "text": "Történelmi kolostor, amely legendájáról és a területén élő számos macskáról ismert.",
                   "category": "landmark",
                   "coords": [
@@ -1799,7 +1799,7 @@ export const cyprusReliefV2: POI[] = [
                   ]
             },
             {
-                  "name": "Κέντρο Περιβαλλοντικής Εκπαίδευσης Κοινότητας Ακρωτηρίου",
+                  "name": "Kentro Periballontikes Ekpaideuses Koinotetas Akroteriou",
                   "text": "Az Akrotiri-vizes élőhelyek biológiai sokféleségével és ökológiájával foglalkozó központ.",
                   "category": "landmark",
                   "coords": [
@@ -1828,7 +1828,7 @@ export const cyprusReliefV2: POI[] = [
                   ]
             },
             {
-                  "name": "Μοναστήρι Αγίου Νικολάου των Γατών",
+                  "name": "Monasteri Agiou Nikolaou ton Gaton",
                   "text": "O mănăstire istorică faimoasă pentru legenda sa și numărul mare de pisici.",
                   "category": "landmark",
                   "coords": [
@@ -1837,7 +1837,7 @@ export const cyprusReliefV2: POI[] = [
                   ]
             },
             {
-                  "name": "Κέντρο Περιβαλλοντικής Εκπαίδευσης Κοινότητας Ακρωτηρίου",
+                  "name": "Kentro Periballontikes Ekpaideuses Koinotetas Akroteriou",
                   "text": "Un centru de informare dedicat biodiversității și ecologiei zonelor umede din Akrotiri.",
                   "category": "landmark",
                   "coords": [
@@ -2211,7 +2211,7 @@ export const cyprusReliefV2: POI[] = [
     id: "cyprus-troodos-plateau-relief-v2", "sights": {
       "de": [
             {
-                  "name": "Εθνικό Δασικό Πάρκο Τροόδους",
+                  "name": "Ethniko Dasiko Parko Troodous",
                   "text": "Ein ausgedehntes geschütztes Berggebiet auf Zypern, bekannt für seine vielfältige Flora und Wanderwege.",
                   "category": "natural",
                   "coords": [
@@ -2285,7 +2285,7 @@ export const cyprusReliefV2: POI[] = [
       ],
       "hu": [
             {
-                  "name": "Εθνικό Δασικό Πάρκο Τροόδους",
+                  "name": "Ethniko Dasiko Parko Troodous",
                   "text": "Hatalmas védett hegyi terület Cipruson, amely változatos flórájáról és túraútvonalairól ismert.",
                   "category": "natural",
                   "coords": [
@@ -2294,7 +2294,7 @@ export const cyprusReliefV2: POI[] = [
                   ]
             },
             {
-                  "name": "Όλυμπος",
+                  "name": "Olumpos",
                   "text": "Ciprus legmagasabb csúcsa, a Tróodosz-hegység szívében.",
                   "category": "landmark",
                   "coords": [
@@ -2359,7 +2359,7 @@ export const cyprusReliefV2: POI[] = [
       ],
       "ro": [
             {
-                  "name": "Εθνικό Δασικό Πάρκο Τροόδους",
+                  "name": "Ethniko Dasiko Parko Troodous",
                   "text": "O vastă zonă montană protejată din Cipru, cunoscută pentru flora sa diversă și traseele de drumeție.",
                   "category": "natural",
                   "coords": [
@@ -2368,7 +2368,7 @@ export const cyprusReliefV2: POI[] = [
                   ]
             },
             {
-                  "name": "Όλυμπος",
+                  "name": "Olumpos",
                   "text": "Cel mai înalt vârf din Cipru, situat în inima lanțului muntos Troodos.",
                   "category": "landmark",
                   "coords": [
@@ -2805,7 +2805,7 @@ export const cyprusReliefV2: POI[] = [
     id: "cyprus-farma-peak-relief-v2", "sights": {
       "de": [
             {
-                  "name": "Μουσείο Λαϊκής Τέχνης",
+                  "name": "Mouseio Laikes Tekhnes",
                   "text": "Ein Museum für Volkskunst, das traditionelles Handwerk und Kultur der Region zeigt.",
                   "category": "museum",
                   "coords": [
@@ -2814,7 +2814,7 @@ export const cyprusReliefV2: POI[] = [
                   ]
             },
             {
-                  "name": "Αστεροσκοπείο Τροόδους",
+                  "name": "Asteroskopeio Troodous",
                   "text": "Ein modernes Observatorium im Troodos-Gebirge zur Beobachtung des Sternenhimmels.",
                   "category": "museum",
                   "coords": [
@@ -2823,7 +2823,7 @@ export const cyprusReliefV2: POI[] = [
                   ]
             },
             {
-                  "name": "Παναγίας του Άρακα",
+                  "name": "Panagias tou Araka",
                   "text": "Diese UNESCO-geschützte byzantinische Kirche ist für ihre gut erhaltenen Fresken bekannt.",
                   "category": "landmark",
                   "coords": [
@@ -2861,7 +2861,7 @@ export const cyprusReliefV2: POI[] = [
       ],
       "hu": [
             {
-                  "name": "Μουσείο Λαϊκής Τέχνης",
+                  "name": "Mouseio Laikes Tekhnes",
                   "text": "Népművészeti múzeum, amely a régió hagyományos mesterségeit és kultúráját mutatja be.",
                   "category": "museum",
                   "coords": [
@@ -2870,7 +2870,7 @@ export const cyprusReliefV2: POI[] = [
                   ]
             },
             {
-                  "name": "Αστεροσκοπείο Τροόδους",
+                  "name": "Asteroskopeio Troodous",
                   "text": "Modern csillagvizsgáló a Tróodosz-hegységben a csillagos égbolt megfigyelésére.",
                   "category": "museum",
                   "coords": [
@@ -2879,7 +2879,7 @@ export const cyprusReliefV2: POI[] = [
                   ]
             },
             {
-                  "name": "Παναγίας του Άρακα",
+                  "name": "Panagias tou Araka",
                   "text": "Ez az UNESCO védelme alatt álló bizánci templom jó állapotú freskóiról ismert.",
                   "category": "landmark",
                   "coords": [
@@ -2917,7 +2917,7 @@ export const cyprusReliefV2: POI[] = [
       ],
       "ro": [
             {
-                  "name": "Μουσείο Λαϊκής Τέχνης",
+                  "name": "Mouseio Laikes Tekhnes",
                   "text": "Un muzeu de artă populară care prezintă meșteșugurile și cultura tradițională din regiune.",
                   "category": "museum",
                   "coords": [
@@ -2926,7 +2926,7 @@ export const cyprusReliefV2: POI[] = [
                   ]
             },
             {
-                  "name": "Αστεροσκοπείο Τροόδους",
+                  "name": "Asteroskopeio Troodous",
                   "text": "Un observator modern în Munții Troodos pentru observarea cerului înstelat.",
                   "category": "museum",
                   "coords": [
@@ -2935,7 +2935,7 @@ export const cyprusReliefV2: POI[] = [
                   ]
             },
             {
-                  "name": "Παναγίας του Άρακα",
+                  "name": "Panagias tou Araka",
                   "text": "Această biserică bizantină protejată de UNESCO este cunoscută pentru frescele sale bine conservate.",
                   "category": "landmark",
                   "coords": [
@@ -3075,7 +3075,7 @@ export const cyprusReliefV2: POI[] = [
     id: "cyprus-spilia-valley-relief-v2", "sights": {
       "de": [
             {
-                  "name": "Ιερά Μονή Παναγίας Χρυσοκουρδαλιώτισσας",
+                  "name": "Iera Mone Panagias Khrusokourdaliotissas",
                   "text": "Ein historisches Kloster im Spilia-Tal auf Zypern.",
                   "category": "landmark",
                   "coords": [
@@ -3086,7 +3086,7 @@ export const cyprusReliefV2: POI[] = [
       ],
       "hu": [
             {
-                  "name": "Ιερά Μονή Παναγίας Χρυσοκουρδαλιώτισσας",
+                  "name": "Iera Mone Panagias Khrusokourdaliotissas",
                   "text": "Történelmi kolostor a ciprusi Spilia-völgyben.",
                   "category": "landmark",
                   "coords": [
@@ -3097,7 +3097,7 @@ export const cyprusReliefV2: POI[] = [
       ],
       "ro": [
             {
-                  "name": "Ιερά Μονή Παναγίας Χρυσοκουρδαλιώτισσας",
+                  "name": "Iera Mone Panagias Khrusokourdaliotissas",
                   "text": "O mănăstire istorică în Valea Spilia din Cipru.",
                   "category": "landmark",
                   "coords": [
@@ -3183,7 +3183,7 @@ export const cyprusReliefV2: POI[] = [
                   ]
             },
             {
-                  "name": "Ιερά Μονή Παναγίας Χρυσοκουρδαλιώτισσας",
+                  "name": "Iera Mone Panagias Khrusokourdaliotissas",
                   "text": "Dieses Kloster im Platania-Tal ist ein bedeutendes religiöses Denkmal der Region.",
                   "category": "landmark",
                   "coords": [
@@ -3221,7 +3221,7 @@ export const cyprusReliefV2: POI[] = [
                   ]
             },
             {
-                  "name": "Ιερά Μονή Παναγίας Χρυσοκουρδαλιώτισσας",
+                  "name": "Iera Mone Panagias Khrusokourdaliotissas",
                   "text": "Ez a Platania-völgyi kolostor a régió egyik jelentős vallási műemléke.",
                   "category": "landmark",
                   "coords": [
@@ -3259,7 +3259,7 @@ export const cyprusReliefV2: POI[] = [
                   ]
             },
             {
-                  "name": "Ιερά Μονή Παναγίας Χρυσοκουρδαλιώτισσας",
+                  "name": "Iera Mone Panagias Khrusokourdaliotissas",
                   "text": "Această mănăstire din Valea Platania este un monument religios important al regiunii.",
                   "category": "landmark",
                   "coords": [
@@ -3390,7 +3390,7 @@ export const cyprusReliefV2: POI[] = [
                   ]
             },
             {
-                  "name": "Παναγία Ποδίθου",
+                  "name": "Panagia Podithou",
                   "text": "Eine historische Kirche im Karkotis-Tal, die zum UNESCO-Weltkulturerbe gehört.",
                   "category": "landmark",
                   "coords": [
@@ -3428,7 +3428,7 @@ export const cyprusReliefV2: POI[] = [
                   ]
             },
             {
-                  "name": "Παναγία Ποδίθου",
+                  "name": "Panagia Podithou",
                   "text": "Történelmi templom a Karkotis-völgyben, az UNESCO Világörökség része.",
                   "category": "landmark",
                   "coords": [
@@ -3466,7 +3466,7 @@ export const cyprusReliefV2: POI[] = [
                   ]
             },
             {
-                  "name": "Παναγία Ποδίθου",
+                  "name": "Panagia Podithou",
                   "text": "O biserică istorică din Valea Karkotis, parte a patrimoniului mondial UNESCO.",
                   "category": "landmark",
                   "coords": [
@@ -3561,7 +3561,7 @@ export const cyprusReliefV2: POI[] = [
     id: "cyprus-xeros-valley-relief-v2", "sights": {
       "de": [
             {
-                  "name": "Άγιος Φώτιος",
+                  "name": "Agios Photios",
                   "text": "Eine historische Stätte oder Kapelle im Xeros-Tal auf Zypern.",
                   "category": "landmark",
                   "coords": [
@@ -3572,7 +3572,7 @@ export const cyprusReliefV2: POI[] = [
       ],
       "hu": [
             {
-                  "name": "Άγιος Φώτιος",
+                  "name": "Agios Photios",
                   "text": "Történelmi helyszín vagy kápolna a ciprusi Xeros-völgyben.",
                   "category": "landmark",
                   "coords": [
@@ -3583,7 +3583,7 @@ export const cyprusReliefV2: POI[] = [
       ],
       "ro": [
             {
-                  "name": "Άγιος Φώτιος",
+                  "name": "Agios Photios",
                   "text": "Un sit istoric sau o capelă în Valea Xeros din Cipru.",
                   "category": "landmark",
                   "coords": [
@@ -3786,7 +3786,7 @@ export const cyprusReliefV2: POI[] = [
     id: "cyprus-gourri-valley-relief-v2", "sights": {
       "de": [
             {
-                  "name": "Εθνολογικό Μουσείο Φικάρδου",
+                  "name": "Ethnologiko Mouseio Phikardou",
                   "text": "Ein Museum in einem traditionellen zypriotischen Dorf, das das ländliche Leben und die Architektur zeigt.",
                   "category": "museum",
                   "coords": [
@@ -3797,7 +3797,7 @@ export const cyprusReliefV2: POI[] = [
       ],
       "hu": [
             {
-                  "name": "Εθνολογικό Μουσείο Φικάρδου",
+                  "name": "Ethnologiko Mouseio Phikardou",
                   "text": "Ciprusi falumúzeum, amely a vidéki életet és a hagyományos építészetet mutatja be.",
                   "category": "museum",
                   "coords": [
@@ -3808,7 +3808,7 @@ export const cyprusReliefV2: POI[] = [
       ],
       "ro": [
             {
-                  "name": "Εθνολογικό Μουσείο Φικάρδου",
+                  "name": "Ethnologiko Mouseio Phikardou",
                   "text": "Un muzeu într-un sat tradițional cipriot, care prezintă viața rurală și arhitectura locală.",
                   "category": "museum",
                   "coords": [
@@ -4299,7 +4299,7 @@ export const cyprusReliefV2: POI[] = [
     id: "cyprus-laona-plateau-relief-v2", "sights": {
       "de": [
             {
-                  "name": "Κέντρο Πληροφόρησης Γεωλογίας Παλαιοντολογίας Ακάμα",
+                  "name": "Kentro Plerophoreses Geologias Palaiontologias Akama",
                   "text": "Ein Informationszentrum auf dem Laona-Plateau, das sich mit der Geologie und Paläontologie der Akamas-Region befasst.",
                   "category": "museum",
                   "coords": [
@@ -4337,7 +4337,7 @@ export const cyprusReliefV2: POI[] = [
       ],
       "hu": [
             {
-                  "name": "Κέντρο Πληροφόρησης Γεωλογίας Παλαιοντολογίας Ακάμα",
+                  "name": "Kentro Plerophoreses Geologias Palaiontologias Akama",
                   "text": "Az Akamasz-félsziget geológiáját és őslénytanát bemutató információs központ a Laona-fennsíkon.",
                   "category": "museum",
                   "coords": [
@@ -4375,7 +4375,7 @@ export const cyprusReliefV2: POI[] = [
       ],
       "ro": [
             {
-                  "name": "Κέντρο Πληροφόρησης Γεωλογίας Παλαιοντολογίας Ακάμα",
+                  "name": "Kentro Plerophoreses Geologias Palaiontologias Akama",
                   "text": "Un centru de informare pe platoul Laona care prezintă geologia și paleontologia regiunii Akamas.",
                   "category": "museum",
                   "coords": [
@@ -4506,7 +4506,7 @@ export const cyprusReliefV2: POI[] = [
                   ]
             },
             {
-                  "name": "Εκκλησιαστικό Μουσείο και Μουσείο Αμπελουργίας στο χωριό Κοιλάνι",
+                  "name": "Ekklesiastiko Mouseio kai Mouseio Ampelourgias sto khorio Koilani",
                   "text": "Dieses Museum mit zwei Themenbereichen erkundet das religiöse Erbe und die lange Weinbautradition der Region.",
                   "category": "museum",
                   "coords": [
@@ -4553,7 +4553,7 @@ export const cyprusReliefV2: POI[] = [
                   ]
             },
             {
-                  "name": "Εκκλησιαστικό Μουσείο και Μουσείο Αμπελουργίας στο χωριό Κοιλάνι",
+                  "name": "Ekklesiastiko Mouseio kai Mouseio Ampelourgias sto khorio Koilani",
                   "text": "Ez a kettős tematikájú múzeum a régió vallási örökségét és hosszú borászati hagyományait tárja fel.",
                   "category": "museum",
                   "coords": [
@@ -4600,7 +4600,7 @@ export const cyprusReliefV2: POI[] = [
                   ]
             },
             {
-                  "name": "Εκκλησιαστικό Μουσείο και Μουσείο Αμπελουργίας στο χωριό Κοιλάνι",
+                  "name": "Ekklesiastiko Mouseio kai Mouseio Ampelourgias sto khorio Koilani",
                   "text": "Acest muzeu cu tematică dublă explorează moștenirea religioasă și tradiția îndelungată a vinificației din regiune.",
                   "category": "museum",
                   "coords": [
@@ -4911,7 +4911,7 @@ export const cyprusReliefV2: POI[] = [
     id: "cyprus-krasochoria-hills-relief-v2", "sights": {
       "de": [
             {
-                  "name": "Μουσείο Αλευρομύλου",
+                  "name": "Mouseio Aleuromulou",
                   "text": "Ein Museum in den zyprischen Bergen, das die traditionelle Olivenölproduktion zeigt.",
                   "category": "museum",
                   "coords": [
@@ -4920,7 +4920,7 @@ export const cyprusReliefV2: POI[] = [
                   ]
             },
             {
-                  "name": "Ο σπήλιος του Χατζηρόσου",
+                  "name": "O spelios tou Khatzerosou",
                   "text": "Eine archäologische Fundstätte in einer natürlichen Höhle in den Krasochoria-Hügeln.",
                   "category": "historical",
                   "coords": [
@@ -4938,7 +4938,7 @@ export const cyprusReliefV2: POI[] = [
                   ]
             },
             {
-                  "name": "Εκκλησιαστικό Μουσείο και Μουσείο Αμπελουργίας στο χωριό Κοιλάνι",
+                  "name": "Ekklesiastiko Mouseio kai Mouseio Ampelourgias sto khorio Koilani",
                   "text": "Museen in Zypern, die sich der Kirchengeschichte und dem Weinbau der Region widmen.",
                   "category": "museum",
                   "coords": [
@@ -4958,7 +4958,7 @@ export const cyprusReliefV2: POI[] = [
       ],
       "hu": [
             {
-                  "name": "Μουσείο Αλευρομύλου",
+                  "name": "Mouseio Aleuromulou",
                   "text": "Múzeum a ciprusi hegyekben, amely a hagyományos olívaolaj-termelést mutatja be.",
                   "category": "museum",
                   "coords": [
@@ -4967,7 +4967,7 @@ export const cyprusReliefV2: POI[] = [
                   ]
             },
             {
-                  "name": "Ο σπήλιος του Χατζηρόσου",
+                  "name": "O spelios tou Khatzerosou",
                   "text": "Régészeti lelőhely egy természetes barlangban a Krasochoria-dombságban.",
                   "category": "historical",
                   "coords": [
@@ -4985,7 +4985,7 @@ export const cyprusReliefV2: POI[] = [
                   ]
             },
             {
-                  "name": "Εκκλησιαστικό Μουσείο και Μουσείο Αμπελουργίας στο χωριό Κοιλάνι",
+                  "name": "Ekklesiastiko Mouseio kai Mouseio Ampelourgias sto khorio Koilani",
                   "text": "Ciprusi múzeumok, amelyek az egyháztörténetnek és a régió borászatának szentelték magukat.",
                   "category": "museum",
                   "coords": [
@@ -5005,7 +5005,7 @@ export const cyprusReliefV2: POI[] = [
       ],
       "ro": [
             {
-                  "name": "Μουσείο Αλευρομύλου",
+                  "name": "Mouseio Aleuromulou",
                   "text": "Un muzeu din munții Ciprului care prezintă producția tradițională de ulei de măsline.",
                   "category": "museum",
                   "coords": [
@@ -5014,7 +5014,7 @@ export const cyprusReliefV2: POI[] = [
                   ]
             },
             {
-                  "name": "Ο σπήλιος του Χατζηρόσου",
+                  "name": "O spelios tou Khatzerosou",
                   "text": "Un sit arheologic într-o peșteră naturală din dealurile Krasochoria.",
                   "category": "historical",
                   "coords": [
@@ -5032,7 +5032,7 @@ export const cyprusReliefV2: POI[] = [
                   ]
             },
             {
-                  "name": "Εκκλησιαστικό Μουσείο και Μουσείο Αμπελουργίας στο χωριό Κοιλάνι",
+                  "name": "Ekklesiastiko Mouseio kai Mouseio Ampelourgias sto khorio Koilani",
                   "text": "Muzee din Cipru dedicate istoriei bisericești și viticulturii din regiune.",
                   "category": "museum",
                   "coords": [

@@ -96,7 +96,7 @@ export const bulgariaLifeV2: POI[] = [
     id: "bulgaria-srebarna-reserve-life-v2", "sights": {
       "de": [
             {
-                  "name": "Природен резерват Сребърна",
+                  "name": "Priroden rezervat Sreb'rna",
                   "text": "Dieses UNESCO-Weltnaturerbe umfasst einen Süßwassersee und ist ein wichtiges Brutgebiet für zahlreiche Vogelarten.",
                   "category": "natural",
                   "coords": [
@@ -107,7 +107,7 @@ export const bulgariaLifeV2: POI[] = [
       ],
       "hu": [
             {
-                  "name": "Природен резерват Сребърна",
+                  "name": "Priroden rezervat Sreb'rna",
                   "text": "Ez az UNESCO világörökségi helyszín egy édesvízi tavat foglal magában, és számos madárfaj fontos fészkelőhelye.",
                   "category": "natural",
                   "coords": [
@@ -118,7 +118,7 @@ export const bulgariaLifeV2: POI[] = [
       ],
       "ro": [
             {
-                  "name": "Природен резерват Сребърна",
+                  "name": "Priroden rezervat Sreb'rna",
                   "text": "Acest sit din patrimoniul mondial UNESCO cuprinde un lac de apă dulce și este o arie importantă de cuibărit pentru numeroase specii de păsări.",
                   "category": "natural",
                   "coords": [
@@ -186,7 +186,7 @@ export const bulgariaLifeV2: POI[] = [
     id: "bulgaria-vitosha-nature-park-life-v2", "sights": {
       "de": [
             {
-                  "name": "Торфено бранище",
+                  "name": "Torfeno branishche",
                   "text": "Ein Naturschutzgebiet am Witoscha-Gebirge, berühmt für seine ausgedehnten Torfmoore und subalpine Flora.",
                   "category": "natural",
                   "coords": [
@@ -195,7 +195,7 @@ export const bulgariaLifeV2: POI[] = [
                   ]
             },
             {
-                  "name": "Златните мостове",
+                  "name": "Zlatnite mostove",
                   "text": "Eine berühmte Attraktion im Naturpark Witoscha, bekannt für ihren beeindruckenden „Steinernen Fluss“ aus großen Felsbrocken.",
                   "category": "landmark",
                   "coords": [
@@ -204,7 +204,7 @@ export const bulgariaLifeV2: POI[] = [
                   ]
             },
             {
-                  "name": "Острица",
+                  "name": "Ostritsa",
                   "text": "Ein malerischer Aussichtspunkt im Naturpark Witoscha mit Panoramablick auf die umliegenden Berge.",
                   "category": "natural",
                   "coords": [
@@ -224,7 +224,7 @@ export const bulgariaLifeV2: POI[] = [
       ],
       "hu": [
             {
-                  "name": "Торфено бранище",
+                  "name": "Torfeno branishche",
                   "text": "Természetvédelmi terület a Vitosa-hegyen, amely kiterjedt tőzeglápjairól és szubalpin flórájáról híres.",
                   "category": "natural",
                   "coords": [
@@ -233,7 +233,7 @@ export const bulgariaLifeV2: POI[] = [
                   ]
             },
             {
-                  "name": "Златните мостове",
+                  "name": "Zlatnite mostove",
                   "text": "A Vitosa Natúrpark híres látványossága, amely a hatalmas sziklákból álló „kőfolyójáról” ismert.",
                   "category": "landmark",
                   "coords": [
@@ -242,7 +242,7 @@ export const bulgariaLifeV2: POI[] = [
                   ]
             },
             {
-                  "name": "Острица",
+                  "name": "Ostritsa",
                   "text": "Festői kilátópont a Vitosa Natúrparkban, ahonnan panorámás kilátás nyílik a környező hegyekre.",
                   "category": "natural",
                   "coords": [
@@ -262,7 +262,7 @@ export const bulgariaLifeV2: POI[] = [
       ],
       "ro": [
             {
-                  "name": "Торфено бранище",
+                  "name": "Torfeno branishche",
                   "text": "O rezervație naturală pe muntele Vitoșa, faimoasă pentru mlaștinile sale de turbă și flora subalpină.",
                   "category": "natural",
                   "coords": [
@@ -271,7 +271,7 @@ export const bulgariaLifeV2: POI[] = [
                   ]
             },
             {
-                  "name": "Златните мостове",
+                  "name": "Zlatnite mostove",
                   "text": "O atracție faimoasă în Parcul Natural Vitoșa, cunoscută pentru impresionantul său „râu de piatră” format din bolovani mari.",
                   "category": "landmark",
                   "coords": [
@@ -280,7 +280,7 @@ export const bulgariaLifeV2: POI[] = [
                   ]
             },
             {
-                  "name": "Острица",
+                  "name": "Ostritsa",
                   "text": "Un punct de belvedere pitoresc în Parcul Natural Vitoșa, oferind vederi panoramice asupra munților din jur.",
                   "category": "natural",
                   "coords": [
@@ -384,7 +384,7 @@ export const bulgariaLifeV2: POI[] = [
     id: "bulgaria-rusenski-lom-park-life-v2", "sights": {
       "de": [
             {
-                  "name": "Средновековен град \"Червен\"",
+                  "name": "Srednovekoven grad \"Cherven\"",
                   "text": "Ruinen einer bedeutenden mittelalterlichen bulgarischen Stadt und Festung.",
                   "category": "landmark",
                   "coords": [
@@ -395,7 +395,7 @@ export const bulgariaLifeV2: POI[] = [
       ],
       "hu": [
             {
-                  "name": "Средновековен град \"Червен\"",
+                  "name": "Srednovekoven grad \"Cherven\"",
                   "text": "Egy jelentős középkori bolgár város és erőd romjai.",
                   "category": "landmark",
                   "coords": [
@@ -406,7 +406,7 @@ export const bulgariaLifeV2: POI[] = [
       ],
       "ro": [
             {
-                  "name": "Средновековен град \"Червен\"",
+                  "name": "Srednovekoven grad \"Cherven\"",
                   "text": "Ruinele unui important oraș și cetăți bulgare medievale.",
                   "category": "landmark",
                   "coords": [
@@ -474,7 +474,7 @@ export const bulgariaLifeV2: POI[] = [
     id: "bulgaria-silkosia-reserve-life-v2", "sights": {
       "de": [
             {
-                  "name": "Резерват Силкосия",
+                  "name": "Rezervat Silkosiia",
                   "text": "Das älteste Naturschutzgebiet Bulgariens, gelegen im Strandscha-Gebirge.",
                   "category": "natural",
                   "coords": [
@@ -485,7 +485,7 @@ export const bulgariaLifeV2: POI[] = [
       ],
       "hu": [
             {
-                  "name": "Резерват Силкосия",
+                  "name": "Rezervat Silkosiia",
                   "text": "Bulgária legrégebbi természetvédelmi területe a Sztrandzsa-hegységben.",
                   "category": "natural",
                   "coords": [
@@ -496,7 +496,7 @@ export const bulgariaLifeV2: POI[] = [
       ],
       "ro": [
             {
-                  "name": "Резерват Силкосия",
+                  "name": "Rezervat Silkosiia",
                   "text": "Cea mai veche rezervație naturală din Bulgaria, situată în munții Strandja.",
                   "category": "natural",
                   "coords": [
@@ -789,7 +789,7 @@ export const bulgariaLifeV2: POI[] = [
     id: "bulgaria-rosen-park-life-v2", "sights": {
       "de": [
             {
-                  "name": "Музей на розата",
+                  "name": "Muzei na rozata",
                   "text": "Ein Museum in Kasanlak, das der Geschichte der Ölrose gewidmet ist.",
                   "category": "museum",
                   "coords": [
@@ -807,7 +807,7 @@ export const bulgariaLifeV2: POI[] = [
                   ]
             },
             {
-                  "name": "Исторически Музей Искра Казанлък",
+                  "name": "Istoricheski Muzei Iskra Kazanl'k",
                   "text": "Eines der ältesten historischen Museen Bulgariens in Kasanlak.",
                   "category": "museum",
                   "coords": [
@@ -816,7 +816,7 @@ export const bulgariaLifeV2: POI[] = [
                   ]
             },
             {
-                  "name": "Литературно-художовествен мусей Чудомир",
+                  "name": "Literaturno-khudozhovestven musei Chudomir",
                   "text": "Ein Museum in Kasanlak, das dem Werk des Dichters und Malers Tschudomir gewidmet ist.",
                   "category": "museum",
                   "coords": [
@@ -825,7 +825,7 @@ export const bulgariaLifeV2: POI[] = [
                   ]
             },
             {
-                  "name": "Тюлбето",
+                  "name": "Tiulbeto",
                   "text": "Ein bewaldeter Stadtpark in Kasanlak, in dem sich das thrakische Grabmal befindet.",
                   "category": "park",
                   "coords": [
@@ -834,7 +834,7 @@ export const bulgariaLifeV2: POI[] = [
                   ]
             },
             {
-                  "name": "Евро монумент",
+                  "name": "Evro monument",
                   "text": "Ein Denkmal in Kasanlak, das der europäischen Gemeinschaft gewidmet ist.",
                   "category": "historical",
                   "coords": [
@@ -845,7 +845,7 @@ export const bulgariaLifeV2: POI[] = [
       ],
       "hu": [
             {
-                  "name": "Музей на розата",
+                  "name": "Muzei na rozata",
                   "text": "Kazanlak múzeuma, amely az olajrózsa termesztésének történetét mutatja be.",
                   "category": "museum",
                   "coords": [
@@ -854,7 +854,7 @@ export const bulgariaLifeV2: POI[] = [
                   ]
             },
             {
-                  "name": "Тракийска гробница",
+                  "name": "Trakiiska grobnitsa",
                   "text": "UNESCO világörökségi helyszín ókori trák falfestményekkel.",
                   "category": "historical",
                   "coords": [
@@ -863,7 +863,7 @@ export const bulgariaLifeV2: POI[] = [
                   ]
             },
             {
-                  "name": "Исторически Музей Искра Казанлък",
+                  "name": "Istoricheski Muzei Iskra Kazanl'k",
                   "text": "Bulgária egyik legrégebbi történelmi múzeuma Kazanlakban.",
                   "category": "museum",
                   "coords": [
@@ -872,7 +872,7 @@ export const bulgariaLifeV2: POI[] = [
                   ]
             },
             {
-                  "name": "Литературно-художовествен мусей Чудомир",
+                  "name": "Literaturno-khudozhovestven musei Chudomir",
                   "text": "Cudomir költő és festő munkásságának szentelt múzeum Kazanlakban.",
                   "category": "museum",
                   "coords": [
@@ -881,7 +881,7 @@ export const bulgariaLifeV2: POI[] = [
                   ]
             },
             {
-                  "name": "Тюлбето",
+                  "name": "Tiulbeto",
                   "text": "Erdős városi park Kazanlakban, ahol a trák síremlék is található.",
                   "category": "park",
                   "coords": [
@@ -890,7 +890,7 @@ export const bulgariaLifeV2: POI[] = [
                   ]
             },
             {
-                  "name": "Евро монумент",
+                  "name": "Evro monument",
                   "text": "Az európai közösségnek szentelt emlékmű Kazanlakban.",
                   "category": "historical",
                   "coords": [
@@ -901,7 +901,7 @@ export const bulgariaLifeV2: POI[] = [
       ],
       "ro": [
             {
-                  "name": "Музей на розата",
+                  "name": "Muzei na rozata",
                   "text": "Un muzeu din Kazanlak dedicat istoriei trandafirului de ulei.",
                   "category": "museum",
                   "coords": [
@@ -910,7 +910,7 @@ export const bulgariaLifeV2: POI[] = [
                   ]
             },
             {
-                  "name": "Тракийска гробница",
+                  "name": "Trakiiska grobnitsa",
                   "text": "Un sit inclus în patrimoniul UNESCO, faimos pentru picturile murale trace antice.",
                   "category": "historical",
                   "coords": [
@@ -919,7 +919,7 @@ export const bulgariaLifeV2: POI[] = [
                   ]
             },
             {
-                  "name": "Исторически Музей Искра Казанлък",
+                  "name": "Istoricheski Muzei Iskra Kazanl'k",
                   "text": "Unul dintre cele mai vechi muzee de istorie din Bulgaria, situat în Kazanlak.",
                   "category": "museum",
                   "coords": [
@@ -928,7 +928,7 @@ export const bulgariaLifeV2: POI[] = [
                   ]
             },
             {
-                  "name": "Литературно-художовествен мусей Чудомир",
+                  "name": "Literaturno-khudozhovestven musei Chudomir",
                   "text": "Un muzeu în Kazanlak dedicat operei poetului și pictorului Ciudomir.",
                   "category": "museum",
                   "coords": [
@@ -937,7 +937,7 @@ export const bulgariaLifeV2: POI[] = [
                   ]
             },
             {
-                  "name": "Тюлбето",
+                  "name": "Tiulbeto",
                   "text": "Un parc urban împădurit în Kazanlak, unde se află mormântul trac.",
                   "category": "park",
                   "coords": [
@@ -946,7 +946,7 @@ export const bulgariaLifeV2: POI[] = [
                   ]
             },
             {
-                  "name": "Евро монумент",
+                  "name": "Evro monument",
                   "text": "Un monument în Kazanlak dedicat comunității europene.",
                   "category": "historical",
                   "coords": [
@@ -1311,7 +1311,7 @@ export const bulgariaLifeV2: POI[] = [
                   ]
             },
             {
-                  "name": "Резерват Камчия",
+                  "name": "Rezervat Kamchiia",
                   "text": "Ein Naturschutzgebiet an der bulgarischen Schwarzmeerküste, bekannt für seine dichten Wälder.",
                   "category": "natural",
                   "coords": [
@@ -1320,7 +1320,7 @@ export const bulgariaLifeV2: POI[] = [
                   ]
             },
             {
-                  "name": "Камчия",
+                  "name": "Kamchiia",
                   "text": "Ein weitläufiger Sandstrand an der Mündung des Flusses Kamtschiya ins Schwarze Meer.",
                   "category": "recreational",
                   "coords": [
@@ -1329,7 +1329,7 @@ export const bulgariaLifeV2: POI[] = [
                   ]
             },
             {
-                  "name": "Шкорпиловци",
+                  "name": "Shkorpilovtsi",
                   "text": "Ein langer Sandstrand am Schwarzen Meer, südlich des Kamchia-Reservats gelegen.",
                   "category": "recreational",
                   "coords": [
@@ -1338,7 +1338,7 @@ export const bulgariaLifeV2: POI[] = [
                   ]
             },
             {
-                  "name": "Лястовица бяла клуб",
+                  "name": "Liastovitsa biala klub",
                   "text": "Eine Attraktion im Kamchia-Reservat, die Freizeitaktivitäten für Besucher bietet.",
                   "category": "landmark",
                   "coords": [
@@ -1367,7 +1367,7 @@ export const bulgariaLifeV2: POI[] = [
                   ]
             },
             {
-                  "name": "Резерват Камчия",
+                  "name": "Rezervat Kamchiia",
                   "text": "Természetvédelmi terület a bolgár tengerparton, amely sűrű ártéri erdőiről ismert.",
                   "category": "natural",
                   "coords": [
@@ -1376,7 +1376,7 @@ export const bulgariaLifeV2: POI[] = [
                   ]
             },
             {
-                  "name": "Камчия",
+                  "name": "Kamchiia",
                   "text": "Tágas homokos tengerpart a Kamcsija-folyó fekete-tengeri torkolatánál.",
                   "category": "recreational",
                   "coords": [
@@ -1385,7 +1385,7 @@ export const bulgariaLifeV2: POI[] = [
                   ]
             },
             {
-                  "name": "Шкорпиловци",
+                  "name": "Shkorpilovtsi",
                   "text": "Hosszú homokos tengerpart a Fekete-tengernél, a Kamcsija-rezervátumtól délre.",
                   "category": "recreational",
                   "coords": [
@@ -1394,7 +1394,7 @@ export const bulgariaLifeV2: POI[] = [
                   ]
             },
             {
-                  "name": "Лястовица бяла клуб",
+                  "name": "Liastovitsa biala klub",
                   "text": "Látványosság a Kamcsija-rezervátum közelében, amely kikapcsolódási lehetőséget kínál.",
                   "category": "landmark",
                   "coords": [
@@ -1423,7 +1423,7 @@ export const bulgariaLifeV2: POI[] = [
                   ]
             },
             {
-                  "name": "Резерват Камчия",
+                  "name": "Rezervat Kamchiia",
                   "text": "O rezervație naturală la malul mării din Bulgaria, cunoscută pentru pădurile sale dense.",
                   "category": "natural",
                   "coords": [
@@ -1432,7 +1432,7 @@ export const bulgariaLifeV2: POI[] = [
                   ]
             },
             {
-                  "name": "Камчия",
+                  "name": "Kamchiia",
                   "text": "O plajă întinsă cu nisip la gura de vărsare a râului Kamchia în Marea Neagră.",
                   "category": "recreational",
                   "coords": [
@@ -1441,7 +1441,7 @@ export const bulgariaLifeV2: POI[] = [
                   ]
             },
             {
-                  "name": "Шкорпиловци",
+                  "name": "Shkorpilovtsi",
                   "text": "O plajă lungă cu nisip la Marea Neagră, situată la sud de rezervația Kamchia.",
                   "category": "recreational",
                   "coords": [
@@ -1450,7 +1450,7 @@ export const bulgariaLifeV2: POI[] = [
                   ]
             },
             {
-                  "name": "Лястовица бяла клуб",
+                  "name": "Liastovitsa biala klub",
                   "text": "O atracție în zona rezervației Kamchia, care oferă facilități de recreere.",
                   "category": "landmark",
                   "coords": [
@@ -1563,7 +1563,7 @@ export const bulgariaLifeV2: POI[] = [
     id: "bulgaria-bistritsa-forest-life-v2", "sights": {
       "de": [
             {
-                  "name": "Крепост Урвич",
+                  "name": "Krepost Urvich",
                   "text": "Die Ruinen einer mittelalterlichen Festung im Bistritsa-Wald.",
                   "category": "castle",
                   "coords": [
@@ -1572,7 +1572,7 @@ export const bulgariaLifeV2: POI[] = [
                   ]
             },
             {
-                  "name": "Аквапарк Корали",
+                  "name": "Akvapark Korali",
                   "text": "Ein Wasserpark mit Pool und Bar im Bistritsa-Wald, ideal zur Entspannung.",
                   "category": "recreational",
                   "coords": [
@@ -1581,7 +1581,7 @@ export const bulgariaLifeV2: POI[] = [
                   ]
             },
             {
-                  "name": "Кактусите",
+                  "name": "Kaktusite",
                   "text": "Eine lokale Attraktion im Bistritsa-Wald für Besucher der Region.",
                   "category": "landmark",
                   "coords": [
@@ -1592,7 +1592,7 @@ export const bulgariaLifeV2: POI[] = [
       ],
       "hu": [
             {
-                  "name": "Крепост Урвич",
+                  "name": "Krepost Urvich",
                   "text": "Egy középkori erőd romjai a Bisztrica-erdőben.",
                   "category": "castle",
                   "coords": [
@@ -1601,7 +1601,7 @@ export const bulgariaLifeV2: POI[] = [
                   ]
             },
             {
-                  "name": "Аквапарк Корали",
+                  "name": "Akvapark Korali",
                   "text": "Vízipark medencével és bárral a Bisztrica-erdőben, ideális a kikapcsolódásra.",
                   "category": "recreational",
                   "coords": [
@@ -1610,7 +1610,7 @@ export const bulgariaLifeV2: POI[] = [
                   ]
             },
             {
-                  "name": "Кактусите",
+                  "name": "Kaktusite",
                   "text": "Helyi látványosság a Bisztrica-erdőben a régió látogatói számára.",
                   "category": "landmark",
                   "coords": [
@@ -1621,7 +1621,7 @@ export const bulgariaLifeV2: POI[] = [
       ],
       "ro": [
             {
-                  "name": "Крепост Урвич",
+                  "name": "Krepost Urvich",
                   "text": "Ruinele unei cetăți medievale situate în pădurea Bistrița.",
                   "category": "castle",
                   "coords": [
@@ -1630,7 +1630,7 @@ export const bulgariaLifeV2: POI[] = [
                   ]
             },
             {
-                  "name": "Аквапарк Корали",
+                  "name": "Akvapark Korali",
                   "text": "Un parc acvatic cu piscină și bar în pădurea Bistrița, ideal pentru relaxare.",
                   "category": "recreational",
                   "coords": [
@@ -1639,7 +1639,7 @@ export const bulgariaLifeV2: POI[] = [
                   ]
             },
             {
-                  "name": "Кактусите",
+                  "name": "Kaktusite",
                   "text": "O atracție locală în pădurea Bistrița pentru vizitatorii regiunii.",
                   "category": "landmark",
                   "coords": [
@@ -1887,7 +1887,7 @@ export const bulgariaLifeV2: POI[] = [
                   ]
             },
             {
-                  "name": "Аладжа манастир",
+                  "name": "Aladzha manastir",
                   "text": "Ein mittelalterliches christliches Höhlenkloster im Naturpark Goldstrand.",
                   "category": "museum",
                   "coords": [
@@ -1896,7 +1896,7 @@ export const bulgariaLifeV2: POI[] = [
                   ]
             },
             {
-                  "name": "Летен театър",
+                  "name": "Leten teat'r",
                   "text": "Ein Freilichttheater im Naturpark Goldstrand.",
                   "category": "cultural",
                   "coords": [
@@ -1914,7 +1914,7 @@ export const bulgariaLifeV2: POI[] = [
                   ]
             },
             {
-                  "name": "Плаж Нирвана",
+                  "name": "Plazh Nirvana",
                   "text": "Ein FKK-Strand im nördlichen Teil des Goldstrands.",
                   "category": "recreational",
                   "coords": [
@@ -1923,7 +1923,7 @@ export const bulgariaLifeV2: POI[] = [
                   ]
             },
             {
-                  "name": "плаж Кабакум Юг",
+                  "name": "plazh Kabakum Iug",
                   "text": "Ein Sandstrand südlich des Hauptgebiets vom Goldstrand.",
                   "category": "recreational",
                   "coords": [
@@ -1932,7 +1932,7 @@ export const bulgariaLifeV2: POI[] = [
                   ]
             },
             {
-                  "name": "плаж Лотос",
+                  "name": "plazh Lotos",
                   "text": "Ein ruhiger Strandabschnitt im Naturpark Goldstrand.",
                   "category": "recreational",
                   "coords": [
@@ -1970,7 +1970,7 @@ export const bulgariaLifeV2: POI[] = [
                   ]
             },
             {
-                  "name": "Аладжа манастир",
+                  "name": "Aladzha manastir",
                   "text": "Középkori keresztény sziklakolostor az Aranyhomok Natúrparkban.",
                   "category": "museum",
                   "coords": [
@@ -1979,7 +1979,7 @@ export const bulgariaLifeV2: POI[] = [
                   ]
             },
             {
-                  "name": "Летен театър",
+                  "name": "Leten teat'r",
                   "text": "Szabadtéri színház az Aranyhomok Natúrpark területén.",
                   "category": "cultural",
                   "coords": [
@@ -1997,7 +1997,7 @@ export const bulgariaLifeV2: POI[] = [
                   ]
             },
             {
-                  "name": "Плаж Нирвана",
+                  "name": "Plazh Nirvana",
                   "text": "Naturista strand az Aranyhomok északi részén.",
                   "category": "recreational",
                   "coords": [
@@ -2006,7 +2006,7 @@ export const bulgariaLifeV2: POI[] = [
                   ]
             },
             {
-                  "name": "плаж Кабакум Юг",
+                  "name": "plazh Kabakum Iug",
                   "text": "Homokos tengerpart az Aranyhomok fő területétől délre.",
                   "category": "recreational",
                   "coords": [
@@ -2015,7 +2015,7 @@ export const bulgariaLifeV2: POI[] = [
                   ]
             },
             {
-                  "name": "плаж Лотос",
+                  "name": "plazh Lotos",
                   "text": "Nyugodt tengerparti szakasz az Aranyhomok Natúrparkban.",
                   "category": "recreational",
                   "coords": [
@@ -2053,7 +2053,7 @@ export const bulgariaLifeV2: POI[] = [
                   ]
             },
             {
-                  "name": "Аладжа манастир",
+                  "name": "Aladzha manastir",
                   "text": "O mănăstire medievală rupestră situată în Parcul Natural Nisipurile de Aur.",
                   "category": "museum",
                   "coords": [
@@ -2062,7 +2062,7 @@ export const bulgariaLifeV2: POI[] = [
                   ]
             },
             {
-                  "name": "Летен театър",
+                  "name": "Leten teat'r",
                   "text": "Un teatru de vară situat în Parcul Natural Nisipurile de Aur.",
                   "category": "cultural",
                   "coords": [
@@ -2080,7 +2080,7 @@ export const bulgariaLifeV2: POI[] = [
                   ]
             },
             {
-                  "name": "Плаж Нирвана",
+                  "name": "Plazh Nirvana",
                   "text": "O plajă de nudiști situată în partea de nord a stațiunii Nisipurile de Aur.",
                   "category": "recreational",
                   "coords": [
@@ -2089,7 +2089,7 @@ export const bulgariaLifeV2: POI[] = [
                   ]
             },
             {
-                  "name": "плаж Кабакум Юг",
+                  "name": "plazh Kabakum Iug",
                   "text": "O plajă de nisip situată la sud de zona principală din Nisipurile de Aur.",
                   "category": "recreational",
                   "coords": [
@@ -2098,7 +2098,7 @@ export const bulgariaLifeV2: POI[] = [
                   ]
             },
             {
-                  "name": "плаж Лотос",
+                  "name": "plazh Lotos",
                   "text": "O secțiune liniștită de plajă în Parcul Natural Nisipurile de Aur.",
                   "category": "recreational",
                   "coords": [

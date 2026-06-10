@@ -60,7 +60,7 @@ export const montenegroReliefV2: POI[] = [
                   ]
             },
             {
-                  "name": "Краљичина плажа",
+                  "name": "Kraljichina plazha",
                   "text": "Ein exklusiver Strand in einer geschützten Bucht in der Nähe von Milocer.",
                   "category": "recreational",
                   "coords": [
@@ -134,7 +134,7 @@ export const montenegroReliefV2: POI[] = [
                   ]
             },
             {
-                  "name": "Краљичина плажа",
+                  "name": "Kraljichina plazha",
                   "text": "Exkluzív strand egy védett öbölben, Milocer közelében.",
                   "category": "recreational",
                   "coords": [

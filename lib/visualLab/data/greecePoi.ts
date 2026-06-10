@@ -84,7 +84,7 @@ export const greeceRegions: POI[] = [
     id: "city-athens", "sights": {
       "de": [
             {
-                  "name": "Αρχαϊκός ναός Διονύσου",
+                  "name": "Arkhaikos naos Dionusou",
                   "text": "Ruinen eines antiken Tempels, der dem Gott Dionysos gewidmet ist, in Athen.",
                   "category": "historical",
                   "coords": [
@@ -93,7 +93,7 @@ export const greeceRegions: POI[] = [
                   ]
             },
             {
-                  "name": "Δίπυλον",
+                  "name": "Dipulon",
                   "text": "Das Haupttor in der Stadtmauer des antiken Athen im Viertel Kerameikos.",
                   "category": "historical",
                   "coords": [
@@ -111,7 +111,7 @@ export const greeceRegions: POI[] = [
                   ]
             },
             {
-                  "name": "Κεντρική σκηνή",
+                  "name": "Kentrike skene",
                   "text": "Das renommierte Nationaltheater von Griechenland in einem historischen Gebäude in Athen.",
                   "category": "cultural",
                   "coords": [
@@ -129,7 +129,7 @@ export const greeceRegions: POI[] = [
                   ]
             },
             {
-                  "name": "Επιγραφικό μουσείο",
+                  "name": "Epigraphiko mouseio",
                   "text": "Ein Museum in Athen, das eine bedeutende Sammlung antiker griechischer Inschriften beherbergt.",
                   "category": "museum",
                   "coords": [
@@ -138,7 +138,7 @@ export const greeceRegions: POI[] = [
                   ]
             },
             {
-                  "name": "Θέατρο Βρετάνια",
+                  "name": "Theatro Bretania",
                   "text": "Ein zentrales Theater in Athen, in dem verschiedene Bühnenaufführungen stattfinden.",
                   "category": "cultural",
                   "coords": [
@@ -149,7 +149,7 @@ export const greeceRegions: POI[] = [
       ],
       "hu": [
             {
-                  "name": "Αρχαϊκός ναός Διονύσου",
+                  "name": "Arkhaikos naos Dionusou",
                   "text": "Dionüzosz istennek szentelt ókori templom romjai Athénban.",
                   "category": "historical",
                   "coords": [
@@ -158,7 +158,7 @@ export const greeceRegions: POI[] = [
                   ]
             },
             {
-                  "name": "Δίπυλον",
+                  "name": "Dipulon",
                   "text": "Az ókori Athén városfalának főkapuja a Kerameikosz negyedben.",
                   "category": "historical",
                   "coords": [
@@ -167,7 +167,7 @@ export const greeceRegions: POI[] = [
                   ]
             },
             {
-                  "name": "Αρχαιολογικός Χώρος Ακαδημίας Πλάτωνος",
+                  "name": "Arkhaiologikos Khoros Akademias Platonos",
                   "text": "A Platón által alapított híres ókori iskola régészeti maradványai Athénban.",
                   "category": "historical",
                   "coords": [
@@ -176,7 +176,7 @@ export const greeceRegions: POI[] = [
                   ]
             },
             {
-                  "name": "Κεντρική σκηνή",
+                  "name": "Kentrike skene",
                   "text": "Görögország rangos Nemzeti Színháza, amely egy történelmi épületben található Athénban.",
                   "category": "cultural",
                   "coords": [
@@ -185,7 +185,7 @@ export const greeceRegions: POI[] = [
                   ]
             },
             {
-                  "name": "Ιερό Έρωτα και Αφροδίτης",
+                  "name": "Iero Erota kai Aphrodites",
                   "text": "Erosznak és Aphroditénak szentelt ókori vallási helyszín az Akropolisz északi lejtőjén.",
                   "category": "historical",
                   "coords": [
@@ -194,7 +194,7 @@ export const greeceRegions: POI[] = [
                   ]
             },
             {
-                  "name": "Επιγραφικό μουσείο",
+                  "name": "Epigraphiko mouseio",
                   "text": "Athéni múzeum, amely az ókori görög feliratok jelentős gyűjteményének ad otthont.",
                   "category": "museum",
                   "coords": [
@@ -203,7 +203,7 @@ export const greeceRegions: POI[] = [
                   ]
             },
             {
-                  "name": "Θέατρο Βρετάνια",
+                  "name": "Theatro Bretania",
                   "text": "Központi színház Athénban, amely különféle színpadi előadásoknak ad otthont.",
                   "category": "cultural",
                   "coords": [
@@ -214,7 +214,7 @@ export const greeceRegions: POI[] = [
       ],
       "ro": [
             {
-                  "name": "Αρχαϊκός ναός Διονύσου",
+                  "name": "Arkhaikos naos Dionusou",
                   "text": "Ruinele unui templu antic dedicat zeului Dionysos din Atena.",
                   "category": "historical",
                   "coords": [
@@ -223,7 +223,7 @@ export const greeceRegions: POI[] = [
                   ]
             },
             {
-                  "name": "Δίπυλον",
+                  "name": "Dipulon",
                   "text": "Poarta principală din zidul orașului Atenei antice, situată în zona Kerameikos.",
                   "category": "historical",
                   "coords": [
@@ -232,7 +232,7 @@ export const greeceRegions: POI[] = [
                   ]
             },
             {
-                  "name": "Αρχαιολογικός Χώρος Ακαδημίας Πλάτωνος",
+                  "name": "Arkhaiologikos Khoros Akademias Platonos",
                   "text": "Vestigiile arheologice ale faimoasei școli fondate de Platon în Atena antică.",
                   "category": "historical",
                   "coords": [
@@ -241,7 +241,7 @@ export const greeceRegions: POI[] = [
                   ]
             },
             {
-                  "name": "Κεντρική σκηνή",
+                  "name": "Kentrike skene",
                   "text": "Prestigiul Teatru Național al Greciei, situat într-o clădire istorică din Atena.",
                   "category": "cultural",
                   "coords": [
@@ -250,7 +250,7 @@ export const greeceRegions: POI[] = [
                   ]
             },
             {
-                  "name": "Ιερό Έρωτα και Αφροδίτης",
+                  "name": "Iero Erota kai Aphrodites",
                   "text": "Un sit religios antic pe versantul nordic al Acropolei, dedicat lui Eros și Afroditei.",
                   "category": "historical",
                   "coords": [
@@ -259,7 +259,7 @@ export const greeceRegions: POI[] = [
                   ]
             },
             {
-                  "name": "Επιγραφικό μουσείο",
+                  "name": "Epigraphiko mouseio",
                   "text": "Un muzeu din Atena care găzduiește o colecție semnificativă de inscripții grecești antice.",
                   "category": "museum",
                   "coords": [
@@ -268,7 +268,7 @@ export const greeceRegions: POI[] = [
                   ]
             },
             {
-                  "name": "Θέατρο Βρετάνια",
+                  "name": "Theatro Bretania",
                   "text": "O sală de teatru centrală din Atena, care găzduiește diverse spectacole de scenă.",
                   "category": "cultural",
                   "coords": [

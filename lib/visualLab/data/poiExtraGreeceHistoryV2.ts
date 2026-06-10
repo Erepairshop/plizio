@@ -107,7 +107,7 @@ imageHint: "The Parthenon temple on the Acropolis of Athens",
                   ]
             },
             {
-                  "name": "Δελφοί",
+                  "name": "Delphoi",
                   "text": "Eine der bedeutendsten antiken Ausgrabungsstätten Griechenlands in Delphi.",
                   "category": "historical",
                   "coords": [
@@ -116,7 +116,7 @@ imageHint: "The Parthenon temple on the Acropolis of Athens",
                   ]
             },
             {
-                  "name": "Μουσείο Δελφών",
+                  "name": "Mouseio Delphon",
                   "text": "Dieses Museum in Delphi zeigt bedeutende Funde aus der antiken Ausgrabungsstätte.",
                   "category": "museum",
                   "coords": [
@@ -134,7 +134,7 @@ imageHint: "The Parthenon temple on the Acropolis of Athens",
                   ]
             },
             {
-                  "name": "Φρύνιχος",
+                  "name": "Phrunikhos",
                   "text": "Ein antikes Theatergebäude in der historischen Stätte von Delphi.",
                   "category": "cultural",
                   "coords": [
@@ -163,7 +163,7 @@ imageHint: "The Parthenon temple on the Acropolis of Athens",
                   ]
             },
             {
-                  "name": "Δελφοί",
+                  "name": "Delphoi",
                   "text": "Görögország egyik legjelentősebb ókori régészeti lelőhelye Delphoiban.",
                   "category": "historical",
                   "coords": [
@@ -172,7 +172,7 @@ imageHint: "The Parthenon temple on the Acropolis of Athens",
                   ]
             },
             {
-                  "name": "Μουσείο Δελφών",
+                  "name": "Mouseio Delphon",
                   "text": "Ez a delphoi múzeum az ókori régészeti lelőhely jelentős leleteit mutatja be.",
                   "category": "museum",
                   "coords": [
@@ -190,7 +190,7 @@ imageHint: "The Parthenon temple on the Acropolis of Athens",
                   ]
             },
             {
-                  "name": "Φρύνιχος",
+                  "name": "Phrunikhos",
                   "text": "Ókori színházépület Delphoi történelmi területén.",
                   "category": "cultural",
                   "coords": [
@@ -219,7 +219,7 @@ imageHint: "The Parthenon temple on the Acropolis of Athens",
                   ]
             },
             {
-                  "name": "Δελφοί",
+                  "name": "Delphoi",
                   "text": "Unul dintre cele mai importante situri arheologice antice din Grecia, la Delphi.",
                   "category": "historical",
                   "coords": [
@@ -228,7 +228,7 @@ imageHint: "The Parthenon temple on the Acropolis of Athens",
                   ]
             },
             {
-                  "name": "Μουσείο Δελφών",
+                  "name": "Mouseio Delphon",
                   "text": "Acest muzeu din Delphi expune descoperiri importante din situl arheologic antic.",
                   "category": "museum",
                   "coords": [
@@ -246,7 +246,7 @@ imageHint: "The Parthenon temple on the Acropolis of Athens",
                   ]
             },
             {
-                  "name": "Φρύνιχος",
+                  "name": "Phrunikhos",
                   "text": "O clădire de teatru antică în situl istoric de la Delphi.",
                   "category": "cultural",
                   "coords": [
@@ -378,7 +378,7 @@ imageHint: "Ancient ruins of Delphi with the Tholos of Athena",
                   ]
             },
             {
-                  "name": "Ιερό της Δήμητρας Χαμύνης",
+                  "name": "Iero tes Demetras Khamunes",
                   "text": "Ein antikes Heiligtum der Göttin Demeter, das sich in der Nähe des Stadions von Olympia befindet.",
                   "category": "historical",
                   "coords": [
@@ -425,7 +425,7 @@ imageHint: "Ancient ruins of Delphi with the Tholos of Athena",
       ],
       "hu": [
             {
-                  "name": "Σκιλλοῦς",
+                  "name": "Skillous",
                   "text": "Ókori városhelyszín Olümpia közelében, amely történelmileg Xenophón író lakhelyeként ismert.",
                   "category": "historical",
                   "coords": [
@@ -434,7 +434,7 @@ imageHint: "Ancient ruins of Delphi with the Tholos of Athena",
                   ]
             },
             {
-                  "name": "Ιερό της Δήμητρας Χαμύνης",
+                  "name": "Iero tes Demetras Khamunes",
                   "text": "Démétér istennőnek szentelt ókori szentély az olümpiai stadion közelében.",
                   "category": "historical",
                   "coords": [
@@ -443,7 +443,7 @@ imageHint: "Ancient ruins of Delphi with the Tholos of Athena",
                   ]
             },
             {
-                  "name": "Ναός της Ειλείθυιας",
+                  "name": "Naos tes Eileithuias",
                   "text": "Eileithüia szentélye Olümpia régészeti területén, a szülés istennőjének szentelve.",
                   "category": "historical",
                   "coords": [
@@ -452,7 +452,7 @@ imageHint: "Ancient ruins of Delphi with the Tholos of Athena",
                   ]
             },
             {
-                  "name": "Μουσείο της Ιστορίας των Ολυμπιακών Αγώνων της Αρχαιότητας",
+                  "name": "Mouseio tes Istorias ton Olumpiakon Agonon tes Arkhaiotetas",
                   "text": "Az ókori olimpiai játékok történetét bemutató múzeum Olümpiában.",
                   "category": "museum",
                   "coords": [
@@ -461,7 +461,7 @@ imageHint: "Ancient ruins of Delphi with the Tholos of Athena",
                   ]
             },
             {
-                  "name": "Προϊστορικό κτήριο",
+                  "name": "Proistoriko kterio",
                   "text": "Egy őskori épület maradványai Olümpia régészeti lelőhelyén.",
                   "category": "historical",
                   "coords": [
@@ -470,7 +470,7 @@ imageHint: "Ancient ruins of Delphi with the Tholos of Athena",
                   ]
             },
             {
-                  "name": "Αρχαιολογικό μουσείο Ολυμπίας",
+                  "name": "Arkhaiologiko mouseio Olumpias",
                   "text": "Olümpia régészeti múzeuma, amely olyan híres leleteket őriz, mint Praxitelész Hermésze.",
                   "category": "museum",
                   "coords": [
@@ -481,7 +481,7 @@ imageHint: "Ancient ruins of Delphi with the Tholos of Athena",
       ],
       "ro": [
             {
-                  "name": "Σκιλλοῦς",
+                  "name": "Skillous",
                   "text": "Un sit antic lângă Olympia, cunoscut istoric ca fiind reședința scriitorului Xenofon.",
                   "category": "historical",
                   "coords": [
@@ -490,7 +490,7 @@ imageHint: "Ancient ruins of Delphi with the Tholos of Athena",
                   ]
             },
             {
-                  "name": "Ιερό της Δήμητρας Χαμύνης",
+                  "name": "Iero tes Demetras Khamunes",
                   "text": "Un sanctuar antic dedicat zeiței Demetra, situat lângă stadionul din Olympia.",
                   "category": "historical",
                   "coords": [
@@ -499,7 +499,7 @@ imageHint: "Ancient ruins of Delphi with the Tholos of Athena",
                   ]
             },
             {
-                  "name": "Ναός της Ειλείθυιας",
+                  "name": "Naos tes Eileithuias",
                   "text": "Sanctuarul lui Eileithyia din Olimpia, dedicat zeiței nașterii.",
                   "category": "historical",
                   "coords": [
@@ -508,7 +508,7 @@ imageHint: "Ancient ruins of Delphi with the Tholos of Athena",
                   ]
             },
             {
-                  "name": "Μουσείο της Ιστορίας των Ολυμπιακών Αγώνων της Αρχαιότητας",
+                  "name": "Mouseio tes Istorias ton Olumpiakon Agonon tes Arkhaiotetas",
                   "text": "Muzeu dedicat istoriei Jocurilor Olimpice din antichitate, situat în Olimpia.",
                   "category": "museum",
                   "coords": [
@@ -517,7 +517,7 @@ imageHint: "Ancient ruins of Delphi with the Tholos of Athena",
                   ]
             },
             {
-                  "name": "Προϊστορικό κτήριο",
+                  "name": "Proistoriko kterio",
                   "text": "Rămășițele unei clădiri preistorice în situl arheologic din Olimpia.",
                   "category": "historical",
                   "coords": [
@@ -526,7 +526,7 @@ imageHint: "Ancient ruins of Delphi with the Tholos of Athena",
                   ]
             },
             {
-                  "name": "Αρχαιολογικό μουσείο Ολυμπίας",
+                  "name": "Arkhaiologiko mouseio Olumpias",
                   "text": "Muzeu arheologic major în Olimpia, adăpostind descoperiri precum Hermes de Praxiteles.",
                   "category": "museum",
                   "coords": [
@@ -686,7 +686,7 @@ imageHint: "Aerial view of the ancient theater of Epidaurus",
     id: "greece-mycenae-history-v2", "sights": {
       "de": [
             {
-                  "name": "Ναός Αγαμνένων",
+                  "name": "Naos Agamnenon",
                   "text": "Ein antikes Heiligtum, das dem legendären König Agamemnon gewidmet ist und sich in der Nähe der Zitadelle von Mykene befindet.",
                   "category": "historical",
                   "coords": [
@@ -695,7 +695,7 @@ imageHint: "Aerial view of the ancient theater of Epidaurus",
                   ]
             },
             {
-                  "name": "Οχυρωματικός Πύργος Φιχτίων",
+                  "name": "Okhuromatikos Purgos Phikhtion",
                   "text": "Die Überreste eines antiken befestigten Wachturms, der die Gebirgspässe in der Nähe von Mykene kontrollierte.",
                   "category": "historical",
                   "coords": [
@@ -731,7 +731,7 @@ imageHint: "Aerial view of the ancient theater of Epidaurus",
                   ]
             },
             {
-                  "name": "Οικία τών Σφιγγών",
+                  "name": "Oikia ton Sphiggon",
                   "text": "Die Ruinen einer antiken mykenischen Residenz, benannt nach den dort gefundenen Elfenbeinverzierungen mit Sphinx-Motiven.",
                   "category": "historical",
                   "coords": [
@@ -751,7 +751,7 @@ imageHint: "Aerial view of the ancient theater of Epidaurus",
       ],
       "hu": [
             {
-                  "name": "Ναός Αγαμνένων",
+                  "name": "Naos Agamnenon",
                   "text": "A legendás Agamemnón királynak szentelt ókori szentély Mükéné fellegvárának közelében.",
                   "category": "historical",
                   "coords": [
@@ -760,7 +760,7 @@ imageHint: "Aerial view of the ancient theater of Epidaurus",
                   ]
             },
             {
-                  "name": "Οχυρωματικός Πύργος Φιχτίων",
+                  "name": "Okhuromatikos Purgos Phikhtion",
                   "text": "Egy ókori erődített őrtorony maradványai, amely a Mükéné környéki hágókat ellenőrizte.",
                   "category": "historical",
                   "coords": [
@@ -769,7 +769,7 @@ imageHint: "Aerial view of the ancient theater of Epidaurus",
                   ]
             },
             {
-                  "name": "Ταφικός κύκλος Α΄",
+                  "name": "Taphikos kuklos A",
                   "text": "Királyi sírkör a Kr. e. 16. századból, ahol Schliemann a híres arany halotti maszkokat találta.",
                   "category": "historical",
                   "coords": [
@@ -778,7 +778,7 @@ imageHint: "Aerial view of the ancient theater of Epidaurus",
                   ]
             },
             {
-                  "name": "Ακρόπολη των Μυκηνών",
+                  "name": "Akropole των Μυκηνών",
                   "text": "Mükéné ókori fellegvára, amely hatalmas küklopszi falairól és az emblematikus Oroszlánkapuról híres.",
                   "category": "historical",
                   "coords": [
@@ -787,7 +787,7 @@ imageHint: "Aerial view of the ancient theater of Epidaurus",
                   ]
             },
             {
-                  "name": "Αρχαιολογικό μουσείο Μυκηνών",
+                  "name": "Arkhaiologiko mouseio Mukenon",
                   "text": "A mükénéi ásatások leleteit bemutató múzeum, amely a mükénéi civilizáció életét szemlélteti.",
                   "category": "museum",
                   "coords": [
@@ -796,7 +796,7 @@ imageHint: "Aerial view of the ancient theater of Epidaurus",
                   ]
             },
             {
-                  "name": "Οικία τών Σφιγγών",
+                  "name": "Oikia ton Sphiggon",
                   "text": "Egy ókori mükénéi lakóház romjai, amely az ott talált szfinx-motívumú elefántcsont díszekről kapta a nevét.",
                   "category": "historical",
                   "coords": [
@@ -816,7 +816,7 @@ imageHint: "Aerial view of the ancient theater of Epidaurus",
       ],
       "ro": [
             {
-                  "name": "Ναός Αγαμνένων",
+                  "name": "Naos Agamnenon",
                   "text": "Un sanctuar antic dedicat legendarului rege Agamemnon, situat în apropierea cetății Micene.",
                   "category": "historical",
                   "coords": [
@@ -825,7 +825,7 @@ imageHint: "Aerial view of the ancient theater of Epidaurus",
                   ]
             },
             {
-                  "name": "Οχυρωματικός Πύργος Φιχτίων",
+                  "name": "Okhuromatikos Purgos Phikhtion",
                   "text": "Rămășițele unui turn de veghe fortificat antic care controla trecătorile montane de lângă Micene.",
                   "category": "historical",
                   "coords": [
@@ -834,7 +834,7 @@ imageHint: "Aerial view of the ancient theater of Epidaurus",
                   ]
             },
             {
-                  "name": "Ταφικός κύκλος Α΄",
+                  "name": "Taphikos kuklos A",
                   "text": "Un cimitir regal din secolul al XVI-lea î.Hr., unde Schliemann a descoperit celebrele măști mortuare de aur.",
                   "category": "historical",
                   "coords": [
@@ -843,7 +843,7 @@ imageHint: "Aerial view of the ancient theater of Epidaurus",
                   ]
             },
             {
-                  "name": "Ακρόπολη των Μυκηνών",
+                  "name": "Akropole των Μυκηνών",
                   "text": "Vechea cetate a Micenei, celebră pentru zidurile sale ciclopiene masive și emblematica Poartă a Leilor.",
                   "category": "historical",
                   "coords": [
@@ -852,7 +852,7 @@ imageHint: "Aerial view of the ancient theater of Epidaurus",
                   ]
             },
             {
-                  "name": "Αρχαιολογικό μουσείο Μυκηνών",
+                  "name": "Arkhaiologiko mouseio Mukenon",
                   "text": "Un muzeu care expune artefacte din excavările de la Micene, ilustrând viața civilizației miceniene.",
                   "category": "museum",
                   "coords": [
@@ -861,7 +861,7 @@ imageHint: "Aerial view of the ancient theater of Epidaurus",
                   ]
             },
             {
-                  "name": "Οικία τών Σφιγγών",
+                  "name": "Oikia ton Sphiggon",
                   "text": "Ruinele unei vechi reședințe miceniene, numită după decorurile din fildeș cu motive de sfinx găsite în interior.",
                   "category": "historical",
                   "coords": [
@@ -1223,7 +1223,7 @@ imageHint: "Terrace of the Lions on Delos island",
     id: "greece-vergina-history-v2", "sights": {
       "de": [
             {
-                  "name": "Αρχαιολογικός χώρος Αιγών",
+                  "name": "Arkhaiologikos khoros Aigon",
                   "text": "Die erste Hauptstadt des antiken Königreichs Makedonien, berühmt für die königlichen Gräber von Vergina.",
                   "category": "historical",
                   "coords": [
@@ -1232,7 +1232,7 @@ imageHint: "Terrace of the Lions on Delos island",
                   ]
             },
             {
-                  "name": "Νεκρόπολη Αιγών",
+                  "name": "Nekropole Aigon",
                   "text": "Eine ausgedehnte antike Grabstätte mit zahlreichen Grabhügeln makedonischer Könige und Adliger.",
                   "category": "historical",
                   "coords": [
@@ -1241,7 +1241,7 @@ imageHint: "Terrace of the Lions on Delos island",
                   ]
             },
             {
-                  "name": "Ανάκτορο Αιγών",
+                  "name": "Anaktoro Aigon",
                   "text": "Die ruinen des monumentalen Palastes von Philipp II. in der antiken Stadt Aigai.",
                   "category": "historical",
                   "coords": [
@@ -1250,7 +1250,7 @@ imageHint: "Terrace of the Lions on Delos island",
                   ]
             },
             {
-                  "name": "Ιερό της Εύκλειας",
+                  "name": "Iero tes Eukleias",
                   "text": "Eine antike Kultstätte in Aigai, die der Göttin Eukleia gewidmet war.",
                   "category": "historical",
                   "coords": [
@@ -1259,7 +1259,7 @@ imageHint: "Terrace of the Lions on Delos island",
                   ]
             },
             {
-                  "name": "Ιερό της Μητέρας των Θεών",
+                  "name": "Iero tes Meteras ton Theon",
                   "text": "Ein antikes Heiligtum in Aigai, das der Verehrung der Göttermutter diente.",
                   "category": "historical",
                   "coords": [
@@ -1268,7 +1268,7 @@ imageHint: "Terrace of the Lions on Delos island",
                   ]
             },
             {
-                  "name": "Πολυκεντρικό Μουσείο Αιγών",
+                  "name": "Polukentriko Mouseio Aigon",
                   "text": "Ein modernes Museumskonzept, das die verschiedenen archäologischen Stätten und Schätze von Aigai verbindet.",
                   "category": "museum",
                   "coords": [
@@ -1277,7 +1277,7 @@ imageHint: "Terrace of the Lions on Delos island",
                   ]
             },
             {
-                  "name": "Αιγές",
+                  "name": "Aiges",
                   "text": "Die bedeutende antike Stadt Aigai, einst religiöses und kulturelles Zentrum Makedoniens.",
                   "category": "historical",
                   "coords": [
@@ -1286,7 +1286,7 @@ imageHint: "Terrace of the Lions on Delos island",
                   ]
             },
             {
-                  "name": "θυμέλη",
+                  "name": "thumele",
                   "text": "Antike Ruinen eines Dionysos-Altars in der Nähe der Königsgräber von Vergina.",
                   "category": "historical",
                   "coords": [
@@ -1297,7 +1297,7 @@ imageHint: "Terrace of the Lions on Delos island",
       ],
       "hu": [
             {
-                  "name": "Αρχαιολογικός χώρος Αιγών",
+                  "name": "Arkhaiologikos khoros Aigon",
                   "text": "Az ókori Makedón Királyság első fővárosa, amely a verginai királysírokról híres.",
                   "category": "historical",
                   "coords": [
@@ -1306,7 +1306,7 @@ imageHint: "Terrace of the Lions on Delos island",
                   ]
             },
             {
-                  "name": "Νεκρόπολη Αιγών",
+                  "name": "Nekropole Aigon",
                   "text": "Kiterjedt ókori temető makedón királyok és nemesek számos sírhalmával.",
                   "category": "historical",
                   "coords": [
@@ -1315,7 +1315,7 @@ imageHint: "Terrace of the Lions on Delos island",
                   ]
             },
             {
-                  "name": "Ανάκτορο Αιγών",
+                  "name": "Anaktoro Aigon",
                   "text": "II. Philipposz monumentális palotájának romjai Aigai ókori városában.",
                   "category": "historical",
                   "coords": [
@@ -1324,7 +1324,7 @@ imageHint: "Terrace of the Lions on Delos island",
                   ]
             },
             {
-                  "name": "Ιερό της Εύκλειας",
+                  "name": "Iero tes Eukleias",
                   "text": "Eukleia istennőnek szentelt ókori kultuszhely Aigaiban.",
                   "category": "historical",
                   "coords": [
@@ -1333,7 +1333,7 @@ imageHint: "Terrace of the Lions on Delos island",
                   ]
             },
             {
-                  "name": "Ιερό της Μητέρας των Θεών",
+                  "name": "Iero tes Meteras ton Theon",
                   "text": "Az istenek anyjának tiszteletére emelt ókori szentély Aigaiban.",
                   "category": "historical",
                   "coords": [
@@ -1342,7 +1342,7 @@ imageHint: "Terrace of the Lions on Delos island",
                   ]
             },
             {
-                  "name": "Πολυκεντρικό Μουσείο Αιγών",
+                  "name": "Polukentriko Mouseio Aigon",
                   "text": "Modern múzeumi koncepció, amely összeköti Aigai különböző régészeti lelőhelyeit és kincseit.",
                   "category": "museum",
                   "coords": [
@@ -1351,7 +1351,7 @@ imageHint: "Terrace of the Lions on Delos island",
                   ]
             },
             {
-                  "name": "Αιγές",
+                  "name": "Aiges",
                   "text": "Aigai jelentős ókori városa, amely egykor Makedónia vallási és kulturális központja volt.",
                   "category": "historical",
                   "coords": [
@@ -1360,7 +1360,7 @@ imageHint: "Terrace of the Lions on Delos island",
                   ]
             },
             {
-                  "name": "θυμέλη",
+                  "name": "thumele",
                   "text": "Dionüszosznak szentelt ókori oltár romjai a verginai királyi sírok közelében.",
                   "category": "historical",
                   "coords": [
@@ -1371,7 +1371,7 @@ imageHint: "Terrace of the Lions on Delos island",
       ],
       "ro": [
             {
-                  "name": "Αρχαιολογικός χώρος Αιγών",
+                  "name": "Arkhaiologikos khoros Aigon",
                   "text": "Prima capitală a vechiului regat al Macedoniei, celebră pentru mormintele regale de la Vergina.",
                   "category": "historical",
                   "coords": [
@@ -1380,7 +1380,7 @@ imageHint: "Terrace of the Lions on Delos island",
                   ]
             },
             {
-                  "name": "Νεκρόπολη Αιγών",
+                  "name": "Nekropole Aigon",
                   "text": "O vastă necropolă antică ce cuprinde numeroase morminte ale regilor și nobililor macedoneni.",
                   "category": "historical",
                   "coords": [
@@ -1389,7 +1389,7 @@ imageHint: "Terrace of the Lions on Delos island",
                   ]
             },
             {
-                  "name": "Ανάκτορο Αιγών",
+                  "name": "Anaktoro Aigon",
                   "text": "Ruinele palatului monumental al lui Filip al II-lea din orașul antic Aigai.",
                   "category": "historical",
                   "coords": [
@@ -1398,7 +1398,7 @@ imageHint: "Terrace of the Lions on Delos island",
                   ]
             },
             {
-                  "name": "Ιερό της Εύκλειας",
+                  "name": "Iero tes Eukleias",
                   "text": "Un lăcaș de cult antic din Aigai, dedicat zeiței Eukleia.",
                   "category": "historical",
                   "coords": [
@@ -1407,7 +1407,7 @@ imageHint: "Terrace of the Lions on Delos island",
                   ]
             },
             {
-                  "name": "Ιερό της Μητέρας των Θεών",
+                  "name": "Iero tes Meteras ton Theon",
                   "text": "Un sanctuar antic din Aigai dedicat venerării Mamei Zeilor.",
                   "category": "historical",
                   "coords": [
@@ -1416,7 +1416,7 @@ imageHint: "Terrace of the Lions on Delos island",
                   ]
             },
             {
-                  "name": "Πολυκεντρικό Μουσείο Αιγών",
+                  "name": "Polukentriko Mouseio Aigon",
                   "text": "Un concept muzeal modern care conectează diversele situri arheologice și comori din Aigai.",
                   "category": "museum",
                   "coords": [
@@ -1425,7 +1425,7 @@ imageHint: "Terrace of the Lions on Delos island",
                   ]
             },
             {
-                  "name": "Αιγές",
+                  "name": "Aiges",
                   "text": "Importantul oraș antic Aigai, odinioară centrul religios și cultural al Macedoniei.",
                   "category": "historical",
                   "coords": [
@@ -1434,7 +1434,7 @@ imageHint: "Terrace of the Lions on Delos island",
                   ]
             },
             {
-                  "name": "θυμέλη",
+                  "name": "thumele",
                   "text": "Ruinele antice ale unui altar dedicat lui Dionysos, situat lângă Mormintele Regale.",
                   "category": "historical",
                   "coords": [
@@ -1714,7 +1714,7 @@ imageHint: "The medieval Palace of the Grand Master in Rhodes",
       ],
       "hu": [
             {
-                  "name": "Φρούριο Σπιναλόγκας",
+                  "name": "Phrourio Spinalogkas",
                   "text": "Történelmi velencei erődítmény Spinalonga szigetén.",
                   "category": "castle",
                   "coords": [
@@ -1732,7 +1732,7 @@ imageHint: "The medieval Palace of the Grand Master in Rhodes",
                   ]
             },
             {
-                  "name": "Όρος Πετσοφάς",
+                  "name": "Oros Petsophas",
                   "text": "Hegycsúcs Spinalonga közelében, kilátással a tengerre.",
                   "category": "landmark",
                   "coords": [
@@ -1759,7 +1759,7 @@ imageHint: "The medieval Palace of the Grand Master in Rhodes",
                   ]
             },
             {
-                  "name": "Νότια Πυλίδα",
+                  "name": "Notia Pulida",
                   "text": "Történelmi városkapu, amely a spinalongai erődrendszer része.",
                   "category": "fortress",
                   "coords": [
@@ -1770,7 +1770,7 @@ imageHint: "The medieval Palace of the Grand Master in Rhodes",
       ],
       "ro": [
             {
-                  "name": "Φρούριο Σπιναλόγκας",
+                  "name": "Phrourio Spinalogkas",
                   "text": "O fortăreață venețiană istorică situată pe insula Spinalonga.",
                   "category": "castle",
                   "coords": [
@@ -1788,7 +1788,7 @@ imageHint: "The medieval Palace of the Grand Master in Rhodes",
                   ]
             },
             {
-                  "name": "Όρος Πετσοφάς",
+                  "name": "Oros Petsophas",
                   "text": "Un vârf montan lângă Spinalonga, cu vedere la mare.",
                   "category": "landmark",
                   "coords": [
@@ -1815,7 +1815,7 @@ imageHint: "The medieval Palace of the Grand Master in Rhodes",
                   ]
             },
             {
-                  "name": "Νότια Πυλίδα",
+                  "name": "Notia Pulida",
                   "text": "O poartă istorică a orașului, parte a fortificațiilor din Spinalonga.",
                   "category": "fortress",
                   "coords": [
@@ -1984,7 +1984,7 @@ imageHint: "Massive Cyclopean walls of ancient Tiryns",
                   ]
             },
             {
-                  "name": "Πύργος της Βασιλοπούλας",
+                  "name": "Purgos tes Basilopoulas",
                   "text": "Eine archäologische Stätte bei Sounion mit Überresten antiker befestigter Landhäuser.",
                   "category": "historical",
                   "coords": [
@@ -1993,7 +1993,7 @@ imageHint: "Massive Cyclopean walls of ancient Tiryns",
                   ]
             },
             {
-                  "name": "Ναός Ποσειδώνα",
+                  "name": "Naos Poseidona",
                   "text": "Ein berühmter antiker Marmortempel des Meeresgottes Poseidon auf den Klippen des Kaps Sounion.",
                   "category": "historical",
                   "coords": [
@@ -2049,7 +2049,7 @@ imageHint: "Massive Cyclopean walls of ancient Tiryns",
                   ]
             },
             {
-                  "name": "Πύργος της Βασιλοπούλας",
+                  "name": "Purgos tes Basilopoulas",
                   "text": "Régészeti lelőhely Szunionnál, ókori megerősített vidéki házak maradványaival.",
                   "category": "historical",
                   "coords": [
@@ -2058,7 +2058,7 @@ imageHint: "Massive Cyclopean walls of ancient Tiryns",
                   ]
             },
             {
-                  "name": "Ναός Ποσειδώνα",
+                  "name": "Naos Poseidona",
                   "text": "Poszeidón tengeristen híres ókori márványtemploma a Szunion-fok szikláin.",
                   "category": "historical",
                   "coords": [
@@ -2114,7 +2114,7 @@ imageHint: "Massive Cyclopean walls of ancient Tiryns",
                   ]
             },
             {
-                  "name": "Πύργος της Βασιλοπούλας",
+                  "name": "Purgos tes Basilopoulas",
                   "text": "Un sit arheologic lângă Sounion, cuprinzând rămășițe ale unor case rurale fortificate antice.",
                   "category": "historical",
                   "coords": [
@@ -2123,7 +2123,7 @@ imageHint: "Massive Cyclopean walls of ancient Tiryns",
                   ]
             },
             {
-                  "name": "Ναός Ποσειδώνα",
+                  "name": "Naos Poseidona",
                   "text": "Un faimos templu antic din marmură al zeului mării, Poseidon, situat pe stâncile capului Sounion.",
                   "category": "historical",
                   "coords": [
@@ -2328,7 +2328,7 @@ imageHint: "Columns of the Temple of Apollo in Ancient Corinth",
     id: "greece-messene-history-v2", "sights": {
       "de": [
             {
-                  "name": "Ανδρομονάστηρο",
+                  "name": "Andromonastero",
                   "text": "Ein historisches Kloster in der Nähe der antiken Stadt Messene.",
                   "category": "religious",
                   "coords": [
@@ -2346,7 +2346,7 @@ imageHint: "Columns of the Temple of Apollo in Ancient Corinth",
                   ]
             },
             {
-                  "name": "O Θησαυρός",
+                  "name": "O Thesauros",
                   "text": "Eine antike Ausgrabungsstätte im antiken Messene, die als Schatzhaus identifiziert wurde.",
                   "category": "historical",
                   "coords": [
@@ -2384,7 +2384,7 @@ imageHint: "Columns of the Temple of Apollo in Ancient Corinth",
       ],
       "hu": [
             {
-                  "name": "Ανδρομονάστηρο",
+                  "name": "Andromonastero",
                   "text": "Történelmi kolostor az ókori Messzéné közelében.",
                   "category": "religious",
                   "coords": [
@@ -2393,7 +2393,7 @@ imageHint: "Columns of the Temple of Apollo in Ancient Corinth",
                   ]
             },
             {
-                  "name": "Η συνοικία του Θεάτρου",
+                  "name": "E sunoikia tou Theatrou",
                   "text": "Régészeti negyed az ókori Messzénében, az antik színház közelében.",
                   "category": "historical",
                   "coords": [
@@ -2402,7 +2402,7 @@ imageHint: "Columns of the Temple of Apollo in Ancient Corinth",
                   ]
             },
             {
-                  "name": "O Θησαυρός",
+                  "name": "O Thesauros",
                   "text": "Ókori régészeti lelőhely az antik Messzénében, amelyet kincstárként azonosítottak.",
                   "category": "historical",
                   "coords": [
@@ -2411,7 +2411,7 @@ imageHint: "Columns of the Temple of Apollo in Ancient Corinth",
                   ]
             },
             {
-                  "name": "Παλαίστρα",
+                  "name": "Palaistra",
                   "text": "Ókori sportpálya Messzéné régészeti parkjában.",
                   "category": "historical",
                   "coords": [
@@ -2420,7 +2420,7 @@ imageHint: "Columns of the Temple of Apollo in Ancient Corinth",
                   ]
             },
             {
-                  "name": "Μεσσήνη",
+                  "name": "Messene",
                   "text": "Jelentős ókori város és régészeti lelőhely a Peloponnészoszon.",
                   "category": "historical",
                   "coords": [
@@ -2429,7 +2429,7 @@ imageHint: "Columns of the Temple of Apollo in Ancient Corinth",
                   ]
             },
             {
-                  "name": "Το Ιερό της Ίσιδας και του Σάραπη",
+                  "name": "To Iero tes Isidas kai tou Sarape",
                   "text": "Az ókori Messzéné egyik régészeti lelőhelye, amelyet Ízisz és Szerápisz egyiptomi isteneknek szenteltek.",
                   "category": "historical",
                   "coords": [
@@ -2440,7 +2440,7 @@ imageHint: "Columns of the Temple of Apollo in Ancient Corinth",
       ],
       "ro": [
             {
-                  "name": "Ανδρομονάστηρο",
+                  "name": "Andromonastero",
                   "text": "O mănăstire istorică situată în apropierea orașului antic Messene.",
                   "category": "religious",
                   "coords": [
@@ -2449,7 +2449,7 @@ imageHint: "Columns of the Temple of Apollo in Ancient Corinth",
                   ]
             },
             {
-                  "name": "Η συνοικία του Θεάτρου",
+                  "name": "E sunoikia tou Theatrou",
                   "text": "Un cartier arheologic în Messene antică, situat în apropierea teatrului antic.",
                   "category": "historical",
                   "coords": [
@@ -2458,7 +2458,7 @@ imageHint: "Columns of the Temple of Apollo in Ancient Corinth",
                   ]
             },
             {
-                  "name": "O Θησαυρός",
+                  "name": "O Thesauros",
                   "text": "Un sit arheologic antic în Messene antică, identificat ca fiind o trezorerie.",
                   "category": "historical",
                   "coords": [
@@ -2467,7 +2467,7 @@ imageHint: "Columns of the Temple of Apollo in Ancient Corinth",
                   ]
             },
             {
-                  "name": "Παλαίστρα",
+                  "name": "Palaistra",
                   "text": "O bază sportivă antică în parcul arheologic din Messene.",
                   "category": "historical",
                   "coords": [
@@ -2476,7 +2476,7 @@ imageHint: "Columns of the Temple of Apollo in Ancient Corinth",
                   ]
             },
             {
-                  "name": "Μεσσήνη",
+                  "name": "Messene",
                   "text": "Un oraș antic important și sit arheologic în Peloponez.",
                   "category": "historical",
                   "coords": [
@@ -2485,7 +2485,7 @@ imageHint: "Columns of the Temple of Apollo in Ancient Corinth",
                   ]
             },
             {
-                  "name": "Το Ιερό της Ίσιδας και του Σάραπη",
+                  "name": "To Iero tes Isidas kai tou Sarape",
                   "text": "Un sit arheologic în Messene antică, dedicat zeităților egiptene Isis și Serapis.",
                   "category": "historical",
                   "coords": [
@@ -2608,7 +2608,7 @@ imageHint: "Ruins of the stadium and agora in Ancient Messene",
                   ]
             },
             {
-                  "name": "Βάσσες",
+                  "name": "Basses",
                   "text": "Eine archäologische Stätte mit dem gut erhaltenen Tempel des Apollon Epikurios.",
                   "category": "historical",
                   "coords": [
@@ -2628,7 +2628,7 @@ imageHint: "Ruins of the stadium and agora in Ancient Messene",
                   ]
             },
             {
-                  "name": "Βάσσες",
+                  "name": "Basses",
                   "text": "Régészeti lelőhely, amely a jó állapotban fennmaradt Apollón Epikuriosz-templomnak ad otthont.",
                   "category": "historical",
                   "coords": [
@@ -2648,7 +2648,7 @@ imageHint: "Ruins of the stadium and agora in Ancient Messene",
                   ]
             },
             {
-                  "name": "Βάσσες",
+                  "name": "Basses",
                   "text": "Un sit arheologic care adăpostește templul bine conservat al lui Apollo Epicurius.",
                   "category": "historical",
                   "coords": [
@@ -2744,7 +2744,7 @@ imageHint: "The Temple of Apollo Epicurius under its protective tent",
                   ]
             },
             {
-                  "name": "Ναός του Ηρακλή",
+                  "name": "Naos tou Erakle",
                   "text": "Ruinen eines antiken Tempels, der dem Herakles geweiht war.",
                   "category": "historical",
                   "coords": [
@@ -2762,7 +2762,7 @@ imageHint: "The Temple of Apollo Epicurius under its protective tent",
                   ]
             },
             {
-                  "name": "Βουλευτήριο",
+                  "name": "Bouleuterio",
                   "text": "Die antiken Ruinen des Versammlungshauses in Dodona.",
                   "category": "historical",
                   "coords": [
@@ -2773,7 +2773,7 @@ imageHint: "The Temple of Apollo Epicurius under its protective tent",
       ],
       "hu": [
             {
-                  "name": "Δωδώνη",
+                  "name": "Dodone",
                   "text": "Ősi görög jósda és Zeusz-szentély Epiruszban.",
                   "category": "historical",
                   "coords": [
@@ -2791,7 +2791,7 @@ imageHint: "The Temple of Apollo Epicurius under its protective tent",
                   ]
             },
             {
-                  "name": "Ναός του Ηρακλή",
+                  "name": "Naos tou Erakle",
                   "text": "Héraklésznak szentelt ókori templom romjai.",
                   "category": "historical",
                   "coords": [
@@ -2809,7 +2809,7 @@ imageHint: "The Temple of Apollo Epicurius under its protective tent",
                   ]
             },
             {
-                  "name": "Βουλευτήριο",
+                  "name": "Bouleuterio",
                   "text": "A dodonai tanácsház ókori romjai.",
                   "category": "historical",
                   "coords": [
@@ -2820,7 +2820,7 @@ imageHint: "The Temple of Apollo Epicurius under its protective tent",
       ],
       "ro": [
             {
-                  "name": "Δωδώνη",
+                  "name": "Dodone",
                   "text": "Un antic oracol grecesc și sanctuar al lui Zeus în Epir.",
                   "category": "historical",
                   "coords": [
@@ -2838,7 +2838,7 @@ imageHint: "The Temple of Apollo Epicurius under its protective tent",
                   ]
             },
             {
-                  "name": "Ναός του Ηρακλή",
+                  "name": "Naos tou Erakle",
                   "text": "Ruinele unui templu antic dedicat lui Heracles.",
                   "category": "historical",
                   "coords": [
@@ -2856,7 +2856,7 @@ imageHint: "The Temple of Apollo Epicurius under its protective tent",
                   ]
             },
             {
-                  "name": "Βουλευτήριο",
+                  "name": "Bouleuterio",
                   "text": "Ruinele antice ale casei consiliului din Dodona.",
                   "category": "historical",
                   "coords": [
@@ -2970,7 +2970,7 @@ imageHint: "Ruins of the ancient theater of Dodona",
                   ]
             },
             {
-                  "name": "Αρχαιολογικό Μουσείο Φιλίππων",
+                  "name": "Arkhaiologiko Mouseio Philippon",
                   "text": "Dieses Museum zeigt Fundstücke aus der antiken Stadt Philippi und ihrer Umgebung.",
                   "category": "museum",
                   "coords": [
@@ -2988,7 +2988,7 @@ imageHint: "Ruins of the ancient theater of Dodona",
                   ]
             },
             {
-                  "name": "Ακρόπολη Φιλίππων",
+                  "name": "Akropole Philippon",
                   "text": "Die befestigte Oberstadt von Philippi mit Überresten antiker und mittelalterlicher Mauern.",
                   "category": "castle",
                   "coords": [
@@ -2997,7 +2997,7 @@ imageHint: "Ruins of the ancient theater of Dodona",
                   ]
             },
             {
-                  "name": "Βραχοανάγλυφα",
+                  "name": "Brakhoanaglupha",
                   "text": "Eine archäologische Stätte in Philippi mit erhaltenen prähistorischen Felszeichnungen.",
                   "category": "historical",
                   "coords": [
@@ -3035,7 +3035,7 @@ imageHint: "Ruins of the ancient theater of Dodona",
                   ]
             },
             {
-                  "name": "Αρχαιολογικό Μουσείο Φιλίππων",
+                  "name": "Arkhaiologiko Mouseio Philippon",
                   "text": "A múzeum Philippi ókori városából és környékéről származó leleteket mutat be.",
                   "category": "museum",
                   "coords": [
@@ -3044,7 +3044,7 @@ imageHint: "Ruins of the ancient theater of Dodona",
                   ]
             },
             {
-                  "name": "Φίλιπποι",
+                  "name": "Philippoi",
                   "text": "Híres ókori város és UNESCO világörökségi helyszín Észak-Görögországban.",
                   "category": "historical",
                   "coords": [
@@ -3053,7 +3053,7 @@ imageHint: "Ruins of the ancient theater of Dodona",
                   ]
             },
             {
-                  "name": "Ακρόπολη Φιλίππων",
+                  "name": "Akropole Philippon",
                   "text": "Philippi megerősített felsővárosa ókori és középkori falmaradványokkal.",
                   "category": "castle",
                   "coords": [
@@ -3062,7 +3062,7 @@ imageHint: "Ruins of the ancient theater of Dodona",
                   ]
             },
             {
-                  "name": "Βραχοανάγλυφα",
+                  "name": "Brakhoanaglupha",
                   "text": "Régészeti lelőhely Philippiben, ahol őskori sziklarajzok láthatók.",
                   "category": "historical",
                   "coords": [
@@ -3100,7 +3100,7 @@ imageHint: "Ruins of the ancient theater of Dodona",
                   ]
             },
             {
-                  "name": "Αρχαιολογικό Μουσείο Φιλίππων",
+                  "name": "Arkhaiologiko Mouseio Philippon",
                   "text": "Acest muzeu expune descoperiri din orașul antic Filippi și împrejurimile sale.",
                   "category": "museum",
                   "coords": [
@@ -3109,7 +3109,7 @@ imageHint: "Ruins of the ancient theater of Dodona",
                   ]
             },
             {
-                  "name": "Φίλιπποι",
+                  "name": "Philippoi",
                   "text": "Un celebru oraș antic și sit al Patrimoniului Mondial UNESCO din nordul Greciei.",
                   "category": "historical",
                   "coords": [
@@ -3118,7 +3118,7 @@ imageHint: "Ruins of the ancient theater of Dodona",
                   ]
             },
             {
-                  "name": "Ακρόπολη Φιλίππων",
+                  "name": "Akropole Philippon",
                   "text": "Orașul de sus fortificat din Filippi, cu resturi de ziduri antice și medievale.",
                   "category": "castle",
                   "coords": [
@@ -3127,7 +3127,7 @@ imageHint: "Ruins of the ancient theater of Dodona",
                   ]
             },
             {
-                  "name": "Βραχοανάγλυφα",
+                  "name": "Brakhoanaglupha",
                   "text": "Un sit arheologic în Filippi cu desene preistorice pe stâncă conservate.",
                   "category": "historical",
                   "coords": [
@@ -3544,7 +3544,7 @@ imageHint: "Monument of the battle of Salamis near the coast",
     id: "greece-samothrace-temple-history-v2", "sights": {
       "de": [
             {
-                  "name": "Θόλος Αρσινόης Β΄",
+                  "name": "Tholos Arsinoes B",
                   "text": "Das größte Rundgebäude des antiken Griechenlands im Heiligtum der Großen Götter auf Samothraki.",
                   "category": "historical",
                   "coords": [
@@ -3553,7 +3553,7 @@ imageHint: "Monument of the battle of Salamis near the coast",
                   ]
             },
             {
-                  "name": "Αρχαιολογικό Μουσείο Σαμοθράκης",
+                  "name": "Arkhaiologiko Mouseio Samothrakes",
                   "text": "Ein Museum, das bedeutende Funde aus der archäologischen Stätte des Heiligtums der Großen Götter ausstellt.",
                   "category": "museum",
                   "coords": [
@@ -3562,7 +3562,7 @@ imageHint: "Monument of the battle of Salamis near the coast",
                   ]
             },
             {
-                  "name": "Πύργοι Παλαιόπολης",
+                  "name": "Purgoi Palaiopoles",
                   "text": "Mittelalterliche genuesische Befestigungsanlagen in der Nähe der archäologischen Stätte Paleopolis auf Samothraki.",
                   "category": "castle",
                   "coords": [
@@ -3571,7 +3571,7 @@ imageHint: "Monument of the battle of Salamis near the coast",
                   ]
             },
             {
-                  "name": "Κάστρο Χώρας",
+                  "name": "Kastro Khoras",
                   "text": "Eine mittelalterliche Festung auf einem felsigen Hügel über dem Dorf Chora auf Samothraki.",
                   "category": "castle",
                   "coords": [
@@ -3580,7 +3580,7 @@ imageHint: "Monument of the battle of Salamis near the coast",
                   ]
             },
             {
-                  "name": "Παλαιόπολης",
+                  "name": "Palaiopoles",
                   "text": "Die Stätte der antiken Stadt Samothraki, einschließlich der Überreste ihrer Mauern und religiösen Gebäude.",
                   "category": "historical",
                   "coords": [
@@ -3591,7 +3591,7 @@ imageHint: "Monument of the battle of Salamis near the coast",
       ],
       "hu": [
             {
-                  "name": "Θόλος Αρσινόης Β΄",
+                  "name": "Tholos Arsinoes B",
                   "text": "Az ókori Görögország legnagyobb kör alakú épülete a szamothrakéi Nagy Istenek Szentélyében.",
                   "category": "historical",
                   "coords": [
@@ -3600,7 +3600,7 @@ imageHint: "Monument of the battle of Salamis near the coast",
                   ]
             },
             {
-                  "name": "Αρχαιολογικό Μουσείο Σαμοθράκης",
+                  "name": "Arkhaiologiko Mouseio Samothrakes",
                   "text": "A közeli Nagy Istenek Szentélyéből származó jelentős leleteket bemutató múzeum Szamothraké szigetén.",
                   "category": "museum",
                   "coords": [
@@ -3609,7 +3609,7 @@ imageHint: "Monument of the battle of Salamis near the coast",
                   ]
             },
             {
-                  "name": "Πύργοι Παλαιόπολης",
+                  "name": "Purgoi Palaiopoles",
                   "text": "Középkori genovai erődítmények a szamothrakéi Paleopolisz régészeti lelőhely közelében.",
                   "category": "castle",
                   "coords": [
@@ -3618,7 +3618,7 @@ imageHint: "Monument of the battle of Salamis near the coast",
                   ]
             },
             {
-                  "name": "Κάστρο Χώρας",
+                  "name": "Kastro Khoras",
                   "text": "Középkori erődítmény egy sziklás dombon, amely Szamothraké faluja (Chora) fölé magasodik.",
                   "category": "castle",
                   "coords": [
@@ -3627,7 +3627,7 @@ imageHint: "Monument of the battle of Salamis near the coast",
                   ]
             },
             {
-                  "name": "Παλαιόπολης",
+                  "name": "Palaiopoles",
                   "text": "Szamothraké ókori városának lelőhelye, városfalak és vallási épületek maradványaival.",
                   "category": "historical",
                   "coords": [
@@ -3638,7 +3638,7 @@ imageHint: "Monument of the battle of Salamis near the coast",
       ],
       "ro": [
             {
-                  "name": "Θόλος Αρσινόης Β΄",
+                  "name": "Tholos Arsinoes B",
                   "text": "Cea mai mare clădire circulară din Grecia antică, situată în Sanctuarul Marilor Zei din Samothraki.",
                   "category": "historical",
                   "coords": [
@@ -3647,7 +3647,7 @@ imageHint: "Monument of the battle of Salamis near the coast",
                   ]
             },
             {
-                  "name": "Αρχαιολογικό Μουσείο Σαμοθράκης",
+                  "name": "Arkhaiologiko Mouseio Samothrakes",
                   "text": "Un muzeu care expune descoperiri semnificative de la situl arheologic al Sanctuarului Marilor Zei.",
                   "category": "museum",
                   "coords": [
@@ -3656,7 +3656,7 @@ imageHint: "Monument of the battle of Salamis near the coast",
                   ]
             },
             {
-                  "name": "Πύργοι Παλαιόπολης",
+                  "name": "Purgoi Palaiopoles",
                   "text": "Fortificații genoveze medievale situate lângă situl arheologic Paleopolis din Samothraki.",
                   "category": "castle",
                   "coords": [
@@ -3665,7 +3665,7 @@ imageHint: "Monument of the battle of Salamis near the coast",
                   ]
             },
             {
-                  "name": "Κάστρο Χώρας",
+                  "name": "Kastro Khoras",
                   "text": "O cetate medievală construită pe un deal stâncos deasupra satului Chora din Samothraki.",
                   "category": "castle",
                   "coords": [
@@ -3674,7 +3674,7 @@ imageHint: "Monument of the battle of Salamis near the coast",
                   ]
             },
             {
-                  "name": "Παλαιόπολης",
+                  "name": "Palaiopoles",
                   "text": "Locul orașului antic Samothraki, incluzând vestigii ale zidurilor sale și clădiri religioase.",
                   "category": "historical",
                   "coords": [
@@ -3834,7 +3834,7 @@ imageHint: "Monument of the battle of Salamis near the coast",
                   ]
             },
             {
-                  "name": "Καταγώγιο",
+                  "name": "Katagogio",
                   "text": "Das Katagogion ist die Ruine eines antiken Gasthauses oder Herberge auf dem Gelände von Kassope.",
                   "category": "historical",
                   "coords": [
@@ -3852,7 +3852,7 @@ imageHint: "Monument of the battle of Salamis near the coast",
                   ]
             },
             {
-                  "name": "Χορός του Ζαλόγγου",
+                  "name": "Khoros tou Zaloggou",
                   "text": "Ein Denkmal zum Gedenken an einen Massenselbstmord von Souliotinnen, um der Gefangennahme durch osmanische Truppen zu entgehen.",
                   "category": "landmark",
                   "coords": [
@@ -3861,7 +3861,7 @@ imageHint: "Monument of the battle of Salamis near the coast",
                   ]
             },
             {
-                  "name": "Ιερός Ναός Αγίου Βασιλείου",
+                  "name": "Ieros Naos Agiou Basileiou",
                   "text": "Eine religiöse Stätte im Gebiet von Kassopi, die dem heiligen Vasilios gewidmet ist.",
                   "category": "landmark",
                   "coords": [
@@ -3872,7 +3872,7 @@ imageHint: "Monument of the battle of Salamis near the coast",
       ],
       "hu": [
             {
-                  "name": "Κασσώπη",
+                  "name": "Kassope",
                   "text": "Kasszópé egy ókori görög város, amely jól megőrzött romokkal és városi négyzethálós elrendezéssel rendelkezik.",
                   "category": "historical",
                   "coords": [
@@ -3881,7 +3881,7 @@ imageHint: "Monument of the battle of Salamis near the coast",
                   ]
             },
             {
-                  "name": "Καταγώγιο",
+                  "name": "Katagogio",
                   "text": "A Katagogion egy ókori fogadó vagy szállás romja Kasszópé területén.",
                   "category": "historical",
                   "coords": [
@@ -3899,7 +3899,7 @@ imageHint: "Monument of the battle of Salamis near the coast",
                   ]
             },
             {
-                  "name": "Χορός του Ζαλόγγου",
+                  "name": "Khoros tou Zaloggou",
                   "text": "Emlékmű, amely a szulióta nők tömeges öngyilkosságának állít emléket, akik így kerülték el az oszmán fogságot.",
                   "category": "landmark",
                   "coords": [
@@ -3908,7 +3908,7 @@ imageHint: "Monument of the battle of Salamis near the coast",
                   ]
             },
             {
-                  "name": "Ιερός Ναός Αγίου Βασιλείου",
+                  "name": "Ieros Naos Agiou Basileiou",
                   "text": "Egy Szent Vasziliosz tiszteletére szentelt vallási hely Kasszópé környékén.",
                   "category": "landmark",
                   "coords": [
@@ -3919,7 +3919,7 @@ imageHint: "Monument of the battle of Salamis near the coast",
       ],
       "ro": [
             {
-                  "name": "Κασσώπη",
+                  "name": "Kassope",
                   "text": "Cassope este un oraș antic grecesc, care prezintă ruine bine conservate și un plan urbanistic în rețea.",
                   "category": "historical",
                   "coords": [
@@ -3928,7 +3928,7 @@ imageHint: "Monument of the battle of Salamis near the coast",
                   ]
             },
             {
-                  "name": "Καταγώγιο",
+                  "name": "Katagogio",
                   "text": "Katagogion reprezintă ruinele unui han sau adăpost antic situat în situl Cassope.",
                   "category": "historical",
                   "coords": [
@@ -3946,7 +3946,7 @@ imageHint: "Monument of the battle of Salamis near the coast",
                   ]
             },
             {
-                  "name": "Χορός του Ζαλόγγου",
+                  "name": "Khoros tou Zaloggou",
                   "text": "Un monument care comemorează sinuciderea în masă a femeilor suliote pentru a evita capturarea de către forțele otomane.",
                   "category": "landmark",
                   "coords": [
@@ -3955,7 +3955,7 @@ imageHint: "Monument of the battle of Salamis near the coast",
                   ]
             },
             {
-                  "name": "Ιερός Ναός Αγίου Βασιλείου",
+                  "name": "Ieros Naos Agiou Basileiou",
                   "text": "Un lăcaș de cult din zona Kassopi, dedicat Sfântului Vasilios.",
                   "category": "landmark",
                   "coords": [
@@ -4059,7 +4059,7 @@ imageHint: "Monument of the battle of Salamis near the coast",
     id: "greece-gortys-history-v2", "sights": {
       "de": [
             {
-                  "name": "Νότιο Θέατρο",
+                  "name": "Notio Theatro",
                   "text": "Antikes Theater in der bedeutenden Ausgrabungsstätte Gortyn.",
                   "category": "historical",
                   "coords": [
@@ -4068,7 +4068,7 @@ imageHint: "Monument of the battle of Salamis near the coast",
                   ]
             },
             {
-                  "name": "Καινούργιο Καστέλλι;Πύργος Αμπέλας",
+                  "name": "Kainourgio Kastelli;Purgos Ampelas",
                   "text": "Überreste einer byzantinischen Festung in der Nähe des antiken Gortyn.",
                   "category": "castle",
                   "coords": [
@@ -4095,7 +4095,7 @@ imageHint: "Monument of the battle of Salamis near the coast",
                   ]
             },
             {
-                  "name": "Πραιτόριο",
+                  "name": "Praitorio",
                   "text": "Einstiger Sitz des römischen Statthalters in der antiken Stadt.",
                   "category": "historical",
                   "coords": [
@@ -4113,7 +4113,7 @@ imageHint: "Monument of the battle of Salamis near the coast",
                   ]
             },
             {
-                  "name": "Ακρόπολη Γόρτυνας",
+                  "name": "Akropole Gortunaς",
                   "text": "Der befestigte obere Teil der antiken Stadt Gortyn.",
                   "category": "castle",
                   "coords": [
@@ -4124,7 +4124,7 @@ imageHint: "Monument of the battle of Salamis near the coast",
       ],
       "hu": [
             {
-                  "name": "Νότιο Θέατρο",
+                  "name": "Notio Theatro",
                   "text": "Ókori színház Gortün jelentős régészeti lelőhelyén.",
                   "category": "historical",
                   "coords": [
@@ -4133,7 +4133,7 @@ imageHint: "Monument of the battle of Salamis near the coast",
                   ]
             },
             {
-                  "name": "Καινούργιο Καστέλλι;Πύργος Αμπέλας",
+                  "name": "Kainourgio Kastelli;Purgos Ampelas",
                   "text": "Egy bizánci erőd maradványai az ókori Gortün közelében.",
                   "category": "castle",
                   "coords": [
@@ -4142,7 +4142,7 @@ imageHint: "Monument of the battle of Salamis near the coast",
                   ]
             },
             {
-                  "name": "Γόρτυνα",
+                  "name": "Gortuna",
                   "text": "Jelentős ókori város Krétán, híres törvényoszlopairól.",
                   "category": "historical",
                   "coords": [
@@ -4160,7 +4160,7 @@ imageHint: "Monument of the battle of Salamis near the coast",
                   ]
             },
             {
-                  "name": "Πραιτόριο",
+                  "name": "Praitorio",
                   "text": "A római kormányzó egykori székhelye az ókori városban.",
                   "category": "historical",
                   "coords": [
@@ -4178,7 +4178,7 @@ imageHint: "Monument of the battle of Salamis near the coast",
                   ]
             },
             {
-                  "name": "Ακρόπολη Γόρτυνας",
+                  "name": "Akropole Gortunaς",
                   "text": "Gortün ókori városának erődített felső része.",
                   "category": "castle",
                   "coords": [
@@ -4189,7 +4189,7 @@ imageHint: "Monument of the battle of Salamis near the coast",
       ],
       "ro": [
             {
-                  "name": "Νότιο Θέατρο",
+                  "name": "Notio Theatro",
                   "text": "Teatru antic în importantul sit arheologic Gortyn.",
                   "category": "historical",
                   "coords": [
@@ -4198,7 +4198,7 @@ imageHint: "Monument of the battle of Salamis near the coast",
                   ]
             },
             {
-                  "name": "Καινούργιο Καστέλλι;Πύργος Αμπέλας",
+                  "name": "Kainourgio Kastelli;Purgos Ampelas",
                   "text": "Rămășițele unei cetăți bizantine în apropierea anticului Gortyn.",
                   "category": "castle",
                   "coords": [
@@ -4207,7 +4207,7 @@ imageHint: "Monument of the battle of Salamis near the coast",
                   ]
             },
             {
-                  "name": "Γόρτυνα",
+                  "name": "Gortuna",
                   "text": "Oraș antic important din Creta, cunoscut pentru codul său istoric.",
                   "category": "historical",
                   "coords": [
@@ -4225,7 +4225,7 @@ imageHint: "Monument of the battle of Salamis near the coast",
                   ]
             },
             {
-                  "name": "Πραιτόριο",
+                  "name": "Praitorio",
                   "text": "Fosta reședință a guvernatorului roman în orașul antic.",
                   "category": "historical",
                   "coords": [
@@ -4243,7 +4243,7 @@ imageHint: "Monument of the battle of Salamis near the coast",
                   ]
             },
             {
-                  "name": "Ακρόπολη Γόρτυνας",
+                  "name": "Akropole Gortunaς",
                   "text": "Partea superioară fortificată a orașului antic Gortyna.",
                   "category": "castle",
                   "coords": [
@@ -4410,7 +4410,7 @@ imageHint: "Monument of the battle of Salamis near the coast",
     id: "greece-brauron-history-v2", "sights": {
       "de": [
             {
-                  "name": "Αρχαιολογικό Μουσείο Βραυρώνας",
+                  "name": "Arkhaiologiko Mouseio Brauronas",
                   "text": "Museum mit Fundstücken aus dem nahegelegenen antiken Heiligtum der Artemis.",
                   "category": "museum",
                   "coords": [
@@ -4437,7 +4437,7 @@ imageHint: "Monument of the battle of Salamis near the coast",
                   ]
             },
             {
-                  "name": "Αρχαία Βραυρώνα",
+                  "name": "Arkhaia Braurona",
                   "text": "Archäologische Stätte eines bedeutenden antiken Heiligtums der Göttin Artemis.",
                   "category": "historical",
                   "coords": [
@@ -4448,7 +4448,7 @@ imageHint: "Monument of the battle of Salamis near the coast",
       ],
       "hu": [
             {
-                  "name": "Αρχαιολογικό Μουσείο Βραυρώνας",
+                  "name": "Arkhaiologiko Mouseio Brauronas",
                   "text": "A közeli ókori Artemisz-szentélyből származó leleteket bemutató múzeum.",
                   "category": "museum",
                   "coords": [
@@ -4475,7 +4475,7 @@ imageHint: "Monument of the battle of Salamis near the coast",
                   ]
             },
             {
-                  "name": "Αρχαία Βραυρώνα",
+                  "name": "Arkhaia Braurona",
                   "text": "Artemisz istennő jelentős ókori szentélyének régészeti lelőhelye.",
                   "category": "historical",
                   "coords": [
@@ -4486,7 +4486,7 @@ imageHint: "Monument of the battle of Salamis near the coast",
       ],
       "ro": [
             {
-                  "name": "Αρχαιολογικό Μουσείο Βραυρώνας",
+                  "name": "Arkhaiologiko Mouseio Brauronas",
                   "text": "Muzeu care expune artefacte din sanctuarul antic al Artemidei aflat în apropiere.",
                   "category": "museum",
                   "coords": [
@@ -4513,7 +4513,7 @@ imageHint: "Monument of the battle of Salamis near the coast",
                   ]
             },
             {
-                  "name": "Αρχαία Βραυρώνα",
+                  "name": "Arkhaia Braurona",
                   "text": "Sit arheologic al unui important sanctuar antic dedicat zeiței Artemida.",
                   "category": "historical",
                   "coords": [
@@ -4608,7 +4608,7 @@ imageHint: "Monument of the battle of Salamis near the coast",
     id: "greece-dimini-history-v2", "sights": {
       "de": [
             {
-                  "name": "Μουσείο Πλινθοκεραμοποιίας",
+                  "name": "Mouseio Plinthokeramopoiias",
                   "text": "Ein Industriemuseum in einem ehemaligen Ziegelwerk, das die Geschichte der Dachziegelherstellung zeigt.",
                   "category": "museum",
                   "coords": [
@@ -4626,7 +4626,7 @@ imageHint: "Monument of the battle of Salamis near the coast",
                   ]
             },
             {
-                  "name": "Κάστρο Παλαιών",
+                  "name": "Kastro Palaion",
                   "text": "Eine historische Befestigungsanlage in der Nähe von Dimini.",
                   "category": "castle",
                   "coords": [
@@ -4635,7 +4635,7 @@ imageHint: "Monument of the battle of Salamis near the coast",
                   ]
             },
             {
-                  "name": "Μυκηναϊκός Τάφος Διμήνιου",
+                  "name": "Mukenaikos Taphos Dimeniou",
                   "text": "Ein bedeutendes Grabmal aus der mykenischen Zeit in der Nähe von Dimini.",
                   "category": "historical",
                   "coords": [
@@ -4644,7 +4644,7 @@ imageHint: "Monument of the battle of Salamis near the coast",
                   ]
             },
             {
-                  "name": "Μουσείο Πόλης Βόλου",
+                  "name": "Mouseio Poles Bolou",
                   "text": "Ein Museum, das die Geschichte und Entwicklung der Stadt Volos dokumentiert.",
                   "category": "museum",
                   "coords": [
@@ -4653,7 +4653,7 @@ imageHint: "Monument of the battle of Salamis near the coast",
                   ]
             },
             {
-                  "name": "Αρχαίο Θέατρο Δημητριάδας",
+                  "name": "Arkhaio Theatro Demetriadas",
                   "text": "Die Überreste eines antiken griechischen Theaters in der Nähe der Stadt Demetrias.",
                   "category": "historical",
                   "coords": [
@@ -4664,7 +4664,7 @@ imageHint: "Monument of the battle of Salamis near the coast",
       ],
       "hu": [
             {
-                  "name": "Μουσείο Πλινθοκεραμοποιίας",
+                  "name": "Mouseio Plinthokeramopoiias",
                   "text": "Egykori téglagyárban működő ipari múzeum, amely a tetőcserépgyártás történetét mutatja be.",
                   "category": "museum",
                   "coords": [
@@ -4682,7 +4682,7 @@ imageHint: "Monument of the battle of Salamis near the coast",
                   ]
             },
             {
-                  "name": "Κάστρο Παλαιών",
+                  "name": "Kastro Palaion",
                   "text": "Történelmi erődítmény Dimini közelében.",
                   "category": "castle",
                   "coords": [
@@ -4691,7 +4691,7 @@ imageHint: "Monument of the battle of Salamis near the coast",
                   ]
             },
             {
-                  "name": "Μυκηναϊκός Τάφος Διμήνιου",
+                  "name": "Mukenaikos Taphos Dimeniou",
                   "text": "Jelentős mükénéi kori sír Dimini szomszédságában.",
                   "category": "historical",
                   "coords": [
@@ -4700,7 +4700,7 @@ imageHint: "Monument of the battle of Salamis near the coast",
                   ]
             },
             {
-                  "name": "Μουσείο Πόλης Βόλου",
+                  "name": "Mouseio Poles Bolou",
                   "text": "Volos városának történetét és fejlődését bemutató múzeum.",
                   "category": "museum",
                   "coords": [
@@ -4709,7 +4709,7 @@ imageHint: "Monument of the battle of Salamis near the coast",
                   ]
             },
             {
-                  "name": "Αρχαίο Θέατρο Δημητριάδας",
+                  "name": "Arkhaio Theatro Demetriadas",
                   "text": "Egy ókori görög színház maradványai a hajdani Demetrias közelében.",
                   "category": "historical",
                   "coords": [
@@ -4720,7 +4720,7 @@ imageHint: "Monument of the battle of Salamis near the coast",
       ],
       "ro": [
             {
-                  "name": "Μουσείο Πλινθοκεραμοποιίας",
+                  "name": "Mouseio Plinthokeramopoiias",
                   "text": "Un muzeu industrial într-o fostă fabrică de cărămidă, dedicat istoriei producției de țigle.",
                   "category": "museum",
                   "coords": [
@@ -4738,7 +4738,7 @@ imageHint: "Monument of the battle of Salamis near the coast",
                   ]
             },
             {
-                  "name": "Κάστρο Παλαιών",
+                  "name": "Kastro Palaion",
                   "text": "O fortificație istorică situată în apropiere de Dimini.",
                   "category": "castle",
                   "coords": [
@@ -4747,7 +4747,7 @@ imageHint: "Monument of the battle of Salamis near the coast",
                   ]
             },
             {
-                  "name": "Μυκηναϊκός Τάφος Διμήνιου",
+                  "name": "Mukenaikos Taphos Dimeniou",
                   "text": "Un mormânt micenian important situat în apropiere de Dimini.",
                   "category": "historical",
                   "coords": [
@@ -4756,7 +4756,7 @@ imageHint: "Monument of the battle of Salamis near the coast",
                   ]
             },
             {
-                  "name": "Μουσείο Πόλης Βόλου",
+                  "name": "Mouseio Poles Bolou",
                   "text": "Un muzeu care documentează istoria și dezvoltarea orașului Volos.",
                   "category": "museum",
                   "coords": [
@@ -4765,7 +4765,7 @@ imageHint: "Monument of the battle of Salamis near the coast",
                   ]
             },
             {
-                  "name": "Αρχαίο Θέατρο Δημητριάδας",
+                  "name": "Arkhaio Theatro Demetriadas",
                   "text": "Vestigiile unui teatru grecesc antic situat lângă orașul Demetrias.",
                   "category": "historical",
                   "coords": [
@@ -5006,7 +5006,7 @@ imageHint: "Monument of the battle of Salamis near the coast",
                   ]
             },
             {
-                  "name": "Μονή Αρκαδίου",
+                  "name": "Mone Arkadiou",
                   "text": "Történelmi kolostor, amely a krétai oszmánellenes ellenállás szimbólumaként ismert.",
                   "category": "religious",
                   "coords": [
@@ -5035,7 +5035,7 @@ imageHint: "Monument of the battle of Salamis near the coast",
                   ]
             },
             {
-                  "name": "Μονή Αρκαδίου",
+                  "name": "Mone Arkadiou",
                   "text": "O mănăstire istorică cunoscută ca simbol al rezistenței cretane împotriva otomanilor.",
                   "category": "religious",
                   "coords": [
@@ -5130,7 +5130,7 @@ imageHint: "Monument of the battle of Salamis near the coast",
     id: "greece-osios-loukas-history-v2", "sights": {
       "de": [
             {
-                  "name": "Καστράκι Οσίου Λουκά",
+                  "name": "Kastraki Osiou Louka",
                   "text": "Historische Burgruinen in der Nähe des Klosters Hosios Loukas.",
                   "category": "castle",
                   "coords": [
@@ -5150,7 +5150,7 @@ imageHint: "Monument of the battle of Salamis near the coast",
       ],
       "hu": [
             {
-                  "name": "Καστράκι Οσίου Λουκά",
+                  "name": "Kastraki Osiou Louka",
                   "text": "Történelmi várromok a Hosios Loukas kolostor közelében.",
                   "category": "castle",
                   "coords": [
@@ -5159,7 +5159,7 @@ imageHint: "Monument of the battle of Salamis near the coast",
                   ]
             },
             {
-                  "name": "Βυζαντινή Μονή Οσίου Λουκά",
+                  "name": "Buzantine Mone Osiou Louka",
                   "text": "Történelmi bizánci kolostor, amely az UNESCO Világörökség része.",
                   "category": "landmark",
                   "coords": [
@@ -5170,7 +5170,7 @@ imageHint: "Monument of the battle of Salamis near the coast",
       ],
       "ro": [
             {
-                  "name": "Καστράκι Οσίου Λουκά",
+                  "name": "Kastraki Osiou Louka",
                   "text": "Ruinele unui castel istoric situate lângă Mănăstirea Hosios Loukas.",
                   "category": "castle",
                   "coords": [
@@ -5179,7 +5179,7 @@ imageHint: "Monument of the battle of Salamis near the coast",
                   ]
             },
             {
-                  "name": "Βυζαντινή Μονή Οσίου Λουκά",
+                  "name": "Buzantine Mone Osiou Louka",
                   "text": "O mănăstire bizantină istorică inclusă în patrimoniul mondial UNESCO.",
                   "category": "landmark",
                   "coords": [

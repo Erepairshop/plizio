@@ -450,7 +450,7 @@ imageHint: "Myzeqe Plain Albania aerial view",
     id: "albania-mali-i-gramosit-relief-v2", "sights": {
       "de": [
             {
-                  "name": "Παλιό στρατιωτικό φυλακιο",
+                  "name": "Palio stratiotiko phulakio",
                   "text": "Ein Aussichtspunkt mit Blick auf die Überreste eines alten Dorfes.",
                   "category": "natural",
                   "coords": [
@@ -459,7 +459,7 @@ imageHint: "Myzeqe Plain Albania aerial view",
                   ]
             },
             {
-                  "name": "Πυραμίδα",
+                  "name": "Puramida",
                   "text": "Ein Aussichtspunkt mit Panoramablick auf dem Berg Gramos.",
                   "category": "natural",
                   "coords": [
@@ -470,7 +470,7 @@ imageHint: "Myzeqe Plain Albania aerial view",
       ],
       "hu": [
             {
-                  "name": "Παλιό στρατιωτικό φυλακιο",
+                  "name": "Palio stratiotiko phulakio",
                   "text": "Kilátópont, ahonnan egy régi falu maradványai láthatók.",
                   "category": "natural",
                   "coords": [
@@ -479,7 +479,7 @@ imageHint: "Myzeqe Plain Albania aerial view",
                   ]
             },
             {
-                  "name": "Πυραμίδα",
+                  "name": "Puramida",
                   "text": "Kilátópont panorámás kilátással a Gramosz-hegyen.",
                   "category": "natural",
                   "coords": [
@@ -490,7 +490,7 @@ imageHint: "Myzeqe Plain Albania aerial view",
       ],
       "ro": [
             {
-                  "name": "Παλιό στρατιωτικό φυλακιο",
+                  "name": "Palio stratiotiko phulakio",
                   "text": "Un punct de belvedere cu vedere spre resturile unui sat vechi.",
                   "category": "natural",
                   "coords": [
@@ -499,7 +499,7 @@ imageHint: "Myzeqe Plain Albania aerial view",
                   ]
             },
             {
-                  "name": "Πυραμίδα",
+                  "name": "Puramida",
                   "text": "Un punct de belvedere cu vedere panoramică pe muntele Gramos.",
                   "category": "natural",
                   "coords": [

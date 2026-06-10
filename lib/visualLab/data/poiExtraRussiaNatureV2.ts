@@ -52,7 +52,7 @@ imageHint: "Lake Baikal crystal clear ice in winter",
     id: "russia-mount-elbrus-nature-v2", "sights": {
       "de": [
             {
-                  "name": "Ратрак",
+                  "name": "Ratrak",
                   "text": "Ein Pistenbully-Service für den Transport an den Hängen des Elbrus.",
                   "category": "landmark",
                   "coords": [
@@ -61,7 +61,7 @@ imageHint: "Lake Baikal crystal clear ice in winter",
                   ]
             },
             {
-                  "name": "Скалы Пастухова",
+                  "name": "Skaly Pastukhova",
                   "text": "Eine markante Felsformation an den hohen Hängen des Berges Elbrus.",
                   "category": "landmark",
                   "coords": [
@@ -72,7 +72,7 @@ imageHint: "Lake Baikal crystal clear ice in winter",
       ],
       "hu": [
             {
-                  "name": "Ратрак",
+                  "name": "Ratrak",
                   "text": "Hójáró szolgáltatás az Elbrusz lejtőin történő szállításhoz.",
                   "category": "landmark",
                   "coords": [
@@ -81,7 +81,7 @@ imageHint: "Lake Baikal crystal clear ice in winter",
                   ]
             },
             {
-                  "name": "Скалы Пастухова",
+                  "name": "Skaly Pastukhova",
                   "text": "Nevezetes sziklaalakzat az Elbrusz hegy magaslati lejtőin.",
                   "category": "landmark",
                   "coords": [
@@ -92,7 +92,7 @@ imageHint: "Lake Baikal crystal clear ice in winter",
       ],
       "ro": [
             {
-                  "name": "Ратрак",
+                  "name": "Ratrak",
                   "text": "Un serviciu de transport cu vehicule de zăpadă pe versanții muntelui Elbrus.",
                   "category": "landmark",
                   "coords": [
@@ -101,7 +101,7 @@ imageHint: "Lake Baikal crystal clear ice in winter",
                   ]
             },
             {
-                  "name": "Скалы Пастухова",
+                  "name": "Skaly Pastukhova",
                   "text": "O formațiune stâncoasă proeminentă pe versanții înalți ai muntelui Elbrus.",
                   "category": "landmark",
                   "coords": [
@@ -1386,7 +1386,7 @@ imageHint: "Taimyr Peninsula tundra and musk ox",
       ],
       "hu": [
             {
-                  "name": "Домбай-Ульген главная",
+                  "name": "Dombai-Ul'gen glavnaia",
                   "text": "A Nyugat-Kaukázus legmagasabb hegycsúcsa, amely állandó gleccsereiről és kihívást jelentő mászóútvonalairól ismert.",
                   "category": "landmark",
                   "coords": [
@@ -1397,7 +1397,7 @@ imageHint: "Taimyr Peninsula tundra and musk ox",
       ],
       "ro": [
             {
-                  "name": "Домбай-Ульген главная",
+                  "name": "Dombai-Ul'gen glavnaia",
                   "text": "Cel mai înalt vârf montan din Caucazul de Vest, cunoscut pentru ghețarii săi permanenți și traseele de alpinism provocatoare.",
                   "category": "landmark",
                   "coords": [

@@ -6,7 +6,7 @@ export const northmacedoniaReliefV2: POI[] = [
     id: "northmacedonia-korab-peak-relief-v2", "sights": {
       "de": [
             {
-                  "name": "Голем Кораб",
+                  "name": "Golem Korab",
                   "text": "Der Berg Korab ist der höchste Gipfel Albaniens und Nordmazedoniens.",
                   "category": "natural",
                   "coords": [
@@ -35,7 +35,7 @@ export const northmacedoniaReliefV2: POI[] = [
       ],
       "hu": [
             {
-                  "name": "Голем Кораб",
+                  "name": "Golem Korab",
                   "text": "A Korab-hegy Albánia és Észak-Macedónia legmagasabb hegycsúcsa.",
                   "category": "natural",
                   "coords": [
@@ -64,7 +64,7 @@ export const northmacedoniaReliefV2: POI[] = [
       ],
       "ro": [
             {
-                  "name": "Голем Кораб",
+                  "name": "Golem Korab",
                   "text": "Muntele Korab este cel mai înalt vârf din Albania și Macedonia de Nord.",
                   "category": "natural",
                   "coords": [
@@ -213,7 +213,7 @@ export const northmacedoniaReliefV2: POI[] = [
     id: "northmacedonia-pelister-peak-relief-v2", "sights": {
       "de": [
             {
-                  "name": "Стив",
+                  "name": "Stiv",
                   "text": "Ein Berggipfel im Pelister-Massiv in Nordmazedonien.",
                   "category": "landmark",
                   "coords": [
@@ -222,7 +222,7 @@ export const northmacedoniaReliefV2: POI[] = [
                   ]
             },
             {
-                  "name": "Илинден",
+                  "name": "Ilinden",
                   "text": "Gipfel im Pelister-Nationalpark mit weitem Ausblick.",
                   "category": "landmark",
                   "coords": [
@@ -231,7 +231,7 @@ export const northmacedoniaReliefV2: POI[] = [
                   ]
             },
             {
-                  "name": "Пелистер",
+                  "name": "Pelister",
                   "text": "Höchster Gipfel des Baba-Gebirges im Pelister-Nationalpark.",
                   "category": "landmark",
                   "coords": [
@@ -240,7 +240,7 @@ export const northmacedoniaReliefV2: POI[] = [
                   ]
             },
             {
-                  "name": "Видиковец",
+                  "name": "Vidikovets",
                   "text": "Aussichtspunkt mit Panorama auf die umliegenden Berge.",
                   "category": "natural",
                   "coords": [
@@ -269,7 +269,7 @@ export const northmacedoniaReliefV2: POI[] = [
       ],
       "hu": [
             {
-                  "name": "Стив",
+                  "name": "Stiv",
                   "text": "Hegycsúcs az észak-macedóniai Peliszter-masszívumban.",
                   "category": "landmark",
                   "coords": [
@@ -278,7 +278,7 @@ export const northmacedoniaReliefV2: POI[] = [
                   ]
             },
             {
-                  "name": "Илинден",
+                  "name": "Ilinden",
                   "text": "Csúcs a Peliszter Nemzeti Parkban, széles kilátással.",
                   "category": "landmark",
                   "coords": [
@@ -287,7 +287,7 @@ export const northmacedoniaReliefV2: POI[] = [
                   ]
             },
             {
-                  "name": "Пелистер",
+                  "name": "Pelister",
                   "text": "A Baba-hegység legmagasabb csúcsa a Peliszter Nemzeti Parkban.",
                   "category": "landmark",
                   "coords": [
@@ -296,7 +296,7 @@ export const northmacedoniaReliefV2: POI[] = [
                   ]
             },
             {
-                  "name": "Видиковец",
+                  "name": "Vidikovets",
                   "text": "Kilátópont panorámával a környező hegyekre.",
                   "category": "natural",
                   "coords": [
@@ -325,7 +325,7 @@ export const northmacedoniaReliefV2: POI[] = [
       ],
       "ro": [
             {
-                  "name": "Стив",
+                  "name": "Stiv",
                   "text": "Un vârf montan în masivul Pelister din Macedonia de Nord.",
                   "category": "landmark",
                   "coords": [
@@ -334,7 +334,7 @@ export const northmacedoniaReliefV2: POI[] = [
                   ]
             },
             {
-                  "name": "Илинден",
+                  "name": "Ilinden",
                   "text": "Vârf în Parcul Național Pelister cu vederi largi.",
                   "category": "landmark",
                   "coords": [
@@ -343,7 +343,7 @@ export const northmacedoniaReliefV2: POI[] = [
                   ]
             },
             {
-                  "name": "Пелистер",
+                  "name": "Pelister",
                   "text": "Cel mai înalt vârf al muntelui Baba din Parcul Național Pelister.",
                   "category": "landmark",
                   "coords": [
@@ -352,7 +352,7 @@ export const northmacedoniaReliefV2: POI[] = [
                   ]
             },
             {
-                  "name": "Видиковец",
+                  "name": "Vidikovets",
                   "text": "Punct de observație cu panoramă asupra munților din jur.",
                   "category": "natural",
                   "coords": [
@@ -483,7 +483,7 @@ export const northmacedoniaReliefV2: POI[] = [
     id: "northmacedonia-golem-korab-plateau-relief-v2", "sights": {
       "de": [
             {
-                  "name": "Голем Кораб",
+                  "name": "Golem Korab",
                   "text": "Der höchste Gipfel in Albanien und Nordmazedonien, gelegen im Korab-Gebirge.",
                   "category": "natural",
                   "coords": [
@@ -503,7 +503,7 @@ export const northmacedoniaReliefV2: POI[] = [
       ],
       "hu": [
             {
-                  "name": "Голем Кораб",
+                  "name": "Golem Korab",
                   "text": "Albánia és Észak-Macedónia legmagasabb csúcsa a Korab-hegységben.",
                   "category": "natural",
                   "coords": [
@@ -523,7 +523,7 @@ export const northmacedoniaReliefV2: POI[] = [
       ],
       "ro": [
             {
-                  "name": "Голем Кораб",
+                  "name": "Golem Korab",
                   "text": "Cel mai înalt vârf din Albania și Macedonia de Nord, situat în munții Korab.",
                   "category": "natural",
                   "coords": [
@@ -699,7 +699,7 @@ export const northmacedoniaReliefV2: POI[] = [
     id: "northmacedonia-baba-mountain-range-relief-v2", "sights": {
       "de": [
             {
-                  "name": "Видиковец",
+                  "name": "Vidikovets",
                   "text": "Ein Aussichtspunkt im Baba-Gebirge mit weitem Blick auf die umliegende Landschaft.",
                   "category": "natural",
                   "coords": [
@@ -710,7 +710,7 @@ export const northmacedoniaReliefV2: POI[] = [
       ],
       "hu": [
             {
-                  "name": "Видиковец",
+                  "name": "Vidikovets",
                   "text": "Kilátóhely a Baba-hegységben, ahonnan messzire ellátni a környező tájra.",
                   "category": "natural",
                   "coords": [
@@ -721,7 +721,7 @@ export const northmacedoniaReliefV2: POI[] = [
       ],
       "ro": [
             {
-                  "name": "Видиковец",
+                  "name": "Vidikovets",
                   "text": "Un punct de observație în Munții Baba, oferind vederi spectaculoase asupra peisajului.",
                   "category": "natural",
                   "coords": [
@@ -879,7 +879,7 @@ export const northmacedoniaReliefV2: POI[] = [
     id: "northmacedonia-galicica-mountain-relief-v2", "sights": {
       "de": [
             {
-                  "name": "Бајраче",
+                  "name": "Bajrache",
                   "text": "Ein Berggipfel im Galicica-Nationalpark, gelegen zwischen dem Ohrid- und dem Prespasee.",
                   "category": "landmark",
                   "coords": [
@@ -888,7 +888,7 @@ export const northmacedoniaReliefV2: POI[] = [
                   ]
             },
             {
-                  "name": "Баба",
+                  "name": "Baba",
                   "text": "Ein Aussichtspunkt auf dem Galičica-Berg mit Blick auf die umliegenden Seen.",
                   "category": "natural",
                   "coords": [
@@ -897,7 +897,7 @@ export const northmacedoniaReliefV2: POI[] = [
                   ]
             },
             {
-                  "name": "Коритски Рид",
+                  "name": "Koritski Rid",
                   "text": "Ein beliebter Aussichtspunkt im Galicica-Gebirge, bekannt für sein Panorama.",
                   "category": "natural",
                   "coords": [
@@ -908,7 +908,7 @@ export const northmacedoniaReliefV2: POI[] = [
       ],
       "hu": [
             {
-                  "name": "Бајраче",
+                  "name": "Bajrache",
                   "text": "Hegycsúcs a Galicica Nemzeti Parkban, az Ohridi- és a Preszpa-tó között.",
                   "category": "landmark",
                   "coords": [
@@ -917,7 +917,7 @@ export const northmacedoniaReliefV2: POI[] = [
                   ]
             },
             {
-                  "name": "Баба",
+                  "name": "Baba",
                   "text": "Kilátópont a Galicica-hegyen, ahonnan rálátni a környező tavakra.",
                   "category": "natural",
                   "coords": [
@@ -926,7 +926,7 @@ export const northmacedoniaReliefV2: POI[] = [
                   ]
             },
             {
-                  "name": "Коритски Рид",
+                  "name": "Koritski Rid",
                   "text": "Népszerű kilátóhely a Galicica-hegységben, amely panorámás tájáról ismert.",
                   "category": "natural",
                   "coords": [
@@ -937,7 +937,7 @@ export const northmacedoniaReliefV2: POI[] = [
       ],
       "ro": [
             {
-                  "name": "Бајраче",
+                  "name": "Bajrache",
                   "text": "Un vârf muntos din Parcul Național Galičica, situat între lacurile Ohrid și Prespa.",
                   "category": "landmark",
                   "coords": [
@@ -946,7 +946,7 @@ export const northmacedoniaReliefV2: POI[] = [
                   ]
             },
             {
-                  "name": "Баба",
+                  "name": "Baba",
                   "text": "Un punct de belvedere pe muntele Galičica, oferind vederi asupra lacurilor din jur.",
                   "category": "natural",
                   "coords": [
@@ -955,7 +955,7 @@ export const northmacedoniaReliefV2: POI[] = [
                   ]
             },
             {
-                  "name": "Коритски Рид",
+                  "name": "Koritski Rid",
                   "text": "Un punct de belvedere popular pe creasta Galičica, cunoscut pentru peisajul panoramic.",
                   "category": "natural",
                   "coords": [
@@ -1311,7 +1311,7 @@ export const northmacedoniaReliefV2: POI[] = [
     id: "northmacedonia-pelagonia-plain-relief-v2", "sights": {
       "de": [
             {
-                  "name": "Чагор",
+                  "name": "Chagor",
                   "text": "Archäologische Ruinen einer Siedlung in der Pelagonischen Ebene.",
                   "category": "historical",
                   "coords": [
@@ -1322,7 +1322,7 @@ export const northmacedoniaReliefV2: POI[] = [
       ],
       "hu": [
             {
-                  "name": "Чагор",
+                  "name": "Chagor",
                   "text": "Egy település régészeti maradványai a Pelagóniai-síkságon.",
                   "category": "historical",
                   "coords": [
@@ -1333,7 +1333,7 @@ export const northmacedoniaReliefV2: POI[] = [
       ],
       "ro": [
             {
-                  "name": "Чагор",
+                  "name": "Chagor",
                   "text": "Ruine arheologice ale unei așezări din Câmpia Pelagoniei.",
                   "category": "historical",
                   "coords": [
@@ -1491,7 +1491,7 @@ export const northmacedoniaReliefV2: POI[] = [
     id: "northmacedonia-treska-canyon-relief-v2", "sights": {
       "de": [
             {
-                  "name": "Пештера Врело",
+                  "name": "Peshtera Vrelo",
                   "text": "Eine beeindruckende Höhle im Treska-Canyon, bekannt für ihre tiefen Unterwasserbecken.",
                   "category": "landmark",
                   "coords": [
@@ -1502,7 +1502,7 @@ export const northmacedoniaReliefV2: POI[] = [
       ],
       "hu": [
             {
-                  "name": "Пештера Врело",
+                  "name": "Peshtera Vrelo",
                   "text": "Látványos barlang a Treska-kanyonban, amely mély vízalatti tavairól ismert.",
                   "category": "landmark",
                   "coords": [
@@ -1513,7 +1513,7 @@ export const northmacedoniaReliefV2: POI[] = [
       ],
       "ro": [
             {
-                  "name": "Пештера Врело",
+                  "name": "Peshtera Vrelo",
                   "text": "O peșteră impresionantă din canionul Treska, cunoscută pentru lacurile sale subterane adânci.",
                   "category": "landmark",
                   "coords": [
@@ -1626,7 +1626,7 @@ export const northmacedoniaReliefV2: POI[] = [
     id: "northmacedonia-kajmakcalan-relief-v2", "sights": {
       "de": [
             {
-                  "name": "Св. Петар",
+                  "name": "Sv. Petar",
                   "text": "Eine Gedenkkapelle auf dem Gipfel des Kajmakčalan, gewidmet den gefallenen Soldaten.",
                   "category": "landmark",
                   "coords": [
@@ -1637,7 +1637,7 @@ export const northmacedoniaReliefV2: POI[] = [
       ],
       "hu": [
             {
-                  "name": "Св. Петар",
+                  "name": "Sv. Petar",
                   "text": "Emlékkápolna a Kajmakčalan-csúcson, az elesett katonák emlékére.",
                   "category": "landmark",
                   "coords": [
@@ -1648,7 +1648,7 @@ export const northmacedoniaReliefV2: POI[] = [
       ],
       "ro": [
             {
-                  "name": "Св. Петар",
+                  "name": "Sv. Petar",
                   "text": "O capelă memorială situată pe vârful Kajmakčalan, dedicată soldaților căzuți.",
                   "category": "landmark",
                   "coords": [
@@ -1716,7 +1716,7 @@ export const northmacedoniaReliefV2: POI[] = [
     id: "northmacedonia-crn-vrv-relief-v2", "sights": {
       "de": [
             {
-                  "name": "Давина Кула",
+                  "name": "Davina Kula",
                   "text": "Archäologische Stätte mit den Ruinen einer mittelalterlichen Festung auf dem Hügel.",
                   "category": "historical",
                   "coords": [
@@ -1725,7 +1725,7 @@ export const northmacedoniaReliefV2: POI[] = [
                   ]
             },
             {
-                  "name": "св. Тројица",
+                  "name": "sv. Trojitsa",
                   "text": "Orthodoxes Kloster und religiöse Stätte in Crn Vrv.",
                   "category": "religious",
                   "coords": [
@@ -1736,7 +1736,7 @@ export const northmacedoniaReliefV2: POI[] = [
       ],
       "hu": [
             {
-                  "name": "Давина Кула",
+                  "name": "Davina Kula",
                   "text": "Régészeti lelőhely egy dombtetőn álló középkori erőd romjaival.",
                   "category": "historical",
                   "coords": [
@@ -1745,7 +1745,7 @@ export const northmacedoniaReliefV2: POI[] = [
                   ]
             },
             {
-                  "name": "св. Тројица",
+                  "name": "sv. Trojitsa",
                   "text": "Ortodox kolostor és vallási helyszín Crn Vrv településen.",
                   "category": "religious",
                   "coords": [
@@ -1756,7 +1756,7 @@ export const northmacedoniaReliefV2: POI[] = [
       ],
       "ro": [
             {
-                  "name": "Давина Кула",
+                  "name": "Davina Kula",
                   "text": "Sit arheologic ce prezintă ruinele unei cetăți medievale pe deal.",
                   "category": "historical",
                   "coords": [
@@ -1765,7 +1765,7 @@ export const northmacedoniaReliefV2: POI[] = [
                   ]
             },
             {
-                  "name": "св. Тројица",
+                  "name": "sv. Trojitsa",
                   "text": "Mănăstire ortodoxă și sit religios situat în Crn Vrv.",
                   "category": "religious",
                   "coords": [
@@ -1896,7 +1896,7 @@ export const northmacedoniaReliefV2: POI[] = [
                   ]
             },
             {
-                  "name": "Кичевски Манастир",
+                  "name": "Kichevski Manastir",
                   "text": "Ein bedeutendes orthodoxes Kloster, das für seine Architektur und geistliche Tradition bekannt ist.",
                   "category": "landmark",
                   "coords": [
@@ -1905,7 +1905,7 @@ export const northmacedoniaReliefV2: POI[] = [
                   ]
             },
             {
-                  "name": "Христо Узунов",
+                  "name": "Khristo Uzunov",
                   "text": "Ein Denkmal zu Ehren von Hristo Uzunov, einem bedeutenden revolutionären Kämpfer der Region.",
                   "category": "historical",
                   "coords": [
@@ -1914,7 +1914,7 @@ export const northmacedoniaReliefV2: POI[] = [
                   ]
             },
             {
-                  "name": "Китино Кале",
+                  "name": "Kitino Kale",
                   "text": "Ein historisches Denkmal, das die Überreste einer alten Festungsanlage auf dem Gipfel markiert.",
                   "category": "historical",
                   "coords": [
@@ -1923,7 +1923,7 @@ export const northmacedoniaReliefV2: POI[] = [
                   ]
             },
             {
-                  "name": "Св. Антониј",
+                  "name": "Sv. Antonij",
                   "text": "Eine christliche Kirche in Bigor Dolenci, die dem Heiligen Antonius gewidmet ist.",
                   "category": "religious",
                   "coords": [
@@ -1943,7 +1943,7 @@ export const northmacedoniaReliefV2: POI[] = [
                   ]
             },
             {
-                  "name": "Кичевски Манастир",
+                  "name": "Kichevski Manastir",
                   "text": "Jelentős ortodox kolostor, amely építészetéről és szellemi hagyományairól ismert.",
                   "category": "landmark",
                   "coords": [
@@ -1952,7 +1952,7 @@ export const northmacedoniaReliefV2: POI[] = [
                   ]
             },
             {
-                  "name": "Христо Узунов",
+                  "name": "Khristo Uzunov",
                   "text": "Hriszto Uzunov, a régió jelentős forradalmi harcosának tiszteletére emelt emlékmű.",
                   "category": "historical",
                   "coords": [
@@ -1961,7 +1961,7 @@ export const northmacedoniaReliefV2: POI[] = [
                   ]
             },
             {
-                  "name": "Китино Кале",
+                  "name": "Kitino Kale",
                   "text": "Történelmi emlékmű, amely egy régi erődítmény maradványait jelzi a csúcson.",
                   "category": "historical",
                   "coords": [
@@ -1970,7 +1970,7 @@ export const northmacedoniaReliefV2: POI[] = [
                   ]
             },
             {
-                  "name": "Св. Антониј",
+                  "name": "Sv. Antonij",
                   "text": "Szent Antalnak szentelt keresztény templom Bigor Dolenciben.",
                   "category": "religious",
                   "coords": [
@@ -1990,7 +1990,7 @@ export const northmacedoniaReliefV2: POI[] = [
                   ]
             },
             {
-                  "name": "Кичевски Манастир",
+                  "name": "Kichevski Manastir",
                   "text": "O mănăstire ortodoxă importantă, cunoscută pentru arhitectura sa și tradiția spirituală.",
                   "category": "landmark",
                   "coords": [
@@ -1999,7 +1999,7 @@ export const northmacedoniaReliefV2: POI[] = [
                   ]
             },
             {
-                  "name": "Христо Узунов",
+                  "name": "Khristo Uzunov",
                   "text": "Un monument în cinstea lui Hristo Uzunov, un luptător revoluționar proeminent din regiune.",
                   "category": "historical",
                   "coords": [
@@ -2008,7 +2008,7 @@ export const northmacedoniaReliefV2: POI[] = [
                   ]
             },
             {
-                  "name": "Китино Кале",
+                  "name": "Kitino Kale",
                   "text": "Un monument istoric care marchează rămășițele unei vechi fortificații de pe vârf.",
                   "category": "historical",
                   "coords": [
@@ -2017,7 +2017,7 @@ export const northmacedoniaReliefV2: POI[] = [
                   ]
             },
             {
-                  "name": "Св. Антониј",
+                  "name": "Sv. Antonij",
                   "text": "O biserică creștină în Bigor Dolenci, dedicată Sfântului Antonie.",
                   "category": "religious",
                   "coords": [
@@ -2121,7 +2121,7 @@ export const northmacedoniaReliefV2: POI[] = [
     id: "northmacedonia-plackovica-peak-relief-v2", "sights": {
       "de": [
             {
-                  "name": "Мичак",
+                  "name": "Michak",
                   "text": "Die Ruinen einer alten Siedlung oder Struktur in der Nähe des Plackovica-Gipfels.",
                   "category": "historical",
                   "coords": [
@@ -2141,7 +2141,7 @@ export const northmacedoniaReliefV2: POI[] = [
       ],
       "hu": [
             {
-                  "name": "Мичак",
+                  "name": "Michak",
                   "text": "Egy régi település vagy építmény romjai a Plackovica-csúcs közelében.",
                   "category": "historical",
                   "coords": [
@@ -2161,7 +2161,7 @@ export const northmacedoniaReliefV2: POI[] = [
       ],
       "ro": [
             {
-                  "name": "Мичак",
+                  "name": "Michak",
                   "text": "Ruinele unei vechi așezări sau structuri în apropierea vârfului Plackovica.",
                   "category": "historical",
                   "coords": [
@@ -2258,7 +2258,7 @@ export const northmacedoniaReliefV2: POI[] = [
       ],
       "hu": [
             {
-                  "name": "Руен",
+                  "name": "Ruen",
                   "text": "A Ruen az Osogovo-hegység legmagasabb csúcsa a határ mentén.",
                   "category": "landmark",
                   "coords": [
@@ -2269,7 +2269,7 @@ export const northmacedoniaReliefV2: POI[] = [
       ],
       "ro": [
             {
-                  "name": "Руен",
+                  "name": "Ruen",
                   "text": "Ruen este cel mai înalt vârf din munții Osogovo, situat pe frontieră.",
                   "category": "landmark",
                   "coords": [
@@ -2318,9 +2318,9 @@ export const northmacedoniaReliefV2: POI[] = [
       hu: "Az Oszogovó-hegység a Balkán-félsziget egyik legnagyobb tömbje, amely Észak-Macedónia és Bulgária határán húzódik, legmagasabb pontja a 2251 méter magas Ruen-csúcs. A hegység vulkáni eredetű, ami megmutatkozik a csúcsok lekerekített formájában és a gazdag érclelőhelyekben. Történelmileg az Oszogovó híres a bányászatáról, különösen az ólom- és cinkkitermelésről, olyan bányákkal, mint a Sasa és Toranica, amelyek ma is üzemelnek. A növényzet a tölgyerdőktől a magashegyi legelőkig terjed, amelyeket télen gyakran síelésre használnak. Kulturálisan a hegység szorosan kötődik az Oszogovói kolostorhoz, amely egy 12. századi fontos vallási és történelmi műemlék Kriva Palanka közelében. Az állatvilágban farkasok, medvék és számos ragadozó madár található, amelyek a nehezen megközelíthető sziklákon fészkelnek. A túrázók számára a Ruen-csúcs közepes nehézségű kihívást és csodálatos panorámát nyújt mindkét szomszédos ország irányába.",
       ro: "Munții Osogovo reprezintă unul dintre cele mai mari masive din Peninsula Balcanică, întinzându-se între Macedonia de Nord și Bulgaria, vârful Ruen fiind punctul culminant la 2251 de metri. Originea vulcanică a munților este evidentă în formele rotunjite ale vârfurilor și în bogăția depozitelor minerale. Istoric, Osogovo este renumit pentru exploatările miniere de plumb și zinc, mine precum Sasa și Toranica funcționând și în prezent. Vegetația variază de la păduri de stejar la altitudini joase până la pajiști alpine vaste pe culmi, care iarna sunt folosite pentru sporturi de iarnă. Din punct de vedere cultural, masivul este strâns legat de Mănăstirea Osogovo, un monument religios de importanță majoră datând din secolul al XII-lea. Fauna locală include lupi, urși și numeroase păsări de pradă care cuibăresc în regiunile stâncoase izolate. Pentru drumeți, vârful Ruen oferă o provocare moderată și o vedere panoramică vastă asupra ambelor țări vecine.",
       en: "The Osogovo mountain range is one of the largest massifs on the Balkan Peninsula, spanning across North Macedonia and Bulgaria, with Ruen Peak reaching 2,251 meters as its highest point. The range is of volcanic origin, which is reflected in the rounded shapes of its peaks and its rich ore deposits. Historically, Osogovo has been famous for mining, particularly lead and zinc, with mines like Sasa and Toranica still operational today. Vegetation varies from oak forests at lower elevations to expansive alpine meadows on the summits, which are often used for skiing during the winter months. Culturally, the mountains are deeply connected to the Osogovo Monastery, a significant religious and historical monument founded in the 12th century. The wildlife includes wolves, bears, and numerous birds of prey nesting in the inaccessible rocky regions. For hikers, Ruen Peak offers a moderate challenge and panoramic views over both neighboring countries.",
-      es: "El Pico Osogovo (en macedonio Осоговска Планина) es, con 2.252 m, la cima más alta de las montañas Osogovo en el este de Macedonia del Norte, en la frontera con Bulgaria. La cordillera se compone de gneises y granitos precámbricos, que se cuentan entre las rocas más antiguas de la región. La cima forma parte de la Reserva de la Biosfera transfronteriza de Osogovo. La vegetación incluye bosques subalpinos de pinos y hayas, así como praderas alpinas con especies endémicas como el no me olvides de Osogovo. Históricamente, la cordillera era conocida por la minería de oro y plata. La cima ofrece una amplia vista sobre las llanuras de Kumanovo y la ciudad búlgara de Kyustendil.",
-      pt: "O Pico Osogovo (em macedónio Осоговска Планина) é, com 2.252 m, o pico mais alto das montanhas Osogovo, no leste da Macedónia do Norte, na fronteira com a Bulgária. A cordilheira consiste em gnaisses e granitos precâmbricos, que estão entre as rochas mais antigas da região. O pico faz parte da Reserva da Biosfera transfronteiriça de Osogovo. A vegetação inclui florestas subalpinas de pinheiros e faias, bem como prados alpinos com espécies endémicas como a miosótis de Osogovo. Historicamente, a cordilheira era conhecida pela mineração de ouro e prata. O pico oferece uma vista ampla sobre as planícies de Kumanovo e a cidade búlgara de Kyustendil.",
-      fr: "Le sommet Osogovo (en macédonien Осоговска Планина) est, avec ses 2 252 m, le point culminant des monts Osogovo, à l'est de la Macédoine du Nord, sur la frontière bulgare. Le massif est composé de gneiss et de granites précambriens, parmi les roches les plus anciennes de la région. Le sommet fait partie de la réserve de biosphère transfrontalière d'Osogovo. La végétation comprend des forêts subalpines de pins et de hêtres, ainsi que des pelouses alpines abritant des espèces endémiques comme le myosotis d'Osogovo. Historiquement, le massif était réputé pour ses mines d'or et d'argent. Le sommet offre un large panorama sur les plaines de Kumanovo et la ville bulgare de Kyustendil.",
+      es: "El Pico Osogovo (en macedonio Осоговска Planina) es, con 2.252 m, la cima más alta de las montañas Osogovo en el este de Macedonia del Norte, en la frontera con Bulgaria. La cordillera se compone de gneises y granitos precámbricos, que se cuentan entre las rocas más antiguas de la región. La cima forma parte de la Reserva de la Biosfera transfronteriza de Osogovo. La vegetación incluye bosques subalpinos de pinos y hayas, así como praderas alpinas con especies endémicas como el no me olvides de Osogovo. Históricamente, la cordillera era conocida por la minería de oro y plata. La cima ofrece una amplia vista sobre las llanuras de Kumanovo y la ciudad búlgara de Kyustendil.",
+      pt: "O Pico Osogovo (em macedónio Осоговска Planina) é, com 2.252 m, o pico mais alto das montanhas Osogovo, no leste da Macedónia do Norte, na fronteira com a Bulgária. A cordilheira consiste em gnaisses e granitos precâmbricos, que estão entre as rochas mais antigas da região. O pico faz parte da Reserva da Biosfera transfronteiriça de Osogovo. A vegetação inclui florestas subalpinas de pinheiros e faias, bem como prados alpinos com espécies endémicas como a miosótis de Osogovo. Historicamente, a cordilheira era conhecida pela mineração de ouro e prata. O pico oferece uma vista ampla sobre as planícies de Kumanovo e a cidade búlgara de Kyustendil.",
+      fr: "Le sommet Osogovo (en macédonien Осоговска Planina) est, avec ses 2 252 m, le point culminant des monts Osogovo, à l'est de la Macédoine du Nord, sur la frontière bulgare. Le massif est composé de gneiss et de granites précambriens, parmi les roches les plus anciennes de la région. Le sommet fait partie de la réserve de biosphère transfrontalière d'Osogovo. La végétation comprend des forêts subalpines de pins et de hêtres, ainsi que des pelouses alpines abritant des espèces endémiques comme le myosotis d'Osogovo. Historiquement, le massif était réputé pour ses mines d'or et d'argent. Le sommet offre un large panorama sur les plaines de Kumanovo et la ville bulgare de Kyustendil.",
     },
     factsAdvanced: {
       de: ["Höchster Gipfel Ruen mit 2251 Metern", "Vulkanischer Ursprung des Gebirgsmassivs", "Wichtige Blei- und Zinkminen (Sasa, Toranica)", "Grenzgebirge zwischen Nordmazedonien und Bulgarien", "Heimat des Klosters St. Joachim Osogovski", "Reiche Vorkommen von Bären und Wölfen"],
@@ -2337,7 +2337,7 @@ export const northmacedoniaReliefV2: POI[] = [
     id: "northmacedonia-belasica-peak-relief-v2", "sights": {
       "de": [
             {
-                  "name": "Колешински водопад",
+                  "name": "Koleshinski vodopad",
                   "text": "Ein beeindruckender Wasserfall im Belasica-Gebirge, der über Kaskaden in ein bewaldetes Tal stürzt.",
                   "category": "landmark",
                   "coords": [
@@ -2366,7 +2366,7 @@ export const northmacedoniaReliefV2: POI[] = [
       ],
       "hu": [
             {
-                  "name": "Колешински водопад",
+                  "name": "Koleshinski vodopad",
                   "text": "Lenyűgöző vízesés a Belasica-hegységben, amely kaskádokon keresztül zúdul egy erdős völgybe.",
                   "category": "landmark",
                   "coords": [
@@ -2395,7 +2395,7 @@ export const northmacedoniaReliefV2: POI[] = [
       ],
       "ro": [
             {
-                  "name": "Колешински водопад",
+                  "name": "Koleshinski vodopad",
                   "text": "O cascadă impresionantă în munții Belasica, care cade în cascade într-o vale împădurită.",
                   "category": "landmark",
                   "coords": [
@@ -2544,7 +2544,7 @@ export const northmacedoniaReliefV2: POI[] = [
     id: "northmacedonia-galicica-peak-relief-v2", "sights": {
       "de": [
             {
-                  "name": "Плажа Стење",
+                  "name": "Plazha Stenje",
                   "text": "Ein Strand am Ufer des Prespasees am Fuße des Galicica-Massivs.",
                   "category": "recreational",
                   "coords": [
@@ -2562,7 +2562,7 @@ export const northmacedoniaReliefV2: POI[] = [
                   ]
             },
             {
-                  "name": "Вршина",
+                  "name": "Vrshina",
                   "text": "Ein markanter Gipfel in der Gebirgsregion Galicica.",
                   "category": "landmark",
                   "coords": [
@@ -2573,7 +2573,7 @@ export const northmacedoniaReliefV2: POI[] = [
       ],
       "hu": [
             {
-                  "name": "Плажа Стење",
+                  "name": "Plazha Stenje",
                   "text": "Strand a Preszpa-tó partján, a Galicsica-hegység lábánál.",
                   "category": "recreational",
                   "coords": [
@@ -2591,7 +2591,7 @@ export const northmacedoniaReliefV2: POI[] = [
                   ]
             },
             {
-                  "name": "Вршина",
+                  "name": "Vrshina",
                   "text": "Jellegzetes csúcs a Galicsica hegyvidéki régiójában.",
                   "category": "landmark",
                   "coords": [
@@ -2602,7 +2602,7 @@ export const northmacedoniaReliefV2: POI[] = [
       ],
       "ro": [
             {
-                  "name": "Плажа Стење",
+                  "name": "Plazha Stenje",
                   "text": "O plajă pe malul lacului Prespa, la poalele masivului Galicica.",
                   "category": "recreational",
                   "coords": [
@@ -2620,7 +2620,7 @@ export const northmacedoniaReliefV2: POI[] = [
                   ]
             },
             {
-                  "name": "Вршина",
+                  "name": "Vrshina",
                   "text": "Un vârf proeminent în regiunea montană Galicica.",
                   "category": "landmark",
                   "coords": [
@@ -2751,7 +2751,7 @@ export const northmacedoniaReliefV2: POI[] = [
     id: "northmacedonia-baba-peak-relief-v2", "sights": {
       "de": [
             {
-                  "name": "Стив",
+                  "name": "Stiv",
                   "text": "Ein Berggipfel im Baba-Massiv, der Wanderern weite Ausblicke bietet.",
                   "category": "landmark",
                   "coords": [
@@ -2760,7 +2760,7 @@ export const northmacedoniaReliefV2: POI[] = [
                   ]
             },
             {
-                  "name": "Илинден",
+                  "name": "Ilinden",
                   "text": "Ein markanter Gipfel im Baba-Gebirge, ein Ziel für Bergsteiger.",
                   "category": "landmark",
                   "coords": [
@@ -2769,7 +2769,7 @@ export const northmacedoniaReliefV2: POI[] = [
                   ]
             },
             {
-                  "name": "Пелистер",
+                  "name": "Pelister",
                   "text": "Der höchste Gipfel des Baba-Gebirges, gelegen im gleichnamigen Nationalpark.",
                   "category": "landmark",
                   "coords": [
@@ -2778,7 +2778,7 @@ export const northmacedoniaReliefV2: POI[] = [
                   ]
             },
             {
-                  "name": "Видиковец",
+                  "name": "Vidikovets",
                   "text": "Ein Aussichtspunkt im Baba-Gebirge mit Blick auf die umliegenden Täler.",
                   "category": "natural",
                   "coords": [
@@ -2807,7 +2807,7 @@ export const northmacedoniaReliefV2: POI[] = [
       ],
       "hu": [
             {
-                  "name": "Стив",
+                  "name": "Stiv",
                   "text": "Hegycsúcs a Baba-masszívumban, amely tágas kilátást nyújt a túrázóknak.",
                   "category": "landmark",
                   "coords": [
@@ -2816,7 +2816,7 @@ export const northmacedoniaReliefV2: POI[] = [
                   ]
             },
             {
-                  "name": "Илинден",
+                  "name": "Ilinden",
                   "text": "A Baba-hegység egyik jellegzetes csúcsa, a hegymászók kedvelt célpontja.",
                   "category": "landmark",
                   "coords": [
@@ -2825,7 +2825,7 @@ export const northmacedoniaReliefV2: POI[] = [
                   ]
             },
             {
-                  "name": "Пелистер",
+                  "name": "Pelister",
                   "text": "A Baba-hegység legmagasabb csúcsa, a róla elnevezett nemzeti park területén.",
                   "category": "landmark",
                   "coords": [
@@ -2834,7 +2834,7 @@ export const northmacedoniaReliefV2: POI[] = [
                   ]
             },
             {
-                  "name": "Видиковец",
+                  "name": "Vidikovets",
                   "text": "Kilátóhely a Baba-hegységben, ahonnan a környező völgyekre nyílik kilátás.",
                   "category": "natural",
                   "coords": [
@@ -2863,7 +2863,7 @@ export const northmacedoniaReliefV2: POI[] = [
       ],
       "ro": [
             {
-                  "name": "Стив",
+                  "name": "Stiv",
                   "text": "Un vârf montan în masivul Baba, care oferă panorame largi pentru turiști.",
                   "category": "landmark",
                   "coords": [
@@ -2872,7 +2872,7 @@ export const northmacedoniaReliefV2: POI[] = [
                   ]
             },
             {
-                  "name": "Илинден",
+                  "name": "Ilinden",
                   "text": "Un vârf proeminent în munții Baba, o destinație pentru alpiniști.",
                   "category": "landmark",
                   "coords": [
@@ -2881,7 +2881,7 @@ export const northmacedoniaReliefV2: POI[] = [
                   ]
             },
             {
-                  "name": "Пелистер",
+                  "name": "Pelister",
                   "text": "Cel mai înalt vârf din munții Baba, situat în parcul național cu același nume.",
                   "category": "landmark",
                   "coords": [
@@ -2890,7 +2890,7 @@ export const northmacedoniaReliefV2: POI[] = [
                   ]
             },
             {
-                  "name": "Видиковец",
+                  "name": "Vidikovets",
                   "text": "Un punct de observație în munții Baba, oferind vederi spre văile înconjurătoare.",
                   "category": "natural",
                   "coords": [
@@ -3002,9 +3002,9 @@ export const northmacedoniaReliefV2: POI[] = [
       hu: "A Baba-hegység, más néven Peliszter-masszívum, Észak-Macedónia délnyugati részén, Bitola városa mellett található. Legmagasabb pontja a 2601 méter magas Peliszter-csúcs, amely az ország harmadik legmagasabb hegye. A hegység híres az 1948-ban alapított Peliszter Nemzeti Parkról, amely az egykori Jugoszlávia első nemzeti parkja volt. Geológiailag a Baba magmás kőzetekből, főként gránitból épül fel, ami megkülönbözteti a környező mészkőhegységektől. Botanikai különlegessége a balkáni selyemfenyő (Pinus peuce), egy öttűs fenyőfaj, amely itt alkot összefüggő erdőtársulást. A 'Peliszter szemei' néven ismert két glaciális tó 2200 méter feletti magasságban népszerű túracélpont. Történelmileg a hegység az első világháború alatt a szaloniki front mentén zajló heves harcok színhelye volt. Napjainkban a Baba kiváló síelési, túrázási és hegymászási lehetőségeket kínál egyedülálló alpesi környezetben.",
       ro: "Munții Baba, cunoscuți și sub numele de masivul Pelister, sunt situați în sud-vestul Macedoniei de Nord, în apropierea orașului Bitola. Cel mai înalt vârf este Pelister, cu o altitudine de 2601 metri, fiind al treilea cel mai înalt punct din țară. Munții sunt renumiți pentru Parcul Național Pelister, înființat în 1948, primul de acest fel din fosta Iugoslavie. Din punct de vedere geologic, masivul Baba este format din roci magmatice, în special granit, ceea ce îi conferă un aspect distinct față de munții calcaroși din jur. O particularitate botanică este pinul Molika (Pinus peuce), o specie de pin cu cinci ace care formează aici un ecosistem forestier unic. 'Ochii Pelisterului', două lacuri glaciare situate la peste 2200 de metri altitudine, sunt atracții majore pentru drumeți. Istoric, munții au fost scena unor lupte crâncene pe Frontul de la Salonic în timpul Primului Război Mondial. Astăzi, masivul oferă facilități excelente pentru schi și alpinism.",
       en: "The Baba mountain range, also known as the Pelister massif, is located in southwestern North Macedonia near the city of Bitola. Its highest peak is Pelister, reaching 2,601 meters, making it the third-highest mountain in the country. The range is famous for the Pelister National Park, established in 1948 as the first national park in the former Yugoslavia. Geologically, Baba is composed of igneous rocks, primarily granite, which distinguishes it from the neighboring limestone mountains. A botanical highlight is the Molika pine (Pinus peuce), a five-needle pine species that forms a unique forest ecosystem here. The 'Eyes of Pelister,' two stunning glacial lakes located above 2,200 meters, are popular hiking destinations. Historically, the mountains were the site of intense fighting along the Salonika Front during World War I. Today, Baba offers excellent opportunities for skiing, hiking, and mountaineering in a distinctive alpine environment.",
-      es: "El Pico Baba (en macedonio Баба) es, con 2.601 m, la cumbre más alta de las montañas Baba en el suroeste de Macedonia del Norte, también conocida como Pelister. La montaña está formada por granitos y gneises precámbricos. El pico se encuentra en el Parque Nacional Pelister, famoso por sus bosques de pinos molika. La región es una importante zona de deportes de invierno con el centro de esquí Pelister. La montaña tiene varios lagos glaciares, conocidos como los 'Ojos de Pelister'. La flora alpina incluye especies endémicas como la saxífraga de Pelister. El Pico Baba es un destino popular para los montañistas y ofrece un desafío debido a sus paredes rocosas escarpadas.",
-      pt: "O Pico Baba (em macedónio Баба) é, com 2.601 m, o cume mais alto das montanhas Baba no sudoeste da Macedónia do Norte, também conhecido como Pelister. A montanha é composta por granitos e gnaisses pré-cambrianos. O pico situa-se no Parque Nacional Pelister, famoso pelas suas florestas de pinheiros molika. A região é uma importante área de desportos de inverno com o centro de esqui Pelister. A montanha possui vários lagos glaciares, incluindo os 'Olhos de Pelister'. A flora alpina inclui espécies endémicas como a saxifraga de Pelister. O Pico Baba é um destino popular para montanhistas e oferece um desafio devido às suas paredes rochosas íngremes.",
-      fr: "Le pic Baba (en macédonien Баба) est, avec 2 601 m, le plus haut sommet des monts Baba dans le sud-ouest de la Macédoine du Nord, également connu sous le nom de Pelister. La montagne est composée de granites et de gneiss précambriens. Le sommet est situé dans le parc national de Pelister, célèbre pour ses forêts de pins molika. La région est une importante zone de sports d'hiver avec le centre de ski Pelister. La montagne possède plusieurs lacs glaciaires, surnommés les 'Yeux du Pelister'. La flore alpine comprend des espèces endémiques telles que la saxifrage du Pelister. Le pic Baba est une destination prisée des alpinistes et représente un défi en raison de ses parois rocheuses abruptes.",
+      es: "El Pico Baba (en macedonio Baba) es, con 2.601 m, la cumbre más alta de las montañas Baba en el suroeste de Macedonia del Norte, también conocida como Pelister. La montaña está formada por granitos y gneises precámbricos. El pico se encuentra en el Parque Nacional Pelister, famoso por sus bosques de pinos molika. La región es una importante zona de deportes de invierno con el centro de esquí Pelister. La montaña tiene varios lagos glaciares, conocidos como los 'Ojos de Pelister'. La flora alpina incluye especies endémicas como la saxífraga de Pelister. El Pico Baba es un destino popular para los montañistas y ofrece un desafío debido a sus paredes rocosas escarpadas.",
+      pt: "O Pico Baba (em macedónio Baba) é, com 2.601 m, o cume mais alto das montanhas Baba no sudoeste da Macedónia do Norte, também conhecido como Pelister. A montanha é composta por granitos e gnaisses pré-cambrianos. O pico situa-se no Parque Nacional Pelister, famoso pelas suas florestas de pinheiros molika. A região é uma importante área de desportos de inverno com o centro de esqui Pelister. A montanha possui vários lagos glaciares, incluindo os 'Olhos de Pelister'. A flora alpina inclui espécies endémicas como a saxifraga de Pelister. O Pico Baba é um destino popular para montanhistas e oferece um desafio devido às suas paredes rochosas íngremes.",
+      fr: "Le pic Baba (en macédonien Baba) est, avec 2 601 m, le plus haut sommet des monts Baba dans le sud-ouest de la Macédoine du Nord, également connu sous le nom de Pelister. La montagne est composée de granites et de gneiss précambriens. Le sommet est situé dans le parc national de Pelister, célèbre pour ses forêts de pins molika. La région est une importante zone de sports d'hiver avec le centre de ski Pelister. La montagne possède plusieurs lacs glaciaires, surnommés les 'Yeux du Pelister'. La flore alpine comprend des espèces endémiques telles que la saxifrage du Pelister. Le pic Baba est une destination prisée des alpinistes et représente un défi en raison de ses parois rocheuses abruptes.",
     },
     factsAdvanced: {
       de: ["Höchster Gipfel Pelister mit 2601 Metern", "Erster Nationalpark Mazedoniens (seit 1948)", "Heimat der seltenen Molika-Kiefer (Pinus peuce)", "Vorkommen von zwei Gletscherseen (Pelister-Augen)", "Geologische Formationen aus Granitgestein", "Teil der Saloniki-Front im Ersten Weltkrieg"],
@@ -3201,7 +3201,7 @@ export const northmacedoniaReliefV2: POI[] = [
     id: "northmacedonia-kriva-reka-canyon-relief-v2", "sights": {
       "de": [
             {
-                  "name": "Куклица",
+                  "name": "Kuklitsa",
                   "text": "Eine beeindruckende Ansammlung natürlicher Erdpyramiden, die wie steinerne Figuren aussehen.",
                   "category": "park",
                   "coords": [
@@ -3212,7 +3212,7 @@ export const northmacedoniaReliefV2: POI[] = [
       ],
       "hu": [
             {
-                  "name": "Куклица",
+                  "name": "Kuklitsa",
                   "text": "Természetes földpiramisok lenyűgöző együttese, amelyek kőbábukra hasonlítanak.",
                   "category": "park",
                   "coords": [
@@ -3223,7 +3223,7 @@ export const northmacedoniaReliefV2: POI[] = [
       ],
       "ro": [
             {
-                  "name": "Куклица",
+                  "name": "Kuklitsa",
                   "text": "Un ansamblu impresionant de piramide de pământ naturale, care seamănă cu niște figuri de piatră.",
                   "category": "park",
                   "coords": [

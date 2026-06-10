@@ -1949,7 +1949,7 @@ export const moldovaLandmarksV2: POI[] = [
     id: "moldova-besalma-museum-landmarks-v2", "sights": {
       "de": [
             {
-                  "name": "Гагаузский этнографический музей",
+                  "name": "Gagauzskii etnograficheskii muzei",
                   "text": "Ein Museum, das der Geschichte und der reichen Kultur des gagausischen Volkes gewidmet ist.",
                   "category": "museum",
                   "coords": [
@@ -1969,7 +1969,7 @@ export const moldovaLandmarksV2: POI[] = [
       ],
       "hu": [
             {
-                  "name": "Гагаузский этнографический музей",
+                  "name": "Gagauzskii etnograficheskii muzei",
                   "text": "A gagauz nép történelmének és gazdag kultúrájának szentelt múzeum.",
                   "category": "museum",
                   "coords": [

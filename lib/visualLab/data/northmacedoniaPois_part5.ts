@@ -7,7 +7,7 @@ export const mkPoisPart5: POI[] = [
     id: "MK-041-govrlevo-neolithic", "sights": {
       "de": [
             {
-                  "name": "Абедиште",
+                  "name": "Abedishte",
                   "text": "Ein Berggipfel in der Nähe der neolithischen Siedlung von Govrlevo.",
                   "category": "landmark",
                   "coords": [
@@ -18,7 +18,7 @@ export const mkPoisPart5: POI[] = [
       ],
       "hu": [
             {
-                  "name": "Абедиште",
+                  "name": "Abedishte",
                   "text": "Hegycsúcs Govrlevo neolitikus településének közelében.",
                   "category": "landmark",
                   "coords": [
@@ -29,7 +29,7 @@ export const mkPoisPart5: POI[] = [
       ],
       "ro": [
             {
-                  "name": "Абедиште",
+                  "name": "Abedishte",
                   "text": "Un vârf muntos situat în apropierea așezării neolitice de la Govrlevo.",
                   "category": "landmark",
                   "coords": [
@@ -96,7 +96,7 @@ export const mkPoisPart5: POI[] = [
     id: "MK-041-st-panteleimon-monastery", "sights": {
       "de": [
             {
-                  "name": "Музеј на Град Скопје",
+                  "name": "Muzej na Grad Skopje",
                   "text": "Ein Museum im alten Bahnhofsgebäude, das die Geschichte von Skopje dokumentiert.",
                   "category": "museum",
                   "coords": [
@@ -114,7 +114,7 @@ export const mkPoisPart5: POI[] = [
                   ]
             },
             {
-                  "name": "Летна сцена",
+                  "name": "Letna stsena",
                   "text": "Eine Freilichtbühne, die für Aufführungen während der Sommersaison genutzt wird.",
                   "category": "cultural",
                   "coords": [
@@ -123,7 +123,7 @@ export const mkPoisPart5: POI[] = [
                   ]
             },
             {
-                  "name": "Театар Комедија",
+                  "name": "Teatar Komedija",
                   "text": "Ein Theater, das auf komödiantische Aufführungen und Stücke spezialisiert ist.",
                   "category": "cultural",
                   "coords": [
@@ -132,7 +132,7 @@ export const mkPoisPart5: POI[] = [
                   ]
             },
             {
-                  "name": "Маркови Кули",
+                  "name": "Markovi Kuli",
                   "text": "Die Ruinen einer mittelalterlichen Festung an den Hängen des Berges Vodno.",
                   "category": "historical",
                   "coords": [
@@ -141,7 +141,7 @@ export const mkPoisPart5: POI[] = [
                   ]
             },
             {
-                  "name": "Орашец",
+                  "name": "Orashets",
                   "text": "Ein Berggipfel mit Blick auf die umliegende Landschaft in der Nähe von Skopje.",
                   "category": "landmark",
                   "coords": [
@@ -150,7 +150,7 @@ export const mkPoisPart5: POI[] = [
                   ]
             },
             {
-                  "name": "Крстовар",
+                  "name": "Krstovar",
                   "text": "Der höchste Gipfel des Berges Vodno mit dem großen Millenniumskreuz.",
                   "category": "landmark",
                   "coords": [
@@ -159,7 +159,7 @@ export const mkPoisPart5: POI[] = [
                   ]
             },
             {
-                  "name": "Абедиште",
+                  "name": "Abedishte",
                   "text": "Ein Berggipfel in der Nähe des Berges Vodno.",
                   "category": "landmark",
                   "coords": [
@@ -170,7 +170,7 @@ export const mkPoisPart5: POI[] = [
       ],
       "hu": [
             {
-                  "name": "Музеј на Град Скопје",
+                  "name": "Muzej na Grad Skopje",
                   "text": "A régi vasútállomás épületében működő múzeum, amely Szkopje történelmét mutatja be.",
                   "category": "museum",
                   "coords": [
@@ -188,7 +188,7 @@ export const mkPoisPart5: POI[] = [
                   ]
             },
             {
-                  "name": "Летна сцена",
+                  "name": "Letna stsena",
                   "text": "Egy szabadtéri színpad, amelyet nyári előadásokhoz használnak.",
                   "category": "cultural",
                   "coords": [
@@ -197,7 +197,7 @@ export const mkPoisPart5: POI[] = [
                   ]
             },
             {
-                  "name": "Театар Комедија",
+                  "name": "Teatar Komedija",
                   "text": "Vígjátékokra és komédiákra specializálódott színház.",
                   "category": "cultural",
                   "coords": [
@@ -206,7 +206,7 @@ export const mkPoisPart5: POI[] = [
                   ]
             },
             {
-                  "name": "Маркови Кули",
+                  "name": "Markovi Kuli",
                   "text": "Egy középkori erőd romjai a Vodno-hegy lejtőin.",
                   "category": "historical",
                   "coords": [
@@ -215,7 +215,7 @@ export const mkPoisPart5: POI[] = [
                   ]
             },
             {
-                  "name": "Орашец",
+                  "name": "Orashets",
                   "text": "Egy hegycsúcs, amely kilátást nyújt a környező tájra Szkopje közelében.",
                   "category": "landmark",
                   "coords": [
@@ -224,7 +224,7 @@ export const mkPoisPart5: POI[] = [
                   ]
             },
             {
-                  "name": "Крстовар",
+                  "name": "Krstovar",
                   "text": "A Vodno-hegy legmagasabb csúcsa a nagy Millenniumi-kereszttel.",
                   "category": "landmark",
                   "coords": [
@@ -233,7 +233,7 @@ export const mkPoisPart5: POI[] = [
                   ]
             },
             {
-                  "name": "Абедиште",
+                  "name": "Abedishte",
                   "text": "Egy hegycsúcs a Vodno-hegy közelében.",
                   "category": "landmark",
                   "coords": [
@@ -244,7 +244,7 @@ export const mkPoisPart5: POI[] = [
       ],
       "ro": [
             {
-                  "name": "Музеј на Град Скопје",
+                  "name": "Muzej na Grad Skopje",
                   "text": "Un muzeu găzduit în vechea gară, care documentează istoria orașului Skopje.",
                   "category": "museum",
                   "coords": [
@@ -262,7 +262,7 @@ export const mkPoisPart5: POI[] = [
                   ]
             },
             {
-                  "name": "Летна сцена",
+                  "name": "Letna stsena",
                   "text": "O scenă în aer liber utilizată pentru spectacole în timpul sezonului estival.",
                   "category": "cultural",
                   "coords": [
@@ -271,7 +271,7 @@ export const mkPoisPart5: POI[] = [
                   ]
             },
             {
-                  "name": "Театар Комедија",
+                  "name": "Teatar Komedija",
                   "text": "O sală de teatru specializată în spectacole și piese de comedie.",
                   "category": "cultural",
                   "coords": [
@@ -280,7 +280,7 @@ export const mkPoisPart5: POI[] = [
                   ]
             },
             {
-                  "name": "Маркови Кули",
+                  "name": "Markovi Kuli",
                   "text": "Ruinele unei fortărețe medievale situate pe versanții muntelui Vodno.",
                   "category": "historical",
                   "coords": [
@@ -289,7 +289,7 @@ export const mkPoisPart5: POI[] = [
                   ]
             },
             {
-                  "name": "Орашец",
+                  "name": "Orashets",
                   "text": "Un vârf muntos care oferă vederi asupra peisajului înconjurător lângă Skopje.",
                   "category": "landmark",
                   "coords": [
@@ -298,7 +298,7 @@ export const mkPoisPart5: POI[] = [
                   ]
             },
             {
-                  "name": "Крстовар",
+                  "name": "Krstovar",
                   "text": "Cel mai înalt vârf al muntelui Vodno, unde se află marea Cruce a Mileniului.",
                   "category": "landmark",
                   "coords": [
@@ -307,7 +307,7 @@ export const mkPoisPart5: POI[] = [
                   ]
             },
             {
-                  "name": "Абедиште",
+                  "name": "Abedishte",
                   "text": "Un vârf muntos situat în vecinătatea muntelui Vodno.",
                   "category": "landmark",
                   "coords": [
@@ -438,7 +438,7 @@ export const mkPoisPart5: POI[] = [
     id: "MK-042-scupi-archaeological-site", "sights": {
       "de": [
             {
-                  "name": "Природонаучен Музеј",
+                  "name": "Prirodonauchen Muzej",
                   "text": "Dieses Museum in Skopje zeigt eine umfangreiche Sammlung zur Flora, Fauna und Geologie Nordmazedoniens.",
                   "category": "museum",
                   "coords": [
@@ -447,7 +447,7 @@ export const mkPoisPart5: POI[] = [
                   ]
             },
             {
-                  "name": "Скупи",
+                  "name": "Skupi",
                   "text": "Die Ausgrabungsstätte einer antiken römischen Stadt in der Nähe des heutigen Skopje.",
                   "category": "historical",
                   "coords": [
@@ -456,7 +456,7 @@ export const mkPoisPart5: POI[] = [
                   ]
             },
             {
-                  "name": "Скопско кале",
+                  "name": "Skopsko kale",
                   "text": "Diese historische Festung thront über Skopje und bietet einen weiten Blick über die Stadt und den Vardar.",
                   "category": "castle",
                   "coords": [
@@ -465,7 +465,7 @@ export const mkPoisPart5: POI[] = [
                   ]
             },
             {
-                  "name": "Зоолошка градина Скопје",
+                  "name": "Zooloshka gradina Skopje",
                   "text": "Der Zoo von Skopje beherbergt zahlreiche Tierarten in der nordmazedonischen Hauptstadt.",
                   "category": "recreational",
                   "coords": [
@@ -474,7 +474,7 @@ export const mkPoisPart5: POI[] = [
                   ]
             },
             {
-                  "name": "Музеј на Македонија",
+                  "name": "Muzej na Makedonija",
                   "text": "Nationalmuseum in Skopje, das die Geschichte und Kultur der Region dokumentiert.",
                   "category": "museum",
                   "coords": [
@@ -483,7 +483,7 @@ export const mkPoisPart5: POI[] = [
                   ]
             },
             {
-                  "name": "Музеј на современата уметност",
+                  "name": "Muzej na sovremenata umetnost",
                   "text": "Dieses Museum in Skopje widmet sich der Ausstellung zeitgenössischer Kunstwerke.",
                   "category": "museum",
                   "coords": [
@@ -503,7 +503,7 @@ export const mkPoisPart5: POI[] = [
       ],
       "hu": [
             {
-                  "name": "Природонаучен Музеј",
+                  "name": "Prirodonauchen Muzej",
                   "text": "Szkopjei múzeum, amely Észak-Macedónia növényvilágának, állatvilágának és geológiájának gazdag gyűjteményét mutatja be.",
                   "category": "museum",
                   "coords": [
@@ -512,7 +512,7 @@ export const mkPoisPart5: POI[] = [
                   ]
             },
             {
-                  "name": "Скупи",
+                  "name": "Skupi",
                   "text": "Egy ókori római város régészeti lelőhelye a mai Szkopje közelében.",
                   "category": "historical",
                   "coords": [
@@ -521,7 +521,7 @@ export const mkPoisPart5: POI[] = [
                   ]
             },
             {
-                  "name": "Скопско кале",
+                  "name": "Skopsko kale",
                   "text": "Szkopje fölé magasodó történelmi erőd, ahonnan kiváló kilátás nyílik a városra és a Vardar folyóra.",
                   "category": "castle",
                   "coords": [
@@ -530,7 +530,7 @@ export const mkPoisPart5: POI[] = [
                   ]
             },
             {
-                  "name": "Зоолошка градина Скопје",
+                  "name": "Zooloshka gradina Skopje",
                   "text": "Szkopje állatkertje számos állatfajnak ad otthont az észak-macedón fővárosban.",
                   "category": "recreational",
                   "coords": [
@@ -539,7 +539,7 @@ export const mkPoisPart5: POI[] = [
                   ]
             },
             {
-                  "name": "Музеј на Македонија",
+                  "name": "Muzej na Makedonija",
                   "text": "Nemzeti múzeum Szkopjéban, amely a régió történelmét és kultúráját mutatja be.",
                   "category": "museum",
                   "coords": [
@@ -548,7 +548,7 @@ export const mkPoisPart5: POI[] = [
                   ]
             },
             {
-                  "name": "Музеј на современата уметност",
+                  "name": "Muzej na sovremenata umetnost",
                   "text": "Ez a szkopjei múzeum a kortárs műalkotások bemutatásának szentelt intézmény.",
                   "category": "museum",
                   "coords": [
@@ -557,7 +557,7 @@ export const mkPoisPart5: POI[] = [
                   ]
             },
             {
-                  "name": "Музеј на македонската борба",
+                  "name": "Muzej na makedonskata borba",
                   "text": "Történelmi múzeum Szkopjéban, amely a macedón függetlenségi harcot mutatja be.",
                   "category": "museum",
                   "coords": [
@@ -568,7 +568,7 @@ export const mkPoisPart5: POI[] = [
       ],
       "ro": [
             {
-                  "name": "Природонаучен Музеј",
+                  "name": "Prirodonauchen Muzej",
                   "text": "Acest muzeu din Skopje expune o colecție vastă despre flora, fauna și geologia Macedoniei de Nord.",
                   "category": "museum",
                   "coords": [
@@ -577,7 +577,7 @@ export const mkPoisPart5: POI[] = [
                   ]
             },
             {
-                  "name": "Скупи",
+                  "name": "Skupi",
                   "text": "Situl arheologic al unui vechi oraș roman situat în apropierea orașului actual Skopje.",
                   "category": "historical",
                   "coords": [
@@ -586,7 +586,7 @@ export const mkPoisPart5: POI[] = [
                   ]
             },
             {
-                  "name": "Скопско кале",
+                  "name": "Skopsko kale",
                   "text": "Această fortăreață istorică domină orașul Skopje, oferind o panoramă asupra râului Vardar.",
                   "category": "castle",
                   "coords": [
@@ -595,7 +595,7 @@ export const mkPoisPart5: POI[] = [
                   ]
             },
             {
-                  "name": "Зоолошка градина Скопје",
+                  "name": "Zooloshka gradina Skopje",
                   "text": "Grădina zoologică din Skopje găzduiește numeroase specii de animale în capitala Macedoniei de Nord.",
                   "category": "recreational",
                   "coords": [
@@ -604,7 +604,7 @@ export const mkPoisPart5: POI[] = [
                   ]
             },
             {
-                  "name": "Музеј на Македонија",
+                  "name": "Muzej na Makedonija",
                   "text": "Muzeu național din Skopje, care documentează istoria și cultura regiunii.",
                   "category": "museum",
                   "coords": [
@@ -613,7 +613,7 @@ export const mkPoisPart5: POI[] = [
                   ]
             },
             {
-                  "name": "Музеј на современата уметност",
+                  "name": "Muzej na sovremenata umetnost",
                   "text": "Acest muzeu din Skopje este dedicat expunerii operelor de artă contemporană.",
                   "category": "museum",
                   "coords": [
@@ -622,7 +622,7 @@ export const mkPoisPart5: POI[] = [
                   ]
             },
             {
-                  "name": "Музеј на македонската борба",
+                  "name": "Muzej na makedonskata borba",
                   "text": "Un muzeu istoric din Skopje, care prezintă lupta macedoneană pentru independență.",
                   "category": "museum",
                   "coords": [
@@ -743,7 +743,7 @@ export const mkPoisPart5: POI[] = [
     id: "MK-042-skopje-city-park", "sights": {
       "de": [
             {
-                  "name": "Природонаучен Музеј",
+                  "name": "Prirodonauchen Muzej",
                   "text": "Ein Museum in Skopje, das die vielfältige Flora, Fauna und Geologie Nordmazedoniens präsentiert.",
                   "category": "museum",
                   "coords": [
@@ -752,7 +752,7 @@ export const mkPoisPart5: POI[] = [
                   ]
             },
             {
-                  "name": "Скупи",
+                  "name": "Skupi",
                   "text": "Die archäologischen Ausgrabungen der antiken römischen Stadt Scupi nahe dem Stadtzentrum.",
                   "category": "historical",
                   "coords": [
@@ -761,7 +761,7 @@ export const mkPoisPart5: POI[] = [
                   ]
             },
             {
-                  "name": "Скопско кале",
+                  "name": "Skopsko kale",
                   "text": "Eine historische Festung auf einem Hügel in Skopje mit Blick auf den Fluss Vardar.",
                   "category": "castle",
                   "coords": [
@@ -770,7 +770,7 @@ export const mkPoisPart5: POI[] = [
                   ]
             },
             {
-                  "name": "Зоолошка градина Скопје",
+                  "name": "Zooloshka gradina Skopje",
                   "text": "Der Stadtzoo von Skopje, der eine Vielzahl heimischer und exotischer Tierarten beherbergt.",
                   "category": "recreational",
                   "coords": [
@@ -779,7 +779,7 @@ export const mkPoisPart5: POI[] = [
                   ]
             },
             {
-                  "name": "Музеј на Македонија",
+                  "name": "Muzej na Makedonija",
                   "text": "Eines der größten Museen des Landes, das die Geschichte und Kultur Mazedoniens dokumentiert.",
                   "category": "museum",
                   "coords": [
@@ -788,7 +788,7 @@ export const mkPoisPart5: POI[] = [
                   ]
             },
             {
-                  "name": "Македонска Национална опера и балет",
+                  "name": "Makedonska Natsionalna opera i balet",
                   "text": "Die führende Kulturinstitution in Skopje für Opern- und Ballettaufführungen.",
                   "category": "cultural",
                   "coords": [
@@ -797,7 +797,7 @@ export const mkPoisPart5: POI[] = [
                   ]
             },
             {
-                  "name": "Музеј на современата уметност",
+                  "name": "Muzej na sovremenata umetnost",
                   "text": "Ein bedeutendes Museum in Skopje, das zeitgenössische Kunstwerke aus dem In- und Ausland zeigt.",
                   "category": "museum",
                   "coords": [
@@ -806,7 +806,7 @@ export const mkPoisPart5: POI[] = [
                   ]
             },
             {
-                  "name": "Национална галерија „Даут-пашин амам“",
+                  "name": "Natsionalna galerija ,,Daut-pashin amam\"",
                   "text": "Eine Nationalgalerie in einem ehemaligen osmanischen Bad aus dem 15. Jahrhundert.",
                   "category": "museum",
                   "coords": [
@@ -817,7 +817,7 @@ export const mkPoisPart5: POI[] = [
       ],
       "hu": [
             {
-                  "name": "Природонаучен Музеј",
+                  "name": "Prirodonauchen Muzej",
                   "text": "Múzeum Szkopjéban, amely Észak-Macedónia változatos élővilágát és geológiáját mutatja be.",
                   "category": "museum",
                   "coords": [
@@ -826,7 +826,7 @@ export const mkPoisPart5: POI[] = [
                   ]
             },
             {
-                  "name": "Скупи",
+                  "name": "Skupi",
                   "text": "Scupi ókori római városának régészeti maradványai a városközpont közelében.",
                   "category": "historical",
                   "coords": [
@@ -835,7 +835,7 @@ export const mkPoisPart5: POI[] = [
                   ]
             },
             {
-                  "name": "Скопско кале",
+                  "name": "Skopsko kale",
                   "text": "Történelmi erőd egy dombtetőn Szkopjéban, rálátással a Vardar folyóra.",
                   "category": "castle",
                   "coords": [
@@ -844,7 +844,7 @@ export const mkPoisPart5: POI[] = [
                   ]
             },
             {
-                  "name": "Зоолошка градина Скопје",
+                  "name": "Zooloshka gradina Skopje",
                   "text": "Szkopje városi állatkertje, amely számos hazai és egzotikus állatfajnak ad otthont.",
                   "category": "recreational",
                   "coords": [
@@ -853,7 +853,7 @@ export const mkPoisPart5: POI[] = [
                   ]
             },
             {
-                  "name": "Музеј на Македонија",
+                  "name": "Muzej na Makedonija",
                   "text": "Az ország egyik legnagyobb múzeuma, amely Macedónia történelmét és kultúráját mutatja be.",
                   "category": "museum",
                   "coords": [
@@ -862,7 +862,7 @@ export const mkPoisPart5: POI[] = [
                   ]
             },
             {
-                  "name": "Македонска Национална опера и балет",
+                  "name": "Makedonska Natsionalna opera i balet",
                   "text": "Szkopje vezető kulturális intézménye az operaelőadások és balettprodukciók számára.",
                   "category": "cultural",
                   "coords": [
@@ -871,7 +871,7 @@ export const mkPoisPart5: POI[] = [
                   ]
             },
             {
-                  "name": "Музеј на современата уметност",
+                  "name": "Muzej na sovremenata umetnost",
                   "text": "Jelentős szkopjei múzeum, amely hazai és nemzetközi kortárs műalkotásokat mutat be.",
                   "category": "museum",
                   "coords": [
@@ -880,7 +880,7 @@ export const mkPoisPart5: POI[] = [
                   ]
             },
             {
-                  "name": "Национална галерија „Даут-пашин амам“",
+                  "name": "Natsionalna galerija ,,Daut-pashin amam\"",
                   "text": "Nemzeti galéria egy egykori 15. századi oszmán fürdő épületében.",
                   "category": "museum",
                   "coords": [
@@ -891,7 +891,7 @@ export const mkPoisPart5: POI[] = [
       ],
       "ro": [
             {
-                  "name": "Природонаучен Музеј",
+                  "name": "Prirodonauchen Muzej",
                   "text": "Un muzeu în Skopje care prezintă flora, fauna și geologia diversă a Macedoniei de Nord.",
                   "category": "museum",
                   "coords": [
@@ -900,7 +900,7 @@ export const mkPoisPart5: POI[] = [
                   ]
             },
             {
-                  "name": "Скупи",
+                  "name": "Skupi",
                   "text": "Situl arheologic al vechiului oraș roman Scupi, situat în apropierea centrului orașului.",
                   "category": "historical",
                   "coords": [
@@ -909,7 +909,7 @@ export const mkPoisPart5: POI[] = [
                   ]
             },
             {
-                  "name": "Скопско кале",
+                  "name": "Skopsko kale",
                   "text": "O fortăreață istorică situată pe un deal în Skopje, oferind vedere spre râul Vardar.",
                   "category": "castle",
                   "coords": [
@@ -918,7 +918,7 @@ export const mkPoisPart5: POI[] = [
                   ]
             },
             {
-                  "name": "Зоолошка градина Скопје",
+                  "name": "Zooloshka gradina Skopje",
                   "text": "Grădina zoologică din Skopje, care găzduiește o varietate de specii de animale indigene și exotice.",
                   "category": "recreational",
                   "coords": [
@@ -927,7 +927,7 @@ export const mkPoisPart5: POI[] = [
                   ]
             },
             {
-                  "name": "Музеј на Македонија",
+                  "name": "Muzej na Makedonija",
                   "text": "Unul dintre cele mai mari muzee din țară, documentând istoria și cultura Macedoniei.",
                   "category": "museum",
                   "coords": [
@@ -936,7 +936,7 @@ export const mkPoisPart5: POI[] = [
                   ]
             },
             {
-                  "name": "Македонска Национална опера и балет",
+                  "name": "Makedonska Natsionalna opera i balet",
                   "text": "Principala instituție culturală din Skopje pentru spectacole de operă și balet.",
                   "category": "cultural",
                   "coords": [
@@ -945,7 +945,7 @@ export const mkPoisPart5: POI[] = [
                   ]
             },
             {
-                  "name": "Музеј на современата уметност",
+                  "name": "Muzej na sovremenata umetnost",
                   "text": "Un muzeu important din Skopje care expune opere de artă contemporană naționale și internaționale.",
                   "category": "museum",
                   "coords": [
@@ -954,7 +954,7 @@ export const mkPoisPart5: POI[] = [
                   ]
             },
             {
-                  "name": "Национална галерија „Даут-пашин амам“",
+                  "name": "Natsionalna galerija ,,Daut-pashin amam\"",
                   "text": "O galerie națională situată într-o fostă baie otomană din secolul al XV-lea.",
                   "category": "museum",
                   "coords": [
@@ -1085,7 +1085,7 @@ export const mkPoisPart5: POI[] = [
     id: "MK-043-roma-market", "sights": {
       "de": [
             {
-                  "name": "Природонаучен Музеј",
+                  "name": "Prirodonauchen Muzej",
                   "text": "Ein Museum in Skopje, das die biologische und geologische Vielfalt Mazedoniens zeigt.",
                   "category": "museum",
                   "coords": [
@@ -1094,7 +1094,7 @@ export const mkPoisPart5: POI[] = [
                   ]
             },
             {
-                  "name": "Скупи",
+                  "name": "Skupi",
                   "text": "Eine archäologische Ausgrabungsstätte mit den Überresten einer antiken römischen Stadt bei Skopje.",
                   "category": "historical",
                   "coords": [
@@ -1103,7 +1103,7 @@ export const mkPoisPart5: POI[] = [
                   ]
             },
             {
-                  "name": "Скопско кале",
+                  "name": "Skopsko kale",
                   "text": "Eine historische Festung über Skopje, die ursprünglich im 6. Jahrhundert erbaut wurde.",
                   "category": "castle",
                   "coords": [
@@ -1112,7 +1112,7 @@ export const mkPoisPart5: POI[] = [
                   ]
             },
             {
-                  "name": "Зоолошка градина Скопје",
+                  "name": "Zooloshka gradina Skopje",
                   "text": "Der städtische Zoo von Skopje, in dem verschiedene Tierarten aus aller Welt leben.",
                   "category": "recreational",
                   "coords": [
@@ -1121,7 +1121,7 @@ export const mkPoisPart5: POI[] = [
                   ]
             },
             {
-                  "name": "Музеј на Македонија",
+                  "name": "Muzej na Makedonija",
                   "text": "Eines der bedeutendsten Museen des Landes mit Fokus auf Archäologie und Ethnologie.",
                   "category": "museum",
                   "coords": [
@@ -1130,7 +1130,7 @@ export const mkPoisPart5: POI[] = [
                   ]
             },
             {
-                  "name": "Македонска Национална опера и балет",
+                  "name": "Makedonska Natsionalna opera i balet",
                   "text": "Eine bedeutende Kulturinstitution in Skopje für hochwertige Opern- und Ballettaufführungen.",
                   "category": "cultural",
                   "coords": [
@@ -1139,7 +1139,7 @@ export const mkPoisPart5: POI[] = [
                   ]
             },
             {
-                  "name": "Музеј на современата уметност",
+                  "name": "Muzej na sovremenata umetnost",
                   "text": "Ein Museum für moderne Kunst mit Blick über Skopje von seiner Hügellage aus.",
                   "category": "museum",
                   "coords": [
@@ -1148,7 +1148,7 @@ export const mkPoisPart5: POI[] = [
                   ]
             },
             {
-                  "name": "Национална галерија „Даут-пашин амам“",
+                  "name": "Natsionalna galerija ,,Daut-pashin amam\"",
                   "text": "Eine Kunstgalerie in einem ehemaligen osmanischen Badehaus aus dem 15. Jahrhundert.",
                   "category": "museum",
                   "coords": [
@@ -1159,7 +1159,7 @@ export const mkPoisPart5: POI[] = [
       ],
       "hu": [
             {
-                  "name": "Природонаучен Музеј",
+                  "name": "Prirodonauchen Muzej",
                   "text": "Szkopjei múzeum, amely Macedónia biológiai és geológiai sokszínűségét mutatja be.",
                   "category": "museum",
                   "coords": [
@@ -1168,7 +1168,7 @@ export const mkPoisPart5: POI[] = [
                   ]
             },
             {
-                  "name": "Скупи",
+                  "name": "Skupi",
                   "text": "Régészeti lelőhely egy ókori római város maradványaival Szkopje közelében.",
                   "category": "historical",
                   "coords": [
@@ -1177,7 +1177,7 @@ export const mkPoisPart5: POI[] = [
                   ]
             },
             {
-                  "name": "Скопско кале",
+                  "name": "Skopsko kale",
                   "text": "Szkopje városa fölé magasodó történelmi erőd, amely eredetileg a 6. században épült.",
                   "category": "castle",
                   "coords": [
@@ -1186,7 +1186,7 @@ export const mkPoisPart5: POI[] = [
                   ]
             },
             {
-                  "name": "Зоолошка градина Скопје",
+                  "name": "Zooloshka gradina Skopje",
                   "text": "Szkopje városi állatkertje, amely a világ minden tájáról származó állatfajoknak ad otthont.",
                   "category": "recreational",
                   "coords": [
@@ -1195,7 +1195,7 @@ export const mkPoisPart5: POI[] = [
                   ]
             },
             {
-                  "name": "Музеј на Македонија",
+                  "name": "Muzej na Makedonija",
                   "text": "Az ország egyik legjelentősebb múzeuma, amely a régészetre és a néprajzra összpontosít.",
                   "category": "museum",
                   "coords": [
@@ -1204,7 +1204,7 @@ export const mkPoisPart5: POI[] = [
                   ]
             },
             {
-                  "name": "Македонска Национална опера и балет",
+                  "name": "Makedonska Natsionalna opera i balet",
                   "text": "Szkopje jelentős kulturális intézménye, amely színvonalas opera- és balettelőadásoknak ad otthont.",
                   "category": "cultural",
                   "coords": [
@@ -1213,7 +1213,7 @@ export const mkPoisPart5: POI[] = [
                   ]
             },
             {
-                  "name": "Музеј на современата уметност",
+                  "name": "Muzej na sovremenata umetnost",
                   "text": "Modern művészeti múzeum, amely dombtetőn fekvő helyszínéről kilátást nyújt Szkopjéra.",
                   "category": "museum",
                   "coords": [
@@ -1222,7 +1222,7 @@ export const mkPoisPart5: POI[] = [
                   ]
             },
             {
-                  "name": "Национална галерија „Даут-пашин амам“",
+                  "name": "Natsionalna galerija ,,Daut-pashin amam\"",
                   "text": "Művészeti galéria egy egykori 15. századi oszmán fürdőépületben.",
                   "category": "museum",
                   "coords": [
@@ -1233,7 +1233,7 @@ export const mkPoisPart5: POI[] = [
       ],
       "ro": [
             {
-                  "name": "Природонаучен Музеј",
+                  "name": "Prirodonauchen Muzej",
                   "text": "Un muzeu din Skopje care prezintă diversitatea biologică și geologică a Macedoniei.",
                   "category": "museum",
                   "coords": [
@@ -1242,7 +1242,7 @@ export const mkPoisPart5: POI[] = [
                   ]
             },
             {
-                  "name": "Скупи",
+                  "name": "Skupi",
                   "text": "Un sit arheologic care cuprinde rămășițele unui oraș roman antic de lângă Skopje.",
                   "category": "historical",
                   "coords": [
@@ -1251,7 +1251,7 @@ export const mkPoisPart5: POI[] = [
                   ]
             },
             {
-                  "name": "Скопско кале",
+                  "name": "Skopsko kale",
                   "text": "O cetate istorică ce domină orașul Skopje, construită inițial în secolul al VI-lea.",
                   "category": "castle",
                   "coords": [
@@ -1260,7 +1260,7 @@ export const mkPoisPart5: POI[] = [
                   ]
             },
             {
-                  "name": "Зоолошка градина Скопје",
+                  "name": "Zooloshka gradina Skopje",
                   "text": "Grădina zoologică municipală din Skopje, care găzduiește specii de animale din întreaga lume.",
                   "category": "recreational",
                   "coords": [
@@ -1269,7 +1269,7 @@ export const mkPoisPart5: POI[] = [
                   ]
             },
             {
-                  "name": "Музеј на Македонија",
+                  "name": "Muzej na Makedonija",
                   "text": "Unul dintre cele mai importante muzee din țară, axat pe arheologie și etnologie.",
                   "category": "museum",
                   "coords": [
@@ -1278,7 +1278,7 @@ export const mkPoisPart5: POI[] = [
                   ]
             },
             {
-                  "name": "Македонска Национална опера и балет",
+                  "name": "Makedonska Natsionalna opera i balet",
                   "text": "O instituție culturală majoră din Skopje pentru spectacole de operă și balet de calitate.",
                   "category": "cultural",
                   "coords": [
@@ -1287,7 +1287,7 @@ export const mkPoisPart5: POI[] = [
                   ]
             },
             {
-                  "name": "Музеј на современата уметност",
+                  "name": "Muzej na sovremenata umetnost",
                   "text": "Un muzeu de artă modernă care oferă vederi asupra orașului Skopje de pe locația sa pe deal.",
                   "category": "museum",
                   "coords": [
@@ -1296,7 +1296,7 @@ export const mkPoisPart5: POI[] = [
                   ]
             },
             {
-                  "name": "Национална галерија „Даут-пашин амам“",
+                  "name": "Natsionalna galerija ,,Daut-pashin amam\"",
                   "text": "O galerie de artă găzduită într-o fostă baie otomană din secolul al XV-lea.",
                   "category": "museum",
                   "coords": [
@@ -1426,7 +1426,7 @@ export const mkPoisPart5: POI[] = [
     id: "MK-043-amdi-pasha-monument", "sights": {
       "de": [
             {
-                  "name": "Природонаучен Музеј",
+                  "name": "Prirodonauchen Muzej",
                   "text": "Ein Museum in Skopje, das die Flora und Fauna Nordmazedoniens präsentiert.",
                   "category": "museum",
                   "coords": [
@@ -1435,7 +1435,7 @@ export const mkPoisPart5: POI[] = [
                   ]
             },
             {
-                  "name": "Скопско кале",
+                  "name": "Skopsko kale",
                   "text": "Eine mittelalterliche Festung, die über dem alten Teil von Skopje thront.",
                   "category": "castle",
                   "coords": [
@@ -1444,7 +1444,7 @@ export const mkPoisPart5: POI[] = [
                   ]
             },
             {
-                  "name": "Зоолошка градина Скопје",
+                  "name": "Zooloshka gradina Skopje",
                   "text": "Der städtische Zoo von Skopje beherbergt zahlreiche Tierarten.",
                   "category": "recreational",
                   "coords": [
@@ -1453,7 +1453,7 @@ export const mkPoisPart5: POI[] = [
                   ]
             },
             {
-                  "name": "Музеј на Македонија",
+                  "name": "Muzej na Makedonija",
                   "text": "Ein bedeutendes Museum in Skopje zur Geschichte und Archäologie des Landes.",
                   "category": "museum",
                   "coords": [
@@ -1462,7 +1462,7 @@ export const mkPoisPart5: POI[] = [
                   ]
             },
             {
-                  "name": "Музеј на современата уметност",
+                  "name": "Muzej na sovremenata umetnost",
                   "text": "Ein Museum für zeitgenössische Kunst mit Blick auf das Stadtzentrum von Skopje.",
                   "category": "museum",
                   "coords": [
@@ -1500,7 +1500,7 @@ export const mkPoisPart5: POI[] = [
       ],
       "hu": [
             {
-                  "name": "Природонаучен Музеј",
+                  "name": "Prirodonauchen Muzej",
                   "text": "Szkopjei múzeum, amely Észak-Macedónia növény- és állatvilágát mutatja be.",
                   "category": "museum",
                   "coords": [
@@ -1509,7 +1509,7 @@ export const mkPoisPart5: POI[] = [
                   ]
             },
             {
-                  "name": "Скопско кале",
+                  "name": "Skopsko kale",
                   "text": "Középkori erődítmény, amely Szkopje óvárosa fölé magasodik.",
                   "category": "castle",
                   "coords": [
@@ -1518,7 +1518,7 @@ export const mkPoisPart5: POI[] = [
                   ]
             },
             {
-                  "name": "Зоолошка градина Скопје",
+                  "name": "Zooloshka gradina Skopje",
                   "text": "Szkopje városi állatkertje, amely számos állatfajnak ad otthont.",
                   "category": "recreational",
                   "coords": [
@@ -1527,7 +1527,7 @@ export const mkPoisPart5: POI[] = [
                   ]
             },
             {
-                  "name": "Музеј на Македонија",
+                  "name": "Muzej na Makedonija",
                   "text": "Szkopje jelentős múzeuma, amely az ország történelmét és régészetét mutatja be.",
                   "category": "museum",
                   "coords": [
@@ -1536,7 +1536,7 @@ export const mkPoisPart5: POI[] = [
                   ]
             },
             {
-                  "name": "Музеј на современата уметност",
+                  "name": "Muzej na sovremenata umetnost",
                   "text": "Kortárs művészeti múzeum, amely Szkopje városközpontjára néz.",
                   "category": "museum",
                   "coords": [
@@ -1545,7 +1545,7 @@ export const mkPoisPart5: POI[] = [
                   ]
             },
             {
-                  "name": "Дино парк Скопје",
+                  "name": "Dino park Skopje",
                   "text": "Családbarát tematikus park dinoszaurusz-figurákkal Szkopjéban.",
                   "category": "recreational",
                   "coords": [
@@ -1554,7 +1554,7 @@ export const mkPoisPart5: POI[] = [
                   ]
             },
             {
-                  "name": "Турска Чаршија",
+                  "name": "Turska Charshija",
                   "text": "Szkopje történelmi bazárja oszmán építészettel és számos üzlettel.",
                   "category": "landmark",
                   "coords": [
@@ -1563,7 +1563,7 @@ export const mkPoisPart5: POI[] = [
                   ]
             },
             {
-                  "name": "Градски парк",
+                  "name": "Gradski park",
                   "text": "Szkopje nagy városi parkja zöldterületeket és kikapcsolódási lehetőséget kínál.",
                   "category": "landmark",
                   "coords": [
@@ -1574,7 +1574,7 @@ export const mkPoisPart5: POI[] = [
       ],
       "ro": [
             {
-                  "name": "Природонаучен Музеј",
+                  "name": "Prirodonauchen Muzej",
                   "text": "Un muzeu în Skopje care prezintă flora și fauna Macedoniei de Nord.",
                   "category": "museum",
                   "coords": [
@@ -1583,7 +1583,7 @@ export const mkPoisPart5: POI[] = [
                   ]
             },
             {
-                  "name": "Скопско кале",
+                  "name": "Skopsko kale",
                   "text": "O cetate medievală care domină partea veche a orașului Skopje.",
                   "category": "castle",
                   "coords": [
@@ -1592,7 +1592,7 @@ export const mkPoisPart5: POI[] = [
                   ]
             },
             {
-                  "name": "Зоолошка градина Скопје",
+                  "name": "Zooloshka gradina Skopje",
                   "text": "Grădina zoologică a orașului Skopje găzduiește numeroase specii de animale.",
                   "category": "recreational",
                   "coords": [
@@ -1601,7 +1601,7 @@ export const mkPoisPart5: POI[] = [
                   ]
             },
             {
-                  "name": "Музеј на Македонија",
+                  "name": "Muzej na Makedonija",
                   "text": "Un muzeu important din Skopje dedicat istoriei și arheologiei țării.",
                   "category": "museum",
                   "coords": [
@@ -1610,7 +1610,7 @@ export const mkPoisPart5: POI[] = [
                   ]
             },
             {
-                  "name": "Музеј на современата уметност",
+                  "name": "Muzej na sovremenata umetnost",
                   "text": "Un muzeu de artă contemporană cu vedere spre centrul orașului Skopje.",
                   "category": "museum",
                   "coords": [
@@ -1619,7 +1619,7 @@ export const mkPoisPart5: POI[] = [
                   ]
             },
             {
-                  "name": "Дино парк Скопје",
+                  "name": "Dino park Skopje",
                   "text": "Un parc tematic pentru familii cu figuri de dinozauri în Skopje.",
                   "category": "recreational",
                   "coords": [
@@ -1628,7 +1628,7 @@ export const mkPoisPart5: POI[] = [
                   ]
             },
             {
-                  "name": "Турска Чаршија",
+                  "name": "Turska Charshija",
                   "text": "Bazarul istoric din Skopje, cu arhitectură otomană și numeroase magazine.",
                   "category": "landmark",
                   "coords": [
@@ -1637,7 +1637,7 @@ export const mkPoisPart5: POI[] = [
                   ]
             },
             {
-                  "name": "Градски парк",
+                  "name": "Gradski park",
                   "text": "Marele parc municipal din Skopje oferă spații verzi și facilități de recreere.",
                   "category": "landmark",
                   "coords": [
@@ -1768,7 +1768,7 @@ export const mkPoisPart5: POI[] = [
     id: "MK-044-butel-cemetery", "sights": {
       "de": [
             {
-                  "name": "Скопско кале",
+                  "name": "Skopsko kale",
                   "text": "Die Festung von Skopje, bekannt als Kale, ist eine historische Burganlage über der nordmazedonischen Hauptstadt.",
                   "category": "castle",
                   "coords": [
@@ -1777,7 +1777,7 @@ export const mkPoisPart5: POI[] = [
                   ]
             },
             {
-                  "name": "Зоолошка градина Скопје",
+                  "name": "Zooloshka gradina Skopje",
                   "text": "Der Zoo von Skopje beherbergt eine Vielzahl von Tierarten und ist ein beliebtes Ausflugsziel in der Stadt.",
                   "category": "recreational",
                   "coords": [
@@ -1786,7 +1786,7 @@ export const mkPoisPart5: POI[] = [
                   ]
             },
             {
-                  "name": "Музеј на Македонија",
+                  "name": "Muzej na Makedonija",
                   "text": "Dieses Museum in Skopje zeigt Ausstellungen zur Geschichte, Archäologie und Ethnologie Nordmazedoniens.",
                   "category": "museum",
                   "coords": [
@@ -1795,7 +1795,7 @@ export const mkPoisPart5: POI[] = [
                   ]
             },
             {
-                  "name": "Музеј на современата уметност",
+                  "name": "Muzej na sovremenata umetnost",
                   "text": "Das Museum für zeitgenössische Kunst in Skopje präsentiert Werke moderner und aktueller Künstler.",
                   "category": "museum",
                   "coords": [
@@ -1822,7 +1822,7 @@ export const mkPoisPart5: POI[] = [
                   ]
             },
             {
-                  "name": "Француски воени гробишта",
+                  "name": "Frantsuski voeni grobishta",
                   "text": "Ein französischer Militärfriedhof in Skopje, der an die im Ersten Weltkrieg gefallenen Soldaten erinnert.",
                   "category": "historical",
                   "coords": [
@@ -1833,7 +1833,7 @@ export const mkPoisPart5: POI[] = [
       ],
       "hu": [
             {
-                  "name": "Скопско кале",
+                  "name": "Skopsko kale",
                   "text": "A szkópjei erőd, az úgynevezett Kale, egy történelmi vár az észak-macedón főváros felett.",
                   "category": "castle",
                   "coords": [
@@ -1842,7 +1842,7 @@ export const mkPoisPart5: POI[] = [
                   ]
             },
             {
-                  "name": "Зоолошка градина Скопје",
+                  "name": "Zooloshka gradina Skopje",
                   "text": "A szkópjei állatkert számos állatfajnak ad otthont, és népszerű úti cél a városban.",
                   "category": "recreational",
                   "coords": [
@@ -1851,7 +1851,7 @@ export const mkPoisPart5: POI[] = [
                   ]
             },
             {
-                  "name": "Музеј на Македонија",
+                  "name": "Muzej na Makedonija",
                   "text": "Ez a szkópjei múzeum Észak-Macedónia történelmét, régészetét és néprajzát bemutató kiállításoknak ad otthont.",
                   "category": "museum",
                   "coords": [
@@ -1860,7 +1860,7 @@ export const mkPoisPart5: POI[] = [
                   ]
             },
             {
-                  "name": "Музеј на современата уметност",
+                  "name": "Muzej na sovremenata umetnost",
                   "text": "A szkópjei Kortárs Művészeti Múzeum modern és kortárs művészek alkotásait mutatja be.",
                   "category": "museum",
                   "coords": [
@@ -1869,7 +1869,7 @@ export const mkPoisPart5: POI[] = [
                   ]
             },
             {
-                  "name": "Турска Чаршија",
+                  "name": "Turska Charshija",
                   "text": "A szkópjei Öreg Bazár a város legnagyobb kereskedelmi központja és jelentős kulturális negyede.",
                   "category": "landmark",
                   "coords": [
@@ -1878,7 +1878,7 @@ export const mkPoisPart5: POI[] = [
                   ]
             },
             {
-                  "name": "Градски парк",
+                  "name": "Gradski park",
                   "text": "A szkópjei városi park tágas zöldfelületeket és kikapcsolódási lehetőségeket kínál a város szívében.",
                   "category": "landmark",
                   "coords": [
@@ -1887,7 +1887,7 @@ export const mkPoisPart5: POI[] = [
                   ]
             },
             {
-                  "name": "Француски воени гробишта",
+                  "name": "Frantsuski voeni grobishta",
                   "text": "Francia katonai temető Szkópjéban, amely az első világháborúban elesett katonáknak állít emléket.",
                   "category": "historical",
                   "coords": [
@@ -1898,7 +1898,7 @@ export const mkPoisPart5: POI[] = [
       ],
       "ro": [
             {
-                  "name": "Скопско кале",
+                  "name": "Skopsko kale",
                   "text": "Cetatea Skopje, cunoscută sub numele de Kale, este o fortificație istorică situată deasupra capitalei Macedoniei de Nord.",
                   "category": "castle",
                   "coords": [
@@ -1907,7 +1907,7 @@ export const mkPoisPart5: POI[] = [
                   ]
             },
             {
-                  "name": "Зоолошка градина Скопје",
+                  "name": "Zooloshka gradina Skopje",
                   "text": "Grădina Zoologică din Skopje găzduiește o varietate de specii de animale și este o destinație populară în oraș.",
                   "category": "recreational",
                   "coords": [
@@ -1916,7 +1916,7 @@ export const mkPoisPart5: POI[] = [
                   ]
             },
             {
-                  "name": "Музеј на Македонија",
+                  "name": "Muzej na Makedonija",
                   "text": "Acest muzeu din Skopje prezintă expoziții despre istoria, arheologia și etnologia Macedoniei de Nord.",
                   "category": "museum",
                   "coords": [
@@ -1925,7 +1925,7 @@ export const mkPoisPart5: POI[] = [
                   ]
             },
             {
-                  "name": "Музеј на современата уметност",
+                  "name": "Muzej na sovremenata umetnost",
                   "text": "Muzeul de Artă Contemporană din Skopje prezintă lucrări ale artiștilor moderni și actuali.",
                   "category": "museum",
                   "coords": [
@@ -1934,7 +1934,7 @@ export const mkPoisPart5: POI[] = [
                   ]
             },
             {
-                  "name": "Турска Чаршија",
+                  "name": "Turska Charshija",
                   "text": "Vechiul Bazar din Skopje este cel mai mare centru comercial și un cartier cultural important al orașului.",
                   "category": "landmark",
                   "coords": [
@@ -1943,7 +1943,7 @@ export const mkPoisPart5: POI[] = [
                   ]
             },
             {
-                  "name": "Градски парк",
+                  "name": "Gradski park",
                   "text": "Parcul orașului din Skopje oferă spații verzi vaste și facilități de recreere în inima orașului.",
                   "category": "landmark",
                   "coords": [
@@ -1952,7 +1952,7 @@ export const mkPoisPart5: POI[] = [
                   ]
             },
             {
-                  "name": "Француски воени гробишта",
+                  "name": "Frantsuski voeni grobishta",
                   "text": "Un cimitir militar francez din Skopje, care îi comemorează pe soldații căzuți în Primul Război Mondial.",
                   "category": "historical",
                   "coords": [
@@ -2073,7 +2073,7 @@ export const mkPoisPart5: POI[] = [
     id: "MK-044-aqueduct-skopje", "sights": {
       "de": [
             {
-                  "name": "Природонаучен Музеј",
+                  "name": "Prirodonauchen Muzej",
                   "text": "Das Museum präsentiert eine umfassende Sammlung zur Geologie und Biologie Nordmazedoniens.",
                   "category": "museum",
                   "coords": [
@@ -2082,7 +2082,7 @@ export const mkPoisPart5: POI[] = [
                   ]
             },
             {
-                  "name": "Скупи",
+                  "name": "Skupi",
                   "text": "Eine bedeutende archäologische Ausgrabungsstätte einer antiken römischen Stadt.",
                   "category": "historical",
                   "coords": [
@@ -2091,7 +2091,7 @@ export const mkPoisPart5: POI[] = [
                   ]
             },
             {
-                  "name": "Скопско кале",
+                  "name": "Skopsko kale",
                   "text": "Eine historische Festung, die einen weiten Blick über die Hauptstadt Skopje bietet.",
                   "category": "castle",
                   "coords": [
@@ -2100,7 +2100,7 @@ export const mkPoisPart5: POI[] = [
                   ]
             },
             {
-                  "name": "Зоолошка градина Скопје",
+                  "name": "Zooloshka gradina Skopje",
                   "text": "Ein städtischer Zoo, der eine Vielzahl heimischer und exotischer Tiere beherbergt.",
                   "category": "recreational",
                   "coords": [
@@ -2109,7 +2109,7 @@ export const mkPoisPart5: POI[] = [
                   ]
             },
             {
-                  "name": "Музеј на Македонија",
+                  "name": "Muzej na Makedonija",
                   "text": "Das Museum bewahrt und zeigt wertvolle Exponate zur Geschichte und Archäologie Mazedoniens.",
                   "category": "museum",
                   "coords": [
@@ -2118,7 +2118,7 @@ export const mkPoisPart5: POI[] = [
                   ]
             },
             {
-                  "name": "Македонска Национална опера и балет",
+                  "name": "Makedonska Natsionalna opera i balet",
                   "text": "Die wichtigste kulturelle Institution für Opern- und Ballettaufführungen im Land.",
                   "category": "cultural",
                   "coords": [
@@ -2127,7 +2127,7 @@ export const mkPoisPart5: POI[] = [
                   ]
             },
             {
-                  "name": "Музеј на современата уметност",
+                  "name": "Muzej na sovremenata umetnost",
                   "text": "Ein Museum für zeitgenössische Kunst mit einer bedeutenden internationalen Sammlung.",
                   "category": "museum",
                   "coords": [
@@ -2136,7 +2136,7 @@ export const mkPoisPart5: POI[] = [
                   ]
             },
             {
-                  "name": "Национална галерија „Даут-пашин амам“",
+                  "name": "Natsionalna galerija ,,Daut-pashin amam\"",
                   "text": "Diese Kunstgalerie ist in einem eindrucksvoll restaurierten osmanischen Hamam untergebracht.",
                   "category": "museum",
                   "coords": [
@@ -2147,7 +2147,7 @@ export const mkPoisPart5: POI[] = [
       ],
       "hu": [
             {
-                  "name": "Природонаучен Музеј",
+                  "name": "Prirodonauchen Muzej",
                   "text": "A múzeum Észak-Macedónia geológiáját és biológiáját bemutató átfogó gyűjteménynek ad otthont.",
                   "category": "museum",
                   "coords": [
@@ -2156,7 +2156,7 @@ export const mkPoisPart5: POI[] = [
                   ]
             },
             {
-                  "name": "Скупи",
+                  "name": "Skupi",
                   "text": "Egy ókori római város jelentős régészeti lelőhelye.",
                   "category": "historical",
                   "coords": [
@@ -2165,7 +2165,7 @@ export const mkPoisPart5: POI[] = [
                   ]
             },
             {
-                  "name": "Скопско кале",
+                  "name": "Skopsko kale",
                   "text": "Történelmi erődítmény, amely széles kilátást nyújt a fővárosra, Szkopjéra.",
                   "category": "castle",
                   "coords": [
@@ -2174,7 +2174,7 @@ export const mkPoisPart5: POI[] = [
                   ]
             },
             {
-                  "name": "Зоолошка градина Скопје",
+                  "name": "Zooloshka gradina Skopje",
                   "text": "Városi állatkert, amely számos őshonos és egzotikus állatnak ad otthont.",
                   "category": "recreational",
                   "coords": [
@@ -2183,7 +2183,7 @@ export const mkPoisPart5: POI[] = [
                   ]
             },
             {
-                  "name": "Музеј на Македонија",
+                  "name": "Muzej na Makedonija",
                   "text": "A múzeum Macedónia történelmének és régészetének értékes emlékeit őrzi és mutatja be.",
                   "category": "museum",
                   "coords": [
@@ -2192,7 +2192,7 @@ export const mkPoisPart5: POI[] = [
                   ]
             },
             {
-                  "name": "Македонска Национална опера и балет",
+                  "name": "Makedonska Natsionalna opera i balet",
                   "text": "Az ország legfontosabb kulturális intézménye operai és balett-előadások számára.",
                   "category": "cultural",
                   "coords": [
@@ -2201,7 +2201,7 @@ export const mkPoisPart5: POI[] = [
                   ]
             },
             {
-                  "name": "Музеј на современата уметност",
+                  "name": "Muzej na sovremenata umetnost",
                   "text": "Kortárs művészeti múzeum jelentős nemzetközi gyűjteménnyel.",
                   "category": "museum",
                   "coords": [
@@ -2210,7 +2210,7 @@ export const mkPoisPart5: POI[] = [
                   ]
             },
             {
-                  "name": "Национална галерија „Даут-пашин амам“",
+                  "name": "Natsionalna galerija ,,Daut-pashin amam\"",
                   "text": "Ez a művészeti galéria egy impozánsan felújított oszmán hamamban kapott helyet.",
                   "category": "museum",
                   "coords": [
@@ -2221,7 +2221,7 @@ export const mkPoisPart5: POI[] = [
       ],
       "ro": [
             {
-                  "name": "Природонаучен Музеј",
+                  "name": "Prirodonauchen Muzej",
                   "text": "Muzeul găzduiește o colecție cuprinzătoare despre geologia și biologia Macedoniei de Nord.",
                   "category": "museum",
                   "coords": [
@@ -2230,7 +2230,7 @@ export const mkPoisPart5: POI[] = [
                   ]
             },
             {
-                  "name": "Скупи",
+                  "name": "Skupi",
                   "text": "Un sit arheologic important ce cuprinde ruinele unui vechi oraș roman.",
                   "category": "historical",
                   "coords": [
@@ -2239,7 +2239,7 @@ export const mkPoisPart5: POI[] = [
                   ]
             },
             {
-                  "name": "Скопско кале",
+                  "name": "Skopsko kale",
                   "text": "O fortăreață istorică ce oferă o panoramă vastă asupra capitalei Skopje.",
                   "category": "castle",
                   "coords": [
@@ -2248,7 +2248,7 @@ export const mkPoisPart5: POI[] = [
                   ]
             },
             {
-                  "name": "Зоолошка градина Скопје",
+                  "name": "Zooloshka gradina Skopje",
                   "text": "O grădină zoologică urbană ce găzduiește o varietate de animale native și exotice.",
                   "category": "recreational",
                   "coords": [
@@ -2257,7 +2257,7 @@ export const mkPoisPart5: POI[] = [
                   ]
             },
             {
-                  "name": "Музеј на Македонија",
+                  "name": "Muzej na Makedonija",
                   "text": "Muzeul conservă și expune artefacte valoroase din istoria și arheologia Macedoniei.",
                   "category": "museum",
                   "coords": [
@@ -2266,7 +2266,7 @@ export const mkPoisPart5: POI[] = [
                   ]
             },
             {
-                  "name": "Македонска Национална опера и балет",
+                  "name": "Makedonska Natsionalna opera i balet",
                   "text": "Cea mai importantă instituție culturală pentru spectacole de operă și balet din țară.",
                   "category": "cultural",
                   "coords": [
@@ -2275,7 +2275,7 @@ export const mkPoisPart5: POI[] = [
                   ]
             },
             {
-                  "name": "Музеј на современата уметност",
+                  "name": "Muzej na sovremenata umetnost",
                   "text": "Un muzeu de artă contemporană ce deține o importantă colecție internațională.",
                   "category": "museum",
                   "coords": [
@@ -2284,7 +2284,7 @@ export const mkPoisPart5: POI[] = [
                   ]
             },
             {
-                  "name": "Национална галерија „Даут-пашин амам“",
+                  "name": "Natsionalna galerija ,,Daut-pashin amam\"",
                   "text": "Această galerie de artă este găzduită într-un hamam otoman restaurat impresionant.",
                   "category": "museum",
                   "coords": [
@@ -2415,7 +2415,7 @@ export const mkPoisPart5: POI[] = [
     id: "MK-045-old-bazaar", "sights": {
       "de": [
             {
-                  "name": "Природонаучен Музеј",
+                  "name": "Prirodonauchen Muzej",
                   "text": "Das Naturkundemuseum in Skopje, das die vielfältige Flora und Fauna Mazedoniens dokumentiert.",
                   "category": "museum",
                   "coords": [
@@ -2424,7 +2424,7 @@ export const mkPoisPart5: POI[] = [
                   ]
             },
             {
-                  "name": "Скопско кале",
+                  "name": "Skopsko kale",
                   "text": "Eine historische Festung auf dem höchsten Punkt von Skopje mit Blick auf den Vardar.",
                   "category": "castle",
                   "coords": [
@@ -2433,7 +2433,7 @@ export const mkPoisPart5: POI[] = [
                   ]
             },
             {
-                  "name": "Зоолошка градина Скопје",
+                  "name": "Zooloshka gradina Skopje",
                   "text": "Der städtische Zoo von Skopje, der eine Vielzahl heimischer und exotischer Tiere beherbergt.",
                   "category": "recreational",
                   "coords": [
@@ -2442,7 +2442,7 @@ export const mkPoisPart5: POI[] = [
                   ]
             },
             {
-                  "name": "Музеј на Македонија",
+                  "name": "Muzej na Makedonija",
                   "text": "Eines der ältesten Museen des Landes, das die Geschichte und Ethnologie Mazedoniens zeigt.",
                   "category": "museum",
                   "coords": [
@@ -2451,7 +2451,7 @@ export const mkPoisPart5: POI[] = [
                   ]
             },
             {
-                  "name": "Македонска Национална опера и балет",
+                  "name": "Makedonska Natsionalna opera i balet",
                   "text": "Die führende Kulturinstitution in Skopje für Opern- und Ballettaufführungen.",
                   "category": "cultural",
                   "coords": [
@@ -2460,7 +2460,7 @@ export const mkPoisPart5: POI[] = [
                   ]
             },
             {
-                  "name": "Музеј на современата уметност",
+                  "name": "Muzej na sovremenata umetnost",
                   "text": "Ein bedeutendes Museum für moderne Kunst, das nach dem Erdbeben von 1963 gegründet wurde.",
                   "category": "museum",
                   "coords": [
@@ -2469,7 +2469,7 @@ export const mkPoisPart5: POI[] = [
                   ]
             },
             {
-                  "name": "Национална галерија „Даут-пашин амам“",
+                  "name": "Natsionalna galerija ,,Daut-pashin amam\"",
                   "text": "Eine Kunstgalerie in einem ehemaligen osmanischen Bad aus dem 15. Jahrhundert.",
                   "category": "museum",
                   "coords": [
@@ -2489,7 +2489,7 @@ export const mkPoisPart5: POI[] = [
       ],
       "hu": [
             {
-                  "name": "Природонаучен Музеј",
+                  "name": "Prirodonauchen Muzej",
                   "text": "Szkopjei természettudományi múzeum, amely Macedónia gazdag növény- és állatvilágát mutatja be.",
                   "category": "museum",
                   "coords": [
@@ -2498,7 +2498,7 @@ export const mkPoisPart5: POI[] = [
                   ]
             },
             {
-                  "name": "Скопско кале",
+                  "name": "Skopsko kale",
                   "text": "Történelmi erőd Szkopje legmagasabb pontján, kilátással a Vardar folyóra.",
                   "category": "castle",
                   "coords": [
@@ -2507,7 +2507,7 @@ export const mkPoisPart5: POI[] = [
                   ]
             },
             {
-                  "name": "Зоолошка градина Скопје",
+                  "name": "Zooloshka gradina Skopje",
                   "text": "Szkopje városi állatkertje, amely számos őshonos és egzotikus állatnak ad otthont.",
                   "category": "recreational",
                   "coords": [
@@ -2516,7 +2516,7 @@ export const mkPoisPart5: POI[] = [
                   ]
             },
             {
-                  "name": "Музеј на Македонија",
+                  "name": "Muzej na Makedonija",
                   "text": "Az ország egyik legrégebbi múzeuma, amely Macedónia történelmét és néprajzát mutatja be.",
                   "category": "museum",
                   "coords": [
@@ -2525,7 +2525,7 @@ export const mkPoisPart5: POI[] = [
                   ]
             },
             {
-                  "name": "Македонска Национална опера и балет",
+                  "name": "Makedonska Natsionalna opera i balet",
                   "text": "Szkopje vezető kulturális intézménye operaelőadások és balettek számára.",
                   "category": "cultural",
                   "coords": [
@@ -2534,7 +2534,7 @@ export const mkPoisPart5: POI[] = [
                   ]
             },
             {
-                  "name": "Музеј на современата уметност",
+                  "name": "Muzej na sovremenata umetnost",
                   "text": "Fontos modern művészeti múzeum, amelyet az 1963-as földrengés után alapítottak.",
                   "category": "museum",
                   "coords": [
@@ -2543,7 +2543,7 @@ export const mkPoisPart5: POI[] = [
                   ]
             },
             {
-                  "name": "Национална галерија „Даут-пашин амам“",
+                  "name": "Natsionalna galerija ,,Daut-pashin amam\"",
                   "text": "Művészeti galéria egy egykori, 15. századi oszmán fürdő épületében.",
                   "category": "museum",
                   "coords": [
@@ -2552,7 +2552,7 @@ export const mkPoisPart5: POI[] = [
                   ]
             },
             {
-                  "name": "Музеј на македонската борба",
+                  "name": "Muzej na makedonskata borba",
                   "text": "Ez a múzeum a macedón függetlenségi harc és a nemzeti történelem eseményeit mutatja be.",
                   "category": "museum",
                   "coords": [
@@ -2563,7 +2563,7 @@ export const mkPoisPart5: POI[] = [
       ],
       "ro": [
             {
-                  "name": "Природонаучен Музеј",
+                  "name": "Prirodonauchen Muzej",
                   "text": "Muzeul de Istorie Naturală din Skopje, care documentează flora și fauna diversă a Macedoniei.",
                   "category": "museum",
                   "coords": [
@@ -2572,7 +2572,7 @@ export const mkPoisPart5: POI[] = [
                   ]
             },
             {
-                  "name": "Скопско кале",
+                  "name": "Skopsko kale",
                   "text": "O fortăreață istorică situată în cel mai înalt punct din Skopje, cu vedere la râul Vardar.",
                   "category": "castle",
                   "coords": [
@@ -2581,7 +2581,7 @@ export const mkPoisPart5: POI[] = [
                   ]
             },
             {
-                  "name": "Зоолошка градина Скопје",
+                  "name": "Zooloshka gradina Skopje",
                   "text": "Grădina zoologică din Skopje, care adăpostește o varietate de animale native și exotice.",
                   "category": "recreational",
                   "coords": [
@@ -2590,7 +2590,7 @@ export const mkPoisPart5: POI[] = [
                   ]
             },
             {
-                  "name": "Музеј на Македонија",
+                  "name": "Muzej na Makedonija",
                   "text": "Unul dintre cele mai vechi muzee din țară, care prezintă istoria și etnologia Macedoniei.",
                   "category": "museum",
                   "coords": [
@@ -2599,7 +2599,7 @@ export const mkPoisPart5: POI[] = [
                   ]
             },
             {
-                  "name": "Македонска Национална опера и балет",
+                  "name": "Makedonska Natsionalna opera i balet",
                   "text": "Principala instituție culturală din Skopje pentru spectacole de operă și balet.",
                   "category": "cultural",
                   "coords": [
@@ -2608,7 +2608,7 @@ export const mkPoisPart5: POI[] = [
                   ]
             },
             {
-                  "name": "Музеј на современата уметност",
+                  "name": "Muzej na sovremenata umetnost",
                   "text": "Un important muzeu de artă modernă, fondat după cutremurul din 1963.",
                   "category": "museum",
                   "coords": [
@@ -2617,7 +2617,7 @@ export const mkPoisPart5: POI[] = [
                   ]
             },
             {
-                  "name": "Национална галерија „Даут-пашин амам“",
+                  "name": "Natsionalna galerija ,,Daut-pashin amam\"",
                   "text": "O galerie de artă situată într-o fostă baie otomană din secolul al XV-lea.",
                   "category": "museum",
                   "coords": [
@@ -2626,7 +2626,7 @@ export const mkPoisPart5: POI[] = [
                   ]
             },
             {
-                  "name": "Музеј на македонската борба",
+                  "name": "Muzej na makedonskata borba",
                   "text": "Acest muzeu prezintă expoziții dedicate luptei pentru independența Macedoniei și istoriei naționale.",
                   "category": "museum",
                   "coords": [
@@ -2756,7 +2756,7 @@ export const mkPoisPart5: POI[] = [
     id: "MK-045-mustafa-pasha-mosque", "sights": {
       "de": [
             {
-                  "name": "Природонаучен Музеј",
+                  "name": "Prirodonauchen Muzej",
                   "text": "Ein Museum in Skopje, das der Flora, Fauna und Geologie Nordmazedoniens gewidmet ist.",
                   "category": "museum",
                   "coords": [
@@ -2765,7 +2765,7 @@ export const mkPoisPart5: POI[] = [
                   ]
             },
             {
-                  "name": "Скопско кале",
+                  "name": "Skopsko kale",
                   "text": "Eine historische Festung auf dem höchsten Punkt der Stadt mit Blick auf den Vardar.",
                   "category": "castle",
                   "coords": [
@@ -2774,7 +2774,7 @@ export const mkPoisPart5: POI[] = [
                   ]
             },
             {
-                  "name": "Зоолошка градина Скопје",
+                  "name": "Zooloshka gradina Skopje",
                   "text": "Der Zoo von Skopje beherbergt zahlreiche Tierarten in der Nähe des Stadtzentrums.",
                   "category": "recreational",
                   "coords": [
@@ -2783,7 +2783,7 @@ export const mkPoisPart5: POI[] = [
                   ]
             },
             {
-                  "name": "Скупи",
+                  "name": "Skupi",
                   "text": "Die Überreste einer antiken römischen Stadt in der Nähe von Skopje.",
                   "category": "historical",
                   "coords": [
@@ -2792,7 +2792,7 @@ export const mkPoisPart5: POI[] = [
                   ]
             },
             {
-                  "name": "Музеј на Македонија",
+                  "name": "Muzej na Makedonija",
                   "text": "Eine bedeutende kulturelle Einrichtung, die die Geschichte und Ethnologie Mazedoniens dokumentiert.",
                   "category": "museum",
                   "coords": [
@@ -2801,7 +2801,7 @@ export const mkPoisPart5: POI[] = [
                   ]
             },
             {
-                  "name": "Македонска Национална опера и балет",
+                  "name": "Makedonska Natsionalna opera i balet",
                   "text": "Das nationale Zentrum für Opern- und Ballettaufführungen in der mazedonischen Hauptstadt.",
                   "category": "cultural",
                   "coords": [
@@ -2810,7 +2810,7 @@ export const mkPoisPart5: POI[] = [
                   ]
             },
             {
-                  "name": "Музеј на современата уметност",
+                  "name": "Muzej na sovremenata umetnost",
                   "text": "Ein bedeutendes Museum für zeitgenössische Kunst mit einer internationalen Sammlung.",
                   "category": "museum",
                   "coords": [
@@ -2819,7 +2819,7 @@ export const mkPoisPart5: POI[] = [
                   ]
             },
             {
-                  "name": "Национална галерија „Даут-пашин амам“",
+                  "name": "Natsionalna galerija ,,Daut-pashin amam\"",
                   "text": "Eine Kunstgalerie in einem ehemaligen osmanischen Badehaus aus dem 15. Jahrhundert.",
                   "category": "museum",
                   "coords": [
@@ -2830,7 +2830,7 @@ export const mkPoisPart5: POI[] = [
       ],
       "hu": [
             {
-                  "name": "Природонаучен Музеј",
+                  "name": "Prirodonauchen Muzej",
                   "text": "Szkopjei múzeum, amely Észak-Macedónia növény- és állatvilágát, valamint geológiáját mutatja be.",
                   "category": "museum",
                   "coords": [
@@ -2839,7 +2839,7 @@ export const mkPoisPart5: POI[] = [
                   ]
             },
             {
-                  "name": "Скопско кале",
+                  "name": "Skopsko kale",
                   "text": "Történelmi erőd a város legmagasabb pontján, kilátással a Vardar folyóra.",
                   "category": "castle",
                   "coords": [
@@ -2848,7 +2848,7 @@ export const mkPoisPart5: POI[] = [
                   ]
             },
             {
-                  "name": "Зоолошка градина Скопје",
+                  "name": "Zooloshka gradina Skopje",
                   "text": "A szkopjei állatkert számos állatfajnak ad otthont a városközpont közelében.",
                   "category": "recreational",
                   "coords": [
@@ -2857,7 +2857,7 @@ export const mkPoisPart5: POI[] = [
                   ]
             },
             {
-                  "name": "Скупи",
+                  "name": "Skupi",
                   "text": "Egy ókori római város maradványai Szkopje közelében.",
                   "category": "historical",
                   "coords": [
@@ -2866,7 +2866,7 @@ export const mkPoisPart5: POI[] = [
                   ]
             },
             {
-                  "name": "Музеј на Македонија",
+                  "name": "Muzej na Makedonija",
                   "text": "Jelentős kulturális intézmény, amely Macedónia történelmét és néprajzát dokumentálja.",
                   "category": "museum",
                   "coords": [
@@ -2875,7 +2875,7 @@ export const mkPoisPart5: POI[] = [
                   ]
             },
             {
-                  "name": "Македонска Национална опера и балет",
+                  "name": "Makedonska Natsionalna opera i balet",
                   "text": "Az operaelőadások és balettművészet nemzeti központja a macedón fővárosban.",
                   "category": "cultural",
                   "coords": [
@@ -2884,7 +2884,7 @@ export const mkPoisPart5: POI[] = [
                   ]
             },
             {
-                  "name": "Музеј на современата уметност",
+                  "name": "Muzej na sovremenata umetnost",
                   "text": "Kortárs művészeti múzeum jelentős nemzetközi gyűjteménnyel.",
                   "category": "museum",
                   "coords": [
@@ -2893,7 +2893,7 @@ export const mkPoisPart5: POI[] = [
                   ]
             },
             {
-                  "name": "Национална галерија „Даут-пашин амам“",
+                  "name": "Natsionalna galerija ,,Daut-pashin amam\"",
                   "text": "Művészeti galéria egy egykori 15. századi oszmán fürdőépületben.",
                   "category": "museum",
                   "coords": [
@@ -2904,7 +2904,7 @@ export const mkPoisPart5: POI[] = [
       ],
       "ro": [
             {
-                  "name": "Природонаучен Музеј",
+                  "name": "Prirodonauchen Muzej",
                   "text": "Un muzeu din Skopje dedicat florei, faunei și geologiei Macedoniei de Nord.",
                   "category": "museum",
                   "coords": [
@@ -2913,7 +2913,7 @@ export const mkPoisPart5: POI[] = [
                   ]
             },
             {
-                  "name": "Скопско кале",
+                  "name": "Skopsko kale",
                   "text": "O cetate istorică situată în cel mai înalt punct al orașului, oferind vedere spre râul Vardar.",
                   "category": "castle",
                   "coords": [
@@ -2922,7 +2922,7 @@ export const mkPoisPart5: POI[] = [
                   ]
             },
             {
-                  "name": "Зоолошка градина Скопје",
+                  "name": "Zooloshka gradina Skopje",
                   "text": "Grădina zoologică din Skopje găzduiește numeroase specii de animale, fiind situată aproape de centrul orașului.",
                   "category": "recreational",
                   "coords": [
@@ -2931,7 +2931,7 @@ export const mkPoisPart5: POI[] = [
                   ]
             },
             {
-                  "name": "Скупи",
+                  "name": "Skupi",
                   "text": "Rămășițele unui oraș roman antic situat în apropiere de Skopje.",
                   "category": "historical",
                   "coords": [
@@ -2940,7 +2940,7 @@ export const mkPoisPart5: POI[] = [
                   ]
             },
             {
-                  "name": "Музеј на Македонија",
+                  "name": "Muzej na Makedonija",
                   "text": "O instituție culturală importantă ce documentează istoria și etnologia Macedoniei.",
                   "category": "museum",
                   "coords": [
@@ -2949,7 +2949,7 @@ export const mkPoisPart5: POI[] = [
                   ]
             },
             {
-                  "name": "Македонска Национална опера и балет",
+                  "name": "Makedonska Natsionalna opera i balet",
                   "text": "Centrul național pentru spectacole de operă și balet din capitala macedoneană.",
                   "category": "cultural",
                   "coords": [
@@ -2958,7 +2958,7 @@ export const mkPoisPart5: POI[] = [
                   ]
             },
             {
-                  "name": "Музеј на современата уметност",
+                  "name": "Muzej na sovremenata umetnost",
                   "text": "Un muzeu de artă contemporană de referință, având o colecție internațională.",
                   "category": "museum",
                   "coords": [
@@ -2967,7 +2967,7 @@ export const mkPoisPart5: POI[] = [
                   ]
             },
             {
-                  "name": "Национална галерија „Даут-пашин амам“",
+                  "name": "Natsionalna galerija ,,Daut-pashin amam\"",
                   "text": "O galerie de artă situată într-o fostă baie otomană din secolul al XV-lea.",
                   "category": "museum",
                   "coords": [
@@ -3098,7 +3098,7 @@ export const mkPoisPart5: POI[] = [
     id: "MK-046-macedonia-square", "sights": {
       "de": [
             {
-                  "name": "Природонаучен Музеј",
+                  "name": "Prirodonauchen Muzej",
                   "text": "Museum für Naturkunde mit Exponaten zur Flora und Fauna Mazedoniens.",
                   "category": "museum",
                   "coords": [
@@ -3107,7 +3107,7 @@ export const mkPoisPart5: POI[] = [
                   ]
             },
             {
-                  "name": "Скопско кале",
+                  "name": "Skopsko kale",
                   "text": "Eine historische Festung auf einem Hügel mit Blick über Skopje.",
                   "category": "castle",
                   "coords": [
@@ -3116,7 +3116,7 @@ export const mkPoisPart5: POI[] = [
                   ]
             },
             {
-                  "name": "Зоолошка градина Скопје",
+                  "name": "Zooloshka gradina Skopje",
                   "text": "Der Stadtzoo von Skopje, der eine Vielzahl von Tierarten beherbergt.",
                   "category": "recreational",
                   "coords": [
@@ -3125,7 +3125,7 @@ export const mkPoisPart5: POI[] = [
                   ]
             },
             {
-                  "name": "Музеј на Македонија",
+                  "name": "Muzej na Makedonija",
                   "text": "Eines der ältesten Museen des Landes, das sich mit Geschichte und Ethnologie befasst.",
                   "category": "museum",
                   "coords": [
@@ -3134,7 +3134,7 @@ export const mkPoisPart5: POI[] = [
                   ]
             },
             {
-                  "name": "Македонска Национална опера и балет",
+                  "name": "Makedonska Natsionalna opera i balet",
                   "text": "Ein bedeutendes Kulturzentrum für Opern- und Ballettaufführungen in der Hauptstadt.",
                   "category": "cultural",
                   "coords": [
@@ -3143,7 +3143,7 @@ export const mkPoisPart5: POI[] = [
                   ]
             },
             {
-                  "name": "Музеј на современата уметност",
+                  "name": "Muzej na sovremenata umetnost",
                   "text": "Ein Museum für zeitgenössische Kunst mit Werken lokaler und internationaler Künstler.",
                   "category": "museum",
                   "coords": [
@@ -3152,7 +3152,7 @@ export const mkPoisPart5: POI[] = [
                   ]
             },
             {
-                  "name": "Национална галерија „Даут-пашин амам“",
+                  "name": "Natsionalna galerija ,,Daut-pashin amam\"",
                   "text": "Eine Nationalgalerie, die in einem restaurierten osmanischen Bad aus dem 15. Jahrhundert untergebracht ist.",
                   "category": "museum",
                   "coords": [
@@ -3172,7 +3172,7 @@ export const mkPoisPart5: POI[] = [
       ],
       "hu": [
             {
-                  "name": "Природонаучен Музеј",
+                  "name": "Prirodonauchen Muzej",
                   "text": "Természettudományi múzeum Macedónia növény- és állatvilágát bemutató tárlatokkal.",
                   "category": "museum",
                   "coords": [
@@ -3181,7 +3181,7 @@ export const mkPoisPart5: POI[] = [
                   ]
             },
             {
-                  "name": "Скопско кале",
+                  "name": "Skopsko kale",
                   "text": "Történelmi erőd egy dombtetőn, ahonnan kilátás nyílik Szkopjéra.",
                   "category": "castle",
                   "coords": [
@@ -3190,7 +3190,7 @@ export const mkPoisPart5: POI[] = [
                   ]
             },
             {
-                  "name": "Зоолошка градина Скопје",
+                  "name": "Zooloshka gradina Skopje",
                   "text": "Szkopje városi állatkertje, amely számos állatfajnak ad otthont.",
                   "category": "recreational",
                   "coords": [
@@ -3199,7 +3199,7 @@ export const mkPoisPart5: POI[] = [
                   ]
             },
             {
-                  "name": "Музеј на Македонија",
+                  "name": "Muzej na Makedonija",
                   "text": "Az ország egyik legrégebbi múzeuma, amely történelemmel és néprajzzal foglalkozik.",
                   "category": "museum",
                   "coords": [
@@ -3208,7 +3208,7 @@ export const mkPoisPart5: POI[] = [
                   ]
             },
             {
-                  "name": "Македонска Национална опера и балет",
+                  "name": "Makedonska Natsionalna opera i balet",
                   "text": "Jelentős kulturális központ opera- és balettelőadások számára a fővárosban.",
                   "category": "cultural",
                   "coords": [
@@ -3217,7 +3217,7 @@ export const mkPoisPart5: POI[] = [
                   ]
             },
             {
-                  "name": "Музеј на современата уметност",
+                  "name": "Muzej na sovremenata umetnost",
                   "text": "Kortárs művészeti múzeum helyi és nemzetközi művészek alkotásaival.",
                   "category": "museum",
                   "coords": [
@@ -3226,7 +3226,7 @@ export const mkPoisPart5: POI[] = [
                   ]
             },
             {
-                  "name": "Национална галерија „Даут-пашин амам“",
+                  "name": "Natsionalna galerija ,,Daut-pashin amam\"",
                   "text": "Nemzeti galéria egy 15. századi, felújított oszmán fürdő épületében.",
                   "category": "museum",
                   "coords": [
@@ -3235,7 +3235,7 @@ export const mkPoisPart5: POI[] = [
                   ]
             },
             {
-                  "name": "Музеј на македонската борба",
+                  "name": "Muzej na makedonskata borba",
                   "text": "Macedónia függetlenségi harcának történelmét bemutató múzeum.",
                   "category": "museum",
                   "coords": [
@@ -3246,7 +3246,7 @@ export const mkPoisPart5: POI[] = [
       ],
       "ro": [
             {
-                  "name": "Природонаучен Музеј",
+                  "name": "Prirodonauchen Muzej",
                   "text": "Muzeu de istorie naturală cu exponate despre flora și fauna Macedoniei.",
                   "category": "museum",
                   "coords": [
@@ -3255,7 +3255,7 @@ export const mkPoisPart5: POI[] = [
                   ]
             },
             {
-                  "name": "Скопско кале",
+                  "name": "Skopsko kale",
                   "text": "O cetate istorică situată pe un deal, oferind vedere asupra orașului Skopje.",
                   "category": "castle",
                   "coords": [
@@ -3264,7 +3264,7 @@ export const mkPoisPart5: POI[] = [
                   ]
             },
             {
-                  "name": "Зоолошка градина Скопје",
+                  "name": "Zooloshka gradina Skopje",
                   "text": "Grădina zoologică din Skopje, care găzduiește o varietate de specii de animale.",
                   "category": "recreational",
                   "coords": [
@@ -3273,7 +3273,7 @@ export const mkPoisPart5: POI[] = [
                   ]
             },
             {
-                  "name": "Музеј на Македонија",
+                  "name": "Muzej na Makedonija",
                   "text": "Unul dintre cele mai vechi muzee din țară, axat pe istorie și etnologie.",
                   "category": "museum",
                   "coords": [
@@ -3282,7 +3282,7 @@ export const mkPoisPart5: POI[] = [
                   ]
             },
             {
-                  "name": "Македонска Национална опера и балет",
+                  "name": "Makedonska Natsionalna opera i balet",
                   "text": "Un centru cultural major pentru spectacole de operă și balet din capitală.",
                   "category": "cultural",
                   "coords": [
@@ -3291,7 +3291,7 @@ export const mkPoisPart5: POI[] = [
                   ]
             },
             {
-                  "name": "Музеј на современата уметност",
+                  "name": "Muzej na sovremenata umetnost",
                   "text": "Un muzeu de artă contemporană cu lucrări ale artiștilor locali și internaționali.",
                   "category": "museum",
                   "coords": [
@@ -3300,7 +3300,7 @@ export const mkPoisPart5: POI[] = [
                   ]
             },
             {
-                  "name": "Национална галерија „Даут-пашин амам“",
+                  "name": "Natsionalna galerija ,,Daut-pashin amam\"",
                   "text": "O galerie națională găzduită într-o baie otomană restaurată din secolul al XV-lea.",
                   "category": "museum",
                   "coords": [
@@ -3309,7 +3309,7 @@ export const mkPoisPart5: POI[] = [
                   ]
             },
             {
-                  "name": "Музеј на македонската борба",
+                  "name": "Muzej na makedonskata borba",
                   "text": "Muzeu dedicat istoriei luptei macedonene pentru independență.",
                   "category": "museum",
                   "coords": [
@@ -3439,7 +3439,7 @@ export const mkPoisPart5: POI[] = [
     id: "MK-046-stone-bridge", "sights": {
       "de": [
             {
-                  "name": "Природонаучен Музеј",
+                  "name": "Prirodonauchen Muzej",
                   "text": "Ein Museum in Skopje, das die vielfältige Flora und Fauna der Region präsentiert.",
                   "category": "museum",
                   "coords": [
@@ -3448,7 +3448,7 @@ export const mkPoisPart5: POI[] = [
                   ]
             },
             {
-                  "name": "Скопско кале",
+                  "name": "Skopsko kale",
                   "text": "Eine historische Festung auf einem Hügel, die einen weiten Blick über die Stadt Skopje bietet.",
                   "category": "castle",
                   "coords": [
@@ -3457,7 +3457,7 @@ export const mkPoisPart5: POI[] = [
                   ]
             },
             {
-                  "name": "Зоолошка градина Скопје",
+                  "name": "Zooloshka gradina Skopje",
                   "text": "Der städtische Zoo von Skopje beherbergt eine Vielzahl von Tierarten in der Nähe des Stadtzentrums.",
                   "category": "recreational",
                   "coords": [
@@ -3466,7 +3466,7 @@ export const mkPoisPart5: POI[] = [
                   ]
             },
             {
-                  "name": "Музеј на Македонија",
+                  "name": "Muzej na Makedonija",
                   "text": "Eines der größten Museen des Landes, das sich mit der Geschichte und Ethnologie Nordmazedoniens befasst.",
                   "category": "museum",
                   "coords": [
@@ -3475,7 +3475,7 @@ export const mkPoisPart5: POI[] = [
                   ]
             },
             {
-                  "name": "Македонска Национална опера и балет",
+                  "name": "Makedonska Natsionalna opera i balet",
                   "text": "Ein zentrales Kulturinstitut in Skopje für Opern- und Ballettaufführungen.",
                   "category": "cultural",
                   "coords": [
@@ -3484,7 +3484,7 @@ export const mkPoisPart5: POI[] = [
                   ]
             },
             {
-                  "name": "Музеј на современата уметност",
+                  "name": "Muzej na sovremenata umetnost",
                   "text": "Dieses Museum in Skopje zeigt eine bedeutende Sammlung moderner und zeitgenössischer Kunstwerke.",
                   "category": "museum",
                   "coords": [
@@ -3493,7 +3493,7 @@ export const mkPoisPart5: POI[] = [
                   ]
             },
             {
-                  "name": "Национална галерија „Даут-пашин амам“",
+                  "name": "Natsionalna galerija ,,Daut-pashin amam\"",
                   "text": "Eine Kunstgalerie in einem restaurierten osmanischen Badehaus aus dem 15. Jahrhundert.",
                   "category": "museum",
                   "coords": [
@@ -3513,7 +3513,7 @@ export const mkPoisPart5: POI[] = [
       ],
       "hu": [
             {
-                  "name": "Природонаучен Музеј",
+                  "name": "Prirodonauchen Muzej",
                   "text": "Szkopjei múzeum, amely a régió változatos növény- és állatvilágát mutatja be.",
                   "category": "museum",
                   "coords": [
@@ -3522,7 +3522,7 @@ export const mkPoisPart5: POI[] = [
                   ]
             },
             {
-                  "name": "Скопско кале",
+                  "name": "Skopsko kale",
                   "text": "Történelmi erőd egy dombtetőn, ahonnan tágas kilátás nyílik Szkopje városára.",
                   "category": "castle",
                   "coords": [
@@ -3531,7 +3531,7 @@ export const mkPoisPart5: POI[] = [
                   ]
             },
             {
-                  "name": "Зоолошка градина Скопје",
+                  "name": "Zooloshka gradina Skopje",
                   "text": "Szkopje városi állatkertje számos állatfajnak ad otthont a városközpont közelében.",
                   "category": "recreational",
                   "coords": [
@@ -3540,7 +3540,7 @@ export const mkPoisPart5: POI[] = [
                   ]
             },
             {
-                  "name": "Музеј на Македонија",
+                  "name": "Muzej na Makedonija",
                   "text": "Az ország egyik legnagyobb múzeuma, amely Észak-Macedónia történelmével és néprajzával foglalkozik.",
                   "category": "museum",
                   "coords": [
@@ -3549,7 +3549,7 @@ export const mkPoisPart5: POI[] = [
                   ]
             },
             {
-                  "name": "Македонска Национална опера и балет",
+                  "name": "Makedonska Natsionalna opera i balet",
                   "text": "Szkopje központi kulturális intézménye operaelőadások és balettműsorok számára.",
                   "category": "cultural",
                   "coords": [
@@ -3558,7 +3558,7 @@ export const mkPoisPart5: POI[] = [
                   ]
             },
             {
-                  "name": "Музеј на современата уметност",
+                  "name": "Muzej na sovremenata umetnost",
                   "text": "Ez a szkopjei múzeum a modern és kortárs művészeti alkotások jelentős gyűjteményét mutatja be.",
                   "category": "museum",
                   "coords": [
@@ -3567,7 +3567,7 @@ export const mkPoisPart5: POI[] = [
                   ]
             },
             {
-                  "name": "Национална галерија „Даут-пашин амам“",
+                  "name": "Natsionalna galerija ,,Daut-pashin amam\"",
                   "text": "Művészeti galéria egy restaurált 15. századi oszmán fürdőépületben.",
                   "category": "museum",
                   "coords": [
@@ -3576,7 +3576,7 @@ export const mkPoisPart5: POI[] = [
                   ]
             },
             {
-                  "name": "Музеј на македонската борба",
+                  "name": "Muzej na makedonskata borba",
                   "text": "A macedón függetlenségért vívott történelmi harcnak szentelt múzeum.",
                   "category": "museum",
                   "coords": [
@@ -3587,7 +3587,7 @@ export const mkPoisPart5: POI[] = [
       ],
       "ro": [
             {
-                  "name": "Природонаучен Музеј",
+                  "name": "Prirodonauchen Muzej",
                   "text": "Un muzeu din Skopje care prezintă flora și fauna diversă a regiunii.",
                   "category": "museum",
                   "coords": [
@@ -3596,7 +3596,7 @@ export const mkPoisPart5: POI[] = [
                   ]
             },
             {
-                  "name": "Скопско кале",
+                  "name": "Skopsko kale",
                   "text": "O cetate istorică situată pe un deal, oferind o vedere panoramică asupra orașului Skopje.",
                   "category": "castle",
                   "coords": [
@@ -3605,7 +3605,7 @@ export const mkPoisPart5: POI[] = [
                   ]
             },
             {
-                  "name": "Зоолошка градина Скопје",
+                  "name": "Zooloshka gradina Skopje",
                   "text": "Grădina zoologică din Skopje găzduiește o varietate de specii de animale în apropierea centrului orașului.",
                   "category": "recreational",
                   "coords": [
@@ -3614,7 +3614,7 @@ export const mkPoisPart5: POI[] = [
                   ]
             },
             {
-                  "name": "Музеј на Македонија",
+                  "name": "Muzej na Makedonija",
                   "text": "Unul dintre cele mai mari muzee din țară, dedicat istoriei și etnologiei Macedoniei de Nord.",
                   "category": "museum",
                   "coords": [
@@ -3623,7 +3623,7 @@ export const mkPoisPart5: POI[] = [
                   ]
             },
             {
-                  "name": "Македонска Национална опера и балет",
+                  "name": "Makedonska Natsionalna opera i balet",
                   "text": "O instituție culturală centrală din Skopje pentru spectacole de operă și balet.",
                   "category": "cultural",
                   "coords": [
@@ -3632,7 +3632,7 @@ export const mkPoisPart5: POI[] = [
                   ]
             },
             {
-                  "name": "Музеј на современата уметност",
+                  "name": "Muzej na sovremenata umetnost",
                   "text": "Acest muzeu din Skopje expune o colecție importantă de opere de artă modernă și contemporană.",
                   "category": "museum",
                   "coords": [
@@ -3641,7 +3641,7 @@ export const mkPoisPart5: POI[] = [
                   ]
             },
             {
-                  "name": "Национална галерија „Даут-пашин амам“",
+                  "name": "Natsionalna galerija ,,Daut-pashin amam\"",
                   "text": "O galerie de artă situată într-o fostă baie otomană restaurată din secolul al XV-lea.",
                   "category": "museum",
                   "coords": [
@@ -3650,7 +3650,7 @@ export const mkPoisPart5: POI[] = [
                   ]
             },
             {
-                  "name": "Музеј на македонската борба",
+                  "name": "Muzej na makedonskata borba",
                   "text": "Un muzeu dedicat luptei istorice pentru independența macedoneană.",
                   "category": "museum",
                   "coords": [
@@ -3870,7 +3870,7 @@ export const mkPoisPart5: POI[] = [
     id: "MK-048-monastery-zrze", "sights": {
       "de": [
             {
-                  "name": "Кале",
+                  "name": "Kale",
                   "text": "Archäologische Fundstätte einer antiken Festung beim Kloster Zrze.",
                   "category": "historical",
                   "coords": [
@@ -3879,7 +3879,7 @@ export const mkPoisPart5: POI[] = [
                   ]
             },
             {
-                  "name": "Зрзески Манастир",
+                  "name": "Zrzeski Manastir",
                   "text": "Ein bedeutendes mittelalterliches Kloster in Nordmazedonien, das auf einem Felsen liegt.",
                   "category": "landmark",
                   "coords": [
@@ -3888,7 +3888,7 @@ export const mkPoisPart5: POI[] = [
                   ]
             },
             {
-                  "name": "Св. Никола",
+                  "name": "Sv. Nikola",
                   "text": "Eine dem Heiligen Nikolaus geweihte orthodoxe Kirche beim Dorf Zrze.",
                   "category": "religious",
                   "coords": [
@@ -3897,7 +3897,7 @@ export const mkPoisPart5: POI[] = [
                   ]
             },
             {
-                  "name": "Св. Недела",
+                  "name": "Sv. Nedela",
                   "text": "Eine kleine Kapelle oder Kirche in der Region Zrze.",
                   "category": "religious",
                   "coords": [
@@ -3906,7 +3906,7 @@ export const mkPoisPart5: POI[] = [
                   ]
             },
             {
-                  "name": "Св. Илија",
+                  "name": "Sv. Ilija",
                   "text": "Eine dem Heiligen Elias geweihte Kirche in der Umgebung von Zrze.",
                   "category": "religious",
                   "coords": [
@@ -3915,7 +3915,7 @@ export const mkPoisPart5: POI[] = [
                   ]
             },
             {
-                  "name": "Успение на Пресвета Богородица",
+                  "name": "Uspenie na Presveta Bogoroditsa",
                   "text": "Eine der Jungfrau Maria geweihte Kirche in der Nähe von Zrze.",
                   "category": "religious",
                   "coords": [
@@ -3926,7 +3926,7 @@ export const mkPoisPart5: POI[] = [
       ],
       "hu": [
             {
-                  "name": "Кале",
+                  "name": "Kale",
                   "text": "Egy ókori erőd régészeti lelőhelye a zrzei kolostor közelében.",
                   "category": "historical",
                   "coords": [
@@ -3935,7 +3935,7 @@ export const mkPoisPart5: POI[] = [
                   ]
             },
             {
-                  "name": "Зрзески Манастир",
+                  "name": "Zrzeski Manastir",
                   "text": "Jelentős középkori kolostor Észak-Macedóniában, amely egy sziklán található.",
                   "category": "landmark",
                   "coords": [
@@ -3944,7 +3944,7 @@ export const mkPoisPart5: POI[] = [
                   ]
             },
             {
-                  "name": "Св. Никола",
+                  "name": "Sv. Nikola",
                   "text": "Szent Miklósnak szentelt ortodox templom Zrze falu közelében.",
                   "category": "religious",
                   "coords": [
@@ -3953,7 +3953,7 @@ export const mkPoisPart5: POI[] = [
                   ]
             },
             {
-                  "name": "Св. Недела",
+                  "name": "Sv. Nedela",
                   "text": "Egy kis kápolna vagy templom Zrze környékén.",
                   "category": "religious",
                   "coords": [
@@ -3962,7 +3962,7 @@ export const mkPoisPart5: POI[] = [
                   ]
             },
             {
-                  "name": "Св. Илија",
+                  "name": "Sv. Ilija",
                   "text": "Szent Illésnek szentelt templom Zrze környékén.",
                   "category": "religious",
                   "coords": [
@@ -3971,7 +3971,7 @@ export const mkPoisPart5: POI[] = [
                   ]
             },
             {
-                  "name": "Успение на Пресвета Богородица",
+                  "name": "Uspenie na Presveta Bogoroditsa",
                   "text": "Szűz Máriának szentelt templom Zrze közelében.",
                   "category": "religious",
                   "coords": [
@@ -3982,7 +3982,7 @@ export const mkPoisPart5: POI[] = [
       ],
       "ro": [
             {
-                  "name": "Кале",
+                  "name": "Kale",
                   "text": "Sit arheologic al unei fortărețe antice lângă mănăstirea Zrze.",
                   "category": "historical",
                   "coords": [
@@ -3991,7 +3991,7 @@ export const mkPoisPart5: POI[] = [
                   ]
             },
             {
-                  "name": "Зрзески Манастир",
+                  "name": "Zrzeski Manastir",
                   "text": "O mănăstire medievală importantă din Macedonia de Nord, situată pe o stâncă.",
                   "category": "landmark",
                   "coords": [
@@ -4000,7 +4000,7 @@ export const mkPoisPart5: POI[] = [
                   ]
             },
             {
-                  "name": "Св. Никола",
+                  "name": "Sv. Nikola",
                   "text": "O biserică ortodoxă sfințită în cinstea Sfântului Nicolae, lângă satul Zrze.",
                   "category": "religious",
                   "coords": [
@@ -4009,7 +4009,7 @@ export const mkPoisPart5: POI[] = [
                   ]
             },
             {
-                  "name": "Св. Недела",
+                  "name": "Sv. Nedela",
                   "text": "O mică capelă sau biserică în regiunea Zrze.",
                   "category": "religious",
                   "coords": [
@@ -4018,7 +4018,7 @@ export const mkPoisPart5: POI[] = [
                   ]
             },
             {
-                  "name": "Св. Илија",
+                  "name": "Sv. Ilija",
                   "text": "O biserică sfințită în cinstea Sfântului Ilie în apropiere de Zrze.",
                   "category": "religious",
                   "coords": [
@@ -4027,7 +4027,7 @@ export const mkPoisPart5: POI[] = [
                   ]
             },
             {
-                  "name": "Успение на Пресвета Богородица",
+                  "name": "Uspenie na Presveta Bogoroditsa",
                   "text": "O biserică sfințită în cinstea Adormirii Maicii Domnului lângă Zrze.",
                   "category": "religious",
                   "coords": [
@@ -4139,7 +4139,7 @@ export const mkPoisPart5: POI[] = [
     id: "MK-048-marion-monument", "sights": {
       "de": [
             {
-                  "name": "Белополски Манастир",
+                  "name": "Belopolski Manastir",
                   "text": "Ein orthodoxes Kloster in der Nähe des Dorfes Belo Pole in der Gemeinde Dolneni.",
                   "category": "landmark",
                   "coords": [
@@ -4148,7 +4148,7 @@ export const mkPoisPart5: POI[] = [
                   ]
             },
             {
-                  "name": "Св. Георгиј",
+                  "name": "Sv. Georgij",
                   "text": "Eine dem heiligen Georg geweihte orthodoxe Kirche im Dorf Novoselani bei Dolneni.",
                   "category": "religious",
                   "coords": [
@@ -4157,7 +4157,7 @@ export const mkPoisPart5: POI[] = [
                   ]
             },
             {
-                  "name": "Св. Никола",
+                  "name": "Sv. Nikola",
                   "text": "Die orthodoxe Nikolaikirche im Dorf Belo Pole in der Region Dolneni.",
                   "category": "religious",
                   "coords": [
@@ -4166,7 +4166,7 @@ export const mkPoisPart5: POI[] = [
                   ]
             },
             {
-                  "name": "Св. Троица",
+                  "name": "Sv. Troitsa",
                   "text": "Eine orthodoxe Kirche der Heiligen Dreifaltigkeit in der Ortschaft Dolneni.",
                   "category": "religious",
                   "coords": [
@@ -4175,7 +4175,7 @@ export const mkPoisPart5: POI[] = [
                   ]
             },
             {
-                  "name": "Св. Спас",
+                  "name": "Sv. Spas",
                   "text": "Eine orthodoxe Kirche Christi Himmelfahrt im Dorf Dolneni.",
                   "category": "religious",
                   "coords": [
@@ -4186,7 +4186,7 @@ export const mkPoisPart5: POI[] = [
       ],
       "hu": [
             {
-                  "name": "Белополски Манастир",
+                  "name": "Belopolski Manastir",
                   "text": "Ortodox kolostor Belo Pole falu közelében, Dolneni községben.",
                   "category": "landmark",
                   "coords": [
@@ -4195,7 +4195,7 @@ export const mkPoisPart5: POI[] = [
                   ]
             },
             {
-                  "name": "Св. Георгиј",
+                  "name": "Sv. Georgij",
                   "text": "Szent Györgynek szentelt ortodox templom Novoselani faluban, Dolneni közelében.",
                   "category": "religious",
                   "coords": [
@@ -4204,7 +4204,7 @@ export const mkPoisPart5: POI[] = [
                   ]
             },
             {
-                  "name": "Св. Никола",
+                  "name": "Sv. Nikola",
                   "text": "Szent Miklós ortodox templom Belo Pole faluban, Dolneni térségében.",
                   "category": "religious",
                   "coords": [
@@ -4213,7 +4213,7 @@ export const mkPoisPart5: POI[] = [
                   ]
             },
             {
-                  "name": "Св. Троица",
+                  "name": "Sv. Troitsa",
                   "text": "Szent Háromság ortodox templom Dolneni településen.",
                   "category": "religious",
                   "coords": [
@@ -4222,7 +4222,7 @@ export const mkPoisPart5: POI[] = [
                   ]
             },
             {
-                  "name": "Св. Спас",
+                  "name": "Sv. Spas",
                   "text": "Krisztus mennybemenetelének szentelt ortodox templom Dolneni faluban.",
                   "category": "religious",
                   "coords": [
@@ -4233,7 +4233,7 @@ export const mkPoisPart5: POI[] = [
       ],
       "ro": [
             {
-                  "name": "Белополски Манастир",
+                  "name": "Belopolski Manastir",
                   "text": "O mănăstire ortodoxă situată lângă satul Belo Pole din comuna Dolneni.",
                   "category": "landmark",
                   "coords": [
@@ -4242,7 +4242,7 @@ export const mkPoisPart5: POI[] = [
                   ]
             },
             {
-                  "name": "Св. Георгиј",
+                  "name": "Sv. Georgij",
                   "text": "O biserică ortodoxă sfințită în onoarea Sfântului Gheorghe în satul Novoselani de lângă Dolneni.",
                   "category": "religious",
                   "coords": [
@@ -4251,7 +4251,7 @@ export const mkPoisPart5: POI[] = [
                   ]
             },
             {
-                  "name": "Св. Никола",
+                  "name": "Sv. Nikola",
                   "text": "Biserica ortodoxă Sfântul Nicolae din satul Belo Pole, regiunea Dolneni.",
                   "category": "religious",
                   "coords": [
@@ -4260,7 +4260,7 @@ export const mkPoisPart5: POI[] = [
                   ]
             },
             {
-                  "name": "Св. Троица",
+                  "name": "Sv. Troitsa",
                   "text": "O biserică ortodoxă închinată Sfintei Treimi în localitatea Dolneni.",
                   "category": "religious",
                   "coords": [
@@ -4269,7 +4269,7 @@ export const mkPoisPart5: POI[] = [
                   ]
             },
             {
-                  "name": "Св. Спас",
+                  "name": "Sv. Spas",
                   "text": "O biserică ortodoxă a Înălțării Domnului în satul Dolneni.",
                   "category": "religious",
                   "coords": [
@@ -4506,7 +4506,7 @@ export const mkPoisPart5: POI[] = [
     id: "MK-050-crna-reka-mogila", "sights": {
       "de": [
             {
-                  "name": "Горна Чарлија",
+                  "name": "Gorna Charlija",
                   "text": "Historische Ruinen in der Nähe des Flusses Crna bei Mogila.",
                   "category": "historical",
                   "coords": [
@@ -4517,7 +4517,7 @@ export const mkPoisPart5: POI[] = [
       ],
       "hu": [
             {
-                  "name": "Горна Чарлија",
+                  "name": "Gorna Charlija",
                   "text": "Történelmi romok a Crna-folyó közelében, Mogila mellett.",
                   "category": "historical",
                   "coords": [
@@ -4528,7 +4528,7 @@ export const mkPoisPart5: POI[] = [
       ],
       "ro": [
             {
-                  "name": "Горна Чарлија",
+                  "name": "Gorna Charlija",
                   "text": "Ruine istorice situate lângă râul Crna, în apropiere de Mogila.",
                   "category": "historical",
                   "coords": [

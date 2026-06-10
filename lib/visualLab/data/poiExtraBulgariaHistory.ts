@@ -24,7 +24,7 @@ export const poiExtraBulgariaHistory: POI[] = [
                   ]
             },
             {
-                  "name": "Рилска Света Обител",
+                  "name": "Rilska Sveta Obitel",
                   "text": "Dieses Museum bewahrt die religiösen und historischen Schätze des berühmten Rila-Klosters auf.",
                   "category": "museum",
                   "coords": [
@@ -35,7 +35,7 @@ export const poiExtraBulgariaHistory: POI[] = [
       ],
       "hu": [
             {
-                  "name": "Резерват Риломанастирска гора",
+                  "name": "Rezervat Rilomanastirska gora",
                   "text": "A Rila-kolostort körülvevő védett erdőterület, amely gazdag biológiai sokféleséggel rendelkezik.",
                   "category": "natural",
                   "coords": [
@@ -44,7 +44,7 @@ export const poiExtraBulgariaHistory: POI[] = [
                   ]
             },
             {
-                  "name": "Природен парк Рилски манастир",
+                  "name": "Priroden park Rilski manastir",
                   "text": "Bulgáriai natúrpark, amelyet a Rila-kolostor körüli környezet védelmére hoztak létre.",
                   "category": "natural",
                   "coords": [
@@ -53,7 +53,7 @@ export const poiExtraBulgariaHistory: POI[] = [
                   ]
             },
             {
-                  "name": "Рилска Света Обител",
+                  "name": "Rilska Sveta Obitel",
                   "text": "Ez a múzeum a híres Rila-kolostor vallási és történelmi kincseit őrzi.",
                   "category": "museum",
                   "coords": [
@@ -64,7 +64,7 @@ export const poiExtraBulgariaHistory: POI[] = [
       ],
       "ro": [
             {
-                  "name": "Резерват Риломанастирска гора",
+                  "name": "Rezervat Rilomanastirska gora",
                   "text": "O zonă forestieră protejată care înconjoară Mănăstirea Rila, bogată în biodiversitate.",
                   "category": "natural",
                   "coords": [
@@ -73,7 +73,7 @@ export const poiExtraBulgariaHistory: POI[] = [
                   ]
             },
             {
-                  "name": "Природен парк Рилски манастир",
+                  "name": "Priroden park Rilski manastir",
                   "text": "Un parc natural din Bulgaria înființat pentru a proteja mediul înconjurător din jurul Mănăstirii Rila.",
                   "category": "natural",
                   "coords": [
@@ -82,7 +82,7 @@ export const poiExtraBulgariaHistory: POI[] = [
                   ]
             },
             {
-                  "name": "Рилска Света Обител",
+                  "name": "Rilska Sveta Obitel",
                   "text": "Acest muzeu păstrează comorile religioase și istorice ale faimoasei Mănăstiri Rila.",
                   "category": "museum",
                   "coords": [
@@ -372,7 +372,7 @@ export const poiExtraBulgariaHistory: POI[] = [
     id: "cult-kazanlak", "sights": {
       "de": [
             {
-                  "name": "Музей на розата",
+                  "name": "Muzei na rozata",
                   "text": "Ein einzigartiges Museum in Kasanlak, das der Geschichte und dem Anbau der berühmten bulgarischen Rosen gewidmet ist.",
                   "category": "museum",
                   "coords": [
@@ -390,7 +390,7 @@ export const poiExtraBulgariaHistory: POI[] = [
                   ]
             },
             {
-                  "name": "Исторически Музей Искра Казанлък",
+                  "name": "Istoricheski Muzei Iskra Kazanl'k",
                   "text": "Ein bedeutendes Museum in Kasanlak, das archäologische und historische Schätze der Region präsentiert.",
                   "category": "museum",
                   "coords": [
@@ -399,7 +399,7 @@ export const poiExtraBulgariaHistory: POI[] = [
                   ]
             },
             {
-                  "name": "Литературно-художовествен мусей Чудомир",
+                  "name": "Literaturno-khudozhovestven musei Chudomir",
                   "text": "Ein Museum in Kasanlak, das dem Werk des bulgarischen Schriftstellers und Malers Tschudomir gewidmet ist.",
                   "category": "museum",
                   "coords": [
@@ -408,7 +408,7 @@ export const poiExtraBulgariaHistory: POI[] = [
                   ]
             },
             {
-                  "name": "Тюлбето",
+                  "name": "Tiulbeto",
                   "text": "Ein weitläufiger Stadtpark in Kasanlak, der als Erholungsgebiet und Standort der thrakischen Grabstätte dient.",
                   "category": "park",
                   "coords": [
@@ -417,7 +417,7 @@ export const poiExtraBulgariaHistory: POI[] = [
                   ]
             },
             {
-                  "name": "Евро монумент",
+                  "name": "Evro monument",
                   "text": "Ein Monument in Kasanlak, das als Symbol für die europäische Integration errichtet wurde.",
                   "category": "historical",
                   "coords": [
@@ -428,7 +428,7 @@ export const poiExtraBulgariaHistory: POI[] = [
       ],
       "hu": [
             {
-                  "name": "Музей на розата",
+                  "name": "Muzei na rozata",
                   "text": "Egyedülálló múzeum Kazanlakban, amely a híres bulgáriai rózsák történetének és termesztésének szentelt.",
                   "category": "museum",
                   "coords": [
@@ -437,7 +437,7 @@ export const poiExtraBulgariaHistory: POI[] = [
                   ]
             },
             {
-                  "name": "Тракийска гробница",
+                  "name": "Trakiiska grobnitsa",
                   "text": "Ókori traák síremlék Kazanlakban, amely rendkívül jó állapotban fennmaradt freskóiról híres.",
                   "category": "historical",
                   "coords": [
@@ -446,7 +446,7 @@ export const poiExtraBulgariaHistory: POI[] = [
                   ]
             },
             {
-                  "name": "Исторически Музей Искра Казанлък",
+                  "name": "Istoricheski Muzei Iskra Kazanl'k",
                   "text": "Jelentős múzeum Kazanlakban, amely a régió régészeti és történelmi kincseit mutatja be.",
                   "category": "museum",
                   "coords": [
@@ -455,7 +455,7 @@ export const poiExtraBulgariaHistory: POI[] = [
                   ]
             },
             {
-                  "name": "Литературно-художовествен мусей Чудомир",
+                  "name": "Literaturno-khudozhovestven musei Chudomir",
                   "text": "Kazanlaki múzeum, amely Csudomir bolgár író és festőművész munkásságát mutatja be.",
                   "category": "museum",
                   "coords": [
@@ -464,7 +464,7 @@ export const poiExtraBulgariaHistory: POI[] = [
                   ]
             },
             {
-                  "name": "Тюлбето",
+                  "name": "Tiulbeto",
                   "text": "Tágas városi park Kazanlakban, amely pihenőövezetként és a traák síremlék helyszíneként szolgál.",
                   "category": "park",
                   "coords": [
@@ -473,7 +473,7 @@ export const poiExtraBulgariaHistory: POI[] = [
                   ]
             },
             {
-                  "name": "Евро монумент",
+                  "name": "Evro monument",
                   "text": "Kazanlaki emlékmű, amelyet az európai integráció szimbólumaként emeltek.",
                   "category": "historical",
                   "coords": [
@@ -484,7 +484,7 @@ export const poiExtraBulgariaHistory: POI[] = [
       ],
       "ro": [
             {
-                  "name": "Музей на розата",
+                  "name": "Muzei na rozata",
                   "text": "Un muzeu unic în Kazanlak dedicat istoriei și cultivării celebrelor roze bulgărești.",
                   "category": "museum",
                   "coords": [
@@ -493,7 +493,7 @@ export const poiExtraBulgariaHistory: POI[] = [
                   ]
             },
             {
-                  "name": "Тракийска гробница",
+                  "name": "Trakiiska grobnitsa",
                   "text": "Un mormânt trac antic din Kazanlak, renumit pentru frescele sale excepțional de bine conservate.",
                   "category": "historical",
                   "coords": [
@@ -502,7 +502,7 @@ export const poiExtraBulgariaHistory: POI[] = [
                   ]
             },
             {
-                  "name": "Исторически Музей Искра Казанлък",
+                  "name": "Istoricheski Muzei Iskra Kazanl'k",
                   "text": "Un muzeu important din Kazanlak care prezintă comori arheologice și istorice ale regiunii.",
                   "category": "museum",
                   "coords": [
@@ -511,7 +511,7 @@ export const poiExtraBulgariaHistory: POI[] = [
                   ]
             },
             {
-                  "name": "Литературно-художовествен мусей Чудомир",
+                  "name": "Literaturno-khudozhovestven musei Chudomir",
                   "text": "Un muzeu din Kazanlak dedicat operei scriitorului și pictorului bulgar Ciudomir.",
                   "category": "museum",
                   "coords": [
@@ -520,7 +520,7 @@ export const poiExtraBulgariaHistory: POI[] = [
                   ]
             },
             {
-                  "name": "Тюлбето",
+                  "name": "Tiulbeto",
                   "text": "Un parc urban întins în Kazanlak, care servește ca zonă de recreere și locație pentru mormântul trac.",
                   "category": "park",
                   "coords": [
@@ -529,7 +529,7 @@ export const poiExtraBulgariaHistory: POI[] = [
                   ]
             },
             {
-                  "name": "Евро монумент",
+                  "name": "Evro monument",
                   "text": "Un monument în Kazanlak, ridicat ca simbol al integrării europene.",
                   "category": "historical",
                   "coords": [
@@ -726,7 +726,7 @@ export const poiExtraBulgariaHistory: POI[] = [
     id: "hist-belogradchik-fortress", "sights": {
       "de": [
             {
-                  "name": "Исторически музей Белоградчик",
+                  "name": "Istoricheski muzei Белоградчик",
                   "text": "Ein Museum, das die lokale Geschichte und das ethnografische Erbe der Region Belogradtschik erläutert.",
                   "category": "museum",
                   "coords": [
@@ -735,7 +735,7 @@ export const poiExtraBulgariaHistory: POI[] = [
                   ]
             },
             {
-                  "name": "Белоградчишка крепост",
+                  "name": "Belogradchishka krepost",
                   "text": "Eine antike Festung, die spektakulär in die Felsen von Belogradtschik integriert ist.",
                   "category": "castle",
                   "coords": [
@@ -753,7 +753,7 @@ export const poiExtraBulgariaHistory: POI[] = [
                   ]
             },
             {
-                  "name": "Богинята Майка",
+                  "name": "Boginiata Maika",
                   "text": "Ein Aussichtspunkt bei den Felsen von Belogradtschik, benannt nach einer Felsformation, die einer Gottheit ähnelt.",
                   "category": "natural",
                   "coords": [
@@ -764,7 +764,7 @@ export const poiExtraBulgariaHistory: POI[] = [
       ],
       "hu": [
             {
-                  "name": "Исторически музей Белоградчик",
+                  "name": "Istoricheski muzei Белоградчик",
                   "text": "A belogradcsiki régió helytörténetét és néprajzi örökségét bemutató múzeum.",
                   "category": "museum",
                   "coords": [
@@ -773,7 +773,7 @@ export const poiExtraBulgariaHistory: POI[] = [
                   ]
             },
             {
-                  "name": "Белоградчишка крепост",
+                  "name": "Belogradchishka krepost",
                   "text": "Látványos ókori erődítmény, amelyet a Belogradcsik-sziklák közé építettek.",
                   "category": "castle",
                   "coords": [
@@ -791,7 +791,7 @@ export const poiExtraBulgariaHistory: POI[] = [
                   ]
             },
             {
-                  "name": "Богинята Майка",
+                  "name": "Boginiata Maika",
                   "text": "Kilátópont a Belogradcsik-szikláknál, amely egy istenségre hasonlító sziklaalakzatról kapta a nevét.",
                   "category": "natural",
                   "coords": [
@@ -802,7 +802,7 @@ export const poiExtraBulgariaHistory: POI[] = [
       ],
       "ro": [
             {
-                  "name": "Исторически музей Белоградчик",
+                  "name": "Istoricheski muzei Белоградчик",
                   "text": "Un muzeu care detaliază istoria locală și patrimoniul etnografic al regiunii Belogradcik.",
                   "category": "museum",
                   "coords": [
@@ -811,7 +811,7 @@ export const poiExtraBulgariaHistory: POI[] = [
                   ]
             },
             {
-                  "name": "Белоградчишка крепост",
+                  "name": "Belogradchishka krepost",
                   "text": "O fortăreață antică integrată în spectaculoasele stânci Belogradcik.",
                   "category": "castle",
                   "coords": [
@@ -829,7 +829,7 @@ export const poiExtraBulgariaHistory: POI[] = [
                   ]
             },
             {
-                  "name": "Богинята Майка",
+                  "name": "Boginiata Maika",
                   "text": "Un punct de belvedere printre stâncile Belogradcik, numit după o formațiune stâncoasă care seamănă cu o divinitate.",
                   "category": "natural",
                   "coords": [

@@ -140,7 +140,7 @@ export const mkPoisPart1: POI[] = [
     id: "MK-002-kodzadzik", "sights": {
       "de": [
             {
-                  "name": "Меморијален центар Коџаџик",
+                  "name": "Memorijalen tsentar Kodzhadzhik",
                   "text": "Ein Gedenkzentrum zu Ehren der Familie von Mustafa Kemal Atatürk.",
                   "category": "museum",
                   "coords": [
@@ -149,7 +149,7 @@ export const mkPoisPart1: POI[] = [
                   ]
             },
             {
-                  "name": "Свети Град",
+                  "name": "Sveti Grad",
                   "text": "Historische Festungsruinen in der Nähe von Kodžadžik.",
                   "category": "castle",
                   "coords": [
@@ -160,7 +160,7 @@ export const mkPoisPart1: POI[] = [
       ],
       "hu": [
             {
-                  "name": "Меморијален центар Коџаџик",
+                  "name": "Memorijalen tsentar Kodzhadzhik",
                   "text": "Musztafa Kemal Atatürk családjának emléket állító múzeum.",
                   "category": "museum",
                   "coords": [
@@ -169,7 +169,7 @@ export const mkPoisPart1: POI[] = [
                   ]
             },
             {
-                  "name": "Свети Град",
+                  "name": "Sveti Grad",
                   "text": "Történelmi várromok Kodžadžik közelében.",
                   "category": "castle",
                   "coords": [
@@ -180,7 +180,7 @@ export const mkPoisPart1: POI[] = [
       ],
       "ro": [
             {
-                  "name": "Меморијален центар Коџаџик",
+                  "name": "Memorijalen tsentar Kodzhadzhik",
                   "text": "Un centru memorial dedicat familiei lui Mustafa Kemal Atatürk.",
                   "category": "museum",
                   "coords": [
@@ -189,7 +189,7 @@ export const mkPoisPart1: POI[] = [
                   ]
             },
             {
-                  "name": "Свети Град",
+                  "name": "Sveti Grad",
                   "text": "Ruinele unei cetăți istorice lângă Kodžadžik.",
                   "category": "castle",
                   "coords": [
@@ -355,7 +355,7 @@ export const mkPoisPart1: POI[] = [
     id: "MK-004-bigorski-monastery", "sights": {
       "de": [
             {
-                  "name": "Меденица",
+                  "name": "Medenitsa",
                   "text": "Der höchste Gipfel des Bistra-Gebirges mit Panoramablick.",
                   "category": "landmark",
                   "coords": [
@@ -364,7 +364,7 @@ export const mkPoisPart1: POI[] = [
                   ]
             },
             {
-                  "name": "Дуф",
+                  "name": "Duf",
                   "text": "Ein beeindruckender Wasserfall in der Nähe des Klosters Sveti Jovan Bigorski.",
                   "category": "landmark",
                   "coords": [
@@ -373,7 +373,7 @@ export const mkPoisPart1: POI[] = [
                   ]
             },
             {
-                  "name": "Св. Јован Крстител",
+                  "name": "Sv. Jovan Krstitel",
                   "text": "Ein bedeutendes mazedonisch-orthodoxes Kloster, bekannt für seine exquisite holzgeschnitzte Ikonostase.",
                   "category": "religious",
                   "coords": [
@@ -384,7 +384,7 @@ export const mkPoisPart1: POI[] = [
       ],
       "hu": [
             {
-                  "name": "Меденица",
+                  "name": "Medenitsa",
                   "text": "A Bisztra-hegység legmagasabb csúcsa, ahonnan panorámás kilátás nyílik.",
                   "category": "landmark",
                   "coords": [
@@ -393,7 +393,7 @@ export const mkPoisPart1: POI[] = [
                   ]
             },
             {
-                  "name": "Дуф",
+                  "name": "Duf",
                   "text": "Lenyűgöző vízesés a Szent János Bigorszki-kolostor közelében.",
                   "category": "landmark",
                   "coords": [
@@ -402,7 +402,7 @@ export const mkPoisPart1: POI[] = [
                   ]
             },
             {
-                  "name": "Св. Јован Крстител",
+                  "name": "Sv. Jovan Krstitel",
                   "text": "Jelentős macedón ortodox kolostor, amely kiváló fafaragású ikonosztázáról ismert.",
                   "category": "religious",
                   "coords": [
@@ -413,7 +413,7 @@ export const mkPoisPart1: POI[] = [
       ],
       "ro": [
             {
-                  "name": "Меденица",
+                  "name": "Medenitsa",
                   "text": "Cel mai înalt vârf al masivului muntos Bistra, oferind priveliști panoramice.",
                   "category": "landmark",
                   "coords": [
@@ -422,7 +422,7 @@ export const mkPoisPart1: POI[] = [
                   ]
             },
             {
-                  "name": "Дуф",
+                  "name": "Duf",
                   "text": "O cascadă uimitoare situată în apropierea mănăstirii Sfântul Ioan Bigorski.",
                   "category": "landmark",
                   "coords": [
@@ -431,7 +431,7 @@ export const mkPoisPart1: POI[] = [
                   ]
             },
             {
-                  "name": "Св. Јован Крстител",
+                  "name": "Sv. Jovan Krstitel",
                   "text": "O mănăstire ortodoxă macedoneană importantă, cunoscută pentru catapeteasma sa rafinată sculptată în lemn.",
                   "category": "religious",
                   "coords": [
@@ -516,7 +516,7 @@ export const mkPoisPart1: POI[] = [
     id: "MK-004-mavrovo-lake", "sights": {
       "de": [
             {
-                  "name": "Загинатите градители на ХЕЦ Маврово",
+                  "name": "Zaginatite graditeli na KhETs Mavrovo",
                   "text": "Ein Denkmal am Mavrovo-See zum Gedenken an die Erbauer des Wasserkraftwerks.",
                   "category": "historical",
                   "coords": [
@@ -525,7 +525,7 @@ export const mkPoisPart1: POI[] = [
                   ]
             },
             {
-                  "name": "Св. Никола",
+                  "name": "Sv. Nikola",
                   "text": "Eine kleine orthodoxe Kirche in der Nähe des Mavrovo-Sees.",
                   "category": "religious",
                   "coords": [
@@ -536,7 +536,7 @@ export const mkPoisPart1: POI[] = [
       ],
       "hu": [
             {
-                  "name": "Загинатите градители на ХЕЦ Маврово",
+                  "name": "Zaginatite graditeli na KhETs Mavrovo",
                   "text": "Emlékmű a Mavrovo-tónál, a vízi erőmű építőinek tiszteletére.",
                   "category": "historical",
                   "coords": [
@@ -545,7 +545,7 @@ export const mkPoisPart1: POI[] = [
                   ]
             },
             {
-                  "name": "Св. Никола",
+                  "name": "Sv. Nikola",
                   "text": "Kisméretű ortodox templom a Mavrovo-tó közelében.",
                   "category": "religious",
                   "coords": [
@@ -556,7 +556,7 @@ export const mkPoisPart1: POI[] = [
       ],
       "ro": [
             {
-                  "name": "Загинатите градители на ХЕЦ Маврово",
+                  "name": "Zaginatite graditeli na KhETs Mavrovo",
                   "text": "Un monument la Lacul Mavrovo, ridicat în memoria constructorilor hidrocentralei.",
                   "category": "historical",
                   "coords": [
@@ -565,7 +565,7 @@ export const mkPoisPart1: POI[] = [
                   ]
             },
             {
-                  "name": "Св. Никола",
+                  "name": "Sv. Nikola",
                   "text": "O mică biserică ortodoxă situată în apropierea Lacului Mavrovo.",
                   "category": "religious",
                   "coords": [
@@ -820,7 +820,7 @@ export const mkPoisPart1: POI[] = [
     id: "MK-006-vevcani-village", "sights": {
       "de": [
             {
-                  "name": "Вевчански Извори",
+                  "name": "Vevchanski Izvori",
                   "text": "Berühmte natürliche Quellen im Dorf Vevčani.",
                   "category": "landmark",
                   "coords": [
@@ -840,7 +840,7 @@ export const mkPoisPart1: POI[] = [
       ],
       "hu": [
             {
-                  "name": "Вевчански Извори",
+                  "name": "Vevchanski Izvori",
                   "text": "Híres természetes források Vevčani falujában.",
                   "category": "landmark",
                   "coords": [
@@ -860,7 +860,7 @@ export const mkPoisPart1: POI[] = [
       ],
       "ro": [
             {
-                  "name": "Вевчански Извори",
+                  "name": "Vevchanski Izvori",
                   "text": "Izvoare naturale renumite situate în satul Vevčani.",
                   "category": "landmark",
                   "coords": [
@@ -1124,7 +1124,7 @@ export const mkPoisPart1: POI[] = [
     id: "MK-009-saraj-resen", "sights": {
       "de": [
             {
-                  "name": "Спомен-куќа на Татарчеви",
+                  "name": "Spomen-kukja na Tatarchevi",
                   "text": "Dieses Gedenkhaus in Resen ist der Familie Tatarchev gewidmet, prominenten mazedonischen Persönlichkeiten.",
                   "category": "museum",
                   "coords": [
@@ -1133,7 +1133,7 @@ export const mkPoisPart1: POI[] = [
                   ]
             },
             {
-                  "name": "Ресенски сарај",
+                  "name": "Resenski saraj",
                   "text": "Das Saraj in Resen ist ein neoklassizistischer Palast, der heute ein Museum beherbergt.",
                   "category": "landmark",
                   "coords": [
@@ -1142,7 +1142,7 @@ export const mkPoisPart1: POI[] = [
                   ]
             },
             {
-                  "name": "Добровски Манастир",
+                  "name": "Dobrovski Manastir",
                   "text": "Eine lokale religiöse Sehenswürdigkeit in der Gegend von Saraj of Resen.",
                   "category": "landmark",
                   "coords": [
@@ -1151,7 +1151,7 @@ export const mkPoisPart1: POI[] = [
                   ]
             },
             {
-                  "name": "Св. Ѓорѓи",
+                  "name": "Sv. Gjorgji",
                   "text": "Eine dem heiligen Georg gewidmete orthodoxe Kirche in Resen.",
                   "category": "religious",
                   "coords": [
@@ -1160,7 +1160,7 @@ export const mkPoisPart1: POI[] = [
                   ]
             },
             {
-                  "name": "Хаџимуратова џамија",
+                  "name": "Khadzhimuratova dzhamija",
                   "text": "Eine historische Moschee in der nordmazedonischen Stadt Resen.",
                   "category": "religious",
                   "coords": [
@@ -1169,7 +1169,7 @@ export const mkPoisPart1: POI[] = [
                   ]
             },
             {
-                  "name": "Хаџирамаданова џамија",
+                  "name": "Khadzhiramadanova dzhamija",
                   "text": "Eine traditionelle islamische Gebetsstätte in der Stadt Resen.",
                   "category": "religious",
                   "coords": [
@@ -1178,7 +1178,7 @@ export const mkPoisPart1: POI[] = [
                   ]
             },
             {
-                  "name": "Св. Кирил и Методиј",
+                  "name": "Sv. Kiril i Metodij",
                   "text": "Eine nach den Slawenaposteln Kyrill und Method benannte Kirche in Resen.",
                   "category": "religious",
                   "coords": [
@@ -1189,7 +1189,7 @@ export const mkPoisPart1: POI[] = [
       ],
       "hu": [
             {
-                  "name": "Спомен-куќа на Татарчеви",
+                  "name": "Spomen-kukja na Tatarchevi",
                   "text": "Ez a reseni emlékház a Tatarchev családnak, neves macedón személyiségeknek van szentelve.",
                   "category": "museum",
                   "coords": [
@@ -1198,7 +1198,7 @@ export const mkPoisPart1: POI[] = [
                   ]
             },
             {
-                  "name": "Ресенски сарај",
+                  "name": "Resenski saraj",
                   "text": "A reseni Szaraj egy neoklasszicista palota, amely ma múzeumnak ad otthont.",
                   "category": "landmark",
                   "coords": [
@@ -1207,7 +1207,7 @@ export const mkPoisPart1: POI[] = [
                   ]
             },
             {
-                  "name": "Добровски Манастир",
+                  "name": "Dobrovski Manastir",
                   "text": "Helyi vallási nevezetesség és látnivaló Saraj of Resen területén.",
                   "category": "landmark",
                   "coords": [
@@ -1216,7 +1216,7 @@ export const mkPoisPart1: POI[] = [
                   ]
             },
             {
-                  "name": "Св. Ѓорѓи",
+                  "name": "Sv. Gjorgji",
                   "text": "Szent Györgynek szentelt ortodox templom Resenben.",
                   "category": "religious",
                   "coords": [
@@ -1225,7 +1225,7 @@ export const mkPoisPart1: POI[] = [
                   ]
             },
             {
-                  "name": "Хаџимуратова џамија",
+                  "name": "Khadzhimuratova dzhamija",
                   "text": "Történelmi mecset az észak-macedóniai Resen városában.",
                   "category": "religious",
                   "coords": [
@@ -1234,7 +1234,7 @@ export const mkPoisPart1: POI[] = [
                   ]
             },
             {
-                  "name": "Хаџирамаданова џамија",
+                  "name": "Khadzhiramadanova dzhamija",
                   "text": "Hagyományos iszlám istentiszteleti hely Resen városában.",
                   "category": "religious",
                   "coords": [
@@ -1243,7 +1243,7 @@ export const mkPoisPart1: POI[] = [
                   ]
             },
             {
-                  "name": "Св. Кирил и Методиј",
+                  "name": "Sv. Kiril i Metodij",
                   "text": "A szláv felvilágosítókról, Cirillről és Metódról elnevezett templom Resenben.",
                   "category": "religious",
                   "coords": [
@@ -1254,7 +1254,7 @@ export const mkPoisPart1: POI[] = [
       ],
       "ro": [
             {
-                  "name": "Спомен-куќа на Татарчеви",
+                  "name": "Spomen-kukja na Tatarchevi",
                   "text": "Această casă memorială din Resen este dedicată familiei Tatarchev, figuri proeminente macedonene.",
                   "category": "museum",
                   "coords": [
@@ -1263,7 +1263,7 @@ export const mkPoisPart1: POI[] = [
                   ]
             },
             {
-                  "name": "Ресенски сарај",
+                  "name": "Resenski saraj",
                   "text": "Sarajul din Resen este un palat neoclasic care adăpostește astăzi un muzeu.",
                   "category": "landmark",
                   "coords": [
@@ -1272,7 +1272,7 @@ export const mkPoisPart1: POI[] = [
                   ]
             },
             {
-                  "name": "Добровски Манастир",
+                  "name": "Dobrovski Manastir",
                   "text": "O atracție religioasă locală situată în zona Saraj of Resen.",
                   "category": "landmark",
                   "coords": [
@@ -1281,7 +1281,7 @@ export const mkPoisPart1: POI[] = [
                   ]
             },
             {
-                  "name": "Св. Ѓорѓи",
+                  "name": "Sv. Gjorgji",
                   "text": "O biserică ortodoxă închinată Sfântului Gheorghe, situată în Resen.",
                   "category": "religious",
                   "coords": [
@@ -1290,7 +1290,7 @@ export const mkPoisPart1: POI[] = [
                   ]
             },
             {
-                  "name": "Хаџимуратова џамија",
+                  "name": "Khadzhimuratova dzhamija",
                   "text": "O moschee istorică situată în orașul nord-macedonean Resen.",
                   "category": "religious",
                   "coords": [
@@ -1299,7 +1299,7 @@ export const mkPoisPart1: POI[] = [
                   ]
             },
             {
-                  "name": "Хаџирамаданова џамија",
+                  "name": "Khadzhiramadanova dzhamija",
                   "text": "Un lăcaș de cult islamic tradițional în orașul Resen.",
                   "category": "religious",
                   "coords": [
@@ -1308,7 +1308,7 @@ export const mkPoisPart1: POI[] = [
                   ]
             },
             {
-                  "name": "Св. Кирил и Методиј",
+                  "name": "Sv. Kiril i Metodij",
                   "text": "O biserică din Resen care poartă numele iluminiștilor slavi Chiril și Metodiu.",
                   "category": "religious",
                   "coords": [
@@ -1429,7 +1429,7 @@ export const mkPoisPart1: POI[] = [
     id: "MK-009-golem-grad", "sights": {
       "de": [
             {
-                  "name": "Стара базилика",
+                  "name": "Stara bazilika",
                   "text": "Die Old Basilica ist eine antike archäologische Ruine auf der Insel Golem Grad im Prespasee.",
                   "category": "historical",
                   "coords": [
@@ -1438,7 +1438,7 @@ export const mkPoisPart1: POI[] = [
                   ]
             },
             {
-                  "name": "Римска цистерна",
+                  "name": "Rimska tsisterna",
                   "text": "Die Roman Cistern ist eine historische archäologische Stätte auf der Insel Golem Grad.",
                   "category": "historical",
                   "coords": [
@@ -1476,7 +1476,7 @@ export const mkPoisPart1: POI[] = [
       ],
       "hu": [
             {
-                  "name": "Стара базилика",
+                  "name": "Stara bazilika",
                   "text": "Az Old Basilica egy ókori régészeti maradvány a Preszpa-tóban található Golem Grad-szigeten.",
                   "category": "historical",
                   "coords": [
@@ -1485,7 +1485,7 @@ export const mkPoisPart1: POI[] = [
                   ]
             },
             {
-                  "name": "Римска цистерна",
+                  "name": "Rimska tsisterna",
                   "text": "A Roman Cistern egy történelmi régészeti lelőhely a Golem Grad-szigeten.",
                   "category": "historical",
                   "coords": [
@@ -1523,7 +1523,7 @@ export const mkPoisPart1: POI[] = [
       ],
       "ro": [
             {
-                  "name": "Стара базилика",
+                  "name": "Stara bazilika",
                   "text": "Old Basilica este o ruină arheologică antică pe insula Golem Grad din Lacul Prespa.",
                   "category": "historical",
                   "coords": [
@@ -1532,7 +1532,7 @@ export const mkPoisPart1: POI[] = [
                   ]
             },
             {
-                  "name": "Римска цистерна",
+                  "name": "Rimska tsisterna",
                   "text": "Roman Cistern este un sit arheologic istoric situat pe insula Golem Grad.",
                   "category": "historical",
                   "coords": [
@@ -1663,7 +1663,7 @@ export const mkPoisPart1: POI[] = [
     id: "MK-010-kolesino-waterfall", "sights": {
       "de": [
             {
-                  "name": "Колешински водопад",
+                  "name": "Koleshinski vodopad",
                   "text": "Ein beeindruckender Wasserfall bei Kolešino, der über mehrere Kaskaden in bewaldeter Umgebung herabstürzt.",
                   "category": "landmark",
                   "coords": [
@@ -1683,7 +1683,7 @@ export const mkPoisPart1: POI[] = [
       ],
       "hu": [
             {
-                  "name": "Колешински водопад",
+                  "name": "Koleshinski vodopad",
                   "text": "Lenyűgöző vízesés Kolešino közelében, amely több kaskádon keresztül zúdul le erdős környezetben.",
                   "category": "landmark",
                   "coords": [
@@ -1703,7 +1703,7 @@ export const mkPoisPart1: POI[] = [
       ],
       "ro": [
             {
-                  "name": "Колешински водопад",
+                  "name": "Koleshinski vodopad",
                   "text": "O cascadă impresionantă lângă Kolešino, care cade în mai multe trepte într-un cadru împădurit.",
                   "category": "landmark",
                   "coords": [
@@ -1788,7 +1788,7 @@ export const mkPoisPart1: POI[] = [
     id: "MK-010-smolare-waterfall", "sights": {
       "de": [
             {
-                  "name": "Смоларски Водопади",
+                  "name": "Smolarski Vodopadi",
                   "text": "Der höchste Wasserfall Nordmazedoniens, der am Berg Belasica herabstürzt.",
                   "category": "landmark",
                   "coords": [
@@ -1797,7 +1797,7 @@ export const mkPoisPart1: POI[] = [
                   ]
             },
             {
-                  "name": "Тумба / Τούμπα",
+                  "name": "Tumba / Toumpa",
                   "text": "Ein Berggipfel, der den Grenzpunkt zwischen Nordmazedonien, Bulgarien und Griechenland markiert.",
                   "category": "landmark",
                   "coords": [
@@ -1808,7 +1808,7 @@ export const mkPoisPart1: POI[] = [
       ],
       "hu": [
             {
-                  "name": "Смоларски Водопади",
+                  "name": "Smolarski Vodopadi",
                   "text": "Észak-Macedónia legmagasabb vízesése a Belasica-hegységben.",
                   "category": "landmark",
                   "coords": [
@@ -1817,7 +1817,7 @@ export const mkPoisPart1: POI[] = [
                   ]
             },
             {
-                  "name": "Тумба / Τούμπα",
+                  "name": "Tumba / Toumpa",
                   "text": "Hegyi csúcs, amely Észak-Macedónia, Bulgária és Görögország hármashatárát jelzi.",
                   "category": "landmark",
                   "coords": [
@@ -1828,7 +1828,7 @@ export const mkPoisPart1: POI[] = [
       ],
       "ro": [
             {
-                  "name": "Смоларски Водопади",
+                  "name": "Smolarski Vodopadi",
                   "text": "Cea mai înaltă cascadă din Macedonia de Nord, situată pe muntele Belasica.",
                   "category": "landmark",
                   "coords": [
@@ -1837,7 +1837,7 @@ export const mkPoisPart1: POI[] = [
                   ]
             },
             {
-                  "name": "Тумба / Τούμπα",
+                  "name": "Tumba / Toumpa",
                   "text": "Un vârf montan care marchează punctul de frontieră dintre Macedonia de Nord, Bulgaria și Grecia.",
                   "category": "landmark",
                   "coords": [

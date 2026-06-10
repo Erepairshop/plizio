@@ -96,7 +96,7 @@ export const bulgariaHistoryV2: POI[] = [
     id: "bulgaria-mezek-fortress-history-v2", "sights": {
       "de": [
             {
-                  "name": "Мезешка крепост",
+                  "name": "Mezeshka krepost",
                   "text": "Eine der am besten erhaltenen mittelalterlichen Festungen Bulgariens aus dem 11. Jahrhundert.",
                   "category": "castle",
                   "coords": [
@@ -107,7 +107,7 @@ export const bulgariaHistoryV2: POI[] = [
       ],
       "hu": [
             {
-                  "name": "Мезешка крепост",
+                  "name": "Mezeshka krepost",
                   "text": "Bulgária egyik legjobb állapotban fennmaradt középkori erődje a 11. századból.",
                   "category": "castle",
                   "coords": [
@@ -118,7 +118,7 @@ export const bulgariaHistoryV2: POI[] = [
       ],
       "ro": [
             {
-                  "name": "Мезешка крепост",
+                  "name": "Mezeshka krepost",
                   "text": "Una dintre cele mai bine conservate cetăți medievale din Bulgaria, datând din secolul al XI-lea.",
                   "category": "castle",
                   "coords": [
@@ -186,7 +186,7 @@ export const bulgariaHistoryV2: POI[] = [
     id: "bulgaria-magura-cave-paintings-history-v2", "sights": {
       "de": [
             {
-                  "name": "Исторически музей Белоградчик",
+                  "name": "Istoricheski muzei Белоградчик",
                   "text": "Ein historisches Museum in der Nähe der berühmten Höhlenmalereien von Magura.",
                   "category": "museum",
                   "coords": [
@@ -195,7 +195,7 @@ export const bulgariaHistoryV2: POI[] = [
                   ]
             },
             {
-                  "name": "Белоградчишка крепост",
+                  "name": "Belogradchishka krepost",
                   "text": "Eine beeindruckende Festung, die in die bizarren Felsformationen von Belogradtschik integriert ist.",
                   "category": "castle",
                   "coords": [
@@ -213,7 +213,7 @@ export const bulgariaHistoryV2: POI[] = [
                   ]
             },
             {
-                  "name": "Богинята Майка",
+                  "name": "Boginiata Maika",
                   "text": "Ein Aussichtspunkt mit Blick auf markante Felsformationen in der Nähe von Magura.",
                   "category": "natural",
                   "coords": [
@@ -224,7 +224,7 @@ export const bulgariaHistoryV2: POI[] = [
       ],
       "hu": [
             {
-                  "name": "Исторически музей Белоградчик",
+                  "name": "Istoricheski muzei Белоградчик",
                   "text": "Történeti múzeum a híres magurai barlangrajzok közelében.",
                   "category": "museum",
                   "coords": [
@@ -233,7 +233,7 @@ export const bulgariaHistoryV2: POI[] = [
                   ]
             },
             {
-                  "name": "Белоградчишка крепост",
+                  "name": "Belogradchishka krepost",
                   "text": "Lenyűgöző erődítmény, amely a belogradcsiki különleges sziklaalakzatok közé épült.",
                   "category": "castle",
                   "coords": [
@@ -251,7 +251,7 @@ export const bulgariaHistoryV2: POI[] = [
                   ]
             },
             {
-                  "name": "Богинята Майка",
+                  "name": "Boginiata Maika",
                   "text": "Kilátóhely, ahonnan rálátás nyílik a Magura közeli jellegzetes sziklákra.",
                   "category": "natural",
                   "coords": [
@@ -262,7 +262,7 @@ export const bulgariaHistoryV2: POI[] = [
       ],
       "ro": [
             {
-                  "name": "Исторически музей Белоградчик",
+                  "name": "Istoricheski muzei Белоградчик",
                   "text": "Un muzeu de istorie situat în apropierea celebrelor picturi rupestre de la Magura.",
                   "category": "museum",
                   "coords": [
@@ -271,7 +271,7 @@ export const bulgariaHistoryV2: POI[] = [
                   ]
             },
             {
-                  "name": "Белоградчишка крепост",
+                  "name": "Belogradchishka krepost",
                   "text": "O fortăreață impresionantă integrată în formațiunile stâncoase unice de la Belogradcik.",
                   "category": "castle",
                   "coords": [
@@ -289,7 +289,7 @@ export const bulgariaHistoryV2: POI[] = [
                   ]
             },
             {
-                  "name": "Богинята Майка",
+                  "name": "Boginiata Maika",
                   "text": "Un punct de belvedere cu vedere spre formațiunile stâncoase de lângă Magura.",
                   "category": "natural",
                   "coords": [
@@ -474,7 +474,7 @@ export const bulgariaHistoryV2: POI[] = [
     id: "bulgaria-perushtitsa-monument-history-v2", "sights": {
       "de": [
             {
-                  "name": "Червената църква",
+                  "name": "Chervenata ts'rkva",
                   "text": "Die beeindruckenden Ruinen einer spätantiken frühchristlichen Basilika aus dem 5. bis 6. Jahrhundert.",
                   "category": "religious",
                   "coords": [
@@ -483,7 +483,7 @@ export const bulgariaHistoryV2: POI[] = [
                   ]
             },
             {
-                  "name": "Исторически музей",
+                  "name": "Istoricheski muzei",
                   "text": "Das Museum dokumentiert die Geschichte der Stadt Peruschtiza, insbesondere die Ereignisse des Aprilaufstands von 1876.",
                   "category": "museum",
                   "coords": [
@@ -492,7 +492,7 @@ export const bulgariaHistoryV2: POI[] = [
                   ]
             },
             {
-                  "name": "Паметник на трите поколения",
+                  "name": "Pametnik na trite pokoleniia",
                   "text": "Ein monumentales Denkmal, das den revolutionären Kampf dreier Generationen für die Freiheit Bulgariens ehrt.",
                   "category": "historical",
                   "coords": [
@@ -503,7 +503,7 @@ export const bulgariaHistoryV2: POI[] = [
       ],
       "hu": [
             {
-                  "name": "Червената църква",
+                  "name": "Chervenata ts'rkva",
                   "text": "Egy 5-6. századi kora keresztény bazilika lenyűgöző vörös téglás romjai.",
                   "category": "religious",
                   "coords": [
@@ -512,7 +512,7 @@ export const bulgariaHistoryV2: POI[] = [
                   ]
             },
             {
-                  "name": "Исторически музей",
+                  "name": "Istoricheski muzei",
                   "text": "A múzeum Perustica történelmét, különösen az 1876-os áprilisi felkelés eseményeit mutatja be.",
                   "category": "museum",
                   "coords": [
@@ -521,7 +521,7 @@ export const bulgariaHistoryV2: POI[] = [
                   ]
             },
             {
-                  "name": "Паметник на трите поколения",
+                  "name": "Pametnik na trite pokoleniia",
                   "text": "Monumentális emlékmű, amely a bolgár szabadságért küzdő három generációnak állít emléket.",
                   "category": "historical",
                   "coords": [
@@ -532,7 +532,7 @@ export const bulgariaHistoryV2: POI[] = [
       ],
       "ro": [
             {
-                  "name": "Червената църква",
+                  "name": "Chervenata ts'rkva",
                   "text": "Ruinele impresionante ale unei bazilici timpurii creștine din secolele V-VI, construită din cărămidă roșie.",
                   "category": "religious",
                   "coords": [
@@ -541,7 +541,7 @@ export const bulgariaHistoryV2: POI[] = [
                   ]
             },
             {
-                  "name": "Исторически музей",
+                  "name": "Istoricheski muzei",
                   "text": "Muzeul documentează istoria orașului Peruștița, punând accent pe evenimentele Răscoalei din Aprilie 1876.",
                   "category": "museum",
                   "coords": [
@@ -550,7 +550,7 @@ export const bulgariaHistoryV2: POI[] = [
                   ]
             },
             {
-                  "name": "Паметник на трите поколения",
+                  "name": "Pametnik na trite pokoleniia",
                   "text": "Un monument grandios dedicat luptei revoluționare a trei generații pentru libertatea Bulgariei.",
                   "category": "historical",
                   "coords": [
@@ -726,7 +726,7 @@ export const bulgariaHistoryV2: POI[] = [
     id: "bulgaria-preslav-ruins-history-v2", "sights": {
       "de": [
             {
-                  "name": "Кръгла църква",
+                  "name": "Kr'gla ts'rkva",
                   "text": "Die Ruinen einer bedeutenden frühmittelalterlichen Rundkirche in Weliki Preslaw.",
                   "category": "religious",
                   "coords": [
@@ -735,7 +735,7 @@ export const bulgariaHistoryV2: POI[] = [
                   ]
             },
             {
-                  "name": "Археологически музей \"Велики Преслав\"",
+                  "name": "Arkheologicheski muzei \"Veliki Preslav\"",
                   "text": "Ein Museum, das Funde aus der antiken bulgarischen Hauptstadt Preslaw ausstellt.",
                   "category": "museum",
                   "coords": [
@@ -744,7 +744,7 @@ export const bulgariaHistoryV2: POI[] = [
                   ]
             },
             {
-                  "name": "Външен град",
+                  "name": "V'nshen grad",
                   "text": "Die archäologischen Überreste der Außenstadt der mittelalterlichen Hauptstadt Preslaw.",
                   "category": "historical",
                   "coords": [
@@ -753,7 +753,7 @@ export const bulgariaHistoryV2: POI[] = [
                   ]
             },
             {
-                  "name": "Александър Стамболийски",
+                  "name": "Aleksand'r Stamboliiski",
                   "text": "Ein Denkmal zu Ehren des bulgarischen Politikers Aleksandar Stambolijski.",
                   "category": "historical",
                   "coords": [
@@ -762,7 +762,7 @@ export const bulgariaHistoryV2: POI[] = [
                   ]
             },
             {
-                  "name": "Климент Охридски",
+                  "name": "Kliment Okhridski",
                   "text": "Ein Denkmal für den heiligen Clemens von Ohrid in den Ruinen von Preslaw.",
                   "category": "historical",
                   "coords": [
@@ -771,7 +771,7 @@ export const bulgariaHistoryV2: POI[] = [
                   ]
             },
             {
-                  "name": "Феодално имение",
+                  "name": "Feodalno imenie",
                   "text": "Die Ruinen eines mittelalterlichen Herrenhauses in der archäologischen Stätte Preslaw.",
                   "category": "historical",
                   "coords": [
@@ -780,7 +780,7 @@ export const bulgariaHistoryV2: POI[] = [
                   ]
             },
             {
-                  "name": "Дворцова базилика",
+                  "name": "Dvortsova bazilika",
                   "text": "Die Überreste einer großen Basilika, die Teil des Palastkomplexes in Preslaw war.",
                   "category": "historical",
                   "coords": [
@@ -791,7 +791,7 @@ export const bulgariaHistoryV2: POI[] = [
       ],
       "hu": [
             {
-                  "name": "Кръгла църква",
+                  "name": "Kr'gla ts'rkva",
                   "text": "Egy jelentős kora középkori kerek templom romjai Veliki Preszlávban.",
                   "category": "religious",
                   "coords": [
@@ -800,7 +800,7 @@ export const bulgariaHistoryV2: POI[] = [
                   ]
             },
             {
-                  "name": "Археологически музей \"Велики Преслав\"",
+                  "name": "Arkheologicheski muzei \"Veliki Preslav\"",
                   "text": "Múzeum, amely az egykori bolgár főváros, Preszláv leleteit mutatja be.",
                   "category": "museum",
                   "coords": [
@@ -809,7 +809,7 @@ export const bulgariaHistoryV2: POI[] = [
                   ]
             },
             {
-                  "name": "Външен град",
+                  "name": "V'nshen grad",
                   "text": "A középkori főváros, Preszláv külső városának régészeti maradványai.",
                   "category": "historical",
                   "coords": [
@@ -818,7 +818,7 @@ export const bulgariaHistoryV2: POI[] = [
                   ]
             },
             {
-                  "name": "Александър Стамболийски",
+                  "name": "Aleksand'r Stamboliiski",
                   "text": "Emlékmű Alekszandar Sztambolijszki bolgár politikus tiszteletére.",
                   "category": "historical",
                   "coords": [
@@ -827,7 +827,7 @@ export const bulgariaHistoryV2: POI[] = [
                   ]
             },
             {
-                  "name": "Климент Охридски",
+                  "name": "Kliment Okhridski",
                   "text": "Ohridi Szent Kelemen emlékműve Preszláv romjai között.",
                   "category": "historical",
                   "coords": [
@@ -836,7 +836,7 @@ export const bulgariaHistoryV2: POI[] = [
                   ]
             },
             {
-                  "name": "Феодално имение",
+                  "name": "Feodalno imenie",
                   "text": "Egy középkori nemesi udvarház romjai a preszláv régészeti területen.",
                   "category": "historical",
                   "coords": [
@@ -845,7 +845,7 @@ export const bulgariaHistoryV2: POI[] = [
                   ]
             },
             {
-                  "name": "Дворцова базилика",
+                  "name": "Dvortsova bazilika",
                   "text": "Egy nagy bazilika maradványai, amely a preszláv palotakomplexum része volt.",
                   "category": "historical",
                   "coords": [
@@ -856,7 +856,7 @@ export const bulgariaHistoryV2: POI[] = [
       ],
       "ro": [
             {
-                  "name": "Кръгла църква",
+                  "name": "Kr'gla ts'rkva",
                   "text": "Ruinele unei importante biserici rotunde din epoca medievală timpurie în Preslav.",
                   "category": "religious",
                   "coords": [
@@ -865,7 +865,7 @@ export const bulgariaHistoryV2: POI[] = [
                   ]
             },
             {
-                  "name": "Археологически музей \"Велики Преслав\"",
+                  "name": "Arkheologicheski muzei \"Veliki Preslav\"",
                   "text": "Un muzeu care expune descoperiri din vechea capitală bulgară Preslav.",
                   "category": "museum",
                   "coords": [
@@ -874,7 +874,7 @@ export const bulgariaHistoryV2: POI[] = [
                   ]
             },
             {
-                  "name": "Външен град",
+                  "name": "V'nshen grad",
                   "text": "Vestigiile arheologice ale orașului exterior din fosta capitală medievală Preslav.",
                   "category": "historical",
                   "coords": [
@@ -883,7 +883,7 @@ export const bulgariaHistoryV2: POI[] = [
                   ]
             },
             {
-                  "name": "Александър Стамболийски",
+                  "name": "Aleksand'r Stamboliiski",
                   "text": "Un monument ridicat în onoarea politicianului bulgar Aleksandar Stamboliyski.",
                   "category": "historical",
                   "coords": [
@@ -892,7 +892,7 @@ export const bulgariaHistoryV2: POI[] = [
                   ]
             },
             {
-                  "name": "Климент Охридски",
+                  "name": "Kliment Okhridski",
                   "text": "Un monument dedicat Sfântului Clement de Ohrid în ruinele de la Preslav.",
                   "category": "historical",
                   "coords": [
@@ -901,7 +901,7 @@ export const bulgariaHistoryV2: POI[] = [
                   ]
             },
             {
-                  "name": "Феодално имение",
+                  "name": "Feodalno imenie",
                   "text": "Ruinele unui conac feudal din cadrul sitului arheologic Preslav.",
                   "category": "historical",
                   "coords": [
@@ -910,7 +910,7 @@ export const bulgariaHistoryV2: POI[] = [
                   ]
             },
             {
-                  "name": "Дворцова базилика",
+                  "name": "Dvortsova bazilika",
                   "text": "Vestigiile unei mari bazilici care a făcut parte din complexul palatului din Preslav.",
                   "category": "historical",
                   "coords": [
@@ -1437,7 +1437,7 @@ export const bulgariaHistoryV2: POI[] = [
     id: "bulgaria-shipka-memorial-history-v2", "sights": {
       "de": [
             {
-                  "name": "Орлово гнездо",
+                  "name": "Orlovo gnezdo",
                   "text": "Ein geschichtsträchtiger Berggipfel am Schipkapass, bekannt als Adlerhorst.",
                   "category": "landmark",
                   "coords": [
@@ -1446,7 +1446,7 @@ export const bulgariaHistoryV2: POI[] = [
                   ]
             },
             {
-                  "name": "Храм-паметник \"Рождество Христово\"",
+                  "name": "Khram-pametnik \"Rozhdestvo Khristovo\"",
                   "text": "Diese markante orthodoxe Kirche mit ihren goldenen Kuppeln erinnert an die Gefallenen der Kämpfe am Schipkapass.",
                   "category": "religious",
                   "coords": [
@@ -1466,7 +1466,7 @@ export const bulgariaHistoryV2: POI[] = [
                   ]
             },
             {
-                  "name": "Храм-паметник \"Рождество Христово\"",
+                  "name": "Khram-pametnik \"Rozhdestvo Khristovo\"",
                   "text": "Ez a jellegzetes aranykupolás ortodox templom a Sipka-szorosnál vívott harcok elesett katonáinak állít emléket.",
                   "category": "religious",
                   "coords": [
@@ -1477,7 +1477,7 @@ export const bulgariaHistoryV2: POI[] = [
       ],
       "ro": [
             {
-                  "name": "Орлово гнездо",
+                  "name": "Orlovo gnezdo",
                   "text": "Un vârf montan încărcat de istorie în Pasul Șipka, cunoscut sub numele de Cuibul Vulturilor.",
                   "category": "landmark",
                   "coords": [
@@ -1486,7 +1486,7 @@ export const bulgariaHistoryV2: POI[] = [
                   ]
             },
             {
-                  "name": "Храм-паметник \"Рождество Христово\"",
+                  "name": "Khram-pametnik \"Rozhdestvo Khristovo\"",
                   "text": "Această biserică ortodoxă remarcabilă, cu cupole aurii, este dedicată memoriei celor căzuți în luptele din Pasul Șipka.",
                   "category": "religious",
                   "coords": [
@@ -1752,7 +1752,7 @@ export const bulgariaHistoryV2: POI[] = [
                   ]
             },
             {
-                  "name": "Ивановски скалeн манастир \"Св. архангел Михаил\"",
+                  "name": "Ivanovski skalen manastir \"Sv. arkhangel Mikhail\"",
                   "text": "Ein UNESCO-Weltkulturerbe bestehend aus mittelalterlichen Kirchen, die in den Fels gehauen wurden.",
                   "category": "religious",
                   "coords": [
@@ -1772,7 +1772,7 @@ export const bulgariaHistoryV2: POI[] = [
                   ]
             },
             {
-                  "name": "Ивановски скалeн манастир \"Св. архангел Михаил\"",
+                  "name": "Ivanovski skalen manastir \"Sv. arkhangel Mikhail\"",
                   "text": "Középkori sziklába vájt templomokból álló UNESCO világörökségi helyszín.",
                   "category": "religious",
                   "coords": [
@@ -1792,7 +1792,7 @@ export const bulgariaHistoryV2: POI[] = [
                   ]
             },
             {
-                  "name": "Ивановски скалeн манастир \"Св. архангел Михаил\"",
+                  "name": "Ivanovski skalen manastir \"Sv. arkhangel Mikhail\"",
                   "text": "Un sit inclus în patrimoniul mondial UNESCO, format din biserici medievale săpate în stâncă.",
                   "category": "religious",
                   "coords": [

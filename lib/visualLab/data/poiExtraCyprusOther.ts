@@ -67,7 +67,7 @@ export const cyprusOtherPoi: POI[] = [
                   ]
             },
             {
-                  "name": "Μουσείου Λαϊκής Τέχνης",
+                  "name": "Mouseiou Laikes Tekhnes",
                   "text": "Das Museum stellt traditionelle Handwerkskunst und Volkskunst aus der Gegend von Paphos aus.",
                   "category": "museum",
                   "coords": [
@@ -105,7 +105,7 @@ export const cyprusOtherPoi: POI[] = [
                   ]
             },
             {
-                  "name": "Μουσείου Λαϊκής Τέχνης",
+                  "name": "Mouseiou Laikes Tekhnes",
                   "text": "A múzeum Paphos környékének hagyományos mesterségeit és népművészetét mutatja be.",
                   "category": "museum",
                   "coords": [
@@ -143,7 +143,7 @@ export const cyprusOtherPoi: POI[] = [
                   ]
             },
             {
-                  "name": "Μουσείου Λαϊκής Τέχνης",
+                  "name": "Mouseiou Laikes Tekhnes",
                   "text": "Muzeul expune meșteșuguri tradiționale și artă populară din zona Paphos.",
                   "category": "museum",
                   "coords": [
@@ -240,7 +240,7 @@ export const cyprusOtherPoi: POI[] = [
     id: "animal-habitat-camel-park-mazotos-extra", "sights": {
       "de": [
             {
-                  "name": "Μουσείο Κώστα Αργυρού",
+                  "name": "Mouseio Kosta Argurou",
                   "text": "Ein Museum, das die Werke des zyprischen Volkskünstlers Costas Argyrou ausstellt.",
                   "category": "museum",
                   "coords": [
@@ -260,7 +260,7 @@ export const cyprusOtherPoi: POI[] = [
       ],
       "hu": [
             {
-                  "name": "Μουσείο Κώστα Αργυρού",
+                  "name": "Mouseio Kosta Argurou",
                   "text": "Múzeum, amely Costas Argyrou ciprusi népművész alkotásait mutatja be.",
                   "category": "museum",
                   "coords": [
@@ -280,7 +280,7 @@ export const cyprusOtherPoi: POI[] = [
       ],
       "ro": [
             {
-                  "name": "Μουσείο Κώστα Αργυρού",
+                  "name": "Mouseio Kosta Argurou",
                   "text": "Un muzeu care expune lucrările artistului popular cipriot Costas Argyrou.",
                   "category": "museum",
                   "coords": [
@@ -995,7 +995,7 @@ export const cyprusOtherPoi: POI[] = [
                   ]
             },
             {
-                  "name": "Παραλια Ασπροποταμου",
+                  "name": "Paralia Aspropotamou",
                   "text": "Ein Strandabschnitt, der als wichtiger Nistplatz für Meeresschildkröten bekannt ist.",
                   "category": "recreational",
                   "coords": [
@@ -1060,7 +1060,7 @@ export const cyprusOtherPoi: POI[] = [
                   ]
             },
             {
-                  "name": "Παραλια Ασπροποταμου",
+                  "name": "Paralia Aspropotamou",
                   "text": "Tengerparti szakasz, amely a tengeri teknősök fontos fészkelőhelyeként ismert.",
                   "category": "recreational",
                   "coords": [
@@ -1125,7 +1125,7 @@ export const cyprusOtherPoi: POI[] = [
                   ]
             },
             {
-                  "name": "Παραλια Ασπροποταμου",
+                  "name": "Paralia Aspropotamou",
                   "text": "O secțiune de plajă cunoscută ca un loc important de cuibărit pentru broaștele țestoase marine.",
                   "category": "recreational",
                   "coords": [
@@ -1294,7 +1294,7 @@ export const cyprusOtherPoi: POI[] = [
                   ]
             },
             {
-                  "name": "Τοπικό Αρχαιολογικό Moυσείο Μαρίου-Αρσινόης",
+                  "name": "Topiko Arkhaiologiko Mouseio Mariou-Arsinoes",
                   "text": "Ein Museum in Polis, das archäologische Funde der antiken Städte Marion und Arsinoe zeigt.",
                   "category": "museum",
                   "coords": [
@@ -1359,7 +1359,7 @@ export const cyprusOtherPoi: POI[] = [
                   ]
             },
             {
-                  "name": "Τοπικό Αρχαιολογικό Moυσείο Μαρίου-Αρσινόης",
+                  "name": "Topiko Arkhaiologiko Mouseio Mariou-Arsinoes",
                   "text": "Múzeum Poliszban, amely Marion és Arszinoé ókori városainak leleteit mutatja be.",
                   "category": "museum",
                   "coords": [
@@ -1424,7 +1424,7 @@ export const cyprusOtherPoi: POI[] = [
                   ]
             },
             {
-                  "name": "Τοπικό Αρχαιολογικό Moυσείο Μαρίου-Αρσινόης",
+                  "name": "Topiko Arkhaiologiko Mouseio Mariou-Arsinoes",
                   "text": "Un muzeu în Polis care expune descoperiri arheologice din orașele antice Marion și Arsinoe.",
                   "category": "museum",
                   "coords": [
@@ -2089,7 +2089,7 @@ export const cyprusOtherPoi: POI[] = [
     id: "animal-habitat-troodos-environmental-info-centre-extra", "sights": {
       "de": [
             {
-                  "name": "Εθνικό Δασικό Πάρκο Τροόδους",
+                  "name": "Ethniko Dasiko Parko Troodous",
                   "text": "Ein großes geschütztes Waldgebiet im Troodos-Gebirge, das für seine reiche Flora und Wanderwege bekannt ist.",
                   "category": "natural",
                   "coords": [
@@ -2163,7 +2163,7 @@ export const cyprusOtherPoi: POI[] = [
       ],
       "hu": [
             {
-                  "name": "Εθνικό Δασικό Πάρκο Τροόδους",
+                  "name": "Ethniko Dasiko Parko Troodous",
                   "text": "A Troodos-hegység nagy kiterjedésű védett erdőterülete, amely gazdag növényvilágáról és túraútvonalairól ismert.",
                   "category": "natural",
                   "coords": [
@@ -2172,7 +2172,7 @@ export const cyprusOtherPoi: POI[] = [
                   ]
             },
             {
-                  "name": "Όλυμπος",
+                  "name": "Olumpos",
                   "text": "Az 1952 méter magas Olümposz Ciprus legmagasabb hegycsúcsa, amely a Troodos-hegységben található.",
                   "category": "landmark",
                   "coords": [
@@ -2237,7 +2237,7 @@ export const cyprusOtherPoi: POI[] = [
       ],
       "ro": [
             {
-                  "name": "Εθνικό Δασικό Πάρκο Τροόδους",
+                  "name": "Ethniko Dasiko Parko Troodous",
                   "text": "O zonă forestieră protejată vastă în Munții Troodos, cunoscută pentru flora sa bogată și traseele de drumeție.",
                   "category": "natural",
                   "coords": [
@@ -2246,7 +2246,7 @@ export const cyprusOtherPoi: POI[] = [
                   ]
             },
             {
-                  "name": "Όλυμπος",
+                  "name": "Olumpos",
                   "text": "Cu o înălțime de 1.952 de metri, Olimp este cel mai înalt vârf din Cipru, situat în Munții Troodos.",
                   "category": "landmark",
                   "coords": [
@@ -2433,7 +2433,7 @@ export const cyprusOtherPoi: POI[] = [
                   ]
             },
             {
-                  "name": "Μουσείου Λαϊκής Τέχνης",
+                  "name": "Mouseiou Laikes Tekhnes",
                   "text": "Ein Museum, das Volkskunst und kulturelle Exponate zeigt.",
                   "category": "museum",
                   "coords": [
@@ -2462,7 +2462,7 @@ export const cyprusOtherPoi: POI[] = [
                   ]
             },
             {
-                  "name": "Μουσείου Λαϊκής Τέχνης",
+                  "name": "Mouseiou Laikes Tekhnes",
                   "text": "Népművészeti és kulturális kiállításokat bemutató múzeum.",
                   "category": "museum",
                   "coords": [
@@ -2491,7 +2491,7 @@ export const cyprusOtherPoi: POI[] = [
                   ]
             },
             {
-                  "name": "Μουσείου Λαϊκής Τέχνης",
+                  "name": "Mouseiou Laikes Tekhnes",
                   "text": "Un muzeu care prezintă artă populară și exponate culturale.",
                   "category": "museum",
                   "coords": [
@@ -2758,7 +2758,7 @@ export const cyprusOtherPoi: POI[] = [
                   ]
             },
             {
-                  "name": "Κούριο",
+                  "name": "Kourio",
                   "text": "Eine bedeutende archäologische Stätte, die die Überreste einer antiken zyprischen Stadtkönigreichs zeigt.",
                   "category": "historical",
                   "coords": [
@@ -2794,7 +2794,7 @@ export const cyprusOtherPoi: POI[] = [
                   ]
             },
             {
-                  "name": "Κourion Ancient Amphitheater",
+                  "name": "ourion Ancient Amphitheater",
                   "text": "Ein restauriertes antikes griechisch-römisches Theater mit Blick auf das Meer.",
                   "category": "historical",
                   "coords": [
@@ -2823,7 +2823,7 @@ export const cyprusOtherPoi: POI[] = [
                   ]
             },
             {
-                  "name": "Κούριο",
+                  "name": "Kourio",
                   "text": "Jelentős régészeti lelőhely, amely egy ókori ciprusi városkirályság maradványait mutatja be.",
                   "category": "historical",
                   "coords": [
@@ -2888,7 +2888,7 @@ export const cyprusOtherPoi: POI[] = [
                   ]
             },
             {
-                  "name": "Κούριο",
+                  "name": "Kourio",
                   "text": "Un sit arheologic important care prezintă rămășițele unui antic regat-oraș cipriot.",
                   "category": "historical",
                   "coords": [
@@ -3077,7 +3077,7 @@ export const cyprusOtherPoi: POI[] = [
     id: "animal-habitat-cyherbia-botanical-park-animals-extra", "sights": {
       "de": [
             {
-                  "name": "Το Βοτανικό Πάρκο και Λαβύρινθος Cyherbia",
+                  "name": "Cyherbia",
                   "text": "Ein botanischer Garten mit einem großen Heckenlabyrinth und verschiedenen Kräutergärten.",
                   "category": "landmark",
                   "coords": [
@@ -3088,7 +3088,7 @@ export const cyprusOtherPoi: POI[] = [
       ],
       "hu": [
             {
-                  "name": "Το Βοτανικό Πάρκο και Λαβύρινθος Cyherbia",
+                  "name": "Cyherbia",
                   "text": "Botanikus kert nagy sövénylabirintussal és különböző fűszerkerttel.",
                   "category": "landmark",
                   "coords": [
@@ -3099,7 +3099,7 @@ export const cyprusOtherPoi: POI[] = [
       ],
       "ro": [
             {
-                  "name": "Το Βοτανικό Πάρκο και Λαβύρινθος Cyherbia",
+                  "name": "Cyherbia",
                   "text": "O grădină botanică cu un labirint mare de gard viu și diverse grădini de plante aromatice.",
                   "category": "landmark",
                   "coords": [
@@ -3507,7 +3507,7 @@ export const cyprusOtherPoi: POI[] = [
                   ]
             },
             {
-                  "name": "Αστεροσκοπείο Τροόδους",
+                  "name": "Asteroskopeio Troodous",
                   "text": "Eine astronomische Sternwarte in der Gegend des Adventure Mountain Park.",
                   "category": "museum",
                   "coords": [
@@ -3516,7 +3516,7 @@ export const cyprusOtherPoi: POI[] = [
                   ]
             },
             {
-                  "name": "Ιερά Μονή Παναγίας Χρυσοκουρδαλιώτισσας",
+                  "name": "Iera Mone Panagias Khrusokourdaliotissas",
                   "text": "Ein historisches Kloster, das der Jungfrau Maria gewidmet ist, in der Nähe des Adventure Mountain Parks.",
                   "category": "landmark",
                   "coords": [
@@ -3563,7 +3563,7 @@ export const cyprusOtherPoi: POI[] = [
                   ]
             },
             {
-                  "name": "Αστεροσκοπείο Τροόδους",
+                  "name": "Asteroskopeio Troodous",
                   "text": "Csillagászati obszervatórium az Adventure Mountain Park környékén.",
                   "category": "museum",
                   "coords": [
@@ -3572,7 +3572,7 @@ export const cyprusOtherPoi: POI[] = [
                   ]
             },
             {
-                  "name": "Ιερά Μονή Παναγίας Χρυσοκουρδαλιώτισσας",
+                  "name": "Iera Mone Panagias Khrusokourdaliotissas",
                   "text": "Szűz Máriának szentelt történelmi kolostor az Adventure Mountain Park közelében.",
                   "category": "landmark",
                   "coords": [
@@ -3619,7 +3619,7 @@ export const cyprusOtherPoi: POI[] = [
                   ]
             },
             {
-                  "name": "Αστεροσκοπείο Τροόδους",
+                  "name": "Asteroskopeio Troodous",
                   "text": "Un observator astronomic situat în zona Adventure Mountain Park.",
                   "category": "museum",
                   "coords": [
@@ -3628,7 +3628,7 @@ export const cyprusOtherPoi: POI[] = [
                   ]
             },
             {
-                  "name": "Ιερά Μονή Παναγίας Χρυσοκουρδαλιώτισσας",
+                  "name": "Iera Mone Panagias Khrusokourdaliotissas",
                   "text": "O mănăstire istorică dedicată Fecioarei Maria, lângă Adventure Mountain Park.",
                   "category": "landmark",
                   "coords": [
@@ -4361,7 +4361,7 @@ export const cyprusOtherPoi: POI[] = [
       ],
       "hu": [
             {
-                  "name": "Ταμασσός",
+                  "name": "Tamassos",
                   "text": "Tamassosz egy jelentős ókori városkirályság volt Cipruson, amely rézbányáiról volt ismert.",
                   "category": "historical",
                   "coords": [
@@ -4390,7 +4390,7 @@ export const cyprusOtherPoi: POI[] = [
       ],
       "ro": [
             {
-                  "name": "Ταμασσός",
+                  "name": "Tamassos",
                   "text": "Tamassos a fost un important regat antic din Cipru, cunoscut pentru minele sale de cupru.",
                   "category": "historical",
                   "coords": [
@@ -4563,7 +4563,7 @@ export const cyprusOtherPoi: POI[] = [
     id: "kid-landmark-cyprus-maze-extra", "sights": {
       "de": [
             {
-                  "name": "Το Βοτανικό Πάρκο και Λαβύρινθος Cyherbia",
+                  "name": "Cyherbia",
                   "text": "Ein botanischer Garten mit einem großen Heckenlabyrinth auf Zypern.",
                   "category": "landmark",
                   "coords": [
@@ -4574,7 +4574,7 @@ export const cyprusOtherPoi: POI[] = [
       ],
       "hu": [
             {
-                  "name": "Το Βοτανικό Πάρκο και Λαβύρινθος Cyherbia",
+                  "name": "Cyherbia",
                   "text": "Botanikus kert nagy sövénylabirintussal Cipruson.",
                   "category": "landmark",
                   "coords": [
@@ -4585,7 +4585,7 @@ export const cyprusOtherPoi: POI[] = [
       ],
       "ro": [
             {
-                  "name": "Το Βοτανικό Πάρκο και Λαβύρινθος Cyherbia",
+                  "name": "Cyherbia",
                   "text": "O grădină botanică cu un labirint mare de gard viu în Cipru.",
                   "category": "landmark",
                   "coords": [
@@ -4977,7 +4977,7 @@ export const cyprusOtherPoi: POI[] = [
     id: "kid-landmark-camel-park-playground-mazotos-extra", "sights": {
       "de": [
             {
-                  "name": "Μουσείο Κώστα Αργυρού",
+                  "name": "Mouseio Kosta Argurou",
                   "text": "Ein Kunstmuseum in Mazotos, das die Werke von Costas Argyrou zeigt.",
                   "category": "museum",
                   "coords": [
@@ -4995,7 +4995,7 @@ export const cyprusOtherPoi: POI[] = [
                   ]
             },
             {
-                  "name": "Πύργος Αλαμινου",
+                  "name": "Purgos Alaminou",
                   "text": "Ein historischer venezianischer Wachturm in Alaminos.",
                   "category": "landmark",
                   "coords": [
@@ -5006,7 +5006,7 @@ export const cyprusOtherPoi: POI[] = [
       ],
       "hu": [
             {
-                  "name": "Μουσείο Κώστα Αργυρού",
+                  "name": "Mouseio Kosta Argurou",
                   "text": "Costas Argyrou műveit bemutató múvészeti múzeum Mazotoszban.",
                   "category": "museum",
                   "coords": [
@@ -5024,7 +5024,7 @@ export const cyprusOtherPoi: POI[] = [
                   ]
             },
             {
-                  "name": "Πύργος Αλαμινου",
+                  "name": "Purgos Alaminou",
                   "text": "Történelmi velencei őrtorony Alaminoszban.",
                   "category": "landmark",
                   "coords": [
@@ -5035,7 +5035,7 @@ export const cyprusOtherPoi: POI[] = [
       ],
       "ro": [
             {
-                  "name": "Μουσείο Κώστα Αργυρού",
+                  "name": "Mouseio Kosta Argurou",
                   "text": "Un muzeu de artă din Mazotos care expune lucrările lui Costas Argyrou.",
                   "category": "museum",
                   "coords": [
@@ -5053,7 +5053,7 @@ export const cyprusOtherPoi: POI[] = [
                   ]
             },
             {
-                  "name": "Πύργος Αλαμινου",
+                  "name": "Purgos Alaminou",
                   "text": "Un turn de veghe venețian istoric în Alaminos.",
                   "category": "landmark",
                   "coords": [
@@ -5344,7 +5344,7 @@ export const cyprusOtherPoi: POI[] = [
                   ]
             },
             {
-                  "name": "Τιμίου Σταυρού",
+                  "name": "Timiou Staurou",
                   "text": "Eine religiöse oder historische Sehenswürdigkeit beim Weingut Tsiakkas.",
                   "category": "landmark",
                   "coords": [
@@ -5364,7 +5364,7 @@ export const cyprusOtherPoi: POI[] = [
                   ]
             },
             {
-                  "name": "Τιμίου Σταυρού",
+                  "name": "Timiou Staurou",
                   "text": "Vallási vagy történelmi látnivaló a Tsiakkas borászatnál.",
                   "category": "landmark",
                   "coords": [
@@ -5384,7 +5384,7 @@ export const cyprusOtherPoi: POI[] = [
                   ]
             },
             {
-                  "name": "Τιμίου Σταυρού",
+                  "name": "Timiou Staurou",
                   "text": "Un obiectiv religios sau istoric lângă crama Tsiakkas.",
                   "category": "landmark",
                   "coords": [
@@ -5573,7 +5573,7 @@ export const cyprusOtherPoi: POI[] = [
     id: "agriculture-zambartas-wineries-agios-ambrosios-extra", "sights": {
       "de": [
             {
-                  "name": "Ο σπήλιος του Χατζηρόσου",
+                  "name": "O spelios tou Khatzerosou",
                   "text": "Eine archäologische Stätte in der Nähe des Weinguts Zambartas auf Zypern.",
                   "category": "historical",
                   "coords": [
@@ -5593,7 +5593,7 @@ export const cyprusOtherPoi: POI[] = [
       ],
       "hu": [
             {
-                  "name": "Ο σπήλιος του Χατζηρόσου",
+                  "name": "O spelios tou Khatzerosou",
                   "text": "Régészeti lelőhely a ciprusi Zambartas borászat közelében.",
                   "category": "historical",
                   "coords": [
@@ -5613,7 +5613,7 @@ export const cyprusOtherPoi: POI[] = [
       ],
       "ro": [
             {
-                  "name": "Ο σπήλιος του Χατζηρόσου",
+                  "name": "O spelios tou Khatzerosou",
                   "text": "Un sit arheologic situat în apropierea cramei Zambartas din Cipru.",
                   "category": "historical",
                   "coords": [
@@ -5885,7 +5885,7 @@ export const cyprusOtherPoi: POI[] = [
     id: "agriculture-agros-rose-factory-extra", "sights": {
       "de": [
             {
-                  "name": "Αστεροσκοπείο Τροόδους",
+                  "name": "Asteroskopeio Troodous",
                   "text": "Ein Observatorium und Museum in der Nähe der Rosenfabrik in Agros.",
                   "category": "museum",
                   "coords": [
@@ -5894,7 +5894,7 @@ export const cyprusOtherPoi: POI[] = [
                   ]
             },
             {
-                  "name": "Τιμίου Σταυρού",
+                  "name": "Timiou Staurou",
                   "text": "Eine religiöse Sehenswürdigkeit in Agros.",
                   "category": "landmark",
                   "coords": [
@@ -5914,7 +5914,7 @@ export const cyprusOtherPoi: POI[] = [
       ],
       "hu": [
             {
-                  "name": "Αστεροσκοπείο Τροόδους",
+                  "name": "Asteroskopeio Troodous",
                   "text": "Obszervatórium és múzeum az agrosi rózsagyár közelében.",
                   "category": "museum",
                   "coords": [
@@ -5923,7 +5923,7 @@ export const cyprusOtherPoi: POI[] = [
                   ]
             },
             {
-                  "name": "Τιμίου Σταυρού",
+                  "name": "Timiou Staurou",
                   "text": "Vallási jellegű látnivaló Agrosban.",
                   "category": "landmark",
                   "coords": [
@@ -5943,7 +5943,7 @@ export const cyprusOtherPoi: POI[] = [
       ],
       "ro": [
             {
-                  "name": "Αστεροσκοπείο Τροόδους",
+                  "name": "Asteroskopeio Troodous",
                   "text": "Un observator și muzeu situat lângă fabrica de trandafiri din Agros.",
                   "category": "museum",
                   "coords": [
@@ -5952,7 +5952,7 @@ export const cyprusOtherPoi: POI[] = [
                   ]
             },
             {
-                  "name": "Τιμίου Σταυρού",
+                  "name": "Timiou Staurou",
                   "text": "O atracție religioasă situată în Agros.",
                   "category": "landmark",
                   "coords": [
@@ -6233,7 +6233,7 @@ export const cyprusOtherPoi: POI[] = [
     id: "agriculture-cyherbia-botanical-park-avgorou-extra", "sights": {
       "de": [
             {
-                  "name": "Το Βοτανικό Πάρκο και Λαβύρινθος Cyherbia",
+                  "name": "Cyherbia",
                   "text": "Ein botanischer Garten mit Kräutergärten, einem Lavendel-Labyrinth und Naturpfaden.",
                   "category": "landmark",
                   "coords": [
@@ -6244,7 +6244,7 @@ export const cyprusOtherPoi: POI[] = [
       ],
       "hu": [
             {
-                  "name": "Το Βοτανικό Πάρκο και Λαβύρινθος Cyherbia",
+                  "name": "Cyherbia",
                   "text": "Botanikus kert fűszerkertekkel, levendula-labirintussal és tanösvényekkel.",
                   "category": "landmark",
                   "coords": [
@@ -6255,7 +6255,7 @@ export const cyprusOtherPoi: POI[] = [
       ],
       "ro": [
             {
-                  "name": "Το Βοτανικό Πάρκο και Λαβύρινθος Cyherbia",
+                  "name": "Cyherbia",
                   "text": "O grădină botanică cu grădini de plante aromatice, un labirint de lavandă și trasee în natură.",
                   "category": "landmark",
                   "coords": [
@@ -6325,7 +6325,7 @@ export const cyprusOtherPoi: POI[] = [
                   ]
             },
             {
-                  "name": "Μοναστήρι της Κάτω Παναγίας",
+                  "name": "Monasteri tes Kato Panagias",
                   "text": "Die Überreste eines historischen Klosters in der ländlichen Gegend von Letymbou.",
                   "category": "historical",
                   "coords": [
@@ -6345,7 +6345,7 @@ export const cyprusOtherPoi: POI[] = [
                   ]
             },
             {
-                  "name": "Μοναστήρι της Κάτω Παναγίας",
+                  "name": "Monasteri tes Kato Panagias",
                   "text": "Egy történelmi kolostor maradványai Letymbou vidéki területén.",
                   "category": "historical",
                   "coords": [
@@ -6365,7 +6365,7 @@ export const cyprusOtherPoi: POI[] = [
                   ]
             },
             {
-                  "name": "Μοναστήρι της Κάτω Παναγίας",
+                  "name": "Monasteri tes Kato Panagias",
                   "text": "Rămășițele unei mănăstiri istorice situate în zona rurală Letymbou.",
                   "category": "historical",
                   "coords": [
@@ -6453,7 +6453,7 @@ export const cyprusOtherPoi: POI[] = [
                   ]
             },
             {
-                  "name": "Εκκλησιαστικό Μουσείο και Μουσείο Αμπελουργίας στο χωριό Κοιλάνι",
+                  "name": "Ekklesiastiko Mouseio kai Mouseio Ampelourgias sto khorio Koilani",
                   "text": "Museen für Kirchengeschichte und Weinbau in den Weindörfern von Krasochoria.",
                   "category": "museum",
                   "coords": [
@@ -6491,7 +6491,7 @@ export const cyprusOtherPoi: POI[] = [
                   ]
             },
             {
-                  "name": "Εκκλησιαστικό Μουσείο και Μουσείο Αμπελουργίας στο χωριό Κοιλάνι",
+                  "name": "Ekklesiastiko Mouseio kai Mouseio Ampelourgias sto khorio Koilani",
                   "text": "Egyházi és szőlészeti múzeumok Krasochoria borvidékén, bemutatva a helyi hagyományokat.",
                   "category": "museum",
                   "coords": [
@@ -6529,7 +6529,7 @@ export const cyprusOtherPoi: POI[] = [
                   ]
             },
             {
-                  "name": "Εκκλησιαστικό Μουσείο και Μουσείο Αμπελουργίας στο χωριό Κοιλάνι",
+                  "name": "Ekklesiastiko Mouseio kai Mouseio Ampelourgias sto khorio Koilani",
                   "text": "Muzee de istorie ecleziastică și viticultură în satele viticole Krasochoria.",
                   "category": "museum",
                   "coords": [
@@ -6655,7 +6655,7 @@ export const cyprusOtherPoi: POI[] = [
                   ]
             },
             {
-                  "name": "Τοπικό Μουσείο Αρχαίου Ιδαλίου",
+                  "name": "Topiko Mouseio Arkhaiou Idaliou",
                   "text": "Museum mit Funden aus der antiken Stadt Idalion.",
                   "category": "museum",
                   "coords": [
@@ -6673,7 +6673,7 @@ export const cyprusOtherPoi: POI[] = [
                   ]
             },
             {
-                  "name": "Αμφιθέατρο Ιδαλίου",
+                  "name": "Amphitheatro Idaliou",
                   "text": "Antikes Theater in der Nähe der Ausgrabungen von Dali.",
                   "category": "cultural",
                   "coords": [
@@ -6711,7 +6711,7 @@ export const cyprusOtherPoi: POI[] = [
                   ]
             },
             {
-                  "name": "Τοπικό Μουσείο Αρχαίου Ιδαλίου",
+                  "name": "Topiko Mouseio Arkhaiou Idaliou",
                   "text": "Az ókori Idalion városából származó leleteket bemutató múzeum.",
                   "category": "museum",
                   "coords": [
@@ -6729,7 +6729,7 @@ export const cyprusOtherPoi: POI[] = [
                   ]
             },
             {
-                  "name": "Αμφιθέατρο Ιδαλίου",
+                  "name": "Amphitheatro Idaliou",
                   "text": "Ókori színház a dali ásatások közelében.",
                   "category": "cultural",
                   "coords": [
@@ -6767,7 +6767,7 @@ export const cyprusOtherPoi: POI[] = [
                   ]
             },
             {
-                  "name": "Τοπικό Μουσείο Αρχαίου Ιδαλίου",
+                  "name": "Topiko Mouseio Arkhaiou Idaliou",
                   "text": "Muzeu cu descoperiri din orașul antic Idalion.",
                   "category": "museum",
                   "coords": [
@@ -6785,7 +6785,7 @@ export const cyprusOtherPoi: POI[] = [
                   ]
             },
             {
-                  "name": "Αμφιθέατρο Ιδαλίου",
+                  "name": "Amphitheatro Idaliou",
                   "text": "Teatru antic lângă săpăturile din Dali.",
                   "category": "cultural",
                   "coords": [
@@ -6931,7 +6931,7 @@ export const cyprusOtherPoi: POI[] = [
     id: "agriculture-dafermou-winery-lefkara-extra", "sights": {
       "de": [
             {
-                  "name": "Τοπικο Μουσείο Παραδοσιακής Κεντητικής και Αργυροχοΐας-Λεύκαρα",
+                  "name": "Topiko Mouseio Paradosiakes Kentetikes kai ArgurokhoIas-Leukara",
                   "text": "Ein Museum in Lefkara, das traditionelles Kunsthandwerk wie Spitze und Silberarbeiten zeigt.",
                   "category": "museum",
                   "coords": [
@@ -6978,7 +6978,7 @@ export const cyprusOtherPoi: POI[] = [
       ],
       "hu": [
             {
-                  "name": "Τοπικο Μουσείο Παραδοσιακής Κεντητικής και Αργυροχοΐας-Λεύκαρα",
+                  "name": "Topiko Mouseio Paradosiakes Kentetikes kai ArgurokhoIas-Leukara",
                   "text": "Lefkarai múzeum, amely a hagyományos kézművességet, például a csipkét és az ezüstművességet mutatja be.",
                   "category": "museum",
                   "coords": [
@@ -7025,7 +7025,7 @@ export const cyprusOtherPoi: POI[] = [
       ],
       "ro": [
             {
-                  "name": "Τοπικο Μουσείο Παραδοσιακής Κεντητικής και Αργυροχοΐας-Λεύκαρα",
+                  "name": "Topiko Mouseio Paradosiakes Kentetikes kai ArgurokhoIas-Leukara",
                   "text": "Un muzeu din Lefkara care prezintă meșteșuguri tradiționale, cum ar fi dantela și argintăria.",
                   "category": "museum",
                   "coords": [
@@ -7167,7 +7167,7 @@ export const cyprusOtherPoi: POI[] = [
                   ]
             },
             {
-                  "name": "Μουσείο Αλευρομύλου",
+                  "name": "Mouseio Aleuromulou",
                   "text": "Eine historische Olivenmühle, die heute als Museum für traditionelle Ölgewinnung dient.",
                   "category": "museum",
                   "coords": [
@@ -7176,7 +7176,7 @@ export const cyprusOtherPoi: POI[] = [
                   ]
             },
             {
-                  "name": "Ο σπήλιος του Χατζηρόσου",
+                  "name": "O spelios tou Khatzerosou",
                   "text": "Eine archäologische Fundstätte in einer Höhle in der Gegend von Omodos.",
                   "category": "historical",
                   "coords": [
@@ -7194,7 +7194,7 @@ export const cyprusOtherPoi: POI[] = [
                   ]
             },
             {
-                  "name": "Εκκλησιαστικό Μουσείο και Μουσείο Αμπελουργίας στο χωριό Κοιλάνι",
+                  "name": "Ekklesiastiko Mouseio kai Mouseio Ampelourgias sto khorio Koilani",
                   "text": "Ausstellungen zur Kirchengeschichte und zum Weinbau in der Region Omodos.",
                   "category": "museum",
                   "coords": [
@@ -7223,7 +7223,7 @@ export const cyprusOtherPoi: POI[] = [
                   ]
             },
             {
-                  "name": "Μουσείο Αλευρομύλου",
+                  "name": "Mouseio Aleuromulou",
                   "text": "Történelmi olajbogyó-prés, amely ma a hagyományos olajkészítést bemutató múzeum.",
                   "category": "museum",
                   "coords": [
@@ -7232,7 +7232,7 @@ export const cyprusOtherPoi: POI[] = [
                   ]
             },
             {
-                  "name": "Ο σπήλιος του Χατζηρόσου",
+                  "name": "O spelios tou Khatzerosou",
                   "text": "Egy barlangban található régészeti lelőhely Omodos környékén.",
                   "category": "historical",
                   "coords": [
@@ -7250,7 +7250,7 @@ export const cyprusOtherPoi: POI[] = [
                   ]
             },
             {
-                  "name": "Εκκλησιαστικό Μουσείο και Μουσείο Αμπελουργίας στο χωριό Κοιλάνι",
+                  "name": "Ekklesiastiko Mouseio kai Mouseio Ampelourgias sto khorio Koilani",
                   "text": "Az egyháztörténetet és a szőlőtermesztést bemutató kiállítások Omodos környékén.",
                   "category": "museum",
                   "coords": [
@@ -7279,7 +7279,7 @@ export const cyprusOtherPoi: POI[] = [
                   ]
             },
             {
-                  "name": "Μουσείο Αλευρομύλου",
+                  "name": "Mouseio Aleuromulou",
                   "text": "O moară de măsline istorică, transformată în muzeu al metodelor tradiționale de producție a uleiului.",
                   "category": "museum",
                   "coords": [
@@ -7288,7 +7288,7 @@ export const cyprusOtherPoi: POI[] = [
                   ]
             },
             {
-                  "name": "Ο σπήλιος του Χατζηρόσου",
+                  "name": "O spelios tou Khatzerosou",
                   "text": "Un sit arheologic situat într-o peșteră din zona Omodos.",
                   "category": "historical",
                   "coords": [
@@ -7306,7 +7306,7 @@ export const cyprusOtherPoi: POI[] = [
                   ]
             },
             {
-                  "name": "Εκκλησιαστικό Μουσείο και Μουσείο Αμπελουργίας στο χωριό Κοιλάνι",
+                  "name": "Ekklesiastiko Mouseio kai Mouseio Ampelourgias sto khorio Koilani",
                   "text": "Expoziții dedicate istoriei bisericești și viticulturii din regiunea Omodos.",
                   "category": "museum",
                   "coords": [
@@ -7524,7 +7524,7 @@ export const cyprusOtherPoi: POI[] = [
                   ]
             },
             {
-                  "name": "Μοναστήρι της Κάτω Παναγίας",
+                  "name": "Monasteri tes Kato Panagias",
                   "text": "Historische Überreste des Kato-Pangias-Klosters, die an die monastische Tradition erinnern.",
                   "category": "historical",
                   "coords": [
@@ -7571,7 +7571,7 @@ export const cyprusOtherPoi: POI[] = [
                   ]
             },
             {
-                  "name": "Μοναστήρι της Κάτω Παναγίας",
+                  "name": "Monasteri tes Kato Panagias",
                   "text": "A Kato Pangias-kolostor történelmi maradványai, amelyek a szerzetesi múltat idézik.",
                   "category": "historical",
                   "coords": [
@@ -7618,7 +7618,7 @@ export const cyprusOtherPoi: POI[] = [
                   ]
             },
             {
-                  "name": "Μοναστήρι της Κάτω Παναγίας",
+                  "name": "Monasteri tes Kato Panagias",
                   "text": "Rămășițele istorice ale mănăstirii Kato Pangias, amintind de tradiția monastică.",
                   "category": "historical",
                   "coords": [
@@ -7724,7 +7724,7 @@ export const cyprusOtherPoi: POI[] = [
     id: "agriculture-christoudia-winery-kato-drys-extra", "sights": {
       "de": [
             {
-                  "name": "Τοπικο Μουσείο Παραδοσιακής Κεντητικής και Αργυροχοΐας-Λεύκαρα",
+                  "name": "Topiko Mouseio Paradosiakes Kentetikes kai ArgurokhoIas-Leukara",
                   "text": "Ein Museum in Lefkara, das der traditionellen Volkskunst, Stickerei und Silberschmiedekunst gewidmet ist.",
                   "category": "museum",
                   "coords": [
@@ -7780,7 +7780,7 @@ export const cyprusOtherPoi: POI[] = [
       ],
       "hu": [
             {
-                  "name": "Τοπικο Μουσείο Παραδοσιακής Κεντητικής και Αργυροχοΐας-Λεύκαρα",
+                  "name": "Topiko Mouseio Paradosiakes Kentetikes kai ArgurokhoIas-Leukara",
                   "text": "Lefkarai múzeum, amely a hagyományos népművészetnek, a hímzésnek és az ezüstművességnek szentelt.",
                   "category": "museum",
                   "coords": [
@@ -7836,7 +7836,7 @@ export const cyprusOtherPoi: POI[] = [
       ],
       "ro": [
             {
-                  "name": "Τοπικο Μουσείο Παραδοσιακής Κεντητικής και Αργυροχοΐας-Λεύκαρα",
+                  "name": "Topiko Mouseio Paradosiakes Kentetikes kai ArgurokhoIas-Leukara",
                   "text": "Un muzeu din Lefkara dedicat artei populare tradiționale, broderiei și argintăriei.",
                   "category": "museum",
                   "coords": [
@@ -8063,7 +8063,7 @@ export const cyprusOtherPoi: POI[] = [
     id: "agriculture-agrovino-lofou-extra", "sights": {
       "de": [
             {
-                  "name": "Μουσείο Αλευρομύλου",
+                  "name": "Mouseio Aleuromulou",
                   "text": "Eine restaurierte traditionelle Ölmühle in Lofou, die heute als Museum dient.",
                   "category": "museum",
                   "coords": [
@@ -8072,7 +8072,7 @@ export const cyprusOtherPoi: POI[] = [
                   ]
             },
             {
-                  "name": "Ο σπήλιος του Χατζηρόσου",
+                  "name": "O spelios tou Khatzerosou",
                   "text": "Eine natürliche Höhle und archäologische Fundstätte in der Nähe des Dorfes Lofou.",
                   "category": "historical",
                   "coords": [
@@ -8081,7 +8081,7 @@ export const cyprusOtherPoi: POI[] = [
                   ]
             },
             {
-                  "name": "Εκκλησιαστικό Μουσείο και Μουσείο Αμπελουργίας στο χωριό Κοιλάνι",
+                  "name": "Ekklesiastiko Mouseio kai Mouseio Ampelourgias sto khorio Koilani",
                   "text": "Museen in Lofou, die der Religionsgeschichte und der Weinbautradition gewidmet sind.",
                   "category": "museum",
                   "coords": [
@@ -8101,7 +8101,7 @@ export const cyprusOtherPoi: POI[] = [
       ],
       "hu": [
             {
-                  "name": "Μουσείο Αλευρομύλου",
+                  "name": "Mouseio Aleuromulou",
                   "text": "Restaurált hagyományos olajprés Lofouban, amely ma múzeumként működik.",
                   "category": "museum",
                   "coords": [
@@ -8110,7 +8110,7 @@ export const cyprusOtherPoi: POI[] = [
                   ]
             },
             {
-                  "name": "Ο σπήλιος του Χατζηρόσου",
+                  "name": "O spelios tou Khatzerosou",
                   "text": "Természetes barlang és régészeti lelőhely Lofou falu közelében.",
                   "category": "historical",
                   "coords": [
@@ -8119,7 +8119,7 @@ export const cyprusOtherPoi: POI[] = [
                   ]
             },
             {
-                  "name": "Εκκλησιαστικό Μουσείο και Μουσείο Αμπελουργίας στο χωριό Κοιλάνι",
+                  "name": "Ekklesiastiko Mouseio kai Mouseio Ampelourgias sto khorio Koilani",
                   "text": "Lofou múzeumai, amelyek a vallástörténetnek és a borászati hagyományoknak szenteltek.",
                   "category": "museum",
                   "coords": [
@@ -8139,7 +8139,7 @@ export const cyprusOtherPoi: POI[] = [
       ],
       "ro": [
             {
-                  "name": "Μουσείο Αλευρομύλου",
+                  "name": "Mouseio Aleuromulou",
                   "text": "O presă de ulei tradițională restaurată în Lofou, care acum servește ca muzeu.",
                   "category": "museum",
                   "coords": [
@@ -8148,7 +8148,7 @@ export const cyprusOtherPoi: POI[] = [
                   ]
             },
             {
-                  "name": "Ο σπήλιος του Χατζηρόσου",
+                  "name": "O spelios tou Khatzerosou",
                   "text": "O peșteră naturală și sit arheologic lângă satul Lofou.",
                   "category": "historical",
                   "coords": [
@@ -8157,7 +8157,7 @@ export const cyprusOtherPoi: POI[] = [
                   ]
             },
             {
-                  "name": "Εκκλησιαστικό Μουσείο και Μουσείο Αμπελουργίας στο χωριό Κοιλάνι",
+                  "name": "Ekklesiastiko Mouseio kai Mouseio Ampelourgias sto khorio Koilani",
                   "text": "Muzee din Lofou dedicate istoriei religioase și tradițiilor viticole.",
                   "category": "museum",
                   "coords": [
@@ -8485,7 +8485,7 @@ export const cyprusOtherPoi: POI[] = [
     id: "agriculture-drapia-farm-kato-drys-extra", "sights": {
       "de": [
             {
-                  "name": "Τοπικο Μουσείο Παραδοσιακής Κεντητικής και Αργυροχοΐας-Λεύκαρα",
+                  "name": "Topiko Mouseio Paradosiakes Kentetikes kai ArgurokhoIas-Leukara",
                   "text": "Ein Museum in Lefkara, das die Traditionen der Stickerei und Silberschmiedekunst präsentiert.",
                   "category": "museum",
                   "coords": [
@@ -8541,7 +8541,7 @@ export const cyprusOtherPoi: POI[] = [
       ],
       "hu": [
             {
-                  "name": "Τοπικο Μουσείο Παραδοσιακής Κεντητικής και Αργυροχοΐας-Λεύκαρα",
+                  "name": "Topiko Mouseio Paradosiakes Kentetikes kai ArgurokhoIas-Leukara",
                   "text": "Lefkarai múzeum, amely a hímzés és az ezüstművesség hagyományait mutatja be.",
                   "category": "museum",
                   "coords": [
@@ -8597,7 +8597,7 @@ export const cyprusOtherPoi: POI[] = [
       ],
       "ro": [
             {
-                  "name": "Τοπικο Μουσείο Παραδοσιακής Κεντητικής και Αργυροχοΐας-Λεύκαρα",
+                  "name": "Topiko Mouseio Paradosiakes Kentetikes kai ArgurokhoIas-Leukara",
                   "text": "Un muzeu în Lefkara care prezintă tradițiile broderiei și argintăriei.",
                   "category": "museum",
                   "coords": [
@@ -8788,7 +8788,7 @@ export const cyprusOtherPoi: POI[] = [
     id: "agriculture-fito-winery-kato-platres-extra", "sights": {
       "de": [
             {
-                  "name": "Εκκλησιαστικό Μουσείο και Μουσείο Αμπελουργίας στο χωριό Κοιλάνι",
+                  "name": "Ekklesiastiko Mouseio kai Mouseio Ampelourgias sto khorio Koilani",
                   "text": "Ein Museum im Dorf Fikardou, das sich mit Kirchengeschichte und Weinbau befasst.",
                   "category": "museum",
                   "coords": [
@@ -8817,7 +8817,7 @@ export const cyprusOtherPoi: POI[] = [
       ],
       "hu": [
             {
-                  "name": "Εκκλησιαστικό Μουσείο και Μουσείο Αμπελουργίας στο χωριό Κοιλάνι",
+                  "name": "Ekklesiastiko Mouseio kai Mouseio Ampelourgias sto khorio Koilani",
                   "text": "Fikardou faluban található múzeum, amely az egyháztörténettel és borászattal foglalkozik.",
                   "category": "museum",
                   "coords": [
@@ -8846,7 +8846,7 @@ export const cyprusOtherPoi: POI[] = [
       ],
       "ro": [
             {
-                  "name": "Εκκλησιαστικό Μουσείο και Μουσείο Αμπελουργίας στο χωριό Κοιλάνι",
+                  "name": "Ekklesiastiko Mouseio kai Mouseio Ampelourgias sto khorio Koilani",
                   "text": "Un muzeu din satul Fikardou care se ocupă de istoria bisericească și viticultură.",
                   "category": "museum",
                   "coords": [
@@ -8943,7 +8943,7 @@ export const cyprusOtherPoi: POI[] = [
     id: "agriculture-bee-and-embroidery-museum-kato-drys-extra", "sights": {
       "de": [
             {
-                  "name": "Τοπικο Μουσείο Παραδοσιακής Κεντητικής και Αργυροχοΐας-Λεύκαρα",
+                  "name": "Topiko Mouseio Paradosiakes Kentetikes kai ArgurokhoIas-Leukara",
                   "text": "Ein Museum, das sich dem traditionellen Kunsthandwerk der Stickerei und Silberschmiedekunst in Lefkara widmet.",
                   "category": "museum",
                   "coords": [
@@ -8990,7 +8990,7 @@ export const cyprusOtherPoi: POI[] = [
       ],
       "hu": [
             {
-                  "name": "Τοπικο Μουσείο Παραδοσιακής Κεντητικής και Αργυροχοΐας-Λεύκαρα",
+                  "name": "Topiko Mouseio Paradosiakes Kentetikes kai ArgurokhoIas-Leukara",
                   "text": "A lefkari hímzés és ezüstművesség hagyományos mesterségeinek szentelt múzeum.",
                   "category": "museum",
                   "coords": [
@@ -9037,7 +9037,7 @@ export const cyprusOtherPoi: POI[] = [
       ],
       "ro": [
             {
-                  "name": "Τοπικο Μουσείο Παραδοσιακής Κεντητικής και Αργυροχοΐας-Λεύκαρα",
+                  "name": "Topiko Mouseio Paradosiakes Kentetikes kai ArgurokhoIas-Leukara",
                   "text": "Un muzeu dedicat meșteșugurilor tradiționale de broderie și argintărie din Lefkara.",
                   "category": "museum",
                   "coords": [
@@ -9170,7 +9170,7 @@ export const cyprusOtherPoi: POI[] = [
     id: "agriculture-ekfraseis-winery-chandria-extra", "sights": {
       "de": [
             {
-                  "name": "Αστεροσκοπείο Τροόδους",
+                  "name": "Asteroskopeio Troodous",
                   "text": "Ein modernes astronomisches Observatorium in den Troodos-Bergen auf Zypern.",
                   "category": "museum",
                   "coords": [
@@ -9208,7 +9208,7 @@ export const cyprusOtherPoi: POI[] = [
       ],
       "hu": [
             {
-                  "name": "Αστεροσκοπείο Τροόδους",
+                  "name": "Asteroskopeio Troodous",
                   "text": "Modern csillagászati obszervatórium a ciprusi Troodos-hegységben.",
                   "category": "museum",
                   "coords": [
@@ -9246,7 +9246,7 @@ export const cyprusOtherPoi: POI[] = [
       ],
       "ro": [
             {
-                  "name": "Αστεροσκοπείο Τροόδους",
+                  "name": "Asteroskopeio Troodous",
                   "text": "Un observator astronomic modern situat în Munții Troodos din Cipru.",
                   "category": "museum",
                   "coords": [
@@ -9397,7 +9397,7 @@ export const cyprusOtherPoi: POI[] = [
                   ]
             },
             {
-                  "name": "Αγίας Πέτρας",
+                  "name": "Agias Petras",
                   "text": "Ein malerischer Aussichtspunkt in der Nähe von Kalopanayiotis.",
                   "category": "natural",
                   "coords": [
@@ -9462,7 +9462,7 @@ export const cyprusOtherPoi: POI[] = [
                   ]
             },
             {
-                  "name": "Αγίας Πέτρας",
+                  "name": "Agias Petras",
                   "text": "Festői kilátóhely Kalopanayiotis környékén.",
                   "category": "natural",
                   "coords": [
@@ -9527,7 +9527,7 @@ export const cyprusOtherPoi: POI[] = [
                   ]
             },
             {
-                  "name": "Αγίας Πέτρας",
+                  "name": "Agias Petras",
                   "text": "Un punct de observație pitoresc în apropiere de Kalopanayiotis.",
                   "category": "natural",
                   "coords": [
@@ -9749,7 +9749,7 @@ export const cyprusOtherPoi: POI[] = [
                   ]
             },
             {
-                  "name": "Αμαθούντα",
+                  "name": "Amathounta",
                   "text": "Ókori városállam Ciprus déli partján, jelentős régészeti maradványokkal.",
                   "category": "historical",
                   "coords": [
@@ -9823,7 +9823,7 @@ export const cyprusOtherPoi: POI[] = [
                   ]
             },
             {
-                  "name": "Αμαθούντα",
+                  "name": "Amathounta",
                   "text": "Un oraș-stat antic pe coasta de sud a Ciprului, cu vestigii arheologice.",
                   "category": "historical",
                   "coords": [
@@ -11981,7 +11981,7 @@ export const cyprusOtherPoi: POI[] = [
                   ]
             },
             {
-                  "name": "Τοπικό Αρχαιολογικό Μουσείο Παλαιπάφου",
+                  "name": "Topiko Arkhaiologiko Mouseio Palaipaphou",
                   "text": "Dieses Museum zeigt Funde aus der antiken Stadt Palaipafos und dem Aphrodite-Heiligtum.",
                   "category": "museum",
                   "coords": [
@@ -11990,7 +11990,7 @@ export const cyprusOtherPoi: POI[] = [
                   ]
             },
             {
-                  "name": "Εθνικό Δασικό Πάρκο Πέτρα του Ρωμιού",
+                  "name": "Ethniko Dasiko Parko Petra tou Romiou",
                   "text": "Ein Naturschutzgebiet, das für seine Küstenlandschaft und geologischen Formationen bekannt ist.",
                   "category": "natural",
                   "coords": [
@@ -12037,7 +12037,7 @@ export const cyprusOtherPoi: POI[] = [
                   ]
             },
             {
-                  "name": "Τοπικό Αρχαιολογικό Μουσείο Παλαιπάφου",
+                  "name": "Topiko Arkhaiologiko Mouseio Palaipaphou",
                   "text": "Ez a múzeum az ókori Palaipafosz városából és az Aphrodité-szentélyből származó leleteket mutatja be.",
                   "category": "museum",
                   "coords": [
@@ -12046,7 +12046,7 @@ export const cyprusOtherPoi: POI[] = [
                   ]
             },
             {
-                  "name": "Εθνικό Δασικό Πάρκο Πέτρα του Ρωμιού",
+                  "name": "Ethniko Dasiko Parko Petra tou Romiou",
                   "text": "Egy természetvédelmi terület, amely tengerparti tájáról és geológiai képződményeiről ismert.",
                   "category": "natural",
                   "coords": [
@@ -12055,7 +12055,7 @@ export const cyprusOtherPoi: POI[] = [
                   ]
             },
             {
-                  "name": "Πέτρα του Ρωμιού",
+                  "name": "Petra tou Romiou",
                   "text": "Egy híres tengerparti sziklaképződmény, amelyet Aphrodité legendás szülőhelyeként tartanak számon.",
                   "category": "landmark",
                   "coords": [
@@ -12093,7 +12093,7 @@ export const cyprusOtherPoi: POI[] = [
                   ]
             },
             {
-                  "name": "Τοπικό Αρχαιολογικό Μουσείο Παλαιπάφου",
+                  "name": "Topiko Arkhaiologiko Mouseio Palaipaphou",
                   "text": "Acest muzeu expune descoperiri din orașul antic Palaipafos și din sanctuarul Afroditei.",
                   "category": "museum",
                   "coords": [
@@ -12102,7 +12102,7 @@ export const cyprusOtherPoi: POI[] = [
                   ]
             },
             {
-                  "name": "Εθνικό Δασικό Πάρκο Πέτρα του Ρωμιού",
+                  "name": "Ethniko Dasiko Parko Petra tou Romiou",
                   "text": "O rezervație naturală cunoscută pentru peisajul său de coastă și formațiunile geologice.",
                   "category": "natural",
                   "coords": [
@@ -12111,7 +12111,7 @@ export const cyprusOtherPoi: POI[] = [
                   ]
             },
             {
-                  "name": "Πέτρα του Ρωμιού",
+                  "name": "Petra tou Romiou",
                   "text": "O faimoasă formațiune stâncoasă de pe coastă, considerată locul legendar de naștere al Afroditei.",
                   "category": "landmark",
                   "coords": [
@@ -12318,7 +12318,7 @@ export const cyprusOtherPoi: POI[] = [
                   ]
             },
             {
-                  "name": "Εκκλησία Αγίου Νικολάο",
+                  "name": "Ekklesia Agiou Nikolao",
                   "text": "Die Ruinen der St.-Nikolaus-Kirche in Kivides Poultry Production.",
                   "category": "historical",
                   "coords": [
@@ -12338,7 +12338,7 @@ export const cyprusOtherPoi: POI[] = [
                   ]
             },
             {
-                  "name": "Εκκλησία Αγίου Νικολάο",
+                  "name": "Ekklesia Agiou Nikolao",
                   "text": "A Szent Miklós-templom romjai Kivides Poultry Production területén.",
                   "category": "historical",
                   "coords": [
@@ -12358,7 +12358,7 @@ export const cyprusOtherPoi: POI[] = [
                   ]
             },
             {
-                  "name": "Εκκλησία Αγίου Νικολάο",
+                  "name": "Ekklesia Agiou Nikolao",
                   "text": "Ruinele bisericii Sfântul Nicolae din Kivides Poultry Production.",
                   "category": "historical",
                   "coords": [
@@ -12646,7 +12646,7 @@ export const cyprusOtherPoi: POI[] = [
     id: "port-latsi-port-extra", "sights": {
       "de": [
             {
-                  "name": "Τοπικό Αρχαιολογικό Moυσείο Μαρίου-Αρσινόης",
+                  "name": "Topiko Arkhaiologiko Mouseio Mariou-Arsinoes",
                   "text": "Ein Museum, das Artefakte aus den antiken Königreichen Marion und Arsinoe zeigt.",
                   "category": "museum",
                   "coords": [
@@ -12673,7 +12673,7 @@ export const cyprusOtherPoi: POI[] = [
                   ]
             },
             {
-                  "name": "Λατσί",
+                  "name": "Latsi",
                   "text": "Ein beliebter Kiesstrand bei Latsi Port, bekannt für sein klares Wasser und seine Fischrestaurants.",
                   "category": "recreational",
                   "coords": [
@@ -12711,7 +12711,7 @@ export const cyprusOtherPoi: POI[] = [
       ],
       "hu": [
             {
-                  "name": "Τοπικό Αρχαιολογικό Moυσείο Μαρίου-Αρσινόης",
+                  "name": "Topiko Arkhaiologiko Mouseio Mariou-Arsinoes",
                   "text": "Múzeum, amely az ókori Marion és Arszinoé királyságokból származó leleteket mutatja be.",
                   "category": "museum",
                   "coords": [
@@ -12738,7 +12738,7 @@ export const cyprusOtherPoi: POI[] = [
                   ]
             },
             {
-                  "name": "Λατσί",
+                  "name": "Latsi",
                   "text": "Népszerű kavicsos strand Latsi Port közelében, tiszta vizéről és tengeri ételeket kínáló éttermeiről ismert.",
                   "category": "recreational",
                   "coords": [
@@ -12776,7 +12776,7 @@ export const cyprusOtherPoi: POI[] = [
       ],
       "ro": [
             {
-                  "name": "Τοπικό Αρχαιολογικό Moυσείο Μαρίου-Αρσινόης",
+                  "name": "Topiko Arkhaiologiko Mouseio Mariou-Arsinoes",
                   "text": "Un muzeu care expune artefacte din vechile regate Marion și Arsinoe.",
                   "category": "museum",
                   "coords": [
@@ -12803,7 +12803,7 @@ export const cyprusOtherPoi: POI[] = [
                   ]
             },
             {
-                  "name": "Λατσί",
+                  "name": "Latsi",
                   "text": "O plajă populară de prundiş lângă portul Latsi, cunoscută pentru apele sale limpezi și restaurantele cu fructe de mare.",
                   "category": "recreational",
                   "coords": [
@@ -12945,7 +12945,7 @@ export const cyprusOtherPoi: POI[] = [
     id: "port-zygi-fishing-shelter-extra", "sights": {
       "de": [
             {
-                  "name": "Μαρινοπαρέα",
+                  "name": "Marinoparea",
                   "text": "Ein öffentlicher Sandstrand im Küstengebiet von Zygi.",
                   "category": "recreational",
                   "coords": [
@@ -12974,7 +12974,7 @@ export const cyprusOtherPoi: POI[] = [
       ],
       "hu": [
             {
-                  "name": "Μαρινοπαρέα",
+                  "name": "Marinoparea",
                   "text": "Nyilvános homokos strand Zygi tengerparti részén.",
                   "category": "recreational",
                   "coords": [
@@ -13003,7 +13003,7 @@ export const cyprusOtherPoi: POI[] = [
       ],
       "ro": [
             {
-                  "name": "Μαρινοπαρέα",
+                  "name": "Marinoparea",
                   "text": "O plajă publică cu nisip situată în zona de coastă din Zygi.",
                   "category": "recreational",
                   "coords": [
@@ -13312,7 +13312,7 @@ export const cyprusOtherPoi: POI[] = [
                   ]
             },
             {
-                  "name": "Μουσείο Ιστορίας Παχύαμμου",
+                  "name": "Mouseio Istorias Pakhuammou",
                   "text": "Ein Museum in Pachyammos, das die lokale Geschichte und Kultur der Region dokumentiert.",
                   "category": "museum",
                   "coords": [
@@ -13359,7 +13359,7 @@ export const cyprusOtherPoi: POI[] = [
                   ]
             },
             {
-                  "name": "Μουσείο Ιστορίας Παχύαμμου",
+                  "name": "Mouseio Istorias Pakhuammou",
                   "text": "Pachyammosi múzeum, amely a régió helyi történelmét és kultúráját dokumentálja.",
                   "category": "museum",
                   "coords": [
@@ -13406,7 +13406,7 @@ export const cyprusOtherPoi: POI[] = [
                   ]
             },
             {
-                  "name": "Μουσείο Ιστορίας Παχύαμμου",
+                  "name": "Mouseio Istorias Pakhuammou",
                   "text": "Un muzeu din Pachyammos care documentează istoria și cultura locală a regiunii.",
                   "category": "museum",
                   "coords": [
@@ -13796,7 +13796,7 @@ export const cyprusOtherPoi: POI[] = [
                   ]
             },
             {
-                  "name": "Αμαθούντα",
+                  "name": "Amathounta",
                   "text": "Ciprus egyik legősibb királyi városának romjai.",
                   "category": "historical",
                   "coords": [
@@ -13870,7 +13870,7 @@ export const cyprusOtherPoi: POI[] = [
                   ]
             },
             {
-                  "name": "Αμαθούντα",
+                  "name": "Amathounta",
                   "text": "Ruinele unuia dintre cele mai vechi orașe regale din Cipru.",
                   "category": "historical",
                   "coords": [
@@ -14068,7 +14068,7 @@ export const cyprusOtherPoi: POI[] = [
       ],
       "hu": [
             {
-                  "name": "Εθνικό Δασικό Πάρκο Λιοπετρίου",
+                  "name": "Ethniko Dasiko Parko Liopetriou",
                   "text": "Tengerparti nemzeti park Cipruson, amely túraútvonalairól és a halászkikötő közelségéről ismert.",
                   "category": "natural",
                   "coords": [
@@ -14088,7 +14088,7 @@ export const cyprusOtherPoi: POI[] = [
       ],
       "ro": [
             {
-                  "name": "Εθνικό Δασικό Πάρκο Λιοπετρίου",
+                  "name": "Ethniko Dasiko Parko Liopetriou",
                   "text": "Un parc forestier național de coastă în Cipru, cunoscut pentru traseele sale și proximitatea față de adăpostul de pescuit.",
                   "category": "natural",
                   "coords": [
@@ -14423,7 +14423,7 @@ export const cyprusOtherPoi: POI[] = [
                   ]
             },
             {
-                  "name": "Παραλια Ασπροποταμου",
+                  "name": "Paralia Aspropotamou",
                   "text": "Ein naturbelassener Sandstrand in der Nähe des Hafens von Agios Georgios Pegeias.",
                   "category": "recreational",
                   "coords": [
@@ -14488,7 +14488,7 @@ export const cyprusOtherPoi: POI[] = [
                   ]
             },
             {
-                  "name": "Παραλια Ασπροποταμου",
+                  "name": "Paralia Aspropotamou",
                   "text": "Természetes homokos tengerpart Agios Georgios Pegeias kikötőjének közelében.",
                   "category": "recreational",
                   "coords": [
@@ -14553,7 +14553,7 @@ export const cyprusOtherPoi: POI[] = [
                   ]
             },
             {
-                  "name": "Παραλια Ασπροποταμου",
+                  "name": "Paralia Aspropotamou",
                   "text": "O plajă naturală de nisip situată lângă portul Agios Georgios Pegeias.",
                   "category": "recreational",
                   "coords": [
@@ -14913,7 +14913,7 @@ export const cyprusOtherPoi: POI[] = [
     id: "landscape-troodos-mountains-extra", "sights": {
       "de": [
             {
-                  "name": "Εθνικό Δασικό Πάρκο Τροόδους",
+                  "name": "Ethniko Dasiko Parko Troodous",
                   "text": "Ein weitläufiges Schutzgebiet, das die höchsten Teile des Troodos-Gebirges auf Zypern umfasst.",
                   "category": "natural",
                   "coords": [
@@ -14987,7 +14987,7 @@ export const cyprusOtherPoi: POI[] = [
       ],
       "hu": [
             {
-                  "name": "Εθνικό Δασικό Πάρκο Τροόδους",
+                  "name": "Ethniko Dasiko Parko Troodous",
                   "text": "Hatalmas védett terület, amely Ciprus Troodos-hegységének legmagasabb részeit fedi le.",
                   "category": "natural",
                   "coords": [
@@ -14996,7 +14996,7 @@ export const cyprusOtherPoi: POI[] = [
                   ]
             },
             {
-                  "name": "Όλυμπος",
+                  "name": "Olumpos",
                   "text": "Ciprus legmagasabb pontja, tengerszint felett 1952 méteres magassággal.",
                   "category": "landmark",
                   "coords": [
@@ -15061,7 +15061,7 @@ export const cyprusOtherPoi: POI[] = [
       ],
       "ro": [
             {
-                  "name": "Εθνικό Δασικό Πάρκο Τροόδους",
+                  "name": "Ethniko Dasiko Parko Troodous",
                   "text": "O zonă protejată vastă care acoperă cele mai înalte părți ale munților Troodos din Cipru.",
                   "category": "natural",
                   "coords": [
@@ -15070,7 +15070,7 @@ export const cyprusOtherPoi: POI[] = [
                   ]
             },
             {
-                  "name": "Όλυμπος",
+                  "name": "Olumpos",
                   "text": "Cel mai înalt punct din Cipru, atingând o altitudine de 1.952 de metri deasupra nivelului mării.",
                   "category": "landmark",
                   "coords": [
@@ -15344,7 +15344,7 @@ export const cyprusOtherPoi: POI[] = [
                   ]
             },
             {
-                  "name": "καταρράκτη Μέσα Ποταμός",
+                  "name": "katarrakte Mesa Potamos",
                   "text": "Ein Wasserfall inmitten der üppigen Vegetation der Mesa Potamos Region.",
                   "category": "landmark",
                   "coords": [
@@ -15400,7 +15400,7 @@ export const cyprusOtherPoi: POI[] = [
                   ]
             },
             {
-                  "name": "καταρράκτη Μέσα Ποταμός",
+                  "name": "katarrakte Mesa Potamos",
                   "text": "Vízesés a Mesa Potamos régió buja növényzete között.",
                   "category": "landmark",
                   "coords": [
@@ -15456,7 +15456,7 @@ export const cyprusOtherPoi: POI[] = [
                   ]
             },
             {
-                  "name": "καταρράκτη Μέσα Ποταμός",
+                  "name": "katarrakte Mesa Potamos",
                   "text": "O cascadă în mijlocul vegetației luxuriante din regiunea Mesa Potamos.",
                   "category": "landmark",
                   "coords": [
@@ -15617,7 +15617,7 @@ export const cyprusOtherPoi: POI[] = [
                   ]
             },
             {
-                  "name": "καταρράκτη Μέσα Ποταμός",
+                  "name": "katarrakte Mesa Potamos",
                   "text": "Ein kaskadierender Wasserfall in der Nähe der Mesa Potamos-Picknickstelle im Troodos-Gebirge.",
                   "category": "landmark",
                   "coords": [
@@ -15691,7 +15691,7 @@ export const cyprusOtherPoi: POI[] = [
                   ]
             },
             {
-                  "name": "καταρράκτη Μέσα Ποταμός",
+                  "name": "katarrakte Mesa Potamos",
                   "text": "Egy lépcsőzetes vízesés a Mesa Potamos pihenőhely közelében a Troodos-hegységben.",
                   "category": "landmark",
                   "coords": [
@@ -15765,7 +15765,7 @@ export const cyprusOtherPoi: POI[] = [
                   ]
             },
             {
-                  "name": "καταρράκτη Μέσα Ποταμός",
+                  "name": "katarrakte Mesa Potamos",
                   "text": "O cascadă în trepte lângă locul de picnic Mesa Potamos din Munții Troodos.",
                   "category": "landmark",
                   "coords": [
@@ -17061,7 +17061,7 @@ export const cyprusOtherPoi: POI[] = [
                   ]
             },
             {
-                  "name": "Ιερά Μονή Παναγίας Χρυσοκουρδαλιώτισσας",
+                  "name": "Iera Mone Panagias Khrusokourdaliotissas",
                   "text": "Ein historisches Kloster in der malerischen Umgebung des Adelfoi-Waldes.",
                   "category": "landmark",
                   "coords": [
@@ -17081,7 +17081,7 @@ export const cyprusOtherPoi: POI[] = [
                   ]
             },
             {
-                  "name": "Ιερά Μονή Παναγίας Χρυσοκουρδαλιώτισσας",
+                  "name": "Iera Mone Panagias Khrusokourdaliotissas",
                   "text": "Történelmi kolostor az Adelfoi-erdő festői környezetében.",
                   "category": "landmark",
                   "coords": [
@@ -17101,7 +17101,7 @@ export const cyprusOtherPoi: POI[] = [
                   ]
             },
             {
-                  "name": "Ιερά Μονή Παναγίας Χρυσοκουρδαλιώτισσας",
+                  "name": "Iera Mone Panagias Khrusokourdaliotissas",
                   "text": "O mănăstire istorică situată în cadrul pitoresc al pădurii Adelfoi.",
                   "category": "landmark",
                   "coords": [
@@ -17171,7 +17171,7 @@ export const cyprusOtherPoi: POI[] = [
     id: "landscape-madari-peak-extra", "sights": {
       "de": [
             {
-                  "name": "Μουσείο Λαϊκής Τέχνης",
+                  "name": "Mouseio Laikes Tekhnes",
                   "text": "Ein Museum in der Nähe des Madari-Gipfels, das sich der traditionellen Volkskunst Zyperns widmet.",
                   "category": "museum",
                   "coords": [
@@ -17180,7 +17180,7 @@ export const cyprusOtherPoi: POI[] = [
                   ]
             },
             {
-                  "name": "Παναγίας του Άρακα",
+                  "name": "Panagias tou Araka",
                   "text": "Eine byzantinische Kirche aus dem 12. Jahrhundert, die zum UNESCO-Weltkulturerbe gehört.",
                   "category": "landmark",
                   "coords": [
@@ -17207,7 +17207,7 @@ export const cyprusOtherPoi: POI[] = [
                   ]
             },
             {
-                  "name": "Ιερός Ναός Τιμίου Σταυρού του Αγιασμάτι",
+                  "name": "Ieros Naos Timiou Staurou tou Agiasmati",
                   "text": "Eine bedeutende byzantinische Scheunendachkirche, die zum UNESCO-Weltkulturerbe zählt.",
                   "category": "landmark",
                   "coords": [
@@ -17218,7 +17218,7 @@ export const cyprusOtherPoi: POI[] = [
       ],
       "hu": [
             {
-                  "name": "Μουσείο Λαϊκής Τέχνης",
+                  "name": "Mouseio Laikes Tekhnes",
                   "text": "A Madari-csúcs közelében található múzeum, amely Ciprus hagyományos népművészetét mutatja be.",
                   "category": "museum",
                   "coords": [
@@ -17227,7 +17227,7 @@ export const cyprusOtherPoi: POI[] = [
                   ]
             },
             {
-                  "name": "Παναγίας του Άρακα",
+                  "name": "Panagias tou Araka",
                   "text": "12. századi bizánci templom, amely az UNESCO Világörökség része.",
                   "category": "landmark",
                   "coords": [
@@ -17254,7 +17254,7 @@ export const cyprusOtherPoi: POI[] = [
                   ]
             },
             {
-                  "name": "Ιερός Ναός Τιμίου Σταυρού του Αγιασμάτι",
+                  "name": "Ieros Naos Timiou Staurou tou Agiasmati",
                   "text": "Jelentős bizánci, fatetős templom, amely az UNESCO Világörökség listáján szerepel.",
                   "category": "landmark",
                   "coords": [
@@ -17265,7 +17265,7 @@ export const cyprusOtherPoi: POI[] = [
       ],
       "ro": [
             {
-                  "name": "Μουσείο Λαϊκής Τέχνης",
+                  "name": "Mouseio Laikes Tekhnes",
                   "text": "Un muzeu situat lângă vârful Madari, dedicat artei populare tradiționale din Ciprus.",
                   "category": "museum",
                   "coords": [
@@ -17274,7 +17274,7 @@ export const cyprusOtherPoi: POI[] = [
                   ]
             },
             {
-                  "name": "Παναγίας του Άρακα",
+                  "name": "Panagias tou Araka",
                   "text": "O biserică bizantină din secolul al XII-lea, inclusă în patrimoniul mondial UNESCO.",
                   "category": "landmark",
                   "coords": [
@@ -17301,7 +17301,7 @@ export const cyprusOtherPoi: POI[] = [
                   ]
             },
             {
-                  "name": "Ιερός Ναός Τιμίου Σταυρού του Αγιασμάτι",
+                  "name": "Ieros Naos Timiou Staurou tou Agiasmati",
                   "text": "O importantă biserică bizantină cu acoperiș de lemn, parte a patrimoniului mondial UNESCO.",
                   "category": "landmark",
                   "coords": [
@@ -17577,7 +17577,7 @@ export const cyprusOtherPoi: POI[] = [
                   ]
             },
             {
-                  "name": "Τοπικό Αρχαιολογικό Μουσείο Παλαιπάφου",
+                  "name": "Topiko Arkhaiologiko Mouseio Palaipaphou",
                   "text": "Das Museum zeigt Funde aus der antiken Stadt Palaipafos.",
                   "category": "museum",
                   "coords": [
@@ -17586,7 +17586,7 @@ export const cyprusOtherPoi: POI[] = [
                   ]
             },
             {
-                  "name": "Εθνικό Δασικό Πάρκο Πέτρα του Ρωμιού",
+                  "name": "Ethniko Dasiko Parko Petra tou Romiou",
                   "text": "Ein Naturschutzgebiet in der Nähe des legendären Geburtsortes der Aphrodite.",
                   "category": "natural",
                   "coords": [
@@ -17633,7 +17633,7 @@ export const cyprusOtherPoi: POI[] = [
                   ]
             },
             {
-                  "name": "Τοπικό Αρχαιολογικό Μουσείο Παλαιπάφου",
+                  "name": "Topiko Arkhaiologiko Mouseio Palaipaphou",
                   "text": "A múzeum az ókori Palaipafos városából származó leleteket mutat be.",
                   "category": "museum",
                   "coords": [
@@ -17642,7 +17642,7 @@ export const cyprusOtherPoi: POI[] = [
                   ]
             },
             {
-                  "name": "Εθνικό Δασικό Πάρκο Πέτρα του Ρωμιού",
+                  "name": "Ethniko Dasiko Parko Petra tou Romiou",
                   "text": "Természetvédelmi terület Aphrodité legendás születési helyének közelében.",
                   "category": "natural",
                   "coords": [
@@ -17689,7 +17689,7 @@ export const cyprusOtherPoi: POI[] = [
                   ]
             },
             {
-                  "name": "Τοπικό Αρχαιολογικό Μουσείο Παλαιπάφου",
+                  "name": "Topiko Arkhaiologiko Mouseio Palaipaphou",
                   "text": "Muzeul expune descoperiri din orașul antic Palaipafos.",
                   "category": "museum",
                   "coords": [
@@ -17698,7 +17698,7 @@ export const cyprusOtherPoi: POI[] = [
                   ]
             },
             {
-                  "name": "Εθνικό Δασικό Πάρκο Πέτρα του Ρωμιού",
+                  "name": "Ethniko Dasiko Parko Petra tou Romiou",
                   "text": "O rezervație naturală situată lângă locul legendar de naștere al Afroditei.",
                   "category": "natural",
                   "coords": [
@@ -17813,7 +17813,7 @@ export const cyprusOtherPoi: POI[] = [
     id: "landscape-lefkara-dam-extra", "sights": {
       "de": [
             {
-                  "name": "Τοπικο Μουσείο Παραδοσιακής Κεντητικής και Αργυροχοΐας-Λεύκαρα",
+                  "name": "Topiko Mouseio Paradosiakes Kentetikes kai ArgurokhoIas-Leukara",
                   "text": "Museum für traditionelle Volkskunst und Handwerk in Lefkara.",
                   "category": "museum",
                   "coords": [
@@ -17860,7 +17860,7 @@ export const cyprusOtherPoi: POI[] = [
       ],
       "hu": [
             {
-                  "name": "Τοπικο Μουσείο Παραδοσιακής Κεντητικής και Αργυροχοΐας-Λεύκαρα",
+                  "name": "Topiko Mouseio Paradosiakes Kentetikes kai ArgurokhoIas-Leukara",
                   "text": "Lefkarai hagyományos népművészeti és kézműves múzeum.",
                   "category": "museum",
                   "coords": [
@@ -17907,7 +17907,7 @@ export const cyprusOtherPoi: POI[] = [
       ],
       "ro": [
             {
-                  "name": "Τοπικο Μουσείο Παραδοσιακής Κεντητικής και Αργυροχοΐας-Λεύκαρα",
+                  "name": "Topiko Mouseio Paradosiakes Kentetikes kai ArgurokhoIas-Leukara",
                   "text": "Muzeu care prezintă arta populară și meșteșugurile tradiționale din Lefkara.",
                   "category": "museum",
                   "coords": [
@@ -18364,7 +18364,7 @@ export const cyprusOtherPoi: POI[] = [
     id: "landscape-macheras-forest-extra", "sights": {
       "de": [
             {
-                  "name": "Εθνολογικό Μουσείο Φικάρδου",
+                  "name": "Ethnologiko Mouseio Phikardou",
                   "text": "Ein Museum im Dorf Fikardou, das die traditionelle ländliche Architektur und Lebensweise Zyperns zeigt.",
                   "category": "museum",
                   "coords": [
@@ -18373,7 +18373,7 @@ export const cyprusOtherPoi: POI[] = [
                   ]
             },
             {
-                  "name": "Γρηγόρης Αυξεντίου",
+                  "name": "Gregores Auxentiou",
                   "text": "Ein Museum in der Nähe des Machairas-Klosters, das dem EOKA-Helden Grigoris Afxentiou gewidmet ist.",
                   "category": "museum",
                   "coords": [
@@ -18382,7 +18382,7 @@ export const cyprusOtherPoi: POI[] = [
                   ]
             },
             {
-                  "name": "Μαχαιράς",
+                  "name": "Makhairas",
                   "text": "Ein markanter Berggipfel im Gebiet des Machairas-Waldes.",
                   "category": "landmark",
                   "coords": [
@@ -18402,7 +18402,7 @@ export const cyprusOtherPoi: POI[] = [
       ],
       "hu": [
             {
-                  "name": "Εθνολογικό Μουσείο Φικάρδου",
+                  "name": "Ethnologiko Mouseio Phikardou",
                   "text": "Fikardou faluban található múzeum, amely Ciprus hagyományos vidéki építészetét és életmódját mutatja be.",
                   "category": "museum",
                   "coords": [
@@ -18411,7 +18411,7 @@ export const cyprusOtherPoi: POI[] = [
                   ]
             },
             {
-                  "name": "Γρηγόρης Αυξεντίου",
+                  "name": "Gregores Auxentiou",
                   "text": "A Machairas-kolostor közelében található múzeum, amelyet Grigoris Afxentiou EOKA-hős emlékének szenteltek.",
                   "category": "museum",
                   "coords": [
@@ -18420,7 +18420,7 @@ export const cyprusOtherPoi: POI[] = [
                   ]
             },
             {
-                  "name": "Μαχαιράς",
+                  "name": "Makhairas",
                   "text": "Egy jelentős hegycsúcs a Machairas-erdő területén.",
                   "category": "landmark",
                   "coords": [
@@ -18440,7 +18440,7 @@ export const cyprusOtherPoi: POI[] = [
       ],
       "ro": [
             {
-                  "name": "Εθνολογικό Μουσείο Φικάρδου",
+                  "name": "Ethnologiko Mouseio Phikardou",
                   "text": "Un muzeu din satul Fikardou care prezintă arhitectura rurală tradițională și modul de viață din Cipru.",
                   "category": "museum",
                   "coords": [
@@ -18449,7 +18449,7 @@ export const cyprusOtherPoi: POI[] = [
                   ]
             },
             {
-                  "name": "Γρηγόρης Αυξεντίου",
+                  "name": "Gregores Auxentiou",
                   "text": "Un muzeu situat lângă mănăstirea Machairas, dedicat eroului EOKA Grigoris Afxentiou.",
                   "category": "museum",
                   "coords": [
@@ -18458,7 +18458,7 @@ export const cyprusOtherPoi: POI[] = [
                   ]
             },
             {
-                  "name": "Μαχαιράς",
+                  "name": "Makhairas",
                   "text": "Un vârf montan proeminent situat în zona pădurii Machairas.",
                   "category": "landmark",
                   "coords": [

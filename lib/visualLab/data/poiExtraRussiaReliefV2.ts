@@ -429,7 +429,7 @@ imageHint: "Flat-topped tundra mountains of the Khibiny massif",
                   ]
             },
             {
-                  "name": "Брно",
+                  "name": "Brno",
                   "text": "Ein markanter Berggipfel im Dykh-Tau-Massiv im Zentralkaukasus.",
                   "category": "landmark",
                   "coords": [
@@ -438,7 +438,7 @@ imageHint: "Flat-topped tundra mountains of the Khibiny massif",
                   ]
             },
             {
-                  "name": "Пушкина",
+                  "name": "Pushkina",
                   "text": "Dieser Gipfel im Kaukasus ist nach dem berühmten russischen Dichter Alexander Puschkin benannt.",
                   "category": "landmark",
                   "coords": [
@@ -449,7 +449,7 @@ imageHint: "Flat-topped tundra mountains of the Khibiny massif",
       ],
       "hu": [
             {
-                  "name": "Дыхтау",
+                  "name": "Dykhtau",
                   "text": "Az 5205 méter magas Gyih-tau a Kaukázus és Európa második legmagasabb csúcsa.",
                   "category": "landmark",
                   "coords": [
@@ -458,7 +458,7 @@ imageHint: "Flat-topped tundra mountains of the Khibiny massif",
                   ]
             },
             {
-                  "name": "Брно",
+                  "name": "Brno",
                   "text": "Egy jellegzetes hegycsúcs a Középső-Kaukázusban található Gyih-tau-masszívumban.",
                   "category": "landmark",
                   "coords": [
@@ -467,7 +467,7 @@ imageHint: "Flat-topped tundra mountains of the Khibiny massif",
                   ]
             },
             {
-                  "name": "Пушкина",
+                  "name": "Pushkina",
                   "text": "Ez a kaukázusi hegycsúcs a híres orosz költőről, Alekszandr Puskinról kapta a nevét.",
                   "category": "landmark",
                   "coords": [
@@ -478,7 +478,7 @@ imageHint: "Flat-topped tundra mountains of the Khibiny massif",
       ],
       "ro": [
             {
-                  "name": "Дыхтау",
+                  "name": "Dykhtau",
                   "text": "Dykhtau este, cu 5205 metri, al doilea cel mai înalt vârf din Caucaz și din Europa.",
                   "category": "landmark",
                   "coords": [
@@ -487,7 +487,7 @@ imageHint: "Flat-topped tundra mountains of the Khibiny massif",
                   ]
             },
             {
-                  "name": "Брно",
+                  "name": "Brno",
                   "text": "Un vârf montan proeminent în masivul Dykh-Tau din Caucazul Central.",
                   "category": "landmark",
                   "coords": [
@@ -496,7 +496,7 @@ imageHint: "Flat-topped tundra mountains of the Khibiny massif",
                   ]
             },
             {
-                  "name": "Пушкина",
+                  "name": "Pushkina",
                   "text": "Acest vârf din Caucaz este numit după faimosul poet rus Aleksandr Pușkin.",
                   "category": "landmark",
                   "coords": [
@@ -603,7 +603,7 @@ imageHint: "Sharp granite pyramid of Mount Dykh-Tau in the Caucasus",
       ],
       "hu": [
             {
-                  "name": "Кабардино-Балкарский высокогорный заповедник",
+                  "name": "Kabardino-Balkarskii vysokogornyi zapovednik",
                   "text": "Kaukázusi magashegyi természetvédelmi terület gazdag növény- és állatvilággal.",
                   "category": "natural",
                   "coords": [
@@ -612,7 +612,7 @@ imageHint: "Sharp granite pyramid of Mount Dykh-Tau in the Caucasus",
                   ]
             },
             {
-                  "name": "Коштантау",
+                  "name": "Koshtantau",
                   "text": "A Kaukázus egyik legmagasabb csúcsa a grúz határ közelében.",
                   "category": "landmark",
                   "coords": [
@@ -623,7 +623,7 @@ imageHint: "Sharp granite pyramid of Mount Dykh-Tau in the Caucasus",
       ],
       "ro": [
             {
-                  "name": "Кабардино-Балкарский высокогорный заповедник",
+                  "name": "Kabardino-Balkarskii vysokogornyi zapovednik",
                   "text": "O rezervație naturală montană din Caucaz, cu o floră și faună diversă.",
                   "category": "natural",
                   "coords": [
@@ -632,7 +632,7 @@ imageHint: "Sharp granite pyramid of Mount Dykh-Tau in the Caucasus",
                   ]
             },
             {
-                  "name": "Коштантау",
+                  "name": "Koshtantau",
                   "text": "Unul dintre cele mai înalte vârfuri din Munții Caucaz, situat lângă granița cu Georgia.",
                   "category": "landmark",
                   "coords": [

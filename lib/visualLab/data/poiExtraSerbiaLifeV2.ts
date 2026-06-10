@@ -15,7 +15,7 @@ export const serbiaLifeV2: POI[] = [
                   ]
             },
             {
-                  "name": "Козја стена",
+                  "name": "Kozja stena",
                   "text": "Ein berühmter Aussichtspunkt im Tara-Nationalpark mit spektakulärem Blick auf die Schlucht des Flusses Drina.",
                   "category": "natural",
                   "coords": [
@@ -35,7 +35,7 @@ export const serbiaLifeV2: POI[] = [
       ],
       "hu": [
             {
-                  "name": "Национални парк Тара",
+                  "name": "Natsionalni park Tara",
                   "text": "Lenyűgöző szerbiai nemzeti park, amely sűrű erdőiről, kanyonjairól és változatos élővilágáról ismert.",
                   "category": "natural",
                   "coords": [
@@ -44,7 +44,7 @@ export const serbiaLifeV2: POI[] = [
                   ]
             },
             {
-                  "name": "Козја стена",
+                  "name": "Kozja stena",
                   "text": "A Tara Nemzeti Park híres kilátóhelye, ahonnan látványos kilátás nyílik a Drina folyó kanyonjára.",
                   "category": "natural",
                   "coords": [
@@ -64,7 +64,7 @@ export const serbiaLifeV2: POI[] = [
       ],
       "ro": [
             {
-                  "name": "Национални парк Тара",
+                  "name": "Natsionalni park Tara",
                   "text": "Un parc național uimitor din Serbia, cunoscut pentru pădurile sale dese, canioanele și fauna sălbatică diversă.",
                   "category": "natural",
                   "coords": [
@@ -73,7 +73,7 @@ export const serbiaLifeV2: POI[] = [
                   ]
             },
             {
-                  "name": "Козја стена",
+                  "name": "Kozja stena",
                   "text": "Un punct de observație faimos din Parcul Național Tara care oferă vederi spectaculoase asupra canionului râului Drina.",
                   "category": "natural",
                   "coords": [
@@ -402,7 +402,7 @@ export const serbiaLifeV2: POI[] = [
                   ]
             },
             {
-                  "name": "Остаци замка деспота Стефана Лазаревића",
+                  "name": "Ostatsi zamka despota Stefana Lazarevitsha",
                   "text": "Archäologische Überreste der mittelalterlichen Burg des Despoten Stefan Lazarević.",
                   "category": "historical",
                   "coords": [
@@ -411,7 +411,7 @@ export const serbiaLifeV2: POI[] = [
                   ]
             },
             {
-                  "name": "Историјски музеј Србије",
+                  "name": "Istorijski muzej Srbije",
                   "text": "Nationalmuseum zur politischen und kulturellen Geschichte Serbiens.",
                   "category": "museum",
                   "coords": [
@@ -420,7 +420,7 @@ export const serbiaLifeV2: POI[] = [
                   ]
             },
             {
-                  "name": "Железнички музеј",
+                  "name": "Zheleznichki muzej",
                   "text": "Museum in Belgrad, das die Geschichte der serbischen Eisenbahn dokumentiert.",
                   "category": "museum",
                   "coords": [
@@ -429,7 +429,7 @@ export const serbiaLifeV2: POI[] = [
                   ]
             },
             {
-                  "name": "Музеј Иве Андрића",
+                  "name": "Muzej Ive Andritsha",
                   "text": "Gedenkmuseum für den Nobelpreisträger Ivo Andrić in seiner ehemaligen Wohnung.",
                   "category": "museum",
                   "coords": [
@@ -438,7 +438,7 @@ export const serbiaLifeV2: POI[] = [
                   ]
             },
             {
-                  "name": "Музеј Паје Јовановића",
+                  "name": "Muzej Paje Jovanovitsha",
                   "text": "Museum im ehemaligen Atelier des bedeutenden serbischen Malers Paja Jovanović.",
                   "category": "museum",
                   "coords": [
@@ -447,7 +447,7 @@ export const serbiaLifeV2: POI[] = [
                   ]
             },
             {
-                  "name": "Музеј Цептер",
+                  "name": "Muzej Tsepter",
                   "text": "Privates Museum in Belgrad mit einer Sammlung moderner und zeitgenössischer Kunst.",
                   "category": "museum",
                   "coords": [
@@ -456,7 +456,7 @@ export const serbiaLifeV2: POI[] = [
                   ]
             },
             {
-                  "name": "ПТТ музеј",
+                  "name": "PTT muzej",
                   "text": "Museum zur Geschichte von Post, Telegrafie und Telefonie in Serbien.",
                   "category": "museum",
                   "coords": [
@@ -467,7 +467,7 @@ export const serbiaLifeV2: POI[] = [
       ],
       "hu": [
             {
-                  "name": "Римски бунар",
+                  "name": "Rimski bunar",
                   "text": "Híres történelmi kút a belgrádi erődben.",
                   "category": "museum",
                   "coords": [
@@ -476,7 +476,7 @@ export const serbiaLifeV2: POI[] = [
                   ]
             },
             {
-                  "name": "Остаци замка деспота Стефана Лазаревића",
+                  "name": "Ostatsi zamka despota Stefana Lazarevitsha",
                   "text": "Sztefan Lazarevics despota középkori várának régészeti maradványai.",
                   "category": "historical",
                   "coords": [
@@ -485,7 +485,7 @@ export const serbiaLifeV2: POI[] = [
                   ]
             },
             {
-                  "name": "Историјски музеј Србије",
+                  "name": "Istorijski muzej Srbije",
                   "text": "Szerbia politikai és kulturális történelmének nemzeti múzeuma.",
                   "category": "museum",
                   "coords": [
@@ -494,7 +494,7 @@ export const serbiaLifeV2: POI[] = [
                   ]
             },
             {
-                  "name": "Железнички музеј",
+                  "name": "Zheleznichki muzej",
                   "text": "Belgrádi múzeum, amely a szerb vasút történetét dokumentálja.",
                   "category": "museum",
                   "coords": [
@@ -503,7 +503,7 @@ export const serbiaLifeV2: POI[] = [
                   ]
             },
             {
-                  "name": "Музеј Иве Андрића",
+                  "name": "Muzej Ive Andritsha",
                   "text": "Ivo Andrić Nobel-díjas író emlékmúzeuma egykori lakásában.",
                   "category": "museum",
                   "coords": [
@@ -512,7 +512,7 @@ export const serbiaLifeV2: POI[] = [
                   ]
             },
             {
-                  "name": "Музеј Паје Јовановића",
+                  "name": "Muzej Paje Jovanovitsha",
                   "text": "Múzeum Paja Jovanović neves szerb festőművész egykori műtermében.",
                   "category": "museum",
                   "coords": [
@@ -521,7 +521,7 @@ export const serbiaLifeV2: POI[] = [
                   ]
             },
             {
-                  "name": "Музеј Цептер",
+                  "name": "Muzej Tsepter",
                   "text": "Magánmúzeum Belgrádban modern és kortárs művészeti gyűjteménnyel.",
                   "category": "museum",
                   "coords": [
@@ -530,7 +530,7 @@ export const serbiaLifeV2: POI[] = [
                   ]
             },
             {
-                  "name": "ПТТ музеј",
+                  "name": "PTT muzej",
                   "text": "A szerbiai posta, távíró és telefon történetét bemutató múzeum.",
                   "category": "museum",
                   "coords": [
@@ -541,7 +541,7 @@ export const serbiaLifeV2: POI[] = [
       ],
       "ro": [
             {
-                  "name": "Римски бунар",
+                  "name": "Rimski bunar",
                   "text": "Faimoasa fântână istorică din cetatea Belgradului.",
                   "category": "museum",
                   "coords": [
@@ -550,7 +550,7 @@ export const serbiaLifeV2: POI[] = [
                   ]
             },
             {
-                  "name": "Остаци замка деспота Стефана Лазаревића",
+                  "name": "Ostatsi zamka despota Stefana Lazarevitsha",
                   "text": "Rămășițe arheologice ale castelului medieval al despotului Stefan Lazarević.",
                   "category": "historical",
                   "coords": [
@@ -559,7 +559,7 @@ export const serbiaLifeV2: POI[] = [
                   ]
             },
             {
-                  "name": "Историјски музеј Србије",
+                  "name": "Istorijski muzej Srbije",
                   "text": "Muzeul național dedicat istoriei politice și culturale a Serbiei.",
                   "category": "museum",
                   "coords": [
@@ -568,7 +568,7 @@ export const serbiaLifeV2: POI[] = [
                   ]
             },
             {
-                  "name": "Железнички музеј",
+                  "name": "Zheleznichki muzej",
                   "text": "Muzeu în Belgrad care documentează istoria căilor ferate sârbe.",
                   "category": "museum",
                   "coords": [
@@ -577,7 +577,7 @@ export const serbiaLifeV2: POI[] = [
                   ]
             },
             {
-                  "name": "Музеј Иве Андрића",
+                  "name": "Muzej Ive Andritsha",
                   "text": "Muzeu memorial dedicat laureatului Nobel Ivo Andrić în fostul său apartament.",
                   "category": "museum",
                   "coords": [
@@ -586,7 +586,7 @@ export const serbiaLifeV2: POI[] = [
                   ]
             },
             {
-                  "name": "Музеј Паје Јовановића",
+                  "name": "Muzej Paje Jovanovitsha",
                   "text": "Muzeu în fostul atelier al renumitului pictor sârb Paja Jovanović.",
                   "category": "museum",
                   "coords": [
@@ -595,7 +595,7 @@ export const serbiaLifeV2: POI[] = [
                   ]
             },
             {
-                  "name": "Музеј Цептер",
+                  "name": "Muzej Tsepter",
                   "text": "Muzeu privat din Belgrad cu o colecție de artă modernă și contemporană.",
                   "category": "museum",
                   "coords": [
@@ -604,7 +604,7 @@ export const serbiaLifeV2: POI[] = [
                   ]
             },
             {
-                  "name": "ПТТ музеј",
+                  "name": "PTT muzej",
                   "text": "Muzeu dedicat istoriei poștei, telegrafiei și telefoniei în Serbia.",
                   "category": "museum",
                   "coords": [
@@ -735,7 +735,7 @@ export const serbiaLifeV2: POI[] = [
     id: "serbia-stara-planina-park-life-v2", "sights": {
       "de": [
             {
-                  "name": "Бабин зуб",
+                  "name": "Babin zub",
                   "text": "Ein markanter Gipfel und Skigebiet im Naturpark Stara Planina in Serbien.",
                   "category": "landmark",
                   "coords": [
@@ -755,7 +755,7 @@ export const serbiaLifeV2: POI[] = [
       ],
       "hu": [
             {
-                  "name": "Бабин зуб",
+                  "name": "Babin zub",
                   "text": "Jellegzetes hegycsúcs és síközpont a szerbiai Stara Planina Natúrparkban.",
                   "category": "landmark",
                   "coords": [
@@ -775,7 +775,7 @@ export const serbiaLifeV2: POI[] = [
       ],
       "ro": [
             {
-                  "name": "Бабин зуб",
+                  "name": "Babin zub",
                   "text": "Un vârf proeminent și stațiune de schi în Parcul Natural Stara Planina din Serbia.",
                   "category": "landmark",
                   "coords": [
@@ -906,7 +906,7 @@ export const serbiaLifeV2: POI[] = [
     id: "serbia-ovcar-kablar-reserve-life-v2", "sights": {
       "de": [
             {
-                  "name": "Овчарско-кабларска клисура",
+                  "name": "Ovcharsko-kablarska klisura",
                   "text": "Eine malerische Kalksteinschlucht der Westlichen Morava mit zahlreichen Klöstern.",
                   "category": "natural",
                   "coords": [
@@ -915,7 +915,7 @@ export const serbiaLifeV2: POI[] = [
                   ]
             },
             {
-                  "name": "Природњачки центар",
+                  "name": "Prirodnjachki tsentar",
                   "text": "Museum zur Naturgeschichte und Artenvielfalt der Region Ovčar-Kablar.",
                   "category": "museum",
                   "coords": [
@@ -924,7 +924,7 @@ export const serbiaLifeV2: POI[] = [
                   ]
             },
             {
-                  "name": "Овчар",
+                  "name": "Ovchar",
                   "text": "Der höchste Gipfel der Ovčar-Kablar-Schlucht mit Panoramablick.",
                   "category": "landmark",
                   "coords": [
@@ -933,7 +933,7 @@ export const serbiaLifeV2: POI[] = [
                   ]
             },
             {
-                  "name": "Црква Савиње",
+                  "name": "Tsrkva Savinje",
                   "text": "Eine kleine Kirche oder Kapelle im Gebiet der Ovčar-Kablar-Schlucht.",
                   "category": "religious",
                   "coords": [
@@ -944,7 +944,7 @@ export const serbiaLifeV2: POI[] = [
       ],
       "hu": [
             {
-                  "name": "Овчарско-кабларска клисура",
+                  "name": "Ovcharsko-kablarska klisura",
                   "text": "A Nyugati-Morava festői mészkőszurdoka, amely számos kolostoráról ismert.",
                   "category": "natural",
                   "coords": [
@@ -953,7 +953,7 @@ export const serbiaLifeV2: POI[] = [
                   ]
             },
             {
-                  "name": "Природњачки центар",
+                  "name": "Prirodnjachki tsentar",
                   "text": "Az Ovčar-Kablar régió természetrajzát és élővilágát bemutató múzeum.",
                   "category": "museum",
                   "coords": [
@@ -962,7 +962,7 @@ export const serbiaLifeV2: POI[] = [
                   ]
             },
             {
-                  "name": "Овчар",
+                  "name": "Ovchar",
                   "text": "Az Ovčar-Kablar-szurdok legmagasabb csúcsa, panorámás kilátással.",
                   "category": "landmark",
                   "coords": [
@@ -971,7 +971,7 @@ export const serbiaLifeV2: POI[] = [
                   ]
             },
             {
-                  "name": "Црква Савиње",
+                  "name": "Tsrkva Savinje",
                   "text": "Kis templom vagy kápolna az Ovčar-Kablar-szurdok területén.",
                   "category": "religious",
                   "coords": [
@@ -982,7 +982,7 @@ export const serbiaLifeV2: POI[] = [
       ],
       "ro": [
             {
-                  "name": "Овчарско-кабларска клисура",
+                  "name": "Ovcharsko-kablarska klisura",
                   "text": "Defileu calcaros pitoresc al râului Morava de Vest, cunoscut pentru numeroasele sale mănăstiri.",
                   "category": "natural",
                   "coords": [
@@ -991,7 +991,7 @@ export const serbiaLifeV2: POI[] = [
                   ]
             },
             {
-                  "name": "Природњачки центар",
+                  "name": "Prirodnjachki tsentar",
                   "text": "Muzeu dedicat istoriei naturale și biodiversității regiunii Ovčar-Kablar.",
                   "category": "museum",
                   "coords": [
@@ -1000,7 +1000,7 @@ export const serbiaLifeV2: POI[] = [
                   ]
             },
             {
-                  "name": "Овчар",
+                  "name": "Ovchar",
                   "text": "Cel mai înalt vârf din Defileul Ovčar-Kablar, oferind vedere panoramică.",
                   "category": "landmark",
                   "coords": [
@@ -1009,7 +1009,7 @@ export const serbiaLifeV2: POI[] = [
                   ]
             },
             {
-                  "name": "Црква Савиње",
+                  "name": "Tsrkva Savinje",
                   "text": "O mică biserică sau capelă situată în zona Defileului Ovčar-Kablar.",
                   "category": "religious",
                   "coords": [
@@ -1113,7 +1113,7 @@ export const serbiaLifeV2: POI[] = [
                   ]
             },
             {
-                  "name": "Остаци замка деспота Стефана Лазаревића",
+                  "name": "Ostatsi zamka despota Stefana Lazarevitsha",
                   "text": "Die Burgruine von Stefan Lazarević in der Belgrader Festung wurde 1690 weitgehend zerstört.",
                   "category": "historical",
                   "coords": [
@@ -1122,7 +1122,7 @@ export const serbiaLifeV2: POI[] = [
                   ]
             },
             {
-                  "name": "Историјски музеј Србије",
+                  "name": "Istorijski muzej Srbije",
                   "text": "Das Historische Museum von Serbien in Belgrad bewahrt die Insignien serbischer Könige auf.",
                   "category": "museum",
                   "coords": [
@@ -1131,7 +1131,7 @@ export const serbiaLifeV2: POI[] = [
                   ]
             },
             {
-                  "name": "Железнички музеј",
+                  "name": "Zheleznichki muzej",
                   "text": "Das Eisenbahnmuseum in Belgrad, gegründet 1950, zeigt die Geschichte der Eisenbahn.",
                   "category": "museum",
                   "coords": [
@@ -1140,7 +1140,7 @@ export const serbiaLifeV2: POI[] = [
                   ]
             },
             {
-                  "name": "Музеј Иве Андрића",
+                  "name": "Muzej Ive Andritsha",
                   "text": "Ein Gedenkmuseum in Belgrad, das dem Leben und Werk des Nobelpreisträgers Ivo Andrić gewidmet ist.",
                   "category": "museum",
                   "coords": [
@@ -1149,7 +1149,7 @@ export const serbiaLifeV2: POI[] = [
                   ]
             },
             {
-                  "name": "Музеј Паје Јовановића",
+                  "name": "Muzej Paje Jovanovitsha",
                   "text": "Dieses Museum zeigt das Werk und den persönlichen Nachlass des bedeutenden serbischen Malers Paja Jovanović.",
                   "category": "museum",
                   "coords": [
@@ -1158,7 +1158,7 @@ export const serbiaLifeV2: POI[] = [
                   ]
             },
             {
-                  "name": "Музеј Цептер",
+                  "name": "Muzej Tsepter",
                   "text": "Ein privates Kunstmuseum, das eine bedeutende Sammlung moderner und zeitgenössischer Werke beherbergt.",
                   "category": "museum",
                   "coords": [
@@ -1167,7 +1167,7 @@ export const serbiaLifeV2: POI[] = [
                   ]
             },
             {
-                  "name": "ПТТ музеј",
+                  "name": "PTT muzej",
                   "text": "Ein Fachmuseum in Belgrad, das die Geschichte des Post-, Telegrafen- und Telefonwesens dokumentiert.",
                   "category": "museum",
                   "coords": [
@@ -1178,7 +1178,7 @@ export const serbiaLifeV2: POI[] = [
       ],
       "hu": [
             {
-                  "name": "Римски бунар",
+                  "name": "Rimski bunar",
                   "text": "A belgrádi erődítményben található Római-kutat Alfred Hitchcock is meglátogatott.",
                   "category": "museum",
                   "coords": [
@@ -1187,7 +1187,7 @@ export const serbiaLifeV2: POI[] = [
                   ]
             },
             {
-                  "name": "Остаци замка деспота Стефана Лазаревића",
+                  "name": "Ostatsi zamka despota Stefana Lazarevitsha",
                   "text": "Stefan Lazarević várának romjai a belgrádi erődben nagyrészt 1690-ben pusztultak el.",
                   "category": "historical",
                   "coords": [
@@ -1196,7 +1196,7 @@ export const serbiaLifeV2: POI[] = [
                   ]
             },
             {
-                  "name": "Историјски музеј Србије",
+                  "name": "Istorijski muzej Srbije",
                   "text": "A belgrádi Szerbiai Történeti Múzeum a szerb királyok koronázási jelvényeit őrzi.",
                   "category": "museum",
                   "coords": [
@@ -1205,7 +1205,7 @@ export const serbiaLifeV2: POI[] = [
                   ]
             },
             {
-                  "name": "Железнички музеј",
+                  "name": "Zheleznichki muzej",
                   "text": "Az 1950-ben alapított belgrádi Vasúttörténeti Múzeum a vasút történetét mutatja be.",
                   "category": "museum",
                   "coords": [
@@ -1214,7 +1214,7 @@ export const serbiaLifeV2: POI[] = [
                   ]
             },
             {
-                  "name": "Музеј Иве Андрића",
+                  "name": "Muzej Ive Andritsha",
                   "text": "A Nobel-díjas író, Ivo Andrić életének és munkásságának szentelt emlékmúzeum.",
                   "category": "museum",
                   "coords": [
@@ -1223,7 +1223,7 @@ export const serbiaLifeV2: POI[] = [
                   ]
             },
             {
-                  "name": "Музеј Паје Јовановића",
+                  "name": "Muzej Paje Jovanovitsha",
                   "text": "Ez a múzeum a neves szerb festő, Paja Jovanović munkásságát és személyes hagyatékát mutatja be.",
                   "category": "museum",
                   "coords": [
@@ -1232,7 +1232,7 @@ export const serbiaLifeV2: POI[] = [
                   ]
             },
             {
-                  "name": "Музеј Цептер",
+                  "name": "Muzej Tsepter",
                   "text": "Magánkézben lévő művészeti múzeum, amely modern és kortárs alkotások jelentős gyűjteményének ad otthont.",
                   "category": "museum",
                   "coords": [
@@ -1241,7 +1241,7 @@ export const serbiaLifeV2: POI[] = [
                   ]
             },
             {
-                  "name": "ПТТ музеј",
+                  "name": "PTT muzej",
                   "text": "Belgrádi szakmúzeum, amely a posta, a távíró és a telefon történetét dokumentálja.",
                   "category": "museum",
                   "coords": [
@@ -1252,7 +1252,7 @@ export const serbiaLifeV2: POI[] = [
       ],
       "ro": [
             {
-                  "name": "Римски бунар",
+                  "name": "Rimski bunar",
                   "text": "Purgatoriul Roman din cetatea Belgrad a fost vizitat de faimosul Alfred Hitchcock.",
                   "category": "museum",
                   "coords": [
@@ -1261,7 +1261,7 @@ export const serbiaLifeV2: POI[] = [
                   ]
             },
             {
-                  "name": "Остаци замка деспота Стефана Лазаревића",
+                  "name": "Ostatsi zamka despota Stefana Lazarevitsha",
                   "text": "Ruinele castelului lui Stefan Lazarević din cetatea Belgrad au fost în mare parte distruse în 1690.",
                   "category": "historical",
                   "coords": [
@@ -1270,7 +1270,7 @@ export const serbiaLifeV2: POI[] = [
                   ]
             },
             {
-                  "name": "Историјски музеј Србије",
+                  "name": "Istorijski muzej Srbije",
                   "text": "Muzeul Istoric al Serbiei din Belgrad păstrează însemnele regale ale regilor sârbi.",
                   "category": "museum",
                   "coords": [
@@ -1279,7 +1279,7 @@ export const serbiaLifeV2: POI[] = [
                   ]
             },
             {
-                  "name": "Железнички музеј",
+                  "name": "Zheleznichki muzej",
                   "text": "Muzeul Căilor Ferate din Belgrad, fondat în 1950, prezintă istoria căilor ferate.",
                   "category": "museum",
                   "coords": [
@@ -1288,7 +1288,7 @@ export const serbiaLifeV2: POI[] = [
                   ]
             },
             {
-                  "name": "Музеј Иве Андрића",
+                  "name": "Muzej Ive Andritsha",
                   "text": "Un muzeu memorial dedicat vieții și operei scriitorului laureat al Premiului Nobel, Ivo Andrić.",
                   "category": "museum",
                   "coords": [
@@ -1297,7 +1297,7 @@ export const serbiaLifeV2: POI[] = [
                   ]
             },
             {
-                  "name": "Музеј Паје Јовановића",
+                  "name": "Muzej Paje Jovanovitsha",
                   "text": "Acest muzeu prezintă opera și moștenirea personală a importantului pictor sârb Paja Jovanović.",
                   "category": "museum",
                   "coords": [
@@ -1306,7 +1306,7 @@ export const serbiaLifeV2: POI[] = [
                   ]
             },
             {
-                  "name": "Музеј Цептер",
+                  "name": "Muzej Tsepter",
                   "text": "Un muzeu de artă privat care găzduiește o colecție importantă de lucrări moderne și contemporane.",
                   "category": "museum",
                   "coords": [
@@ -1315,7 +1315,7 @@ export const serbiaLifeV2: POI[] = [
                   ]
             },
             {
-                  "name": "ПТТ музеј",
+                  "name": "PTT muzej",
                   "text": "Un muzeu specializat din Belgrad care documentează istoria serviciilor poștale, telegrafice și telefonice.",
                   "category": "museum",
                   "coords": [
@@ -1455,7 +1455,7 @@ export const serbiaLifeV2: POI[] = [
                   ]
             },
             {
-                  "name": "Панчићев врх",
+                  "name": "Panchitshev vrkh",
                   "text": "Der höchste Gipfel des Kopaonik-Gebirges.",
                   "category": "landmark",
                   "coords": [
@@ -1484,7 +1484,7 @@ export const serbiaLifeV2: POI[] = [
                   ]
             },
             {
-                  "name": "Панчићев врх",
+                  "name": "Panchitshev vrkh",
                   "text": "A Kopaonik-hegység legmagasabb csúcsa.",
                   "category": "landmark",
                   "coords": [
@@ -1513,7 +1513,7 @@ export const serbiaLifeV2: POI[] = [
                   ]
             },
             {
-                  "name": "Панчићев врх",
+                  "name": "Panchitshev vrkh",
                   "text": "Cel mai înalt vârf al munților Kopaonik.",
                   "category": "landmark",
                   "coords": [
@@ -1608,7 +1608,7 @@ export const serbiaLifeV2: POI[] = [
     id: "serbia-fruska-gora-park-life-v2", "sights": {
       "de": [
             {
-                  "name": "Црвени Чот",
+                  "name": "Tsrveni Chot",
                   "text": "Crveni Čot ist mit 539 Metern der höchste Gipfel im Nationalpark Fruška Gora.",
                   "category": "landmark",
                   "coords": [
@@ -1626,7 +1626,7 @@ export const serbiaLifeV2: POI[] = [
                   ]
             },
             {
-                  "name": "Манастир Бешеновo",
+                  "name": "Manastir Beshenovo",
                   "text": "Das Kloster Besenovo ist eine historische orthodoxe Gebetsstätte in der Fruška Gora.",
                   "category": "religious",
                   "coords": [
@@ -1637,7 +1637,7 @@ export const serbiaLifeV2: POI[] = [
       ],
       "hu": [
             {
-                  "name": "Црвени Чот",
+                  "name": "Tsrveni Chot",
                   "text": "A Crveni Čot az 539 méteres magasságával a Fruška Gora Nemzeti Park legmagasabb pontja.",
                   "category": "landmark",
                   "coords": [
@@ -1655,7 +1655,7 @@ export const serbiaLifeV2: POI[] = [
                   ]
             },
             {
-                  "name": "Манастир Бешеновo",
+                  "name": "Manastir Beshenovo",
                   "text": "A Besenovo kolostor egy történelmi ortodox vallási helyszín a Fruška Gora területén.",
                   "category": "religious",
                   "coords": [
@@ -1666,7 +1666,7 @@ export const serbiaLifeV2: POI[] = [
       ],
       "ro": [
             {
-                  "name": "Црвени Чот",
+                  "name": "Tsrveni Chot",
                   "text": "Crveni Čot este cel mai înalt vârf din Parcul Național Fruška Gora, având 539 de metri.",
                   "category": "landmark",
                   "coords": [
@@ -1684,7 +1684,7 @@ export const serbiaLifeV2: POI[] = [
                   ]
             },
             {
-                  "name": "Манастир Бешеновo",
+                  "name": "Manastir Beshenovo",
                   "text": "Mănăstirea Besenovo este un lăcaș de cult ortodox istoric situat în Fruška Gora.",
                   "category": "religious",
                   "coords": [
@@ -1815,7 +1815,7 @@ export const serbiaLifeV2: POI[] = [
     id: "serbia-uvac-canyon-life-v2", "sights": {
       "de": [
             {
-                  "name": "Ледена пећина",
+                  "name": "Ledena petshina",
                   "text": "Eine Höhle im Uvac-Canyon, die für ihre ganzjährig niedrigen Temperaturen bekannt ist.",
                   "category": "landmark",
                   "coords": [
@@ -1824,7 +1824,7 @@ export const serbiaLifeV2: POI[] = [
                   ]
             },
             {
-                  "name": "меандри реке Увац (Увачко језеро)",
+                  "name": "meandri reke Uvats (Uvachko jezero)",
                   "text": "Die spektakulären Windungen des Flusses Uvac in einer tiefen Schlucht.",
                   "category": "landmark",
                   "coords": [
@@ -1833,7 +1833,7 @@ export const serbiaLifeV2: POI[] = [
                   ]
             },
             {
-                  "name": "Молитва",
+                  "name": "Molitva",
                   "text": "Einer der bekanntesten Aussichtspunkte über die Mäander des Flusses Uvac.",
                   "category": "natural",
                   "coords": [
@@ -1842,7 +1842,7 @@ export const serbiaLifeV2: POI[] = [
                   ]
             },
             {
-                  "name": "Велики врх",
+                  "name": "Veliki vrkh",
                   "text": "Ein Berggipfel im Uvac-Reservat mit Panoramablick auf die Schlucht.",
                   "category": "natural",
                   "coords": [
@@ -1862,7 +1862,7 @@ export const serbiaLifeV2: POI[] = [
       ],
       "hu": [
             {
-                  "name": "Ледена пећина",
+                  "name": "Ledena petshina",
                   "text": "Barlang az Uvac-kanyonban, amely az egész évben alacsony hőmérsékletéről ismert.",
                   "category": "landmark",
                   "coords": [
@@ -1871,7 +1871,7 @@ export const serbiaLifeV2: POI[] = [
                   ]
             },
             {
-                  "name": "меандри реке Увац (Увачко језеро)",
+                  "name": "meandri reke Uvats (Uvachko jezero)",
                   "text": "Az Uvac-folyó látványos kanyarulatai a mély szurdokvölgyben.",
                   "category": "landmark",
                   "coords": [
@@ -1880,7 +1880,7 @@ export const serbiaLifeV2: POI[] = [
                   ]
             },
             {
-                  "name": "Молитва",
+                  "name": "Molitva",
                   "text": "Az Uvac-folyó kanyarulataira néző egyik legismertebb kilátóhely.",
                   "category": "natural",
                   "coords": [
@@ -1889,7 +1889,7 @@ export const serbiaLifeV2: POI[] = [
                   ]
             },
             {
-                  "name": "Велики врх",
+                  "name": "Veliki vrkh",
                   "text": "Hegycsúcs az Uvac-rezervátumban, panorámás kilátással a szurdokra.",
                   "category": "natural",
                   "coords": [
@@ -1909,7 +1909,7 @@ export const serbiaLifeV2: POI[] = [
       ],
       "ro": [
             {
-                  "name": "Ледена пећина",
+                  "name": "Ledena petshina",
                   "text": "O peșteră în canionul Uvac, cunoscută pentru temperaturile scăzute tot anul.",
                   "category": "landmark",
                   "coords": [
@@ -1918,7 +1918,7 @@ export const serbiaLifeV2: POI[] = [
                   ]
             },
             {
-                  "name": "меандри реке Увац (Увачко језеро)",
+                  "name": "meandri reke Uvats (Uvachko jezero)",
                   "text": "Meandrele spectaculoase ale râului Uvac într-un defileu adânc.",
                   "category": "landmark",
                   "coords": [
@@ -1927,7 +1927,7 @@ export const serbiaLifeV2: POI[] = [
                   ]
             },
             {
-                  "name": "Молитва",
+                  "name": "Molitva",
                   "text": "Unul dintre cele mai faimoase puncte de belvedere peste meandrele râului Uvac.",
                   "category": "natural",
                   "coords": [
@@ -1936,7 +1936,7 @@ export const serbiaLifeV2: POI[] = [
                   ]
             },
             {
-                  "name": "Велики врх",
+                  "name": "Veliki vrkh",
                   "text": "Un vârf montan în rezervația Uvac, cu vedere panoramică asupra defileului.",
                   "category": "natural",
                   "coords": [
@@ -2103,7 +2103,7 @@ export const serbiaLifeV2: POI[] = [
                   ]
             },
             {
-                  "name": "Музеј Надежде и Растка Петровића",
+                  "name": "Muzej Nadezhde i Rastka Petrovitsha",
                   "text": "Ein Gedenkmuseum in Belgrad, das dem Leben und Werk der Geschwister Petrović gewidmet ist.",
                   "category": "museum",
                   "coords": [
@@ -2121,7 +2121,7 @@ export const serbiaLifeV2: POI[] = [
                   ]
             },
             {
-                  "name": "Театар Вук",
+                  "name": "Teatar Vuk",
                   "text": "Eine bedeutende Kultureinrichtung und ein Theater im Belgrader Stadtteil Zvezdara.",
                   "category": "cultural",
                   "coords": [
@@ -2130,7 +2130,7 @@ export const serbiaLifeV2: POI[] = [
                   ]
             },
             {
-                  "name": "Стојичино брдо",
+                  "name": "Stojichino brdo",
                   "text": "Ein Hügel im Belgrader Stadtteil Zvezdara mit Blick auf die umliegenden Gebiete.",
                   "category": "landmark",
                   "coords": [
@@ -2139,7 +2139,7 @@ export const serbiaLifeV2: POI[] = [
                   ]
             },
             {
-                  "name": "Липак",
+                  "name": "Lipak",
                   "text": "Eine lokale Erhebung am Rande von Belgrad innerhalb des Zvezdara-Waldes.",
                   "category": "landmark",
                   "coords": [
@@ -2177,7 +2177,7 @@ export const serbiaLifeV2: POI[] = [
                   ]
             },
             {
-                  "name": "Музеј Надежде и Растка Петровића",
+                  "name": "Muzej Nadezhde i Rastka Petrovitsha",
                   "text": "Belgrádi emlékmúzeum, amely a Petrović testvérek életének és munkásságának állít emléket.",
                   "category": "museum",
                   "coords": [
@@ -2186,7 +2186,7 @@ export const serbiaLifeV2: POI[] = [
                   ]
             },
             {
-                  "name": "Звездарска шума",
+                  "name": "Zvezdarska shuma",
                   "text": "Hatalmas erdőpark és természetvédelmi terület Belgrádban, fontos pihenőhely.",
                   "category": "natural",
                   "coords": [
@@ -2195,7 +2195,7 @@ export const serbiaLifeV2: POI[] = [
                   ]
             },
             {
-                  "name": "Театар Вук",
+                  "name": "Teatar Vuk",
                   "text": "Jelentős kulturális intézmény és színház Belgrád Zvezdara negyedében.",
                   "category": "cultural",
                   "coords": [
@@ -2204,7 +2204,7 @@ export const serbiaLifeV2: POI[] = [
                   ]
             },
             {
-                  "name": "Стојичино брдо",
+                  "name": "Stojichino brdo",
                   "text": "Domb Belgrád Zvezdara negyedében, kilátással a környező területekre.",
                   "category": "landmark",
                   "coords": [
@@ -2213,7 +2213,7 @@ export const serbiaLifeV2: POI[] = [
                   ]
             },
             {
-                  "name": "Липак",
+                  "name": "Lipak",
                   "text": "Helyi magaslat Belgrád szélén, a Zvezdara-erdő területén.",
                   "category": "landmark",
                   "coords": [
@@ -2251,7 +2251,7 @@ export const serbiaLifeV2: POI[] = [
                   ]
             },
             {
-                  "name": "Музеј Надежде и Растка Петровића",
+                  "name": "Muzej Nadezhde i Rastka Petrovitsha",
                   "text": "Un muzeu memorial din Belgrad, dedicat vieții și operei fraților Petrović.",
                   "category": "museum",
                   "coords": [
@@ -2260,7 +2260,7 @@ export const serbiaLifeV2: POI[] = [
                   ]
             },
             {
-                  "name": "Звездарска шума",
+                  "name": "Zvezdarska shuma",
                   "text": "Un parc forestier mare și rezervație naturală în Belgrad, o zonă importantă de recreere.",
                   "category": "natural",
                   "coords": [
@@ -2269,7 +2269,7 @@ export const serbiaLifeV2: POI[] = [
                   ]
             },
             {
-                  "name": "Театар Вук",
+                  "name": "Teatar Vuk",
                   "text": "O instituție culturală proeminentă și un teatru în districtul Zvezdara din Belgrad.",
                   "category": "cultural",
                   "coords": [
@@ -2278,7 +2278,7 @@ export const serbiaLifeV2: POI[] = [
                   ]
             },
             {
-                  "name": "Стојичино брдо",
+                  "name": "Stojichino brdo",
                   "text": "O colină în zona Zvezdara din Belgrad, oferind o perspectivă asupra zonelor limitrofe.",
                   "category": "landmark",
                   "coords": [
@@ -2287,7 +2287,7 @@ export const serbiaLifeV2: POI[] = [
                   ]
             },
             {
-                  "name": "Липак",
+                  "name": "Lipak",
                   "text": "O colină locală la periferia Belgradului, în cadrul pădurii Zvezdara.",
                   "category": "landmark",
                   "coords": [
@@ -2490,7 +2490,7 @@ export const serbiaLifeV2: POI[] = [
                   ]
             },
             {
-                  "name": "Некропола стећака Доње Мраморје",
+                  "name": "Nekropola stetshaka Donje Mramorje",
                   "text": "Eine archäologische Stätte mit mittelalterlichen Grabsteinen im Tara-Nationalpark.",
                   "category": "historical",
                   "coords": [
@@ -2499,7 +2499,7 @@ export const serbiaLifeV2: POI[] = [
                   ]
             },
             {
-                  "name": "Козја стена",
+                  "name": "Kozja stena",
                   "text": "Ein Aussichtspunkt im Tara-Nationalpark mit weitem Blick über den Drina-Fluss.",
                   "category": "natural",
                   "coords": [
@@ -2508,7 +2508,7 @@ export const serbiaLifeV2: POI[] = [
                   ]
             },
             {
-                  "name": "Бањска стена",
+                  "name": "Banjska stena",
                   "text": "Einer der bekanntesten Aussichtspunkte Serbiens im Tara-Nationalpark.",
                   "category": "natural",
                   "coords": [
@@ -2544,7 +2544,7 @@ export const serbiaLifeV2: POI[] = [
                   ]
             },
             {
-                  "name": "Велица Стена",
+                  "name": "Velitsa Stena",
                   "text": "Ein Aussichtspunkt bei Banjska Stena, der weite Ausblicke über die Region bietet.",
                   "category": "natural",
                   "coords": [
@@ -2555,7 +2555,7 @@ export const serbiaLifeV2: POI[] = [
       ],
       "hu": [
             {
-                  "name": "Национални парк Тара",
+                  "name": "Natsionalni park Tara",
                   "text": "Szerbiai nemzeti park, amely sűrű erdőiről és a Drina-kanyonról ismert.",
                   "category": "natural",
                   "coords": [
@@ -2564,7 +2564,7 @@ export const serbiaLifeV2: POI[] = [
                   ]
             },
             {
-                  "name": "Некропола стећака Доње Мраморје",
+                  "name": "Nekropola stetshaka Donje Mramorje",
                   "text": "Középkori sírköveket bemutató régészeti lelőhely a Tara Nemzeti Parkban.",
                   "category": "historical",
                   "coords": [
@@ -2573,7 +2573,7 @@ export const serbiaLifeV2: POI[] = [
                   ]
             },
             {
-                  "name": "Козја стена",
+                  "name": "Kozja stena",
                   "text": "Kilátópont a Tara Nemzeti Parkban, széles kilátással a Drina folyóra.",
                   "category": "natural",
                   "coords": [
@@ -2582,7 +2582,7 @@ export const serbiaLifeV2: POI[] = [
                   ]
             },
             {
-                  "name": "Бањска стена",
+                  "name": "Banjska stena",
                   "text": "Szerbia egyik legismertebb kilátópontja a Tara Nemzeti Parkban.",
                   "category": "natural",
                   "coords": [
@@ -2618,7 +2618,7 @@ export const serbiaLifeV2: POI[] = [
                   ]
             },
             {
-                  "name": "Велица Стена",
+                  "name": "Velitsa Stena",
                   "text": "Kilátóhely Banjska Stena területén, tágas kilátással a régióra.",
                   "category": "natural",
                   "coords": [
@@ -2629,7 +2629,7 @@ export const serbiaLifeV2: POI[] = [
       ],
       "ro": [
             {
-                  "name": "Национални парк Тара",
+                  "name": "Natsionalni park Tara",
                   "text": "Un parc național sârbesc, cunoscut pentru pădurile sale dese și canionul Drina.",
                   "category": "natural",
                   "coords": [
@@ -2638,7 +2638,7 @@ export const serbiaLifeV2: POI[] = [
                   ]
             },
             {
-                  "name": "Некропола стећака Доње Мраморје",
+                  "name": "Nekropola stetshaka Donje Mramorje",
                   "text": "Un sit arheologic cu pietre funerare medievale în Parcul Național Tara.",
                   "category": "historical",
                   "coords": [
@@ -2647,7 +2647,7 @@ export const serbiaLifeV2: POI[] = [
                   ]
             },
             {
-                  "name": "Козја стена",
+                  "name": "Kozja stena",
                   "text": "Un punct de observație în Parcul Național Tara, cu o vedere largă asupra râului Drina.",
                   "category": "natural",
                   "coords": [
@@ -2656,7 +2656,7 @@ export const serbiaLifeV2: POI[] = [
                   ]
             },
             {
-                  "name": "Бањска стена",
+                  "name": "Banjska stena",
                   "text": "Unul dintre cele mai faimoase puncte de observație din Serbia, în Parcul Național Tara.",
                   "category": "natural",
                   "coords": [
@@ -2692,7 +2692,7 @@ export const serbiaLifeV2: POI[] = [
                   ]
             },
             {
-                  "name": "Велица Стена",
+                  "name": "Velitsa Stena",
                   "text": "Un punct de observație la Banjska Stena, oferind vederi largi asupra regiunii.",
                   "category": "natural",
                   "coords": [
@@ -2823,7 +2823,7 @@ export const serbiaLifeV2: POI[] = [
     id: "serbia-zlatibor-park-life-v2", "sights": {
       "de": [
             {
-                  "name": "Планина",
+                  "name": "Planina",
                   "text": "Ein Aussichtspunkt im Naturpark Zlatibor mit weitem Blick über die serbische Bergwelt.",
                   "category": "natural",
                   "coords": [
@@ -2834,7 +2834,7 @@ export const serbiaLifeV2: POI[] = [
       ],
       "hu": [
             {
-                  "name": "Планина",
+                  "name": "Planina",
                   "text": "Kilátóhely a Zlatibor Natúrparkban, ahonnan pazar kilátás nyílik a szerb hegyvidékre.",
                   "category": "natural",
                   "coords": [
@@ -2845,7 +2845,7 @@ export const serbiaLifeV2: POI[] = [
       ],
       "ro": [
             {
-                  "name": "Планина",
+                  "name": "Planina",
                   "text": "Un punct de belvedere în Parcul Natural Zlatibor, cu o vedere largă asupra munților sârbi.",
                   "category": "natural",
                   "coords": [
@@ -3003,7 +3003,7 @@ export const serbiaLifeV2: POI[] = [
     id: "serbia-stara-planina-waterfalls-life-v2", "sights": {
       "de": [
             {
-                  "name": "Музеј живота старопланинског човека",
+                  "name": "Muzej zhivota staroplaninskog choveka",
                   "text": "Ein Museum, das der Kultur und Geschichte der Menschen des Balkangebirges gewidmet ist.",
                   "category": "museum",
                   "coords": [
@@ -3012,7 +3012,7 @@ export const serbiaLifeV2: POI[] = [
                   ]
             },
             {
-                  "name": "Бабин зуб",
+                  "name": "Babin zub",
                   "text": "Ein markanter Berggipfel und beliebtes Touristenziel im Balkangebirge.",
                   "category": "landmark",
                   "coords": [
@@ -3050,7 +3050,7 @@ export const serbiaLifeV2: POI[] = [
       ],
       "hu": [
             {
-                  "name": "Музеј живота старопланинског човека",
+                  "name": "Muzej zhivota staroplaninskog choveka",
                   "text": "A Balkán-hegység lakóinak kultúráját és történelmét bemutató múzeum.",
                   "category": "museum",
                   "coords": [
@@ -3059,7 +3059,7 @@ export const serbiaLifeV2: POI[] = [
                   ]
             },
             {
-                  "name": "Бабин зуб",
+                  "name": "Babin zub",
                   "text": "Jellegzetes hegycsúcs és népszerű turisztikai célpont a Balkán-hegységben.",
                   "category": "landmark",
                   "coords": [
@@ -3097,7 +3097,7 @@ export const serbiaLifeV2: POI[] = [
       ],
       "ro": [
             {
-                  "name": "Музеј живота старопланинског човека",
+                  "name": "Muzej zhivota staroplaninskog choveka",
                   "text": "Un muzeu dedicat culturii și istoriei oamenilor din Munții Balcani.",
                   "category": "museum",
                   "coords": [
@@ -3106,7 +3106,7 @@ export const serbiaLifeV2: POI[] = [
                   ]
             },
             {
-                  "name": "Бабин зуб",
+                  "name": "Babin zub",
                   "text": "Un vârf montan distinctiv și o destinație turistică populară în Munții Balcani.",
                   "category": "landmark",
                   "coords": [
@@ -3417,7 +3417,7 @@ export const serbiaLifeV2: POI[] = [
     id: "serbia-goc-mountain-life-v2", "sights": {
       "de": [
             {
-                  "name": "Кавгалија",
+                  "name": "Kavgalija",
                   "text": "Ein markanter Gipfel auf dem Berg Goč, der Ausblicke über die umliegende Region bietet.",
                   "category": "landmark",
                   "coords": [
@@ -3426,7 +3426,7 @@ export const serbiaLifeV2: POI[] = [
                   ]
             },
             {
-                  "name": "Чукар",
+                  "name": "Chukar",
                   "text": "Ein Berggipfel inmitten der malerischen Landschaft des Berges Goč.",
                   "category": "landmark",
                   "coords": [
@@ -3437,7 +3437,7 @@ export const serbiaLifeV2: POI[] = [
       ],
       "hu": [
             {
-                  "name": "Кавгалија",
+                  "name": "Kavgalija",
                   "text": "Kiemelkedő csúcs a Goč-hegyen, ahonnan kilátás nyílik a környező vidékre.",
                   "category": "landmark",
                   "coords": [
@@ -3446,7 +3446,7 @@ export const serbiaLifeV2: POI[] = [
                   ]
             },
             {
-                  "name": "Чукар",
+                  "name": "Chukar",
                   "text": "Hegycsúcs a Goč-hegy festői táján.",
                   "category": "landmark",
                   "coords": [
@@ -3457,7 +3457,7 @@ export const serbiaLifeV2: POI[] = [
       ],
       "ro": [
             {
-                  "name": "Кавгалија",
+                  "name": "Kavgalija",
                   "text": "Un vârf proeminent pe muntele Goč, oferind priveliști asupra regiunii înconjurătoare.",
                   "category": "landmark",
                   "coords": [
@@ -3466,7 +3466,7 @@ export const serbiaLifeV2: POI[] = [
                   ]
             },
             {
-                  "name": "Чукар",
+                  "name": "Chukar",
                   "text": "Un vârf muntos situat în peisajul pitoresc al muntelui Goč.",
                   "category": "landmark",
                   "coords": [

@@ -141,7 +141,7 @@ export const bulgariaLandmarksV2: POI[] = [
     id: "bulgaria-shipka-memorial-church-landmarks-v2", "sights": {
       "de": [
             {
-                  "name": "Орлово гнездо",
+                  "name": "Orlovo gnezdo",
                   "text": "Ein historischer Gipfel im Balkangebirge nahe dem Schipka-Pass.",
                   "category": "landmark",
                   "coords": [
@@ -150,7 +150,7 @@ export const bulgariaLandmarksV2: POI[] = [
                   ]
             },
             {
-                  "name": "Храм-паметник \"Рождество Христово\"",
+                  "name": "Khram-pametnik \"Rozhdestvo Khristovo\"",
                   "text": "Eine prachtvolle russisch-orthodoxe Kirche mit goldenen Kuppeln in Schipka.",
                   "category": "religious",
                   "coords": [
@@ -170,7 +170,7 @@ export const bulgariaLandmarksV2: POI[] = [
                   ]
             },
             {
-                  "name": "Храм-паметник \"Рождество Христово\"",
+                  "name": "Khram-pametnik \"Rozhdestvo Khristovo\"",
                   "text": "Pompás orosz ortodox templom aranykupolákkal Sipka városában.",
                   "category": "religious",
                   "coords": [
@@ -181,7 +181,7 @@ export const bulgariaLandmarksV2: POI[] = [
       ],
       "ro": [
             {
-                  "name": "Орлово гнездо",
+                  "name": "Orlovo gnezdo",
                   "text": "Un vârf istoric în Munții Balcani, lângă Pasul Șipka.",
                   "category": "landmark",
                   "coords": [
@@ -190,7 +190,7 @@ export const bulgariaLandmarksV2: POI[] = [
                   ]
             },
             {
-                  "name": "Храм-паметник \"Рождество Христово\"",
+                  "name": "Khram-pametnik \"Rozhdestvo Khristovo\"",
                   "text": "O spectaculoasă biserică ortodoxă rusă cu cupole aurite în Șipka.",
                   "category": "religious",
                   "coords": [
@@ -312,7 +312,7 @@ export const bulgariaLandmarksV2: POI[] = [
     id: "bulgaria-basarbovo-monastery-landmarks-v2", "sights": {
       "de": [
             {
-                  "name": "Картинг писта Русе - Pist Kart Extreme",
+                  "name": "Pist Kart Extreme",
                   "text": "Eine Kartbahn in der Nähe des Klosters Basarbovo für Motorsportbegeisterte.",
                   "category": "recreational",
                   "coords": [
@@ -321,7 +321,7 @@ export const bulgariaLandmarksV2: POI[] = [
                   ]
             },
             {
-                  "name": "Басарбовски Скален Манастир",
+                  "name": "Basarbovski Skalen Manastir",
                   "text": "Ein einzigartiges bulgarisch-orthodoxes Felsenkloster, das in die Klippen in der Nähe von Russe gehauen wurde.",
                   "category": "landmark",
                   "coords": [
@@ -332,7 +332,7 @@ export const bulgariaLandmarksV2: POI[] = [
       ],
       "hu": [
             {
-                  "name": "Картинг писта Русе - Pist Kart Extreme",
+                  "name": "Pist Kart Extreme",
                   "text": "Egy gokartpálya a Baszarbovói kolostor közelében a motorsportok kedvelőinek.",
                   "category": "recreational",
                   "coords": [
@@ -341,7 +341,7 @@ export const bulgariaLandmarksV2: POI[] = [
                   ]
             },
             {
-                  "name": "Басарбовски Скален Манастир",
+                  "name": "Basarbovski Skalen Manastir",
                   "text": "Kősziklába vájt bolgár ortodox kolostor Rusze közelében.",
                   "category": "landmark",
                   "coords": [
@@ -352,7 +352,7 @@ export const bulgariaLandmarksV2: POI[] = [
       ],
       "ro": [
             {
-                  "name": "Картинг писта Русе - Pist Kart Extreme",
+                  "name": "Pist Kart Extreme",
                   "text": "O pistă de karting lângă Mănăstirea Basarbovo pentru pasionații de sporturi cu motor.",
                   "category": "recreational",
                   "coords": [
@@ -483,7 +483,7 @@ export const bulgariaLandmarksV2: POI[] = [
     id: "bulgaria-vitosha-boyana-waterfall-landmarks-v2", "sights": {
       "de": [
             {
-                  "name": "Музей на мечката",
+                  "name": "Muzei na mechkata",
                   "text": "Ein Museum in der Nähe des Bojana-Wasserfalls, das Bären gewidmet ist.",
                   "category": "museum",
                   "coords": [
@@ -492,7 +492,7 @@ export const bulgariaLandmarksV2: POI[] = [
                   ]
             },
             {
-                  "name": "Камен дел",
+                  "name": "Kamen del",
                   "text": "Kamen Del ist ein beliebter Aussichtspunkt auf dem Witoscha-Berg.",
                   "category": "natural",
                   "coords": [
@@ -501,7 +501,7 @@ export const bulgariaLandmarksV2: POI[] = [
                   ]
             },
             {
-                  "name": "Златните мостове",
+                  "name": "Zlatnite mostove",
                   "text": "Die Goldenen Brücken sind ein berühmter Steinfluss im Witoscha-Gebirge.",
                   "category": "landmark",
                   "coords": [
@@ -528,7 +528,7 @@ export const bulgariaLandmarksV2: POI[] = [
                   ]
             },
             {
-                  "name": "КРТЦ Витоша - Копитото",
+                  "name": "KRTTs Vitosha - Kopitoto",
                   "text": "Ein bekannter Fernsehturm auf dem Gipfel Kopitoto im Witoscha-Gebirge.",
                   "category": "tower",
                   "coords": [
@@ -539,7 +539,7 @@ export const bulgariaLandmarksV2: POI[] = [
       ],
       "hu": [
             {
-                  "name": "Музей на мечката",
+                  "name": "Muzei na mechkata",
                   "text": "A Bojana-vízesés közelében található múzeum, amelyet a medvéknek szenteltek.",
                   "category": "museum",
                   "coords": [
@@ -548,7 +548,7 @@ export const bulgariaLandmarksV2: POI[] = [
                   ]
             },
             {
-                  "name": "Камен дел",
+                  "name": "Kamen del",
                   "text": "Kamen Del egy népszerű kilátóhely a Vitosa-hegyen.",
                   "category": "natural",
                   "coords": [
@@ -557,7 +557,7 @@ export const bulgariaLandmarksV2: POI[] = [
                   ]
             },
             {
-                  "name": "Златните мостове",
+                  "name": "Zlatnite mostove",
                   "text": "Az Aranyhidak egy híres kőfolyó a Vitosa-hegységben.",
                   "category": "landmark",
                   "coords": [
@@ -575,7 +575,7 @@ export const bulgariaLandmarksV2: POI[] = [
                   ]
             },
             {
-                  "name": "Боянска църква",
+                  "name": "Boianska ts'rkva",
                   "text": "Középkori templom Szófia közelében, amely az UNESCO Világörökség része.",
                   "category": "religious",
                   "coords": [
@@ -584,7 +584,7 @@ export const bulgariaLandmarksV2: POI[] = [
                   ]
             },
             {
-                  "name": "КРТЦ Витоша - Копитото",
+                  "name": "KRTTs Vitosha - Kopitoto",
                   "text": "Ismert tévétorony a Kopitoto-csúcson, a Vitosa-hegységben.",
                   "category": "tower",
                   "coords": [
@@ -595,7 +595,7 @@ export const bulgariaLandmarksV2: POI[] = [
       ],
       "ro": [
             {
-                  "name": "Музей на мечката",
+                  "name": "Muzei na mechkata",
                   "text": "Un muzeu lângă Cascada Boiana, dedicat urșilor.",
                   "category": "museum",
                   "coords": [
@@ -604,7 +604,7 @@ export const bulgariaLandmarksV2: POI[] = [
                   ]
             },
             {
-                  "name": "Камен дел",
+                  "name": "Kamen del",
                   "text": "Kamen Del este un punct de belvedere popular pe muntele Vitoșa.",
                   "category": "natural",
                   "coords": [
@@ -613,7 +613,7 @@ export const bulgariaLandmarksV2: POI[] = [
                   ]
             },
             {
-                  "name": "Златните мостове",
+                  "name": "Zlatnite mostove",
                   "text": "Podurile de Aur reprezintă un faimos râu de piatră în munții Vitoșa.",
                   "category": "landmark",
                   "coords": [
@@ -631,7 +631,7 @@ export const bulgariaLandmarksV2: POI[] = [
                   ]
             },
             {
-                  "name": "Боянска църква",
+                  "name": "Boianska ts'rkva",
                   "text": "O biserică medievală de lângă Sofia, inclusă în patrimoniul mondial UNESCO.",
                   "category": "religious",
                   "coords": [
@@ -640,7 +640,7 @@ export const bulgariaLandmarksV2: POI[] = [
                   ]
             },
             {
-                  "name": "КРТЦ Витоша - Копитото",
+                  "name": "KRTTs Vitosha - Kopitoto",
                   "text": "Un turn de televiziune cunoscut pe vârful Kopitoto din munții Vitoșa.",
                   "category": "tower",
                   "coords": [
@@ -1131,7 +1131,7 @@ export const bulgariaLandmarksV2: POI[] = [
                   ]
             },
             {
-                  "name": "Рилска Света Обител",
+                  "name": "Rilska Sveta Obitel",
                   "text": "Das Hauptmuseum des Klosters Rila mit wertvollen religiösen und historischen Exponaten.",
                   "category": "museum",
                   "coords": [
@@ -1142,7 +1142,7 @@ export const bulgariaLandmarksV2: POI[] = [
       ],
       "hu": [
             {
-                  "name": "Резерват Риломанастирска гора",
+                  "name": "Rezervat Rilomanastirska gora",
                   "text": "Védett erdőterület a Rila-hegységben, amely a híres kolostort veszi körül.",
                   "category": "natural",
                   "coords": [
@@ -1151,7 +1151,7 @@ export const bulgariaLandmarksV2: POI[] = [
                   ]
             },
             {
-                  "name": "Природен парк Рилски манастир",
+                  "name": "Priroden park Rilski manastir",
                   "text": "Bulgáriai nemzeti park, amely biológiai sokféleségéről és a Rila-kolostorról ismert.",
                   "category": "natural",
                   "coords": [
@@ -1160,7 +1160,7 @@ export const bulgariaLandmarksV2: POI[] = [
                   ]
             },
             {
-                  "name": "Рилска Света Обител",
+                  "name": "Rilska Sveta Obitel",
                   "text": "A Rila-kolostor főmúzeuma értékes vallási és történelmi kiállítási tárgyakkal.",
                   "category": "museum",
                   "coords": [
@@ -1171,7 +1171,7 @@ export const bulgariaLandmarksV2: POI[] = [
       ],
       "ro": [
             {
-                  "name": "Резерват Риломанастирска гора",
+                  "name": "Rezervat Rilomanastirska gora",
                   "text": "O zonă forestieră protejată din Munții Rila, care înconjoară faimoasa mănăstire.",
                   "category": "natural",
                   "coords": [
@@ -1180,7 +1180,7 @@ export const bulgariaLandmarksV2: POI[] = [
                   ]
             },
             {
-                  "name": "Природен парк Рилски манастир",
+                  "name": "Priroden park Rilski manastir",
                   "text": "Un parc natural din Bulgaria, cunoscut pentru biodiversitatea sa și Mănăstirea Rila.",
                   "category": "natural",
                   "coords": [
@@ -1189,7 +1189,7 @@ export const bulgariaLandmarksV2: POI[] = [
                   ]
             },
             {
-                  "name": "Рилска Света Обител",
+                  "name": "Rilska Sveta Obitel",
                   "text": "Principalul muzeu al Mănăstirii Rila, cu exponate religioase și istorice valoroase.",
                   "category": "museum",
                   "coords": [

@@ -6,7 +6,7 @@ export const bulgariaReliefV2: POI[] = [
     id: "bulgaria-central-stara-planina-ridge-relief-v2", "sights": {
       "de": [
             {
-                  "name": "Резерват Северен Джендем",
+                  "name": "Rezervat Severen Dzhendem",
                   "text": "Ein streng geschütztes Naturschutzgebiet im Zentralkamm des Balkangebirges.",
                   "category": "natural",
                   "coords": [
@@ -26,7 +26,7 @@ export const bulgariaReliefV2: POI[] = [
       ],
       "hu": [
             {
-                  "name": "Резерват Северен Джендем",
+                  "name": "Rezervat Severen Dzhendem",
                   "text": "Szigorúan védett természetvédelmi terület a Balkán-hegység középső részén.",
                   "category": "natural",
                   "coords": [
@@ -35,7 +35,7 @@ export const bulgariaReliefV2: POI[] = [
                   ]
             },
             {
-                  "name": "Ботев",
+                  "name": "Botev",
                   "text": "A Balkán-hegység legmagasabb csúcsa Bulgáriában, 2376 méteres magassággal.",
                   "category": "landmark",
                   "coords": [
@@ -46,7 +46,7 @@ export const bulgariaReliefV2: POI[] = [
       ],
       "ro": [
             {
-                  "name": "Резерват Северен Джендем",
+                  "name": "Rezervat Severen Dzhendem",
                   "text": "O rezervație naturală strict protejată în creasta centrală a munților Balcani.",
                   "category": "natural",
                   "coords": [
@@ -55,7 +55,7 @@ export const bulgariaReliefV2: POI[] = [
                   ]
             },
             {
-                  "name": "Ботев",
+                  "name": "Botev",
                   "text": "Cel mai înalt vârf din munții Balcani, Bulgaria, având o înălțime de 2376 de metri.",
                   "category": "landmark",
                   "coords": [
@@ -186,7 +186,7 @@ export const bulgariaReliefV2: POI[] = [
                   ]
             },
             {
-                  "name": "Кутело 2",
+                  "name": "Kutelo 2",
                   "text": "Ein markanter Berggipfel im bulgarischen Pirin-Gebirge.",
                   "category": "landmark",
                   "coords": [
@@ -195,7 +195,7 @@ export const bulgariaReliefV2: POI[] = [
                   ]
             },
             {
-                  "name": "Кутело",
+                  "name": "Kutelo",
                   "text": "Der zweithöchste Gipfel im Pirin-Gebirge.",
                   "category": "landmark",
                   "coords": [
@@ -204,7 +204,7 @@ export const bulgariaReliefV2: POI[] = [
                   ]
             },
             {
-                  "name": "Бански суходол",
+                  "name": "Banski sukhodol",
                   "text": "Ein Berggipfel im Pirin-Gebirge, bekannt für seine steilen Marmorhänge.",
                   "category": "landmark",
                   "coords": [
@@ -213,7 +213,7 @@ export const bulgariaReliefV2: POI[] = [
                   ]
             },
             {
-                  "name": "Байкушевата мура;Байкушева мура",
+                  "name": "Baikushevata mura;Baikusheva mura",
                   "text": "Einer der ältesten Bäume Bulgariens im Pirin-Gebirge.",
                   "category": "landmark",
                   "coords": [
@@ -233,7 +233,7 @@ export const bulgariaReliefV2: POI[] = [
                   ]
             },
             {
-                  "name": "Кутело 2",
+                  "name": "Kutelo 2",
                   "text": "Egy jellegzetes hegycsúcs a bulgáriai Pirin-hegységben.",
                   "category": "landmark",
                   "coords": [
@@ -242,7 +242,7 @@ export const bulgariaReliefV2: POI[] = [
                   ]
             },
             {
-                  "name": "Кутело",
+                  "name": "Kutelo",
                   "text": "A Pirin-hegység második legmagasabb csúcsa.",
                   "category": "landmark",
                   "coords": [
@@ -251,7 +251,7 @@ export const bulgariaReliefV2: POI[] = [
                   ]
             },
             {
-                  "name": "Бански суходол",
+                  "name": "Banski sukhodol",
                   "text": "Hegycsúcs a Pirin-hegységben, amely meredek márványoldalairól ismert.",
                   "category": "landmark",
                   "coords": [
@@ -260,7 +260,7 @@ export const bulgariaReliefV2: POI[] = [
                   ]
             },
             {
-                  "name": "Байкушевата мура;Байкушева мура",
+                  "name": "Baikushevata mura;Baikusheva mura",
                   "text": "Bulgária egyik legöregebb fája a Pirin-hegységben.",
                   "category": "landmark",
                   "coords": [
@@ -271,7 +271,7 @@ export const bulgariaReliefV2: POI[] = [
       ],
       "ro": [
             {
-                  "name": "Вихрен",
+                  "name": "Vikhren",
                   "text": "Cel mai înalt vârf din munții Pirin din Bulgaria.",
                   "category": "natural",
                   "coords": [
@@ -280,7 +280,7 @@ export const bulgariaReliefV2: POI[] = [
                   ]
             },
             {
-                  "name": "Кутело 2",
+                  "name": "Kutelo 2",
                   "text": "Un vârf montan proeminent în munții Pirin din Bulgaria.",
                   "category": "landmark",
                   "coords": [
@@ -289,7 +289,7 @@ export const bulgariaReliefV2: POI[] = [
                   ]
             },
             {
-                  "name": "Кутело",
+                  "name": "Kutelo",
                   "text": "Al doilea cel mai înalt vârf din munții Pirin.",
                   "category": "landmark",
                   "coords": [
@@ -298,7 +298,7 @@ export const bulgariaReliefV2: POI[] = [
                   ]
             },
             {
-                  "name": "Бански суходол",
+                  "name": "Banski sukhodol",
                   "text": "Un vârf în munții Pirin, cunoscut pentru versanții săi abrupți de marmură.",
                   "category": "landmark",
                   "coords": [
@@ -307,7 +307,7 @@ export const bulgariaReliefV2: POI[] = [
                   ]
             },
             {
-                  "name": "Байкушевата мура;Байкушева мура",
+                  "name": "Baikushevata mura;Baikusheva mura",
                   "text": "Unul dintre cei mai bătrâni copaci din Bulgaria, situat în munții Pirin.",
                   "category": "landmark",
                   "coords": [
@@ -501,7 +501,7 @@ export const bulgariaReliefV2: POI[] = [
     id: "bulgaria-belogradchik-rocks-relief-v2", "sights": {
       "de": [
             {
-                  "name": "Исторически музей Белоградчик",
+                  "name": "Istoricheski muzei Белоградчик",
                   "text": "Ein Museum, das die lokale Geschichte und archäologische Funde der Region Belowogradtschik zeigt.",
                   "category": "museum",
                   "coords": [
@@ -510,7 +510,7 @@ export const bulgariaReliefV2: POI[] = [
                   ]
             },
             {
-                  "name": "Белоградчишка крепост",
+                  "name": "Belogradchishka krepost",
                   "text": "Eine antike Festung, die in die spektakulären Felsen von Belowogradtschik integriert ist und ursprünglich zur Zeit des Römischen Reiches erbaut wurde.",
                   "category": "castle",
                   "coords": [
@@ -528,7 +528,7 @@ export const bulgariaReliefV2: POI[] = [
                   ]
             },
             {
-                  "name": "Богинята Майка",
+                  "name": "Boginiata Maika",
                   "text": "Eine natürliche Felsformation in den Felsen von Belowogradtschik, benannt nach ihrer Ähnlichkeit mit einer weiblichen Figur.",
                   "category": "natural",
                   "coords": [
@@ -539,7 +539,7 @@ export const bulgariaReliefV2: POI[] = [
       ],
       "hu": [
             {
-                  "name": "Исторически музей Белоградчик",
+                  "name": "Istoricheski muzei Белоградчик",
                   "text": "Múzeum, amely Belogradcsik régiójának helytörténetét és régészeti leleteit mutatja be.",
                   "category": "museum",
                   "coords": [
@@ -548,7 +548,7 @@ export const bulgariaReliefV2: POI[] = [
                   ]
             },
             {
-                  "name": "Белоградчишка крепост",
+                  "name": "Belogradchishka krepost",
                   "text": "A látványos belogradcsiki sziklák közé épült ősi erődítmény, amely eredetileg a Római Birodalom idején készült.",
                   "category": "castle",
                   "coords": [
@@ -566,7 +566,7 @@ export const bulgariaReliefV2: POI[] = [
                   ]
             },
             {
-                  "name": "Богинята Майка",
+                  "name": "Boginiata Maika",
                   "text": "Természetes sziklaalakzat a belogradcsiki sziklák között, amely női alakhoz való hasonlóságáról kapta nevét.",
                   "category": "natural",
                   "coords": [
@@ -577,7 +577,7 @@ export const bulgariaReliefV2: POI[] = [
       ],
       "ro": [
             {
-                  "name": "Исторически музей Белоградчик",
+                  "name": "Istoricheski muzei Белоградчик",
                   "text": "Un muzeu care prezintă istoria locală și descoperirile arheologice din regiunea Belogradcik.",
                   "category": "museum",
                   "coords": [
@@ -586,7 +586,7 @@ export const bulgariaReliefV2: POI[] = [
                   ]
             },
             {
-                  "name": "Белоградчишка крепост",
+                  "name": "Belogradchishka krepost",
                   "text": "O cetate antică integrată în spectaculoasele stânci Belogradcik, construită inițial în timpul Imperiului Roman.",
                   "category": "castle",
                   "coords": [
@@ -604,7 +604,7 @@ export const bulgariaReliefV2: POI[] = [
                   ]
             },
             {
-                  "name": "Богинята Майка",
+                  "name": "Boginiata Maika",
                   "text": "O formațiune stâncoasă naturală în cadrul stâncilor Belogradcik, numită astfel datorită asemănării sale cu o figură feminină.",
                   "category": "natural",
                   "coords": [
@@ -699,7 +699,7 @@ export const bulgariaReliefV2: POI[] = [
     id: "bulgaria-vitosa-mountain-relief-v2", "sights": {
       "de": [
             {
-                  "name": "Торфено бранище",
+                  "name": "Torfeno branishche",
                   "text": "Ein Naturschutzgebiet im Witoscha-Gebirge mit ausgedehnten Hochmooren.",
                   "category": "natural",
                   "coords": [
@@ -717,7 +717,7 @@ export const bulgariaReliefV2: POI[] = [
                   ]
             },
             {
-                  "name": "Голям Резен;TT16A",
+                  "name": "TT16A",
                   "text": "Einer der höchsten Gipfel im Witoscha-Massiv mit Blick auf Sofia.",
                   "category": "landmark",
                   "coords": [
@@ -726,7 +726,7 @@ export const bulgariaReliefV2: POI[] = [
                   ]
             },
             {
-                  "name": "Златните мостове",
+                  "name": "Zlatnite mostove",
                   "text": "Ein berühmter „Steinfluss“ aus großen Felsbrocken an den Hängen des Witoscha-Gebirges.",
                   "category": "landmark",
                   "coords": [
@@ -744,7 +744,7 @@ export const bulgariaReliefV2: POI[] = [
                   ]
             },
             {
-                  "name": "Острица",
+                  "name": "Ostritsa",
                   "text": "Ein Aussichtspunkt im Witoscha-Gebirge mit Blick auf die umliegende Natur.",
                   "category": "natural",
                   "coords": [
@@ -764,7 +764,7 @@ export const bulgariaReliefV2: POI[] = [
       ],
       "hu": [
             {
-                  "name": "Торфено бранище",
+                  "name": "Torfeno branishche",
                   "text": "Természetvédelmi terület a Vitosa-hegységben, kiterjedt tőzeglápokkal.",
                   "category": "natural",
                   "coords": [
@@ -773,7 +773,7 @@ export const bulgariaReliefV2: POI[] = [
                   ]
             },
             {
-                  "name": "Малък Резен",
+                  "name": "Mal'k Rezen",
                   "text": "A Vitosa-hegység egyik kiemelkedő csúcsa, amely 2191 méter magas.",
                   "category": "landmark",
                   "coords": [
@@ -782,7 +782,7 @@ export const bulgariaReliefV2: POI[] = [
                   ]
             },
             {
-                  "name": "Голям Резен;TT16A",
+                  "name": "TT16A",
                   "text": "A Vitosa-masszívum egyik legmagasabb csúcsa, ahonnan kilátás nyílik Szófiára.",
                   "category": "landmark",
                   "coords": [
@@ -791,7 +791,7 @@ export const bulgariaReliefV2: POI[] = [
                   ]
             },
             {
-                  "name": "Златните мостове",
+                  "name": "Zlatnite mostove",
                   "text": "Híres „kőfolyó” hatalmas sziklatömbökből a Vitosa-hegység lejtőin.",
                   "category": "landmark",
                   "coords": [
@@ -800,7 +800,7 @@ export const bulgariaReliefV2: POI[] = [
                   ]
             },
             {
-                  "name": "Черни връх",
+                  "name": "Cherni vr'kh",
                   "text": "A Vitosa-masszívum legmagasabb pontja, amely 2290 méter magas.",
                   "category": "landmark",
                   "coords": [
@@ -809,7 +809,7 @@ export const bulgariaReliefV2: POI[] = [
                   ]
             },
             {
-                  "name": "Острица",
+                  "name": "Ostritsa",
                   "text": "Kilátóhely a Vitosa-hegységben, ahonnan rálátni a környező természetre.",
                   "category": "natural",
                   "coords": [
@@ -829,7 +829,7 @@ export const bulgariaReliefV2: POI[] = [
       ],
       "ro": [
             {
-                  "name": "Торфено бранище",
+                  "name": "Torfeno branishche",
                   "text": "O rezervație naturală în muntele Vitoșa, cu turbării întinse la mare altitudine.",
                   "category": "natural",
                   "coords": [
@@ -838,7 +838,7 @@ export const bulgariaReliefV2: POI[] = [
                   ]
             },
             {
-                  "name": "Малък Резен",
+                  "name": "Mal'k Rezen",
                   "text": "Un vârf montan proeminent din masivul Vitoșa, atingând 2.191 de metri.",
                   "category": "landmark",
                   "coords": [
@@ -847,7 +847,7 @@ export const bulgariaReliefV2: POI[] = [
                   ]
             },
             {
-                  "name": "Голям Резен;TT16A",
+                  "name": "TT16A",
                   "text": "Unul dintre cele mai înalte vârfuri din masivul Vitoșa, oferind vederi asupra Sofiei.",
                   "category": "landmark",
                   "coords": [
@@ -856,7 +856,7 @@ export const bulgariaReliefV2: POI[] = [
                   ]
             },
             {
-                  "name": "Златните мостове",
+                  "name": "Zlatnite mostove",
                   "text": "Un faimos „râu de piatră” format din bolovani mari pe pantele muntelui Vitoșa.",
                   "category": "landmark",
                   "coords": [
@@ -865,7 +865,7 @@ export const bulgariaReliefV2: POI[] = [
                   ]
             },
             {
-                  "name": "Черни връх",
+                  "name": "Cherni vr'kh",
                   "text": "Cel mai înalt vârf din masivul Vitoșa, având o înălțime de 2.290 de metri.",
                   "category": "landmark",
                   "coords": [
@@ -874,7 +874,7 @@ export const bulgariaReliefV2: POI[] = [
                   ]
             },
             {
-                  "name": "Острица",
+                  "name": "Ostritsa",
                   "text": "Un punct de belvedere în munții Vitoșa care oferă vederi asupra naturii înconjurătoare.",
                   "category": "natural",
                   "coords": [
@@ -1151,7 +1151,7 @@ export const bulgariaReliefV2: POI[] = [
       ],
       "hu": [
             {
-                  "name": "Руен",
+                  "name": "Ruen",
                   "text": "Az Oszogovo-hegység legmagasabb csúcsa Bulgária és Észak-Macedónia határán.",
                   "category": "landmark",
                   "coords": [
@@ -1162,7 +1162,7 @@ export const bulgariaReliefV2: POI[] = [
       ],
       "ro": [
             {
-                  "name": "Руен",
+                  "name": "Ruen",
                   "text": "Cel mai înalt vârf din munții Osogovo, la granița dintre Bulgaria și Macedonia de Nord.",
                   "category": "landmark",
                   "coords": [
@@ -1509,7 +1509,7 @@ export const bulgariaReliefV2: POI[] = [
                   ]
             },
             {
-                  "name": "Възела",
+                  "name": "V'zela",
                   "text": "Ein markanter Berggipfel in der Granitzone des Pirin-Gebirges.",
                   "category": "landmark",
                   "coords": [
@@ -1518,7 +1518,7 @@ export const bulgariaReliefV2: POI[] = [
                   ]
             },
             {
-                  "name": "Кутело 2",
+                  "name": "Kutelo 2",
                   "text": "Der zweithöchste Gipfel des Kutelo-Massivs im Pirin-Nationalpark.",
                   "category": "landmark",
                   "coords": [
@@ -1527,7 +1527,7 @@ export const bulgariaReliefV2: POI[] = [
                   ]
             },
             {
-                  "name": "Кутело",
+                  "name": "Kutelo",
                   "text": "Ein bedeutender Marmorgipfel im Pirin-Gebirge, bekannt für seine steilen Hänge.",
                   "category": "landmark",
                   "coords": [
@@ -1536,7 +1536,7 @@ export const bulgariaReliefV2: POI[] = [
                   ]
             },
             {
-                  "name": "Байкушевата мура;Байкушева мура",
+                  "name": "Baikushevata mura;Baikusheva mura",
                   "text": "Eine etwa 1300 Jahre alte Panzerkiefer, einer der ältesten Bäume Bulgariens.",
                   "category": "landmark",
                   "coords": [
@@ -1556,7 +1556,7 @@ export const bulgariaReliefV2: POI[] = [
                   ]
             },
             {
-                  "name": "Възела",
+                  "name": "V'zela",
                   "text": "Jellegzetes hegycsúcs a Pirin-hegység gránitövezetében.",
                   "category": "landmark",
                   "coords": [
@@ -1565,7 +1565,7 @@ export const bulgariaReliefV2: POI[] = [
                   ]
             },
             {
-                  "name": "Кутело 2",
+                  "name": "Kutelo 2",
                   "text": "A Kutelo-masszívum második legmagasabb csúcsa a Pirin Nemzeti Parkban.",
                   "category": "landmark",
                   "coords": [
@@ -1574,7 +1574,7 @@ export const bulgariaReliefV2: POI[] = [
                   ]
             },
             {
-                  "name": "Кутело",
+                  "name": "Kutelo",
                   "text": "A Pirin-hegység egyik jelentős márványcsúcsa, meredek lejtőiről ismert.",
                   "category": "landmark",
                   "coords": [
@@ -1583,7 +1583,7 @@ export const bulgariaReliefV2: POI[] = [
                   ]
             },
             {
-                  "name": "Байкушевата мура;Байкушева мура",
+                  "name": "Baikushevata mura;Baikusheva mura",
                   "text": "Körülbelül 1300 éves páncélfenyő, Bulgária egyik legöregebb fája.",
                   "category": "landmark",
                   "coords": [
@@ -1594,7 +1594,7 @@ export const bulgariaReliefV2: POI[] = [
       ],
       "ro": [
             {
-                  "name": "Вихрен",
+                  "name": "Vikhren",
                   "text": "Cel mai înalt vârf din munții Pirin, Bulgaria, având o înălțime de 2914 metri.",
                   "category": "natural",
                   "coords": [
@@ -1603,7 +1603,7 @@ export const bulgariaReliefV2: POI[] = [
                   ]
             },
             {
-                  "name": "Възела",
+                  "name": "V'zela",
                   "text": "Un vârf muntos proeminent în zona de granit a munților Pirin.",
                   "category": "landmark",
                   "coords": [
@@ -1612,7 +1612,7 @@ export const bulgariaReliefV2: POI[] = [
                   ]
             },
             {
-                  "name": "Кутело 2",
+                  "name": "Kutelo 2",
                   "text": "Al doilea cel mai înalt vârf al masivului Kutelo din Parcul Național Pirin.",
                   "category": "landmark",
                   "coords": [
@@ -1621,7 +1621,7 @@ export const bulgariaReliefV2: POI[] = [
                   ]
             },
             {
-                  "name": "Кутело",
+                  "name": "Kutelo",
                   "text": "Un vârf important de marmură din munții Pirin, cunoscut pentru pantele sale abrupte.",
                   "category": "landmark",
                   "coords": [
@@ -1630,7 +1630,7 @@ export const bulgariaReliefV2: POI[] = [
                   ]
             },
             {
-                  "name": "Байкушевата мура;Байкушева мура",
+                  "name": "Baikushevata mura;Baikusheva mura",
                   "text": "Un pin de aproximativ 1300 de ani, unul dintre cei mai bătrâni arbori din Bulgaria.",
                   "category": "landmark",
                   "coords": [
@@ -1878,7 +1878,7 @@ export const bulgariaReliefV2: POI[] = [
                   ]
             },
             {
-                  "name": "Никополис ад Нестум",
+                  "name": "Nikopolis ad Nestum",
                   "text": "Die Ruinen einer bedeutenden antiken römischen Stadt im Tal des Flusses Mesta.",
                   "category": "museum",
                   "coords": [
@@ -1898,7 +1898,7 @@ export const bulgariaReliefV2: POI[] = [
                   ]
             },
             {
-                  "name": "Никополис ад Нестум",
+                  "name": "Nikopolis ad Nestum",
                   "text": "Egy jelentős ókori római város romjai a Mesta-folyó völgyében.",
                   "category": "museum",
                   "coords": [
@@ -1918,7 +1918,7 @@ export const bulgariaReliefV2: POI[] = [
                   ]
             },
             {
-                  "name": "Никополис ад Нестум",
+                  "name": "Nikopolis ad Nestum",
                   "text": "Ruinele unui important oraș roman antic situat în valea râului Mesta.",
                   "category": "museum",
                   "coords": [
@@ -2085,7 +2085,7 @@ export const bulgariaReliefV2: POI[] = [
     id: "bulgaria-rhodope-plateau-relief-v2", "sights": {
       "de": [
             {
-                  "name": "Ελατιάς",
+                  "name": "Elatias",
                   "text": "Überreste einer historischen Siedlung auf dem Rhodopen-Plateau.",
                   "category": "historical",
                   "coords": [
@@ -2094,7 +2094,7 @@ export const bulgariaReliefV2: POI[] = [
                   ]
             },
             {
-                  "name": "Εβρενές",
+                  "name": "Ebrenes",
                   "text": "Historische Ruinen in der Region des Rhodopen-Plateaus.",
                   "category": "historical",
                   "coords": [
@@ -2105,7 +2105,7 @@ export const bulgariaReliefV2: POI[] = [
       ],
       "hu": [
             {
-                  "name": "Ελατιάς",
+                  "name": "Elatias",
                   "text": "Történelmi település maradványai a Rodope-fennsíkon.",
                   "category": "historical",
                   "coords": [
@@ -2114,7 +2114,7 @@ export const bulgariaReliefV2: POI[] = [
                   ]
             },
             {
-                  "name": "Εβρενές",
+                  "name": "Ebrenes",
                   "text": "Történelmi romok a Rodope-fennsík régiójában.",
                   "category": "historical",
                   "coords": [
@@ -2125,7 +2125,7 @@ export const bulgariaReliefV2: POI[] = [
       ],
       "ro": [
             {
-                  "name": "Ελατιάς",
+                  "name": "Elatias",
                   "text": "Rămășițele unei așezări istorice pe platoul Rodopi.",
                   "category": "historical",
                   "coords": [
@@ -2134,7 +2134,7 @@ export const bulgariaReliefV2: POI[] = [
                   ]
             },
             {
-                  "name": "Εβρενές",
+                  "name": "Ebrenes",
                   "text": "Ruine istorice în regiunea platoului Rodopi.",
                   "category": "historical",
                   "coords": [
@@ -2760,7 +2760,7 @@ export const bulgariaReliefV2: POI[] = [
     id: "bulgaria-pirin-valleys-relief-v2", "sights": {
       "de": [
             {
-                  "name": "Полежан",
+                  "name": "Polezhan",
                   "text": "Einer der höchsten Granitgipfel im Pirin-Gebirge in Bulgarien.",
                   "category": "landmark",
                   "coords": [
@@ -2771,7 +2771,7 @@ export const bulgariaReliefV2: POI[] = [
       ],
       "hu": [
             {
-                  "name": "Полежан",
+                  "name": "Polezhan",
                   "text": "Bulgária Pirin-hegységének egyik legmagasabb gránitcsúcsa.",
                   "category": "landmark",
                   "coords": [
@@ -2782,7 +2782,7 @@ export const bulgariaReliefV2: POI[] = [
       ],
       "ro": [
             {
-                  "name": "Полежан",
+                  "name": "Polezhan",
                   "text": "Unul dintre cele mai înalte vârfuri de granit din Munții Pirin din Bulgaria.",
                   "category": "landmark",
                   "coords": [
@@ -2895,7 +2895,7 @@ export const bulgariaReliefV2: POI[] = [
     id: "bulgaria-rhodope-ridge-relief-v2", "sights": {
       "de": [
             {
-                  "name": "Риболов на шаран",
+                  "name": "Ribolov na sharan",
                   "text": "Eine touristische Attraktion für Angler im Rhodopen-Gebirge.",
                   "category": "landmark",
                   "coords": [
@@ -2906,7 +2906,7 @@ export const bulgariaReliefV2: POI[] = [
       ],
       "hu": [
             {
-                  "name": "Риболов на шаран",
+                  "name": "Ribolov na sharan",
                   "text": "Horgászattal kapcsolatos turisztikai látnivaló a Rodope-hegységben.",
                   "category": "landmark",
                   "coords": [
@@ -2917,7 +2917,7 @@ export const bulgariaReliefV2: POI[] = [
       ],
       "ro": [
             {
-                  "name": "Риболов на шаран",
+                  "name": "Ribolov na sharan",
                   "text": "O atracție turistică legată de pescuit în Munții Rodopi.",
                   "category": "landmark",
                   "coords": [
@@ -2985,7 +2985,7 @@ export const bulgariaReliefV2: POI[] = [
     id: "bulgaria-balkan-valleys-relief-v2", "sights": {
       "de": [
             {
-                  "name": "Зелениковски манастир \"Св. Йоан Кръстител\"",
+                  "name": "Zelenikovski manastir \"Sv. Ioan Kr'stitel\"",
                   "text": "Abgelegenes orthodoxes Kloster in den Balkangebirgen.",
                   "category": "religious",
                   "coords": [
@@ -2996,7 +2996,7 @@ export const bulgariaReliefV2: POI[] = [
       ],
       "hu": [
             {
-                  "name": "Зелениковски манастир \"Св. Йоан Кръстител\"",
+                  "name": "Zelenikovski manastir \"Sv. Ioan Kr'stitel\"",
                   "text": "Távoli ortodox kolostor a Balkán-hegységben.",
                   "category": "religious",
                   "coords": [
@@ -3007,7 +3007,7 @@ export const bulgariaReliefV2: POI[] = [
       ],
       "ro": [
             {
-                  "name": "Зелениковски манастир \"Св. Йоан Кръстител\"",
+                  "name": "Zelenikovski manastir \"Sv. Ioan Kr'stitel\"",
                   "text": "Mănăstire ortodoxă izolată situată în Munții Balcani.",
                   "category": "religious",
                   "coords": [
@@ -3120,7 +3120,7 @@ export const bulgariaReliefV2: POI[] = [
     id: "bulgaria-rodope-gorge-relief-v2", "sights": {
       "de": [
             {
-                  "name": "Κάτω Μανδριά",
+                  "name": "Kato Mandria",
                   "text": "Kato Mandria enthält die Ruinen einer ehemaligen Siedlung in den malerischen Rhodopen-Schluchten.",
                   "category": "historical",
                   "coords": [
@@ -3129,7 +3129,7 @@ export const bulgariaReliefV2: POI[] = [
                   ]
             },
             {
-                  "name": "Άνω Μανδριά",
+                  "name": "Ano Mandria",
                   "text": "Ano Mandria weist historische Ruinen eines Bergdorfes in der Region der Rhodopen-Schluchten auf.",
                   "category": "historical",
                   "coords": [
@@ -3138,7 +3138,7 @@ export const bulgariaReliefV2: POI[] = [
                   ]
             },
             {
-                  "name": "Θερμιά",
+                  "name": "Thermia",
                   "text": "Thermia, auch bekannt als Ladzha, ist eine Stätte mit antiken Ruinen in der Nähe der Thermalquellen der Rhodopen-Schluchten.",
                   "category": "historical",
                   "coords": [
@@ -3149,7 +3149,7 @@ export const bulgariaReliefV2: POI[] = [
       ],
       "hu": [
             {
-                  "name": "Κάτω Μανδριά",
+                  "name": "Kato Mandria",
                   "text": "Kato Mandria egy egykori település romjait őrzi a festői Rodope-szurdokokban.",
                   "category": "historical",
                   "coords": [
@@ -3158,7 +3158,7 @@ export const bulgariaReliefV2: POI[] = [
                   ]
             },
             {
-                  "name": "Άνω Μανδριά",
+                  "name": "Ano Mandria",
                   "text": "Ano Mandria egy hegyi falu történelmi romjait mutatja be a Rodope-szurdokok régiójában.",
                   "category": "historical",
                   "coords": [
@@ -3167,7 +3167,7 @@ export const bulgariaReliefV2: POI[] = [
                   ]
             },
             {
-                  "name": "Θερμιά",
+                  "name": "Thermia",
                   "text": "Thermia, más néven Ladzha, egy ókori romokat tartalmazó helyszín a Rodope-szurdokok termálforrásai közelében.",
                   "category": "historical",
                   "coords": [
@@ -3178,7 +3178,7 @@ export const bulgariaReliefV2: POI[] = [
       ],
       "ro": [
             {
-                  "name": "Κάτω Μανδριά",
+                  "name": "Kato Mandria",
                   "text": "Kato Mandria conține ruinele unei foste așezări situate în pitoreștile Chei ale Rodopilor.",
                   "category": "historical",
                   "coords": [
@@ -3187,7 +3187,7 @@ export const bulgariaReliefV2: POI[] = [
                   ]
             },
             {
-                  "name": "Άνω Μανδριά",
+                  "name": "Ano Mandria",
                   "text": "Ano Mandria prezintă ruine istorice ale unui sat de munte situat în regiunea Cheilor Rodopilor.",
                   "category": "historical",
                   "coords": [
@@ -3196,7 +3196,7 @@ export const bulgariaReliefV2: POI[] = [
                   ]
             },
             {
-                  "name": "Θερμιά",
+                  "name": "Thermia",
                   "text": "Thermia, cunoscută și sub numele de Ladzha, este un sit cu ruine antice lângă izvoarele termale din Cheile Rodopilor.",
                   "category": "historical",
                   "coords": [
@@ -3282,7 +3282,7 @@ export const bulgariaReliefV2: POI[] = [
     id: "bulgaria-stara-planina-ridge-relief-v2", "sights": {
       "de": [
             {
-                  "name": "Резерват Боатин",
+                  "name": "Rezervat Boatin",
                   "text": "Ein Naturschutzgebiet im Balkangebirge (Stara Planina).",
                   "category": "natural",
                   "coords": [
@@ -3291,7 +3291,7 @@ export const bulgariaReliefV2: POI[] = [
                   ]
             },
             {
-                  "name": "Тетевенска Баба",
+                  "name": "Tetevenska Baba",
                   "text": "Ein markanter Berggipfel im Balkangebirge.",
                   "category": "landmark",
                   "coords": [
@@ -3302,7 +3302,7 @@ export const bulgariaReliefV2: POI[] = [
       ],
       "hu": [
             {
-                  "name": "Резерват Боатин",
+                  "name": "Rezervat Boatin",
                   "text": "Természetvédelmi terület a Balkán-hegységben.",
                   "category": "natural",
                   "coords": [
@@ -3311,7 +3311,7 @@ export const bulgariaReliefV2: POI[] = [
                   ]
             },
             {
-                  "name": "Тетевенска Баба",
+                  "name": "Tetevenska Baba",
                   "text": "Egy jellegzetes hegycsúcs a Balkán-hegységben.",
                   "category": "landmark",
                   "coords": [
@@ -3322,7 +3322,7 @@ export const bulgariaReliefV2: POI[] = [
       ],
       "ro": [
             {
-                  "name": "Резерват Боатин",
+                  "name": "Rezervat Boatin",
                   "text": "O rezervație naturală în munții Stara Planina.",
                   "category": "natural",
                   "coords": [
@@ -3331,7 +3331,7 @@ export const bulgariaReliefV2: POI[] = [
                   ]
             },
             {
-                  "name": "Тетевенска Баба",
+                  "name": "Tetevenska Baba",
                   "text": "Un vârf montan proeminent în munții Stara Planina.",
                   "category": "landmark",
                   "coords": [
@@ -3428,7 +3428,7 @@ export const bulgariaReliefV2: POI[] = [
       ],
       "hu": [
             {
-                  "name": "Осоговски Манастир",
+                  "name": "Osogovski Manastir",
                   "text": "Jelentős ortodox kolostorkomplexum az Oszogovo-hegységben, amelyet Szent Joakimnak szenteltek.",
                   "category": "landmark",
                   "coords": [
@@ -3448,7 +3448,7 @@ export const bulgariaReliefV2: POI[] = [
       ],
       "ro": [
             {
-                  "name": "Осоговски Манастир",
+                  "name": "Osogovski Manastir",
                   "text": "Un complex mănăstiresc ortodox semnificativ situat în Munții Osogovo, dedicat Sfântului Ioachim.",
                   "category": "landmark",
                   "coords": [
@@ -3579,7 +3579,7 @@ export const bulgariaReliefV2: POI[] = [
     id: "bulgaria-balkan-plateau-high-relief-v2", "sights": {
       "de": [
             {
-                  "name": "водопад Коман",
+                  "name": "vodopad Koman",
                   "text": "Der Koman-Wasserfall ist eine beeindruckende Natursehenswürdigkeit auf der Balkan-Hochebene.",
                   "category": "landmark",
                   "coords": [
@@ -3590,7 +3590,7 @@ export const bulgariaReliefV2: POI[] = [
       ],
       "hu": [
             {
-                  "name": "водопад Коман",
+                  "name": "vodopad Koman",
                   "text": "A Komán-vízesés egy lenyűgöző természeti látványosság a Balkán-fennsíkon.",
                   "category": "landmark",
                   "coords": [
@@ -3601,7 +3601,7 @@ export const bulgariaReliefV2: POI[] = [
       ],
       "ro": [
             {
-                  "name": "водопад Коман",
+                  "name": "vodopad Koman",
                   "text": "Cascada Koman este o atracție naturală impresionantă situată pe platoul înalt al Balkanului.",
                   "category": "landmark",
                   "coords": [

@@ -143,6 +143,9 @@ header .langs{display:flex;gap:.25rem}
 .mapcard .mc-desc{font-size:.76rem;color:#cfe0ff;line-height:1.4;margin:0 0 9px;display:none}
 .mapcard .mc-desc.show{display:block}
 .mapcard .mc-more{display:inline-block;background:linear-gradient(135deg,#3b82f6,#2563eb);color:#fff;text-decoration:none;font-weight:700;font-size:.78rem;padding:.42rem .75rem;border-radius:8px}
+.mapcard .mc-sv{align-items:center;justify-content:center;width:28px;height:28px;margin-left:7px;vertical-align:-8px;border-radius:50%;background:#fbbc04;color:#fff;box-shadow:0 1px 3px rgba(0,0,0,.4)}
+.mapcard .mc-sv:hover{background:#f9ab00}
+.mapcard .mc-sv svg{display:block}
 .mapcard .mc-x{position:absolute;top:5px;right:5px;width:24px;height:24px;border-radius:50%;background:rgba(0,0,0,.5);border:none;color:#fff;font-size:.95rem;cursor:pointer;z-index:2;display:flex;align-items:center;justify-content:center;line-height:1;padding:0}
 .burst{position:fixed;inset:0;z-index:15;pointer-events:none;display:none}
 .burst.open{display:block}
@@ -201,6 +204,7 @@ header .langs{display:flex;gap:.25rem}
     <div class="mc-name" id="mcName"></div>
     <p class="mc-desc" id="mcDesc"></p>
     <a class="mc-more" id="mcMore" href="#">Mehr erfahren →</a>
+    <a class="mc-sv" id="mcSv" href="#" target="_blank" rel="nofollow noopener" title="Street View" aria-label="Street View" style="display:none"><svg viewBox="0 0 24 24" width="14" height="14" fill="currentColor" aria-hidden="true"><circle cx="12" cy="6" r="3.1"/><path d="M12 9.8c-2 0-3.4 1.1-3.4 2.6v3l1.5.6.5 5h2.8l.5-5 1.5-.6v-3c0-1.5-1.4-2.6-3.4-2.6z"/></svg></a>
   </div>
 </div>
 <div class="burst" id="burst"><svg class="burst-svg" id="burstSvg"></svg><div class="burst-dots" id="burstDots"></div></div>
@@ -209,7 +213,7 @@ const LANG="de",W=1120,H=730.8;
 try{localStorage.setItem('plizio_language',LANG)}catch(e){}
 const CLUSTERS=[];
 const SEARCH_EXTRA=[];
-const POI_CARD={"solta-grohote":{"i":"/poi-images/solta-grohote.webp","s":"Grohote ist der älteste und größte Ort auf der Insel Šolta, ein administratives Zentrum mit charmanten Steinhäusern und einer reichen landwirtschaftlichen Tradition.","f":["Ältester Ort der Insel","Zentrum der Gemeinde Šolta"]},"croatia-stomorska-cities-v2":{"i":"/poi-images/croatia-stomorska-cities-v2.webp","s":"Der älteste Hafenort auf der Insel Šolta, berühmt für seine Flotte historischer Segelschiffe, erstklassige Gastronomie und mediterranen Charme.","f":["Ältester Ort auf Šolta","Flotte historischer Segelschiffe"]},"croatia-necujam-cities-v2":{"i":"/poi-images/croatia-necujam-cities-v2.webp","s":"Der größte Ort in einer tiefen Bucht auf der Insel Šolta, ein Paradies für Segler und Ruhesuchende.","f":["Größte Bucht Šoltas","Römisches Fischbecken"]},"croatia-gornje-selo-cities-v2":{"i":"/poi-images/croatia-gornje-selo-cities-v2.webp","s":"Gornje Selo ist ein authentisches Dorf auf der Insel Šolta, berühmt für seine reiche Tradition in der Olivenöl- und Honigproduktion.","f":["Insel Šolta","Blick auf Brač und Hvar"]},"croatia-maslinica-cities-v2":{"i":"/poi-images/croatia-maslinica-cities-v2.webp","s":"Ein malerisches Fischerdorf auf der Insel Šolta, bekannt für sein Barockschloss und die Sonnenuntergänge.","f":["Insel Šolta","Barockschloss"]},"croatia-donje-selo-cities-v2":{"i":"/poi-images/croatia-donje-selo-cities-v2.webp","s":"Ein zeitloses Dorf auf der Insel Šolta, berühmt für seine alten Olivenhaine und Steinhäuser.","f":["Insel Šolta Lage","Älteste Siedlung"]},"croatia-rogac-cities-v2":{"i":"/poi-images/croatia-rogac-cities-v2.webp","s":"Der charmante Haupthafen der Insel Šolta, ideal für Segler und Ruhesuchende mit kristallklarem Wasser.","f":["Fährhafen nach Split","Insel Šolta"]},"croatia-srednje-selo-cities-v2":{"i":"/poi-images/croatia-srednje-selo-cities-v2.webp","s":"Ein idyllisches Dorf auf der Insel Šolta, berühmt für seine alten Steinhäuser und weiten Olivenhaine.","f":["Insel Šolta, zentral","Ländliche Steinarchitektur"]}};
+const POI_CARD={"solta-grohote":{"i":"/poi-images/solta-grohote.webp","s":"Grohote ist der älteste und größte Ort auf der Insel Šolta, ein administratives Zentrum mit charmanten Steinhäusern und einer reichen landwirtschaftlichen Tradition.","f":["Ältester Ort der Insel","Zentrum der Gemeinde Šolta"],"v":"66G69C23aImDXfdz_pjpQQ@43.3833,16.2944"},"croatia-stomorska-cities-v2":{"i":"/poi-images/croatia-stomorska-cities-v2.webp","s":"Der älteste Hafenort auf der Insel Šolta, berühmt für seine Flotte historischer Segelschiffe, erstklassige Gastronomie und mediterranen Charme.","f":["Ältester Ort auf Šolta","Flotte historischer Segelschiffe"],"v":"43.3695,16.3529"},"croatia-necujam-cities-v2":{"i":"/poi-images/croatia-necujam-cities-v2.webp","s":"Der größte Ort in einer tiefen Bucht auf der Insel Šolta, ein Paradies für Segler und Ruhesuchende.","f":["Größte Bucht Šoltas","Römisches Fischbecken"],"v":"43.3839,16.3246"},"croatia-gornje-selo-cities-v2":{"i":"/poi-images/croatia-gornje-selo-cities-v2.webp","s":"Gornje Selo ist ein authentisches Dorf auf der Insel Šolta, berühmt für seine reiche Tradition in der Olivenöl- und Honigproduktion.","f":["Insel Šolta","Blick auf Brač und Hvar"],"v":"43.3531,16.3413"},"croatia-maslinica-cities-v2":{"i":"/poi-images/croatia-maslinica-cities-v2.webp","s":"Ein malerisches Fischerdorf auf der Insel Šolta, bekannt für sein Barockschloss und die Sonnenuntergänge.","f":["Insel Šolta","Barockschloss"],"v":"43.3990,16.2080"},"croatia-donje-selo-cities-v2":{"i":"/poi-images/croatia-donje-selo-cities-v2.webp","s":"Ein zeitloses Dorf auf der Insel Šolta, berühmt für seine alten Olivenhaine und Steinhäuser.","f":["Insel Šolta Lage","Älteste Siedlung"],"v":"43.3997,16.2608"},"croatia-rogac-cities-v2":{"i":"/poi-images/croatia-rogac-cities-v2.webp","s":"Der charmante Haupthafen der Insel Šolta, ideal für Segler und Ruhesuchende mit kristallklarem Wasser.","f":["Fährhafen nach Split","Insel Šolta"],"v":"43.3957,16.2979"},"croatia-srednje-selo-cities-v2":{"i":"/poi-images/croatia-srednje-selo-cities-v2.webp","s":"Ein idyllisches Dorf auf der Insel Šolta, berühmt für seine alten Steinhäuser und weiten Olivenhaine.","f":["Insel Šolta, zentral","Ländliche Steinarchitektur"],"v":"43.3973,16.2755"}};
 const svg=document.getElementById('svg'),stage=document.getElementById('stage');
 const gR=document.getElementById('gR'),gL=document.getElementById('gL'),gP=document.getElementById('gP'),gC=document.getElementById('gC');
 const EXPAND_SCALE=3.5;
@@ -268,6 +272,8 @@ function fillCard(d){
   if(c.i){img.style.backgroundImage='url("'+c.i.replace(/"/g,'\"')+'")';img.classList.add('has')}else{img.classList.remove('has');img.style.backgroundImage=''}
   const ds=mapcard.querySelector('.mc-desc');
   if(c.s){ds.textContent=c.s;ds.classList.add('show')}else{ds.textContent='';ds.classList.remove('show')}
+  const sv=document.getElementById('mcSv');
+  if(c.v){var vAt=c.v.indexOf('@');sv.href='https://www.google.com/maps/@?api=1&map_action=pano&'+(vAt>0?'pano='+c.v.slice(0,vAt)+'&viewpoint='+c.v.slice(vAt+1):'viewpoint='+c.v);sv.style.display='inline-flex'}else{sv.style.display='none'}
 }
 function openPopup(el){
   closePopup();

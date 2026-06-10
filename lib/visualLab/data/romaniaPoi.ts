@@ -48115,7 +48115,7 @@ export const romaniaExtraPois: POI[] = [
                   ]
             },
             {
-                  "name": "Сипска плажа",
+                  "name": "Sipska plazha",
                   "text": "Ein Strandabschnitt an der Donau im Bereich des Eisernen Tors.",
                   "category": "recreational",
                   "coords": [
@@ -48144,7 +48144,7 @@ export const romaniaExtraPois: POI[] = [
       ],
       "hu": [
             {
-                  "name": "Каструм Дијана",
+                  "name": "Kastrum Dijana",
                   "text": "Egy jelentős római kori erődítmény a Duna partján, a Vaskapu közelében.",
                   "category": "historical",
                   "coords": [
@@ -48162,7 +48162,7 @@ export const romaniaExtraPois: POI[] = [
                   ]
             },
             {
-                  "name": "Сипска плажа",
+                  "name": "Sipska plazha",
                   "text": "Duna-parti strandterület a Vaskapu térségében.",
                   "category": "recreational",
                   "coords": [
@@ -48191,7 +48191,7 @@ export const romaniaExtraPois: POI[] = [
       ],
       "ro": [
             {
-                  "name": "Каструм Дијана",
+                  "name": "Kastrum Dijana",
                   "text": "Un sit arheologic important reprezentând o cetate romană la Dunăre, lângă Porțile de Fier.",
                   "category": "historical",
                   "coords": [
@@ -48209,7 +48209,7 @@ export const romaniaExtraPois: POI[] = [
                   ]
             },
             {
-                  "name": "Сипска плажа",
+                  "name": "Sipska plazha",
                   "text": "O zonă de plajă pe malul Dunării în regiunea Porților de Fier.",
                   "category": "recreational",
                   "coords": [

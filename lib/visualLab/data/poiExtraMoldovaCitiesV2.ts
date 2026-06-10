@@ -557,7 +557,7 @@ export const moldovaCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Мемориал революционной, боевой и трудовой славы железнодорожников",
+                  "name": "Memorial revoliutsionnoi, boevoi i trudovoi slavy zheleznodorozhnikov",
                   "text": "Denkmal der Eisenbahner, eine Gedenkstätte und Parkanlage zur Eisenbahngeschichte der Stadt.",
                   "category": "park",
                   "coords": [
@@ -604,7 +604,7 @@ export const moldovaCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Цитадель Бендерской крепости",
+                  "name": "Tsitadel' Benderskoi kreposti",
                   "text": "Tighina erőd, egy hatalmas, 16. századi oszmán erőd a Dnyeszter partján.",
                   "category": "castle",
                   "coords": [
@@ -613,7 +613,7 @@ export const moldovaCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Бендерская крепость",
+                  "name": "Benderskaia krepost'",
                   "text": "Bender erőd, lenyűgöző középkori erődítményrendszer Bender városában.",
                   "category": "castle",
                   "coords": [
@@ -622,7 +622,7 @@ export const moldovaCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Этнографический музей «Культура и быт болгар»",
+                  "name": "Etnograficheskii muzei <<Kul'tura i byt bolgar>>",
                   "text": "Néprajzi Múzeum Benderben, amely a bolgár kisebbség kultúráját és történetét mutatja be.",
                   "category": "museum",
                   "coords": [
@@ -631,7 +631,7 @@ export const moldovaCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Музей Бендерской трагедии",
+                  "name": "Muzei Benderskoi tragedii",
                   "text": "A benderi tragédia múzeuma, az 1992-es konfliktus áldozatainak emlékére.",
                   "category": "museum",
                   "coords": [
@@ -640,7 +640,7 @@ export const moldovaCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Мемориал революционной, боевой и трудовой славы железнодорожников",
+                  "name": "Memorial revoliutsionnoi, boevoi i trudovoi slavy zheleznodorozhnikov",
                   "text": "Vasutasok emlékműve, emlékhely és park a város vasúti történelmének tiszteletére.",
                   "category": "park",
                   "coords": [
@@ -649,7 +649,7 @@ export const moldovaCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Мемориал Памяти и Скорби",
+                  "name": "Memorial Pamiati i Skorbi",
                   "text": "Az emlékezés és gyász emlékműve, az 1992-es harcokban elesettek emlékkomplexuma.",
                   "category": "park",
                   "coords": [
@@ -723,7 +723,7 @@ export const moldovaCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Мемориал революционной, боевой и трудовой славы железнодорожников",
+                  "name": "Memorial revoliutsionnoi, boevoi i trudovoi slavy zheleznodorozhnikov",
                   "text": "Memorialul Feroviarilor, un monument și parc dedicat istoriei feroviare a orașului.",
                   "category": "park",
                   "coords": [
@@ -732,7 +732,7 @@ export const moldovaCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Мемориал Памяти и Скорби",
+                  "name": "Memorial Pamiati i Skorbi",
                   "text": "Memorialul Memoriei și Durerii, un complex dedicat celor căzuți în conflictul din 1992.",
                   "category": "park",
                   "coords": [
@@ -1611,7 +1611,7 @@ export const moldovaCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "ДОТ № 213 ТиУР",
+                  "name": "DOT No. 213 TiUR",
                   "text": "Ruinen eines ehemaligen Militärbunkers in Dubăsari aus der Zeit der befestigten Region Tiraspol.",
                   "category": "historical",
                   "coords": [
@@ -1620,7 +1620,7 @@ export const moldovaCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "ДОТ № 212 ТиУР",
+                  "name": "DOT No. 212 TiUR",
                   "text": "Überreste eines historischen Bunkers in Dubăsari, Teil der ehemaligen Verteidigungslinien.",
                   "category": "historical",
                   "coords": [
@@ -1703,7 +1703,7 @@ export const moldovaCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "ДОТ № 213 ТиУР",
+                  "name": "DOT No. 213 TiUR",
                   "text": "Egy egykori katonai bunker romjai Dubăsariban, a tiraspoli erődített körzet idejéből.",
                   "category": "historical",
                   "coords": [
@@ -1712,7 +1712,7 @@ export const moldovaCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "ДОТ № 212 ТиУР",
+                  "name": "DOT No. 212 TiUR",
                   "text": "Egy történelmi bunker maradványai Dubăsariban, az egykori védelmi vonalak részeként.",
                   "category": "historical",
                   "coords": [
@@ -1721,7 +1721,7 @@ export const moldovaCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Мемориал «Жертвам фашизма»",
+                  "name": "Memorial <<Zhertvam fashizma>>",
                   "text": "Dubăsari emlékmű a fasizmus áldozatainak emlékére.",
                   "category": "landmark",
                   "coords": [

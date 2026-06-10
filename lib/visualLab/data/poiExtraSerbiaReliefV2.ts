@@ -6,7 +6,7 @@ export const serbiaReliefV2: POI[] = [
     id: "serbia-midzor-peak-relief-v2", "sights": {
       "de": [
             {
-                  "name": "Музеј живота старопланинског човека",
+                  "name": "Muzej zhivota staroplaninskog choveka",
                   "text": "Ein Museum, das dem Leben und der Kultur der Menschen im Balkangebirge gewidmet ist.",
                   "category": "museum",
                   "coords": [
@@ -15,7 +15,7 @@ export const serbiaReliefV2: POI[] = [
                   ]
             },
             {
-                  "name": "Миджур / Миџор",
+                  "name": "Midzhur / Midzhor",
                   "text": "Der höchste Gipfel des Balkangebirges an der Grenze zwischen Serbien und Bulgarien.",
                   "category": "landmark",
                   "coords": [
@@ -53,7 +53,7 @@ export const serbiaReliefV2: POI[] = [
       ],
       "hu": [
             {
-                  "name": "Музеј живота старопланинског човека",
+                  "name": "Muzej zhivota staroplaninskog choveka",
                   "text": "A Balkán-hegység lakóinak életét és kultúráját bemutató múzeum.",
                   "category": "museum",
                   "coords": [
@@ -62,7 +62,7 @@ export const serbiaReliefV2: POI[] = [
                   ]
             },
             {
-                  "name": "Миджур / Миџор",
+                  "name": "Midzhur / Midzhor",
                   "text": "A Balkán-hegység legmagasabb csúcsa a szerb-bolgár határon.",
                   "category": "landmark",
                   "coords": [
@@ -100,7 +100,7 @@ export const serbiaReliefV2: POI[] = [
       ],
       "ro": [
             {
-                  "name": "Музеј живота старопланинског човека",
+                  "name": "Muzej zhivota staroplaninskog choveka",
                   "text": "Un muzeu dedicat vieții și culturii oamenilor din Munții Balcani.",
                   "category": "museum",
                   "coords": [
@@ -109,7 +109,7 @@ export const serbiaReliefV2: POI[] = [
                   ]
             },
             {
-                  "name": "Миджур / Миџор",
+                  "name": "Midzhur / Midzhor",
                   "text": "Cel mai înalt vârf din Munții Balcani, situat la granița dintre Serbia și Bulgaria.",
                   "category": "landmark",
                   "coords": [
@@ -249,7 +249,7 @@ export const serbiaReliefV2: POI[] = [
                   ]
             },
             {
-                  "name": "Панчићев врх",
+                  "name": "Panchitshev vrkh",
                   "text": "Der höchste Gipfel des Kopaonik-Gebirges in Serbien.",
                   "category": "landmark",
                   "coords": [
@@ -278,7 +278,7 @@ export const serbiaReliefV2: POI[] = [
                   ]
             },
             {
-                  "name": "Панчићев врх",
+                  "name": "Panchitshev vrkh",
                   "text": "A szerbiai Kopaonik-hegység legmagasabb csúcsa.",
                   "category": "landmark",
                   "coords": [
@@ -307,7 +307,7 @@ export const serbiaReliefV2: POI[] = [
                   ]
             },
             {
-                  "name": "Панчићев врх",
+                  "name": "Panchitshev vrkh",
                   "text": "Cel mai înalt vârf din munții Kopaonik din Serbia.",
                   "category": "landmark",
                   "coords": [
@@ -447,7 +447,7 @@ export const serbiaReliefV2: POI[] = [
     id: "serbia-bukulja-mountain-relief-v2", "sights": {
       "de": [
             {
-                  "name": "Извор",
+                  "name": "Izvor",
                   "text": "Ein Wasserpark am Berg Bukulja, der Erfrischung und Freizeitaktivitäten bietet.",
                   "category": "recreational",
                   "coords": [
@@ -456,7 +456,7 @@ export const serbiaReliefV2: POI[] = [
                   ]
             },
             {
-                  "name": "Сфинга",
+                  "name": "Sfinga",
                   "text": "Ein markantes Denkmal auf dem Berg Bukulja, das ein lokaler Orientierungspunkt ist.",
                   "category": "historical",
                   "coords": [
@@ -465,7 +465,7 @@ export const serbiaReliefV2: POI[] = [
                   ]
             },
             {
-                  "name": "Мала галерија",
+                  "name": "Mala galerija",
                   "text": "Eine kleine Kunstgalerie in der Natur des Bukulja-Berges.",
                   "category": "museum",
                   "coords": [
@@ -476,7 +476,7 @@ export const serbiaReliefV2: POI[] = [
       ],
       "hu": [
             {
-                  "name": "Извор",
+                  "name": "Izvor",
                   "text": "Vízipark a Bukulja-hegyen, amely kikapcsolódást és felfrissülést kínál.",
                   "category": "recreational",
                   "coords": [
@@ -485,7 +485,7 @@ export const serbiaReliefV2: POI[] = [
                   ]
             },
             {
-                  "name": "Сфинга",
+                  "name": "Sfinga",
                   "text": "Jellegzetes emlékmű a Bukulja-hegyen, amely a környék egyik nevezetessége.",
                   "category": "historical",
                   "coords": [
@@ -494,7 +494,7 @@ export const serbiaReliefV2: POI[] = [
                   ]
             },
             {
-                  "name": "Мала галерија",
+                  "name": "Mala galerija",
                   "text": "Kis művészeti galéria a Bukulja-hegy természetközeli környezetében.",
                   "category": "museum",
                   "coords": [
@@ -505,7 +505,7 @@ export const serbiaReliefV2: POI[] = [
       ],
       "ro": [
             {
-                  "name": "Извор",
+                  "name": "Izvor",
                   "text": "Un parc acvatic pe muntele Bukulja, oferind relaxare și activități de agrement.",
                   "category": "recreational",
                   "coords": [
@@ -514,7 +514,7 @@ export const serbiaReliefV2: POI[] = [
                   ]
             },
             {
-                  "name": "Сфинга",
+                  "name": "Sfinga",
                   "text": "Un monument distinctiv pe muntele Bukulja, reprezentând un reper local.",
                   "category": "historical",
                   "coords": [
@@ -523,7 +523,7 @@ export const serbiaReliefV2: POI[] = [
                   ]
             },
             {
-                  "name": "Мала галерија",
+                  "name": "Mala galerija",
                   "text": "O mică galerie de artă situată în cadrul natural al muntelui Bukulja.",
                   "category": "museum",
                   "coords": [
@@ -1059,7 +1059,7 @@ export const serbiaReliefV2: POI[] = [
     id: "serbia-rogozna-mountain-relief-v2", "sights": {
       "de": [
             {
-                  "name": "Запис / Zapis",
+                  "name": "Zapis",
                   "text": "Ein markanter Berggipfel im Rogozna-Gebirge, der Ausblicke auf die Umgebung bietet.",
                   "category": "landmark",
                   "coords": [
@@ -1070,7 +1070,7 @@ export const serbiaReliefV2: POI[] = [
       ],
       "hu": [
             {
-                  "name": "Запис / Zapis",
+                  "name": "Zapis",
                   "text": "A Rogozna-hegység egyik jellegzetes csúcsa, amely kilátást nyújt a környékre.",
                   "category": "landmark",
                   "coords": [
@@ -1081,7 +1081,7 @@ export const serbiaReliefV2: POI[] = [
       ],
       "ro": [
             {
-                  "name": "Запис / Zapis",
+                  "name": "Zapis",
                   "text": "Un vârf montan proeminent din masivul Rogozna, oferind perspective asupra împrejurimilor.",
                   "category": "landmark",
                   "coords": [
@@ -1158,7 +1158,7 @@ export const serbiaReliefV2: POI[] = [
                   ]
             },
             {
-                  "name": "Панчићев врх",
+                  "name": "Panchitshev vrkh",
                   "text": "Der höchste Gipfel des Kopaonik-Gebirges, benannt nach dem Botaniker Josif Pančić.",
                   "category": "landmark",
                   "coords": [
@@ -1196,7 +1196,7 @@ export const serbiaReliefV2: POI[] = [
                   ]
             },
             {
-                  "name": "Панчићев врх",
+                  "name": "Panchitshev vrkh",
                   "text": "A Kopaonik-hegység legmagasabb csúcsa, Josif Pančić botanikusról elnevezve.",
                   "category": "landmark",
                   "coords": [
@@ -1234,7 +1234,7 @@ export const serbiaReliefV2: POI[] = [
                   ]
             },
             {
-                  "name": "Панчићев врх",
+                  "name": "Panchitshev vrkh",
                   "text": "Cel mai înalt vârf din munții Kopaonik, numit după botanistul Josif Pančić.",
                   "category": "landmark",
                   "coords": [
@@ -1437,7 +1437,7 @@ export const serbiaReliefV2: POI[] = [
     id: "serbia-fruska-gora-brankovac-relief-v2", "sights": {
       "de": [
             {
-                  "name": "Градина",
+                  "name": "Gradina",
                   "text": "Eine archäologische Fundstätte in der Nähe von Novi Rakovac mit Überresten antiker Siedlungen.",
                   "category": "historical",
                   "coords": [
@@ -1446,7 +1446,7 @@ export const serbiaReliefV2: POI[] = [
                   ]
             },
             {
-                  "name": "Спомен-обележје Стручица",
+                  "name": "Spomen-obelezhje Struchitsa",
                   "text": "Ein Gedenkmal, das an historische Ereignisse oder Personen in der Region Brankovac erinnert.",
                   "category": "historical",
                   "coords": [
@@ -1455,7 +1455,7 @@ export const serbiaReliefV2: POI[] = [
                   ]
             },
             {
-                  "name": "Црвени Чот",
+                  "name": "Tsrveni Chot",
                   "text": "Mit 539 Metern der höchste Gipfel des Fruška-Gora-Gebirges in Serbien.",
                   "category": "landmark",
                   "coords": [
@@ -1464,7 +1464,7 @@ export const serbiaReliefV2: POI[] = [
                   ]
             },
             {
-                  "name": "Испосница Исаије Париводског",
+                  "name": "Isposnitsa Isaije Parivodskog",
                   "text": "Eine einsame Klause in den Wäldern der Fruška Gora, die als Ort der Stille dient.",
                   "category": "landmark",
                   "coords": [
@@ -1473,7 +1473,7 @@ export const serbiaReliefV2: POI[] = [
                   ]
             },
             {
-                  "name": "Бели Мајдан",
+                  "name": "Beli Majdan",
                   "text": "Ein ehemaliger Steinbruch, der heute als beeindruckende künstliche Höhle besichtigt werden kann.",
                   "category": "landmark",
                   "coords": [
@@ -1482,7 +1482,7 @@ export const serbiaReliefV2: POI[] = [
                   ]
             },
             {
-                  "name": "Шпицеров дворац",
+                  "name": "Shpitserov dvorats",
                   "text": "Ein verlassenes Schloss in Beočin, bekannt für seine außergewöhnliche, eklektische Architektur.",
                   "category": "historical",
                   "coords": [
@@ -1491,7 +1491,7 @@ export const serbiaReliefV2: POI[] = [
                   ]
             },
             {
-                  "name": "Видиковац Кобилица",
+                  "name": "Vidikovats Kobilitsa",
                   "text": "Ein Aussichtspunkt, der einen weiten Blick über die Hügellandschaft der Fruška Gora bietet.",
                   "category": "natural",
                   "coords": [
@@ -1511,7 +1511,7 @@ export const serbiaReliefV2: POI[] = [
       ],
       "hu": [
             {
-                  "name": "Градина",
+                  "name": "Gradina",
                   "text": "Régészeti lelőhely Újrakovac (Novi Rakovac) közelében, ókori települések maradványaival.",
                   "category": "historical",
                   "coords": [
@@ -1520,7 +1520,7 @@ export const serbiaReliefV2: POI[] = [
                   ]
             },
             {
-                  "name": "Спомен-обележје Стручица",
+                  "name": "Spomen-obelezhje Struchitsa",
                   "text": "Történelmi eseményekre vagy személyekre emlékeztető emlékmű Brankovac régiójában.",
                   "category": "historical",
                   "coords": [
@@ -1529,7 +1529,7 @@ export const serbiaReliefV2: POI[] = [
                   ]
             },
             {
-                  "name": "Црвени Чот",
+                  "name": "Tsrveni Chot",
                   "text": "A szerbiai Tarcal-hegység (Fruška Gora) legmagasabb csúcsa, 539 méterrel.",
                   "category": "landmark",
                   "coords": [
@@ -1538,7 +1538,7 @@ export const serbiaReliefV2: POI[] = [
                   ]
             },
             {
-                  "name": "Испосница Исаије Париводског",
+                  "name": "Isposnitsa Isaije Parivodskog",
                   "text": "Magányos remetelak a Tarcal-hegység erdőiben, amely a csend helyszíneként szolgál.",
                   "category": "landmark",
                   "coords": [
@@ -1547,7 +1547,7 @@ export const serbiaReliefV2: POI[] = [
                   ]
             },
             {
-                  "name": "Бели Мајдан",
+                  "name": "Beli Majdan",
                   "text": "Egykori kőbánya, amely ma lenyűgöző mesterséges barlangként látogatható.",
                   "category": "landmark",
                   "coords": [
@@ -1556,7 +1556,7 @@ export const serbiaReliefV2: POI[] = [
                   ]
             },
             {
-                  "name": "Шпицеров дворац",
+                  "name": "Shpitserov dvorats",
                   "text": "Elhagyatott kastély Belcsényben (Beočin), amely különleges, eklektikus építészetéről ismert.",
                   "category": "historical",
                   "coords": [
@@ -1565,7 +1565,7 @@ export const serbiaReliefV2: POI[] = [
                   ]
             },
             {
-                  "name": "Видиковац Кобилица",
+                  "name": "Vidikovats Kobilitsa",
                   "text": "Kilátópont, amely tágas kilátást nyújt a Tarcal-hegység dombos vidékére.",
                   "category": "natural",
                   "coords": [
@@ -1585,7 +1585,7 @@ export const serbiaReliefV2: POI[] = [
       ],
       "ro": [
             {
-                  "name": "Градина",
+                  "name": "Gradina",
                   "text": "Un sit arheologic lângă Novi Rakovac, conținând vestigii ale unor așezări antice.",
                   "category": "historical",
                   "coords": [
@@ -1594,7 +1594,7 @@ export const serbiaReliefV2: POI[] = [
                   ]
             },
             {
-                  "name": "Спомен-обележје Стручица",
+                  "name": "Spomen-obelezhje Struchitsa",
                   "text": "Un monument comemorativ care amintește de evenimente sau persoane istorice din regiunea Brankovac.",
                   "category": "historical",
                   "coords": [
@@ -1603,7 +1603,7 @@ export const serbiaReliefV2: POI[] = [
                   ]
             },
             {
-                  "name": "Црвени Чот",
+                  "name": "Tsrveni Chot",
                   "text": "Cel mai înalt vârf din munții Fruška Gora din Serbia, având 539 de metri.",
                   "category": "landmark",
                   "coords": [
@@ -1612,7 +1612,7 @@ export const serbiaReliefV2: POI[] = [
                   ]
             },
             {
-                  "name": "Испосница Исаије Париводског",
+                  "name": "Isposnitsa Isaije Parivodskog",
                   "text": "O chilie izolată în pădurile din Fruška Gora, care servește ca loc de liniște.",
                   "category": "landmark",
                   "coords": [
@@ -1621,7 +1621,7 @@ export const serbiaReliefV2: POI[] = [
                   ]
             },
             {
-                  "name": "Бели Мајдан",
+                  "name": "Beli Majdan",
                   "text": "O fostă carieră de piatră care astăzi poate fi vizitată ca o peșteră artificială impresionantă.",
                   "category": "landmark",
                   "coords": [
@@ -1630,7 +1630,7 @@ export const serbiaReliefV2: POI[] = [
                   ]
             },
             {
-                  "name": "Шпицеров дворац",
+                  "name": "Shpitserov dvorats",
                   "text": "Un castel abandonat din Beočin, cunoscut pentru arhitectura sa eclectică neobișnuită.",
                   "category": "historical",
                   "coords": [
@@ -1639,7 +1639,7 @@ export const serbiaReliefV2: POI[] = [
                   ]
             },
             {
-                  "name": "Видиковац Кобилица",
+                  "name": "Vidikovats Kobilitsa",
                   "text": "Un punct de belvedere care oferă o vedere largă asupra peisajului colinar din Fruška Gora.",
                   "category": "natural",
                   "coords": [
@@ -1824,7 +1824,7 @@ export const serbiaReliefV2: POI[] = [
     id: "serbia-beljanica-mountain-relief-v2", "sights": {
       "de": [
             {
-                  "name": "Бук",
+                  "name": "Buk",
                   "text": "Ein markanter Wasserfall und eine Naturattraktion am Beljanica-Gebirge.",
                   "category": "landmark",
                   "coords": [
@@ -1835,7 +1835,7 @@ export const serbiaReliefV2: POI[] = [
       ],
       "hu": [
             {
-                  "name": "Бук",
+                  "name": "Buk",
                   "text": "Jellegzetes vízesés és természeti látványosság a Beljanica-hegységben.",
                   "category": "landmark",
                   "coords": [
@@ -1846,7 +1846,7 @@ export const serbiaReliefV2: POI[] = [
       ],
       "ro": [
             {
-                  "name": "Бук",
+                  "name": "Buk",
                   "text": "O cascadă remarcabilă și o atracție naturală în munții Beljanica.",
                   "category": "landmark",
                   "coords": [
@@ -1923,7 +1923,7 @@ export const serbiaReliefV2: POI[] = [
                   ]
             },
             {
-                  "name": "Ковачевића пећина",
+                  "name": "Kovachevitsha petshina",
                   "text": "Ein natürlicher Höhleneingang in der Region Stolica in Serbien.",
                   "category": "landmark",
                   "coords": [
@@ -1943,7 +1943,7 @@ export const serbiaReliefV2: POI[] = [
                   ]
             },
             {
-                  "name": "Ковачевића пећина",
+                  "name": "Kovachevitsha petshina",
                   "text": "Természetes barlangbejárat a szerbiai Stolica-csúcs régiójában.",
                   "category": "landmark",
                   "coords": [
@@ -1963,7 +1963,7 @@ export const serbiaReliefV2: POI[] = [
                   ]
             },
             {
-                  "name": "Ковачевића пећина",
+                  "name": "Kovachevitsha petshina",
                   "text": "O intrare naturală într-o peșteră din regiunea vârfului Stolica din Serbia.",
                   "category": "landmark",
                   "coords": [
@@ -2094,7 +2094,7 @@ export const serbiaReliefV2: POI[] = [
                   ]
             },
             {
-                  "name": "Козја стена",
+                  "name": "Kozja stena",
                   "text": "Kozja stena ist ein bekannter Aussichtspunkt mit Panoramablick über den Tara-Nationalpark.",
                   "category": "natural",
                   "coords": [
@@ -2123,7 +2123,7 @@ export const serbiaReliefV2: POI[] = [
       ],
       "hu": [
             {
-                  "name": "Национални парк Тара",
+                  "name": "Natsionalni park Tara",
                   "text": "A Tara Nemzeti Park egy kiterjedt természetvédelmi terület gazdag növény- és állatvilággal.",
                   "category": "natural",
                   "coords": [
@@ -2132,7 +2132,7 @@ export const serbiaReliefV2: POI[] = [
                   ]
             },
             {
-                  "name": "Козја стена",
+                  "name": "Kozja stena",
                   "text": "Kozja stena egy ismert kilátópont, ahonnan panorámás kilátás nyílik a Tara Nemzeti Parkra.",
                   "category": "natural",
                   "coords": [
@@ -2161,7 +2161,7 @@ export const serbiaReliefV2: POI[] = [
       ],
       "ro": [
             {
-                  "name": "Национални парк Тара",
+                  "name": "Natsionalni park Tara",
                   "text": "Parcul Național Tara este o rezervație naturală vastă, cu o floră și faună bogată.",
                   "category": "natural",
                   "coords": [
@@ -2170,7 +2170,7 @@ export const serbiaReliefV2: POI[] = [
                   ]
             },
             {
-                  "name": "Козја стена",
+                  "name": "Kozja stena",
                   "text": "Kozja stena este un punct de belvedere cunoscut, cu vedere panoramică asupra Parcului Național Tara.",
                   "category": "natural",
                   "coords": [
@@ -2328,7 +2328,7 @@ export const serbiaReliefV2: POI[] = [
     id: "serbia-kosmaj-mountain-relief-v2", "sights": {
       "de": [
             {
-                  "name": "Манастир Кастаљан",
+                  "name": "Manastir Kastaljan",
                   "text": "Die Ruinen eines mittelalterlichen Klosters am Fuße des Berges Kosmaj, das einst ein bedeutendes geistliches Zentrum war.",
                   "category": "religious",
                   "coords": [
@@ -2337,7 +2337,7 @@ export const serbiaReliefV2: POI[] = [
                   ]
             },
             {
-                  "name": "Космај",
+                  "name": "Kosmaj",
                   "text": "Ein markanter Berggipfel in Serbien, der für seine dichten Wälder, Wanderwege und das markante Denkmal bekannt ist.",
                   "category": "landmark",
                   "coords": [
@@ -2346,7 +2346,7 @@ export const serbiaReliefV2: POI[] = [
                   ]
             },
             {
-                  "name": "Споменик Космајском партизанском одреду",
+                  "name": "Споменик Kosmajском партизанском одреду",
                   "text": "Ein berühmtes futuristisches Denkmal auf dem Berg Kosmaj, das den gefallenen Soldaten des Zweiten Weltkriegs gewidmet ist.",
                   "category": "historical",
                   "coords": [
@@ -2355,7 +2355,7 @@ export const serbiaReliefV2: POI[] = [
                   ]
             },
             {
-                  "name": "Црква светих апостола Петра и Павла",
+                  "name": "Tsrkva svetikh apostola Petra i Pavla",
                   "text": "Diese historische orthodoxe Kirche am Kosmaj ist für ihre Architektur und ihre Rolle in der lokalen Geschichte bekannt.",
                   "category": "religious",
                   "coords": [
@@ -2366,7 +2366,7 @@ export const serbiaReliefV2: POI[] = [
       ],
       "hu": [
             {
-                  "name": "Манастир Кастаљан",
+                  "name": "Manastir Kastaljan",
                   "text": "Egy középkori kolostor romjai a Kosmaj-hegy lábánál, amely egykor jelentős szellemi központ volt.",
                   "category": "religious",
                   "coords": [
@@ -2375,7 +2375,7 @@ export const serbiaReliefV2: POI[] = [
                   ]
             },
             {
-                  "name": "Космај",
+                  "name": "Kosmaj",
                   "text": "Jellegzetes hegycsúcs Szerbiában, amely sűrű erdőiről, túraútvonalairól és jellegzetes emlékművéről ismert.",
                   "category": "landmark",
                   "coords": [
@@ -2384,7 +2384,7 @@ export const serbiaReliefV2: POI[] = [
                   ]
             },
             {
-                  "name": "Споменик Космајском партизанском одреду",
+                  "name": "Споменик Kosmajском партизанском одреду",
                   "text": "Híres futurisztikus emlékmű a Kosmaj-hegyen, amelyet a második világháború elesett katonáinak tiszteletére emeltek.",
                   "category": "historical",
                   "coords": [
@@ -2393,7 +2393,7 @@ export const serbiaReliefV2: POI[] = [
                   ]
             },
             {
-                  "name": "Црква светих апостола Петра и Павла",
+                  "name": "Tsrkva svetikh apostola Petra i Pavla",
                   "text": "Ez a Kosmaj-hegyi történelmi ortodox templom építészetéről és a helyi történelemben betöltött szerepéről ismert.",
                   "category": "religious",
                   "coords": [
@@ -2404,7 +2404,7 @@ export const serbiaReliefV2: POI[] = [
       ],
       "ro": [
             {
-                  "name": "Манастир Кастаљан",
+                  "name": "Manastir Kastaljan",
                   "text": "Ruinele unei mănăstiri medievale la poalele muntelui Kosmaj, care a fost cândva un centru spiritual important.",
                   "category": "religious",
                   "coords": [
@@ -2413,7 +2413,7 @@ export const serbiaReliefV2: POI[] = [
                   ]
             },
             {
-                  "name": "Космај",
+                  "name": "Kosmaj",
                   "text": "Un vârf muntos proeminent din Serbia, cunoscut pentru pădurile sale dese, traseele de drumeție și monumentul său distinctiv.",
                   "category": "landmark",
                   "coords": [
@@ -2422,7 +2422,7 @@ export const serbiaReliefV2: POI[] = [
                   ]
             },
             {
-                  "name": "Споменик Космајском партизанском одреду",
+                  "name": "Споменик Kosmajском партизанском одреду",
                   "text": "Un faimos monument futurist pe muntele Kosmaj, dedicat soldaților căzuți în cel de-al Doilea Război Mondial.",
                   "category": "historical",
                   "coords": [
@@ -2431,7 +2431,7 @@ export const serbiaReliefV2: POI[] = [
                   ]
             },
             {
-                  "name": "Црква светих апостола Петра и Павла",
+                  "name": "Tsrkva svetikh apostola Petra i Pavla",
                   "text": "Această biserică ortodoxă istorică de pe muntele Kosmaj este cunoscută pentru arhitectura sa și rolul în istoria locală.",
                   "category": "religious",
                   "coords": [
@@ -2616,7 +2616,7 @@ export const serbiaReliefV2: POI[] = [
     id: "serbia-ozren-mountain-relief-v2", "sights": {
       "de": [
             {
-                  "name": "Соко Град",
+                  "name": "Soko Grad",
                   "text": "Eine mittelalterliche Festung auf dem Berg Ozren mit Blick auf Sokobanja.",
                   "category": "castle",
                   "coords": [
@@ -2625,7 +2625,7 @@ export const serbiaReliefV2: POI[] = [
                   ]
             },
             {
-                  "name": "Аквапарк Подина",
+                  "name": "Akvapark Podina",
                   "text": "Ein moderner Wasserpark in Sokobanja mit verschiedenen Pools und Rutschen.",
                   "category": "recreational",
                   "coords": [
@@ -2634,7 +2634,7 @@ export const serbiaReliefV2: POI[] = [
                   ]
             },
             {
-                  "name": "Жупан плажа",
+                  "name": "Zhupan plazha",
                   "text": "Ein beliebter Strand am Fluss Moravica in der Nähe von Sokobanja.",
                   "category": "recreational",
                   "coords": [
@@ -2652,7 +2652,7 @@ export const serbiaReliefV2: POI[] = [
                   ]
             },
             {
-                  "name": "Завичајни музеј Сокобања",
+                  "name": "Zavichajni muzej Sokobanja",
                   "text": "Ein Museum in Sokobanja, das die lokale Geschichte und Ethnologie präsentiert.",
                   "category": "museum",
                   "coords": [
@@ -2679,7 +2679,7 @@ export const serbiaReliefV2: POI[] = [
                   ]
             },
             {
-                  "name": "Големи камен",
+                  "name": "Golemi kamen",
                   "text": "Ein markanter Felsen und Aussichtspunkt auf dem Berg Ozren.",
                   "category": "natural",
                   "coords": [
@@ -2690,7 +2690,7 @@ export const serbiaReliefV2: POI[] = [
       ],
       "hu": [
             {
-                  "name": "Соко Град",
+                  "name": "Soko Grad",
                   "text": "Középkori erőd az Ozren-hegyen, amely Sokobanja városára néz.",
                   "category": "castle",
                   "coords": [
@@ -2699,7 +2699,7 @@ export const serbiaReliefV2: POI[] = [
                   ]
             },
             {
-                  "name": "Аквапарк Подина",
+                  "name": "Akvapark Podina",
                   "text": "Modern vízi park Sokobanjában, különféle medencékkel és csúszdákkal.",
                   "category": "recreational",
                   "coords": [
@@ -2708,7 +2708,7 @@ export const serbiaReliefV2: POI[] = [
                   ]
             },
             {
-                  "name": "Жупан плажа",
+                  "name": "Zhupan plazha",
                   "text": "Népszerű strand a Moravica-folyó partján, Sokobanja közelében.",
                   "category": "recreational",
                   "coords": [
@@ -2717,7 +2717,7 @@ export const serbiaReliefV2: POI[] = [
                   ]
             },
             {
-                  "name": "Грудоњске воденице",
+                  "name": "Grudonjske vodenitse",
                   "text": "Hagyományos vízimalomban kialakított múzeum az Ozren-hegyen.",
                   "category": "museum",
                   "coords": [
@@ -2726,7 +2726,7 @@ export const serbiaReliefV2: POI[] = [
                   ]
             },
             {
-                  "name": "Завичајни музеј Сокобања",
+                  "name": "Zavichajni muzej Sokobanja",
                   "text": "Sokobanja helytörténeti múzeuma, amely a helyi történelmet és néprajzot mutatja be.",
                   "category": "museum",
                   "coords": [
@@ -2753,7 +2753,7 @@ export const serbiaReliefV2: POI[] = [
                   ]
             },
             {
-                  "name": "Големи камен",
+                  "name": "Golemi kamen",
                   "text": "Jellegzetes szikla és kilátóhely az Ozren-hegyen.",
                   "category": "natural",
                   "coords": [
@@ -2764,7 +2764,7 @@ export const serbiaReliefV2: POI[] = [
       ],
       "ro": [
             {
-                  "name": "Соко Град",
+                  "name": "Soko Grad",
                   "text": "O cetate medievală situată pe muntele Ozren, oferind priveliști asupra stațiunii Sokobanja.",
                   "category": "castle",
                   "coords": [
@@ -2773,7 +2773,7 @@ export const serbiaReliefV2: POI[] = [
                   ]
             },
             {
-                  "name": "Аквапарк Подина",
+                  "name": "Akvapark Podina",
                   "text": "Un parc acvatic modern în Sokobanja, dotat cu diverse piscine și tobogane.",
                   "category": "recreational",
                   "coords": [
@@ -2782,7 +2782,7 @@ export const serbiaReliefV2: POI[] = [
                   ]
             },
             {
-                  "name": "Жупан плажа",
+                  "name": "Zhupan plazha",
                   "text": "O plajă populară pe malul râului Moravica, în apropiere de Sokobanja.",
                   "category": "recreational",
                   "coords": [
@@ -2791,7 +2791,7 @@ export const serbiaReliefV2: POI[] = [
                   ]
             },
             {
-                  "name": "Грудоњске воденице",
+                  "name": "Grudonjske vodenitse",
                   "text": "Un muzeu amenajat într-o moară de apă tradițională pe muntele Ozren.",
                   "category": "museum",
                   "coords": [
@@ -2800,7 +2800,7 @@ export const serbiaReliefV2: POI[] = [
                   ]
             },
             {
-                  "name": "Завичајни музеј Сокобања",
+                  "name": "Zavichajni muzej Sokobanja",
                   "text": "Un muzeu în Sokobanja care prezintă istoria și etnografia locală.",
                   "category": "museum",
                   "coords": [
@@ -2827,7 +2827,7 @@ export const serbiaReliefV2: POI[] = [
                   ]
             },
             {
-                  "name": "Големи камен",
+                  "name": "Golemi kamen",
                   "text": "O stâncă proeminentă și un punct de belvedere pe muntele Ozren.",
                   "category": "natural",
                   "coords": [
@@ -3093,7 +3093,7 @@ export const serbiaReliefV2: POI[] = [
     id: "serbia-vrteska-mountain-relief-v2", "sights": {
       "de": [
             {
-                  "name": "Магнетна купка",
+                  "name": "Magnetna kupka",
                   "text": "Eine lokale Attraktion in Vrteška, die für ihre besonderen Erholungs- oder Therapieangebote bekannt ist.",
                   "category": "landmark",
                   "coords": [
@@ -3104,7 +3104,7 @@ export const serbiaReliefV2: POI[] = [
       ],
       "hu": [
             {
-                  "name": "Магнетна купка",
+                  "name": "Magnetna kupka",
                   "text": "Helyi látványosság Vrteškán, amely egyedi kikapcsolódási vagy terápiás jellemzőiről ismert.",
                   "category": "landmark",
                   "coords": [
@@ -3115,7 +3115,7 @@ export const serbiaReliefV2: POI[] = [
       ],
       "ro": [
             {
-                  "name": "Магнетна купка",
+                  "name": "Magnetna kupka",
                   "text": "O atracție locală din Vrteška, cunoscută pentru caracteristicile sale recreative sau terapeutice unice.",
                   "category": "landmark",
                   "coords": [
@@ -3228,7 +3228,7 @@ export const serbiaReliefV2: POI[] = [
     id: "serbia-bukulja-gipfel-relief-v2", "sights": {
       "de": [
             {
-                  "name": "Извор",
+                  "name": "Izvor",
                   "text": "Ein Wasserpark und Erholungsgebiet am Fuße des Bukulja-Gipfels.",
                   "category": "recreational",
                   "coords": [
@@ -3237,7 +3237,7 @@ export const serbiaReliefV2: POI[] = [
                   ]
             },
             {
-                  "name": "Сфинга",
+                  "name": "Sfinga",
                   "text": "Ein Denkmal oder eine markante Felsformation auf dem Berg Bukulja.",
                   "category": "historical",
                   "coords": [
@@ -3246,7 +3246,7 @@ export const serbiaReliefV2: POI[] = [
                   ]
             },
             {
-                  "name": "Мала галерија",
+                  "name": "Mala galerija",
                   "text": "Eine kleine Kunstgalerie, die lokale Werke in der Nähe des Gipfels ausstellt.",
                   "category": "museum",
                   "coords": [
@@ -3257,7 +3257,7 @@ export const serbiaReliefV2: POI[] = [
       ],
       "hu": [
             {
-                  "name": "Извор",
+                  "name": "Izvor",
                   "text": "Vízi park és pihenőhely a Bukulja-csúcs lábánál.",
                   "category": "recreational",
                   "coords": [
@@ -3266,7 +3266,7 @@ export const serbiaReliefV2: POI[] = [
                   ]
             },
             {
-                  "name": "Сфинга",
+                  "name": "Sfinga",
                   "text": "Emlékmű vagy jellegzetes sziklaformáció a Bukulja-hegyen.",
                   "category": "historical",
                   "coords": [
@@ -3275,7 +3275,7 @@ export const serbiaReliefV2: POI[] = [
                   ]
             },
             {
-                  "name": "Мала галерија",
+                  "name": "Mala galerija",
                   "text": "Kisméretű művészeti galéria, amely helyi alkotásokat mutat be a csúcs közelében.",
                   "category": "museum",
                   "coords": [
@@ -3286,7 +3286,7 @@ export const serbiaReliefV2: POI[] = [
       ],
       "ro": [
             {
-                  "name": "Извор",
+                  "name": "Izvor",
                   "text": "Un parc acvatic și zonă de recreere la poalele vârfului Bukulja.",
                   "category": "recreational",
                   "coords": [
@@ -3295,7 +3295,7 @@ export const serbiaReliefV2: POI[] = [
                   ]
             },
             {
-                  "name": "Сфинга",
+                  "name": "Sfinga",
                   "text": "Un monument sau o formațiune stâncoasă distinctivă pe muntele Bukulja.",
                   "category": "historical",
                   "coords": [
@@ -3304,7 +3304,7 @@ export const serbiaReliefV2: POI[] = [
                   ]
             },
             {
-                  "name": "Мала галерија",
+                  "name": "Mala galerija",
                   "text": "O mică galerie de artă ce expune lucrări locale în apropierea vârfului.",
                   "category": "museum",
                   "coords": [
@@ -3390,7 +3390,7 @@ export const serbiaReliefV2: POI[] = [
     id: "serbia-stara-planina-kordzino-relief-v2", "sights": {
       "de": [
             {
-                  "name": "Миджур / Миџор",
+                  "name": "Midzhur / Midzhor",
                   "text": "Der höchste Gipfel des Balkangebirges an der Grenze zwischen Serbien und Bulgarien.",
                   "category": "landmark",
                   "coords": [
@@ -3410,7 +3410,7 @@ export const serbiaReliefV2: POI[] = [
       ],
       "hu": [
             {
-                  "name": "Миджур / Миџор",
+                  "name": "Midzhur / Midzhor",
                   "text": "A Balkán-hegység legmagasabb csúcsa a szerb-bolgár határon.",
                   "category": "landmark",
                   "coords": [
@@ -3430,7 +3430,7 @@ export const serbiaReliefV2: POI[] = [
       ],
       "ro": [
             {
-                  "name": "Миджур / Миџор",
+                  "name": "Midzhur / Midzhor",
                   "text": "Cel mai înalt vârf din Munții Balcani, situat la granița dintre Serbia și Bulgaria.",
                   "category": "landmark",
                   "coords": [
@@ -3615,7 +3615,7 @@ export const serbiaReliefV2: POI[] = [
                   ]
             },
             {
-                  "name": "Панчићев врх",
+                  "name": "Panchitshev vrkh",
                   "text": "Der höchste Gipfel des Kopaonik-Gebirges in Serbien.",
                   "category": "landmark",
                   "coords": [
@@ -3644,7 +3644,7 @@ export const serbiaReliefV2: POI[] = [
                   ]
             },
             {
-                  "name": "Панчићев врх",
+                  "name": "Panchitshev vrkh",
                   "text": "A szerbiai Kopaonik-hegység legmagasabb csúcsa.",
                   "category": "landmark",
                   "coords": [
@@ -3673,7 +3673,7 @@ export const serbiaReliefV2: POI[] = [
                   ]
             },
             {
-                  "name": "Панчићев врх",
+                  "name": "Panchitshev vrkh",
                   "text": "Cel mai înalt vârf din munții Kopaonik, în Serbia.",
                   "category": "landmark",
                   "coords": [
@@ -3777,7 +3777,7 @@ export const serbiaReliefV2: POI[] = [
                   ]
             },
             {
-                  "name": "Панчићев врх",
+                  "name": "Panchitshev vrkh",
                   "text": "Der höchste Gipfel des Kopaonik-Gebirges in Serbien.",
                   "category": "landmark",
                   "coords": [
@@ -3806,7 +3806,7 @@ export const serbiaReliefV2: POI[] = [
                   ]
             },
             {
-                  "name": "Панчићев врх",
+                  "name": "Panchitshev vrkh",
                   "text": "A szerbiai Kopaonik-hegység legmagasabb csúcsa.",
                   "category": "landmark",
                   "coords": [
@@ -3835,7 +3835,7 @@ export const serbiaReliefV2: POI[] = [
                   ]
             },
             {
-                  "name": "Панчићев врх",
+                  "name": "Panchitshev vrkh",
                   "text": "Cel mai înalt vârf din masivul muntos Kopaonik din Serbia.",
                   "category": "landmark",
                   "coords": [
@@ -3930,7 +3930,7 @@ export const serbiaReliefV2: POI[] = [
     id: "serbia-stara-planina-bratin-vrh-relief-v2", "sights": {
       "de": [
             {
-                  "name": "Миджур / Миџор",
+                  "name": "Midzhur / Midzhor",
                   "text": "Der höchste Gipfel des Balkangebirges auf serbischem Staatsgebiet.",
                   "category": "landmark",
                   "coords": [
@@ -3941,7 +3941,7 @@ export const serbiaReliefV2: POI[] = [
       ],
       "hu": [
             {
-                  "name": "Миджур / Миџор",
+                  "name": "Midzhur / Midzhor",
                   "text": "A Balkán-hegység legmagasabb csúcsa Szerbiában.",
                   "category": "landmark",
                   "coords": [
@@ -3952,7 +3952,7 @@ export const serbiaReliefV2: POI[] = [
       ],
       "ro": [
             {
-                  "name": "Миджур / Миџор",
+                  "name": "Midzhur / Midzhor",
                   "text": "Cel mai înalt vârf din Munții Balcani pe teritoriul Serbiei.",
                   "category": "landmark",
                   "coords": [
@@ -4029,7 +4029,7 @@ export const serbiaReliefV2: POI[] = [
                   ]
             },
             {
-                  "name": "Некропола стећака Доње Мраморје",
+                  "name": "Nekropola stetshaka Donje Mramorje",
                   "text": "Eine archäologische Stätte mit mittelalterlichen Grabsteinen, den sogenannten Stećci.",
                   "category": "historical",
                   "coords": [
@@ -4038,7 +4038,7 @@ export const serbiaReliefV2: POI[] = [
                   ]
             },
             {
-                  "name": "Козја стена",
+                  "name": "Kozja stena",
                   "text": "Ein beliebter Aussichtspunkt mit Panoramablick auf die umliegenden Berge und Täler.",
                   "category": "natural",
                   "coords": [
@@ -4047,7 +4047,7 @@ export const serbiaReliefV2: POI[] = [
                   ]
             },
             {
-                  "name": "Бањска стена",
+                  "name": "Banjska stena",
                   "text": "Ein berühmter Aussichtspunkt mit atemberaubendem Blick über die Schlucht des Flusses Drina.",
                   "category": "natural",
                   "coords": [
@@ -4074,7 +4074,7 @@ export const serbiaReliefV2: POI[] = [
                   ]
             },
             {
-                  "name": "Велица Стена",
+                  "name": "Velitsa Stena",
                   "text": "Ein felsiger Aussichtspunkt mit weitem Blick über den Nationalpark.",
                   "category": "natural",
                   "coords": [
@@ -4083,7 +4083,7 @@ export const serbiaReliefV2: POI[] = [
                   ]
             },
             {
-                  "name": "Видиковац Зеленика",
+                  "name": "Vidikovats Zelenika",
                   "text": "Ein Aussichtspunkt mit Blick auf die grünen Bergketten.",
                   "category": "natural",
                   "coords": [
@@ -4094,7 +4094,7 @@ export const serbiaReliefV2: POI[] = [
       ],
       "hu": [
             {
-                  "name": "Национални парк Тара",
+                  "name": "Natsionalni park Tara",
                   "text": "Festői nemzeti park, amely sűrű erdőiről, mély kanyonjairól és változatos élővilágáról ismert.",
                   "category": "natural",
                   "coords": [
@@ -4103,7 +4103,7 @@ export const serbiaReliefV2: POI[] = [
                   ]
             },
             {
-                  "name": "Некропола стећака Доње Мраморје",
+                  "name": "Nekropola stetshaka Donje Mramorje",
                   "text": "Régészeti lelőhely középkori monumentális sírkövekkel, az úgynevezett sztekácsokkal.",
                   "category": "historical",
                   "coords": [
@@ -4112,7 +4112,7 @@ export const serbiaReliefV2: POI[] = [
                   ]
             },
             {
-                  "name": "Козја стена",
+                  "name": "Kozja stena",
                   "text": "Népszerű kilátóhely, ahonnan panorámás kilátás nyílik a környező hegyekre és völgyekre.",
                   "category": "natural",
                   "coords": [
@@ -4121,7 +4121,7 @@ export const serbiaReliefV2: POI[] = [
                   ]
             },
             {
-                  "name": "Бањска стена",
+                  "name": "Banjska stena",
                   "text": "Híres kilátóhely, ahonnan lélegzetelállító kilátás nyílik a Drina-folyó kanyonjára.",
                   "category": "natural",
                   "coords": [
@@ -4148,7 +4148,7 @@ export const serbiaReliefV2: POI[] = [
                   ]
             },
             {
-                  "name": "Велица Стена",
+                  "name": "Velitsa Stena",
                   "text": "Sziklás kilátóhely, ahonnan tágas kilátás nyílik a nemzeti parkra.",
                   "category": "natural",
                   "coords": [
@@ -4157,7 +4157,7 @@ export const serbiaReliefV2: POI[] = [
                   ]
             },
             {
-                  "name": "Видиковац Зеленика",
+                  "name": "Vidikovats Zelenika",
                   "text": "Kilátóhely, ahonnan rálátás nyílik a zöldellő hegyoldalakra.",
                   "category": "natural",
                   "coords": [
@@ -4168,7 +4168,7 @@ export const serbiaReliefV2: POI[] = [
       ],
       "ro": [
             {
-                  "name": "Национални парк Тара",
+                  "name": "Natsionalni park Tara",
                   "text": "Un parc național pitoresc, cunoscut pentru pădurile sale dese, canioanele adânci și fauna diversă.",
                   "category": "natural",
                   "coords": [
@@ -4177,7 +4177,7 @@ export const serbiaReliefV2: POI[] = [
                   ]
             },
             {
-                  "name": "Некропола стећака Доње Мраморје",
+                  "name": "Nekropola stetshaka Donje Mramorje",
                   "text": "Un sit arheologic care cuprinde monumente funerare medievale cunoscute sub numele de Stećci.",
                   "category": "historical",
                   "coords": [
@@ -4186,7 +4186,7 @@ export const serbiaReliefV2: POI[] = [
                   ]
             },
             {
-                  "name": "Козја стена",
+                  "name": "Kozja stena",
                   "text": "Un punct de belvedere popular care oferă vederi panoramice asupra munților și văilor din jur.",
                   "category": "natural",
                   "coords": [
@@ -4195,7 +4195,7 @@ export const serbiaReliefV2: POI[] = [
                   ]
             },
             {
-                  "name": "Бањска стена",
+                  "name": "Banjska stena",
                   "text": "Un punct de belvedere faimos care oferă priveliști uimitoare asupra canionului râului Drina.",
                   "category": "natural",
                   "coords": [
@@ -4222,7 +4222,7 @@ export const serbiaReliefV2: POI[] = [
                   ]
             },
             {
-                  "name": "Велица Стена",
+                  "name": "Velitsa Stena",
                   "text": "Un punct de belvedere stâncos care oferă vederi largi asupra parcului național.",
                   "category": "natural",
                   "coords": [
@@ -4231,7 +4231,7 @@ export const serbiaReliefV2: POI[] = [
                   ]
             },
             {
-                  "name": "Видиковац Зеленика",
+                  "name": "Vidikovats Zelenika",
                   "text": "Un punct de observație ce oferă vederi asupra versanților montani verzi.",
                   "category": "natural",
                   "coords": [
@@ -4362,7 +4362,7 @@ export const serbiaReliefV2: POI[] = [
     id: "serbia-zlatibor-cicot-relief-v2", "sights": {
       "de": [
             {
-                  "name": "Позориште Златибор",
+                  "name": "Pozorishte Zlatibor",
                   "text": "Ein Veranstaltungsort für Theateraufführungen und kulturelle Events in der Region Zlatibor.",
                   "category": "cultural",
                   "coords": [
@@ -4371,7 +4371,7 @@ export const serbiaReliefV2: POI[] = [
                   ]
             },
             {
-                  "name": "Забавни парк",
+                  "name": "Zabavni park",
                   "text": "Ein Freizeitpark mit verschiedenen Fahrgeschäften und Unterhaltung für Besucher in Čičot.",
                   "category": "recreational",
                   "coords": [
@@ -4380,7 +4380,7 @@ export const serbiaReliefV2: POI[] = [
                   ]
             },
             {
-                  "name": "Планина",
+                  "name": "Planina",
                   "text": "Ein Aussichtspunkt, der einen weiten Blick auf die Naturlandschaft um Čičot bietet.",
                   "category": "natural",
                   "coords": [
@@ -4391,7 +4391,7 @@ export const serbiaReliefV2: POI[] = [
       ],
       "hu": [
             {
-                  "name": "Позориште Златибор",
+                  "name": "Pozorishte Zlatibor",
                   "text": "Színházi előadások és kulturális események helyszíne a Zlatibor régióban.",
                   "category": "cultural",
                   "coords": [
@@ -4400,7 +4400,7 @@ export const serbiaReliefV2: POI[] = [
                   ]
             },
             {
-                  "name": "Забавни парк",
+                  "name": "Zabavni park",
                   "text": "Különféle játékokat és szórakozást kínáló szabadidőpark Čičotban.",
                   "category": "recreational",
                   "coords": [
@@ -4409,7 +4409,7 @@ export const serbiaReliefV2: POI[] = [
                   ]
             },
             {
-                  "name": "Планина",
+                  "name": "Planina",
                   "text": "Egy pont, ahonnan széles kilátás nyílik a Čičot környéki tájra.",
                   "category": "natural",
                   "coords": [
@@ -4420,7 +4420,7 @@ export const serbiaReliefV2: POI[] = [
       ],
       "ro": [
             {
-                  "name": "Позориште Златибор",
+                  "name": "Pozorishte Zlatibor",
                   "text": "Un loc pentru spectacole de teatru și evenimente culturale în regiunea Zlatibor.",
                   "category": "cultural",
                   "coords": [
@@ -4429,7 +4429,7 @@ export const serbiaReliefV2: POI[] = [
                   ]
             },
             {
-                  "name": "Забавни парк",
+                  "name": "Zabavni park",
                   "text": "Un parc de distracții care oferă diverse atracții și divertisment pentru vizitatori în Čičot.",
                   "category": "recreational",
                   "coords": [
@@ -4438,7 +4438,7 @@ export const serbiaReliefV2: POI[] = [
                   ]
             },
             {
-                  "name": "Планина",
+                  "name": "Planina",
                   "text": "Un punct care oferă o vedere panoramică asupra peisajului natural din jurul localității Čičot.",
                   "category": "natural",
                   "coords": [
@@ -4614,7 +4614,7 @@ export const serbiaReliefV2: POI[] = [
     id: "serbia-stara-planina-cuka-relief-v2", "sights": {
       "de": [
             {
-                  "name": "Бабин зуб",
+                  "name": "Babin zub",
                   "text": "Ein markanter Berggipfel im Balkangebirge mit charakteristischer Felsform.",
                   "category": "landmark",
                   "coords": [
@@ -4625,7 +4625,7 @@ export const serbiaReliefV2: POI[] = [
       ],
       "hu": [
             {
-                  "name": "Бабин зуб",
+                  "name": "Babin zub",
                   "text": "Jellegzetes sziklaformájú hegycsúcs a Balkán-hegységben.",
                   "category": "landmark",
                   "coords": [
@@ -4636,7 +4636,7 @@ export const serbiaReliefV2: POI[] = [
       ],
       "ro": [
             {
-                  "name": "Бабин зуб",
+                  "name": "Babin zub",
                   "text": "Un vârf muntos proeminent din Munții Balcani, cu o formă stâncoasă caracteristică.",
                   "category": "landmark",
                   "coords": [
@@ -4866,7 +4866,7 @@ export const serbiaReliefV2: POI[] = [
     id: "serbia-zlatibor-gruda-relief-v2", "sights": {
       "de": [
             {
-                  "name": "Позориште Златибор",
+                  "name": "Pozorishte Zlatibor",
                   "text": "Ein modernes Theater in der Region Zlatibor, das ein vielfältiges Programm bietet.",
                   "category": "cultural",
                   "coords": [
@@ -4875,7 +4875,7 @@ export const serbiaReliefV2: POI[] = [
                   ]
             },
             {
-                  "name": "Забавни парк",
+                  "name": "Zabavni park",
                   "text": "Ein lokaler Freizeitpark in Gruda, der Unterhaltung für die ganze Familie bietet.",
                   "category": "recreational",
                   "coords": [
@@ -4886,7 +4886,7 @@ export const serbiaReliefV2: POI[] = [
       ],
       "hu": [
             {
-                  "name": "Позориште Златибор",
+                  "name": "Pozorishte Zlatibor",
                   "text": "Modern színház a Zlatibor régióban, amely változatos programokat kínál.",
                   "category": "cultural",
                   "coords": [
@@ -4895,7 +4895,7 @@ export const serbiaReliefV2: POI[] = [
                   ]
             },
             {
-                  "name": "Забавни парк",
+                  "name": "Zabavni park",
                   "text": "Vidámpark Gruda településen, amely szórakozást kínál az egész családnak.",
                   "category": "recreational",
                   "coords": [
@@ -4906,7 +4906,7 @@ export const serbiaReliefV2: POI[] = [
       ],
       "ro": [
             {
-                  "name": "Позориште Златибор",
+                  "name": "Pozorishte Zlatibor",
                   "text": "Un teatru modern în regiunea Zlatibor, oferind un program cultural diversificat.",
                   "category": "cultural",
                   "coords": [
@@ -4915,7 +4915,7 @@ export const serbiaReliefV2: POI[] = [
                   ]
             },
             {
-                  "name": "Забавни парк",
+                  "name": "Zabavni park",
                   "text": "Un parc de distracții local în Gruda, oferind divertisment pentru întreaga familie.",
                   "category": "recreational",
                   "coords": [

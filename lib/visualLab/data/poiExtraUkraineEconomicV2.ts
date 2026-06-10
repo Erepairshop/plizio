@@ -374,7 +374,7 @@ imageHint: "Large rocket components inside Yuzhmash factory",
     id: "ukraine-port-pivdennyi-economic-v2", "sights": {
       "de": [
             {
-                  "name": "Малий Аджалицький лиман",
+                  "name": "Malii Adzhalits'kii liman",
                   "text": "Ein Brackwasser-Ästuar an der Nordküste des Schwarzen Meeres in der Ukraine.",
                   "category": "landmark",
                   "coords": [
@@ -385,7 +385,7 @@ imageHint: "Large rocket components inside Yuzhmash factory",
       ],
       "hu": [
             {
-                  "name": "Малий Аджалицький лиман",
+                  "name": "Malii Adzhalits'kii liman",
                   "text": "Brakkvizes torkolat a Fekete-tenger északi partján, Ukrajnában.",
                   "category": "landmark",
                   "coords": [
@@ -396,7 +396,7 @@ imageHint: "Large rocket components inside Yuzhmash factory",
       ],
       "ro": [
             {
-                  "name": "Малий Аджалицький лиман",
+                  "name": "Malii Adzhalits'kii liman",
                   "text": "Un estuar cu apă salmastră pe coasta de nord a Mării Negre în Ucraina.",
                   "category": "landmark",
                   "coords": [
@@ -557,7 +557,7 @@ imageHint: "Industrial furnace facility at Nikopol Ferroalloy Plant",
     id: "ukraine-burshtyn-tpp-economic-v2", "sights": {
       "de": [
             {
-                  "name": "Касова",
+                  "name": "Kasova",
                   "text": "Ein malerischer Aussichtspunkt auf dem Kasova-Hügel bei Burschtyn.",
                   "category": "natural",
                   "coords": [
@@ -568,7 +568,7 @@ imageHint: "Industrial furnace facility at Nikopol Ferroalloy Plant",
       ],
       "hu": [
             {
-                  "name": "Касова",
+                  "name": "Kasova",
                   "text": "Festői kilátóhely a Burshtyn melletti Kasova-dombon.",
                   "category": "natural",
                   "coords": [
@@ -579,7 +579,7 @@ imageHint: "Industrial furnace facility at Nikopol Ferroalloy Plant",
       ],
       "ro": [
             {
-                  "name": "Касова",
+                  "name": "Kasova",
                   "text": "Un punct de belvedere pitoresc situat pe dealul Kasova, lângă Burștîn.",
                   "category": "natural",
                   "coords": [
@@ -1016,7 +1016,7 @@ imageHint: "Iron ore pelletizing plant at Poltava Mining",
     id: "ukraine-chornobyl-solar-economic-v2", "sights": {
       "de": [
             {
-                  "name": "Місце Чорнобильської ядерної катастрофи",
+                  "name": "Mistse Chornobil's'koyi iadernoyi katastrofi",
                   "text": "Eine Gedenkstätte am Ort der Nuklearkatastrophe von Tschernobyl von 1986.",
                   "category": "historical",
                   "coords": [
@@ -1034,7 +1034,7 @@ imageHint: "Iron ore pelletizing plant at Poltava Mining",
                   ]
             },
             {
-                  "name": "Зона підвищеної радіації",
+                  "name": "Zona pidvishchenoyi radiatsiyi",
                   "text": "Ein markierter Punkt in der Sperrzone von Tschernobyl mit erhöhten Strahlungswerten.",
                   "category": "natural",
                   "coords": [
@@ -1043,7 +1043,7 @@ imageHint: "Iron ore pelletizing plant at Poltava Mining",
                   ]
             },
             {
-                  "name": "Дерево Дружби народів",
+                  "name": "Derevo Druzhbi narodiv",
                   "text": "Ein symbolisches Denkmal in der Nähe des Kraftwerks Tschernobyl.",
                   "category": "historical",
                   "coords": [
@@ -1052,7 +1052,7 @@ imageHint: "Iron ore pelletizing plant at Poltava Mining",
                   ]
             },
             {
-                  "name": "Міст Смерті",
+                  "name": "Mist Smerti",
                   "text": "Eine Brücke in Pripjat, die für ihre Aussicht auf das Kraftwerk während der Katastrophe bekannt ist.",
                   "category": "landmark",
                   "coords": [
@@ -1061,7 +1061,7 @@ imageHint: "Iron ore pelletizing plant at Poltava Mining",
                   ]
             },
             {
-                  "name": "Вантажівка на даху",
+                  "name": "Vantazhivka na dakhu",
                   "text": "Ein auf einem Dach zurückgelassenes Fahrzeug in der Sperrzone von Tschernobyl.",
                   "category": "landmark",
                   "coords": [
@@ -1081,7 +1081,7 @@ imageHint: "Iron ore pelletizing plant at Poltava Mining",
       ],
       "hu": [
             {
-                  "name": "Місце Чорнобильської ядерної катастрофи",
+                  "name": "Mistse Chornobil's'koyi iadernoyi katastrofi",
                   "text": "Emlékhely az 1986-os csernobili atomkatasztrófa helyszínén.",
                   "category": "historical",
                   "coords": [
@@ -1090,7 +1090,7 @@ imageHint: "Iron ore pelletizing plant at Poltava Mining",
                   ]
             },
             {
-                  "name": "Міський парк",
+                  "name": "Mis'kii park",
                   "text": "Pripjaty egykori vidámparkja a jól ismert elhagyatott óriáskerékkel.",
                   "category": "park",
                   "coords": [
@@ -1099,7 +1099,7 @@ imageHint: "Iron ore pelletizing plant at Poltava Mining",
                   ]
             },
             {
-                  "name": "Зона підвищеної радіації",
+                  "name": "Zona pidvishchenoyi radiatsiyi",
                   "text": "Kijelölt pont a csernobili tilalmi zónában, megemelkedett sugárzási szintekkel.",
                   "category": "natural",
                   "coords": [
@@ -1108,7 +1108,7 @@ imageHint: "Iron ore pelletizing plant at Poltava Mining",
                   ]
             },
             {
-                  "name": "Дерево Дружби народів",
+                  "name": "Derevo Druzhbi narodiv",
                   "text": "Szimbolikus emlékmű a csernobili erőmű közelében.",
                   "category": "historical",
                   "coords": [
@@ -1117,7 +1117,7 @@ imageHint: "Iron ore pelletizing plant at Poltava Mining",
                   ]
             },
             {
-                  "name": "Міст Смерті",
+                  "name": "Mist Smerti",
                   "text": "Híd Pripjatyban, amely a katasztrófa idején az erőműre nyíló kilátásáról vált ismertté.",
                   "category": "landmark",
                   "coords": [
@@ -1126,7 +1126,7 @@ imageHint: "Iron ore pelletizing plant at Poltava Mining",
                   ]
             },
             {
-                  "name": "Вантажівка на даху",
+                  "name": "Vantazhivka na dakhu",
                   "text": "Egy tetőn hagyott jármű a csernobili tilalmi zónában.",
                   "category": "landmark",
                   "coords": [
@@ -1135,7 +1135,7 @@ imageHint: "Iron ore pelletizing plant at Poltava Mining",
                   ]
             },
             {
-                  "name": "Тир",
+                  "name": "Tir",
                   "text": "Az egykori lőtér maradványa a pripjatyi vidámparkban.",
                   "category": "landmark",
                   "coords": [
@@ -1146,7 +1146,7 @@ imageHint: "Iron ore pelletizing plant at Poltava Mining",
       ],
       "ro": [
             {
-                  "name": "Місце Чорнобильської ядерної катастрофи",
+                  "name": "Mistse Chornobil's'koyi iadernoyi katastrofi",
                   "text": "Un loc de comemorare la locul dezastrului nuclear de la Cernobîl din 1986.",
                   "category": "historical",
                   "coords": [
@@ -1155,7 +1155,7 @@ imageHint: "Iron ore pelletizing plant at Poltava Mining",
                   ]
             },
             {
-                  "name": "Міський парк",
+                  "name": "Mis'kii park",
                   "text": "Fostul parc de distracții din Pripeat, cunoscut pentru faimoasa roată abandonată.",
                   "category": "park",
                   "coords": [
@@ -1164,7 +1164,7 @@ imageHint: "Iron ore pelletizing plant at Poltava Mining",
                   ]
             },
             {
-                  "name": "Зона підвищеної радіації",
+                  "name": "Zona pidvishchenoyi radiatsiyi",
                   "text": "Un punct marcat în zona de excludere de la Cernobîl cu niveluri ridicate de radiații.",
                   "category": "natural",
                   "coords": [
@@ -1173,7 +1173,7 @@ imageHint: "Iron ore pelletizing plant at Poltava Mining",
                   ]
             },
             {
-                  "name": "Дерево Дружби народів",
+                  "name": "Derevo Druzhbi narodiv",
                   "text": "Un monument simbolic situat în apropierea centralei de la Cernobîl.",
                   "category": "historical",
                   "coords": [
@@ -1182,7 +1182,7 @@ imageHint: "Iron ore pelletizing plant at Poltava Mining",
                   ]
             },
             {
-                  "name": "Міст Смерті",
+                  "name": "Mist Smerti",
                   "text": "Un pod din Pripeat, cunoscut pentru vederea spre centrală în timpul dezastrului.",
                   "category": "landmark",
                   "coords": [
@@ -1191,7 +1191,7 @@ imageHint: "Iron ore pelletizing plant at Poltava Mining",
                   ]
             },
             {
-                  "name": "Вантажівка на даху",
+                  "name": "Vantazhivka na dakhu",
                   "text": "Un vehicul abandonat pe un acoperiș în zona de excludere de la Cernobîl.",
                   "category": "landmark",
                   "coords": [
@@ -1200,7 +1200,7 @@ imageHint: "Iron ore pelletizing plant at Poltava Mining",
                   ]
             },
             {
-                  "name": "Тир",
+                  "name": "Tir",
                   "text": "O rămășiță a fostului stand de tragere din parcul de distracții din Pripeat.",
                   "category": "landmark",
                   "coords": [
@@ -1323,7 +1323,7 @@ imageHint: "Solar panels with Chornobyl NPP in the background",
     id: "ukraine-port-reni-economic-v2", "sights": {
       "de": [
             {
-                  "name": "Морський Вокзал",
+                  "name": "Mors'kii Vokzal",
                   "text": "Ein Schiffsterminal und lokales Wahrzeichen in der ukrainischen Hafenstadt Reni.",
                   "category": "landmark",
                   "coords": [
@@ -1332,7 +1332,7 @@ imageHint: "Solar panels with Chornobyl NPP in the background",
                   ]
             },
             {
-                  "name": "Я люблю Рені",
+                  "name": "Ia liubliu Reni",
                   "text": "Ein beliebter Fotopunkt und symbolisches Zeichen in der Stadt Reni.",
                   "category": "landmark",
                   "coords": [
@@ -1343,7 +1343,7 @@ imageHint: "Solar panels with Chornobyl NPP in the background",
       ],
       "hu": [
             {
-                  "name": "Морський Вокзал",
+                  "name": "Mors'kii Vokzal",
                   "text": "Hajóállomás és helyi nevezetesség az ukrajnai Reni kikötővárosában.",
                   "category": "landmark",
                   "coords": [
@@ -1352,7 +1352,7 @@ imageHint: "Solar panels with Chornobyl NPP in the background",
                   ]
             },
             {
-                  "name": "Я люблю Рені",
+                  "name": "Ia liubliu Reni",
                   "text": "Népszerű fotópont és szimbolikus felirat Reni városában.",
                   "category": "landmark",
                   "coords": [
@@ -1363,7 +1363,7 @@ imageHint: "Solar panels with Chornobyl NPP in the background",
       ],
       "ro": [
             {
-                  "name": "Морський Вокзал",
+                  "name": "Mors'kii Vokzal",
                   "text": "Un terminal maritim și un punct de reper local în orașul-port ucrainean Reni.",
                   "category": "landmark",
                   "coords": [
@@ -1372,7 +1372,7 @@ imageHint: "Solar panels with Chornobyl NPP in the background",
                   ]
             },
             {
-                  "name": "Я люблю Рені",
+                  "name": "Ia liubliu Reni",
                   "text": "Un punct popular pentru fotografii și un semn simbolic situat în orașul Reni.",
                   "category": "landmark",
                   "coords": [

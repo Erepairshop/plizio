@@ -6,7 +6,7 @@ export const serbiaCitiesV2: POI[] = [
     id: "serbia-prijepolje-cities-v2", "sights": {
       "de": [
             {
-                  "name": "Музеј у Пријепољу",
+                  "name": "Muzej u Prijepolju",
                   "text": "Ein Regionalmuseum in Prijepolje, das das kulturelle Erbe der Region zeigt.",
                   "category": "museum",
                   "coords": [
@@ -17,7 +17,7 @@ export const serbiaCitiesV2: POI[] = [
       ],
       "hu": [
             {
-                  "name": "Музеј у Пријепољу",
+                  "name": "Muzej u Prijepolju",
                   "text": "Prijepoljei regionális múzeum, amely a környék kulturális örökségét mutatja be.",
                   "category": "museum",
                   "coords": [
@@ -28,7 +28,7 @@ export const serbiaCitiesV2: POI[] = [
       ],
       "ro": [
             {
-                  "name": "Музеј у Пријепољу",
+                  "name": "Muzej u Prijepolju",
                   "text": "Un muzeu regional din Prijepolje care prezintă patrimoniul cultural al zonei.",
                   "category": "museum",
                   "coords": [

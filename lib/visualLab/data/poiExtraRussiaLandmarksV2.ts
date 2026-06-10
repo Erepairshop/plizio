@@ -429,7 +429,7 @@ imageHint: "Pskov Krom fortress walls and river",
                   ]
             },
             {
-                  "name": "Храм Св Иоанна Богослова на Ишне",
+                  "name": "Khram Sv Ioanna Bogoslova na Ishne",
                   "text": "Eine seltene, gut erhaltene Holzkirche aus dem 17. Jahrhundert.",
                   "category": "religious",
                   "coords": [
@@ -449,7 +449,7 @@ imageHint: "Pskov Krom fortress walls and river",
                   ]
             },
             {
-                  "name": "Храм Св Иоанна Богослова на Ишне",
+                  "name": "Khram Sv Ioanna Bogoslova na Ishne",
                   "text": "Egy ritka, jó állapotban fennmaradt 17. századi fatemplom.",
                   "category": "religious",
                   "coords": [
@@ -469,7 +469,7 @@ imageHint: "Pskov Krom fortress walls and river",
                   ]
             },
             {
-                  "name": "Храм Св Иоанна Богослова на Ишне",
+                  "name": "Khram Sv Ioanna Bogoslova na Ishne",
                   "text": "O biserică de lemn rară și bine conservată din secolul al XVII-lea.",
                   "category": "religious",
                   "coords": [
@@ -777,7 +777,7 @@ imageHint: "Peter the Great Monument Moscow river ship",
     id: "russia-church-of-ascension-kolomenskoye-landmarks-v2", "sights": {
       "de": [
             {
-                  "name": "Дворец царя Алексея Михайловича",
+                  "name": "Dvorets царя Алексея Михайловича",
                   "text": "Eine prächtige Rekonstruktion des hölzernen Palastes des Zaren in Kolomenskoje.",
                   "category": "castle",
                   "coords": [
@@ -786,7 +786,7 @@ imageHint: "Peter the Great Monument Moscow river ship",
                   ]
             },
             {
-                  "name": "Усадьба коломенского крестьянина",
+                  "name": "Usad'ba kolomenskogo krest'ianina",
                   "text": "Ein Freilichtmuseum, das das bäuerliche Leben im alten Russland zeigt.",
                   "category": "museum",
                   "coords": [
@@ -795,7 +795,7 @@ imageHint: "Peter the Great Monument Moscow river ship",
                   ]
             },
             {
-                  "name": "Усадьба кузнеца",
+                  "name": "Usad'ba kuznetsa",
                   "text": "Ein Museumskomplex, der eine historische Schmiede und traditionelles Handwerk präsentiert.",
                   "category": "museum",
                   "coords": [
@@ -804,7 +804,7 @@ imageHint: "Peter the Great Monument Moscow river ship",
                   ]
             },
             {
-                  "name": "Соколиный двор",
+                  "name": "Sokolinyi dvor",
                   "text": "Ein Museum, das der Geschichte der Falknerei am Zarenhof gewidmet ist.",
                   "category": "museum",
                   "coords": [
@@ -813,7 +813,7 @@ imageHint: "Peter the Great Monument Moscow river ship",
                   ]
             },
             {
-                  "name": "Голландский домик царя Петра I",
+                  "name": "Gollandskii domik tsaria Petra I",
                   "text": "Das hölzerne Haus, in dem Zar Peter I. während seines Aufenthalts in Holland wohnte.",
                   "category": "museum",
                   "coords": [
@@ -822,7 +822,7 @@ imageHint: "Peter the Great Monument Moscow river ship",
                   ]
             },
             {
-                  "name": "Остров Мечты",
+                  "name": "Ostrov Mechty",
                   "text": "Ein großer überdachter Themenpark mit zahlreichen Attraktionen für Familien.",
                   "category": "recreational",
                   "coords": [
@@ -831,7 +831,7 @@ imageHint: "Peter the Great Monument Moscow river ship",
                   ]
             },
             {
-                  "name": "Южный речной вокзал",
+                  "name": "Iuzhnyi rechnoi vokzal",
                   "text": "Ein historisches Gebäude am Fluss, das nach seiner Renovierung als Kulturzentrum dient.",
                   "category": "landmark",
                   "coords": [
@@ -842,7 +842,7 @@ imageHint: "Peter the Great Monument Moscow river ship",
       ],
       "hu": [
             {
-                  "name": "Дворец царя Алексея Михайловича",
+                  "name": "Dvorets царя Алексея Михайловича",
                   "text": "A cár fából készült palotájának pompás rekonstrukciója Kolomenszkojéban.",
                   "category": "castle",
                   "coords": [
@@ -851,7 +851,7 @@ imageHint: "Peter the Great Monument Moscow river ship",
                   ]
             },
             {
-                  "name": "Усадьба коломенского крестьянина",
+                  "name": "Usad'ba kolomenskogo krest'ianina",
                   "text": "Szabadtéri múzeum, amely a régi oroszországi paraszti életet mutatja be.",
                   "category": "museum",
                   "coords": [
@@ -860,7 +860,7 @@ imageHint: "Peter the Great Monument Moscow river ship",
                   ]
             },
             {
-                  "name": "Усадьба кузнеца",
+                  "name": "Usad'ba kuznetsa",
                   "text": "Múzeumi komplexum, amely egy történelmi kovácsműhelyt és hagyományos mesterségeket mutat be.",
                   "category": "museum",
                   "coords": [
@@ -869,7 +869,7 @@ imageHint: "Peter the Great Monument Moscow river ship",
                   ]
             },
             {
-                  "name": "Соколиный двор",
+                  "name": "Sokolinyi dvor",
                   "text": "A cári udvar solymászatának történetét bemutató múzeum.",
                   "category": "museum",
                   "coords": [
@@ -878,7 +878,7 @@ imageHint: "Peter the Great Monument Moscow river ship",
                   ]
             },
             {
-                  "name": "Голландский домик царя Петра I",
+                  "name": "Gollandskii domik tsaria Petra I",
                   "text": "A faház, amelyben I. Péter cár lakott hollandiai tartózkodása idején.",
                   "category": "museum",
                   "coords": [
@@ -887,7 +887,7 @@ imageHint: "Peter the Great Monument Moscow river ship",
                   ]
             },
             {
-                  "name": "Остров Мечты",
+                  "name": "Ostrov Mechty",
                   "text": "Hatalmas fedett vidámpark számos attrakcióval a családok számára.",
                   "category": "recreational",
                   "coords": [
@@ -896,7 +896,7 @@ imageHint: "Peter the Great Monument Moscow river ship",
                   ]
             },
             {
-                  "name": "Южный речной вокзал",
+                  "name": "Iuzhnyi rechnoi vokzal",
                   "text": "Történelmi folyóparti épület, amely felújítása után kulturális központként működik.",
                   "category": "landmark",
                   "coords": [
@@ -907,7 +907,7 @@ imageHint: "Peter the Great Monument Moscow river ship",
       ],
       "ro": [
             {
-                  "name": "Дворец царя Алексея Михайловича",
+                  "name": "Dvorets царя Алексея Михайловича",
                   "text": "O reconstrucție magnifică a palatului de lemn al țarului din Kolomenskoe.",
                   "category": "castle",
                   "coords": [
@@ -916,7 +916,7 @@ imageHint: "Peter the Great Monument Moscow river ship",
                   ]
             },
             {
-                  "name": "Усадьба коломенского крестьянина",
+                  "name": "Usad'ba kolomenskogo krest'ianina",
                   "text": "Un muzeu în aer liber care prezintă viața țărănească din vechea Rusie.",
                   "category": "museum",
                   "coords": [
@@ -925,7 +925,7 @@ imageHint: "Peter the Great Monument Moscow river ship",
                   ]
             },
             {
-                  "name": "Усадьба кузнеца",
+                  "name": "Usad'ba kuznetsa",
                   "text": "Un complex muzeal care prezintă o forjă istorică și meșteșuguri tradiționale.",
                   "category": "museum",
                   "coords": [
@@ -934,7 +934,7 @@ imageHint: "Peter the Great Monument Moscow river ship",
                   ]
             },
             {
-                  "name": "Соколиный двор",
+                  "name": "Sokolinyi dvor",
                   "text": "Un muzeu dedicat istoriei șoimăritului la curtea țarului.",
                   "category": "museum",
                   "coords": [
@@ -943,7 +943,7 @@ imageHint: "Peter the Great Monument Moscow river ship",
                   ]
             },
             {
-                  "name": "Голландский домик царя Петра I",
+                  "name": "Gollandskii domik tsaria Petra I",
                   "text": "Casa de lemn în care a locuit țarul Petru I în timpul șederii sale în Olanda.",
                   "category": "museum",
                   "coords": [
@@ -952,7 +952,7 @@ imageHint: "Peter the Great Monument Moscow river ship",
                   ]
             },
             {
-                  "name": "Остров Мечты",
+                  "name": "Ostrov Mechty",
                   "text": "Un parc tematic acoperit de mari dimensiuni, cu numeroase atracții pentru familii.",
                   "category": "recreational",
                   "coords": [
@@ -961,7 +961,7 @@ imageHint: "Peter the Great Monument Moscow river ship",
                   ]
             },
             {
-                  "name": "Южный речной вокзал",
+                  "name": "Iuzhnyi rechnoi vokzal",
                   "text": "O clădire fluvială istorică ce servește ca centru cultural după renovare.",
                   "category": "landmark",
                   "coords": [
@@ -1186,7 +1186,7 @@ imageHint: "State Historical Museum red brick building on Red Square Moscow",
                   ]
             },
             {
-                  "name": "Камеронова галерея",
+                  "name": "Kameronova galereia",
                   "text": "Eine klassizistische Galerie im Katharinenpark, entworfen vom Architekten Charles Cameron.",
                   "category": "museum",
                   "coords": [
@@ -1204,7 +1204,7 @@ imageHint: "State Historical Museum red brick building on Red Square Moscow",
                   ]
             },
             {
-                  "name": "выставка \"Восковых персон. Любовь и власть\"",
+                  "name": "vystavka \"Voskovykh person. Liubov' i vlast'\"",
                   "text": "Ein Museum in Zarskoje Selo, das Wachsfiguren bedeutender historischer Persönlichkeiten zeigt.",
                   "category": "museum",
                   "coords": [
@@ -1213,7 +1213,7 @@ imageHint: "State Historical Museum red brick building on Red Square Moscow",
                   ]
             },
             {
-                  "name": "Царскосельский арсенал",
+                  "name": "Tsarskosel'skii arsenal",
                   "text": "Ein Museum, das eine umfangreiche Sammlung historischer Waffen und Rüstungen präsentiert.",
                   "category": "museum",
                   "coords": [
@@ -1222,7 +1222,7 @@ imageHint: "State Historical Museum red brick building on Red Square Moscow",
                   ]
             },
             {
-                  "name": "Дом-музей П. П. Чистякова",
+                  "name": "Dom-muzei P. P. Chistiakova",
                   "text": "Das ehemalige Wohnhaus und Atelier des berühmten russischen Malers und Lehrers Pawel Tschistjakow.",
                   "category": "museum",
                   "coords": [
@@ -1231,7 +1231,7 @@ imageHint: "State Historical Museum red brick building on Red Square Moscow",
                   ]
             },
             {
-                  "name": "Музей храмов Царскосельского благочиния",
+                  "name": "Muzei khramov Tsarskosel'skogo blagochiniia",
                   "text": "Ein Museum, das der religiösen Geschichte und den Kirchen der Region Zarskoje Selo gewidmet ist.",
                   "category": "museum",
                   "coords": [
@@ -1242,7 +1242,7 @@ imageHint: "State Historical Museum red brick building on Red Square Moscow",
       ],
       "hu": [
             {
-                  "name": "Александровский дворец",
+                  "name": "Aleksandrovskii dvorets",
                   "text": "Egykori császári palota Carszkoje Szelóban, II. Miklós utolsó rezidenciája.",
                   "category": "museum",
                   "coords": [
@@ -1251,7 +1251,7 @@ imageHint: "State Historical Museum red brick building on Red Square Moscow",
                   ]
             },
             {
-                  "name": "Камеронова галерея",
+                  "name": "Kameronova galereia",
                   "text": "Klasszicista galéria a Katalin-parkban, amelyet Charles Cameron építész tervezett.",
                   "category": "museum",
                   "coords": [
@@ -1260,7 +1260,7 @@ imageHint: "State Historical Museum red brick building on Red Square Moscow",
                   ]
             },
             {
-                  "name": "Екатерининский дворец",
+                  "name": "Ekaterininskii dvorets",
                   "text": "Az orosz cárok pompás rokokó stílusú nyári palotája Carszkoje Szelóban.",
                   "category": "castle",
                   "coords": [
@@ -1269,7 +1269,7 @@ imageHint: "State Historical Museum red brick building on Red Square Moscow",
                   ]
             },
             {
-                  "name": "выставка \"Восковых персон. Любовь и власть\"",
+                  "name": "vystavka \"Voskovykh person. Liubov' i vlast'\"",
                   "text": "Múzeumi kiállítás Carszkoje Szelóban, amely történelmi alakok viaszfiguráit mutatja be.",
                   "category": "museum",
                   "coords": [
@@ -1278,7 +1278,7 @@ imageHint: "State Historical Museum red brick building on Red Square Moscow",
                   ]
             },
             {
-                  "name": "Царскосельский арсенал",
+                  "name": "Tsarskosel'skii arsenal",
                   "text": "Múzeum, amely történelmi fegyverek és páncélok gazdag gyűjteményét mutatja be.",
                   "category": "museum",
                   "coords": [
@@ -1287,7 +1287,7 @@ imageHint: "State Historical Museum red brick building on Red Square Moscow",
                   ]
             },
             {
-                  "name": "Дом-музей П. П. Чистякова",
+                  "name": "Dom-muzei P. P. Chistiakova",
                   "text": "Pavel Csisztjakov híres orosz festő és tanár egykori lakóháza és műterme.",
                   "category": "museum",
                   "coords": [
@@ -1296,7 +1296,7 @@ imageHint: "State Historical Museum red brick building on Red Square Moscow",
                   ]
             },
             {
-                  "name": "Музей храмов Царскосельского благочиния",
+                  "name": "Muzei khramov Tsarskosel'skogo blagochiniia",
                   "text": "Múzeum, amely Carszkoje Szelo egyháztörténetét és templomait mutatja be.",
                   "category": "museum",
                   "coords": [
@@ -1307,7 +1307,7 @@ imageHint: "State Historical Museum red brick building on Red Square Moscow",
       ],
       "ro": [
             {
-                  "name": "Александровский дворец",
+                  "name": "Aleksandrovskii dvorets",
                   "text": "Fostul palat imperial din Țarskoe Selo, cunoscut drept ultima reședință a lui Nicolae al II-lea.",
                   "category": "museum",
                   "coords": [
@@ -1316,7 +1316,7 @@ imageHint: "State Historical Museum red brick building on Red Square Moscow",
                   ]
             },
             {
-                  "name": "Камеронова галерея",
+                  "name": "Kameronova galereia",
                   "text": "O galerie neoclasică în Parcul Ecaterina, proiectată de arhitectul Charles Cameron.",
                   "category": "museum",
                   "coords": [
@@ -1325,7 +1325,7 @@ imageHint: "State Historical Museum red brick building on Red Square Moscow",
                   ]
             },
             {
-                  "name": "Екатерининский дворец",
+                  "name": "Ekaterininskii dvorets",
                   "text": "Un somptuos palat de vară în stil rococo al țarilor ruși din Țarskoe Selo.",
                   "category": "castle",
                   "coords": [
@@ -1334,7 +1334,7 @@ imageHint: "State Historical Museum red brick building on Red Square Moscow",
                   ]
             },
             {
-                  "name": "выставка \"Восковых персон. Любовь и власть\"",
+                  "name": "vystavka \"Voskovykh person. Liubov' i vlast'\"",
                   "text": "O expoziție muzeală în Țarskoe Selo care prezintă figuri de ceară ale unor personaje istorice.",
                   "category": "museum",
                   "coords": [
@@ -1343,7 +1343,7 @@ imageHint: "State Historical Museum red brick building on Red Square Moscow",
                   ]
             },
             {
-                  "name": "Царскосельский арсенал",
+                  "name": "Tsarskosel'skii arsenal",
                   "text": "Un muzeu care prezintă o colecție vastă de arme și armuri istorice.",
                   "category": "museum",
                   "coords": [
@@ -1352,7 +1352,7 @@ imageHint: "State Historical Museum red brick building on Red Square Moscow",
                   ]
             },
             {
-                  "name": "Дом-музей П. П. Чистякова",
+                  "name": "Dom-muzei P. P. Chistiakova",
                   "text": "Fosta casă și atelier al celebrului pictor și profesor rus Pavel Cistiakov.",
                   "category": "museum",
                   "coords": [
@@ -1361,7 +1361,7 @@ imageHint: "State Historical Museum red brick building on Red Square Moscow",
                   ]
             },
             {
-                  "name": "Музей храмов Царскосельского благочиния",
+                  "name": "Muzei khramov Tsarskosel'skogo blagochiniia",
                   "text": "Un muzeu dedicat istoriei religioase și bisericilor din regiunea Țarskoe Selo.",
                   "category": "museum",
                   "coords": [
@@ -1577,7 +1577,7 @@ imageHint: "Kazan Cathedral Saint Petersburg colonnade view",
     id: "russia-tsaritsyno-palace-landmarks-v2", "sights": {
       "de": [
             {
-                  "name": "Большой Дворец",
+                  "name": "Bol'shoi Dvorets",
                   "text": "Ein prächtiger Palastkomplex im Museumsreservat Zarizyno in Moskau.",
                   "category": "castle",
                   "coords": [
@@ -1586,7 +1586,7 @@ imageHint: "Kazan Cathedral Saint Petersburg colonnade view",
                   ]
             },
             {
-                  "name": "Хлебный Дом",
+                  "name": "Khlebnyi Dom",
                   "text": "Ein ehemaliges Küchengebäude im Zarizyno-Ensemble, das heute als Museum dient.",
                   "category": "museum",
                   "coords": [
@@ -1595,7 +1595,7 @@ imageHint: "Kazan Cathedral Saint Petersburg colonnade view",
                   ]
             },
             {
-                  "name": "Второй Кавалерский Корпус",
+                  "name": "Vtoroi Kavalerskii Korpus",
                   "text": "Eines der historischen Nebengebäude im Schlosskomplex von Zarizyno.",
                   "category": "museum",
                   "coords": [
@@ -1604,7 +1604,7 @@ imageHint: "Kazan Cathedral Saint Petersburg colonnade view",
                   ]
             },
             {
-                  "name": "Третий Кавалерский корпус",
+                  "name": "Tretii Kavalerskii korpus",
                   "text": "Ein historisches Gebäude im Zarizyno-Ensemble, in dem heute Ausstellungen stattfinden.",
                   "category": "museum",
                   "coords": [
@@ -1613,7 +1613,7 @@ imageHint: "Kazan Cathedral Saint Petersburg colonnade view",
                   ]
             },
             {
-                  "name": "ПандаПарк",
+                  "name": "PandaPark",
                   "text": "Ein Seilpark im Freien, der sich im Gebiet von Zarizyno befindet.",
                   "category": "recreational",
                   "coords": [
@@ -1622,7 +1622,7 @@ imageHint: "Kazan Cathedral Saint Petersburg colonnade view",
                   ]
             },
             {
-                  "name": "Братеевский каскадный парк",
+                  "name": "Brateevskii kaskadnyi park",
                   "text": "Ein weitläufiger Park an der Moskwa mit terrassierten Landschaften.",
                   "category": "park",
                   "coords": [
@@ -1631,7 +1631,7 @@ imageHint: "Kazan Cathedral Saint Petersburg colonnade view",
                   ]
             },
             {
-                  "name": "Малый Дворец",
+                  "name": "Malyi Dvorets",
                   "text": "Ein elegantes Schlossgebäude in Zarizyno, das ursprünglich für Katharina die Große erbaut wurde.",
                   "category": "landmark",
                   "coords": [
@@ -1640,7 +1640,7 @@ imageHint: "Kazan Cathedral Saint Petersburg colonnade view",
                   ]
             },
             {
-                  "name": "Бирюлёвский лесопарк",
+                  "name": "Biriuliovskii lesopark",
                   "text": "Ein großes Waldgebiet und dendrologischer Park in der Nähe von Zarizyno.",
                   "category": "park",
                   "coords": [
@@ -1651,7 +1651,7 @@ imageHint: "Kazan Cathedral Saint Petersburg colonnade view",
       ],
       "hu": [
             {
-                  "name": "Большой Дворец",
+                  "name": "Bol'shoi Dvorets",
                   "text": "Pompás palotaegyüttes a moszkvai Caricino múzeumban.",
                   "category": "castle",
                   "coords": [
@@ -1660,7 +1660,7 @@ imageHint: "Kazan Cathedral Saint Petersburg colonnade view",
                   ]
             },
             {
-                  "name": "Хлебный Дом",
+                  "name": "Khlebnyi Dom",
                   "text": "A Caricino együttes egykori konyhaépülete, amely ma múzeumként működik.",
                   "category": "museum",
                   "coords": [
@@ -1669,7 +1669,7 @@ imageHint: "Kazan Cathedral Saint Petersburg colonnade view",
                   ]
             },
             {
-                  "name": "Второй Кавалерский Корпус",
+                  "name": "Vtoroi Kavalerskii Korpus",
                   "text": "A Caricino palotaegyüttes egyik történelmi melléképülete.",
                   "category": "museum",
                   "coords": [
@@ -1678,7 +1678,7 @@ imageHint: "Kazan Cathedral Saint Petersburg colonnade view",
                   ]
             },
             {
-                  "name": "Третий Кавалерский корпус",
+                  "name": "Tretii Kavalerskii korpus",
                   "text": "Történelmi épület a Caricino együttesben, amely ma kiállításoknak ad otthont.",
                   "category": "museum",
                   "coords": [
@@ -1687,7 +1687,7 @@ imageHint: "Kazan Cathedral Saint Petersburg colonnade view",
                   ]
             },
             {
-                  "name": "ПандаПарк",
+                  "name": "PandaPark",
                   "text": "Szabadtéri kalandpark Caricino területén.",
                   "category": "recreational",
                   "coords": [
@@ -1696,7 +1696,7 @@ imageHint: "Kazan Cathedral Saint Petersburg colonnade view",
                   ]
             },
             {
-                  "name": "Братеевский каскадный парк",
+                  "name": "Brateevskii kaskadnyi park",
                   "text": "Kiterjedt park a Moszkva folyó mentén, teraszos tájakkal.",
                   "category": "park",
                   "coords": [
@@ -1705,7 +1705,7 @@ imageHint: "Kazan Cathedral Saint Petersburg colonnade view",
                   ]
             },
             {
-                  "name": "Малый Дворец",
+                  "name": "Malyi Dvorets",
                   "text": "Elegáns palotaépület Caricinóban, amely eredetileg Nagy Katalin számára épült.",
                   "category": "landmark",
                   "coords": [
@@ -1714,7 +1714,7 @@ imageHint: "Kazan Cathedral Saint Petersburg colonnade view",
                   ]
             },
             {
-                  "name": "Бирюлёвский лесопарк",
+                  "name": "Biriuliovskii lesopark",
                   "text": "Nagy erdős terület és dendrológiai park Caricino közelében.",
                   "category": "park",
                   "coords": [
@@ -1725,7 +1725,7 @@ imageHint: "Kazan Cathedral Saint Petersburg colonnade view",
       ],
       "ro": [
             {
-                  "name": "Большой Дворец",
+                  "name": "Bol'shoi Dvorets",
                   "text": "Un complex palatial magnific din rezervația-muzeu Tarițîno din Moscova.",
                   "category": "castle",
                   "coords": [
@@ -1734,7 +1734,7 @@ imageHint: "Kazan Cathedral Saint Petersburg colonnade view",
                   ]
             },
             {
-                  "name": "Хлебный Дом",
+                  "name": "Khlebnyi Dom",
                   "text": "O fostă clădire de bucătărie din ansamblul Tarițîno, care servește acum ca muzeu.",
                   "category": "museum",
                   "coords": [
@@ -1743,7 +1743,7 @@ imageHint: "Kazan Cathedral Saint Petersburg colonnade view",
                   ]
             },
             {
-                  "name": "Второй Кавалерский Корпус",
+                  "name": "Vtoroi Kavalerskii Korpus",
                   "text": "Una dintre clădirile istorice anexe din complexul palatului Tarițîno.",
                   "category": "museum",
                   "coords": [
@@ -1752,7 +1752,7 @@ imageHint: "Kazan Cathedral Saint Petersburg colonnade view",
                   ]
             },
             {
-                  "name": "Третий Кавалерский корпус",
+                  "name": "Tretii Kavalerskii korpus",
                   "text": "O clădire istorică din ansamblul Tarițîno, care găzduiește în prezent expoziții.",
                   "category": "museum",
                   "coords": [
@@ -1761,7 +1761,7 @@ imageHint: "Kazan Cathedral Saint Petersburg colonnade view",
                   ]
             },
             {
-                  "name": "ПандаПарк",
+                  "name": "PandaPark",
                   "text": "Un parc de aventură în aer liber situat în zona Tarițîno.",
                   "category": "recreational",
                   "coords": [
@@ -1770,7 +1770,7 @@ imageHint: "Kazan Cathedral Saint Petersburg colonnade view",
                   ]
             },
             {
-                  "name": "Братеевский каскадный парк",
+                  "name": "Brateevskii kaskadnyi park",
                   "text": "Un parc vast de-a lungul râului Moscova, cu peisaje terasate.",
                   "category": "park",
                   "coords": [
@@ -1779,7 +1779,7 @@ imageHint: "Kazan Cathedral Saint Petersburg colonnade view",
                   ]
             },
             {
-                  "name": "Малый Дворец",
+                  "name": "Malyi Dvorets",
                   "text": "O clădire de palat elegantă din Tarițîno, construită inițial pentru Ecaterina cea Mare.",
                   "category": "landmark",
                   "coords": [
@@ -1788,7 +1788,7 @@ imageHint: "Kazan Cathedral Saint Petersburg colonnade view",
                   ]
             },
             {
-                  "name": "Бирюлёвский лесопарк",
+                  "name": "Biriuliovskii lesopark",
                   "text": "O zonă forestieră întinsă și un parc dendrologic situat lângă Tarițîno.",
                   "category": "park",
                   "coords": [
@@ -2113,7 +2113,7 @@ imageHint: "Russky Bridge cable-stayed Vladivostok",
                   ]
             },
             {
-                  "name": "Тульский областной краеведческий музей",
+                  "name": "Tul'skii oblastnoi kraevedcheskii muzei",
                   "text": "Ein Regionalmuseum im Tulaer Kreml, das die Geschichte des Tulaer Territoriums zeigt.",
                   "category": "museum",
                   "coords": [
@@ -2131,7 +2131,7 @@ imageHint: "Russky Bridge cable-stayed Vladivostok",
                   ]
             },
             {
-                  "name": "Тульский академический театр драмы им. М. Горького",
+                  "name": "Tul'skii akademicheskii teatr dramy im. M. Gor'kogo",
                   "text": "Eines der ältesten Dramentheater Russlands, das sich in der Stadt Tula befindet.",
                   "category": "cultural",
                   "coords": [
@@ -2140,7 +2140,7 @@ imageHint: "Russky Bridge cable-stayed Vladivostok",
                   ]
             },
             {
-                  "name": "Музейно-выставочный центр \"Тульские древности\"",
+                  "name": "Muzeino-vystavochnyi tsentr \"Tul'skie drevnosti\"",
                   "text": "Ein Museum in Tula, das sich auf die antike Geschichte und Archäologie der Region konzentriert.",
                   "category": "museum",
                   "coords": [
@@ -2149,7 +2149,7 @@ imageHint: "Russky Bridge cable-stayed Vladivostok",
                   ]
             },
             {
-                  "name": "Мемориальный музей Н. И. Белобородова",
+                  "name": "Memorial'nyi muzei N. I. Beloborodova",
                   "text": "Ein Museum, das dem Erfinder des chromatischen Akkordeons, Nikolai Beloborodow, gewidmet ist.",
                   "category": "museum",
                   "coords": [
@@ -2158,7 +2158,7 @@ imageHint: "Russky Bridge cable-stayed Vladivostok",
                   ]
             },
             {
-                  "name": "Музей Пряника",
+                  "name": "Muzei Prianika",
                   "text": "Ein Museum, das den traditionellen Tulaer Lebkuchen, bekannt als Prjanik, zeigt.",
                   "category": "museum",
                   "coords": [
@@ -2167,7 +2167,7 @@ imageHint: "Russky Bridge cable-stayed Vladivostok",
                   ]
             },
             {
-                  "name": "Тульский Камерный Драматический Театр",
+                  "name": "Tul'skii Kamernyi Dramaticheskii Teatr",
                   "text": "Ein Kammertheater im Tulaer Kreml, das dramatische Aufführungen bietet.",
                   "category": "cultural",
                   "coords": [
@@ -2178,7 +2178,7 @@ imageHint: "Russky Bridge cable-stayed Vladivostok",
       ],
       "hu": [
             {
-                  "name": "Тульские самовары",
+                  "name": "Tul'skie samovary",
                   "text": "Egyedülálló múzeum Tulában, amely az orosz szamovárok történetének és változatainak van szentelve.",
                   "category": "museum",
                   "coords": [
@@ -2187,7 +2187,7 @@ imageHint: "Russky Bridge cable-stayed Vladivostok",
                   ]
             },
             {
-                  "name": "Тульский областной краеведческий музей",
+                  "name": "Tul'skii oblastnoi kraevedcheskii muzei",
                   "text": "Regionális múzeum a Tulai Kremlben, amely a tulai terület történelmét mutatja be.",
                   "category": "museum",
                   "coords": [
@@ -2196,7 +2196,7 @@ imageHint: "Russky Bridge cable-stayed Vladivostok",
                   ]
             },
             {
-                  "name": "Кремль",
+                  "name": "Kreml'",
                   "text": "Történelmi, 16. századi kőerőd, Tula városának legrégebbi épülete.",
                   "category": "castle",
                   "coords": [
@@ -2205,7 +2205,7 @@ imageHint: "Russky Bridge cable-stayed Vladivostok",
                   ]
             },
             {
-                  "name": "Тульский академический театр драмы им. М. Горького",
+                  "name": "Tul'skii akademicheskii teatr dramy im. M. Gor'kogo",
                   "text": "Oroszország egyik legrégebbi drámai színháza, amely Tula városában található.",
                   "category": "cultural",
                   "coords": [
@@ -2214,7 +2214,7 @@ imageHint: "Russky Bridge cable-stayed Vladivostok",
                   ]
             },
             {
-                  "name": "Музейно-выставочный центр \"Тульские древности\"",
+                  "name": "Muzeino-vystavochnyi tsentr \"Tul'skie drevnosti\"",
                   "text": "Tulai múzeum, amely a régió ókori történelmére és régészetére összpontosít.",
                   "category": "museum",
                   "coords": [
@@ -2223,7 +2223,7 @@ imageHint: "Russky Bridge cable-stayed Vladivostok",
                   ]
             },
             {
-                  "name": "Мемориальный музей Н. И. Белобородова",
+                  "name": "Memorial'nyi muzei N. I. Beloborodova",
                   "text": "A kromatikus harmonika feltalálójának, Nyikolaj Beloborodovnak szentelt múzeum.",
                   "category": "museum",
                   "coords": [
@@ -2232,7 +2232,7 @@ imageHint: "Russky Bridge cable-stayed Vladivostok",
                   ]
             },
             {
-                  "name": "Музей Пряника",
+                  "name": "Muzei Prianika",
                   "text": "A hagyományos tulai mézeskalácsot, a prjanikot bemutató múzeum.",
                   "category": "museum",
                   "coords": [
@@ -2241,7 +2241,7 @@ imageHint: "Russky Bridge cable-stayed Vladivostok",
                   ]
             },
             {
-                  "name": "Тульский Камерный Драматический Театр",
+                  "name": "Tul'skii Kamernyi Dramaticheskii Teatr",
                   "text": "Kamaraszínház a Tulai Kremlben, amely drámai előadásokat mutat be.",
                   "category": "cultural",
                   "coords": [
@@ -2252,7 +2252,7 @@ imageHint: "Russky Bridge cable-stayed Vladivostok",
       ],
       "ro": [
             {
-                  "name": "Тульские самовары",
+                  "name": "Tul'skie samovary",
                   "text": "Un muzeu unic din Tula dedicat istoriei și varietății samovarelor rusești.",
                   "category": "museum",
                   "coords": [
@@ -2261,7 +2261,7 @@ imageHint: "Russky Bridge cable-stayed Vladivostok",
                   ]
             },
             {
-                  "name": "Тульский областной краеведческий музей",
+                  "name": "Tul'skii oblastnoi kraevedcheskii muzei",
                   "text": "Un muzeu regional din Kremlinul din Tula, care prezintă istoria teritoriului Tula.",
                   "category": "museum",
                   "coords": [
@@ -2270,7 +2270,7 @@ imageHint: "Russky Bridge cable-stayed Vladivostok",
                   ]
             },
             {
-                  "name": "Кремль",
+                  "name": "Kreml'",
                   "text": "O fortăreață istorică din piatră din secolul al XVI-lea și cea mai veche clădire din orașul Tula.",
                   "category": "castle",
                   "coords": [
@@ -2279,7 +2279,7 @@ imageHint: "Russky Bridge cable-stayed Vladivostok",
                   ]
             },
             {
-                  "name": "Тульский академический театр драмы им. М. Горького",
+                  "name": "Tul'skii akademicheskii teatr dramy im. M. Gor'kogo",
                   "text": "Unul dintre cele mai vechi teatre dramatice din Rusia, situat în orașul Tula.",
                   "category": "cultural",
                   "coords": [
@@ -2288,7 +2288,7 @@ imageHint: "Russky Bridge cable-stayed Vladivostok",
                   ]
             },
             {
-                  "name": "Музейно-выставочный центр \"Тульские древности\"",
+                  "name": "Muzeino-vystavochnyi tsentr \"Tul'skie drevnosti\"",
                   "text": "Un muzeu din Tula care se concentrează pe istoria antică și arheologia regiunii.",
                   "category": "museum",
                   "coords": [
@@ -2297,7 +2297,7 @@ imageHint: "Russky Bridge cable-stayed Vladivostok",
                   ]
             },
             {
-                  "name": "Мемориальный музей Н. И. Белобородова",
+                  "name": "Memorial'nyi muzei N. I. Beloborodova",
                   "text": "Un muzeu dedicat inventatorului acordeonului cromatic, Nikolai Beloborodov.",
                   "category": "museum",
                   "coords": [
@@ -2306,7 +2306,7 @@ imageHint: "Russky Bridge cable-stayed Vladivostok",
                   ]
             },
             {
-                  "name": "Музей Пряника",
+                  "name": "Muzei Prianika",
                   "text": "Un muzeu care prezintă tradiționala turtă dulce din Tula, cunoscută sub numele de pryanik.",
                   "category": "museum",
                   "coords": [
@@ -2315,7 +2315,7 @@ imageHint: "Russky Bridge cable-stayed Vladivostok",
                   ]
             },
             {
-                  "name": "Тульский Камерный Драматический Театр",
+                  "name": "Tul'skii Kamernyi Dramaticheskii Teatr",
                   "text": "Un teatru de cameră din Kremlinul din Tula, care oferă spectacole dramatice.",
                   "category": "cultural",
                   "coords": [
@@ -2447,7 +2447,7 @@ imageHint: "Tula Kremlin red brick walls and towers",
     id: "russia-kuskovo-estate-landmarks-v2", "sights": {
       "de": [
             {
-                  "name": "Московский государственный музей Вадима Сидура",
+                  "name": "Moskovskii gosudarstvennyi muzei Vadima Sidura",
                   "text": "Ein Museum in Moskau, das dem Werk des Bildhauers Vadim Sidur gewidmet ist.",
                   "category": "museum",
                   "coords": [
@@ -2465,7 +2465,7 @@ imageHint: "Tula Kremlin red brick walls and towers",
                   ]
             },
             {
-                  "name": "Центр семейного отдыха Карибия",
+                  "name": "Tsentr semeinogo otdykha Karibiia",
                   "text": "Ein beliebter Wasserpark und Freizeitzentrum in der Nähe von Kuskowo.",
                   "category": "recreational",
                   "coords": [
@@ -2483,7 +2483,7 @@ imageHint: "Tula Kremlin red brick walls and towers",
                   ]
             },
             {
-                  "name": "Музей-заповедник Кусково",
+                  "name": "Muzei-zapovednik Kuskovo",
                   "text": "Ein ehemaliges Sommergut der Grafen Sheremetev mit Parkanlagen.",
                   "category": "park",
                   "coords": [
@@ -2503,7 +2503,7 @@ imageHint: "Tula Kremlin red brick walls and towers",
       ],
       "hu": [
             {
-                  "name": "Московский государственный музей Вадима Сидура",
+                  "name": "Moskovskii gosudarstvennyi muzei Vadima Sidura",
                   "text": "Vagyim Szidur szobrászművész munkásságának szentelt múzeum Moszkvában.",
                   "category": "museum",
                   "coords": [
@@ -2521,7 +2521,7 @@ imageHint: "Tula Kremlin red brick walls and towers",
                   ]
             },
             {
-                  "name": "Центр семейного отдыха Карибия",
+                  "name": "Tsentr semeinogo otdykha Karibiia",
                   "text": "Népszerű vízipark és szabadidőközpont Kuskovo közelében.",
                   "category": "recreational",
                   "coords": [
@@ -2530,7 +2530,7 @@ imageHint: "Tula Kremlin red brick walls and towers",
                   ]
             },
             {
-                  "name": "Лесопарк «Кусково»",
+                  "name": "Lesopark <<Kuskovo>>",
                   "text": "Kiterjedt erdei park Moszkvában, amely a Kuskovo birtok mellett fekszik.",
                   "category": "park",
                   "coords": [
@@ -2539,7 +2539,7 @@ imageHint: "Tula Kremlin red brick walls and towers",
                   ]
             },
             {
-                  "name": "Музей-заповедник Кусково",
+                  "name": "Muzei-zapovednik Kuskovo",
                   "text": "A Seremetyev grófok egykori nyári birtoka és parkja.",
                   "category": "park",
                   "coords": [
@@ -2559,7 +2559,7 @@ imageHint: "Tula Kremlin red brick walls and towers",
       ],
       "ro": [
             {
-                  "name": "Московский государственный музей Вадима Сидура",
+                  "name": "Moskovskii gosudarstvennyi muzei Vadima Sidura",
                   "text": "Un muzeu din Moscova dedicat operei sculptorului Vadim Sidur.",
                   "category": "museum",
                   "coords": [
@@ -2577,7 +2577,7 @@ imageHint: "Tula Kremlin red brick walls and towers",
                   ]
             },
             {
-                  "name": "Центр семейного отдыха Карибия",
+                  "name": "Tsentr semeinogo otdykha Karibiia",
                   "text": "Un parc acvatic și centru de agrement popular lângă Kuskovo.",
                   "category": "recreational",
                   "coords": [
@@ -2586,7 +2586,7 @@ imageHint: "Tula Kremlin red brick walls and towers",
                   ]
             },
             {
-                  "name": "Лесопарк «Кусково»",
+                  "name": "Lesopark <<Kuskovo>>",
                   "text": "Un parc forestier vast în Moscova, adiacent domeniului Kuskovo.",
                   "category": "park",
                   "coords": [
@@ -2595,7 +2595,7 @@ imageHint: "Tula Kremlin red brick walls and towers",
                   ]
             },
             {
-                  "name": "Музей-заповедник Кусково",
+                  "name": "Muzei-zapovednik Kuskovo",
                   "text": "Fosta reședință de vară a conților Șeremetiev, incluzând parcuri și monumente.",
                   "category": "park",
                   "coords": [

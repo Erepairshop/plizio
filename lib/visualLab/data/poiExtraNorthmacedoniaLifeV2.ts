@@ -6,7 +6,7 @@ export const northmacedoniaLifeV2: POI[] = [
     id: "northmacedonia-galicica-life-v2", "sights": {
       "de": [
             {
-                  "name": "Залив на Коските",
+                  "name": "Zaliv na Koskite",
                   "text": "Ein Freilichtmuseum am Ohridsee, das eine prähistorische Pfahlbausiedlung rekonstruiert.",
                   "category": "museum",
                   "coords": [
@@ -15,7 +15,7 @@ export const northmacedoniaLifeV2: POI[] = [
                   ]
             },
             {
-                  "name": "Бајраче",
+                  "name": "Bajrache",
                   "text": "Ein Berggipfel im Galičica-Nationalpark mit Blick auf die umliegenden Seen.",
                   "category": "landmark",
                   "coords": [
@@ -24,7 +24,7 @@ export const northmacedoniaLifeV2: POI[] = [
                   ]
             },
             {
-                  "name": "Баба",
+                  "name": "Baba",
                   "text": "Ein hoher Aussichtspunkt im Galičica-Gebirge zwischen dem Ohrid- und Prespasee.",
                   "category": "natural",
                   "coords": [
@@ -42,7 +42,7 @@ export const northmacedoniaLifeV2: POI[] = [
                   ]
             },
             {
-                  "name": "Коритски Рид",
+                  "name": "Koritski Rid",
                   "text": "Ein Kammweg und Aussichtspunkt im Galičica-Nationalpark.",
                   "category": "natural",
                   "coords": [
@@ -51,7 +51,7 @@ export const northmacedoniaLifeV2: POI[] = [
                   ]
             },
             {
-                  "name": "Оревче",
+                  "name": "Orevche",
                   "text": "Ein Strandabschnitt und Erholungsort am Ufer des Ohridsees im Nationalpark.",
                   "category": "recreational",
                   "coords": [
@@ -62,7 +62,7 @@ export const northmacedoniaLifeV2: POI[] = [
       ],
       "hu": [
             {
-                  "name": "Залив на Коските",
+                  "name": "Zaliv na Koskite",
                   "text": "Szabadtéri múzeum az Ohridi-tónál, amely egy őskori cölöpházas települést rekonstruál.",
                   "category": "museum",
                   "coords": [
@@ -71,7 +71,7 @@ export const northmacedoniaLifeV2: POI[] = [
                   ]
             },
             {
-                  "name": "Бајраче",
+                  "name": "Bajrache",
                   "text": "Hegycsúcs a Galičica Nemzeti Parkban, kilátással a környező tavakra.",
                   "category": "landmark",
                   "coords": [
@@ -80,7 +80,7 @@ export const northmacedoniaLifeV2: POI[] = [
                   ]
             },
             {
-                  "name": "Баба",
+                  "name": "Baba",
                   "text": "Magaslati kilátópont a Galičica-hegységben az Ohridi- és a Preszpa-tó között.",
                   "category": "natural",
                   "coords": [
@@ -98,7 +98,7 @@ export const northmacedoniaLifeV2: POI[] = [
                   ]
             },
             {
-                  "name": "Коритски Рид",
+                  "name": "Koritski Rid",
                   "text": "Gerincvonal és kilátópont a Galičica Nemzeti Parkban.",
                   "category": "natural",
                   "coords": [
@@ -107,7 +107,7 @@ export const northmacedoniaLifeV2: POI[] = [
                   ]
             },
             {
-                  "name": "Оревче",
+                  "name": "Orevche",
                   "text": "Strandszakasz és pihenőhely az Ohridi-tó partján a nemzeti parkban.",
                   "category": "recreational",
                   "coords": [
@@ -118,7 +118,7 @@ export const northmacedoniaLifeV2: POI[] = [
       ],
       "ro": [
             {
-                  "name": "Залив на Коските",
+                  "name": "Zaliv na Koskite",
                   "text": "Un muzeu în aer liber pe malul lacului Ohrid, care reconstruiește o așezare preistorică pe piloni.",
                   "category": "museum",
                   "coords": [
@@ -127,7 +127,7 @@ export const northmacedoniaLifeV2: POI[] = [
                   ]
             },
             {
-                  "name": "Бајраче",
+                  "name": "Bajrache",
                   "text": "Un vârf montan în Parcul Național Galičica, cu vederi spre lacurile din jur.",
                   "category": "landmark",
                   "coords": [
@@ -136,7 +136,7 @@ export const northmacedoniaLifeV2: POI[] = [
                   ]
             },
             {
-                  "name": "Баба",
+                  "name": "Baba",
                   "text": "Un punct de belvedere înalt în munții Galičica, situat între lacurile Ohrid și Prespa.",
                   "category": "natural",
                   "coords": [
@@ -154,7 +154,7 @@ export const northmacedoniaLifeV2: POI[] = [
                   ]
             },
             {
-                  "name": "Коритски Рид",
+                  "name": "Koritski Rid",
                   "text": "O creastă și un punct de belvedere în Parcul Național Galičica.",
                   "category": "natural",
                   "coords": [
@@ -163,7 +163,7 @@ export const northmacedoniaLifeV2: POI[] = [
                   ]
             },
             {
-                  "name": "Оревче",
+                  "name": "Orevche",
                   "text": "O secțiune de plajă și loc de recreere pe malul lacului Ohrid, în parcul național.",
                   "category": "recreational",
                   "coords": [
@@ -276,7 +276,7 @@ export const northmacedoniaLifeV2: POI[] = [
     id: "northmacedonia-pelister-life-v2", "sights": {
       "de": [
             {
-                  "name": "Стив",
+                  "name": "Stiv",
                   "text": "Ein Berggipfel im Pelister-Nationalpark, der für seine Wanderwege bekannt ist.",
                   "category": "landmark",
                   "coords": [
@@ -285,7 +285,7 @@ export const northmacedoniaLifeV2: POI[] = [
                   ]
             },
             {
-                  "name": "Илинден",
+                  "name": "Ilinden",
                   "text": "Ein Gipfel im Pelister-Nationalpark mit Panoramablick auf die Berge.",
                   "category": "landmark",
                   "coords": [
@@ -294,7 +294,7 @@ export const northmacedoniaLifeV2: POI[] = [
                   ]
             },
             {
-                  "name": "Пелистер",
+                  "name": "Pelister",
                   "text": "Der höchste Gipfel des Baba-Gebirges, gelegen im Pelister-Nationalpark.",
                   "category": "landmark",
                   "coords": [
@@ -303,7 +303,7 @@ export const northmacedoniaLifeV2: POI[] = [
                   ]
             },
             {
-                  "name": "Видиковец",
+                  "name": "Vidikovets",
                   "text": "Ein markierter Aussichtspunkt mit schöner Aussicht im Pelister-Nationalpark.",
                   "category": "natural",
                   "coords": [
@@ -332,7 +332,7 @@ export const northmacedoniaLifeV2: POI[] = [
       ],
       "hu": [
             {
-                  "name": "Стив",
+                  "name": "Stiv",
                   "text": "Hegycsúcs a Peliszter Nemzeti Parkban, amely túraútvonalairól ismert.",
                   "category": "landmark",
                   "coords": [
@@ -341,7 +341,7 @@ export const northmacedoniaLifeV2: POI[] = [
                   ]
             },
             {
-                  "name": "Илинден",
+                  "name": "Ilinden",
                   "text": "Hegycsúcs a Peliszter Nemzeti Parkban, ahonnan panorámás kilátás nyílik a hegyekre.",
                   "category": "landmark",
                   "coords": [
@@ -350,7 +350,7 @@ export const northmacedoniaLifeV2: POI[] = [
                   ]
             },
             {
-                  "name": "Пелистер",
+                  "name": "Pelister",
                   "text": "A Baba-hegység legmagasabb csúcsa a Peliszter Nemzeti Parkban.",
                   "category": "landmark",
                   "coords": [
@@ -359,7 +359,7 @@ export const northmacedoniaLifeV2: POI[] = [
                   ]
             },
             {
-                  "name": "Видиковец",
+                  "name": "Vidikovets",
                   "text": "Kijelölt kilátóhely szép panorámával a Peliszter Nemzeti Parkban.",
                   "category": "natural",
                   "coords": [
@@ -388,7 +388,7 @@ export const northmacedoniaLifeV2: POI[] = [
       ],
       "ro": [
             {
-                  "name": "Стив",
+                  "name": "Stiv",
                   "text": "Un vârf de munte din Parcul Național Pelister, cunoscut pentru traseele sale de drumeție.",
                   "category": "landmark",
                   "coords": [
@@ -397,7 +397,7 @@ export const northmacedoniaLifeV2: POI[] = [
                   ]
             },
             {
-                  "name": "Илинден",
+                  "name": "Ilinden",
                   "text": "Un vârf din Parcul Național Pelister care oferă vederi panoramice asupra munților.",
                   "category": "landmark",
                   "coords": [
@@ -406,7 +406,7 @@ export const northmacedoniaLifeV2: POI[] = [
                   ]
             },
             {
-                  "name": "Пелистер",
+                  "name": "Pelister",
                   "text": "Cel mai înalt vârf din masivul Baba, situat în Parcul Național Pelister.",
                   "category": "landmark",
                   "coords": [
@@ -415,7 +415,7 @@ export const northmacedoniaLifeV2: POI[] = [
                   ]
             },
             {
-                  "name": "Видиковец",
+                  "name": "Vidikovets",
                   "text": "Un punct de belvedere desemnat care oferă panorame pitorești în Parcul Național Pelister.",
                   "category": "natural",
                   "coords": [
@@ -546,7 +546,7 @@ export const northmacedoniaLifeV2: POI[] = [
     id: "northmacedonia-mavrovo-life-v2", "sights": {
       "de": [
             {
-                  "name": "Шаркова Дупка",
+                  "name": "Sharkova Dupka",
                   "text": "Eine für Besucher erschlossene Höhle im Nationalpark Mavrovo.",
                   "category": "landmark",
                   "coords": [
@@ -564,7 +564,7 @@ export const northmacedoniaLifeV2: POI[] = [
                   ]
             },
             {
-                  "name": "Св. Никола",
+                  "name": "Sv. Nikola",
                   "text": "Eine bekannte Kirchenruine, die teilweise im Mavrovo-See versunken ist.",
                   "category": "religious",
                   "coords": [
@@ -573,7 +573,7 @@ export const northmacedoniaLifeV2: POI[] = [
                   ]
             },
             {
-                  "name": "Успение на Пресвета Богородица",
+                  "name": "Uspenie na Presveta Bogoroditsa",
                   "text": "Eine orthodoxe Kirche in der Ortschaft Mavrovo.",
                   "category": "religious",
                   "coords": [
@@ -584,7 +584,7 @@ export const northmacedoniaLifeV2: POI[] = [
       ],
       "hu": [
             {
-                  "name": "Шаркова Дупка",
+                  "name": "Sharkova Dupka",
                   "text": "Látogatható barlang a Mavrovo Nemzeti Park területén.",
                   "category": "landmark",
                   "coords": [
@@ -602,7 +602,7 @@ export const northmacedoniaLifeV2: POI[] = [
                   ]
             },
             {
-                  "name": "Св. Никола",
+                  "name": "Sv. Nikola",
                   "text": "Ismert templomrom, amely részben a Mavrovo-tó vizében áll.",
                   "category": "religious",
                   "coords": [
@@ -611,7 +611,7 @@ export const northmacedoniaLifeV2: POI[] = [
                   ]
             },
             {
-                  "name": "Успение на Пресвета Богородица",
+                  "name": "Uspenie na Presveta Bogoroditsa",
                   "text": "Ortodox templom Mavrovo településén.",
                   "category": "religious",
                   "coords": [
@@ -622,7 +622,7 @@ export const northmacedoniaLifeV2: POI[] = [
       ],
       "ro": [
             {
-                  "name": "Шаркова Дупка",
+                  "name": "Sharkova Dupka",
                   "text": "O peșteră amenajată pentru vizitatori în Parcul Național Mavrovo.",
                   "category": "landmark",
                   "coords": [
@@ -640,7 +640,7 @@ export const northmacedoniaLifeV2: POI[] = [
                   ]
             },
             {
-                  "name": "Св. Никола",
+                  "name": "Sv. Nikola",
                   "text": "O ruină de biserică faimoasă, scufundată parțial în apele lacului Mavrovo.",
                   "category": "religious",
                   "coords": [
@@ -649,7 +649,7 @@ export const northmacedoniaLifeV2: POI[] = [
                   ]
             },
             {
-                  "name": "Успение на Пресвета Богородица",
+                  "name": "Uspenie na Presveta Bogoroditsa",
                   "text": "O biserică ortodoxă situată în localitatea Mavrovo.",
                   "category": "religious",
                   "coords": [
@@ -744,7 +744,7 @@ export const northmacedoniaLifeV2: POI[] = [
     id: "northmacedonia-jasen-life-v2", "sights": {
       "de": [
             {
-                  "name": "Капина",
+                  "name": "Kapina",
                   "text": "Historische Ruinen im Jasen-Reservat in Nordmazedonien.",
                   "category": "historical",
                   "coords": [
@@ -755,7 +755,7 @@ export const northmacedoniaLifeV2: POI[] = [
       ],
       "hu": [
             {
-                  "name": "Капина",
+                  "name": "Kapina",
                   "text": "Történelmi romok az észak-macedóniai Jasen-rezervátumban.",
                   "category": "historical",
                   "coords": [
@@ -766,7 +766,7 @@ export const northmacedoniaLifeV2: POI[] = [
       ],
       "ro": [
             {
-                  "name": "Капина",
+                  "name": "Kapina",
                   "text": "Ruine istorice în Rezervația Jasen din Macedonia de Nord.",
                   "category": "historical",
                   "coords": [
@@ -879,7 +879,7 @@ export const northmacedoniaLifeV2: POI[] = [
     id: "northmacedonia-klinc-mountain-life-v2", "sights": {
       "de": [
             {
-                  "name": "Вепрчански Манастир",
+                  "name": "Veprchanski Manastir",
                   "text": "Die Überreste eines historischen Klosters am Klinc-Berg, ein Ort von kultureller Bedeutung.",
                   "category": "landmark",
                   "coords": [
@@ -888,7 +888,7 @@ export const northmacedoniaLifeV2: POI[] = [
                   ]
             },
             {
-                  "name": "Св. Спас",
+                  "name": "Sv. Spas",
                   "text": "Eine dem Heiligen Erlöser geweihte Kirche, die ein wichtiges religiöses Denkmal in der Region ist.",
                   "category": "religious",
                   "coords": [
@@ -899,7 +899,7 @@ export const northmacedoniaLifeV2: POI[] = [
       ],
       "hu": [
             {
-                  "name": "Вепрчански Манастир",
+                  "name": "Veprchanski Manastir",
                   "text": "Egy történelmi kolostor maradványai a Klinc-hegyen, amely jelentős kulturális emlékhely.",
                   "category": "landmark",
                   "coords": [
@@ -908,7 +908,7 @@ export const northmacedoniaLifeV2: POI[] = [
                   ]
             },
             {
-                  "name": "Св. Спас",
+                  "name": "Sv. Spas",
                   "text": "A Szent Megváltónak szentelt templom, amely a régió fontos vallási műemléke.",
                   "category": "religious",
                   "coords": [
@@ -919,7 +919,7 @@ export const northmacedoniaLifeV2: POI[] = [
       ],
       "ro": [
             {
-                  "name": "Вепрчански Манастир",
+                  "name": "Veprchanski Manastir",
                   "text": "Rămășițele unei mănăstiri istorice de pe muntele Klinc, un loc cu semnificație culturală.",
                   "category": "landmark",
                   "coords": [
@@ -928,7 +928,7 @@ export const northmacedoniaLifeV2: POI[] = [
                   ]
             },
             {
-                  "name": "Св. Спас",
+                  "name": "Sv. Spas",
                   "text": "O biserică dedicată Sfântului Mântuitor, care este un monument religios important în regiune.",
                   "category": "religious",
                   "coords": [
@@ -1140,7 +1140,7 @@ export const northmacedoniaLifeV2: POI[] = [
     id: "northmacedonia-crn-drin-reserve-life-v2", "sights": {
       "de": [
             {
-                  "name": "Манастирец",
+                  "name": "Manastirets",
                   "text": "Eine archäologische Stätte im Reservat am Schwarzen Drin.",
                   "category": "historical",
                   "coords": [
@@ -1149,7 +1149,7 @@ export const northmacedoniaLifeV2: POI[] = [
                   ]
             },
             {
-                  "name": "Бурлица",
+                  "name": "Burlitsa",
                   "text": "Überreste einer archäologischen Fundstätte in der Region des Schwarzen Drin.",
                   "category": "historical",
                   "coords": [
@@ -1158,7 +1158,7 @@ export const northmacedoniaLifeV2: POI[] = [
                   ]
             },
             {
-                  "name": "Кале",
+                  "name": "Kale",
                   "text": "Eine historische archäologische Stätte im Schwarzen-Drin-Reservat.",
                   "category": "historical",
                   "coords": [
@@ -1167,7 +1167,7 @@ export const northmacedoniaLifeV2: POI[] = [
                   ]
             },
             {
-                  "name": "Црквиште",
+                  "name": "Tsrkvishte",
                   "text": "Eine Ausgrabungsstätte in der Nähe des Schwarzen Drin.",
                   "category": "historical",
                   "coords": [
@@ -1176,7 +1176,7 @@ export const northmacedoniaLifeV2: POI[] = [
                   ]
             },
             {
-                  "name": "Меморијален центар Коџаџик",
+                  "name": "Memorijalen tsentar Kodzhadzhik",
                   "text": "Ein Gedenkzentrum und Museum im Black Drin Reserve.",
                   "category": "museum",
                   "coords": [
@@ -1185,7 +1185,7 @@ export const northmacedoniaLifeV2: POI[] = [
                   ]
             },
             {
-                  "name": "Свети Град",
+                  "name": "Sveti Grad",
                   "text": "Eine historische Festungsanlage in der Region des Schwarzen Drin.",
                   "category": "castle",
                   "coords": [
@@ -1194,7 +1194,7 @@ export const northmacedoniaLifeV2: POI[] = [
                   ]
             },
             {
-                  "name": "Нов Локовски Манастир",
+                  "name": "Nov Lokovski Manastir",
                   "text": "Eine religiöse und kulturelle Sehenswürdigkeit in Lokov.",
                   "category": "landmark",
                   "coords": [
@@ -1205,7 +1205,7 @@ export const northmacedoniaLifeV2: POI[] = [
       ],
       "hu": [
             {
-                  "name": "Манастирец",
+                  "name": "Manastirets",
                   "text": "Régészeti lelőhely a Fekete-Drin menti rezervátumban.",
                   "category": "historical",
                   "coords": [
@@ -1214,7 +1214,7 @@ export const northmacedoniaLifeV2: POI[] = [
                   ]
             },
             {
-                  "name": "Бурлица",
+                  "name": "Burlitsa",
                   "text": "Régészeti lelőhely maradványai a Fekete-Drin régiójában.",
                   "category": "historical",
                   "coords": [
@@ -1223,7 +1223,7 @@ export const northmacedoniaLifeV2: POI[] = [
                   ]
             },
             {
-                  "name": "Кале",
+                  "name": "Kale",
                   "text": "Történelmi régészeti helyszín a Fekete-Drin rezervátumban.",
                   "category": "historical",
                   "coords": [
@@ -1232,7 +1232,7 @@ export const northmacedoniaLifeV2: POI[] = [
                   ]
             },
             {
-                  "name": "Црквиште",
+                  "name": "Tsrkvishte",
                   "text": "Régészeti feltárási terület a Fekete-Drin közelében.",
                   "category": "historical",
                   "coords": [
@@ -1241,7 +1241,7 @@ export const northmacedoniaLifeV2: POI[] = [
                   ]
             },
             {
-                  "name": "Меморијален центар Коџаџик",
+                  "name": "Memorijalen tsentar Kodzhadzhik",
                   "text": "Emlékközpont és múzeum a Fekete-Drin rezervátumban.",
                   "category": "museum",
                   "coords": [
@@ -1250,7 +1250,7 @@ export const northmacedoniaLifeV2: POI[] = [
                   ]
             },
             {
-                  "name": "Свети Град",
+                  "name": "Sveti Grad",
                   "text": "Történelmi erődítmény a Fekete-Drin régiójában.",
                   "category": "castle",
                   "coords": [
@@ -1259,7 +1259,7 @@ export const northmacedoniaLifeV2: POI[] = [
                   ]
             },
             {
-                  "name": "Нов Локовски Манастир",
+                  "name": "Nov Lokovski Manastir",
                   "text": "Vallási és kulturális látnivaló Lokovban.",
                   "category": "landmark",
                   "coords": [
@@ -1270,7 +1270,7 @@ export const northmacedoniaLifeV2: POI[] = [
       ],
       "ro": [
             {
-                  "name": "Манастирец",
+                  "name": "Manastirets",
                   "text": "Un sit arheologic în Rezervația Drinul Negru.",
                   "category": "historical",
                   "coords": [
@@ -1279,7 +1279,7 @@ export const northmacedoniaLifeV2: POI[] = [
                   ]
             },
             {
-                  "name": "Бурлица",
+                  "name": "Burlitsa",
                   "text": "Rămășițele unui sit arheologic în regiunea Drinului Negru.",
                   "category": "historical",
                   "coords": [
@@ -1288,7 +1288,7 @@ export const northmacedoniaLifeV2: POI[] = [
                   ]
             },
             {
-                  "name": "Кале",
+                  "name": "Kale",
                   "text": "Un sit arheologic istoric în Rezervația Drinului Negru.",
                   "category": "historical",
                   "coords": [
@@ -1297,7 +1297,7 @@ export const northmacedoniaLifeV2: POI[] = [
                   ]
             },
             {
-                  "name": "Црквиште",
+                  "name": "Tsrkvishte",
                   "text": "Un sit de excavare arheologică în apropierea Drinului Negru.",
                   "category": "historical",
                   "coords": [
@@ -1306,7 +1306,7 @@ export const northmacedoniaLifeV2: POI[] = [
                   ]
             },
             {
-                  "name": "Меморијален центар Коџаџик",
+                  "name": "Memorijalen tsentar Kodzhadzhik",
                   "text": "Un centru memorial și muzeu în Rezervația Drinul Negru.",
                   "category": "museum",
                   "coords": [
@@ -1315,7 +1315,7 @@ export const northmacedoniaLifeV2: POI[] = [
                   ]
             },
             {
-                  "name": "Свети Град",
+                  "name": "Sveti Grad",
                   "text": "O fortificație istorică în regiunea Drinului Negru.",
                   "category": "castle",
                   "coords": [
@@ -1324,7 +1324,7 @@ export const northmacedoniaLifeV2: POI[] = [
                   ]
             },
             {
-                  "name": "Нов Локовски Манастир",
+                  "name": "Nov Lokovski Manastir",
                   "text": "O atracție religioasă și culturală în Lokov.",
                   "category": "landmark",
                   "coords": [
@@ -1581,7 +1581,7 @@ export const northmacedoniaLifeV2: POI[] = [
     id: "northmacedonia-blato-wetland-life-v2", "sights": {
       "de": [
             {
-                  "name": "Спомен-куќа на Татарчеви",
+                  "name": "Spomen-kukja na Tatarchevi",
                   "text": "Das historische Wohnhaus der Familie Tatarchev, heute ein Gedenkmuseum.",
                   "category": "museum",
                   "coords": [
@@ -1590,7 +1590,7 @@ export const northmacedoniaLifeV2: POI[] = [
                   ]
             },
             {
-                  "name": "Ресенски сарај",
+                  "name": "Resenski saraj",
                   "text": "Ein imposantes neoklassizistisches Gebäude in Resen, das heute als Kulturzentrum dient.",
                   "category": "landmark",
                   "coords": [
@@ -1599,7 +1599,7 @@ export const northmacedoniaLifeV2: POI[] = [
                   ]
             },
             {
-                  "name": "Добровски Манастир",
+                  "name": "Dobrovski Manastir",
                   "text": "Eine religiöse und kulturelle Stätte in der Nähe des Blato-Feuchtgebiets.",
                   "category": "landmark",
                   "coords": [
@@ -1608,7 +1608,7 @@ export const northmacedoniaLifeV2: POI[] = [
                   ]
             },
             {
-                  "name": "Св. Ѓорѓи",
+                  "name": "Sv. Gjorgji",
                   "text": "Eine orthodoxe Kirche in Resen, die dem Heiligen Georg gewidmet ist.",
                   "category": "religious",
                   "coords": [
@@ -1617,7 +1617,7 @@ export const northmacedoniaLifeV2: POI[] = [
                   ]
             },
             {
-                  "name": "Хаџимуратова џамија",
+                  "name": "Khadzhimuratova dzhamija",
                   "text": "Ein historisches islamisches Gotteshaus in der Stadt Resen.",
                   "category": "religious",
                   "coords": [
@@ -1626,7 +1626,7 @@ export const northmacedoniaLifeV2: POI[] = [
                   ]
             },
             {
-                  "name": "Хаџирамаданова џамија",
+                  "name": "Khadzhiramadanova dzhamija",
                   "text": "Eine traditionelle Moschee in Resen, die Teil des kulturellen Erbes ist.",
                   "category": "religious",
                   "coords": [
@@ -1635,7 +1635,7 @@ export const northmacedoniaLifeV2: POI[] = [
                   ]
             },
             {
-                  "name": "Св. Кирил и Методиј",
+                  "name": "Sv. Kiril i Metodij",
                   "text": "Eine orthodoxe Kirche in der Nähe des Prespa-Sees, die den Heiligen Kyrill und Method gewidmet ist.",
                   "category": "religious",
                   "coords": [
@@ -1646,7 +1646,7 @@ export const northmacedoniaLifeV2: POI[] = [
       ],
       "hu": [
             {
-                  "name": "Спомен-куќа на Татарчеви",
+                  "name": "Spomen-kukja na Tatarchevi",
                   "text": "A Tatarchev család történelmi lakóháza, ma emlékmúzeum.",
                   "category": "museum",
                   "coords": [
@@ -1655,7 +1655,7 @@ export const northmacedoniaLifeV2: POI[] = [
                   ]
             },
             {
-                  "name": "Ресенски сарај",
+                  "name": "Resenski saraj",
                   "text": "Impozáns neoklasszicista épület Resenben, amely ma kulturális központként működik.",
                   "category": "landmark",
                   "coords": [
@@ -1664,7 +1664,7 @@ export const northmacedoniaLifeV2: POI[] = [
                   ]
             },
             {
-                  "name": "Добровски Манастир",
+                  "name": "Dobrovski Manastir",
                   "text": "Vallási és kulturális helyszín a Blato-mocsár közelében.",
                   "category": "landmark",
                   "coords": [
@@ -1673,7 +1673,7 @@ export const northmacedoniaLifeV2: POI[] = [
                   ]
             },
             {
-                  "name": "Св. Ѓорѓи",
+                  "name": "Sv. Gjorgji",
                   "text": "Szent Györgynek szentelt ortodox templom Resenben.",
                   "category": "religious",
                   "coords": [
@@ -1682,7 +1682,7 @@ export const northmacedoniaLifeV2: POI[] = [
                   ]
             },
             {
-                  "name": "Хаџимуратова џамија",
+                  "name": "Khadzhimuratova dzhamija",
                   "text": "Történelmi iszlám imaház Resen városában.",
                   "category": "religious",
                   "coords": [
@@ -1691,7 +1691,7 @@ export const northmacedoniaLifeV2: POI[] = [
                   ]
             },
             {
-                  "name": "Хаџирамаданова џамија",
+                  "name": "Khadzhiramadanova dzhamija",
                   "text": "Hagyományos mecset Resenben, amely a kulturális örökség része.",
                   "category": "religious",
                   "coords": [
@@ -1700,7 +1700,7 @@ export const northmacedoniaLifeV2: POI[] = [
                   ]
             },
             {
-                  "name": "Св. Кирил и Методиј",
+                  "name": "Sv. Kiril i Metodij",
                   "text": "A Preszpa-tó közelében található ortodox templom, amelyet Szent Cirillnek és Metódnak szenteltek.",
                   "category": "religious",
                   "coords": [
@@ -1711,7 +1711,7 @@ export const northmacedoniaLifeV2: POI[] = [
       ],
       "ro": [
             {
-                  "name": "Спомен-куќа на Татарчеви",
+                  "name": "Spomen-kukja na Tatarchevi",
                   "text": "Casa istorică a familiei Tatarchev, astăzi muzeu memorial.",
                   "category": "museum",
                   "coords": [
@@ -1720,7 +1720,7 @@ export const northmacedoniaLifeV2: POI[] = [
                   ]
             },
             {
-                  "name": "Ресенски сарај",
+                  "name": "Resenski saraj",
                   "text": "O clădire neoclasică impunătoare în Resen, care servește astăzi drept centru cultural.",
                   "category": "landmark",
                   "coords": [
@@ -1729,7 +1729,7 @@ export const northmacedoniaLifeV2: POI[] = [
                   ]
             },
             {
-                  "name": "Добровски Манастир",
+                  "name": "Dobrovski Manastir",
                   "text": "Un sit religios și cultural situat în apropierea zonei umede Blato.",
                   "category": "landmark",
                   "coords": [
@@ -1738,7 +1738,7 @@ export const northmacedoniaLifeV2: POI[] = [
                   ]
             },
             {
-                  "name": "Св. Ѓорѓи",
+                  "name": "Sv. Gjorgji",
                   "text": "O biserică ortodoxă din Resen dedicată Sfântului Gheorghe.",
                   "category": "religious",
                   "coords": [
@@ -1747,7 +1747,7 @@ export const northmacedoniaLifeV2: POI[] = [
                   ]
             },
             {
-                  "name": "Хаџимуратова џамија",
+                  "name": "Khadzhimuratova dzhamija",
                   "text": "Un lăcaș de cult islamic istoric din orașul Resen.",
                   "category": "religious",
                   "coords": [
@@ -1756,7 +1756,7 @@ export const northmacedoniaLifeV2: POI[] = [
                   ]
             },
             {
-                  "name": "Хаџирамаданова џамија",
+                  "name": "Khadzhiramadanova dzhamija",
                   "text": "O moschee tradițională din Resen, parte a moștenirii culturale.",
                   "category": "religious",
                   "coords": [
@@ -1765,7 +1765,7 @@ export const northmacedoniaLifeV2: POI[] = [
                   ]
             },
             {
-                  "name": "Св. Кирил и Методиј",
+                  "name": "Sv. Kiril i Metodij",
                   "text": "O biserică ortodoxă situată în apropierea lacului Prespa, dedicată Sfinților Chiril și Metodiu.",
                   "category": "religious",
                   "coords": [
@@ -1932,7 +1932,7 @@ export const northmacedoniaLifeV2: POI[] = [
     id: "northmacedonia-skopska-crna-gora-life-v2", "sights": {
       "de": [
             {
-                  "name": "Манастир Св. Богородица",
+                  "name": "Manastir Sv. Bogoroditsa",
                   "text": "Ein Kloster in der Region Skopska Crna Gora, das der Heiligen Gottesmutter gewidmet ist.",
                   "category": "landmark",
                   "coords": [
@@ -1943,7 +1943,7 @@ export const northmacedoniaLifeV2: POI[] = [
       ],
       "hu": [
             {
-                  "name": "Манастир Св. Богородица",
+                  "name": "Manastir Sv. Bogoroditsa",
                   "text": "A Szent Szűzanya tiszteletére szentelt kolostor a Szkopszka Crna Gora régióban.",
                   "category": "landmark",
                   "coords": [
@@ -1954,7 +1954,7 @@ export const northmacedoniaLifeV2: POI[] = [
       ],
       "ro": [
             {
-                  "name": "Манастир Св. Богородица",
+                  "name": "Manastir Sv. Bogoroditsa",
                   "text": "O mănăstire în regiunea Skopska Crna Gora, dedicată Sfintei Maici a Domnului.",
                   "category": "landmark",
                   "coords": [
@@ -2067,7 +2067,7 @@ export const northmacedoniaLifeV2: POI[] = [
     id: "northmacedonia-galicnik-region-life-v2", "sights": {
       "de": [
             {
-                  "name": "Меденица",
+                  "name": "Medenitsa",
                   "text": "Medenica ist der höchste Gipfel des Bistra-Gebirges in der Region Galicnik.",
                   "category": "landmark",
                   "coords": [
@@ -2076,7 +2076,7 @@ export const northmacedoniaLifeV2: POI[] = [
                   ]
             },
             {
-                  "name": "Јанче",
+                  "name": "Janche",
                   "text": "Janche ist ein traditionelles Bergdorf in der Region Galicnik, das für seine Steinarchitektur bekannt ist.",
                   "category": "landmark",
                   "coords": [
@@ -2087,7 +2087,7 @@ export const northmacedoniaLifeV2: POI[] = [
       ],
       "hu": [
             {
-                  "name": "Меденица",
+                  "name": "Medenitsa",
                   "text": "A Medenica a Bisztra-hegység legmagasabb csúcsa a Galicsnyik régióban.",
                   "category": "landmark",
                   "coords": [
@@ -2096,7 +2096,7 @@ export const northmacedoniaLifeV2: POI[] = [
                   ]
             },
             {
-                  "name": "Јанче",
+                  "name": "Janche",
                   "text": "Janche egy hagyományos hegyi falu a Galicsnyik régióban, amely kőépítészetéről ismert.",
                   "category": "landmark",
                   "coords": [
@@ -2107,7 +2107,7 @@ export const northmacedoniaLifeV2: POI[] = [
       ],
       "ro": [
             {
-                  "name": "Меденица",
+                  "name": "Medenitsa",
                   "text": "Medenica este cel mai înalt vârf al lanțului muntos Bistra din regiunea Galicnik.",
                   "category": "landmark",
                   "coords": [
@@ -2116,7 +2116,7 @@ export const northmacedoniaLifeV2: POI[] = [
                   ]
             },
             {
-                  "name": "Јанче",
+                  "name": "Janche",
                   "text": "Janche este un sat montan tradițional din regiunea Galicnik, cunoscut pentru arhitectura sa din piatră.",
                   "category": "landmark",
                   "coords": [
@@ -2247,7 +2247,7 @@ export const northmacedoniaLifeV2: POI[] = [
                   ]
             },
             {
-                  "name": "Глувовуд",
+                  "name": "Gluvovud",
                   "text": "Eine lokale Sehenswürdigkeit und Naturlandschaft im Serava-Tal.",
                   "category": "landmark",
                   "coords": [
@@ -2256,7 +2256,7 @@ export const northmacedoniaLifeV2: POI[] = [
                   ]
             },
             {
-                  "name": "Манастир Св. Богородица",
+                  "name": "Manastir Sv. Bogoroditsa",
                   "text": "Ein orthodoxes Kloster in der ruhigen Natur des Serava-Tals.",
                   "category": "landmark",
                   "coords": [
@@ -2265,7 +2265,7 @@ export const northmacedoniaLifeV2: POI[] = [
                   ]
             },
             {
-                  "name": "Манастир Св. Никола",
+                  "name": "Манастир Sv. Nikola",
                   "text": "Ein dem Heiligen Nikolaus gewidmetes Kloster in Nordmazedonien.",
                   "category": "landmark",
                   "coords": [
@@ -2274,7 +2274,7 @@ export const northmacedoniaLifeV2: POI[] = [
                   ]
             },
             {
-                  "name": "Манастир Св. Илија",
+                  "name": "Manastir Sv. Ilija",
                   "text": "Kleines Kloster in der Nähe des Flusses Serava.",
                   "category": "landmark",
                   "coords": [
@@ -2294,7 +2294,7 @@ export const northmacedoniaLifeV2: POI[] = [
                   ]
             },
             {
-                  "name": "Глувовуд",
+                  "name": "Gluvovud",
                   "text": "Helyi látnivaló és természeti táj a Serava-völgyben.",
                   "category": "landmark",
                   "coords": [
@@ -2303,7 +2303,7 @@ export const northmacedoniaLifeV2: POI[] = [
                   ]
             },
             {
-                  "name": "Манастир Св. Богородица",
+                  "name": "Manastir Sv. Bogoroditsa",
                   "text": "Ortodox kolostor a Serava-völgy nyugodt természeti környezetében.",
                   "category": "landmark",
                   "coords": [
@@ -2312,7 +2312,7 @@ export const northmacedoniaLifeV2: POI[] = [
                   ]
             },
             {
-                  "name": "Манастир Св. Никола",
+                  "name": "Манастир Sv. Nikola",
                   "text": "Szent Miklósnak szentelt kolostor Észak-Macedóniában.",
                   "category": "landmark",
                   "coords": [
@@ -2321,7 +2321,7 @@ export const northmacedoniaLifeV2: POI[] = [
                   ]
             },
             {
-                  "name": "Манастир Св. Илија",
+                  "name": "Manastir Sv. Ilija",
                   "text": "Kis kolostor a Serava-folyó közelében.",
                   "category": "landmark",
                   "coords": [
@@ -2341,7 +2341,7 @@ export const northmacedoniaLifeV2: POI[] = [
                   ]
             },
             {
-                  "name": "Глувовуд",
+                  "name": "Gluvovud",
                   "text": "O atracție locală și peisaj natural în valea Serava.",
                   "category": "landmark",
                   "coords": [
@@ -2350,7 +2350,7 @@ export const northmacedoniaLifeV2: POI[] = [
                   ]
             },
             {
-                  "name": "Манастир Св. Богородица",
+                  "name": "Manastir Sv. Bogoroditsa",
                   "text": "O mănăstire ortodoxă în mediul natural liniștit al văii Serava.",
                   "category": "landmark",
                   "coords": [
@@ -2359,7 +2359,7 @@ export const northmacedoniaLifeV2: POI[] = [
                   ]
             },
             {
-                  "name": "Манастир Св. Никола",
+                  "name": "Манастир Sv. Nikola",
                   "text": "O mănăstire dedicată Sfântului Nicolae în Macedonia de Nord.",
                   "category": "landmark",
                   "coords": [
@@ -2368,7 +2368,7 @@ export const northmacedoniaLifeV2: POI[] = [
                   ]
             },
             {
-                  "name": "Манастир Св. Илија",
+                  "name": "Manastir Sv. Ilija",
                   "text": "O mănăstire mică situată în apropierea râului Serava.",
                   "category": "landmark",
                   "coords": [
@@ -2562,7 +2562,7 @@ export const northmacedoniaLifeV2: POI[] = [
     id: "northmacedonia-jakupica-mountain-life-v2", "sights": {
       "de": [
             {
-                  "name": "Голубарница",
+                  "name": "Golubarnitsa",
                   "text": "Höhleneingang im Jakupica-Gebirge in Nordmazedonien.",
                   "category": "landmark",
                   "coords": [
@@ -2573,7 +2573,7 @@ export const northmacedoniaLifeV2: POI[] = [
       ],
       "hu": [
             {
-                  "name": "Голубарница",
+                  "name": "Golubarnitsa",
                   "text": "Barlangbejárat az észak-macedóniai Jakupica-hegységben.",
                   "category": "landmark",
                   "coords": [
@@ -2584,7 +2584,7 @@ export const northmacedoniaLifeV2: POI[] = [
       ],
       "ro": [
             {
-                  "name": "Голубарница",
+                  "name": "Golubarnitsa",
                   "text": "O intrare în peșteră în munții Jakupica din Macedonia de Nord.",
                   "category": "landmark",
                   "coords": [
@@ -2652,7 +2652,7 @@ export const northmacedoniaLifeV2: POI[] = [
     id: "northmacedonia-treska-river-life-v2", "sights": {
       "de": [
             {
-                  "name": "Пештера Врело",
+                  "name": "Peshtera Vrelo",
                   "text": "Eine der tiefsten Unterwasserhöhlen der Welt im Matka-Canyon.",
                   "category": "landmark",
                   "coords": [
@@ -2663,7 +2663,7 @@ export const northmacedoniaLifeV2: POI[] = [
       ],
       "hu": [
             {
-                  "name": "Пештера Врело",
+                  "name": "Peshtera Vrelo",
                   "text": "A világ egyik legmélyebb víz alatti barlangja a Matka-kanyonban.",
                   "category": "landmark",
                   "coords": [
@@ -2674,7 +2674,7 @@ export const northmacedoniaLifeV2: POI[] = [
       ],
       "ro": [
             {
-                  "name": "Пештера Врело",
+                  "name": "Peshtera Vrelo",
                   "text": "Una dintre cele mai adânci peșteri subacvatice din lume, în canionul Matka.",
                   "category": "landmark",
                   "coords": [
@@ -2787,7 +2787,7 @@ export const northmacedoniaLifeV2: POI[] = [
     id: "northmacedonia-bregalnica-river-life-v2", "sights": {
       "de": [
             {
-                  "name": "Батање",
+                  "name": "Batanje",
                   "text": "Überreste einer historischen Anlage im Becken des Flusses Bregalnica.",
                   "category": "historical",
                   "coords": [
@@ -2798,7 +2798,7 @@ export const northmacedoniaLifeV2: POI[] = [
       ],
       "hu": [
             {
-                  "name": "Батање",
+                  "name": "Batanje",
                   "text": "Egy történelmi építmény maradványai a Bregalnica-folyó medencéjében.",
                   "category": "historical",
                   "coords": [
@@ -2809,7 +2809,7 @@ export const northmacedoniaLifeV2: POI[] = [
       ],
       "ro": [
             {
-                  "name": "Батање",
+                  "name": "Batanje",
                   "text": "Rămășițele unei structuri istorice în bazinul râului Bregalnica.",
                   "category": "historical",
                   "coords": [
@@ -2877,7 +2877,7 @@ export const northmacedoniaLifeV2: POI[] = [
     id: "northmacedonia-jablanica-mountain-life-v2", "sights": {
       "de": [
             {
-                  "name": "Стрижак",
+                  "name": "Strizhak",
                   "text": "Ein markanter Berggipfel im Jablanica-Gebirge in Nordmazedonien.",
                   "category": "landmark",
                   "coords": [
@@ -2888,7 +2888,7 @@ export const northmacedoniaLifeV2: POI[] = [
       ],
       "hu": [
             {
-                  "name": "Стрижак",
+                  "name": "Strizhak",
                   "text": "Jellegzetes hegycsúcs az Észak-macedóniai Jablanica-hegységben.",
                   "category": "landmark",
                   "coords": [
@@ -2899,7 +2899,7 @@ export const northmacedoniaLifeV2: POI[] = [
       ],
       "ro": [
             {
-                  "name": "Стрижак",
+                  "name": "Strizhak",
                   "text": "Un vârf montan proeminent din munții Jablanica din Macedonia de Nord.",
                   "category": "landmark",
                   "coords": [
@@ -3012,7 +3012,7 @@ export const northmacedoniaLifeV2: POI[] = [
     id: "northmacedonia-dojran-wetland-life-v2", "sights": {
       "de": [
             {
-                  "name": "Музеј на Дојран",
+                  "name": "Muzej na Dojran",
                   "text": "Ein lokales Museum, das die Natur- und Kulturgeschichte der Dojran-Region präsentiert.",
                   "category": "museum",
                   "coords": [
@@ -3030,7 +3030,7 @@ export const northmacedoniaLifeV2: POI[] = [
                   ]
             },
             {
-                  "name": "Кале Тепе",
+                  "name": "Kale Tepe",
                   "text": "Ein markanter Gipfel in der Dojran-Region, der einen weiten Blick auf das Feuchtgebiet bietet.",
                   "category": "landmark",
                   "coords": [
@@ -3039,7 +3039,7 @@ export const northmacedoniaLifeV2: POI[] = [
                   ]
             },
             {
-                  "name": "Споменик „Солунски фронт“ од I светска војна",
+                  "name": "Spomenik ,,Solunski front\" od I svetska vojna",
                   "text": "Ein Denkmal zur Erinnerung an die Ereignisse an der Salonikifront während des Ersten Weltkriegs.",
                   "category": "historical",
                   "coords": [
@@ -3059,7 +3059,7 @@ export const northmacedoniaLifeV2: POI[] = [
       ],
       "hu": [
             {
-                  "name": "Музеј на Дојран",
+                  "name": "Muzej na Dojran",
                   "text": "Helyi múzeum, amely a Dojrani-régió természetrajzát és kultúrtörténetét mutatja be.",
                   "category": "museum",
                   "coords": [
@@ -3077,7 +3077,7 @@ export const northmacedoniaLifeV2: POI[] = [
                   ]
             },
             {
-                  "name": "Кале Тепе",
+                  "name": "Kale Tepe",
                   "text": "Jellegzetes csúcs a Dojrani-régióban, amely széles kilátást nyújt a vizes élőhelyre.",
                   "category": "landmark",
                   "coords": [
@@ -3086,7 +3086,7 @@ export const northmacedoniaLifeV2: POI[] = [
                   ]
             },
             {
-                  "name": "Споменик „Солунски фронт“ од I светска војна",
+                  "name": "Spomenik ,,Solunski front\" od I svetska vojna",
                   "text": "Az első világháborús szaloniki front eseményeinek emléket állító emlékmű.",
                   "category": "historical",
                   "coords": [
@@ -3106,7 +3106,7 @@ export const northmacedoniaLifeV2: POI[] = [
       ],
       "ro": [
             {
-                  "name": "Музеј на Дојран",
+                  "name": "Muzej na Dojran",
                   "text": "Un muzeu local care prezintă istoria naturală și culturală a regiunii Dojran.",
                   "category": "museum",
                   "coords": [
@@ -3124,7 +3124,7 @@ export const northmacedoniaLifeV2: POI[] = [
                   ]
             },
             {
-                  "name": "Кале Тепе",
+                  "name": "Kale Tepe",
                   "text": "Un vârf proeminent în regiunea Dojran, oferind o vedere panoramică asupra zonelor umede.",
                   "category": "landmark",
                   "coords": [
@@ -3133,7 +3133,7 @@ export const northmacedoniaLifeV2: POI[] = [
                   ]
             },
             {
-                  "name": "Споменик „Солунски фронт“ од I светска војна",
+                  "name": "Spomenik ,,Solunski front\" od I svetska vojna",
                   "text": "Un monument dedicat evenimentelor de pe frontul din Salonic din timpul Primului Război Mondial.",
                   "category": "historical",
                   "coords": [

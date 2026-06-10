@@ -7,7 +7,7 @@ export const mkPoisPart2: POI[] = [
     id: "MK-011-dojran-lake", "sights": {
       "de": [
             {
-                  "name": "Музеј на Дојран",
+                  "name": "Muzej na Dojran",
                   "text": "Ein Heimatmuseum am Dojran-See, das über die lokale Geschichte und Natur informiert.",
                   "category": "museum",
                   "coords": [
@@ -25,7 +25,7 @@ export const mkPoisPart2: POI[] = [
                   ]
             },
             {
-                  "name": "Николиќ плажа",
+                  "name": "Nikolikj plazha",
                   "text": "Ein Strand am Dojran Lake.",
                   "category": "recreational",
                   "coords": [
@@ -45,7 +45,7 @@ export const mkPoisPart2: POI[] = [
       ],
       "hu": [
             {
-                  "name": "Музеј на Дојран",
+                  "name": "Muzej na Dojran",
                   "text": "Helytörténeti múzeum a Dojrani-tónál, amely a környék múltját és természetét mutatja be.",
                   "category": "museum",
                   "coords": [
@@ -63,7 +63,7 @@ export const mkPoisPart2: POI[] = [
                   ]
             },
             {
-                  "name": "Николиќ плажа",
+                  "name": "Nikolikj plazha",
                   "text": "Egy strand a Dojran Lake-tónál.",
                   "category": "recreational",
                   "coords": [
@@ -83,7 +83,7 @@ export const mkPoisPart2: POI[] = [
       ],
       "ro": [
             {
-                  "name": "Музеј на Дојран",
+                  "name": "Muzej na Dojran",
                   "text": "Un muzeu local la Lacul Dojran, prezentând istoria și natura regiunii.",
                   "category": "museum",
                   "coords": [
@@ -101,7 +101,7 @@ export const mkPoisPart2: POI[] = [
                   ]
             },
             {
-                  "name": "Николиќ плажа",
+                  "name": "Nikolikj plazha",
                   "text": "O plajă situată la Dojran Lake.",
                   "category": "recreational",
                   "coords": [
@@ -204,7 +204,7 @@ export const mkPoisPart2: POI[] = [
     id: "MK-011-st-elijah-church", "sights": {
       "de": [
             {
-                  "name": "Музеј на Дојран",
+                  "name": "Muzej na Dojran",
                   "text": "Ein lokales Museum in Dojran, das die Geschichte und Natur der Region präsentiert.",
                   "category": "museum",
                   "coords": [
@@ -222,7 +222,7 @@ export const mkPoisPart2: POI[] = [
                   ]
             },
             {
-                  "name": "Мрдаја",
+                  "name": "Mrdaja",
                   "text": "Ein Sandstrand am Dojran-See, der zum Entspannen und Schwimmen einlädt.",
                   "category": "recreational",
                   "coords": [
@@ -231,7 +231,7 @@ export const mkPoisPart2: POI[] = [
                   ]
             },
             {
-                  "name": "Кале Тепе",
+                  "name": "Kale Tepe",
                   "text": "Ein Berggipfel in der Nähe von Dojran mit Panoramablick auf die Umgebung.",
                   "category": "landmark",
                   "coords": [
@@ -240,7 +240,7 @@ export const mkPoisPart2: POI[] = [
                   ]
             },
             {
-                  "name": "Споменик „Солунски фронт“ од I светска војна",
+                  "name": "Spomenik ,,Solunski front\" od I svetska vojna",
                   "text": "Ein Denkmal zur Erinnerung an die Soldaten der Saloniki-Front im Ersten Weltkrieg.",
                   "category": "historical",
                   "coords": [
@@ -260,7 +260,7 @@ export const mkPoisPart2: POI[] = [
       ],
       "hu": [
             {
-                  "name": "Музеј на Дојран",
+                  "name": "Muzej na Dojran",
                   "text": "Helyi múzeum Dojranban, amely a régió történelmét és természetét mutatja be.",
                   "category": "museum",
                   "coords": [
@@ -278,7 +278,7 @@ export const mkPoisPart2: POI[] = [
                   ]
             },
             {
-                  "name": "Мрдаја",
+                  "name": "Mrdaja",
                   "text": "Egy homokos strand a Dojrani-tónál, amely kikapcsolódásra és úszásra hív.",
                   "category": "recreational",
                   "coords": [
@@ -287,7 +287,7 @@ export const mkPoisPart2: POI[] = [
                   ]
             },
             {
-                  "name": "Кале Тепе",
+                  "name": "Kale Tepe",
                   "text": "Egy hegycsúcs Dojran közelében, ahonnan panorámás kilátás nyílik a környékre.",
                   "category": "landmark",
                   "coords": [
@@ -296,7 +296,7 @@ export const mkPoisPart2: POI[] = [
                   ]
             },
             {
-                  "name": "Споменик „Солунски фронт“ од I светска војна",
+                  "name": "Spomenik ,,Solunski front\" od I svetska vojna",
                   "text": "Az első világháborús szaloniki front katonáinak emlékére állított emlékmű.",
                   "category": "historical",
                   "coords": [
@@ -316,7 +316,7 @@ export const mkPoisPart2: POI[] = [
       ],
       "ro": [
             {
-                  "name": "Музеј на Дојран",
+                  "name": "Muzej na Dojran",
                   "text": "Un muzeu local din Dojran care prezintă istoria și natura regiunii.",
                   "category": "museum",
                   "coords": [
@@ -334,7 +334,7 @@ export const mkPoisPart2: POI[] = [
                   ]
             },
             {
-                  "name": "Мрдаја",
+                  "name": "Mrdaja",
                   "text": "O plajă cu nisip la lacul Dojran, ideală pentru relaxare și înot.",
                   "category": "recreational",
                   "coords": [
@@ -343,7 +343,7 @@ export const mkPoisPart2: POI[] = [
                   ]
             },
             {
-                  "name": "Кале Тепе",
+                  "name": "Kale Tepe",
                   "text": "Un vârf montan lângă Dojran, oferind vedere panoramică asupra împrejurimilor.",
                   "category": "landmark",
                   "coords": [
@@ -352,7 +352,7 @@ export const mkPoisPart2: POI[] = [
                   ]
             },
             {
-                  "name": "Споменик „Солунски фронт“ од I светска војна",
+                  "name": "Spomenik ,,Solunski front\" od I svetska vojna",
                   "text": "Un monument dedicat soldaților de pe frontul din Salonic din Primul Război Mondial.",
                   "category": "historical",
                   "coords": [
@@ -652,7 +652,7 @@ export const mkPoisPart2: POI[] = [
     id: "MK-014-bogdanci-wind-park", "sights": {
       "de": [
             {
-                  "name": "Вардарски Рид",
+                  "name": "Vardarski Rid",
                   "text": "Archäologische Stätte mit Siedlungsspuren aus verschiedenen Epochen.",
                   "category": "historical",
                   "coords": [
@@ -661,7 +661,7 @@ export const mkPoisPart2: POI[] = [
                   ]
             },
             {
-                  "name": "Рождество на Пресвета Богородица",
+                  "name": "Rozhdestvo na Presveta Bogoroditsa",
                   "text": "Eine orthodoxe Kirche im Dorf Bogorodica bei Bogdanci.",
                   "category": "religious",
                   "coords": [
@@ -672,7 +672,7 @@ export const mkPoisPart2: POI[] = [
       ],
       "hu": [
             {
-                  "name": "Вардарски Рид",
+                  "name": "Vardarski Rid",
                   "text": "Régészeti lelőhely különböző korszakokból származó településnyomokkal.",
                   "category": "historical",
                   "coords": [
@@ -681,7 +681,7 @@ export const mkPoisPart2: POI[] = [
                   ]
             },
             {
-                  "name": "Рождество на Пресвета Богородица",
+                  "name": "Rozhdestvo na Presveta Bogoroditsa",
                   "text": "Ortodox templom Bogorodica faluban, Bogdanci közelében.",
                   "category": "religious",
                   "coords": [
@@ -692,7 +692,7 @@ export const mkPoisPart2: POI[] = [
       ],
       "ro": [
             {
-                  "name": "Вардарски Рид",
+                  "name": "Vardarski Rid",
                   "text": "Sit arheologic cu urme de așezări din diverse epoci.",
                   "category": "historical",
                   "coords": [
@@ -701,7 +701,7 @@ export const mkPoisPart2: POI[] = [
                   ]
             },
             {
-                  "name": "Рождество на Пресвета Богородица",
+                  "name": "Rozhdestvo na Presveta Bogoroditsa",
                   "text": "O biserică ortodoxă în satul Bogorodica, lângă Bogdanci.",
                   "category": "religious",
                   "coords": [
@@ -823,7 +823,7 @@ export const mkPoisPart2: POI[] = [
     id: "MK-015-vardarski-rid", "sights": {
       "de": [
             {
-                  "name": "Вардарски Рид",
+                  "name": "Vardarski Rid",
                   "text": "Eine bedeutende archäologische Stätte in Nordmazedonien, die die Überreste einer antiken Siedlung am Vardar-Fluss umfasst.",
                   "category": "historical",
                   "coords": [
@@ -832,7 +832,7 @@ export const mkPoisPart2: POI[] = [
                   ]
             },
             {
-                  "name": "Споменик на слободата",
+                  "name": "Spomenik na slobodata",
                   "text": "Ein monumentales Denkmal bei Gevgelija, das dem Widerstand und der Freiheit gewidmet ist.",
                   "category": "historical",
                   "coords": [
@@ -841,7 +841,7 @@ export const mkPoisPart2: POI[] = [
                   ]
             },
             {
-                  "name": "Рождество на Пресвета Богородица",
+                  "name": "Rozhdestvo na Presveta Bogoroditsa",
                   "text": "Eine orthodoxe Kirche in Bogorodica, bekannt für ihre traditionelle Architektur und religiöse Bedeutung.",
                   "category": "religious",
                   "coords": [
@@ -852,7 +852,7 @@ export const mkPoisPart2: POI[] = [
       ],
       "hu": [
             {
-                  "name": "Вардарски Рид",
+                  "name": "Vardarski Rid",
                   "text": "Jelentős régészeti lelőhely Észak-Macedóniában, amely egy ősi település maradványait foglalja magában a Vardar folyó mentén.",
                   "category": "historical",
                   "coords": [
@@ -861,7 +861,7 @@ export const mkPoisPart2: POI[] = [
                   ]
             },
             {
-                  "name": "Споменик на слободата",
+                  "name": "Spomenik na slobodata",
                   "text": "Gevgelija közelében található monumentális emlékmű, amelyet az ellenállásnak és a szabadságnak szenteltek.",
                   "category": "historical",
                   "coords": [
@@ -870,7 +870,7 @@ export const mkPoisPart2: POI[] = [
                   ]
             },
             {
-                  "name": "Рождество на Пресвета Богородица",
+                  "name": "Rozhdestvo na Presveta Bogoroditsa",
                   "text": "Ortodox templom Bogorodica faluban, amely hagyományos építészetéről és vallási jelentőségéről ismert.",
                   "category": "religious",
                   "coords": [
@@ -881,7 +881,7 @@ export const mkPoisPart2: POI[] = [
       ],
       "ro": [
             {
-                  "name": "Вардарски Рид",
+                  "name": "Vardarski Rid",
                   "text": "Un sit arheologic important din Macedonia de Nord, cuprinzând vestigiile unei așezări antice de pe malul râului Vardar.",
                   "category": "historical",
                   "coords": [
@@ -890,7 +890,7 @@ export const mkPoisPart2: POI[] = [
                   ]
             },
             {
-                  "name": "Споменик на слободата",
+                  "name": "Spomenik na slobodata",
                   "text": "Un monument monumental situat lângă Gevgelija, dedicat rezistenței și libertății.",
                   "category": "historical",
                   "coords": [
@@ -899,7 +899,7 @@ export const mkPoisPart2: POI[] = [
                   ]
             },
             {
-                  "name": "Рождество на Пресвета Богородица",
+                  "name": "Rozhdestvo na Presveta Bogoroditsa",
                   "text": "O biserică ortodoxă din Bogorodica, cunoscută pentru arhitectura sa tradițională și importanța sa religioasă.",
                   "category": "religious",
                   "coords": [
@@ -1118,7 +1118,7 @@ export const mkPoisPart2: POI[] = [
     id: "MK-017-kajmakcalan", "sights": {
       "de": [
             {
-                  "name": "Св. Петар",
+                  "name": "Sv. Petar",
                   "text": "Eine Gedenkkirche auf dem Berg Kajmakčalan zur Erinnerung an den Ersten Weltkrieg.",
                   "category": "landmark",
                   "coords": [
@@ -1129,7 +1129,7 @@ export const mkPoisPart2: POI[] = [
       ],
       "hu": [
             {
-                  "name": "Св. Петар",
+                  "name": "Sv. Petar",
                   "text": "Emléktemplom a Kajmakcsalan-hegyen az első világháború emlékére.",
                   "category": "landmark",
                   "coords": [
@@ -1140,7 +1140,7 @@ export const mkPoisPart2: POI[] = [
       ],
       "ro": [
             {
-                  "name": "Св. Петар",
+                  "name": "Sv. Petar",
                   "text": "O biserică memorială pe muntele Kajmakčalan, ridicată în memoria Primului Război Mondial.",
                   "category": "landmark",
                   "coords": [
@@ -1207,7 +1207,7 @@ export const mkPoisPart2: POI[] = [
     id: "MK-017-suvodol-monastery", "sights": {
       "de": [
             {
-                  "name": "Суводолски Манастир",
+                  "name": "Suvodolski Manastir",
                   "text": "Ein orthodoxes Kloster in der Nähe von Bitola, das der Geburt der Jungfrau Maria gewidmet ist.",
                   "category": "landmark",
                   "coords": [
@@ -1216,7 +1216,7 @@ export const mkPoisPart2: POI[] = [
                   ]
             },
             {
-                  "name": "Суво Дол",
+                  "name": "Suvo Dol",
                   "text": "Historische archäologische Überreste in der Gegend von Suvo Dol.",
                   "category": "historical",
                   "coords": [
@@ -1227,7 +1227,7 @@ export const mkPoisPart2: POI[] = [
       ],
       "hu": [
             {
-                  "name": "Суводолски Манастир",
+                  "name": "Suvodolski Manastir",
                   "text": "Bitola melletti ortodox kolostor, amelyet Szűz Mária születésének szenteltek.",
                   "category": "landmark",
                   "coords": [
@@ -1236,7 +1236,7 @@ export const mkPoisPart2: POI[] = [
                   ]
             },
             {
-                  "name": "Суво Дол",
+                  "name": "Suvo Dol",
                   "text": "Történelmi régészeti maradványok Suvo Dol területén.",
                   "category": "historical",
                   "coords": [
@@ -1247,7 +1247,7 @@ export const mkPoisPart2: POI[] = [
       ],
       "ro": [
             {
-                  "name": "Суводолски Манастир",
+                  "name": "Suvodolski Manastir",
                   "text": "O mănăstire ortodoxă de lângă Bitola, dedicată Nașterii Maicii Domnului.",
                   "category": "landmark",
                   "coords": [
@@ -1256,7 +1256,7 @@ export const mkPoisPart2: POI[] = [
                   ]
             },
             {
-                  "name": "Суво Дол",
+                  "name": "Suvo Dol",
                   "text": "Vestigii arheologice istorice situate în zona Suvo Dol.",
                   "category": "historical",
                   "coords": [
@@ -1333,7 +1333,7 @@ export const mkPoisPart2: POI[] = [
     id: "MK-018-markos-towers", "sights": {
       "de": [
             {
-                  "name": "Војдан Чернодрински",
+                  "name": "Vojdan Chernodrinski",
                   "text": "Das Nationaltheater in Prilep, benannt nach dem Dramatiker Chernodrinski.",
                   "category": "cultural",
                   "coords": [
@@ -1342,7 +1342,7 @@ export const mkPoisPart2: POI[] = [
                   ]
             },
             {
-                  "name": "Куќата на Ѓошеви",
+                  "name": "Kukjata na Gjoshevi",
                   "text": "Eine archäologische Stätte und ein historisches Haus im Stadtteil Varoš.",
                   "category": "historical",
                   "coords": [
@@ -1351,7 +1351,7 @@ export const mkPoisPart2: POI[] = [
                   ]
             },
             {
-                  "name": "Меморијален музеј Народен херој Кузман Јосифоски-Питу",
+                  "name": "Memorijalen muzej Naroden kheroj Kuzman Josifoski-Pitu",
                   "text": "Ein Gedenkmuseum für den makedonischen Widerstandskämpfer Josifoski-Pitu.",
                   "category": "museum",
                   "coords": [
@@ -1360,7 +1360,7 @@ export const mkPoisPart2: POI[] = [
                   ]
             },
             {
-                  "name": "Маркови Кули",
+                  "name": "Markovi Kuli",
                   "text": "Mittelalterliche Festungsruinen auf einem Hügel über Prilep.",
                   "category": "castle",
                   "coords": [
@@ -1369,7 +1369,7 @@ export const mkPoisPart2: POI[] = [
                   ]
             },
             {
-                  "name": "Куќата на Мантови",
+                  "name": "Kukjata na Mantovi",
                   "text": "Überreste eines historischen Hauses in der Nähe der Marko-Türme.",
                   "category": "historical",
                   "coords": [
@@ -1378,7 +1378,7 @@ export const mkPoisPart2: POI[] = [
                   ]
             },
             {
-                  "name": "Меморијален музеј 11. Октомври 1941",
+                  "name": "Memorijalen muzej 11. Oktomvri 1941",
                   "text": "Ein Museum, das dem antifaschistischen Aufstand von 1941 gewidmet ist.",
                   "category": "museum",
                   "coords": [
@@ -1387,7 +1387,7 @@ export const mkPoisPart2: POI[] = [
                   ]
             },
             {
-                  "name": "Комплекс Варош",
+                  "name": "Kompleks Varosh",
                   "text": "Ein Themenpark in der Nähe der Markos-Türme, der verschiedene Freizeitaktivitäten bietet.",
                   "category": "recreational",
                   "coords": [
@@ -1398,7 +1398,7 @@ export const mkPoisPart2: POI[] = [
       ],
       "hu": [
             {
-                  "name": "Војдан Чернодрински",
+                  "name": "Vojdan Chernodrinski",
                   "text": "Prilepi nemzeti színház, amely Chernodrinski drámaíró nevét viseli.",
                   "category": "cultural",
                   "coords": [
@@ -1407,7 +1407,7 @@ export const mkPoisPart2: POI[] = [
                   ]
             },
             {
-                  "name": "Куќата на Ѓошеви",
+                  "name": "Kukjata na Gjoshevi",
                   "text": "Régészeti lelőhely és történelmi ház Varoš negyedben.",
                   "category": "historical",
                   "coords": [
@@ -1416,7 +1416,7 @@ export const mkPoisPart2: POI[] = [
                   ]
             },
             {
-                  "name": "Меморијален музеј Народен херој Кузман Јосифоски-Питу",
+                  "name": "Memorijalen muzej Naroden kheroj Kuzman Josifoski-Pitu",
                   "text": "Emlékmúzeum Josifoski-Pitu macedón ellenálló tiszteletére.",
                   "category": "museum",
                   "coords": [
@@ -1425,7 +1425,7 @@ export const mkPoisPart2: POI[] = [
                   ]
             },
             {
-                  "name": "Маркови Кули",
+                  "name": "Markovi Kuli",
                   "text": "Középkori várromok a Prilep feletti dombon.",
                   "category": "castle",
                   "coords": [
@@ -1434,7 +1434,7 @@ export const mkPoisPart2: POI[] = [
                   ]
             },
             {
-                  "name": "Куќата на Мантови",
+                  "name": "Kukjata na Mantovi",
                   "text": "Történelmi ház maradványai a Markovi Kuli közelében.",
                   "category": "historical",
                   "coords": [
@@ -1443,7 +1443,7 @@ export const mkPoisPart2: POI[] = [
                   ]
             },
             {
-                  "name": "Меморијален музеј 11. Октомври 1941",
+                  "name": "Memorijalen muzej 11. Oktomvri 1941",
                   "text": "Az 1941-es antifasiszta felkelésnek szentelt múzeum.",
                   "category": "museum",
                   "coords": [
@@ -1452,7 +1452,7 @@ export const mkPoisPart2: POI[] = [
                   ]
             },
             {
-                  "name": "Комплекс Варош",
+                  "name": "Kompleks Varosh",
                   "text": "Egy szabadidőpark a Márkó-tornyok közelében, amely különféle kikapcsolódási lehetőségeket kínál.",
                   "category": "recreational",
                   "coords": [
@@ -1463,7 +1463,7 @@ export const mkPoisPart2: POI[] = [
       ],
       "ro": [
             {
-                  "name": "Војдан Чернодрински",
+                  "name": "Vojdan Chernodrinski",
                   "text": "Teatrul național din Prilep, numit după dramaturgul Cernodrinski.",
                   "category": "cultural",
                   "coords": [
@@ -1472,7 +1472,7 @@ export const mkPoisPart2: POI[] = [
                   ]
             },
             {
-                  "name": "Куќата на Ѓошеви",
+                  "name": "Kukjata na Gjoshevi",
                   "text": "Un sit arheologic și o casă istorică în cartierul Varoș.",
                   "category": "historical",
                   "coords": [
@@ -1481,7 +1481,7 @@ export const mkPoisPart2: POI[] = [
                   ]
             },
             {
-                  "name": "Меморијален музеј Народен херој Кузман Јосифоски-Питу",
+                  "name": "Memorijalen muzej Naroden kheroj Kuzman Josifoski-Pitu",
                   "text": "Un muzeu memorial dedicat luptătorului macedonean de rezistență Josifoski-Pitu.",
                   "category": "museum",
                   "coords": [
@@ -1490,7 +1490,7 @@ export const mkPoisPart2: POI[] = [
                   ]
             },
             {
-                  "name": "Маркови Кули",
+                  "name": "Markovi Kuli",
                   "text": "Ruinele unei cetăți medievale pe un deal deasupra orașului Prilep.",
                   "category": "castle",
                   "coords": [
@@ -1499,7 +1499,7 @@ export const mkPoisPart2: POI[] = [
                   ]
             },
             {
-                  "name": "Куќата на Мантови",
+                  "name": "Kukjata na Mantovi",
                   "text": "Rămășițele unei case istorice în apropierea turnurilor lui Marko.",
                   "category": "historical",
                   "coords": [
@@ -1508,7 +1508,7 @@ export const mkPoisPart2: POI[] = [
                   ]
             },
             {
-                  "name": "Меморијален музеј 11. Октомври 1941",
+                  "name": "Memorijalen muzej 11. Oktomvri 1941",
                   "text": "Un muzeu dedicat insurecției antifasciste din 1941.",
                   "category": "museum",
                   "coords": [
@@ -1517,7 +1517,7 @@ export const mkPoisPart2: POI[] = [
                   ]
             },
             {
-                  "name": "Комплекс Варош",
+                  "name": "Kompleks Varosh",
                   "text": "Un parc tematic situat lângă Turnurile lui Marko, oferind diverse activități recreative.",
                   "category": "recreational",
                   "coords": [
@@ -1638,7 +1638,7 @@ export const mkPoisPart2: POI[] = [
     id: "MK-018-monastery-treskavec", "sights": {
       "de": [
             {
-                  "name": "Трескавец",
+                  "name": "Treskavets",
                   "text": "Eine archäologische Stätte mit antiken Überresten beim Kloster Treskavec.",
                   "category": "historical",
                   "coords": [
@@ -1647,7 +1647,7 @@ export const mkPoisPart2: POI[] = [
                   ]
             },
             {
-                  "name": "Манастир Трескавец",
+                  "name": "Манастир Treskavets",
                   "text": "Ein historisches orthodoxes Kloster, das auf dem Berg Zlatovrv erbaut wurde.",
                   "category": "landmark",
                   "coords": [
@@ -1656,7 +1656,7 @@ export const mkPoisPart2: POI[] = [
                   ]
             },
             {
-                  "name": "Св. Богородица",
+                  "name": "Sv. Bogoroditsa",
                   "text": "Eine der Gottesmutter gewidmete Kirche innerhalb des Klosterkomplexes.",
                   "category": "religious",
                   "coords": [
@@ -1667,7 +1667,7 @@ export const mkPoisPart2: POI[] = [
       ],
       "hu": [
             {
-                  "name": "Трескавец",
+                  "name": "Treskavets",
                   "text": "Régészeti lelőhely ókori maradványokkal a Treskavec-kolostor közelében.",
                   "category": "historical",
                   "coords": [
@@ -1676,7 +1676,7 @@ export const mkPoisPart2: POI[] = [
                   ]
             },
             {
-                  "name": "Манастир Трескавец",
+                  "name": "Манастир Treskavets",
                   "text": "Történelmi ortodox kolostor a Zlatovrv-hegyen.",
                   "category": "landmark",
                   "coords": [
@@ -1685,7 +1685,7 @@ export const mkPoisPart2: POI[] = [
                   ]
             },
             {
-                  "name": "Св. Богородица",
+                  "name": "Sv. Bogoroditsa",
                   "text": "Az Istenszülőnek szentelt templom a kolostoregyüttes területén.",
                   "category": "religious",
                   "coords": [
@@ -1696,7 +1696,7 @@ export const mkPoisPart2: POI[] = [
       ],
       "ro": [
             {
-                  "name": "Трескавец",
+                  "name": "Treskavets",
                   "text": "Un sit arheologic cu vestigii antice lângă Mănăstirea Treskavec.",
                   "category": "historical",
                   "coords": [
@@ -1705,7 +1705,7 @@ export const mkPoisPart2: POI[] = [
                   ]
             },
             {
-                  "name": "Манастир Трескавец",
+                  "name": "Манастир Treskavets",
                   "text": "O mănăstire ortodoxă istorică construită pe muntele Zlatovrv.",
                   "category": "landmark",
                   "coords": [
@@ -1714,7 +1714,7 @@ export const mkPoisPart2: POI[] = [
                   ]
             },
             {
-                  "name": "Св. Богородица",
+                  "name": "Sv. Bogoroditsa",
                   "text": "O biserică dedicată Maicii Domnului în cadrul complexului mănăstiresc.",
                   "category": "religious",
                   "coords": [
@@ -1800,7 +1800,7 @@ export const mkPoisPart2: POI[] = [
     id: "MK-019-heraclea-lyncestis", "sights": {
       "de": [
             {
-                  "name": "Зоолошка градина",
+                  "name": "Zooloshka gradina",
                   "text": "Ein städtischer Zoo in Bitola, in dem verschiedene Tierarten beheimatet sind.",
                   "category": "recreational",
                   "coords": [
@@ -1809,7 +1809,7 @@ export const mkPoisPart2: POI[] = [
                   ]
             },
             {
-                  "name": "Битолска Тврдина",
+                  "name": "Bitolska Tvrdina",
                   "text": "Die Überreste einer mittelalterlichen Festung, die die Stadt Bitola überragt.",
                   "category": "castle",
                   "coords": [
@@ -1827,7 +1827,7 @@ export const mkPoisPart2: POI[] = [
                   ]
             },
             {
-                  "name": "Музеј на Битола",
+                  "name": "Muzej na Bitola",
                   "text": "Das Hauptmuseum von Bitola, untergebracht in einer historischen ehemaligen Kaserne.",
                   "category": "museum",
                   "coords": [
@@ -1836,7 +1836,7 @@ export const mkPoisPart2: POI[] = [
                   ]
             },
             {
-                  "name": "Хераклеа Линкестис",
+                  "name": "Kheraklea Linkestis",
                   "text": "Eine antike griechische und römische Stadt, die von Philipp II. von Mazedonien gegründet wurde und für ihre Mosaike bekannt ist.",
                   "category": "historical",
                   "coords": [
@@ -1845,7 +1845,7 @@ export const mkPoisPart2: POI[] = [
                   ]
             },
             {
-                  "name": "Музеј на христијанската и муслиманската култура",
+                  "name": "Muzej na khristijanskata i muslimanskata kultura",
                   "text": "Ein Museum in der Neuen Moschee von Bitola, das religiöse und kulturelle Geschichte zeigt.",
                   "category": "museum",
                   "coords": [
@@ -1863,7 +1863,7 @@ export const mkPoisPart2: POI[] = [
                   ]
             },
             {
-                  "name": "Св. Троица",
+                  "name": "Sv. Troitsa",
                   "text": "Eine religiöse und kulturelle Attraktion in Bitola, die oft mit historischen Kirchen in Verbindung gebracht wird.",
                   "category": "landmark",
                   "coords": [
@@ -1874,7 +1874,7 @@ export const mkPoisPart2: POI[] = [
       ],
       "hu": [
             {
-                  "name": "Зоолошка градина",
+                  "name": "Zooloshka gradina",
                   "text": "Bitola városi állatkertje, amely számos állatfajnak ad otthont.",
                   "category": "recreational",
                   "coords": [
@@ -1883,7 +1883,7 @@ export const mkPoisPart2: POI[] = [
                   ]
             },
             {
-                  "name": "Битолска Тврдина",
+                  "name": "Bitolska Tvrdina",
                   "text": "Bitola városa fölé magasodó középkori erődítmény maradványai.",
                   "category": "castle",
                   "coords": [
@@ -1901,7 +1901,7 @@ export const mkPoisPart2: POI[] = [
                   ]
             },
             {
-                  "name": "Музеј на Битола",
+                  "name": "Muzej na Bitola",
                   "text": "Bitola fő múzeuma, amely egy történelmi egykori katonai laktanyában található.",
                   "category": "museum",
                   "coords": [
@@ -1910,7 +1910,7 @@ export const mkPoisPart2: POI[] = [
                   ]
             },
             {
-                  "name": "Хераклеа Линкестис",
+                  "name": "Kheraklea Linkestis",
                   "text": "II. Philipposz macedón király által alapított ókori görög és római város, amely mozaikjairól ismert.",
                   "category": "historical",
                   "coords": [
@@ -1919,7 +1919,7 @@ export const mkPoisPart2: POI[] = [
                   ]
             },
             {
-                  "name": "Музеј на христијанската и муслиманската култура",
+                  "name": "Muzej na khristijanskata i muslimanskata kultura",
                   "text": "Bitola Új mecsetében berendezett múzeum, amely vallási és kultúrtörténeti emlékeket mutat be.",
                   "category": "museum",
                   "coords": [
@@ -1937,7 +1937,7 @@ export const mkPoisPart2: POI[] = [
                   ]
             },
             {
-                  "name": "Св. Троица",
+                  "name": "Sv. Troitsa",
                   "text": "Vallási és kulturális látnivaló Bitolában, amelyet gyakran történelmi templomokkal társítanak.",
                   "category": "landmark",
                   "coords": [
@@ -1948,7 +1948,7 @@ export const mkPoisPart2: POI[] = [
       ],
       "ro": [
             {
-                  "name": "Зоолошка градина",
+                  "name": "Zooloshka gradina",
                   "text": "O grădină zoologică municipală din Bitola, unde trăiesc diverse specii de animale.",
                   "category": "recreational",
                   "coords": [
@@ -1957,7 +1957,7 @@ export const mkPoisPart2: POI[] = [
                   ]
             },
             {
-                  "name": "Битолска Тврдина",
+                  "name": "Bitolska Tvrdina",
                   "text": "Rămășițele unei cetăți medievale care domină orașul Bitola.",
                   "category": "castle",
                   "coords": [
@@ -1975,7 +1975,7 @@ export const mkPoisPart2: POI[] = [
                   ]
             },
             {
-                  "name": "Музеј на Битола",
+                  "name": "Muzej na Bitola",
                   "text": "Principalul muzeu din Bitola, situat într-o fostă cazarmă militară istorică.",
                   "category": "museum",
                   "coords": [
@@ -1984,7 +1984,7 @@ export const mkPoisPart2: POI[] = [
                   ]
             },
             {
-                  "name": "Хераклеа Линкестис",
+                  "name": "Kheraklea Linkestis",
                   "text": "Un oraș antic grec și roman fondat de Filip al II-lea al Macedoniei, cunoscut pentru mozaicurile sale.",
                   "category": "historical",
                   "coords": [
@@ -1993,7 +1993,7 @@ export const mkPoisPart2: POI[] = [
                   ]
             },
             {
-                  "name": "Музеј на христијанската и муслиманската култура",
+                  "name": "Muzej na khristijanskata i muslimanskata kultura",
                   "text": "Un muzeu găzduit în Noua Moschee din Bitola, care prezintă istoria religioasă și culturală.",
                   "category": "museum",
                   "coords": [
@@ -2011,7 +2011,7 @@ export const mkPoisPart2: POI[] = [
                   ]
             },
             {
-                  "name": "Св. Троица",
+                  "name": "Sv. Troitsa",
                   "text": "O atracție religioasă și culturală din Bitola, adesea asociată cu biserici istorice.",
                   "category": "landmark",
                   "coords": [
@@ -2141,7 +2141,7 @@ export const mkPoisPart2: POI[] = [
     id: "MK-019-sirok-sokak", "sights": {
       "de": [
             {
-                  "name": "Зоолошка градина",
+                  "name": "Zooloshka gradina",
                   "text": "Ein städtischer Zoo, der verschiedenen Tierarten ein Zuhause bietet und ein Erholungsgebiet für Familien darstellt.",
                   "category": "recreational",
                   "coords": [
@@ -2150,7 +2150,7 @@ export const mkPoisPart2: POI[] = [
                   ]
             },
             {
-                  "name": "Битолска Тврдина",
+                  "name": "Bitolska Tvrdina",
                   "text": "Die Überreste einer Festung aus der osmanischen Zeit, die einst als Verteidigungsanlage für die Stadt diente.",
                   "category": "castle",
                   "coords": [
@@ -2168,7 +2168,7 @@ export const mkPoisPart2: POI[] = [
                   ]
             },
             {
-                  "name": "Музеј на Битола",
+                  "name": "Muzej na Bitola",
                   "text": "Dieses Museum ist in der ehemaligen osmanischen Militärakademie untergebracht und zeigt regionale archäologische und historische Artefakte.",
                   "category": "museum",
                   "coords": [
@@ -2177,7 +2177,7 @@ export const mkPoisPart2: POI[] = [
                   ]
             },
             {
-                  "name": "Хераклеа Линкестис",
+                  "name": "Kheraklea Linkestis",
                   "text": "Eine von Philipp II. von Makedonien gegründete antike Stadt, berühmt für ihre gut erhaltenen Bodenmosaike und ihr Theater.",
                   "category": "historical",
                   "coords": [
@@ -2186,7 +2186,7 @@ export const mkPoisPart2: POI[] = [
                   ]
             },
             {
-                  "name": "Музеј на христијанската и муслиманската култура",
+                  "name": "Muzej na khristijanskata i muslimanskata kultura",
                   "text": "Ein Museum im historischen Gebäude der Neuen Moschee, das die religiöse Vielfalt und Geschichte zeigt.",
                   "category": "museum",
                   "coords": [
@@ -2204,7 +2204,7 @@ export const mkPoisPart2: POI[] = [
                   ]
             },
             {
-                  "name": "Св. Троица",
+                  "name": "Sv. Troitsa",
                   "text": "Ein bedeutendes religiöses Gebäude oder eine Attraktion in Bitola, die das spirituelle Erbe der Stadt widerspiegelt.",
                   "category": "landmark",
                   "coords": [
@@ -2215,7 +2215,7 @@ export const mkPoisPart2: POI[] = [
       ],
       "hu": [
             {
-                  "name": "Зоолошка градина",
+                  "name": "Zooloshka gradina",
                   "text": "Városi állatkert, amely különböző állatfajoknak ad otthont, és szabadidős területet biztosít a családok számára.",
                   "category": "recreational",
                   "coords": [
@@ -2224,7 +2224,7 @@ export const mkPoisPart2: POI[] = [
                   ]
             },
             {
-                  "name": "Битолска Тврдина",
+                  "name": "Bitolska Tvrdina",
                   "text": "Egy oszmán kori erőd maradványai, amely egykor a város védelmi építményeként szolgált.",
                   "category": "castle",
                   "coords": [
@@ -2242,7 +2242,7 @@ export const mkPoisPart2: POI[] = [
                   ]
             },
             {
-                  "name": "Музеј на Битола",
+                  "name": "Muzej na Bitola",
                   "text": "Az egykori oszmán katonai akadémián helyet kapó múzeum regionális régészeti és történelmi leleteket mutat be.",
                   "category": "museum",
                   "coords": [
@@ -2251,7 +2251,7 @@ export const mkPoisPart2: POI[] = [
                   ]
             },
             {
-                  "name": "Хераклеа Линкестис",
+                  "name": "Kheraklea Linkestis",
                   "text": "II. Philipposz makedón király által alapított ókori város, amely jól megőrzött padlómozaikjairól és színházáról híres.",
                   "category": "historical",
                   "coords": [
@@ -2260,7 +2260,7 @@ export const mkPoisPart2: POI[] = [
                   ]
             },
             {
-                  "name": "Музеј на христијанската и муслиманската култура",
+                  "name": "Muzej na khristijanskata i muslimanskata kultura",
                   "text": "A történelmi Új-mecset épületében található múzeum, amely a vallási sokszínűséget és történelmet mutatja be.",
                   "category": "museum",
                   "coords": [
@@ -2278,7 +2278,7 @@ export const mkPoisPart2: POI[] = [
                   ]
             },
             {
-                  "name": "Св. Троица",
+                  "name": "Sv. Troitsa",
                   "text": "Jelentős vallási épület vagy látnivaló Bitolában, amely a város szellemi örökségét tükrözi.",
                   "category": "landmark",
                   "coords": [
@@ -2289,7 +2289,7 @@ export const mkPoisPart2: POI[] = [
       ],
       "ro": [
             {
-                  "name": "Зоолошка градина",
+                  "name": "Zooloshka gradina",
                   "text": "O grădină zoologică municipală care oferă adăpost diverselor specii de animale și o zonă de recreere pentru familii.",
                   "category": "recreational",
                   "coords": [
@@ -2298,7 +2298,7 @@ export const mkPoisPart2: POI[] = [
                   ]
             },
             {
-                  "name": "Битолска Тврдина",
+                  "name": "Bitolska Tvrdina",
                   "text": "Rămășițele unei cetăți din epoca otomană care a servit odată ca structură defensivă pentru oraș.",
                   "category": "castle",
                   "coords": [
@@ -2316,7 +2316,7 @@ export const mkPoisPart2: POI[] = [
                   ]
             },
             {
-                  "name": "Музеј на Битола",
+                  "name": "Muzej na Bitola",
                   "text": "Găzduit în fosta academie militară otomană, acest muzeu expune artefacte arheologice și istorice regionale.",
                   "category": "museum",
                   "coords": [
@@ -2325,7 +2325,7 @@ export const mkPoisPart2: POI[] = [
                   ]
             },
             {
-                  "name": "Хераклеа Линкестис",
+                  "name": "Kheraklea Linkestis",
                   "text": "Un oraș antic fondat de Filip al II-lea al Macedoniei, renumit pentru mozaicurile sale de pardoseală bine conservate și pentru teatru.",
                   "category": "historical",
                   "coords": [
@@ -2334,7 +2334,7 @@ export const mkPoisPart2: POI[] = [
                   ]
             },
             {
-                  "name": "Музеј на христијанската и муслиманската култура",
+                  "name": "Muzej na khristijanskata i muslimanskata kultura",
                   "text": "Un muzeu situat în clădirea istorică a Noii Moschei, care prezintă diversitatea religioasă și istoria.",
                   "category": "museum",
                   "coords": [
@@ -2352,7 +2352,7 @@ export const mkPoisPart2: POI[] = [
                   ]
             },
             {
-                  "name": "Св. Троица",
+                  "name": "Sv. Troitsa",
                   "text": "O clădire religioasă sau o atracție semnificativă din Bitola, care reflectă moștenirea spirituală a orașului.",
                   "category": "landmark",
                   "coords": [

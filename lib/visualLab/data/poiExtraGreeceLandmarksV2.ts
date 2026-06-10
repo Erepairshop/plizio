@@ -384,7 +384,7 @@ imageHint: "Circular Roman Rotunda building in Thessaloniki",
       ],
       "hu": [
             {
-                  "name": "Ακρόπολη Λίνδου",
+                  "name": "Akropole Λίνδου",
                   "text": "Lindoszi ókori fellegvár egy sziklán, Athéné Lindia templomának romjaival.",
                   "category": "historical",
                   "coords": [
@@ -393,7 +393,7 @@ imageHint: "Circular Roman Rotunda building in Thessaloniki",
                   ]
             },
             {
-                  "name": "Αρχαίο Θέατρο",
+                  "name": "Arkhaio Theatro",
                   "text": "A lindoszi Akropolisz közelében található ókori színház romjai.",
                   "category": "historical",
                   "coords": [
@@ -402,7 +402,7 @@ imageHint: "Circular Roman Rotunda building in Thessaloniki",
                   ]
             },
             {
-                  "name": "Παραλία Βλυχά",
+                  "name": "Paralia Blukha",
                   "text": "Népszerű strand Lindosznál, amely tiszta vizéről és kavicsos partjáról ismert.",
                   "category": "recreational",
                   "coords": [
@@ -449,7 +449,7 @@ imageHint: "Circular Roman Rotunda building in Thessaloniki",
                   ]
             },
             {
-                  "name": "Αρχαίο Θέατρο",
+                  "name": "Arkhaio Theatro",
                   "text": "Rămășițele unui teatru antic situat lângă Acropola din Lindos.",
                   "category": "historical",
                   "coords": [
@@ -458,7 +458,7 @@ imageHint: "Circular Roman Rotunda building in Thessaloniki",
                   ]
             },
             {
-                  "name": "Παραλία Βλυχά",
+                  "name": "Paralia Blukha",
                   "text": "O plajă populară lângă Lindos, cunoscută pentru apele sale limpezi și țărmul cu pietriș.",
                   "category": "recreational",
                   "coords": [
@@ -654,7 +654,7 @@ imageHint: "Venetian fortress walls of Rethymno overlooking the city",
                   ]
             },
             {
-                  "name": "Δελφοί",
+                  "name": "Delphoi",
                   "text": "Die weltberühmte antike Stätte von Delphi galt in der Antike als der Mittelpunkt der Welt.",
                   "category": "historical",
                   "coords": [
@@ -663,7 +663,7 @@ imageHint: "Venetian fortress walls of Rethymno overlooking the city",
                   ]
             },
             {
-                  "name": "Μουσείο Δελφών",
+                  "name": "Mouseio Delphon",
                   "text": "Dieses bedeutende Museum beherbergt wertvolle Fundstücke aus den Ausgrabungen von Delphi.",
                   "category": "museum",
                   "coords": [
@@ -681,7 +681,7 @@ imageHint: "Venetian fortress walls of Rethymno overlooking the city",
                   ]
             },
             {
-                  "name": "Φρύνιχος",
+                  "name": "Phrunikhos",
                   "text": "Überreste einer antiken Theaterstätte am historischen Ort Delphi.",
                   "category": "cultural",
                   "coords": [
@@ -710,7 +710,7 @@ imageHint: "Venetian fortress walls of Rethymno overlooking the city",
                   ]
             },
             {
-                  "name": "Δελφοί",
+                  "name": "Delphoi",
                   "text": "Delphoi világhírű ókori lelőhelye, amelyet az antikvitásban a világ közepének tartottak.",
                   "category": "historical",
                   "coords": [
@@ -719,7 +719,7 @@ imageHint: "Venetian fortress walls of Rethymno overlooking the city",
                   ]
             },
             {
-                  "name": "Μουσείο Δελφών",
+                  "name": "Mouseio Delphon",
                   "text": "Ez a jelentős múzeum a delphoi ásatások legfontosabb leleteit őrzi.",
                   "category": "museum",
                   "coords": [
@@ -737,7 +737,7 @@ imageHint: "Venetian fortress walls of Rethymno overlooking the city",
                   ]
             },
             {
-                  "name": "Φρύνιχος",
+                  "name": "Phrunikhos",
                   "text": "Egy ókori színház maradványai a történelmi Delphoi területén.",
                   "category": "cultural",
                   "coords": [
@@ -766,7 +766,7 @@ imageHint: "Venetian fortress walls of Rethymno overlooking the city",
                   ]
             },
             {
-                  "name": "Δελφοί",
+                  "name": "Delphoi",
                   "text": "Situl antic de renume mondial Delphi, considerat în antichitate centrul lumii.",
                   "category": "historical",
                   "coords": [
@@ -775,7 +775,7 @@ imageHint: "Venetian fortress walls of Rethymno overlooking the city",
                   ]
             },
             {
-                  "name": "Μουσείο Δελφών",
+                  "name": "Mouseio Delphon",
                   "text": "Acest muzeu important adăpostește descoperiri valoroase din săpăturile de la Delphi.",
                   "category": "museum",
                   "coords": [
@@ -793,7 +793,7 @@ imageHint: "Venetian fortress walls of Rethymno overlooking the city",
                   ]
             },
             {
-                  "name": "Φρύνιχος",
+                  "name": "Phrunikhos",
                   "text": "Vestigiile unui teatru antic situat în cadrul sitului istoric Delphi.",
                   "category": "cultural",
                   "coords": [
@@ -925,7 +925,7 @@ imageHint: "Doric columns of the Temple of Apollo in Delphi",
                   ]
             },
             {
-                  "name": "Δελφοί",
+                  "name": "Delphoi",
                   "text": "Die antike Stadt Delphi, die einst als das Zentrum der Welt und Sitz des Orakels galt.",
                   "category": "historical",
                   "coords": [
@@ -934,7 +934,7 @@ imageHint: "Doric columns of the Temple of Apollo in Delphi",
                   ]
             },
             {
-                  "name": "Μουσείο Δελφών",
+                  "name": "Mouseio Delphon",
                   "text": "Das Museum zeigt bedeutende Funde aus dem Heiligtum von Delphi, darunter den berühmten Wagenlenker.",
                   "category": "museum",
                   "coords": [
@@ -952,7 +952,7 @@ imageHint: "Doric columns of the Temple of Apollo in Delphi",
                   ]
             },
             {
-                  "name": "Φρύνιχος",
+                  "name": "Phrunikhos",
                   "text": "Ein antikes Theater in Delphi, das für Aufführungen und kulturelle Veranstaltungen genutzt wurde.",
                   "category": "cultural",
                   "coords": [
@@ -981,7 +981,7 @@ imageHint: "Doric columns of the Temple of Apollo in Delphi",
                   ]
             },
             {
-                  "name": "Δελφοί",
+                  "name": "Delphoi",
                   "text": "Delphoi ókori városa, amelyet egykor a világ központjaként és a jósda székhelyeként tiszteltek.",
                   "category": "historical",
                   "coords": [
@@ -990,7 +990,7 @@ imageHint: "Doric columns of the Temple of Apollo in Delphi",
                   ]
             },
             {
-                  "name": "Μουσείο Δελφών",
+                  "name": "Mouseio Delphon",
                   "text": "A múzeum a delphoi szentély jelentős leleteit mutatja be, köztük a híres kocsihajtót.",
                   "category": "museum",
                   "coords": [
@@ -1008,7 +1008,7 @@ imageHint: "Doric columns of the Temple of Apollo in Delphi",
                   ]
             },
             {
-                  "name": "Φρύνιχος",
+                  "name": "Phrunikhos",
                   "text": "Ókori színház Delphoiban, amelyet előadásokra és kulturális eseményekre használtak.",
                   "category": "cultural",
                   "coords": [
@@ -1037,7 +1037,7 @@ imageHint: "Doric columns of the Temple of Apollo in Delphi",
                   ]
             },
             {
-                  "name": "Δελφοί",
+                  "name": "Delphoi",
                   "text": "Orașul antic Delfi, considerat odinioară centrul lumii și sediul celebrului oracol.",
                   "category": "historical",
                   "coords": [
@@ -1046,7 +1046,7 @@ imageHint: "Doric columns of the Temple of Apollo in Delphi",
                   ]
             },
             {
-                  "name": "Μουσείο Δελφών",
+                  "name": "Mouseio Delphon",
                   "text": "Muzeul expune descoperiri importante din sanctuarul Delfi, inclusiv faimosul Auriga.",
                   "category": "museum",
                   "coords": [
@@ -1064,7 +1064,7 @@ imageHint: "Doric columns of the Temple of Apollo in Delphi",
                   ]
             },
             {
-                  "name": "Φρύνιχος",
+                  "name": "Phrunikhos",
                   "text": "Un teatru antic în Delfi, utilizat pentru spectacole și evenimente culturale.",
                   "category": "cultural",
                   "coords": [
@@ -1187,7 +1187,7 @@ imageHint: "The circular Tholos structure at Delphi Sanctuary",
     id: "greece-lion-gate-mycenae-landmarks-v2", "sights": {
       "de": [
             {
-                  "name": "Ναός Αγαμνένων",
+                  "name": "Naos Agamnenon",
                   "text": "Eine archäologische Stätte bei Mykene.",
                   "category": "historical",
                   "coords": [
@@ -1196,7 +1196,7 @@ imageHint: "The circular Tholos structure at Delphi Sanctuary",
                   ]
             },
             {
-                  "name": "Οχυρωματικός Πύργος Φιχτίων",
+                  "name": "Okhuromatikos Purgos Phikhtion",
                   "text": "Eine archäologische Fundstätte bei Mykene.",
                   "category": "historical",
                   "coords": [
@@ -1241,7 +1241,7 @@ imageHint: "The circular Tholos structure at Delphi Sanctuary",
                   ]
             },
             {
-                  "name": "Οικία τών Σφιγγών",
+                  "name": "Oikia ton Sphiggon",
                   "text": "Ruinen eines antiken Hauses in Mykene.",
                   "category": "historical",
                   "coords": [
@@ -1252,7 +1252,7 @@ imageHint: "The circular Tholos structure at Delphi Sanctuary",
       ],
       "hu": [
             {
-                  "name": "Ναός Αγαμνένων",
+                  "name": "Naos Agamnenon",
                   "text": "Régészeti lelőhely Mükénénél.",
                   "category": "historical",
                   "coords": [
@@ -1261,7 +1261,7 @@ imageHint: "The circular Tholos structure at Delphi Sanctuary",
                   ]
             },
             {
-                  "name": "Οχυρωματικός Πύργος Φιχτίων",
+                  "name": "Okhuromatikos Purgos Phikhtion",
                   "text": "Régészeti helyszín Mükéné közelében.",
                   "category": "historical",
                   "coords": [
@@ -1270,7 +1270,7 @@ imageHint: "The circular Tholos structure at Delphi Sanctuary",
                   ]
             },
             {
-                  "name": "Ταφικός κύκλος Α΄",
+                  "name": "Taphikos kuklos A",
                   "text": "Híres mükénéi sírkör.",
                   "category": "historical",
                   "coords": [
@@ -1279,7 +1279,7 @@ imageHint: "The circular Tholos structure at Delphi Sanctuary",
                   ]
             },
             {
-                  "name": "Ακρόπολη των Μυκηνών",
+                  "name": "Akropole των Μυκηνών",
                   "text": "Az ókori Mükéné akropolisza.",
                   "category": "historical",
                   "coords": [
@@ -1288,7 +1288,7 @@ imageHint: "The circular Tholos structure at Delphi Sanctuary",
                   ]
             },
             {
-                  "name": "Αρχαιολογικό μουσείο Μυκηνών",
+                  "name": "Arkhaiologiko mouseio Mukenon",
                   "text": "Múzeum a mükénéi ásatások leleteivel.",
                   "category": "museum",
                   "coords": [
@@ -1306,7 +1306,7 @@ imageHint: "The circular Tholos structure at Delphi Sanctuary",
                   ]
             },
             {
-                  "name": "Οικία τών Σφιγγών",
+                  "name": "Oikia ton Sphiggon",
                   "text": "Egy ókori ház romjai Mükénében.",
                   "category": "historical",
                   "coords": [
@@ -1317,7 +1317,7 @@ imageHint: "The circular Tholos structure at Delphi Sanctuary",
       ],
       "ro": [
             {
-                  "name": "Ναός Αγαμνένων",
+                  "name": "Naos Agamnenon",
                   "text": "Un sit arheologic lângă Micene.",
                   "category": "historical",
                   "coords": [
@@ -1326,7 +1326,7 @@ imageHint: "The circular Tholos structure at Delphi Sanctuary",
                   ]
             },
             {
-                  "name": "Οχυρωματικός Πύργος Φιχτίων",
+                  "name": "Okhuromatikos Purgos Phikhtion",
                   "text": "Un sit arheologic situat lângă Micene.",
                   "category": "historical",
                   "coords": [
@@ -1335,7 +1335,7 @@ imageHint: "The circular Tholos structure at Delphi Sanctuary",
                   ]
             },
             {
-                  "name": "Ταφικός κύκλος Α΄",
+                  "name": "Taphikos kuklos A",
                   "text": "Un cerc funerar celebru din perioada miceniană.",
                   "category": "historical",
                   "coords": [
@@ -1344,7 +1344,7 @@ imageHint: "The circular Tholos structure at Delphi Sanctuary",
                   ]
             },
             {
-                  "name": "Ακρόπολη των Μυκηνών",
+                  "name": "Akropole των Μυκηνών",
                   "text": "Acropola vechiului oraș Micene.",
                   "category": "historical",
                   "coords": [
@@ -1353,7 +1353,7 @@ imageHint: "The circular Tholos structure at Delphi Sanctuary",
                   ]
             },
             {
-                  "name": "Αρχαιολογικό μουσείο Μυκηνών",
+                  "name": "Arkhaiologiko mouseio Mukenon",
                   "text": "Muzeu cu descoperiri din orașul antic Micene.",
                   "category": "museum",
                   "coords": [
@@ -1371,7 +1371,7 @@ imageHint: "The circular Tholos structure at Delphi Sanctuary",
                   ]
             },
             {
-                  "name": "Οικία τών Σφιγγών",
+                  "name": "Oikia ton Sphiggon",
                   "text": "Ruinele unei case antice în Micene.",
                   "category": "historical",
                   "coords": [
@@ -2008,7 +2008,7 @@ imageHint: "Saint Demetrius Church Thessaloniki interior",
                   ]
             },
             {
-                  "name": "Μπούρτζι",
+                  "name": "Mpourtzi",
                   "text": "Kleine achteckige Inselfestung, die mit der Hauptburg von Methoni verbunden ist.",
                   "category": "castle",
                   "coords": [
@@ -2026,7 +2026,7 @@ imageHint: "Saint Demetrius Church Thessaloniki interior",
                   ]
             },
             {
-                  "name": "Πυργάκι Λίμνης Παπά",
+                  "name": "Purgaki Limnes Papa",
                   "text": "Überreste eines Verteidigungsturms in der Nähe des Gebiets Limni Papa.",
                   "category": "castle",
                   "coords": [
@@ -2037,7 +2037,7 @@ imageHint: "Saint Demetrius Church Thessaloniki interior",
       ],
       "hu": [
             {
-                  "name": "Κάστρο Μεθώνης",
+                  "name": "Kastro Methones",
                   "text": "Hatalmas velencei erőd, Görögország egyik legjelentősebb középkori vára.",
                   "category": "castle",
                   "coords": [
@@ -2046,7 +2046,7 @@ imageHint: "Saint Demetrius Church Thessaloniki interior",
                   ]
             },
             {
-                  "name": "Μπούρτζι",
+                  "name": "Mpourtzi",
                   "text": "A methoni várral összeköttetésben álló kis nyolcszögletű szigeterőd.",
                   "category": "castle",
                   "coords": [
@@ -2055,7 +2055,7 @@ imageHint: "Saint Demetrius Church Thessaloniki interior",
                   ]
             },
             {
-                  "name": "Κατακόμβες του Αγίου Ονούφριου",
+                  "name": "Katakombes tou Agiou Onouphriou",
                   "text": "Ókori temetkezési hely a korai keresztény korszakból Methoniban.",
                   "category": "historical",
                   "coords": [
@@ -2064,7 +2064,7 @@ imageHint: "Saint Demetrius Church Thessaloniki interior",
                   ]
             },
             {
-                  "name": "Πυργάκι Λίμνης Παπά",
+                  "name": "Purgaki Limnes Papa",
                   "text": "Egy védőtorony maradványai Limni Papa környékén.",
                   "category": "castle",
                   "coords": [
@@ -2075,7 +2075,7 @@ imageHint: "Saint Demetrius Church Thessaloniki interior",
       ],
       "ro": [
             {
-                  "name": "Κάστρο Μεθώνης",
+                  "name": "Kastro Methones",
                   "text": "Impresionantă fortăreață venețiană și unul dintre cele mai importante castele medievale din Grecia.",
                   "category": "castle",
                   "coords": [
@@ -2084,7 +2084,7 @@ imageHint: "Saint Demetrius Church Thessaloniki interior",
                   ]
             },
             {
-                  "name": "Μπούρτζι",
+                  "name": "Mpourtzi",
                   "text": "Mică fortăreață insulară octogonală conectată de castelul principal din Methoni.",
                   "category": "castle",
                   "coords": [
@@ -2093,7 +2093,7 @@ imageHint: "Saint Demetrius Church Thessaloniki interior",
                   ]
             },
             {
-                  "name": "Κατακόμβες του Αγίου Ονούφριου",
+                  "name": "Katakombes tou Agiou Onouphriou",
                   "text": "Vechi sit funerar datând din perioada creștină timpurie în Methoni.",
                   "category": "historical",
                   "coords": [
@@ -2102,7 +2102,7 @@ imageHint: "Saint Demetrius Church Thessaloniki interior",
                   ]
             },
             {
-                  "name": "Πυργάκι Λίμνης Παπά",
+                  "name": "Purgaki Limnes Papa",
                   "text": "Rămășițele unui turn defensiv situat în apropierea zonei Limni Papa.",
                   "category": "castle",
                   "coords": [
@@ -2197,7 +2197,7 @@ imageHint: "Saint Demetrius Church Thessaloniki interior",
     id: "greece-hosios-loukas-monastery-landmarks-v2", "sights": {
       "de": [
             {
-                  "name": "Καστράκι Οσίου Λουκά",
+                  "name": "Kastraki Osiou Louka",
                   "text": "Eine historische Burgruine in der Nähe des Klosters Hosios Loukas.",
                   "category": "castle",
                   "coords": [
@@ -2217,7 +2217,7 @@ imageHint: "Saint Demetrius Church Thessaloniki interior",
       ],
       "hu": [
             {
-                  "name": "Καστράκι Οσίου Λουκά",
+                  "name": "Kastraki Osiou Louka",
                   "text": "Történelmi várrom a Hosios Loukas kolostor közelében.",
                   "category": "castle",
                   "coords": [
@@ -2226,7 +2226,7 @@ imageHint: "Saint Demetrius Church Thessaloniki interior",
                   ]
             },
             {
-                  "name": "Βυζαντινή Μονή Οσίου Λουκά",
+                  "name": "Buzantine Mone Osiou Louka",
                   "text": "Ez a 10. századi bizánci kolostor az UNESCO Világörökség része.",
                   "category": "landmark",
                   "coords": [
@@ -2237,7 +2237,7 @@ imageHint: "Saint Demetrius Church Thessaloniki interior",
       ],
       "ro": [
             {
-                  "name": "Καστράκι Οσίου Λουκά",
+                  "name": "Kastraki Osiou Louka",
                   "text": "O ruină istorică de castel situată în apropierea mănăstirii Hosios Loukas.",
                   "category": "castle",
                   "coords": [
@@ -2246,7 +2246,7 @@ imageHint: "Saint Demetrius Church Thessaloniki interior",
                   ]
             },
             {
-                  "name": "Βυζαντινή Μονή Οσίου Λουκά",
+                  "name": "Buzantine Mone Osiou Louka",
                   "text": "Această mănăstire bizantină din secolul al X-lea face parte din patrimoniul mondial UNESCO.",
                   "category": "landmark",
                   "coords": [
@@ -2458,7 +2458,7 @@ imageHint: "Heraklion Archaeological Museum Minoan frescoes",
     id: "greece-bridge-arta-landmarks-v2", "sights": {
       "de": [
             {
-                  "name": "Ναός του Απόλλωνα Πύθιου Σωτήρα",
+                  "name": "Naos tou Apollona Puthiou Sotera",
                   "text": "Die Überreste eines antiken Apollon-Tempels in der Nähe der historischen Brücke von Arta.",
                   "category": "historical",
                   "coords": [
@@ -2467,7 +2467,7 @@ imageHint: "Heraklion Archaeological Museum Minoan frescoes",
                   ]
             },
             {
-                  "name": "Αρχαιολογικό Μουσείο Άρτας",
+                  "name": "Arkhaiologiko Mouseio Artas",
                   "text": "Dieses Museum in Arta zeigt bedeutende archäologische Funde aus der antiken Stadt Ambrakia.",
                   "category": "museum",
                   "coords": [
@@ -2476,7 +2476,7 @@ imageHint: "Heraklion Archaeological Museum Minoan frescoes",
                   ]
             },
             {
-                  "name": "Γαρουφάλειος Στέγη",
+                  "name": "Garouphaleios Stege",
                   "text": "Ein lokales Museum in Arta, das sich der Bewahrung des regionalen Kulturerbes widmet.",
                   "category": "museum",
                   "coords": [
@@ -2485,7 +2485,7 @@ imageHint: "Heraklion Archaeological Museum Minoan frescoes",
                   ]
             },
             {
-                  "name": "Νότιοδυτική Νεκρόπολη Αρχαίας Αμβρακίας",
+                  "name": "Notiodutike Nekropole Arkhaias Ambrakias",
                   "text": "Ein bedeutender antiker Friedhof in Arta, der zur Stadt Ambrakia gehörte.",
                   "category": "historical",
                   "coords": [
@@ -2494,7 +2494,7 @@ imageHint: "Heraklion Archaeological Museum Minoan frescoes",
                   ]
             },
             {
-                  "name": "Το Γεφύρι της Άρτας",
+                  "name": "To Gephuri tes Artas",
                   "text": "Die berühmte historische Steinbrücke von Arta ist bekannt für ihre Architektur und Legenden.",
                   "category": "landmark",
                   "coords": [
@@ -2503,7 +2503,7 @@ imageHint: "Heraklion Archaeological Museum Minoan frescoes",
                   ]
             },
             {
-                  "name": "Αρχοντικό Παπακώστα",
+                  "name": "Arkhontiko Papakosta",
                   "text": "Ein historisches Herrenhaus in Arta, das die traditionelle lokale Architektur repräsentiert.",
                   "category": "historical",
                   "coords": [
@@ -2512,7 +2512,7 @@ imageHint: "Heraklion Archaeological Museum Minoan frescoes",
                   ]
             },
             {
-                  "name": "Τζαμί Φαΐκ Πασά Άρτας (Ιμαρέτ)",
+                  "name": "Tzami PhaIk Pasa Artas (Imaret)",
                   "text": "Eine historische osmanische Moschee und soziale Einrichtung in Arta.",
                   "category": "landmark",
                   "coords": [
@@ -2521,7 +2521,7 @@ imageHint: "Heraklion Archaeological Museum Minoan frescoes",
                   ]
             },
             {
-                  "name": "Ιερός Ναός Αγίας Θεοδώρας",
+                  "name": "Ieros Naos Agias Theodoras",
                   "text": "Eine bedeutende byzantinische Kirche in Arta, die der Schutzpatronin der Stadt gewidmet ist.",
                   "category": "landmark",
                   "coords": [
@@ -2532,7 +2532,7 @@ imageHint: "Heraklion Archaeological Museum Minoan frescoes",
       ],
       "hu": [
             {
-                  "name": "Ναός του Απόλλωνα Πύθιου Σωτήρα",
+                  "name": "Naos tou Apollona Puthiou Sotera",
                   "text": "Egy ókori Apollón-templom maradványai az artai történelmi híd közelében.",
                   "category": "historical",
                   "coords": [
@@ -2541,7 +2541,7 @@ imageHint: "Heraklion Archaeological Museum Minoan frescoes",
                   ]
             },
             {
-                  "name": "Αρχαιολογικό Μουσείο Άρτας",
+                  "name": "Arkhaiologiko Mouseio Artas",
                   "text": "Ez az artai múzeum az ókori Amvrakia városából származó jelentős régészeti leleteket mutatja be.",
                   "category": "museum",
                   "coords": [
@@ -2550,7 +2550,7 @@ imageHint: "Heraklion Archaeological Museum Minoan frescoes",
                   ]
             },
             {
-                  "name": "Γαρουφάλειος Στέγη",
+                  "name": "Garouphaleios Stege",
                   "text": "Helyi múzeum Artában, amely a regionális kulturális örökség megőrzésével foglalkozik.",
                   "category": "museum",
                   "coords": [
@@ -2559,7 +2559,7 @@ imageHint: "Heraklion Archaeological Museum Minoan frescoes",
                   ]
             },
             {
-                  "name": "Νότιοδυτική Νεκρόπολη Αρχαίας Αμβρακίας",
+                  "name": "Notiodutike Nekropole Arkhaias Ambrakias",
                   "text": "Jelentős ókori temető Artában, amely az egykori Amvrakia városhoz tartozott.",
                   "category": "historical",
                   "coords": [
@@ -2568,7 +2568,7 @@ imageHint: "Heraklion Archaeological Museum Minoan frescoes",
                   ]
             },
             {
-                  "name": "Το Γεφύρι της Άρτας",
+                  "name": "To Gephuri tes Artas",
                   "text": "Arta híres történelmi kőhídja, amely építészetéről és a hozzá fűződő legendákról ismert.",
                   "category": "landmark",
                   "coords": [
@@ -2577,7 +2577,7 @@ imageHint: "Heraklion Archaeological Museum Minoan frescoes",
                   ]
             },
             {
-                  "name": "Αρχοντικό Παπακώστα",
+                  "name": "Arkhontiko Papakosta",
                   "text": "Történelmi udvarház Artában, amely a hagyományos helyi építészetet képviseli.",
                   "category": "historical",
                   "coords": [
@@ -2586,7 +2586,7 @@ imageHint: "Heraklion Archaeological Museum Minoan frescoes",
                   ]
             },
             {
-                  "name": "Τζαμί Φαΐκ Πασά Άρτας (Ιμαρέτ)",
+                  "name": "Tzami PhaIk Pasa Artas (Imaret)",
                   "text": "Történelmi oszmán mecset és szociális intézmény Artában.",
                   "category": "landmark",
                   "coords": [
@@ -2595,7 +2595,7 @@ imageHint: "Heraklion Archaeological Museum Minoan frescoes",
                   ]
             },
             {
-                  "name": "Ιερός Ναός Αγίας Θεοδώρας",
+                  "name": "Ieros Naos Agias Theodoras",
                   "text": "Jelentős bizánci templom Artában, amelyet a város védőszentjének szenteltek.",
                   "category": "landmark",
                   "coords": [
@@ -2606,7 +2606,7 @@ imageHint: "Heraklion Archaeological Museum Minoan frescoes",
       ],
       "ro": [
             {
-                  "name": "Ναός του Απόλλωνα Πύθιου Σωτήρα",
+                  "name": "Naos tou Apollona Puthiou Sotera",
                   "text": "Vestigiile unui templu antic dedicat lui Apollo, situat lângă podul istoric din Arta.",
                   "category": "historical",
                   "coords": [
@@ -2615,7 +2615,7 @@ imageHint: "Heraklion Archaeological Museum Minoan frescoes",
                   ]
             },
             {
-                  "name": "Αρχαιολογικό Μουσείο Άρτας",
+                  "name": "Arkhaiologiko Mouseio Artas",
                   "text": "Acest muzeu din Arta expune descoperiri arheologice importante din orașul antic Amvrakia.",
                   "category": "museum",
                   "coords": [
@@ -2624,7 +2624,7 @@ imageHint: "Heraklion Archaeological Museum Minoan frescoes",
                   ]
             },
             {
-                  "name": "Γαρουφάλειος Στέγη",
+                  "name": "Garouphaleios Stege",
                   "text": "Un muzeu local din Arta dedicat conservării moștenirii culturale regionale.",
                   "category": "museum",
                   "coords": [
@@ -2633,7 +2633,7 @@ imageHint: "Heraklion Archaeological Museum Minoan frescoes",
                   ]
             },
             {
-                  "name": "Νότιοδυτική Νεκρόπολη Αρχαίας Αμβρακίας",
+                  "name": "Notiodutike Nekropole Arkhaias Ambrakias",
                   "text": "Un cimitir antic important din Arta, care a aparținut orașului Amvrakia.",
                   "category": "historical",
                   "coords": [
@@ -2642,7 +2642,7 @@ imageHint: "Heraklion Archaeological Museum Minoan frescoes",
                   ]
             },
             {
-                  "name": "Το Γεφύρι της Άρτας",
+                  "name": "To Gephuri tes Artas",
                   "text": "Celebrul pod istoric din piatră din Arta este renumit pentru arhitectura sa și legendele locale.",
                   "category": "landmark",
                   "coords": [
@@ -2651,7 +2651,7 @@ imageHint: "Heraklion Archaeological Museum Minoan frescoes",
                   ]
             },
             {
-                  "name": "Αρχοντικό Παπακώστα",
+                  "name": "Arkhontiko Papakosta",
                   "text": "Un conac istoric din Arta care reprezintă arhitectura locală tradițională.",
                   "category": "historical",
                   "coords": [
@@ -2660,7 +2660,7 @@ imageHint: "Heraklion Archaeological Museum Minoan frescoes",
                   ]
             },
             {
-                  "name": "Τζαμί Φαΐκ Πασά Άρτας (Ιμαρέτ)",
+                  "name": "Tzami PhaIk Pasa Artas (Imaret)",
                   "text": "O moschee istorică otomană și așezământ social din Arta.",
                   "category": "landmark",
                   "coords": [
@@ -2669,7 +2669,7 @@ imageHint: "Heraklion Archaeological Museum Minoan frescoes",
                   ]
             },
             {
-                  "name": "Ιερός Ναός Αγίας Θεοδώρας",
+                  "name": "Ieros Naos Agias Theodoras",
                   "text": "O biserică bizantină importantă din Arta, dedicată patroanei spirituale a orașului.",
                   "category": "landmark",
                   "coords": [
@@ -2932,7 +2932,7 @@ imageHint: "Heraklion Archaeological Museum Minoan frescoes",
     id: "greece-chlemoutsi-castle-landmarks-v2", "sights": {
       "de": [
             {
-                  "name": "Κάστρο Χλεμούτσι",
+                  "name": "Kastro Khlemoutsi",
                   "text": "Eine bedeutende mittelalterliche Festung auf der Peloponnes in Griechenland.",
                   "category": "castle",
                   "coords": [
@@ -2959,7 +2959,7 @@ imageHint: "Heraklion Archaeological Museum Minoan frescoes",
                   ]
             },
             {
-                  "name": "Μονή Βλαχερνών",
+                  "name": "Mone Blakhernon",
                   "text": "Ein religiöser Ort in der Umgebung von Chlemoutsi Castle.",
                   "category": "religious",
                   "coords": [
@@ -2970,7 +2970,7 @@ imageHint: "Heraklion Archaeological Museum Minoan frescoes",
       ],
       "hu": [
             {
-                  "name": "Κάστρο Χλεμούτσι",
+                  "name": "Kastro Khlemoutsi",
                   "text": "Jelentős középkori erődítmény a görögországi Peloponnészoszon.",
                   "category": "castle",
                   "coords": [
@@ -2979,7 +2979,7 @@ imageHint: "Heraklion Archaeological Museum Minoan frescoes",
                   ]
             },
             {
-                  "name": "Υπαίθριο Θέατρο Λουτρών Κυλλήνης",
+                  "name": "Υπαίθριο Θέατρο Λουτρών Kulleneς",
                   "text": "Egy római színház maradványai a Chlemoutsi vár közelében.",
                   "category": "cultural",
                   "coords": [
@@ -2997,7 +2997,7 @@ imageHint: "Heraklion Archaeological Museum Minoan frescoes",
                   ]
             },
             {
-                  "name": "Μονή Βλαχερνών",
+                  "name": "Mone Blakhernon",
                   "text": "Vallási kegyhely Chlemoutsi várának környékén.",
                   "category": "religious",
                   "coords": [
@@ -3008,7 +3008,7 @@ imageHint: "Heraklion Archaeological Museum Minoan frescoes",
       ],
       "ro": [
             {
-                  "name": "Κάστρο Χλεμούτσι",
+                  "name": "Kastro Khlemoutsi",
                   "text": "O fortăreață medievală importantă din Peloponez, Grecia.",
                   "category": "castle",
                   "coords": [
@@ -3017,7 +3017,7 @@ imageHint: "Heraklion Archaeological Museum Minoan frescoes",
                   ]
             },
             {
-                  "name": "Υπαίθριο Θέατρο Λουτρών Κυλλήνης",
+                  "name": "Υπαίθριο Θέατρο Λουτρών Kulleneς",
                   "text": "Rămășițele unui teatru roman în apropierea castelului Chlemoutsi.",
                   "category": "cultural",
                   "coords": [
@@ -3035,7 +3035,7 @@ imageHint: "Heraklion Archaeological Museum Minoan frescoes",
                   ]
             },
             {
-                  "name": "Μονή Βλαχερνών",
+                  "name": "Mone Blakhernon",
                   "text": "Un lăcaș de cult în împrejurimile castelului Chlemoutsi.",
                   "category": "religious",
                   "coords": [
@@ -3198,7 +3198,7 @@ imageHint: "Heraklion Archaeological Museum Minoan frescoes",
                   ]
             },
             {
-                  "name": "Λιβάδια",
+                  "name": "Libadia",
                   "text": "Ein beliebter Sandstrand in der Nähe des Hafens von Parikia auf Paros.",
                   "category": "recreational",
                   "coords": [
@@ -3254,7 +3254,7 @@ imageHint: "Heraklion Archaeological Museum Minoan frescoes",
                   ]
             },
             {
-                  "name": "Αρχαιολογικό Μουσείο Πάρου",
+                  "name": "Arkhaiologiko Mouseio Parou",
                   "text": "Pároszi múzeum, amely a kükládi történelem fontos leleteit mutatja be.",
                   "category": "museum",
                   "coords": [
@@ -3272,7 +3272,7 @@ imageHint: "Heraklion Archaeological Museum Minoan frescoes",
                   ]
             },
             {
-                  "name": "Λιβάδια",
+                  "name": "Libadia",
                   "text": "Népszerű homokos strand Párosz kikötője, Parikia közelében.",
                   "category": "recreational",
                   "coords": [
@@ -3328,7 +3328,7 @@ imageHint: "Heraklion Archaeological Museum Minoan frescoes",
                   ]
             },
             {
-                  "name": "Αρχαιολογικό Μουσείο Πάρου",
+                  "name": "Arkhaiologiko Mouseio Parou",
                   "text": "Un muzeu pe Paros care expune descoperiri importante din istoria cicladică.",
                   "category": "museum",
                   "coords": [
@@ -3346,7 +3346,7 @@ imageHint: "Heraklion Archaeological Museum Minoan frescoes",
                   ]
             },
             {
-                  "name": "Λιβάδια",
+                  "name": "Libadia",
                   "text": "O plajă populară cu nisip situată lângă portul Parikia de pe Paros.",
                   "category": "recreational",
                   "coords": [

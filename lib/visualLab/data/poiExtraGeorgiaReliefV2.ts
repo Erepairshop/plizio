@@ -42,7 +42,7 @@ export const poiExtraGeorgiaReliefV2: POI[] = [
     id: "diklosmta-relief-v2", "sights": {
       "de": [
             {
-                  "name": "Диклос-Мта / დიკლოსმთა",
+                  "name": "Diklos-Mta / diklosmt`a",
                   "text": "Ein markanter Berggipfel im Großen Kaukasus.",
                   "category": "landmark",
                   "coords": [
@@ -53,7 +53,7 @@ export const poiExtraGeorgiaReliefV2: POI[] = [
       ],
       "hu": [
             {
-                  "name": "Диклос-Мта / დიკლოსმთა",
+                  "name": "Diklos-Mta / diklosmt`a",
                   "text": "Kiemelkedő hegycsúcs a Nagy-Kaukázusban.",
                   "category": "landmark",
                   "coords": [
@@ -64,7 +64,7 @@ export const poiExtraGeorgiaReliefV2: POI[] = [
       ],
       "ro": [
             {
-                  "name": "Диклос-Мта / დიკლოსმთა",
+                  "name": "Diklos-Mta / diklosmt`a",
                   "text": "Un vârf montan proeminent în lanțul Caucazul Mare.",
                   "category": "landmark",
                   "coords": [
@@ -123,7 +123,7 @@ export const poiExtraGeorgiaReliefV2: POI[] = [
     id: "tebulosmta-relief-v2", "sights": {
       "de": [
             {
-                  "name": "თებულოსმთა / Туьлой-Лам",
+                  "name": "t`ebulosmt`a / Tu'loi-Lam",
                   "text": "Der höchste Gipfel im östlichen Kaukasus an der Grenze zwischen Georgien und Russland.",
                   "category": "landmark",
                   "coords": [
@@ -134,7 +134,7 @@ export const poiExtraGeorgiaReliefV2: POI[] = [
       ],
       "hu": [
             {
-                  "name": "თებულოსმთა / Туьлой-Лам",
+                  "name": "t`ebulosmt`a / Tu'loi-Lam",
                   "text": "A Keleti-Kaukázus legmagasabb csúcsa Grúzia és Oroszország határán.",
                   "category": "landmark",
                   "coords": [
@@ -145,7 +145,7 @@ export const poiExtraGeorgiaReliefV2: POI[] = [
       ],
       "ro": [
             {
-                  "name": "თებულოსმთა / Туьлой-Лам",
+                  "name": "t`ebulosmt`a / Tu'loi-Lam",
                   "text": "Cel mai înalt vârf din Caucazul de Est, situat la granița dintre Georgia și Rusia.",
                   "category": "landmark",
                   "coords": [
@@ -204,7 +204,7 @@ export const poiExtraGeorgiaReliefV2: POI[] = [
     id: "shota-rustaveli-peak-relief-v2", "sights": {
       "de": [
             {
-                  "name": "გისტოლა - Гестола",
+                  "name": "gistola - Gestola",
                   "text": "Ein markanter Berggipfel im Zentral-Kaukasus.",
                   "category": "landmark",
                   "coords": [
@@ -213,7 +213,7 @@ export const poiExtraGeorgiaReliefV2: POI[] = [
                   ]
             },
             {
-                  "name": "Катынтау / კათინთაუ",
+                  "name": "Katyntau / kat`int`au",
                   "text": "Ein hoher Gipfel im Hauptkamm des Großen Kaukasus.",
                   "category": "landmark",
                   "coords": [
@@ -222,7 +222,7 @@ export const poiExtraGeorgiaReliefV2: POI[] = [
                   ]
             },
             {
-                  "name": "მყინვარი შოთა რუსთაველი - Шота Руставели",
+                  "name": "mqinvari shot`a rust`aveli - Shota Rustaveli",
                   "text": "Ein Berggipfel im Kaukasus, benannt nach dem berühmten georgischen Dichter.",
                   "category": "landmark",
                   "coords": [
@@ -231,7 +231,7 @@ export const poiExtraGeorgiaReliefV2: POI[] = [
                   ]
             },
             {
-                  "name": "მთავარი ჯანღა-Главная Джанги",
+                  "name": "mt`avari jang'a-Glavnaia Dzhangi",
                   "text": "Ein bedeutender Gipfel an der Grenze zwischen Georgien und Russland im Kaukasus.",
                   "category": "landmark",
                   "coords": [
@@ -251,7 +251,7 @@ export const poiExtraGeorgiaReliefV2: POI[] = [
       ],
       "hu": [
             {
-                  "name": "გისტოლა - Гестола",
+                  "name": "gistola - Gestola",
                   "text": "Jellegzetes hegycsúcs a Középső-Kaukázusban.",
                   "category": "landmark",
                   "coords": [
@@ -260,7 +260,7 @@ export const poiExtraGeorgiaReliefV2: POI[] = [
                   ]
             },
             {
-                  "name": "Катынтау / კათინთაუ",
+                  "name": "Katyntau / kat`int`au",
                   "text": "Magas hegycsúcs a Nagy-Kaukázus főgerincén.",
                   "category": "landmark",
                   "coords": [
@@ -269,7 +269,7 @@ export const poiExtraGeorgiaReliefV2: POI[] = [
                   ]
             },
             {
-                  "name": "მყინვარი შოთა რუსთაველი - Шота Руставели",
+                  "name": "mqinvari shot`a rust`aveli - Shota Rustaveli",
                   "text": "Hegycsúcs a Kaukázusban, amelyet a híres grúz költőről neveztek el.",
                   "category": "landmark",
                   "coords": [
@@ -278,7 +278,7 @@ export const poiExtraGeorgiaReliefV2: POI[] = [
                   ]
             },
             {
-                  "name": "მთავარი ჯანღა-Главная Джанги",
+                  "name": "mt`avari jang'a-Glavnaia Dzhangi",
                   "text": "Jelentős hegycsúcs Grúzia és Oroszország határán a Kaukázusban.",
                   "category": "landmark",
                   "coords": [
@@ -298,7 +298,7 @@ export const poiExtraGeorgiaReliefV2: POI[] = [
       ],
       "ro": [
             {
-                  "name": "გისტოლა - Гестола",
+                  "name": "gistola - Gestola",
                   "text": "Un vârf montan proeminent din Caucazul Central.",
                   "category": "landmark",
                   "coords": [
@@ -307,7 +307,7 @@ export const poiExtraGeorgiaReliefV2: POI[] = [
                   ]
             },
             {
-                  "name": "Катынтау / კათინთაუ",
+                  "name": "Katyntau / kat`int`au",
                   "text": "Un vârf înalt situat în creasta principală a Munților Caucazul Mare.",
                   "category": "landmark",
                   "coords": [
@@ -316,7 +316,7 @@ export const poiExtraGeorgiaReliefV2: POI[] = [
                   ]
             },
             {
-                  "name": "მყინვარი შოთა რუსთაველი - Шота Руставели",
+                  "name": "mqinvari shot`a rust`aveli - Shota Rustaveli",
                   "text": "Un vârf montan din Caucaz, numit după celebrul poet georgian.",
                   "category": "landmark",
                   "coords": [
@@ -325,7 +325,7 @@ export const poiExtraGeorgiaReliefV2: POI[] = [
                   ]
             },
             {
-                  "name": "მთავარი ჯანღა-Главная Джанги",
+                  "name": "mt`avari jang'a-Glavnaia Dzhangi",
                   "text": "Un vârf major de la granița dintre Georgia și Rusia, în Munții Caucaz.",
                   "category": "landmark",
                   "coords": [
