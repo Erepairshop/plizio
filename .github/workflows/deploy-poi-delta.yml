@@ -145,16 +145,12 @@ jobs:
         if: github.event.inputs.poi_ids != 'none'
         run: |
           ACTIVE='${{ steps.release.outputs.active }}'
-          COPIED=0
-          # Copy ALL HTMLs from out_delta (every file there is freshly generated)
-          while IFS= read -r f; do
-            REL="${f#out_delta/}"
-            DEST="$ACTIVE/$REL"
-            mkdir -p "$(dirname "$DEST")"
-            cp "$f" "$DEST"
-            COPIED=$((COPIED+1))
-          done < <(find out_delta -name 'index.html' -type f)
-          echo "[delta] copied $COPIED HTML files into active release"
+          # Bulk copy: out_delta mirrors the release tree (lang/country/.../index.html),
+          # so a single recursive copy overwrites in place. Per-file mkdir+cp was O(127k)
+          # forks and timed out the job at large deltas (e.g. 31k pinfo POIs).
+          COPIED=$(find out_delta -name 'index.html' -type f | wc -l)
+          cp -r out_delta/. "$ACTIVE/"
+          echo "[delta] bulk-copied $COPIED HTML files into active release"
           echo "## Delta deploy summary" >> $GITHUB_STEP_SUMMARY
           echo "- POI ids: ${{ steps.ids.outputs.count }}" >> $GITHUB_STEP_SUMMARY
           echo "- HTML files written: $COPIED" >> $GITHUB_STEP_SUMMARY
