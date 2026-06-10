@@ -3,7 +3,304 @@ import { POI } from './poi';
 export const northmacedoniaEconomicV2: POI[] = [
 
   {
-    id: "northmacedonia-bitola-industrial-zone-economic-v2",
+    id: "northmacedonia-bitola-industrial-zone-economic-v2", "sights": {
+      "de": [
+            {
+                  "name": "Зоолошка градина",
+                  "text": "Der städtische Zoo von Bitola in Nordmazedonien.",
+                  "category": "recreational",
+                  "coords": [
+                        21.341247,
+                        41.014846
+                  ]
+            },
+            {
+                  "name": "Битолска Тврдина",
+                  "text": "Eine historische osmanische Festung und Kaserne in Bitola.",
+                  "category": "castle",
+                  "coords": [
+                        21.331274,
+                        41.015566
+                  ]
+            },
+            {
+                  "name": "Goce Delchev Memorial House",
+                  "text": "Ein Museum im Gedenkhaus des Revolutionärs Goce Deltschew.",
+                  "category": "museum",
+                  "coords": [
+                        21.332208,
+                        41.026896
+                  ]
+            },
+            {
+                  "name": "Музеј на Битола",
+                  "text": "Das Nationalmuseum von Bitola, untergebracht in der ehemaligen Militärakademie.",
+                  "category": "museum",
+                  "coords": [
+                        21.335644,
+                        41.023804
+                  ]
+            },
+            {
+                  "name": "Хераклеа Линкестис",
+                  "text": "Eine bedeutende antike Stadt, die von Philipp II. von Makedonien gegründet wurde.",
+                  "category": "historical",
+                  "coords": [
+                        21.342363,
+                        41.011127
+                  ]
+            },
+            {
+                  "name": "Музеј на христијанската и муслиманската култура",
+                  "text": "Ein Museum für christliche und muslimische Kultur in der Neuen Moschee.",
+                  "category": "museum",
+                  "coords": [
+                        21.33494,
+                        41.030748
+                  ]
+            },
+            {
+                  "name": "Mémorial de Bitola",
+                  "text": "Eine Gedenkstätte und ein Museum in Bitola.",
+                  "category": "museum",
+                  "coords": [
+                        21.358605,
+                        41.041086
+                  ]
+            },
+            {
+                  "name": "Св. Троица",
+                  "text": "Eine orthodoxe Kirche der Heiligen Dreifaltigkeit in Bitola.",
+                  "category": "landmark",
+                  "coords": [
+                        21.341526,
+                        41.006774
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Зоолошка градина",
+                  "text": "Bitola városi állatkertje Észak-Macedóniában.",
+                  "category": "recreational",
+                  "coords": [
+                        21.341247,
+                        41.014846
+                  ]
+            },
+            {
+                  "name": "Битолска Тврдина",
+                  "text": "Történelmi oszmán erőd és laktanya Bitolában.",
+                  "category": "castle",
+                  "coords": [
+                        21.331274,
+                        41.015566
+                  ]
+            },
+            {
+                  "name": "Goce Delchev Memorial House",
+                  "text": "Goce Delcsev forradalmár emlékháza és múzeuma.",
+                  "category": "museum",
+                  "coords": [
+                        21.332208,
+                        41.026896
+                  ]
+            },
+            {
+                  "name": "Музеј на Битола",
+                  "text": "Bitola nemzeti múzeuma, amely az egykori katonai akadémián található.",
+                  "category": "museum",
+                  "coords": [
+                        21.335644,
+                        41.023804
+                  ]
+            },
+            {
+                  "name": "Хераклеа Линкестис",
+                  "text": "II. Philipposz makedón király által alapított jelentős ókori város.",
+                  "category": "historical",
+                  "coords": [
+                        21.342363,
+                        41.011127
+                  ]
+            },
+            {
+                  "name": "Музеј на христијанската и муслиманската култура",
+                  "text": "A keresztény és muszlim kultúra múzeuma az Új-mecsetben.",
+                  "category": "museum",
+                  "coords": [
+                        21.33494,
+                        41.030748
+                  ]
+            },
+            {
+                  "name": "Mémorial de Bitola",
+                  "text": "Emlékhely és múzeum Bitola városában.",
+                  "category": "museum",
+                  "coords": [
+                        21.358605,
+                        41.041086
+                  ]
+            },
+            {
+                  "name": "Св. Троица",
+                  "text": "Szentháromság ortodox templom Bitolában.",
+                  "category": "landmark",
+                  "coords": [
+                        21.341526,
+                        41.006774
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Зоолошка градина",
+                  "text": "Grădina zoologică municipală din Bitola, Macedonia de Nord.",
+                  "category": "recreational",
+                  "coords": [
+                        21.341247,
+                        41.014846
+                  ]
+            },
+            {
+                  "name": "Битолска Тврдина",
+                  "text": "O fortăreață și cazarmă otomană istorică în Bitola.",
+                  "category": "castle",
+                  "coords": [
+                        21.331274,
+                        41.015566
+                  ]
+            },
+            {
+                  "name": "Goce Delchev Memorial House",
+                  "text": "Casă memorială și muzeu dedicat revoluționarului Goce Delchev.",
+                  "category": "museum",
+                  "coords": [
+                        21.332208,
+                        41.026896
+                  ]
+            },
+            {
+                  "name": "Музеј на Битола",
+                  "text": "Muzeul Național din Bitola, situat în fosta academie militară.",
+                  "category": "museum",
+                  "coords": [
+                        21.335644,
+                        41.023804
+                  ]
+            },
+            {
+                  "name": "Хераклеа Линкестис",
+                  "text": "Un important oraș antic fondat de Filip al II-lea al Macedoniei.",
+                  "category": "historical",
+                  "coords": [
+                        21.342363,
+                        41.011127
+                  ]
+            },
+            {
+                  "name": "Музеј на христијанската и муслиманската култура",
+                  "text": "Muzeu al culturii creștine și musulmane situat în Noua Moschee.",
+                  "category": "museum",
+                  "coords": [
+                        21.33494,
+                        41.030748
+                  ]
+            },
+            {
+                  "name": "Mémorial de Bitola",
+                  "text": "Un memorial și muzeu în orașul Bitola.",
+                  "category": "museum",
+                  "coords": [
+                        21.358605,
+                        41.041086
+                  ]
+            },
+            {
+                  "name": "Св. Троица",
+                  "text": "O biserică ortodoxă cu hramul Sfânta Treime din Bitola.",
+                  "category": "landmark",
+                  "coords": [
+                        21.341526,
+                        41.006774
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Bitola Zoo",
+                  "text": "The municipal zoo of Bitola in North Macedonia.",
+                  "category": "recreational",
+                  "coords": [
+                        21.341247,
+                        41.014846
+                  ]
+            },
+            {
+                  "name": "Fortress of Bitola",
+                  "text": "A historic Ottoman fortress and barracks in Bitola.",
+                  "category": "castle",
+                  "coords": [
+                        21.331274,
+                        41.015566
+                  ]
+            },
+            {
+                  "name": "Goce Delchev Memorial House",
+                  "text": "A museum in the memorial house of the revolutionary Goce Delchev.",
+                  "category": "museum",
+                  "coords": [
+                        21.332208,
+                        41.026896
+                  ]
+            },
+            {
+                  "name": "Museum of Bitola",
+                  "text": "The National Museum of Bitola, located in the former military academy.",
+                  "category": "museum",
+                  "coords": [
+                        21.335644,
+                        41.023804
+                  ]
+            },
+            {
+                  "name": "Heraclea Lyncestis",
+                  "text": "An important ancient city founded by Philip II of Macedon.",
+                  "category": "historical",
+                  "coords": [
+                        21.342363,
+                        41.011127
+                  ]
+            },
+            {
+                  "name": "Museum of christian and muslim culture",
+                  "text": "A museum of Christian and Muslim culture located in the New Mosque.",
+                  "category": "museum",
+                  "coords": [
+                        21.33494,
+                        41.030748
+                  ]
+            },
+            {
+                  "name": "Mémorial de Bitola",
+                  "text": "A memorial and museum in the city of Bitola.",
+                  "category": "museum",
+                  "coords": [
+                        21.358605,
+                        41.041086
+                  ]
+            },
+            {
+                  "name": "St. Trinity",
+                  "text": "An Orthodox church of the Holy Trinity in Bitola.",
+                  "category": "landmark",
+                  "coords": [
+                        21.341526,
+                        41.006774
+                  ]
+            }
+      ]
+},
     type: "industry",
     parent: "MK",
     name: { de: "Industriegebiet Bitola", hu: "Bitolai Ipari Zóna", ro: "Zona Industrială Bitola", en: "Bitola Industrial Zone" },
@@ -48,7 +345,52 @@ export const northmacedoniaEconomicV2: POI[] = [
     image: "/poi-images/northmacedonia-bitola-industrial-zone-economic-v2.webp",
   },
   {
-    id: "northmacedonia-vardar-hydro-plant-economic-v2",
+    id: "northmacedonia-vardar-hydro-plant-economic-v2", "sights": {
+      "de": [
+            {
+                  "name": "Аџибегово",
+                  "text": "Historische Ruinen in der Nähe des Wasserkraftwerks Vardar.",
+                  "category": "historical",
+                  "coords": [
+                        21.985557,
+                        41.760084
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Аџибегово",
+                  "text": "Történelmi romok a Vardar vízerőmű közelében.",
+                  "category": "historical",
+                  "coords": [
+                        21.985557,
+                        41.760084
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Аџибегово",
+                  "text": "Ruine istorice situate în apropierea hidrocentralei Vardar.",
+                  "category": "historical",
+                  "coords": [
+                        21.985557,
+                        41.760084
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Adzhibegivo",
+                  "text": "Historical ruins located near the Vardar Hydroelectric Power Plant.",
+                  "category": "historical",
+                  "coords": [
+                        21.985557,
+                        41.760084
+                  ]
+            }
+      ]
+},
     type: "industry",
     parent: "MK",
     name: { de: "Wasserkraftwerk Vardar", hu: "Vardar Vízierőmű", ro: "Hidrocentrala Vardar", en: "Vardar Hydroelectric Power Plant" },
@@ -183,7 +525,304 @@ export const northmacedoniaEconomicV2: POI[] = [
     image: "/poi-images/northmacedonia-prilep-tobacco-processing-economic-v2.webp",
   },
   {
-    id: "northmacedonia-skopje-technological-park-economic-v2",
+    id: "northmacedonia-skopje-technological-park-economic-v2", "sights": {
+      "de": [
+            {
+                  "name": "Природонаучен Музеј",
+                  "text": "Ein Nationalmuseum in Skopje, das die vielfältige Flora, Fauna und Geologie Mazedoniens zeigt.",
+                  "category": "museum",
+                  "coords": [
+                        21.417442,
+                        42.005709
+                  ]
+            },
+            {
+                  "name": "Скопско кале",
+                  "text": "Eine historische byzantinische und osmanische Festung, die die Stadt Skopje überblickt.",
+                  "category": "castle",
+                  "coords": [
+                        21.433208,
+                        42.000615
+                  ]
+            },
+            {
+                  "name": "Зоолошка градина Скопје",
+                  "text": "Der städtische Zoo von Skopje, in dem verschiedene Tierarten aus aller Welt beheimatet sind.",
+                  "category": "recreational",
+                  "coords": [
+                        21.417577,
+                        42.006931
+                  ]
+            },
+            {
+                  "name": "Скупи",
+                  "text": "Die Ruinen einer antiken römischen Stadt in der Nähe der heutigen Stadt Skopje.",
+                  "category": "historical",
+                  "coords": [
+                        21.392568,
+                        42.016618
+                  ]
+            },
+            {
+                  "name": "Музеј на Македонија",
+                  "text": "Eine nationale Institution und ein Museum, das der Archäologie und Geschichte Mazedoniens gewidmet ist.",
+                  "category": "museum",
+                  "coords": [
+                        21.436115,
+                        42.002576
+                  ]
+            },
+            {
+                  "name": "Македонска Национална опера и балет",
+                  "text": "Ein Berggipfel in den Albula-Alpen in der Nähe des Piz da la Margna.",
+                  "category": "cultural",
+                  "coords": [
+                        21.436997,
+                        41.997543
+                  ]
+            },
+            {
+                  "name": "Музеј на современата уметност",
+                  "text": "Ein Museum im Skopje Technology Park, das der zeitgenössischen mazedonischen Kunst gewidmet ist.",
+                  "category": "museum",
+                  "coords": [
+                        21.432848,
+                        42.003985
+                  ]
+            },
+            {
+                  "name": "Национална галерија „Даут-пашин амам“",
+                  "text": "Eine Kunstgalerie in einem ehemaligen osmanischen Badehaus im Skopje Technology Park.",
+                  "category": "museum",
+                  "coords": [
+                        21.435724,
+                        41.998724
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Природонаучен Музеј",
+                  "text": "Nemzeti múzeum Szkopjéban, amely Macedónia változatos növény- és állatvilágát mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        21.417442,
+                        42.005709
+                  ]
+            },
+            {
+                  "name": "Скопско кале",
+                  "text": "Történelmi bizánci és oszmán erőd, amely Szkopje városára néz.",
+                  "category": "castle",
+                  "coords": [
+                        21.433208,
+                        42.000615
+                  ]
+            },
+            {
+                  "name": "Зоолошка градина Скопје",
+                  "text": "Szkopje városi állatkertje, amely a világ számos állatfajának ad otthont.",
+                  "category": "recreational",
+                  "coords": [
+                        21.417577,
+                        42.006931
+                  ]
+            },
+            {
+                  "name": "Скупи",
+                  "text": "Egy ókori római város romjai a modern Szkopje városa közelében.",
+                  "category": "historical",
+                  "coords": [
+                        21.392568,
+                        42.016618
+                  ]
+            },
+            {
+                  "name": "Музеј на Македонија",
+                  "text": "Nemzeti intézmény és múzeum, amely Macedónia régészetével és történelmével foglalkozik.",
+                  "category": "museum",
+                  "coords": [
+                        21.436115,
+                        42.002576
+                  ]
+            },
+            {
+                  "name": "Македонска Национална опера и балет",
+                  "text": "Hegycsúcs az Albula-Alpokban, a Piz da la Margna közelében.",
+                  "category": "cultural",
+                  "coords": [
+                        21.436997,
+                        41.997543
+                  ]
+            },
+            {
+                  "name": "Музеј на современата уметност",
+                  "text": "A kortárs macedón művészetnek szentelt múzeum a Skopje Technology Park területén.",
+                  "category": "museum",
+                  "coords": [
+                        21.432848,
+                        42.003985
+                  ]
+            },
+            {
+                  "name": "Национална галерија „Даут-пашин амам“",
+                  "text": "Egy egykori oszmán fürdőházban működő művészeti galéria a Skopje Technology Parkban.",
+                  "category": "museum",
+                  "coords": [
+                        21.435724,
+                        41.998724
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Природонаучен Музеј",
+                  "text": "Un muzeu național din Skopje care prezintă flora, fauna și geologia diversă a Macedoniei.",
+                  "category": "museum",
+                  "coords": [
+                        21.417442,
+                        42.005709
+                  ]
+            },
+            {
+                  "name": "Скопско кале",
+                  "text": "O fortăreață istorică bizantină și otomană care domină orașul Skopje.",
+                  "category": "castle",
+                  "coords": [
+                        21.433208,
+                        42.000615
+                  ]
+            },
+            {
+                  "name": "Зоолошка градина Скопје",
+                  "text": "Grădina zoologică municipală din Skopje, care găzduiește diverse specii de animale din întreaga lume.",
+                  "category": "recreational",
+                  "coords": [
+                        21.417577,
+                        42.006931
+                  ]
+            },
+            {
+                  "name": "Скупи",
+                  "text": "Ruinele unui oraș roman antic situat lângă orașul modern Skopje.",
+                  "category": "historical",
+                  "coords": [
+                        21.392568,
+                        42.016618
+                  ]
+            },
+            {
+                  "name": "Музеј на Македонија",
+                  "text": "O instituție națională și un muzeu dedicat arheologiei și istoriei Macedoniei.",
+                  "category": "museum",
+                  "coords": [
+                        21.436115,
+                        42.002576
+                  ]
+            },
+            {
+                  "name": "Македонска Национална опера и балет",
+                  "text": "Un vârf muntos în Alpii Albula, în apropiere de Piz da la Margna.",
+                  "category": "cultural",
+                  "coords": [
+                        21.436997,
+                        41.997543
+                  ]
+            },
+            {
+                  "name": "Музеј на современата уметност",
+                  "text": "Un muzeu din Skopje Technology Park dedicat artei contemporane macedonene.",
+                  "category": "museum",
+                  "coords": [
+                        21.432848,
+                        42.003985
+                  ]
+            },
+            {
+                  "name": "Национална галерија „Даут-пашин амам“",
+                  "text": "O galerie de artă situată într-o fostă baie otomană din Skopje Technology Park.",
+                  "category": "museum",
+                  "coords": [
+                        21.435724,
+                        41.998724
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Macedonian Museum of Natural History",
+                  "text": "A national museum in Skopje showcasing the diverse flora, fauna, and geology of Macedonia.",
+                  "category": "museum",
+                  "coords": [
+                        21.417442,
+                        42.005709
+                  ]
+            },
+            {
+                  "name": "Skopje Fortress",
+                  "text": "A historic Byzantine and Ottoman fortress overlooking the city of Skopje.",
+                  "category": "castle",
+                  "coords": [
+                        21.433208,
+                        42.000615
+                  ]
+            },
+            {
+                  "name": "Skopje Zoo",
+                  "text": "The municipal zoo of Skopje, home to various animal species from around the world.",
+                  "category": "recreational",
+                  "coords": [
+                        21.417577,
+                        42.006931
+                  ]
+            },
+            {
+                  "name": "Scupi",
+                  "text": "The ruins of an ancient Roman city located near the modern city of Skopje.",
+                  "category": "historical",
+                  "coords": [
+                        21.392568,
+                        42.016618
+                  ]
+            },
+            {
+                  "name": "Museum of Macedonia",
+                  "text": "A national institution and museum dedicated to the archaeology and history of Macedonia.",
+                  "category": "museum",
+                  "coords": [
+                        21.436115,
+                        42.002576
+                  ]
+            },
+            {
+                  "name": "Macedonian National Opera and Ballet",
+                  "text": "A mountain peak in the Albula Alps near Piz da la Margna.",
+                  "category": "cultural",
+                  "coords": [
+                        21.436997,
+                        41.997543
+                  ]
+            },
+            {
+                  "name": "Contemporary Art Museum of Macedonia",
+                  "text": "A museum in the Skopje Technology Park dedicated to contemporary Macedonian art.",
+                  "category": "museum",
+                  "coords": [
+                        21.432848,
+                        42.003985
+                  ]
+            },
+            {
+                  "name": "Daut Pasha Hamam National Gallery",
+                  "text": "An art gallery housed in a former Ottoman bathhouse in the Skopje Technology Park.",
+                  "category": "museum",
+                  "coords": [
+                        21.435724,
+                        41.998724
+                  ]
+            }
+      ]
+},
     type: "industry",
     parent: "MK",
     name: { de: "Technologiepark Skopje", hu: "Skopjei Technológiai Park", ro: "Parcul Tehnologic Skopje", en: "Skopje Technology Park" },
@@ -228,7 +867,304 @@ export const northmacedoniaEconomicV2: POI[] = [
     image: "/poi-images/northmacedonia-skopje-technological-park-economic-v2.webp",
   },
   {
-    id: "northmacedonia-stip-textile-district-economic-v2",
+    id: "northmacedonia-stip-textile-district-economic-v2", "sights": {
+      "de": [
+            {
+                  "name": "ЗОО Парк „Бриони“",
+                  "text": "Ein kleiner Zoo im Stadtteil Stip, der verschiedene Tierarten beherbergt.",
+                  "category": "recreational",
+                  "coords": [
+                        22.204299,
+                        41.735857
+                  ]
+            },
+            {
+                  "name": "Бања \"Ќежовица\"",
+                  "text": "Ein bekanntes Kurzentrum in Stip, das für seine Thermalquellen genutzt wird.",
+                  "category": "landmark",
+                  "coords": [
+                        22.176867,
+                        41.733056
+                  ]
+            },
+            {
+                  "name": "Успение на Пресвета Богородица",
+                  "text": "Eine bedeutende orthodoxe Kirche im Viertel Novo Selo in Stip.",
+                  "category": "religious",
+                  "coords": [
+                        22.182085,
+                        41.736068
+                  ]
+            },
+            {
+                  "name": "Св. Спас",
+                  "text": "Eine historische Kirche in Novo Selo, die der Himmelfahrt Christi geweiht ist.",
+                  "category": "religious",
+                  "coords": [
+                        22.184786,
+                        41.734797
+                  ]
+            },
+            {
+                  "name": "Св. Архангел Михаил (Главатов)",
+                  "text": "Eine orthodoxe Kirche in Stip, die dem Erzengel Michael gewidmet ist.",
+                  "category": "religious",
+                  "coords": [
+                        22.191248,
+                        41.738053
+                  ]
+            },
+            {
+                  "name": "Св. Архангел Михаил (Фитијата)",
+                  "text": "Ein religiöses Bauwerk in Stip, bekannt als die Kirche des Erzengels Michael (Fitijata).",
+                  "category": "religious",
+                  "coords": [
+                        22.188146,
+                        41.738924
+                  ]
+            },
+            {
+                  "name": "Св. Троица",
+                  "text": "Die Dreifaltigkeitskirche ist ein markantes religiöses Gebäude in Novo Selo.",
+                  "category": "religious",
+                  "coords": [
+                        22.175186,
+                        41.729719
+                  ]
+            },
+            {
+                  "name": "Св. Јован Крстител",
+                  "text": "Eine der Johannes dem Täufer geweihte Kirche in der Stadt Stip.",
+                  "category": "religious",
+                  "coords": [
+                        22.184121,
+                        41.736914
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "ЗОО Парк „Бриони“",
+                  "text": "Kis állatkert Stip városrészében, amely különféle állatfajoknak ad otthont.",
+                  "category": "recreational",
+                  "coords": [
+                        22.204299,
+                        41.735857
+                  ]
+            },
+            {
+                  "name": "Бања \"Ќежовица\"",
+                  "text": "Ismert gyógyközpont Stipben, amelyet termálforrásai miatt látogatnak.",
+                  "category": "landmark",
+                  "coords": [
+                        22.176867,
+                        41.733056
+                  ]
+            },
+            {
+                  "name": "Успение на Пресвета Богородица",
+                  "text": "Jelentős ortodox templom Stip Novo Selo negyedében.",
+                  "category": "religious",
+                  "coords": [
+                        22.182085,
+                        41.736068
+                  ]
+            },
+            {
+                  "name": "Св. Спас",
+                  "text": "Történelmi templom Novo Selóban, amelyet Krisztus mennybemenetelének szenteltek.",
+                  "category": "religious",
+                  "coords": [
+                        22.184786,
+                        41.734797
+                  ]
+            },
+            {
+                  "name": "Св. Архангел Михаил (Главатов)",
+                  "text": "Szent Mihály arkangyalnak szentelt ortodox templom Stipben.",
+                  "category": "religious",
+                  "coords": [
+                        22.191248,
+                        41.738053
+                  ]
+            },
+            {
+                  "name": "Св. Архангел Михаил (Фитијата)",
+                  "text": "Vallási épület Stipben, amely Szent Mihály arkangyal (Fitijata) templomaként ismert.",
+                  "category": "religious",
+                  "coords": [
+                        22.188146,
+                        41.738924
+                  ]
+            },
+            {
+                  "name": "Св. Троица",
+                  "text": "A Szentháromság-templom Novo Selo egyik jellegzetes vallási épülete.",
+                  "category": "religious",
+                  "coords": [
+                        22.175186,
+                        41.729719
+                  ]
+            },
+            {
+                  "name": "Св. Јован Крстител",
+                  "text": "Keresztelő Szent Jánosnak szentelt templom Stip városában.",
+                  "category": "religious",
+                  "coords": [
+                        22.184121,
+                        41.736914
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "ЗОО Парк „Бриони“",
+                  "text": "O grădină zoologică mică în districtul Stip, care găzduiește diverse specii de animale.",
+                  "category": "recreational",
+                  "coords": [
+                        22.204299,
+                        41.735857
+                  ]
+            },
+            {
+                  "name": "Бања \"Ќежовица\"",
+                  "text": "Un centru balnear cunoscut în Stip, utilizat pentru izvoarele sale termale.",
+                  "category": "landmark",
+                  "coords": [
+                        22.176867,
+                        41.733056
+                  ]
+            },
+            {
+                  "name": "Успение на Пресвета Богородица",
+                  "text": "O biserică ortodoxă importantă din cartierul Novo Selo din Stip.",
+                  "category": "religious",
+                  "coords": [
+                        22.182085,
+                        41.736068
+                  ]
+            },
+            {
+                  "name": "Св. Спас",
+                  "text": "O biserică istorică din Novo Selo, dedicată Înălțării Domnului.",
+                  "category": "religious",
+                  "coords": [
+                        22.184786,
+                        41.734797
+                  ]
+            },
+            {
+                  "name": "Св. Архангел Михаил (Главатов)",
+                  "text": "O biserică ortodoxă din Stip, dedicată Sfântului Arhanghel Mihail.",
+                  "category": "religious",
+                  "coords": [
+                        22.191248,
+                        41.738053
+                  ]
+            },
+            {
+                  "name": "Св. Архангел Михаил (Фитијата)",
+                  "text": "Un edificiu religios din Stip, cunoscut sub numele de biserica Sfântului Arhanghel Mihail (Fitijata).",
+                  "category": "religious",
+                  "coords": [
+                        22.188146,
+                        41.738924
+                  ]
+            },
+            {
+                  "name": "Св. Троица",
+                  "text": "Biserica Sfânta Treime este o clădire religioasă proeminentă din Novo Selo.",
+                  "category": "religious",
+                  "coords": [
+                        22.175186,
+                        41.729719
+                  ]
+            },
+            {
+                  "name": "Св. Јован Крстител",
+                  "text": "O biserică dedicată Sfântului Ioan Botezătorul în orașul Stip.",
+                  "category": "religious",
+                  "coords": [
+                        22.184121,
+                        41.736914
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "ZOO Park \"Brioni\"",
+                  "text": "A small zoo in the Stip district, home to various animal species.",
+                  "category": "recreational",
+                  "coords": [
+                        22.204299,
+                        41.735857
+                  ]
+            },
+            {
+                  "name": "Spa-Center \"Kezovica\"",
+                  "text": "A well-known spa center in Stip, utilized for its thermal springs.",
+                  "category": "landmark",
+                  "coords": [
+                        22.176867,
+                        41.733056
+                  ]
+            },
+            {
+                  "name": "Dormition of the Holy Mother of God",
+                  "text": "A significant Orthodox church located in the Novo Selo neighborhood of Stip.",
+                  "category": "religious",
+                  "coords": [
+                        22.182085,
+                        41.736068
+                  ]
+            },
+            {
+                  "name": "Holy Salvation",
+                  "text": "A historic church in Novo Selo, dedicated to the Ascension of Christ.",
+                  "category": "religious",
+                  "coords": [
+                        22.184786,
+                        41.734797
+                  ]
+            },
+            {
+                  "name": "St. Archangel Michael (Glavatov)",
+                  "text": "An Orthodox church in Stip, dedicated to St. Archangel Michael.",
+                  "category": "religious",
+                  "coords": [
+                        22.191248,
+                        41.738053
+                  ]
+            },
+            {
+                  "name": "St. Archangel Michael (Fitijata)",
+                  "text": "A religious building in Stip, known as the church of St. Archangel Michael (Fitijata).",
+                  "category": "religious",
+                  "coords": [
+                        22.188146,
+                        41.738924
+                  ]
+            },
+            {
+                  "name": "Holy Trinity",
+                  "text": "The Holy Trinity church is a prominent religious building in Novo Selo.",
+                  "category": "religious",
+                  "coords": [
+                        22.175186,
+                        41.729719
+                  ]
+            },
+            {
+                  "name": "St. John The Baptist",
+                  "text": "A church dedicated to St. John the Baptist in the city of Stip.",
+                  "category": "religious",
+                  "coords": [
+                        22.184121,
+                        41.736914
+                  ]
+            }
+      ]
+},
     type: "industry",
     parent: "MK",
     name: { de: "Textilviertel Stip", hu: "Štipi Textilnegyed", ro: "Cartierul Textil Știp", en: "Stip Textile District" },
@@ -273,7 +1209,592 @@ export const northmacedoniaEconomicV2: POI[] = [
     image: "/poi-images/northmacedonia-stip-textile-district-economic-v2.webp",
   },
   {
-    id: "northmacedonia-ohrid-tourism-economy-v2", "sights": {"de": [{"name": "Lihnid", "text": "Eine antike archäologische Stätte, die Vorläuferin des heutigen Ohrid.", "category": "historical", "coords": [20.791545, 41.115574]}, {"name": "Antički teatar", "text": "Ein gut erhaltenes antikes Theater in Ohrid aus der hellenistischen Zeit.", "category": "historical", "coords": [20.793806, 41.114649]}, {"name": "Kuka na Robevci", "text": "Ein historisches Haus in Ohrid, das heute als Nationalmuseum dient.", "category": "museum", "coords": [20.796142, 41.112361]}, {"name": "House of Lambeski", "text": "Ein Museum in Ohrid, das in einem traditionellen bürgerlichen Haus untergebracht ist.", "category": "museum", "coords": [20.797043, 41.112327]}, {"name": "Archaeological site of Mancevci, Early Christian Basilica 5 AC", "text": "Reste einer frühchristlichen Basilika aus dem 5. Jahrhundert in Ohrid.", "category": "historical", "coords": [20.793484, 41.112823]}, {"name": "\"Dolni saraj\" stage", "text": "Eine Freilichtbühne in Ohrid für kulturelle Veranstaltungen am See.", "category": "cultural", "coords": [20.793518, 41.111526]}, {"name": "Sveti Kiril i Metodij", "text": "Denkmäler zu Ehren der Heiligen Kyrill und Methodius in Ohrid.", "category": "historical", "coords": [20.799994, 41.112048]}, {"name": "Sv. Kliment i Pantelejmon", "text": "Eine bedeutende byzantinische Kirche und Klosteranlage in Ohrid.", "category": "landmark", "coords": [20.790982, 41.112421]}, {"name": "Sv. Jovan Kaneo", "text": "Eine malerische Kirche auf einem Felsen über dem Ohridsee.", "category": "landmark", "coords": [20.788756, 41.111142]}, {"name": "Biljanini Izvori", "text": "Natürliche Quellen in Ohrid, die mit lokalen Legenden verbunden sind.", "category": "landmark", "coords": [20.815005, 41.102471]}, {"name": "Sveti Naum Ohridski Čudotvorec", "text": "Ein Denkmal in Ohrid, das dem Heiligen Naum gewidmet ist.", "category": "historical", "coords": [20.799023, 41.112296]}, {"name": "Galerija na ikoni", "text": "Eine Galerie in Ohrid mit einer wertvollen Sammlung byzantinischer Ikonen.", "category": "museum", "coords": [20.795284, 41.114319]}, {"name": "Very old tree", "text": "Ein jahrhundertealter Platanenbaum mit einem markanten gespaltenen Stamm in Ohrid.", "category": "landmark", "coords": [20.800318, 41.116019]}, {"name": "Mali Sveti Vrači - Sv. Kuzman i Damjan", "text": "Eine kleine mittelalterliche Kirche in Ohrid, die den Heiligen Kosmas und Damian gewidmet ist.", "category": "religious", "coords": [20.796695, 41.113556]}, {"name": "Ohridsee", "text": "Dieser bedeutende See bei Ohrid ist für seine weite Wasserfläche und schöne Aussicht bekannt.", "category": "natural", "coords": [20.718901, 41.037213]}], "hu": [{"name": "Lihnid", "text": "Ősi régészeti lelőhely, a mai Ohrid elődje.", "category": "historical", "coords": [20.791545, 41.115574]}, {"name": "Antički teatar", "text": "Jó állapotban fennmaradt ókori színház Ohridban a hellenisztikus korból.", "category": "historical", "coords": [20.793806, 41.114649]}, {"name": "Kuka na Robevci", "text": "Történelmi ház Ohridban, amely ma Nemzeti Múzeumként működik.", "category": "museum", "coords": [20.796142, 41.112361]}, {"name": "House of Lambeski", "text": "Múzeum Ohridban, amely egy hagyományos polgári házban található.", "category": "museum", "coords": [20.797043, 41.112327]}, {"name": "Archaeological site of Mancevci, Early Christian Basilica 5 AC", "text": "Egy 5. századi kora keresztény bazilika maradványai Ohridban.", "category": "historical", "coords": [20.793484, 41.112823]}, {"name": "\"Dolni saraj\" stage", "text": "Szabadtéri színpad Ohridban tóparti kulturális eseményekhez.", "category": "cultural", "coords": [20.793518, 41.111526]}, {"name": "Sveti Kiril i Metodij", "text": "Szent Cirill és Metód tiszteletére emelt emlékművek Ohridban.", "category": "historical", "coords": [20.799994, 41.112048]}, {"name": "Sv. Kliment i Pantelejmon", "text": "Jelentős bizánci templom és kolostoregyüttes Ohridban.", "category": "landmark", "coords": [20.790982, 41.112421]}, {"name": "Sv. Jovan Kaneo", "text": "Festői templom egy sziklán az Ohridi-tó felett.", "category": "landmark", "coords": [20.788756, 41.111142]}, {"name": "Biljanini Izvori", "text": "Természetes források Ohridban, amelyek helyi legendákhoz kötődnek.", "category": "landmark", "coords": [20.815005, 41.102471]}, {"name": "Sveti Naum Ohridski Čudotvorec", "text": "Szent Naumnak szentelt emlékmű Ohridban.", "category": "historical", "coords": [20.799023, 41.112296]}, {"name": "Galerija na ikoni", "text": "Galéria Ohridban bizánci ikonok értékes gyűjteményével.", "category": "museum", "coords": [20.795284, 41.114319]}, {"name": "Very old tree", "text": "Egy évszázados platánfa Ohridban, jellegzetes kettéágazó törzzsel.", "category": "landmark", "coords": [20.800318, 41.116019]}, {"name": "Mali Sveti Vrači - Sv. Kuzman i Damjan", "text": "Kisméretű középkori templom Ohridban, amelyet Szent Kozma és Damján tiszteletére szenteltek.", "category": "religious", "coords": [20.796695, 41.113556]}, {"name": "Ohridi-tó", "text": "Ez a jelentős tó Ohrid közelében tágas vízfelületéről és szép kilátásáról ismert.", "category": "natural", "coords": [20.718901, 41.037213]}], "ro": [{"name": "Lihnid", "text": "Un sit arheologic antic, precursorul actualului Ohrid.", "category": "historical", "coords": [20.791545, 41.115574]}, {"name": "Antički teatar", "text": "Un teatru antic bine conservat în Ohrid, datând din perioada elenistică.", "category": "historical", "coords": [20.793806, 41.114649]}, {"name": "Kuka na Robevci", "text": "O casă istorică în Ohrid, care astăzi servește drept Muzeu Național.", "category": "museum", "coords": [20.796142, 41.112361]}, {"name": "House of Lambeski", "text": "Un muzeu în Ohrid găzduit într-o casă tradițională orășenească.", "category": "museum", "coords": [20.797043, 41.112327]}, {"name": "Archaeological site of Mancevci, Early Christian Basilica 5 AC", "text": "Rămășițele unei basilici creștine timpurii din secolul al V-lea în Ohrid.", "category": "historical", "coords": [20.793484, 41.112823]}, {"name": "\"Dolni saraj\" stage", "text": "O scenă în aer liber în Ohrid pentru evenimente culturale lângă lac.", "category": "cultural", "coords": [20.793518, 41.111526]}, {"name": "Sveti Kiril i Metodij", "text": "Monumente în onoarea Sfinților Chiril și Metodiu în Ohrid.", "category": "historical", "coords": [20.799994, 41.112048]}, {"name": "Sv. Kliment i Pantelejmon", "text": "O importantă biserică bizantină și complex monahal în Ohrid.", "category": "landmark", "coords": [20.790982, 41.112421]}, {"name": "Sv. Jovan Kaneo", "text": "O biserică pitorească pe o stâncă deasupra lacului Ohrid.", "category": "landmark", "coords": [20.788756, 41.111142]}, {"name": "Biljanini Izvori", "text": "Izvoare naturale în Ohrid, legate de legende locale.", "category": "landmark", "coords": [20.815005, 41.102471]}, {"name": "Sveti Naum Ohridski Čudotvorec", "text": "Un monument în Ohrid dedicat Sfântului Naum.", "category": "historical", "coords": [20.799023, 41.112296]}, {"name": "Galerija na ikoni", "text": "O galerie în Ohrid cu o colecție valoroasă de icoane bizantine.", "category": "museum", "coords": [20.795284, 41.114319]}, {"name": "Very old tree", "text": "Un platan vechi de secole cu un trunchi despicat distinctiv în Ohrid.", "category": "landmark", "coords": [20.800318, 41.116019]}, {"name": "Mali Sveti Vrači - Sv. Kuzman i Damjan", "text": "O mică biserică medievală din Ohrid, dedicată Sfinților Cozma și Damian.", "category": "religious", "coords": [20.796695, 41.113556]}, {"name": "Ohridsko Ezero / Liqeni i Ohrit", "text": "Acest lac important de lângă Ohrid este cunoscut pentru suprafața sa vastă de apă și vederile frumoase.", "category": "natural", "coords": [20.718901, 41.037213]}], "en": [{"name": "Lychnidos", "text": "An ancient archaeological site, the precursor of modern-day Ohrid.", "category": "historical", "coords": [20.791545, 41.115574]}, {"name": "Ancient Theatre", "text": "A well-preserved ancient theatre in Ohrid from the Hellenistic period.", "category": "historical", "coords": [20.793806, 41.114649]}, {"name": "Robev Family House", "text": "A historical house in Ohrid that now serves as a national museum.", "category": "museum", "coords": [20.796142, 41.112361]}, {"name": "House of Lambeski", "text": "A museum in Ohrid housed in a traditional town house.", "category": "museum", "coords": [20.797043, 41.112327]}, {"name": "Archaeological site of Mancevci, Early Christian Basilica 5 AC", "text": "Remains of an early Christian basilica from the 5th century in Ohrid.", "category": "historical", "coords": [20.793484, 41.112823]}, {"name": "\"Dolni saraj\" stage", "text": "An open-air stage in Ohrid for cultural events by the lake.", "category": "cultural", "coords": [20.793518, 41.111526]}, {"name": "Monuments of Saints Cyril and Methodius", "text": "Monuments honoring Saints Cyril and Methodius in Ohrid.", "category": "historical", "coords": [20.799994, 41.112048]}, {"name": "St. Clement and Panteleimon", "text": "A significant Byzantine church and monastery complex in Ohrid.", "category": "landmark", "coords": [20.790982, 41.112421]}, {"name": "St. John Kaneo", "text": "A picturesque church on a cliff overlooking Lake Ohrid.", "category": "landmark", "coords": [20.788756, 41.111142]}, {"name": "Biljana's Springs", "text": "Natural springs in Ohrid associated with local legends.", "category": "landmark", "coords": [20.815005, 41.102471]}, {"name": "Monument to St. Naum of Ohrid", "text": "A monument in Ohrid dedicated to Saint Naum.", "category": "historical", "coords": [20.799023, 41.112296]}, {"name": "Icon Gallery", "text": "A gallery in Ohrid with a valuable collection of Byzantine icons.", "category": "museum", "coords": [20.795284, 41.114319]}, {"name": "Old plane tree with a forked trunk", "text": "A centuries-old plane tree with a distinctive forked trunk in Ohrid.", "category": "landmark", "coords": [20.800318, 41.116019]}, {"name": "Mali Sveti Vrači - Sv. Kuzman i Damjan", "text": "A small medieval church in Ohrid dedicated to Saints Cosmas and Damian.", "category": "religious", "coords": [20.796695, 41.113556]}, {"name": "Lake Ohrid", "text": "This major lake near Ohrid is known for its vast water surface and beautiful views.", "category": "natural", "coords": [20.718901, 41.037213]}]},
+    id: "northmacedonia-ohrid-tourism-economy-v2", "sights": {
+      "de": [
+            {
+                  "name": "Lihnid",
+                  "text": "Eine antike archäologische Stätte, die Vorläuferin des heutigen Ohrid.",
+                  "category": "historical",
+                  "coords": [
+                        20.791545,
+                        41.115574
+                  ]
+            },
+            {
+                  "name": "Antički teatar",
+                  "text": "Ein gut erhaltenes antikes Theater in Ohrid aus der hellenistischen Zeit.",
+                  "category": "historical",
+                  "coords": [
+                        20.793806,
+                        41.114649
+                  ]
+            },
+            {
+                  "name": "Kuka na Robevci",
+                  "text": "Ein historisches Haus in Ohrid, das heute als Nationalmuseum dient.",
+                  "category": "museum",
+                  "coords": [
+                        20.796142,
+                        41.112361
+                  ]
+            },
+            {
+                  "name": "House of Lambeski",
+                  "text": "Ein Museum in Ohrid, das in einem traditionellen bürgerlichen Haus untergebracht ist.",
+                  "category": "museum",
+                  "coords": [
+                        20.797043,
+                        41.112327
+                  ]
+            },
+            {
+                  "name": "Archaeological site of Mancevci, Early Christian Basilica 5 AC",
+                  "text": "Reste einer frühchristlichen Basilika aus dem 5. Jahrhundert in Ohrid.",
+                  "category": "historical",
+                  "coords": [
+                        20.793484,
+                        41.112823
+                  ]
+            },
+            {
+                  "name": "\"Dolni saraj\" stage",
+                  "text": "Eine Freilichtbühne in Ohrid für kulturelle Veranstaltungen am See.",
+                  "category": "cultural",
+                  "coords": [
+                        20.793518,
+                        41.111526
+                  ]
+            },
+            {
+                  "name": "Sveti Kiril i Metodij",
+                  "text": "Denkmäler zu Ehren der Heiligen Kyrill und Methodius in Ohrid.",
+                  "category": "historical",
+                  "coords": [
+                        20.799994,
+                        41.112048
+                  ]
+            },
+            {
+                  "name": "Sv. Kliment i Pantelejmon",
+                  "text": "Eine bedeutende byzantinische Kirche und Klosteranlage in Ohrid.",
+                  "category": "landmark",
+                  "coords": [
+                        20.790982,
+                        41.112421
+                  ]
+            },
+            {
+                  "name": "Sv. Jovan Kaneo",
+                  "text": "Eine malerische Kirche auf einem Felsen über dem Ohridsee.",
+                  "category": "landmark",
+                  "coords": [
+                        20.788756,
+                        41.111142
+                  ]
+            },
+            {
+                  "name": "Biljanini Izvori",
+                  "text": "Natürliche Quellen in Ohrid, die mit lokalen Legenden verbunden sind.",
+                  "category": "landmark",
+                  "coords": [
+                        20.815005,
+                        41.102471
+                  ]
+            },
+            {
+                  "name": "Sveti Naum Ohridski Čudotvorec",
+                  "text": "Ein Denkmal in Ohrid, das dem Heiligen Naum gewidmet ist.",
+                  "category": "historical",
+                  "coords": [
+                        20.799023,
+                        41.112296
+                  ]
+            },
+            {
+                  "name": "Galerija na ikoni",
+                  "text": "Eine Galerie in Ohrid mit einer wertvollen Sammlung byzantinischer Ikonen.",
+                  "category": "museum",
+                  "coords": [
+                        20.795284,
+                        41.114319
+                  ]
+            },
+            {
+                  "name": "Very old tree",
+                  "text": "Ein jahrhundertealter Platanenbaum mit einem markanten gespaltenen Stamm in Ohrid.",
+                  "category": "landmark",
+                  "coords": [
+                        20.800318,
+                        41.116019
+                  ]
+            },
+            {
+                  "name": "Mali Sveti Vrači - Sv. Kuzman i Damjan",
+                  "text": "Eine kleine mittelalterliche Kirche in Ohrid, die den Heiligen Kosmas und Damian gewidmet ist.",
+                  "category": "religious",
+                  "coords": [
+                        20.796695,
+                        41.113556
+                  ]
+            },
+            {
+                  "name": "Ohridsee",
+                  "text": "Dieser bedeutende See bei Ohrid ist für seine weite Wasserfläche und schöne Aussicht bekannt.",
+                  "category": "natural",
+                  "coords": [
+                        20.718901,
+                        41.037213
+                  ]
+            },
+            {
+                  "name": "Labino Beach",
+                  "text": "Ein ruhiger und natürlicher Strand am Ufer des Ohridsees in der Nähe der Altstadt.",
+                  "category": "recreational",
+                  "coords": [
+                        20.788335,
+                        41.11346
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Lihnid",
+                  "text": "Ősi régészeti lelőhely, a mai Ohrid elődje.",
+                  "category": "historical",
+                  "coords": [
+                        20.791545,
+                        41.115574
+                  ]
+            },
+            {
+                  "name": "Antički teatar",
+                  "text": "Jó állapotban fennmaradt ókori színház Ohridban a hellenisztikus korból.",
+                  "category": "historical",
+                  "coords": [
+                        20.793806,
+                        41.114649
+                  ]
+            },
+            {
+                  "name": "Kuka na Robevci",
+                  "text": "Történelmi ház Ohridban, amely ma Nemzeti Múzeumként működik.",
+                  "category": "museum",
+                  "coords": [
+                        20.796142,
+                        41.112361
+                  ]
+            },
+            {
+                  "name": "House of Lambeski",
+                  "text": "Múzeum Ohridban, amely egy hagyományos polgári házban található.",
+                  "category": "museum",
+                  "coords": [
+                        20.797043,
+                        41.112327
+                  ]
+            },
+            {
+                  "name": "Archaeological site of Mancevci, Early Christian Basilica 5 AC",
+                  "text": "Egy 5. századi kora keresztény bazilika maradványai Ohridban.",
+                  "category": "historical",
+                  "coords": [
+                        20.793484,
+                        41.112823
+                  ]
+            },
+            {
+                  "name": "\"Dolni saraj\" stage",
+                  "text": "Szabadtéri színpad Ohridban tóparti kulturális eseményekhez.",
+                  "category": "cultural",
+                  "coords": [
+                        20.793518,
+                        41.111526
+                  ]
+            },
+            {
+                  "name": "Sveti Kiril i Metodij",
+                  "text": "Szent Cirill és Metód tiszteletére emelt emlékművek Ohridban.",
+                  "category": "historical",
+                  "coords": [
+                        20.799994,
+                        41.112048
+                  ]
+            },
+            {
+                  "name": "Sv. Kliment i Pantelejmon",
+                  "text": "Jelentős bizánci templom és kolostoregyüttes Ohridban.",
+                  "category": "landmark",
+                  "coords": [
+                        20.790982,
+                        41.112421
+                  ]
+            },
+            {
+                  "name": "Sv. Jovan Kaneo",
+                  "text": "Festői templom egy sziklán az Ohridi-tó felett.",
+                  "category": "landmark",
+                  "coords": [
+                        20.788756,
+                        41.111142
+                  ]
+            },
+            {
+                  "name": "Biljanini Izvori",
+                  "text": "Természetes források Ohridban, amelyek helyi legendákhoz kötődnek.",
+                  "category": "landmark",
+                  "coords": [
+                        20.815005,
+                        41.102471
+                  ]
+            },
+            {
+                  "name": "Sveti Naum Ohridski Čudotvorec",
+                  "text": "Szent Naumnak szentelt emlékmű Ohridban.",
+                  "category": "historical",
+                  "coords": [
+                        20.799023,
+                        41.112296
+                  ]
+            },
+            {
+                  "name": "Galerija na ikoni",
+                  "text": "Galéria Ohridban bizánci ikonok értékes gyűjteményével.",
+                  "category": "museum",
+                  "coords": [
+                        20.795284,
+                        41.114319
+                  ]
+            },
+            {
+                  "name": "Very old tree",
+                  "text": "Egy évszázados platánfa Ohridban, jellegzetes kettéágazó törzzsel.",
+                  "category": "landmark",
+                  "coords": [
+                        20.800318,
+                        41.116019
+                  ]
+            },
+            {
+                  "name": "Mali Sveti Vrači - Sv. Kuzman i Damjan",
+                  "text": "Kisméretű középkori templom Ohridban, amelyet Szent Kozma és Damján tiszteletére szenteltek.",
+                  "category": "religious",
+                  "coords": [
+                        20.796695,
+                        41.113556
+                  ]
+            },
+            {
+                  "name": "Ohridi-tó",
+                  "text": "Ez a jelentős tó Ohrid közelében tágas vízfelületéről és szép kilátásáról ismert.",
+                  "category": "natural",
+                  "coords": [
+                        20.718901,
+                        41.037213
+                  ]
+            },
+            {
+                  "name": "Labino Beach",
+                  "text": "Csendes és természetes strand az Ohridi-tó partján, az óváros közelében.",
+                  "category": "recreational",
+                  "coords": [
+                        20.788335,
+                        41.11346
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Lihnid",
+                  "text": "Un sit arheologic antic, precursorul actualului Ohrid.",
+                  "category": "historical",
+                  "coords": [
+                        20.791545,
+                        41.115574
+                  ]
+            },
+            {
+                  "name": "Antički teatar",
+                  "text": "Un teatru antic bine conservat în Ohrid, datând din perioada elenistică.",
+                  "category": "historical",
+                  "coords": [
+                        20.793806,
+                        41.114649
+                  ]
+            },
+            {
+                  "name": "Kuka na Robevci",
+                  "text": "O casă istorică în Ohrid, care astăzi servește drept Muzeu Național.",
+                  "category": "museum",
+                  "coords": [
+                        20.796142,
+                        41.112361
+                  ]
+            },
+            {
+                  "name": "House of Lambeski",
+                  "text": "Un muzeu în Ohrid găzduit într-o casă tradițională orășenească.",
+                  "category": "museum",
+                  "coords": [
+                        20.797043,
+                        41.112327
+                  ]
+            },
+            {
+                  "name": "Archaeological site of Mancevci, Early Christian Basilica 5 AC",
+                  "text": "Rămășițele unei basilici creștine timpurii din secolul al V-lea în Ohrid.",
+                  "category": "historical",
+                  "coords": [
+                        20.793484,
+                        41.112823
+                  ]
+            },
+            {
+                  "name": "\"Dolni saraj\" stage",
+                  "text": "O scenă în aer liber în Ohrid pentru evenimente culturale lângă lac.",
+                  "category": "cultural",
+                  "coords": [
+                        20.793518,
+                        41.111526
+                  ]
+            },
+            {
+                  "name": "Sveti Kiril i Metodij",
+                  "text": "Monumente în onoarea Sfinților Chiril și Metodiu în Ohrid.",
+                  "category": "historical",
+                  "coords": [
+                        20.799994,
+                        41.112048
+                  ]
+            },
+            {
+                  "name": "Sv. Kliment i Pantelejmon",
+                  "text": "O importantă biserică bizantină și complex monahal în Ohrid.",
+                  "category": "landmark",
+                  "coords": [
+                        20.790982,
+                        41.112421
+                  ]
+            },
+            {
+                  "name": "Sv. Jovan Kaneo",
+                  "text": "O biserică pitorească pe o stâncă deasupra lacului Ohrid.",
+                  "category": "landmark",
+                  "coords": [
+                        20.788756,
+                        41.111142
+                  ]
+            },
+            {
+                  "name": "Biljanini Izvori",
+                  "text": "Izvoare naturale în Ohrid, legate de legende locale.",
+                  "category": "landmark",
+                  "coords": [
+                        20.815005,
+                        41.102471
+                  ]
+            },
+            {
+                  "name": "Sveti Naum Ohridski Čudotvorec",
+                  "text": "Un monument în Ohrid dedicat Sfântului Naum.",
+                  "category": "historical",
+                  "coords": [
+                        20.799023,
+                        41.112296
+                  ]
+            },
+            {
+                  "name": "Galerija na ikoni",
+                  "text": "O galerie în Ohrid cu o colecție valoroasă de icoane bizantine.",
+                  "category": "museum",
+                  "coords": [
+                        20.795284,
+                        41.114319
+                  ]
+            },
+            {
+                  "name": "Very old tree",
+                  "text": "Un platan vechi de secole cu un trunchi despicat distinctiv în Ohrid.",
+                  "category": "landmark",
+                  "coords": [
+                        20.800318,
+                        41.116019
+                  ]
+            },
+            {
+                  "name": "Mali Sveti Vrači - Sv. Kuzman i Damjan",
+                  "text": "O mică biserică medievală din Ohrid, dedicată Sfinților Cozma și Damian.",
+                  "category": "religious",
+                  "coords": [
+                        20.796695,
+                        41.113556
+                  ]
+            },
+            {
+                  "name": "Ohridsko Ezero / Liqeni i Ohrit",
+                  "text": "Acest lac important de lângă Ohrid este cunoscut pentru suprafața sa vastă de apă și vederile frumoase.",
+                  "category": "natural",
+                  "coords": [
+                        20.718901,
+                        41.037213
+                  ]
+            },
+            {
+                  "name": "Labino Beach",
+                  "text": "O plajă liniștită și naturală pe malul lacului Ohrid, lângă orașul vechi.",
+                  "category": "recreational",
+                  "coords": [
+                        20.788335,
+                        41.11346
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Lychnidos",
+                  "text": "An ancient archaeological site, the precursor of modern-day Ohrid.",
+                  "category": "historical",
+                  "coords": [
+                        20.791545,
+                        41.115574
+                  ]
+            },
+            {
+                  "name": "Ancient Theatre",
+                  "text": "A well-preserved ancient theatre in Ohrid from the Hellenistic period.",
+                  "category": "historical",
+                  "coords": [
+                        20.793806,
+                        41.114649
+                  ]
+            },
+            {
+                  "name": "Robev Family House",
+                  "text": "A historical house in Ohrid that now serves as a national museum.",
+                  "category": "museum",
+                  "coords": [
+                        20.796142,
+                        41.112361
+                  ]
+            },
+            {
+                  "name": "House of Lambeski",
+                  "text": "A museum in Ohrid housed in a traditional town house.",
+                  "category": "museum",
+                  "coords": [
+                        20.797043,
+                        41.112327
+                  ]
+            },
+            {
+                  "name": "Archaeological site of Mancevci, Early Christian Basilica 5 AC",
+                  "text": "Remains of an early Christian basilica from the 5th century in Ohrid.",
+                  "category": "historical",
+                  "coords": [
+                        20.793484,
+                        41.112823
+                  ]
+            },
+            {
+                  "name": "\"Dolni saraj\" stage",
+                  "text": "An open-air stage in Ohrid for cultural events by the lake.",
+                  "category": "cultural",
+                  "coords": [
+                        20.793518,
+                        41.111526
+                  ]
+            },
+            {
+                  "name": "Monuments of Saints Cyril and Methodius",
+                  "text": "Monuments honoring Saints Cyril and Methodius in Ohrid.",
+                  "category": "historical",
+                  "coords": [
+                        20.799994,
+                        41.112048
+                  ]
+            },
+            {
+                  "name": "St. Clement and Panteleimon",
+                  "text": "A significant Byzantine church and monastery complex in Ohrid.",
+                  "category": "landmark",
+                  "coords": [
+                        20.790982,
+                        41.112421
+                  ]
+            },
+            {
+                  "name": "St. John Kaneo",
+                  "text": "A picturesque church on a cliff overlooking Lake Ohrid.",
+                  "category": "landmark",
+                  "coords": [
+                        20.788756,
+                        41.111142
+                  ]
+            },
+            {
+                  "name": "Biljana's Springs",
+                  "text": "Natural springs in Ohrid associated with local legends.",
+                  "category": "landmark",
+                  "coords": [
+                        20.815005,
+                        41.102471
+                  ]
+            },
+            {
+                  "name": "Monument to St. Naum of Ohrid",
+                  "text": "A monument in Ohrid dedicated to Saint Naum.",
+                  "category": "historical",
+                  "coords": [
+                        20.799023,
+                        41.112296
+                  ]
+            },
+            {
+                  "name": "Icon Gallery",
+                  "text": "A gallery in Ohrid with a valuable collection of Byzantine icons.",
+                  "category": "museum",
+                  "coords": [
+                        20.795284,
+                        41.114319
+                  ]
+            },
+            {
+                  "name": "Old plane tree with a forked trunk",
+                  "text": "A centuries-old plane tree with a distinctive forked trunk in Ohrid.",
+                  "category": "landmark",
+                  "coords": [
+                        20.800318,
+                        41.116019
+                  ]
+            },
+            {
+                  "name": "Mali Sveti Vrači - Sv. Kuzman i Damjan",
+                  "text": "A small medieval church in Ohrid dedicated to Saints Cosmas and Damian.",
+                  "category": "religious",
+                  "coords": [
+                        20.796695,
+                        41.113556
+                  ]
+            },
+            {
+                  "name": "Lake Ohrid",
+                  "text": "This major lake near Ohrid is known for its vast water surface and beautiful views.",
+                  "category": "natural",
+                  "coords": [
+                        20.718901,
+                        41.037213
+                  ]
+            },
+            {
+                  "name": "Labino Beach",
+                  "text": "A quiet and natural beach on the shore of Lake Ohrid near the old town.",
+                  "category": "recreational",
+                  "coords": [
+                        20.788335,
+                        41.11346
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "MK",
     name: { de: "Tourismuszentrum Ohrid", hu: "Ohridi Idegenforgalmi Központ", ro: "Centrul Turistic Ohrid", en: "Ohrid Tourism Center" },
@@ -498,7 +2019,52 @@ export const northmacedoniaEconomicV2: POI[] = [
     image: "/poi-images/northmacedonia-kavadarci-wineries-economic-v2.webp",
   },
   {
-    id: "northmacedonia-gostivar-trade-center-economic-v2",
+    id: "northmacedonia-gostivar-trade-center-economic-v2", "sights": {
+      "de": [
+            {
+                  "name": "Sahat Kula",
+                  "text": "Ein historischer Uhrturm und ein Wahrzeichen von Gostivar.",
+                  "category": "historical",
+                  "coords": [
+                        20.910857,
+                        41.794932
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Sahat Kula",
+                  "text": "Történelmi óratorony, amely Gostivar egyik jelképe.",
+                  "category": "historical",
+                  "coords": [
+                        20.910857,
+                        41.794932
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Sahat Kula",
+                  "text": "Un turn cu ceas istoric și un reper important al orașului Gostivar.",
+                  "category": "historical",
+                  "coords": [
+                        20.910857,
+                        41.794932
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Sahat Kula",
+                  "text": "A historical clock tower and a landmark of Gostivar.",
+                  "category": "historical",
+                  "coords": [
+                        20.910857,
+                        41.794932
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "MK",
     name: { de: "Handelszentrum Gostivar", hu: "Gostivari Kereskedelmi Központ", ro: "Centrul Comercial Gostivar", en: "Gostivar Trade Center" },
@@ -543,7 +2109,88 @@ export const northmacedoniaEconomicV2: POI[] = [
     image: "/poi-images/northmacedonia-gostivar-trade-center-economic-v2.webp",
   },
   {
-    id: "northmacedonia-kumanovo-manufacturing-economic-v2",
+    id: "northmacedonia-kumanovo-manufacturing-economic-v2", "sights": {
+      "de": [
+            {
+                  "name": "Zena",
+                  "text": "Ein Denkmal in Kumanovo, das an lokale Geschichte erinnert.",
+                  "category": "historical",
+                  "coords": [
+                        21.72005,
+                        42.135519
+                  ]
+            },
+            {
+                  "name": "Татар Синан Бег џамија",
+                  "text": "Eine historische osmanische Moschee aus dem 16. Jahrhundert in Kumanovo.",
+                  "category": "religious",
+                  "coords": [
+                        21.714727,
+                        42.137461
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Zena",
+                  "text": "A helyi történelemnek emléket állító emlékmű Kumanovóban.",
+                  "category": "historical",
+                  "coords": [
+                        21.72005,
+                        42.135519
+                  ]
+            },
+            {
+                  "name": "Татар Синан Бег џамија",
+                  "text": "Történelmi, 16. századi oszmán mecset Kumanovóban.",
+                  "category": "religious",
+                  "coords": [
+                        21.714727,
+                        42.137461
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Zena",
+                  "text": "Un monument din Kumanovo care onorează istoria locală.",
+                  "category": "historical",
+                  "coords": [
+                        21.72005,
+                        42.135519
+                  ]
+            },
+            {
+                  "name": "Татар Синан Бег џамија",
+                  "text": "O moschee otomană istorică din secolul al XVI-lea în Kumanovo.",
+                  "category": "religious",
+                  "coords": [
+                        21.714727,
+                        42.137461
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Zena",
+                  "text": "A monument in Kumanovo commemorating local history.",
+                  "category": "historical",
+                  "coords": [
+                        21.72005,
+                        42.135519
+                  ]
+            },
+            {
+                  "name": "Tatar Sinan Pasha Mosque",
+                  "text": "A historic 16th-century Ottoman mosque located in Kumanovo.",
+                  "category": "religious",
+                  "coords": [
+                        21.714727,
+                        42.137461
+                  ]
+            }
+      ]
+},
     type: "industry",
     parent: "MK",
     name: { de: "Fertigung Kumanovo", hu: "Kumanovói Gyártás", ro: "Producție Kumanovo", en: "Kumanovo Manufacturing" },
@@ -799,7 +2446,268 @@ export const northmacedoniaEconomicV2: POI[] = [
     image: "/poi-images/northmacedonia-demir-kapija-wine-tour-economic-v2.webp",
   },
   {
-    id: "northmacedonia-gazi-baba-industrial-zone-economic-v2",
+    id: "northmacedonia-gazi-baba-industrial-zone-economic-v2", "sights": {
+      "de": [
+            {
+                  "name": "Скопско кале",
+                  "text": "Eine historische Festung am höchsten Punkt der Stadt mit Blick auf den Fluss Vardar.",
+                  "category": "castle",
+                  "coords": [
+                        21.433208,
+                        42.000615
+                  ]
+            },
+            {
+                  "name": "Музеј на Македонија",
+                  "text": "Eines der ältesten Museen des Landes mit archäologischen und ethnologischen Sammlungen.",
+                  "category": "museum",
+                  "coords": [
+                        21.436115,
+                        42.002576
+                  ]
+            },
+            {
+                  "name": "Македонска Национална опера и балет",
+                  "text": "Die führende Kulturinstitution für Opern- und Ballettaufführungen in Skopje.",
+                  "category": "cultural",
+                  "coords": [
+                        21.436997,
+                        41.997543
+                  ]
+            },
+            {
+                  "name": "Музеј на современата уметност",
+                  "text": "Ein bedeutendes Museum mit einer umfangreichen Sammlung moderner und zeitgenössischer Kunst.",
+                  "category": "museum",
+                  "coords": [
+                        21.432848,
+                        42.003985
+                  ]
+            },
+            {
+                  "name": "Национална галерија „Даут-пашин амам“",
+                  "text": "Ein ehemaliges osmanisches Bad aus dem 15. Jahrhundert, das heute als nationale Kunstgalerie dient.",
+                  "category": "museum",
+                  "coords": [
+                        21.435724,
+                        41.998724
+                  ]
+            },
+            {
+                  "name": "Museum des mazedonischen Kampfes",
+                  "text": "Ein Museum, das der Geschichte des Kampfes des mazedonischen Volkes um Unabhängigkeit gewidmet ist.",
+                  "category": "museum",
+                  "coords": [
+                        21.433132,
+                        41.997984
+                  ]
+            },
+            {
+                  "name": "Музеј на Град Скопје",
+                  "text": "Dieses im alten Bahnhof untergebrachte Museum zeigt die Geschichte und Kultur der Stadt.",
+                  "category": "museum",
+                  "coords": [
+                        21.429044,
+                        41.990916
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Скопско кале",
+                  "text": "Történelmi erőd a város legmagasabb pontján, kilátással a Vardar-folyóra.",
+                  "category": "castle",
+                  "coords": [
+                        21.433208,
+                        42.000615
+                  ]
+            },
+            {
+                  "name": "Музеј на Македонија",
+                  "text": "Az ország egyik legrégebbi múzeuma, régészeti és néprajzi gyűjteményekkel.",
+                  "category": "museum",
+                  "coords": [
+                        21.436115,
+                        42.002576
+                  ]
+            },
+            {
+                  "name": "Македонска Национална опера и балет",
+                  "text": "Szkopje vezető kulturális intézménye opera- és balettelőadások számára.",
+                  "category": "cultural",
+                  "coords": [
+                        21.436997,
+                        41.997543
+                  ]
+            },
+            {
+                  "name": "Музеј на современата уметност",
+                  "text": "Jelentős múzeum, amely modern és kortárs művészeti gyűjteménynek ad otthont.",
+                  "category": "museum",
+                  "coords": [
+                        21.432848,
+                        42.003985
+                  ]
+            },
+            {
+                  "name": "Национална галерија „Даут-пашин амам“",
+                  "text": "Egykori 15. századi oszmán fürdő, amely ma nemzeti művészeti galériaként működik.",
+                  "category": "museum",
+                  "coords": [
+                        21.435724,
+                        41.998724
+                  ]
+            },
+            {
+                  "name": "Музеј на македонската борба",
+                  "text": "A macedón nép függetlenségi harcának történetét bemutató múzeum.",
+                  "category": "museum",
+                  "coords": [
+                        21.433132,
+                        41.997984
+                  ]
+            },
+            {
+                  "name": "Музеј на Град Скопје",
+                  "text": "A régi vasútállomáson található múzeum a város történelmét és kultúráját mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        21.429044,
+                        41.990916
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Скопско кале",
+                  "text": "O cetate istorică situată pe cel mai înalt punct al orașului, cu vedere la râul Vardar.",
+                  "category": "castle",
+                  "coords": [
+                        21.433208,
+                        42.000615
+                  ]
+            },
+            {
+                  "name": "Музеј на Македонија",
+                  "text": "Unul dintre cele mai vechi muzee din țară, cu colecții arheologice și etnologice.",
+                  "category": "museum",
+                  "coords": [
+                        21.436115,
+                        42.002576
+                  ]
+            },
+            {
+                  "name": "Македонска Национална опера и балет",
+                  "text": "Principala instituție culturală pentru spectacole de operă și balet din Skopje.",
+                  "category": "cultural",
+                  "coords": [
+                        21.436997,
+                        41.997543
+                  ]
+            },
+            {
+                  "name": "Музеј на современата уметност",
+                  "text": "Un muzeu major care găzduiește o colecție semnificativă de artă modernă și contemporană.",
+                  "category": "museum",
+                  "coords": [
+                        21.432848,
+                        42.003985
+                  ]
+            },
+            {
+                  "name": "Национална галерија „Даут-пашин амам“",
+                  "text": "O fostă baie otomană din secolul al XV-lea, care servește acum ca galerie națională de artă.",
+                  "category": "museum",
+                  "coords": [
+                        21.435724,
+                        41.998724
+                  ]
+            },
+            {
+                  "name": "Музеј на македонската борба",
+                  "text": "Un muzeu dedicat istoriei luptei poporului macedonean pentru independență.",
+                  "category": "museum",
+                  "coords": [
+                        21.433132,
+                        41.997984
+                  ]
+            },
+            {
+                  "name": "Музеј на Град Скопје",
+                  "text": "Situat în vechea gară, acest muzeu prezintă istoria și cultura orașului.",
+                  "category": "museum",
+                  "coords": [
+                        21.429044,
+                        41.990916
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Skopje Fortress",
+                  "text": "A historic fortress on the highest point in the city, overlooking the Vardar River.",
+                  "category": "castle",
+                  "coords": [
+                        21.433208,
+                        42.000615
+                  ]
+            },
+            {
+                  "name": "Museum of Macedonia",
+                  "text": "One of the oldest museums in the country, featuring archaeological and ethnological collections.",
+                  "category": "museum",
+                  "coords": [
+                        21.436115,
+                        42.002576
+                  ]
+            },
+            {
+                  "name": "Macedonian National Opera and Ballet",
+                  "text": "The premier cultural institution for opera and ballet performances in Skopje.",
+                  "category": "cultural",
+                  "coords": [
+                        21.436997,
+                        41.997543
+                  ]
+            },
+            {
+                  "name": "Contemporary Art Museum of Macedonia",
+                  "text": "A major museum housing a significant collection of modern and contemporary art.",
+                  "category": "museum",
+                  "coords": [
+                        21.432848,
+                        42.003985
+                  ]
+            },
+            {
+                  "name": "Daut Pasha Hamam National Gallery",
+                  "text": "A former 15th-century Ottoman bath that now serves as a national art gallery.",
+                  "category": "museum",
+                  "coords": [
+                        21.435724,
+                        41.998724
+                  ]
+            },
+            {
+                  "name": "Museum of the Macedonian struggle",
+                  "text": "A museum dedicated to the history of the Macedonian people's fight for independence.",
+                  "category": "museum",
+                  "coords": [
+                        21.433132,
+                        41.997984
+                  ]
+            },
+            {
+                  "name": "Museum of the City of Skopje",
+                  "text": "Located in the old railway station, this museum showcases the history and culture of the city.",
+                  "category": "museum",
+                  "coords": [
+                        21.429044,
+                        41.990916
+                  ]
+            }
+      ]
+},
     type: "industry",
     parent: "MK",
     name: { de: "Industriegebiet Gazi Baba", hu: "Gazi Baba Ipari Zóna", ro: "Zona Industrială Gazi Baba", en: "Gazi Baba Industrial Zone" },

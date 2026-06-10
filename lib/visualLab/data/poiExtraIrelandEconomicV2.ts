@@ -48,7 +48,160 @@ export const irelandEconomicV2: POI[] = [
     image: "/poi-images/ireland-ringaskiddy-port-economic-v2.webp",
   },
   {
-    id: "ireland-ballymahon-fiber-economic-v2",
+    id: "ireland-ballymahon-fiber-economic-v2", "sights": {
+      "de": [
+            {
+                  "name": "Noughaval Cemetery",
+                  "text": "Ein historischer Friedhof mit den Ruinen einer alten Kirche bei Ballymahon.",
+                  "category": "historical",
+                  "coords": [
+                        -7.778758,
+                        53.524301
+                  ]
+            },
+            {
+                  "name": "Tang Church",
+                  "text": "Eine lokale Kirche in der Gemeinde Tang bei Ballymahon.",
+                  "category": "religious",
+                  "coords": [
+                        -7.793016,
+                        53.529024
+                  ]
+            },
+            {
+                  "name": "St. Matthew's Church",
+                  "text": "Eine christliche Kultstätte in der Region Ballymahon.",
+                  "category": "religious",
+                  "coords": [
+                        -7.767249,
+                        53.56635
+                  ]
+            },
+            {
+                  "name": "St. Catherine's Church",
+                  "text": "Eine dem heiligen Katharina geweihte Kirche in der Nähe von Ballymahon.",
+                  "category": "religious",
+                  "coords": [
+                        -7.762462,
+                        53.562604
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Noughaval Cemetery",
+                  "text": "Történelmi temető egy régi templom romjaival Ballymahon közelében.",
+                  "category": "historical",
+                  "coords": [
+                        -7.778758,
+                        53.524301
+                  ]
+            },
+            {
+                  "name": "Tang Church",
+                  "text": "Helyi templom Tang községben, Ballymahon közelében.",
+                  "category": "religious",
+                  "coords": [
+                        -7.793016,
+                        53.529024
+                  ]
+            },
+            {
+                  "name": "St. Matthew's Church",
+                  "text": "Keresztény istentiszteleti hely Ballymahon régiójában.",
+                  "category": "religious",
+                  "coords": [
+                        -7.767249,
+                        53.56635
+                  ]
+            },
+            {
+                  "name": "St. Catherine's Church",
+                  "text": "Szent Katalinnak szentelt templom Ballymahon közelében.",
+                  "category": "religious",
+                  "coords": [
+                        -7.762462,
+                        53.562604
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Noughaval Cemetery",
+                  "text": "Un cimitir istoric cu ruinele unei vechi biserici lângă Ballymahon.",
+                  "category": "historical",
+                  "coords": [
+                        -7.778758,
+                        53.524301
+                  ]
+            },
+            {
+                  "name": "Tang Church",
+                  "text": "O biserică locală în parohia Tang de lângă Ballymahon.",
+                  "category": "religious",
+                  "coords": [
+                        -7.793016,
+                        53.529024
+                  ]
+            },
+            {
+                  "name": "St. Matthew's Church",
+                  "text": "Un lăcaș de cult creștin în regiunea Ballymahon.",
+                  "category": "religious",
+                  "coords": [
+                        -7.767249,
+                        53.56635
+                  ]
+            },
+            {
+                  "name": "St. Catherine's Church",
+                  "text": "O biserică dedicată Sfintei Ecaterina lângă Ballymahon.",
+                  "category": "religious",
+                  "coords": [
+                        -7.762462,
+                        53.562604
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Noughaval Cemetery",
+                  "text": "A historical cemetery with the ruins of an old church near Ballymahon.",
+                  "category": "historical",
+                  "coords": [
+                        -7.778758,
+                        53.524301
+                  ]
+            },
+            {
+                  "name": "Tang Church",
+                  "text": "A local church in the Tang parish near Ballymahon.",
+                  "category": "religious",
+                  "coords": [
+                        -7.793016,
+                        53.529024
+                  ]
+            },
+            {
+                  "name": "St. Matthew's Church",
+                  "text": "A Christian place of worship in the Ballymahon region.",
+                  "category": "religious",
+                  "coords": [
+                        -7.767249,
+                        53.56635
+                  ]
+            },
+            {
+                  "name": "St. Catherine's Church",
+                  "text": "A church dedicated to Saint Catherine near Ballymahon.",
+                  "category": "religious",
+                  "coords": [
+                        -7.762462,
+                        53.562604
+                  ]
+            }
+      ]
+},
     type: "industry",
     parent: "IE",
     name: { de: "Ballymahon Datenknoten", hu: "Ballymahon adatközpont", ro: "Nod de date Ballymahon", en: "Ballymahon Data Hub" },
@@ -273,7 +426,304 @@ export const irelandEconomicV2: POI[] = [
     image: "/poi-images/ireland-ashbourne-business-park-economic-v2.webp",
   },
   {
-    id: "ireland-newbridge-manufacturing-economic-v2",
+    id: "ireland-newbridge-manufacturing-economic-v2", "sights": {
+      "de": [
+            {
+                  "name": "Newbridge Silverware",
+                  "text": "Museum für Silberbesteck und die „Museum of Style Icons“-Sammlung.",
+                  "category": "museum",
+                  "coords": [
+                        -6.796662,
+                        53.17581
+                  ]
+            },
+            {
+                  "name": "The Moat",
+                  "text": "Eine archäologische Stätte mit historischen Überresten in Newbridge.",
+                  "category": "historical",
+                  "coords": [
+                        -6.829507,
+                        53.178136
+                  ]
+            },
+            {
+                  "name": "Pollardstown Fen Nature Reserve",
+                  "text": "Ein bedeutendes postglaziales Niedermoor und Naturschutzgebiet.",
+                  "category": "natural",
+                  "coords": [
+                        -6.849659,
+                        53.190704
+                  ]
+            },
+            {
+                  "name": "Riverbank Arts Centre",
+                  "text": "Ein Kulturzentrum, das Theater, Musik und Ausstellungen beherbergt.",
+                  "category": "cultural",
+                  "coords": [
+                        -6.794629,
+                        53.181807
+                  ]
+            },
+            {
+                  "name": "Donnelly's Hollow",
+                  "text": "Ein Denkmal zur Erinnerung an einen historischen Boxkampf von 1813.",
+                  "category": "historical",
+                  "coords": [
+                        -6.802967,
+                        53.149412
+                  ]
+            },
+            {
+                  "name": "Athgarvan Bridge",
+                  "text": "Eine historische Steinbrücke, die den Fluss Liffey überquert.",
+                  "category": "landmark",
+                  "coords": [
+                        -6.772309,
+                        53.153791
+                  ]
+            },
+            {
+                  "name": "St. Patrick's Church",
+                  "text": "Eine lokale Gemeindekirche, die dem Schutzpatron Irlands gewidmet ist.",
+                  "category": "religious",
+                  "coords": [
+                        -6.80661,
+                        53.175418
+                  ]
+            },
+            {
+                  "name": "Newbridge Town Hall",
+                  "text": "Das historische Verwaltungsgebäude und Versammlungszentrum der Stadt.",
+                  "category": "landmark",
+                  "coords": [
+                        -6.796746,
+                        53.180764
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Newbridge Silverware",
+                  "text": "Ezüstművészeti múzeum és stílusikonok ruháit bemutató gyűjtemény.",
+                  "category": "museum",
+                  "coords": [
+                        -6.796662,
+                        53.17581
+                  ]
+            },
+            {
+                  "name": "The Moat",
+                  "text": "Történelmi maradványokat őrző régészeti lelőhely Newbridge-ben.",
+                  "category": "historical",
+                  "coords": [
+                        -6.829507,
+                        53.178136
+                  ]
+            },
+            {
+                  "name": "Pollardstown Fen Nature Reserve",
+                  "text": "Jelentős posztglaciális síkláp és természetvédelmi terület.",
+                  "category": "natural",
+                  "coords": [
+                        -6.849659,
+                        53.190704
+                  ]
+            },
+            {
+                  "name": "Riverbank Arts Centre",
+                  "text": "Színháznak, zenének és kiállításoknak otthont adó kulturális központ.",
+                  "category": "cultural",
+                  "coords": [
+                        -6.794629,
+                        53.181807
+                  ]
+            },
+            {
+                  "name": "Donnelly's Hollow",
+                  "text": "Emlékmű egy 1813-as történelmi ökölvívó-mérkőzés emlékére.",
+                  "category": "historical",
+                  "coords": [
+                        -6.802967,
+                        53.149412
+                  ]
+            },
+            {
+                  "name": "Athgarvan Bridge",
+                  "text": "Történelmi kőhíd, amely a Liffey folyón ível át.",
+                  "category": "landmark",
+                  "coords": [
+                        -6.772309,
+                        53.153791
+                  ]
+            },
+            {
+                  "name": "St. Patrick's Church",
+                  "text": "Írország védőszentjének szentelt helyi plébániatemplom.",
+                  "category": "religious",
+                  "coords": [
+                        -6.80661,
+                        53.175418
+                  ]
+            },
+            {
+                  "name": "Newbridge Town Hall",
+                  "text": "A város történelmi középülete és közösségi találkozóhelye.",
+                  "category": "landmark",
+                  "coords": [
+                        -6.796746,
+                        53.180764
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Newbridge Silverware",
+                  "text": "Muzeu de argintărie și o colecție de vestimentație a unor personalități celebre.",
+                  "category": "museum",
+                  "coords": [
+                        -6.796662,
+                        53.17581
+                  ]
+            },
+            {
+                  "name": "The Moat",
+                  "text": "Un sit arheologic ce conține vestigii istorice în Newbridge.",
+                  "category": "historical",
+                  "coords": [
+                        -6.829507,
+                        53.178136
+                  ]
+            },
+            {
+                  "name": "Pollardstown Fen Nature Reserve",
+                  "text": "O importantă mlaștină post-glaciară și rezervație naturală.",
+                  "category": "natural",
+                  "coords": [
+                        -6.849659,
+                        53.190704
+                  ]
+            },
+            {
+                  "name": "Riverbank Arts Centre",
+                  "text": "Un centru cultural ce găzduiește teatru, muzică și expoziții.",
+                  "category": "cultural",
+                  "coords": [
+                        -6.794629,
+                        53.181807
+                  ]
+            },
+            {
+                  "name": "Donnelly's Hollow",
+                  "text": "Un monument ce comemorează un meci istoric de box din 1813.",
+                  "category": "historical",
+                  "coords": [
+                        -6.802967,
+                        53.149412
+                  ]
+            },
+            {
+                  "name": "Athgarvan Bridge",
+                  "text": "Un pod istoric din piatră care traversează râul Liffey.",
+                  "category": "landmark",
+                  "coords": [
+                        -6.772309,
+                        53.153791
+                  ]
+            },
+            {
+                  "name": "St. Patrick's Church",
+                  "text": "O biserică parohială locală dedicată sfântului patron al Irlandei.",
+                  "category": "religious",
+                  "coords": [
+                        -6.80661,
+                        53.175418
+                  ]
+            },
+            {
+                  "name": "Newbridge Town Hall",
+                  "text": "Clădirea istorică a primăriei și centru de reuniune al orașului.",
+                  "category": "landmark",
+                  "coords": [
+                        -6.796746,
+                        53.180764
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Newbridge Silverware",
+                  "text": "A silver cutlery museum featuring the Museum of Style Icons collection.",
+                  "category": "museum",
+                  "coords": [
+                        -6.796662,
+                        53.17581
+                  ]
+            },
+            {
+                  "name": "The Moat",
+                  "text": "An archaeological site containing historical remains in Newbridge.",
+                  "category": "historical",
+                  "coords": [
+                        -6.829507,
+                        53.178136
+                  ]
+            },
+            {
+                  "name": "Pollardstown Fen Nature Reserve",
+                  "text": "A significant post-glacial fen and nature reserve.",
+                  "category": "natural",
+                  "coords": [
+                        -6.849659,
+                        53.190704
+                  ]
+            },
+            {
+                  "name": "Riverbank Arts Centre",
+                  "text": "A cultural venue hosting theatre, music, and exhibitions.",
+                  "category": "cultural",
+                  "coords": [
+                        -6.794629,
+                        53.181807
+                  ]
+            },
+            {
+                  "name": "Donnelly's Hollow",
+                  "text": "A monument commemorating a historical boxing match from 1813.",
+                  "category": "historical",
+                  "coords": [
+                        -6.802967,
+                        53.149412
+                  ]
+            },
+            {
+                  "name": "Athgarvan Bridge",
+                  "text": "A historic stone bridge spanning the River Liffey.",
+                  "category": "landmark",
+                  "coords": [
+                        -6.772309,
+                        53.153791
+                  ]
+            },
+            {
+                  "name": "St. Patrick's Church",
+                  "text": "A local parish church dedicated to the patron saint of Ireland.",
+                  "category": "religious",
+                  "coords": [
+                        -6.80661,
+                        53.175418
+                  ]
+            },
+            {
+                  "name": "Newbridge Town Hall",
+                  "text": "The town's historic administrative building and community hub.",
+                  "category": "landmark",
+                  "coords": [
+                        -6.796746,
+                        53.180764
+                  ]
+            }
+      ]
+},
     type: "industry",
     parent: "IE",
     name: { de: "Newbridge Fertigungszentrum", hu: "Newbridge gyártóközpont", ro: "Centrul de producție Newbridge", en: "Newbridge Manufacturing Hub" },

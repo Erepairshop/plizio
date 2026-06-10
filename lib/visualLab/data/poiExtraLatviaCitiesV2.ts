@@ -2002,6 +2002,51 @@ export const latviaCitiesV2: POI[] = [
                         25.879068,
                         56.503645
                   ]
+            },
+            {
+                  "name": "Jēkabpils Vēstures muzejs",
+                  "text": "Ein Museum in Jēkabpils, das die Stadtgeschichte und lokale archäologische Funde dokumentiert.",
+                  "category": "museum",
+                  "coords": [
+                        25.858898,
+                        56.511037
+                  ]
+            },
+            {
+                  "name": "Sēļu sēta",
+                  "text": "Ein Freilichtmuseum in Jēkabpils, das Einblicke in das traditionelle Leben der Selonen bietet.",
+                  "category": "museum",
+                  "coords": [
+                        25.874093,
+                        56.496588
+                  ]
+            },
+            {
+                  "name": "Kena estrāde",
+                  "text": "Eine Freilichtbühne in Jēkabpils, die als Ort für Konzerte und Volksfeste dient.",
+                  "category": "cultural",
+                  "coords": [
+                        25.874965,
+                        56.495063
+                  ]
+            },
+            {
+                  "name": "Kapelle St. Georg",
+                  "text": "Eine dem heiligen Georg gewidmete Kapelle in Jēkabpils.",
+                  "category": "religious",
+                  "coords": [
+                        25.860568,
+                        56.499987
+                  ]
+            },
+            {
+                  "name": "Messpunkt des Struwe-Bogens",
+                  "text": "Ein Messpunkt des Struve-Bogens in Lettland, der zum UNESCO-Welterbe gehört.",
+                  "category": "landmark",
+                  "coords": [
+                        25.856531,
+                        56.501357
+                  ]
             }
       ],
       "hu": [
@@ -2021,6 +2066,51 @@ export const latviaCitiesV2: POI[] = [
                   "coords": [
                         25.879068,
                         56.503645
+                  ]
+            },
+            {
+                  "name": "Jēkabpils Vēstures muzejs",
+                  "text": "Múzeum Jēkabpils-ben, amely a város történelmét és helyi régészeti leleteket mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        25.858898,
+                        56.511037
+                  ]
+            },
+            {
+                  "name": "Sēļu sēta",
+                  "text": "Szabadtéri múzeum Jēkabpils-ben, amely a szelón népcsoport hagyományos életmódját mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        25.874093,
+                        56.496588
+                  ]
+            },
+            {
+                  "name": "Kena estrāde",
+                  "text": "Szabadtéri színpad Jēkabpils-ben, amely koncertek és népi fesztiválok helyszíneként szolgál.",
+                  "category": "cultural",
+                  "coords": [
+                        25.874965,
+                        56.495063
+                  ]
+            },
+            {
+                  "name": "Svētā Georga kapella",
+                  "text": "Szent Györgynek szentelt kápolna Jēkabpils városában.",
+                  "category": "religious",
+                  "coords": [
+                        25.860568,
+                        56.499987
+                  ]
+            },
+            {
+                  "name": "Strūves ģeodēziskā loka punkti Latvijā",
+                  "text": "A Struve geodéziai ív egyik lettországi pontja, amely az UNESCO Világörökség része.",
+                  "category": "landmark",
+                  "coords": [
+                        25.856531,
+                        56.501357
                   ]
             }
       ],
@@ -2042,6 +2132,51 @@ export const latviaCitiesV2: POI[] = [
                         25.879068,
                         56.503645
                   ]
+            },
+            {
+                  "name": "Jēkabpils Vēstures muzejs",
+                  "text": "Un muzeu din Jēkabpils care documentează istoria orașului și descoperiri arheologice locale.",
+                  "category": "museum",
+                  "coords": [
+                        25.858898,
+                        56.511037
+                  ]
+            },
+            {
+                  "name": "Sēļu sēta",
+                  "text": "Un muzeu în aer liber din Jēkabpils, oferind perspective asupra vieții tradiționale a selonilor.",
+                  "category": "museum",
+                  "coords": [
+                        25.874093,
+                        56.496588
+                  ]
+            },
+            {
+                  "name": "Kena estrāde",
+                  "text": "O scenă în aer liber din Jēkabpils, utilizată pentru concerte și festivaluri populare.",
+                  "category": "cultural",
+                  "coords": [
+                        25.874965,
+                        56.495063
+                  ]
+            },
+            {
+                  "name": "Svētā Georga kapella",
+                  "text": "O capelă dedicată Sfântului Gheorghe din Jēkabpils.",
+                  "category": "religious",
+                  "coords": [
+                        25.860568,
+                        56.499987
+                  ]
+            },
+            {
+                  "name": "Strūves ģeodēziskā loka punkti Latvijā",
+                  "text": "Un punct al Arcului Geodezic Struve din Letonia, inclus în Patrimoniul Mondial UNESCO.",
+                  "category": "landmark",
+                  "coords": [
+                        25.856531,
+                        56.501357
+                  ]
             }
       ],
       "en": [
@@ -2061,6 +2196,51 @@ export const latviaCitiesV2: POI[] = [
                   "coords": [
                         25.879068,
                         56.503645
+                  ]
+            },
+            {
+                  "name": "Jēkabpils history museum",
+                  "text": "A museum in Jēkabpils documenting the city history and local archaeological finds.",
+                  "category": "museum",
+                  "coords": [
+                        25.858898,
+                        56.511037
+                  ]
+            },
+            {
+                  "name": "Sēļu sēta",
+                  "text": "An open-air museum in Jēkabpils offering insights into the traditional life of Selonians.",
+                  "category": "museum",
+                  "coords": [
+                        25.874093,
+                        56.496588
+                  ]
+            },
+            {
+                  "name": "Kena estrāde",
+                  "text": "An outdoor stage in Jēkabpils serving as a venue for concerts and folk festivals.",
+                  "category": "cultural",
+                  "coords": [
+                        25.874965,
+                        56.495063
+                  ]
+            },
+            {
+                  "name": "Svētā Georga kapella",
+                  "text": "A chapel dedicated to Saint George in Jēkabpils.",
+                  "category": "religious",
+                  "coords": [
+                        25.860568,
+                        56.499987
+                  ]
+            },
+            {
+                  "name": "Strūves ģeodēziskā loka punkti Latvijā",
+                  "text": "A point of the Struve Geodetic Arc in Latvia, part of the UNESCO World Heritage.",
+                  "category": "landmark",
+                  "coords": [
+                        25.856531,
+                        56.501357
                   ]
             }
       ]
@@ -3783,7 +3963,160 @@ export const latviaCitiesV2: POI[] = [
     image: "/poi-images/latvia-siguldas-pilseta-cities-v2.webp",
   },
   {
-    id: "latvia-vangaži-cities-v2",
+    id: "latvia-vangaži-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Skolas muzejs",
+                  "text": "Lokales Schulmuseum in Vangaži, das der Geschichte der Bildung gewidmet ist.",
+                  "category": "museum",
+                  "coords": [
+                        24.550557,
+                        57.091885
+                  ]
+            },
+            {
+                  "name": "Kalnabrantu vilkaču priede",
+                  "text": "Legendäre Kiefer in Vangaži, die mit lokalen Werwolf-Sagen verbunden ist.",
+                  "category": "landmark",
+                  "coords": [
+                        24.571478,
+                        57.120536
+                  ]
+            },
+            {
+                  "name": "Mākslinieku dārzs",
+                  "text": "„Garten der Künstler“ in Vangaži, ein malerischer Außenbereich.",
+                  "category": "landmark",
+                  "coords": [
+                        24.583973,
+                        57.132051
+                  ]
+            },
+            {
+                  "name": "Annas Ludiņas mākslinieku dārzs",
+                  "text": "Gedenkgarten, der der Opernsängerin Anna Ludiņa gewidmet ist.",
+                  "category": "landmark",
+                  "coords": [
+                        24.584465,
+                        57.130533
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Skolas muzejs",
+                  "text": "Helyi iskolamúzeum Vangažiban, amely az oktatás történetét mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        24.550557,
+                        57.091885
+                  ]
+            },
+            {
+                  "name": "Kalnabrantu vilkaču priede",
+                  "text": "Legendás fenyőfa Vangažiban, amely a helyi farkasember-legendákhoz kötődik.",
+                  "category": "landmark",
+                  "coords": [
+                        24.571478,
+                        57.120536
+                  ]
+            },
+            {
+                  "name": "Mākslinieku dārzs",
+                  "text": "„Művészek kertje” Vangažiban, egy festői szabadtéri terület.",
+                  "category": "landmark",
+                  "coords": [
+                        24.583973,
+                        57.132051
+                  ]
+            },
+            {
+                  "name": "Annas Ludiņas mākslinieku dārzs",
+                  "text": "Anna Ludiņa operaénekesnőnek szentelt emlékkert.",
+                  "category": "landmark",
+                  "coords": [
+                        24.584465,
+                        57.130533
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Skolas muzejs",
+                  "text": "Muzeu școlar local în Vangaži, dedicat istoriei educației din zonă.",
+                  "category": "museum",
+                  "coords": [
+                        24.550557,
+                        57.091885
+                  ]
+            },
+            {
+                  "name": "Kalnabrantu vilkaču priede",
+                  "text": "Pin legendar în Vangaži, asociat cu legendele locale despre vârcolaci.",
+                  "category": "landmark",
+                  "coords": [
+                        24.571478,
+                        57.120536
+                  ]
+            },
+            {
+                  "name": "Mākslinieku dārzs",
+                  "text": "„Grădina Artiștilor” din Vangaži, o zonă pitorească în aer liber.",
+                  "category": "landmark",
+                  "coords": [
+                        24.583973,
+                        57.132051
+                  ]
+            },
+            {
+                  "name": "Annas Ludiņas mākslinieku dārzs",
+                  "text": "Grădină memorială dedicată cântăreței de operă Anna Ludiņa.",
+                  "category": "landmark",
+                  "coords": [
+                        24.584465,
+                        57.130533
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Skolas muzejs",
+                  "text": "Local school museum in Vangaži dedicated to the history of education in the area.",
+                  "category": "museum",
+                  "coords": [
+                        24.550557,
+                        57.091885
+                  ]
+            },
+            {
+                  "name": "Kalnabrantu vilkaču priede",
+                  "text": "Legendary pine tree in Vangaži associated with local werewolf folklore.",
+                  "category": "landmark",
+                  "coords": [
+                        24.571478,
+                        57.120536
+                  ]
+            },
+            {
+                  "name": "Mākslinieku dārzs",
+                  "text": "\"Artists' Garden\" in Vangaži, a scenic outdoor area.",
+                  "category": "landmark",
+                  "coords": [
+                        24.583973,
+                        57.132051
+                  ]
+            },
+            {
+                  "name": "Annas Ludiņas mākslinieku dārzs",
+                  "text": "Memorial garden dedicated to the opera singer Anna Ludiņa.",
+                  "category": "landmark",
+                  "coords": [
+                        24.584465,
+                        57.130533
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "LV",
     name: { de: "Vangaži", hu: "Vangaži", ro: "Vangaži", en: "Vangaži" },
@@ -3828,7 +4161,232 @@ export const latviaCitiesV2: POI[] = [
     image: "/poi-images/latvia-vangaži-cities-v2.webp",
   },
   {
-    id: "latvia-skrunda-cities-v2",
+    id: "latvia-skrunda-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Krievu kalns",
+                  "text": "Eine archäologische Stätte und ein historischer Hügel in der Nähe von Skrunda.",
+                  "category": "historical",
+                  "coords": [
+                        22.045142,
+                        56.669958
+                  ]
+            },
+            {
+                  "name": "Skrundas viduslaiku pilskalns",
+                  "text": "Ein mittelalterlicher Burgwall in Skrunda, der die lokalen historischen Befestigungen repräsentiert.",
+                  "category": "castle",
+                  "coords": [
+                        22.025086,
+                        56.673458
+                  ]
+            },
+            {
+                  "name": "Andžēnu stacija",
+                  "text": "Ein lokales Museum in Skrunda, das Einblicke in die regionale Geschichte bietet.",
+                  "category": "museum",
+                  "coords": [
+                        22.026762,
+                        56.676857
+                  ]
+            },
+            {
+                  "name": "dabas liegums „Skrundas zivju dīķi”",
+                  "text": "Ein Naturschutzgebiet in Skrunda, bekannt für seine Fischteiche und die lokale Artenvielfalt.",
+                  "category": "natural",
+                  "coords": [
+                        21.984978,
+                        56.690185
+                  ]
+            },
+            {
+                  "name": "Skrundas skatu laukums",
+                  "text": "Ein Aussichtspunkt in Skrunda mit Blick auf die umliegende Landschaft.",
+                  "category": "natural",
+                  "coords": [
+                        22.026073,
+                        56.674237
+                  ]
+            },
+            {
+                  "name": "Skrundas muiža",
+                  "text": "Ein historisches Herrenhaus in Skrunda, das das architektonische Erbe der Region widerspiegelt.",
+                  "category": "historical",
+                  "coords": [
+                        22.023465,
+                        56.670588
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Krievu kalns",
+                  "text": "Régészeti lelőhely és történelmi domb Skrunda közelében.",
+                  "category": "historical",
+                  "coords": [
+                        22.045142,
+                        56.669958
+                  ]
+            },
+            {
+                  "name": "Skrundas viduslaiku pilskalns",
+                  "text": "Középkori várhely Skrundában, amely a helyi történelmi erődítményeket reprezentálja.",
+                  "category": "castle",
+                  "coords": [
+                        22.025086,
+                        56.673458
+                  ]
+            },
+            {
+                  "name": "Andžēnu stacija",
+                  "text": "Helyi múzeum Skrundában, amely betekintést nyújt a régió történelmébe.",
+                  "category": "museum",
+                  "coords": [
+                        22.026762,
+                        56.676857
+                  ]
+            },
+            {
+                  "name": "dabas liegums „Skrundas zivju dīķi”",
+                  "text": "Természetvédelmi terület Skrundában, amely halastavairól és helyi élővilágáról ismert.",
+                  "category": "natural",
+                  "coords": [
+                        21.984978,
+                        56.690185
+                  ]
+            },
+            {
+                  "name": "Skrundas skatu laukums",
+                  "text": "Kilátópont Skrundában, ahonnan szép kilátás nyílik a környékre.",
+                  "category": "natural",
+                  "coords": [
+                        22.026073,
+                        56.674237
+                  ]
+            },
+            {
+                  "name": "Skrundas muiža",
+                  "text": "Történelmi kúria Skrundában, amely a környék építészeti örökségét tükrözi.",
+                  "category": "historical",
+                  "coords": [
+                        22.023465,
+                        56.670588
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Krievu kalns",
+                  "text": "Un sit arheologic și un deal istoric situat lângă Skrunda.",
+                  "category": "historical",
+                  "coords": [
+                        22.045142,
+                        56.669958
+                  ]
+            },
+            {
+                  "name": "Skrundas viduslaiku pilskalns",
+                  "text": "O fortificație medievală situată în Skrunda, reprezentând fortificațiile istorice locale.",
+                  "category": "castle",
+                  "coords": [
+                        22.025086,
+                        56.673458
+                  ]
+            },
+            {
+                  "name": "Andžēnu stacija",
+                  "text": "Un muzeu local situat în Skrunda, oferind informații despre istoria regională.",
+                  "category": "museum",
+                  "coords": [
+                        22.026762,
+                        56.676857
+                  ]
+            },
+            {
+                  "name": "dabas liegums „Skrundas zivju dīķi”",
+                  "text": "O rezervație naturală în Skrunda, cunoscută pentru iazurile sale piscicole și biodiversitatea locală.",
+                  "category": "natural",
+                  "coords": [
+                        21.984978,
+                        56.690185
+                  ]
+            },
+            {
+                  "name": "Skrundas skatu laukums",
+                  "text": "Un punct de belvedere în Skrunda, oferind priveliști asupra peisajului înconjurător.",
+                  "category": "natural",
+                  "coords": [
+                        22.026073,
+                        56.674237
+                  ]
+            },
+            {
+                  "name": "Skrundas muiža",
+                  "text": "Un conac istoric în Skrunda, reflectând moștenirea arhitecturală a zonei.",
+                  "category": "historical",
+                  "coords": [
+                        22.023465,
+                        56.670588
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Krievu kalns",
+                  "text": "An archaeological site and historic hill located near Skrunda.",
+                  "category": "historical",
+                  "coords": [
+                        22.045142,
+                        56.669958
+                  ]
+            },
+            {
+                  "name": "Skrundas viduslaiku pilskalns",
+                  "text": "A medieval hillfort located in Skrunda, representing local historical fortifications.",
+                  "category": "castle",
+                  "coords": [
+                        22.025086,
+                        56.673458
+                  ]
+            },
+            {
+                  "name": "Andžēnu stacija",
+                  "text": "A local museum located in Skrunda, offering insights into regional history.",
+                  "category": "museum",
+                  "coords": [
+                        22.026762,
+                        56.676857
+                  ]
+            },
+            {
+                  "name": "dabas liegums „Skrundas zivju dīķi”",
+                  "text": "A nature reserve in Skrunda known for its fish ponds and local biodiversity.",
+                  "category": "natural",
+                  "coords": [
+                        21.984978,
+                        56.690185
+                  ]
+            },
+            {
+                  "name": "Skrundas skatu laukums",
+                  "text": "A scenic viewpoint in Skrunda offering views of the surrounding landscape.",
+                  "category": "natural",
+                  "coords": [
+                        22.026073,
+                        56.674237
+                  ]
+            },
+            {
+                  "name": "Skrundas muiža",
+                  "text": "A historic manor house in Skrunda, reflecting the architectural heritage of the area.",
+                  "category": "historical",
+                  "coords": [
+                        22.023465,
+                        56.670588
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "LV",
     name: { de: "Skrunda", hu: "Skrunda", ro: "Skrunda", en: "Skrunda" },
@@ -4143,7 +4701,52 @@ export const latviaCitiesV2: POI[] = [
     image: "/poi-images/latvia-cesvaine-cities-v2.webp",
   },
   {
-    id: "latvia-strenci-cities-v2",
+    id: "latvia-strenci-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Strenču luterāņu baznīca",
+                  "text": "Eine lutherische Kirche, die der örtlichen Gemeinde in Strenči, Lettland, dient.",
+                  "category": "religious",
+                  "coords": [
+                        25.689649,
+                        57.63017
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Strenču luterāņu baznīca",
+                  "text": "Evangélikus templom a lettországi Strenči városában.",
+                  "category": "religious",
+                  "coords": [
+                        25.689649,
+                        57.63017
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Strenču luterāņu baznīca",
+                  "text": "O biserică luterană care deservește comunitatea locală din Strenči, Letonia.",
+                  "category": "religious",
+                  "coords": [
+                        25.689649,
+                        57.63017
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Strenču luterāņu baznīca",
+                  "text": "A Lutheran church serving the local community in Strenči, Latvia.",
+                  "category": "religious",
+                  "coords": [
+                        25.689649,
+                        57.63017
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "LV",
     name: { de: "Strenči", hu: "Strenči", ro: "Strenči", en: "Strenči" },
@@ -5368,6 +5971,15 @@ export const latviaCitiesV2: POI[] = [
                         23.01669,
                         56.71696
                   ]
+            },
+            {
+                  "name": "Jaunpils pils",
+                  "text": "Eine gut erhaltene mittelalterliche Burg in Jaunpils, die für ihre historische Architektur bekannt ist.",
+                  "category": "castle",
+                  "coords": [
+                        23.021322,
+                        56.730467
+                  ]
             }
       ],
       "hu": [
@@ -5378,6 +5990,15 @@ export const latviaCitiesV2: POI[] = [
                   "coords": [
                         23.01669,
                         56.71696
+                  ]
+            },
+            {
+                  "name": "Jaunpils pils",
+                  "text": "Jó állapotban fennmaradt középkori vár Jaunpilsben, amely történelmi építészetéről ismert.",
+                  "category": "castle",
+                  "coords": [
+                        23.021322,
+                        56.730467
                   ]
             }
       ],
@@ -5390,6 +6011,15 @@ export const latviaCitiesV2: POI[] = [
                         23.01669,
                         56.71696
                   ]
+            },
+            {
+                  "name": "Jaunpils pils",
+                  "text": "Un castel medieval bine conservat în Jaunpils, cunoscut pentru arhitectura sa istorică.",
+                  "category": "castle",
+                  "coords": [
+                        23.021322,
+                        56.730467
+                  ]
             }
       ],
       "en": [
@@ -5400,6 +6030,15 @@ export const latviaCitiesV2: POI[] = [
                   "coords": [
                         23.01669,
                         56.71696
+                  ]
+            },
+            {
+                  "name": "Jaunpils pils",
+                  "text": "A well-preserved medieval castle in Jaunpils, known for its historic architecture.",
+                  "category": "castle",
+                  "coords": [
+                        23.021322,
+                        56.730467
                   ]
             }
       ]
@@ -5548,6 +6187,33 @@ export const latviaCitiesV2: POI[] = [
                         23.743318,
                         56.924548
                   ]
+            },
+            {
+                  "name": "Jaundubultu Beach",
+                  "text": "Dieser Strandabschnitt in Jūrmala bietet feinen Sand und sauberes Wasser. Er ist ideal für einen entspannten Tag am Meer in der Nähe von Priedaine.",
+                  "category": "recreational",
+                  "coords": [
+                        23.753878,
+                        56.969665
+                  ]
+            },
+            {
+                  "name": "Pumpuru pludmale",
+                  "text": "Dieser ruhige Strand in Jūrmala lädt zu erholsamen Stunden an der Ostsee ein. Er ist bekannt für seine natürliche Schönheit und den weichen Sand.",
+                  "category": "recreational",
+                  "coords": [
+                        23.737853,
+                        56.967731
+                  ]
+            },
+            {
+                  "name": "Dubultu pludmale",
+                  "text": "Dubultu ist einer der bekanntesten Strände von Jūrmala. Er bietet eine gute Infrastruktur und weite Flächen für Badegäste und Spaziergänger.",
+                  "category": "recreational",
+                  "coords": [
+                        23.773765,
+                        56.972603
+                  ]
             }
       ],
       "hu": [
@@ -5648,6 +6314,33 @@ export const latviaCitiesV2: POI[] = [
                   "coords": [
                         23.743318,
                         56.924548
+                  ]
+            },
+            {
+                  "name": "Jaundubultu Beach",
+                  "text": "Ez a jūrmalai strandszakasz finom homokot és tiszta vizet kínál. Ideális egy pihentető tengerparti naphoz Priedaine közelében.",
+                  "category": "recreational",
+                  "coords": [
+                        23.753878,
+                        56.969665
+                  ]
+            },
+            {
+                  "name": "Pumpuru pludmale",
+                  "text": "Ez a csendes jūrmalai strand pihentető órákra hív a Balti-tenger partján. Természetes szépségéről és puha homokjáról ismert.",
+                  "category": "recreational",
+                  "coords": [
+                        23.737853,
+                        56.967731
+                  ]
+            },
+            {
+                  "name": "Dubultu pludmale",
+                  "text": "Dubultu Jūrmala egyik legismertebb strandja. Jó infrastruktúrát és tágas területet kínál a fürdőzőknek és sétálóknak.",
+                  "category": "recreational",
+                  "coords": [
+                        23.773765,
+                        56.972603
                   ]
             }
       ],
@@ -5750,6 +6443,33 @@ export const latviaCitiesV2: POI[] = [
                         23.743318,
                         56.924548
                   ]
+            },
+            {
+                  "name": "Jaundubultu Beach",
+                  "text": "Această secțiune de plajă din Jūrmala oferă nisip fin și apă curată. Este ideală pentru o zi relaxantă la mare, în apropiere de Priedaine.",
+                  "category": "recreational",
+                  "coords": [
+                        23.753878,
+                        56.969665
+                  ]
+            },
+            {
+                  "name": "Pumpuru pludmale",
+                  "text": "Această plajă liniștită din Jūrmala invită la ore relaxante la Marea Baltică. Este cunoscută pentru frumusețea sa naturală și nisipul fin.",
+                  "category": "recreational",
+                  "coords": [
+                        23.737853,
+                        56.967731
+                  ]
+            },
+            {
+                  "name": "Dubultu pludmale",
+                  "text": "Dubultu este una dintre cele mai cunoscute plaje din Jūrmala. Oferă o infrastructură bună și spații largi pentru scăldat și plimbări.",
+                  "category": "recreational",
+                  "coords": [
+                        23.773765,
+                        56.972603
+                  ]
             }
       ],
       "en": [
@@ -5850,6 +6570,33 @@ export const latviaCitiesV2: POI[] = [
                   "coords": [
                         23.743318,
                         56.924548
+                  ]
+            },
+            {
+                  "name": "Jaundubultu Beach",
+                  "text": "This beach section in Jūrmala offers fine sand and clean water. It is ideal for a relaxing day by the sea near Priedaine.",
+                  "category": "recreational",
+                  "coords": [
+                        23.753878,
+                        56.969665
+                  ]
+            },
+            {
+                  "name": "Pumpuru pludmale",
+                  "text": "This quiet beach in Jūrmala invites for relaxing hours by the Baltic Sea. It is known for its natural beauty and soft sand.",
+                  "category": "recreational",
+                  "coords": [
+                        23.737853,
+                        56.967731
+                  ]
+            },
+            {
+                  "name": "Dubultu pludmale",
+                  "text": "Dubultu is one of Jūrmala's best-known beaches. It offers good infrastructure and wide areas for bathers and walkers.",
+                  "category": "recreational",
+                  "coords": [
+                        23.773765,
+                        56.972603
                   ]
             }
       ]
@@ -6115,6 +6862,33 @@ export const latviaCitiesV2: POI[] = [
                         22.641012,
                         57.39413
                   ]
+            },
+            {
+                  "name": "Dupurkalns",
+                  "text": "Eine antike Wallburg, die historische Einblicke in frühe lettische Siedlungen bietet.",
+                  "category": "historical",
+                  "coords": [
+                        22.600278,
+                        57.374524
+                  ]
+            },
+            {
+                  "name": "Valdemārpils meža muzejs",
+                  "text": "Ein Waldmuseum in Valdemārpils, das die lokale Forstgeschichte und Tierwelt zeigt.",
+                  "category": "museum",
+                  "coords": [
+                        22.631894,
+                        57.36534
+                  ]
+            },
+            {
+                  "name": "Sasmakas muiža",
+                  "text": "Ein historisches Herrenhaus in Valdemārpils am Ufer des Sasmaka-Sees.",
+                  "category": "historical",
+                  "coords": [
+                        22.600788,
+                        57.37909
+                  ]
             }
       ],
       "hu": [
@@ -6134,6 +6908,33 @@ export const latviaCitiesV2: POI[] = [
                   "coords": [
                         22.641012,
                         57.39413
+                  ]
+            },
+            {
+                  "name": "Dupurkalns",
+                  "text": "Ősi dombvár, amely történelmi betekintést nyújt a korai lett települések életébe.",
+                  "category": "historical",
+                  "coords": [
+                        22.600278,
+                        57.374524
+                  ]
+            },
+            {
+                  "name": "Valdemārpils meža muzejs",
+                  "text": "Erdészeti múzeum Valdemārpilsben, amely a helyi erdőgazdálkodás történetét és az élővilágot mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        22.631894,
+                        57.36534
+                  ]
+            },
+            {
+                  "name": "Sasmakas muiža",
+                  "text": "Történelmi kúria Valdemārpilsben, a Sasmaka-tó partján.",
+                  "category": "historical",
+                  "coords": [
+                        22.600788,
+                        57.37909
                   ]
             }
       ],
@@ -6155,6 +6956,33 @@ export const latviaCitiesV2: POI[] = [
                         22.641012,
                         57.39413
                   ]
+            },
+            {
+                  "name": "Dupurkalns",
+                  "text": "Un sit antic cu cetate pe deal care oferă informații istorice despre așezările letone timpurii.",
+                  "category": "historical",
+                  "coords": [
+                        22.600278,
+                        57.374524
+                  ]
+            },
+            {
+                  "name": "Valdemārpils meža muzejs",
+                  "text": "Un muzeu al pădurii în Valdemārpils, care prezintă istoria silviculturii locale și fauna sălbatică.",
+                  "category": "museum",
+                  "coords": [
+                        22.631894,
+                        57.36534
+                  ]
+            },
+            {
+                  "name": "Sasmakas muiža",
+                  "text": "Un conac istoric din Valdemārpils situat pe malul lacului Sasmaka.",
+                  "category": "historical",
+                  "coords": [
+                        22.600788,
+                        57.37909
+                  ]
             }
       ],
       "en": [
@@ -6174,6 +7002,33 @@ export const latviaCitiesV2: POI[] = [
                   "coords": [
                         22.641012,
                         57.39413
+                  ]
+            },
+            {
+                  "name": "Dupurkalns",
+                  "text": "An ancient hillfort site providing historical insight into early Latvian settlements.",
+                  "category": "historical",
+                  "coords": [
+                        22.600278,
+                        57.374524
+                  ]
+            },
+            {
+                  "name": "Valdemārpils meža muzejs",
+                  "text": "A forest museum in Valdemārpils showcasing local forestry history and wildlife.",
+                  "category": "museum",
+                  "coords": [
+                        22.631894,
+                        57.36534
+                  ]
+            },
+            {
+                  "name": "Sasmakas muiža",
+                  "text": "A historic manor house in Valdemārpils situated on the shores of Lake Sasmaka.",
+                  "category": "historical",
+                  "coords": [
+                        22.600788,
+                        57.37909
                   ]
             }
       ]
@@ -8202,7 +9057,124 @@ export const latviaCitiesV2: POI[] = [
     image: "/poi-images/latvia-kandava-cities-v2.webp",
   },
   {
-    id: "latvia-priekule-cities-v2",
+    id: "latvia-priekule-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Ķerru pilskalns",
+                  "text": "Ein alter lettischer Burgberg in der Region Priekule.",
+                  "category": "historical",
+                  "coords": [
+                        21.61649,
+                        56.46031
+                  ]
+            },
+            {
+                  "name": "Zviedru vārti",
+                  "text": "Ein prachtvolles Stadttor aus dem 17. Jahrhundert, ein Wahrzeichen von Priekule.",
+                  "category": "fortress",
+                  "coords": [
+                        21.582908,
+                        56.438542
+                  ]
+            },
+            {
+                  "name": "Priekules muiža",
+                  "text": "Ein historisches Gutshaus mit Parkanlage in Priekule.",
+                  "category": "historical",
+                  "coords": [
+                        21.581274,
+                        56.439141
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Ķerru pilskalns",
+                  "text": "Régi lett várhely a Priekule régióban.",
+                  "category": "historical",
+                  "coords": [
+                        21.61649,
+                        56.46031
+                  ]
+            },
+            {
+                  "name": "Zviedru vārti",
+                  "text": "Pompás 17. századi városkapu, Priekule egyik jelképe.",
+                  "category": "fortress",
+                  "coords": [
+                        21.582908,
+                        56.438542
+                  ]
+            },
+            {
+                  "name": "Priekules muiža",
+                  "text": "Történelmi udvarház parkkal Priekulében.",
+                  "category": "historical",
+                  "coords": [
+                        21.581274,
+                        56.439141
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Ķerru pilskalns",
+                  "text": "O veche colină fortificată letonă în regiunea Priekule.",
+                  "category": "historical",
+                  "coords": [
+                        21.61649,
+                        56.46031
+                  ]
+            },
+            {
+                  "name": "Zviedru vārti",
+                  "text": "O poartă monumentală a orașului din secolul al XVII-lea, simbol al orașului Priekule.",
+                  "category": "fortress",
+                  "coords": [
+                        21.582908,
+                        56.438542
+                  ]
+            },
+            {
+                  "name": "Priekules muiža",
+                  "text": "Un conac istoric cu parc în Priekule.",
+                  "category": "historical",
+                  "coords": [
+                        21.581274,
+                        56.439141
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Ķerru pilskalns",
+                  "text": "An ancient Latvian hillfort in the Priekule region.",
+                  "category": "historical",
+                  "coords": [
+                        21.61649,
+                        56.46031
+                  ]
+            },
+            {
+                  "name": "Zviedru vārti",
+                  "text": "A grand 17th-century city gate, a landmark of Priekule.",
+                  "category": "fortress",
+                  "coords": [
+                        21.582908,
+                        56.438542
+                  ]
+            },
+            {
+                  "name": "Priekules muiža",
+                  "text": "A historical manor house with a park in Priekule.",
+                  "category": "historical",
+                  "coords": [
+                        21.581274,
+                        56.439141
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "LV",
     name: { de: "Priekule", hu: "Priekule", ro: "Priekule", en: "Priekule" },
@@ -9021,7 +9993,160 @@ export const latviaCitiesV2: POI[] = [
     image: "/poi-images/latvia-broceni-cities-v2.webp",
   },
   {
-    id: "latvia-eleja-cities-v2",
+    id: "latvia-eleja-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Elejas muiža",
+                  "text": "Ein historisches Herrenhausensemble in Eleja.",
+                  "category": "historical",
+                  "coords": [
+                        23.700672,
+                        56.423327
+                  ]
+            },
+            {
+                  "name": "Elejas izstāžu zāle",
+                  "text": "Ein Kultur- und Ausstellungszentrum in Eleja.",
+                  "category": "cultural",
+                  "coords": [
+                        23.700258,
+                        56.425327
+                  ]
+            },
+            {
+                  "name": "bij. Suņu audzētava",
+                  "text": "Ruinen eines ehemaligen Gebäudes in Eleja.",
+                  "category": "historical",
+                  "coords": [
+                        23.697022,
+                        56.422461
+                  ]
+            },
+            {
+                  "name": "Magazīnklēts",
+                  "text": "Historische Ruinen in Eleja.",
+                  "category": "historical",
+                  "coords": [
+                        23.697926,
+                        56.422323
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Elejas muiža",
+                  "text": "Történelmi udvarház-együttes Elejában.",
+                  "category": "historical",
+                  "coords": [
+                        23.700672,
+                        56.423327
+                  ]
+            },
+            {
+                  "name": "Elejas izstāžu zāle",
+                  "text": "Kulturális és kiállítási központ Elejában.",
+                  "category": "cultural",
+                  "coords": [
+                        23.700258,
+                        56.425327
+                  ]
+            },
+            {
+                  "name": "bij. Suņu audzētava",
+                  "text": "Egy egykori épület romjai Elejában.",
+                  "category": "historical",
+                  "coords": [
+                        23.697022,
+                        56.422461
+                  ]
+            },
+            {
+                  "name": "Magazīnklēts",
+                  "text": "Történelmi romok Elejában.",
+                  "category": "historical",
+                  "coords": [
+                        23.697926,
+                        56.422323
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Elejas muiža",
+                  "text": "Un ansamblu istoric de conace în Eleja.",
+                  "category": "historical",
+                  "coords": [
+                        23.700672,
+                        56.423327
+                  ]
+            },
+            {
+                  "name": "Elejas izstāžu zāle",
+                  "text": "Un centru cultural și expozițional în Eleja.",
+                  "category": "cultural",
+                  "coords": [
+                        23.700258,
+                        56.425327
+                  ]
+            },
+            {
+                  "name": "bij. Suņu audzētava",
+                  "text": "Ruinele unei foste clădiri în Eleja.",
+                  "category": "historical",
+                  "coords": [
+                        23.697022,
+                        56.422461
+                  ]
+            },
+            {
+                  "name": "Magazīnklēts",
+                  "text": "Ruine istorice în Eleja.",
+                  "category": "historical",
+                  "coords": [
+                        23.697926,
+                        56.422323
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Elejas muiža",
+                  "text": "A historical manor ensemble in Eleja.",
+                  "category": "historical",
+                  "coords": [
+                        23.700672,
+                        56.423327
+                  ]
+            },
+            {
+                  "name": "Elejas izstāžu zāle",
+                  "text": "A cultural and exhibition center in Eleja.",
+                  "category": "cultural",
+                  "coords": [
+                        23.700258,
+                        56.425327
+                  ]
+            },
+            {
+                  "name": "bij. Suņu audzētava",
+                  "text": "Ruins of a former building in Eleja.",
+                  "category": "historical",
+                  "coords": [
+                        23.697022,
+                        56.422461
+                  ]
+            },
+            {
+                  "name": "Magazīnklēts",
+                  "text": "Historical ruins in Eleja.",
+                  "category": "historical",
+                  "coords": [
+                        23.697926,
+                        56.422323
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "LV",
     name: { de: "Eleja", hu: "Eleja", ro: "Eleja", en: "Eleja" },
@@ -10237,6 +11362,24 @@ export const latviaCitiesV2: POI[] = [
                         22.473177,
                         56.653779
                   ]
+            },
+            {
+                  "name": "Ruston, Proctor & Co tvaika lokomobile",
+                  "text": "Eine historische Dampflokomobile von Ruston, Proctor & Co, ausgestellt in Zirņi.",
+                  "category": "landmark",
+                  "coords": [
+                        22.446852,
+                        56.692795
+                  ]
+            },
+            {
+                  "name": "Claas Matador Gigant labibas kombains",
+                  "text": "Ein Mähdrescher vom Typ Claas Matador Gigant, der in Zirņi ausgestellt ist.",
+                  "category": "landmark",
+                  "coords": [
+                        22.42309,
+                        56.707428
+                  ]
             }
       ],
       "hu": [
@@ -10292,6 +11435,24 @@ export const latviaCitiesV2: POI[] = [
                   "coords": [
                         22.473177,
                         56.653779
+                  ]
+            },
+            {
+                  "name": "Ruston, Proctor & Co tvaika lokomobile",
+                  "text": "Egy történelmi Ruston, Proctor & Co gőzüzemű lokomobil, amelyet Zirņiben állítottak ki.",
+                  "category": "landmark",
+                  "coords": [
+                        22.446852,
+                        56.692795
+                  ]
+            },
+            {
+                  "name": "Claas Matador Gigant labibas kombains",
+                  "text": "Egy Claas Matador Gigant típusú arató-cséplő gép Zirņiben.",
+                  "category": "landmark",
+                  "coords": [
+                        22.42309,
+                        56.707428
                   ]
             }
       ],
@@ -10349,6 +11510,24 @@ export const latviaCitiesV2: POI[] = [
                         22.473177,
                         56.653779
                   ]
+            },
+            {
+                  "name": "Ruston, Proctor & Co tvaika lokomobile",
+                  "text": "O locomobilă istorică cu aburi fabricată de Ruston, Proctor & Co, expusă în Zirņi.",
+                  "category": "landmark",
+                  "coords": [
+                        22.446852,
+                        56.692795
+                  ]
+            },
+            {
+                  "name": "Claas Matador Gigant labibas kombains",
+                  "text": "O combină de recoltat cereale Claas Matador Gigant expusă în Zirņi.",
+                  "category": "landmark",
+                  "coords": [
+                        22.42309,
+                        56.707428
+                  ]
             }
       ],
       "en": [
@@ -10404,6 +11583,24 @@ export const latviaCitiesV2: POI[] = [
                   "coords": [
                         22.473177,
                         56.653779
+                  ]
+            },
+            {
+                  "name": "Ruston, Proctor & Co tvaika lokomobile",
+                  "text": "A historic steam locomobile manufactured by Ruston, Proctor & Co, exhibited in Zirņi.",
+                  "category": "landmark",
+                  "coords": [
+                        22.446852,
+                        56.692795
+                  ]
+            },
+            {
+                  "name": "Claas Matador Gigant labibas kombains",
+                  "text": "A Claas Matador Gigant combine harvester on display in Zirņi.",
+                  "category": "landmark",
+                  "coords": [
+                        22.42309,
+                        56.707428
                   ]
             }
       ]
@@ -10758,7 +11955,124 @@ export const latviaCitiesV2: POI[] = [
     image: "/poi-images/latvia-nisa-cities-v2.webp",
   },
   {
-    id: "latvia-rucava-cities-v2",
+    id: "latvia-rucava-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Tradīciju nams Zvanītāji",
+                  "text": "Ein Museum in Rucava, das sich der Bewahrung lettischer Volkstraditionen widmet.",
+                  "category": "museum",
+                  "coords": [
+                        21.161475,
+                        56.161471
+                  ]
+            },
+            {
+                  "name": "bij. raķešu bāze",
+                  "text": "Die Überreste einer ehemaligen sowjetischen Raketenbasis in der Nähe von Rucava.",
+                  "category": "landmark",
+                  "coords": [
+                        21.145919,
+                        56.145674
+                  ]
+            },
+            {
+                  "name": "Ķāķišķes vējdzirnavas",
+                  "text": "Eine traditionelle lettische Windmühle in der Region Rucava.",
+                  "category": "landmark",
+                  "coords": [
+                        21.176712,
+                        56.190487
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Tradīciju nams Zvanītāji",
+                  "text": "Múzeum Rucavában, amely a lett népi hagyományok őrzésével foglalkozik.",
+                  "category": "museum",
+                  "coords": [
+                        21.161475,
+                        56.161471
+                  ]
+            },
+            {
+                  "name": "bij. raķešu bāze",
+                  "text": "Egy egykori szovjet rakétabázis maradványai Rucava közelében.",
+                  "category": "landmark",
+                  "coords": [
+                        21.145919,
+                        56.145674
+                  ]
+            },
+            {
+                  "name": "Ķāķišķes vējdzirnavas",
+                  "text": "Hagyományos lett szélmalom Rucava vidékén.",
+                  "category": "landmark",
+                  "coords": [
+                        21.176712,
+                        56.190487
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Tradīciju nams Zvanītāji",
+                  "text": "Un muzeu în Rucava dedicat conservării tradițiilor populare letone.",
+                  "category": "museum",
+                  "coords": [
+                        21.161475,
+                        56.161471
+                  ]
+            },
+            {
+                  "name": "bij. raķešu bāze",
+                  "text": "Rămășițele unei foste baze sovietice de rachete din apropierea localității Rucava.",
+                  "category": "landmark",
+                  "coords": [
+                        21.145919,
+                        56.145674
+                  ]
+            },
+            {
+                  "name": "Ķāķišķes vējdzirnavas",
+                  "text": "O moară de vânt tradițională letonă situată în regiunea Rucava.",
+                  "category": "landmark",
+                  "coords": [
+                        21.176712,
+                        56.190487
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Tradīciju nams Zvanītāji",
+                  "text": "A museum in Rucava dedicated to preserving Latvian folk traditions and heritage.",
+                  "category": "museum",
+                  "coords": [
+                        21.161475,
+                        56.161471
+                  ]
+            },
+            {
+                  "name": "bij. raķešu bāze",
+                  "text": "The remains of a former Soviet missile base located near Rucava.",
+                  "category": "landmark",
+                  "coords": [
+                        21.145919,
+                        56.145674
+                  ]
+            },
+            {
+                  "name": "Ķāķišķes vējdzirnavas",
+                  "text": "A traditional Latvian windmill located in the Rucava region.",
+                  "category": "landmark",
+                  "coords": [
+                        21.176712,
+                        56.190487
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "LV",
     name: { de: "Rucava", hu: "Rucava", ro: "Rucava", en: "Rucava" },
@@ -11641,6 +12955,24 @@ export const latviaCitiesV2: POI[] = [
                         21.682437,
                         56.957595
                   ]
+            },
+            {
+                  "name": "Basu pilskalns",
+                  "text": "Ein alter Burgwall in Gudenieki, der als Zeugnis früher lokaler Siedlungen dient.",
+                  "category": "historical",
+                  "coords": [
+                        21.680657,
+                        56.878447
+                  ]
+            },
+            {
+                  "name": "Basu muiza",
+                  "text": "Ein historisches Herrenhaus in Gudenieki, das den Baustil der Region repräsentiert.",
+                  "category": "historical",
+                  "coords": [
+                        21.695699,
+                        56.904422
+                  ]
             }
       ],
       "hu": [
@@ -11687,6 +13019,24 @@ export const latviaCitiesV2: POI[] = [
                   "coords": [
                         21.682437,
                         56.957595
+                  ]
+            },
+            {
+                  "name": "Basu pilskalns",
+                  "text": "Egy ősi várhely Gudeniekiben, amely a korai helyi települések emlékét őrzi.",
+                  "category": "historical",
+                  "coords": [
+                        21.680657,
+                        56.878447
+                  ]
+            },
+            {
+                  "name": "Basu muiza",
+                  "text": "Történelmi kúria Gudeniekiben, amely a régió építészeti stílusát képviseli.",
+                  "category": "historical",
+                  "coords": [
+                        21.695699,
+                        56.904422
                   ]
             }
       ],
@@ -11735,6 +13085,24 @@ export const latviaCitiesV2: POI[] = [
                         21.682437,
                         56.957595
                   ]
+            },
+            {
+                  "name": "Basu pilskalns",
+                  "text": "O veche cetate de pământ în Gudenieki, care servește drept dovadă a așezărilor locale timpurii.",
+                  "category": "historical",
+                  "coords": [
+                        21.680657,
+                        56.878447
+                  ]
+            },
+            {
+                  "name": "Basu muiza",
+                  "text": "Un conac istoric din Gudenieki care reprezintă stilul arhitectural al regiunii.",
+                  "category": "historical",
+                  "coords": [
+                        21.695699,
+                        56.904422
+                  ]
             }
       ],
       "en": [
@@ -11781,6 +13149,24 @@ export const latviaCitiesV2: POI[] = [
                   "coords": [
                         21.682437,
                         56.957595
+                  ]
+            },
+            {
+                  "name": "Basu pilskalns",
+                  "text": "An ancient hillfort in Gudenieki, serving as a testament to early local settlements.",
+                  "category": "historical",
+                  "coords": [
+                        21.680657,
+                        56.878447
+                  ]
+            },
+            {
+                  "name": "Basu muiza",
+                  "text": "A historic manor house in Gudenieki representing the architectural style of the region.",
+                  "category": "historical",
+                  "coords": [
+                        21.695699,
+                        56.904422
                   ]
             }
       ]

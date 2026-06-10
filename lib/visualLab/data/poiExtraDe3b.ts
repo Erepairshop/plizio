@@ -1325,7 +1325,160 @@ export const poiExtraDe3b: POI[] = [
     
       "tr": ["Toplam uzunluğu 400 km olup bunun yaklaşık 180 km'si Brandenburg'dadır.", "Spreewald, 1991 yılında UNESCO tarafından Biyosfer Rezervi olarak tanınmıştır.", "Nehrin Sachsen'de üç kaynağı vardır (Ebersbach, Neugersdorf, Kottmar).", "Havza alanı toplam 10.105 kilometrekaredir.", "Oder-Spree Kanalı, 1891'den beri nehri Oder'e bağlamaktadır.", "Berlin'deki ortalama debisi saniyede yaklaşık 36 metreküptür."]}, image: "/poi-images/river-spree-bb-extra.webp"},
   {
-    id: "river-havel-bb-extra",
+    id: "river-havel-bb-extra", "sights": {
+      "de": [
+            {
+                  "name": "Hasselberg",
+                  "text": "Ein Hügel und Aussichtspunkt im Havelland.",
+                  "category": "landmark",
+                  "coords": [
+                        12.487593,
+                        52.716409
+                  ]
+            },
+            {
+                  "name": "Burgwall Hohennauen-Witzke",
+                  "text": "Überreste eines slawischen Burgwalls zwischen Hohennauen und Witzke.",
+                  "category": "historical",
+                  "coords": [
+                        12.404306,
+                        52.702042
+                  ]
+            },
+            {
+                  "name": "Sternenpark Beobachtungsplatz",
+                  "text": "Dieser Beobachtungsplatz im Sternenpark bietet einen weiten Blick auf den Nachthimmel.",
+                  "category": "natural",
+                  "coords": [
+                        12.485185,
+                        52.71379
+                  ]
+            },
+            {
+                  "name": "Dorfkirche Witzke",
+                  "text": "Eine historische Dorfkirche in Witzke, die als kulturelles Erbe der Region gilt.",
+                  "category": "landmark",
+                  "coords": [
+                        12.42438,
+                        52.689771
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Hasselberg",
+                  "text": "Domb és kilátóhely a Havel-vidéken.",
+                  "category": "landmark",
+                  "coords": [
+                        12.487593,
+                        52.716409
+                  ]
+            },
+            {
+                  "name": "Burgwall Hohennauen-Witzke",
+                  "text": "Szláv sáncvár maradványai Hohennauen és Witzke között.",
+                  "category": "historical",
+                  "coords": [
+                        12.404306,
+                        52.702042
+                  ]
+            },
+            {
+                  "name": "Sternenpark Beobachtungsplatz",
+                  "text": "Ez a csillagparki megfigyelőhely tiszta rálátást biztosít az éjszakai égboltra.",
+                  "category": "natural",
+                  "coords": [
+                        12.485185,
+                        52.71379
+                  ]
+            },
+            {
+                  "name": "Dorfkirche Witzke",
+                  "text": "Történelmi falusi templom Witzkében, amely a régió kulturális örökségének része.",
+                  "category": "landmark",
+                  "coords": [
+                        12.42438,
+                        52.689771
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Hasselberg",
+                  "text": "Un deal și punct de observație situat în regiunea Havel.",
+                  "category": "landmark",
+                  "coords": [
+                        12.487593,
+                        52.716409
+                  ]
+            },
+            {
+                  "name": "Burgwall Hohennauen-Witzke",
+                  "text": "Rămășițele unui fort slav între Hohennauen și Witzke.",
+                  "category": "historical",
+                  "coords": [
+                        12.404306,
+                        52.702042
+                  ]
+            },
+            {
+                  "name": "Sternenpark Beobachtungsplatz",
+                  "text": "Acest punct de observație din parcul stelar oferă o vedere clară asupra cerului nocturn.",
+                  "category": "natural",
+                  "coords": [
+                        12.485185,
+                        52.71379
+                  ]
+            },
+            {
+                  "name": "Dorfkirche Witzke",
+                  "text": "O biserică istorică de sat din Witzke, considerată parte a patrimoniului cultural al regiunii.",
+                  "category": "landmark",
+                  "coords": [
+                        12.42438,
+                        52.689771
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Hasselberg",
+                  "text": "A hill and vantage point located in the Havel region.",
+                  "category": "landmark",
+                  "coords": [
+                        12.487593,
+                        52.716409
+                  ]
+            },
+            {
+                  "name": "Burgwall Hohennauen-Witzke",
+                  "text": "The remains of a Slavic hillfort located between Hohennauen and Witzke.",
+                  "category": "historical",
+                  "coords": [
+                        12.404306,
+                        52.702042
+                  ]
+            },
+            {
+                  "name": "Sternenpark Beobachtungsplatz",
+                  "text": "This observation point in the star park offers a clear view of the night sky.",
+                  "category": "natural",
+                  "coords": [
+                        12.485185,
+                        52.71379
+                  ]
+            },
+            {
+                  "name": "Dorfkirche Witzke",
+                  "text": "A historic village church in Witzke, considered part of the region's cultural heritage.",
+                  "category": "landmark",
+                  "coords": [
+                        12.42438,
+                        52.689771
+                  ]
+            }
+      ]
+},
     type: "river",
     parent: "DE-BB",
     coords: [12.4500, 52.7000],
@@ -1399,6 +1552,33 @@ export const poiExtraDe3b: POI[] = [
                         14.020986,
                         52.221598
                   ]
+            },
+            {
+                  "name": "Hundestrand",
+                  "text": "Ausgewiesener Strandabschnitt für Hunde am Scharmützelsee.",
+                  "category": "recreational",
+                  "coords": [
+                        14.014943,
+                        52.215122
+                  ]
+            },
+            {
+                  "name": "Scharmuntzelland",
+                  "text": "Familienfreundlicher Freizeitpark mit verschiedenen Attraktionen.",
+                  "category": "recreational",
+                  "coords": [
+                        14.010036,
+                        52.221566
+                  ]
+            },
+            {
+                  "name": "Kirche Glienicke",
+                  "text": "Historische Dorfkirche in Glienicke am Scharmützelsee.",
+                  "category": "religious",
+                  "coords": [
+                        14.085934,
+                        52.210754
+                  ]
             }
       ],
       "hu": [
@@ -1427,6 +1607,33 @@ export const poiExtraDe3b: POI[] = [
                   "coords": [
                         14.020986,
                         52.221598
+                  ]
+            },
+            {
+                  "name": "Hundestrand",
+                  "text": "Kutyák számára kijelölt strandrész a Scharmützelsee-nél.",
+                  "category": "recreational",
+                  "coords": [
+                        14.014943,
+                        52.215122
+                  ]
+            },
+            {
+                  "name": "Scharmuntzelland",
+                  "text": "Családbarát vidámpark különféle szabadtéri attrakciókkal.",
+                  "category": "recreational",
+                  "coords": [
+                        14.010036,
+                        52.221566
+                  ]
+            },
+            {
+                  "name": "Kirche Glienicke",
+                  "text": "Történelmi falusi templom Glienicke településen, a Scharmützelsee közelében.",
+                  "category": "religious",
+                  "coords": [
+                        14.085934,
+                        52.210754
                   ]
             }
       ],
@@ -1457,6 +1664,33 @@ export const poiExtraDe3b: POI[] = [
                         14.020986,
                         52.221598
                   ]
+            },
+            {
+                  "name": "Hundestrand",
+                  "text": "Zonă de plajă special amenajată pentru câini la Scharmützelsee.",
+                  "category": "recreational",
+                  "coords": [
+                        14.014943,
+                        52.215122
+                  ]
+            },
+            {
+                  "name": "Scharmuntzelland",
+                  "text": "Parc de distracții pentru familii cu diverse atracții în aer liber.",
+                  "category": "recreational",
+                  "coords": [
+                        14.010036,
+                        52.221566
+                  ]
+            },
+            {
+                  "name": "Kirche Glienicke",
+                  "text": "Biserică istorică din satul Glienicke, lângă Scharmützelsee.",
+                  "category": "religious",
+                  "coords": [
+                        14.085934,
+                        52.210754
+                  ]
             }
       ],
       "en": [
@@ -1485,6 +1719,33 @@ export const poiExtraDe3b: POI[] = [
                   "coords": [
                         14.020986,
                         52.221598
+                  ]
+            },
+            {
+                  "name": "Hundestrand",
+                  "text": "Designated beach area for dogs at Lake Scharmützelsee.",
+                  "category": "recreational",
+                  "coords": [
+                        14.014943,
+                        52.215122
+                  ]
+            },
+            {
+                  "name": "Scharmuntzelland",
+                  "text": "Family-friendly theme park with various outdoor attractions.",
+                  "category": "recreational",
+                  "coords": [
+                        14.010036,
+                        52.221566
+                  ]
+            },
+            {
+                  "name": "Kirche Glienicke",
+                  "text": "Historic village church in Glienicke near Lake Scharmützelsee.",
+                  "category": "religious",
+                  "coords": [
+                        14.085934,
+                        52.210754
                   ]
             }
       ]

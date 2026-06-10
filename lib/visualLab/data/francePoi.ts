@@ -4319,6 +4319,51 @@ export const franceCities: POI[] = [
                         7.249549,
                         43.710721
                   ]
+            },
+            {
+                  "name": "Museum d'Histoire Naturelle",
+                  "text": "Ein bedeutendes Naturkundemuseum in Nizza mit umfangreichen Sammlungen zur regionalen Artenvielfalt.",
+                  "category": "museum",
+                  "coords": [
+                        7.27958,
+                        43.701776
+                  ]
+            },
+            {
+                  "name": "Grotte prehistorique du Lazaret",
+                  "text": "Eine prähistorische Höhle in Nizza, die wichtige Einblicke in das Leben früher Hominiden bietet.",
+                  "category": "historical",
+                  "coords": [
+                        7.294806,
+                        43.690727
+                  ]
+            },
+            {
+                  "name": "Musee de la photographie Charles Negre",
+                  "text": "Ein Fotomuseum in Nizza, das Ausstellungen zur Geschichte und Kunst der Fotografie präsentiert.",
+                  "category": "museum",
+                  "coords": [
+                        7.274599,
+                        43.695915
+                  ]
+            },
+            {
+                  "name": "Musee Franciscain",
+                  "text": "Ein im ehemaligen Kloster Cimiez untergebrachtes Museum zur Geschichte der Franziskaner in Nizza.",
+                  "category": "museum",
+                  "coords": [
+                        7.278911,
+                        43.720124
+                  ]
+            },
+            {
+                  "name": "Musee Terra Amata",
+                  "text": "Ein Museum in Nizza, das auf einer der ältesten bekannten Wohnstätten Europas errichtet wurde.",
+                  "category": "museum",
+                  "coords": [
+                        7.289289,
+                        43.697799
+                  ]
             }
       ],
       "hu": [
@@ -4577,6 +4622,51 @@ export const franceCities: POI[] = [
                   "coords": [
                         7.249549,
                         43.710721
+                  ]
+            },
+            {
+                  "name": "Museum d'Histoire Naturelle",
+                  "text": "Jelentős természettudományi múzeum Nizzában, a regionális biológiai sokféleséget bemutató gyűjteményekkel.",
+                  "category": "museum",
+                  "coords": [
+                        7.27958,
+                        43.701776
+                  ]
+            },
+            {
+                  "name": "Grotte prehistorique du Lazaret",
+                  "text": "Őstörténeti barlang Nizzában, amely fontos betekintést nyújt a korai hominidák életébe.",
+                  "category": "historical",
+                  "coords": [
+                        7.294806,
+                        43.690727
+                  ]
+            },
+            {
+                  "name": "Musee de la photographie Charles Negre",
+                  "text": "Fotómúzeum Nizzában, amely a fotográfia történetét és művészetét bemutató kiállításokat kínál.",
+                  "category": "museum",
+                  "coords": [
+                        7.274599,
+                        43.695915
+                  ]
+            },
+            {
+                  "name": "Musee Franciscain",
+                  "text": "Az egykori Cimiez-kolostorban elhelyezett múzeum a nizzai ferencesek történetéről.",
+                  "category": "museum",
+                  "coords": [
+                        7.278911,
+                        43.720124
+                  ]
+            },
+            {
+                  "name": "Musee Terra Amata",
+                  "text": "Múzeum Nizzában, amely Európa egyik legrégebbi ismert lakóhelyén épült.",
+                  "category": "museum",
+                  "coords": [
+                        7.289289,
+                        43.697799
                   ]
             }
       ],
@@ -4837,6 +4927,51 @@ export const franceCities: POI[] = [
                         7.249549,
                         43.710721
                   ]
+            },
+            {
+                  "name": "Museum d'Histoire Naturelle",
+                  "text": "Un muzeu important de istorie naturală din Nisa, cu colecții vaste despre biodiversitatea regională.",
+                  "category": "museum",
+                  "coords": [
+                        7.27958,
+                        43.701776
+                  ]
+            },
+            {
+                  "name": "Grotte prehistorique du Lazaret",
+                  "text": "O peșteră preistorică în Nisa, care oferă informații importante despre viața hominizilor timpurii.",
+                  "category": "historical",
+                  "coords": [
+                        7.294806,
+                        43.690727
+                  ]
+            },
+            {
+                  "name": "Musee de la photographie Charles Negre",
+                  "text": "Un muzeu de fotografie din Nisa, care prezintă expoziții despre istoria și arta fotografiei.",
+                  "category": "museum",
+                  "coords": [
+                        7.274599,
+                        43.695915
+                  ]
+            },
+            {
+                  "name": "Musee Franciscain",
+                  "text": "Un muzeu găzduit în fosta mănăstire Cimiez, despre istoria franciscanilor din Nisa.",
+                  "category": "museum",
+                  "coords": [
+                        7.278911,
+                        43.720124
+                  ]
+            },
+            {
+                  "name": "Musee Terra Amata",
+                  "text": "Un muzeu în Nisa construit pe unul dintre cele mai vechi situri de locuire cunoscute din Europa.",
+                  "category": "museum",
+                  "coords": [
+                        7.289289,
+                        43.697799
+                  ]
             }
       ],
       "en": [
@@ -5095,6 +5230,51 @@ export const franceCities: POI[] = [
                   "coords": [
                         7.249549,
                         43.710721
+                  ]
+            },
+            {
+                  "name": "Museum d'Histoire Naturelle",
+                  "text": "A significant natural history museum in Nice with extensive collections on regional biodiversity.",
+                  "category": "museum",
+                  "coords": [
+                        7.27958,
+                        43.701776
+                  ]
+            },
+            {
+                  "name": "Grotte prehistorique du Lazaret",
+                  "text": "A prehistoric cave in Nice providing important insights into the life of early hominids.",
+                  "category": "historical",
+                  "coords": [
+                        7.294806,
+                        43.690727
+                  ]
+            },
+            {
+                  "name": "Musee de la photographie Charles Negre",
+                  "text": "A photography museum in Nice presenting exhibitions on the history and art of photography.",
+                  "category": "museum",
+                  "coords": [
+                        7.274599,
+                        43.695915
+                  ]
+            },
+            {
+                  "name": "Musee Franciscain",
+                  "text": "A museum housed in the former Cimiez Monastery, detailing the history of Franciscans in Nice.",
+                  "category": "museum",
+                  "coords": [
+                        7.278911,
+                        43.720124
+                  ]
+            },
+            {
+                  "name": "Musee Terra Amata",
+                  "text": "A museum in Nice built upon one of the oldest known habitation sites in Europe.",
+                  "category": "museum",
+                  "coords": [
+                        7.289289,
+                        43.697799
                   ]
             }
       ]
@@ -5414,6 +5594,60 @@ export const franceCities: POI[] = [
                         -1.568261,
                         47.254176
                   ]
+            },
+            {
+                  "name": "Theatre du Cyclope",
+                  "text": "Ein zeitgenössisches Theater in Nantes, das ein vielfältiges Programm an künstlerischen Darbietungen bietet.",
+                  "category": "cultural",
+                  "coords": [
+                        -1.549007,
+                        47.220372
+                  ]
+            },
+            {
+                  "name": "Theatre de poche Graslin",
+                  "text": "Ein kleines Theater in Nantes, das sich auf intime Aufführungen und lokales Schauspiel spezialisiert hat.",
+                  "category": "cultural",
+                  "coords": [
+                        -1.562934,
+                        47.214522
+                  ]
+            },
+            {
+                  "name": "La Barakason",
+                  "text": "Ein bekannter Veranstaltungsort für moderne Musik und darstellende Künste in der Region Nantes.",
+                  "category": "cultural",
+                  "coords": [
+                        -1.557606,
+                        47.186176
+                  ]
+            },
+            {
+                  "name": "Site Gallo Romain Saint-Lupien",
+                  "text": "Diese archäologische Ausgrabungsstätte in Nantes zeigt die Überreste einer gallo-römischen Siedlung.",
+                  "category": "historical",
+                  "coords": [
+                        -1.565183,
+                        47.191743
+                  ]
+            },
+            {
+                  "name": "Printing Museum",
+                  "text": "Dieses Museum in Nantes widmet sich der Geschichte und der Technik des Buchdrucks.",
+                  "category": "museum",
+                  "coords": [
+                        -1.562083,
+                        47.210974
+                  ]
+            },
+            {
+                  "name": "Chateau de la Persagotiere",
+                  "text": "Ein historisches Schlossgebäude in Nantes, das von einer weitläufigen Parkanlage umgeben ist.",
+                  "category": "castle",
+                  "coords": [
+                        -1.537676,
+                        47.19228
+                  ]
             }
       ],
       "hu": [
@@ -5701,6 +5935,60 @@ export const franceCities: POI[] = [
                   "coords": [
                         -1.568261,
                         47.254176
+                  ]
+            },
+            {
+                  "name": "Theatre du Cyclope",
+                  "text": "Kortárs színház Nantes-ban, amely művészeti előadások változatos programját kínálja.",
+                  "category": "cultural",
+                  "coords": [
+                        -1.549007,
+                        47.220372
+                  ]
+            },
+            {
+                  "name": "Theatre de poche Graslin",
+                  "text": "Kisméretű színház Nantes-ban, amely meghitt előadásokra és helyi darabokra szakosodott.",
+                  "category": "cultural",
+                  "coords": [
+                        -1.562934,
+                        47.214522
+                  ]
+            },
+            {
+                  "name": "La Barakason",
+                  "text": "Nantes környékének népszerű modern zenei és előadóművészeti helyszíne.",
+                  "category": "cultural",
+                  "coords": [
+                        -1.557606,
+                        47.186176
+                  ]
+            },
+            {
+                  "name": "Site Gallo Romain Saint-Lupien",
+                  "text": "Ez a nantes-i régészeti lelőhely egy gall-római település maradványait mutatja be.",
+                  "category": "historical",
+                  "coords": [
+                        -1.565183,
+                        47.191743
+                  ]
+            },
+            {
+                  "name": "Printing Museum",
+                  "text": "Ez a nantes-i múzeum a könyvnyomtatás történetének és technikáinak szentelt hely.",
+                  "category": "museum",
+                  "coords": [
+                        -1.562083,
+                        47.210974
+                  ]
+            },
+            {
+                  "name": "Chateau de la Persagotiere",
+                  "text": "Történelmi kastélyépület Nantes-ban, amelyet kiterjedt parkrendszer vesz körül.",
+                  "category": "castle",
+                  "coords": [
+                        -1.537676,
+                        47.19228
                   ]
             }
       ],
@@ -5990,6 +6278,60 @@ export const franceCities: POI[] = [
                         -1.568261,
                         47.254176
                   ]
+            },
+            {
+                  "name": "Theatre du Cyclope",
+                  "text": "Un teatru contemporan din Nantes care oferă un program divers de spectacole artistice.",
+                  "category": "cultural",
+                  "coords": [
+                        -1.549007,
+                        47.220372
+                  ]
+            },
+            {
+                  "name": "Theatre de poche Graslin",
+                  "text": "Un teatru mic din Nantes, specializat în spectacole intime și piese locale.",
+                  "category": "cultural",
+                  "coords": [
+                        -1.562934,
+                        47.214522
+                  ]
+            },
+            {
+                  "name": "La Barakason",
+                  "text": "O locație populară pentru muzică modernă și arte spectacolului din regiunea Nantes.",
+                  "category": "cultural",
+                  "coords": [
+                        -1.557606,
+                        47.186176
+                  ]
+            },
+            {
+                  "name": "Site Gallo Romain Saint-Lupien",
+                  "text": "Acest sit arheologic din Nantes prezintă vestigiile unei așezări gallo-romane.",
+                  "category": "historical",
+                  "coords": [
+                        -1.565183,
+                        47.191743
+                  ]
+            },
+            {
+                  "name": "Printing Museum",
+                  "text": "Acest muzeu din Nantes este dedicat istoriei și tehnicilor tipăririi.",
+                  "category": "museum",
+                  "coords": [
+                        -1.562083,
+                        47.210974
+                  ]
+            },
+            {
+                  "name": "Chateau de la Persagotiere",
+                  "text": "O clădire istorică de castel din Nantes, înconjurată de un parc vast.",
+                  "category": "castle",
+                  "coords": [
+                        -1.537676,
+                        47.19228
+                  ]
             }
       ],
       "en": [
@@ -6277,6 +6619,60 @@ export const franceCities: POI[] = [
                   "coords": [
                         -1.568261,
                         47.254176
+                  ]
+            },
+            {
+                  "name": "Theatre du Cyclope",
+                  "text": "A contemporary theatre in Nantes offering a diverse program of artistic performances.",
+                  "category": "cultural",
+                  "coords": [
+                        -1.549007,
+                        47.220372
+                  ]
+            },
+            {
+                  "name": "Theatre de poche Graslin",
+                  "text": "A small theatre in Nantes specializing in intimate performances and local plays.",
+                  "category": "cultural",
+                  "coords": [
+                        -1.562934,
+                        47.214522
+                  ]
+            },
+            {
+                  "name": "La Barakason",
+                  "text": "A popular venue for modern music and performing arts in the Nantes area.",
+                  "category": "cultural",
+                  "coords": [
+                        -1.557606,
+                        47.186176
+                  ]
+            },
+            {
+                  "name": "Site Gallo Romain Saint-Lupien",
+                  "text": "This archaeological site in Nantes features the remains of a Gallo-Roman settlement.",
+                  "category": "historical",
+                  "coords": [
+                        -1.565183,
+                        47.191743
+                  ]
+            },
+            {
+                  "name": "Printing Museum",
+                  "text": "This museum in Nantes is dedicated to the history and techniques of printing.",
+                  "category": "museum",
+                  "coords": [
+                        -1.562083,
+                        47.210974
+                  ]
+            },
+            {
+                  "name": "Chateau de la Persagotiere",
+                  "text": "A historic castle building in Nantes surrounded by extensive parkland.",
+                  "category": "castle",
+                  "coords": [
+                        -1.537676,
+                        47.19228
                   ]
             }
       ],
@@ -8639,6 +9035,15 @@ export const franceCities: POI[] = [
                         7.742058,
                         48.584391
                   ]
+            },
+            {
+                  "name": "Maillon Wacken",
+                  "text": "Ein modernes Theatergebäude in Straßburg, das für zeitgenössische Aufführungen bekannt ist.",
+                  "category": "cultural",
+                  "coords": [
+                        7.761042,
+                        48.599588
+                  ]
             }
       ],
       "hu": [
@@ -9063,6 +9468,15 @@ export const franceCities: POI[] = [
                   "coords": [
                         7.742058,
                         48.584391
+                  ]
+            },
+            {
+                  "name": "Maillon Wacken",
+                  "text": "Modern színházépület Strasbourgban, amely kortárs előadásairól ismert.",
+                  "category": "cultural",
+                  "coords": [
+                        7.761042,
+                        48.599588
                   ]
             }
       ],
@@ -9489,6 +9903,15 @@ export const franceCities: POI[] = [
                         7.742058,
                         48.584391
                   ]
+            },
+            {
+                  "name": "Maillon Wacken",
+                  "text": "O clădire de teatru modernă în Strasbourg, cunoscută pentru spectacole contemporane.",
+                  "category": "cultural",
+                  "coords": [
+                        7.761042,
+                        48.599588
+                  ]
             }
       ],
       "en": [
@@ -9914,6 +10337,15 @@ export const franceCities: POI[] = [
                         7.742058,
                         48.584391
                   ]
+            },
+            {
+                  "name": "Maillon Wacken",
+                  "text": "A modern theatre building in Strasbourg, known for contemporary performances.",
+                  "category": "cultural",
+                  "coords": [
+                        7.761042,
+                        48.599588
+                  ]
             }
       ],
       "fr": [
@@ -10226,6 +10658,60 @@ export const franceCities: POI[] = [
                         3.049171,
                         50.638973
                   ]
+            },
+            {
+                  "name": "Le Tripostal",
+                  "text": "Ein ehemaliges Postsortierzentrum in Lille, das heute als Raum für zeitgenössische Kunstausstellungen genutzt wird.",
+                  "category": "museum",
+                  "coords": [
+                        3.072803,
+                        50.636664
+                  ]
+            },
+            {
+                  "name": "Musee des canonniers sedentaires de Lille",
+                  "text": "Dieses Militärmuseum in Lille dokumentiert die Geschichte der örtlichen Verteidigungskräfte.",
+                  "category": "museum",
+                  "coords": [
+                        3.06937,
+                        50.640875
+                  ]
+            },
+            {
+                  "name": "Musee de l'Institut Pasteur de Lille",
+                  "text": "Dieses Museum in Lille beleuchtet das Leben von Louis Pasteur und die wissenschaftliche Arbeit des Instituts.",
+                  "category": "museum",
+                  "coords": [
+                        3.074308,
+                        50.628669
+                  ]
+            },
+            {
+                  "name": "Maison Folie de Lille Wazemmes",
+                  "text": "Ein Kulturzentrum im Stadtteil Wazemmes in Lille, das in einer ehemaligen Fabrik untergebracht ist.",
+                  "category": "museum",
+                  "coords": [
+                        3.048116,
+                        50.624455
+                  ]
+            },
+            {
+                  "name": "Nouveau Siecle",
+                  "text": "Ein bedeutender Konzert- und Veranstaltungskomplex im Herzen von Lille, Sitz des Nationalorchesters von Lille.",
+                  "category": "cultural",
+                  "coords": [
+                        3.060158,
+                        50.637158
+                  ]
+            },
+            {
+                  "name": "Le P'tit Jacques",
+                  "text": "Ein traditionelles Marionettentheater in Lille, das Unterhaltung für Kinder und Familien bietet.",
+                  "category": "cultural",
+                  "coords": [
+                        3.048007,
+                        50.636721
+                  ]
             }
       ],
       "hu": [
@@ -10433,6 +10919,60 @@ export const franceCities: POI[] = [
                   "coords": [
                         3.049171,
                         50.638973
+                  ]
+            },
+            {
+                  "name": "Le Tripostal",
+                  "text": "Egykori postai válogatóközpont Lille-ben, amely ma kortárs művészeti kiállításoknak ad otthont.",
+                  "category": "museum",
+                  "coords": [
+                        3.072803,
+                        50.636664
+                  ]
+            },
+            {
+                  "name": "Musee des canonniers sedentaires de Lille",
+                  "text": "Ez a lille-i hadtörténeti múzeum a helyi védelmi erők történetét dokumentálja.",
+                  "category": "museum",
+                  "coords": [
+                        3.06937,
+                        50.640875
+                  ]
+            },
+            {
+                  "name": "Musee de l'Institut Pasteur de Lille",
+                  "text": "Ez a lille-i múzeum Louis Pasteur életét és az intézet tudományos munkáját mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        3.074308,
+                        50.628669
+                  ]
+            },
+            {
+                  "name": "Maison Folie de Lille Wazemmes",
+                  "text": "Kulturális központ Lille Wazemmes negyedében, amely egy egykori gyárépületben kapott helyet.",
+                  "category": "museum",
+                  "coords": [
+                        3.048116,
+                        50.624455
+                  ]
+            },
+            {
+                  "name": "Nouveau Siecle",
+                  "text": "Jelentős koncert- és rendezvényközpont Lille szívében, a Lille-i Nemzeti Zenekar otthona.",
+                  "category": "cultural",
+                  "coords": [
+                        3.060158,
+                        50.637158
+                  ]
+            },
+            {
+                  "name": "Le P'tit Jacques",
+                  "text": "Hagyományos bábszínház Lille-ben, amely szórakozást nyújt gyerekeknek és családoknak.",
+                  "category": "cultural",
+                  "coords": [
+                        3.048007,
+                        50.636721
                   ]
             }
       ],
@@ -10642,6 +11182,60 @@ export const franceCities: POI[] = [
                         3.049171,
                         50.638973
                   ]
+            },
+            {
+                  "name": "Le Tripostal",
+                  "text": "Un fost centru de sortare poștală din Lille, folosit astăzi ca spațiu pentru expoziții de artă contemporană.",
+                  "category": "museum",
+                  "coords": [
+                        3.072803,
+                        50.636664
+                  ]
+            },
+            {
+                  "name": "Musee des canonniers sedentaires de Lille",
+                  "text": "Acest muzeu militar din Lille documentează istoria forțelor locale de apărare.",
+                  "category": "museum",
+                  "coords": [
+                        3.06937,
+                        50.640875
+                  ]
+            },
+            {
+                  "name": "Musee de l'Institut Pasteur de Lille",
+                  "text": "Acest muzeu din Lille evidențiază viața lui Louis Pasteur și activitatea științifică a institutului.",
+                  "category": "museum",
+                  "coords": [
+                        3.074308,
+                        50.628669
+                  ]
+            },
+            {
+                  "name": "Maison Folie de Lille Wazemmes",
+                  "text": "Un centru cultural din cartierul Wazemmes din Lille, găzduit într-o fostă fabrică.",
+                  "category": "museum",
+                  "coords": [
+                        3.048116,
+                        50.624455
+                  ]
+            },
+            {
+                  "name": "Nouveau Siecle",
+                  "text": "Un complex major de concerte și evenimente din inima orașului Lille, sediul Orchestrei Naționale din Lille.",
+                  "category": "cultural",
+                  "coords": [
+                        3.060158,
+                        50.637158
+                  ]
+            },
+            {
+                  "name": "Le P'tit Jacques",
+                  "text": "Un teatru tradițional de marionete din Lille, care oferă divertisment pentru copii și familii.",
+                  "category": "cultural",
+                  "coords": [
+                        3.048007,
+                        50.636721
+                  ]
             }
       ],
       "en": [
@@ -10849,6 +11443,60 @@ export const franceCities: POI[] = [
                   "coords": [
                         3.049171,
                         50.638973
+                  ]
+            },
+            {
+                  "name": "Le Tripostal",
+                  "text": "A former postal sorting center in Lille, now used as a space for contemporary art exhibitions.",
+                  "category": "museum",
+                  "coords": [
+                        3.072803,
+                        50.636664
+                  ]
+            },
+            {
+                  "name": "Musee des canonniers sedentaires de Lille",
+                  "text": "This military museum in Lille documents the history of the local defense forces.",
+                  "category": "museum",
+                  "coords": [
+                        3.06937,
+                        50.640875
+                  ]
+            },
+            {
+                  "name": "Musee de l'Institut Pasteur de Lille",
+                  "text": "This museum in Lille highlights the life of Louis Pasteur and the scientific work of the institute.",
+                  "category": "museum",
+                  "coords": [
+                        3.074308,
+                        50.628669
+                  ]
+            },
+            {
+                  "name": "Maison Folie de Lille Wazemmes",
+                  "text": "A cultural center in the Wazemmes district of Lille, housed in a former factory building.",
+                  "category": "museum",
+                  "coords": [
+                        3.048116,
+                        50.624455
+                  ]
+            },
+            {
+                  "name": "Nouveau Siecle",
+                  "text": "A major concert and event complex in the heart of Lille, home to the Lille National Orchestra.",
+                  "category": "cultural",
+                  "coords": [
+                        3.060158,
+                        50.637158
+                  ]
+            },
+            {
+                  "name": "Le P'tit Jacques",
+                  "text": "A traditional puppet theatre in Lille providing entertainment for children and families.",
+                  "category": "cultural",
+                  "coords": [
+                        3.048007,
+                        50.636721
                   ]
             }
       ],
@@ -11364,7 +12012,160 @@ export const franceCities: POI[] = [
     },
   },
   {
-    id: "loire-chateaux",
+    id: "loire-chateaux", "sights": {
+      "de": [
+            {
+                  "name": "Réserve nationale de chasse et faune sauvage de Chambord",
+                  "text": "Ein großes Naturschutzgebiet, das das Schloss Chambord umgibt.",
+                  "category": "natural",
+                  "coords": [
+                        1.541816,
+                        47.616073
+                  ]
+            },
+            {
+                  "name": "Schloss Chambord",
+                  "text": "Berühmtes Renaissanceschloss, das für seine französische Architektur bekannt ist.",
+                  "category": "castle",
+                  "coords": [
+                        1.517181,
+                        47.616104
+                  ]
+            },
+            {
+                  "name": "Écuries du Maréchal de Saxe",
+                  "text": "Ein Museum in den ehemaligen Ställen des Marschalls von Sachsen.",
+                  "category": "museum",
+                  "coords": [
+                        1.520172,
+                        47.615237
+                  ]
+            },
+            {
+                  "name": "Église Saint-Louis",
+                  "text": "Eine Pfarrkirche in der Nähe von Chambord.",
+                  "category": "religious",
+                  "coords": [
+                        1.516343,
+                        47.614937
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Réserve nationale de chasse et faune sauvage de Chambord",
+                  "text": "A chambord-i kastélyt körülvevő nagy természetvédelmi terület.",
+                  "category": "natural",
+                  "coords": [
+                        1.541816,
+                        47.616073
+                  ]
+            },
+            {
+                  "name": "Château de Chambord",
+                  "text": "Jellegzetes reneszánsz kastély, amely egyedülálló francia építészetéről ismert.",
+                  "category": "castle",
+                  "coords": [
+                        1.517181,
+                        47.616104
+                  ]
+            },
+            {
+                  "name": "Écuries du Maréchal de Saxe",
+                  "text": "Múzeum Szász Móric gróf egykori istállóiban.",
+                  "category": "museum",
+                  "coords": [
+                        1.520172,
+                        47.615237
+                  ]
+            },
+            {
+                  "name": "Église Saint-Louis",
+                  "text": "Plébániatemplom Chambord közelében.",
+                  "category": "religious",
+                  "coords": [
+                        1.516343,
+                        47.614937
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Réserve nationale de chasse et faune sauvage de Chambord",
+                  "text": "O rezervație naturală vastă care înconjoară castelul Chambord.",
+                  "category": "natural",
+                  "coords": [
+                        1.541816,
+                        47.616073
+                  ]
+            },
+            {
+                  "name": "Château de Chambord",
+                  "text": "Un castel renascentist iconic, cunoscut pentru arhitectura sa franceză distinctă.",
+                  "category": "castle",
+                  "coords": [
+                        1.517181,
+                        47.616104
+                  ]
+            },
+            {
+                  "name": "Écuries du Maréchal de Saxe",
+                  "text": "Un muzeu situat în fostele grajduri ale Mareșalului de Saxonia.",
+                  "category": "museum",
+                  "coords": [
+                        1.520172,
+                        47.615237
+                  ]
+            },
+            {
+                  "name": "Église Saint-Louis",
+                  "text": "O biserică parohială situată în vecinătatea castelului Chambord.",
+                  "category": "religious",
+                  "coords": [
+                        1.516343,
+                        47.614937
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Réserve nationale de chasse et faune sauvage de Chambord",
+                  "text": "A large nature reserve surrounding the Chambord Castle.",
+                  "category": "natural",
+                  "coords": [
+                        1.541816,
+                        47.616073
+                  ]
+            },
+            {
+                  "name": "Chambord castle",
+                  "text": "An iconic Renaissance castle known for its distinct French architecture.",
+                  "category": "castle",
+                  "coords": [
+                        1.517181,
+                        47.616104
+                  ]
+            },
+            {
+                  "name": "Écuries du Maréchal de Saxe",
+                  "text": "A museum located in the former stables of the Marshal of Saxony.",
+                  "category": "museum",
+                  "coords": [
+                        1.520172,
+                        47.615237
+                  ]
+            },
+            {
+                  "name": "Église Saint-Louis",
+                  "text": "A parish church located in the vicinity of Chambord.",
+                  "category": "religious",
+                  "coords": [
+                        1.516343,
+                        47.614937
+                  ]
+            }
+      ]
+},
     type: "landmark",
     parent: "FR-CVL",
     coords: [1.5333, 47.6],
@@ -13146,7 +13947,304 @@ export const franceCities: POI[] = [
 }
   },
   {
-    id: "french-alps",
+    id: "french-alps", "sights": {
+      "de": [
+            {
+                  "name": "Musée d'Histoire et d'Archéologie",
+                  "text": "Ein Museum in den französischen Alpen, das sich der Geschichte und Archäologie der Region widmet.",
+                  "category": "museum",
+                  "coords": [
+                        6.532961,
+                        45.48322
+                  ]
+            },
+            {
+                  "name": "Musée d'Antan",
+                  "text": "Ein Heimatmuseum in den französischen Alpen, das historische Exponate zeigt.",
+                  "category": "museum",
+                  "coords": [
+                        6.461715,
+                        45.495253
+                  ]
+            },
+            {
+                  "name": "Auditorium",
+                  "text": "Ein Veranstaltungsort für Theater und Konzerte in den französischen Alpen.",
+                  "category": "cultural",
+                  "coords": [
+                        6.483835,
+                        45.518384
+                  ]
+            },
+            {
+                  "name": "Pointe du Cuchet",
+                  "text": "Ein Berggipfel in den französischen Alpen.",
+                  "category": "landmark",
+                  "coords": [
+                        6.497866,
+                        45.464333
+                  ]
+            },
+            {
+                  "name": "Belvédère des Pontets",
+                  "text": "Ein Aussichtspunkt in den französischen Alpen mit weitem Blick über die Landschaft.",
+                  "category": "natural",
+                  "coords": [
+                        6.509478,
+                        45.485597
+                  ]
+            },
+            {
+                  "name": "Salines Royales",
+                  "text": "Eine historische Industrieanlage und Sehenswürdigkeit in den französischen Alpen.",
+                  "category": "landmark",
+                  "coords": [
+                        6.525567,
+                        45.486679
+                  ]
+            },
+            {
+                  "name": "Belvédère du Grand Chêne",
+                  "text": "Ein Aussichtspunkt in den französischen Alpen.",
+                  "category": "natural",
+                  "coords": [
+                        6.518982,
+                        45.481752
+                  ]
+            },
+            {
+                  "name": "Belvédère du Grand Jet",
+                  "text": "Ein Aussichtspunkt mit Panoramablick in den französischen Alpen.",
+                  "category": "natural",
+                  "coords": [
+                        6.473352,
+                        45.520617
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Musée d'Histoire et d'Archéologie",
+                  "text": "A régió történelmének és régészetének szentelt múzeum a Francia-Alpokban.",
+                  "category": "museum",
+                  "coords": [
+                        6.532961,
+                        45.48322
+                  ]
+            },
+            {
+                  "name": "Musée d'Antan",
+                  "text": "Helytörténeti múzeum a Francia-Alpokban, amely történelmi tárgyakat mutat be.",
+                  "category": "museum",
+                  "coords": [
+                        6.461715,
+                        45.495253
+                  ]
+            },
+            {
+                  "name": "Auditorium",
+                  "text": "Színházi előadások és koncertek helyszíne a Francia-Alpokban.",
+                  "category": "cultural",
+                  "coords": [
+                        6.483835,
+                        45.518384
+                  ]
+            },
+            {
+                  "name": "Pointe du Cuchet",
+                  "text": "Egy hegycsúcs a Francia-Alpokban.",
+                  "category": "landmark",
+                  "coords": [
+                        6.497866,
+                        45.464333
+                  ]
+            },
+            {
+                  "name": "Belvédère des Pontets",
+                  "text": "Kilátópont a Francia-Alpokban, széles kilátással a tájra.",
+                  "category": "natural",
+                  "coords": [
+                        6.509478,
+                        45.485597
+                  ]
+            },
+            {
+                  "name": "Salines Royales",
+                  "text": "Történelmi ipari műemlék és látnivaló a Francia-Alpokban.",
+                  "category": "landmark",
+                  "coords": [
+                        6.525567,
+                        45.486679
+                  ]
+            },
+            {
+                  "name": "Belvédère du Grand Chêne",
+                  "text": "Kilátópont a Francia-Alpokban.",
+                  "category": "natural",
+                  "coords": [
+                        6.518982,
+                        45.481752
+                  ]
+            },
+            {
+                  "name": "Belvédère du Grand Jet",
+                  "text": "Panorámás kilátópont a Francia-Alpokban.",
+                  "category": "natural",
+                  "coords": [
+                        6.473352,
+                        45.520617
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Musée d'Histoire et d'Archéologie",
+                  "text": "Un muzeu în Alpii Francezi dedicat istoriei și arheologiei regiunii.",
+                  "category": "museum",
+                  "coords": [
+                        6.532961,
+                        45.48322
+                  ]
+            },
+            {
+                  "name": "Musée d'Antan",
+                  "text": "Un muzeu de istorie locală în Alpii Francezi, expunând obiecte istorice.",
+                  "category": "museum",
+                  "coords": [
+                        6.461715,
+                        45.495253
+                  ]
+            },
+            {
+                  "name": "Auditorium",
+                  "text": "Un loc pentru spectacole de teatru și concerte în Alpii Francezi.",
+                  "category": "cultural",
+                  "coords": [
+                        6.483835,
+                        45.518384
+                  ]
+            },
+            {
+                  "name": "Pointe du Cuchet",
+                  "text": "Un vârf muntos în Alpii Francezi.",
+                  "category": "landmark",
+                  "coords": [
+                        6.497866,
+                        45.464333
+                  ]
+            },
+            {
+                  "name": "Belvédère des Pontets",
+                  "text": "Un punct de observație în Alpii Francezi, cu o vedere panoramică asupra peisajului.",
+                  "category": "natural",
+                  "coords": [
+                        6.509478,
+                        45.485597
+                  ]
+            },
+            {
+                  "name": "Salines Royales",
+                  "text": "Un sit industrial istoric și o atracție turistică în Alpii Francezi.",
+                  "category": "landmark",
+                  "coords": [
+                        6.525567,
+                        45.486679
+                  ]
+            },
+            {
+                  "name": "Belvédère du Grand Chêne",
+                  "text": "Un punct de observație în Alpii Francezi.",
+                  "category": "natural",
+                  "coords": [
+                        6.518982,
+                        45.481752
+                  ]
+            },
+            {
+                  "name": "Belvédère du Grand Jet",
+                  "text": "Un punct de observație cu vedere panoramică în Alpii Francezi.",
+                  "category": "natural",
+                  "coords": [
+                        6.473352,
+                        45.520617
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Musée d'Histoire et d'Archéologie",
+                  "text": "A museum in the French Alps dedicated to the history and archaeology of the region.",
+                  "category": "museum",
+                  "coords": [
+                        6.532961,
+                        45.48322
+                  ]
+            },
+            {
+                  "name": "Musée d'Antan",
+                  "text": "A local heritage museum in the French Alps displaying historical artifacts.",
+                  "category": "museum",
+                  "coords": [
+                        6.461715,
+                        45.495253
+                  ]
+            },
+            {
+                  "name": "Auditorium",
+                  "text": "A venue for theater and concerts located in the French Alps.",
+                  "category": "cultural",
+                  "coords": [
+                        6.483835,
+                        45.518384
+                  ]
+            },
+            {
+                  "name": "Pointe du Cuchet",
+                  "text": "A mountain peak in the French Alps.",
+                  "category": "landmark",
+                  "coords": [
+                        6.497866,
+                        45.464333
+                  ]
+            },
+            {
+                  "name": "Belvédère des Pontets",
+                  "text": "A viewpoint in the French Alps offering wide views of the landscape.",
+                  "category": "natural",
+                  "coords": [
+                        6.509478,
+                        45.485597
+                  ]
+            },
+            {
+                  "name": "Salines Royales",
+                  "text": "A historic industrial site and attraction in the French Alps.",
+                  "category": "landmark",
+                  "coords": [
+                        6.525567,
+                        45.486679
+                  ]
+            },
+            {
+                  "name": "Belvédère du Grand Chêne",
+                  "text": "A viewpoint in the French Alps.",
+                  "category": "natural",
+                  "coords": [
+                        6.518982,
+                        45.481752
+                  ]
+            },
+            {
+                  "name": "Belvédère du Grand Jet",
+                  "text": "A viewpoint with panoramic views in the French Alps.",
+                  "category": "natural",
+                  "coords": [
+                        6.473352,
+                        45.520617
+                  ]
+            }
+      ]
+},
     type: "mountain",
     parent: "FR-ARA",
     coords: [6.5, 45.5],
@@ -13202,7 +14300,304 @@ export const franceCities: POI[] = [
     },
   },
   {
-    id: "normandy-dday",
+    id: "normandy-dday", "sights": {
+      "de": [
+            {
+                  "name": "Château de Vierville",
+                  "text": "Ein historisches Schloss aus dem 16. Jahrhundert nahe dem Omaha Beach.",
+                  "category": "castle",
+                  "coords": [
+                        -0.906904,
+                        49.374089
+                  ]
+            },
+            {
+                  "name": "Musée D-Day Omaha",
+                  "text": "Ein Museum, das den Landungen der Alliierten am Omaha Beach während des Zweiten Weltkriegs gewidmet ist.",
+                  "category": "museum",
+                  "coords": [
+                        -0.908211,
+                        49.375253
+                  ]
+            },
+            {
+                  "name": "Overlord Museum",
+                  "text": "Dieses Museum zeigt eine umfangreiche Sammlung von Fahrzeugen und Ausrüstung aus der Schlacht um die Normandie.",
+                  "category": "museum",
+                  "coords": [
+                        -0.856563,
+                        49.347857
+                  ]
+            },
+            {
+                  "name": "Musée Mémorial d'Omaha Beach",
+                  "text": "Ein Museum, das den Landungen der Alliierten am Omaha Beach während des Zweiten Weltkriegs gewidmet ist.",
+                  "category": "museum",
+                  "coords": [
+                        -0.882134,
+                        49.367049
+                  ]
+            },
+            {
+                  "name": "Manoir de Saint-Laurent-sur-Mer",
+                  "text": "Ein historisches Herrenhaus in der Nähe der Landungsstrände der Normandie.",
+                  "category": "castle",
+                  "coords": [
+                        -0.878932,
+                        49.359363
+                  ]
+            },
+            {
+                  "name": "Manoir de Vaumicel",
+                  "text": "Ein befestigtes Herrenhaus aus dem 16. Jahrhundert in der Region Calvados.",
+                  "category": "castle",
+                  "coords": [
+                        -0.909511,
+                        49.368373
+                  ]
+            },
+            {
+                  "name": "Château de Saint-Sever",
+                  "text": "Ein historisches Schloss in der Region der D-Day-Landungsstrände.",
+                  "category": "castle",
+                  "coords": [
+                        -0.911236,
+                        49.359088
+                  ]
+            },
+            {
+                  "name": "Big Red One Museum",
+                  "text": "Ein Museum, das der Geschichte der 1. US-Infanteriedivision im Zweiten Weltkrieg gewidmet ist.",
+                  "category": "museum",
+                  "coords": [
+                        -0.850799,
+                        49.347125
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Château de Vierville",
+                  "text": "Egy 16. századi történelmi kastély az Omaha-part közelében.",
+                  "category": "castle",
+                  "coords": [
+                        -0.906904,
+                        49.374089
+                  ]
+            },
+            {
+                  "name": "Musée D-Day Omaha",
+                  "text": "Az Omaha-parton végrehajtott szövetséges partraszállásnak emléket állító múzeum.",
+                  "category": "museum",
+                  "coords": [
+                        -0.908211,
+                        49.375253
+                  ]
+            },
+            {
+                  "name": "Overlord Museum",
+                  "text": "Ez a múzeum a normandiai csatából származó járművek és felszerelések gazdag gyűjteményét mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        -0.856563,
+                        49.347857
+                  ]
+            },
+            {
+                  "name": "Musée Mémorial d'Omaha Beach",
+                  "text": "Az Omaha-parton végrehajtott szövetséges partraszállásnak emléket állító múzeum.",
+                  "category": "museum",
+                  "coords": [
+                        -0.882134,
+                        49.367049
+                  ]
+            },
+            {
+                  "name": "Manoir de Saint-Laurent-sur-Mer",
+                  "text": "Egy történelmi udvarház a normandiai partraszállási helyszínek közelében.",
+                  "category": "castle",
+                  "coords": [
+                        -0.878932,
+                        49.359363
+                  ]
+            },
+            {
+                  "name": "Manoir de Vaumicel",
+                  "text": "Egy 16. századi erődített udvarház a Calvados régióban.",
+                  "category": "castle",
+                  "coords": [
+                        -0.909511,
+                        49.368373
+                  ]
+            },
+            {
+                  "name": "Château de Saint-Sever",
+                  "text": "Egy történelmi kastély a normandiai partraszállási partok közelében.",
+                  "category": "castle",
+                  "coords": [
+                        -0.911236,
+                        49.359088
+                  ]
+            },
+            {
+                  "name": "Big Red One Museum",
+                  "text": "Az amerikai 1. gyalogos hadosztály második világháborús történetét bemutató múzeum.",
+                  "category": "museum",
+                  "coords": [
+                        -0.850799,
+                        49.347125
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Château de Vierville",
+                  "text": "Un castel istoric din secolul al 16-lea, situat lângă plaja Omaha.",
+                  "category": "castle",
+                  "coords": [
+                        -0.906904,
+                        49.374089
+                  ]
+            },
+            {
+                  "name": "Musée D-Day Omaha",
+                  "text": "Un muzeu dedicat debarcărilor aliate de pe plaja Omaha din timpul celui de-al Doilea Război Mondial.",
+                  "category": "museum",
+                  "coords": [
+                        -0.908211,
+                        49.375253
+                  ]
+            },
+            {
+                  "name": "Overlord Museum",
+                  "text": "Acest muzeu expune o colecție vastă de vehicule și echipamente din bătălia pentru Normandia.",
+                  "category": "museum",
+                  "coords": [
+                        -0.856563,
+                        49.347857
+                  ]
+            },
+            {
+                  "name": "Musée Mémorial d'Omaha Beach",
+                  "text": "Un muzeu dedicat debarcărilor aliate de pe plaja Omaha din timpul celui de-al Doilea Război Mondial.",
+                  "category": "museum",
+                  "coords": [
+                        -0.882134,
+                        49.367049
+                  ]
+            },
+            {
+                  "name": "Manoir de Saint-Laurent-sur-Mer",
+                  "text": "Un conac istoric situat în apropierea plajelor debarcării din Normandia.",
+                  "category": "castle",
+                  "coords": [
+                        -0.878932,
+                        49.359363
+                  ]
+            },
+            {
+                  "name": "Manoir de Vaumicel",
+                  "text": "Un conac fortificat din secolul al 16-lea din regiunea Calvados.",
+                  "category": "castle",
+                  "coords": [
+                        -0.909511,
+                        49.368373
+                  ]
+            },
+            {
+                  "name": "Château de Saint-Sever",
+                  "text": "Un castel istoric aflat în regiunea plajelor debarcării.",
+                  "category": "castle",
+                  "coords": [
+                        -0.911236,
+                        49.359088
+                  ]
+            },
+            {
+                  "name": "Big Red One Museum",
+                  "text": "Un muzeu dedicat istoriei Diviziei 1 Infanterie a SUA în cel de-al Doilea Război Mondial.",
+                  "category": "museum",
+                  "coords": [
+                        -0.850799,
+                        49.347125
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Château de Vierville",
+                  "text": "A historic 16th-century castle located near Omaha Beach.",
+                  "category": "castle",
+                  "coords": [
+                        -0.906904,
+                        49.374089
+                  ]
+            },
+            {
+                  "name": "D-Day Omaha Museum",
+                  "text": "A museum dedicated to the Allied landings at Omaha Beach during World War II.",
+                  "category": "museum",
+                  "coords": [
+                        -0.908211,
+                        49.375253
+                  ]
+            },
+            {
+                  "name": "Overlord Museum",
+                  "text": "This museum displays an extensive collection of vehicles and equipment from the Battle of Normandy.",
+                  "category": "museum",
+                  "coords": [
+                        -0.856563,
+                        49.347857
+                  ]
+            },
+            {
+                  "name": "Musée Mémorial d'Omaha Beach",
+                  "text": "A museum dedicated to the Allied landings at Omaha Beach during World War II.",
+                  "category": "museum",
+                  "coords": [
+                        -0.882134,
+                        49.367049
+                  ]
+            },
+            {
+                  "name": "Manoir de Saint-Laurent-sur-Mer",
+                  "text": "A historic manor house located near the Normandy landing beaches.",
+                  "category": "castle",
+                  "coords": [
+                        -0.878932,
+                        49.359363
+                  ]
+            },
+            {
+                  "name": "Manoir de Vaumicel",
+                  "text": "A 16th-century fortified manor house in the Calvados region.",
+                  "category": "castle",
+                  "coords": [
+                        -0.909511,
+                        49.368373
+                  ]
+            },
+            {
+                  "name": "Château de Saint-Sever",
+                  "text": "A historic castle located in the region of the D-Day landing beaches.",
+                  "category": "castle",
+                  "coords": [
+                        -0.911236,
+                        49.359088
+                  ]
+            },
+            {
+                  "name": "Big Red One Museum",
+                  "text": "A museum dedicated to the history of the US 1st Infantry Division in World War II.",
+                  "category": "museum",
+                  "coords": [
+                        -0.850799,
+                        49.347125
+                  ]
+            }
+      ]
+},
     type: "historical",
     parent: "FR-NOR",
     coords: [-0.88, 49.36],
@@ -13368,7 +14763,955 @@ export const franceCities: POI[] = [
       pt: ["A distância até Dover é de apenas 34 quilómetros.", "O beffroi da câmara municipal tem 75 metros de altura.", "Calais esteve sob domínio inglês durante 211 anos.", "O Eurotúnel foi inaugurado oficialmente em 1994.", "A escultura de Rodin foi inaugurada em 1895.", "A cidade é a porta de entrada para o tráfego no Canal da Mancha."],
       fr: ["La distance jusqu'à Douvres n'est que de 34 kilomètres.", "Le beffroi de l'hôtel de ville mesure 75 mètres de haut.", "Calais a été sous domination anglaise pendant 211 ans.", "L'Eurotunnel a été officiellement inauguré en 1994.", "La sculpture de Rodin a été inaugurada en 1895.", "La ville est la porte d'entrée du trafic transmanche."],
     },
-    "sights": {"de": [{"name": "Beffroi de l'Hôtel de Ville", "text": "Das prächtige Rathaus von Calais besticht durch seinen flämischen Stil und den markanten hohen Glockenturm.", "category": "civic", "confidence": "high", "coords": [1.854309, 50.952927]}, {"name": "Les Bourgeois de Calais", "text": "Die berühmte Bronzeskulptur von Auguste Rodin erinnert an die Aufopferung der Bürger während des Krieges.", "category": "historical", "confidence": "high", "coords": [1.853528, 50.952278]}, {"name": "Phare de Calais", "text": "Ein historischer Leuchtturm im Stadtzentrum, der 58 Meter hoch ist und einen Blick auf den Ärmelkanal bietet.", "category": "historical", "confidence": "high", "coords": [1.85368, 50.96133]}, {"name": "Fort Risban", "text": "Eine historische Festung am Eingang des Hafens, die einst die Stadt vor Angriffen vom Meer aus schützte.", "category": "fortress", "confidence": "high", "coords": [1.8475, 50.9637]}, {"name": "Citadelle de Calais", "text": "Eine ehemalige Festungsanlage, die heute als Park und Erholungsgebiet mit Sportanlagen genutzt wird.", "category": "fortress", "confidence": "high", "coords": [1.8452, 50.9578]}, {"name": "Église Notre-Dame", "text": "Die einzige Kirche Frankreichs im Tudor-Stil, erbaut während der englischen Besetzung der Stadt.", "category": "religious", "confidence": "high", "coords": [1.85306, 50.9583]}, {"name": "Plage de Calais", "text": "Mit seiner riesigen Sandfläche bietet die Plage de Calais einen offenen und luftigen Rückzugsort am Ärmelkanal. Die Atmosphäre hier ist zutiefst maritim, geprägt von einer weitläufigen Promenade, die Spaziergänger und Schiffsbeobachter gleichermaßen anzieht. Besucher können sich an langen Strandspaziergängen erfreuen, während sie die Fähren beobachten, die in der Ferne das Wasser durchqueren. Eine leichte Jacke mitzubringen ist klug, da der Küstenwind auch an sonnigen Tagen erfrischend wirken kann.", "category": "natural", "confidence": "high", "coords": [1.839266, 50.965105]}, {"name": "Parc Richelieu", "text": "Ein schöner Stadtpark im Herzen von Calais, der ideal zum Entspannen und für kurze Spaziergänge ist.", "category": "recreational", "confidence": "high", "coords": [1.851953, 50.956078]}, {"name": "Tour du Guet", "text": "Ein mittelalterlicher Wachturm aus dem 13. Jahrhundert, das älteste Gebäude im Stadtzentrum von Calais.", "category": "historical", "confidence": "high", "coords": [1.84972, 50.9589]}, {"name": "Le Dragon de Calais", "text": "Ein monumentales mechanisches Ungeheuer aus Stahl und Holz, das Besucher an der Strandpromenade von Calais spazieren führt.", "category": "recreational", "confidence": "high", "coords": [1.810173, 50.935327]}, {"name": "Musée des Beaux-Arts", "text": "Das Museum präsentiert eine reiche Sammlung von Gemälden und Skulpturen vom 16. bis zum 21. Jahrhundert, darunter Werke von Rodin.", "category": "museum", "confidence": "high", "coords": [1.851673, 50.956888]}, {"name": "Théâtre de Calais", "text": "Ein prächtiges Gebäude im italienischen Stil aus dem frühen 20. Jahrhundert, das ein vielfältiges Programm an Opern und Theaterstücken bietet.", "category": "cultural", "confidence": "high", "coords": [1.853385, 50.947012]}, {"name": "Monument du Pluviôse", "text": "Ein Denkmal zur Erinnerung an das U-Boot Pluviôse, das 1910 vor der Küste von Calais nach einer Kollision sank.", "category": "historical", "confidence": "high", "coords": [1.845417, 50.963796]}, {"name": "Gare de Calais-Ville", "text": "Der historische Bahnhof der Stadt, bekannt für seine klassische Architektur und seine Bedeutung als Verkehrsknotenpunkt zum Ärmelkanal.", "category": "station", "confidence": "high", "coords": [1.850556, 50.953333]}, {"name": "Parc Saint-Pierre", "text": "Eine weitläufige Grünanlage gegenüber dem Rathaus, ideal für Spaziergänge und Entspannung im Herzen der Stadt.", "category": "recreational", "confidence": "high", "coords": [1.850864, 50.951744]}, {"name": "Colonne Louis XVIII", "text": "Diese Säule im Hafen erinnert an die Rückkehr des Königs Louis XVIII. nach Frankreich im Jahr 1814 nach seinem Exil.", "category": "historical", "confidence": "high", "coords": [1.85028, 50.96095]}, {"name": "Aire de jeux Matisse", "text": "Ein moderner Spielplatz in Calais, der Kindern abwechslungsreiche Spielmöglichkeiten bietet.", "category": "family", "coords": [1.899159, 50.94827]}, {"name": "Aire de jeux Morrelet", "text": "Ein schöner Ort in Calais für Kinder zum Spielen und für Familien zum Entspannen.", "category": "family", "coords": [1.828959, 50.94852]}, {"name": "Ferme urbaine", "text": "Der städtische Bauernhof in Calais ermöglicht es Familien, Bauernhoftiere in der städtischen Umgebung zu entdecken.", "category": "family", "coords": [1.852668, 50.94913]}], "hu": [{"name": "Beffroi de l'Hôtel de Ville", "text": "Calais pompás városháza flamand stílusával és jellegzetes, magas harangtornyával nyűgözi le a látogatókat.", "category": "civic", "confidence": "high", "coords": [1.854309, 50.952927]}, {"name": "Les Bourgeois de Calais", "text": "Auguste Rodin híres bronzszobra a város polgárainak önfeláldozására emlékeztet a százéves háború idején.", "category": "historical", "confidence": "high", "coords": [1.853528, 50.952278]}, {"name": "Phare de Calais", "text": "Történelmi világítótorony a városközpontban, amely 58 méter magas és kilátást nyújt az angol csatornára.", "category": "historical", "confidence": "high", "coords": [1.85368, 50.96133]}, {"name": "Fort Risban", "text": "Történelmi erőd a kikötő bejáratánál, amely egykor a várost védte a tenger felőli támadások ellen.", "category": "fortress", "confidence": "high", "coords": [1.8475, 50.9637]}, {"name": "Citadelle de Calais", "text": "Egykori erődítményrendszer, amely ma közparkként és sportpályák otthonaként szolgál a helyieknek.", "category": "fortress", "confidence": "high", "coords": [1.8452, 50.9578]}, {"name": "Église Notre-Dame", "text": "Franciaország egyetlen Tudor-stílusú temploma, amely a város angol megszállása idején épült fel.", "category": "religious", "confidence": "high", "coords": [1.85306, 50.9583]}, {"name": "Plage de Calais", "text": "A hatalmas homokos területet bemutató Plage de Calais nyitott és szellős tengerparti menedéket kínál a La Manche csatorna mentén. A légkör itt mélyen tengeri, amelyet egy tágas sétány határoz meg, amely egyaránt vonzza a sétálókat és a hajónézőket. A látogatók élvezhetik a hosszú parti sétákat, miközben a távolban figyelhetik a vizeken átszelő kompokat. Érdemes egy könnyű kabátot hozni, mivel a tengerparti szelek még napsütéses napokon is élénkítőek lehetnek.", "category": "natural", "confidence": "high", "coords": [1.839266, 50.965105]}, {"name": "Parc Richelieu", "text": "Kellemes városi park Calais szívében, amely ideális helyszín a pihenésre és egy rövid sétára.", "category": "recreational", "confidence": "high", "coords": [1.851953, 50.956078]}, {"name": "Tour du Guet", "text": "13. századi középkori őrtorony, amely Calais belvárosának legrégebbi fennmaradt épülete.", "category": "historical", "confidence": "high", "coords": [1.84972, 50.9589]}, {"name": "Calais sárkánya", "text": "Egy monumentális mechanikus acélszörny, amely a tengerparti sétányon szállítja az utasokat egy egyedülálló interaktív élmény keretében.", "category": "recreational", "confidence": "high", "coords": [1.810173, 50.935327]}, {"name": "Szépművészeti Múzeum", "text": "A múzeum gazdag festmény- és szoborgyűjteményt mutat be a 16. századtól napjainkig, kiemelt figyelmet fordítva Rodin alkotásaira.", "category": "museum", "confidence": "high", "coords": [1.851673, 50.956888]}, {"name": "Calais-i Színház", "text": "Kora 20. századi, olasz stílusú épület, amely a város kulturális életének központja operákkal és drámai előadásokkal.", "category": "cultural", "confidence": "high", "coords": [1.853385, 50.947012]}, {"name": "Pluviôse emlékmű", "text": "Az 1910-ben egy ütközés után elsüllyedt Pluviôse tengeralattjáró áldozatainak tiszteletére állított történelmi emlékmű.", "category": "historical", "confidence": "high", "coords": [1.845417, 50.963796]}, {"name": "Calais-Ville vasútállomás", "text": "Klasszikus építészetű vasúti csomópont, amely évtizedek óta köti össze a várost Párizzsal és a Csatorna-alagút térségével.", "category": "station", "confidence": "high", "coords": [1.850556, 50.953333]}, {"name": "Szent Péter park", "text": "A városházával szemben elhelyezkedő tágas park virágágyásokkal és sétányokkal, a helyiek kedvelt pihenőhelye.", "category": "recreational", "confidence": "high", "coords": [1.850864, 50.951744]}, {"name": "XVIII. Lajos oszlopa", "text": "A kikötőben található emlékoszlop, amely XVIII. Lajos király 1814-es száműzetésből való hazatérését örökíti meg.", "category": "historical", "confidence": "high", "coords": [1.85028, 50.96095]}, {"name": "Aire de jeux Matisse", "text": "Egy modern játszótér Calais-ban, amely változatos játéklehetőségeket kínál a gyerekeknek.", "category": "family", "coords": [1.899159, 50.94827]}, {"name": "Aire de jeux Morrelet", "text": "Egy szép hely Calais-ban a gyerekeknek a játékhoz, a családoknak pedig a pihenéshez.", "category": "family", "coords": [1.828959, 50.94852]}, {"name": "Ferme urbaine", "text": "A calais-i városi farm lehetővé teszi a családok számára, hogy haszonállatokat fedezzenek fel városi környezetben.", "category": "family", "coords": [1.852668, 50.94913]}], "ro": [{"name": "Beffroi de l'Hôtel de Ville", "text": "Primăria magnifică din Calais impresionează prin stilul său flamand și turnul cu clopotniță foarte înalt.", "category": "civic", "confidence": "high", "coords": [1.854309, 50.952927]}, {"name": "Les Bourgeois de Calais", "text": "Celebra sculptură din bronz a lui Auguste Rodin comemorează sacrificiul cetățenilor în timpul războiului.", "category": "historical", "confidence": "high", "coords": [1.853528, 50.952278]}, {"name": "Phare de Calais", "text": "Un far istoric situat în centrul orașului, înalt de 58 de metri, oferind o vedere spre Canalul Mânecii.", "category": "historical", "confidence": "high", "coords": [1.85368, 50.96133]}, {"name": "Fort Risban", "text": "O fortăreață istorică situată la intrarea în port, care odinioară proteja orașul de atacurile maritime.", "category": "fortress", "confidence": "high", "coords": [1.8475, 50.9637]}, {"name": "Citadelle de Calais", "text": "Foste fortificații transformate astăzi într-un parc public și zonă de recreere pentru locuitori.", "category": "fortress", "confidence": "high", "coords": [1.8452, 50.9578]}, {"name": "Église Notre-Dame", "text": "Singura biserică din Franța construită în stil Tudor, ridicată în timpul ocupației engleze a orașului.", "category": "religious", "confidence": "high", "coords": [1.85306, 50.9583]}, {"name": "Plage de Calais", "text": "Prezentând o întindere vastă de nisip, Plage de Calais oferă o retragere pe malul mării deschisă și aerisită de-a lungul Canalului Mânecii. Atmosfera de aici este profund maritimă, definită de o promenadă spațioasă care atrage deopotrivă plimbăreții și observatorii de nave. Vizitatorii se pot bucura de plimbări lungi pe țărm în timp ce observă feriboturile care traversează apele în depărtare. Aducerea unei jachete ușoare este înțeleaptă, deoarece vânturile de coastă pot fi revigorante chiar și în zilele însorite.", "category": "natural", "confidence": "high", "coords": [1.839266, 50.965105]}, {"name": "Parc Richelieu", "text": "Un parc frumos situat în centrul orașului Calais, oferind un spațiu verde relaxant pentru vizitatori.", "category": "recreational", "confidence": "high", "coords": [1.851953, 50.956078]}, {"name": "Tour du Guet", "text": "Un turn de veghe medieval din secolul al XIII-lea, fiind cea mai veche construcție din centrul orașului.", "category": "historical", "confidence": "high", "coords": [1.84972, 50.9589]}, {"name": "Dragonul din Calais", "text": "O creatură mecanică gigantică din oțel și lemn care se plimbă pe faleza orașului, oferind o experiență turistică inedită.", "category": "recreational", "confidence": "high", "coords": [1.810173, 50.935327]}, {"name": "Muzeul de Arte Frumoase", "text": "Găzduiește o colecție impresionantă de picturi și sculpturi, incluzând schițe și lucrări originale ale celebrului Auguste Rodin.", "category": "museum", "confidence": "high", "coords": [1.851673, 50.956888]}, {"name": "Teatrul din Calais", "text": "O clădire magnifică în stil italian inaugurată în 1905, inima culturală a orașului pentru spectacole de operă și balet.", "category": "cultural", "confidence": "high", "coords": [1.853385, 50.947012]}, {"name": "Monumentul Pluviôse", "text": "Un monument ridicat în memoria echipajului submarinului Pluviôse, care s-a scufundat în fața portului în 1910.", "category": "historical", "confidence": "high", "coords": [1.845417, 50.963796]}, {"name": "Gara Calais-Ville", "text": "O gară istorică cu o arhitectură elegantă, servind drept punct principal de acces feroviar către centrul orașului.", "category": "station", "confidence": "high", "coords": [1.850556, 50.953333]}, {"name": "Parcul Saint-Pierre", "text": "Un spațiu verde generos situat în fața primăriei, decorat cu grădini îngrijite și fântâni arteziene relaxante.", "category": "recreational", "confidence": "high", "coords": [1.850864, 50.951744]}, {"name": "Coloana Ludovic al XVIII-lea", "text": "O coloană comemorativă situată în zona portuară, marcând revenirea regelui în Franța după exilul său din 1814.", "category": "historical", "confidence": "high", "coords": [1.85028, 50.96095]}, {"name": "Aire de jeux Matisse", "text": "Un loc de joacă modern în Calais, oferind copiilor diverse posibilități de joacă.", "category": "family", "coords": [1.899159, 50.94827]}, {"name": "Aire de jeux Morrelet", "text": "Un loc frumos în Calais pentru joaca copiilor și relaxarea familiilor.", "category": "family", "coords": [1.828959, 50.94852]}, {"name": "Ferme urbaine", "text": "Ferma urbană din Calais permite familiilor să descopere animalele de fermă în mediul urban.", "category": "family", "coords": [1.852668, 50.94913]}], "en": [{"name": "Beffroi de l'Hôtel de Ville", "text": "The magnificent Calais City Hall stands out with its Flemish style and its distinctive high belfry tower.", "category": "civic", "confidence": "high", "coords": [1.854309, 50.952927]}, {"name": "Les Bourgeois de Calais", "text": "The famous bronze sculpture by Auguste Rodin commemorates the sacrifice of citizens during the Hundred Years' War.", "category": "historical", "confidence": "high", "coords": [1.853528, 50.952278]}, {"name": "Phare de Calais", "text": "A historic lighthouse in the city center, standing 58 meters tall and offering views of the English Channel.", "category": "historical", "confidence": "high", "coords": [1.85368, 50.96133]}, {"name": "Fort Risban", "text": "A historic fortress at the port's entrance that once protected the town from naval attacks over centuries.", "category": "fortress", "confidence": "high", "coords": [1.8475, 50.9637]}, {"name": "Citadelle de Calais", "text": "A former military fortification system now serving as a public park and recreational sports ground.", "category": "fortress", "confidence": "high", "coords": [1.8452, 50.9578]}, {"name": "Église Notre-Dame", "text": "The only Tudor-style church in France, built during the English occupation of the city in the 14th century.", "category": "religious", "confidence": "high", "coords": [1.85306, 50.9583]}, {"name": "Plage de Calais", "text": "Showcasing a vast expanse of sand, Plage de Calais offers an open and breezy seaside retreat along the English Channel. The atmosphere here is deeply maritime, defined by a spacious promenade that attracts walkers and ship-watchers alike. Visitors can delight in long shoreline strolls while observing the ferries traversing the waters in the distance. Bringing a light jacket is wise, as the coastal winds can be invigorating even on sunny days.", "category": "natural", "confidence": "high", "coords": [1.839266, 50.965105]}, {"name": "Parc Richelieu", "text": "A pleasant urban park in the heart of Calais, perfect for relaxation and a short nature walk.", "category": "recreational", "confidence": "high", "coords": [1.851953, 50.956078]}, {"name": "Tour du Guet", "text": "A 13th-century medieval watchtower, the oldest standing building in the city center of Calais.", "category": "historical", "confidence": "high", "coords": [1.84972, 50.9589]}, {"name": "The Dragon of Calais", "text": "A monumental mechanical creature made of steel and wood that carries passengers along the Calais seafront in a unique show.", "category": "recreational", "confidence": "high", "coords": [1.810173, 50.935327]}, {"name": "Fine Arts Museum", "text": "The museum displays a rich collection of paintings and sculptures from the 16th to the 21st century, including works by Rodin.", "category": "museum", "confidence": "high", "coords": [1.851673, 50.956888]}, {"name": "Calais Theater", "text": "A beautiful early 20th-century Italian-style theater building that serves as the main venue for performing arts in the city.", "category": "cultural", "confidence": "high", "coords": [1.853385, 50.947012]}, {"name": "Pluviôse Monument", "text": "A historical memorial dedicated to the crew of the submarine Pluviôse, which sank off Calais in 1910 after a collision.", "category": "historical", "confidence": "high", "coords": [1.845417, 50.963796]}, {"name": "Calais-Ville Station", "text": "The city's central railway station, noted for its classical architecture and its long history as a gateway to the Channel.", "category": "station", "confidence": "high", "coords": [1.850556, 50.953333]}, {"name": "Saint-Pierre Park", "text": "A large public park located directly opposite the City Hall, offering beautiful flowerbeds and peaceful walking paths.", "category": "recreational", "confidence": "high", "coords": [1.850864, 50.951744]}, {"name": "Louis XVIII Column", "text": "Located at the harbor, this monument commemorates the 1814 return of King Louis XVIII to France following his exile.", "category": "historical", "confidence": "high", "coords": [1.85028, 50.96095]}, {"name": "Aire de jeux Matisse", "text": "A modern playground in Calais, offering children varied play opportunities.", "category": "family", "coords": [1.899159, 50.94827]}, {"name": "Aire de jeux Morrelet", "text": "A lovely spot in Calais for children to play and families to relax.", "category": "family", "coords": [1.828959, 50.94852]}, {"name": "Ferme urbaine", "text": "The urban farm in Calais allows families to discover farm animals within the city environment.", "category": "family", "coords": [1.852668, 50.94913]}], "fr": [{"name": "Beffroi de l'hôtel de ville", "text": "Le somptueux hôtel de ville de Calais se distingue par son style flamand et son beffroi haut et caractéristique.", "category": "civic", "coords": [1.854309, 50.952927]}, {"name": "Les Bourgeois de Calais", "text": "La célèbre sculpture en bronze d'Auguste Rodin commémore le sacrifice des bourgeois de la ville durant la guerre.", "category": "historical", "coords": [1.853528, 50.952278]}, {"name": "Phare de Calais", "text": "Un phare historique du centre-ville, haut de 58 mètres, offrant une vue sur le pas de Calais.", "category": "historical", "coords": [1.85368, 50.96133]}, {"name": "Fort Risban", "text": "Une forteresse historique à l'entrée du port qui protégeait autrefois la ville des attaques venant de la mer.", "category": "fortress", "coords": [1.8475, 50.9637]}, {"name": "Citadelle de Calais", "text": "Une ancienne fortification reconvertie en parc et espace de loisirs avec des installations sportives.", "category": "fortress", "coords": [1.8452, 50.9578]}, {"name": "Église Notre-Dame", "text": "La seule église de France de style Tudor, construite durant l'occupation anglaise de la ville.", "category": "religious", "coords": [1.85306, 50.9583]}, {"name": "Plage de Calais", "text": "Déployant une vaste étendue de sable, la Plage de Calais offre une retraite balnéaire ouverte et aérée le long de la Manche. L'atmosphère y est profondément maritime, définie par une promenade spacieuse qui attire autant les marcheurs que les observateurs de navires. Les visiteurs peuvent se délecter de longues promenades sur le rivage tout en observant les ferries traversant les eaux au loin. Il est prudent d'apporter une veste légère, car les vents côtiers peuvent être revigorants, même par temps ensoleillé.", "category": "natural", "coords": [1.839266, 50.965105]}, {"name": "Parc Richelieu", "text": "Un charmant parc urbain au cœur de Calais, idéal pour se détendre et faire de courtes promenades.", "category": "recreational", "coords": [1.851953, 50.956078]}, {"name": "Tour du Guet", "text": "Une tour de guet médiévale du XIIIe siècle, le plus vieux bâtiment du centre-ville de Calais.", "category": "historical", "coords": [1.84972, 50.9589]}]}
+    "sights": {
+      "de": [
+            {
+                  "name": "Beffroi de l'Hôtel de Ville",
+                  "text": "Das prächtige Rathaus von Calais besticht durch seinen flämischen Stil und den markanten hohen Glockenturm.",
+                  "category": "civic",
+                  "confidence": "high",
+                  "coords": [
+                        1.854309,
+                        50.952927
+                  ]
+            },
+            {
+                  "name": "Les Bourgeois de Calais",
+                  "text": "Die berühmte Bronzeskulptur von Auguste Rodin erinnert an die Aufopferung der Bürger während des Krieges.",
+                  "category": "historical",
+                  "confidence": "high",
+                  "coords": [
+                        1.853528,
+                        50.952278
+                  ]
+            },
+            {
+                  "name": "Phare de Calais",
+                  "text": "Ein historischer Leuchtturm im Stadtzentrum, der 58 Meter hoch ist und einen Blick auf den Ärmelkanal bietet.",
+                  "category": "historical",
+                  "confidence": "high",
+                  "coords": [
+                        1.85368,
+                        50.96133
+                  ]
+            },
+            {
+                  "name": "Fort Risban",
+                  "text": "Eine historische Festung am Eingang des Hafens, die einst die Stadt vor Angriffen vom Meer aus schützte.",
+                  "category": "fortress",
+                  "confidence": "high",
+                  "coords": [
+                        1.8475,
+                        50.9637
+                  ]
+            },
+            {
+                  "name": "Citadelle de Calais",
+                  "text": "Eine ehemalige Festungsanlage, die heute als Park und Erholungsgebiet mit Sportanlagen genutzt wird.",
+                  "category": "fortress",
+                  "confidence": "high",
+                  "coords": [
+                        1.8452,
+                        50.9578
+                  ]
+            },
+            {
+                  "name": "Église Notre-Dame",
+                  "text": "Die einzige Kirche Frankreichs im Tudor-Stil, erbaut während der englischen Besetzung der Stadt.",
+                  "category": "religious",
+                  "confidence": "high",
+                  "coords": [
+                        1.85306,
+                        50.9583
+                  ]
+            },
+            {
+                  "name": "Plage de Calais",
+                  "text": "Mit seiner riesigen Sandfläche bietet die Plage de Calais einen offenen und luftigen Rückzugsort am Ärmelkanal. Die Atmosphäre hier ist zutiefst maritim, geprägt von einer weitläufigen Promenade, die Spaziergänger und Schiffsbeobachter gleichermaßen anzieht. Besucher können sich an langen Strandspaziergängen erfreuen, während sie die Fähren beobachten, die in der Ferne das Wasser durchqueren. Eine leichte Jacke mitzubringen ist klug, da der Küstenwind auch an sonnigen Tagen erfrischend wirken kann.",
+                  "category": "natural",
+                  "confidence": "high",
+                  "coords": [
+                        1.839266,
+                        50.965105
+                  ]
+            },
+            {
+                  "name": "Parc Richelieu",
+                  "text": "Ein schöner Stadtpark im Herzen von Calais, der ideal zum Entspannen und für kurze Spaziergänge ist.",
+                  "category": "recreational",
+                  "confidence": "high",
+                  "coords": [
+                        1.851953,
+                        50.956078
+                  ]
+            },
+            {
+                  "name": "Tour du Guet",
+                  "text": "Ein mittelalterlicher Wachturm aus dem 13. Jahrhundert, das älteste Gebäude im Stadtzentrum von Calais.",
+                  "category": "historical",
+                  "confidence": "high",
+                  "coords": [
+                        1.84972,
+                        50.9589
+                  ]
+            },
+            {
+                  "name": "Le Dragon de Calais",
+                  "text": "Ein monumentales mechanisches Ungeheuer aus Stahl und Holz, das Besucher an der Strandpromenade von Calais spazieren führt.",
+                  "category": "recreational",
+                  "confidence": "high",
+                  "coords": [
+                        1.810173,
+                        50.935327
+                  ]
+            },
+            {
+                  "name": "Musée des Beaux-Arts",
+                  "text": "Das Museum präsentiert eine reiche Sammlung von Gemälden und Skulpturen vom 16. bis zum 21. Jahrhundert, darunter Werke von Rodin.",
+                  "category": "museum",
+                  "confidence": "high",
+                  "coords": [
+                        1.851673,
+                        50.956888
+                  ]
+            },
+            {
+                  "name": "Théâtre de Calais",
+                  "text": "Ein prächtiges Gebäude im italienischen Stil aus dem frühen 20. Jahrhundert, das ein vielfältiges Programm an Opern und Theaterstücken bietet.",
+                  "category": "cultural",
+                  "confidence": "high",
+                  "coords": [
+                        1.853385,
+                        50.947012
+                  ]
+            },
+            {
+                  "name": "Monument du Pluviôse",
+                  "text": "Ein Denkmal zur Erinnerung an das U-Boot Pluviôse, das 1910 vor der Küste von Calais nach einer Kollision sank.",
+                  "category": "historical",
+                  "confidence": "high",
+                  "coords": [
+                        1.845417,
+                        50.963796
+                  ]
+            },
+            {
+                  "name": "Gare de Calais-Ville",
+                  "text": "Der historische Bahnhof der Stadt, bekannt für seine klassische Architektur und seine Bedeutung als Verkehrsknotenpunkt zum Ärmelkanal.",
+                  "category": "station",
+                  "confidence": "high",
+                  "coords": [
+                        1.850556,
+                        50.953333
+                  ]
+            },
+            {
+                  "name": "Parc Saint-Pierre",
+                  "text": "Eine weitläufige Grünanlage gegenüber dem Rathaus, ideal für Spaziergänge und Entspannung im Herzen der Stadt.",
+                  "category": "recreational",
+                  "confidence": "high",
+                  "coords": [
+                        1.850864,
+                        50.951744
+                  ]
+            },
+            {
+                  "name": "Colonne Louis XVIII",
+                  "text": "Diese Säule im Hafen erinnert an die Rückkehr des Königs Louis XVIII. nach Frankreich im Jahr 1814 nach seinem Exil.",
+                  "category": "historical",
+                  "confidence": "high",
+                  "coords": [
+                        1.85028,
+                        50.96095
+                  ]
+            },
+            {
+                  "name": "Aire de jeux Matisse",
+                  "text": "Ein moderner Spielplatz in Calais, der Kindern abwechslungsreiche Spielmöglichkeiten bietet.",
+                  "category": "family",
+                  "coords": [
+                        1.899159,
+                        50.94827
+                  ]
+            },
+            {
+                  "name": "Aire de jeux Morrelet",
+                  "text": "Ein schöner Ort in Calais für Kinder zum Spielen und für Familien zum Entspannen.",
+                  "category": "family",
+                  "coords": [
+                        1.828959,
+                        50.94852
+                  ]
+            },
+            {
+                  "name": "Ferme urbaine",
+                  "text": "Der städtische Bauernhof in Calais ermöglicht es Familien, Bauernhoftiere in der städtischen Umgebung zu entdecken.",
+                  "category": "family",
+                  "coords": [
+                        1.852668,
+                        50.94913
+                  ]
+            },
+            {
+                  "name": "Cite Internationale de la Dentelle et de la Mode",
+                  "text": "Dieses Museum in Calais widmet sich der Geschichte der Spitzenherstellung und der Mode.",
+                  "category": "museum",
+                  "coords": [
+                        1.85981,
+                        50.95022
+                  ]
+            },
+            {
+                  "name": "Fort Nieulay",
+                  "text": "Eine historische Festungsanlage in Calais, die einst zur Verteidigung der Stadt diente.",
+                  "category": "fortress",
+                  "coords": [
+                        1.816668,
+                        50.94588
+                  ]
+            },
+            {
+                  "name": "Calais Beach",
+                  "text": "Der weitläufige Sandstrand von Calais lädt zu Spaziergängen und zum Entspannen an der Küste ein.",
+                  "category": "recreational",
+                  "coords": [
+                        1.836739,
+                        50.964605
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Beffroi de l'Hôtel de Ville",
+                  "text": "Calais pompás városháza flamand stílusával és jellegzetes, magas harangtornyával nyűgözi le a látogatókat.",
+                  "category": "civic",
+                  "confidence": "high",
+                  "coords": [
+                        1.854309,
+                        50.952927
+                  ]
+            },
+            {
+                  "name": "Les Bourgeois de Calais",
+                  "text": "Auguste Rodin híres bronzszobra a város polgárainak önfeláldozására emlékeztet a százéves háború idején.",
+                  "category": "historical",
+                  "confidence": "high",
+                  "coords": [
+                        1.853528,
+                        50.952278
+                  ]
+            },
+            {
+                  "name": "Phare de Calais",
+                  "text": "Történelmi világítótorony a városközpontban, amely 58 méter magas és kilátást nyújt az angol csatornára.",
+                  "category": "historical",
+                  "confidence": "high",
+                  "coords": [
+                        1.85368,
+                        50.96133
+                  ]
+            },
+            {
+                  "name": "Fort Risban",
+                  "text": "Történelmi erőd a kikötő bejáratánál, amely egykor a várost védte a tenger felőli támadások ellen.",
+                  "category": "fortress",
+                  "confidence": "high",
+                  "coords": [
+                        1.8475,
+                        50.9637
+                  ]
+            },
+            {
+                  "name": "Citadelle de Calais",
+                  "text": "Egykori erődítményrendszer, amely ma közparkként és sportpályák otthonaként szolgál a helyieknek.",
+                  "category": "fortress",
+                  "confidence": "high",
+                  "coords": [
+                        1.8452,
+                        50.9578
+                  ]
+            },
+            {
+                  "name": "Église Notre-Dame",
+                  "text": "Franciaország egyetlen Tudor-stílusú temploma, amely a város angol megszállása idején épült fel.",
+                  "category": "religious",
+                  "confidence": "high",
+                  "coords": [
+                        1.85306,
+                        50.9583
+                  ]
+            },
+            {
+                  "name": "Plage de Calais",
+                  "text": "A hatalmas homokos területet bemutató Plage de Calais nyitott és szellős tengerparti menedéket kínál a La Manche csatorna mentén. A légkör itt mélyen tengeri, amelyet egy tágas sétány határoz meg, amely egyaránt vonzza a sétálókat és a hajónézőket. A látogatók élvezhetik a hosszú parti sétákat, miközben a távolban figyelhetik a vizeken átszelő kompokat. Érdemes egy könnyű kabátot hozni, mivel a tengerparti szelek még napsütéses napokon is élénkítőek lehetnek.",
+                  "category": "natural",
+                  "confidence": "high",
+                  "coords": [
+                        1.839266,
+                        50.965105
+                  ]
+            },
+            {
+                  "name": "Parc Richelieu",
+                  "text": "Kellemes városi park Calais szívében, amely ideális helyszín a pihenésre és egy rövid sétára.",
+                  "category": "recreational",
+                  "confidence": "high",
+                  "coords": [
+                        1.851953,
+                        50.956078
+                  ]
+            },
+            {
+                  "name": "Tour du Guet",
+                  "text": "13. századi középkori őrtorony, amely Calais belvárosának legrégebbi fennmaradt épülete.",
+                  "category": "historical",
+                  "confidence": "high",
+                  "coords": [
+                        1.84972,
+                        50.9589
+                  ]
+            },
+            {
+                  "name": "Calais sárkánya",
+                  "text": "Egy monumentális mechanikus acélszörny, amely a tengerparti sétányon szállítja az utasokat egy egyedülálló interaktív élmény keretében.",
+                  "category": "recreational",
+                  "confidence": "high",
+                  "coords": [
+                        1.810173,
+                        50.935327
+                  ]
+            },
+            {
+                  "name": "Szépművészeti Múzeum",
+                  "text": "A múzeum gazdag festmény- és szoborgyűjteményt mutat be a 16. századtól napjainkig, kiemelt figyelmet fordítva Rodin alkotásaira.",
+                  "category": "museum",
+                  "confidence": "high",
+                  "coords": [
+                        1.851673,
+                        50.956888
+                  ]
+            },
+            {
+                  "name": "Calais-i Színház",
+                  "text": "Kora 20. századi, olasz stílusú épület, amely a város kulturális életének központja operákkal és drámai előadásokkal.",
+                  "category": "cultural",
+                  "confidence": "high",
+                  "coords": [
+                        1.853385,
+                        50.947012
+                  ]
+            },
+            {
+                  "name": "Pluviôse emlékmű",
+                  "text": "Az 1910-ben egy ütközés után elsüllyedt Pluviôse tengeralattjáró áldozatainak tiszteletére állított történelmi emlékmű.",
+                  "category": "historical",
+                  "confidence": "high",
+                  "coords": [
+                        1.845417,
+                        50.963796
+                  ]
+            },
+            {
+                  "name": "Calais-Ville vasútállomás",
+                  "text": "Klasszikus építészetű vasúti csomópont, amely évtizedek óta köti össze a várost Párizzsal és a Csatorna-alagút térségével.",
+                  "category": "station",
+                  "confidence": "high",
+                  "coords": [
+                        1.850556,
+                        50.953333
+                  ]
+            },
+            {
+                  "name": "Szent Péter park",
+                  "text": "A városházával szemben elhelyezkedő tágas park virágágyásokkal és sétányokkal, a helyiek kedvelt pihenőhelye.",
+                  "category": "recreational",
+                  "confidence": "high",
+                  "coords": [
+                        1.850864,
+                        50.951744
+                  ]
+            },
+            {
+                  "name": "XVIII. Lajos oszlopa",
+                  "text": "A kikötőben található emlékoszlop, amely XVIII. Lajos király 1814-es száműzetésből való hazatérését örökíti meg.",
+                  "category": "historical",
+                  "confidence": "high",
+                  "coords": [
+                        1.85028,
+                        50.96095
+                  ]
+            },
+            {
+                  "name": "Aire de jeux Matisse",
+                  "text": "Egy modern játszótér Calais-ban, amely változatos játéklehetőségeket kínál a gyerekeknek.",
+                  "category": "family",
+                  "coords": [
+                        1.899159,
+                        50.94827
+                  ]
+            },
+            {
+                  "name": "Aire de jeux Morrelet",
+                  "text": "Egy szép hely Calais-ban a gyerekeknek a játékhoz, a családoknak pedig a pihenéshez.",
+                  "category": "family",
+                  "coords": [
+                        1.828959,
+                        50.94852
+                  ]
+            },
+            {
+                  "name": "Ferme urbaine",
+                  "text": "A calais-i városi farm lehetővé teszi a családok számára, hogy haszonállatokat fedezzenek fel városi környezetben.",
+                  "category": "family",
+                  "coords": [
+                        1.852668,
+                        50.94913
+                  ]
+            },
+            {
+                  "name": "Cite Internationale de la Dentelle et de la Mode",
+                  "text": "Ez a calais-i múzeum a csipkekészítés és a divat történetének szentelt helyszín.",
+                  "category": "museum",
+                  "coords": [
+                        1.85981,
+                        50.95022
+                  ]
+            },
+            {
+                  "name": "Fort Nieulay",
+                  "text": "Történelmi erődítmény Calais-ban, amely egykor a város védelmét szolgálta.",
+                  "category": "fortress",
+                  "coords": [
+                        1.816668,
+                        50.94588
+                  ]
+            },
+            {
+                  "name": "Calais Beach",
+                  "text": "Calais tágas homokos tengerpartja sétákra és kikapcsolódásra hív a tengerparton.",
+                  "category": "recreational",
+                  "coords": [
+                        1.836739,
+                        50.964605
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Beffroi de l'Hôtel de Ville",
+                  "text": "Primăria magnifică din Calais impresionează prin stilul său flamand și turnul cu clopotniță foarte înalt.",
+                  "category": "civic",
+                  "confidence": "high",
+                  "coords": [
+                        1.854309,
+                        50.952927
+                  ]
+            },
+            {
+                  "name": "Les Bourgeois de Calais",
+                  "text": "Celebra sculptură din bronz a lui Auguste Rodin comemorează sacrificiul cetățenilor în timpul războiului.",
+                  "category": "historical",
+                  "confidence": "high",
+                  "coords": [
+                        1.853528,
+                        50.952278
+                  ]
+            },
+            {
+                  "name": "Phare de Calais",
+                  "text": "Un far istoric situat în centrul orașului, înalt de 58 de metri, oferind o vedere spre Canalul Mânecii.",
+                  "category": "historical",
+                  "confidence": "high",
+                  "coords": [
+                        1.85368,
+                        50.96133
+                  ]
+            },
+            {
+                  "name": "Fort Risban",
+                  "text": "O fortăreață istorică situată la intrarea în port, care odinioară proteja orașul de atacurile maritime.",
+                  "category": "fortress",
+                  "confidence": "high",
+                  "coords": [
+                        1.8475,
+                        50.9637
+                  ]
+            },
+            {
+                  "name": "Citadelle de Calais",
+                  "text": "Foste fortificații transformate astăzi într-un parc public și zonă de recreere pentru locuitori.",
+                  "category": "fortress",
+                  "confidence": "high",
+                  "coords": [
+                        1.8452,
+                        50.9578
+                  ]
+            },
+            {
+                  "name": "Église Notre-Dame",
+                  "text": "Singura biserică din Franța construită în stil Tudor, ridicată în timpul ocupației engleze a orașului.",
+                  "category": "religious",
+                  "confidence": "high",
+                  "coords": [
+                        1.85306,
+                        50.9583
+                  ]
+            },
+            {
+                  "name": "Plage de Calais",
+                  "text": "Prezentând o întindere vastă de nisip, Plage de Calais oferă o retragere pe malul mării deschisă și aerisită de-a lungul Canalului Mânecii. Atmosfera de aici este profund maritimă, definită de o promenadă spațioasă care atrage deopotrivă plimbăreții și observatorii de nave. Vizitatorii se pot bucura de plimbări lungi pe țărm în timp ce observă feriboturile care traversează apele în depărtare. Aducerea unei jachete ușoare este înțeleaptă, deoarece vânturile de coastă pot fi revigorante chiar și în zilele însorite.",
+                  "category": "natural",
+                  "confidence": "high",
+                  "coords": [
+                        1.839266,
+                        50.965105
+                  ]
+            },
+            {
+                  "name": "Parc Richelieu",
+                  "text": "Un parc frumos situat în centrul orașului Calais, oferind un spațiu verde relaxant pentru vizitatori.",
+                  "category": "recreational",
+                  "confidence": "high",
+                  "coords": [
+                        1.851953,
+                        50.956078
+                  ]
+            },
+            {
+                  "name": "Tour du Guet",
+                  "text": "Un turn de veghe medieval din secolul al XIII-lea, fiind cea mai veche construcție din centrul orașului.",
+                  "category": "historical",
+                  "confidence": "high",
+                  "coords": [
+                        1.84972,
+                        50.9589
+                  ]
+            },
+            {
+                  "name": "Dragonul din Calais",
+                  "text": "O creatură mecanică gigantică din oțel și lemn care se plimbă pe faleza orașului, oferind o experiență turistică inedită.",
+                  "category": "recreational",
+                  "confidence": "high",
+                  "coords": [
+                        1.810173,
+                        50.935327
+                  ]
+            },
+            {
+                  "name": "Muzeul de Arte Frumoase",
+                  "text": "Găzduiește o colecție impresionantă de picturi și sculpturi, incluzând schițe și lucrări originale ale celebrului Auguste Rodin.",
+                  "category": "museum",
+                  "confidence": "high",
+                  "coords": [
+                        1.851673,
+                        50.956888
+                  ]
+            },
+            {
+                  "name": "Teatrul din Calais",
+                  "text": "O clădire magnifică în stil italian inaugurată în 1905, inima culturală a orașului pentru spectacole de operă și balet.",
+                  "category": "cultural",
+                  "confidence": "high",
+                  "coords": [
+                        1.853385,
+                        50.947012
+                  ]
+            },
+            {
+                  "name": "Monumentul Pluviôse",
+                  "text": "Un monument ridicat în memoria echipajului submarinului Pluviôse, care s-a scufundat în fața portului în 1910.",
+                  "category": "historical",
+                  "confidence": "high",
+                  "coords": [
+                        1.845417,
+                        50.963796
+                  ]
+            },
+            {
+                  "name": "Gara Calais-Ville",
+                  "text": "O gară istorică cu o arhitectură elegantă, servind drept punct principal de acces feroviar către centrul orașului.",
+                  "category": "station",
+                  "confidence": "high",
+                  "coords": [
+                        1.850556,
+                        50.953333
+                  ]
+            },
+            {
+                  "name": "Parcul Saint-Pierre",
+                  "text": "Un spațiu verde generos situat în fața primăriei, decorat cu grădini îngrijite și fântâni arteziene relaxante.",
+                  "category": "recreational",
+                  "confidence": "high",
+                  "coords": [
+                        1.850864,
+                        50.951744
+                  ]
+            },
+            {
+                  "name": "Coloana Ludovic al XVIII-lea",
+                  "text": "O coloană comemorativă situată în zona portuară, marcând revenirea regelui în Franța după exilul său din 1814.",
+                  "category": "historical",
+                  "confidence": "high",
+                  "coords": [
+                        1.85028,
+                        50.96095
+                  ]
+            },
+            {
+                  "name": "Aire de jeux Matisse",
+                  "text": "Un loc de joacă modern în Calais, oferind copiilor diverse posibilități de joacă.",
+                  "category": "family",
+                  "coords": [
+                        1.899159,
+                        50.94827
+                  ]
+            },
+            {
+                  "name": "Aire de jeux Morrelet",
+                  "text": "Un loc frumos în Calais pentru joaca copiilor și relaxarea familiilor.",
+                  "category": "family",
+                  "coords": [
+                        1.828959,
+                        50.94852
+                  ]
+            },
+            {
+                  "name": "Ferme urbaine",
+                  "text": "Ferma urbană din Calais permite familiilor să descopere animalele de fermă în mediul urban.",
+                  "category": "family",
+                  "coords": [
+                        1.852668,
+                        50.94913
+                  ]
+            },
+            {
+                  "name": "Cite Internationale de la Dentelle et de la Mode",
+                  "text": "Acest muzeu din Calais este dedicat istoriei producției de dantelă și a modei.",
+                  "category": "museum",
+                  "coords": [
+                        1.85981,
+                        50.95022
+                  ]
+            },
+            {
+                  "name": "Fort Nieulay",
+                  "text": "O fortificație istorică din Calais, care a servit odinioară la apărarea orașului.",
+                  "category": "fortress",
+                  "coords": [
+                        1.816668,
+                        50.94588
+                  ]
+            },
+            {
+                  "name": "Calais Beach",
+                  "text": "Plaja largă cu nisip din Calais este ideală pentru plimbări și relaxare pe coastă.",
+                  "category": "recreational",
+                  "coords": [
+                        1.836739,
+                        50.964605
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Beffroi de l'Hôtel de Ville",
+                  "text": "The magnificent Calais City Hall stands out with its Flemish style and its distinctive high belfry tower.",
+                  "category": "civic",
+                  "confidence": "high",
+                  "coords": [
+                        1.854309,
+                        50.952927
+                  ]
+            },
+            {
+                  "name": "Les Bourgeois de Calais",
+                  "text": "The famous bronze sculpture by Auguste Rodin commemorates the sacrifice of citizens during the Hundred Years' War.",
+                  "category": "historical",
+                  "confidence": "high",
+                  "coords": [
+                        1.853528,
+                        50.952278
+                  ]
+            },
+            {
+                  "name": "Phare de Calais",
+                  "text": "A historic lighthouse in the city center, standing 58 meters tall and offering views of the English Channel.",
+                  "category": "historical",
+                  "confidence": "high",
+                  "coords": [
+                        1.85368,
+                        50.96133
+                  ]
+            },
+            {
+                  "name": "Fort Risban",
+                  "text": "A historic fortress at the port's entrance that once protected the town from naval attacks over centuries.",
+                  "category": "fortress",
+                  "confidence": "high",
+                  "coords": [
+                        1.8475,
+                        50.9637
+                  ]
+            },
+            {
+                  "name": "Citadelle de Calais",
+                  "text": "A former military fortification system now serving as a public park and recreational sports ground.",
+                  "category": "fortress",
+                  "confidence": "high",
+                  "coords": [
+                        1.8452,
+                        50.9578
+                  ]
+            },
+            {
+                  "name": "Église Notre-Dame",
+                  "text": "The only Tudor-style church in France, built during the English occupation of the city in the 14th century.",
+                  "category": "religious",
+                  "confidence": "high",
+                  "coords": [
+                        1.85306,
+                        50.9583
+                  ]
+            },
+            {
+                  "name": "Plage de Calais",
+                  "text": "Showcasing a vast expanse of sand, Plage de Calais offers an open and breezy seaside retreat along the English Channel. The atmosphere here is deeply maritime, defined by a spacious promenade that attracts walkers and ship-watchers alike. Visitors can delight in long shoreline strolls while observing the ferries traversing the waters in the distance. Bringing a light jacket is wise, as the coastal winds can be invigorating even on sunny days.",
+                  "category": "natural",
+                  "confidence": "high",
+                  "coords": [
+                        1.839266,
+                        50.965105
+                  ]
+            },
+            {
+                  "name": "Parc Richelieu",
+                  "text": "A pleasant urban park in the heart of Calais, perfect for relaxation and a short nature walk.",
+                  "category": "recreational",
+                  "confidence": "high",
+                  "coords": [
+                        1.851953,
+                        50.956078
+                  ]
+            },
+            {
+                  "name": "Tour du Guet",
+                  "text": "A 13th-century medieval watchtower, the oldest standing building in the city center of Calais.",
+                  "category": "historical",
+                  "confidence": "high",
+                  "coords": [
+                        1.84972,
+                        50.9589
+                  ]
+            },
+            {
+                  "name": "The Dragon of Calais",
+                  "text": "A monumental mechanical creature made of steel and wood that carries passengers along the Calais seafront in a unique show.",
+                  "category": "recreational",
+                  "confidence": "high",
+                  "coords": [
+                        1.810173,
+                        50.935327
+                  ]
+            },
+            {
+                  "name": "Fine Arts Museum",
+                  "text": "The museum displays a rich collection of paintings and sculptures from the 16th to the 21st century, including works by Rodin.",
+                  "category": "museum",
+                  "confidence": "high",
+                  "coords": [
+                        1.851673,
+                        50.956888
+                  ]
+            },
+            {
+                  "name": "Calais Theater",
+                  "text": "A beautiful early 20th-century Italian-style theater building that serves as the main venue for performing arts in the city.",
+                  "category": "cultural",
+                  "confidence": "high",
+                  "coords": [
+                        1.853385,
+                        50.947012
+                  ]
+            },
+            {
+                  "name": "Pluviôse Monument",
+                  "text": "A historical memorial dedicated to the crew of the submarine Pluviôse, which sank off Calais in 1910 after a collision.",
+                  "category": "historical",
+                  "confidence": "high",
+                  "coords": [
+                        1.845417,
+                        50.963796
+                  ]
+            },
+            {
+                  "name": "Calais-Ville Station",
+                  "text": "The city's central railway station, noted for its classical architecture and its long history as a gateway to the Channel.",
+                  "category": "station",
+                  "confidence": "high",
+                  "coords": [
+                        1.850556,
+                        50.953333
+                  ]
+            },
+            {
+                  "name": "Saint-Pierre Park",
+                  "text": "A large public park located directly opposite the City Hall, offering beautiful flowerbeds and peaceful walking paths.",
+                  "category": "recreational",
+                  "confidence": "high",
+                  "coords": [
+                        1.850864,
+                        50.951744
+                  ]
+            },
+            {
+                  "name": "Louis XVIII Column",
+                  "text": "Located at the harbor, this monument commemorates the 1814 return of King Louis XVIII to France following his exile.",
+                  "category": "historical",
+                  "confidence": "high",
+                  "coords": [
+                        1.85028,
+                        50.96095
+                  ]
+            },
+            {
+                  "name": "Aire de jeux Matisse",
+                  "text": "A modern playground in Calais, offering children varied play opportunities.",
+                  "category": "family",
+                  "coords": [
+                        1.899159,
+                        50.94827
+                  ]
+            },
+            {
+                  "name": "Aire de jeux Morrelet",
+                  "text": "A lovely spot in Calais for children to play and families to relax.",
+                  "category": "family",
+                  "coords": [
+                        1.828959,
+                        50.94852
+                  ]
+            },
+            {
+                  "name": "Ferme urbaine",
+                  "text": "The urban farm in Calais allows families to discover farm animals within the city environment.",
+                  "category": "family",
+                  "coords": [
+                        1.852668,
+                        50.94913
+                  ]
+            },
+            {
+                  "name": "Cite Internationale de la Dentelle et de la Mode",
+                  "text": "This museum in Calais is dedicated to the history of lace-making and fashion.",
+                  "category": "museum",
+                  "coords": [
+                        1.85981,
+                        50.95022
+                  ]
+            },
+            {
+                  "name": "Fort Nieulay",
+                  "text": "A historical fortification in Calais that once served to defend the city.",
+                  "category": "fortress",
+                  "coords": [
+                        1.816668,
+                        50.94588
+                  ]
+            },
+            {
+                  "name": "Calais Beach",
+                  "text": "The wide sandy beach of Calais is ideal for walks and relaxing on the coast.",
+                  "category": "recreational",
+                  "coords": [
+                        1.836739,
+                        50.964605
+                  ]
+            }
+      ],
+      "fr": [
+            {
+                  "name": "Beffroi de l'hôtel de ville",
+                  "text": "Le somptueux hôtel de ville de Calais se distingue par son style flamand et son beffroi haut et caractéristique.",
+                  "category": "civic",
+                  "coords": [
+                        1.854309,
+                        50.952927
+                  ]
+            },
+            {
+                  "name": "Les Bourgeois de Calais",
+                  "text": "La célèbre sculpture en bronze d'Auguste Rodin commémore le sacrifice des bourgeois de la ville durant la guerre.",
+                  "category": "historical",
+                  "coords": [
+                        1.853528,
+                        50.952278
+                  ]
+            },
+            {
+                  "name": "Phare de Calais",
+                  "text": "Un phare historique du centre-ville, haut de 58 mètres, offrant une vue sur le pas de Calais.",
+                  "category": "historical",
+                  "coords": [
+                        1.85368,
+                        50.96133
+                  ]
+            },
+            {
+                  "name": "Fort Risban",
+                  "text": "Une forteresse historique à l'entrée du port qui protégeait autrefois la ville des attaques venant de la mer.",
+                  "category": "fortress",
+                  "coords": [
+                        1.8475,
+                        50.9637
+                  ]
+            },
+            {
+                  "name": "Citadelle de Calais",
+                  "text": "Une ancienne fortification reconvertie en parc et espace de loisirs avec des installations sportives.",
+                  "category": "fortress",
+                  "coords": [
+                        1.8452,
+                        50.9578
+                  ]
+            },
+            {
+                  "name": "Église Notre-Dame",
+                  "text": "La seule église de France de style Tudor, construite durant l'occupation anglaise de la ville.",
+                  "category": "religious",
+                  "coords": [
+                        1.85306,
+                        50.9583
+                  ]
+            },
+            {
+                  "name": "Plage de Calais",
+                  "text": "Déployant une vaste étendue de sable, la Plage de Calais offre une retraite balnéaire ouverte et aérée le long de la Manche. L'atmosphère y est profondément maritime, définie par une promenade spacieuse qui attire autant les marcheurs que les observateurs de navires. Les visiteurs peuvent se délecter de longues promenades sur le rivage tout en observant les ferries traversant les eaux au loin. Il est prudent d'apporter une veste légère, car les vents côtiers peuvent être revigorants, même par temps ensoleillé.",
+                  "category": "natural",
+                  "coords": [
+                        1.839266,
+                        50.965105
+                  ]
+            },
+            {
+                  "name": "Parc Richelieu",
+                  "text": "Un charmant parc urbain au cœur de Calais, idéal pour se détendre et faire de courtes promenades.",
+                  "category": "recreational",
+                  "coords": [
+                        1.851953,
+                        50.956078
+                  ]
+            },
+            {
+                  "name": "Tour du Guet",
+                  "text": "Une tour de guet médiévale du XIIIe siècle, le plus vieux bâtiment du centre-ville de Calais.",
+                  "category": "historical",
+                  "coords": [
+                        1.84972,
+                        50.9589
+                  ]
+            }
+      ]
+}
   },
   {
     id: "reims", population: 187206,
@@ -13650,6 +15993,15 @@ export const franceCities: POI[] = [
                         4.02185,
                         49.240276
                   ]
+            },
+            {
+                  "name": "Chateau des Crayeres",
+                  "text": "Ein prächtiges ehemaliges Wohnhaus in Reims, das heute als luxuriöses Hotel und Restaurant dient.",
+                  "category": "castle",
+                  "coords": [
+                        4.051722,
+                        49.241157
+                  ]
             }
       ],
       "hu": [
@@ -13903,6 +16255,15 @@ export const franceCities: POI[] = [
                   "coords": [
                         4.02185,
                         49.240276
+                  ]
+            },
+            {
+                  "name": "Chateau des Crayeres",
+                  "text": "Pompás egykori rezidencia Reims-ben, amely ma luxusszállodaként és étteremként működik.",
+                  "category": "castle",
+                  "coords": [
+                        4.051722,
+                        49.241157
                   ]
             }
       ],
@@ -14158,6 +16519,15 @@ export const franceCities: POI[] = [
                         4.02185,
                         49.240276
                   ]
+            },
+            {
+                  "name": "Chateau des Crayeres",
+                  "text": "O fostă reședință magnifică din Reims, care servește astăzi drept hotel și restaurant de lux.",
+                  "category": "castle",
+                  "coords": [
+                        4.051722,
+                        49.241157
+                  ]
             }
       ],
       "en": [
@@ -14411,6 +16781,15 @@ export const franceCities: POI[] = [
                   "coords": [
                         4.02185,
                         49.240276
+                  ]
+            },
+            {
+                  "name": "Chateau des Crayeres",
+                  "text": "A magnificent former residence in Reims, now serving as a luxury hotel and restaurant.",
+                  "category": "castle",
+                  "coords": [
+                        4.051722,
+                        49.241157
                   ]
             }
       ],
@@ -14686,7 +17065,268 @@ export const franceCities: POI[] = [
   },
   
   {
-    id: "fr-gorges-verdon",
+    id: "fr-gorges-verdon", "sights": {
+      "de": [
+            {
+                  "name": "Château de La Palud-sur-Verdon",
+                  "text": "Ein Schloss aus dem 17. Jahrhundert in der Verdonschlucht, in dem sich heute das Naturpark-Museum befindet.",
+                  "category": "castle",
+                  "coords": [
+                        6.341186,
+                        43.77967
+                  ]
+            },
+            {
+                  "name": "Belvédère de la Gorge de Guègues",
+                  "text": "Ein spektakulärer Aussichtspunkt, der weite Blicke über die dramatischen Kalksteinfelsen der Verdonschlucht bietet.",
+                  "category": "natural",
+                  "coords": [
+                        6.363729,
+                        43.750267
+                  ]
+            },
+            {
+                  "name": "Balcon de la Mescla",
+                  "text": "Ein berühmter Aussichtspunkt mit Blick auf den Zusammenfluss des Verdon und des Artuby.",
+                  "category": "natural",
+                  "coords": [
+                        6.381139,
+                        43.7393
+                  ]
+            },
+            {
+                  "name": "La Mescla",
+                  "text": "Ein natürlicher Aussichtspunkt an der Stelle, an der sich zwei Flüsse tief in der Schlucht treffen.",
+                  "category": "natural",
+                  "coords": [
+                        6.378988,
+                        43.740084
+                  ]
+            },
+            {
+                  "name": "Belvédère d'Eycharme",
+                  "text": "Ein Aussichtspunkt an der Route des Crêtes mit beeindruckendem Blick auf den Verdon-Fluss.",
+                  "category": "natural",
+                  "coords": [
+                        6.354192,
+                        43.749003
+                  ]
+            },
+            {
+                  "name": "Belvédère de Guègues",
+                  "text": "Ein weiterer markanter Halt entlang der Schlucht, der für seine senkrechten Felswände bekannt ist.",
+                  "category": "natural",
+                  "coords": [
+                        6.357821,
+                        43.743657
+                  ]
+            },
+            {
+                  "name": "Belvédere de Rancoumas",
+                  "text": "Ein Panoramapunkt, der einen weiten Blick über die Schluchten und die provenzalische Landschaft bietet.",
+                  "category": "natural",
+                  "coords": [
+                        6.393456,
+                        43.77532
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Château de La Palud-sur-Verdon",
+                  "text": "17. századi kastély a Verdon-szurdokban, amely ma a természeti park múzeumának ad otthont.",
+                  "category": "castle",
+                  "coords": [
+                        6.341186,
+                        43.77967
+                  ]
+            },
+            {
+                  "name": "Belvédère de la Gorge de Guègues",
+                  "text": "Látványos kilátópont, ahonnan pazar kilátás nyílik a Verdon-szurdok drámai mészkőszikláira.",
+                  "category": "natural",
+                  "coords": [
+                        6.363729,
+                        43.750267
+                  ]
+            },
+            {
+                  "name": "Balcon de la Mescla",
+                  "text": "Híres kilátópont, ahonnan rálátni a Verdon és az Artuby folyók összefolyására.",
+                  "category": "natural",
+                  "coords": [
+                        6.381139,
+                        43.7393
+                  ]
+            },
+            {
+                  "name": "La Mescla",
+                  "text": "Természetes kilátópont azon a helyen, ahol két folyó találkozik mélyen a szurdokvölgyben.",
+                  "category": "natural",
+                  "coords": [
+                        6.378988,
+                        43.740084
+                  ]
+            },
+            {
+                  "name": "Belvédère d'Eycharme",
+                  "text": "Kilátópont a Route des Crêtes mentén, lenyűgöző rálátással a Verdon-folyóra.",
+                  "category": "natural",
+                  "coords": [
+                        6.354192,
+                        43.749003
+                  ]
+            },
+            {
+                  "name": "Belvédère de Guègues",
+                  "text": "Újabb jellegzetes megálló a szurdok mentén, amely függőleges sziklafalairól ismert.",
+                  "category": "natural",
+                  "coords": [
+                        6.357821,
+                        43.743657
+                  ]
+            },
+            {
+                  "name": "Belvédere de Rancoumas",
+                  "text": "Panorámás helyszín, ahonnan tágas kilátás nyílik a szurdokvölgyre és a provence-i tájra.",
+                  "category": "natural",
+                  "coords": [
+                        6.393456,
+                        43.77532
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Château de La Palud-sur-Verdon",
+                  "text": "Un castel din secolul al XVII-lea în Gorges du Verdon, care găzduiește astăzi muzeul parcului natural.",
+                  "category": "castle",
+                  "coords": [
+                        6.341186,
+                        43.77967
+                  ]
+            },
+            {
+                  "name": "Belvédère de la Gorge de Guègues",
+                  "text": "Un punct de observație spectaculos care oferă vederi largi asupra stâncilor calcaroase din Gorges du Verdon.",
+                  "category": "natural",
+                  "coords": [
+                        6.363729,
+                        43.750267
+                  ]
+            },
+            {
+                  "name": "Balcon de la Mescla",
+                  "text": "Un punct de observație faimos cu vedere spre confluența râurilor Verdon și Artuby.",
+                  "category": "natural",
+                  "coords": [
+                        6.381139,
+                        43.7393
+                  ]
+            },
+            {
+                  "name": "La Mescla",
+                  "text": "Un punct de observație natural în locul unde două râuri se întâlnesc în adâncul defileului.",
+                  "category": "natural",
+                  "coords": [
+                        6.378988,
+                        43.740084
+                  ]
+            },
+            {
+                  "name": "Belvédère d'Eycharme",
+                  "text": "Un punct de observație pe Route des Crêtes, cu o vedere impresionantă asupra râului Verdon.",
+                  "category": "natural",
+                  "coords": [
+                        6.354192,
+                        43.749003
+                  ]
+            },
+            {
+                  "name": "Belvédère de Guègues",
+                  "text": "O altă oprire marcantă de-a lungul defileului, cunoscută pentru pereții săi stâncoși verticali.",
+                  "category": "natural",
+                  "coords": [
+                        6.357821,
+                        43.743657
+                  ]
+            },
+            {
+                  "name": "Belvédere de Rancoumas",
+                  "text": "Un punct panoramic care oferă o vedere largă asupra defileului și a peisajului provensal.",
+                  "category": "natural",
+                  "coords": [
+                        6.393456,
+                        43.77532
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Château de La Palud-sur-Verdon",
+                  "text": "A 17th-century castle in the Verdon Gorge, now housing the regional natural park museum.",
+                  "category": "castle",
+                  "coords": [
+                        6.341186,
+                        43.77967
+                  ]
+            },
+            {
+                  "name": "Belvédère de la Gorge de Guègues",
+                  "text": "A spectacular viewpoint offering expansive views over the dramatic limestone cliffs of the Verdon Gorge.",
+                  "category": "natural",
+                  "coords": [
+                        6.363729,
+                        43.750267
+                  ]
+            },
+            {
+                  "name": "Balcon de la Mescla",
+                  "text": "A famous viewpoint overlooking the confluence of the Verdon and Artuby rivers.",
+                  "category": "natural",
+                  "coords": [
+                        6.381139,
+                        43.7393
+                  ]
+            },
+            {
+                  "name": "La Mescla",
+                  "text": "A natural viewpoint located at the spot where two rivers meet deep within the gorge.",
+                  "category": "natural",
+                  "coords": [
+                        6.378988,
+                        43.740084
+                  ]
+            },
+            {
+                  "name": "Belvédère d'Eycharme",
+                  "text": "A viewpoint along the Route des Crêtes offering an impressive view of the Verdon river.",
+                  "category": "natural",
+                  "coords": [
+                        6.354192,
+                        43.749003
+                  ]
+            },
+            {
+                  "name": "Belvédère de Guègues",
+                  "text": "Another striking stop along the gorge known for its sheer vertical rock faces.",
+                  "category": "natural",
+                  "coords": [
+                        6.357821,
+                        43.743657
+                  ]
+            },
+            {
+                  "name": "Belvédere de Rancoumas",
+                  "text": "A panoramic spot offering a wide view over the canyons and the Provençal landscape.",
+                  "category": "natural",
+                  "coords": [
+                        6.393456,
+                        43.77532
+                  ]
+            }
+      ]
+},
     type: "landmark",
     parent: "FR-PAC",
     coords: [6.3556, 43.7544],
@@ -14818,7 +17458,160 @@ export const franceCities: POI[] = [
     },
   },
   {
-    id: "fr-corsica-gr20",
+    id: "fr-corsica-gr20", "sights": {
+      "de": [
+            {
+                  "name": "Punta Tirulellu",
+                  "text": "Ein Gipfel auf Korsika, der für Wanderer auf dem GR20-Pfad ein markanter Orientierungspunkt ist.",
+                  "category": "landmark",
+                  "coords": [
+                        8.985076,
+                        42.011444
+                  ]
+            },
+            {
+                  "name": "Arte Gallaria",
+                  "text": "Eine Kunstgalerie in der Bergregion Korsikas, die lokale Kreativität präsentiert.",
+                  "category": "museum",
+                  "coords": [
+                        9.046364,
+                        42.000425
+                  ]
+            },
+            {
+                  "name": "Ruine de la bergerie de Toma",
+                  "text": "Überreste eines alten Schafstalls am GR20-Wanderweg auf Korsika.",
+                  "category": "historical",
+                  "coords": [
+                        8.993709,
+                        41.999721
+                  ]
+            },
+            {
+                  "name": "Église Saint-Léonard",
+                  "text": "Ein kleines religiöses Gebäude am Fernwanderweg GR20 auf Korsika.",
+                  "category": "religious",
+                  "coords": [
+                        8.973498,
+                        41.975484
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Punta Tirulellu",
+                  "text": "Egy hegycsúcs Korzikán, amely jellegzetes tájékozódási pont a GR20 útvonal túrázói számára.",
+                  "category": "landmark",
+                  "coords": [
+                        8.985076,
+                        42.011444
+                  ]
+            },
+            {
+                  "name": "Arte Gallaria",
+                  "text": "Egy művészeti galéria Korzika hegyvidéki régiójában, amely a helyi kreativitást mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        9.046364,
+                        42.000425
+                  ]
+            },
+            {
+                  "name": "Ruine de la bergerie de Toma",
+                  "text": "Egy régi juhhodály romjai a korzikai GR20 túraútvonal mentén.",
+                  "category": "historical",
+                  "coords": [
+                        8.993709,
+                        41.999721
+                  ]
+            },
+            {
+                  "name": "Église Saint-Léonard",
+                  "text": "Kisméretű vallási épület a korzikai GR20 távolsági túraútvonalon.",
+                  "category": "religious",
+                  "coords": [
+                        8.973498,
+                        41.975484
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Punta Tirulellu",
+                  "text": "Un vârf din Corsica, reprezentând un punct de reper important pentru drumeții de pe traseul GR20.",
+                  "category": "landmark",
+                  "coords": [
+                        8.985076,
+                        42.011444
+                  ]
+            },
+            {
+                  "name": "Arte Gallaria",
+                  "text": "O galerie de artă în regiunea montană a Corsicăi, care prezintă creativitatea locală.",
+                  "category": "museum",
+                  "coords": [
+                        9.046364,
+                        42.000425
+                  ]
+            },
+            {
+                  "name": "Ruine de la bergerie de Toma",
+                  "text": "Ruinele unei vechi stâne de oi de pe traseul GR20 din Corsica.",
+                  "category": "historical",
+                  "coords": [
+                        8.993709,
+                        41.999721
+                  ]
+            },
+            {
+                  "name": "Église Saint-Léonard",
+                  "text": "O mică edificiu religios situat pe traseul de lungă distanță GR20 din Corsica.",
+                  "category": "religious",
+                  "coords": [
+                        8.973498,
+                        41.975484
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Punta Tirulellu",
+                  "text": "A peak in Corsica that serves as a notable landmark for hikers on the GR20 trail.",
+                  "category": "landmark",
+                  "coords": [
+                        8.985076,
+                        42.011444
+                  ]
+            },
+            {
+                  "name": "Arte Gallaria",
+                  "text": "An art gallery in the mountainous region of Corsica showcasing local creativity.",
+                  "category": "museum",
+                  "coords": [
+                        9.046364,
+                        42.000425
+                  ]
+            },
+            {
+                  "name": "Ruine de la bergerie de Toma",
+                  "text": "Remains of an old sheepfold located along the GR20 trail in Corsica.",
+                  "category": "historical",
+                  "coords": [
+                        8.993709,
+                        41.999721
+                  ]
+            },
+            {
+                  "name": "Église Saint-Léonard",
+                  "text": "A small religious building located along the GR20 long-distance trail in Corsica.",
+                  "category": "religious",
+                  "coords": [
+                        8.973498,
+                        41.975484
+                  ]
+            }
+      ]
+},
     type: "mountain",
     parent: "FR-COR",
     coords: [9.0000, 42.0000],
@@ -14906,7 +17699,304 @@ export const franceCities: POI[] = [
     },
   },
   {
-    id: "fr-vanoise",
+    id: "fr-vanoise", "sights": {
+      "de": [
+            {
+                  "name": "Pointe de la Grande Glière",
+                  "text": "Ein imposanter Gipfel im Vanoise-Massiv in den französischen Alpen.",
+                  "category": "landmark",
+                  "coords": [
+                        6.791793,
+                        45.412729
+                  ]
+            },
+            {
+                  "name": "Ponte des Volnets",
+                  "text": "Ein Berggipfel im Nationalpark Vanoise.",
+                  "category": "landmark",
+                  "coords": [
+                        6.776654,
+                        45.416176
+                  ]
+            },
+            {
+                  "name": "Mont Chevrier",
+                  "text": "Ein Gipfel in der unberührten Natur des Vanoise-Parks.",
+                  "category": "landmark",
+                  "coords": [
+                        6.723316,
+                        45.402975
+                  ]
+            },
+            {
+                  "name": "Pointe du Creux Noir",
+                  "text": "Ein Berggipfel, der Wanderer im Nationalpark Vanoise anzieht.",
+                  "category": "landmark",
+                  "coords": [
+                        6.756998,
+                        45.4063
+                  ]
+            },
+            {
+                  "name": "Le Grand Marchet",
+                  "text": "Ein felsiger Gipfel in der Hochgebirgslandschaft der Vanoise.",
+                  "category": "landmark",
+                  "coords": [
+                        6.750968,
+                        45.372794
+                  ]
+            },
+            {
+                  "name": "Aiguille de la Vanoise",
+                  "text": "Eine markante Felsnadel und ein bekanntes Wahrzeichen des Vanoise-Massivs.",
+                  "category": "landmark",
+                  "coords": [
+                        6.780271,
+                        45.395099
+                  ]
+            },
+            {
+                  "name": "Pointe du Dard",
+                  "text": "Ein Gipfel in den französischen Alpen im Nationalpark Vanoise.",
+                  "category": "landmark",
+                  "coords": [
+                        6.765809,
+                        45.364085
+                  ]
+            },
+            {
+                  "name": "Le Grand Bec",
+                  "text": "Ein prominenter Berg im Gebiet des Vanoise-Nationalparks.",
+                  "category": "landmark",
+                  "coords": [
+                        6.752721,
+                        45.42339
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Pointe de la Grande Glière",
+                  "text": "Impozáns csúcs a francia Alpok Vanoise-masszívumában.",
+                  "category": "landmark",
+                  "coords": [
+                        6.791793,
+                        45.412729
+                  ]
+            },
+            {
+                  "name": "Ponte des Volnets",
+                  "text": "Hegycsúcs a Vanoise Nemzeti Parkban.",
+                  "category": "landmark",
+                  "coords": [
+                        6.776654,
+                        45.416176
+                  ]
+            },
+            {
+                  "name": "Mont Chevrier",
+                  "text": "Csúcs a Vanoise Park érintetlen természetében.",
+                  "category": "landmark",
+                  "coords": [
+                        6.723316,
+                        45.402975
+                  ]
+            },
+            {
+                  "name": "Pointe du Creux Noir",
+                  "text": "A Vanoise Nemzeti Park túrázóit vonzó hegycsúcs.",
+                  "category": "landmark",
+                  "coords": [
+                        6.756998,
+                        45.4063
+                  ]
+            },
+            {
+                  "name": "Le Grand Marchet",
+                  "text": "Sziklás csúcs a Vanoise magashegyi táján.",
+                  "category": "landmark",
+                  "coords": [
+                        6.750968,
+                        45.372794
+                  ]
+            },
+            {
+                  "name": "Aiguille de la Vanoise",
+                  "text": "Jellegzetes sziklatű és a Vanoise-masszívum ismert jelképe.",
+                  "category": "landmark",
+                  "coords": [
+                        6.780271,
+                        45.395099
+                  ]
+            },
+            {
+                  "name": "Pointe du Dard",
+                  "text": "Csúcs a francia Alpokban, a Vanoise Nemzeti Parkban.",
+                  "category": "landmark",
+                  "coords": [
+                        6.765809,
+                        45.364085
+                  ]
+            },
+            {
+                  "name": "Le Grand Bec",
+                  "text": "Kiemelkedő hegy a Vanoise Nemzeti Park területén.",
+                  "category": "landmark",
+                  "coords": [
+                        6.752721,
+                        45.42339
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Pointe de la Grande Glière",
+                  "text": "Un vârf impunător în masivul Vanoise din Alpii francezi.",
+                  "category": "landmark",
+                  "coords": [
+                        6.791793,
+                        45.412729
+                  ]
+            },
+            {
+                  "name": "Ponte des Volnets",
+                  "text": "Un vârf muntos în Parcul Național Vanoise.",
+                  "category": "landmark",
+                  "coords": [
+                        6.776654,
+                        45.416176
+                  ]
+            },
+            {
+                  "name": "Mont Chevrier",
+                  "text": "Un vârf în natura neatinsă a Parcului Vanoise.",
+                  "category": "landmark",
+                  "coords": [
+                        6.723316,
+                        45.402975
+                  ]
+            },
+            {
+                  "name": "Pointe du Creux Noir",
+                  "text": "Un vârf muntos care atrage drumeții în Parcul Național Vanoise.",
+                  "category": "landmark",
+                  "coords": [
+                        6.756998,
+                        45.4063
+                  ]
+            },
+            {
+                  "name": "Le Grand Marchet",
+                  "text": "Un vârf stâncos în peisajul alpin al masivului Vanoise.",
+                  "category": "landmark",
+                  "coords": [
+                        6.750968,
+                        45.372794
+                  ]
+            },
+            {
+                  "name": "Aiguille de la Vanoise",
+                  "text": "O acul stâncos distinctiv și un simbol cunoscut al masivului Vanoise.",
+                  "category": "landmark",
+                  "coords": [
+                        6.780271,
+                        45.395099
+                  ]
+            },
+            {
+                  "name": "Pointe du Dard",
+                  "text": "Un vârf din Alpii francezi în Parcul Național Vanoise.",
+                  "category": "landmark",
+                  "coords": [
+                        6.765809,
+                        45.364085
+                  ]
+            },
+            {
+                  "name": "Le Grand Bec",
+                  "text": "Un munte proeminent în zona Parcului Național Vanoise.",
+                  "category": "landmark",
+                  "coords": [
+                        6.752721,
+                        45.42339
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Pointe de la Grande Glière",
+                  "text": "An imposing peak in the Vanoise Massif of the French Alps.",
+                  "category": "landmark",
+                  "coords": [
+                        6.791793,
+                        45.412729
+                  ]
+            },
+            {
+                  "name": "Ponte des Volnets",
+                  "text": "A mountain peak in the Vanoise National Park.",
+                  "category": "landmark",
+                  "coords": [
+                        6.776654,
+                        45.416176
+                  ]
+            },
+            {
+                  "name": "Mont Chevrier",
+                  "text": "A peak in the untouched nature of the Vanoise Park.",
+                  "category": "landmark",
+                  "coords": [
+                        6.723316,
+                        45.402975
+                  ]
+            },
+            {
+                  "name": "Pointe du Creux Noir",
+                  "text": "A mountain peak that attracts hikers in the Vanoise National Park.",
+                  "category": "landmark",
+                  "coords": [
+                        6.756998,
+                        45.4063
+                  ]
+            },
+            {
+                  "name": "Le Grand Marchet",
+                  "text": "A rocky peak in the high mountain landscape of the Vanoise.",
+                  "category": "landmark",
+                  "coords": [
+                        6.750968,
+                        45.372794
+                  ]
+            },
+            {
+                  "name": "Aiguille de la Vanoise",
+                  "text": "A distinctive rocky needle and a well-known landmark of the Vanoise Massif.",
+                  "category": "landmark",
+                  "coords": [
+                        6.780271,
+                        45.395099
+                  ]
+            },
+            {
+                  "name": "Pointe du Dard",
+                  "text": "A peak in the French Alps within the Vanoise National Park.",
+                  "category": "landmark",
+                  "coords": [
+                        6.765809,
+                        45.364085
+                  ]
+            },
+            {
+                  "name": "Le Grand Bec",
+                  "text": "A prominent mountain in the area of the Vanoise National Park.",
+                  "category": "landmark",
+                  "coords": [
+                        6.752721,
+                        45.42339
+                  ]
+            }
+      ]
+},
     type: "mountain",
     parent: "FR-ARA",
     coords: [6.7667, 45.4000],
@@ -14950,7 +18040,196 @@ export const franceCities: POI[] = [
     },
   },
   {
-    id: "fr-lascaux",
+    id: "fr-lascaux", "sights": {
+      "de": [
+            {
+                  "name": "Höhle von Lascaux",
+                  "text": "Berühmte Höhle mit paläolithischen Wandmalereien.",
+                  "category": "historical",
+                  "coords": [
+                        1.170959,
+                        45.053766
+                  ]
+            },
+            {
+                  "name": "Le Régourdou",
+                  "text": "Bedeutende neandertalerische Ausgrabungsstätte nahe Lascaux.",
+                  "category": "historical",
+                  "coords": [
+                        1.178805,
+                        45.054972
+                  ]
+            },
+            {
+                  "name": "Château de la Grande Filolie",
+                  "text": "Ein Schloss in der Nähe der Lascaux-Höhlen im Périgord.",
+                  "category": "castle",
+                  "coords": [
+                        1.210657,
+                        45.044501
+                  ]
+            },
+            {
+                  "name": "Lascaux IV",
+                  "text": "Modernes Besucherzentrum und Nachbildung der Lascaux-Höhle.",
+                  "category": "museum",
+                  "coords": [
+                        1.169523,
+                        45.05789
+                  ]
+            },
+            {
+                  "name": "Lascaux II",
+                  "text": "Die erste Teil-Nachbildung der Lascaux-Höhle für Besucher.",
+                  "category": "landmark",
+                  "coords": [
+                        1.167186,
+                        45.053702
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Grotte de Lascaux",
+                  "text": "Híres barlang őskori sziklarajzokkal.",
+                  "category": "historical",
+                  "coords": [
+                        1.170959,
+                        45.053766
+                  ]
+            },
+            {
+                  "name": "Le Régourdou",
+                  "text": "Fontos neandervölgyi lelőhely Lascaux közelében.",
+                  "category": "historical",
+                  "coords": [
+                        1.178805,
+                        45.054972
+                  ]
+            },
+            {
+                  "name": "Château de la Grande Filolie",
+                  "text": "Kastély a Lascaux-barlangok közelében, Périgord vidékén.",
+                  "category": "castle",
+                  "coords": [
+                        1.210657,
+                        45.044501
+                  ]
+            },
+            {
+                  "name": "Lascaux IV",
+                  "text": "Modern látogatóközpont és a Lascaux-barlang élethű másolata.",
+                  "category": "museum",
+                  "coords": [
+                        1.169523,
+                        45.05789
+                  ]
+            },
+            {
+                  "name": "Lascaux II",
+                  "text": "A Lascaux-barlang első részleges másolata a látogatók számára.",
+                  "category": "landmark",
+                  "coords": [
+                        1.167186,
+                        45.053702
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Grotte de Lascaux",
+                  "text": "Slavă peșteră faimoasă pentru picturile sale rupestre paleolitice.",
+                  "category": "historical",
+                  "coords": [
+                        1.170959,
+                        45.053766
+                  ]
+            },
+            {
+                  "name": "Le Régourdou",
+                  "text": "Important sit arheologic neanderthalian lângă Lascaux.",
+                  "category": "historical",
+                  "coords": [
+                        1.178805,
+                        45.054972
+                  ]
+            },
+            {
+                  "name": "Château de la Grande Filolie",
+                  "text": "Un castel situat în apropierea peșterilor Lascaux din Périgord.",
+                  "category": "castle",
+                  "coords": [
+                        1.210657,
+                        45.044501
+                  ]
+            },
+            {
+                  "name": "Lascaux IV",
+                  "text": "Centru modern pentru vizitatori și replică a peșterii Lascaux.",
+                  "category": "museum",
+                  "coords": [
+                        1.169523,
+                        45.05789
+                  ]
+            },
+            {
+                  "name": "Lascaux II",
+                  "text": "Prima replică parțială a peșterii Lascaux deschisă publicului.",
+                  "category": "landmark",
+                  "coords": [
+                        1.167186,
+                        45.053702
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Lascaux Cave",
+                  "text": "Famous cave known for its Paleolithic cave paintings.",
+                  "category": "historical",
+                  "coords": [
+                        1.170959,
+                        45.053766
+                  ]
+            },
+            {
+                  "name": "Le Régourdou",
+                  "text": "Important Neanderthal archaeological site near Lascaux.",
+                  "category": "historical",
+                  "coords": [
+                        1.178805,
+                        45.054972
+                  ]
+            },
+            {
+                  "name": "Château de la Grande Filolie",
+                  "text": "A castle located near the Lascaux caves in the Périgord region.",
+                  "category": "castle",
+                  "coords": [
+                        1.210657,
+                        45.044501
+                  ]
+            },
+            {
+                  "name": "Lascaux IV",
+                  "text": "Modern visitor centre and complete replica of the Lascaux cave.",
+                  "category": "museum",
+                  "coords": [
+                        1.169523,
+                        45.05789
+                  ]
+            },
+            {
+                  "name": "Lascaux II",
+                  "text": "The first partial replica of the Lascaux cave created for visitors.",
+                  "category": "landmark",
+                  "coords": [
+                        1.167186,
+                        45.053702
+                  ]
+            }
+      ]
+},
     type: "historical",
     parent: "FR-NAQ",
     coords: [1.1761, 45.0542],

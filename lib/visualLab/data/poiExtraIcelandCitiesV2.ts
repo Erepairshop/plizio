@@ -3809,6 +3809,78 @@ imageHint: "Kopavogur city view with modern church",
                         -21.929288,
                         64.088177
                   ]
+            },
+            {
+                  "name": "Hönnunarsafn Íslands",
+                  "text": "Ein Museum, das sich auf isländisches Design und angewandte Kunst vom 20. Jahrhundert bis zur Gegenwart konzentriert.",
+                  "category": "museum",
+                  "coords": [
+                        -21.920556,
+                        64.08905
+                  ]
+            },
+            {
+                  "name": "Byggðasafn Hafnarfjarðar",
+                  "text": "Das örtliche Heimatmuseum von Hafnarfjörður, das die Geschichte und Kultur der Stadt zeigt.",
+                  "category": "museum",
+                  "coords": [
+                        -21.959471,
+                        64.070136
+                  ]
+            },
+            {
+                  "name": "Hofsstaðir",
+                  "text": "Eine archäologische Stätte mit den Überresten eines historischen Gehöfts aus der Wikingerzeit.",
+                  "category": "historical",
+                  "coords": [
+                        -21.914971,
+                        64.087878
+                  ]
+            },
+            {
+                  "name": "Setbergsrústin",
+                  "text": "Die Ruinen einer alten Siedlung, die Einblicke in die lokale Geschichte bieten.",
+                  "category": "historical",
+                  "coords": [
+                        -21.928581,
+                        64.067187
+                  ]
+            },
+            {
+                  "name": "Kvikmyndasafn Íslands",
+                  "text": "Das Nationale Filmarchiv Islands, das sich der Bewahrung des filmischen Erbes des Landes widmet.",
+                  "category": "museum",
+                  "coords": [
+                        -21.969918,
+                        64.062142
+                  ]
+            },
+            {
+                  "name": "Ástjörn og Ásfjall",
+                  "text": "Ein Naturschutzgebiet mit einem See und einem Berg, beliebt zum Wandern und zur Vogelbeobachtung.",
+                  "category": "natural",
+                  "coords": [
+                        -21.950136,
+                        64.050854
+                  ]
+            },
+            {
+                  "name": "Stekkjarhraun",
+                  "text": "Ein geschütztes Lavafeld mit einzigartigen geologischen Formationen und Flora.",
+                  "category": "natural",
+                  "coords": [
+                        -21.930628,
+                        64.061879
+                  ]
+            },
+            {
+                  "name": "Garðahraun - neðra",
+                  "text": "Ein Naturschutzgebiet mit einer markanten Lavalandschaft und lokaler Vegetation.",
+                  "category": "natural",
+                  "coords": [
+                        -21.956848,
+                        64.088667
+                  ]
             }
       ],
       "hu": [
@@ -3828,6 +3900,78 @@ imageHint: "Kopavogur city view with modern church",
                   "coords": [
                         -21.929288,
                         64.088177
+                  ]
+            },
+            {
+                  "name": "Hönnunarsafn Íslands",
+                  "text": "Izlandi designt és alkalmazott művészetet bemutató múzeum a 20. századtól napjainkig.",
+                  "category": "museum",
+                  "coords": [
+                        -21.920556,
+                        64.08905
+                  ]
+            },
+            {
+                  "name": "Byggðasafn Hafnarfjarðar",
+                  "text": "Hafnarfjörður helytörténeti múzeuma, amely a város történelmét és kultúráját mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        -21.959471,
+                        64.070136
+                  ]
+            },
+            {
+                  "name": "Hofsstaðir",
+                  "text": "Régészeti lelőhely egy történelmi viking kori gazdaság maradványaival.",
+                  "category": "historical",
+                  "coords": [
+                        -21.914971,
+                        64.087878
+                  ]
+            },
+            {
+                  "name": "Setbergsrústin",
+                  "text": "Egy ősi település romjai, amelyek betekintést nyújtanak a helyi történelembe.",
+                  "category": "historical",
+                  "coords": [
+                        -21.928581,
+                        64.067187
+                  ]
+            },
+            {
+                  "name": "Kvikmyndasafn Íslands",
+                  "text": "Izland Nemzeti Filmarchívuma, amely az ország filmművészeti örökségének megőrzésével foglalkozik.",
+                  "category": "museum",
+                  "coords": [
+                        -21.969918,
+                        64.062142
+                  ]
+            },
+            {
+                  "name": "Ástjörn og Ásfjall",
+                  "text": "Természetvédelmi terület tóval és heggyel, amely népszerű túrázáshoz és madármegfigyeléshez.",
+                  "category": "natural",
+                  "coords": [
+                        -21.950136,
+                        64.050854
+                  ]
+            },
+            {
+                  "name": "Stekkjarhraun",
+                  "text": "Védett lávamező terület, amely egyedülálló geológiai képződményeket és flórát mutat be.",
+                  "category": "natural",
+                  "coords": [
+                        -21.930628,
+                        64.061879
+                  ]
+            },
+            {
+                  "name": "Garðahraun - neðra",
+                  "text": "Természetvédelmi terület jellegzetes lávavidékkel és helyi vegetációval.",
+                  "category": "natural",
+                  "coords": [
+                        -21.956848,
+                        64.088667
                   ]
             }
       ],
@@ -3849,6 +3993,78 @@ imageHint: "Kopavogur city view with modern church",
                         -21.929288,
                         64.088177
                   ]
+            },
+            {
+                  "name": "Hönnunarsafn Íslands",
+                  "text": "Un muzeu axat pe designul și artele aplicate islandeze din secolul al XX-lea până în prezent.",
+                  "category": "museum",
+                  "coords": [
+                        -21.920556,
+                        64.08905
+                  ]
+            },
+            {
+                  "name": "Byggðasafn Hafnarfjarðar",
+                  "text": "Muzeul local de patrimoniu din Hafnarfjörður, care prezintă istoria și cultura orașului.",
+                  "category": "museum",
+                  "coords": [
+                        -21.959471,
+                        64.070136
+                  ]
+            },
+            {
+                  "name": "Hofsstaðir",
+                  "text": "Un sit arheologic care prezintă rămășițele unei ferme istorice din epoca vikingilor.",
+                  "category": "historical",
+                  "coords": [
+                        -21.914971,
+                        64.087878
+                  ]
+            },
+            {
+                  "name": "Setbergsrústin",
+                  "text": "Ruinele unei așezări antice care oferă informații despre istoria locală.",
+                  "category": "historical",
+                  "coords": [
+                        -21.928581,
+                        64.067187
+                  ]
+            },
+            {
+                  "name": "Kvikmyndasafn Íslands",
+                  "text": "Arhiva Națională de Film a Islandei, dedicată conservării patrimoniului cinematografic al țării.",
+                  "category": "museum",
+                  "coords": [
+                        -21.969918,
+                        64.062142
+                  ]
+            },
+            {
+                  "name": "Ástjörn og Ásfjall",
+                  "text": "O rezervație naturală care cuprinde un lac și un munte, populară pentru drumeții și observarea păsărilor.",
+                  "category": "natural",
+                  "coords": [
+                        -21.950136,
+                        64.050854
+                  ]
+            },
+            {
+                  "name": "Stekkjarhraun",
+                  "text": "O zonă de câmp de lavă protejată, care prezintă formațiuni geologice și floră unice.",
+                  "category": "natural",
+                  "coords": [
+                        -21.930628,
+                        64.061879
+                  ]
+            },
+            {
+                  "name": "Garðahraun - neðra",
+                  "text": "O rezervație naturală cu un peisaj de lavă distinctiv și vegetație locală.",
+                  "category": "natural",
+                  "coords": [
+                        -21.956848,
+                        64.088667
+                  ]
             }
       ],
       "en": [
@@ -3868,6 +4084,78 @@ imageHint: "Kopavogur city view with modern church",
                   "coords": [
                         -21.929288,
                         64.088177
+                  ]
+            },
+            {
+                  "name": "Museum Of Design And Applied Art",
+                  "text": "A museum focused on Icelandic design and applied arts from the 20th century to the present.",
+                  "category": "museum",
+                  "coords": [
+                        -21.920556,
+                        64.08905
+                  ]
+            },
+            {
+                  "name": "Byggðasafn Hafnarfjarðar",
+                  "text": "The local heritage museum of Hafnarfjörður, showcasing the town's history and culture.",
+                  "category": "museum",
+                  "coords": [
+                        -21.959471,
+                        64.070136
+                  ]
+            },
+            {
+                  "name": "Hofsstaðir",
+                  "text": "An archaeological site featuring the remains of a historic Viking Age farmstead.",
+                  "category": "historical",
+                  "coords": [
+                        -21.914971,
+                        64.087878
+                  ]
+            },
+            {
+                  "name": "Setbergsrústin",
+                  "text": "The ruins of an ancient settlement providing insight into local history.",
+                  "category": "historical",
+                  "coords": [
+                        -21.928581,
+                        64.067187
+                  ]
+            },
+            {
+                  "name": "Kvikmyndasafn Íslands",
+                  "text": "The National Film Archive of Iceland, dedicated to preserving the country's cinematic heritage.",
+                  "category": "museum",
+                  "coords": [
+                        -21.969918,
+                        64.062142
+                  ]
+            },
+            {
+                  "name": "Ástjörn og Ásfjall",
+                  "text": "A nature reserve encompassing a lake and a mountain, popular for hiking and birdwatching.",
+                  "category": "natural",
+                  "coords": [
+                        -21.950136,
+                        64.050854
+                  ]
+            },
+            {
+                  "name": "Stekkjarhraun",
+                  "text": "A protected lava field area showcasing unique geological formations and flora.",
+                  "category": "natural",
+                  "coords": [
+                        -21.930628,
+                        64.061879
+                  ]
+            },
+            {
+                  "name": "Garðahraun - neðra",
+                  "text": "A nature reserve featuring a distinctive lava landscape and local vegetation.",
+                  "category": "natural",
+                  "coords": [
+                        -21.956848,
+                        64.088667
                   ]
             }
       ]
@@ -4692,7 +4980,268 @@ imageHint: "Akureyri church and fjord view",
     },
     image: "/poi-images/iceland-akureyri-cities-v2.webp",
 },  {
-    id: "iceland-keflavik-cities-v2",
+    id: "iceland-keflavik-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Vatnsnes",
+                  "text": "Ein markanter Leuchtturm auf der Halbinsel Reykjanes.",
+                  "category": "landmark",
+                  "coords": [
+                        -22.543387,
+                        64.002042
+                  ]
+            },
+            {
+                  "name": "Rokksafn Íslands",
+                  "text": "Dieses Museum in Keflavík widmet sich der Geschichte der Rock- und Popmusik in Island.",
+                  "category": "museum",
+                  "coords": [
+                        -22.550263,
+                        63.989896
+                  ]
+            },
+            {
+                  "name": "Duus Museum",
+                  "text": "Ein Kultur- und Kunstmuseum in Keflavík, das verschiedene Ausstellungen zur lokalen Geschichte und Kunst beherbergt.",
+                  "category": "museum",
+                  "coords": [
+                        -22.557399,
+                        64.007619
+                  ]
+            },
+            {
+                  "name": "Frumleikhúsið",
+                  "text": "Ein lokales Theater in Keflavík, das als Veranstaltungsort für verschiedene Aufführungen und kulturelle Events dient.",
+                  "category": "cultural",
+                  "coords": [
+                        -22.561684,
+                        64.007677
+                  ]
+            },
+            {
+                  "name": "Helguvík",
+                  "text": "Eine Bucht bei Keflavík, die für ihren Hafen und die umliegenden Industriegebiete bekannt ist.",
+                  "category": "landmark",
+                  "coords": [
+                        -22.552813,
+                        64.020642
+                  ]
+            },
+            {
+                  "name": "Skessuhellir",
+                  "text": "Eine Attraktion in Keflavík, die eine Höhle nachbildet, die auf einer populären isländischen Kindergeschichte basiert.",
+                  "category": "landmark",
+                  "coords": [
+                        -22.55461,
+                        64.009032
+                  ]
+            },
+            {
+                  "name": "Baldur, KE97",
+                  "text": "Ein historisches Fischerboot, das in Keflavík als Denkmal für die maritime Tradition der Stadt ausgestellt ist.",
+                  "category": "landmark",
+                  "coords": [
+                        -22.556155,
+                        64.007462
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Vatnsnes",
+                  "text": "Jellegzetes világítótorony a Reykjanes-félszigeten.",
+                  "category": "landmark",
+                  "coords": [
+                        -22.543387,
+                        64.002042
+                  ]
+            },
+            {
+                  "name": "Rokksafn Íslands",
+                  "text": "Ez a keflavíki múzeum az izlandi rock- és popzene történetét mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        -22.550263,
+                        63.989896
+                  ]
+            },
+            {
+                  "name": "Duus Museum",
+                  "text": "Kulturális és művészeti múzeum Keflavíkban, amely helytörténeti és művészeti kiállításoknak ad otthont.",
+                  "category": "museum",
+                  "coords": [
+                        -22.557399,
+                        64.007619
+                  ]
+            },
+            {
+                  "name": "Frumleikhúsið",
+                  "text": "Helyi színház Keflavíkban, amely különféle előadások és kulturális események helyszíne.",
+                  "category": "cultural",
+                  "coords": [
+                        -22.561684,
+                        64.007677
+                  ]
+            },
+            {
+                  "name": "Helguvík",
+                  "text": "Egy öböl Keflavík közelében, amely kikötőjéről és a környező ipari területekről ismert.",
+                  "category": "landmark",
+                  "coords": [
+                        -22.552813,
+                        64.020642
+                  ]
+            },
+            {
+                  "name": "Skessuhellir",
+                  "text": "Keflavíki látványosság, amely egy népszerű izlandi gyermekmesén alapuló barlangot mutat be.",
+                  "category": "landmark",
+                  "coords": [
+                        -22.55461,
+                        64.009032
+                  ]
+            },
+            {
+                  "name": "Baldur, KE97",
+                  "text": "Történelmi halászhajó, amelyet a város tengeri hagyományainak emlékére állítottak ki Keflavíkban.",
+                  "category": "landmark",
+                  "coords": [
+                        -22.556155,
+                        64.007462
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Vatnsnes",
+                  "text": "Un far proeminent situat pe peninsula Reykjanes.",
+                  "category": "landmark",
+                  "coords": [
+                        -22.543387,
+                        64.002042
+                  ]
+            },
+            {
+                  "name": "Rokksafn Íslands",
+                  "text": "Acest muzeu din Keflavík este dedicat istoriei muzicii rock și pop din Islanda.",
+                  "category": "museum",
+                  "coords": [
+                        -22.550263,
+                        63.989896
+                  ]
+            },
+            {
+                  "name": "Duus Museum",
+                  "text": "Un muzeu de cultură și artă din Keflavík, care găzduiește diverse expoziții de istorie și artă locală.",
+                  "category": "museum",
+                  "coords": [
+                        -22.557399,
+                        64.007619
+                  ]
+            },
+            {
+                  "name": "Frumleikhúsið",
+                  "text": "Un teatru local din Keflavík, care servește ca spațiu pentru diverse spectacole și evenimente culturale.",
+                  "category": "cultural",
+                  "coords": [
+                        -22.561684,
+                        64.007677
+                  ]
+            },
+            {
+                  "name": "Helguvík",
+                  "text": "Un golf lângă Keflavík, cunoscut pentru portul său și zonele industriale înconjurătoare.",
+                  "category": "landmark",
+                  "coords": [
+                        -22.552813,
+                        64.020642
+                  ]
+            },
+            {
+                  "name": "Skessuhellir",
+                  "text": "O atracție din Keflavík care recreează o peșteră bazată pe o poveste populară islandeză pentru copii.",
+                  "category": "landmark",
+                  "coords": [
+                        -22.55461,
+                        64.009032
+                  ]
+            },
+            {
+                  "name": "Baldur, KE97",
+                  "text": "O barcă de pescuit istorică expusă în Keflavík ca monument al tradiției maritime a orașului.",
+                  "category": "landmark",
+                  "coords": [
+                        -22.556155,
+                        64.007462
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Vatnsnes",
+                  "text": "A prominent lighthouse located on the Reykjanes Peninsula.",
+                  "category": "landmark",
+                  "coords": [
+                        -22.543387,
+                        64.002042
+                  ]
+            },
+            {
+                  "name": "Icelandic Museum of Rock 'n' Roll",
+                  "text": "This museum in Keflavík is dedicated to the history of rock and pop music in Iceland.",
+                  "category": "museum",
+                  "coords": [
+                        -22.550263,
+                        63.989896
+                  ]
+            },
+            {
+                  "name": "Duus Museum",
+                  "text": "A cultural and art museum in Keflavík hosting various exhibitions on local history and art.",
+                  "category": "museum",
+                  "coords": [
+                        -22.557399,
+                        64.007619
+                  ]
+            },
+            {
+                  "name": "Frumleikhúsið",
+                  "text": "A local theatre in Keflavík that serves as a venue for various performances and cultural events.",
+                  "category": "cultural",
+                  "coords": [
+                        -22.561684,
+                        64.007677
+                  ]
+            },
+            {
+                  "name": "Helguvík",
+                  "text": "A bay near Keflavík known for its harbour and the surrounding industrial areas.",
+                  "category": "landmark",
+                  "coords": [
+                        -22.552813,
+                        64.020642
+                  ]
+            },
+            {
+                  "name": "Giganta's Cave",
+                  "text": "An attraction in Keflavík featuring a cave based on a popular Icelandic children's story.",
+                  "category": "landmark",
+                  "coords": [
+                        -22.55461,
+                        64.009032
+                  ]
+            },
+            {
+                  "name": "Baldur, KE97",
+                  "text": "A historical fishing boat displayed in Keflavík as a monument to the town's maritime tradition.",
+                  "category": "landmark",
+                  "coords": [
+                        -22.556155,
+                        64.007462
+                  ]
+            }
+      ]
+},
     parent: "IS",
     type: "city",
     name: { de: "Keflavík", hu: "Keflavík", ro: "Keflavík", en: "Keflavík"},

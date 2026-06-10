@@ -65,7 +65,268 @@ export const poiExtraAustriaLife: POI[] = [
       fr: ["Le site s'étend sur une surface d'exposition impressionnante de 26 000 mètres carrés juste à côté de l'Europapark à Klagenfurt.", "La construction de la maquette de la basilique Saint-Pierre a nécessité des milliers d'heures de travail et l'utilisation de marbre véritable.", "Sur simple pression d'un bouton, les visiteurs peuvent activer des fonctions sur certains modèles, comme des trains qui démarrent ou des moulins à vent qui tournent.", "L'espace découverte intérieur prolonge l'offre sur toute l'année et propose des stations de jeux interactives pour les enfants."],
     }, image: "/poi-images/kid-landmark-minimundus-extra.webp"},
   {
-    id: "animal-habitat-wildpark-ferleiten-extra",
+    id: "animal-habitat-wildpark-ferleiten-extra", "sights": {
+      "de": [
+            {
+                  "name": "Wildpark Ferleiten",
+                  "text": "Ein Wildpark in Ferleiten, in dem man heimische Alpentiere in ihrer natürlichen Umgebung beobachten kann.",
+                  "category": "recreational",
+                  "coords": [
+                        12.81681,
+                        47.171818
+                  ]
+            },
+            {
+                  "name": "Walcherhörndlkopf",
+                  "text": "Ein Gipfel in der Gebirgsregion um Ferleiten, der Wanderern Panoramablicke bietet.",
+                  "category": "landmark",
+                  "coords": [
+                        12.793356,
+                        47.168764
+                  ]
+            },
+            {
+                  "name": "Hörndlwand",
+                  "text": "Die Hörndlwand ist ein markanter Berg in den Chiemgauer Alpen nahe Ferleiten.",
+                  "category": "landmark",
+                  "coords": [
+                        12.801814,
+                        47.168745
+                  ]
+            },
+            {
+                  "name": "Sandbodenkopf",
+                  "text": "Ein Berggipfel in der alpinen Landschaft des Ferleiten Wild- und Erlebnisparks.",
+                  "category": "landmark",
+                  "coords": [
+                        12.768801,
+                        47.166939
+                  ]
+            },
+            {
+                  "name": "Bergnerkarlkopf",
+                  "text": "Ein Gipfel im Hochgebirge bei Ferleiten, der Teil der beeindruckenden Alpenlandschaft ist.",
+                  "category": "landmark",
+                  "coords": [
+                        12.800256,
+                        47.18172
+                  ]
+            },
+            {
+                  "name": "Eichhornruhe",
+                  "text": "Ein Berggipfel in der Umgebung von Ferleiten, der ein Ziel für Bergwanderer darstellt.",
+                  "category": "landmark",
+                  "coords": [
+                        12.781008,
+                        47.144125
+                  ]
+            },
+            {
+                  "name": "Heidnische Kirche",
+                  "text": "Ein Gipfel in den Alpen bei Ferleiten, der für seine natürliche Schönheit bekannt ist.",
+                  "category": "landmark",
+                  "coords": [
+                        12.779872,
+                        47.16276
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Wildpark Ferleiten",
+                  "text": "Vadaspark Ferleitenben, ahol a látogatók természetes környezetükben láthatják az alpesi állatvilágot.",
+                  "category": "recreational",
+                  "coords": [
+                        12.81681,
+                        47.171818
+                  ]
+            },
+            {
+                  "name": "Walcherhörndlkopf",
+                  "text": "Hegycsúcs a Ferleiten környéki hegyvidéken, amely panorámás kilátást nyújt a túrázóknak.",
+                  "category": "landmark",
+                  "coords": [
+                        12.793356,
+                        47.168764
+                  ]
+            },
+            {
+                  "name": "Hörndlwand",
+                  "text": "A Hörndlwand egy jellegzetes hegycsúcs a Chiemgaui-Alpokban, Ferleiten közelében.",
+                  "category": "landmark",
+                  "coords": [
+                        12.801814,
+                        47.168745
+                  ]
+            },
+            {
+                  "name": "Sandbodenkopf",
+                  "text": "Hegycsúcs a ferleiteni vadas- és élménypark alpesi táján.",
+                  "category": "landmark",
+                  "coords": [
+                        12.768801,
+                        47.166939
+                  ]
+            },
+            {
+                  "name": "Bergnerkarlkopf",
+                  "text": "Hegycsúcs a Ferleiten melletti magashegységben, az impozáns alpesi táj része.",
+                  "category": "landmark",
+                  "coords": [
+                        12.800256,
+                        47.18172
+                  ]
+            },
+            {
+                  "name": "Eichhornruhe",
+                  "text": "Hegycsúcs Ferleiten környékén, amely a hegyi túrázók egyik célpontja.",
+                  "category": "landmark",
+                  "coords": [
+                        12.781008,
+                        47.144125
+                  ]
+            },
+            {
+                  "name": "Heidnische Kirche",
+                  "text": "Hegycsúcs az Alpokban Ferleiten közelében, amely természeti szépségéről ismert.",
+                  "category": "landmark",
+                  "coords": [
+                        12.779872,
+                        47.16276
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Wildpark Ferleiten",
+                  "text": "Un parc de animale sălbatice în Ferleiten, unde pot fi observate animale alpine în mediul lor natural.",
+                  "category": "recreational",
+                  "coords": [
+                        12.81681,
+                        47.171818
+                  ]
+            },
+            {
+                  "name": "Walcherhörndlkopf",
+                  "text": "Un vârf în regiunea montană din jurul localității Ferleiten, oferind panorame drumeților.",
+                  "category": "landmark",
+                  "coords": [
+                        12.793356,
+                        47.168764
+                  ]
+            },
+            {
+                  "name": "Hörndlwand",
+                  "text": "Hörndlwand este un munte proeminent în Alpii Chiemgau, situat în apropiere de Ferleiten.",
+                  "category": "landmark",
+                  "coords": [
+                        12.801814,
+                        47.168745
+                  ]
+            },
+            {
+                  "name": "Sandbodenkopf",
+                  "text": "Un vârf montan în peisajul alpin al parcului de animale sălbatice și aventură Ferleiten.",
+                  "category": "landmark",
+                  "coords": [
+                        12.768801,
+                        47.166939
+                  ]
+            },
+            {
+                  "name": "Bergnerkarlkopf",
+                  "text": "Un vârf în munții înalți de lângă Ferleiten, parte a peisajului alpin impresionant.",
+                  "category": "landmark",
+                  "coords": [
+                        12.800256,
+                        47.18172
+                  ]
+            },
+            {
+                  "name": "Eichhornruhe",
+                  "text": "Un vârf montan din împrejurimile Ferleiten, reprezentând o destinație pentru drumeții montane.",
+                  "category": "landmark",
+                  "coords": [
+                        12.781008,
+                        47.144125
+                  ]
+            },
+            {
+                  "name": "Heidnische Kirche",
+                  "text": "Un vârf din Alpi, lângă Ferleiten, cunoscut pentru frumusețea sa naturală.",
+                  "category": "landmark",
+                  "coords": [
+                        12.779872,
+                        47.16276
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Wildpark Ferleiten",
+                  "text": "A wildlife park in Ferleiten where visitors can observe native Alpine animals in their natural habitat.",
+                  "category": "recreational",
+                  "coords": [
+                        12.81681,
+                        47.171818
+                  ]
+            },
+            {
+                  "name": "Walcherhörndlkopf",
+                  "text": "A peak in the mountain region around Ferleiten, offering panoramic views for hikers.",
+                  "category": "landmark",
+                  "coords": [
+                        12.793356,
+                        47.168764
+                  ]
+            },
+            {
+                  "name": "Hörndlwand",
+                  "text": "The Hörndlwand is a prominent mountain in the Chiemgau Alps near Ferleiten.",
+                  "category": "landmark",
+                  "coords": [
+                        12.801814,
+                        47.168745
+                  ]
+            },
+            {
+                  "name": "Sandbodenkopf",
+                  "text": "A mountain peak in the Alpine landscape of the Ferleiten Wildlife & Adventure Park.",
+                  "category": "landmark",
+                  "coords": [
+                        12.768801,
+                        47.166939
+                  ]
+            },
+            {
+                  "name": "Bergnerkarlkopf",
+                  "text": "A peak in the high mountains near Ferleiten, part of the impressive Alpine scenery.",
+                  "category": "landmark",
+                  "coords": [
+                        12.800256,
+                        47.18172
+                  ]
+            },
+            {
+                  "name": "Eichhornruhe",
+                  "text": "A mountain peak in the vicinity of Ferleiten, serving as a destination for mountain hikers.",
+                  "category": "landmark",
+                  "coords": [
+                        12.781008,
+                        47.144125
+                  ]
+            },
+            {
+                  "name": "Heidnische Kirche",
+                  "text": "A peak in the Alps near Ferleiten, known for its natural beauty.",
+                  "category": "landmark",
+                  "coords": [
+                        12.779872,
+                        47.16276
+                  ]
+            }
+      ]
+},
     type: "animal-habitat",
     parent: "AT-5",
     coords: [12.82, 47.16],
@@ -107,7 +368,304 @@ export const poiExtraAustriaLife: POI[] = [
       fr: ["Les sentiers du parc animalier sont entièrement accessibles aux fauteuils roulants et aux poussettes.", "Un grand étang au milieu du parc abrite de nombreux oiseaux aquatiques et invite à la détente.", "L'entrée du parc de loisirs est gratuite, on ne paie que pour les attractions individuelles.", "Le parc abrite également une exposition interactive sur la faune et la flore alpines."],
     }, image: "/poi-images/animal-habitat-wildpark-ferleiten-extra.webp"},
   {
-    id: "kid-landmark-familienland-pillerseetal-extra",
+    id: "kid-landmark-familienland-pillerseetal-extra", "sights": {
+      "de": [
+            {
+                  "name": "Familienland Pillersee",
+                  "text": "Ein Erlebnispark für Familien im Pillerseetal.",
+                  "category": "recreational",
+                  "coords": [
+                        12.556601,
+                        47.497153
+                  ]
+            },
+            {
+                  "name": "Unterberg",
+                  "text": "Ein Gipfel in den Waidringer Alpen im Pillerseetal.",
+                  "category": "landmark",
+                  "coords": [
+                        12.603889,
+                        47.510556
+                  ]
+            },
+            {
+                  "name": "Buchensteinwand",
+                  "text": "Ein Aussichtsberg im Pillerseetal, bekannt für das Jakobskreuz.",
+                  "category": "landmark",
+                  "coords": [
+                        12.583399,
+                        47.483911
+                  ]
+            },
+            {
+                  "name": "Kirchl",
+                  "text": "Ein Berggipfel in der Region Pillerseetal.",
+                  "category": "landmark",
+                  "coords": [
+                        12.627965,
+                        47.496968
+                  ]
+            },
+            {
+                  "name": "Jakobskreuz",
+                  "text": "Das weltweit größte begehbare Gipfelkreuz mit Aussichtsplattformen auf der Buchensteinwand.",
+                  "category": "natural",
+                  "coords": [
+                        12.581155,
+                        47.484354
+                  ]
+            },
+            {
+                  "name": "Heimkehrerkreuz",
+                  "text": "Ein Aussichtspunkt mit weitem Blick über das Pillerseetal.",
+                  "category": "natural",
+                  "coords": [
+                        12.620871,
+                        47.467821
+                  ]
+            },
+            {
+                  "name": "Zukunftsblick",
+                  "text": "Eine Attraktion im Erlebnispark Pillerseetal Family Land.",
+                  "category": "landmark",
+                  "coords": [
+                        12.547502,
+                        47.49889
+                  ]
+            },
+            {
+                  "name": "Kneippanlage",
+                  "text": "Eine Anlage für Kneipp-Kuren im Pillerseetal Family Land.",
+                  "category": "landmark",
+                  "coords": [
+                        12.609279,
+                        47.497651
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Familienland Pillersee",
+                  "text": "Családi élménypark a Pillersee-völgyben.",
+                  "category": "recreational",
+                  "coords": [
+                        12.556601,
+                        47.497153
+                  ]
+            },
+            {
+                  "name": "Unterberg",
+                  "text": "Hegycsúcs a Waidringi-Alpokban, a Pillersee-völgy felett.",
+                  "category": "landmark",
+                  "coords": [
+                        12.603889,
+                        47.510556
+                  ]
+            },
+            {
+                  "name": "Buchensteinwand",
+                  "text": "Kilátóhely a Pillersee-völgyben, a Jakobskreuzról nevezetes.",
+                  "category": "landmark",
+                  "coords": [
+                        12.583399,
+                        47.483911
+                  ]
+            },
+            {
+                  "name": "Kirchl",
+                  "text": "Hegycsúcs a Pillersee-völgy régiójában.",
+                  "category": "landmark",
+                  "coords": [
+                        12.627965,
+                        47.496968
+                  ]
+            },
+            {
+                  "name": "Jakobskreuz",
+                  "text": "A világ legnagyobb bejárható csúcskeresztje kilátókkal a Buchensteinwandon.",
+                  "category": "natural",
+                  "coords": [
+                        12.581155,
+                        47.484354
+                  ]
+            },
+            {
+                  "name": "Heimkehrerkreuz",
+                  "text": "Kilátópont, ahonnan szép kilátás nyílik a Pillerseetal völgyére.",
+                  "category": "natural",
+                  "coords": [
+                        12.620871,
+                        47.467821
+                  ]
+            },
+            {
+                  "name": "Zukunftsblick",
+                  "text": "Egy attrakció a Pillerseetal Family Land élményparkban.",
+                  "category": "landmark",
+                  "coords": [
+                        12.547502,
+                        47.49889
+                  ]
+            },
+            {
+                  "name": "Kneippanlage",
+                  "text": "Kneipp-kúra létesítmény a Pillerseetal Family Land területén.",
+                  "category": "landmark",
+                  "coords": [
+                        12.609279,
+                        47.497651
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Familienland Pillersee",
+                  "text": "Un parc de distracții pentru familii în Valea Pillersee.",
+                  "category": "recreational",
+                  "coords": [
+                        12.556601,
+                        47.497153
+                  ]
+            },
+            {
+                  "name": "Unterberg",
+                  "text": "Un vârf în Alpii Waidring din zona Pillerseetal.",
+                  "category": "landmark",
+                  "coords": [
+                        12.603889,
+                        47.510556
+                  ]
+            },
+            {
+                  "name": "Buchensteinwand",
+                  "text": "Un munte cu vedere panoramică în Pillerseetal, cunoscut pentru Jakobskreuz.",
+                  "category": "landmark",
+                  "coords": [
+                        12.583399,
+                        47.483911
+                  ]
+            },
+            {
+                  "name": "Kirchl",
+                  "text": "Un vârf muntos în regiunea Pillerseetal.",
+                  "category": "landmark",
+                  "coords": [
+                        12.627965,
+                        47.496968
+                  ]
+            },
+            {
+                  "name": "Jakobskreuz",
+                  "text": "Cea mai mare cruce vizitabilă din lume, cu platforme de observație, pe Buchensteinwand.",
+                  "category": "natural",
+                  "coords": [
+                        12.581155,
+                        47.484354
+                  ]
+            },
+            {
+                  "name": "Heimkehrerkreuz",
+                  "text": "Un punct de observație care oferă o vedere panoramică asupra văii Pillerseetal.",
+                  "category": "natural",
+                  "coords": [
+                        12.620871,
+                        47.467821
+                  ]
+            },
+            {
+                  "name": "Zukunftsblick",
+                  "text": "O atracție situată în parcul de distracții Pillerseetal Family Land.",
+                  "category": "landmark",
+                  "coords": [
+                        12.547502,
+                        47.49889
+                  ]
+            },
+            {
+                  "name": "Kneippanlage",
+                  "text": "O instalație pentru terapie Kneipp în Pillerseetal Family Land.",
+                  "category": "landmark",
+                  "coords": [
+                        12.609279,
+                        47.497651
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Familienland Pillersee",
+                  "text": "A family amusement park in the Pillersee Valley.",
+                  "category": "recreational",
+                  "coords": [
+                        12.556601,
+                        47.497153
+                  ]
+            },
+            {
+                  "name": "Unterberg",
+                  "text": "A peak in the Waidring Alps in the Pillerseetal area.",
+                  "category": "landmark",
+                  "coords": [
+                        12.603889,
+                        47.510556
+                  ]
+            },
+            {
+                  "name": "Buchensteinwand",
+                  "text": "A panoramic mountain in Pillerseetal, famous for the Jakobskreuz.",
+                  "category": "landmark",
+                  "coords": [
+                        12.583399,
+                        47.483911
+                  ]
+            },
+            {
+                  "name": "Kirchl",
+                  "text": "A mountain peak in the Pillerseetal region.",
+                  "category": "landmark",
+                  "coords": [
+                        12.627965,
+                        47.496968
+                  ]
+            },
+            {
+                  "name": "Jakobskreuz",
+                  "text": "The world's largest walkable summit cross with viewing platforms on Buchensteinwand.",
+                  "category": "natural",
+                  "coords": [
+                        12.581155,
+                        47.484354
+                  ]
+            },
+            {
+                  "name": "Heimkehrerkreuz",
+                  "text": "A viewpoint offering scenic vistas over the Pillerseetal valley.",
+                  "category": "natural",
+                  "coords": [
+                        12.620871,
+                        47.467821
+                  ]
+            },
+            {
+                  "name": "Zukunftsblick",
+                  "text": "An attraction located within the Pillerseetal Family Land theme park.",
+                  "category": "landmark",
+                  "coords": [
+                        12.547502,
+                        47.49889
+                  ]
+            },
+            {
+                  "name": "Kneippanlage",
+                  "text": "A Kneipp hydrotherapy facility located in Pillerseetal Family Land.",
+                  "category": "landmark",
+                  "coords": [
+                        12.609279,
+                        47.497651
+                  ]
+            }
+      ]
+},
     type: "kid-landmark",
     parent: "AT-7",
     coords: [12.59, 47.49],
@@ -191,7 +749,304 @@ export const poiExtraAustriaLife: POI[] = [
       fr: ["Les macaques japonais sont réputés pour leur adaptabilité aux températures extrêmes.", "Lors des visites, on peut observer les singes utiliser des outils ou laver leur nourriture.", "L'Affenberg enregistre de nombreuses naissances chaque année, signe du bien-être des animaux.", "Les règles de comportement strictes garantissent que les macaques conservent leur comportement naturel."],
     }, image: "/poi-images/animal-habitat-affenberg-landskron-extra.webp"},
   {
-    id: "kid-landmark-wasserspiele-krimml-extra",
+    id: "kid-landmark-wasserspiele-krimml-extra", "sights": {
+      "de": [
+            {
+                  "name": "WasserWunderWelt Krimml",
+                  "text": "Ein interaktives Besucherzentrum und Wasser-Themenpark bei den Krimmler Wasserfällen.",
+                  "category": "recreational",
+                  "coords": [
+                        12.169139,
+                        47.214304
+                  ]
+            },
+            {
+                  "name": "Schwimmbad Krimml",
+                  "text": "Ein Freibad in Krimml, das Erholung in der Gebirgslandschaft bietet.",
+                  "category": "recreational",
+                  "coords": [
+                        12.176363,
+                        47.221017
+                  ]
+            },
+            {
+                  "name": "Krimmler Wasserfälle",
+                  "text": "Die höchsten Wasserfälle Österreichs im Nationalpark Hohe Tauern.",
+                  "category": "landmark",
+                  "coords": [
+                        12.170224,
+                        47.208376
+                  ]
+            },
+            {
+                  "name": "Plattenkogel",
+                  "text": "Ein beliebter Aussichtsberg in der Nähe von Krimml.",
+                  "category": "landmark",
+                  "coords": [
+                        12.135277,
+                        47.224859
+                  ]
+            },
+            {
+                  "name": "Wildkarspitze",
+                  "text": "Ein Gipfel in den Zillertaler Alpen nahe Krimml.",
+                  "category": "landmark",
+                  "coords": [
+                        12.138801,
+                        47.173464
+                  ]
+            },
+            {
+                  "name": "Arbeskopf",
+                  "text": "Ein Berggipfel in der Gebirgsregion um Krimml.",
+                  "category": "landmark",
+                  "coords": [
+                        12.154689,
+                        47.194269
+                  ]
+            },
+            {
+                  "name": "Hütteltalkopf",
+                  "text": "Ein Gipfel in der alpinen Landschaft der Hohen Tauern.",
+                  "category": "landmark",
+                  "coords": [
+                        12.207437,
+                        47.184819
+                  ]
+            },
+            {
+                  "name": "Achkogel",
+                  "text": "Ein markanter Berggipfel in den österreichischen Alpen bei Krimml.",
+                  "category": "landmark",
+                  "coords": [
+                        12.209925,
+                        47.212259
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "WasserWunderWelt Krimml",
+                  "text": "Interaktív látogatóközpont és vizes élménypark a Krimml-vízesésnél.",
+                  "category": "recreational",
+                  "coords": [
+                        12.169139,
+                        47.214304
+                  ]
+            },
+            {
+                  "name": "Schwimmbad Krimml",
+                  "text": "Krimmli szabadtéri strand, amely kikapcsolódást kínál a hegyi környezetben.",
+                  "category": "recreational",
+                  "coords": [
+                        12.176363,
+                        47.221017
+                  ]
+            },
+            {
+                  "name": "Krimmler Wasserfälle",
+                  "text": "Ausztria legmagasabb vízesése a Magas-Tauern Nemzeti Parkban.",
+                  "category": "landmark",
+                  "coords": [
+                        12.170224,
+                        47.208376
+                  ]
+            },
+            {
+                  "name": "Plattenkogel",
+                  "text": "Népszerű kilátóhegy Krimml közelében.",
+                  "category": "landmark",
+                  "coords": [
+                        12.135277,
+                        47.224859
+                  ]
+            },
+            {
+                  "name": "Wildkarspitze",
+                  "text": "Hegycsúcs a Zillertali-Alpokban, Krimml közelében.",
+                  "category": "landmark",
+                  "coords": [
+                        12.138801,
+                        47.173464
+                  ]
+            },
+            {
+                  "name": "Arbeskopf",
+                  "text": "Hegycsúcs a Krimml környéki hegyvidéken.",
+                  "category": "landmark",
+                  "coords": [
+                        12.154689,
+                        47.194269
+                  ]
+            },
+            {
+                  "name": "Hütteltalkopf",
+                  "text": "Hegycsúcs a Magas-Tauern alpesi táján.",
+                  "category": "landmark",
+                  "coords": [
+                        12.207437,
+                        47.184819
+                  ]
+            },
+            {
+                  "name": "Achkogel",
+                  "text": "Jellegzetes hegycsúcs az osztrák Alpokban, Krimml közelében.",
+                  "category": "landmark",
+                  "coords": [
+                        12.209925,
+                        47.212259
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "WasserWunderWelt Krimml",
+                  "text": "Un centru interactiv pentru vizitatori și parc tematic acvatic lângă Cascada Krimml.",
+                  "category": "recreational",
+                  "coords": [
+                        12.169139,
+                        47.214304
+                  ]
+            },
+            {
+                  "name": "Schwimmbad Krimml",
+                  "text": "O piscină în aer liber din Krimml, care oferă relaxare în peisajul montan.",
+                  "category": "recreational",
+                  "coords": [
+                        12.176363,
+                        47.221017
+                  ]
+            },
+            {
+                  "name": "Krimmler Wasserfälle",
+                  "text": "Cele mai înalte cascade din Austria, situate în Parcul Național Hohe Tauern.",
+                  "category": "landmark",
+                  "coords": [
+                        12.170224,
+                        47.208376
+                  ]
+            },
+            {
+                  "name": "Plattenkogel",
+                  "text": "Un munte cu belvedere popular situat în apropiere de Krimml.",
+                  "category": "landmark",
+                  "coords": [
+                        12.135277,
+                        47.224859
+                  ]
+            },
+            {
+                  "name": "Wildkarspitze",
+                  "text": "Un vârf din Alpii Zillertal, situat lângă Krimml.",
+                  "category": "landmark",
+                  "coords": [
+                        12.138801,
+                        47.173464
+                  ]
+            },
+            {
+                  "name": "Arbeskopf",
+                  "text": "Un vârf muntos din regiunea montană din jurul localității Krimml.",
+                  "category": "landmark",
+                  "coords": [
+                        12.154689,
+                        47.194269
+                  ]
+            },
+            {
+                  "name": "Hütteltalkopf",
+                  "text": "Un vârf din peisajul alpin al masivului Hohe Tauern.",
+                  "category": "landmark",
+                  "coords": [
+                        12.207437,
+                        47.184819
+                  ]
+            },
+            {
+                  "name": "Achkogel",
+                  "text": "Un vârf muntos proeminent din Alpii Austrieci, lângă Krimml.",
+                  "category": "landmark",
+                  "coords": [
+                        12.209925,
+                        47.212259
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "WasserWunderWelt Krimml",
+                  "text": "An interactive visitor center and water theme park at the Krimml Waterfalls.",
+                  "category": "recreational",
+                  "coords": [
+                        12.169139,
+                        47.214304
+                  ]
+            },
+            {
+                  "name": "Schwimmbad Krimml",
+                  "text": "An outdoor swimming pool in Krimml offering relaxation in the mountain scenery.",
+                  "category": "recreational",
+                  "coords": [
+                        12.176363,
+                        47.221017
+                  ]
+            },
+            {
+                  "name": "Krimml Waterfalls",
+                  "text": "The highest waterfalls in Austria, located in the High Tauern National Park.",
+                  "category": "landmark",
+                  "coords": [
+                        12.170224,
+                        47.208376
+                  ]
+            },
+            {
+                  "name": "Plattenkogel",
+                  "text": "A popular panoramic mountain located near Krimml.",
+                  "category": "landmark",
+                  "coords": [
+                        12.135277,
+                        47.224859
+                  ]
+            },
+            {
+                  "name": "Wildkarspitze",
+                  "text": "A peak in the Zillertal Alps near Krimml.",
+                  "category": "landmark",
+                  "coords": [
+                        12.138801,
+                        47.173464
+                  ]
+            },
+            {
+                  "name": "Arbeskopf",
+                  "text": "A mountain peak in the alpine region around Krimml.",
+                  "category": "landmark",
+                  "coords": [
+                        12.154689,
+                        47.194269
+                  ]
+            },
+            {
+                  "name": "Hütteltalkopf",
+                  "text": "A peak in the alpine landscape of the High Tauern.",
+                  "category": "landmark",
+                  "coords": [
+                        12.207437,
+                        47.184819
+                  ]
+            },
+            {
+                  "name": "Achkogel",
+                  "text": "A prominent mountain peak in the Austrian Alps near Krimml.",
+                  "category": "landmark",
+                  "coords": [
+                        12.209925,
+                        47.212259
+                  ]
+            }
+      ]
+},
     type: "kid-landmark",
     parent: "AT-5",
     coords: [12.17, 47.20],

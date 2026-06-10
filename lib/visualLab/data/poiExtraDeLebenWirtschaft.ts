@@ -46,7 +46,304 @@ export const poiExtraDeLebenWirtschaft: POI[] = [
       fr: ["Fondé en 1846 comme jardin privé royal de style mauresque.", "Abrite environ 1 200 espèces animales et 8 500 espèces de plantes.", "Le parc s'étend sur une superficie totale d'environ 30 hectares.", "La maison des grands singes est l'une des plus modernes au monde.", "Environ 1,8 million de personnes visitent le site de Stuttgart chaque année.", "Unique 'Jardin mauresque' doté d'une architecture historique du XIXe siècle."],
     }, image: "/poi-images/animal-habitat-wilhelma-stuttgart-extra.webp"},
     {
-    id: "animal-habitat-tierpark-lohberg-extra",
+    id: "animal-habitat-tierpark-lohberg-extra", "sights": {
+      "de": [
+            {
+                  "name": "Naturdenkmal Künisches Gebirge",
+                  "text": "Ein Naturschutzgebiet im Böhmerwald, das für seine unberührte Waldlandschaft bekannt ist.",
+                  "category": "natural",
+                  "coords": [
+                        13.171931,
+                        49.175491
+                  ]
+            },
+            {
+                  "name": "Nationales Naturreservat Klammerloch",
+                  "text": "Ein Naturschutzgebiet, in dem sich der höchste Wasserfall des Böhmerwaldes befindet.",
+                  "category": "natural",
+                  "coords": [
+                        13.158391,
+                        49.191217
+                  ]
+            },
+            {
+                  "name": "Nationales Naturreservat Schwarzer See und Teufelssee",
+                  "text": "Ein bedeutendes Naturschutzgebiet, das zwei der größten Gletscherseen im Böhmerwald schützt.",
+                  "category": "natural",
+                  "coords": [
+                        13.183903,
+                        49.171077
+                  ]
+            },
+            {
+                  "name": "Bayerwald-Tierpark",
+                  "text": "Ein Wildpark in Lohberg, der die heimische Tierwelt des Bayerischen Waldes präsentiert.",
+                  "category": "recreational",
+                  "coords": [
+                        13.087415,
+                        49.169667
+                  ]
+            },
+            {
+                  "name": "Hindenburgkanzel",
+                  "text": "Ein markanter Aussichtspunkt mit weitem Blick über den Lamer Winkel im Bayerischen Wald.",
+                  "category": "natural",
+                  "coords": [
+                        13.156791,
+                        49.147487
+                  ]
+            },
+            {
+                  "name": "Großer Osser",
+                  "text": "Ein markanter Gipfel an der deutsch-tschechischen Grenze mit einer bewirtschafteten Schutzhütte.",
+                  "category": "landmark",
+                  "coords": [
+                        13.109784,
+                        49.203183
+                  ]
+            },
+            {
+                  "name": "Kleiner Osser",
+                  "text": "Ein felsiger Berggipfel im Bayerischen Wald, der ein beliebtes Wanderziel darstellt.",
+                  "category": "landmark",
+                  "coords": [
+                        13.103084,
+                        49.201687
+                  ]
+            },
+            {
+                  "name": "Hohe Seewand",
+                  "text": "Der höchste Gipfel des Böhmerwaldes auf tschechischer Seite, nahe der Gletscherseen gelegen.",
+                  "category": "landmark",
+                  "coords": [
+                        13.184762,
+                        49.168656
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "přírodní památka Královský hvozd",
+                  "text": "Természetvédelmi terület a Cseh-erdőben, amely érintetlen erdei tájairól ismert.",
+                  "category": "natural",
+                  "coords": [
+                        13.171931,
+                        49.175491
+                  ]
+            },
+            {
+                  "name": "národní přírodní rezervace Bílá strž",
+                  "text": "Természetvédelmi terület, ahol a Cseh-erdő legmagasabb vízesése található.",
+                  "category": "natural",
+                  "coords": [
+                        13.158391,
+                        49.191217
+                  ]
+            },
+            {
+                  "name": "národní přírodní rezervace Černé a Čertovo jezero",
+                  "text": "Jelentős természetvédelmi terület, amely a Cseh-erdő két legnagyobb gleccsertavát védi.",
+                  "category": "natural",
+                  "coords": [
+                        13.183903,
+                        49.171077
+                  ]
+            },
+            {
+                  "name": "Bayerwald-Tierpark",
+                  "text": "Vadaspark Lohbergben, amely a Bajor-erdő őshonos állatvilágát mutatja be.",
+                  "category": "recreational",
+                  "coords": [
+                        13.087415,
+                        49.169667
+                  ]
+            },
+            {
+                  "name": "Hindenburgkanzel",
+                  "text": "Jellegzetes kilátóhely, ahonnan pazar kilátás nyílik a Bajor-erdő Lamer Winkel vidékére.",
+                  "category": "natural",
+                  "coords": [
+                        13.156791,
+                        49.147487
+                  ]
+            },
+            {
+                  "name": "Großer Osser",
+                  "text": "Jellegzetes hegycsúcs a német-cseh határon, tetején egy turistaházzal.",
+                  "category": "landmark",
+                  "coords": [
+                        13.109784,
+                        49.203183
+                  ]
+            },
+            {
+                  "name": "Kleiner Osser",
+                  "text": "Sziklás hegycsúcs a Bajor-erdőben, amely népszerű túracélpont.",
+                  "category": "landmark",
+                  "coords": [
+                        13.103084,
+                        49.201687
+                  ]
+            },
+            {
+                  "name": "Jezerní hora",
+                  "text": "A Cseh-erdő legmagasabb csúcsa cseh oldalon, a gleccsertavak közelében.",
+                  "category": "landmark",
+                  "coords": [
+                        13.184762,
+                        49.168656
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "přírodní památka Královský hvozd",
+                  "text": "O rezervație naturală în Munții Boemiei, cunoscută pentru peisajul forestier virgin.",
+                  "category": "natural",
+                  "coords": [
+                        13.171931,
+                        49.175491
+                  ]
+            },
+            {
+                  "name": "národní přírodní rezervace Bílá strž",
+                  "text": "O rezervație naturală ce adăpostește cea mai înaltă cascadă din Munții Boemiei.",
+                  "category": "natural",
+                  "coords": [
+                        13.158391,
+                        49.191217
+                  ]
+            },
+            {
+                  "name": "národní přírodní rezervace Černé a Čertovo jezero",
+                  "text": "O rezervație naturală importantă care protejează două dintre cele mai mari lacuri glaciare din Munții Boemiei.",
+                  "category": "natural",
+                  "coords": [
+                        13.183903,
+                        49.171077
+                  ]
+            },
+            {
+                  "name": "Bayerwald-Tierpark",
+                  "text": "Un parc de animale în Lohberg, care prezintă fauna nativă a Pădurii Bavareze.",
+                  "category": "recreational",
+                  "coords": [
+                        13.087415,
+                        49.169667
+                  ]
+            },
+            {
+                  "name": "Hindenburgkanzel",
+                  "text": "Un punct de belvedere marcat, oferind o vedere amplă asupra regiunii Lamer Winkel din Pădurea Bavareză.",
+                  "category": "natural",
+                  "coords": [
+                        13.156791,
+                        49.147487
+                  ]
+            },
+            {
+                  "name": "Großer Osser",
+                  "text": "Un vârf proeminent la granița germano-cehă, dotat cu o cabană montană.",
+                  "category": "landmark",
+                  "coords": [
+                        13.109784,
+                        49.203183
+                  ]
+            },
+            {
+                  "name": "Kleiner Osser",
+                  "text": "Un vârf muntos stâncos din Pădurea Bavareză, fiind o destinație populară pentru drumeții.",
+                  "category": "landmark",
+                  "coords": [
+                        13.103084,
+                        49.201687
+                  ]
+            },
+            {
+                  "name": "Jezerní hora",
+                  "text": "Cel mai înalt vârf al Munților Boemiei pe partea cehă, situat lângă lacurile glaciare.",
+                  "category": "landmark",
+                  "coords": [
+                        13.184762,
+                        49.168656
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "přírodní památka Královský hvozd",
+                  "text": "A nature reserve in the Bohemian Forest known for its untouched forest landscape.",
+                  "category": "natural",
+                  "coords": [
+                        13.171931,
+                        49.175491
+                  ]
+            },
+            {
+                  "name": "national nature reserve Bílá strž",
+                  "text": "A nature reserve home to the highest waterfall in the Bohemian Forest.",
+                  "category": "natural",
+                  "coords": [
+                        13.158391,
+                        49.191217
+                  ]
+            },
+            {
+                  "name": "národní přírodní rezervace Černé a Čertovo jezero",
+                  "text": "An important nature reserve protecting two of the largest glacial lakes in the Bohemian Forest.",
+                  "category": "natural",
+                  "coords": [
+                        13.183903,
+                        49.171077
+                  ]
+            },
+            {
+                  "name": "Bayerwald-Tierpark",
+                  "text": "A wildlife park in Lohberg showcasing the native animals of the Bavarian Forest.",
+                  "category": "recreational",
+                  "coords": [
+                        13.087415,
+                        49.169667
+                  ]
+            },
+            {
+                  "name": "Hindenburgkanzel",
+                  "text": "A prominent viewpoint offering wide views over the Lamer Winkel in the Bavarian Forest.",
+                  "category": "natural",
+                  "coords": [
+                        13.156791,
+                        49.147487
+                  ]
+            },
+            {
+                  "name": "Großer Osser",
+                  "text": "A prominent peak on the German-Czech border featuring a mountain hut.",
+                  "category": "landmark",
+                  "coords": [
+                        13.109784,
+                        49.203183
+                  ]
+            },
+            {
+                  "name": "Kleiner Osser",
+                  "text": "A rocky mountain peak in the Bavarian Forest that is a popular hiking destination.",
+                  "category": "landmark",
+                  "coords": [
+                        13.103084,
+                        49.201687
+                  ]
+            },
+            {
+                  "name": "Jezerní hora",
+                  "text": "The highest peak of the Bohemian Forest on the Czech side, located near the glacial lakes.",
+                  "category": "landmark",
+                  "coords": [
+                        13.184762,
+                        49.168656
+                  ]
+            }
+      ]
+},
     type: "animal-habitat",
     parent: "DE-BY",
     coords: [13.134, 49.176],
@@ -1102,7 +1399,304 @@ export const poiExtraDeLebenWirtschaft: POI[] = [
       fr: ["Ouvert en 1977 sous le nom de 'Hansaland'.", "S'étend sur environ 46 hectares au bord de la mer Baltique.", "Propose plus de 125 attractions dans 11 univers thématiques.", "Le grand huit 'Kärnan' possède une tour de 79 mètres de haut.", "Accueille environ 1,4 million de visiteurs par an.", "Seul parc à thème au monde axé sur l'histoire de la Hanse."],
     }, image: "/poi-images/kid-landmark-hansa-park-extra.webp"},
   {
-    id: "kid-landmark-multimar-extra",
+    id: "kid-landmark-multimar-extra", "sights": {
+      "de": [
+            {
+                  "name": "Multimar Wattforum",
+                  "text": "Das größte Informationszentrum für den Nationalpark Schleswig-Holsteinisches Wattenmeer in Tönning.",
+                  "category": "museum",
+                  "coords": [
+                        8.951882,
+                        54.316813
+                  ]
+            },
+            {
+                  "name": "Oldensworter Vorland",
+                  "text": "Ein Naturschutzgebiet bei Tönning, das durch seine charakteristische Küstenlandschaft besticht.",
+                  "category": "natural",
+                  "coords": [
+                        8.977487,
+                        54.330349
+                  ]
+            },
+            {
+                  "name": "Freibad Tönning",
+                  "text": "Ein öffentliches Freibad in Tönning, das Erholung im Wasser bietet.",
+                  "category": "recreational",
+                  "coords": [
+                        8.935181,
+                        54.308628
+                  ]
+            },
+            {
+                  "name": "Erfahrungsfeld Mars-Skipper-Hof",
+                  "text": "Eine interaktive Attraktion in Tönning, die die Sinne und Wahrnehmung anspricht.",
+                  "category": "landmark",
+                  "coords": [
+                        8.912056,
+                        54.326528
+                  ]
+            },
+            {
+                  "name": "Packhaus",
+                  "text": "Ein historisches Speichergebäude am Hafen von Tönning, das heute als Veranstaltungsort dient.",
+                  "category": "landmark",
+                  "coords": [
+                        8.946546,
+                        54.315098
+                  ]
+            },
+            {
+                  "name": "Sankt Laurentius",
+                  "text": "Die markante evangelische Kirche am Marktplatz von Tönning mit ihrem charakteristischen Turm.",
+                  "category": "religious",
+                  "coords": [
+                        8.940617,
+                        54.317183
+                  ]
+            },
+            {
+                  "name": "Sankt Nikolai",
+                  "text": "Eine historische Kirche in Kotzenbüll, die dem heiligen Nikolaus geweiht ist.",
+                  "category": "religious",
+                  "coords": [
+                        8.90308,
+                        54.333763
+                  ]
+            },
+            {
+                  "name": "Alter Hafenkran",
+                  "text": "Ein technisches Denkmal im Hafen von Tönning, das an die maritime Geschichte erinnert.",
+                  "category": "landmark",
+                  "coords": [
+                        8.948508,
+                        54.315885
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Multimar Wattforum",
+                  "text": "A Schleswig-Holstein Wadden-tenger Nemzeti Park legnagyobb információs központja Tönningben.",
+                  "category": "museum",
+                  "coords": [
+                        8.951882,
+                        54.316813
+                  ]
+            },
+            {
+                  "name": "Oldensworter Vorland",
+                  "text": "Tönning közeli természetvédelmi terület, amely jellegzetes tengerparti tájairól ismert.",
+                  "category": "natural",
+                  "coords": [
+                        8.977487,
+                        54.330349
+                  ]
+            },
+            {
+                  "name": "Freibad Tönning",
+                  "text": "Nyilvános szabadtéri strand Tönningben, amely kikapcsolódást nyújt.",
+                  "category": "recreational",
+                  "coords": [
+                        8.935181,
+                        54.308628
+                  ]
+            },
+            {
+                  "name": "Erfahrungsfeld Mars-Skipper-Hof",
+                  "text": "Interaktív látványosság Tönningben, amely az érzékszerveket és az észlelést fejleszti.",
+                  "category": "landmark",
+                  "coords": [
+                        8.912056,
+                        54.326528
+                  ]
+            },
+            {
+                  "name": "Packhaus",
+                  "text": "Történelmi raktárépület Tönning kikötőjében, amely ma rendezvényhelyszínként szolgál.",
+                  "category": "landmark",
+                  "coords": [
+                        8.946546,
+                        54.315098
+                  ]
+            },
+            {
+                  "name": "Sankt Laurentius",
+                  "text": "Tönning főterének jellegzetes evangélikus temploma a meghatározó tornyával.",
+                  "category": "religious",
+                  "coords": [
+                        8.940617,
+                        54.317183
+                  ]
+            },
+            {
+                  "name": "Sankt Nikolai",
+                  "text": "Szent Miklósnak szentelt történelmi templom Kotzenbüllben.",
+                  "category": "religious",
+                  "coords": [
+                        8.90308,
+                        54.333763
+                  ]
+            },
+            {
+                  "name": "Alter Hafenkran",
+                  "text": "Műszaki műemlék Tönning kikötőjében, amely a város tengeri múltját idézi.",
+                  "category": "landmark",
+                  "coords": [
+                        8.948508,
+                        54.315885
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Multimar Wattforum",
+                  "text": "Cel mai mare centru de informare pentru Parcul Național al Mării Wadden din Tönning.",
+                  "category": "museum",
+                  "coords": [
+                        8.951882,
+                        54.316813
+                  ]
+            },
+            {
+                  "name": "Oldensworter Vorland",
+                  "text": "O rezervație naturală lângă Tönning, cunoscută pentru peisajul său de coastă caracteristic.",
+                  "category": "natural",
+                  "coords": [
+                        8.977487,
+                        54.330349
+                  ]
+            },
+            {
+                  "name": "Freibad Tönning",
+                  "text": "O piscină publică în aer liber în Tönning, oferind facilități de recreere.",
+                  "category": "recreational",
+                  "coords": [
+                        8.935181,
+                        54.308628
+                  ]
+            },
+            {
+                  "name": "Erfahrungsfeld Mars-Skipper-Hof",
+                  "text": "O atracție interactivă în Tönning, axată pe stimularea simțurilor și a percepției.",
+                  "category": "landmark",
+                  "coords": [
+                        8.912056,
+                        54.326528
+                  ]
+            },
+            {
+                  "name": "Packhaus",
+                  "text": "O clădire istorică de depozitare în portul Tönning, utilizată astăzi ca spațiu pentru evenimente.",
+                  "category": "landmark",
+                  "coords": [
+                        8.946546,
+                        54.315098
+                  ]
+            },
+            {
+                  "name": "Sankt Laurentius",
+                  "text": "Biserica evanghelică proeminentă din piața centrală a orașului Tönning, cu turnul său caracteristic.",
+                  "category": "religious",
+                  "coords": [
+                        8.940617,
+                        54.317183
+                  ]
+            },
+            {
+                  "name": "Sankt Nikolai",
+                  "text": "O biserică istorică din Kotzenbüll, dedicată Sfântului Nicolae.",
+                  "category": "religious",
+                  "coords": [
+                        8.90308,
+                        54.333763
+                  ]
+            },
+            {
+                  "name": "Alter Hafenkran",
+                  "text": "Un monument tehnic în portul Tönning, amintind de istoria maritimă a orașului.",
+                  "category": "landmark",
+                  "coords": [
+                        8.948508,
+                        54.315885
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Multimar Wattforum",
+                  "text": "The largest information centre for the Schleswig-Holstein Wadden Sea National Park in Tönning.",
+                  "category": "museum",
+                  "coords": [
+                        8.951882,
+                        54.316813
+                  ]
+            },
+            {
+                  "name": "Oldensworter Vorland",
+                  "text": "A nature reserve near Tönning known for its characteristic coastal landscape.",
+                  "category": "natural",
+                  "coords": [
+                        8.977487,
+                        54.330349
+                  ]
+            },
+            {
+                  "name": "Freibad Tönning",
+                  "text": "A public outdoor swimming pool in Tönning offering recreational water activities.",
+                  "category": "recreational",
+                  "coords": [
+                        8.935181,
+                        54.308628
+                  ]
+            },
+            {
+                  "name": "Erfahrungsfeld Mars-Skipper-Hof",
+                  "text": "An interactive attraction in Tönning focused on sensory experience and perception.",
+                  "category": "landmark",
+                  "coords": [
+                        8.912056,
+                        54.326528
+                  ]
+            },
+            {
+                  "name": "Packhaus",
+                  "text": "A historic warehouse building in the harbour of Tönning, now used as an event venue.",
+                  "category": "landmark",
+                  "coords": [
+                        8.946546,
+                        54.315098
+                  ]
+            },
+            {
+                  "name": "Sankt Laurentius",
+                  "text": "The prominent Lutheran church on the market square of Tönning, featuring a characteristic tower.",
+                  "category": "religious",
+                  "coords": [
+                        8.940617,
+                        54.317183
+                  ]
+            },
+            {
+                  "name": "Sankt Nikolai",
+                  "text": "A historic church in Kotzenbüll dedicated to Saint Nicholas.",
+                  "category": "religious",
+                  "coords": [
+                        8.90308,
+                        54.333763
+                  ]
+            },
+            {
+                  "name": "Alter Hafenkran",
+                  "text": "A technical monument in the harbour of Tönning, reflecting the town's maritime history.",
+                  "category": "landmark",
+                  "coords": [
+                        8.948508,
+                        54.315885
+                  ]
+            }
+      ]
+},
     type: "kid-landmark",
     parent: "DE-SH",
     coords: [8.940, 54.312],

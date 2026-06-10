@@ -224,7 +224,88 @@ export const moldovaPoi: POI[] = [
     },
   },
   {
-    id: "MD-028-serpeni-bridgehead",
+    id: "MD-028-serpeni-bridgehead", "sights": {
+      "de": [
+            {
+                  "name": "Complexul memorial „Capul de pod Șerpeni”",
+                  "text": "Ein Gedenkkomplex für die Soldaten, die 1944 am Brückenkopf von Șerpeni gekämpft haben.",
+                  "category": "historical",
+                  "coords": [
+                        29.353061,
+                        47.032757
+                  ]
+            },
+            {
+                  "name": "ДОТ № 701 ТиУР",
+                  "text": "Die Ruinen eines Militärbunkers an der Gedenkstätte des Brückenkopfs von Șerpeni.",
+                  "category": "historical",
+                  "coords": [
+                        29.383668,
+                        46.996374
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Complexul memorial „Capul de pod Șerpeni”",
+                  "text": "Emlékkomplexum az 1944-ben a Șerpeni hídfőnél harcoló katonák tiszteletére.",
+                  "category": "historical",
+                  "coords": [
+                        29.353061,
+                        47.032757
+                  ]
+            },
+            {
+                  "name": "ДОТ № 701 ТиУР",
+                  "text": "Egy katonai bunker romjai a Șerpeni hídfő emlékhelyén.",
+                  "category": "historical",
+                  "coords": [
+                        29.383668,
+                        46.996374
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Complexul memorial „Capul de pod Șerpeni”",
+                  "text": "Un complex memorial dedicat soldaților care au luptat la capul de pod Șerpeni în 1944.",
+                  "category": "historical",
+                  "coords": [
+                        29.353061,
+                        47.032757
+                  ]
+            },
+            {
+                  "name": "Buncăr Nr 701 TiRF",
+                  "text": "Ruinele unui buncăr militar la situl Memorialului Capul de pod Șerpeni.",
+                  "category": "historical",
+                  "coords": [
+                        29.383668,
+                        46.996374
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Complexul memorial „Capul de pod Șerpeni”",
+                  "text": "A memorial complex dedicated to the soldiers who fought at the Șerpeni bridgehead in 1944.",
+                  "category": "historical",
+                  "coords": [
+                        29.353061,
+                        47.032757
+                  ]
+            },
+            {
+                  "name": "Bunker No 701 TiFR",
+                  "text": "The ruins of a military bunker at the Șerpeni Bridgehead Memorial site.",
+                  "category": "historical",
+                  "coords": [
+                        29.383668,
+                        46.996374
+                  ]
+            }
+      ]
+},
     type: "historical",
     parent: "MD-028",
     coords: [29.3511, 47.0222],
@@ -591,7 +672,88 @@ export const moldovaPoi: POI[] = [
     },
   },
   {
-    id: "MD-029-curchi-monastery",
+    id: "MD-029-curchi-monastery", "sights": {
+      "de": [
+            {
+                  "name": "Manastirea Curchi",
+                  "text": "Das Kloster Curchi ist ein bedeutendes religiöses und architektonisches Denkmal.",
+                  "category": "landmark",
+                  "coords": [
+                        28.653084,
+                        47.333783
+                  ]
+            },
+            {
+                  "name": "Cimitir militar românesc",
+                  "text": "Der rumänische Militärfriedhof ist eine Gedenkstätte in der Nähe des Klosters.",
+                  "category": "landmark",
+                  "coords": [
+                        28.689794,
+                        47.342285
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Manastirea Curchi",
+                  "text": "A Curchi-kolostor egy jelentős vallási és építészeti műemlék.",
+                  "category": "landmark",
+                  "coords": [
+                        28.653084,
+                        47.333783
+                  ]
+            },
+            {
+                  "name": "Cimitir militar românesc",
+                  "text": "A román katonai temető egy emlékhely a kolostor közelében.",
+                  "category": "landmark",
+                  "coords": [
+                        28.689794,
+                        47.342285
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Manastirea Curchi",
+                  "text": "Mănăstirea Curchi este un important monument religios și arhitectural.",
+                  "category": "landmark",
+                  "coords": [
+                        28.653084,
+                        47.333783
+                  ]
+            },
+            {
+                  "name": "Cimitir militar românesc",
+                  "text": "Cimitirul militar românesc este un loc de memorie situat lângă mănăstire.",
+                  "category": "landmark",
+                  "coords": [
+                        28.689794,
+                        47.342285
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Manastirea Curchi",
+                  "text": "Curchi Monastery is a significant religious and architectural monument.",
+                  "category": "landmark",
+                  "coords": [
+                        28.653084,
+                        47.333783
+                  ]
+            },
+            {
+                  "name": "Cimitir militar românesc",
+                  "text": "The Romanian military cemetery is a memorial site located near the monastery.",
+                  "category": "landmark",
+                  "coords": [
+                        28.689794,
+                        47.342285
+                  ]
+            }
+      ]
+},
     type: "historical",
     parent: "MD-029",
     coords: [28.6500, 47.3333],
@@ -3138,7 +3300,304 @@ export const moldovaPoi: POI[] = [
     },
   },
   {
-    id: "MD-035-tipova-monastery",
+    id: "MD-035-tipova-monastery", "sights": {
+      "de": [
+            {
+                  "name": "Cetățuia getică",
+                  "text": "Die antiken archäologischen Überreste einer getischen Festung in der Nähe des Klosters Țipova.",
+                  "category": "historical",
+                  "coords": [
+                        28.960455,
+                        47.618573
+                  ]
+            },
+            {
+                  "name": "Kloster Țipova",
+                  "text": "Eines der größten Höhlenklöster Osteuropas, das in die Klippen am Fluss Dnister gehauen wurde.",
+                  "category": "landmark",
+                  "coords": [
+                        28.98484,
+                        47.603093
+                  ]
+            },
+            {
+                  "name": "Biserica rupestra Tipova",
+                  "text": "Eine historische orthodoxe Höhlenkirche, die Teil des Klosterkomplexes von Țipova ist.",
+                  "category": "landmark",
+                  "coords": [
+                        28.989692,
+                        47.601786
+                  ]
+            },
+            {
+                  "name": "Cascada Moara Veche",
+                  "text": "Ein malerischer Wasserfall in der Naturlandschaft rund um das Kloster Țipova.",
+                  "category": "landmark",
+                  "coords": [
+                        28.959241,
+                        47.619767
+                  ]
+            },
+            {
+                  "name": "Cascada Mare",
+                  "text": "Ein großer natürlicher Wasserfall im Naturschutzgebiet Țipova.",
+                  "category": "landmark",
+                  "coords": [
+                        28.962464,
+                        47.618799
+                  ]
+            },
+            {
+                  "name": "Cascada dublă",
+                  "text": "Ein wunderschöner Doppelwasserfall in der Nähe des Höhlenklosterkomplexes von Țipova.",
+                  "category": "landmark",
+                  "coords": [
+                        28.964074,
+                        47.614066
+                  ]
+            },
+            {
+                  "name": "Cascada Orașul Păsărilor",
+                  "text": "Ein Wasserfall in den malerischen Schluchten des Naturschutzgebiets Țipova.",
+                  "category": "landmark",
+                  "coords": [
+                        28.961889,
+                        47.612461
+                  ]
+            },
+            {
+                  "name": "Cascada secată",
+                  "text": "Ein saisonaler Wasserfall in der Nähe des Höhlenklosters Țipova.",
+                  "category": "landmark",
+                  "coords": [
+                        28.974862,
+                        47.60714
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Cetățuia getică",
+                  "text": "Egy géta erőd ősi régészeti maradványai a Țipova-kolostor közelében.",
+                  "category": "historical",
+                  "coords": [
+                        28.960455,
+                        47.618573
+                  ]
+            },
+            {
+                  "name": "Manastirea Țipova",
+                  "text": "Kelet-Európa egyik legnagyobb barlangkolostora, amelyet a Dnyeszter folyó menti sziklákba vájtak.",
+                  "category": "landmark",
+                  "coords": [
+                        28.98484,
+                        47.603093
+                  ]
+            },
+            {
+                  "name": "Biserica rupestra Tipova",
+                  "text": "Történelmi ortodox barlangtemplom, amely a Țipova kolostorkomplexum részét képezi.",
+                  "category": "landmark",
+                  "coords": [
+                        28.989692,
+                        47.601786
+                  ]
+            },
+            {
+                  "name": "Cascada Moara Veche",
+                  "text": "Festői vízesés a Țipova-kolostort körülvevő természeti környezetben.",
+                  "category": "landmark",
+                  "coords": [
+                        28.959241,
+                        47.619767
+                  ]
+            },
+            {
+                  "name": "Cascada Mare",
+                  "text": "Nagy természetes vízesés a Țipova természetvédelmi területen.",
+                  "category": "landmark",
+                  "coords": [
+                        28.962464,
+                        47.618799
+                  ]
+            },
+            {
+                  "name": "Cascada dublă",
+                  "text": "Gyönyörű kettős vízesés a Țipova barlangkolostor közelében.",
+                  "category": "landmark",
+                  "coords": [
+                        28.964074,
+                        47.614066
+                  ]
+            },
+            {
+                  "name": "Cascada Orașul Păsărilor",
+                  "text": "Vízesés a Țipova természetvédelmi terület festői szurdokaiban.",
+                  "category": "landmark",
+                  "coords": [
+                        28.961889,
+                        47.612461
+                  ]
+            },
+            {
+                  "name": "Cascada secată",
+                  "text": "Egy időszakos vízesés a Țipova barlangkolostor közelében.",
+                  "category": "landmark",
+                  "coords": [
+                        28.974862,
+                        47.60714
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Cetățuia getică",
+                  "text": "Rămășițele arheologice antice ale unei cetăți getice din apropierea Mănăstirii Țipova.",
+                  "category": "historical",
+                  "coords": [
+                        28.960455,
+                        47.618573
+                  ]
+            },
+            {
+                  "name": "Manastirea Țipova",
+                  "text": "Una dintre cele mai mari mănăstiri rupestre din Europa de Est, săpată în stâncile de-a lungul râului Nistru.",
+                  "category": "landmark",
+                  "coords": [
+                        28.98484,
+                        47.603093
+                  ]
+            },
+            {
+                  "name": "Biserica rupestra Tipova",
+                  "text": "O biserică rupestră ortodoxă istorică, parte a complexului monastic Țipova.",
+                  "category": "landmark",
+                  "coords": [
+                        28.989692,
+                        47.601786
+                  ]
+            },
+            {
+                  "name": "Cascada Moara Veche",
+                  "text": "O cascadă pitorească situată în peisajul natural din jurul Mănăstirii Țipova.",
+                  "category": "landmark",
+                  "coords": [
+                        28.959241,
+                        47.619767
+                  ]
+            },
+            {
+                  "name": "Cascada Mare",
+                  "text": "O cascadă naturală mare situată în rezervația naturală Țipova.",
+                  "category": "landmark",
+                  "coords": [
+                        28.962464,
+                        47.618799
+                  ]
+            },
+            {
+                  "name": "Cascada dublă",
+                  "text": "O cascadă dublă frumoasă situată lângă complexul monastic rupestru Țipova.",
+                  "category": "landmark",
+                  "coords": [
+                        28.964074,
+                        47.614066
+                  ]
+            },
+            {
+                  "name": "Cascada Orașul Păsărilor",
+                  "text": "O cascadă situată în defileele pitorești ale zonei naturale Țipova.",
+                  "category": "landmark",
+                  "coords": [
+                        28.961889,
+                        47.612461
+                  ]
+            },
+            {
+                  "name": "Cascada secată",
+                  "text": "O cascadă sezonieră situată în apropierea mănăstirii rupestre Țipova.",
+                  "category": "landmark",
+                  "coords": [
+                        28.974862,
+                        47.60714
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Cetățuia getică",
+                  "text": "The ancient archaeological remains of a Getic fortress near the Țipova Monastery.",
+                  "category": "historical",
+                  "coords": [
+                        28.960455,
+                        47.618573
+                  ]
+            },
+            {
+                  "name": "Țipova Monastery",
+                  "text": "One of the largest cave monasteries in Eastern Europe, carved into the cliffs along the Dniester River.",
+                  "category": "landmark",
+                  "coords": [
+                        28.98484,
+                        47.603093
+                  ]
+            },
+            {
+                  "name": "Biserica rupestra Tipova",
+                  "text": "A historic Orthodox cave church forming part of the Țipova monastic complex.",
+                  "category": "landmark",
+                  "coords": [
+                        28.989692,
+                        47.601786
+                  ]
+            },
+            {
+                  "name": "Cascada Moara Veche",
+                  "text": "A scenic waterfall located within the natural landscape surrounding the Țipova Monastery.",
+                  "category": "landmark",
+                  "coords": [
+                        28.959241,
+                        47.619767
+                  ]
+            },
+            {
+                  "name": "Cascada Mare",
+                  "text": "A large natural waterfall situated in the Țipova nature reserve.",
+                  "category": "landmark",
+                  "coords": [
+                        28.962464,
+                        47.618799
+                  ]
+            },
+            {
+                  "name": "Cascada dublă",
+                  "text": "A beautiful double waterfall located near the Țipova cave monastic complex.",
+                  "category": "landmark",
+                  "coords": [
+                        28.964074,
+                        47.614066
+                  ]
+            },
+            {
+                  "name": "Cascada Orașul Păsărilor",
+                  "text": "A waterfall located in the scenic gorges of the Țipova nature area.",
+                  "category": "landmark",
+                  "coords": [
+                        28.961889,
+                        47.612461
+                  ]
+            },
+            {
+                  "name": "Cascada secată",
+                  "text": "A seasonal waterfall located near the Țipova Cave Monastery.",
+                  "category": "landmark",
+                  "coords": [
+                        28.974862,
+                        47.60714
+                  ]
+            }
+      ]
+},
     type: "historical",
     parent: "MD-035",
     coords: [28.9800, 47.6000],
@@ -3173,7 +3632,304 @@ export const moldovaPoi: POI[] = [
     },
   },
   {
-    id: "MD-035-horodiste-village",
+    id: "MD-035-horodiste-village", "sights": {
+      "de": [
+            {
+                  "name": "Cetățuia getică",
+                  "text": "Eine antike getische Festung in der Nähe von Horodiște, eine bedeutende archäologische Stätte der Region.",
+                  "category": "historical",
+                  "coords": [
+                        28.960455,
+                        47.618573
+                  ]
+            },
+            {
+                  "name": "Kloster Țipova",
+                  "text": "Ein berühmtes Höhlenkloster bei Horodiște, gelegen an den malerischen Klippen des Dnjestr.",
+                  "category": "landmark",
+                  "coords": [
+                        28.98484,
+                        47.603093
+                  ]
+            },
+            {
+                  "name": "Biserica rupestra Tipova",
+                  "text": "Eine historische Felsenkirche in der Region Horodiște, Teil des Klostersystems von Țipova.",
+                  "category": "landmark",
+                  "coords": [
+                        28.989692,
+                        47.601786
+                  ]
+            },
+            {
+                  "name": "Cascada Moara Veche",
+                  "text": "Ein malerischer Wasserfall bei Horodiște, bekannt für seine natürliche Schönheit in der Nähe einer alten Mühle.",
+                  "category": "landmark",
+                  "coords": [
+                        28.959241,
+                        47.619767
+                  ]
+            },
+            {
+                  "name": "Cascada Mare",
+                  "text": "Der größte Wasserfall in der Gegend von Horodiște, ein beeindruckendes Naturdenkmal.",
+                  "category": "landmark",
+                  "coords": [
+                        28.962464,
+                        47.618799
+                  ]
+            },
+            {
+                  "name": "Cascada dublă",
+                  "text": "Ein schöner Doppelwasserfall bei Horodiște, ein beliebtes Ziel für Naturfreunde.",
+                  "category": "landmark",
+                  "coords": [
+                        28.964074,
+                        47.614066
+                  ]
+            },
+            {
+                  "name": "Cascada Orașul Păsărilor",
+                  "text": "Ein Wasserfall mit dem poetischen Namen „Stadt der Vögel“ in der Nähe von Horodiște.",
+                  "category": "landmark",
+                  "coords": [
+                        28.961889,
+                        47.612461
+                  ]
+            },
+            {
+                  "name": "Cascada secată",
+                  "text": "Ein saisonaler Wasserfall bei Horodiște, der besonders nach starken Regenfällen sichtbar ist.",
+                  "category": "landmark",
+                  "coords": [
+                        28.974862,
+                        47.60714
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Cetățuia getică",
+                  "text": "Ősi geta erődítmény Horodiște közelében, a régió egyik jelentős régészeti lelőhelye.",
+                  "category": "historical",
+                  "coords": [
+                        28.960455,
+                        47.618573
+                  ]
+            },
+            {
+                  "name": "Manastirea Țipova",
+                  "text": "Híres barlangkolostor Horodiște közelében, a Dnyeszter festői szikláinál.",
+                  "category": "landmark",
+                  "coords": [
+                        28.98484,
+                        47.603093
+                  ]
+            },
+            {
+                  "name": "Biserica rupestra Tipova",
+                  "text": "Történelmi sziklatemplom Horodiște régiójában, a Țipova kolostoregyüttes része.",
+                  "category": "landmark",
+                  "coords": [
+                        28.989692,
+                        47.601786
+                  ]
+            },
+            {
+                  "name": "Cascada Moara Veche",
+                  "text": "Festői vízesés Horodiște közelében, amely egy régi malom melletti természeti szépségéről ismert.",
+                  "category": "landmark",
+                  "coords": [
+                        28.959241,
+                        47.619767
+                  ]
+            },
+            {
+                  "name": "Cascada Mare",
+                  "text": "Horodiște környékének legnagyobb vízesése, lenyűgöző természeti látványosság.",
+                  "category": "landmark",
+                  "coords": [
+                        28.962464,
+                        47.618799
+                  ]
+            },
+            {
+                  "name": "Cascada dublă",
+                  "text": "Szép kettős vízesés Horodiște közelében, a természetjárók kedvelt célpontja.",
+                  "category": "landmark",
+                  "coords": [
+                        28.964074,
+                        47.614066
+                  ]
+            },
+            {
+                  "name": "Cascada Orașul Păsărilor",
+                  "text": "A költői „Madarak városa” nevet viselő vízesés Horodiște közelében.",
+                  "category": "landmark",
+                  "coords": [
+                        28.961889,
+                        47.612461
+                  ]
+            },
+            {
+                  "name": "Cascada secată",
+                  "text": "Időszakos vízesés Horodiște közelében, amely főként nagy esőzések után látható.",
+                  "category": "landmark",
+                  "coords": [
+                        28.974862,
+                        47.60714
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Cetățuia getică",
+                  "text": "O antică cetățuie getică lângă Horodiște, un sit arheologic important al regiunii.",
+                  "category": "historical",
+                  "coords": [
+                        28.960455,
+                        47.618573
+                  ]
+            },
+            {
+                  "name": "Manastirea Țipova",
+                  "text": "O faimoasă mănăstire rupestră lângă Horodiște, situată pe malurile pitorești ale Nistrului.",
+                  "category": "landmark",
+                  "coords": [
+                        28.98484,
+                        47.603093
+                  ]
+            },
+            {
+                  "name": "Biserica rupestra Tipova",
+                  "text": "O biserică istorică săpată în stâncă în regiunea Horodiște, parte a complexului monahal Țipova.",
+                  "category": "landmark",
+                  "coords": [
+                        28.989692,
+                        47.601786
+                  ]
+            },
+            {
+                  "name": "Cascada Moara Veche",
+                  "text": "O cascadă pitorească lângă Horodiște, cunoscută pentru frumusețea sa naturală din apropierea unei vechi mori.",
+                  "category": "landmark",
+                  "coords": [
+                        28.959241,
+                        47.619767
+                  ]
+            },
+            {
+                  "name": "Cascada Mare",
+                  "text": "Cea mai mare cascadă din zona Horodiște, un monument natural impresionant.",
+                  "category": "landmark",
+                  "coords": [
+                        28.962464,
+                        47.618799
+                  ]
+            },
+            {
+                  "name": "Cascada dublă",
+                  "text": "O frumoasă cascadă dublă lângă Horodiște, o destinație populară pentru iubitorii de natură.",
+                  "category": "landmark",
+                  "coords": [
+                        28.964074,
+                        47.614066
+                  ]
+            },
+            {
+                  "name": "Cascada Orașul Păsărilor",
+                  "text": "O cascadă cu numele poetic „Orașul Păsărilor” situată în apropiere de Horodiște.",
+                  "category": "landmark",
+                  "coords": [
+                        28.961889,
+                        47.612461
+                  ]
+            },
+            {
+                  "name": "Cascada secată",
+                  "text": "O cascadă sezonieră lângă Horodiște, vizibilă mai ales după ploi abundente.",
+                  "category": "landmark",
+                  "coords": [
+                        28.974862,
+                        47.60714
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Cetățuia getică",
+                  "text": "An ancient Getic fortress near Horodiște, a significant archaeological site in the region.",
+                  "category": "historical",
+                  "coords": [
+                        28.960455,
+                        47.618573
+                  ]
+            },
+            {
+                  "name": "Țipova Monastery",
+                  "text": "A famous cave monastery near Horodiște, located on the picturesque cliffs of the Dniester.",
+                  "category": "landmark",
+                  "coords": [
+                        28.98484,
+                        47.603093
+                  ]
+            },
+            {
+                  "name": "Biserica rupestra Tipova",
+                  "text": "A historic rock-cut church in the Horodiște region, part of the Țipova monastery system.",
+                  "category": "landmark",
+                  "coords": [
+                        28.989692,
+                        47.601786
+                  ]
+            },
+            {
+                  "name": "Cascada Moara Veche",
+                  "text": "A picturesque waterfall near Horodiște, known for its natural beauty near an old mill.",
+                  "category": "landmark",
+                  "coords": [
+                        28.959241,
+                        47.619767
+                  ]
+            },
+            {
+                  "name": "Cascada Mare",
+                  "text": "The largest waterfall in the Horodiște area, an impressive natural monument.",
+                  "category": "landmark",
+                  "coords": [
+                        28.962464,
+                        47.618799
+                  ]
+            },
+            {
+                  "name": "Cascada dublă",
+                  "text": "A beautiful double waterfall near Horodiște, a popular destination for nature lovers.",
+                  "category": "landmark",
+                  "coords": [
+                        28.964074,
+                        47.614066
+                  ]
+            },
+            {
+                  "name": "Cascada Orașul Păsărilor",
+                  "text": "A waterfall with the poetic name 'City of Birds' located near Horodiște.",
+                  "category": "landmark",
+                  "coords": [
+                        28.961889,
+                        47.612461
+                  ]
+            },
+            {
+                  "name": "Cascada secată",
+                  "text": "A seasonal waterfall near Horodiște, visible mainly after heavy rainfall.",
+                  "category": "landmark",
+                  "coords": [
+                        28.974862,
+                        47.60714
+                  ]
+            }
+      ]
+},
     type: "landmark",
     parent: "MD-035",
     coords: [28.9500, 47.6000],

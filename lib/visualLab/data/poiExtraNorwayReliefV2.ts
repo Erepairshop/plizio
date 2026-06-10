@@ -48,7 +48,124 @@ export const norwayReliefV2: POI[] = [
     image: "/poi-images/norway-snøhetta-mountain-relief-v2.webp",
   },
   {
-    id: "norway-trollveggen-cliff-relief-v2",
+    id: "norway-trollveggen-cliff-relief-v2", "sights": {
+      "de": [
+            {
+                  "name": "Romsdalshornet",
+                  "text": "Das Romsdalshornet ist ein markanter Berggipfel in der Nähe der Trollveggen-Wand in Norwegen.",
+                  "category": "landmark",
+                  "coords": [
+                        7.786146,
+                        62.491242
+                  ]
+            },
+            {
+                  "name": "Stabbeskaret",
+                  "text": "Der Stabbeskaret ist ein Aussichtspunkt, der einen spektakulären Blick auf die Trollveggen-Felswand bietet.",
+                  "category": "natural",
+                  "coords": [
+                        7.737574,
+                        62.474729
+                  ]
+            },
+            {
+                  "name": "Bruraskaret",
+                  "text": "Bruraskaret ist ein bekannter Aussichtspunkt am Rande der Trollveggen-Steilwand.",
+                  "category": "natural",
+                  "coords": [
+                        7.721816,
+                        62.482373
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Romsdalshornet",
+                  "text": "A Romsdalshornet egy jellegzetes hegycsúcs Norvégiában, a Trollveggen közelében.",
+                  "category": "landmark",
+                  "coords": [
+                        7.786146,
+                        62.491242
+                  ]
+            },
+            {
+                  "name": "Stabbeskaret",
+                  "text": "A Stabbeskaret egy kilátópont, ahonnan lenyűgöző kilátás nyílik a Trollveggen sziklafalra.",
+                  "category": "natural",
+                  "coords": [
+                        7.737574,
+                        62.474729
+                  ]
+            },
+            {
+                  "name": "Bruraskaret",
+                  "text": "A Bruraskaret egy ismert kilátópont a Trollveggen szakadékának szélén.",
+                  "category": "natural",
+                  "coords": [
+                        7.721816,
+                        62.482373
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Romsdalshornet",
+                  "text": "Romsdalshornet este un vârf montan proeminent situat în apropierea peretelui Trollveggen din Norvegia.",
+                  "category": "landmark",
+                  "coords": [
+                        7.786146,
+                        62.491242
+                  ]
+            },
+            {
+                  "name": "Stabbeskaret",
+                  "text": "Stabbeskaret este un punct de belvedere care oferă o vedere spectaculoasă asupra peretelui Trollveggen.",
+                  "category": "natural",
+                  "coords": [
+                        7.737574,
+                        62.474729
+                  ]
+            },
+            {
+                  "name": "Bruraskaret",
+                  "text": "Bruraskaret este un punct de observație renumit situat pe marginea abruptă a peretelui Trollveggen.",
+                  "category": "natural",
+                  "coords": [
+                        7.721816,
+                        62.482373
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Romsdalshornet",
+                  "text": "Romsdalshornet is a prominent mountain peak located near the Trollveggen wall in Norway.",
+                  "category": "landmark",
+                  "coords": [
+                        7.786146,
+                        62.491242
+                  ]
+            },
+            {
+                  "name": "Stabbeskaret",
+                  "text": "Stabbeskaret is a viewpoint offering a spectacular view of the Trollveggen rock face.",
+                  "category": "natural",
+                  "coords": [
+                        7.737574,
+                        62.474729
+                  ]
+            },
+            {
+                  "name": "Bruraskaret",
+                  "text": "Bruraskaret is a well-known viewpoint on the edge of the Trollveggen precipice.",
+                  "category": "natural",
+                  "coords": [
+                        7.721816,
+                        62.482373
+                  ]
+            }
+      ]
+},
     type: "mountain",
     parent: "NO",
     name: { de: "Trollveggen", hu: "Trollveggen", ro: "Trollveggen", en: "Trollveggen" },
@@ -138,7 +255,88 @@ export const norwayReliefV2: POI[] = [
     image: "/poi-images/norway-hallingskarvet-plateau-relief-v2.webp",
   },
   {
-    id: "norway-besseggen-ridge-relief-v2",
+    id: "norway-besseggen-ridge-relief-v2", "sights": {
+      "de": [
+            {
+                  "name": "Veslfjellet",
+                  "text": "Der höchste Punkt des Besseggen-Grates mit Panoramablick auf die Seen Gjende und Bessvatnet.",
+                  "category": "landmark",
+                  "coords": [
+                        8.752836,
+                        61.505781
+                  ]
+            },
+            {
+                  "name": "Besshøe",
+                  "text": "Ein Berg in der Nähe des Besseggen-Grates, der eine beeindruckende Aussicht auf den Jotunheimen-Nationalpark bietet.",
+                  "category": "landmark",
+                  "coords": [
+                        8.687325,
+                        61.51791
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Veslfjellet",
+                  "text": "A Besseggen-gerinc legmagasabb pontja, panorámás kilátással a Gjende és Bessvatnet tavakra.",
+                  "category": "landmark",
+                  "coords": [
+                        8.752836,
+                        61.505781
+                  ]
+            },
+            {
+                  "name": "Besshøe",
+                  "text": "Hegy a Besseggen-gerinc közelében, amely lenyűgöző kilátást nyújt a Jotunheimen Nemzeti Parkra.",
+                  "category": "landmark",
+                  "coords": [
+                        8.687325,
+                        61.51791
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Veslfjellet",
+                  "text": "Cel mai înalt punct al crestei Besseggen, oferind vederi panoramice asupra lacurilor Gjende și Bessvatnet.",
+                  "category": "landmark",
+                  "coords": [
+                        8.752836,
+                        61.505781
+                  ]
+            },
+            {
+                  "name": "Besshøe",
+                  "text": "Un munte în apropierea crestei Besseggen, oferind o vedere impresionantă asupra Parcului Național Jotunheimen.",
+                  "category": "landmark",
+                  "coords": [
+                        8.687325,
+                        61.51791
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Veslfjellet",
+                  "text": "The highest point on the Besseggen ridge, offering panoramic views of lakes Gjende and Bessvatnet.",
+                  "category": "landmark",
+                  "coords": [
+                        8.752836,
+                        61.505781
+                  ]
+            },
+            {
+                  "name": "Besshøe",
+                  "text": "A mountain near the Besseggen ridge offering impressive views of Jotunheimen National Park.",
+                  "category": "landmark",
+                  "coords": [
+                        8.687325,
+                        61.51791
+                  ]
+            }
+      ]
+},
     type: "mountain",
     parent: "NO",
     name: { de: "Besseggen", hu: "Besseggen", ro: "Besseggen", en: "Besseggen" },
@@ -183,7 +381,124 @@ export const norwayReliefV2: POI[] = [
     image: "/poi-images/norway-besseggen-ridge-relief-v2.webp",
   },
   {
-    id: "norway-trolltunga-cliff-relief-v2",
+    id: "norway-trolltunga-cliff-relief-v2", "sights": {
+      "de": [
+            {
+                  "name": "Trollzunge",
+                  "text": "Die Trolltunga ist eine spektakuläre Felsformation, die waagerecht aus dem Fels ragt.",
+                  "category": "natural",
+                  "coords": [
+                        6.753998,
+                        60.132958
+                  ]
+            },
+            {
+                  "name": "Ringedalsvatnet",
+                  "text": "Ein malerischer See in der Nähe der Trolltunga-Formation.",
+                  "category": "landmark",
+                  "coords": [
+                        6.69511,
+                        60.122374
+                  ]
+            },
+            {
+                  "name": "Preikestolen",
+                  "text": "Ein Aussichtspunkt mit weitem Blick über die umliegende Landschaft.",
+                  "category": "natural",
+                  "coords": [
+                        6.755159,
+                        60.121782
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Trolltunga",
+                  "text": "A Trolltunga egy látványos sziklaképződmény, amely vízszintesen nyúlik ki a hegyoldalból.",
+                  "category": "natural",
+                  "coords": [
+                        6.753998,
+                        60.132958
+                  ]
+            },
+            {
+                  "name": "Ringedalsvatnet",
+                  "text": "Egy festői tó a híres Trolltunga szikla közelében.",
+                  "category": "landmark",
+                  "coords": [
+                        6.69511,
+                        60.122374
+                  ]
+            },
+            {
+                  "name": "Preikestolen",
+                  "text": "Kilátópont, ahonnan széles panoráma nyílik a környező tájra.",
+                  "category": "natural",
+                  "coords": [
+                        6.755159,
+                        60.121782
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Trolltunga",
+                  "text": "Trolltunga este o formațiune stâncoasă spectaculoasă care iese în afară deasupra hăului.",
+                  "category": "natural",
+                  "coords": [
+                        6.753998,
+                        60.132958
+                  ]
+            },
+            {
+                  "name": "Ringedalsvatnet",
+                  "text": "Un lac pitoresc situat în apropierea celebrei formațiuni Trolltunga.",
+                  "category": "landmark",
+                  "coords": [
+                        6.69511,
+                        60.122374
+                  ]
+            },
+            {
+                  "name": "Preikestolen",
+                  "text": "Un punct de observație care oferă o panoramă vastă asupra peisajului înconjurător.",
+                  "category": "natural",
+                  "coords": [
+                        6.755159,
+                        60.121782
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Troll tongue",
+                  "text": "Trolltunga is a spectacular rock formation jutting out horizontally from the mountain.",
+                  "category": "natural",
+                  "coords": [
+                        6.753998,
+                        60.132958
+                  ]
+            },
+            {
+                  "name": "Ringedalsvatnet",
+                  "text": "A scenic lake located near the famous Trolltunga rock formation.",
+                  "category": "landmark",
+                  "coords": [
+                        6.69511,
+                        60.122374
+                  ]
+            },
+            {
+                  "name": "Preikestolen",
+                  "text": "A viewpoint offering a wide panorama of the surrounding landscape.",
+                  "category": "natural",
+                  "coords": [
+                        6.755159,
+                        60.121782
+                  ]
+            }
+      ]
+},
     type: "landmark",
     parent: "NO",
     name: { de: "Trolltunga", hu: "Trolltunga", ro: "Trolltunga", en: "Trolltunga" },
@@ -228,7 +543,232 @@ export const norwayReliefV2: POI[] = [
     image: "/poi-images/norway-trolltunga-cliff-relief-v2.webp",
   },
   {
-    id: "norway-gaustatoppen-peak-relief-v2",
+    id: "norway-gaustatoppen-peak-relief-v2", "sights": {
+      "de": [
+            {
+                  "name": "Gausdalen naturreservat",
+                  "text": "Ein Naturschutzgebiet in Norwegen, das durch seine unberührte Berglandschaft besticht.",
+                  "category": "natural",
+                  "coords": [
+                        8.636708,
+                        59.84273
+                  ]
+            },
+            {
+                  "name": "Tinn museum",
+                  "text": "Ein kulturgeschichtliches Museum, das Einblicke in das Leben und die Traditionen der Region Tinn bietet.",
+                  "category": "museum",
+                  "coords": [
+                        8.648063,
+                        59.881474
+                  ]
+            },
+            {
+                  "name": "Gaustatoppen",
+                  "text": "Ein markanter Berg in Norwegen, der für seine weite Aussicht über das Land bekannt ist.",
+                  "category": "landmark",
+                  "coords": [
+                        8.649265,
+                        59.854209
+                  ]
+            },
+            {
+                  "name": "Tveitoparken",
+                  "text": "Ein öffentlicher Park in Rjukan, der zur Erholung und Freizeitgestaltung einlädt.",
+                  "category": "park",
+                  "coords": [
+                        8.629997,
+                        59.879714
+                  ]
+            },
+            {
+                  "name": "Dal kirke",
+                  "text": "Eine Holzkirche in der Gemeinde Tinn, die als lokales Kulturdenkmal gilt.",
+                  "category": "religious",
+                  "coords": [
+                        8.674972,
+                        59.882915
+                  ]
+            },
+            {
+                  "name": "Rjukan kirke",
+                  "text": "Die Hauptkirche von Rjukan, ein markantes Steingebäude im Zentrum der Stadt.",
+                  "category": "religious",
+                  "coords": [
+                        8.607408,
+                        59.879501
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Gausdalen naturreservat",
+                  "text": "Norvégiai természetvédelmi terület, amely érintetlen hegyi tájairól ismert.",
+                  "category": "natural",
+                  "coords": [
+                        8.636708,
+                        59.84273
+                  ]
+            },
+            {
+                  "name": "Tinn museum",
+                  "text": "Kultúrtörténeti múzeum, amely betekintést nyújt Tinn régió életébe és hagyományaiba.",
+                  "category": "museum",
+                  "coords": [
+                        8.648063,
+                        59.881474
+                  ]
+            },
+            {
+                  "name": "Gaustatoppen",
+                  "text": "Jellegzetes norvég hegycsúcs, amely az országra nyíló pazar kilátásáról híres.",
+                  "category": "landmark",
+                  "coords": [
+                        8.649265,
+                        59.854209
+                  ]
+            },
+            {
+                  "name": "Tveitoparken",
+                  "text": "Nyilvános park Rjukanban, amely pihenésre és szabadidős tevékenységekre várja a látogatókat.",
+                  "category": "park",
+                  "coords": [
+                        8.629997,
+                        59.879714
+                  ]
+            },
+            {
+                  "name": "Dal kirke",
+                  "text": "Tinn községben található fatemplom, amely helyi kulturális műemléknek számít.",
+                  "category": "religious",
+                  "coords": [
+                        8.674972,
+                        59.882915
+                  ]
+            },
+            {
+                  "name": "Rjukan kirke",
+                  "text": "Rjukan főtemploma, a városközpontban található jellegzetes kőépület.",
+                  "category": "religious",
+                  "coords": [
+                        8.607408,
+                        59.879501
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Gausdalen naturreservat",
+                  "text": "O rezervație naturală din Norvegia, remarcabilă prin peisajele sale montane neatinse.",
+                  "category": "natural",
+                  "coords": [
+                        8.636708,
+                        59.84273
+                  ]
+            },
+            {
+                  "name": "Tinn museum",
+                  "text": "Un muzeu de istorie culturală care oferă o perspectivă asupra vieții și tradițiilor din regiunea Tinn.",
+                  "category": "museum",
+                  "coords": [
+                        8.648063,
+                        59.881474
+                  ]
+            },
+            {
+                  "name": "Gaustatoppen",
+                  "text": "Un munte emblematic din Norvegia, renumit pentru panorama vastă pe care o oferă asupra țării.",
+                  "category": "landmark",
+                  "coords": [
+                        8.649265,
+                        59.854209
+                  ]
+            },
+            {
+                  "name": "Tveitoparken",
+                  "text": "Un parc public din Rjukan, ideal pentru recreere și activități în aer liber.",
+                  "category": "park",
+                  "coords": [
+                        8.629997,
+                        59.879714
+                  ]
+            },
+            {
+                  "name": "Dal kirke",
+                  "text": "O biserică de lemn din comuna Tinn, considerată un monument cultural local.",
+                  "category": "religious",
+                  "coords": [
+                        8.674972,
+                        59.882915
+                  ]
+            },
+            {
+                  "name": "Rjukan kirke",
+                  "text": "Biserica principală din Rjukan, o clădire de piatră impunătoare situată în centrul orașului.",
+                  "category": "religious",
+                  "coords": [
+                        8.607408,
+                        59.879501
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Gausdalen Nature Reserve",
+                  "text": "A nature reserve in Norway, notable for its untouched mountain landscapes.",
+                  "category": "natural",
+                  "coords": [
+                        8.636708,
+                        59.84273
+                  ]
+            },
+            {
+                  "name": "Tinn museum",
+                  "text": "A cultural history museum offering insights into the life and traditions of the Tinn region.",
+                  "category": "museum",
+                  "coords": [
+                        8.648063,
+                        59.881474
+                  ]
+            },
+            {
+                  "name": "Gaustatoppen",
+                  "text": "An iconic mountain in Norway, famous for its wide-ranging views across the country.",
+                  "category": "landmark",
+                  "coords": [
+                        8.649265,
+                        59.854209
+                  ]
+            },
+            {
+                  "name": "Tveitoparken",
+                  "text": "A public park in Rjukan, inviting visitors for recreation and leisure activities.",
+                  "category": "park",
+                  "coords": [
+                        8.629997,
+                        59.879714
+                  ]
+            },
+            {
+                  "name": "Dal kirke",
+                  "text": "A wooden church in Tinn municipality, considered a local cultural monument.",
+                  "category": "religious",
+                  "coords": [
+                        8.674972,
+                        59.882915
+                  ]
+            },
+            {
+                  "name": "Rjukan kirke",
+                  "text": "The main church of Rjukan, a prominent stone building in the town center.",
+                  "category": "religious",
+                  "coords": [
+                        8.607408,
+                        59.879501
+                  ]
+            }
+      ]
+},
     type: "peak",
     parent: "NO",
     name: { de: "Gaustatoppen", hu: "Gaustatoppen", ro: "Gaustatoppen", en: "Gaustatoppen" },
@@ -363,7 +903,52 @@ export const norwayReliefV2: POI[] = [
     image: "/poi-images/norway-blatinden-peak-relief-v2.webp",
   },
   {
-    id: "norway-dovrefjell-plateau-relief-v2",
+    id: "norway-dovrefjell-plateau-relief-v2", "sights": {
+      "de": [
+            {
+                  "name": "Snøhetta",
+                  "text": "Der höchste Berg im Dovrefjell-Gebirge, bekannt für seine malerische Aussicht.",
+                  "category": "landmark",
+                  "coords": [
+                        9.267825,
+                        62.319862
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Snøhetta",
+                  "text": "A Dovrefjell-hegység legmagasabb csúcsa, amely látványos kilátásáról ismert.",
+                  "category": "landmark",
+                  "coords": [
+                        9.267825,
+                        62.319862
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Snøhetta",
+                  "text": "Cel mai înalt munte din lanțul Dovrefjell, cunoscut pentru vederile sale pitorești.",
+                  "category": "landmark",
+                  "coords": [
+                        9.267825,
+                        62.319862
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Snøhetta",
+                  "text": "The highest mountain in the Dovrefjell range, known for its scenic views.",
+                  "category": "landmark",
+                  "coords": [
+                        9.267825,
+                        62.319862
+                  ]
+            }
+      ]
+},
     type: "mountain",
     parent: "NO",
     name: { de: "Dovrefjell-Plateau", hu: "Dovrefjell-fennsík", ro: "Platoul Dovrefjell", en: "Dovrefjell Plateau" },
@@ -543,7 +1128,88 @@ export const norwayReliefV2: POI[] = [
     image: "/poi-images/norway-skjervsfjellet-peak-relief-v2.webp",
   },
   {
-    id: "norway-slogen-peak-relief-v2",
+    id: "norway-slogen-peak-relief-v2", "sights": {
+      "de": [
+            {
+                  "name": "Slogen",
+                  "text": "Ein prominenter Berggipfel in Norwegen, bekannt für seine spektakuläre Aussicht über die Sunnmøre-Alpen.",
+                  "category": "landmark",
+                  "coords": [
+                        6.672961,
+                        62.208125
+                  ]
+            },
+            {
+                  "name": "Lygnstøylvatnet",
+                  "text": "Ein einzigartiger, durch einen Erdrutsch entstandener See in Norwegen mit Unterwasserresten eines ehemaligen Bauernhofs.",
+                  "category": "landmark",
+                  "coords": [
+                        6.727267,
+                        62.175103
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Slogen",
+                  "text": "Norvégia egyik kiemelkedő hegycsúcsa, amely a Sunnmøre-Alpokra nyíló látványos kilátásáról ismert.",
+                  "category": "landmark",
+                  "coords": [
+                        6.672961,
+                        62.208125
+                  ]
+            },
+            {
+                  "name": "Lygnstøylvatnet",
+                  "text": "Egyedülálló, földcsuszamlás által keletkezett tó Norvégiában, egy egykori farm víz alatti maradványaival.",
+                  "category": "landmark",
+                  "coords": [
+                        6.727267,
+                        62.175103
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Slogen",
+                  "text": "Un vârf montan proeminent din Norvegia, cunoscut pentru vederile sale spectaculoase asupra Alpilor Sunnmøre.",
+                  "category": "landmark",
+                  "coords": [
+                        6.672961,
+                        62.208125
+                  ]
+            },
+            {
+                  "name": "Lygnstøylvatnet",
+                  "text": "Un lac unic din Norvegia format de o alunecare de teren, cu resturi subacvatice ale unei foste ferme.",
+                  "category": "landmark",
+                  "coords": [
+                        6.727267,
+                        62.175103
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Slogen",
+                  "text": "A prominent mountain peak in Norway, known for its spectacular views over the Sunnmøre Alps.",
+                  "category": "landmark",
+                  "coords": [
+                        6.672961,
+                        62.208125
+                  ]
+            },
+            {
+                  "name": "Lygnstøylvatnet",
+                  "text": "A unique lake in Norway formed by a landslide, with underwater remains of a former farm.",
+                  "category": "landmark",
+                  "coords": [
+                        6.727267,
+                        62.175103
+                  ]
+            }
+      ]
+},
     type: "peak",
     parent: "NO",
     name: { de: "Slogen", hu: "Slogen", ro: "Slogen", en: "Slogen" },
@@ -588,7 +1254,52 @@ export const norwayReliefV2: POI[] = [
     image: "/poi-images/norway-slogen-peak-relief-v2.webp",
   },
   {
-    id: "norway-breheimen-mountains-relief-v2",
+    id: "norway-breheimen-mountains-relief-v2", "sights": {
+      "de": [
+            {
+                  "name": "Holmevassnosi",
+                  "text": "Ein Berggipfel im Breheimen-Gebirge in Norwegen.",
+                  "category": "landmark",
+                  "coords": [
+                        7.45562,
+                        61.67573
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Holmevassnosi",
+                  "text": "Hegycsúcs a norvégiai Breheimen-hegységben.",
+                  "category": "landmark",
+                  "coords": [
+                        7.45562,
+                        61.67573
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Holmevassnosi",
+                  "text": "Un vârf muntos în munții Breheimen din Norvegia.",
+                  "category": "landmark",
+                  "coords": [
+                        7.45562,
+                        61.67573
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Holmevassnosi",
+                  "text": "A mountain peak in the Breheimen Mountains of Norway.",
+                  "category": "landmark",
+                  "coords": [
+                        7.45562,
+                        61.67573
+                  ]
+            }
+      ]
+},
     type: "mountain",
     parent: "NO",
     name: { de: "Breheimen-Gebirge", hu: "Breheimen-hegység", ro: "Munții Breheimen", en: "Breheimen Mountains" },
@@ -768,7 +1479,52 @@ export const norwayReliefV2: POI[] = [
     image: "/poi-images/norway-fjellheisen-relief-v2.webp",
   },
   {
-    id: "norway-stetind-mountain-relief-v2",
+    id: "norway-stetind-mountain-relief-v2", "sights": {
+      "de": [
+            {
+                  "name": "Stetinden",
+                  "text": "Ein markanter Berggipfel in Stetind.",
+                  "category": "landmark",
+                  "coords": [
+                        16.592781,
+                        68.164943
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Stetinden",
+                  "text": "Jellegzetes hegycsúcs Stetind környékén.",
+                  "category": "landmark",
+                  "coords": [
+                        16.592781,
+                        68.164943
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Stetinden",
+                  "text": "Un vârf muntos proeminent situat în Stetind.",
+                  "category": "landmark",
+                  "coords": [
+                        16.592781,
+                        68.164943
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Stetinden",
+                  "text": "A prominent mountain peak located in Stetind.",
+                  "category": "landmark",
+                  "coords": [
+                        16.592781,
+                        68.164943
+                  ]
+            }
+      ]
+},
     type: "peak",
     parent: "NO",
     name: { de: "Stetind", hu: "Stetind", ro: "Stetind", en: "Stetind" },
@@ -813,7 +1569,160 @@ export const norwayReliefV2: POI[] = [
     image: "/poi-images/norway-stetind-mountain-relief-v2.webp",
   },
   {
-    id: "norway-trolltindene-peaks-relief-v2",
+    id: "norway-trolltindene-peaks-relief-v2", "sights": {
+      "de": [
+            {
+                  "name": "Trollstigen",
+                  "text": "Ein berühmter Aussichtspunkt an der serpentinenreichen Passstraße Trollstigen.",
+                  "category": "natural",
+                  "coords": [
+                        7.666897,
+                        62.454669
+                  ]
+            },
+            {
+                  "name": "Stabbeskaret",
+                  "text": "Ein spektakulärer Aussichtspunkt oberhalb der Trollveggen-Steilwand.",
+                  "category": "natural",
+                  "coords": [
+                        7.737574,
+                        62.474729
+                  ]
+            },
+            {
+                  "name": "Trollstigen og Stigfossen",
+                  "text": "Ein Aussichtspunkt mit Blick auf die berühmte Straße und den Wasserfall Stigfossen.",
+                  "category": "natural",
+                  "coords": [
+                        7.674098,
+                        62.456951
+                  ]
+            },
+            {
+                  "name": "Bruraskaret",
+                  "text": "Ein markanter Aussichtspunkt am Rande der Trolltindene-Gipfel.",
+                  "category": "natural",
+                  "coords": [
+                        7.721816,
+                        62.482373
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Trollstigen",
+                  "text": "Híres kilátópont a szerpentinekkel teli Trollstigen hágóúton.",
+                  "category": "natural",
+                  "coords": [
+                        7.666897,
+                        62.454669
+                  ]
+            },
+            {
+                  "name": "Stabbeskaret",
+                  "text": "Látványos kilátópont a Trollveggen sziklafal felett.",
+                  "category": "natural",
+                  "coords": [
+                        7.737574,
+                        62.474729
+                  ]
+            },
+            {
+                  "name": "Trollstigen og Stigfossen",
+                  "text": "Kilátópont, ahonnan rálátni a híres útra és a Stigfossen-vízesésre.",
+                  "category": "natural",
+                  "coords": [
+                        7.674098,
+                        62.456951
+                  ]
+            },
+            {
+                  "name": "Bruraskaret",
+                  "text": "Jellegzetes kilátópont a Trolltindene-csúcsok peremén.",
+                  "category": "natural",
+                  "coords": [
+                        7.721816,
+                        62.482373
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Trollstigen",
+                  "text": "Un punct de observație faimos pe drumul montan cu serpentine Trollstigen.",
+                  "category": "natural",
+                  "coords": [
+                        7.666897,
+                        62.454669
+                  ]
+            },
+            {
+                  "name": "Stabbeskaret",
+                  "text": "Un punct de observație spectaculos deasupra peretelui vertical Trollveggen.",
+                  "category": "natural",
+                  "coords": [
+                        7.737574,
+                        62.474729
+                  ]
+            },
+            {
+                  "name": "Trollstigen og Stigfossen",
+                  "text": "Un punct de observație cu vedere spre drumul faimos și cascada Stigfossen.",
+                  "category": "natural",
+                  "coords": [
+                        7.674098,
+                        62.456951
+                  ]
+            },
+            {
+                  "name": "Bruraskaret",
+                  "text": "Un punct de observație distinctiv la marginea vârfurilor Trolltindene.",
+                  "category": "natural",
+                  "coords": [
+                        7.721816,
+                        62.482373
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Trollstigen",
+                  "text": "A famous viewpoint on the serpentine mountain road Trollstigen.",
+                  "category": "natural",
+                  "coords": [
+                        7.666897,
+                        62.454669
+                  ]
+            },
+            {
+                  "name": "Stabbeskaret",
+                  "text": "A spectacular viewpoint above the Trollveggen cliff face.",
+                  "category": "natural",
+                  "coords": [
+                        7.737574,
+                        62.474729
+                  ]
+            },
+            {
+                  "name": "Trollstigen og Stigfossen",
+                  "text": "A viewpoint overlooking the famous road and the Stigfossen waterfall.",
+                  "category": "natural",
+                  "coords": [
+                        7.674098,
+                        62.456951
+                  ]
+            },
+            {
+                  "name": "Bruraskaret",
+                  "text": "A distinctive viewpoint on the edge of the Trolltindene peaks.",
+                  "category": "natural",
+                  "coords": [
+                        7.721816,
+                        62.482373
+                  ]
+            }
+      ]
+},
     type: "mountain",
     parent: "NO",
     name: { de: "Trolltindene", hu: "Trolltindene", ro: "Trolltindene", en: "Trolltindene" },
@@ -948,7 +1857,124 @@ export const norwayReliefV2: POI[] = [
     image: "/poi-images/norway-gudbrandsdalen-valley-relief-v2.webp",
   },
   {
-    id: "norway-frafjord-valley-relief-v2",
+    id: "norway-frafjord-valley-relief-v2", "sights": {
+      "de": [
+            {
+                  "name": "Gloppedalsura",
+                  "text": "Eines der größten Steinschlagfelder Nordeuropas, gelegen in Frafjord.",
+                  "category": "landmark",
+                  "coords": [
+                        6.278439,
+                        58.767476
+                  ]
+            },
+            {
+                  "name": "Andre Kvile",
+                  "text": "Ein Aussichtspunkt mit Blick auf die umliegende norwegische Landschaft.",
+                  "category": "natural",
+                  "coords": [
+                        6.218654,
+                        58.807988
+                  ]
+            },
+            {
+                  "name": "Skudenibbå",
+                  "text": "Ein Aussichtspunkt mit Blick auf das Gebiet Frafjord in Norwegen.",
+                  "category": "natural",
+                  "coords": [
+                        6.285452,
+                        58.790439
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Gloppedalsura",
+                  "text": "Észak-Európa egyik legnagyobb kőfolyása Frafjordban.",
+                  "category": "landmark",
+                  "coords": [
+                        6.278439,
+                        58.767476
+                  ]
+            },
+            {
+                  "name": "Andre Kvile",
+                  "text": "Kilátóhely, ahonnan panoráma nyílik a környező norvég tájra.",
+                  "category": "natural",
+                  "coords": [
+                        6.218654,
+                        58.807988
+                  ]
+            },
+            {
+                  "name": "Skudenibbå",
+                  "text": "A norvégiai Frafjord környékére néző kilátóhely.",
+                  "category": "natural",
+                  "coords": [
+                        6.285452,
+                        58.790439
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Gloppedalsura",
+                  "text": "Unul dintre cele mai mari câmpuri de grohotiș din Europa de Nord, situat în Frafjord.",
+                  "category": "landmark",
+                  "coords": [
+                        6.278439,
+                        58.767476
+                  ]
+            },
+            {
+                  "name": "Andre Kvile",
+                  "text": "Un punct de belvedere care oferă vizibilitate asupra peisajului norvegian înconjurător.",
+                  "category": "natural",
+                  "coords": [
+                        6.218654,
+                        58.807988
+                  ]
+            },
+            {
+                  "name": "Skudenibbå",
+                  "text": "Un punct de belvedere cu vedere spre zona Frafjord din Norvegia.",
+                  "category": "natural",
+                  "coords": [
+                        6.285452,
+                        58.790439
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Gloppedalsura",
+                  "text": "One of Northern Europe's largest scree slopes, located in Frafjord.",
+                  "category": "landmark",
+                  "coords": [
+                        6.278439,
+                        58.767476
+                  ]
+            },
+            {
+                  "name": "Andre Kvile",
+                  "text": "A scenic viewpoint offering views of the surrounding Norwegian landscape.",
+                  "category": "natural",
+                  "coords": [
+                        6.218654,
+                        58.807988
+                  ]
+            },
+            {
+                  "name": "Skudenibbå",
+                  "text": "A viewpoint overlooking the Frafjord area in Norway.",
+                  "category": "natural",
+                  "coords": [
+                        6.285452,
+                        58.790439
+                  ]
+            }
+      ]
+},
     type: "valley",
     parent: "NO",
     name: { de: "Frafjord", hu: "Frafjord", ro: "Frafjord", en: "Frafjord" },
@@ -1083,7 +2109,88 @@ export const norwayReliefV2: POI[] = [
     image: "/poi-images/norway-omsenfjellet-peak-relief-v2.webp",
   },
   {
-    id: "norway-dovre-mountains-relief-v2",
+    id: "norway-dovre-mountains-relief-v2", "sights": {
+      "de": [
+            {
+                  "name": "Storfallet",
+                  "text": "Ein malerischer Wasserfall in der Bergregion von Dovre.",
+                  "category": "natural",
+                  "coords": [
+                        9.150633,
+                        62.018861
+                  ]
+            },
+            {
+                  "name": "Dovre kyrkje",
+                  "text": "Eine historische Pfarrkirche, die der Gemeinde Dovre dient.",
+                  "category": "religious",
+                  "coords": [
+                        9.248056,
+                        61.988499
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Storfallet",
+                  "text": "Látványos vízesés Dovre hegyvidéki régiójában.",
+                  "category": "natural",
+                  "coords": [
+                        9.150633,
+                        62.018861
+                  ]
+            },
+            {
+                  "name": "Dovre kyrkje",
+                  "text": "Történelmi plébániatemplom, amely Dovre közösségét szolgálja.",
+                  "category": "religious",
+                  "coords": [
+                        9.248056,
+                        61.988499
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Storfallet",
+                  "text": "O cascadă pitorească situată în regiunea muntoasă Dovre.",
+                  "category": "natural",
+                  "coords": [
+                        9.150633,
+                        62.018861
+                  ]
+            },
+            {
+                  "name": "Dovre kyrkje",
+                  "text": "O biserică parohială istorică ce deservește comunitatea din Dovre.",
+                  "category": "religious",
+                  "coords": [
+                        9.248056,
+                        61.988499
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Storfallet",
+                  "text": "A scenic waterfall located in the mountainous region of Dovre.",
+                  "category": "natural",
+                  "coords": [
+                        9.150633,
+                        62.018861
+                  ]
+            },
+            {
+                  "name": "Dovre kyrkje",
+                  "text": "A historic parish church serving the community of Dovre.",
+                  "category": "religious",
+                  "coords": [
+                        9.248056,
+                        61.988499
+                  ]
+            }
+      ]
+},
     type: "mountain",
     parent: "NO",
     name: { de: "Dovre", hu: "Dovre", ro: "Dovre", en: "Dovre" },
@@ -1128,7 +2235,124 @@ export const norwayReliefV2: POI[] = [
     image: "/poi-images/norway-dovre-mountains-relief-v2.webp",
   },
   {
-    id: "norway-namdalen-valley-relief-v2",
+    id: "norway-namdalen-valley-relief-v2", "sights": {
+      "de": [
+            {
+                  "name": "Storskogan naturreservat",
+                  "text": "Das Storskogan naturreservat ist ein geschütztes Naturgebiet in der Region Namdalen.",
+                  "category": "natural",
+                  "coords": [
+                        11.981645,
+                        64.489965
+                  ]
+            },
+            {
+                  "name": "Harestranda naturreservat",
+                  "text": "Dieses Naturreservat in Namdalen schützt die lokale Flora und Fauna der Region.",
+                  "category": "natural",
+                  "coords": [
+                        12.009596,
+                        64.495978
+                  ]
+            },
+            {
+                  "name": "Ranem kirke",
+                  "text": "Die Ranem kirke ist eine historische Steinkirche in der Region Namdalen.",
+                  "category": "religious",
+                  "coords": [
+                        11.95142,
+                        64.493497
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Storskogan naturreservat",
+                  "text": "A Storskogan naturreservat egy védett természeti terület Namdalen régiójában.",
+                  "category": "natural",
+                  "coords": [
+                        11.981645,
+                        64.489965
+                  ]
+            },
+            {
+                  "name": "Harestranda naturreservat",
+                  "text": "Ez a namdaleni természetvédelmi terület a régió helyi élővilágát óvja.",
+                  "category": "natural",
+                  "coords": [
+                        12.009596,
+                        64.495978
+                  ]
+            },
+            {
+                  "name": "Ranem kirke",
+                  "text": "A Ranem kirke egy történelmi kőtemplom Namdalen régiójában.",
+                  "category": "religious",
+                  "coords": [
+                        11.95142,
+                        64.493497
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Storskogan naturreservat",
+                  "text": "Rezervația naturală Storskogan este o zonă naturală protejată din regiunea Namdalen.",
+                  "category": "natural",
+                  "coords": [
+                        11.981645,
+                        64.489965
+                  ]
+            },
+            {
+                  "name": "Harestranda naturreservat",
+                  "text": "Această rezervație naturală din Namdalen protejează flora și fauna locală a regiunii.",
+                  "category": "natural",
+                  "coords": [
+                        12.009596,
+                        64.495978
+                  ]
+            },
+            {
+                  "name": "Ranem kirke",
+                  "text": "Ranem kirke este o biserică istorică din piatră situată în regiunea Namdalen.",
+                  "category": "religious",
+                  "coords": [
+                        11.95142,
+                        64.493497
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Storskogan naturreservat",
+                  "text": "Storskogan naturreservat is a protected nature reserve in the Namdalen region.",
+                  "category": "natural",
+                  "coords": [
+                        11.981645,
+                        64.489965
+                  ]
+            },
+            {
+                  "name": "Harestranda naturreservat",
+                  "text": "This nature reserve in Namdalen protects the local flora and fauna of the region.",
+                  "category": "natural",
+                  "coords": [
+                        12.009596,
+                        64.495978
+                  ]
+            },
+            {
+                  "name": "Ranem kirke",
+                  "text": "Ranem kirke is a historic stone church located in the Namdalen region.",
+                  "category": "religious",
+                  "coords": [
+                        11.95142,
+                        64.493497
+                  ]
+            }
+      ]
+},
     type: "valley",
     parent: "NO",
     name: { de: "Namdalen", hu: "Namdalen", ro: "Namdalen", en: "Namdalen" },
@@ -1173,7 +2397,196 @@ export const norwayReliefV2: POI[] = [
     image: "/poi-images/norway-namdalen-valley-relief-v2.webp",
   },
   {
-    id: "norway-telemark-highlands-relief-v2",
+    id: "norway-telemark-highlands-relief-v2", "sights": {
+      "de": [
+            {
+                  "name": "Vest-Telemark museum, Eidsborg",
+                  "text": "Ein Freilichtmuseum in Eidsborg, das die Kulturgeschichte von Telemark zeigt.",
+                  "category": "museum",
+                  "coords": [
+                        8.019634,
+                        59.46618
+                  ]
+            },
+            {
+                  "name": "Tokkeåi naturreservat",
+                  "text": "Ein geschütztes Naturreservat in den Telemark Highlands.",
+                  "category": "natural",
+                  "coords": [
+                        7.976498,
+                        59.477608
+                  ]
+            },
+            {
+                  "name": "Ravnejuvet",
+                  "text": "Ein Aussichtspunkt mit beeindruckendem Panoramablick in den Telemark Highlands.",
+                  "category": "natural",
+                  "coords": [
+                        7.993988,
+                        59.498454
+                  ]
+            },
+            {
+                  "name": "Nesland kyrkje",
+                  "text": "Eine historische Holzkirche in den Telemark Highlands.",
+                  "category": "religious",
+                  "coords": [
+                        7.985946,
+                        59.523838
+                  ]
+            },
+            {
+                  "name": "Brynesteinbrot",
+                  "text": "Ein historischer Steinbruch in den Telemark Highlands.",
+                  "category": "landmark",
+                  "coords": [
+                        8.033875,
+                        59.471862
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Vest-Telemark museum, Eidsborg",
+                  "text": "Szabadtéri múzeum Eidsborgban, amely Telemark kultúrtörténetét mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        8.019634,
+                        59.46618
+                  ]
+            },
+            {
+                  "name": "Tokkeåi naturreservat",
+                  "text": "Védett természetvédelmi terület a Telemark-felföldön.",
+                  "category": "natural",
+                  "coords": [
+                        7.976498,
+                        59.477608
+                  ]
+            },
+            {
+                  "name": "Ravnejuvet",
+                  "text": "Kilátóhely lenyűgöző panorámával a Telemark-felföldön.",
+                  "category": "natural",
+                  "coords": [
+                        7.993988,
+                        59.498454
+                  ]
+            },
+            {
+                  "name": "Nesland kyrkje",
+                  "text": "Történelmi fatemplom a Telemark-felföldön.",
+                  "category": "religious",
+                  "coords": [
+                        7.985946,
+                        59.523838
+                  ]
+            },
+            {
+                  "name": "Brynesteinbrot",
+                  "text": "Történelmi kőfejtő a Telemark-felföldön.",
+                  "category": "landmark",
+                  "coords": [
+                        8.033875,
+                        59.471862
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Vest-Telemark museum, Eidsborg",
+                  "text": "Un muzeu în aer liber din Eidsborg care prezintă istoria culturală din Telemark.",
+                  "category": "museum",
+                  "coords": [
+                        8.019634,
+                        59.46618
+                  ]
+            },
+            {
+                  "name": "Tokkeåi naturreservat",
+                  "text": "O rezervație naturală protejată în regiunea muntoasă Telemark.",
+                  "category": "natural",
+                  "coords": [
+                        7.976498,
+                        59.477608
+                  ]
+            },
+            {
+                  "name": "Ravnejuvet",
+                  "text": "Un punct de observare cu o vedere panoramică impresionantă în munții Telemark.",
+                  "category": "natural",
+                  "coords": [
+                        7.993988,
+                        59.498454
+                  ]
+            },
+            {
+                  "name": "Nesland kyrkje",
+                  "text": "O biserică istorică din lemn situată în regiunea Telemark.",
+                  "category": "religious",
+                  "coords": [
+                        7.985946,
+                        59.523838
+                  ]
+            },
+            {
+                  "name": "Brynesteinbrot",
+                  "text": "O carieră de piatră istorică în regiunea Telemark.",
+                  "category": "landmark",
+                  "coords": [
+                        8.033875,
+                        59.471862
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Vest-Telemark museum, Eidsborg",
+                  "text": "An open-air museum in Eidsborg showcasing the cultural history of Telemark.",
+                  "category": "museum",
+                  "coords": [
+                        8.019634,
+                        59.46618
+                  ]
+            },
+            {
+                  "name": "Tokkeåi naturreservat",
+                  "text": "A protected nature reserve in the Telemark Highlands.",
+                  "category": "natural",
+                  "coords": [
+                        7.976498,
+                        59.477608
+                  ]
+            },
+            {
+                  "name": "Ravens gorge",
+                  "text": "A viewpoint offering impressive panoramic views in the Telemark Highlands.",
+                  "category": "natural",
+                  "coords": [
+                        7.993988,
+                        59.498454
+                  ]
+            },
+            {
+                  "name": "Nesland kyrkje",
+                  "text": "A historical wooden church located in the Telemark Highlands.",
+                  "category": "religious",
+                  "coords": [
+                        7.985946,
+                        59.523838
+                  ]
+            },
+            {
+                  "name": "Brynesteinbrot",
+                  "text": "A historical quarry located in the Telemark Highlands.",
+                  "category": "landmark",
+                  "coords": [
+                        8.033875,
+                        59.471862
+                  ]
+            }
+      ]
+},
     type: "mountain",
     parent: "NO",
     name: { de: "Telemark-Hochland", hu: "Telemark-felföld", ro: "Podisul Telemark", en: "Telemark Highlands" },
@@ -1263,7 +2676,52 @@ export const norwayReliefV2: POI[] = [
     image: "/poi-images/norway-moskenesoy-mountains-relief-v2.webp",
   },
   {
-    id: "norway-vegahavet-relief-v2",
+    id: "norway-vegahavet-relief-v2", "sights": {
+      "de": [
+            {
+                  "name": "Gladstad prestegård",
+                  "text": "Gladstad prestegård im Vega-Archipel ist ein ehemaliges Pfarrhaus, das als Museum dient.",
+                  "category": "museum",
+                  "coords": [
+                        11.958994,
+                        65.675202
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Gladstad prestegård",
+                  "text": "A Vega-szigetvilágban található Gladstad prestegård egy egykori parókia, amely múzeumként működik.",
+                  "category": "museum",
+                  "coords": [
+                        11.958994,
+                        65.675202
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Gladstad prestegård",
+                  "text": "Gladstad prestegård din Arhipelagul Vega este o fostă casă parohială care servește ca muzeu.",
+                  "category": "museum",
+                  "coords": [
+                        11.958994,
+                        65.675202
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Gladstad prestegård",
+                  "text": "Gladstad prestegård in the Vega Archipelago is a former parsonage serving as a museum.",
+                  "category": "museum",
+                  "coords": [
+                        11.958994,
+                        65.675202
+                  ]
+            }
+      ]
+},
     type: "mountain",
     parent: "NO",
     name: { de: "Vega-Archipel", hu: "Vega-szigetvilág", ro: "Arhipelagul Vega", en: "Vega Archipelago" },

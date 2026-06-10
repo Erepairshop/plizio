@@ -3,7 +3,88 @@ import { POI } from './poi';
 export const estoniaReliefV2: POI[] = [
 
   {
-    id: "estonia-torni-hill-relief-v2",
+    id: "estonia-torni-hill-relief-v2", "sights": {
+      "de": [
+            {
+                  "name": "Vastseliina Gümnaasiumi Muuseum",
+                  "text": "Ein Museum, das die Geschichte des Gymnasiums und der Region Vastseliina dokumentiert.",
+                  "category": "museum",
+                  "coords": [
+                        27.288006,
+                        57.734049
+                  ]
+            },
+            {
+                  "name": "Vastseliina Katariina kirik",
+                  "text": "Eine historische lutherische Kirche in Vastseliina, die im 18. Jahrhundert erbaut wurde.",
+                  "category": "religious",
+                  "coords": [
+                        27.26673,
+                        57.747296
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Vastseliina Gümnaasiumi Muuseum",
+                  "text": "Múzeum, amely a Vastseliina gimnázium és a környék történetét dokumentálja.",
+                  "category": "museum",
+                  "coords": [
+                        27.288006,
+                        57.734049
+                  ]
+            },
+            {
+                  "name": "Vastseliina Katariina kirik",
+                  "text": "Vastseliina történelmi evangélikus temploma, amely a 18. században épült.",
+                  "category": "religious",
+                  "coords": [
+                        27.26673,
+                        57.747296
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Vastseliina Gümnaasiumi Muuseum",
+                  "text": "Un muzeu care documentează istoria gimnaziului și a regiunii Vastseliina.",
+                  "category": "museum",
+                  "coords": [
+                        27.288006,
+                        57.734049
+                  ]
+            },
+            {
+                  "name": "Vastseliina Katariina kirik",
+                  "text": "Biserica luterană istorică din Vastseliina, construită în secolul al XVIII-lea.",
+                  "category": "religious",
+                  "coords": [
+                        27.26673,
+                        57.747296
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Vastseliina Gymnasium Museum",
+                  "text": "A museum documenting the history of the Vastseliina gymnasium and the surrounding region.",
+                  "category": "museum",
+                  "coords": [
+                        27.288006,
+                        57.734049
+                  ]
+            },
+            {
+                  "name": "Vastseliina Katariina kirik",
+                  "text": "The historical Lutheran church in Vastseliina, constructed in the 18th century.",
+                  "category": "religious",
+                  "coords": [
+                        27.26673,
+                        57.747296
+                  ]
+            }
+      ]
+},
     type: "mountain",
     parent: "EE",
     name: { de: "Torni-Hügel", hu: "Torni-domb", ro: "Dealul Torni", en: "Torni Hill" },
@@ -93,7 +174,196 @@ export const estoniaReliefV2: POI[] = [
     image: "/poi-images/estonia-kuhjavere-plateau-relief-v2.webp",
   },
   {
-    id: "estonia-vaike-munamagi-peak-relief-v2",
+    id: "estonia-vaike-munamagi-peak-relief-v2", "sights": {
+      "de": [
+            {
+                  "name": "Haanja looduspark",
+                  "text": "Der Naturpark Haanja schützt die Hügellandschaften sowie die vielfältige Flora und Fauna im Südosten Estlands.",
+                  "category": "natural",
+                  "coords": [
+                        27.060971,
+                        57.713335
+                  ]
+            },
+            {
+                  "name": "Kaloga jaanimägi",
+                  "text": "Diese archäologische Stätte in der Nähe von Väike Munamägi ist ein Ort von historischer und kultureller Bedeutung.",
+                  "category": "historical",
+                  "coords": [
+                        27.054429,
+                        57.744326
+                  ]
+            },
+            {
+                  "name": "Vaskna järve supelrand",
+                  "text": "Dieser Strand am Vaskna-See bietet einen ruhigen Ort zum Schwimmen und Erholen in der Region Haanja.",
+                  "category": "recreational",
+                  "coords": [
+                        27.083231,
+                        57.716488
+                  ]
+            },
+            {
+                  "name": "Suur Munamägi",
+                  "text": "Der Suur Munamägi ist der höchste Berg Estlands und des Baltikums und verfügt über einen Aussichtsturm.",
+                  "category": "natural",
+                  "coords": [
+                        27.059966,
+                        57.714007
+                  ]
+            },
+            {
+                  "name": "National Geographic yellow window",
+                  "text": "Dieser gelbe Fensterrahmen markiert einen malerischen Ort als Teil eines National Geographic-Projekts in Südestland.",
+                  "category": "landmark",
+                  "coords": [
+                        27.05501,
+                        57.713759
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Haanja looduspark",
+                  "text": "A Haanja Natúrpark Délkelet-Észtország dombos tájait, valamint változatos növény- és állatvilágát védi.",
+                  "category": "natural",
+                  "coords": [
+                        27.060971,
+                        57.713335
+                  ]
+            },
+            {
+                  "name": "Kaloga jaanimägi",
+                  "text": "Ez a Väike Munamägi közelében található régészeti lelőhely történelmi és kulturális jelentőségű hely.",
+                  "category": "historical",
+                  "coords": [
+                        27.054429,
+                        57.744326
+                  ]
+            },
+            {
+                  "name": "Vaskna järve supelrand",
+                  "text": "Ez a Vaskna-tó partján található strand csendes helyet kínál az úszáshoz és a kikapcsolódáshoz a Haanja régióban.",
+                  "category": "recreational",
+                  "coords": [
+                        27.083231,
+                        57.716488
+                  ]
+            },
+            {
+                  "name": "Suur Munamägi",
+                  "text": "A Suur Munamägi Észtország és a balti államok legmagasabb pontja, amelyen egy kilátótorony áll.",
+                  "category": "natural",
+                  "coords": [
+                        27.059966,
+                        57.714007
+                  ]
+            },
+            {
+                  "name": "National Geographic yellow window",
+                  "text": "Ez a sárga ablakkeret egy festői pontot jelöl Dél-Észtországban a National Geographic egyik projektje keretében.",
+                  "category": "landmark",
+                  "coords": [
+                        27.05501,
+                        57.713759
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Haanja looduspark",
+                  "text": "Parcul Natural Haanja protejează peisajele deluroase și flora și fauna diversă din sud-estul Estoniei.",
+                  "category": "natural",
+                  "coords": [
+                        27.060971,
+                        57.713335
+                  ]
+            },
+            {
+                  "name": "Kaloga jaanimägi",
+                  "text": "Acest sit arheologic de lângă Väike Munamägi este un loc cu semnificație istorică și culturală.",
+                  "category": "historical",
+                  "coords": [
+                        27.054429,
+                        57.744326
+                  ]
+            },
+            {
+                  "name": "Vaskna järve supelrand",
+                  "text": "Această plajă de pe lacul Vaskna oferă un loc liniștit pentru înot și recreere în regiunea Haanja.",
+                  "category": "recreational",
+                  "coords": [
+                        27.083231,
+                        57.716488
+                  ]
+            },
+            {
+                  "name": "Suur Munamägi",
+                  "text": "Suur Munamägi este cel mai înalt vârf din Estonia și din Țările Baltice, având un turn de observare.",
+                  "category": "natural",
+                  "coords": [
+                        27.059966,
+                        57.714007
+                  ]
+            },
+            {
+                  "name": "National Geographic yellow window",
+                  "text": "Această ramă galbenă de fereastră marchează un punct pitoresc, ca parte a unui proiect National Geographic în sudul Estoniei.",
+                  "category": "landmark",
+                  "coords": [
+                        27.05501,
+                        57.713759
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Haanja Nature Park",
+                  "text": "Haanja Nature Park protects the hilly landscapes and diverse flora and fauna of southeastern Estonia.",
+                  "category": "natural",
+                  "coords": [
+                        27.060971,
+                        57.713335
+                  ]
+            },
+            {
+                  "name": "Kaloga jaanimägi",
+                  "text": "This archaeological site near Väike Munamägi is a place of historical and cultural significance.",
+                  "category": "historical",
+                  "coords": [
+                        27.054429,
+                        57.744326
+                  ]
+            },
+            {
+                  "name": "The beach Vaskna Lake",
+                  "text": "This beach on Lake Vaskna offers a quiet place for swimming and recreation in the Haanja region.",
+                  "category": "recreational",
+                  "coords": [
+                        27.083231,
+                        57.716488
+                  ]
+            },
+            {
+                  "name": "Suur Munamägi",
+                  "text": "Suur Munamägi is the highest peak in Estonia and the Baltic States, featuring an observation tower.",
+                  "category": "natural",
+                  "coords": [
+                        27.059966,
+                        57.714007
+                  ]
+            },
+            {
+                  "name": "National Geographic yellow window",
+                  "text": "This yellow window frame marks a scenic spot as part of a National Geographic project in South Estonia.",
+                  "category": "landmark",
+                  "coords": [
+                        27.05501,
+                        57.713759
+                  ]
+            }
+      ]
+},
     type: "peak",
     parent: "EE",
     name: { de: "Väike Munamägi", hu: "Väike Munamägi-csúcs", ro: "Vârful Väike Munamägi", en: "Väike Munamägi" },
@@ -228,7 +498,124 @@ export const estoniaReliefV2: POI[] = [
     image: "/poi-images/estonia-harjumagi-slope-relief-v2.webp",
   },
   {
-    id: "estonia-kuremagi-ridge-relief-v2",
+    id: "estonia-kuremagi-ridge-relief-v2", "sights": {
+      "de": [
+            {
+                  "name": "Illuka mõisa peahoone",
+                  "text": "Historisches Hauptgebäude des Gutshofs Illuka in Estland.",
+                  "category": "historical",
+                  "coords": [
+                        27.493445,
+                        59.236095
+                  ]
+            },
+            {
+                  "name": "Jumalaema Uinumise peakirik",
+                  "text": "Hauptkathedrale des Pühtica-Klosters in Kuremägi.",
+                  "category": "religious",
+                  "coords": [
+                        27.534866,
+                        59.199278
+                  ]
+            },
+            {
+                  "name": "Illuka kirik",
+                  "text": "Historische Dorfkirche in Illuka.",
+                  "category": "religious",
+                  "coords": [
+                        27.516443,
+                        59.216694
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Illuka mõisa peahoone",
+                  "text": "Az észtországi Illuka-kúria történelmi főépülete.",
+                  "category": "historical",
+                  "coords": [
+                        27.493445,
+                        59.236095
+                  ]
+            },
+            {
+                  "name": "Jumalaema Uinumise peakirik",
+                  "text": "A kuremägi Pühtica-kolostor főszékesegyháza.",
+                  "category": "religious",
+                  "coords": [
+                        27.534866,
+                        59.199278
+                  ]
+            },
+            {
+                  "name": "Illuka kirik",
+                  "text": "Történelmi falusi templom Illukában.",
+                  "category": "religious",
+                  "coords": [
+                        27.516443,
+                        59.216694
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Illuka mõisa peahoone",
+                  "text": "Clădirea principală istorică a conacului Illuka din Estonia.",
+                  "category": "historical",
+                  "coords": [
+                        27.493445,
+                        59.236095
+                  ]
+            },
+            {
+                  "name": "Jumalaema Uinumise peakirik",
+                  "text": "Catedrala principală a Mănăstirii Pühtica din Kuremägi.",
+                  "category": "religious",
+                  "coords": [
+                        27.534866,
+                        59.199278
+                  ]
+            },
+            {
+                  "name": "Illuka kirik",
+                  "text": "Biserică istorică de sat situată în Illuka.",
+                  "category": "religious",
+                  "coords": [
+                        27.516443,
+                        59.216694
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Illuka mõisa peahoone",
+                  "text": "Historic main building of the Illuka manor in Estonia.",
+                  "category": "historical",
+                  "coords": [
+                        27.493445,
+                        59.236095
+                  ]
+            },
+            {
+                  "name": "Jumalaema Uinumise peakirik",
+                  "text": "The main cathedral of the Pühtica Convent in Kuremägi.",
+                  "category": "religious",
+                  "coords": [
+                        27.534866,
+                        59.199278
+                  ]
+            },
+            {
+                  "name": "Illuka kirik",
+                  "text": "Historic village church located in Illuka.",
+                  "category": "religious",
+                  "coords": [
+                        27.516443,
+                        59.216694
+                  ]
+            }
+      ]
+},
     type: "mountain",
     parent: "EE",
     name: { de: "Kuremägi", hu: "Kuremägi-gerinc", ro: "Creasta Kuremägi", en: "Kuremägi" },
@@ -453,7 +840,88 @@ export const estoniaReliefV2: POI[] = [
     image: "/poi-images/estonia-vahi-magi-hill-relief-v2.webp",
   },
   {
-    id: "estonia-koolimagi-rise-relief-v2",
+    id: "estonia-koolimagi-rise-relief-v2", "sights": {
+      "de": [
+            {
+                  "name": "Õisu mõisa sepikoda",
+                  "text": "Die historische Schmiede des Gutshofs Õisu, die heute als Museum dient.",
+                  "category": "museum",
+                  "coords": [
+                        25.540709,
+                        58.202119
+                  ]
+            },
+            {
+                  "name": "Õisu mõisa peahoone",
+                  "text": "Das repräsentative Hauptgebäude des historischen Gutshofs Õisu.",
+                  "category": "historical",
+                  "coords": [
+                        25.543755,
+                        58.199502
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Õisu mõisa sepikoda",
+                  "text": "Az őisui uradalom történelmi kovácsműhelye, amely ma múzeum.",
+                  "category": "museum",
+                  "coords": [
+                        25.540709,
+                        58.202119
+                  ]
+            },
+            {
+                  "name": "Õisu mõisa peahoone",
+                  "text": "Az őisui történelmi uradalom reprezentatív főépülete.",
+                  "category": "historical",
+                  "coords": [
+                        25.543755,
+                        58.199502
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Õisu mõisa sepikoda",
+                  "text": "Fierăria istorică a conacului Õisu, care funcționează astăzi ca muzeu.",
+                  "category": "museum",
+                  "coords": [
+                        25.540709,
+                        58.202119
+                  ]
+            },
+            {
+                  "name": "Õisu mõisa peahoone",
+                  "text": "Clădirea principală reprezentativă a conacului istoric Õisu.",
+                  "category": "historical",
+                  "coords": [
+                        25.543755,
+                        58.199502
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Õisu mõisa sepikoda",
+                  "text": "The historical smithy of Õisu manor, now serving as a museum.",
+                  "category": "museum",
+                  "coords": [
+                        25.540709,
+                        58.202119
+                  ]
+            },
+            {
+                  "name": "Õisu mõisa peahoone",
+                  "text": "The representative main building of the historic Õisu manor.",
+                  "category": "historical",
+                  "coords": [
+                        25.543755,
+                        58.199502
+                  ]
+            }
+      ]
+},
     type: "mountain",
     parent: "EE",
     name: { de: "Koolimägi", hu: "Koolimägi-domb", ro: "Dealul Koolimägi", en: "Koolimägi" },
@@ -543,7 +1011,196 @@ export const estoniaReliefV2: POI[] = [
     image: "/poi-images/estonia-nime-magi-hill-relief-v2.webp",
   },
   {
-    id: "estonia-tuuliku-magi-hill-relief-v2",
+    id: "estonia-tuuliku-magi-hill-relief-v2", "sights": {
+      "de": [
+            {
+                  "name": "Kurna mõisa park",
+                  "text": "Die Parkanlage des historischen Gutshofes Kurna in Tuuliku-Mägi.",
+                  "category": "park",
+                  "coords": [
+                        24.846708,
+                        59.338671
+                  ]
+            },
+            {
+                  "name": "Luige näituseväljak",
+                  "text": "Ein Ausstellungsgelände und Veranstaltungsort in Tuuliku-Mägi.",
+                  "category": "landmark",
+                  "coords": [
+                        24.770496,
+                        59.333515
+                  ]
+            },
+            {
+                  "name": "Kurna küla kultuuritunnel",
+                  "text": "Ein kultureller Galerieraum im Dorf Kurna.",
+                  "category": "museum",
+                  "coords": [
+                        24.838852,
+                        59.339426
+                  ]
+            },
+            {
+                  "name": "Kurna mõisa peahoone",
+                  "text": "Das Hauptgebäude des historischen Gutshofes Kurna.",
+                  "category": "historical",
+                  "coords": [
+                        24.84234,
+                        59.338215
+                  ]
+            },
+            {
+                  "name": "Gross Sausti Mõis",
+                  "text": "Das ehemalige Herrenhaus von Sausti in Tuuliku-Mägi.",
+                  "category": "historical",
+                  "coords": [
+                        24.780173,
+                        59.307465
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Kurna mõisa park",
+                  "text": "A történelmi kurnai uradalom parkja Tuuliku-Mägi településén.",
+                  "category": "park",
+                  "coords": [
+                        24.846708,
+                        59.338671
+                  ]
+            },
+            {
+                  "name": "Luige näituseväljak",
+                  "text": "Kiállítási terület és rendezvényhelyszín Tuuliku-Mägi településén.",
+                  "category": "landmark",
+                  "coords": [
+                        24.770496,
+                        59.333515
+                  ]
+            },
+            {
+                  "name": "Kurna küla kultuuritunnel",
+                  "text": "Kulturális galéria Kurna falujában.",
+                  "category": "museum",
+                  "coords": [
+                        24.838852,
+                        59.339426
+                  ]
+            },
+            {
+                  "name": "Kurna mõisa peahoone",
+                  "text": "A történelmi kurnai uradalom főépülete.",
+                  "category": "historical",
+                  "coords": [
+                        24.84234,
+                        59.338215
+                  ]
+            },
+            {
+                  "name": "Gross Sausti Mõis",
+                  "text": "A korábbi Sausti-kúria Tuuliku-Mägi településén.",
+                  "category": "historical",
+                  "coords": [
+                        24.780173,
+                        59.307465
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Kurna mõisa park",
+                  "text": "Parcul conacului istoric Kurna din Tuuliku-Mägi.",
+                  "category": "park",
+                  "coords": [
+                        24.846708,
+                        59.338671
+                  ]
+            },
+            {
+                  "name": "Luige näituseväljak",
+                  "text": "Un teren de expoziții și loc de evenimente în Tuuliku-Mägi.",
+                  "category": "landmark",
+                  "coords": [
+                        24.770496,
+                        59.333515
+                  ]
+            },
+            {
+                  "name": "Kurna küla kultuuritunnel",
+                  "text": "Un spațiu cultural de tip galerie în satul Kurna.",
+                  "category": "museum",
+                  "coords": [
+                        24.838852,
+                        59.339426
+                  ]
+            },
+            {
+                  "name": "Kurna mõisa peahoone",
+                  "text": "Clădirea principală a conacului istoric Kurna.",
+                  "category": "historical",
+                  "coords": [
+                        24.84234,
+                        59.338215
+                  ]
+            },
+            {
+                  "name": "Gross Sausti Mõis",
+                  "text": "Fostul conac Sausti din Tuuliku-Mägi.",
+                  "category": "historical",
+                  "coords": [
+                        24.780173,
+                        59.307465
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Kurna mõisa park",
+                  "text": "The park area of the historic Kurna manor in Tuuliku-Mägi.",
+                  "category": "park",
+                  "coords": [
+                        24.846708,
+                        59.338671
+                  ]
+            },
+            {
+                  "name": "Luige näituseväljak",
+                  "text": "An exhibition ground and event venue in Tuuliku-Mägi.",
+                  "category": "landmark",
+                  "coords": [
+                        24.770496,
+                        59.333515
+                  ]
+            },
+            {
+                  "name": "Kurna küla kultuuritunnel",
+                  "text": "A cultural gallery space located in the village of Kurna.",
+                  "category": "museum",
+                  "coords": [
+                        24.838852,
+                        59.339426
+                  ]
+            },
+            {
+                  "name": "Kurna mõisa peahoone",
+                  "text": "The main building of the historic Kurna manor.",
+                  "category": "historical",
+                  "coords": [
+                        24.84234,
+                        59.338215
+                  ]
+            },
+            {
+                  "name": "Gross Sausti Mõis",
+                  "text": "The former Sausti manor house in Tuuliku-Mägi.",
+                  "category": "historical",
+                  "coords": [
+                        24.780173,
+                        59.307465
+                  ]
+            }
+      ]
+},
     type: "mountain",
     parent: "EE",
     name: { de: "Tuuliku-Mägi", hu: "Tuuliku-Mägi-domb", ro: "Dealul Tuuliku-Mägi", en: "Tuuliku-Mägi" },
@@ -885,7 +1542,52 @@ export const estoniaReliefV2: POI[] = [
     image: "/poi-images/estonia-silla-magi-hill-relief-v2.webp",
   },
   {
-    id: "estonia-palu-magi-hill-relief-v2",
+    id: "estonia-palu-magi-hill-relief-v2", "sights": {
+      "de": [
+            {
+                  "name": "Alle-Saija Teatritalu",
+                  "text": "Ein einzigartiger Theaterhof in Palu-Mägi, der ländliches Leben mit darstellender Kunst verbindet.",
+                  "category": "cultural",
+                  "coords": [
+                        26.847434,
+                        58.006368
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Alle-Saija Teatritalu",
+                  "text": "Egyedülálló színházi udvar Palu-Mägiben, amely a vidéki életet ötvözi az előadóművészettel.",
+                  "category": "cultural",
+                  "coords": [
+                        26.847434,
+                        58.006368
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Alle-Saija Teatritalu",
+                  "text": "O fermă teatrală unică în Palu-Mägi, care îmbină viața rurală cu artele spectacolului.",
+                  "category": "cultural",
+                  "coords": [
+                        26.847434,
+                        58.006368
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Alle-Saija Teatritalu",
+                  "text": "A unique theatre farm in Palu-Mägi that combines rural life with performing arts.",
+                  "category": "cultural",
+                  "coords": [
+                        26.847434,
+                        58.006368
+                  ]
+            }
+      ]
+},
     type: "mountain",
     parent: "EE",
     name: { de: "Palu-Mägi", hu: "Palu-Mägi-domb", ro: "Dealul Palu-Mägi", en: "Palu-Mägi" },
@@ -930,7 +1632,52 @@ export const estoniaReliefV2: POI[] = [
     image: "/poi-images/estonia-palu-magi-hill-relief-v2.webp",
   },
   {
-    id: "estonia-linna-magi-hill-relief-v2",
+    id: "estonia-linna-magi-hill-relief-v2", "sights": {
+      "de": [
+            {
+                  "name": "Triigi mõisa peahoone",
+                  "text": "Die Ruinen des Hauptgebäudes des historischen Gutshofs Triigi in Estland.",
+                  "category": "historical",
+                  "coords": [
+                        26.334924,
+                        59.116448
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Triigi mõisa peahoone",
+                  "text": "Az észtországi történelmi Triigi-kúria főépületének romjai.",
+                  "category": "historical",
+                  "coords": [
+                        26.334924,
+                        59.116448
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Triigi mõisa peahoone",
+                  "text": "Ruinele clădirii principale a conacului istoric Triigi din Estonia.",
+                  "category": "historical",
+                  "coords": [
+                        26.334924,
+                        59.116448
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Triigi mõisa peahoone",
+                  "text": "The ruins of the main building of the historic Triigi manor in Estonia.",
+                  "category": "historical",
+                  "coords": [
+                        26.334924,
+                        59.116448
+                  ]
+            }
+      ]
+},
     type: "mountain",
     parent: "EE",
     name: { de: "Linna-Mägi", hu: "Linna-Mägi-domb", ro: "Dealul Linna-Mägi", en: "Linna-Mägi" },
@@ -1110,7 +1857,52 @@ export const estoniaReliefV2: POI[] = [
     image: "/poi-images/estonia-poti-magi-rise-relief-v2.webp",
   },
   {
-    id: "estonia-lepa-magi-hill-relief-v2",
+    id: "estonia-lepa-magi-hill-relief-v2", "sights": {
+      "de": [
+            {
+                  "name": "Admiral Adam Johann von Krusensterni mälestustuba",
+                  "text": "Ein Gedenkraum im Gutshof Kiltsi, gewidmet dem Seefahrer Adam Johann von Krusenstern.",
+                  "category": "museum",
+                  "coords": [
+                        26.193549,
+                        59.077424
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Admiral Adam Johann von Krusensterni mälestustuba",
+                  "text": "Emlékszoba a Kiltsi-kúriában, Adam Johann von Krusenstern tengerésznek szentelve.",
+                  "category": "museum",
+                  "coords": [
+                        26.193549,
+                        59.077424
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Admiral Adam Johann von Krusensterni mälestustuba",
+                  "text": "O cameră memorială în conacul Kiltsi, dedicată navigatorului Adam Johann von Krusenstern.",
+                  "category": "museum",
+                  "coords": [
+                        26.193549,
+                        59.077424
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Memorial Room Of A. J. Von Krusenstern",
+                  "text": "A memorial room in Kiltsi manor dedicated to the navigator Adam Johann von Krusenstern.",
+                  "category": "museum",
+                  "coords": [
+                        26.193549,
+                        59.077424
+                  ]
+            }
+      ]
+},
     type: "mountain",
     parent: "EE",
     name: { de: "Lepa-Mägi", hu: "Lepa-Mägi-domb", ro: "Dealul Lepa-Mägi", en: "Lepa-Mägi" },
@@ -1210,6 +2002,24 @@ export const estoniaReliefV2: POI[] = [
                         26.540911,
                         58.718589
                   ]
+            },
+            {
+                  "name": "Palamuse Oskar Lutsu Kihelkonnakoolimuuseum",
+                  "text": "Dieses Museum in Vana-Mägi ist dem Leben und Werk des Schriftstellers Oskar Luts gewidmet.",
+                  "category": "museum",
+                  "coords": [
+                        26.583419,
+                        58.683239
+                  ]
+            },
+            {
+                  "name": "Windmill",
+                  "text": "Hier befinden sich die Überreste einer historischen Windmühle in Vana-Mägi.",
+                  "category": "historical",
+                  "coords": [
+                        26.625585,
+                        58.715011
+                  ]
             }
       ],
       "hu": [
@@ -1220,6 +2030,24 @@ export const estoniaReliefV2: POI[] = [
                   "coords": [
                         26.540911,
                         58.718589
+                  ]
+            },
+            {
+                  "name": "Palamuse Oskar Lutsu Kihelkonnakoolimuuseum",
+                  "text": "Ez a Vana-Mägi-i múzeum Oskar Luts író életének és munkásságának állít emléket.",
+                  "category": "museum",
+                  "coords": [
+                        26.583419,
+                        58.683239
+                  ]
+            },
+            {
+                  "name": "Windmill",
+                  "text": "Egy történelmi szélmalom romjai Vana-Mägi területén.",
+                  "category": "historical",
+                  "coords": [
+                        26.625585,
+                        58.715011
                   ]
             }
       ],
@@ -1232,6 +2060,24 @@ export const estoniaReliefV2: POI[] = [
                         26.540911,
                         58.718589
                   ]
+            },
+            {
+                  "name": "Palamuse Oskar Lutsu Kihelkonnakoolimuuseum",
+                  "text": "Acest muzeu din Vana-Mägi este dedicat vieții și operei scriitorului Oskar Luts.",
+                  "category": "museum",
+                  "coords": [
+                        26.583419,
+                        58.683239
+                  ]
+            },
+            {
+                  "name": "Windmill",
+                  "text": "Aici se află rămășițele unei mori de vânt istorice din Vana-Mägi.",
+                  "category": "historical",
+                  "coords": [
+                        26.625585,
+                        58.715011
+                  ]
             }
       ],
       "en": [
@@ -1242,6 +2088,24 @@ export const estoniaReliefV2: POI[] = [
                   "coords": [
                         26.540911,
                         58.718589
+                  ]
+            },
+            {
+                  "name": "Oskar Luts Parish School Museum at Palamuse",
+                  "text": "This museum in Vana-Mägi is dedicated to the life and work of the writer Oskar Luts.",
+                  "category": "museum",
+                  "coords": [
+                        26.583419,
+                        58.683239
+                  ]
+            },
+            {
+                  "name": "Windmill",
+                  "text": "These are the remains of a historic windmill in Vana-Mägi.",
+                  "category": "historical",
+                  "coords": [
+                        26.625585,
+                        58.715011
                   ]
             }
       ]
@@ -1453,6 +2317,33 @@ export const estoniaReliefV2: POI[] = [
                         26.532078,
                         57.837171
                   ]
+            },
+            {
+                  "name": "Antsla Gümnaasiumi Muuseum",
+                  "text": "Ein kleines Museum in Suure-Mägi, das die Geschichte des Antsla Gymnasiums zeigt.",
+                  "category": "museum",
+                  "coords": [
+                        26.531349,
+                        57.831972
+                  ]
+            },
+            {
+                  "name": "EELK Antsla palvemaja",
+                  "text": "Ein lutherisches Gebetshaus in Suure-Mägi, das der lokalen estnischen Gemeinde dient.",
+                  "category": "religious",
+                  "coords": [
+                        26.545226,
+                        57.829003
+                  ]
+            },
+            {
+                  "name": "Antsla-Kraavi Prohvet Eelija kirik",
+                  "text": "Eine orthodoxe Kirche in Suure-Mägi, die dem Propheten Elija gewidmet ist.",
+                  "category": "religious",
+                  "coords": [
+                        26.555255,
+                        57.844281
+                  ]
             }
       ],
       "hu": [
@@ -1481,6 +2372,33 @@ export const estoniaReliefV2: POI[] = [
                   "coords": [
                         26.532078,
                         57.837171
+                  ]
+            },
+            {
+                  "name": "Antsla Gümnaasiumi Muuseum",
+                  "text": "Kisméretű múzeum Suure-Mägiben, amely az Antsla Gimnázium történetét mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        26.531349,
+                        57.831972
+                  ]
+            },
+            {
+                  "name": "EELK Antsla palvemaja",
+                  "text": "Evangélikus imaház Suure-Mägi területén, amely a helyi észt közösséget szolgálja.",
+                  "category": "religious",
+                  "coords": [
+                        26.545226,
+                        57.829003
+                  ]
+            },
+            {
+                  "name": "Antsla-Kraavi Prohvet Eelija kirik",
+                  "text": "Illés prófétának szentelt ortodox templom Suure-Mägi településen.",
+                  "category": "religious",
+                  "coords": [
+                        26.555255,
+                        57.844281
                   ]
             }
       ],
@@ -1511,6 +2429,33 @@ export const estoniaReliefV2: POI[] = [
                         26.532078,
                         57.837171
                   ]
+            },
+            {
+                  "name": "Antsla Gümnaasiumi Muuseum",
+                  "text": "Un mic muzeu din Suure-Mägi care prezintă istoria Gimnaziului Antsla.",
+                  "category": "museum",
+                  "coords": [
+                        26.531349,
+                        57.831972
+                  ]
+            },
+            {
+                  "name": "EELK Antsla palvemaja",
+                  "text": "O casă de rugăciune luterană situată în Suure-Mägi, servind comunitatea locală estonă.",
+                  "category": "religious",
+                  "coords": [
+                        26.545226,
+                        57.829003
+                  ]
+            },
+            {
+                  "name": "Antsla-Kraavi Prohvet Eelija kirik",
+                  "text": "O biserică ortodoxă din Suure-Mägi, dedicată Sfântului Prooroc Ilie.",
+                  "category": "religious",
+                  "coords": [
+                        26.555255,
+                        57.844281
+                  ]
             }
       ],
       "en": [
@@ -1539,6 +2484,33 @@ export const estoniaReliefV2: POI[] = [
                   "coords": [
                         26.532078,
                         57.837171
+                  ]
+            },
+            {
+                  "name": "Antsla Gymnasium Museum",
+                  "text": "A small museum in Suure-Mägi showcasing the history of the Antsla Gymnasium.",
+                  "category": "museum",
+                  "coords": [
+                        26.531349,
+                        57.831972
+                  ]
+            },
+            {
+                  "name": "EELK Antsla palvemaja",
+                  "text": "A Lutheran prayer house located in Suure-Mägi, serving the local Estonian congregation.",
+                  "category": "religious",
+                  "coords": [
+                        26.545226,
+                        57.829003
+                  ]
+            },
+            {
+                  "name": "Antsla-Kraavi Prohvet Eelija kirik",
+                  "text": "An Orthodox church in Suure-Mägi dedicated to Prophet Elijah.",
+                  "category": "religious",
+                  "coords": [
+                        26.555255,
+                        57.844281
                   ]
             }
       ]
@@ -1587,7 +2559,52 @@ export const estoniaReliefV2: POI[] = [
     image: "/poi-images/estonia-suure-magi-peak-relief-v2.webp",
   },
   {
-    id: "estonia-kool-magi-hill-relief-v2",
+    id: "estonia-kool-magi-hill-relief-v2", "sights": {
+      "de": [
+            {
+                  "name": "Salla mõisa peahoone",
+                  "text": "Das historische Hauptgebäude des Gutshofs Salla in Estland.",
+                  "category": "historical",
+                  "coords": [
+                        26.377926,
+                        58.954032
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Salla mõisa peahoone",
+                  "text": "Az észtországi Salla-kúria történelmi főépülete.",
+                  "category": "historical",
+                  "coords": [
+                        26.377926,
+                        58.954032
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Salla mõisa peahoone",
+                  "text": "Clădirea principală istorică a conacului Salla din Estonia.",
+                  "category": "historical",
+                  "coords": [
+                        26.377926,
+                        58.954032
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Salla mõisa peahoone",
+                  "text": "The historic main building of the Salla manor house in Estonia.",
+                  "category": "historical",
+                  "coords": [
+                        26.377926,
+                        58.954032
+                  ]
+            }
+      ]
+},
     type: "mountain",
     parent: "EE",
     name: { de: "Kool-Mägi", hu: "Kool-Mägi-domb", ro: "Dealul Kool-Mägi", en: "Kool-Mägi" },
@@ -1642,6 +2659,69 @@ export const estoniaReliefV2: POI[] = [
                         24.8163,
                         59.360146
                   ]
+            },
+            {
+                  "name": "Assaku nõiakivi",
+                  "text": "Ein prähistorischer Kultstein mit kleinen Vertiefungen in der Nähe von Rae.",
+                  "category": "historical",
+                  "coords": [
+                        24.842278,
+                        59.378382
+                  ]
+            },
+            {
+                  "name": "Lehmja-Loo tarandkalme",
+                  "text": "Ein eisenzeitliches Steingrab-Ensemble, das typisch für die estnische Archäologie ist.",
+                  "category": "historical",
+                  "coords": [
+                        24.879311,
+                        59.361874
+                  ]
+            },
+            {
+                  "name": "Tohtrikivi",
+                  "text": "Ein historischer Opferstein in Estland, der mit alten Volkstraditionen verbunden ist.",
+                  "category": "historical",
+                  "coords": [
+                        24.804348,
+                        59.376764
+                  ]
+            },
+            {
+                  "name": "Lehmja muinasasula",
+                  "text": "Ausgrabungsstätte einer Siedlung aus der Eisenzeit in der Gemeinde Rae.",
+                  "category": "historical",
+                  "coords": [
+                        24.883256,
+                        59.355546
+                  ]
+            },
+            {
+                  "name": "Kurna mõisa park",
+                  "text": "Ein historischer Gutspark mit Alleen und Teichen beim Herrenhaus Kurna.",
+                  "category": "park",
+                  "coords": [
+                        24.846708,
+                        59.338671
+                  ]
+            },
+            {
+                  "name": "Kurna küla kultuuritunnel",
+                  "text": "Ein kultureller Ausstellungsraum oder Tunnel im Dorf Kurna.",
+                  "category": "museum",
+                  "coords": [
+                        24.838852,
+                        59.339426
+                  ]
+            },
+            {
+                  "name": "Kurna mõisa peahoone",
+                  "text": "Das Hauptgebäude des historischen Gutshofs Kurna in Estland.",
+                  "category": "historical",
+                  "coords": [
+                        24.84234,
+                        59.338215
+                  ]
             }
       ],
       "hu": [
@@ -1652,6 +2732,69 @@ export const estoniaReliefV2: POI[] = [
                   "coords": [
                         24.8163,
                         59.360146
+                  ]
+            },
+            {
+                  "name": "Assaku nõiakivi",
+                  "text": "Őskori kultuszsző kisméretű mélyedésekkel Rae közelében.",
+                  "category": "historical",
+                  "coords": [
+                        24.842278,
+                        59.378382
+                  ]
+            },
+            {
+                  "name": "Lehmja-Loo tarandkalme",
+                  "text": "Vaskori kőkeretes síregyüttes, amely jellemző az észt régészetre.",
+                  "category": "historical",
+                  "coords": [
+                        24.879311,
+                        59.361874
+                  ]
+            },
+            {
+                  "name": "Tohtrikivi",
+                  "text": "Történelmi áldozati kő Észtországban, amely régi népi hagyományokhoz kötődik.",
+                  "category": "historical",
+                  "coords": [
+                        24.804348,
+                        59.376764
+                  ]
+            },
+            {
+                  "name": "Lehmja muinasasula",
+                  "text": "Egy vaskori település feltárási helyszíne Rae községben.",
+                  "category": "historical",
+                  "coords": [
+                        24.883256,
+                        59.355546
+                  ]
+            },
+            {
+                  "name": "Kurna mõisa park",
+                  "text": "Történelmi kúriapark fasorokkal és tavakkal a kurnai udvarház mellett.",
+                  "category": "park",
+                  "coords": [
+                        24.846708,
+                        59.338671
+                  ]
+            },
+            {
+                  "name": "Kurna küla kultuuritunnel",
+                  "text": "Kulturális kiállítótér vagy alagút Kurna falujában.",
+                  "category": "museum",
+                  "coords": [
+                        24.838852,
+                        59.339426
+                  ]
+            },
+            {
+                  "name": "Kurna mõisa peahoone",
+                  "text": "A történelmi kurnai udvarház főépülete Észtországban.",
+                  "category": "historical",
+                  "coords": [
+                        24.84234,
+                        59.338215
                   ]
             }
       ],
@@ -1664,6 +2807,69 @@ export const estoniaReliefV2: POI[] = [
                         24.8163,
                         59.360146
                   ]
+            },
+            {
+                  "name": "Assaku nõiakivi",
+                  "text": "O piatră de cult preistorică cu mici adâncituri, situată lângă Rae.",
+                  "category": "historical",
+                  "coords": [
+                        24.842278,
+                        59.378382
+                  ]
+            },
+            {
+                  "name": "Lehmja-Loo tarandkalme",
+                  "text": "Un ansamblu de morminte din piatră din epoca fierului, tipic pentru arheologia estonă.",
+                  "category": "historical",
+                  "coords": [
+                        24.879311,
+                        59.361874
+                  ]
+            },
+            {
+                  "name": "Tohtrikivi",
+                  "text": "O piatră sacră istorică în Estonia, legată de vechile tradiții populare.",
+                  "category": "historical",
+                  "coords": [
+                        24.804348,
+                        59.376764
+                  ]
+            },
+            {
+                  "name": "Lehmja muinasasula",
+                  "text": "Situl arheologic al unei așezări din epoca fierului în comuna Rae.",
+                  "category": "historical",
+                  "coords": [
+                        24.883256,
+                        59.355546
+                  ]
+            },
+            {
+                  "name": "Kurna mõisa park",
+                  "text": "Un parc istoric de conac cu alei și iazuri lângă conacul Kurna.",
+                  "category": "park",
+                  "coords": [
+                        24.846708,
+                        59.338671
+                  ]
+            },
+            {
+                  "name": "Kurna küla kultuuritunnel",
+                  "text": "Un spațiu cultural de expoziție sau tunel în satul Kurna.",
+                  "category": "museum",
+                  "coords": [
+                        24.838852,
+                        59.339426
+                  ]
+            },
+            {
+                  "name": "Kurna mõisa peahoone",
+                  "text": "Clădirea principală a conacului istoric Kurna din Estonia.",
+                  "category": "historical",
+                  "coords": [
+                        24.84234,
+                        59.338215
+                  ]
             }
       ],
       "en": [
@@ -1674,6 +2880,69 @@ export const estoniaReliefV2: POI[] = [
                   "coords": [
                         24.8163,
                         59.360146
+                  ]
+            },
+            {
+                  "name": "Assaku nõiakivi",
+                  "text": "A prehistoric cult stone with small cup-marks located near Rae.",
+                  "category": "historical",
+                  "coords": [
+                        24.842278,
+                        59.378382
+                  ]
+            },
+            {
+                  "name": "Lehmja-Loo tarandkalme",
+                  "text": "An Iron Age stone-enclosure grave ensemble, typical of Estonian archaeology.",
+                  "category": "historical",
+                  "coords": [
+                        24.879311,
+                        59.361874
+                  ]
+            },
+            {
+                  "name": "Tohtrikivi",
+                  "text": "A historical sacrificial stone in Estonia linked to old folk traditions.",
+                  "category": "historical",
+                  "coords": [
+                        24.804348,
+                        59.376764
+                  ]
+            },
+            {
+                  "name": "the iron-age settlement of Lehmja",
+                  "text": "Archaeological site of an Iron Age settlement in the Rae municipality.",
+                  "category": "historical",
+                  "coords": [
+                        24.883256,
+                        59.355546
+                  ]
+            },
+            {
+                  "name": "Kurna mõisa park",
+                  "text": "A historic manor park with alleys and ponds near the Kurna manor.",
+                  "category": "park",
+                  "coords": [
+                        24.846708,
+                        59.338671
+                  ]
+            },
+            {
+                  "name": "Kurna küla kultuuritunnel",
+                  "text": "A cultural exhibition space or tunnel in the village of Kurna.",
+                  "category": "museum",
+                  "coords": [
+                        24.838852,
+                        59.339426
+                  ]
+            },
+            {
+                  "name": "Kurna mõisa peahoone",
+                  "text": "The main building of the historic Kurna manor in Estonia.",
+                  "category": "historical",
+                  "coords": [
+                        24.84234,
+                        59.338215
                   ]
             }
       ]
@@ -1732,6 +3001,15 @@ export const estoniaReliefV2: POI[] = [
                         25.769949,
                         58.096229
                   ]
+            },
+            {
+                  "name": "Kärstna mõisa peahoone",
+                  "text": "Das Hauptgebäude des historischen Gutshofs Kärstna in der Gegend von Oja-Mägi.",
+                  "category": "historical",
+                  "coords": [
+                        25.801736,
+                        58.144179
+                  ]
             }
       ],
       "hu": [
@@ -1742,6 +3020,15 @@ export const estoniaReliefV2: POI[] = [
                   "coords": [
                         25.769949,
                         58.096229
+                  ]
+            },
+            {
+                  "name": "Kärstna mõisa peahoone",
+                  "text": "A történelmi Kärstna-kúria főépülete Oja-Mägi környékén.",
+                  "category": "historical",
+                  "coords": [
+                        25.801736,
+                        58.144179
                   ]
             }
       ],
@@ -1754,6 +3041,15 @@ export const estoniaReliefV2: POI[] = [
                         25.769949,
                         58.096229
                   ]
+            },
+            {
+                  "name": "Kärstna mõisa peahoone",
+                  "text": "Clădirea principală a conacului istoric Kärstna, situată în zona Oja-Mägi.",
+                  "category": "historical",
+                  "coords": [
+                        25.801736,
+                        58.144179
+                  ]
             }
       ],
       "en": [
@@ -1764,6 +3060,15 @@ export const estoniaReliefV2: POI[] = [
                   "coords": [
                         25.769949,
                         58.096229
+                  ]
+            },
+            {
+                  "name": "Kärstna mõisa peahoone",
+                  "text": "The main building of the historic Kärstna Manor, located in the Oja-Mägi area.",
+                  "category": "historical",
+                  "coords": [
+                        25.801736,
+                        58.144179
                   ]
             }
       ]
@@ -1812,7 +3117,52 @@ export const estoniaReliefV2: POI[] = [
     image: "/poi-images/estonia-oja-magi-hill-relief-v2.webp",
   },
   {
-    id: "estonia-kruusa-rida-ridge-relief-v2",
+    id: "estonia-kruusa-rida-ridge-relief-v2", "sights": {
+      "de": [
+            {
+                  "name": "Naturschutzgebiet Alam-Pedja",
+                  "text": "Das Alam-Pedja-Naturschutzgebiet ist eines der größten Schutzgebiete Estlands.",
+                  "category": "natural",
+                  "coords": [
+                        26.19654,
+                        58.479665
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Alam-Pedja looduskaitseala",
+                  "text": "Az Alam-Pedja természetvédelmi terület Észtország egyik legnagyobb védett területe.",
+                  "category": "natural",
+                  "coords": [
+                        26.19654,
+                        58.479665
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Alam-Pedja looduskaitseala",
+                  "text": "Rezervația naturală Alam-Pedja este una dintre cele mai mari zone protejate din Estonia.",
+                  "category": "natural",
+                  "coords": [
+                        26.19654,
+                        58.479665
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Alam-Pedja Nature Reserve",
+                  "text": "Alam-Pedja Nature Reserve is one of the largest nature reserves in Estonia.",
+                  "category": "natural",
+                  "coords": [
+                        26.19654,
+                        58.479665
+                  ]
+            }
+      ]
+},
     type: "mountain",
     parent: "EE",
     name: { de: "Kruusa-Rida-Rücken", hu: "Kruusa-Rida-gerinc", ro: "Creasta Kruusa-Rida", en: "Kruusa-Rida Ridge" },
@@ -2163,7 +3513,88 @@ export const estoniaReliefV2: POI[] = [
     image: "/poi-images/estonia-metsa-magi-hill-relief-v2.webp",
   },
   {
-    id: "estonia-kruusa-nukk-rise-relief-v2",
+    id: "estonia-kruusa-nukk-rise-relief-v2", "sights": {
+      "de": [
+            {
+                  "name": "Toretalu maisilabürint",
+                  "text": "Ein unterhaltsames Maislabyrinth in Kruusa-Nukk, das ein Erlebnis für die ganze Familie bietet.",
+                  "category": "landmark",
+                  "coords": [
+                        25.963695,
+                        58.760142
+                  ]
+            },
+            {
+                  "name": "Adavere tuulik",
+                  "text": "Eine historische Windmühle in Adavere, die heute als markante Sehenswürdigkeit dient.",
+                  "category": "landmark",
+                  "coords": [
+                        25.875868,
+                        58.71943
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Toretalu maisilabürint",
+                  "text": "Szórakoztató kukoricalabirintus Kruusa-Nukkban, amely élményt nyújt az egész családnak.",
+                  "category": "landmark",
+                  "coords": [
+                        25.963695,
+                        58.760142
+                  ]
+            },
+            {
+                  "name": "Adavere tuulik",
+                  "text": "Történelmi szélmalom Adaverében, amely ma jellegzetes látványosságként szolgál.",
+                  "category": "landmark",
+                  "coords": [
+                        25.875868,
+                        58.71943
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Toretalu maisilabürint",
+                  "text": "Un labirint de porumb distractiv în Kruusa-Nukk, oferind o experiență pentru întreaga familie.",
+                  "category": "landmark",
+                  "coords": [
+                        25.963695,
+                        58.760142
+                  ]
+            },
+            {
+                  "name": "Adavere tuulik",
+                  "text": "O moară de vânt istorică în Adavere, care servește astăzi ca un punct de reper distinctiv.",
+                  "category": "landmark",
+                  "coords": [
+                        25.875868,
+                        58.71943
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Toretalu maisilabürint",
+                  "text": "An entertaining corn maze in Kruusa-Nukk, offering an experience for the whole family.",
+                  "category": "landmark",
+                  "coords": [
+                        25.963695,
+                        58.760142
+                  ]
+            },
+            {
+                  "name": "Adavere tuulik",
+                  "text": "A historic windmill in Adavere that serves as a prominent local landmark.",
+                  "category": "landmark",
+                  "coords": [
+                        25.875868,
+                        58.71943
+                  ]
+            }
+      ]
+},
     type: "mountain",
     parent: "EE",
     name: { de: "Kruusa-Nukk", hu: "Kruusa-Nukk-domb", ro: "Dealul Kruusa-Nukk", en: "Kruusa-Nukk" },
@@ -2253,7 +3684,160 @@ export const estoniaReliefV2: POI[] = [
     image: "/poi-images/estonia-veski-magi-hill-relief-v2.webp",
   },
   {
-    id: "estonia-ranna-magi-hill-relief-v2",
+    id: "estonia-ranna-magi-hill-relief-v2", "sights": {
+      "de": [
+            {
+                  "name": "Jägala linnamägi",
+                  "text": "Eine historische Wallburg in Estland, die strategisch an der Mündung des Flusses Jägala liegt.",
+                  "category": "historical",
+                  "coords": [
+                        25.159692,
+                        59.466045
+                  ]
+            },
+            {
+                  "name": "Rebala kivikalmed",
+                  "text": "Antike Steingräber in der Region Rebala, die Zeugnis von der frühen Besiedlung Estlands ablegen.",
+                  "category": "historical",
+                  "coords": [
+                        25.134683,
+                        59.440108
+                  ]
+            },
+            {
+                  "name": "Jägala juga",
+                  "text": "Ein beeindruckender Wasserfall am Fluss Jägala, der als einer der breitesten natürlichen Wasserfälle Estlands gilt.",
+                  "category": "landmark",
+                  "coords": [
+                        25.178564,
+                        59.449841
+                  ]
+            },
+            {
+                  "name": "Jõelähtme kivisild",
+                  "text": "Eine historische Steinbrücke in Jõelähtme, die ein wichtiges Denkmal der estnischen Ingenieurskunst darstellt.",
+                  "category": "landmark",
+                  "coords": [
+                        25.135048,
+                        59.44175
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Jägala linnamägi",
+                  "text": "Történelmi földvár Észtországban, amely stratégiai helyen, a Jägala-folyó torkolatánál található.",
+                  "category": "historical",
+                  "coords": [
+                        25.159692,
+                        59.466045
+                  ]
+            },
+            {
+                  "name": "Rebala kivikalmed",
+                  "text": "Ősi kősírok a Rebala régióban, amelyek Észtország korai betelepüléséről tanúskodnak.",
+                  "category": "historical",
+                  "coords": [
+                        25.134683,
+                        59.440108
+                  ]
+            },
+            {
+                  "name": "Jägala juga",
+                  "text": "Látványos vízesés a Jägala-folyón, amely Észtország egyik legszélesebb természetes vízesése.",
+                  "category": "landmark",
+                  "coords": [
+                        25.178564,
+                        59.449841
+                  ]
+            },
+            {
+                  "name": "Jõelähtme kivisild",
+                  "text": "Történelmi kőhíd Jõelähtme-ben, amely az észt mérnöki művészet fontos emléke.",
+                  "category": "landmark",
+                  "coords": [
+                        25.135048,
+                        59.44175
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Jägala linnamägi",
+                  "text": "O fortăreață istorică din Estonia, situată strategic la gura de vărsare a râului Jägala.",
+                  "category": "historical",
+                  "coords": [
+                        25.159692,
+                        59.466045
+                  ]
+            },
+            {
+                  "name": "Rebala kivikalmed",
+                  "text": "Morminte antice din piatră în regiunea Rebala, care atestă așezarea timpurie a Estoniei.",
+                  "category": "historical",
+                  "coords": [
+                        25.134683,
+                        59.440108
+                  ]
+            },
+            {
+                  "name": "Jägala juga",
+                  "text": "O cascadă impresionantă pe râul Jägala, considerată una dintre cele mai late cascade naturale din Estonia.",
+                  "category": "landmark",
+                  "coords": [
+                        25.178564,
+                        59.449841
+                  ]
+            },
+            {
+                  "name": "Jõelähtme kivisild",
+                  "text": "Un pod istoric de piatră în Jõelähtme, reprezentând un monument important al ingineriei estoniene.",
+                  "category": "landmark",
+                  "coords": [
+                        25.135048,
+                        59.44175
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Jägala Jõesuu hill fort",
+                  "text": "A historical hill fort in Estonia, strategically located at the mouth of the Jägala River.",
+                  "category": "historical",
+                  "coords": [
+                        25.159692,
+                        59.466045
+                  ]
+            },
+            {
+                  "name": "Rebala kivikalmed",
+                  "text": "Ancient stone graves in the Rebala region, providing evidence of early settlement in Estonia.",
+                  "category": "historical",
+                  "coords": [
+                        25.134683,
+                        59.440108
+                  ]
+            },
+            {
+                  "name": "Jägala juga",
+                  "text": "An impressive waterfall on the Jägala River, considered one of Estonia's widest natural waterfalls.",
+                  "category": "landmark",
+                  "coords": [
+                        25.178564,
+                        59.449841
+                  ]
+            },
+            {
+                  "name": "Jõelähtme kivisild",
+                  "text": "A historic stone bridge in Jõelähtme, representing an important monument of Estonian engineering.",
+                  "category": "landmark",
+                  "coords": [
+                        25.135048,
+                        59.44175
+                  ]
+            }
+      ]
+},
     type: "mountain",
     parent: "EE",
     name: { de: "Ranna-Mägi", hu: "Ranna-Mägi-domb", ro: "Dealul Ranna-Mägi", en: "Ranna-Mägi" },
@@ -2343,7 +3927,52 @@ export const estoniaReliefV2: POI[] = [
     image: "/poi-images/estonia-metsa-org-valley-relief-v2.webp",
   },
   {
-    id: "estonia-kruusa-hari-ridge-relief-v2",
+    id: "estonia-kruusa-hari-ridge-relief-v2", "sights": {
+      "de": [
+            {
+                  "name": "Mulgi külamuuseum",
+                  "text": "Das Mulgi-Dorfmuseum ist ein lokales Museum, das in einem alten Schulhaus untergebracht ist.",
+                  "category": "museum",
+                  "coords": [
+                        25.341207,
+                        58.223692
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Mulgi külamuuseum",
+                  "text": "A Mulgi falumúzeum egy régi iskolaépületben található helyi múzeum.",
+                  "category": "museum",
+                  "coords": [
+                        25.341207,
+                        58.223692
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Mulgi külamuuseum",
+                  "text": "Muzeul Satului Mulgi este un muzeu local situat într-o veche școală.",
+                  "category": "museum",
+                  "coords": [
+                        25.341207,
+                        58.223692
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Mulgi Village Museum",
+                  "text": "Mulgi Village Museum is a local museum located in an old schoolhouse.",
+                  "category": "museum",
+                  "coords": [
+                        25.341207,
+                        58.223692
+                  ]
+            }
+      ]
+},
     type: "mountain",
     parent: "EE",
     name: { de: "Kruusa-Hari-Rücken", hu: "Kruusa-Hari-gerinc", ro: "Creasta Kruusa-Hari", en: "Kruusa-Hari Ridge" },
@@ -2407,6 +4036,33 @@ export const estoniaReliefV2: POI[] = [
                         26.197601,
                         59.185315
                   ]
+            },
+            {
+                  "name": "Paemuuseum",
+                  "text": "Ein einzigartiges Museum in Porkuni, das dem Kalkstein, dem estnischen Nationalstein, gewidmet ist.",
+                  "category": "museum",
+                  "coords": [
+                        26.195706,
+                        59.187569
+                  ]
+            },
+            {
+                  "name": "Porkuni mõisa peahoone",
+                  "text": "Das historische Herrenhaus von Porkuni, in dem heute eine Schule für Hörgeschädigte untergebracht ist.",
+                  "category": "historical",
+                  "coords": [
+                        26.197107,
+                        59.187159
+                  ]
+            },
+            {
+                  "name": "Porkuni Lademe Tüüppaljand",
+                  "text": "Ein bedeutender geologischer Aufschluss, der die Porkuni-Stufe der Ordovizium-Zeit repräsentiert.",
+                  "category": "landmark",
+                  "coords": [
+                        26.18751,
+                        59.187434
+                  ]
             }
       ],
       "hu": [
@@ -2426,6 +4082,33 @@ export const estoniaReliefV2: POI[] = [
                   "coords": [
                         26.197601,
                         59.185315
+                  ]
+            },
+            {
+                  "name": "Paemuuseum",
+                  "text": "Egyedülálló múzeum Porkuniban, amelyet az észt nemzeti kőnek, a mészkőnek szenteltek.",
+                  "category": "museum",
+                  "coords": [
+                        26.195706,
+                        59.187569
+                  ]
+            },
+            {
+                  "name": "Porkuni mõisa peahoone",
+                  "text": "Porkuni történelmi kúriája, amelyben ma hallássérültek iskolája működik.",
+                  "category": "historical",
+                  "coords": [
+                        26.197107,
+                        59.187159
+                  ]
+            },
+            {
+                  "name": "Porkuni Lademe Tüüppaljand",
+                  "text": "Jelentős geológiai feltárás, amely az ordovícium időszak Porkuni-szakaszát képviseli.",
+                  "category": "landmark",
+                  "coords": [
+                        26.18751,
+                        59.187434
                   ]
             }
       ],
@@ -2447,6 +4130,33 @@ export const estoniaReliefV2: POI[] = [
                         26.197601,
                         59.185315
                   ]
+            },
+            {
+                  "name": "Paemuuseum",
+                  "text": "Un muzeu unic în Porkuni dedicat calcarului, piatra națională a Estoniei.",
+                  "category": "museum",
+                  "coords": [
+                        26.195706,
+                        59.187569
+                  ]
+            },
+            {
+                  "name": "Porkuni mõisa peahoone",
+                  "text": "Conacul istoric din Porkuni, care găzduiește astăzi o școală pentru persoane cu deficiențe de auz.",
+                  "category": "historical",
+                  "coords": [
+                        26.197107,
+                        59.187159
+                  ]
+            },
+            {
+                  "name": "Porkuni Lademe Tüüppaljand",
+                  "text": "Un afloriment geologic semnificativ care reprezintă etajul Porkuni al perioadei Ordovician.",
+                  "category": "landmark",
+                  "coords": [
+                        26.18751,
+                        59.187434
+                  ]
             }
       ],
       "en": [
@@ -2466,6 +4176,33 @@ export const estoniaReliefV2: POI[] = [
                   "coords": [
                         26.197601,
                         59.185315
+                  ]
+            },
+            {
+                  "name": "Paemuuseum",
+                  "text": "A unique museum in Porkuni dedicated to limestone, Estonia's national stone.",
+                  "category": "museum",
+                  "coords": [
+                        26.195706,
+                        59.187569
+                  ]
+            },
+            {
+                  "name": "Porkuni mõisa peahoone",
+                  "text": "The historic manor house of Porkuni, which now houses a school for the hearing impaired.",
+                  "category": "historical",
+                  "coords": [
+                        26.197107,
+                        59.187159
+                  ]
+            },
+            {
+                  "name": "Porkuni Lademe Tüüppaljand",
+                  "text": "A significant geological outcrop representing the Porkuni stage of the Ordovician period.",
+                  "category": "landmark",
+                  "coords": [
+                        26.18751,
+                        59.187434
                   ]
             }
       ]
@@ -2623,6 +4360,60 @@ export const estoniaReliefV2: POI[] = [
                         24.952811,
                         59.372268
                   ]
+            },
+            {
+                  "name": "Assaku nõiakivi",
+                  "text": "Eine archäologische Ausgrabungsstätte in Tuuliku-Nukk, die historische Bedeutung besitzt.",
+                  "category": "historical",
+                  "coords": [
+                        24.842278,
+                        59.378382
+                  ]
+            },
+            {
+                  "name": "Eesti Vabadusvõitluse Muuseum Lagedil",
+                  "text": "Ein Museum in Tuuliku-Nukk, das der estnischen Freiheitsbewegung gewidmet ist.",
+                  "category": "museum",
+                  "coords": [
+                        24.940782,
+                        59.388992
+                  ]
+            },
+            {
+                  "name": "Lehmja-Loo tarandkalme",
+                  "text": "Eine historische Grabstätte in Tuuliku-Nukk, die für die Archäologie von Bedeutung ist.",
+                  "category": "historical",
+                  "coords": [
+                        24.879311,
+                        59.361874
+                  ]
+            },
+            {
+                  "name": "Kultusekivi",
+                  "text": "Ein antiker Opferstein in Tuuliku-Nukk, der als archäologische Stätte gilt.",
+                  "category": "historical",
+                  "coords": [
+                        24.873125,
+                        59.385893
+                  ]
+            },
+            {
+                  "name": "Lehmja muinasasula",
+                  "text": "Überreste einer eisenzeitlichen Siedlung in Tuuliku-Nukk.",
+                  "category": "historical",
+                  "coords": [
+                        24.883256,
+                        59.355546
+                  ]
+            },
+            {
+                  "name": "Lagedi supelrand",
+                  "text": "Ein öffentlicher Strand in Tuuliku-Nukk für Freizeitaktivitäten am Ufer.",
+                  "category": "recreational",
+                  "coords": [
+                        24.94082,
+                        59.401766
+                  ]
             }
       ],
       "hu": [
@@ -2642,6 +4433,60 @@ export const estoniaReliefV2: POI[] = [
                   "coords": [
                         24.952811,
                         59.372268
+                  ]
+            },
+            {
+                  "name": "Assaku nõiakivi",
+                  "text": "Régészeti lelőhely Tuuliku-Nukk területén, amely történelmi jelentőséggel bír.",
+                  "category": "historical",
+                  "coords": [
+                        24.842278,
+                        59.378382
+                  ]
+            },
+            {
+                  "name": "Eesti Vabadusvõitluse Muuseum Lagedil",
+                  "text": "Múzeum Tuuliku-Nukk településen, amely az észt szabadságmozgalomnak állít emléket.",
+                  "category": "museum",
+                  "coords": [
+                        24.940782,
+                        59.388992
+                  ]
+            },
+            {
+                  "name": "Lehmja-Loo tarandkalme",
+                  "text": "Történelmi temetkezési hely Tuuliku-Nukk területén, amely régészeti jelentőségű.",
+                  "category": "historical",
+                  "coords": [
+                        24.879311,
+                        59.361874
+                  ]
+            },
+            {
+                  "name": "Kultusekivi",
+                  "text": "Ősi áldozati kő Tuuliku-Nukk településen, amely régészeti lelőhely.",
+                  "category": "historical",
+                  "coords": [
+                        24.873125,
+                        59.385893
+                  ]
+            },
+            {
+                  "name": "Lehmja muinasasula",
+                  "text": "Vaskori település maradványai Tuuliku-Nukk területén.",
+                  "category": "historical",
+                  "coords": [
+                        24.883256,
+                        59.355546
+                  ]
+            },
+            {
+                  "name": "Lagedi supelrand",
+                  "text": "Nyilvános strand Tuuliku-Nukk területén a vízparti pihenéshez.",
+                  "category": "recreational",
+                  "coords": [
+                        24.94082,
+                        59.401766
                   ]
             }
       ],
@@ -2663,6 +4508,60 @@ export const estoniaReliefV2: POI[] = [
                         24.952811,
                         59.372268
                   ]
+            },
+            {
+                  "name": "Assaku nõiakivi",
+                  "text": "Un sit arheologic în Tuuliku-Nukk, având o importanță istorică locală.",
+                  "category": "historical",
+                  "coords": [
+                        24.842278,
+                        59.378382
+                  ]
+            },
+            {
+                  "name": "Eesti Vabadusvõitluse Muuseum Lagedil",
+                  "text": "Un muzeu în Tuuliku-Nukk dedicat mișcării de eliberare a Estoniei.",
+                  "category": "museum",
+                  "coords": [
+                        24.940782,
+                        59.388992
+                  ]
+            },
+            {
+                  "name": "Lehmja-Loo tarandkalme",
+                  "text": "Un sit funerar istoric în Tuuliku-Nukk, important pentru arheologie.",
+                  "category": "historical",
+                  "coords": [
+                        24.879311,
+                        59.361874
+                  ]
+            },
+            {
+                  "name": "Kultusekivi",
+                  "text": "O piatră de cult antică în Tuuliku-Nukk, considerată sit arheologic.",
+                  "category": "historical",
+                  "coords": [
+                        24.873125,
+                        59.385893
+                  ]
+            },
+            {
+                  "name": "Lehmja muinasasula",
+                  "text": "Vestigiile unei așezări din epoca fierului în Tuuliku-Nukk.",
+                  "category": "historical",
+                  "coords": [
+                        24.883256,
+                        59.355546
+                  ]
+            },
+            {
+                  "name": "Lagedi supelrand",
+                  "text": "O plajă publică în Tuuliku-Nukk pentru activități recreative pe mal.",
+                  "category": "recreational",
+                  "coords": [
+                        24.94082,
+                        59.401766
+                  ]
             }
       ],
       "en": [
@@ -2682,6 +4581,60 @@ export const estoniaReliefV2: POI[] = [
                   "coords": [
                         24.952811,
                         59.372268
+                  ]
+            },
+            {
+                  "name": "Assaku nõiakivi",
+                  "text": "An archaeological site in Tuuliku-Nukk with local historical significance.",
+                  "category": "historical",
+                  "coords": [
+                        24.842278,
+                        59.378382
+                  ]
+            },
+            {
+                  "name": "Estonian Liberation Movement Museum at Lagedi",
+                  "text": "A museum in Tuuliku-Nukk dedicated to the Estonian liberation movement.",
+                  "category": "museum",
+                  "coords": [
+                        24.940782,
+                        59.388992
+                  ]
+            },
+            {
+                  "name": "Lehmja-Loo tarandkalme",
+                  "text": "A historic burial site in Tuuliku-Nukk of archaeological importance.",
+                  "category": "historical",
+                  "coords": [
+                        24.879311,
+                        59.361874
+                  ]
+            },
+            {
+                  "name": "Kultusekivi",
+                  "text": "An ancient cult stone in Tuuliku-Nukk classified as an archaeological site.",
+                  "category": "historical",
+                  "coords": [
+                        24.873125,
+                        59.385893
+                  ]
+            },
+            {
+                  "name": "the iron-age settlement of Lehmja",
+                  "text": "The remains of an Iron Age settlement located in Tuuliku-Nukk.",
+                  "category": "historical",
+                  "coords": [
+                        24.883256,
+                        59.355546
+                  ]
+            },
+            {
+                  "name": "Lagedi beach",
+                  "text": "A public beach in Tuuliku-Nukk for lakeside recreation.",
+                  "category": "recreational",
+                  "coords": [
+                        24.94082,
+                        59.401766
                   ]
             }
       ]
@@ -2730,7 +4683,88 @@ export const estoniaReliefV2: POI[] = [
     image: "/poi-images/estonia-tuuliku-nukk-rise-relief-v2.webp",
   },
   {
-    id: "estonia-vana-nukk-rise-relief-v2",
+    id: "estonia-vana-nukk-rise-relief-v2", "sights": {
+      "de": [
+            {
+                  "name": "Jõe renditalu",
+                  "text": "Überreste eines historischen Pachtbauernhofs in der Region Vana-Nukk.",
+                  "category": "historical",
+                  "coords": [
+                        26.657033,
+                        58.62758
+                  ]
+            },
+            {
+                  "name": "Kudina mõisa peahoone",
+                  "text": "Das Hauptgebäude des historischen Gutshofs von Kudina.",
+                  "category": "historical",
+                  "coords": [
+                        26.69475,
+                        58.669046
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Jõe renditalu",
+                  "text": "Egy történelmi bérelt tanya maradványai Vana-Nukk térségében.",
+                  "category": "historical",
+                  "coords": [
+                        26.657033,
+                        58.62758
+                  ]
+            },
+            {
+                  "name": "Kudina mõisa peahoone",
+                  "text": "A történelmi Kudina-kúria főépülete.",
+                  "category": "historical",
+                  "coords": [
+                        26.69475,
+                        58.669046
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Jõe renditalu",
+                  "text": "Rămășițele unei ferme istorice arendate din regiunea Vana-Nukk.",
+                  "category": "historical",
+                  "coords": [
+                        26.657033,
+                        58.62758
+                  ]
+            },
+            {
+                  "name": "Kudina mõisa peahoone",
+                  "text": "Clădirea principală a conacului istoric din Kudina.",
+                  "category": "historical",
+                  "coords": [
+                        26.69475,
+                        58.669046
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Jõe renditalu",
+                  "text": "Remains of a historic rental farm in the Vana-Nukk area.",
+                  "category": "historical",
+                  "coords": [
+                        26.657033,
+                        58.62758
+                  ]
+            },
+            {
+                  "name": "Kudina mõisa peahoone",
+                  "text": "The main building of the historic Kudina manor estate.",
+                  "category": "historical",
+                  "coords": [
+                        26.69475,
+                        58.669046
+                  ]
+            }
+      ]
+},
     type: "mountain",
     parent: "EE",
     name: { de: "Vana-Nukk", hu: "Vana-Nukk-domb", ro: "Dealul Vana-Nukk", en: "Vana-Nukk" },
@@ -2865,7 +4899,52 @@ export const estoniaReliefV2: POI[] = [
     image: "/poi-images/estonia-liiva-nukk-rise-relief-v2.webp",
   },
   {
-    id: "estonia-kadaka-nukk-rise-relief-v2",
+    id: "estonia-kadaka-nukk-rise-relief-v2", "sights": {
+      "de": [
+            {
+                  "name": "Õepa",
+                  "text": "Historische Ruinen im Gebiet von Kadaka-Nukk.",
+                  "category": "historical",
+                  "coords": [
+                        24.242523,
+                        58.566575
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Õepa",
+                  "text": "Történelmi romok Kadaka-Nukk területén.",
+                  "category": "historical",
+                  "coords": [
+                        24.242523,
+                        58.566575
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Õepa",
+                  "text": "Ruine istorice situate în zona Kadaka-Nukk.",
+                  "category": "historical",
+                  "coords": [
+                        24.242523,
+                        58.566575
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Õepa",
+                  "text": "Historic ruins located in the Kadaka-Nukk area.",
+                  "category": "historical",
+                  "coords": [
+                        24.242523,
+                        58.566575
+                  ]
+            }
+      ]
+},
     type: "mountain",
     parent: "EE",
     name: { de: "Kadaka-Nukk", hu: "Kadaka-Nukk-domb", ro: "Dealul Kadaka-Nukk", en: "Kadaka-Nukk" },
@@ -2920,6 +4999,51 @@ export const estoniaReliefV2: POI[] = [
                         26.550784,
                         57.904261
                   ]
+            },
+            {
+                  "name": "Urvaste valla koduloomuuseum",
+                  "text": "Heimatmuseum der Gemeinde Urvaste, das die lokale Geschichte und Kultur präsentiert.",
+                  "category": "museum",
+                  "coords": [
+                        26.548012,
+                        57.879224
+                  ]
+            },
+            {
+                  "name": "Liinusmägi",
+                  "text": "Archäologische Stätte eines alten Burgwalls in der Nähe von Suure-Nukk.",
+                  "category": "historical",
+                  "coords": [
+                        26.567598,
+                        57.901668
+                  ]
+            },
+            {
+                  "name": "Liikluslinn",
+                  "text": "Themenpark in Suure-Nukk, in dem Kinder spielerisch Verkehrsregeln lernen können.",
+                  "category": "recreational",
+                  "coords": [
+                        26.55025,
+                        57.88028
+                  ]
+            },
+            {
+                  "name": "Tamme-Lauri tamm",
+                  "text": "Die Tamme-Lauri-Eiche ist der dickste und älteste Baum Estlands.",
+                  "category": "landmark",
+                  "coords": [
+                        26.576691,
+                        57.917253
+                  ]
+            },
+            {
+                  "name": "Urvaste kirik",
+                  "text": "Historische Kirche in der Gemeinde Urvaste, bekannt für ihre Architektur.",
+                  "category": "religious",
+                  "coords": [
+                        26.543679,
+                        57.910311
+                  ]
             }
       ],
       "hu": [
@@ -2930,6 +5054,51 @@ export const estoniaReliefV2: POI[] = [
                   "coords": [
                         26.550784,
                         57.904261
+                  ]
+            },
+            {
+                  "name": "Urvaste valla koduloomuuseum",
+                  "text": "Urvaste község helytörténeti múzeuma, amely a helyi történelmet és kultúrát mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        26.548012,
+                        57.879224
+                  ]
+            },
+            {
+                  "name": "Liinusmägi",
+                  "text": "Egy ősi várhely régészeti lelőhelye Suure-Nukk közelében.",
+                  "category": "historical",
+                  "coords": [
+                        26.567598,
+                        57.901668
+                  ]
+            },
+            {
+                  "name": "Liikluslinn",
+                  "text": "Közlekedési élménypark Suure-Nukkban, ahol a gyerekek játékosan tanulhatják meg a KRESZ szabályait.",
+                  "category": "recreational",
+                  "coords": [
+                        26.55025,
+                        57.88028
+                  ]
+            },
+            {
+                  "name": "Tamme-Lauri tamm",
+                  "text": "A Tamme-Lauri tölgyfa Észtország legvastagabb és legöregebb fája.",
+                  "category": "landmark",
+                  "coords": [
+                        26.576691,
+                        57.917253
+                  ]
+            },
+            {
+                  "name": "Urvaste kirik",
+                  "text": "Urvaste község történelmi temploma, amely építészetéről nevezetes.",
+                  "category": "religious",
+                  "coords": [
+                        26.543679,
+                        57.910311
                   ]
             }
       ],
@@ -2942,6 +5111,51 @@ export const estoniaReliefV2: POI[] = [
                         26.550784,
                         57.904261
                   ]
+            },
+            {
+                  "name": "Urvaste valla koduloomuuseum",
+                  "text": "Muzeul de istorie locală al comunei Urvaste, care prezintă istoria și cultura locală.",
+                  "category": "museum",
+                  "coords": [
+                        26.548012,
+                        57.879224
+                  ]
+            },
+            {
+                  "name": "Liinusmägi",
+                  "text": "Sit arheologic al unei vechi cetăți în apropiere de Suure-Nukk.",
+                  "category": "historical",
+                  "coords": [
+                        26.567598,
+                        57.901668
+                  ]
+            },
+            {
+                  "name": "Liikluslinn",
+                  "text": "Parc tematic în Suure-Nukk, unde copiii pot învăța regulile de circulație prin joacă.",
+                  "category": "recreational",
+                  "coords": [
+                        26.55025,
+                        57.88028
+                  ]
+            },
+            {
+                  "name": "Tamme-Lauri tamm",
+                  "text": "Stejarul Tamme-Lauri este cel mai gros și mai bătrân copac din Estonia.",
+                  "category": "landmark",
+                  "coords": [
+                        26.576691,
+                        57.917253
+                  ]
+            },
+            {
+                  "name": "Urvaste kirik",
+                  "text": "Biserică istorică în comuna Urvaste, cunoscută pentru arhitectura sa.",
+                  "category": "religious",
+                  "coords": [
+                        26.543679,
+                        57.910311
+                  ]
             }
       ],
       "en": [
@@ -2952,6 +5166,51 @@ export const estoniaReliefV2: POI[] = [
                   "coords": [
                         26.550784,
                         57.904261
+                  ]
+            },
+            {
+                  "name": "Urvaste Rural Municipality Museum",
+                  "text": "Local history museum of the Urvaste municipality, showcasing local history and culture.",
+                  "category": "museum",
+                  "coords": [
+                        26.548012,
+                        57.879224
+                  ]
+            },
+            {
+                  "name": "Liinusmägi",
+                  "text": "Archaeological site of an ancient hill fort near Suure-Nukk.",
+                  "category": "historical",
+                  "coords": [
+                        26.567598,
+                        57.901668
+                  ]
+            },
+            {
+                  "name": "Liikluslinn",
+                  "text": "Traffic-themed park in Suure-Nukk where children can learn road safety through play.",
+                  "category": "recreational",
+                  "coords": [
+                        26.55025,
+                        57.88028
+                  ]
+            },
+            {
+                  "name": "Tamme-Lauri tamm",
+                  "text": "The Tamme-Lauri oak is the thickest and oldest tree in Estonia.",
+                  "category": "landmark",
+                  "coords": [
+                        26.576691,
+                        57.917253
+                  ]
+            },
+            {
+                  "name": "Urvaste kirik",
+                  "text": "Historic church in the Urvaste municipality, notable for its architecture.",
+                  "category": "religious",
+                  "coords": [
+                        26.543679,
+                        57.910311
                   ]
             }
       ]

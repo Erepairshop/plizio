@@ -49,7 +49,88 @@ imageHint: "Kalmar Castle aerial view by the sea",
     },
     image: "/poi-images/sweden-kalmar-castle-history-v2.webp",
 },  {
-    id: "sweden-lacko-castle-history-v2",
+    id: "sweden-lacko-castle-history-v2", "sights": {
+      "de": [
+            {
+                  "name": "Schloss Läckö",
+                  "text": "Gut erhaltenes mittelalterliches Schloss am Vänersee, bekannt für seine Barockarchitektur.",
+                  "category": "castle",
+                  "coords": [
+                        13.219588,
+                        58.675177
+                  ]
+            },
+            {
+                  "name": "Svarta Örns Orden",
+                  "text": "Denkmal oder Ort in der Nähe von Schloss Läckö, verbunden mit dem Orden vom Schwarzen Adler.",
+                  "category": "historical",
+                  "coords": [
+                        13.21907,
+                        58.676308
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Läckö slott",
+                  "text": "Jó állapotban fennmaradt középkori vár a Vänern-tó partján, barokk építészetéről ismert.",
+                  "category": "castle",
+                  "coords": [
+                        13.219588,
+                        58.675177
+                  ]
+            },
+            {
+                  "name": "Svarta Örns Orden",
+                  "text": "A Fekete Sas Rendhez kapcsolódó emlékmű vagy helyszín Läckö vára közelében.",
+                  "category": "historical",
+                  "coords": [
+                        13.21907,
+                        58.676308
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Läckö slott",
+                  "text": "Castel medieval bine conservat pe malul lacului Vänern, cunoscut pentru arhitectura sa barocă.",
+                  "category": "castle",
+                  "coords": [
+                        13.219588,
+                        58.675177
+                  ]
+            },
+            {
+                  "name": "Svarta Örns Orden",
+                  "text": "Monument sau sit asociat cu Ordinul Vulturului Negru în regiunea Läckö.",
+                  "category": "historical",
+                  "coords": [
+                        13.21907,
+                        58.676308
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Läckö slott",
+                  "text": "Well-preserved medieval castle on Kållandsö island, known for its baroque architecture.",
+                  "category": "castle",
+                  "coords": [
+                        13.219588,
+                        58.675177
+                  ]
+            },
+            {
+                  "name": "Svarta Örns Orden",
+                  "text": "Monument or site associated with the Order of the Black Eagle in the Läckö region.",
+                  "category": "historical",
+                  "coords": [
+                        13.21907,
+                        58.676308
+                  ]
+            }
+      ]
+},
     parent: "SE",
     type: "castle",
     name: { de: "Schloss Läckö", hu: "Läckö kastély", ro: "Castelul Läckö", en: "Läckö Castle"},
@@ -105,6 +186,69 @@ imageHint: "Läckö Castle on Lake Vänern",
                         17.232988,
                         59.24708
                   ]
+            },
+            {
+                  "name": "Schloss Gripsholm",
+                  "text": "Ein berühmtes königliches Schloss am Mälarensee, das die staatliche Porträtgalerie beherbergt.",
+                  "category": "museum",
+                  "coords": [
+                        17.220019,
+                        59.255726
+                  ]
+            },
+            {
+                  "name": "Callanderska gården",
+                  "text": "Ein Heimatmuseum in Mariefred, das in einem gut erhaltenen historischen Holzhaus untergebracht ist.",
+                  "category": "museum",
+                  "coords": [
+                        17.223708,
+                        59.258031
+                  ]
+            },
+            {
+                  "name": "Gripsholms hjorthages naturreservat",
+                  "text": "Ein Naturreservat bei Schloss Gripsholm, bekannt für seine frei lebenden Damhirsche.",
+                  "category": "natural",
+                  "coords": [
+                        17.204399,
+                        59.253229
+                  ]
+            },
+            {
+                  "name": "Härnöängens naturreservat",
+                  "text": "Ein geschütztes Naturgebiet mit Wanderwegen in der Nähe von Mariefred.",
+                  "category": "natural",
+                  "coords": [
+                        17.270311,
+                        59.248494
+                  ]
+            },
+            {
+                  "name": "Stora Härnöns naturreservat",
+                  "text": "Ein Naturreservat auf der Insel Stora Härnön, das vielfältige Küstenlandschaften schützt.",
+                  "category": "natural",
+                  "coords": [
+                        17.269187,
+                        59.253375
+                  ]
+            },
+            {
+                  "name": "Gripsnäs",
+                  "text": "Ein historisches Herrenhaus und Anwesen in der Nähe von Schloss Gripsholm.",
+                  "category": "castle",
+                  "coords": [
+                        17.214134,
+                        59.252736
+                  ]
+            },
+            {
+                  "name": "Kaninhagen",
+                  "text": "Ein kleiner Tierpark oder Parkbereich in der Nähe von Schloss Gripsholm.",
+                  "category": "recreational",
+                  "coords": [
+                        17.183314,
+                        59.248444
+                  ]
             }
       ],
       "hu": [
@@ -115,6 +259,69 @@ imageHint: "Läckö Castle on Lake Vänern",
                   "coords": [
                         17.232988,
                         59.24708
+                  ]
+            },
+            {
+                  "name": "Gripsholms Slott",
+                  "text": "Híres királyi vár a Mälaren-tó partján, amely az állami portrégyűjteménynek ad otthont.",
+                  "category": "museum",
+                  "coords": [
+                        17.220019,
+                        59.255726
+                  ]
+            },
+            {
+                  "name": "Callanderska gården",
+                  "text": "Helytörténeti múzeum Mariefredben, egy jó állapotban fennmaradt történelmi faházban.",
+                  "category": "museum",
+                  "coords": [
+                        17.223708,
+                        59.258031
+                  ]
+            },
+            {
+                  "name": "Gripsholms hjorthages naturreservat",
+                  "text": "Természetvédelmi terület a Gripsholm-vár mellett, amely a dámvadjairól ismert.",
+                  "category": "natural",
+                  "coords": [
+                        17.204399,
+                        59.253229
+                  ]
+            },
+            {
+                  "name": "Härnöängens naturreservat",
+                  "text": "Védett természeti terület túraútvonalakkal Mariefred közelében.",
+                  "category": "natural",
+                  "coords": [
+                        17.270311,
+                        59.248494
+                  ]
+            },
+            {
+                  "name": "Stora Härnöns naturreservat",
+                  "text": "Természetvédelmi terület a Stora Härnön-szigeten, amely változatos parti tájakat véd.",
+                  "category": "natural",
+                  "coords": [
+                        17.269187,
+                        59.253375
+                  ]
+            },
+            {
+                  "name": "Gripsnäs",
+                  "text": "Történelmi kúria és birtok a Gripsholm-vár szomszédságában.",
+                  "category": "castle",
+                  "coords": [
+                        17.214134,
+                        59.252736
+                  ]
+            },
+            {
+                  "name": "Kaninhagen",
+                  "text": "Kisebb állatpark vagy parkosított terület a Gripsholm-vár közelében.",
+                  "category": "recreational",
+                  "coords": [
+                        17.183314,
+                        59.248444
                   ]
             }
       ],
@@ -127,6 +334,69 @@ imageHint: "Läckö Castle on Lake Vänern",
                         17.232988,
                         59.24708
                   ]
+            },
+            {
+                  "name": "Gripsholms Slott",
+                  "text": "Un faimos castel regal pe malul lacului Mälaren, care găzduiește Galeria Națională de Portrete.",
+                  "category": "museum",
+                  "coords": [
+                        17.220019,
+                        59.255726
+                  ]
+            },
+            {
+                  "name": "Callanderska gården",
+                  "text": "Un muzeu de istorie locală din Mariefred, situat într-o casă istorică din lemn bine conservată.",
+                  "category": "museum",
+                  "coords": [
+                        17.223708,
+                        59.258031
+                  ]
+            },
+            {
+                  "name": "Gripsholms hjorthages naturreservat",
+                  "text": "O rezervație naturală lângă Castelul Gripsholm, cunoscută pentru cerbii lopătari.",
+                  "category": "natural",
+                  "coords": [
+                        17.204399,
+                        59.253229
+                  ]
+            },
+            {
+                  "name": "Härnöängens naturreservat",
+                  "text": "O arie naturală protejată cu trasee de drumeție în apropiere de Mariefred.",
+                  "category": "natural",
+                  "coords": [
+                        17.270311,
+                        59.248494
+                  ]
+            },
+            {
+                  "name": "Stora Härnöns naturreservat",
+                  "text": "O rezervație naturală pe insula Stora Härnön, care protejează peisaje de coastă diverse.",
+                  "category": "natural",
+                  "coords": [
+                        17.269187,
+                        59.253375
+                  ]
+            },
+            {
+                  "name": "Gripsnäs",
+                  "text": "Un conac istoric și o moșie situate în apropierea Castelului Gripsholm.",
+                  "category": "castle",
+                  "coords": [
+                        17.214134,
+                        59.252736
+                  ]
+            },
+            {
+                  "name": "Kaninhagen",
+                  "text": "Un mic parc de animale sau zonă de agrement lângă Castelul Gripsholm.",
+                  "category": "recreational",
+                  "coords": [
+                        17.183314,
+                        59.248444
+                  ]
             }
       ],
       "en": [
@@ -137,6 +407,69 @@ imageHint: "Läckö Castle on Lake Vänern",
                   "coords": [
                         17.232988,
                         59.24708
+                  ]
+            },
+            {
+                  "name": "Gripsholm Castle",
+                  "text": "A famous royal castle on Lake Mälaren, housing the National Portrait Gallery.",
+                  "category": "museum",
+                  "coords": [
+                        17.220019,
+                        59.255726
+                  ]
+            },
+            {
+                  "name": "Callanderska gården",
+                  "text": "A local history museum in Mariefred, located in a well-preserved historic wooden house.",
+                  "category": "museum",
+                  "coords": [
+                        17.223708,
+                        59.258031
+                  ]
+            },
+            {
+                  "name": "Gripsholms hjorthages naturreservat",
+                  "text": "A nature reserve near Gripsholm Castle, known for its fallow deer park.",
+                  "category": "natural",
+                  "coords": [
+                        17.204399,
+                        59.253229
+                  ]
+            },
+            {
+                  "name": "Härnöängens naturreservat",
+                  "text": "A protected natural area with walking trails near Mariefred.",
+                  "category": "natural",
+                  "coords": [
+                        17.270311,
+                        59.248494
+                  ]
+            },
+            {
+                  "name": "Stora Härnöns naturreservat",
+                  "text": "A nature reserve on Stora Härnön island, protecting diverse coastal landscapes.",
+                  "category": "natural",
+                  "coords": [
+                        17.269187,
+                        59.253375
+                  ]
+            },
+            {
+                  "name": "Gripsnäs",
+                  "text": "A historic manor house and estate located near Gripsholm Castle.",
+                  "category": "castle",
+                  "coords": [
+                        17.214134,
+                        59.252736
+                  ]
+            },
+            {
+                  "name": "Kaninhagen",
+                  "text": "A small animal park or park area situated near Gripsholm Castle.",
+                  "category": "recreational",
+                  "coords": [
+                        17.183314,
+                        59.248444
                   ]
             }
       ]
@@ -334,6 +667,51 @@ imageHint: "Lund Cathedral Romanesque facade",
                         17.534104,
                         59.363566
                   ]
+            },
+            {
+                  "name": "Birka",
+                  "text": "Ein bedeutendes Handelszentrum der Wikingerzeit auf der Insel Björkö, heute UNESCO-Welterbe.",
+                  "category": "historical",
+                  "coords": [
+                        17.544941,
+                        59.332728
+                  ]
+            },
+            {
+                  "name": "Hovgården",
+                  "text": "Eine archäologische Ausgrabungsstätte, die zusammen mit Hovgården zum UNESCO-Welterbe gehört.",
+                  "category": "historical",
+                  "coords": [
+                        17.535125,
+                        59.361
+                  ]
+            },
+            {
+                  "name": "Birkamuseum",
+                  "text": "Ein Museum, das die Geschichte und Funde der Wikingerstadt Birka präsentiert.",
+                  "category": "museum",
+                  "coords": [
+                        17.541974,
+                        59.330443
+                  ]
+            },
+            {
+                  "name": "Björkö naturreservat",
+                  "text": "Ein Naturschutzgebiet auf der Insel Björkö, die für ihre Wikingerstätten bekannt ist.",
+                  "category": "natural",
+                  "coords": [
+                        17.567516,
+                        59.315605
+                  ]
+            },
+            {
+                  "name": "Gåsholmen",
+                  "text": "Ein Naturschutzgebiet in der Nähe der historischen Stätte Birka.",
+                  "category": "natural",
+                  "coords": [
+                        17.528414,
+                        59.319439
+                  ]
             }
       ],
       "hu": [
@@ -344,6 +722,51 @@ imageHint: "Lund Cathedral Romanesque facade",
                   "coords": [
                         17.534104,
                         59.363566
+                  ]
+            },
+            {
+                  "name": "Birka",
+                  "text": "Fontos viking kori kereskedelmi központ Björkö szigetén, ma az UNESCO Világörökség része.",
+                  "category": "historical",
+                  "coords": [
+                        17.544941,
+                        59.332728
+                  ]
+            },
+            {
+                  "name": "Hovgården",
+                  "text": "Régészeti lelőhely, amely Hovgårdennel együtt az UNESCO Világörökség része.",
+                  "category": "historical",
+                  "coords": [
+                        17.535125,
+                        59.361
+                  ]
+            },
+            {
+                  "name": "Birkamuseet",
+                  "text": "A viking kori Birka városának történetét és leleteit bemutató múzeum.",
+                  "category": "museum",
+                  "coords": [
+                        17.541974,
+                        59.330443
+                  ]
+            },
+            {
+                  "name": "Björkö naturreservat",
+                  "text": "Természetvédelmi terület Björkö szigetén, amely viking kori emlékeiről nevezetes.",
+                  "category": "natural",
+                  "coords": [
+                        17.567516,
+                        59.315605
+                  ]
+            },
+            {
+                  "name": "Gåsholmen",
+                  "text": "Természetvédelmi terület a történelmi Birka közelében.",
+                  "category": "natural",
+                  "coords": [
+                        17.528414,
+                        59.319439
                   ]
             }
       ],
@@ -356,6 +779,51 @@ imageHint: "Lund Cathedral Romanesque facade",
                         17.534104,
                         59.363566
                   ]
+            },
+            {
+                  "name": "Birka",
+                  "text": "Un important centru comercial din epoca vikingă pe insula Björkö, astăzi sit UNESCO.",
+                  "category": "historical",
+                  "coords": [
+                        17.544941,
+                        59.332728
+                  ]
+            },
+            {
+                  "name": "Hovgården",
+                  "text": "Un sit arheologic care face parte din patrimoniul mondial UNESCO alături de Hovgården.",
+                  "category": "historical",
+                  "coords": [
+                        17.535125,
+                        59.361
+                  ]
+            },
+            {
+                  "name": "Birkamuseet",
+                  "text": "Un muzeu care prezintă istoria și descoperirile arheologice ale orașului viking Birka.",
+                  "category": "museum",
+                  "coords": [
+                        17.541974,
+                        59.330443
+                  ]
+            },
+            {
+                  "name": "Björkö naturreservat",
+                  "text": "O rezervație naturală pe insula Björkö, cunoscută pentru siturile sale vikinge.",
+                  "category": "natural",
+                  "coords": [
+                        17.567516,
+                        59.315605
+                  ]
+            },
+            {
+                  "name": "Gåsholmen",
+                  "text": "O rezervație naturală situată în apropierea sitului istoric Birka.",
+                  "category": "natural",
+                  "coords": [
+                        17.528414,
+                        59.319439
+                  ]
             }
       ],
       "en": [
@@ -366,6 +834,51 @@ imageHint: "Lund Cathedral Romanesque facade",
                   "coords": [
                         17.534104,
                         59.363566
+                  ]
+            },
+            {
+                  "name": "Birka",
+                  "text": "A major Viking Age trading center on Björkö island, now a UNESCO World Heritage site.",
+                  "category": "historical",
+                  "coords": [
+                        17.544941,
+                        59.332728
+                  ]
+            },
+            {
+                  "name": "Birka and Hovgården",
+                  "text": "An archaeological site that forms part of a UNESCO World Heritage site together with Hovgården.",
+                  "category": "historical",
+                  "coords": [
+                        17.535125,
+                        59.361
+                  ]
+            },
+            {
+                  "name": "Birkamuseet",
+                  "text": "A museum presenting the history and archaeological finds of the Viking town of Birka.",
+                  "category": "museum",
+                  "coords": [
+                        17.541974,
+                        59.330443
+                  ]
+            },
+            {
+                  "name": "Björkö naturreservat",
+                  "text": "A nature reserve on Björkö island, famous for its Viking Age sites.",
+                  "category": "natural",
+                  "coords": [
+                        17.567516,
+                        59.315605
+                  ]
+            },
+            {
+                  "name": "Gåsholmen",
+                  "text": "A nature reserve located near the historical site of Birka.",
+                  "category": "natural",
+                  "coords": [
+                        17.528414,
+                        59.319439
                   ]
             }
       ]
@@ -507,7 +1020,304 @@ imageHint: "Birka Viking settlement archaeological site",
     },
   },
   {
-    id: "sweden-tanum-rock-carvings-history-v2",
+    id: "sweden-tanum-rock-carvings-history-v2", "sights": {
+      "de": [
+            {
+                  "name": "Ryttarna vid Tegneby",
+                  "text": "Eine archäologische Stätte in Tanum mit bronzezeitlichen Felsritzungen.",
+                  "category": "historical",
+                  "coords": [
+                        11.327105,
+                        58.689136
+                  ]
+            },
+            {
+                  "name": "Vitlycke Museum",
+                  "text": "Ein Museum in Tanum, das sich den weltberühmten bronzezeitlichen Felsritzungen widmet.",
+                  "category": "museum",
+                  "coords": [
+                        11.340778,
+                        58.701235
+                  ]
+            },
+            {
+                  "name": "Felsenzeichnungen",
+                  "text": "Dieses UNESCO-Welterbe in Tanum umfasst zahlreiche beeindruckende Felsritzungen aus der Bronzezeit.",
+                  "category": "historical",
+                  "coords": [
+                        11.336245,
+                        58.701601
+                  ]
+            },
+            {
+                  "name": "Litsleby",
+                  "text": "Eine bedeutende archäologische Stätte in Tanum, bekannt für ihre großen Felsritzungen.",
+                  "category": "historical",
+                  "coords": [
+                        11.325291,
+                        58.68903
+                  ]
+            },
+            {
+                  "name": "Kärra naturreservat",
+                  "text": "Ein Naturschutzgebiet bei Tanum, das zur Erhaltung der lokalen Flora und Fauna dient.",
+                  "category": "natural",
+                  "coords": [
+                        11.296297,
+                        58.708768
+                  ]
+            },
+            {
+                  "name": "Bjornemyren Hällkista",
+                  "text": "Eine archäologische Stätte in Tanum, die eine historische Steinkiste beherbergt.",
+                  "category": "historical",
+                  "coords": [
+                        11.307528,
+                        58.705701
+                  ]
+            },
+            {
+                  "name": "Säm gånggrift",
+                  "text": "Ein prähistorisches Ganggrab in der Nähe von Tanum, das Zeugnis von frühen Bestattungsriten ablegt.",
+                  "category": "historical",
+                  "coords": [
+                        11.30248,
+                        58.720765
+                  ]
+            },
+            {
+                  "name": "Fossums hällristningar",
+                  "text": "Bekannte bronzezeitliche Felsritzungen in Tanum, die für ihre detailreichen Darstellungen berühmt sind.",
+                  "category": "historical",
+                  "coords": [
+                        11.383718,
+                        58.724016
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Ryttarna vid Tegneby",
+                  "text": "Régészeti lelőhely Tanumban, amely bronzkori sziklarajzairól nevezetes.",
+                  "category": "historical",
+                  "coords": [
+                        11.327105,
+                        58.689136
+                  ]
+            },
+            {
+                  "name": "Vitlycke Museum",
+                  "text": "Tanumban található múzeum, amely a világhírű bronzkori sziklarajzokat mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        11.340778,
+                        58.701235
+                  ]
+            },
+            {
+                  "name": "Hällristningar",
+                  "text": "Az UNESCO Világörökség részét képező tanumi terület számos lenyűgöző bronzkori sziklarajzot tartalmaz.",
+                  "category": "historical",
+                  "coords": [
+                        11.336245,
+                        58.701601
+                  ]
+            },
+            {
+                  "name": "Litsleby",
+                  "text": "Jelentős régészeti lelőhely Tanumban, amely nagy méretű sziklarajzairól ismert.",
+                  "category": "historical",
+                  "coords": [
+                        11.325291,
+                        58.68903
+                  ]
+            },
+            {
+                  "name": "Kärra naturreservat",
+                  "text": "Természetvédelmi terület Tanum közelében, amely a helyi élővilág megőrzését szolgálja.",
+                  "category": "natural",
+                  "coords": [
+                        11.296297,
+                        58.708768
+                  ]
+            },
+            {
+                  "name": "Bjornemyren Hällkista",
+                  "text": "Régészeti lelőhely Tanumban, ahol egy történelmi kőláda-sír található.",
+                  "category": "historical",
+                  "coords": [
+                        11.307528,
+                        58.705701
+                  ]
+            },
+            {
+                  "name": "Säm gånggrift",
+                  "text": "Tanum közelében található őskori folyosósír, amely a korai temetkezési szokásokról tanúskodik.",
+                  "category": "historical",
+                  "coords": [
+                        11.30248,
+                        58.720765
+                  ]
+            },
+            {
+                  "name": "Fossums hällristningar",
+                  "text": "Ismert bronzkori sziklarajzok Tanumban, amelyek részletgazdag ábrázolásaikról híresek.",
+                  "category": "historical",
+                  "coords": [
+                        11.383718,
+                        58.724016
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Ryttarna vid Tegneby",
+                  "text": "Un sit arheologic în Tanum, cunoscut pentru sculpturile în stâncă din epoca bronzului.",
+                  "category": "historical",
+                  "coords": [
+                        11.327105,
+                        58.689136
+                  ]
+            },
+            {
+                  "name": "Vitlycke Museum",
+                  "text": "Un muzeu în Tanum dedicat celebrelor sculpturi în stâncă din epoca bronzului.",
+                  "category": "museum",
+                  "coords": [
+                        11.340778,
+                        58.701235
+                  ]
+            },
+            {
+                  "name": "Hällristningar",
+                  "text": "Situl din patrimoniul mondial UNESCO din Tanum cuprinde numeroase sculpturi în stâncă din epoca bronzului.",
+                  "category": "historical",
+                  "coords": [
+                        11.336245,
+                        58.701601
+                  ]
+            },
+            {
+                  "name": "Litsleby",
+                  "text": "Un sit arheologic important în Tanum, cunoscut pentru sculpturile sale mari în stâncă.",
+                  "category": "historical",
+                  "coords": [
+                        11.325291,
+                        58.68903
+                  ]
+            },
+            {
+                  "name": "Kärra naturreservat",
+                  "text": "O rezervație naturală lângă Tanum, dedicată conservării florei și faunei locale.",
+                  "category": "natural",
+                  "coords": [
+                        11.296297,
+                        58.708768
+                  ]
+            },
+            {
+                  "name": "Bjornemyren Hällkista",
+                  "text": "Un sit arheologic în Tanum care găzduiește un mormânt istoric din piatră.",
+                  "category": "historical",
+                  "coords": [
+                        11.307528,
+                        58.705701
+                  ]
+            },
+            {
+                  "name": "Säm gånggrift",
+                  "text": "Un mormânt de tip coridor preistoric lângă Tanum, ce atestă vechi ritualuri funerare.",
+                  "category": "historical",
+                  "coords": [
+                        11.30248,
+                        58.720765
+                  ]
+            },
+            {
+                  "name": "Fossums hällristningar",
+                  "text": "Celebre sculpturi în stâncă din epoca bronzului în Tanum, renumite pentru detaliile lor.",
+                  "category": "historical",
+                  "coords": [
+                        11.383718,
+                        58.724016
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Ryttarna vid Tegneby",
+                  "text": "An archaeological site in Tanum featuring Bronze Age rock carvings.",
+                  "category": "historical",
+                  "coords": [
+                        11.327105,
+                        58.689136
+                  ]
+            },
+            {
+                  "name": "Vitlycke Museum",
+                  "text": "A museum in Tanum dedicated to the world-famous Bronze Age rock carvings.",
+                  "category": "museum",
+                  "coords": [
+                        11.340778,
+                        58.701235
+                  ]
+            },
+            {
+                  "name": "Rock Carvings in Tanum",
+                  "text": "This UNESCO World Heritage site in Tanum features numerous impressive Bronze Age rock carvings.",
+                  "category": "historical",
+                  "coords": [
+                        11.336245,
+                        58.701601
+                  ]
+            },
+            {
+                  "name": "Litsleby Rock Carvings",
+                  "text": "A significant archaeological site in Tanum, known for its large-scale rock carvings.",
+                  "category": "historical",
+                  "coords": [
+                        11.325291,
+                        58.68903
+                  ]
+            },
+            {
+                  "name": "Kärra naturreservat",
+                  "text": "A nature reserve near Tanum dedicated to the preservation of local flora and fauna.",
+                  "category": "natural",
+                  "coords": [
+                        11.296297,
+                        58.708768
+                  ]
+            },
+            {
+                  "name": "Bjornemyren Hällkista",
+                  "text": "An archaeological site in Tanum featuring a historic stone cist grave.",
+                  "category": "historical",
+                  "coords": [
+                        11.307528,
+                        58.705701
+                  ]
+            },
+            {
+                  "name": "Säm gånggrift",
+                  "text": "A prehistoric passage grave near Tanum, testifying to ancient burial rites.",
+                  "category": "historical",
+                  "coords": [
+                        11.30248,
+                        58.720765
+                  ]
+            },
+            {
+                  "name": "fossum bronze age carvings",
+                  "text": "Well-known Bronze Age rock carvings in Tanum, famous for their detailed depictions.",
+                  "category": "historical",
+                  "coords": [
+                        11.383718,
+                        58.724016
+                  ]
+            }
+      ]
+},
     parent: "SE",
     type: "ruins",
     name: { de: "Felsritzungen von Tanum", hu: "Tanumi sziklarajzok", ro: "Picturile rupestre din Tanum", en: "Tanum Rock Carvings"},
@@ -553,7 +1363,160 @@ imageHint: "Tanum rock carvings red petroglyphs",
     },
     image: "/poi-images/sweden-tanum-rock-carvings-history-v2.webp",
 },  {
-    id: "sweden-ales-stenar-history-v2",
+    id: "sweden-ales-stenar-history-v2", "sights": {
+      "de": [
+            {
+                  "name": "Ales stenar",
+                  "text": "Eine berühmte megalithische Schiffssetzung in der Nähe von Ales Stenar.",
+                  "category": "historical",
+                  "coords": [
+                        14.054402,
+                        55.382658
+                  ]
+            },
+            {
+                  "name": "Hammars backar - Kåsebergaåsen",
+                  "text": "Ein Naturschutzgebiet mit Küstenhügeln bei Ales Stenar.",
+                  "category": "natural",
+                  "coords": [
+                        14.079462,
+                        55.390713
+                  ]
+            },
+            {
+                  "name": "Olas Fiskebod",
+                  "text": "Ein kleines Museum in Ales Stenar.",
+                  "category": "museum",
+                  "coords": [
+                        14.062938,
+                        55.383748
+                  ]
+            },
+            {
+                  "name": "Valebergas utsiktsplats",
+                  "text": "Ein Aussichtspunkt mit Blick auf die Küste bei Ales Stenar.",
+                  "category": "natural",
+                  "coords": [
+                        14.093526,
+                        55.385425
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Ales stenar",
+                  "text": "Híres megalitikus kőhajó Ales Stenar közelében.",
+                  "category": "historical",
+                  "coords": [
+                        14.054402,
+                        55.382658
+                  ]
+            },
+            {
+                  "name": "Hammars backar - Kåsebergaåsen",
+                  "text": "Természetvédelmi terület tengerparti dombokkal Ales Stenar közelében.",
+                  "category": "natural",
+                  "coords": [
+                        14.079462,
+                        55.390713
+                  ]
+            },
+            {
+                  "name": "Olas Fiskebod",
+                  "text": "Egy kis múzeum Ales Stenar városában.",
+                  "category": "museum",
+                  "coords": [
+                        14.062938,
+                        55.383748
+                  ]
+            },
+            {
+                  "name": "Valebergas utsiktsplats",
+                  "text": "Kilátóhely panorámás kilátással a partvidékre Ales Stenar közelében.",
+                  "category": "natural",
+                  "coords": [
+                        14.093526,
+                        55.385425
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Ales stenar",
+                  "text": "Un faimos monument megalitic sub formă de navă lângă Ales Stenar.",
+                  "category": "historical",
+                  "coords": [
+                        14.054402,
+                        55.382658
+                  ]
+            },
+            {
+                  "name": "Hammars backar - Kåsebergaåsen",
+                  "text": "O rezervație naturală cu dealuri de coastă lângă Ales Stenar.",
+                  "category": "natural",
+                  "coords": [
+                        14.079462,
+                        55.390713
+                  ]
+            },
+            {
+                  "name": "Olas Fiskebod",
+                  "text": "Un mic muzeu în Ales Stenar.",
+                  "category": "museum",
+                  "coords": [
+                        14.062938,
+                        55.383748
+                  ]
+            },
+            {
+                  "name": "Valebergas utsiktsplats",
+                  "text": "Un punct de belvedere cu vedere la coastă lângă Ales Stenar.",
+                  "category": "natural",
+                  "coords": [
+                        14.093526,
+                        55.385425
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Ales stenar",
+                  "text": "A famous megalithic ship setting located near Ales Stenar.",
+                  "category": "historical",
+                  "coords": [
+                        14.054402,
+                        55.382658
+                  ]
+            },
+            {
+                  "name": "Hammars backar - Kåsebergaåsen",
+                  "text": "A nature reserve featuring coastal hills near Ales Stenar.",
+                  "category": "natural",
+                  "coords": [
+                        14.079462,
+                        55.390713
+                  ]
+            },
+            {
+                  "name": "Olas Fiskebod",
+                  "text": "A small museum located in Ales Stenar.",
+                  "category": "museum",
+                  "coords": [
+                        14.062938,
+                        55.383748
+                  ]
+            },
+            {
+                  "name": "Valebergas utsiktsplats",
+                  "text": "A viewpoint offering scenic coastal views near Ales Stenar.",
+                  "category": "natural",
+                  "coords": [
+                        14.093526,
+                        55.385425
+                  ]
+            }
+      ]
+},
     parent: "SE",
     type: "monument",
     name: { de: "Ales Stenar", hu: "Ales stenar", ro: "Ales Stenar", en: "Ales Stenar"},
@@ -737,7 +1700,304 @@ imageHint: "Gamla Uppsala burial mounds and church",
     },
     image: "/poi-images/sweden-gamla-uppsala-ruins-history-v2.webp",
 },  {
-    id: "sweden-bohus-fortress-history-v2",
+    id: "sweden-bohus-fortress-history-v2", "sights": {
+      "de": [
+            {
+                  "name": "Bohus fästning",
+                  "text": "Eine mittelalterliche Festung und Burgruine auf einer Klippe über dem Fluss Göta.",
+                  "category": "castle",
+                  "coords": [
+                        11.999824,
+                        57.861744
+                  ]
+            },
+            {
+                  "name": "Fontins naturreservat",
+                  "text": "Ein Naturschutzgebiet bei der Festung Bohus, bekannt für Wanderwege und Wälder.",
+                  "category": "natural",
+                  "coords": [
+                        12.004334,
+                        57.874113
+                  ]
+            },
+            {
+                  "name": "Mariebergs naturreservat",
+                  "text": "Ein geschütztes Naturreservat in der Nähe der Festung Bohus.",
+                  "category": "natural",
+                  "coords": [
+                        12.025979,
+                        57.883058
+                  ]
+            },
+            {
+                  "name": "Göddered-Hakereds naturreservat",
+                  "text": "Ein Naturschutzgebiet mit lokaler Flora und Fauna bei der Festung Bohus.",
+                  "category": "natural",
+                  "coords": [
+                        11.973632,
+                        57.854505
+                  ]
+            },
+            {
+                  "name": "Göta och Nordre älvs dalgångars naturreservat",
+                  "text": "Dieses Naturreservat umfasst die malerischen Täler der Flüsse Göta und Nordre älv.",
+                  "category": "natural",
+                  "coords": [
+                        11.947573,
+                        57.850419
+                  ]
+            },
+            {
+                  "name": "Surte Glasbruksmuseum",
+                  "text": "Ein Museum in Surte, das der Geschichte der Glasherstellung gewidmet ist.",
+                  "category": "museum",
+                  "coords": [
+                        12.013899,
+                        57.829482
+                  ]
+            },
+            {
+                  "name": "Kastelleklostret",
+                  "text": "Die Überreste eines mittelalterlichen Klosters in der Nähe der Festung Bohus.",
+                  "category": "religious",
+                  "coords": [
+                        11.941353,
+                        57.852296
+                  ]
+            },
+            {
+                  "name": "Mimers teater",
+                  "text": "Ein lokales Theater in der Gegend der Festung Bohus für kulturelle Veranstaltungen.",
+                  "category": "cultural",
+                  "coords": [
+                        11.977677,
+                        57.874874
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Bohus fästning",
+                  "text": "Középkori erődítmény és várrom ein sziklán a Göta-folyó felett.",
+                  "category": "castle",
+                  "coords": [
+                        11.999824,
+                        57.861744
+                  ]
+            },
+            {
+                  "name": "Fontins naturreservat",
+                  "text": "Természetvédelmi terület a Bohus-erőd közelében, amely túraútvonalairól és erdőiről ismert.",
+                  "category": "natural",
+                  "coords": [
+                        12.004334,
+                        57.874113
+                  ]
+            },
+            {
+                  "name": "Mariebergs naturreservat",
+                  "text": "Természetvédelmi terület a Bohus-erőd közelében.",
+                  "category": "natural",
+                  "coords": [
+                        12.025979,
+                        57.883058
+                  ]
+            },
+            {
+                  "name": "Göddered-Hakereds naturreservat",
+                  "text": "Természetvédelmi terület helyi növény- és állatvilággal a Bohus-erőd közelében.",
+                  "category": "natural",
+                  "coords": [
+                        11.973632,
+                        57.854505
+                  ]
+            },
+            {
+                  "name": "Göta och Nordre älvs dalgångars naturreservat",
+                  "text": "Ez a természetvédelmi terület a Göta és a Nordre älv folyók festői völgyeit foglalja magában.",
+                  "category": "natural",
+                  "coords": [
+                        11.947573,
+                        57.850419
+                  ]
+            },
+            {
+                  "name": "Surte Glasbruksmuseum",
+                  "text": "Az üveggyártás történetének szentelt múzeum Surte településen.",
+                  "category": "museum",
+                  "coords": [
+                        12.013899,
+                        57.829482
+                  ]
+            },
+            {
+                  "name": "Kastelleklostret",
+                  "text": "Egy középkori kolostor maradványai a Bohus-erőd közelében.",
+                  "category": "religious",
+                  "coords": [
+                        11.941353,
+                        57.852296
+                  ]
+            },
+            {
+                  "name": "Mimers teater",
+                  "text": "Helyi színház kulturális események számára a Bohus-erőd környékén.",
+                  "category": "cultural",
+                  "coords": [
+                        11.977677,
+                        57.874874
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Bohus fästning",
+                  "text": "O cetate medievală și ruine de castel situate pe o stâncă deasupra râului Göta.",
+                  "category": "castle",
+                  "coords": [
+                        11.999824,
+                        57.861744
+                  ]
+            },
+            {
+                  "name": "Fontins naturreservat",
+                  "text": "O rezervație naturală lângă Cetatea Bohus, cunoscută pentru potecile sale de drumeție și păduri.",
+                  "category": "natural",
+                  "coords": [
+                        12.004334,
+                        57.874113
+                  ]
+            },
+            {
+                  "name": "Mariebergs naturreservat",
+                  "text": "O rezervație naturală protejată în apropierea Cetății Bohus.",
+                  "category": "natural",
+                  "coords": [
+                        12.025979,
+                        57.883058
+                  ]
+            },
+            {
+                  "name": "Göddered-Hakereds naturreservat",
+                  "text": "O arie naturală protejată cu floră și faună locală lângă Cetatea Bohus.",
+                  "category": "natural",
+                  "coords": [
+                        11.973632,
+                        57.854505
+                  ]
+            },
+            {
+                  "name": "Göta och Nordre älvs dalgångars naturreservat",
+                  "text": "Această rezervație naturală cuprinde văile pitorești ale râurilor Göta și Nordre älv.",
+                  "category": "natural",
+                  "coords": [
+                        11.947573,
+                        57.850419
+                  ]
+            },
+            {
+                  "name": "Surte Glasbruksmuseum",
+                  "text": "Un muzeu în Surte dedicat istoriei fabricării sticlei.",
+                  "category": "museum",
+                  "coords": [
+                        12.013899,
+                        57.829482
+                  ]
+            },
+            {
+                  "name": "Kastelleklostret",
+                  "text": "Rămășițele unei mănăstiri medievale în apropierea Cetății Bohus.",
+                  "category": "religious",
+                  "coords": [
+                        11.941353,
+                        57.852296
+                  ]
+            },
+            {
+                  "name": "Mimers teater",
+                  "text": "Un teatru local pentru evenimente culturale în zona Cetății Bohus.",
+                  "category": "cultural",
+                  "coords": [
+                        11.977677,
+                        57.874874
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Bohus fästning",
+                  "text": "A medieval fortress and castle ruins located on a cliff overlooking the Göta river.",
+                  "category": "castle",
+                  "coords": [
+                        11.999824,
+                        57.861744
+                  ]
+            },
+            {
+                  "name": "Fontins naturreservat",
+                  "text": "A nature reserve near Bohus Fortress known for its hiking trails and forests.",
+                  "category": "natural",
+                  "coords": [
+                        12.004334,
+                        57.874113
+                  ]
+            },
+            {
+                  "name": "Mariebergs naturreservat",
+                  "text": "A protected nature reserve located near the Bohus Fortress.",
+                  "category": "natural",
+                  "coords": [
+                        12.025979,
+                        57.883058
+                  ]
+            },
+            {
+                  "name": "Göddered-Hakereds naturreservat",
+                  "text": "A nature reserve featuring local flora and fauna near Bohus Fortress.",
+                  "category": "natural",
+                  "coords": [
+                        11.973632,
+                        57.854505
+                  ]
+            },
+            {
+                  "name": "Göta och Nordre älvs dalgångars naturreservat",
+                  "text": "This nature reserve encompasses the scenic valleys of the Göta and Nordre älv rivers.",
+                  "category": "natural",
+                  "coords": [
+                        11.947573,
+                        57.850419
+                  ]
+            },
+            {
+                  "name": "Surte Glasbruksmuseum",
+                  "text": "A museum in Surte dedicated to the history of glassmaking.",
+                  "category": "museum",
+                  "coords": [
+                        12.013899,
+                        57.829482
+                  ]
+            },
+            {
+                  "name": "Kastelleklostret",
+                  "text": "The remains of a medieval monastery located near Bohus Fortress.",
+                  "category": "religious",
+                  "coords": [
+                        11.941353,
+                        57.852296
+                  ]
+            },
+            {
+                  "name": "Mimers teater",
+                  "text": "A local theatre for cultural events in the Bohus Fortress area.",
+                  "category": "cultural",
+                  "coords": [
+                        11.977677,
+                        57.874874
+                  ]
+            }
+      ]
+},
     parent: "SE",
     type: "ruins",
     name: { de: "Festung Bohus", hu: "Bohus erőd", ro: "Fortăreața Bohus", en: "Bohus Fortress"},
@@ -829,7 +2089,268 @@ imageHint: "Karlskrona naval base and lighthouse",
     },
     image: "/poi-images/sweden-karlskrona-naval-port-history-v2.webp",
 },  {
-    id: "sweden-engelsberg-ironworks-history-v2",
+    id: "sweden-engelsberg-ironworks-history-v2", "sights": {
+      "de": [
+            {
+                  "name": "Engelsbergs oljefabrik",
+                  "text": "Ein Museum auf Oljeön, das als die weltweit älteste erhaltene Erdölraffinerie gilt.",
+                  "category": "museum",
+                  "coords": [
+                        16.002939,
+                        59.957292
+                  ]
+            },
+            {
+                  "name": "Skulpturparken Ängelsberg",
+                  "text": "Ein Skulpturenpark unter freiem Himmel in der Nähe der Eisenhütte Engelsberg.",
+                  "category": "landmark",
+                  "coords": [
+                        16.008459,
+                        59.964044
+                  ]
+            },
+            {
+                  "name": "Galleri Ängelsbergs brukshandel",
+                  "text": "Eine Kunstgalerie im historischen Handelsgebäude des Eisenhüttenwerks Engelsberg.",
+                  "category": "museum",
+                  "coords": [
+                        16.008396,
+                        59.960513
+                  ]
+            },
+            {
+                  "name": "Oljeön",
+                  "text": "Eine Insel-Sehenswürdigkeit mit der historischen Ölraffinerie im Engelsberg-Areal.",
+                  "category": "landmark",
+                  "coords": [
+                        16.003312,
+                        59.956172
+                  ]
+            },
+            {
+                  "name": "Herrgården",
+                  "text": "Das historische Herrenhaus der Eisenhütte Engelsberg in Schweden.",
+                  "category": "historical",
+                  "coords": [
+                        16.010462,
+                        59.970886
+                  ]
+            },
+            {
+                  "name": "Engelsbergs bruk",
+                  "text": "Ein bedeutendes Industriedenkmal und UNESCO-Weltkulturerbe in Schweden.",
+                  "category": "landmark",
+                  "coords": [
+                        16.009698,
+                        59.967599
+                  ]
+            },
+            {
+                  "name": "Västervåla kyrka",
+                  "text": "Eine historische Landkirche in der Nähe der Eisenhütte Engelsberg.",
+                  "category": "religious",
+                  "coords": [
+                        16.032859,
+                        59.940608
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Engelsbergs oljefabrik",
+                  "text": "Múzeum az Oljeön-szigeten, amely a világ legrégebbi fennmaradt olajfinomítója.",
+                  "category": "museum",
+                  "coords": [
+                        16.002939,
+                        59.957292
+                  ]
+            },
+            {
+                  "name": "Skulpturparken Ängelsberg",
+                  "text": "Szabadtéri szoborpark az Engelsberg vasmű közelében.",
+                  "category": "landmark",
+                  "coords": [
+                        16.008459,
+                        59.964044
+                  ]
+            },
+            {
+                  "name": "Galleri Ängelsbergs brukshandel",
+                  "text": "Művészeti galéria az Engelsberg vasmű történelmi kereskedelmi épületében.",
+                  "category": "museum",
+                  "coords": [
+                        16.008396,
+                        59.960513
+                  ]
+            },
+            {
+                  "name": "Oljeön",
+                  "text": "Szigeti látványosság történelmi olajfinomítóval az engelsbergi területen.",
+                  "category": "landmark",
+                  "coords": [
+                        16.003312,
+                        59.956172
+                  ]
+            },
+            {
+                  "name": "Herrgården",
+                  "text": "Az Engelsberg vasmű történelmi kúriája Svédországban.",
+                  "category": "historical",
+                  "coords": [
+                        16.010462,
+                        59.970886
+                  ]
+            },
+            {
+                  "name": "Engelsbergs bruk",
+                  "text": "Jelentős ipari örökség és UNESCO világörökségi helyszín Svédországban.",
+                  "category": "landmark",
+                  "coords": [
+                        16.009698,
+                        59.967599
+                  ]
+            },
+            {
+                  "name": "Västervåla kyrka",
+                  "text": "Történelmi vidéki templom az Engelsberg vasmű közelében.",
+                  "category": "religious",
+                  "coords": [
+                        16.032859,
+                        59.940608
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Engelsbergs oljefabrik",
+                  "text": "Un muzeu de pe insula Oljeön, considerat cea mai veche rafinărie de petrol păstrată din lume.",
+                  "category": "museum",
+                  "coords": [
+                        16.002939,
+                        59.957292
+                  ]
+            },
+            {
+                  "name": "Skulpturparken Ängelsberg",
+                  "text": "Un parc de sculpturi în aer liber situat în apropierea Combinatului Siderurgic Engelsberg.",
+                  "category": "landmark",
+                  "coords": [
+                        16.008459,
+                        59.964044
+                  ]
+            },
+            {
+                  "name": "Galleri Ängelsbergs brukshandel",
+                  "text": "O galerie de artă situată în clădirea comercială istorică a Combinatului Engelsberg.",
+                  "category": "museum",
+                  "coords": [
+                        16.008396,
+                        59.960513
+                  ]
+            },
+            {
+                  "name": "Oljeön",
+                  "text": "O insulă turistică ce găzduiește rafinăria istorică de petrol din zona Engelsberg.",
+                  "category": "landmark",
+                  "coords": [
+                        16.003312,
+                        59.956172
+                  ]
+            },
+            {
+                  "name": "Herrgården",
+                  "text": "Conacul istoric al Combinatului Siderurgic Engelsberg din Suedia.",
+                  "category": "historical",
+                  "coords": [
+                        16.010462,
+                        59.970886
+                  ]
+            },
+            {
+                  "name": "Engelsbergs bruk",
+                  "text": "Un important sit de patrimoniu industrial și loc din patrimoniul mondial UNESCO în Suedia.",
+                  "category": "landmark",
+                  "coords": [
+                        16.009698,
+                        59.967599
+                  ]
+            },
+            {
+                  "name": "Västervåla kyrka",
+                  "text": "O biserică rurală istorică situată în apropierea Combinatului Siderurgic Engelsberg.",
+                  "category": "religious",
+                  "coords": [
+                        16.032859,
+                        59.940608
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Engelsbergs oljefabrik",
+                  "text": "A museum on Oljeön island, considered the world's oldest preserved oil refinery.",
+                  "category": "museum",
+                  "coords": [
+                        16.002939,
+                        59.957292
+                  ]
+            },
+            {
+                  "name": "Skulpturparken Ängelsberg",
+                  "text": "An outdoor sculpture park located near the Engelsberg Ironworks.",
+                  "category": "landmark",
+                  "coords": [
+                        16.008459,
+                        59.964044
+                  ]
+            },
+            {
+                  "name": "Galleri Ängelsbergs brukshandel",
+                  "text": "An art gallery located in the historic trade building of the Engelsberg Ironworks.",
+                  "category": "museum",
+                  "coords": [
+                        16.008396,
+                        59.960513
+                  ]
+            },
+            {
+                  "name": "Oljeön",
+                  "text": "An island attraction featuring the historic oil refinery in the Engelsberg area.",
+                  "category": "landmark",
+                  "coords": [
+                        16.003312,
+                        59.956172
+                  ]
+            },
+            {
+                  "name": "Herrgården",
+                  "text": "The historic manor house of the Engelsberg Ironworks in Sweden.",
+                  "category": "historical",
+                  "coords": [
+                        16.010462,
+                        59.970886
+                  ]
+            },
+            {
+                  "name": "Engelsbergs Ironworks",
+                  "text": "A significant industrial heritage site and UNESCO World Heritage location in Sweden.",
+                  "category": "landmark",
+                  "coords": [
+                        16.009698,
+                        59.967599
+                  ]
+            },
+            {
+                  "name": "Västervåla kyrka",
+                  "text": "A historic rural church located near the Engelsberg Ironworks.",
+                  "category": "religious",
+                  "coords": [
+                        16.032859,
+                        59.940608
+                  ]
+            }
+      ]
+},
     parent: "SE",
     type: "industry",
     name: { de: "Eisenhütte Engelsberg", hu: "Engelsbergi vasmű", ro: "Topitoria Engelsberg", en: "Engelsberg Ironworks"},
@@ -1059,7 +2580,304 @@ imageHint: "Linköping Cathedral exterior",
     },
     image: "/poi-images/sweden-linkoping-cathedral-history-v2.webp",
 },  {
-    id: "sweden-sigtuna-ruins-history-v2",
+    id: "sweden-sigtuna-ruins-history-v2", "sights": {
+      "de": [
+            {
+                  "name": "Rävsta",
+                  "text": "Ein Naturschutzgebiet bei Sigtuna mit abwechslungsreichen Wald- und Küstenlandschaften.",
+                  "category": "natural",
+                  "coords": [
+                        17.771629,
+                        59.61234
+                  ]
+            },
+            {
+                  "name": "Hällsboskogen",
+                  "text": "Dieses Waldreservat in Sigtuna ist für seine unberührte Natur und Wanderwege bekannt.",
+                  "category": "natural",
+                  "coords": [
+                        17.68454,
+                        59.634338
+                  ]
+            },
+            {
+                  "name": "Munkholmen",
+                  "text": "Ein geschütztes Naturgebiet am Ufer des Mälaren-Sees in der Nähe von Sigtuna.",
+                  "category": "natural",
+                  "coords": [
+                        17.742326,
+                        59.616048
+                  ]
+            },
+            {
+                  "name": "Schloss Venngarn",
+                  "text": "Ein historisches Schloss aus dem 17. Jahrhundert, das für seine barocke Kapelle bekannt ist.",
+                  "category": "castle",
+                  "coords": [
+                        17.719802,
+                        59.648636
+                  ]
+            },
+            {
+                  "name": "Sigtuna rådhus",
+                  "text": "Das Rathaus von Sigtuna gilt als das kleinste Schwedens und beherbergt heute ein Museum.",
+                  "category": "museum",
+                  "coords": [
+                        17.721329,
+                        59.617001
+                  ]
+            },
+            {
+                  "name": "Fornborg",
+                  "text": "Eine archäologische Stätte bei Sigtuna, die Überreste einer antiken Wallburg zeigt.",
+                  "category": "historical",
+                  "coords": [
+                        17.712585,
+                        59.62489
+                  ]
+            },
+            {
+                  "name": "Sigtuna museum",
+                  "text": "Das Museum zeigt die reiche Geschichte von Sigtuna, einer der ältesten Städte Schwedens.",
+                  "category": "museum",
+                  "coords": [
+                        17.718749,
+                        59.61519
+                  ]
+            },
+            {
+                  "name": "Sigtunafjärden",
+                  "text": "Eine Bucht des Mälaren-Sees, die Sigtuna eine malerische Lage am Wasser verleiht.",
+                  "category": "landmark",
+                  "coords": [
+                        17.723237,
+                        59.604902
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Rävsta",
+                  "text": "Természetvédelmi terület Sigtuna mellett, változatos erdei és parti tájakkal.",
+                  "category": "natural",
+                  "coords": [
+                        17.771629,
+                        59.61234
+                  ]
+            },
+            {
+                  "name": "Hällsboskogen",
+                  "text": "Ez a sigtunai erdőrezervátum érintetlen természetéről és túraútvonalairól ismert.",
+                  "category": "natural",
+                  "coords": [
+                        17.68454,
+                        59.634338
+                  ]
+            },
+            {
+                  "name": "Munkholmen",
+                  "text": "Védett természeti terület a Mälaren-tó partján, Sigtuna közelében.",
+                  "category": "natural",
+                  "coords": [
+                        17.742326,
+                        59.616048
+                  ]
+            },
+            {
+                  "name": "Wenngarns slott",
+                  "text": "17. századi történelmi kastély, amely barokk kápolnájáról híres.",
+                  "category": "castle",
+                  "coords": [
+                        17.719802,
+                        59.648636
+                  ]
+            },
+            {
+                  "name": "Sigtuna rådhus",
+                  "text": "Sigtuna városházája Svédország legkisebbjének számít, ma múzeumnak ad otthont.",
+                  "category": "museum",
+                  "coords": [
+                        17.721329,
+                        59.617001
+                  ]
+            },
+            {
+                  "name": "Fornborg",
+                  "text": "Régészeti lelőhely Sigtuna közelében, amely egy ősi várhely maradványait mutatja be.",
+                  "category": "historical",
+                  "coords": [
+                        17.712585,
+                        59.62489
+                  ]
+            },
+            {
+                  "name": "Sigtuna museum",
+                  "text": "A múzeum Sigtuna, Svédország egyik legrégebbi városának gazdag történelmét mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        17.718749,
+                        59.61519
+                  ]
+            },
+            {
+                  "name": "Sigtunafjärden",
+                  "text": "A Mälaren-tó egyik öble, amely festői vízparti környezetet biztosít Sigtunának.",
+                  "category": "landmark",
+                  "coords": [
+                        17.723237,
+                        59.604902
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Rävsta",
+                  "text": "O rezervație naturală lângă Sigtuna, cu peisaje variate de pădure și coastă.",
+                  "category": "natural",
+                  "coords": [
+                        17.771629,
+                        59.61234
+                  ]
+            },
+            {
+                  "name": "Hällsboskogen",
+                  "text": "Această rezervație forestieră din Sigtuna este cunoscută pentru natura sa virgină și traseele de drumeție.",
+                  "category": "natural",
+                  "coords": [
+                        17.68454,
+                        59.634338
+                  ]
+            },
+            {
+                  "name": "Munkholmen",
+                  "text": "O zonă naturală protejată pe malul lacului Mälaren, în apropiere de Sigtuna.",
+                  "category": "natural",
+                  "coords": [
+                        17.742326,
+                        59.616048
+                  ]
+            },
+            {
+                  "name": "Wenngarns slott",
+                  "text": "Un castel istoric din secolul al XVII-lea, renumit pentru capela sa barocă.",
+                  "category": "castle",
+                  "coords": [
+                        17.719802,
+                        59.648636
+                  ]
+            },
+            {
+                  "name": "Sigtuna rådhus",
+                  "text": "Primăria din Sigtuna este considerată cea mai mică din Suedia și găzduiește astăzi un muzeu.",
+                  "category": "museum",
+                  "coords": [
+                        17.721329,
+                        59.617001
+                  ]
+            },
+            {
+                  "name": "Fornborg",
+                  "text": "Un sit arheologic lângă Sigtuna, care prezintă vestigiile unei vechi cetăți fortificate.",
+                  "category": "historical",
+                  "coords": [
+                        17.712585,
+                        59.62489
+                  ]
+            },
+            {
+                  "name": "Sigtuna museum",
+                  "text": "Muzeul prezintă istoria bogată a orașului Sigtuna, unul dintre cele mai vechi orașe din Suedia.",
+                  "category": "museum",
+                  "coords": [
+                        17.718749,
+                        59.61519
+                  ]
+            },
+            {
+                  "name": "Sigtunafjärden",
+                  "text": "O porțiune a lacului Mälaren care oferă orașului Sigtuna un cadru pitoresc la malul apei.",
+                  "category": "landmark",
+                  "coords": [
+                        17.723237,
+                        59.604902
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Rävsta",
+                  "text": "A nature reserve near Sigtuna featuring diverse forest and coastal landscapes.",
+                  "category": "natural",
+                  "coords": [
+                        17.771629,
+                        59.61234
+                  ]
+            },
+            {
+                  "name": "Hällsboskogen",
+                  "text": "This forest reserve in Sigtuna is known for its untouched nature and hiking trails.",
+                  "category": "natural",
+                  "coords": [
+                        17.68454,
+                        59.634338
+                  ]
+            },
+            {
+                  "name": "Munkholmen",
+                  "text": "A protected natural area on the shores of Lake Mälaren near Sigtuna.",
+                  "category": "natural",
+                  "coords": [
+                        17.742326,
+                        59.616048
+                  ]
+            },
+            {
+                  "name": "Venngarn Castle",
+                  "text": "A historic 17th-century castle known for its well-preserved Baroque chapel.",
+                  "category": "castle",
+                  "coords": [
+                        17.719802,
+                        59.648636
+                  ]
+            },
+            {
+                  "name": "Sigtuna rådhus",
+                  "text": "Sigtuna's town hall is considered the smallest in Sweden and now houses a museum.",
+                  "category": "museum",
+                  "coords": [
+                        17.721329,
+                        59.617001
+                  ]
+            },
+            {
+                  "name": "Fornborg",
+                  "text": "An archaeological site near Sigtuna showcasing the remains of an ancient hillfort.",
+                  "category": "historical",
+                  "coords": [
+                        17.712585,
+                        59.62489
+                  ]
+            },
+            {
+                  "name": "Sigtuna museum",
+                  "text": "The museum showcases the rich history of Sigtuna, one of Sweden's oldest towns.",
+                  "category": "museum",
+                  "coords": [
+                        17.718749,
+                        59.61519
+                  ]
+            },
+            {
+                  "name": "Sigtunafjärden",
+                  "text": "A bay of Lake Mälaren that gives Sigtuna its picturesque waterfront setting.",
+                  "category": "landmark",
+                  "coords": [
+                        17.723237,
+                        59.604902
+                  ]
+            }
+      ]
+},
     parent: "SE",
     type: "ruins",
     name: { de: "Sigtuna", hu: "Sigtuna", ro: "Sigtuna", en: "Sigtuna"},
@@ -1105,7 +2923,196 @@ imageHint: "Sigtuna church ruins and runestone",
     },
     image: "/poi-images/sweden-sigtuna-ruins-history-v2.webp",
 },  {
-    id: "sweden-tjoloholm-castle-history-v2",
+    id: "sweden-tjoloholm-castle-history-v2", "sights": {
+      "de": [
+            {
+                  "name": "Kungsbackafjordens naturreservat",
+                  "text": "Ein Naturschutzgebiet am Kungsbackafjord in der Nähe von Schloss Tjolöholm.",
+                  "category": "natural",
+                  "coords": [
+                        12.066058,
+                        57.392386
+                  ]
+            },
+            {
+                  "name": "Tjolöholms slott",
+                  "text": "Ein im Tudor-Stil erbautes Schloss in der schwedischen Provinz Halland.",
+                  "category": "castle",
+                  "coords": [
+                        12.10308,
+                        57.398561
+                  ]
+            },
+            {
+                  "name": "Kungsbackafjorden",
+                  "text": "Eine Bucht des Kattegat in der Nähe von Schloss Tjolöholm.",
+                  "category": "landmark",
+                  "coords": [
+                        12.062523,
+                        57.392438
+                  ]
+            },
+            {
+                  "name": "Tjolöholms Slottskyrka",
+                  "text": "Die zum Anwesen Tjolöholm gehörende Schlosskirche.",
+                  "category": "religious",
+                  "coords": [
+                        12.109389,
+                        57.404537
+                  ]
+            },
+            {
+                  "name": "Ölmevalla kyrka",
+                  "text": "Eine Kirche in der Nähe von Schloss Tjolöholm in der Gemeinde Kungsbacka.",
+                  "category": "religious",
+                  "coords": [
+                        12.135647,
+                        57.377917
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Kungsbackafjordens naturreservat",
+                  "text": "Természetvédelmi terület a Kungsbackafjord mentén, a Tjolöholm-kastély közelében.",
+                  "category": "natural",
+                  "coords": [
+                        12.066058,
+                        57.392386
+                  ]
+            },
+            {
+                  "name": "Tjolöholms slott",
+                  "text": "Tudor-stílusban épült kastély a svédországi Halland tartományban.",
+                  "category": "castle",
+                  "coords": [
+                        12.10308,
+                        57.398561
+                  ]
+            },
+            {
+                  "name": "Kungsbackafjorden",
+                  "text": "A Kattegat egyik öble a Tjolöholm-kastély közelében.",
+                  "category": "landmark",
+                  "coords": [
+                        12.062523,
+                        57.392438
+                  ]
+            },
+            {
+                  "name": "Tjolöholms Slottskyrka",
+                  "text": "A Tjolöholm-birtokhoz tartozó kastélytemplom.",
+                  "category": "religious",
+                  "coords": [
+                        12.109389,
+                        57.404537
+                  ]
+            },
+            {
+                  "name": "Ölmevalla kyrka",
+                  "text": "Templom a Tjolöholm-kastély közelében, Kungsbacka községben.",
+                  "category": "religious",
+                  "coords": [
+                        12.135647,
+                        57.377917
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Kungsbackafjordens naturreservat",
+                  "text": "O rezervație naturală situată de-a lungul Kungsbackafjord, lângă castelul Tjolöholm.",
+                  "category": "natural",
+                  "coords": [
+                        12.066058,
+                        57.392386
+                  ]
+            },
+            {
+                  "name": "Tjolöholms slott",
+                  "text": "Un castel construit în stil Tudor, situat în provincia suedeză Halland.",
+                  "category": "castle",
+                  "coords": [
+                        12.10308,
+                        57.398561
+                  ]
+            },
+            {
+                  "name": "Kungsbackafjorden",
+                  "text": "Un golf al strâmtorii Kattegat, situat lângă castelul Tjolöholm.",
+                  "category": "landmark",
+                  "coords": [
+                        12.062523,
+                        57.392438
+                  ]
+            },
+            {
+                  "name": "Tjolöholms Slottskyrka",
+                  "text": "Biserica castelului ce aparține domeniului Tjolöholm.",
+                  "category": "religious",
+                  "coords": [
+                        12.109389,
+                        57.404537
+                  ]
+            },
+            {
+                  "name": "Ölmevalla kyrka",
+                  "text": "O biserică situată lângă castelul Tjolöholm, în comuna Kungsbacka.",
+                  "category": "religious",
+                  "coords": [
+                        12.135647,
+                        57.377917
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Kungsbackafjordens naturreservat",
+                  "text": "A nature reserve located along the Kungsbackafjord near Tjolöholm Castle.",
+                  "category": "natural",
+                  "coords": [
+                        12.066058,
+                        57.392386
+                  ]
+            },
+            {
+                  "name": "Tjolöholms slott",
+                  "text": "A Tudor-style castle located in the Swedish province of Halland.",
+                  "category": "castle",
+                  "coords": [
+                        12.10308,
+                        57.398561
+                  ]
+            },
+            {
+                  "name": "Kungsbackafjorden",
+                  "text": "A bay of the Kattegat located near Tjolöholm Castle.",
+                  "category": "landmark",
+                  "coords": [
+                        12.062523,
+                        57.392438
+                  ]
+            },
+            {
+                  "name": "Tjolöholms Slottskyrka",
+                  "text": "The castle church belonging to the Tjolöholm estate.",
+                  "category": "religious",
+                  "coords": [
+                        12.109389,
+                        57.404537
+                  ]
+            },
+            {
+                  "name": "Ölmevalla kyrka",
+                  "text": "A church located near Tjolöholm Castle in the Kungsbacka municipality.",
+                  "category": "religious",
+                  "coords": [
+                        12.135647,
+                        57.377917
+                  ]
+            }
+      ]
+},
     parent: "SE",
     type: "castle",
     name: { de: "Schloss Tjolöholm", hu: "Tjolöholm kastély", ro: "Castelul Tjolöholm", en: "Tjolöholm Castle"},
@@ -1243,7 +3250,160 @@ imageHint: "Stockholm Royal Palace facade",
     },
     image: "/poi-images/sweden-royal-palace-stockholm-history-v2.webp",
 },  {
-    id: "sweden-glimmingehus-history-v2",
+    id: "sweden-glimmingehus-history-v2", "sights": {
+      "de": [
+            {
+                  "name": "Glimmingehus",
+                  "text": "Eine gut erhaltene mittelalterliche Burg und Herrenhaus in Schonen.",
+                  "category": "fortress",
+                  "coords": [
+                        14.230933,
+                        55.500905
+                  ]
+            },
+            {
+                  "name": "Gislövs stjärna",
+                  "text": "Ein lokales Naturschutzgebiet, das für seine vielfältige Flora bekannt ist.",
+                  "category": "natural",
+                  "coords": [
+                        14.275536,
+                        55.495217
+                  ]
+            },
+            {
+                  "name": "Östra Hoby kyrka",
+                  "text": "Eine historische Pfarrkirche, die das Dorf Östra Hoby bedient.",
+                  "category": "religious",
+                  "coords": [
+                        14.231576,
+                        55.471981
+                  ]
+            },
+            {
+                  "name": "Vallby kyrka",
+                  "text": "Eine mittelalterliche Steinkirche in der Region Schonen.",
+                  "category": "religious",
+                  "coords": [
+                        14.205725,
+                        55.497671
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Glimmingehus",
+                  "text": "Egy jól megőrzött középkori várkastély és udvarház Skåne tartományban.",
+                  "category": "fortress",
+                  "coords": [
+                        14.230933,
+                        55.500905
+                  ]
+            },
+            {
+                  "name": "Gislövs stjärna",
+                  "text": "Helyi természetvédelmi terület, amely változatos flórájáról ismert.",
+                  "category": "natural",
+                  "coords": [
+                        14.275536,
+                        55.495217
+                  ]
+            },
+            {
+                  "name": "Östra Hoby kyrka",
+                  "text": "Történelmi plébániatemplom Östra Hoby faluban.",
+                  "category": "religious",
+                  "coords": [
+                        14.231576,
+                        55.471981
+                  ]
+            },
+            {
+                  "name": "Vallby kyrka",
+                  "text": "Középkori kőtemplom Skåne régiójában.",
+                  "category": "religious",
+                  "coords": [
+                        14.205725,
+                        55.497671
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Glimmingehus",
+                  "text": "Un conac și fortăreață medievală bine conservată în Scania.",
+                  "category": "fortress",
+                  "coords": [
+                        14.230933,
+                        55.500905
+                  ]
+            },
+            {
+                  "name": "Gislövs stjärna",
+                  "text": "O rezervație naturală locală cunoscută pentru flora sa diversă.",
+                  "category": "natural",
+                  "coords": [
+                        14.275536,
+                        55.495217
+                  ]
+            },
+            {
+                  "name": "Östra Hoby kyrka",
+                  "text": "O biserică parohială istorică ce deservește satul Östra Hoby.",
+                  "category": "religious",
+                  "coords": [
+                        14.231576,
+                        55.471981
+                  ]
+            },
+            {
+                  "name": "Vallby kyrka",
+                  "text": "O biserică medievală de piatră situată în regiunea Scania.",
+                  "category": "religious",
+                  "coords": [
+                        14.205725,
+                        55.497671
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Glimmingehus",
+                  "text": "A well-preserved medieval manor house and fortress in Scania.",
+                  "category": "fortress",
+                  "coords": [
+                        14.230933,
+                        55.500905
+                  ]
+            },
+            {
+                  "name": "Gislövs stjärna",
+                  "text": "A local nature reserve known for its diverse flora and scenery.",
+                  "category": "natural",
+                  "coords": [
+                        14.275536,
+                        55.495217
+                  ]
+            },
+            {
+                  "name": "Östra Hoby kyrka",
+                  "text": "A historical parish church serving the village of Östra Hoby.",
+                  "category": "religious",
+                  "coords": [
+                        14.231576,
+                        55.471981
+                  ]
+            },
+            {
+                  "name": "Vallby kyrka",
+                  "text": "A medieval stone church located in the Scania region.",
+                  "category": "religious",
+                  "coords": [
+                        14.205725,
+                        55.497671
+                  ]
+            }
+      ]
+},
     parent: "SE",
     type: "castle",
     name: { de: "Glimmingehus", hu: "Glimmingehus", ro: "Glimmingehus", en: "Glimmingehus"},
@@ -1290,7 +3450,268 @@ imageHint: "Stockholm Royal Palace facade",
   }
 ,
   {
-    id: "sweden-skokloster-abbey-ruins-history-v2",
+    id: "sweden-skokloster-abbey-ruins-history-v2", "sights": {
+      "de": [
+            {
+                  "name": "Skokloster",
+                  "text": "Ein Naturschutzgebiet in der Nähe des Schlosses Skokloster am Mälarensee.",
+                  "category": "natural",
+                  "coords": [
+                        17.587572,
+                        59.707506
+                  ]
+            },
+            {
+                  "name": "Skoklosters slott",
+                  "text": "Eines der besterhaltenen Barockschlösser Europas, gelegen in Schweden.",
+                  "category": "castle",
+                  "coords": [
+                        17.621362,
+                        59.70308
+                  ]
+            },
+            {
+                  "name": "Sandhagen",
+                  "text": "Ein geschütztes Naturgebiet in der Nähe der Halbinsel Skokloster.",
+                  "category": "natural",
+                  "coords": [
+                        17.611844,
+                        59.729117
+                  ]
+            },
+            {
+                  "name": "Torslunda naturreservat",
+                  "text": "Ein Naturschutzgebiet, das für seine reiche Flora und Fauna bekannt ist.",
+                  "category": "natural",
+                  "coords": [
+                        17.650673,
+                        59.685118
+                  ]
+            },
+            {
+                  "name": "Skofjärden",
+                  "text": "Eine Bucht des Mälarensees in der Nähe von Skokloster.",
+                  "category": "landmark",
+                  "coords": [
+                        17.626118,
+                        59.681639
+                  ]
+            },
+            {
+                  "name": "Flasta kyrkoruin",
+                  "text": "Die Ruinen einer mittelalterlichen Kirche in der Nähe von Skokloster.",
+                  "category": "historical",
+                  "coords": [
+                        17.608402,
+                        59.708601
+                  ]
+            },
+            {
+                  "name": "Skoklosters kyrka",
+                  "text": "Eine historische Kirche, die ursprünglich zu einem Zisterzienserinnenkloster gehörte.",
+                  "category": "religious",
+                  "coords": [
+                        17.623911,
+                        59.704575
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Skokloster",
+                  "text": "Természetvédelmi terület a Skokloster-kastély közelében, a Mälaren-tónál.",
+                  "category": "natural",
+                  "coords": [
+                        17.587572,
+                        59.707506
+                  ]
+            },
+            {
+                  "name": "Skoklosters slott",
+                  "text": "Európa egyik legjobb állapotban fennmaradt barokk kastélya Svédországban.",
+                  "category": "castle",
+                  "coords": [
+                        17.621362,
+                        59.70308
+                  ]
+            },
+            {
+                  "name": "Sandhagen",
+                  "text": "Védett természeti terület a Skokloster-félsziget közelében.",
+                  "category": "natural",
+                  "coords": [
+                        17.611844,
+                        59.729117
+                  ]
+            },
+            {
+                  "name": "Torslunda naturreservat",
+                  "text": "Gazdag növény- és állatvilágáról nevezetes természetvédelmi terület.",
+                  "category": "natural",
+                  "coords": [
+                        17.650673,
+                        59.685118
+                  ]
+            },
+            {
+                  "name": "Skofjärden",
+                  "text": "A Mälaren-tó egyik öble Skokloster közelében.",
+                  "category": "landmark",
+                  "coords": [
+                        17.626118,
+                        59.681639
+                  ]
+            },
+            {
+                  "name": "Flasta kyrkoruin",
+                  "text": "Egy középkori templom romjai Skokloster közelében.",
+                  "category": "historical",
+                  "coords": [
+                        17.608402,
+                        59.708601
+                  ]
+            },
+            {
+                  "name": "Skoklosters kyrka",
+                  "text": "Történelmi templom, amely eredetileg egy ciszterci apácakolostorhoz tartozott.",
+                  "category": "religious",
+                  "coords": [
+                        17.623911,
+                        59.704575
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Skokloster",
+                  "text": "O rezervație naturală situată lângă castelul Skokloster, pe malul lacului Mälaren.",
+                  "category": "natural",
+                  "coords": [
+                        17.587572,
+                        59.707506
+                  ]
+            },
+            {
+                  "name": "Skoklosters slott",
+                  "text": "Unul dintre cele mai bine conservate castele baroce din Europa, situat în Suedia.",
+                  "category": "castle",
+                  "coords": [
+                        17.621362,
+                        59.70308
+                  ]
+            },
+            {
+                  "name": "Sandhagen",
+                  "text": "O zonă naturală protejată situată lângă peninsula Skokloster.",
+                  "category": "natural",
+                  "coords": [
+                        17.611844,
+                        59.729117
+                  ]
+            },
+            {
+                  "name": "Torslunda naturreservat",
+                  "text": "O rezervație naturală cunoscută pentru flora și fauna sa bogată.",
+                  "category": "natural",
+                  "coords": [
+                        17.650673,
+                        59.685118
+                  ]
+            },
+            {
+                  "name": "Skofjärden",
+                  "text": "Un golf al lacului Mälaren situat lângă Skokloster.",
+                  "category": "landmark",
+                  "coords": [
+                        17.626118,
+                        59.681639
+                  ]
+            },
+            {
+                  "name": "Flasta kyrkoruin",
+                  "text": "Ruinele unei biserici medievale situate lângă Skokloster.",
+                  "category": "historical",
+                  "coords": [
+                        17.608402,
+                        59.708601
+                  ]
+            },
+            {
+                  "name": "Skoklosters kyrka",
+                  "text": "O biserică istorică ce a aparținut inițial unei mănăstiri cisterciene.",
+                  "category": "religious",
+                  "coords": [
+                        17.623911,
+                        59.704575
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Skokloster",
+                  "text": "A nature reserve located near Skokloster Castle on the shores of Lake Mälaren.",
+                  "category": "natural",
+                  "coords": [
+                        17.587572,
+                        59.707506
+                  ]
+            },
+            {
+                  "name": "Skokloster Castle",
+                  "text": "One of the best-preserved Baroque castles in Europe, located in Sweden.",
+                  "category": "castle",
+                  "coords": [
+                        17.621362,
+                        59.70308
+                  ]
+            },
+            {
+                  "name": "Sandhagen",
+                  "text": "A protected natural area located near the Skokloster peninsula.",
+                  "category": "natural",
+                  "coords": [
+                        17.611844,
+                        59.729117
+                  ]
+            },
+            {
+                  "name": "Torslunda naturreservat",
+                  "text": "A nature reserve known for its rich flora and fauna.",
+                  "category": "natural",
+                  "coords": [
+                        17.650673,
+                        59.685118
+                  ]
+            },
+            {
+                  "name": "Skofjärden",
+                  "text": "A bay of Lake Mälaren located near Skokloster.",
+                  "category": "landmark",
+                  "coords": [
+                        17.626118,
+                        59.681639
+                  ]
+            },
+            {
+                  "name": "Flasta church ruins",
+                  "text": "The ruins of a medieval church located near Skokloster.",
+                  "category": "historical",
+                  "coords": [
+                        17.608402,
+                        59.708601
+                  ]
+            },
+            {
+                  "name": "Skokloster Church",
+                  "text": "A historical church that originally belonged to a Cistercian nunnery.",
+                  "category": "religious",
+                  "coords": [
+                        17.623911,
+                        59.704575
+                  ]
+            }
+      ]
+},
     type: "ruins",
     parent: "SE",
     name: { de: "Skokloster Ruinen", hu: "Skokloster romok", ro: "Ruinele Skokloster", en: "Skokloster Ruins" },
@@ -1390,6 +3811,33 @@ imageHint: "Stockholm Royal Palace facade",
                         17.418563,
                         58.795288
                   ]
+            },
+            {
+                  "name": "Nynäs naturreservat",
+                  "text": "Ein Naturschutzgebiet in Södermanland, das das Gut Nynäs umgibt.",
+                  "category": "natural",
+                  "coords": [
+                        17.384252,
+                        58.81811
+                  ]
+            },
+            {
+                  "name": "Nynäs slott",
+                  "text": "Ein historisches Herrenhaus und Schloss in der Nähe von Nyköping.",
+                  "category": "castle",
+                  "coords": [
+                        17.366361,
+                        58.807961
+                  ]
+            },
+            {
+                  "name": "Zum Fressen gern ...",
+                  "text": "Ein Museum oder eine Ausstellung auf dem Gelände von Gut Nynäs.",
+                  "category": "museum",
+                  "coords": [
+                        17.362679,
+                        58.808911
+                  ]
             }
       ],
       "hu": [
@@ -1400,6 +3848,33 @@ imageHint: "Stockholm Royal Palace facade",
                   "coords": [
                         17.418563,
                         58.795288
+                  ]
+            },
+            {
+                  "name": "Nynäs naturreservat",
+                  "text": "Természetvédelmi terület Södermanlandban, amely a Nynäs-birtokot veszi körül.",
+                  "category": "natural",
+                  "coords": [
+                        17.384252,
+                        58.81811
+                  ]
+            },
+            {
+                  "name": "Nynäs slott",
+                  "text": "Történelmi kúria és kastély Nyköping közelében.",
+                  "category": "castle",
+                  "coords": [
+                        17.366361,
+                        58.807961
+                  ]
+            },
+            {
+                  "name": "älskas ... ätas",
+                  "text": "Múzeum vagy kiállítás a Nynäs-birtok területén.",
+                  "category": "museum",
+                  "coords": [
+                        17.362679,
+                        58.808911
                   ]
             }
       ],
@@ -1412,6 +3887,33 @@ imageHint: "Stockholm Royal Palace facade",
                         17.418563,
                         58.795288
                   ]
+            },
+            {
+                  "name": "Nynäs naturreservat",
+                  "text": "O rezervație naturală din Södermanland, care înconjoară domeniul Nynäs.",
+                  "category": "natural",
+                  "coords": [
+                        17.384252,
+                        58.81811
+                  ]
+            },
+            {
+                  "name": "Nynäs slott",
+                  "text": "Un conac istoric și castel situat în apropiere de Nyköping.",
+                  "category": "castle",
+                  "coords": [
+                        17.366361,
+                        58.807961
+                  ]
+            },
+            {
+                  "name": "älskas ... ätas",
+                  "text": "Un muzeu sau expoziție situată pe domeniul Nynäs.",
+                  "category": "museum",
+                  "coords": [
+                        17.362679,
+                        58.808911
+                  ]
             }
       ],
       "en": [
@@ -1422,6 +3924,33 @@ imageHint: "Stockholm Royal Palace facade",
                   "coords": [
                         17.418563,
                         58.795288
+                  ]
+            },
+            {
+                  "name": "Nynäs naturreservat",
+                  "text": "A nature reserve in Södermanland surrounding the Nynäs estate.",
+                  "category": "natural",
+                  "coords": [
+                        17.384252,
+                        58.81811
+                  ]
+            },
+            {
+                  "name": "Nynäs slott",
+                  "text": "A historic manor house and castle located near Nyköping.",
+                  "category": "castle",
+                  "coords": [
+                        17.366361,
+                        58.807961
+                  ]
+            },
+            {
+                  "name": "älskas ... ätas",
+                  "text": "A museum or exhibition located on the Nynäs Manor grounds.",
+                  "category": "museum",
+                  "coords": [
+                        17.362679,
+                        58.808911
                   ]
             }
       ]
@@ -1560,7 +4089,160 @@ imageHint: "Stockholm Royal Palace facade",
     image: "/poi-images/sweden-ulriksdal-palace-history-v2.webp",
   },
   {
-    id: "sweden-sodra-vram-church-history-v2",
+    id: "sweden-sodra-vram-church-history-v2", "sights": {
+      "de": [
+            {
+                  "name": "Åvarps fälads naturreservat",
+                  "text": "Dieses Naturschutzgebiet in Schonen schützt eine traditionelle Heide- und Weidelandschaft.",
+                  "category": "natural",
+                  "coords": [
+                        13.015507,
+                        56.063511
+                  ]
+            },
+            {
+                  "name": "Ekeby Kyrka",
+                  "text": "Die historische lutherische Pfarrkirche von Ekeby in Südschweden.",
+                  "category": "religious",
+                  "coords": [
+                        12.950496,
+                        56.009704
+                  ]
+            },
+            {
+                  "name": "Billesholms kyrka",
+                  "text": "Eine lokale Kirche in Billesholm, die als geistliches Zentrum der Gemeinde dient.",
+                  "category": "religious",
+                  "coords": [
+                        12.978853,
+                        56.051897
+                  ]
+            },
+            {
+                  "name": "Risekatslösa kyrka",
+                  "text": "Die Dorfkirche von Risekatslösa ist ein typisches Beispiel für die Sakralarchitektur der Region.",
+                  "category": "religious",
+                  "coords": [
+                        12.946417,
+                        56.05171
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Åvarps fälads naturreservat",
+                  "text": "Ez a skånei természetvédelmi terület egy hagyományos pusztai és legelővidéket védelmez.",
+                  "category": "natural",
+                  "coords": [
+                        13.015507,
+                        56.063511
+                  ]
+            },
+            {
+                  "name": "Ekeby Kyrka",
+                  "text": "Ekeby történelmi evangélikus plébániatemploma Dél-Svédországban.",
+                  "category": "religious",
+                  "coords": [
+                        12.950496,
+                        56.009704
+                  ]
+            },
+            {
+                  "name": "Billesholms kyrka",
+                  "text": "Helyi templom Billesholmban, amely a közösség lelki központjaként szolgál.",
+                  "category": "religious",
+                  "coords": [
+                        12.978853,
+                        56.051897
+                  ]
+            },
+            {
+                  "name": "Risekatslösa kyrka",
+                  "text": "Risekatslösa falusi temploma a régió szakrális építészetének tipikus példája.",
+                  "category": "religious",
+                  "coords": [
+                        12.946417,
+                        56.05171
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Åvarps fälads naturreservat",
+                  "text": "Această rezervație naturală din Scania protejează un peisaj tradițional de pășune și landă.",
+                  "category": "natural",
+                  "coords": [
+                        13.015507,
+                        56.063511
+                  ]
+            },
+            {
+                  "name": "Ekeby Kyrka",
+                  "text": "Biserica parohială luterană istorică din Ekeby, în sudul Suediei.",
+                  "category": "religious",
+                  "coords": [
+                        12.950496,
+                        56.009704
+                  ]
+            },
+            {
+                  "name": "Billesholms kyrka",
+                  "text": "O biserică locală în Billesholm, care servește ca centru spiritual al comunității.",
+                  "category": "religious",
+                  "coords": [
+                        12.978853,
+                        56.051897
+                  ]
+            },
+            {
+                  "name": "Risekatslösa kyrka",
+                  "text": "Biserica din Risekatslösa este un exemplu tipic de arhitectură sacră regională.",
+                  "category": "religious",
+                  "coords": [
+                        12.946417,
+                        56.05171
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Åvarps fälads naturreservat",
+                  "text": "This nature reserve in Scania protects a traditional heath and pasture landscape.",
+                  "category": "natural",
+                  "coords": [
+                        13.015507,
+                        56.063511
+                  ]
+            },
+            {
+                  "name": "Ekeby Kyrka",
+                  "text": "The historic Lutheran parish church of Ekeby in southern Sweden.",
+                  "category": "religious",
+                  "coords": [
+                        12.950496,
+                        56.009704
+                  ]
+            },
+            {
+                  "name": "Billesholms kyrka",
+                  "text": "A local church in Billesholm serving as a spiritual center for the community.",
+                  "category": "religious",
+                  "coords": [
+                        12.978853,
+                        56.051897
+                  ]
+            },
+            {
+                  "name": "Risekatslösa kyrka",
+                  "text": "The village church of Risekatslösa is a typical example of regional sacred architecture.",
+                  "category": "religious",
+                  "coords": [
+                        12.946417,
+                        56.05171
+                  ]
+            }
+      ]
+},
     type: "church",
     parent: "SE",
     name: { de: "Kirche Södra Vram", hu: "Södra Vram templom", ro: "Biserica Södra Vram", en: "Södra Vram Church" },
@@ -1650,7 +4332,196 @@ imageHint: "Stockholm Royal Palace facade",
     image: "/poi-images/sweden-brakne-hoby-church-history-v2.webp",
   },
   {
-    id: "sweden-karlsborg-fortress-history-v2",
+    id: "sweden-karlsborg-fortress-history-v2", "sights": {
+      "de": [
+            {
+                  "name": "Fästningsmuséet",
+                  "text": "Das Festungsmuseum zeigt die Geschichte der Festung Karlsborg und des schwedischen Militärs.",
+                  "category": "museum",
+                  "coords": [
+                        14.52703,
+                        58.528592
+                  ]
+            },
+            {
+                  "name": "Vanäs fyr",
+                  "text": "Ein historischer Leuchtturm an der Landzunge Vanäs bei der Festung Karlsborg am Vätternsee.",
+                  "category": "landmark",
+                  "coords": [
+                        14.540093,
+                        58.538215
+                  ]
+            },
+            {
+                  "name": "Fästningsteatern",
+                  "text": "Ein Theater in der Festung Karlsborg, das Aufführungen in historischer Umgebung bietet.",
+                  "category": "cultural",
+                  "coords": [
+                        14.528145,
+                        58.531475
+                  ]
+            },
+            {
+                  "name": "Klintens utsiktsplats",
+                  "text": "Ein Aussichtspunkt an der Festung Karlsborg mit weitem Blick über den Vätternsee.",
+                  "category": "natural",
+                  "coords": [
+                        14.457567,
+                        58.537118
+                  ]
+            },
+            {
+                  "name": "Tacksägelsekyrkan",
+                  "text": "Eine Kirche in Karlsborg, die als Ort der Andacht und Besinnung dient.",
+                  "category": "religious",
+                  "coords": [
+                        14.477759,
+                        58.551511
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Fästningsmuséet",
+                  "text": "A várőrségi múzeum Karlsborg erődjének és a svéd hadseregnek a történelmét mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        14.52703,
+                        58.528592
+                  ]
+            },
+            {
+                  "name": "Vanäs fyr",
+                  "text": "Történelmi világítótorony a Vättern-tó partján, a karlsborgi erőd melletti Vanäs-fokon.",
+                  "category": "landmark",
+                  "coords": [
+                        14.540093,
+                        58.538215
+                  ]
+            },
+            {
+                  "name": "Fästningsteatern",
+                  "text": "Színház a karlsborgi erődben, amely történelmi környezetben kínál előadásokat.",
+                  "category": "cultural",
+                  "coords": [
+                        14.528145,
+                        58.531475
+                  ]
+            },
+            {
+                  "name": "Klintens utsiktsplats",
+                  "text": "Kilátóhely a karlsborgi erődnél, ahonnan pazar kilátás nyílik a Vättern-tóra.",
+                  "category": "natural",
+                  "coords": [
+                        14.457567,
+                        58.537118
+                  ]
+            },
+            {
+                  "name": "Tacksägelsekyrkan",
+                  "text": "Egy templom Karlsborgban, amely istentiszteleteknek és elcsendesedésnek ad helyet.",
+                  "category": "religious",
+                  "coords": [
+                        14.477759,
+                        58.551511
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Fästningsmuséet",
+                  "text": "Muzeul cetății prezintă istoria fortăreței Karlsborg și a armatei suedeze.",
+                  "category": "museum",
+                  "coords": [
+                        14.52703,
+                        58.528592
+                  ]
+            },
+            {
+                  "name": "Vanäs fyr",
+                  "text": "Un far istoric situat pe promontoriul Vanäs, lângă fortăreața Karlsborg de pe malul lacului Vättern.",
+                  "category": "landmark",
+                  "coords": [
+                        14.540093,
+                        58.538215
+                  ]
+            },
+            {
+                  "name": "Fästningsteatern",
+                  "text": "Un teatru situat în fortăreața Karlsborg, oferind spectacole într-un cadru istoric.",
+                  "category": "cultural",
+                  "coords": [
+                        14.528145,
+                        58.531475
+                  ]
+            },
+            {
+                  "name": "Klintens utsiktsplats",
+                  "text": "Un punct de belvedere la fortăreața Karlsborg, oferind o vedere panoramică asupra lacului Vättern.",
+                  "category": "natural",
+                  "coords": [
+                        14.457567,
+                        58.537118
+                  ]
+            },
+            {
+                  "name": "Tacksägelsekyrkan",
+                  "text": "O biserică în Karlsborg care servește ca loc de închinare și reflecție.",
+                  "category": "religious",
+                  "coords": [
+                        14.477759,
+                        58.551511
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Fästningsmuséet",
+                  "text": "The fortress museum displays the history of Karlsborg Fortress and the Swedish military.",
+                  "category": "museum",
+                  "coords": [
+                        14.52703,
+                        58.528592
+                  ]
+            },
+            {
+                  "name": "Vanäs fyr",
+                  "text": "A historical lighthouse located on the Vanäs point near Karlsborg Fortress by Lake Vättern.",
+                  "category": "landmark",
+                  "coords": [
+                        14.540093,
+                        58.538215
+                  ]
+            },
+            {
+                  "name": "Fästningsteatern",
+                  "text": "A theatre located within Karlsborg Fortress, offering performances in a historic setting.",
+                  "category": "cultural",
+                  "coords": [
+                        14.528145,
+                        58.531475
+                  ]
+            },
+            {
+                  "name": "Klintens utsiktsplats",
+                  "text": "A viewpoint at Karlsborg Fortress offering wide views over Lake Vättern.",
+                  "category": "natural",
+                  "coords": [
+                        14.457567,
+                        58.537118
+                  ]
+            },
+            {
+                  "name": "Tacksägelsekyrkan",
+                  "text": "A church in Karlsborg serving as a place of worship and reflection.",
+                  "category": "religious",
+                  "coords": [
+                        14.477759,
+                        58.551511
+                  ]
+            }
+      ]
+},
     type: "castle",
     parent: "SE",
     name: { de: "Festung Karlsborg", hu: "Karlsborg erőd", ro: "Fortăreața Karlsborg", en: "Karlsborg Fortress" },
@@ -1911,7 +4782,232 @@ imageHint: "Stockholm Royal Palace facade",
     image: "/poi-images/sweden-badelunda-archaeology-history-v2.webp",
   },
   {
-    id: "sweden-bjorko-ruins-history-v2",
+    id: "sweden-bjorko-ruins-history-v2", "sights": {
+      "de": [
+            {
+                  "name": "Birka",
+                  "text": "Birka ist eine bedeutende archäologische Stätte der Wikingerzeit und gehört zum UNESCO-Weltkulturerbe auf der Insel Björkö.",
+                  "category": "historical",
+                  "coords": [
+                        17.544941,
+                        59.332728
+                  ]
+            },
+            {
+                  "name": "Hovgården",
+                  "text": "Dieses UNESCO-Weltkulturerbe umfasst bedeutende archäologische Überreste der Wikingerzeit auf den Inseln Björkö und Adelsö.",
+                  "category": "historical",
+                  "coords": [
+                        17.535125,
+                        59.361
+                  ]
+            },
+            {
+                  "name": "Birkamuseum",
+                  "text": "Ein Museum auf Björkö, das archäologische Funde aus der historischen Wikingersiedlung Birka ausstellt.",
+                  "category": "museum",
+                  "coords": [
+                        17.541974,
+                        59.330443
+                  ]
+            },
+            {
+                  "name": "Adelsö badplats",
+                  "text": "Ein lokaler Badeplatz und Strand auf der Insel Adelsö in der Nähe der historischen Stätte.",
+                  "category": "recreational",
+                  "coords": [
+                        17.534159,
+                        59.363587
+                  ]
+            },
+            {
+                  "name": "Björkö naturreservat",
+                  "text": "Ein Naturschutzgebiet auf der Insel Björkö, das sowohl Naturlandschaften als auch archäologische Stätten umfasst.",
+                  "category": "natural",
+                  "coords": [
+                        17.567516,
+                        59.315605
+                  ]
+            },
+            {
+                  "name": "Gåsholmen",
+                  "text": "Eine kleine Insel und ein Naturschutzgebiet, das für seine geschützte natürliche Umgebung in der Nähe von Björkö bekannt ist.",
+                  "category": "natural",
+                  "coords": [
+                        17.528414,
+                        59.319439
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Birka",
+                  "text": "Birka a viking kor jelentős régészeti lelőhelye és az UNESCO Világörökség része Björkö szigetén.",
+                  "category": "historical",
+                  "coords": [
+                        17.544941,
+                        59.332728
+                  ]
+            },
+            {
+                  "name": "Hovgården",
+                  "text": "Ez az UNESCO Világörökségi helyszín fontos viking kori régészeti maradványokat foglal magában Björkö és Adelsö szigetén.",
+                  "category": "historical",
+                  "coords": [
+                        17.535125,
+                        59.361
+                  ]
+            },
+            {
+                  "name": "Birkamuseet",
+                  "text": "Björkö szigetén található múzeum, amely a történelmi viking település, Birka régészeti leleteit mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        17.541974,
+                        59.330443
+                  ]
+            },
+            {
+                  "name": "Adelsö badplats",
+                  "text": "Egy helyi strand és fürdőhely Adelsö szigetén, a történelmi helyszín közelében.",
+                  "category": "recreational",
+                  "coords": [
+                        17.534159,
+                        59.363587
+                  ]
+            },
+            {
+                  "name": "Björkö naturreservat",
+                  "text": "Természetvédelmi terület Björkö szigetén, amely természeti tájakat és régészeti lelőhelyeket egyaránt magában foglal.",
+                  "category": "natural",
+                  "coords": [
+                        17.567516,
+                        59.315605
+                  ]
+            },
+            {
+                  "name": "Gåsholmen",
+                  "text": "Egy kis sziget és természetvédelmi terület Björkö közelében, amely védett természeti környezetéről ismert.",
+                  "category": "natural",
+                  "coords": [
+                        17.528414,
+                        59.319439
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Birka",
+                  "text": "Birka este un sit arheologic proeminent din epoca vikingă și un sit al Patrimoniului Mondial UNESCO pe insula Björkö.",
+                  "category": "historical",
+                  "coords": [
+                        17.544941,
+                        59.332728
+                  ]
+            },
+            {
+                  "name": "Hovgården",
+                  "text": "Acest sit al Patrimoniului Mondial UNESCO include vestigii arheologice importante din epoca vikingă de pe insulele Björkö și Adelsö.",
+                  "category": "historical",
+                  "coords": [
+                        17.535125,
+                        59.361
+                  ]
+            },
+            {
+                  "name": "Birkamuseet",
+                  "text": "Un muzeu de pe Björkö care expune descoperiri arheologice din așezarea istorică vikingă Birka.",
+                  "category": "museum",
+                  "coords": [
+                        17.541974,
+                        59.330443
+                  ]
+            },
+            {
+                  "name": "Adelsö badplats",
+                  "text": "O zonă locală de scăldat și plajă situată pe insula Adelsö, lângă situl istoric.",
+                  "category": "recreational",
+                  "coords": [
+                        17.534159,
+                        59.363587
+                  ]
+            },
+            {
+                  "name": "Björkö naturreservat",
+                  "text": "O rezervație naturală protejată de pe insula Björkö, care cuprinde atât peisaje naturale, cât și situri arheologice.",
+                  "category": "natural",
+                  "coords": [
+                        17.567516,
+                        59.315605
+                  ]
+            },
+            {
+                  "name": "Gåsholmen",
+                  "text": "O insulă mică și o rezervație naturală cunoscută pentru mediul său natural protejat de lângă Björkö.",
+                  "category": "natural",
+                  "coords": [
+                        17.528414,
+                        59.319439
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Birka",
+                  "text": "Birka is a prominent Viking Age archaeological site and a UNESCO World Heritage site on the island of Björkö.",
+                  "category": "historical",
+                  "coords": [
+                        17.544941,
+                        59.332728
+                  ]
+            },
+            {
+                  "name": "Birka and Hovgården",
+                  "text": "This UNESCO World Heritage site includes important Viking Age archaeological remains on the islands of Björkö and Adelsö.",
+                  "category": "historical",
+                  "coords": [
+                        17.535125,
+                        59.361
+                  ]
+            },
+            {
+                  "name": "Birkamuseet",
+                  "text": "A museum on Björkö that displays archaeological finds from the historic Viking settlement of Birka.",
+                  "category": "museum",
+                  "coords": [
+                        17.541974,
+                        59.330443
+                  ]
+            },
+            {
+                  "name": "Adelsö badplats",
+                  "text": "A local swimming area and beach located on the island of Adelsö near the historical site.",
+                  "category": "recreational",
+                  "coords": [
+                        17.534159,
+                        59.363587
+                  ]
+            },
+            {
+                  "name": "Björkö naturreservat",
+                  "text": "A protected nature reserve on the island of Björkö, encompassing both natural landscapes and archaeological sites.",
+                  "category": "natural",
+                  "coords": [
+                        17.567516,
+                        59.315605
+                  ]
+            },
+            {
+                  "name": "Gåsholmen",
+                  "text": "A small island and nature reserve known for its protected natural environment near Björkö.",
+                  "category": "natural",
+                  "coords": [
+                        17.528414,
+                        59.319439
+                  ]
+            }
+      ]
+},
     type: "ruins",
     parent: "SE",
     name: { de: "Ruinen Björkö", hu: "Björkö romok", ro: "Ruinele Björkö", en: "Björkö Ruins" },
@@ -2001,7 +5097,232 @@ imageHint: "Stockholm Royal Palace facade",
     image: "/poi-images/sweden-rosersberg-palace-history-v2.webp",
   },
   {
-    id: "sweden-sodra-asker-church-history-v2",
+    id: "sweden-sodra-asker-church-history-v2", "sights": {
+      "de": [
+            {
+                  "name": "Tomarps kungsgård",
+                  "text": "Ein gut erhaltenes historisches Herrenhaus, dessen Ursprünge bis ins Mittelalter zurückreichen.",
+                  "category": "castle",
+                  "coords": [
+                        13.061274,
+                        56.149283
+                  ]
+            },
+            {
+                  "name": "Prästamarken",
+                  "text": "Ein Naturschutzgebiet, das für seine Artenvielfalt und malerischen Landschaften bekannt ist.",
+                  "category": "natural",
+                  "coords": [
+                        13.045569,
+                        56.14151
+                  ]
+            },
+            {
+                  "name": "Kvidingemonumentet",
+                  "text": "Ein Denkmal zur Erinnerung an den Tod des schwedischen Kronprinzen Karl August im Jahr 1810.",
+                  "category": "historical",
+                  "coords": [
+                        13.054631,
+                        56.13176
+                  ]
+            },
+            {
+                  "name": "Kvidinge kyrka",
+                  "text": "Eine historische Pfarrkirche, die der örtlichen Gemeinde von Kvidinge dient.",
+                  "category": "religious",
+                  "coords": [
+                        13.050572,
+                        56.13888
+                  ]
+            },
+            {
+                  "name": "Västra Sönnarslövs kapell",
+                  "text": "Eine kleine historische Kapelle im Gebiet von Västra Sönnarslöv.",
+                  "category": "religious",
+                  "coords": [
+                        13.076655,
+                        56.128379
+                  ]
+            },
+            {
+                  "name": "Västra Sönnarslövs kyrka",
+                  "text": "Die Pfarrkirche von Västra Sönnarslöv, ein architektonisches Wahrzeichen des Dorfes.",
+                  "category": "religious",
+                  "coords": [
+                        13.103316,
+                        56.115565
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Tomarps kungsgård",
+                  "text": "Jól megőrzött történelmi kúria, amelynek eredete a középkorig nyúlik vissza.",
+                  "category": "castle",
+                  "coords": [
+                        13.061274,
+                        56.149283
+                  ]
+            },
+            {
+                  "name": "Prästamarken",
+                  "text": "Természetvédelmi terület, amely biológiai sokféleségéről és festői tájairól ismert.",
+                  "category": "natural",
+                  "coords": [
+                        13.045569,
+                        56.14151
+                  ]
+            },
+            {
+                  "name": "Kvidingemonumentet",
+                  "text": "Emlékmű, amely Károly Ágost svéd koronaherceg 1810-ben bekövetkezett halálának állít emléket.",
+                  "category": "historical",
+                  "coords": [
+                        13.054631,
+                        56.13176
+                  ]
+            },
+            {
+                  "name": "Kvidinge kyrka",
+                  "text": "Történelmi plébániatemplom, amely Kvidinge helyi közösségét szolgálja.",
+                  "category": "religious",
+                  "coords": [
+                        13.050572,
+                        56.13888
+                  ]
+            },
+            {
+                  "name": "Västra Sönnarslövs kapell",
+                  "text": "Kisméretű történelmi kápolna Västra Sönnarslöv területén.",
+                  "category": "religious",
+                  "coords": [
+                        13.076655,
+                        56.128379
+                  ]
+            },
+            {
+                  "name": "Västra Sönnarslövs kyrka",
+                  "text": "Västra Sönnarslöv plébániatemploma, a falu építészeti jelentőségű épülete.",
+                  "category": "religious",
+                  "coords": [
+                        13.103316,
+                        56.115565
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Tomarps kungsgård",
+                  "text": "Un conac istoric bine conservat, ale cărui origini datează din Evul Mediu.",
+                  "category": "castle",
+                  "coords": [
+                        13.061274,
+                        56.149283
+                  ]
+            },
+            {
+                  "name": "Prästamarken",
+                  "text": "O rezervație naturală protejată, cunoscută pentru biodiversitatea sa și peisajele pitorești.",
+                  "category": "natural",
+                  "coords": [
+                        13.045569,
+                        56.14151
+                  ]
+            },
+            {
+                  "name": "Kvidingemonumentet",
+                  "text": "Un monument care comemorează moartea prințului moștenitor Karl August al Suediei în 1810.",
+                  "category": "historical",
+                  "coords": [
+                        13.054631,
+                        56.13176
+                  ]
+            },
+            {
+                  "name": "Kvidinge kyrka",
+                  "text": "O biserică parohială istorică ce deservește comunitatea locală din Kvidinge.",
+                  "category": "religious",
+                  "coords": [
+                        13.050572,
+                        56.13888
+                  ]
+            },
+            {
+                  "name": "Västra Sönnarslövs kapell",
+                  "text": "O mică capelă istorică situată în zona Västra Sönnarslöv.",
+                  "category": "religious",
+                  "coords": [
+                        13.076655,
+                        56.128379
+                  ]
+            },
+            {
+                  "name": "Västra Sönnarslövs kyrka",
+                  "text": "Biserica parohială din Västra Sönnarslöv, un reper arhitectural al satului.",
+                  "category": "religious",
+                  "coords": [
+                        13.103316,
+                        56.115565
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Tomarps kungsgård",
+                  "text": "A well-preserved historical manor house with origins dating back to the Middle Ages.",
+                  "category": "castle",
+                  "coords": [
+                        13.061274,
+                        56.149283
+                  ]
+            },
+            {
+                  "name": "Prästamarken",
+                  "text": "A protected nature reserve known for its biodiversity and scenic landscapes.",
+                  "category": "natural",
+                  "coords": [
+                        13.045569,
+                        56.14151
+                  ]
+            },
+            {
+                  "name": "Kvidingemonumentet",
+                  "text": "A monument commemorating the death of Crown Prince Karl August of Sweden in 1810.",
+                  "category": "historical",
+                  "coords": [
+                        13.054631,
+                        56.13176
+                  ]
+            },
+            {
+                  "name": "Kvidinge kyrka",
+                  "text": "A historical parish church serving the local community of Kvidinge.",
+                  "category": "religious",
+                  "coords": [
+                        13.050572,
+                        56.13888
+                  ]
+            },
+            {
+                  "name": "Västra Sönnarslövs kapell",
+                  "text": "A small historical chapel located in the Västra Sönnarslöv area.",
+                  "category": "religious",
+                  "coords": [
+                        13.076655,
+                        56.128379
+                  ]
+            },
+            {
+                  "name": "Västra Sönnarslövs kyrka",
+                  "text": "The parish church of Västra Sönnarslöv, an architectural landmark of the village.",
+                  "category": "religious",
+                  "coords": [
+                        13.103316,
+                        56.115565
+                  ]
+            }
+      ]
+},
     type: "church",
     parent: "SE",
     name: { de: "Kirche Södra Åsbo", hu: "Södra Åsbo templom", ro: "Biserica Södra Åsbo", en: "Södra Åsbo Church" },
@@ -2181,7 +5502,304 @@ imageHint: "Stockholm Royal Palace facade",
     image: "/poi-images/sweden-vaxjo-cathedral-history-v2.webp",
   },
   {
-    id: "sweden-sigtuna-town-history-v2",
+    id: "sweden-sigtuna-town-history-v2", "sights": {
+      "de": [
+            {
+                  "name": "Rävsta",
+                  "text": "Naturschutzgebiet in Sigtuna.",
+                  "category": "natural",
+                  "coords": [
+                        17.771629,
+                        59.61234
+                  ]
+            },
+            {
+                  "name": "Hällsboskogen",
+                  "text": "Naturschutzgebiet in Sigtuna.",
+                  "category": "natural",
+                  "coords": [
+                        17.68454,
+                        59.634338
+                  ]
+            },
+            {
+                  "name": "Munkholmen",
+                  "text": "Naturschutzgebiet in Sigtuna.",
+                  "category": "natural",
+                  "coords": [
+                        17.742326,
+                        59.616048
+                  ]
+            },
+            {
+                  "name": "Schloss Venngarn",
+                  "text": "Ein historisches Schloss in der Nähe von Sigtuna.",
+                  "category": "castle",
+                  "coords": [
+                        17.719802,
+                        59.648636
+                  ]
+            },
+            {
+                  "name": "Sigtuna rådhus",
+                  "text": "Das alte Rathaus von Sigtuna, das heute als Museum dient.",
+                  "category": "museum",
+                  "coords": [
+                        17.721329,
+                        59.617001
+                  ]
+            },
+            {
+                  "name": "Fornborg",
+                  "text": "Eine archäologische Ausgrabungsstätte einer alten Fliehburg in Sigtuna.",
+                  "category": "historical",
+                  "coords": [
+                        17.712585,
+                        59.62489
+                  ]
+            },
+            {
+                  "name": "Sigtuna museum",
+                  "text": "Heimatmuseum in Sigtuna, das die lokale Geschichte präsentiert.",
+                  "category": "museum",
+                  "coords": [
+                        17.718749,
+                        59.61519
+                  ]
+            },
+            {
+                  "name": "Sigtunafjärden",
+                  "text": "Eine Bucht des Mälaren-Sees bei Sigtuna.",
+                  "category": "landmark",
+                  "coords": [
+                        17.723237,
+                        59.604902
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Rävsta",
+                  "text": "Természetvédelmi terület Sigtunában.",
+                  "category": "natural",
+                  "coords": [
+                        17.771629,
+                        59.61234
+                  ]
+            },
+            {
+                  "name": "Hällsboskogen",
+                  "text": "Természetvédelmi terület Sigtunában.",
+                  "category": "natural",
+                  "coords": [
+                        17.68454,
+                        59.634338
+                  ]
+            },
+            {
+                  "name": "Munkholmen",
+                  "text": "Természetvédelmi terület Sigtunában.",
+                  "category": "natural",
+                  "coords": [
+                        17.742326,
+                        59.616048
+                  ]
+            },
+            {
+                  "name": "Wenngarns slott",
+                  "text": "Történelmi kastély Sigtuna közelében.",
+                  "category": "castle",
+                  "coords": [
+                        17.719802,
+                        59.648636
+                  ]
+            },
+            {
+                  "name": "Sigtuna rådhus",
+                  "text": "Sigtuna régi városháza, amely ma múzeumként működik.",
+                  "category": "museum",
+                  "coords": [
+                        17.721329,
+                        59.617001
+                  ]
+            },
+            {
+                  "name": "Fornborg",
+                  "text": "Régészeti lelőhely, egykori erődítmény Sigtunában.",
+                  "category": "historical",
+                  "coords": [
+                        17.712585,
+                        59.62489
+                  ]
+            },
+            {
+                  "name": "Sigtuna museum",
+                  "text": "Helytörténeti múzeum Sigtunában.",
+                  "category": "museum",
+                  "coords": [
+                        17.718749,
+                        59.61519
+                  ]
+            },
+            {
+                  "name": "Sigtunafjärden",
+                  "text": "A Mälaren-tó egyik öble Sigtunánál.",
+                  "category": "landmark",
+                  "coords": [
+                        17.723237,
+                        59.604902
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Rävsta",
+                  "text": "Rezervație naturală în Sigtuna.",
+                  "category": "natural",
+                  "coords": [
+                        17.771629,
+                        59.61234
+                  ]
+            },
+            {
+                  "name": "Hällsboskogen",
+                  "text": "Rezervație naturală în Sigtuna.",
+                  "category": "natural",
+                  "coords": [
+                        17.68454,
+                        59.634338
+                  ]
+            },
+            {
+                  "name": "Munkholmen",
+                  "text": "Rezervație naturală în Sigtuna.",
+                  "category": "natural",
+                  "coords": [
+                        17.742326,
+                        59.616048
+                  ]
+            },
+            {
+                  "name": "Wenngarns slott",
+                  "text": "Un castel istoric lângă Sigtuna.",
+                  "category": "castle",
+                  "coords": [
+                        17.719802,
+                        59.648636
+                  ]
+            },
+            {
+                  "name": "Sigtuna rådhus",
+                  "text": "Vechea primărie din Sigtuna, care astăzi este muzeu.",
+                  "category": "museum",
+                  "coords": [
+                        17.721329,
+                        59.617001
+                  ]
+            },
+            {
+                  "name": "Fornborg",
+                  "text": "Sit arheologic reprezentând o veche fortificație în Sigtuna.",
+                  "category": "historical",
+                  "coords": [
+                        17.712585,
+                        59.62489
+                  ]
+            },
+            {
+                  "name": "Sigtuna museum",
+                  "text": "Muzeu de istorie locală în Sigtuna.",
+                  "category": "museum",
+                  "coords": [
+                        17.718749,
+                        59.61519
+                  ]
+            },
+            {
+                  "name": "Sigtunafjärden",
+                  "text": "Un golf al lacului Mälaren în apropiere de Sigtuna.",
+                  "category": "landmark",
+                  "coords": [
+                        17.723237,
+                        59.604902
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Rävsta",
+                  "text": "A nature reserve located in Sigtuna.",
+                  "category": "natural",
+                  "coords": [
+                        17.771629,
+                        59.61234
+                  ]
+            },
+            {
+                  "name": "Hällsboskogen",
+                  "text": "A nature reserve situated in Sigtuna.",
+                  "category": "natural",
+                  "coords": [
+                        17.68454,
+                        59.634338
+                  ]
+            },
+            {
+                  "name": "Munkholmen",
+                  "text": "A nature reserve located in Sigtuna.",
+                  "category": "natural",
+                  "coords": [
+                        17.742326,
+                        59.616048
+                  ]
+            },
+            {
+                  "name": "Venngarn Castle",
+                  "text": "A historic castle located near Sigtuna.",
+                  "category": "castle",
+                  "coords": [
+                        17.719802,
+                        59.648636
+                  ]
+            },
+            {
+                  "name": "Sigtuna rådhus",
+                  "text": "The old town hall of Sigtuna, now functioning as a museum.",
+                  "category": "museum",
+                  "coords": [
+                        17.721329,
+                        59.617001
+                  ]
+            },
+            {
+                  "name": "Fornborg",
+                  "text": "An archaeological site of an ancient hillfort in Sigtuna.",
+                  "category": "historical",
+                  "coords": [
+                        17.712585,
+                        59.62489
+                  ]
+            },
+            {
+                  "name": "Sigtuna museum",
+                  "text": "A local history museum located in Sigtuna.",
+                  "category": "museum",
+                  "coords": [
+                        17.718749,
+                        59.61519
+                  ]
+            },
+            {
+                  "name": "Sigtunafjärden",
+                  "text": "A bay of Lake Mälaren located at Sigtuna.",
+                  "category": "landmark",
+                  "coords": [
+                        17.723237,
+                        59.604902
+                  ]
+            }
+      ]
+},
     type: "ruins",
     parent: "SE",
     name: { de: "Sigtuna Stadtzentrum", hu: "Sigtuna városközpont", ro: "Centrul orașului Sigtuna", en: "Sigtuna Town Center" },
@@ -2226,7 +5844,52 @@ imageHint: "Stockholm Royal Palace facade",
     image: "/poi-images/sweden-sigtuna-town-history-v2.webp",
   },
   {
-    id: "sweden-tuna-church-history-v2",
+    id: "sweden-tuna-church-history-v2", "sights": {
+      "de": [
+            {
+                  "name": "Hultserum",
+                  "text": "Ein Naturschutzgebiet in der Nähe von Tuna.",
+                  "category": "natural",
+                  "coords": [
+                        16.199881,
+                        57.735511
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Hultserum",
+                  "text": "Természetvédelmi terület Tuna közelében.",
+                  "category": "natural",
+                  "coords": [
+                        16.199881,
+                        57.735511
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Hultserum",
+                  "text": "O rezervație naturală în apropiere de Tuna.",
+                  "category": "natural",
+                  "coords": [
+                        16.199881,
+                        57.735511
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Hultserum",
+                  "text": "A nature reserve located near Tuna.",
+                  "category": "natural",
+                  "coords": [
+                        16.199881,
+                        57.735511
+                  ]
+            }
+      ]
+},
     type: "church",
     parent: "SE",
     name: { de: "Kirche Tuna", hu: "Tuna templom", ro: "Biserica Tuna", en: "Tuna Church" },

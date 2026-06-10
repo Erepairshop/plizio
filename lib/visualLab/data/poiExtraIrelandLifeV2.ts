@@ -3,7 +3,88 @@ import { POI } from './poi';
 export const irelandLifeV2: POI[] = [
 
   {
-    id: "ireland-ballycroy-national-park-life-v2",
+    id: "ireland-ballycroy-national-park-life-v2", "sights": {
+      "de": [
+            {
+                  "name": "Wild Nephin National Park",
+                  "text": "Eine weite Wildnis im County Mayo mit ausgedehnten Torfmooren, die als Dark Sky Park anerkannt ist.",
+                  "category": "natural",
+                  "coords": [
+                        -9.627293,
+                        54.059846
+                  ]
+            },
+            {
+                  "name": "Slieve Carr",
+                  "text": "Einer der abgelegensten Berggipfel Irlands, im Herzen der Nephin Beg Range gelegen.",
+                  "category": "landmark",
+                  "coords": [
+                        -9.658149,
+                        54.068236
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Wild Nephin National Park",
+                  "text": "Hatalmas vadon Mayo megyében, kiterjedt tőzeglápokkal, amely nemzetközi csillagoségbolt-parkként is ismert.",
+                  "category": "natural",
+                  "coords": [
+                        -9.627293,
+                        54.059846
+                  ]
+            },
+            {
+                  "name": "Slieve Carr",
+                  "text": "Írország egyik legtávolabbi hegycsúcsa, a Nephin Beg-hegység szívében.",
+                  "category": "landmark",
+                  "coords": [
+                        -9.658149,
+                        54.068236
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Wild Nephin National Park",
+                  "text": "O vastă zonă sălbatică în comitatul Mayo, cu turbării întinse și recunoscută ca parc pentru cerul nocturn.",
+                  "category": "natural",
+                  "coords": [
+                        -9.627293,
+                        54.059846
+                  ]
+            },
+            {
+                  "name": "Slieve Carr",
+                  "text": "Unul dintre cele mai izolate vârfuri montane din Irlanda, situat în inima lanțului Nephin Beg.",
+                  "category": "landmark",
+                  "coords": [
+                        -9.658149,
+                        54.068236
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Wild Nephin National Park",
+                  "text": "A vast wilderness in County Mayo, featuring expansive peat bogs and recognized as a Dark Sky Park.",
+                  "category": "natural",
+                  "coords": [
+                        -9.627293,
+                        54.059846
+                  ]
+            },
+            {
+                  "name": "Slieve Carr",
+                  "text": "One of Ireland's most remote mountain peaks, located in the heart of the Nephin Beg Range.",
+                  "category": "landmark",
+                  "coords": [
+                        -9.658149,
+                        54.068236
+                  ]
+            }
+      ]
+},
     type: "park",
     parent: "IE",
     name: { de: "Ballycroy National Park", hu: "Ballycroy Nemzeti Park", ro: "Parcul Național Ballycroy", en: "Ballycroy National Park" },
@@ -93,7 +174,304 @@ export const irelandLifeV2: POI[] = [
     image: "/poi-images/ireland-killarney-national-park-life-v2.webp",
   },
   {
-    id: "ireland-wicklow-mountains-national-park-life-v2", "sights": {"de": [{"name": "Coon Beach", "text": "Versteckt in den malerischen Landschaften des Wicklow Mountains Nationalparks, bietet Coon Beach einen wunderbaren Rückzugsort in der Natur. Das Süßwasserufer lädt Gäste zu ruhigen Spaziergängen ein, während sie von der dramatischen Bergkulisse umgeben sind. Die herrliche Abgeschiedenheit macht den Ort ideal für eine friedliche Pause während einer Wanderung. Festes Schuhwerk ist von Vorteil, um die rauen Pfade zum Wasser zu meistern.", "category": "recreational", "coords": [-6.294246, 53.078541]}], "hu": [{"name": "Coon Beach", "text": "A Wicklow Mountains Nemzeti Park festői tájainak mélyén megbúvó Coon Beach egy derűs természeti menedéket kínál. Az édesvízi partok csendes sétákra hívják a vendégeket, miközben a drámai hegyvidéki táj öleli körül őket. Gyönyörűen elszigetelt légkört biztosít, amely ideális egy nyugodt pihenőhelyhez egy túra során. Erős lábbeli hasznos a vízhez vezető sziklás ösvények felfedezéséhez.", "category": "recreational", "coords": [-6.294246, 53.078541]}], "ro": [{"name": "Coon Beach", "text": "Ascunsă adânc în peisajele pitorești ale Parcului Național Munții Wicklow, Coon Beach oferă o evadare naturală senină. Țărmurile de apă dulce invită oaspeții la plimbări liniștite, fiind învăluiți de peisajul dramatic de munte. Oferă o atmosferă frumos izolată, ideală pentru un loc de odihnă pașnic în timpul unei drumeții. Încălțămintea robustă este utilă atunci când explorați traseele accidentate care duc la apă.", "category": "recreational", "coords": [-6.294246, 53.078541]}], "en": [{"name": "Coon Beach", "text": "Tucked deep within the scenic landscapes of Wicklow Mountains National Park, Coon Beach offers a serene natural escape. The freshwater shores invite guests for quiet walks while being enveloped by the dramatic highland scenery. It provides a beautifully isolated atmosphere, ideal for a tranquil resting spot during a hike. Sturdy footwear is helpful when exploring the rugged trails leading to the water.", "category": "recreational", "coords": [-6.294246, 53.078541]}]},
+    id: "ireland-wicklow-mountains-national-park-life-v2", "sights": {
+      "de": [
+            {
+                  "name": "Coon Beach",
+                  "text": "Versteckt in den malerischen Landschaften des Wicklow Mountains Nationalparks, bietet Coon Beach einen wunderbaren Rückzugsort in der Natur. Das Süßwasserufer lädt Gäste zu ruhigen Spaziergängen ein, während sie von der dramatischen Bergkulisse umgeben sind. Die herrliche Abgeschiedenheit macht den Ort ideal für eine friedliche Pause während einer Wanderung. Festes Schuhwerk ist von Vorteil, um die rauen Pfade zum Wasser zu meistern.",
+                  "category": "recreational",
+                  "coords": [
+                        -6.294246,
+                        53.078541
+                  ]
+            },
+            {
+                  "name": "Abandoned Miners' Village",
+                  "text": "Die Ruinen einer ehemaligen Bergbausiedlung im Wicklow-Mountains-Nationalpark.",
+                  "category": "historical",
+                  "coords": [
+                        -6.300602,
+                        53.077078
+                  ]
+            },
+            {
+                  "name": "Native Woodland Trust: Paddock Hill Reserve",
+                  "text": "Ein Naturschutzgebiet in den Wicklow Mountains, das dem Schutz heimischer Wälder gewidmet ist.",
+                  "category": "natural",
+                  "coords": [
+                        -6.286035,
+                        53.029411
+                  ]
+            },
+            {
+                  "name": "Tonelagee",
+                  "text": "Einer der höchsten Berge in den Wicklow Mountains, bekannt für den herzförmigen Lough Ouler an seinem Fuß.",
+                  "category": "landmark",
+                  "coords": [
+                        -6.382572,
+                        53.054264
+                  ]
+            },
+            {
+                  "name": "Mall Hill",
+                  "text": "Ein Berggipfel im Wicklow-Mountains-Nationalpark in Irland.",
+                  "category": "landmark",
+                  "coords": [
+                        -6.342564,
+                        53.044828
+                  ]
+            },
+            {
+                  "name": "Glenmacnass Waterfall",
+                  "text": "Ein malerischer Wasserfall in den Wicklow Mountains, der über eine Granitkante in das Tal stürzt.",
+                  "category": "landmark",
+                  "coords": [
+                        -6.337076,
+                        53.06446
+                  ]
+            },
+            {
+                  "name": "Scarr",
+                  "text": "Ein Berggipfel in den Wicklow Mountains, der weite Ausblicke über die umliegende Landschaft bietet.",
+                  "category": "landmark",
+                  "coords": [
+                        -6.311488,
+                        53.055441
+                  ]
+            },
+            {
+                  "name": "Buddies",
+                  "text": "Historische Ruinen im Wicklow-Mountains-Nationalpark in Irland.",
+                  "category": "historical",
+                  "coords": [
+                        -6.363175,
+                        53.023419
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Coon Beach",
+                  "text": "A Wicklow Mountains Nemzeti Park festői tájainak mélyén megbúvó Coon Beach egy derűs természeti menedéket kínál. Az édesvízi partok csendes sétákra hívják a vendégeket, miközben a drámai hegyvidéki táj öleli körül őket. Gyönyörűen elszigetelt légkört biztosít, amely ideális egy nyugodt pihenőhelyhez egy túra során. Erős lábbeli hasznos a vízhez vezető sziklás ösvények felfedezéséhez.",
+                  "category": "recreational",
+                  "coords": [
+                        -6.294246,
+                        53.078541
+                  ]
+            },
+            {
+                  "name": "Abandoned Miners' Village",
+                  "text": "Egy egykori bányásztelepülés romjai a Wicklow-hegység Nemzeti Parkban.",
+                  "category": "historical",
+                  "coords": [
+                        -6.300602,
+                        53.077078
+                  ]
+            },
+            {
+                  "name": "Native Woodland Trust: Paddock Hill Reserve",
+                  "text": "Természetvédelmi terület a Wicklow-hegységben, amely az őshonos erdők megőrzését szolgálja.",
+                  "category": "natural",
+                  "coords": [
+                        -6.286035,
+                        53.029411
+                  ]
+            },
+            {
+                  "name": "Tonelagee",
+                  "text": "A Wicklow-hegység egyik legmagasabb csúcsa, lábánál a szív alakú Lough Ouler tóval.",
+                  "category": "landmark",
+                  "coords": [
+                        -6.382572,
+                        53.054264
+                  ]
+            },
+            {
+                  "name": "Mall Hill",
+                  "text": "Hegycsúcs az írországi Wicklow-hegység Nemzeti Parkban.",
+                  "category": "landmark",
+                  "coords": [
+                        -6.342564,
+                        53.044828
+                  ]
+            },
+            {
+                  "name": "Glenmacnass Waterfall",
+                  "text": "Festői vízesés a Wicklow-hegységben, amely egy gránitszikláról zúdul a völgybe.",
+                  "category": "landmark",
+                  "coords": [
+                        -6.337076,
+                        53.06446
+                  ]
+            },
+            {
+                  "name": "Scarr",
+                  "text": "Hegycsúcs a Wicklow-hegységben, amely széles kilátást nyújt a környező tájra.",
+                  "category": "landmark",
+                  "coords": [
+                        -6.311488,
+                        53.055441
+                  ]
+            },
+            {
+                  "name": "Buddies",
+                  "text": "Történelmi romok az írországi Wicklow-hegység Nemzeti Parkban.",
+                  "category": "historical",
+                  "coords": [
+                        -6.363175,
+                        53.023419
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Coon Beach",
+                  "text": "Ascunsă adânc în peisajele pitorești ale Parcului Național Munții Wicklow, Coon Beach oferă o evadare naturală senină. Țărmurile de apă dulce invită oaspeții la plimbări liniștite, fiind învăluiți de peisajul dramatic de munte. Oferă o atmosferă frumos izolată, ideală pentru un loc de odihnă pașnic în timpul unei drumeții. Încălțămintea robustă este utilă atunci când explorați traseele accidentate care duc la apă.",
+                  "category": "recreational",
+                  "coords": [
+                        -6.294246,
+                        53.078541
+                  ]
+            },
+            {
+                  "name": "Abandoned Miners' Village",
+                  "text": "Ruinele unei foste așezări miniere din Parcul Național Munții Wicklow.",
+                  "category": "historical",
+                  "coords": [
+                        -6.300602,
+                        53.077078
+                  ]
+            },
+            {
+                  "name": "Native Woodland Trust: Paddock Hill Reserve",
+                  "text": "O rezervație naturală din Munții Wicklow, dedicată protejării pădurilor native.",
+                  "category": "natural",
+                  "coords": [
+                        -6.286035,
+                        53.029411
+                  ]
+            },
+            {
+                  "name": "Tonelagee",
+                  "text": "Unul dintre cele mai înalte vârfuri din Munții Wicklow, cunoscut pentru lacul în formă de inimă Lough Ouler de la bază.",
+                  "category": "landmark",
+                  "coords": [
+                        -6.382572,
+                        53.054264
+                  ]
+            },
+            {
+                  "name": "Mall Hill",
+                  "text": "Un vârf montan din Parcul Național Munții Wicklow din Irlanda.",
+                  "category": "landmark",
+                  "coords": [
+                        -6.342564,
+                        53.044828
+                  ]
+            },
+            {
+                  "name": "Glenmacnass Waterfall",
+                  "text": "O cascadă pitorească din Munții Wicklow care cade peste o margine de granit în vale.",
+                  "category": "landmark",
+                  "coords": [
+                        -6.337076,
+                        53.06446
+                  ]
+            },
+            {
+                  "name": "Scarr",
+                  "text": "Un vârf montan din Munții Wicklow, oferind vederi largi asupra peisajului înconjurător.",
+                  "category": "landmark",
+                  "coords": [
+                        -6.311488,
+                        53.055441
+                  ]
+            },
+            {
+                  "name": "Buddies",
+                  "text": "Ruine istorice situate în Parcul Național Munții Wicklow din Irlanda.",
+                  "category": "historical",
+                  "coords": [
+                        -6.363175,
+                        53.023419
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Coon Beach",
+                  "text": "Tucked deep within the scenic landscapes of Wicklow Mountains National Park, Coon Beach offers a serene natural escape. The freshwater shores invite guests for quiet walks while being enveloped by the dramatic highland scenery. It provides a beautifully isolated atmosphere, ideal for a tranquil resting spot during a hike. Sturdy footwear is helpful when exploring the rugged trails leading to the water.",
+                  "category": "recreational",
+                  "coords": [
+                        -6.294246,
+                        53.078541
+                  ]
+            },
+            {
+                  "name": "Abandoned Miners' Village",
+                  "text": "The ruins of a former mining settlement located in Wicklow Mountains National Park.",
+                  "category": "historical",
+                  "coords": [
+                        -6.300602,
+                        53.077078
+                  ]
+            },
+            {
+                  "name": "Native Woodland Trust: Paddock Hill Reserve",
+                  "text": "A nature reserve in the Wicklow Mountains dedicated to the protection of native woodlands.",
+                  "category": "natural",
+                  "coords": [
+                        -6.286035,
+                        53.029411
+                  ]
+            },
+            {
+                  "name": "Tonelagee",
+                  "text": "One of the highest peaks in the Wicklow Mountains, known for the heart-shaped Lough Ouler at its base.",
+                  "category": "landmark",
+                  "coords": [
+                        -6.382572,
+                        53.054264
+                  ]
+            },
+            {
+                  "name": "Mall Hill",
+                  "text": "A mountain peak located within the Wicklow Mountains National Park in Ireland.",
+                  "category": "landmark",
+                  "coords": [
+                        -6.342564,
+                        53.044828
+                  ]
+            },
+            {
+                  "name": "Glenmacnass Waterfall",
+                  "text": "A scenic waterfall in the Wicklow Mountains cascading over a granite cliff into the valley.",
+                  "category": "landmark",
+                  "coords": [
+                        -6.337076,
+                        53.06446
+                  ]
+            },
+            {
+                  "name": "Scarr",
+                  "text": "A mountain peak in the Wicklow Mountains providing expansive views over the surrounding countryside.",
+                  "category": "landmark",
+                  "coords": [
+                        -6.311488,
+                        53.055441
+                  ]
+            },
+            {
+                  "name": "Buddies",
+                  "text": "Historical ruins located within the Wicklow Mountains National Park in Ireland.",
+                  "category": "historical",
+                  "coords": [
+                        -6.363175,
+                        53.023419
+                  ]
+            }
+      ]
+},
     type: "park",
     parent: "IE",
     name: { de: "Wicklow Mountains Nationalpark", hu: "Wicklow-hegység Nemzeti Park", ro: "Parcul Național Munții Wicklow", en: "Wicklow Mountains National Park" },
@@ -138,7 +516,304 @@ export const irelandLifeV2: POI[] = [
     image: "/poi-images/ireland-wicklow-mountains-national-park-life-v2.webp",
   },
   {
-    id: "ireland-burren-national-park-life-v2",
+    id: "ireland-burren-national-park-life-v2", "sights": {
+      "de": [
+            {
+                  "name": "Slievenaglasha Wedge Tomb",
+                  "text": "Ein prähistorisches Keilgrab in der Kalksteinlandschaft des Burren-Nationalparks.",
+                  "category": "historical",
+                  "coords": [
+                        -9.051782,
+                        53.017341
+                  ]
+            },
+            {
+                  "name": "Caherconnell",
+                  "text": "Ein gut erhaltenes Steinfort aus dem Frühmittelalter, das heute als archäologische Stätte dient.",
+                  "category": "historical",
+                  "coords": [
+                        -9.141311,
+                        53.041317
+                  ]
+            },
+            {
+                  "name": "Poulnabrone Dolmen",
+                  "text": "Dieses berühmte neolithische Portalgrab ist eines der bekanntesten Wahrzeichen Irlands.",
+                  "category": "historical",
+                  "coords": [
+                        -9.140043,
+                        53.048695
+                  ]
+            },
+            {
+                  "name": "Cahercommaun Ring Fort",
+                  "text": "Ein beeindruckendes Steinfort mit drei konzentrischen Mauern an einem steilen Kliff im Burren.",
+                  "category": "historical",
+                  "coords": [
+                        -9.070461,
+                        53.014527
+                  ]
+            },
+            {
+                  "name": "Tullycommon Wedge Tomb",
+                  "text": "Eine antike Megalithanlage in Tullycommon, die als Bestattungsplatz diente.",
+                  "category": "historical",
+                  "coords": [
+                        -9.058411,
+                        53.02546
+                  ]
+            },
+            {
+                  "name": "Cashlaungarr",
+                  "text": "Überreste eines alten Steinforts oder Schlosses in der archäologischen Region des Burren.",
+                  "category": "historical",
+                  "coords": [
+                        -9.079621,
+                        53.01322
+                  ]
+            },
+            {
+                  "name": "Creevagh Tomb",
+                  "text": "Ein weiteres Beispiel für die zahlreichen megalithischen Grabanlagen im Burren.",
+                  "category": "historical",
+                  "coords": [
+                        -9.084334,
+                        53.007863
+                  ]
+            },
+            {
+                  "name": "Poulawack Cairn",
+                  "text": "Ein Grabhügel aus der Bronzezeit, der wichtige archäologische Funde lieferte.",
+                  "category": "historical",
+                  "coords": [
+                        -9.144901,
+                        53.032158
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Slievenaglasha Wedge Tomb",
+                  "text": "Prehisztorikus élsír a Burren Nemzeti Park mészköves táján.",
+                  "category": "historical",
+                  "coords": [
+                        -9.051782,
+                        53.017341
+                  ]
+            },
+            {
+                  "name": "Caherconnell",
+                  "text": "Jó állapotban megmaradt kora középkori kőerőd, amely ma régészeti lelőhelyként látogatható.",
+                  "category": "historical",
+                  "coords": [
+                        -9.141311,
+                        53.041317
+                  ]
+            },
+            {
+                  "name": "Poulnabrone Dolmen",
+                  "text": "Ez a híres újkőkori portálsír Írország egyik legismertebb jelképe.",
+                  "category": "historical",
+                  "coords": [
+                        -9.140043,
+                        53.048695
+                  ]
+            },
+            {
+                  "name": "Cahercommaun Ring Fort",
+                  "text": "Lenyűgöző kőerőd három koncentrikus fallal egy meredek szikla peremén a Burrenben.",
+                  "category": "historical",
+                  "coords": [
+                        -9.070461,
+                        53.014527
+                  ]
+            },
+            {
+                  "name": "Tullycommon Wedge Tomb",
+                  "text": "Ősi megalitikus építmény Tullycommonban, amely temetkezési helyként szolgált.",
+                  "category": "historical",
+                  "coords": [
+                        -9.058411,
+                        53.02546
+                  ]
+            },
+            {
+                  "name": "Cashlaungarr",
+                  "text": "Egy ősi kőerőd vagy kastély maradványai a Burren régészeti régiójában.",
+                  "category": "historical",
+                  "coords": [
+                        -9.079621,
+                        53.01322
+                  ]
+            },
+            {
+                  "name": "Creevagh Tomb",
+                  "text": "A Burren területén található számos megalitikus sírhely egy újabb példája.",
+                  "category": "historical",
+                  "coords": [
+                        -9.084334,
+                        53.007863
+                  ]
+            },
+            {
+                  "name": "Poulawack Cairn",
+                  "text": "Bronzkori sírhalom, amely fontos régészeti leletekkel szolgált.",
+                  "category": "historical",
+                  "coords": [
+                        -9.144901,
+                        53.032158
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Slievenaglasha Wedge Tomb",
+                  "text": "Un mormânt preistoric în formă de pană situat în peisajul calcaros din Parcul Național Burren.",
+                  "category": "historical",
+                  "coords": [
+                        -9.051782,
+                        53.017341
+                  ]
+            },
+            {
+                  "name": "Caherconnell",
+                  "text": "Un fort de piatră bine conservat din Evul Mediu timpuriu, care servește astăzi ca sit arheologic.",
+                  "category": "historical",
+                  "coords": [
+                        -9.141311,
+                        53.041317
+                  ]
+            },
+            {
+                  "name": "Poulnabrone Dolmen",
+                  "text": "Acest faimos mormânt portal neolitic este unul dintre cele mai recunoscute repere ale Irlandei.",
+                  "category": "historical",
+                  "coords": [
+                        -9.140043,
+                        53.048695
+                  ]
+            },
+            {
+                  "name": "Cahercommaun Ring Fort",
+                  "text": "Un fort de piatră impresionant cu trei ziduri concentrice, situat pe marginea unei faleză în Burren.",
+                  "category": "historical",
+                  "coords": [
+                        -9.070461,
+                        53.014527
+                  ]
+            },
+            {
+                  "name": "Tullycommon Wedge Tomb",
+                  "text": "O structură megalitică antică în Tullycommon, care a servit ca loc de înmormântare.",
+                  "category": "historical",
+                  "coords": [
+                        -9.058411,
+                        53.02546
+                  ]
+            },
+            {
+                  "name": "Cashlaungarr",
+                  "text": "Rămășițele unui vechi fort de piatră sau castel în regiunea arheologică Burren.",
+                  "category": "historical",
+                  "coords": [
+                        -9.079621,
+                        53.01322
+                  ]
+            },
+            {
+                  "name": "Creevagh Tomb",
+                  "text": "Un alt exemplu al numeroaselor morminte megalitice găsite în zona Burren.",
+                  "category": "historical",
+                  "coords": [
+                        -9.084334,
+                        53.007863
+                  ]
+            },
+            {
+                  "name": "Poulawack Cairn",
+                  "text": "Un tumul funerar din Epoca Bronzului care a oferit descoperiri arheologice importante.",
+                  "category": "historical",
+                  "coords": [
+                        -9.144901,
+                        53.032158
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Slievenaglasha Wedge Tomb",
+                  "text": "A prehistoric wedge tomb located in the limestone landscape of the Burren National Park.",
+                  "category": "historical",
+                  "coords": [
+                        -9.051782,
+                        53.017341
+                  ]
+            },
+            {
+                  "name": "Caherconnell",
+                  "text": "A well-preserved stone ringfort from the early medieval period, now an archaeological site.",
+                  "category": "historical",
+                  "coords": [
+                        -9.141311,
+                        53.041317
+                  ]
+            },
+            {
+                  "name": "Poulnabrone Dolmen",
+                  "text": "This famous Neolithic portal tomb is one of Ireland's most iconic archaeological landmarks.",
+                  "category": "historical",
+                  "coords": [
+                        -9.140043,
+                        53.048695
+                  ]
+            },
+            {
+                  "name": "Cahercommaun Ring Fort",
+                  "text": "An impressive stone fort with three concentric walls situated on a cliff edge in the Burren.",
+                  "category": "historical",
+                  "coords": [
+                        -9.070461,
+                        53.014527
+                  ]
+            },
+            {
+                  "name": "Tullycommon Wedge Tomb",
+                  "text": "An ancient megalithic structure in Tullycommon that served as a burial site.",
+                  "category": "historical",
+                  "coords": [
+                        -9.058411,
+                        53.02546
+                  ]
+            },
+            {
+                  "name": "Cashlaungarr",
+                  "text": "Remains of an ancient stone fort or castle in the archaeological region of the Burren.",
+                  "category": "historical",
+                  "coords": [
+                        -9.079621,
+                        53.01322
+                  ]
+            },
+            {
+                  "name": "Creevagh Tomb",
+                  "text": "Another example of the numerous megalithic tombs found in the Burren area.",
+                  "category": "historical",
+                  "coords": [
+                        -9.084334,
+                        53.007863
+                  ]
+            },
+            {
+                  "name": "Poulawack Cairn",
+                  "text": "A Bronze Age burial mound that has provided significant archaeological findings.",
+                  "category": "historical",
+                  "coords": [
+                        -9.144901,
+                        53.032158
+                  ]
+            }
+      ]
+},
     type: "park",
     parent: "IE",
     name: { de: "Burren Nationalpark", hu: "Burren Nemzeti Park", ro: "Parcul Național Burren", en: "Burren National Park" },
@@ -183,7 +858,304 @@ export const irelandLifeV2: POI[] = [
     image: "/poi-images/ireland-burren-national-park-life-v2.webp",
   },
   {
-    id: "ireland-connemara-national-park-life-v2",
+    id: "ireland-connemara-national-park-life-v2", "sights": {
+      "de": [
+            {
+                  "name": "Kylemore Abbey",
+                  "text": "Ein Benediktinerinnenkloster in Connemara, bekannt für seine neugotische Architektur.",
+                  "category": "religious",
+                  "coords": [
+                        -9.889434,
+                        53.561707
+                  ]
+            },
+            {
+                  "name": "An Chailleach",
+                  "text": "Ein Berggipfel im Connemara-Nationalpark, Teil der Twelve Bens Gebirgskette.",
+                  "category": "landmark",
+                  "coords": [
+                        -9.87661,
+                        53.518951
+                  ]
+            },
+            {
+                  "name": "Benbrack",
+                  "text": "Ein prominenter Gipfel im Connemara-Nationalpark, beliebt bei Wanderern.",
+                  "category": "landmark",
+                  "coords": [
+                        -9.862737,
+                        53.537892
+                  ]
+            },
+            {
+                  "name": "Doughruagh",
+                  "text": "Ein Berg im Connemara-Nationalpark, der über der Kylemore Abbey thront.",
+                  "category": "landmark",
+                  "coords": [
+                        -9.886707,
+                        53.570045
+                  ]
+            },
+            {
+                  "name": "Benbaun",
+                  "text": "Der höchste Gipfel im Connemara-Nationalpark und Teil der Twelve Bens.",
+                  "category": "landmark",
+                  "coords": [
+                        -9.863969,
+                        53.547196
+                  ]
+            },
+            {
+                  "name": "Binn Ghuaire",
+                  "text": "Ein Berg im Connemara-Nationalpark, der für seine Wanderwege und Aussichten bekannt ist.",
+                  "category": "landmark",
+                  "coords": [
+                        -9.914701,
+                        53.548255
+                  ]
+            },
+            {
+                  "name": "Cnoc Breac",
+                  "text": "Ein Gipfel im Connemara-Nationalpark, der zur Berglandschaft der Region beiträgt.",
+                  "category": "landmark",
+                  "coords": [
+                        -9.88792,
+                        53.543698
+                  ]
+            },
+            {
+                  "name": "Crockaunhiggeen",
+                  "text": "Ein Berggipfel im Connemara-Nationalpark im Westen Irlands.",
+                  "category": "landmark",
+                  "coords": [
+                        -9.934472,
+                        53.523341
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Kylemore Abbey",
+                  "text": "Bencés apátság Connemarában, amely neogótikus építészetéről ismert.",
+                  "category": "religious",
+                  "coords": [
+                        -9.889434,
+                        53.561707
+                  ]
+            },
+            {
+                  "name": "An Chailleach",
+                  "text": "Hegyi csúcs a Connemara Nemzeti Parkban, a Twelve Bens hegylánc része.",
+                  "category": "landmark",
+                  "coords": [
+                        -9.87661,
+                        53.518951
+                  ]
+            },
+            {
+                  "name": "Benbrack",
+                  "text": "Kiemelkedő csúcs a Connemara Nemzeti Parkban, a túrázók kedvelt célpontja.",
+                  "category": "landmark",
+                  "coords": [
+                        -9.862737,
+                        53.537892
+                  ]
+            },
+            {
+                  "name": "Doughruagh",
+                  "text": "Hegy a Connemara Nemzeti Parkban, amely a Kylemore-apátság fölé magasodik.",
+                  "category": "landmark",
+                  "coords": [
+                        -9.886707,
+                        53.570045
+                  ]
+            },
+            {
+                  "name": "Benbaun",
+                  "text": "A Connemara Nemzeti Park legmagasabb csúcsa, a Twelve Bens hegylánc része.",
+                  "category": "landmark",
+                  "coords": [
+                        -9.863969,
+                        53.547196
+                  ]
+            },
+            {
+                  "name": "Binn Ghuaire",
+                  "text": "Hegy a Connemara Nemzeti Parkban, amely túraútvonalairól és kilátásáról ismert.",
+                  "category": "landmark",
+                  "coords": [
+                        -9.914701,
+                        53.548255
+                  ]
+            },
+            {
+                  "name": "Cnoc Breac",
+                  "text": "Csúcs a Connemara Nemzeti Parkban, amely a régió hegyi tájképének része.",
+                  "category": "landmark",
+                  "coords": [
+                        -9.88792,
+                        53.543698
+                  ]
+            },
+            {
+                  "name": "Crockaunhiggeen",
+                  "text": "Hegyi csúcs a Connemara Nemzeti Parkban, Írország nyugati részén.",
+                  "category": "landmark",
+                  "coords": [
+                        -9.934472,
+                        53.523341
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Kylemore Abbey",
+                  "text": "O abație benedictină în Connemara, cunoscută pentru arhitectura sa neogotică.",
+                  "category": "religious",
+                  "coords": [
+                        -9.889434,
+                        53.561707
+                  ]
+            },
+            {
+                  "name": "An Chailleach",
+                  "text": "Un vârf muntos în Parcul Național Connemara, parte din lanțul Twelve Bens.",
+                  "category": "landmark",
+                  "coords": [
+                        -9.87661,
+                        53.518951
+                  ]
+            },
+            {
+                  "name": "Benbrack",
+                  "text": "Un vârf proeminent în Parcul Național Connemara, popular printre drumeți.",
+                  "category": "landmark",
+                  "coords": [
+                        -9.862737,
+                        53.537892
+                  ]
+            },
+            {
+                  "name": "Doughruagh",
+                  "text": "Un munte în Parcul Național Connemara, care străjuiește Abația Kylemore.",
+                  "category": "landmark",
+                  "coords": [
+                        -9.886707,
+                        53.570045
+                  ]
+            },
+            {
+                  "name": "Benbaun",
+                  "text": "Cel mai înalt vârf din Parcul Național Connemara, parte din Twelve Bens.",
+                  "category": "landmark",
+                  "coords": [
+                        -9.863969,
+                        53.547196
+                  ]
+            },
+            {
+                  "name": "Binn Ghuaire",
+                  "text": "Un munte în Parcul Național Connemara, cunoscut pentru traseele sale și priveliști.",
+                  "category": "landmark",
+                  "coords": [
+                        -9.914701,
+                        53.548255
+                  ]
+            },
+            {
+                  "name": "Cnoc Breac",
+                  "text": "Un vârf în Parcul Național Connemara, care contribuie la peisajul montan al regiunii.",
+                  "category": "landmark",
+                  "coords": [
+                        -9.88792,
+                        53.543698
+                  ]
+            },
+            {
+                  "name": "Crockaunhiggeen",
+                  "text": "Un vârf muntos în Parcul Național Connemara, în vestul Irlandei.",
+                  "category": "landmark",
+                  "coords": [
+                        -9.934472,
+                        53.523341
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Kylemore Abbey",
+                  "text": "A Benedictine monastery in Connemara, famous for its neo-Gothic architecture.",
+                  "category": "religious",
+                  "coords": [
+                        -9.889434,
+                        53.561707
+                  ]
+            },
+            {
+                  "name": "Bencullagh",
+                  "text": "A mountain peak in Connemara National Park, part of the Twelve Bens range.",
+                  "category": "landmark",
+                  "coords": [
+                        -9.87661,
+                        53.518951
+                  ]
+            },
+            {
+                  "name": "Benbrack",
+                  "text": "A prominent peak in Connemara National Park, popular among hikers.",
+                  "category": "landmark",
+                  "coords": [
+                        -9.862737,
+                        53.537892
+                  ]
+            },
+            {
+                  "name": "Doughruagh",
+                  "text": "A mountain in Connemara National Park overlooking Kylemore Abbey.",
+                  "category": "landmark",
+                  "coords": [
+                        -9.886707,
+                        53.570045
+                  ]
+            },
+            {
+                  "name": "Benbaun",
+                  "text": "The highest peak in Connemara National Park and part of the Twelve Bens.",
+                  "category": "landmark",
+                  "coords": [
+                        -9.863969,
+                        53.547196
+                  ]
+            },
+            {
+                  "name": "Diamond Hill",
+                  "text": "A mountain in Connemara National Park known for its hiking trails and views.",
+                  "category": "landmark",
+                  "coords": [
+                        -9.914701,
+                        53.548255
+                  ]
+            },
+            {
+                  "name": "Knockbrack",
+                  "text": "A peak in Connemara National Park contributing to the region's mountain landscape.",
+                  "category": "landmark",
+                  "coords": [
+                        -9.88792,
+                        53.543698
+                  ]
+            },
+            {
+                  "name": "Crockaunhiggeen",
+                  "text": "A mountain peak located within Connemara National Park in western Ireland.",
+                  "category": "landmark",
+                  "coords": [
+                        -9.934472,
+                        53.523341
+                  ]
+            }
+      ]
+},
     type: "park",
     parent: "IE",
     name: { de: "Connemara Nationalpark", hu: "Connemara Nemzeti Park", ro: "Parcul Național Connemara", en: "Connemara National Park" },
@@ -318,7 +1290,160 @@ export const irelandLifeV2: POI[] = [
     image: "/poi-images/ireland-dublin-botanic-gardens-life-v2.webp",
   },
   {
-    id: "ireland-slieve-bloom-mountains-life-v2",
+    id: "ireland-slieve-bloom-mountains-life-v2", "sights": {
+      "de": [
+            {
+                  "name": "Stillbrook Hill",
+                  "text": "Ein Gipfel in den Slieve Bloom Mountains in Irland.",
+                  "category": "landmark",
+                  "coords": [
+                        -7.638336,
+                        53.074085
+                  ]
+            },
+            {
+                  "name": "Carroll's Hill",
+                  "text": "Ein Hügel in der Slieve Bloom Gebirgskette in den irischen Midlands.",
+                  "category": "landmark",
+                  "coords": [
+                        -7.665187,
+                        53.069083
+                  ]
+            },
+            {
+                  "name": "Barcam",
+                  "text": "Ein Berggipfel in den Slieve Bloom Mountains in der Republik Irland.",
+                  "category": "landmark",
+                  "coords": [
+                        -7.660866,
+                        53.050998
+                  ]
+            },
+            {
+                  "name": "Knocknaman",
+                  "text": "Ein Gipfel in den Slieve Bloom Mountains in Irland.",
+                  "category": "landmark",
+                  "coords": [
+                        -7.698686,
+                        53.082531
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Stillbrook Hill",
+                  "text": "Hegycsúcs az írországi Slieve Bloom-hegységben.",
+                  "category": "landmark",
+                  "coords": [
+                        -7.638336,
+                        53.074085
+                  ]
+            },
+            {
+                  "name": "Carroll's Hill",
+                  "text": "Domb a Slieve Bloom-hegységben, az ír Midlands régióban.",
+                  "category": "landmark",
+                  "coords": [
+                        -7.665187,
+                        53.069083
+                  ]
+            },
+            {
+                  "name": "Barcam",
+                  "text": "Hegycsúcs az Ír Köztársaságban található Slieve Bloom-hegységben.",
+                  "category": "landmark",
+                  "coords": [
+                        -7.660866,
+                        53.050998
+                  ]
+            },
+            {
+                  "name": "Knocknaman",
+                  "text": "Egy hegycsúcs az írországi Slieve Bloom-hegységben.",
+                  "category": "landmark",
+                  "coords": [
+                        -7.698686,
+                        53.082531
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Stillbrook Hill",
+                  "text": "Un vârf în munții Slieve Bloom din Irlanda.",
+                  "category": "landmark",
+                  "coords": [
+                        -7.638336,
+                        53.074085
+                  ]
+            },
+            {
+                  "name": "Carroll's Hill",
+                  "text": "Un deal în lanțul muntos Slieve Bloom din centrul Irlandei.",
+                  "category": "landmark",
+                  "coords": [
+                        -7.665187,
+                        53.069083
+                  ]
+            },
+            {
+                  "name": "Barcam",
+                  "text": "Un vârf muntos în munții Slieve Bloom din Republica Irlanda.",
+                  "category": "landmark",
+                  "coords": [
+                        -7.660866,
+                        53.050998
+                  ]
+            },
+            {
+                  "name": "Knocknaman",
+                  "text": "Un vârf muntos în Munții Slieve Bloom din Irlanda.",
+                  "category": "landmark",
+                  "coords": [
+                        -7.698686,
+                        53.082531
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Stillbrook Hill",
+                  "text": "A peak in the Slieve Bloom Mountains of Ireland.",
+                  "category": "landmark",
+                  "coords": [
+                        -7.638336,
+                        53.074085
+                  ]
+            },
+            {
+                  "name": "Carroll's Hill",
+                  "text": "A hill in the Slieve Bloom mountain range in the Irish Midlands.",
+                  "category": "landmark",
+                  "coords": [
+                        -7.665187,
+                        53.069083
+                  ]
+            },
+            {
+                  "name": "Barcam",
+                  "text": "A mountain peak in the Slieve Bloom Mountains in the Republic of Ireland.",
+                  "category": "landmark",
+                  "coords": [
+                        -7.660866,
+                        53.050998
+                  ]
+            },
+            {
+                  "name": "Knocknaman",
+                  "text": "A mountain peak located in the Slieve Bloom Mountains of Ireland.",
+                  "category": "landmark",
+                  "coords": [
+                        -7.698686,
+                        53.082531
+                  ]
+            }
+      ]
+},
     type: "forest",
     parent: "IE",
     name: { de: "Slieve Bloom Mountains", hu: "Slieve Bloom-hegység", ro: "Munții Slieve Bloom", en: "Slieve Bloom Mountains" },
@@ -363,7 +1488,304 @@ export const irelandLifeV2: POI[] = [
     image: "/poi-images/ireland-slieve-bloom-mountains-life-v2.webp",
   },
   {
-    id: "ireland-glendalough-valley-life-v2",
+    id: "ireland-glendalough-valley-life-v2", "sights": {
+      "de": [
+            {
+                  "name": "Glendalough Cathedral",
+                  "text": "Die Ruinen einer großen mittelalterlichen Kathedrale in der historischen Klostersiedlung Glendalough.",
+                  "category": "religious",
+                  "coords": [
+                        -6.327017,
+                        53.01055
+                  ]
+            },
+            {
+                  "name": "Standing Stone",
+                  "text": "Ein alter stehender Stein, der eine bedeutende archäologische Stätte im Glendalough-Tal markiert.",
+                  "category": "historical",
+                  "coords": [
+                        -6.343522,
+                        52.982016
+                  ]
+            },
+            {
+                  "name": "The Deer Stone",
+                  "text": "Ein prähistorischer Bullaun-Stein in Glendalough, der mit lokalen religiösen Legenden und Ritualen verbunden ist.",
+                  "category": "historical",
+                  "coords": [
+                        -6.327394,
+                        53.009471
+                  ]
+            },
+            {
+                  "name": "Glendalough Visitor Centre",
+                  "text": "Ein informatives Museum mit Exponaten zur Geschichte und Tierwelt der Klostersiedlung Glendalough.",
+                  "category": "museum",
+                  "coords": [
+                        -6.324315,
+                        53.010482
+                  ]
+            },
+            {
+                  "name": "Native Woodland Trust: Paddock Hill Reserve",
+                  "text": "Ein Naturschutzgebiet, das dem Schutz und der Wiederherstellung einheimischer irischer Waldlebensräume gewidmet ist.",
+                  "category": "natural",
+                  "coords": [
+                        -6.286035,
+                        53.029411
+                  ]
+            },
+            {
+                  "name": "Miners' Village",
+                  "text": "Die verlassenen Ruinen eines Bleibergbau-Dorfes aus dem 19. Jahrhundert am Ende des oberen Sees von Glendalough.",
+                  "category": "historical",
+                  "coords": [
+                        -6.379622,
+                        53.006383
+                  ]
+            },
+            {
+                  "name": "Derrybawn Mountain",
+                  "text": "Ein markanter Berggipfel mit malerischen Wanderwegen und Ausblicken über das Glendalough-Tal.",
+                  "category": "landmark",
+                  "coords": [
+                        -6.3341,
+                        52.998278
+                  ]
+            },
+            {
+                  "name": "Saint Saviour's Priory",
+                  "text": "Die Ruinen eines romanischen Priorats aus dem 12. Jahrhundert in einem abgelegenen Teil von Glendalough.",
+                  "category": "historical",
+                  "coords": [
+                        -6.312257,
+                        53.007853
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Glendalough Cathedral",
+                  "text": "Egy nagy középkori székesegyház romjai Glendalough történelmi kolostori településén.",
+                  "category": "religious",
+                  "coords": [
+                        -6.327017,
+                        53.01055
+                  ]
+            },
+            {
+                  "name": "Standing Stone",
+                  "text": "Egy ősi állókő, amely egy jelentős régészeti lelőhelyet jelöl a Glendalough-völgyben.",
+                  "category": "historical",
+                  "coords": [
+                        -6.343522,
+                        52.982016
+                  ]
+            },
+            {
+                  "name": "The Deer Stone",
+                  "text": "Egy prahisztorikus köves mélyedés (bullaun stone) Glendalough-ban, amely helyi vallási legendákhoz és rituálékhoz kapcsolódik.",
+                  "category": "historical",
+                  "coords": [
+                        -6.327394,
+                        53.009471
+                  ]
+            },
+            {
+                  "name": "Glendalough Visitor Centre",
+                  "text": "Tájékoztató múzeum, amely a glendalough-i kolostor történetét és élővilágát bemutató kiállításokat kínál.",
+                  "category": "museum",
+                  "coords": [
+                        -6.324315,
+                        53.010482
+                  ]
+            },
+            {
+                  "name": "Native Woodland Trust: Paddock Hill Reserve",
+                  "text": "Természetvédelmi terület, amely az őshonos ír erdei élőhelyek védelmére és helyreállítására összpontosít.",
+                  "category": "natural",
+                  "coords": [
+                        -6.286035,
+                        53.029411
+                  ]
+            },
+            {
+                  "name": "Miners' Village",
+                  "text": "Egy 19. századi ólombányász falu elhagyatott romjai a Glendalough-i felső tó végénél.",
+                  "category": "historical",
+                  "coords": [
+                        -6.379622,
+                        53.006383
+                  ]
+            },
+            {
+                  "name": "Derrybawn Mountain",
+                  "text": "Kiemelkedő hegycsúcs, amely festői túraútvonalakat és kilátást kínál a Glendalough-völgyre.",
+                  "category": "landmark",
+                  "coords": [
+                        -6.3341,
+                        52.998278
+                  ]
+            },
+            {
+                  "name": "Saint Saviour's Priory",
+                  "text": "Egy 12. századi román stílusú perjetség romjai Glendalough egy félreeső részén.",
+                  "category": "historical",
+                  "coords": [
+                        -6.312257,
+                        53.007853
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Glendalough Cathedral",
+                  "text": "Ruinele unei mari catedrale medievale situate în așezarea monastică istorică Glendalough.",
+                  "category": "religious",
+                  "coords": [
+                        -6.327017,
+                        53.01055
+                  ]
+            },
+            {
+                  "name": "Standing Stone",
+                  "text": "O piatră funerară veche care marchează un sit arheologic semnificativ în Valea Glendalough.",
+                  "category": "historical",
+                  "coords": [
+                        -6.343522,
+                        52.982016
+                  ]
+            },
+            {
+                  "name": "The Deer Stone",
+                  "text": "O piatră bullaun preistorică din Glendalough, asociată cu legende și ritualuri religioase locale.",
+                  "category": "historical",
+                  "coords": [
+                        -6.327394,
+                        53.009471
+                  ]
+            },
+            {
+                  "name": "Glendalough Visitor Centre",
+                  "text": "Un muzeu informativ care oferă exponate despre istoria și fauna sitului monastic Glendalough.",
+                  "category": "museum",
+                  "coords": [
+                        -6.324315,
+                        53.010482
+                  ]
+            },
+            {
+                  "name": "Native Woodland Trust: Paddock Hill Reserve",
+                  "text": "O rezervație naturală dedicată protejării și restaurării habitatelor forestiere native irlandeze.",
+                  "category": "natural",
+                  "coords": [
+                        -6.286035,
+                        53.029411
+                  ]
+            },
+            {
+                  "name": "Miners' Village",
+                  "text": "Ruinele abandonate ale unui sat de mineri de plumb din secolul al XIX-lea, situat la capătul lacului superior din Glendalough.",
+                  "category": "historical",
+                  "coords": [
+                        -6.379622,
+                        53.006383
+                  ]
+            },
+            {
+                  "name": "Derrybawn Mountain",
+                  "text": "Un vârf montan proeminent care oferă trasee de drumeție pitorești și priveliști asupra Văii Glendalough.",
+                  "category": "landmark",
+                  "coords": [
+                        -6.3341,
+                        52.998278
+                  ]
+            },
+            {
+                  "name": "Saint Saviour's Priory",
+                  "text": "Ruinele unui priorat romanic din secolul al XII-lea situat într-o zonă retrasă din Glendalough.",
+                  "category": "historical",
+                  "coords": [
+                        -6.312257,
+                        53.007853
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Glendalough Cathedral",
+                  "text": "The ruins of a large medieval cathedral located in the historic monastic settlement of Glendalough.",
+                  "category": "religious",
+                  "coords": [
+                        -6.327017,
+                        53.01055
+                  ]
+            },
+            {
+                  "name": "Standing Stone",
+                  "text": "An ancient standing stone marking a significant archaeological site in the Glendalough Valley.",
+                  "category": "historical",
+                  "coords": [
+                        -6.343522,
+                        52.982016
+                  ]
+            },
+            {
+                  "name": "The Deer Stone",
+                  "text": "A prehistoric bullaun stone in Glendalough associated with local religious legends and rituals.",
+                  "category": "historical",
+                  "coords": [
+                        -6.327394,
+                        53.009471
+                  ]
+            },
+            {
+                  "name": "Glendalough Visitor Centre",
+                  "text": "An informative museum providing exhibits on the history and wildlife of the Glendalough monastic site.",
+                  "category": "museum",
+                  "coords": [
+                        -6.324315,
+                        53.010482
+                  ]
+            },
+            {
+                  "name": "Native Woodland Trust: Paddock Hill Reserve",
+                  "text": "A nature reserve dedicated to protecting and restoring native Irish woodland habitats.",
+                  "category": "natural",
+                  "coords": [
+                        -6.286035,
+                        53.029411
+                  ]
+            },
+            {
+                  "name": "Miners' Village",
+                  "text": "The abandoned ruins of a 19th-century lead mining village located at the end of Glendalough's upper lake.",
+                  "category": "historical",
+                  "coords": [
+                        -6.379622,
+                        53.006383
+                  ]
+            },
+            {
+                  "name": "Derrybawn Mountain",
+                  "text": "A prominent mountain peak offering scenic hiking trails and views over the Glendalough Valley.",
+                  "category": "landmark",
+                  "coords": [
+                        -6.3341,
+                        52.998278
+                  ]
+            },
+            {
+                  "name": "Saint Saviour's Priory",
+                  "text": "The ruins of a 12th-century Romanesque priory located in a secluded part of Glendalough.",
+                  "category": "historical",
+                  "coords": [
+                        -6.312257,
+                        53.007853
+                  ]
+            }
+      ]
+},
     type: "valley",
     parent: "IE",
     name: { de: "Glendalough-Tal", hu: "Glendalough-völgy", ro: "Valea Glendalough", en: "Glendalough Valley" },
@@ -408,7 +1830,196 @@ export const irelandLifeV2: POI[] = [
     image: "/poi-images/ireland-glendalough-valley-life-v2.webp",
   },
   {
-    id: "ireland-derryclare-wood-life-v2",
+    id: "ireland-derryclare-wood-life-v2", "sights": {
+      "de": [
+            {
+                  "name": "Derryclare Nature Reserve",
+                  "text": "Ein Naturschutzgebiet in Connemara, das für seine alten Eichenwälder bekannt ist.",
+                  "category": "natural",
+                  "coords": [
+                        -9.757185,
+                        53.485832
+                  ]
+            },
+            {
+                  "name": "Cnoc Lios Uachtair",
+                  "text": "Ein Berggipfel in Connemara, der einen weiten Blick über die umliegenden Seen bietet.",
+                  "category": "landmark",
+                  "coords": [
+                        -9.71848,
+                        53.483593
+                  ]
+            },
+            {
+                  "name": "Binn idir an dá Log",
+                  "text": "Der höchste Gipfel der Maumturk Mountains in Irland.",
+                  "category": "landmark",
+                  "coords": [
+                        -9.676782,
+                        53.513814
+                  ]
+            },
+            {
+                  "name": "Binn Mhairg",
+                  "text": "Ein Gipfel in der Gebirgskette der Maumturks im Westen Irlands.",
+                  "category": "landmark",
+                  "coords": [
+                        -9.654969,
+                        53.506864
+                  ]
+            },
+            {
+                  "name": "Binn Chaonaigh",
+                  "text": "Ein markanter Berg in der irischen Grafschaft Galway.",
+                  "category": "landmark",
+                  "coords": [
+                        -9.658197,
+                        53.502553
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Derryclare Nature Reserve",
+                  "text": "Connemara-i természetvédelmi terület, amely ősi tölgyerdőiről ismert.",
+                  "category": "natural",
+                  "coords": [
+                        -9.757185,
+                        53.485832
+                  ]
+            },
+            {
+                  "name": "Cnoc Lios Uachtair",
+                  "text": "Hegycsúcs Connemarában, amely széles kilátást nyújt a környező tavakra.",
+                  "category": "landmark",
+                  "coords": [
+                        -9.71848,
+                        53.483593
+                  ]
+            },
+            {
+                  "name": "Binn idir an dá Log",
+                  "text": "Az írországi Maumturk-hegység legmagasabb csúcsa.",
+                  "category": "landmark",
+                  "coords": [
+                        -9.676782,
+                        53.513814
+                  ]
+            },
+            {
+                  "name": "Binn Mhairg",
+                  "text": "Csúcs a Maumturks-hegységben, Írország nyugati részén.",
+                  "category": "landmark",
+                  "coords": [
+                        -9.654969,
+                        53.506864
+                  ]
+            },
+            {
+                  "name": "Binn Chaonaigh",
+                  "text": "Jellegzetes hegy az írországi Galway megyében.",
+                  "category": "landmark",
+                  "coords": [
+                        -9.658197,
+                        53.502553
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Derryclare Nature Reserve",
+                  "text": "O rezervație naturală în Connemara, cunoscută pentru pădurile sale antice de stejar.",
+                  "category": "natural",
+                  "coords": [
+                        -9.757185,
+                        53.485832
+                  ]
+            },
+            {
+                  "name": "Cnoc Lios Uachtair",
+                  "text": "Un vârf muntos în Connemara, oferind o vedere panoramică asupra lacurilor din jur.",
+                  "category": "landmark",
+                  "coords": [
+                        -9.71848,
+                        53.483593
+                  ]
+            },
+            {
+                  "name": "Binn idir an dá Log",
+                  "text": "Cel mai înalt vârf din munții Maumturk din Irlanda.",
+                  "category": "landmark",
+                  "coords": [
+                        -9.676782,
+                        53.513814
+                  ]
+            },
+            {
+                  "name": "Binn Mhairg",
+                  "text": "Un vârf în lanțul muntos Maumturks din vestul Irlandei.",
+                  "category": "landmark",
+                  "coords": [
+                        -9.654969,
+                        53.506864
+                  ]
+            },
+            {
+                  "name": "Binn Chaonaigh",
+                  "text": "Un munte proeminent în comitatul Galway din Irlanda.",
+                  "category": "landmark",
+                  "coords": [
+                        -9.658197,
+                        53.502553
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Derryclare Nature Reserve",
+                  "text": "A nature reserve in Connemara, known for its ancient oak woodlands.",
+                  "category": "natural",
+                  "coords": [
+                        -9.757185,
+                        53.485832
+                  ]
+            },
+            {
+                  "name": "Lissaughter",
+                  "text": "A mountain peak in Connemara, offering a wide view over the surrounding lakes.",
+                  "category": "landmark",
+                  "coords": [
+                        -9.71848,
+                        53.483593
+                  ]
+            },
+            {
+                  "name": "Binn idir an dá Log",
+                  "text": "The highest peak of the Maumturk Mountains in Ireland.",
+                  "category": "landmark",
+                  "coords": [
+                        -9.676782,
+                        53.513814
+                  ]
+            },
+            {
+                  "name": "Binn Mhairg",
+                  "text": "A peak in the Maumturks mountain range in the west of Ireland.",
+                  "category": "landmark",
+                  "coords": [
+                        -9.654969,
+                        53.506864
+                  ]
+            },
+            {
+                  "name": "Binn Chaonaigh",
+                  "text": "A prominent mountain in County Galway, Ireland.",
+                  "category": "landmark",
+                  "coords": [
+                        -9.658197,
+                        53.502553
+                  ]
+            }
+      ]
+},
     type: "forest",
     parent: "IE",
     name: { de: "Derryclare Wald", hu: "Derryclare erdő", ro: "Pădurea Derryclare", en: "Derryclare Wood" },
@@ -633,7 +2244,88 @@ export const irelandLifeV2: POI[] = [
     image: "/poi-images/ireland-coole-park-life-v2.webp",
   },
   {
-    id: "ireland-ballycroy-mountains-life-v2",
+    id: "ireland-ballycroy-mountains-life-v2", "sights": {
+      "de": [
+            {
+                  "name": "Wild Nephin National Park",
+                  "text": "Einer der größten Nationalparks Irlands, bekannt für seine unberührte Moorlandschaft und dunklen Nachthimmel.",
+                  "category": "natural",
+                  "coords": [
+                        -9.627293,
+                        54.059846
+                  ]
+            },
+            {
+                  "name": "Nephin Beg",
+                  "text": "Ein prominenter Berggipfel im Nephin Beg Range in der Grafschaft Mayo.",
+                  "category": "landmark",
+                  "coords": [
+                        -9.629189,
+                        54.031153
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Wild Nephin National Park",
+                  "text": "Írország egyik legnagyobb nemzeti parkja, amely érintetlen lápos vidékeiről és csillagos egéről ismert.",
+                  "category": "natural",
+                  "coords": [
+                        -9.627293,
+                        54.059846
+                  ]
+            },
+            {
+                  "name": "Nephin Beg",
+                  "text": "A Nephin Beg-hegység egyik meghatározó csúcsa Mayo megyében.",
+                  "category": "landmark",
+                  "coords": [
+                        -9.629189,
+                        54.031153
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Wild Nephin National Park",
+                  "text": "Unul dintre cele mai mari parcuri naționale din Irlanda, renumit pentru peisajele de mlaștină și cerul nocturn senin.",
+                  "category": "natural",
+                  "coords": [
+                        -9.627293,
+                        54.059846
+                  ]
+            },
+            {
+                  "name": "Nephin Beg",
+                  "text": "Un vârf montan proeminent din masivul Nephin Beg, situat în comitatul Mayo.",
+                  "category": "landmark",
+                  "coords": [
+                        -9.629189,
+                        54.031153
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Wild Nephin National Park",
+                  "text": "One of Ireland's largest national parks, known for its pristine boglands and dark sky park status.",
+                  "category": "natural",
+                  "coords": [
+                        -9.627293,
+                        54.059846
+                  ]
+            },
+            {
+                  "name": "Nephin Beg",
+                  "text": "A prominent mountain peak within the Nephin Beg Range in County Mayo.",
+                  "category": "landmark",
+                  "coords": [
+                        -9.629189,
+                        54.031153
+                  ]
+            }
+      ]
+},
     type: "mountain",
     parent: "IE",
     name: { de: "Nephin Beg Range", hu: "Nephin Beg hegylánc", ro: "Munții Nephin Beg", en: "Nephin Beg Range" },
@@ -723,7 +2415,160 @@ export const irelandLifeV2: POI[] = [
     image: "/poi-images/ireland-glengarriff-woods-life-v2.webp",
   },
   {
-    id: "ireland-slieve-league-cliffs-life-v2",
+    id: "ireland-slieve-league-cliffs-life-v2", "sights": {
+      "de": [
+            {
+                  "name": "Slieve League",
+                  "text": "Einer der höchsten Seeklippen Europas in Irland, die spektakulär in den Atlantik abfallen.",
+                  "category": "landmark",
+                  "coords": [
+                        -8.707213,
+                        54.651661
+                  ]
+            },
+            {
+                  "name": "Cnoc Ramhar",
+                  "text": "Ein Berggipfel bei den Slieve League Cliffs, der einen weiten Blick über die wilde Küste Donegals bietet.",
+                  "category": "landmark",
+                  "coords": [
+                        -8.683346,
+                        54.640389
+                  ]
+            },
+            {
+                  "name": "Carrigan Head Signal Tower",
+                  "text": "Die Ruinen eines historischen Signalturms am Carrigan Head, der zur Verteidigung der Küste errichtet wurde.",
+                  "category": "historical",
+                  "coords": [
+                        -8.679566,
+                        54.619994
+                  ]
+            },
+            {
+                  "name": "Tobernamanna",
+                  "text": "Eine natürliche Quelle bei den Slieve League Cliffs, die als traditioneller Rastplatz in der Natur bekannt ist.",
+                  "category": "landmark",
+                  "coords": [
+                        -8.635921,
+                        54.624513
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Slieve League",
+                  "text": "Európa egyik legmagasabb tengeri sziklafala Írországban, amely látványosan szakad az Atlanti-óceánba.",
+                  "category": "landmark",
+                  "coords": [
+                        -8.707213,
+                        54.651661
+                  ]
+            },
+            {
+                  "name": "Cnoc Ramhar",
+                  "text": "Hegycsúcs a Slieve League-sziklák közelében, ahonnan tágas kilátás nyílik Donegal vadregényes partjaira.",
+                  "category": "landmark",
+                  "coords": [
+                        -8.683346,
+                        54.640389
+                  ]
+            },
+            {
+                  "name": "Carrigan Head Signal Tower",
+                  "text": "Egy történelmi jelzőtorony romjai a Carrigan Headnél, amelyet a partvonal védelmére építettek.",
+                  "category": "historical",
+                  "coords": [
+                        -8.679566,
+                        54.619994
+                  ]
+            },
+            {
+                  "name": "Tobernamanna",
+                  "text": "Természetes forrás a Slieve League-sziklák közelében, amely hagyományos pihenőhelyként ismert a természetben.",
+                  "category": "landmark",
+                  "coords": [
+                        -8.635921,
+                        54.624513
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Slieve League",
+                  "text": "Una dintre cele mai înalte faleză marine din Europa, în Irlanda, care coboară spectaculos în Atlantic.",
+                  "category": "landmark",
+                  "coords": [
+                        -8.707213,
+                        54.651661
+                  ]
+            },
+            {
+                  "name": "Cnoc Ramhar",
+                  "text": "Un vârf montan lângă stâncile Slieve League, oferind o vedere largă asupra coastei sălbatice din Donegal.",
+                  "category": "landmark",
+                  "coords": [
+                        -8.683346,
+                        54.640389
+                  ]
+            },
+            {
+                  "name": "Carrigan Head Signal Tower",
+                  "text": "Ruinele unui turn de semnalizare istoric la Carrigan Head, construit pentru apărarea coastei.",
+                  "category": "historical",
+                  "coords": [
+                        -8.679566,
+                        54.619994
+                  ]
+            },
+            {
+                  "name": "Tobernamanna",
+                  "text": "Un izvor natural lângă stâncile Slieve League, cunoscut ca un loc tradițional de popas în natură.",
+                  "category": "landmark",
+                  "coords": [
+                        -8.635921,
+                        54.624513
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Slieve League",
+                  "text": "One of the highest sea cliffs in Europe, located in Ireland, dropping spectacularly into the Atlantic.",
+                  "category": "landmark",
+                  "coords": [
+                        -8.707213,
+                        54.651661
+                  ]
+            },
+            {
+                  "name": "Crockrawer",
+                  "text": "A mountain peak near the Slieve League cliffs, offering a wide view over Donegal's wild coast.",
+                  "category": "landmark",
+                  "coords": [
+                        -8.683346,
+                        54.640389
+                  ]
+            },
+            {
+                  "name": "Carrigan Head Signal Tower",
+                  "text": "The ruins of a historical signal tower at Carrigan Head, built for coastal defense.",
+                  "category": "historical",
+                  "coords": [
+                        -8.679566,
+                        54.619994
+                  ]
+            },
+            {
+                  "name": "Tobernamanna",
+                  "text": "A natural spring near the Slieve League cliffs, known as a traditional resting spot in nature.",
+                  "category": "landmark",
+                  "coords": [
+                        -8.635921,
+                        54.624513
+                  ]
+            }
+      ]
+},
     type: "landmark",
     parent: "IE",
     name: { de: "Slieve League Klippen", hu: "Slieve League sziklák", ro: "Stâncile Slieve League", en: "Slieve League Cliffs" },
@@ -768,7 +2613,304 @@ export const irelandLifeV2: POI[] = [
     image: "/poi-images/ireland-slieve-league-cliffs-life-v2.webp",
   },
   {
-    id: "ireland-great-blasket-island-life-v2",
+    id: "ireland-great-blasket-island-life-v2", "sights": {
+      "de": [
+            {
+                  "name": "Rinn an Chaisleáin",
+                  "text": "Ein malerischer Küstenabschnitt auf Great Blasket Island mit archäologischen Überresten.",
+                  "category": "historical",
+                  "coords": [
+                        -10.511232,
+                        52.105232
+                  ]
+            },
+            {
+                  "name": "Dunmore Head Promontory Fort",
+                  "text": "Ein antikes Promontory Fort, das von der Dingle-Halbinsel aus den Atlantik überblickt.",
+                  "category": "historical",
+                  "coords": [
+                        -10.472065,
+                        52.110551
+                  ]
+            },
+            {
+                  "name": "Clochán na mBardán",
+                  "text": "Antike Trockenmauer-Bienenkorbhütten, die charakteristisch für frühchristliche Siedlungen sind.",
+                  "category": "historical",
+                  "coords": [
+                        -10.450254,
+                        52.102203
+                  ]
+            },
+            {
+                  "name": "Clochán Scológ",
+                  "text": "Historische Steinstrukturen auf Great Blasket Island, die als Wohnstätten oder Unterstände dienten.",
+                  "category": "historical",
+                  "coords": [
+                        -10.443325,
+                        52.101004
+                  ]
+            },
+            {
+                  "name": "Traigh an Choma",
+                  "text": "Ein atemberaubender Sandstrand, bekannt für seine schroffen Klippen und den Blick auf den Atlantik.",
+                  "category": "recreational",
+                  "coords": [
+                        -10.463963,
+                        52.109491
+                  ]
+            },
+            {
+                  "name": "Ceann Sléibhe",
+                  "text": "Ein berühmter Aussichtspunkt mit dramatischen Panoramen der Blasket-Inseln.",
+                  "category": "natural",
+                  "coords": [
+                        -10.455304,
+                        52.09809
+                  ]
+            },
+            {
+                  "name": "Trá an Choma",
+                  "text": "Eine malerische Bucht am westlichen Rand Europas mit türkisfarbenem Wasser.",
+                  "category": "landmark",
+                  "coords": [
+                        -10.468589,
+                        52.103969
+                  ]
+            },
+            {
+                  "name": "An Mullach Ramhar",
+                  "text": "Ein malerischer Berggipfel auf der Insel Great Blasket.",
+                  "category": "landmark",
+                  "coords": [
+                        -10.544916,
+                        52.092384
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Rinn an Chaisleáin",
+                  "text": "Festői tengerparti pont a Nagy-Blasket-szigeten, régészeti maradványokkal.",
+                  "category": "historical",
+                  "coords": [
+                        -10.511232,
+                        52.105232
+                  ]
+            },
+            {
+                  "name": "Dunmore Head Promontory Fort",
+                  "text": "Ókori erődítmény, amely a Dingle-félszigetről néz az Atlanti-óceánra.",
+                  "category": "historical",
+                  "coords": [
+                        -10.472065,
+                        52.110551
+                  ]
+            },
+            {
+                  "name": "Clochán na mBardán",
+                  "text": "Ókori, szárazon rakott kőből készült méhkas-kunyhók, amelyek a korai keresztény településekre jellemzőek.",
+                  "category": "historical",
+                  "coords": [
+                        -10.450254,
+                        52.102203
+                  ]
+            },
+            {
+                  "name": "Clochán Scológ",
+                  "text": "Történelmi kőszerkezetek a Nagy-Blasket-szigeten, amelyeket lakóhelyként vagy menedékként használtak.",
+                  "category": "historical",
+                  "coords": [
+                        -10.443325,
+                        52.101004
+                  ]
+            },
+            {
+                  "name": "Traigh an Choma",
+                  "text": "Lenyűgöző homokos strand, amely vad szikláiról és atlanti-óceáni kilátásáról ismert.",
+                  "category": "recreational",
+                  "coords": [
+                        -10.463963,
+                        52.109491
+                  ]
+            },
+            {
+                  "name": "Ceann Sléibhe",
+                  "text": "Híres kilátóhely, ahonnan drámai panoráma nyílik a Blasket-szigetekre.",
+                  "category": "natural",
+                  "coords": [
+                        -10.455304,
+                        52.09809
+                  ]
+            },
+            {
+                  "name": "Trá an Choma",
+                  "text": "Festői öböl Európa nyugati szélén, türkizkék vízzel.",
+                  "category": "landmark",
+                  "coords": [
+                        -10.468589,
+                        52.103969
+                  ]
+            },
+            {
+                  "name": "An Mullach Ramhar",
+                  "text": "Egy látványos hegycsúcs a Great Blasket-szigeten.",
+                  "category": "landmark",
+                  "coords": [
+                        -10.544916,
+                        52.092384
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Rinn an Chaisleáin",
+                  "text": "Un punct de coastă pitoresc de pe insula Great Blasket, cu vestigii arheologice.",
+                  "category": "historical",
+                  "coords": [
+                        -10.511232,
+                        52.105232
+                  ]
+            },
+            {
+                  "name": "Dunmore Head Promontory Fort",
+                  "text": "Un fort antic situat pe un promontoriu, care domină Atlanticul de pe peninsula Dingle.",
+                  "category": "historical",
+                  "coords": [
+                        -10.472065,
+                        52.110551
+                  ]
+            },
+            {
+                  "name": "Clochán na mBardán",
+                  "text": "Colibe antice din piatră uscată, în formă de stup, caracteristice așezărilor creștine timpurii.",
+                  "category": "historical",
+                  "coords": [
+                        -10.450254,
+                        52.102203
+                  ]
+            },
+            {
+                  "name": "Clochán Scológ",
+                  "text": "Structuri istorice din piatră de pe insula Great Blasket, folosite ca locuințe sau adăposturi.",
+                  "category": "historical",
+                  "coords": [
+                        -10.443325,
+                        52.101004
+                  ]
+            },
+            {
+                  "name": "Traigh an Choma",
+                  "text": "O plajă de nisip uimitoare, cunoscută pentru stâncile sale abrupte și vederea spre Atlantic.",
+                  "category": "recreational",
+                  "coords": [
+                        -10.463963,
+                        52.109491
+                  ]
+            },
+            {
+                  "name": "Ceann Sléibhe",
+                  "text": "Un punct de observare faimos care oferă panorame spectaculoase asupra insulelor Blasket.",
+                  "category": "natural",
+                  "coords": [
+                        -10.455304,
+                        52.09809
+                  ]
+            },
+            {
+                  "name": "Trá an Choma",
+                  "text": "Un golf pitoresc la marginea de vest a Europei, cu ape turcoaz.",
+                  "category": "landmark",
+                  "coords": [
+                        -10.468589,
+                        52.103969
+                  ]
+            },
+            {
+                  "name": "An Mullach Ramhar",
+                  "text": "Un vârf montan pitoresc situat pe insula Great Blasket.",
+                  "category": "landmark",
+                  "coords": [
+                        -10.544916,
+                        52.092384
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Castle Point",
+                  "text": "A scenic coastal point on Great Blasket Island with archaeological remains.",
+                  "category": "historical",
+                  "coords": [
+                        -10.511232,
+                        52.105232
+                  ]
+            },
+            {
+                  "name": "Dunmore Head Promontory Fort",
+                  "text": "An ancient promontory fort overlooking the Atlantic from the Dingle Peninsula.",
+                  "category": "historical",
+                  "coords": [
+                        -10.472065,
+                        52.110551
+                  ]
+            },
+            {
+                  "name": "Clochán na mBardán",
+                  "text": "Ancient dry-stone beehive huts characteristic of early Christian settlements.",
+                  "category": "historical",
+                  "coords": [
+                        -10.450254,
+                        52.102203
+                  ]
+            },
+            {
+                  "name": "Clochán Scológ",
+                  "text": "Historic stone structures on Great Blasket Island used as dwellings or shelters.",
+                  "category": "historical",
+                  "coords": [
+                        -10.443325,
+                        52.101004
+                  ]
+            },
+            {
+                  "name": "Coumeenoole Beach",
+                  "text": "A stunning sandy beach known for its rugged cliffs and Atlantic views.",
+                  "category": "recreational",
+                  "coords": [
+                        -10.463963,
+                        52.109491
+                  ]
+            },
+            {
+                  "name": "Slea Head",
+                  "text": "A famous viewpoint offering dramatic panoramas of the Blasket Islands.",
+                  "category": "natural",
+                  "coords": [
+                        -10.455304,
+                        52.09809
+                  ]
+            },
+            {
+                  "name": "Coumeenoole Bay",
+                  "text": "A picturesque bay on the western edge of Europe with turquoise waters.",
+                  "category": "landmark",
+                  "coords": [
+                        -10.468589,
+                        52.103969
+                  ]
+            },
+            {
+                  "name": "Slievedonagh",
+                  "text": "A scenic mountain peak located on Great Blasket Island.",
+                  "category": "landmark",
+                  "coords": [
+                        -10.544916,
+                        52.092384
+                  ]
+            }
+      ]
+},
     type: "island",
     parent: "IE",
     name: { de: "Great Blasket Island", hu: "Great Blasket-sziget", ro: "Insula Great Blasket", en: "Great Blasket Island" },

@@ -93,7 +93,268 @@ export const franceNatureV2: POI[] = [
     image: "/poi-images/france-cirque-de-gavarnie-nature-v2.webp",
   },
   {
-    id: "france-foret-de-broceliande-nature-v2",
+    id: "france-foret-de-broceliande-nature-v2", "sights": {
+      "de": [
+            {
+                  "name": "La Porte des Secrets",
+                  "text": "La Porte des Secrets ist ein interaktives Museum im Wald von Paimpont, das Legenden der Region präsentiert.",
+                  "category": "museum",
+                  "coords": [
+                        -2.17396,
+                        48.018838
+                  ]
+            },
+            {
+                  "name": "La tourbière du Pâtis Vert",
+                  "text": "Das Pâtis Vert ist ein geschütztes Hochmoor-Naturschutzgebiet im Wald von Paimpont.",
+                  "category": "natural",
+                  "coords": [
+                        -2.183782,
+                        48.022527
+                  ]
+            },
+            {
+                  "name": "La tourbière de l'Abbaye",
+                  "text": "Das Torfmoor der Abtei ist ein wertvolles Naturreservat im Herzen der Bretagne.",
+                  "category": "natural",
+                  "coords": [
+                        -2.184506,
+                        48.019276
+                  ]
+            },
+            {
+                  "name": "L'étang de l'Abbaye",
+                  "text": "Ein ruhiges Naturschutzgebiet rund um einen Teich im Wald von Paimpont.",
+                  "category": "natural",
+                  "coords": [
+                        -2.177421,
+                        48.018772
+                  ]
+            },
+            {
+                  "name": "Hêtre des Voyageurs",
+                  "text": "Eine markante alte Buche im Wald von Paimpont, die als Naturattraktion gilt.",
+                  "category": "landmark",
+                  "coords": [
+                        -2.20083,
+                        48.009358
+                  ]
+            },
+            {
+                  "name": "Anciennes forges",
+                  "text": "Überreste historischer Eisenhütten, die von der Industriegeschichte des Paimpont-Waldes zeugen.",
+                  "category": "landmark",
+                  "coords": [
+                        -2.139571,
+                        47.994007
+                  ]
+            },
+            {
+                  "name": "Rocher glissant",
+                  "text": "Eine charakteristische Felsformation im Wald von Paimpont.",
+                  "category": "landmark",
+                  "coords": [
+                        -2.17645,
+                        47.979629
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "La Porte des Secrets",
+                  "text": "A La Porte des Secrets egy interaktív múzeum a paimponti erdőben, amely a régió legendáit mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        -2.17396,
+                        48.018838
+                  ]
+            },
+            {
+                  "name": "La tourbière du Pâtis Vert",
+                  "text": "A Pâtis Vert egy védett lápos természetvédelmi terület a paimponti erdőben.",
+                  "category": "natural",
+                  "coords": [
+                        -2.183782,
+                        48.022527
+                  ]
+            },
+            {
+                  "name": "La tourbière de l'Abbaye",
+                  "text": "Az Apátság tőzeglápja egy értékes természetvédelmi terület Bretagne szívében.",
+                  "category": "natural",
+                  "coords": [
+                        -2.184506,
+                        48.019276
+                  ]
+            },
+            {
+                  "name": "L'étang de l'Abbaye",
+                  "text": "Nyugodt természetvédelmi terület egy tó körül a Paimpont-erdőben.",
+                  "category": "natural",
+                  "coords": [
+                        -2.177421,
+                        48.018772
+                  ]
+            },
+            {
+                  "name": "Hêtre des Voyageurs",
+                  "text": "Egy nevezetes öreg bükkfa a Paimpont-erdőben, amely természeti látnivaló.",
+                  "category": "landmark",
+                  "coords": [
+                        -2.20083,
+                        48.009358
+                  ]
+            },
+            {
+                  "name": "Anciennes forges",
+                  "text": "Történelmi vashámorok maradványai, amelyek a Paimpont-erdő ipari múltjáról tanúskodnak.",
+                  "category": "landmark",
+                  "coords": [
+                        -2.139571,
+                        47.994007
+                  ]
+            },
+            {
+                  "name": "Rocher glissant",
+                  "text": "Egy jellegzetes sziklaalakzat a Paimpont-erdőben.",
+                  "category": "landmark",
+                  "coords": [
+                        -2.17645,
+                        47.979629
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "La Porte des Secrets",
+                  "text": "La Porte des Secrets este un muzeu interactiv din pădurea Paimpont ce prezintă legendele regiunii.",
+                  "category": "museum",
+                  "coords": [
+                        -2.17396,
+                        48.018838
+                  ]
+            },
+            {
+                  "name": "La tourbière du Pâtis Vert",
+                  "text": "Pâtis Vert este o rezervație naturală de turbărie protejată din pădurea Paimpont.",
+                  "category": "natural",
+                  "coords": [
+                        -2.183782,
+                        48.022527
+                  ]
+            },
+            {
+                  "name": "La tourbière de l'Abbaye",
+                  "text": "Turbăria Abației este o rezervație naturală valoroasă situată în inima Bretaniei.",
+                  "category": "natural",
+                  "coords": [
+                        -2.184506,
+                        48.019276
+                  ]
+            },
+            {
+                  "name": "L'étang de l'Abbaye",
+                  "text": "O rezervație naturală liniștită în jurul unui iaz din pădurea Paimpont.",
+                  "category": "natural",
+                  "coords": [
+                        -2.177421,
+                        48.018772
+                  ]
+            },
+            {
+                  "name": "Hêtre des Voyageurs",
+                  "text": "Un fag vechi remarcabil din pădurea Paimpont, considerat o atracție naturală.",
+                  "category": "landmark",
+                  "coords": [
+                        -2.20083,
+                        48.009358
+                  ]
+            },
+            {
+                  "name": "Anciennes forges",
+                  "text": "Rămășițele unor forje istorice care atestă trecutul industrial al pădurii Paimpont.",
+                  "category": "landmark",
+                  "coords": [
+                        -2.139571,
+                        47.994007
+                  ]
+            },
+            {
+                  "name": "Rocher glissant",
+                  "text": "O formațiune stâncoasă caracteristică în pădurea Paimpont.",
+                  "category": "landmark",
+                  "coords": [
+                        -2.17645,
+                        47.979629
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "La Porte des Secrets",
+                  "text": "La Porte des Secrets is an interactive museum in Paimpont Forest presenting local legends.",
+                  "category": "museum",
+                  "coords": [
+                        -2.17396,
+                        48.018838
+                  ]
+            },
+            {
+                  "name": "La tourbière du Pâtis Vert",
+                  "text": "The Pâtis Vert is a protected peat bog nature reserve in the Paimpont Forest.",
+                  "category": "natural",
+                  "coords": [
+                        -2.183782,
+                        48.022527
+                  ]
+            },
+            {
+                  "name": "La tourbière de l'Abbaye",
+                  "text": "The Abbey peat bog is a valuable nature reserve located in the heart of Brittany.",
+                  "category": "natural",
+                  "coords": [
+                        -2.184506,
+                        48.019276
+                  ]
+            },
+            {
+                  "name": "L'étang de l'Abbaye",
+                  "text": "A tranquil nature reserve centered around a pond in the Paimpont Forest.",
+                  "category": "natural",
+                  "coords": [
+                        -2.177421,
+                        48.018772
+                  ]
+            },
+            {
+                  "name": "Hêtre des Voyageurs",
+                  "text": "A notable old beech tree in the Paimpont Forest that serves as a natural attraction.",
+                  "category": "landmark",
+                  "coords": [
+                        -2.20083,
+                        48.009358
+                  ]
+            },
+            {
+                  "name": "Anciennes forges",
+                  "text": "Remains of historical ironworks that testify to the industrial past of the Paimpont Forest.",
+                  "category": "landmark",
+                  "coords": [
+                        -2.139571,
+                        47.994007
+                  ]
+            },
+            {
+                  "name": "Rocher glissant",
+                  "text": "A characteristic rock formation in the Paimpont Forest.",
+                  "category": "landmark",
+                  "coords": [
+                        -2.17645,
+                        47.979629
+                  ]
+            }
+      ]
+},
     type: "forest",
     parent: "FR",
     name: { de: "Wald von Paimpont", hu: "Paimpont-erdő", ro: "Pădurea Paimpont", en: "Paimpont Forest" , fr: "Forêt de Brocéliande"},
@@ -138,7 +399,268 @@ export const franceNatureV2: POI[] = [
     image: "/poi-images/france-foret-de-broceliande-nature-v2.webp",
   },
   {
-    id: "france-col-du-tourmalet-nature-v2",
+    id: "france-col-du-tourmalet-nature-v2", "sights": {
+      "de": [
+            {
+                  "name": "Observatoire du Pic du Midi de Bigorre",
+                  "text": "Ein hochgelegenes wissenschaftliches Observatorium und Museum in den Pyrenäen.",
+                  "category": "museum",
+                  "coords": [
+                        0.141827,
+                        42.936543
+                  ]
+            },
+            {
+                  "name": "Col du Tourmalet",
+                  "text": "Ein berühmter Hochgebirgspass, bekannt durch seine häufige Einbindung in die Tour de France.",
+                  "category": "landmark",
+                  "coords": [
+                        0.145268,
+                        42.908375
+                  ]
+            },
+            {
+                  "name": "Pic de Pène Blanque",
+                  "text": "Ein markanter Berggipfel in den französischen Pyrenäen.",
+                  "category": "landmark",
+                  "coords": [
+                        0.193217,
+                        42.901868
+                  ]
+            },
+            {
+                  "name": "Pène Nègre",
+                  "text": "Ein Gipfel in den Pyrenäen mit zerklüfteter alpiner Landschaft.",
+                  "category": "landmark",
+                  "coords": [
+                        0.186373,
+                        42.891294
+                  ]
+            },
+            {
+                  "name": "Jardin Botanique du Tourmalet",
+                  "text": "Ein hochgelegener botanischer Garten, der die einzigartige Flora der Pyrenäen zeigt.",
+                  "category": "park",
+                  "coords": [
+                        0.10542,
+                        42.895884
+                  ]
+            },
+            {
+                  "name": "Cabanes de La Gaubie",
+                  "text": "Ruinen traditioneller steinerner Hirtenhütten in der Nähe des Tourmalet-Passes.",
+                  "category": "historical",
+                  "coords": [
+                        0.106128,
+                        42.892547
+                  ]
+            },
+            {
+                  "name": "Chapelle Notre-Dame des Neiges",
+                  "text": "Eine kleine Kapelle in der malerischen Bergwelt von Tourmalet.",
+                  "category": "religious",
+                  "coords": [
+                        0.177133,
+                        42.910277
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Observatoire du Pic du Midi de Bigorre",
+                  "text": "Magaslati tudományos obszervatórium és múzeum a Pireneusokban.",
+                  "category": "museum",
+                  "coords": [
+                        0.141827,
+                        42.936543
+                  ]
+            },
+            {
+                  "name": "Col du Tourmalet",
+                  "text": "Híres magashegyi hágó, amely a Tour de France kerékpárverseny ikonikus helyszíne.",
+                  "category": "landmark",
+                  "coords": [
+                        0.145268,
+                        42.908375
+                  ]
+            },
+            {
+                  "name": "Pic de Pène Blanque",
+                  "text": "Jellegzetes hegycsúcs a francia Pireneusokban.",
+                  "category": "landmark",
+                  "coords": [
+                        0.193217,
+                        42.901868
+                  ]
+            },
+            {
+                  "name": "Pène Nègre",
+                  "text": "Hegycsúcs a Pireneusokban, zord alpesi tájjal.",
+                  "category": "landmark",
+                  "coords": [
+                        0.186373,
+                        42.891294
+                  ]
+            },
+            {
+                  "name": "Jardin Botanique du Tourmalet",
+                  "text": "Magaslati botanikus kert, amely a Pireneusok egyedülálló flóráját mutatja be.",
+                  "category": "park",
+                  "coords": [
+                        0.10542,
+                        42.895884
+                  ]
+            },
+            {
+                  "name": "Cabanes de La Gaubie",
+                  "text": "Hagyományos kőből épült pásztorkunyhók romjai a Tourmalet-hágó közelében.",
+                  "category": "historical",
+                  "coords": [
+                        0.106128,
+                        42.892547
+                  ]
+            },
+            {
+                  "name": "Chapelle Notre-Dame des Neiges",
+                  "text": "Kis kápolna Tourmalet festői hegyi környezetében.",
+                  "category": "religious",
+                  "coords": [
+                        0.177133,
+                        42.910277
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Observatoire du Pic du Midi de Bigorre",
+                  "text": "Un observator științific situat la mare altitudine și muzeu în Pirinei.",
+                  "category": "museum",
+                  "coords": [
+                        0.141827,
+                        42.936543
+                  ]
+            },
+            {
+                  "name": "Col du Tourmalet",
+                  "text": "O celebră trecătoare montană, emblematică pentru includerea sa frecventă în Turul Franței.",
+                  "category": "landmark",
+                  "coords": [
+                        0.145268,
+                        42.908375
+                  ]
+            },
+            {
+                  "name": "Pic de Pène Blanque",
+                  "text": "Un vârf montan proeminent situat în Pirineii francezi.",
+                  "category": "landmark",
+                  "coords": [
+                        0.193217,
+                        42.901868
+                  ]
+            },
+            {
+                  "name": "Pène Nègre",
+                  "text": "Un vârf din Pirinei care oferă un peisaj alpin accidentat.",
+                  "category": "landmark",
+                  "coords": [
+                        0.186373,
+                        42.891294
+                  ]
+            },
+            {
+                  "name": "Jardin Botanique du Tourmalet",
+                  "text": "O grădină botanică de mare altitudine care prezintă flora unică a Pirineilor.",
+                  "category": "park",
+                  "coords": [
+                        0.10542,
+                        42.895884
+                  ]
+            },
+            {
+                  "name": "Cabanes de La Gaubie",
+                  "text": "Ruinele unor colibe tradiționale de păstori din piatră, situate lângă trecătoarea Tourmalet.",
+                  "category": "historical",
+                  "coords": [
+                        0.106128,
+                        42.892547
+                  ]
+            },
+            {
+                  "name": "Chapelle Notre-Dame des Neiges",
+                  "text": "O mică capelă situată în peisajul montan pitoresc din Tourmalet.",
+                  "category": "religious",
+                  "coords": [
+                        0.177133,
+                        42.910277
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Observatoire du Pic du Midi de Bigorre",
+                  "text": "A high-altitude scientific observatory and museum in the Pyrenees.",
+                  "category": "museum",
+                  "coords": [
+                        0.141827,
+                        42.936543
+                  ]
+            },
+            {
+                  "name": "Col du Tourmalet",
+                  "text": "A famous high mountain pass, iconic for its frequent inclusion in the Tour de France.",
+                  "category": "landmark",
+                  "coords": [
+                        0.145268,
+                        42.908375
+                  ]
+            },
+            {
+                  "name": "Pic de Pène Blanque",
+                  "text": "A prominent mountain peak located in the French Pyrenees.",
+                  "category": "landmark",
+                  "coords": [
+                        0.193217,
+                        42.901868
+                  ]
+            },
+            {
+                  "name": "Pène Nègre",
+                  "text": "A peak in the Pyrenees offering rugged alpine scenery.",
+                  "category": "landmark",
+                  "coords": [
+                        0.186373,
+                        42.891294
+                  ]
+            },
+            {
+                  "name": "Jardin Botanique du Tourmalet",
+                  "text": "A high-altitude botanical garden showcasing unique Pyrenean flora.",
+                  "category": "park",
+                  "coords": [
+                        0.10542,
+                        42.895884
+                  ]
+            },
+            {
+                  "name": "Cabanes de La Gaubie",
+                  "text": "Traditional stone shepherd huts ruins located near the Tourmalet pass.",
+                  "category": "historical",
+                  "coords": [
+                        0.106128,
+                        42.892547
+                  ]
+            },
+            {
+                  "name": "Chapelle Notre-Dame des Neiges",
+                  "text": "A small chapel located in the scenic mountain environment of Tourmalet.",
+                  "category": "religious",
+                  "coords": [
+                        0.177133,
+                        42.910277
+                  ]
+            }
+      ]
+},
     type: "mountain",
     parent: "FR",
     name: { de: "Col du Tourmalet", hu: "Col du Tourmalet", ro: "Col du Tourmalet", en: "Col du Tourmalet" , fr: "Col du Tourmalet"},
@@ -183,7 +705,304 @@ export const franceNatureV2: POI[] = [
     image: "/poi-images/france-col-du-tourmalet-nature-v2.webp",
   },
   {
-    id: "france-les-aiguilles-d-arves-nature-v2",
+    id: "france-les-aiguilles-d-arves-nature-v2", "sights": {
+      "de": [
+            {
+                  "name": "AIguille Occidentale de la Saussaz",
+                  "text": "Ein Berggipfel im Massiv der Aiguilles d'Arves.",
+                  "category": "landmark",
+                  "coords": [
+                        6.313834,
+                        45.111823
+                  ]
+            },
+            {
+                  "name": "Aiguille Méridionale d'Arves",
+                  "text": "Ein markanter Berggipfel in den französischen Alpen.",
+                  "category": "landmark",
+                  "coords": [
+                        6.335283,
+                        45.122458
+                  ]
+            },
+            {
+                  "name": "Pointe Salvador",
+                  "text": "Ein Berggipfel in der Nähe der Aiguilles d'Arves.",
+                  "category": "landmark",
+                  "coords": [
+                        6.339928,
+                        45.116119
+                  ]
+            },
+            {
+                  "name": "Bec de Grenier",
+                  "text": "Ein Berggipfel in der Region Aiguilles d'Arves.",
+                  "category": "landmark",
+                  "coords": [
+                        6.314971,
+                        45.107531
+                  ]
+            },
+            {
+                  "name": "Mont Falcon",
+                  "text": "Ein Berggipfel in den Savoyer Alpen.",
+                  "category": "landmark",
+                  "coords": [
+                        6.307714,
+                        45.16174
+                  ]
+            },
+            {
+                  "name": "Aiguille Centrale de la Saussaz",
+                  "text": "Ein Berggipfel im Bereich der Aiguilles d'Arves.",
+                  "category": "landmark",
+                  "coords": [
+                        6.319396,
+                        45.113662
+                  ]
+            },
+            {
+                  "name": "Aiguille Orientale de la Saussaz",
+                  "text": "Ein Berggipfel im Gebirgsmassiv der Aiguilles d'Arves.",
+                  "category": "landmark",
+                  "coords": [
+                        6.326886,
+                        45.115689
+                  ]
+            },
+            {
+                  "name": "Aiguille Septentrionale d'Arves",
+                  "text": "Ein Berggipfel, der auch als Tête de Chat bekannt ist.",
+                  "category": "landmark",
+                  "coords": [
+                        6.340996,
+                        45.132408
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "AIguille Occidentale de la Saussaz",
+                  "text": "Hegycsúcs az Aiguilles d'Arves hegységben.",
+                  "category": "landmark",
+                  "coords": [
+                        6.313834,
+                        45.111823
+                  ]
+            },
+            {
+                  "name": "Aiguille Méridionale d'Arves",
+                  "text": "Jellegzetes hegycsúcs a francia Alpokban.",
+                  "category": "landmark",
+                  "coords": [
+                        6.335283,
+                        45.122458
+                  ]
+            },
+            {
+                  "name": "Pointe Salvador",
+                  "text": "Hegycsúcs az Aiguilles d'Arves közelében.",
+                  "category": "landmark",
+                  "coords": [
+                        6.339928,
+                        45.116119
+                  ]
+            },
+            {
+                  "name": "Bec de Grenier",
+                  "text": "Hegycsúcs az Aiguilles d'Arves régióban.",
+                  "category": "landmark",
+                  "coords": [
+                        6.314971,
+                        45.107531
+                  ]
+            },
+            {
+                  "name": "Mont Falcon",
+                  "text": "Hegycsúcs a Savoyai-Alpokban.",
+                  "category": "landmark",
+                  "coords": [
+                        6.307714,
+                        45.16174
+                  ]
+            },
+            {
+                  "name": "Aiguille Centrale de la Saussaz",
+                  "text": "Hegycsúcs az Aiguilles d'Arves területén.",
+                  "category": "landmark",
+                  "coords": [
+                        6.319396,
+                        45.113662
+                  ]
+            },
+            {
+                  "name": "Aiguille Orientale de la Saussaz",
+                  "text": "Hegycsúcs az Aiguilles d'Arves hegytömbben.",
+                  "category": "landmark",
+                  "coords": [
+                        6.326886,
+                        45.115689
+                  ]
+            },
+            {
+                  "name": "Aiguille Septentrionale d'Arves",
+                  "text": "Hegycsúcs, amely Tête de Chat néven is ismert.",
+                  "category": "landmark",
+                  "coords": [
+                        6.340996,
+                        45.132408
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "AIguille Occidentale de la Saussaz",
+                  "text": "Un vârf montan în masivul Aiguilles d'Arves.",
+                  "category": "landmark",
+                  "coords": [
+                        6.313834,
+                        45.111823
+                  ]
+            },
+            {
+                  "name": "Aiguille Méridionale d'Arves",
+                  "text": "Un vârf montan proeminent în Alpii francezi.",
+                  "category": "landmark",
+                  "coords": [
+                        6.335283,
+                        45.122458
+                  ]
+            },
+            {
+                  "name": "Pointe Salvador",
+                  "text": "Un vârf montan în apropiere de Aiguilles d'Arves.",
+                  "category": "landmark",
+                  "coords": [
+                        6.339928,
+                        45.116119
+                  ]
+            },
+            {
+                  "name": "Bec de Grenier",
+                  "text": "Un vârf montan în regiunea Aiguilles d'Arves.",
+                  "category": "landmark",
+                  "coords": [
+                        6.314971,
+                        45.107531
+                  ]
+            },
+            {
+                  "name": "Mont Falcon",
+                  "text": "Un vârf montan în Alpii Savoiei.",
+                  "category": "landmark",
+                  "coords": [
+                        6.307714,
+                        45.16174
+                  ]
+            },
+            {
+                  "name": "Aiguille Centrale de la Saussaz",
+                  "text": "Un vârf montan în zona Aiguilles d'Arves.",
+                  "category": "landmark",
+                  "coords": [
+                        6.319396,
+                        45.113662
+                  ]
+            },
+            {
+                  "name": "Aiguille Orientale de la Saussaz",
+                  "text": "Un vârf montan în masivul Aiguilles d'Arves.",
+                  "category": "landmark",
+                  "coords": [
+                        6.326886,
+                        45.115689
+                  ]
+            },
+            {
+                  "name": "Aiguille Septentrionale d'Arves",
+                  "text": "Un vârf montan cunoscut și sub numele de Tête de Chat.",
+                  "category": "landmark",
+                  "coords": [
+                        6.340996,
+                        45.132408
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "AIguille Occidentale de la Saussaz",
+                  "text": "A mountain peak in the Aiguilles d'Arves massif.",
+                  "category": "landmark",
+                  "coords": [
+                        6.313834,
+                        45.111823
+                  ]
+            },
+            {
+                  "name": "Aiguille Méridionale d'Arves",
+                  "text": "A prominent mountain peak in the French Alps.",
+                  "category": "landmark",
+                  "coords": [
+                        6.335283,
+                        45.122458
+                  ]
+            },
+            {
+                  "name": "Pointe Salvador",
+                  "text": "A mountain peak located near the Aiguilles d'Arves.",
+                  "category": "landmark",
+                  "coords": [
+                        6.339928,
+                        45.116119
+                  ]
+            },
+            {
+                  "name": "Bec de Grenier",
+                  "text": "A mountain peak in the Aiguilles d'Arves region.",
+                  "category": "landmark",
+                  "coords": [
+                        6.314971,
+                        45.107531
+                  ]
+            },
+            {
+                  "name": "Mont Falcon",
+                  "text": "A mountain peak in the Savoy Alps.",
+                  "category": "landmark",
+                  "coords": [
+                        6.307714,
+                        45.16174
+                  ]
+            },
+            {
+                  "name": "Aiguille Centrale de la Saussaz",
+                  "text": "A mountain peak in the Aiguilles d'Arves area.",
+                  "category": "landmark",
+                  "coords": [
+                        6.319396,
+                        45.113662
+                  ]
+            },
+            {
+                  "name": "Aiguille Orientale de la Saussaz",
+                  "text": "A mountain peak in the Aiguilles d'Arves mountain range.",
+                  "category": "landmark",
+                  "coords": [
+                        6.326886,
+                        45.115689
+                  ]
+            },
+            {
+                  "name": "Aiguille Septentrionale d'Arves",
+                  "text": "A mountain peak also known as Tête de Chat.",
+                  "category": "landmark",
+                  "coords": [
+                        6.340996,
+                        45.132408
+                  ]
+            }
+      ]
+},
     type: "peak",
     parent: "FR",
     name: { de: "Aiguilles d'Arves", hu: "Aiguilles d'Arves", ro: "Aiguilles d'Arves", en: "Aiguilles d'Arves" , fr: "Aiguilles d'Arves"},
@@ -273,7 +1092,232 @@ export const franceNatureV2: POI[] = [
     image: "/poi-images/france-lac-de-sainte-croix-nature-v2.webp",
   },
   {
-    id: "france-pic-du-midi-d-ossau-nature-v2",
+    id: "france-pic-du-midi-d-ossau-nature-v2", "sights": {
+      "de": [
+            {
+                  "name": "Cromlechs du Col Long de Magnabaigt",
+                  "text": "Prähistorische Steinkreise (Cromlechs) in der Nähe des Pic du Midi d'Ossau in den Pyrenäen.",
+                  "category": "historical",
+                  "coords": [
+                        -0.438283,
+                        42.870498
+                  ]
+            },
+            {
+                  "name": "Cromlechs de la Cabane de Chérue",
+                  "text": "Eine Ansammlung alter Steinkreise in der Hochgebirgslandschaft der Ossau-Region.",
+                  "category": "historical",
+                  "coords": [
+                        -0.414008,
+                        42.870157
+                  ]
+            },
+            {
+                  "name": "Dolmen de la Pombie",
+                  "text": "Ein antikes Megalithgrab am Fuße des Pic du Midi d'Ossau.",
+                  "category": "historical",
+                  "coords": [
+                        -0.422064,
+                        42.835112
+                  ]
+            },
+            {
+                  "name": "Chromlech",
+                  "text": "Eine prähistorische Megalithanlage in der Nähe des Pic du Midi d'Ossau.",
+                  "category": "historical",
+                  "coords": [
+                        -0.390091,
+                        42.851843
+                  ]
+            },
+            {
+                  "name": "Pic Peyreget",
+                  "text": "Ein Berggipfel in den Pyrenäen, der für seine Aussicht auf den Pic du Midi d'Ossau bekannt ist.",
+                  "category": "landmark",
+                  "coords": [
+                        -0.441325,
+                        42.8309
+                  ]
+            },
+            {
+                  "name": "Pic du Midi d'Ossau",
+                  "text": "Ein markanter Berggipfel in den französischen Pyrenäen, bekannt für seine charakteristische Doppelspitze.",
+                  "category": "landmark",
+                  "coords": [
+                        -0.438059,
+                        42.843001
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Cromlechs du Col Long de Magnabaigt",
+                  "text": "Prahistorikus kőkörök (cromlechek) a Pireneusokban, a Pic du Midi d'Ossau közelében.",
+                  "category": "historical",
+                  "coords": [
+                        -0.438283,
+                        42.870498
+                  ]
+            },
+            {
+                  "name": "Cromlechs de la Cabane de Chérue",
+                  "text": "Régi kőkörök együttese az Ossau-régió magashegyi táján.",
+                  "category": "historical",
+                  "coords": [
+                        -0.414008,
+                        42.870157
+                  ]
+            },
+            {
+                  "name": "Dolmen de la Pombie",
+                  "text": "Antik megalitikus sír a Pic du Midi d'Ossau lábánál.",
+                  "category": "historical",
+                  "coords": [
+                        -0.422064,
+                        42.835112
+                  ]
+            },
+            {
+                  "name": "Chromlech",
+                  "text": "Prahistorikus megalitikus építmény a Pic du Midi d'Ossau közelében.",
+                  "category": "historical",
+                  "coords": [
+                        -0.390091,
+                        42.851843
+                  ]
+            },
+            {
+                  "name": "Pic Peyreget",
+                  "text": "Hegycsúcs a Pireneusokban, amely a Pic du Midi d'Ossau-ra nyíló kilátásáról ismert.",
+                  "category": "landmark",
+                  "coords": [
+                        -0.441325,
+                        42.8309
+                  ]
+            },
+            {
+                  "name": "Pic du Midi d'Ossau",
+                  "text": "Jellegzetes hegycsúcs a francia Pireneusokban, amely kettős csúcsáról ismert.",
+                  "category": "landmark",
+                  "coords": [
+                        -0.438059,
+                        42.843001
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Cromlechs du Col Long de Magnabaigt",
+                  "text": "Cercuri de piatră preistorice (cromleh-uri) situate în Pirinei, lângă Pic du Midi d'Ossau.",
+                  "category": "historical",
+                  "coords": [
+                        -0.438283,
+                        42.870498
+                  ]
+            },
+            {
+                  "name": "Cromlechs de la Cabane de Chérue",
+                  "text": "Un grup de cercuri de piatră vechi în peisajul montan din regiunea Ossau.",
+                  "category": "historical",
+                  "coords": [
+                        -0.414008,
+                        42.870157
+                  ]
+            },
+            {
+                  "name": "Dolmen de la Pombie",
+                  "text": "Un mormânt megalitic antic situat la poalele vârfului Pic du Midi d'Ossau.",
+                  "category": "historical",
+                  "coords": [
+                        -0.422064,
+                        42.835112
+                  ]
+            },
+            {
+                  "name": "Chromlech",
+                  "text": "O structură megalitică preistorică situată în apropiere de Pic du Midi d'Ossau.",
+                  "category": "historical",
+                  "coords": [
+                        -0.390091,
+                        42.851843
+                  ]
+            },
+            {
+                  "name": "Pic Peyreget",
+                  "text": "Un vârf muntos din Pirinei, cunoscut pentru vederea spre Pic du Midi d'Ossau.",
+                  "category": "landmark",
+                  "coords": [
+                        -0.441325,
+                        42.8309
+                  ]
+            },
+            {
+                  "name": "Pic du Midi d'Ossau",
+                  "text": "Un vârf muntos emblematic din Pirineii francezi, cunoscut pentru forma sa caracteristică cu două vârfuri.",
+                  "category": "landmark",
+                  "coords": [
+                        -0.438059,
+                        42.843001
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Cromlechs du Col Long de Magnabaigt",
+                  "text": "Prehistoric stone circles (cromlechs) located in the Pyrenees near Pic du Midi d'Ossau.",
+                  "category": "historical",
+                  "coords": [
+                        -0.438283,
+                        42.870498
+                  ]
+            },
+            {
+                  "name": "Cromlechs de la Cabane de Chérue",
+                  "text": "A cluster of ancient stone circles in the high mountain landscape of the Ossau region.",
+                  "category": "historical",
+                  "coords": [
+                        -0.414008,
+                        42.870157
+                  ]
+            },
+            {
+                  "name": "Dolmen de la Pombie",
+                  "text": "An ancient megalithic tomb located at the foot of Pic du Midi d'Ossau.",
+                  "category": "historical",
+                  "coords": [
+                        -0.422064,
+                        42.835112
+                  ]
+            },
+            {
+                  "name": "Chromlech",
+                  "text": "A prehistoric megalithic structure located near Pic du Midi d'Ossau.",
+                  "category": "historical",
+                  "coords": [
+                        -0.390091,
+                        42.851843
+                  ]
+            },
+            {
+                  "name": "Pic Peyreget",
+                  "text": "A mountain peak in the Pyrenees known for its view of the Pic du Midi d'Ossau.",
+                  "category": "landmark",
+                  "coords": [
+                        -0.441325,
+                        42.8309
+                  ]
+            },
+            {
+                  "name": "Pic du Midi d'Ossau",
+                  "text": "An iconic mountain peak in the French Pyrenees, known for its characteristic double summit.",
+                  "category": "landmark",
+                  "coords": [
+                        -0.438059,
+                        42.843001
+                  ]
+            }
+      ]
+},
     type: "peak",
     parent: "FR",
     name: { de: "Pic du Midi d'Ossau", hu: "Pic du Midi d'Ossau", ro: "Pic du Midi d'Ossau", en: "Pic du Midi d'Ossau" , fr: "Pic du Midi d'Ossau"},
@@ -408,7 +1452,196 @@ export const franceNatureV2: POI[] = [
     image: "/poi-images/france-ile-de-brehat-nature-v2.webp",
   },
     {
-    id: "france-plateau-de-valensole-nature-v2",
+    id: "france-plateau-de-valensole-nature-v2", "sights": {
+      "de": [
+            {
+                  "name": "Château du Grand Jardin",
+                  "text": "Ein historisches Schloss auf dem Plateau von Valensole mit einer gepflegten Gartenanlage.",
+                  "category": "castle",
+                  "coords": [
+                        5.982848,
+                        43.834289
+                  ]
+            },
+            {
+                  "name": "Lavandes Angelvin",
+                  "text": "Ein bekannter Ort auf dem Plateau von Valensole, um die berühmten Lavendelfelder zu besichtigen.",
+                  "category": "landmark",
+                  "coords": [
+                        5.938668,
+                        43.823944
+                  ]
+            },
+            {
+                  "name": "Photo de lumière de Lavande",
+                  "text": "Ein beliebter Ort für Fotografen, um die lila Pracht der Lavendelblüte festzuhalten.",
+                  "category": "landmark",
+                  "coords": [
+                        6.003087,
+                        43.859981
+                  ]
+            },
+            {
+                  "name": "Cipressi",
+                  "text": "Eine Ansammlung markanter Zypressen, die ein beliebtes Fotomotiv auf dem Plateau von Valensole sind.",
+                  "category": "landmark",
+                  "coords": [
+                        5.996161,
+                        43.859867
+                  ]
+            },
+            {
+                  "name": "Chapelle Saint-Mayeul",
+                  "text": "Eine kleine historische Kapelle, die einsam auf dem Plateau von Valensole liegt.",
+                  "category": "religious",
+                  "coords": [
+                        5.984431,
+                        43.837045
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Château du Grand Jardin",
+                  "text": "Történelmi kastély a Valensole-fennsíkon, gondozott kerttel.",
+                  "category": "castle",
+                  "coords": [
+                        5.982848,
+                        43.834289
+                  ]
+            },
+            {
+                  "name": "Lavandes Angelvin",
+                  "text": "Jól ismert hely a Valensole-fennsíkon a híres levendulamezők megtekintésére.",
+                  "category": "landmark",
+                  "coords": [
+                        5.938668,
+                        43.823944
+                  ]
+            },
+            {
+                  "name": "Photo de lumière de Lavande",
+                  "text": "Népszerű hely a fotósok számára a levendulavirágzás lila pompájának megörökítésére.",
+                  "category": "landmark",
+                  "coords": [
+                        6.003087,
+                        43.859981
+                  ]
+            },
+            {
+                  "name": "Cipressi",
+                  "text": "Jellegzetes ciprusfák csoportja, amely népszerű fotótéma a Valensole-fennsíkon.",
+                  "category": "landmark",
+                  "coords": [
+                        5.996161,
+                        43.859867
+                  ]
+            },
+            {
+                  "name": "Chapelle Saint-Mayeul",
+                  "text": "Kicsi történelmi kápolna, amely magányosan áll a Valensole-fennsíkon.",
+                  "category": "religious",
+                  "coords": [
+                        5.984431,
+                        43.837045
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Château du Grand Jardin",
+                  "text": "Un castel istoric pe platoul Valensole, cu o grădină bine întreținută.",
+                  "category": "castle",
+                  "coords": [
+                        5.982848,
+                        43.834289
+                  ]
+            },
+            {
+                  "name": "Lavandes Angelvin",
+                  "text": "Un loc bine cunoscut pe platoul Valensole pentru vizitarea celebrelor câmpuri de lavandă.",
+                  "category": "landmark",
+                  "coords": [
+                        5.938668,
+                        43.823944
+                  ]
+            },
+            {
+                  "name": "Photo de lumière de Lavande",
+                  "text": "Un loc popular pentru fotografi pentru a surprinde splendoarea mov a înfloririi lavandei.",
+                  "category": "landmark",
+                  "coords": [
+                        6.003087,
+                        43.859981
+                  ]
+            },
+            {
+                  "name": "Cipressi",
+                  "text": "Un grup de chiparoși proeminenți, care sunt un subiect fotografic popular pe platoul Valensole.",
+                  "category": "landmark",
+                  "coords": [
+                        5.996161,
+                        43.859867
+                  ]
+            },
+            {
+                  "name": "Chapelle Saint-Mayeul",
+                  "text": "O mică capelă istorică situată singură pe platoul Valensole.",
+                  "category": "religious",
+                  "coords": [
+                        5.984431,
+                        43.837045
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Château du Grand Jardin",
+                  "text": "A historic castle on the Valensole Plateau with a well-kept garden.",
+                  "category": "castle",
+                  "coords": [
+                        5.982848,
+                        43.834289
+                  ]
+            },
+            {
+                  "name": "Lavandes Angelvin",
+                  "text": "A well-known spot on the Valensole Plateau for visiting the famous lavender fields.",
+                  "category": "landmark",
+                  "coords": [
+                        5.938668,
+                        43.823944
+                  ]
+            },
+            {
+                  "name": "Photo de lumière de Lavande",
+                  "text": "A popular spot for photographers to capture the purple splendor of the lavender bloom.",
+                  "category": "landmark",
+                  "coords": [
+                        6.003087,
+                        43.859981
+                  ]
+            },
+            {
+                  "name": "Cipressi",
+                  "text": "A group of prominent cypress trees, which are a popular photo subject on the Valensole Plateau.",
+                  "category": "landmark",
+                  "coords": [
+                        5.996161,
+                        43.859867
+                  ]
+            },
+            {
+                  "name": "Chapelle Saint-Mayeul",
+                  "text": "A small historic chapel situated alone on the Valensole Plateau.",
+                  "category": "religious",
+                  "coords": [
+                        5.984431,
+                        43.837045
+                  ]
+            }
+      ]
+},
     type: "park",
     parent: "FR",
     name: { de: "Plateau de Valensole", hu: "Valensole-fennsík", ro: "Podișul Valensole", en: "Valensole Plateau" , fr: "Plateau de Valensole"},
@@ -453,7 +1686,304 @@ export const franceNatureV2: POI[] = [
     image: "/poi-images/france-plateau-de-valensole-nature-v2.webp",
   },
   {
-    id: "france-massif-du-vignemale-nature-v2",
+    id: "france-massif-du-vignemale-nature-v2", "sights": {
+      "de": [
+            {
+                  "name": "Pic de Cerbillona",
+                  "text": "Ein hoher Berggipfel im Vignemale-Massiv in den Pyrenäen an der Grenze zwischen Frankreich und Spanien.",
+                  "category": "landmark",
+                  "coords": [
+                        -0.149804,
+                        42.7692
+                  ]
+            },
+            {
+                  "name": "Petit Vignemale",
+                  "text": "Ein markanter Gipfel im Vignemale-Massiv, der bei Bergsteigern in den Pyrenäen sehr beliebt ist.",
+                  "category": "landmark",
+                  "coords": [
+                        -0.135048,
+                        42.774699
+                  ]
+            },
+            {
+                  "name": "Vignemale",
+                  "text": "Der höchste Gipfel der französischen Pyrenäen im Vignemale-Massiv mit einer Höhe von 3298 Metern.",
+                  "category": "landmark",
+                  "coords": [
+                        -0.147344,
+                        42.773943
+                  ]
+            },
+            {
+                  "name": "Tuque Blanque",
+                  "text": "Ein Berggipfel im Vignemale-Massiv in den französischen Pyrenäen.",
+                  "category": "landmark",
+                  "coords": [
+                        -0.164903,
+                        42.795864
+                  ]
+            },
+            {
+                  "name": "Pic des Oulettes",
+                  "text": "Ein Gipfel im Vignemale-Massiv, der das Tal der Oulettes in den Pyrenäen überragt.",
+                  "category": "landmark",
+                  "coords": [
+                        -0.155557,
+                        42.787076
+                  ]
+            },
+            {
+                  "name": "Pic Né",
+                  "text": "Ein Berggipfel im Vignemale-Massiv der Pyrenäen.",
+                  "category": "landmark",
+                  "coords": [
+                        -0.169637,
+                        42.790309
+                  ]
+            },
+            {
+                  "name": "Piton Carré",
+                  "text": "Ein markanter Berggipfel im Vignemale-Massiv in den zentralen Pyrenäen.",
+                  "category": "landmark",
+                  "coords": [
+                        -0.144987,
+                        42.77343
+                  ]
+            },
+            {
+                  "name": "Pointe Chausenque",
+                  "text": "Ein hoher Gipfel im Vignemale-Massiv, der Teil der Hauptkette der Pyrenäen ist.",
+                  "category": "landmark",
+                  "coords": [
+                        -0.142282,
+                        42.773463
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Pic de Cerbillona",
+                  "text": "Magas hegycsúcs a Pireneusokban, a Vignemale-masszívum területén, a francia-spanyol határon.",
+                  "category": "landmark",
+                  "coords": [
+                        -0.149804,
+                        42.7692
+                  ]
+            },
+            {
+                  "name": "Petit Vignemale",
+                  "text": "Jellegzetes csúcs a Vignemale-masszívumban, amely igen népszerű a pireneusi hegymászók körében.",
+                  "category": "landmark",
+                  "coords": [
+                        -0.135048,
+                        42.774699
+                  ]
+            },
+            {
+                  "name": "Vignemale",
+                  "text": "A francia Pireneusok legmagasabb csúcsa a Vignemale-masszívumban, 3298 méteres magassággal.",
+                  "category": "landmark",
+                  "coords": [
+                        -0.147344,
+                        42.773943
+                  ]
+            },
+            {
+                  "name": "Tuque Blanque",
+                  "text": "Hegycsúcs a Vignemale-masszívumban, a francia Pireneusok területén.",
+                  "category": "landmark",
+                  "coords": [
+                        -0.164903,
+                        42.795864
+                  ]
+            },
+            {
+                  "name": "Pic des Oulettes",
+                  "text": "A Vignemale-masszívum egyik csúcsa, amely a pireneusi Oulettes-völgy fölé magasodik.",
+                  "category": "landmark",
+                  "coords": [
+                        -0.155557,
+                        42.787076
+                  ]
+            },
+            {
+                  "name": "Pic Né",
+                  "text": "Hegycsúcs a Pireneusok Vignemale-masszívumában.",
+                  "category": "landmark",
+                  "coords": [
+                        -0.169637,
+                        42.790309
+                  ]
+            },
+            {
+                  "name": "Piton Carré",
+                  "text": "Jellegzetes hegycsúcs a Vignemale-masszívumban, a Középső-Pireneusokban.",
+                  "category": "landmark",
+                  "coords": [
+                        -0.144987,
+                        42.77343
+                  ]
+            },
+            {
+                  "name": "Pointe Chausenque",
+                  "text": "Magas csúcs a Vignemale-masszívumban, a Pireneusok főgerincének része.",
+                  "category": "landmark",
+                  "coords": [
+                        -0.142282,
+                        42.773463
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Pic de Cerbillona",
+                  "text": "Un vârf montan înalt din Masivul Vignemale, situat în Pirinei, la granița dintre Franța și Spania.",
+                  "category": "landmark",
+                  "coords": [
+                        -0.149804,
+                        42.7692
+                  ]
+            },
+            {
+                  "name": "Petit Vignemale",
+                  "text": "Un vârf proeminent din Masivul Vignemale, foarte popular printre alpiniștii din Pirinei.",
+                  "category": "landmark",
+                  "coords": [
+                        -0.135048,
+                        42.774699
+                  ]
+            },
+            {
+                  "name": "Vignemale",
+                  "text": "Cel mai înalt vârf din Pirineii francezi, situat în Masivul Vignemale, având o înălțime de 3298 de metri.",
+                  "category": "landmark",
+                  "coords": [
+                        -0.147344,
+                        42.773943
+                  ]
+            },
+            {
+                  "name": "Tuque Blanque",
+                  "text": "Un vârf montan din Masivul Vignemale, situat în Pirineii francezi.",
+                  "category": "landmark",
+                  "coords": [
+                        -0.164903,
+                        42.795864
+                  ]
+            },
+            {
+                  "name": "Pic des Oulettes",
+                  "text": "Un vârf din Masivul Vignemale care domină valea Oulettes din Pirinei.",
+                  "category": "landmark",
+                  "coords": [
+                        -0.155557,
+                        42.787076
+                  ]
+            },
+            {
+                  "name": "Pic Né",
+                  "text": "Un vârf montan din Masivul Vignemale din Pirinei.",
+                  "category": "landmark",
+                  "coords": [
+                        -0.169637,
+                        42.790309
+                  ]
+            },
+            {
+                  "name": "Piton Carré",
+                  "text": "Un vârf montan distinctiv din Masivul Vignemale, în Pirineii Centrali.",
+                  "category": "landmark",
+                  "coords": [
+                        -0.144987,
+                        42.77343
+                  ]
+            },
+            {
+                  "name": "Pointe Chausenque",
+                  "text": "Un vârf înalt din Masivul Vignemale, parte a crestei principale a Pirineilor.",
+                  "category": "landmark",
+                  "coords": [
+                        -0.142282,
+                        42.773463
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Pic de Cerbillona",
+                  "text": "A high mountain peak in the Vignemale Massif of the Pyrenees, located on the border between France and Spain.",
+                  "category": "landmark",
+                  "coords": [
+                        -0.149804,
+                        42.7692
+                  ]
+            },
+            {
+                  "name": "Petit Vignemale",
+                  "text": "A prominent peak in the Vignemale Massif, very popular among climbers in the Pyrenees.",
+                  "category": "landmark",
+                  "coords": [
+                        -0.135048,
+                        42.774699
+                  ]
+            },
+            {
+                  "name": "Vignemale",
+                  "text": "The highest peak in the French Pyrenees, located in the Vignemale Massif with an elevation of 3298 metres.",
+                  "category": "landmark",
+                  "coords": [
+                        -0.147344,
+                        42.773943
+                  ]
+            },
+            {
+                  "name": "Tuque Blanque",
+                  "text": "A mountain peak in the Vignemale Massif within the French Pyrenees.",
+                  "category": "landmark",
+                  "coords": [
+                        -0.164903,
+                        42.795864
+                  ]
+            },
+            {
+                  "name": "Pic des Oulettes",
+                  "text": "A peak in the Vignemale Massif overlooking the Oulettes valley in the Pyrenees.",
+                  "category": "landmark",
+                  "coords": [
+                        -0.155557,
+                        42.787076
+                  ]
+            },
+            {
+                  "name": "Pic Né",
+                  "text": "A mountain peak in the Vignemale Massif of the Pyrenees.",
+                  "category": "landmark",
+                  "coords": [
+                        -0.169637,
+                        42.790309
+                  ]
+            },
+            {
+                  "name": "Piton Carré",
+                  "text": "A distinctive mountain peak in the Vignemale Massif within the Central Pyrenees.",
+                  "category": "landmark",
+                  "coords": [
+                        -0.144987,
+                        42.77343
+                  ]
+            },
+            {
+                  "name": "Pointe Chausenque",
+                  "text": "A high peak in the Vignemale Massif, part of the main ridge of the Pyrenees.",
+                  "category": "landmark",
+                  "coords": [
+                        -0.142282,
+                        42.773463
+                  ]
+            }
+      ]
+},
     type: "mountain",
     parent: "FR",
     name: { de: "Vignemale-Massiv", hu: "Vignemale-hegység", ro: "Masivul Vignemale", en: "Vignemale Massif" , fr: "Massif du Vignemale"},
@@ -498,7 +2028,304 @@ export const franceNatureV2: POI[] = [
     image: "/poi-images/france-massif-du-vignemale-nature-v2.webp",
   },
   {
-    id: "france-foret-de-troncais-nature-v2",
+    id: "france-foret-de-troncais-nature-v2", "sights": {
+      "de": [
+            {
+                  "name": "Réserve biologique dirigée de la Futaie Colbert",
+                  "text": "Ein geschützter Teil des Tronçais-Waldes mit altem Eichenbestand.",
+                  "category": "natural",
+                  "coords": [
+                        2.707638,
+                        46.657704
+                  ]
+            },
+            {
+                  "name": "Chêne Stebbing",
+                  "text": "Eine bemerkenswerte alte Eiche im berühmten Wald von Tronçais.",
+                  "category": "landmark",
+                  "coords": [
+                        2.71654,
+                        46.65594
+                  ]
+            },
+            {
+                  "name": "La Sentinelle",
+                  "text": "Eine monumentale Eiche, die als Wahrzeichen des Tronçais-Waldes gilt.",
+                  "category": "landmark",
+                  "coords": [
+                        2.700758,
+                        46.67544
+                  ]
+            },
+            {
+                  "name": "Les Jumeaux",
+                  "text": "Zwei eng beieinander stehende, markante Bäume im Wald von Tronçais.",
+                  "category": "landmark",
+                  "coords": [
+                        2.701493,
+                        46.673639
+                  ]
+            },
+            {
+                  "name": "Chêne Charles-Louis Philippe",
+                  "text": "Eine nach dem Schriftsteller Charles-Louis Philippe benannte Eiche.",
+                  "category": "landmark",
+                  "coords": [
+                        2.75012,
+                        46.651607
+                  ]
+            },
+            {
+                  "name": "Chêne \"Émile Guillaumin\" en Forêt de Tronçais",
+                  "text": "Eine dem Autor Émile Guillaumin gewidmete Eiche im Tronçais-Wald.",
+                  "category": "landmark",
+                  "coords": [
+                        2.751559,
+                        46.651617
+                  ]
+            },
+            {
+                  "name": "La Futaie Colbert II : 200 de sylviculture",
+                  "text": "Ein historisches forstwirtschaftliches Areal im Tronçais-Wald.",
+                  "category": "landmark",
+                  "coords": [
+                        2.705501,
+                        46.681221
+                  ]
+            },
+            {
+                  "name": "Tonneau en chêne",
+                  "text": "Ein Denkmal oder Objekt aus Eichenholz im Wald von Tronçais.",
+                  "category": "landmark",
+                  "coords": [
+                        2.703361,
+                        46.681435
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Réserve biologique dirigée de la Futaie Colbert",
+                  "text": "A Tronçais-erdő védett része ősi tölgyfákkal.",
+                  "category": "natural",
+                  "coords": [
+                        2.707638,
+                        46.657704
+                  ]
+            },
+            {
+                  "name": "Chêne Stebbing",
+                  "text": "Egy nevezetes öreg tölgyfa a híres Tronçais-erdőben.",
+                  "category": "landmark",
+                  "coords": [
+                        2.71654,
+                        46.65594
+                  ]
+            },
+            {
+                  "name": "La Sentinelle",
+                  "text": "Monumentális tölgyfa, amely a Tronçais-erdő egyik jelképe.",
+                  "category": "landmark",
+                  "coords": [
+                        2.700758,
+                        46.67544
+                  ]
+            },
+            {
+                  "name": "Les Jumeaux",
+                  "text": "Két egymáshoz közel álló, jellegzetes fa a Tronçais-erdőben.",
+                  "category": "landmark",
+                  "coords": [
+                        2.701493,
+                        46.673639
+                  ]
+            },
+            {
+                  "name": "Chêne Charles-Louis Philippe",
+                  "text": "Charles-Louis Philippe íróról elnevezett nevezetes tölgyfa.",
+                  "category": "landmark",
+                  "coords": [
+                        2.75012,
+                        46.651607
+                  ]
+            },
+            {
+                  "name": "Chêne \"Émile Guillaumin\" en Forêt de Tronçais",
+                  "text": "Émile Guillaumin írónak szentelt tölgyfa a Tronçais-erdőben.",
+                  "category": "landmark",
+                  "coords": [
+                        2.751559,
+                        46.651617
+                  ]
+            },
+            {
+                  "name": "La Futaie Colbert II : 200 de sylviculture",
+                  "text": "Történelmi erdőgazdálkodási terület a Tronçais-erdőben.",
+                  "category": "landmark",
+                  "coords": [
+                        2.705501,
+                        46.681221
+                  ]
+            },
+            {
+                  "name": "Tonneau en chêne",
+                  "text": "Tölgyfából készült emlékmű vagy tárgy a Tronçais-erdőben.",
+                  "category": "landmark",
+                  "coords": [
+                        2.703361,
+                        46.681435
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Réserve biologique dirigée de la Futaie Colbert",
+                  "text": "O zonă protejată din pădurea Tronçais, renumită pentru stejarii săi seculari.",
+                  "category": "natural",
+                  "coords": [
+                        2.707638,
+                        46.657704
+                  ]
+            },
+            {
+                  "name": "Chêne Stebbing",
+                  "text": "Un stejar secular remarcabil situat în celebra pădure Tronçais.",
+                  "category": "landmark",
+                  "coords": [
+                        2.71654,
+                        46.65594
+                  ]
+            },
+            {
+                  "name": "La Sentinelle",
+                  "text": "Un stejar monumental considerat un simbol al pădurii Tronçais.",
+                  "category": "landmark",
+                  "coords": [
+                        2.700758,
+                        46.67544
+                  ]
+            },
+            {
+                  "name": "Les Jumeaux",
+                  "text": "Doi copaci gemeni remarcabili situați în pădurea Tronçais.",
+                  "category": "landmark",
+                  "coords": [
+                        2.701493,
+                        46.673639
+                  ]
+            },
+            {
+                  "name": "Chêne Charles-Louis Philippe",
+                  "text": "Un stejar remarcabil numit după scriitorul Charles-Louis Philippe.",
+                  "category": "landmark",
+                  "coords": [
+                        2.75012,
+                        46.651607
+                  ]
+            },
+            {
+                  "name": "Chêne \"Émile Guillaumin\" en Forêt de Tronçais",
+                  "text": "Un stejar dedicat autorului Émile Guillaumin în pădurea Tronçais.",
+                  "category": "landmark",
+                  "coords": [
+                        2.751559,
+                        46.651617
+                  ]
+            },
+            {
+                  "name": "La Futaie Colbert II : 200 de sylviculture",
+                  "text": "O zonă forestieră istorică din pădurea Tronçais, exemplificând silvicultura tradițională.",
+                  "category": "landmark",
+                  "coords": [
+                        2.705501,
+                        46.681221
+                  ]
+            },
+            {
+                  "name": "Tonneau en chêne",
+                  "text": "Un monument sau obiect din lemn de stejar situat în pădurea Tronçais.",
+                  "category": "landmark",
+                  "coords": [
+                        2.703361,
+                        46.681435
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Réserve biologique dirigée de la Futaie Colbert",
+                  "text": "A protected part of the Tronçais Forest featuring ancient oak stands.",
+                  "category": "natural",
+                  "coords": [
+                        2.707638,
+                        46.657704
+                  ]
+            },
+            {
+                  "name": "Chêne Stebbing",
+                  "text": "A notable ancient oak tree located in the famous Tronçais Forest.",
+                  "category": "landmark",
+                  "coords": [
+                        2.71654,
+                        46.65594
+                  ]
+            },
+            {
+                  "name": "La Sentinelle",
+                  "text": "A monumental oak tree considered a landmark of the Tronçais Forest.",
+                  "category": "landmark",
+                  "coords": [
+                        2.700758,
+                        46.67544
+                  ]
+            },
+            {
+                  "name": "Les Jumeaux",
+                  "text": "Two striking trees growing close together in the Tronçais Forest.",
+                  "category": "landmark",
+                  "coords": [
+                        2.701493,
+                        46.673639
+                  ]
+            },
+            {
+                  "name": "Chêne Charles-Louis Philippe",
+                  "text": "A notable oak tree named after the writer Charles-Louis Philippe.",
+                  "category": "landmark",
+                  "coords": [
+                        2.75012,
+                        46.651607
+                  ]
+            },
+            {
+                  "name": "Chêne \"Émile Guillaumin\" en Forêt de Tronçais",
+                  "text": "An oak tree dedicated to the author Émile Guillaumin in the Tronçais Forest.",
+                  "category": "landmark",
+                  "coords": [
+                        2.751559,
+                        46.651617
+                  ]
+            },
+            {
+                  "name": "La Futaie Colbert II : 200 de sylviculture",
+                  "text": "A historic forestry area in the Tronçais Forest showcasing traditional silviculture.",
+                  "category": "landmark",
+                  "coords": [
+                        2.705501,
+                        46.681221
+                  ]
+            },
+            {
+                  "name": "Tonneau en chêne",
+                  "text": "A monument or object made of oak wood located in the Tronçais Forest.",
+                  "category": "landmark",
+                  "coords": [
+                        2.703361,
+                        46.681435
+                  ]
+            }
+      ]
+},
     type: "forest",
     parent: "FR",
     name: { de: "Forêt de Tronçais", hu: "Tronçais-erdő", ro: "Pădurea Tronçais", en: "Tronçais Forest" , fr: "Forêt de Tronçais"},
@@ -543,7 +2370,232 @@ export const franceNatureV2: POI[] = [
     image: "/poi-images/france-foret-de-troncais-nature-v2.webp",
   },
   {
-    id: "france-mont-aigoual-nature-v2",
+    id: "france-mont-aigoual-nature-v2", "sights": {
+      "de": [
+            {
+                  "name": "Réserve biologique intégrale de la Brèze",
+                  "text": "Ein streng geschütztes Naturschutzgebiet an den Hängen des Mont Aigoual.",
+                  "category": "natural",
+                  "coords": [
+                        3.548739,
+                        44.134609
+                  ]
+            },
+            {
+                  "name": "Menhir de Trépaloud",
+                  "text": "Ein alter Menhir im Massiv des Mont Aigoual.",
+                  "category": "historical",
+                  "coords": [
+                        3.587157,
+                        44.11951
+                  ]
+            },
+            {
+                  "name": "Le climatographe, Observatoire du Mont Aigoual",
+                  "text": "Ein Wetterobservatorium und Museum für Meteorologie auf dem Gipfel des Mont Aigoual.",
+                  "category": "museum",
+                  "coords": [
+                        3.581453,
+                        44.121215
+                  ]
+            },
+            {
+                  "name": "Réserve biologique dirigée de Hort de Dieu",
+                  "text": "Ein betreutes biologisches Reservat im Wald von Mont Aigoual, bekannt für seine Artenvielfalt.",
+                  "category": "natural",
+                  "coords": [
+                        3.583571,
+                        44.113454
+                  ]
+            },
+            {
+                  "name": "Réserve biologique intégrale de Hort de Dieu",
+                  "text": "Ein streng geschütztes Gebiet im Wald von Hort de Dieu am Mont Aigoual.",
+                  "category": "natural",
+                  "coords": [
+                        3.577432,
+                        44.107203
+                  ]
+            },
+            {
+                  "name": "Belvédère de la Serreyrède",
+                  "text": "Ein malerischer Aussichtspunkt in der Nähe des gleichnamigen Passes am Mont Aigoual.",
+                  "category": "natural",
+                  "coords": [
+                        3.546441,
+                        44.10528
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Réserve biologique intégrale de la Brèze",
+                  "text": "Szigorúan védett természetvédelmi terület a Mont Aigoual lejtőin.",
+                  "category": "natural",
+                  "coords": [
+                        3.548739,
+                        44.134609
+                  ]
+            },
+            {
+                  "name": "Menhir de Trépaloud",
+                  "text": "Egy ősi menhir a Mont Aigoual-masszívumban.",
+                  "category": "historical",
+                  "coords": [
+                        3.587157,
+                        44.11951
+                  ]
+            },
+            {
+                  "name": "Le climatographe, Observatoire du Mont Aigoual",
+                  "text": "Időjárási obszervatórium és meteorológiai múzeum a Mont Aigoual csúcsán.",
+                  "category": "museum",
+                  "coords": [
+                        3.581453,
+                        44.121215
+                  ]
+            },
+            {
+                  "name": "Réserve biologique dirigée de Hort de Dieu",
+                  "text": "Kezelt biológiai rezervátum a Mont Aigoual erdőben, amely biológiai sokféleségéről ismert.",
+                  "category": "natural",
+                  "coords": [
+                        3.583571,
+                        44.113454
+                  ]
+            },
+            {
+                  "name": "Réserve biologique intégrale de Hort de Dieu",
+                  "text": "Szigorúan védett terület a Mont Aigoual-on található Hort de Dieu erdőben.",
+                  "category": "natural",
+                  "coords": [
+                        3.577432,
+                        44.107203
+                  ]
+            },
+            {
+                  "name": "Belvédère de la Serreyrède",
+                  "text": "Festői kilátópont az azonos nevű hágó közelében a Mont Aigoual-on.",
+                  "category": "natural",
+                  "coords": [
+                        3.546441,
+                        44.10528
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Réserve biologique intégrale de la Brèze",
+                  "text": "O rezervație naturală strict protejată de pe versanții muntelui Aigoual.",
+                  "category": "natural",
+                  "coords": [
+                        3.548739,
+                        44.134609
+                  ]
+            },
+            {
+                  "name": "Menhir de Trépaloud",
+                  "text": "Un menhir străvechi situat în masivul Mont Aigoual.",
+                  "category": "historical",
+                  "coords": [
+                        3.587157,
+                        44.11951
+                  ]
+            },
+            {
+                  "name": "Le climatographe, Observatoire du Mont Aigoual",
+                  "text": "Un observator meteorologic și muzeu dedicat meteorologiei pe vârful Mont Aigoual.",
+                  "category": "museum",
+                  "coords": [
+                        3.581453,
+                        44.121215
+                  ]
+            },
+            {
+                  "name": "Réserve biologique dirigée de Hort de Dieu",
+                  "text": "O rezervație biologică dirijată în pădurea Mont Aigoual, cunoscută pentru biodiversitatea sa.",
+                  "category": "natural",
+                  "coords": [
+                        3.583571,
+                        44.113454
+                  ]
+            },
+            {
+                  "name": "Réserve biologique intégrale de Hort de Dieu",
+                  "text": "O zonă strict protejată din pădurea Hort de Dieu de pe Mont Aigoual.",
+                  "category": "natural",
+                  "coords": [
+                        3.577432,
+                        44.107203
+                  ]
+            },
+            {
+                  "name": "Belvédère de la Serreyrède",
+                  "text": "Un punct de belvedere pitoresc situat lângă pasul cu același nume de pe Mont Aigoual.",
+                  "category": "natural",
+                  "coords": [
+                        3.546441,
+                        44.10528
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Réserve biologique intégrale de la Brèze",
+                  "text": "A strictly protected nature reserve on the slopes of Mont Aigoual.",
+                  "category": "natural",
+                  "coords": [
+                        3.548739,
+                        44.134609
+                  ]
+            },
+            {
+                  "name": "Menhir de Trépaloud",
+                  "text": "An ancient standing stone located in the Mont Aigoual massif.",
+                  "category": "historical",
+                  "coords": [
+                        3.587157,
+                        44.11951
+                  ]
+            },
+            {
+                  "name": "Le climatographe, Observatoire du Mont Aigoual",
+                  "text": "A weather observatory and museum dedicated to meteorology at the summit of Mont Aigoual.",
+                  "category": "museum",
+                  "coords": [
+                        3.581453,
+                        44.121215
+                  ]
+            },
+            {
+                  "name": "Réserve biologique dirigée de Hort de Dieu",
+                  "text": "A managed biological reserve in the Mont Aigoual forest known for its biodiversity.",
+                  "category": "natural",
+                  "coords": [
+                        3.583571,
+                        44.113454
+                  ]
+            },
+            {
+                  "name": "Réserve biologique intégrale de Hort de Dieu",
+                  "text": "A strictly protected area within the Hort de Dieu forest on Mont Aigoual.",
+                  "category": "natural",
+                  "coords": [
+                        3.577432,
+                        44.107203
+                  ]
+            },
+            {
+                  "name": "Belvédère de la Serreyrède",
+                  "text": "A scenic viewpoint located near the pass of the same name on Mont Aigoual.",
+                  "category": "natural",
+                  "coords": [
+                        3.546441,
+                        44.10528
+                  ]
+            }
+      ]
+},
     type: "peak",
     parent: "FR",
     name: { de: "Mont Aigoual", hu: "Mont Aigoual", ro: "Mont Aigoual", en: "Mont Aigoual" , fr: "Mont Aigoual"},

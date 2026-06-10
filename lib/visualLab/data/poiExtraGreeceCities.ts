@@ -2460,7 +2460,88 @@ export const poiExtraGreeceCities: POI[] = [
       fr: ["Karditsa fut la première ville libérée d'Europe occupée le 12 mars 1943.", "Plus de 30 % du trafic urbain à Karditsa s'effectue à vélo.", "Le parc Pausilypon est réputé pour ses paons en liberté et ses espèces d'arbres rares.", "La ville a rejoint la Grèce en 1881 après le traité de Constantinople.", "Karditsa possède le plus grand réseau municipal de pistes cyclables de toute la Grèce.", "Le lac Plastira tout proche est l'un des plus grands lacs artificiels du pays."],
     }, image: "/poi-images/city-karditsa-extra.webp"},
   {
-    id: "city-igoumenitsa-extra",
+    id: "city-igoumenitsa-extra", "sights": {
+      "de": [
+            {
+                  "name": "Κάστρο Ηγουμενίτσας",
+                  "text": "Die Ruinen einer byzantinischen und osmanischen Burg mit Blick auf die moderne Stadt und den Hafen.",
+                  "category": "castle",
+                  "coords": [
+                        20.266178,
+                        39.500372
+                  ]
+            },
+            {
+                  "name": "Bucht von Igoumenitsa",
+                  "text": "Eine natürliche Bucht am Ionischen Meer, die als Tor zwischen Griechenland und Italien dient.",
+                  "category": "landmark",
+                  "coords": [
+                        20.242657,
+                        39.503458
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Κάστρο Ηγουμενίτσας",
+                  "text": "Bizánci és oszmán vár romjai, amelyek a modern városra és a kikötőre néznek.",
+                  "category": "castle",
+                  "coords": [
+                        20.266178,
+                        39.500372
+                  ]
+            },
+            {
+                  "name": "Όρμος Ηγουμενίτσας",
+                  "text": "Természetes öböl a Jón-tengeren, amely kapuként szolgál Görögország és Olaszország között.",
+                  "category": "landmark",
+                  "coords": [
+                        20.242657,
+                        39.503458
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Κάστρο Ηγουμενίτσας",
+                  "text": "Ruinele unui castel bizantin și otoman, cu vedere spre orașul modern și port.",
+                  "category": "castle",
+                  "coords": [
+                        20.266178,
+                        39.500372
+                  ]
+            },
+            {
+                  "name": "Όρμος Ηγουμενίτσας",
+                  "text": "Un golf natural la Marea Ionică, servind drept poartă de legătură între Grecia și Italia.",
+                  "category": "landmark",
+                  "coords": [
+                        20.242657,
+                        39.503458
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Castle of Igoumenitsa",
+                  "text": "The ruins of a Byzantine and Ottoman castle overlooking the modern city and port.",
+                  "category": "castle",
+                  "coords": [
+                        20.266178,
+                        39.500372
+                  ]
+            },
+            {
+                  "name": "Igoumenitsa Bay",
+                  "text": "A natural bay on the Ionian Sea, serving as a gateway between Greece and Italy.",
+                  "category": "landmark",
+                  "coords": [
+                        20.242657,
+                        39.503458
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "GR-E",
     coords: [20.2656, 39.5064],

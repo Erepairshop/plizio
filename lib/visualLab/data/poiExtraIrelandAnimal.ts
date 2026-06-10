@@ -297,7 +297,268 @@ export const poiExtraIrelandAnimal = [
       en: "A brown bear can run 50 km/h. How far does it run in 30 minutes? (Sachkunde K3)"
     }, image: "/poi-images/animal-habitat-wild-ireland-extra.webp"},
   {
-    id: "animal-habitat-burren-birds-extra",
+    id: "animal-habitat-burren-birds-extra", "sights": {
+      "de": [
+            {
+                  "name": "Ballyallaban Ring Fort",
+                  "text": "Ein altes Ringfort aus Erde in der malerischen Burren-Region im County Clare.",
+                  "category": "historical",
+                  "coords": [
+                        -9.158702,
+                        53.090066
+                  ]
+            },
+            {
+                  "name": "Caherconnell",
+                  "text": "Ein gut erhaltenes Steinringfort im Herzen des Burren.",
+                  "category": "historical",
+                  "coords": [
+                        -9.141311,
+                        53.041317
+                  ]
+            },
+            {
+                  "name": "Newtown Castle",
+                  "text": "Ein zylindrisches Turmhaus aus dem 16. Jahrhundert mit einer einzigartigen pyramidalen Basis im Burren.",
+                  "category": "castle",
+                  "coords": [
+                        -9.169293,
+                        53.103858
+                  ]
+            },
+            {
+                  "name": "Poulnabrone Dolmen",
+                  "text": "Eines der berühmtesten neolithischen Portalgräber Irlands, gelegen auf dem Kalksteinplateau des Burren.",
+                  "category": "historical",
+                  "coords": [
+                        -9.140043,
+                        53.048695
+                  ]
+            },
+            {
+                  "name": "Cahermacnaghten Cashel",
+                  "text": "Ein großes Steinringfort, das einst als renommierte mittelalterliche Schule für irisches Recht diente.",
+                  "category": "historical",
+                  "coords": [
+                        -9.198422,
+                        53.045991
+                  ]
+            },
+            {
+                  "name": "Cahemore Stone Fort",
+                  "text": "Ein altes Steinringfort, das Einblicke in die frühen Siedlungen des Burren bietet.",
+                  "category": "historical",
+                  "coords": [
+                        -9.164556,
+                        53.085382
+                  ]
+            },
+            {
+                  "name": "Doline",
+                  "text": "Eine natürliche Kalksteinsenke von geologischem Interesse in der Landschaft des Burren.",
+                  "category": "historical",
+                  "coords": [
+                        -9.139171,
+                        53.040498
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Ballyallaban Ring Fort",
+                  "text": "Egy ősi földvár a festői Burren régióban, Clare megyében.",
+                  "category": "historical",
+                  "coords": [
+                        -9.158702,
+                        53.090066
+                  ]
+            },
+            {
+                  "name": "Caherconnell",
+                  "text": "Egy jól megőrzött kővár a Burren szívében.",
+                  "category": "historical",
+                  "coords": [
+                        -9.141311,
+                        53.041317
+                  ]
+            },
+            {
+                  "name": "Newtown Castle",
+                  "text": "Egy 16. századi hengeres toronyház egyedi piramis alakú alappal a Burren területén.",
+                  "category": "castle",
+                  "coords": [
+                        -9.169293,
+                        53.103858
+                  ]
+            },
+            {
+                  "name": "Poulnabrone Dolmen",
+                  "text": "Írország egyik leghíresebb újkőkorszaki síremléke, amely a Burren mészkőfennsíkján található.",
+                  "category": "historical",
+                  "coords": [
+                        -9.140043,
+                        53.048695
+                  ]
+            },
+            {
+                  "name": "Cahermacnaghten Cashel",
+                  "text": "Egy nagy kővár, amely egykor neves középkori ír jogi iskolaként működött.",
+                  "category": "historical",
+                  "coords": [
+                        -9.198422,
+                        53.045991
+                  ]
+            },
+            {
+                  "name": "Cahemore Stone Fort",
+                  "text": "Egy ősi kővár, amely betekintést nyújt a Burren korai településeibe.",
+                  "category": "historical",
+                  "coords": [
+                        -9.164556,
+                        53.085382
+                  ]
+            },
+            {
+                  "name": "Doline",
+                  "text": "Egy geológiai szempontból érdekes természetes mészkőmélyedés a Burren táján.",
+                  "category": "historical",
+                  "coords": [
+                        -9.139171,
+                        53.040498
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Ballyallaban Ring Fort",
+                  "text": "Un vechi fort inelar din pământ situat în regiunea pitorească Burren din comitatul Clare.",
+                  "category": "historical",
+                  "coords": [
+                        -9.158702,
+                        53.090066
+                  ]
+            },
+            {
+                  "name": "Caherconnell",
+                  "text": "Un fort inelar din piatră bine conservat, situat în inima regiunii Burren.",
+                  "category": "historical",
+                  "coords": [
+                        -9.141311,
+                        53.041317
+                  ]
+            },
+            {
+                  "name": "Newtown Castle",
+                  "text": "O casă-turn cilindrică din secolul al XVI-lea, cu o bază piramidală unică, situată în Burren.",
+                  "category": "castle",
+                  "coords": [
+                        -9.169293,
+                        53.103858
+                  ]
+            },
+            {
+                  "name": "Poulnabrone Dolmen",
+                  "text": "Unul dintre cele mai faimoase morminte portale neolitice din Irlanda, situat pe platoul calcaros din Burren.",
+                  "category": "historical",
+                  "coords": [
+                        -9.140043,
+                        53.048695
+                  ]
+            },
+            {
+                  "name": "Cahermacnaghten Cashel",
+                  "text": "Un fort mare din piatră care a servit odinioară ca renumită școală medievală de drept irlandez.",
+                  "category": "historical",
+                  "coords": [
+                        -9.198422,
+                        53.045991
+                  ]
+            },
+            {
+                  "name": "Cahemore Stone Fort",
+                  "text": "Un vechi fort din piatră care oferă o perspectivă asupra primelor așezări din Burren.",
+                  "category": "historical",
+                  "coords": [
+                        -9.164556,
+                        53.085382
+                  ]
+            },
+            {
+                  "name": "Doline",
+                  "text": "O depresiune naturală în calcar, de interes geologic, în peisajul din Burren.",
+                  "category": "historical",
+                  "coords": [
+                        -9.139171,
+                        53.040498
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Ballyallaban Ring Fort",
+                  "text": "An ancient earthen ring fort located in the scenic Burren region of County Clare.",
+                  "category": "historical",
+                  "coords": [
+                        -9.158702,
+                        53.090066
+                  ]
+            },
+            {
+                  "name": "Caherconnell",
+                  "text": "A well-preserved stone ring fort situated in the heart of the Burren.",
+                  "category": "historical",
+                  "coords": [
+                        -9.141311,
+                        53.041317
+                  ]
+            },
+            {
+                  "name": "Newtown Castle",
+                  "text": "A 16th-century cylindrical tower house with a unique pyramidal base in the Burren.",
+                  "category": "castle",
+                  "coords": [
+                        -9.169293,
+                        53.103858
+                  ]
+            },
+            {
+                  "name": "Poulnabrone Dolmen",
+                  "text": "One of Ireland's most famous Neolithic portal tombs, located on the limestone pavement of the Burren.",
+                  "category": "historical",
+                  "coords": [
+                        -9.140043,
+                        53.048695
+                  ]
+            },
+            {
+                  "name": "Cahermacnaghten Cashel",
+                  "text": "A large stone ring fort that once served as a renowned medieval school of Irish law.",
+                  "category": "historical",
+                  "coords": [
+                        -9.198422,
+                        53.045991
+                  ]
+            },
+            {
+                  "name": "Cahemore Stone Fort",
+                  "text": "An ancient stone ring fort offering insight into the early settlements of the Burren.",
+                  "category": "historical",
+                  "coords": [
+                        -9.164556,
+                        53.085382
+                  ]
+            },
+            {
+                  "name": "Doline",
+                  "text": "A natural limestone depression of geological interest in the Burren landscape.",
+                  "category": "historical",
+                  "coords": [
+                        -9.139171,
+                        53.040498
+                  ]
+            }
+      ]
+},
     type: "animal-habitat",
     parent: "IE",
     coords: [-9.1672, 53.0722],

@@ -48,7 +48,268 @@ imageHint: "Dukla Pass World War II memorial and tank museum",
     },
     image: "/poi-images/slovakia-dukla-pass-history-v2.webp",
 },  {
-    id: "slovakia-havranok-history-v2",
+    id: "slovakia-havranok-history-v2", "sights": {
+      "de": [
+            {
+                  "name": "Archeologické múzeum v prírode NKP Liptovská Mara-Havránok",
+                  "text": "Ein archäologisches Freilichtmuseum mit Resten keltischer und mittelalterlicher Siedlungen.",
+                  "category": "museum",
+                  "coords": [
+                        19.482228,
+                        49.105326
+                  ]
+            },
+            {
+                  "name": "Bešeňová",
+                  "text": "Ein bekannter Wasserpark mit Thermalbecken und Rutschen in der Nähe von Havránok.",
+                  "category": "recreational",
+                  "coords": [
+                        19.446442,
+                        49.100465
+                  ]
+            },
+            {
+                  "name": "Hrádok",
+                  "text": "Eine archäologische Fundstelle einer historischen Siedlung bei Havránok.",
+                  "category": "historical",
+                  "coords": [
+                        19.446023,
+                        49.090981
+                  ]
+            },
+            {
+                  "name": "Zvieratkovo",
+                  "text": "Ein kleiner Streichelzoo und Freizeitpark für Familien in Havránok.",
+                  "category": "recreational",
+                  "coords": [
+                        19.446952,
+                        49.102166
+                  ]
+            },
+            {
+                  "name": "Úložisko",
+                  "text": "Ein Berggipfel mit Aussicht über den Stausee Liptovská Mara.",
+                  "category": "landmark",
+                  "coords": [
+                        19.470996,
+                        49.104396
+                  ]
+            },
+            {
+                  "name": "Kaštieľ rodiny Kubíni",
+                  "text": "Ein historisches Herrenhaus der Familie Kubínyi im Dorf Vyšný Kubín.",
+                  "category": "historical",
+                  "coords": [
+                        19.474861,
+                        49.093652
+                  ]
+            },
+            {
+                  "name": "Travertínová veža v Bešeňovej",
+                  "text": "Eine markante natürliche Travertinformation in der Nähe von Bešeňová.",
+                  "category": "landmark",
+                  "coords": [
+                        19.434555,
+                        49.107144
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Archeologické múzeum v prírode NKP Liptovská Mara-Havránok",
+                  "text": "Régészeti szabadtéri múzeum kelta és középkori települések maradványaival.",
+                  "category": "museum",
+                  "coords": [
+                        19.482228,
+                        49.105326
+                  ]
+            },
+            {
+                  "name": "Bešeňová",
+                  "text": "Népszerű vízi park termálmedencékkel és csúszdákkal Havránok közelében.",
+                  "category": "recreational",
+                  "coords": [
+                        19.446442,
+                        49.100465
+                  ]
+            },
+            {
+                  "name": "Hrádok",
+                  "text": "Történelmi település régészeti lelőhelye Havránok közelében.",
+                  "category": "historical",
+                  "coords": [
+                        19.446023,
+                        49.090981
+                  ]
+            },
+            {
+                  "name": "Zvieratkovo",
+                  "text": "Kisméretű állatsimogató és szabadidőpark családok számára Havránokban.",
+                  "category": "recreational",
+                  "coords": [
+                        19.446952,
+                        49.102166
+                  ]
+            },
+            {
+                  "name": "Úložisko",
+                  "text": "Hegycsúcs kilátással a Szentmáriai-víztározóra.",
+                  "category": "landmark",
+                  "coords": [
+                        19.470996,
+                        49.104396
+                  ]
+            },
+            {
+                  "name": "Kaštieľ rodiny Kubíni",
+                  "text": "A Kubínyi család történelmi kúriája Felsőkubin faluban.",
+                  "category": "historical",
+                  "coords": [
+                        19.474861,
+                        49.093652
+                  ]
+            },
+            {
+                  "name": "Travertínová veža v Bešeňovej",
+                  "text": "Jellegzetes természetes travertin képződmény Bešeňová közelében.",
+                  "category": "landmark",
+                  "coords": [
+                        19.434555,
+                        49.107144
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Archeologické múzeum v prírode NKP Liptovská Mara-Havránok",
+                  "text": "Un muzeu arheologic în aer liber cu resturi de așezări celtice și medievale.",
+                  "category": "museum",
+                  "coords": [
+                        19.482228,
+                        49.105326
+                  ]
+            },
+            {
+                  "name": "Bešeňová",
+                  "text": "Un parc acvatic popular cu bazine termale și tobogane lângă Havránok.",
+                  "category": "recreational",
+                  "coords": [
+                        19.446442,
+                        49.100465
+                  ]
+            },
+            {
+                  "name": "Hrádok",
+                  "text": "Un sit arheologic al unei așezări istorice lângă Havránok.",
+                  "category": "historical",
+                  "coords": [
+                        19.446023,
+                        49.090981
+                  ]
+            },
+            {
+                  "name": "Zvieratkovo",
+                  "text": "O mică grădină zoologică și parc de agrement pentru familii în Havránok.",
+                  "category": "recreational",
+                  "coords": [
+                        19.446952,
+                        49.102166
+                  ]
+            },
+            {
+                  "name": "Úložisko",
+                  "text": "Un vârf montan cu vedere panoramică asupra lacului de acumulare Liptovská Mara.",
+                  "category": "landmark",
+                  "coords": [
+                        19.470996,
+                        49.104396
+                  ]
+            },
+            {
+                  "name": "Kaštieľ rodiny Kubíni",
+                  "text": "Un conac istoric al familiei Kubínyi din satul Vyšný Kubín.",
+                  "category": "historical",
+                  "coords": [
+                        19.474861,
+                        49.093652
+                  ]
+            },
+            {
+                  "name": "Travertínová veža v Bešeňovej",
+                  "text": "O formațiune naturală de travertin situată lângă Bešeňová.",
+                  "category": "landmark",
+                  "coords": [
+                        19.434555,
+                        49.107144
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Archeologické múzeum v prírode NKP Liptovská Mara-Havránok",
+                  "text": "An archaeological open-air museum with remains of Celtic and medieval settlements.",
+                  "category": "museum",
+                  "coords": [
+                        19.482228,
+                        49.105326
+                  ]
+            },
+            {
+                  "name": "Bešeňová",
+                  "text": "A popular water park with thermal pools and slides near Havránok.",
+                  "category": "recreational",
+                  "coords": [
+                        19.446442,
+                        49.100465
+                  ]
+            },
+            {
+                  "name": "Hrádok",
+                  "text": "An archaeological site of a historical settlement near Havránok.",
+                  "category": "historical",
+                  "coords": [
+                        19.446023,
+                        49.090981
+                  ]
+            },
+            {
+                  "name": "Zvieratkovo",
+                  "text": "A small petting zoo and leisure park for families in Havránok.",
+                  "category": "recreational",
+                  "coords": [
+                        19.446952,
+                        49.102166
+                  ]
+            },
+            {
+                  "name": "Úložisko",
+                  "text": "A mountain peak with views over the Liptovská Mara reservoir.",
+                  "category": "landmark",
+                  "coords": [
+                        19.470996,
+                        49.104396
+                  ]
+            },
+            {
+                  "name": "Kaštieľ rodiny Kubíni",
+                  "text": "A historical manor house of the Kubínyi family in the village of Vyšný Kubín.",
+                  "category": "historical",
+                  "coords": [
+                        19.474861,
+                        49.093652
+                  ]
+            },
+            {
+                  "name": "Travertínová veža v Bešeňovej",
+                  "text": "A distinctive natural travertine formation located near Bešeňová.",
+                  "category": "landmark",
+                  "coords": [
+                        19.434555,
+                        49.107144
+                  ]
+            }
+      ]
+},
     parent: "SK",
     type: "ruins",
     name: { de: "Havránok", hu: "Havránok", ro: "Havránok", en: "Havránok"},
@@ -318,7 +579,304 @@ imageHint: "Svaty Anton manor house Slovakia",
     },
     image: "/poi-images/slovakia-svaty-anton-history-v2.webp",
 },  {
-    id: "slovakia-hronsky-benadik-history-v2",
+    id: "slovakia-hronsky-benadik-history-v2", "sights": {
+      "de": [
+            {
+                  "name": "Kláštor Hronský Beňadik",
+                  "text": "Eine bedeutende Benediktinerabtei in der Slowakei mit einer eindrucksvollen gotischen Kirche.",
+                  "category": "religious",
+                  "coords": [
+                        18.557955,
+                        48.344667
+                  ]
+            },
+            {
+                  "name": "Obranný val, Hradisko na Lipníkoch",
+                  "text": "Archäologische Stätte mit Überresten eines historischen Walls in Hronský Beňadik.",
+                  "category": "historical",
+                  "coords": [
+                        18.579412,
+                        48.341063
+                  ]
+            },
+            {
+                  "name": "Obranný val, Hradisko na Beňadickej skale",
+                  "text": "Überreste einer historischen Befestigungsanlage auf dem Felsen von Beňadik.",
+                  "category": "historical",
+                  "coords": [
+                        18.557434,
+                        48.337411
+                  ]
+            },
+            {
+                  "name": "Obranný val, Hradisko Krivín v Rybníku",
+                  "text": "Eine historische Wallanlage in der Region Rybník bei Hronský Beňadik.",
+                  "category": "historical",
+                  "coords": [
+                        18.575082,
+                        48.334149
+                  ]
+            },
+            {
+                  "name": "Bývalý amfiteáter pod Krivínom",
+                  "text": "Standort eines ehemaligen Freilichttheaters unterhalb des Krivín-Hügels.",
+                  "category": "cultural",
+                  "coords": [
+                        18.550731,
+                        48.324347
+                  ]
+            },
+            {
+                  "name": "Hradisko Krivín v Rybníku",
+                  "text": "Ort einer antiken befestigten Siedlung in Rybník.",
+                  "category": "historical",
+                  "coords": [
+                        18.558786,
+                        48.326229
+                  ]
+            },
+            {
+                  "name": "Val obrov, orovnický úsek",
+                  "text": "Teil des historischen „Riesenwalls“ im Abschnitt nahe Orovnica.",
+                  "category": "historical",
+                  "coords": [
+                        18.581869,
+                        48.372899
+                  ]
+            },
+            {
+                  "name": "Hláska Luchtov",
+                  "text": "Die Ruinen eines historischen Wachturms in der Umgebung der Abtei.",
+                  "category": "historical",
+                  "coords": [
+                        18.594119,
+                        48.356739
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Garamszentbenedeki apátság",
+                  "text": "Jelentős bencés apátság Szlovákiában, lenyűgöző gótikus templommal.",
+                  "category": "religious",
+                  "coords": [
+                        18.557955,
+                        48.344667
+                  ]
+            },
+            {
+                  "name": "Obranný val, Hradisko na Lipníkoch",
+                  "text": "Régészeti lelőhely egy történelmi sánc maradványaival Garamszentbenedeken.",
+                  "category": "historical",
+                  "coords": [
+                        18.579412,
+                        48.341063
+                  ]
+            },
+            {
+                  "name": "Obranný val, Hradisko na Beňadickej skale",
+                  "text": "Történelmi erődítmény maradványai a Beňadiki-sziklán.",
+                  "category": "historical",
+                  "coords": [
+                        18.557434,
+                        48.337411
+                  ]
+            },
+            {
+                  "name": "Obranný val, Hradisko Krivín v Rybníku",
+                  "text": "Történelmi sáncrendszer a Rybník (Garamszőllős) környékén.",
+                  "category": "historical",
+                  "coords": [
+                        18.575082,
+                        48.334149
+                  ]
+            },
+            {
+                  "name": "Bývalý amfiteáter pod Krivínom",
+                  "text": "Egykori szabadtéri színpad helyszíne a Krivín-hegy alatt.",
+                  "category": "cultural",
+                  "coords": [
+                        18.550731,
+                        48.324347
+                  ]
+            },
+            {
+                  "name": "Hradisko Krivín v Rybníku",
+                  "text": "Egykori erődített település helyszíne Rybníkben.",
+                  "category": "historical",
+                  "coords": [
+                        18.558786,
+                        48.326229
+                  ]
+            },
+            {
+                  "name": "Val obrov, orovnický úsek",
+                  "text": "A történelmi „Óriássánc” része az Orovnica melletti szakaszon.",
+                  "category": "historical",
+                  "coords": [
+                        18.581869,
+                        48.372899
+                  ]
+            },
+            {
+                  "name": "Hláska Luchtov",
+                  "text": "Egy történelmi őrtorony romjai az apátság környékén.",
+                  "category": "historical",
+                  "coords": [
+                        18.594119,
+                        48.356739
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Kláštor Hronský Beňadik",
+                  "text": "O importantă abație benedictină din Slovacia, cu o biserică gotică impresionantă.",
+                  "category": "religious",
+                  "coords": [
+                        18.557955,
+                        48.344667
+                  ]
+            },
+            {
+                  "name": "Obranný val, Hradisko na Lipníkoch",
+                  "text": "Sit arheologic ce cuprinde rămășițele unui val de apărare istoric în Hronský Beňadik.",
+                  "category": "historical",
+                  "coords": [
+                        18.579412,
+                        48.341063
+                  ]
+            },
+            {
+                  "name": "Obranný val, Hradisko na Beňadickej skale",
+                  "text": "Rămășițele unei fortificații istorice pe stânca Beňadik.",
+                  "category": "historical",
+                  "coords": [
+                        18.557434,
+                        48.337411
+                  ]
+            },
+            {
+                  "name": "Obranný val, Hradisko Krivín v Rybníku",
+                  "text": "Un sistem de fortificații istorice în regiunea Rybník, lângă Hronský Beňadik.",
+                  "category": "historical",
+                  "coords": [
+                        18.575082,
+                        48.334149
+                  ]
+            },
+            {
+                  "name": "Bývalý amfiteáter pod Krivínom",
+                  "text": "Locul unui fost amfiteatru în aer liber de sub dealul Krivín.",
+                  "category": "cultural",
+                  "coords": [
+                        18.550731,
+                        48.324347
+                  ]
+            },
+            {
+                  "name": "Hradisko Krivín v Rybníku",
+                  "text": "Locul unei așezări fortificate antice din Rybník.",
+                  "category": "historical",
+                  "coords": [
+                        18.558786,
+                        48.326229
+                  ]
+            },
+            {
+                  "name": "Val obrov, orovnický úsek",
+                  "text": "O secțiune a istoricelui „Val al Uriașilor” din zona de lângă Orovnica.",
+                  "category": "historical",
+                  "coords": [
+                        18.581869,
+                        48.372899
+                  ]
+            },
+            {
+                  "name": "Hláska Luchtov",
+                  "text": "Ruinele unui turn de veghe istoric din împrejurimile abației.",
+                  "category": "historical",
+                  "coords": [
+                        18.594119,
+                        48.356739
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Hronský Beňadik monastery",
+                  "text": "A significant Benedictine abbey in Slovakia with an impressive Gothic church.",
+                  "category": "religious",
+                  "coords": [
+                        18.557955,
+                        48.344667
+                  ]
+            },
+            {
+                  "name": "Obranný val, Hradisko na Lipníkoch",
+                  "text": "Archaeological site featuring the remains of a historic defensive rampart in Hronský Beňadik.",
+                  "category": "historical",
+                  "coords": [
+                        18.579412,
+                        48.341063
+                  ]
+            },
+            {
+                  "name": "Obranný val, Hradisko na Beňadickej skale",
+                  "text": "Remains of a historic fortification on the Beňadik rock.",
+                  "category": "historical",
+                  "coords": [
+                        18.557434,
+                        48.337411
+                  ]
+            },
+            {
+                  "name": "Obranný val, Hradisko Krivín v Rybníku",
+                  "text": "A historic rampart system in the Rybník region near Hronský Beňadik.",
+                  "category": "historical",
+                  "coords": [
+                        18.575082,
+                        48.334149
+                  ]
+            },
+            {
+                  "name": "Bývalý amfiteáter pod Krivínom",
+                  "text": "Site of a former open-air theatre below the Krivín hill.",
+                  "category": "cultural",
+                  "coords": [
+                        18.550731,
+                        48.324347
+                  ]
+            },
+            {
+                  "name": "Hradisko Krivín v Rybníku",
+                  "text": "Site of an ancient fortified settlement in Rybník.",
+                  "category": "historical",
+                  "coords": [
+                        18.558786,
+                        48.326229
+                  ]
+            },
+            {
+                  "name": "Val obrov, orovnický úsek",
+                  "text": "A section of the historic \"Giants' Wall\" in the area near Orovnica.",
+                  "category": "historical",
+                  "coords": [
+                        18.581869,
+                        48.372899
+                  ]
+            },
+            {
+                  "name": "Hláska Luchtov",
+                  "text": "The ruins of a historic watchtower in the surroundings of the abbey.",
+                  "category": "historical",
+                  "coords": [
+                        18.594119,
+                        48.356739
+                  ]
+            }
+      ]
+},
     parent: "SK",
     type: "church",
     name: { de: "Abtei Hronský Beňadik", hu: "Garamszentbenedeki apátság", ro: "Abația Hronský Beňadik", en: "Hronský Beňadik Abbey"},
@@ -498,7 +1056,304 @@ imageHint: "Bratislava castle and Danube aerial history",
     },
     image: "/poi-images/slovakia-pressburg-907-battlefield-history-v2.webp",
 },  {
-    id: "slovakia-cerveny-klastor-history-v2",
+    id: "slovakia-cerveny-klastor-history-v2", "sights": {
+      "de": [
+            {
+                  "name": "Pieninen-Burg",
+                  "text": "Die Ruinen einer mittelalterlichen Burg hoch über dem Dunajec in den Pieninen.",
+                  "category": "castle",
+                  "coords": [
+                        20.420283,
+                        49.420109
+                  ]
+            },
+            {
+                  "name": "Rotes Kloster",
+                  "text": "Ein ehemaliges Kartäuserkloster in Červený Kláštor, das heute als Museum dient.",
+                  "category": "religious",
+                  "coords": [
+                        20.417235,
+                        49.398667
+                  ]
+            },
+            {
+                  "name": "Pawilon Wejściowy w Szczawnicy",
+                  "text": "Ein Ausstellungsgebäude am Eingang zum Nationalpark in Szczawnica.",
+                  "category": "museum",
+                  "coords": [
+                        20.4563,
+                        49.418465
+                  ]
+            },
+            {
+                  "name": "Pawilon wejściowy w Sromowcach Wyżnych - Kątach",
+                  "text": "Ein Informationspavillon und Museum am Startpunkt der Floßfahrten auf dem Dunajec.",
+                  "category": "museum",
+                  "coords": [
+                        20.367983,
+                        49.406449
+                  ]
+            },
+            {
+                  "name": "Drei Kronen",
+                  "text": "Der bekannteste Aussichtsgipfel des Pieninen-Gebirges mit markanter Felsformation.",
+                  "category": "natural",
+                  "coords": [
+                        20.414188,
+                        49.413823
+                  ]
+            },
+            {
+                  "name": "Sokolica",
+                  "text": "Ein berühmter Berggipfel in den Pieninen, bekannt für seine Panoramaaussicht und die alte Kiefer.",
+                  "category": "landmark",
+                  "coords": [
+                        20.440375,
+                        49.417651
+                  ]
+            },
+            {
+                  "name": "Klosterberg",
+                  "text": "Ein bewaldeter Berg in der Nähe des Klosters Červený Kláštor.",
+                  "category": "landmark",
+                  "coords": [
+                        20.422794,
+                        49.400837
+                  ]
+            },
+            {
+                  "name": "Holica",
+                  "text": "Ein markanter Berggipfel im slowakischen Teil der Pieninen.",
+                  "category": "landmark",
+                  "coords": [
+                        20.446001,
+                        49.408426
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Zamek Pieniński",
+                  "text": "Középkori vár romjai a Dunajec felett, a Pieninek-hegységben.",
+                  "category": "castle",
+                  "coords": [
+                        20.420283,
+                        49.420109
+                  ]
+            },
+            {
+                  "name": "Vöröskolostor",
+                  "text": "Egykori karthauzi kolostor Červený Kláštorban, amely ma múzeumként működik.",
+                  "category": "religious",
+                  "coords": [
+                        20.417235,
+                        49.398667
+                  ]
+            },
+            {
+                  "name": "Pawilon Wejściowy w Szczawnicy",
+                  "text": "Kiállítóhely és fogadóépület a nemzeti park bejáratánál, Szczawnicában.",
+                  "category": "museum",
+                  "coords": [
+                        20.4563,
+                        49.418465
+                  ]
+            },
+            {
+                  "name": "Pawilon wejściowy w Sromowcach Wyżnych - Kątach",
+                  "text": "Információs pavilon és múzeum a dunajeci tutajozás kezdőpontjánál.",
+                  "category": "museum",
+                  "coords": [
+                        20.367983,
+                        49.406449
+                  ]
+            },
+            {
+                  "name": "Koronahegy",
+                  "text": "A Pieninek-hegység legismertebb kilátópontja, jellegzetes sziklaformációval.",
+                  "category": "natural",
+                  "coords": [
+                        20.414188,
+                        49.413823
+                  ]
+            },
+            {
+                  "name": "Sokolica",
+                  "text": "Híres hegycsúcs a Pieninekben, amely panorámás kilátásáról és öreg erdeifenyőjéről ismert.",
+                  "category": "landmark",
+                  "coords": [
+                        20.440375,
+                        49.417651
+                  ]
+            },
+            {
+                  "name": "Kláštorná hora",
+                  "text": "Erdős hegy a Červený Kláštor kolostor közelében.",
+                  "category": "landmark",
+                  "coords": [
+                        20.422794,
+                        49.400837
+                  ]
+            },
+            {
+                  "name": "Holica",
+                  "text": "Jellegzetes hegycsúcs a Pieninek szlovákiai részén.",
+                  "category": "landmark",
+                  "coords": [
+                        20.446001,
+                        49.408426
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Zamek Pieniński",
+                  "text": "Ruinele unui castel medieval situat deasupra Dunajecului în munții Pieniny.",
+                  "category": "castle",
+                  "coords": [
+                        20.420283,
+                        49.420109
+                  ]
+            },
+            {
+                  "name": "Červený kláštor",
+                  "text": "O fostă mănăstire cartusiană din Červený Kláštor, care astăzi servește ca muzeu.",
+                  "category": "religious",
+                  "coords": [
+                        20.417235,
+                        49.398667
+                  ]
+            },
+            {
+                  "name": "Pawilon Wejściowy w Szczawnicy",
+                  "text": "O clădire de expoziție la intrarea în parcul național din Szczawnica.",
+                  "category": "museum",
+                  "coords": [
+                        20.4563,
+                        49.418465
+                  ]
+            },
+            {
+                  "name": "Pawilon wejściowy w Sromowcach Wyżnych - Kątach",
+                  "text": "Un pavilion de informare și muzeu la punctul de plecare al plutaritului pe Dunajec.",
+                  "category": "museum",
+                  "coords": [
+                        20.367983,
+                        49.406449
+                  ]
+            },
+            {
+                  "name": "Trzy Korony (Okrąglica)",
+                  "text": "Cel mai cunoscut vârf panoramic din munții Pieniny, cu o formațiune stâncoasă distinctivă.",
+                  "category": "natural",
+                  "coords": [
+                        20.414188,
+                        49.413823
+                  ]
+            },
+            {
+                  "name": "Sokolica",
+                  "text": "Un vârf montan celebru în Pieniny, cunoscut pentru vederea panoramică și pinul secular.",
+                  "category": "landmark",
+                  "coords": [
+                        20.440375,
+                        49.417651
+                  ]
+            },
+            {
+                  "name": "Kláštorná hora",
+                  "text": "Un munte împădurit situat în apropierea mănăstirii Červený Kláštor.",
+                  "category": "landmark",
+                  "coords": [
+                        20.422794,
+                        49.400837
+                  ]
+            },
+            {
+                  "name": "Holica",
+                  "text": "Un vârf montan distinctiv în partea slovacă a munților Pieniny.",
+                  "category": "landmark",
+                  "coords": [
+                        20.446001,
+                        49.408426
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Pieniny Castle",
+                  "text": "The ruins of a medieval castle situated high above the Dunajec river in the Pieniny mountains.",
+                  "category": "castle",
+                  "coords": [
+                        20.420283,
+                        49.420109
+                  ]
+            },
+            {
+                  "name": "Červený kláštor",
+                  "text": "A former Carthusian monastery in Červený Kláštor, which now serves as a museum.",
+                  "category": "religious",
+                  "coords": [
+                        20.417235,
+                        49.398667
+                  ]
+            },
+            {
+                  "name": "Pawilon Wejściowy w Szczawnicy",
+                  "text": "An exhibition building at the entrance to the national park in Szczawnica.",
+                  "category": "museum",
+                  "coords": [
+                        20.4563,
+                        49.418465
+                  ]
+            },
+            {
+                  "name": "Pawilon wejściowy w Sromowcach Wyżnych - Kątach",
+                  "text": "An informational pavilion and museum at the starting point of the Dunajec river rafting.",
+                  "category": "museum",
+                  "coords": [
+                        20.367983,
+                        49.406449
+                  ]
+            },
+            {
+                  "name": "Three Crowns",
+                  "text": "The most famous viewpoint peak of the Pieniny mountains with a distinctive rock formation.",
+                  "category": "natural",
+                  "coords": [
+                        20.414188,
+                        49.413823
+                  ]
+            },
+            {
+                  "name": "Sokolica",
+                  "text": "A famous mountain peak in the Pieniny, known for its panoramic views and ancient pine tree.",
+                  "category": "landmark",
+                  "coords": [
+                        20.440375,
+                        49.417651
+                  ]
+            },
+            {
+                  "name": "Kláštorná hora",
+                  "text": "A forested mountain located near the Červený Kláštor monastery.",
+                  "category": "landmark",
+                  "coords": [
+                        20.422794,
+                        49.400837
+                  ]
+            },
+            {
+                  "name": "Holica",
+                  "text": "A distinctive mountain peak in the Slovak part of the Pieniny mountains.",
+                  "category": "landmark",
+                  "coords": [
+                        20.446001,
+                        49.408426
+                  ]
+            }
+      ]
+},
     parent: "SK",
     type: "museum",
     name: { de: "Rotes Kloster", hu: "Vörös kolostor", ro: "Mănăstirea Roșie", en: "Červený Kláštor"},
@@ -813,7 +1668,232 @@ imageHint: "Krupina Vartovka watchtower",
     },
     image: "/poi-images/slovakia-krupina-vartovka-history-v2.webp",
 },  {
-    id: "slovakia-gymes-ruins-history-v2",
+    id: "slovakia-gymes-ruins-history-v2", "sights": {
+      "de": [
+            {
+                  "name": "Gýmeš",
+                  "text": "Die Ruinen einer mittelalterlichen Burg, die auf einem bewaldeten Hügel im Tribeč-Gebirge liegen.",
+                  "category": "castle",
+                  "coords": [
+                        18.222553,
+                        48.411522
+                  ]
+            },
+            {
+                  "name": "Hradisko Veľký Lysec",
+                  "text": "Eine archäologische Fundstätte einer antiken befestigten Siedlung auf dem Hügel Veľký Lysec.",
+                  "category": "historical",
+                  "coords": [
+                        18.269558,
+                        48.417641
+                  ]
+            },
+            {
+                  "name": "Múzeum",
+                  "text": "Ein Museum vor Ort, das Fundstücke und die Geschichte der Burgruine Gýmeš dokumentiert.",
+                  "category": "museum",
+                  "coords": [
+                        18.260889,
+                        48.397676
+                  ]
+            },
+            {
+                  "name": "Ploská",
+                  "text": "Ein markanter Berggipfel in der Nähe der Burg Gýmeš mit weitem Blick auf die umliegende Landschaft.",
+                  "category": "landmark",
+                  "coords": [
+                        18.253562,
+                        48.431468
+                  ]
+            },
+            {
+                  "name": "Drža",
+                  "text": "Eine Erhebung im Gebirge, die Wanderern Ausblicke auf die unberührte Natur der Region bietet.",
+                  "category": "landmark",
+                  "coords": [
+                        18.200456,
+                        48.444352
+                  ]
+            },
+            {
+                  "name": "Kostol sv. Juraja",
+                  "text": "Eine der ältesten Kirchen der Slowakei, die für ihre wertvolle vorromanische Architektur bekannt ist.",
+                  "category": "landmark",
+                  "coords": [
+                        18.246702,
+                        48.415662
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Gímes vára",
+                  "text": "Középkori várromok, amelyek a Tribecs-hegység egyik erdős dombján találhatók.",
+                  "category": "castle",
+                  "coords": [
+                        18.222553,
+                        48.411522
+                  ]
+            },
+            {
+                  "name": "Hradisko Veľký Lysec",
+                  "text": "Egy ősi erődített település régészeti lelőhelye a Veľký Lysec dombon.",
+                  "category": "historical",
+                  "coords": [
+                        18.269558,
+                        48.417641
+                  ]
+            },
+            {
+                  "name": "Múzeum",
+                  "text": "Helyi múzeum, amely a gímesi várrom leleteit és történelmét mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        18.260889,
+                        48.397676
+                  ]
+            },
+            {
+                  "name": "Ploská",
+                  "text": "Jellegzetes hegycsúcs a gímesi vár közelében, ahonnan kilátás nyílik a környező tájra.",
+                  "category": "landmark",
+                  "coords": [
+                        18.253562,
+                        48.431468
+                  ]
+            },
+            {
+                  "name": "Drža",
+                  "text": "Hegyi magaslat, amely kilátást nyújt a régió érintetlen természetére a túrázók számára.",
+                  "category": "landmark",
+                  "coords": [
+                        18.200456,
+                        48.444352
+                  ]
+            },
+            {
+                  "name": "Szent György templom",
+                  "text": "Szlovákia egyik legrégebbi temploma, amely értékes preromán építészetéről ismert.",
+                  "category": "landmark",
+                  "coords": [
+                        18.246702,
+                        48.415662
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Gýmeš",
+                  "text": "Ruinele unui castel medieval situat pe un deal împădurit din munții Tribeč.",
+                  "category": "castle",
+                  "coords": [
+                        18.222553,
+                        48.411522
+                  ]
+            },
+            {
+                  "name": "Hradisko Veľký Lysec",
+                  "text": "Un sit arheologic al unei așezări fortificate antice pe dealul Veľký Lysec.",
+                  "category": "historical",
+                  "coords": [
+                        18.269558,
+                        48.417641
+                  ]
+            },
+            {
+                  "name": "Múzeum",
+                  "text": "Un muzeu local care documentează artefactele și istoria ruinelor castelului Gýmeš.",
+                  "category": "museum",
+                  "coords": [
+                        18.260889,
+                        48.397676
+                  ]
+            },
+            {
+                  "name": "Ploská",
+                  "text": "Un vârf muntos proeminent lângă castelul Gýmeš, oferind vederi asupra peisajului înconjurător.",
+                  "category": "landmark",
+                  "coords": [
+                        18.253562,
+                        48.431468
+                  ]
+            },
+            {
+                  "name": "Drža",
+                  "text": "O înălțime montană care oferă drumeților vederi asupra naturii neatinse a regiunii.",
+                  "category": "landmark",
+                  "coords": [
+                        18.200456,
+                        48.444352
+                  ]
+            },
+            {
+                  "name": "Kostol sv. Juraja",
+                  "text": "Una dintre cele mai vechi biserici din Slovacia, cunoscută pentru arhitectura sa preromanică valoroasă.",
+                  "category": "landmark",
+                  "coords": [
+                        18.246702,
+                        48.415662
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Gýmeš",
+                  "text": "The ruins of a medieval castle located on a wooded hill in the Tribeč mountains.",
+                  "category": "castle",
+                  "coords": [
+                        18.222553,
+                        48.411522
+                  ]
+            },
+            {
+                  "name": "Hradisko Veľký Lysec",
+                  "text": "An archaeological site of an ancient fortified settlement on the Veľký Lysec hill.",
+                  "category": "historical",
+                  "coords": [
+                        18.269558,
+                        48.417641
+                  ]
+            },
+            {
+                  "name": "Múzeum",
+                  "text": "A local museum documenting the finds and history of the Gýmeš castle ruins.",
+                  "category": "museum",
+                  "coords": [
+                        18.260889,
+                        48.397676
+                  ]
+            },
+            {
+                  "name": "Ploská",
+                  "text": "A prominent mountain peak near Gýmeš Castle, offering views of the surrounding landscape.",
+                  "category": "landmark",
+                  "coords": [
+                        18.253562,
+                        48.431468
+                  ]
+            },
+            {
+                  "name": "Drža",
+                  "text": "A mountain elevation offering hikers views of the region's untouched nature.",
+                  "category": "landmark",
+                  "coords": [
+                        18.200456,
+                        48.444352
+                  ]
+            },
+            {
+                  "name": "Kostol sv. Juraja",
+                  "text": "One of the oldest churches in Slovakia, known for its valuable pre-Romanesque architecture.",
+                  "category": "landmark",
+                  "coords": [
+                        18.246702,
+                        48.415662
+                  ]
+            }
+      ]
+},
     parent: "SK",
     type: "ruins",
     name: { de: "Burgruine Gýmeš", hu: "Gímes vára", ro: "Cetatea Gýmeš", en: "Gýmeš Castle Ruins"},
@@ -948,7 +2028,124 @@ imageHint: "Sklabina castle ruins Turiec",
     },
     image: "/poi-images/slovakia-sklabina-ruins-history-v2.webp",
 },  {
-    id: "slovakia-tematin-ruins-history-v2",
+    id: "slovakia-tematin-ruins-history-v2", "sights": {
+      "de": [
+            {
+                  "name": "Tematín",
+                  "text": "Die Ruine einer mittelalterlichen Burg im Inowetz-Gebirge, die einst zur Verteidigung diente.",
+                  "category": "castle",
+                  "coords": [
+                        17.929172,
+                        48.677244
+                  ]
+            },
+            {
+                  "name": "Bezovec",
+                  "text": "Ein bekannter Berg und Skigebiet im Považský Inovec-Gebirge in der Slowakei.",
+                  "category": "landmark",
+                  "coords": [
+                        17.974632,
+                        48.672819
+                  ]
+            },
+            {
+                  "name": "Kaštieľ Lúka",
+                  "text": "Ein barock-klassizistisches Herrenhaus in der Gemeinde Lúka.",
+                  "category": "historical",
+                  "coords": [
+                        17.880358,
+                        48.658646
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Tematín",
+                  "text": "Egy középkori vár romjai a Považský Inovec-hegységben, amely egykor védelmi célokat szolgált.",
+                  "category": "castle",
+                  "coords": [
+                        17.929172,
+                        48.677244
+                  ]
+            },
+            {
+                  "name": "Bezovec",
+                  "text": "Ismert hegy és síközpont a szlovákiai Považský Inovec-hegységben.",
+                  "category": "landmark",
+                  "coords": [
+                        17.974632,
+                        48.672819
+                  ]
+            },
+            {
+                  "name": "Kaštieľ Lúka",
+                  "text": "Barokk-klasszicista stílusú kastély Lúka községben.",
+                  "category": "historical",
+                  "coords": [
+                        17.880358,
+                        48.658646
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Tematín",
+                  "text": "Ruinele unui castel medieval din munții Inovec, care servea în trecut pentru apărare.",
+                  "category": "castle",
+                  "coords": [
+                        17.929172,
+                        48.677244
+                  ]
+            },
+            {
+                  "name": "Bezovec",
+                  "text": "Un munte cunoscut și o stațiune de schi din munții Považský Inovec din Slovacia.",
+                  "category": "landmark",
+                  "coords": [
+                        17.974632,
+                        48.672819
+                  ]
+            },
+            {
+                  "name": "Kaštieľ Lúka",
+                  "text": "Un conac în stil baroc-clasicist situat în comuna Lúka.",
+                  "category": "historical",
+                  "coords": [
+                        17.880358,
+                        48.658646
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Tematín",
+                  "text": "The ruins of a medieval castle in the Inovec Mountains, formerly used for defense.",
+                  "category": "castle",
+                  "coords": [
+                        17.929172,
+                        48.677244
+                  ]
+            },
+            {
+                  "name": "Bezovec",
+                  "text": "A well-known mountain and ski resort area in the Považský Inovec Mountains of Slovakia.",
+                  "category": "landmark",
+                  "coords": [
+                        17.974632,
+                        48.672819
+                  ]
+            },
+            {
+                  "name": "Kaštieľ Lúka",
+                  "text": "A Baroque-Classicist manor house located in the village of Lúka.",
+                  "category": "historical",
+                  "coords": [
+                        17.880358,
+                        48.658646
+                  ]
+            }
+      ]
+},
     parent: "SK",
     type: "ruins",
     name: { de: "Burgruine Tematín", hu: "Temetvény vára", ro: "Cetatea Tematín", en: "Tematín Castle Ruins"},
@@ -993,7 +2190,268 @@ imageHint: "Tematin castle ruins Slovakia aerial",
     },
     image: "/poi-images/slovakia-tematin-ruins-history-v2.webp",
 },  {
-    id: "slovakia-muran-ruins-history-v2",
+    id: "slovakia-muran-ruins-history-v2", "sights": {
+      "de": [
+            {
+                  "name": "Muráň",
+                  "text": "Die Burg Muráň ist eine hochgelegene mittelalterliche Festung mit Panoramablick vom Muránska Planina-Plateau.",
+                  "category": "castle",
+                  "coords": [
+                        20.058571,
+                        48.758657
+                  ]
+            },
+            {
+                  "name": "Rodinný park OBROVISKO",
+                  "text": "Dieser Familienpark bei Muráň bietet Tierbegegnungen und Outdoor-Aktivitäten in natürlicher Umgebung.",
+                  "category": "recreational",
+                  "coords": [
+                        20.072357,
+                        48.75463
+                  ]
+            },
+            {
+                  "name": "Sokoliarstvo Lukáš",
+                  "text": "Sokoliarstvo Lukáš ist ein Falknereizentrum, das Greifvögel und traditionelle Jagdtechniken zeigt.",
+                  "category": "recreational",
+                  "coords": [
+                        20.071259,
+                        48.756163
+                  ]
+            },
+            {
+                  "name": "Múzeum Muráň",
+                  "text": "Das Museum Muráň dokumentiert die lokale Geschichte, Volkstraditionen und das Erbe der Burg.",
+                  "category": "museum",
+                  "coords": [
+                        20.047603,
+                        48.739832
+                  ]
+            },
+            {
+                  "name": "Wesselényiho jaskyňa",
+                  "text": "Die Wesselényi-Höhle ist ein natürlicher Eingang zu einem Höhlensystem in der Nähe der historischen Burg Muráň.",
+                  "category": "landmark",
+                  "coords": [
+                        20.064219,
+                        48.764006
+                  ]
+            },
+            {
+                  "name": "Veľký Cigán",
+                  "text": "Veľký Cigán ist ein markanter Berggipfel in der Region Muránska Planina, der malerische Wanderrouten bietet.",
+                  "category": "landmark",
+                  "coords": [
+                        20.023388,
+                        48.786429
+                  ]
+            },
+            {
+                  "name": "Pavelková",
+                  "text": "Pavelková ist ein Gipfel im Slowakischen Erzgebirge, der für seine natürliche Schönheit und Panoramaaussichten bekannt ist.",
+                  "category": "landmark",
+                  "coords": [
+                        20.001473,
+                        48.757907
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Murányvár",
+                  "text": "Murány vára egy magasan fekvő középkori erődítmény, amely panorámás kilátást nyújt a Murányi-fennsíkról.",
+                  "category": "castle",
+                  "coords": [
+                        20.058571,
+                        48.758657
+                  ]
+            },
+            {
+                  "name": "Rodinný park OBROVISKO",
+                  "text": "Ez a Murány közelében található családi park állatbemutatókat és szabadtéri tevékenységeket kínál természetes környezetben.",
+                  "category": "recreational",
+                  "coords": [
+                        20.072357,
+                        48.75463
+                  ]
+            },
+            {
+                  "name": "Sokoliarstvo Lukáš",
+                  "text": "A Sokoliarstvo Lukáš egy solymászközpont, amely ragadozó madarakat és hagyományos vadászati technikákat mutat be.",
+                  "category": "recreational",
+                  "coords": [
+                        20.071259,
+                        48.756163
+                  ]
+            },
+            {
+                  "name": "Múzeum Muráň",
+                  "text": "A Murányi Múzeum a helytörténetet, a néphagyományokat és a vár örökségét dokumentálja.",
+                  "category": "museum",
+                  "coords": [
+                        20.047603,
+                        48.739832
+                  ]
+            },
+            {
+                  "name": "Wesselényi-barlang",
+                  "text": "A Wesselényi-barlang egy barlangrendszer természetes bejárata a történelmi Murány vára közelében.",
+                  "category": "landmark",
+                  "coords": [
+                        20.064219,
+                        48.764006
+                  ]
+            },
+            {
+                  "name": "Veľký Cigán",
+                  "text": "A Veľký Cigán a Murányi-fennsík egyik kiemelkedő hegycsúcsa, amely festői túraútvonalakat kínál.",
+                  "category": "landmark",
+                  "coords": [
+                        20.023388,
+                        48.786429
+                  ]
+            },
+            {
+                  "name": "Pavelková",
+                  "text": "A Pavelková a Szepes-Gömöri-karszt egyik csúcsa, amely természeti szépségéről és panorámás kilátásáról ismert.",
+                  "category": "landmark",
+                  "coords": [
+                        20.001473,
+                        48.757907
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Muráň",
+                  "text": "Castelul Muráň este o fortăreață medievală situată la mare altitudine, oferind vederi panoramice de pe platoul Muránska Planina.",
+                  "category": "castle",
+                  "coords": [
+                        20.058571,
+                        48.758657
+                  ]
+            },
+            {
+                  "name": "Rodinný park OBROVISKO",
+                  "text": "Acest parc de familie de lângă Muráň oferă întâlniri cu animale și activități în aer liber într-un cadru natural.",
+                  "category": "recreational",
+                  "coords": [
+                        20.072357,
+                        48.75463
+                  ]
+            },
+            {
+                  "name": "Sokoliarstvo Lukáš",
+                  "text": "Sokoliarstvo Lukáš este un centru de șoimărit care prezintă păsări de pradă și tehnici tradiționale de vânătoare.",
+                  "category": "recreational",
+                  "coords": [
+                        20.071259,
+                        48.756163
+                  ]
+            },
+            {
+                  "name": "Múzeum Muráň",
+                  "text": "Muzeul Muráň documentează istoria locală, tradițiile populare și moștenirea castelului.",
+                  "category": "museum",
+                  "coords": [
+                        20.047603,
+                        48.739832
+                  ]
+            },
+            {
+                  "name": "Wesselényiho jaskyňa",
+                  "text": "Peștera lui Wesselényi este o intrare naturală într-un sistem de peșteri situat lângă istoricul castel Muráň.",
+                  "category": "landmark",
+                  "coords": [
+                        20.064219,
+                        48.764006
+                  ]
+            },
+            {
+                  "name": "Veľký Cigán",
+                  "text": "Veľký Cigán este un vârf montan proeminent din regiunea Muránska Planina, oferind trasee pitorești de drumeție.",
+                  "category": "landmark",
+                  "coords": [
+                        20.023388,
+                        48.786429
+                  ]
+            },
+            {
+                  "name": "Pavelková",
+                  "text": "Pavelková este un vârf din Carstul Spiš-Gemer, cunoscut pentru frumusețea sa naturală și vederile panoramice.",
+                  "category": "landmark",
+                  "coords": [
+                        20.001473,
+                        48.757907
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Muráň",
+                  "text": "Muráň Castle is a high-altitude medieval fortress offering panoramic views from the Muránska Planina plateau.",
+                  "category": "castle",
+                  "coords": [
+                        20.058571,
+                        48.758657
+                  ]
+            },
+            {
+                  "name": "Rodinný park OBROVISKO",
+                  "text": "This family park near Muráň offers animal encounters and outdoor activities in a natural setting.",
+                  "category": "recreational",
+                  "coords": [
+                        20.072357,
+                        48.75463
+                  ]
+            },
+            {
+                  "name": "Sokoliarstvo Lukáš",
+                  "text": "Sokoliarstvo Lukáš is a falconry center showcasing birds of prey and traditional hunting techniques.",
+                  "category": "recreational",
+                  "coords": [
+                        20.071259,
+                        48.756163
+                  ]
+            },
+            {
+                  "name": "Múzeum Muráň",
+                  "text": "The Muráň Museum documents the local history, folk traditions, and the heritage of the castle.",
+                  "category": "museum",
+                  "coords": [
+                        20.047603,
+                        48.739832
+                  ]
+            },
+            {
+                  "name": "Wesselényi's cave",
+                  "text": "Wesselényi's Cave is a natural entrance to a cavern system located near the historic Muráň Castle.",
+                  "category": "landmark",
+                  "coords": [
+                        20.064219,
+                        48.764006
+                  ]
+            },
+            {
+                  "name": "Veľký Cigán",
+                  "text": "Veľký Cigán is a prominent mountain peak in the Muránska Planina region offering scenic hiking routes.",
+                  "category": "landmark",
+                  "coords": [
+                        20.023388,
+                        48.786429
+                  ]
+            },
+            {
+                  "name": "Pavelková",
+                  "text": "Pavelková is a peak in the Spiš-Gemer Karst known for its natural beauty and panoramic views.",
+                  "category": "landmark",
+                  "coords": [
+                        20.001473,
+                        48.757907
+                  ]
+            }
+      ]
+},
     parent: "SK",
     type: "ruins",
     name: { de: "Burgruine Muráň", hu: "Murány vára", ro: "Cetatea Muráň", en: "Muráň Castle Ruins"},
@@ -1083,7 +2541,304 @@ imageHint: "Sitno hill fort ruins",
     },
     image: "/poi-images/slovakia-sitno-archaeology-history-v2.webp",
 },  {
-    id: "slovakia-molpir-hillfort-history-v2",
+    id: "slovakia-molpir-hillfort-history-v2", "sights": {
+      "de": [
+            {
+                  "name": "Hradisko Molpír - národna kultúrna pamiatka",
+                  "text": "Eine bedeutende prähistorische Wallburg und ein nationales Kulturdenkmal, das Einblicke in Siedlungen der frühen Eisenzeit bietet.",
+                  "category": "historical",
+                  "coords": [
+                        17.425163,
+                        48.511611
+                  ]
+            },
+            {
+                  "name": "Smolenický zámok",
+                  "text": "Ein romantisches Schloss bei Smolenice, das im 20. Jahrhundert neu erbaut wurde und heute als Kongresszentrum für Wissenschaftler dient.",
+                  "category": "castle",
+                  "coords": [
+                        17.432406,
+                        48.513538
+                  ]
+            },
+            {
+                  "name": "Múzeum Molpír",
+                  "text": "Ein lokales Museum in Smolenice, das Funde aus der Wallburg Molpír und die Regionalgeschichte zeigt.",
+                  "category": "museum",
+                  "coords": [
+                        17.432044,
+                        48.508311
+                  ]
+            },
+            {
+                  "name": "Jaskyňa Driny",
+                  "text": "Die einzige öffentlich zugängliche Höhle in den Kleinen Karpaten, bekannt für ihre wunderschönen Tropfsteinformationen.",
+                  "category": "landmark",
+                  "coords": [
+                        17.40401,
+                        48.50072
+                  ]
+            },
+            {
+                  "name": "Záruby",
+                  "text": "Der höchste Gipfel der Kleinen Karpaten, der weite Ausblicke und beliebte Wanderwege bietet.",
+                  "category": "landmark",
+                  "coords": [
+                        17.392692,
+                        48.523451
+                  ]
+            },
+            {
+                  "name": "Havranica",
+                  "text": "Ein Berggipfel in den Kleinen Karpaten nahe der Molpír-Wallburg.",
+                  "category": "landmark",
+                  "coords": [
+                        17.406995,
+                        48.524983
+                  ]
+            },
+            {
+                  "name": "Čelo",
+                  "text": "Ein markanter Gipfel im Gebirgszug der Kleinen Karpaten.",
+                  "category": "landmark",
+                  "coords": [
+                        17.390134,
+                        48.516978
+                  ]
+            },
+            {
+                  "name": "Molpír",
+                  "text": "Ein Hügel, der als Standort einer bedeutenden prähistorischen Wallburg bekannt ist.",
+                  "category": "landmark",
+                  "coords": [
+                        17.423868,
+                        48.510722
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Hradisko Molpír - národna kultúrna pamiatka",
+                  "text": "Fontos őskori földvárhelyszín és nemzeti kulturális műemlék, amely betekintést nyújt a korai vaskori településekbe.",
+                  "category": "historical",
+                  "coords": [
+                        17.425163,
+                        48.511611
+                  ]
+            },
+            {
+                  "name": "Smolenický zámok",
+                  "text": "Szomolány közelében található romantikus kastély, amelyet a 20. században építettek újjá, és ma tudományos konferenciaközpontként működik.",
+                  "category": "castle",
+                  "coords": [
+                        17.432406,
+                        48.513538
+                  ]
+            },
+            {
+                  "name": "Múzeum Molpír",
+                  "text": "Szomolányi helyi múzeum, amely a Molpír földvárból származó leleteket és a régió történelmét mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        17.432044,
+                        48.508311
+                  ]
+            },
+            {
+                  "name": "Jaskyňa Driny",
+                  "text": "A Kis-Kárpátok egyetlen látogatható barlangja, amely gyönyörű cseppkőképződményeiről ismert.",
+                  "category": "landmark",
+                  "coords": [
+                        17.40401,
+                        48.50072
+                  ]
+            },
+            {
+                  "name": "Záruby",
+                  "text": "A Kis-Kárpátok legmagasabb csúcsa, amely tágas kilátást és népszerű túraútvonalakat kínál.",
+                  "category": "landmark",
+                  "coords": [
+                        17.392692,
+                        48.523451
+                  ]
+            },
+            {
+                  "name": "Havranica",
+                  "text": "Egy hegycsúcs a Kis-Kárpátokban, a Molpír-földvár közelében.",
+                  "category": "landmark",
+                  "coords": [
+                        17.406995,
+                        48.524983
+                  ]
+            },
+            {
+                  "name": "Čelo",
+                  "text": "A Kis-Kárpátok hegyláncának egyik jellegzetes csúcsa.",
+                  "category": "landmark",
+                  "coords": [
+                        17.390134,
+                        48.516978
+                  ]
+            },
+            {
+                  "name": "Molpír",
+                  "text": "Egy domb, amely egy jelentős őskori földvár helyszíneként ismert.",
+                  "category": "landmark",
+                  "coords": [
+                        17.423868,
+                        48.510722
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Hradisko Molpír - národna kultúrna pamiatka",
+                  "text": "Un important sit preistoric de cetate și monument cultural național care oferă informații despre așezările din epoca timpurie a fierului.",
+                  "category": "historical",
+                  "coords": [
+                        17.425163,
+                        48.511611
+                  ]
+            },
+            {
+                  "name": "Smolenický zámok",
+                  "text": "Un castel romantic de lângă Smolenice, reconstruit în secolul al XX-lea, care servește drept centru de conferințe pentru cercetători.",
+                  "category": "castle",
+                  "coords": [
+                        17.432406,
+                        48.513538
+                  ]
+            },
+            {
+                  "name": "Múzeum Molpír",
+                  "text": "Un muzeu local din Smolenice care expune artefacte din cetatea Molpír și istoria regională.",
+                  "category": "museum",
+                  "coords": [
+                        17.432044,
+                        48.508311
+                  ]
+            },
+            {
+                  "name": "Jaskyňa Driny",
+                  "text": "Singura peșteră deschisă publicului din Carpații Mici, cunoscută pentru frumoasele sale formațiuni de stalactite și stalagmite.",
+                  "category": "landmark",
+                  "coords": [
+                        17.40401,
+                        48.50072
+                  ]
+            },
+            {
+                  "name": "Záruby",
+                  "text": "Cel mai înalt vârf din Carpații Mici, oferind vederi extinse și trasee de drumeție populare.",
+                  "category": "landmark",
+                  "coords": [
+                        17.392692,
+                        48.523451
+                  ]
+            },
+            {
+                  "name": "Havranica",
+                  "text": "Un vârf montan în Carpații Mici, situat lângă cetatea Molpír.",
+                  "category": "landmark",
+                  "coords": [
+                        17.406995,
+                        48.524983
+                  ]
+            },
+            {
+                  "name": "Čelo",
+                  "text": "Un vârf proeminent în lanțul muntos al Carpaților Mici.",
+                  "category": "landmark",
+                  "coords": [
+                        17.390134,
+                        48.516978
+                  ]
+            },
+            {
+                  "name": "Molpír",
+                  "text": "Un deal cunoscut ca sit al unei importante cetăți preistorice.",
+                  "category": "landmark",
+                  "coords": [
+                        17.423868,
+                        48.510722
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Hradisko Molpír - národna kultúrna pamiatka",
+                  "text": "An important prehistoric hillfort site and national cultural monument offering insights into Early Iron Age settlements.",
+                  "category": "historical",
+                  "coords": [
+                        17.425163,
+                        48.511611
+                  ]
+            },
+            {
+                  "name": "Smolenický zámok",
+                  "text": "A romantic castle near Smolenice, rebuilt in the 20th century, serving as a convention center for scientists.",
+                  "category": "castle",
+                  "coords": [
+                        17.432406,
+                        48.513538
+                  ]
+            },
+            {
+                  "name": "Múzeum Molpír",
+                  "text": "A local museum in Smolenice showcasing artifacts from the Molpír hillfort and regional history.",
+                  "category": "museum",
+                  "coords": [
+                        17.432044,
+                        48.508311
+                  ]
+            },
+            {
+                  "name": "Jaskyňa Driny",
+                  "text": "The only cave open to the public in the Little Carpathians, known for its beautiful dripstone formations.",
+                  "category": "landmark",
+                  "coords": [
+                        17.40401,
+                        48.50072
+                  ]
+            },
+            {
+                  "name": "Záruby",
+                  "text": "The highest peak of the Little Carpathians, offering extensive views and popular hiking trails.",
+                  "category": "landmark",
+                  "coords": [
+                        17.392692,
+                        48.523451
+                  ]
+            },
+            {
+                  "name": "Havranica",
+                  "text": "A mountain peak in the Little Carpathians near the Molpír hillfort.",
+                  "category": "landmark",
+                  "coords": [
+                        17.406995,
+                        48.524983
+                  ]
+            },
+            {
+                  "name": "Čelo",
+                  "text": "A prominent peak in the Little Carpathians mountain range.",
+                  "category": "landmark",
+                  "coords": [
+                        17.390134,
+                        48.516978
+                  ]
+            },
+            {
+                  "name": "Molpír",
+                  "text": "A hill known as the site of a significant prehistoric hillfort.",
+                  "category": "landmark",
+                  "coords": [
+                        17.423868,
+                        48.510722
+                  ]
+            }
+      ]
+},
     parent: "SK",
     type: "ruins",
     name: { de: "Wallburg Molpír", hu: "Molpír földvár", ro: "Fortificația Molpír", en: "Molpír Hillfort"},
@@ -1128,7 +2883,196 @@ imageHint: "Molpir archaeological site Smolenice",
     },
     image: "/poi-images/slovakia-molpir-hillfort-history-v2.webp",
 },  {
-    id: "slovakia-bina-fortifications-history-v2",
+    id: "slovakia-bina-fortifications-history-v2", "sights": {
+      "de": [
+            {
+                  "name": "Hradisko z neolitu",
+                  "text": "Eine archäologische Ausgrabungsstätte aus der Jungsteinzeit in Bíňa.",
+                  "category": "historical",
+                  "coords": [
+                        18.632101,
+                        47.923636
+                  ]
+            },
+            {
+                  "name": "Hrádok Kamenín",
+                  "text": "Eine historische archäologische Stätte bei den Erdwällen von Bíňa.",
+                  "category": "historical",
+                  "coords": [
+                        18.650482,
+                        47.893765
+                  ]
+            },
+            {
+                  "name": "Kostol Nanebovzatia Panny Márie",
+                  "text": "Eine der Jungfrau Maria gewidmete Kirche bei den Erdwällen von Bíňa.",
+                  "category": "religious",
+                  "coords": [
+                        18.643553,
+                        47.921081
+                  ]
+            },
+            {
+                  "name": "Rotunda 12 apoštolov",
+                  "text": "Eine historische Rotunde, die den zwölf Aposteln gewidmet ist.",
+                  "category": "religious",
+                  "coords": [
+                        18.642609,
+                        47.921045
+                  ]
+            },
+            {
+                  "name": "Kostol sv. Martina",
+                  "text": "Eine dem Heiligen Martin geweihte Kirche in Bíňa.",
+                  "category": "religious",
+                  "coords": [
+                        18.682237,
+                        47.938586
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Hradisko z neolitu",
+                  "text": "Neolitikumi régészeti lelőhely Bény (Bíňa) területén.",
+                  "category": "historical",
+                  "coords": [
+                        18.632101,
+                        47.923636
+                  ]
+            },
+            {
+                  "name": "Hrádok Kamenín",
+                  "text": "Történelmi régészeti lelőhely a bényi sáncoknál.",
+                  "category": "historical",
+                  "coords": [
+                        18.650482,
+                        47.893765
+                  ]
+            },
+            {
+                  "name": "Kostol Nanebovzatia Panny Márie",
+                  "text": "Szűz Mária mennybevételének szentelt templom Bényben.",
+                  "category": "religious",
+                  "coords": [
+                        18.643553,
+                        47.921081
+                  ]
+            },
+            {
+                  "name": "12 apostol körkápolna",
+                  "text": "A tizenkét apostolnak szentelt történelmi rotunda Bényben.",
+                  "category": "religious",
+                  "coords": [
+                        18.642609,
+                        47.921045
+                  ]
+            },
+            {
+                  "name": "Kostol sv. Martina",
+                  "text": "Szent Mártonnak szentelt templom Bény területén.",
+                  "category": "religious",
+                  "coords": [
+                        18.682237,
+                        47.938586
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Hradisko z neolitu",
+                  "text": "Sit arheologic din perioada neolitică situat în Bíňa.",
+                  "category": "historical",
+                  "coords": [
+                        18.632101,
+                        47.923636
+                  ]
+            },
+            {
+                  "name": "Hrádok Kamenín",
+                  "text": "Sit arheologic istoric situat lângă valurile de pământ din Bíňa.",
+                  "category": "historical",
+                  "coords": [
+                        18.650482,
+                        47.893765
+                  ]
+            },
+            {
+                  "name": "Kostol Nanebovzatia Panny Márie",
+                  "text": "O biserică dedicată Adormirii Maicii Domnului în Bíňa.",
+                  "category": "religious",
+                  "coords": [
+                        18.643553,
+                        47.921081
+                  ]
+            },
+            {
+                  "name": "Rotunda 12 apoštolov",
+                  "text": "O rotondă istorică dedicată celor 12 apostoli în Bíňa.",
+                  "category": "religious",
+                  "coords": [
+                        18.642609,
+                        47.921045
+                  ]
+            },
+            {
+                  "name": "Kostol sv. Martina",
+                  "text": "O biserică dedicată Sfântului Martin în zona Bíňa.",
+                  "category": "religious",
+                  "coords": [
+                        18.682237,
+                        47.938586
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Hradisko z neolitu",
+                  "text": "An archaeological site from the Neolithic period in Bíňa.",
+                  "category": "historical",
+                  "coords": [
+                        18.632101,
+                        47.923636
+                  ]
+            },
+            {
+                  "name": "Hrádok Kamenín",
+                  "text": "A historic archaeological site located near the Bíňa Earthen Walls.",
+                  "category": "historical",
+                  "coords": [
+                        18.650482,
+                        47.893765
+                  ]
+            },
+            {
+                  "name": "Kostol Nanebovzatia Panny Márie",
+                  "text": "A church dedicated to the Assumption of Mary in Bíňa.",
+                  "category": "religious",
+                  "coords": [
+                        18.643553,
+                        47.921081
+                  ]
+            },
+            {
+                  "name": "Rotunda 12 apoštolov",
+                  "text": "A historic rotunda dedicated to the 12 apostles in Bíňa.",
+                  "category": "religious",
+                  "coords": [
+                        18.642609,
+                        47.921045
+                  ]
+            },
+            {
+                  "name": "Kostol sv. Martina",
+                  "text": "A church dedicated to Saint Martin in the Bíňa area.",
+                  "category": "religious",
+                  "coords": [
+                        18.682237,
+                        47.938586
+                  ]
+            }
+      ]
+},
     parent: "SK",
     type: "ruins",
     name: { de: "Erdwälle von Bíňa", hu: "Bényi földsáncok", ro: "Fortificațiile de pământ din Bíňa", en: "Bíňa Earthen Walls"},
@@ -1309,7 +3253,232 @@ imageHint: "Mirbach Palace Bratislava facade",
   }
 ,
   {
-    id: "slovakia-katarinka-monastery-history-v2",
+    id: "slovakia-katarinka-monastery-history-v2", "sights": {
+      "de": [
+            {
+                  "name": "Františkánsky kláštor",
+                  "text": "Die Überreste eines ehemaligen Franziskanerklosters in der Westslowakei.",
+                  "category": "religious",
+                  "coords": [
+                        17.536397,
+                        48.554576
+                  ]
+            },
+            {
+                  "name": "Kaštieľ Trstín",
+                  "text": "Ein historisches Herrenhaus in der Ortschaft Trstín nahe der Klosterruine Katarínka.",
+                  "category": "historical",
+                  "coords": [
+                        17.460757,
+                        48.52914
+                  ]
+            },
+            {
+                  "name": "Kaštieľ Alfonz",
+                  "text": "Ein klassizistisches Herrenhaus in der Region Trnava, das als lokales Denkmal gilt.",
+                  "category": "historical",
+                  "coords": [
+                        17.46453,
+                        48.526293
+                  ]
+            },
+            {
+                  "name": "Kostol Sedembolestnej Panny Márie",
+                  "text": "Eine katholische Kirche in der Umgebung von Katarínka, die der Schmerzensmutter Maria geweiht ist.",
+                  "category": "religious",
+                  "coords": [
+                        17.473443,
+                        48.531633
+                  ]
+            },
+            {
+                  "name": "Kostol sv. Petra a Pavla",
+                  "text": "Eine christliche Kirche in der Nähe der historischen Stätte von Katarínka.",
+                  "category": "religious",
+                  "coords": [
+                        17.465604,
+                        48.525307
+                  ]
+            },
+            {
+                  "name": "Pamätný dom Juraja Fándlyho",
+                  "text": "Das Gedenkhaus des slowakischen Schriftstellers Juraj Fándly in der Ortschaft Naháč.",
+                  "category": "landmark",
+                  "coords": [
+                        17.532837,
+                        48.536179
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Františkánsky kláštor",
+                  "text": "Egy egykori ferences kolostor maradványai Nyugat-Szlovákiában.",
+                  "category": "religious",
+                  "coords": [
+                        17.536397,
+                        48.554576
+                  ]
+            },
+            {
+                  "name": "Kaštieľ Trstín",
+                  "text": "Történelmi kastély Trstín községben, a Katarínka-kolostorrom közelében.",
+                  "category": "historical",
+                  "coords": [
+                        17.460757,
+                        48.52914
+                  ]
+            },
+            {
+                  "name": "Kaštieľ Alfonz",
+                  "text": "Klasszicista kastély a Nagyszombati kerületben, amely helyi műemléknek számít.",
+                  "category": "historical",
+                  "coords": [
+                        17.46453,
+                        48.526293
+                  ]
+            },
+            {
+                  "name": "Kostol Sedembolestnej Panny Márie",
+                  "text": "Katolikus templom Katarínka környékén, amelyet a Fájdalmas Szűzanyának szenteltek.",
+                  "category": "religious",
+                  "coords": [
+                        17.473443,
+                        48.531633
+                  ]
+            },
+            {
+                  "name": "Kostol sv. Petra a Pavla",
+                  "text": "Keresztény templom a történelmi Katarínka helyszínének közelében.",
+                  "category": "religious",
+                  "coords": [
+                        17.465604,
+                        48.525307
+                  ]
+            },
+            {
+                  "name": "Pamätný dom Juraja Fándlyho",
+                  "text": "Juraj Fándly szlovák író emlékháza Nahács községben.",
+                  "category": "landmark",
+                  "coords": [
+                        17.532837,
+                        48.536179
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Františkánsky kláštor",
+                  "text": "Rămășițele unei foste mănăstiri franciscane situate în vestul Slovaciei.",
+                  "category": "religious",
+                  "coords": [
+                        17.536397,
+                        48.554576
+                  ]
+            },
+            {
+                  "name": "Kaštieľ Trstín",
+                  "text": "Un conac istoric în localitatea Trstín, situat lângă ruinele mănăstirii Katarínka.",
+                  "category": "historical",
+                  "coords": [
+                        17.460757,
+                        48.52914
+                  ]
+            },
+            {
+                  "name": "Kaštieľ Alfonz",
+                  "text": "Un conac neoclasic în regiunea Trnava, considerat monument local.",
+                  "category": "historical",
+                  "coords": [
+                        17.46453,
+                        48.526293
+                  ]
+            },
+            {
+                  "name": "Kostol Sedembolestnej Panny Márie",
+                  "text": "O biserică catolică în împrejurimile mănăstirii Katarínka, dedicată Maicii Domnului Îndurerate.",
+                  "category": "religious",
+                  "coords": [
+                        17.473443,
+                        48.531633
+                  ]
+            },
+            {
+                  "name": "Kostol sv. Petra a Pavla",
+                  "text": "O biserică creștină situată în apropierea sitului istoric Katarínka.",
+                  "category": "religious",
+                  "coords": [
+                        17.465604,
+                        48.525307
+                  ]
+            },
+            {
+                  "name": "Pamätný dom Juraja Fándlyho",
+                  "text": "Casa memorială a scriitorului slovac Juraj Fándly din localitatea Naháč.",
+                  "category": "landmark",
+                  "coords": [
+                        17.532837,
+                        48.536179
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Františkánsky kláštor",
+                  "text": "The remains of a former Franciscan monastery located in western Slovakia.",
+                  "category": "religious",
+                  "coords": [
+                        17.536397,
+                        48.554576
+                  ]
+            },
+            {
+                  "name": "Kaštieľ Trstín",
+                  "text": "A historic manor house in the village of Trstín, located near the Katarínka monastery ruins.",
+                  "category": "historical",
+                  "coords": [
+                        17.460757,
+                        48.52914
+                  ]
+            },
+            {
+                  "name": "Kaštieľ Alfonz",
+                  "text": "A Neoclassical manor house in the Trnava region, considered a local monument.",
+                  "category": "historical",
+                  "coords": [
+                        17.46453,
+                        48.526293
+                  ]
+            },
+            {
+                  "name": "Kostol Sedembolestnej Panny Márie",
+                  "text": "A Catholic church in the vicinity of Katarínka, dedicated to Our Lady of Sorrows.",
+                  "category": "religious",
+                  "coords": [
+                        17.473443,
+                        48.531633
+                  ]
+            },
+            {
+                  "name": "Kostol sv. Petra a Pavla",
+                  "text": "A Christian church located near the historic site of Katarínka.",
+                  "category": "religious",
+                  "coords": [
+                        17.465604,
+                        48.525307
+                  ]
+            },
+            {
+                  "name": "Pamätný dom Juraja Fándlyho",
+                  "text": "The memorial house of the Slovak writer Juraj Fándly in the village of Naháč.",
+                  "category": "landmark",
+                  "coords": [
+                        17.532837,
+                        48.536179
+                  ]
+            }
+      ]
+},
     type: "ruins",
     parent: "SK",
     name: { de: "Klosterruine Katarínka", hu: "Katarínka kolostorrom", ro: "Ruinele mănăstirii Katarínka", en: "Katarínka Monastery Ruins" },
@@ -1399,7 +3568,268 @@ imageHint: "Mirbach Palace Bratislava facade",
     image: "/poi-images/slovakia-kapusany-castle-history-v2.webp",
   },
   {
-    id: "slovakia-blatnica-castle-history-v2",
+    id: "slovakia-blatnica-castle-history-v2", "sights": {
+      "de": [
+            {
+                  "name": "Blatnica",
+                  "text": "Die Ruinen einer mittelalterlichen Burg im Großen Fatra-Gebirge.",
+                  "category": "castle",
+                  "coords": [
+                        18.947078,
+                        48.947193
+                  ]
+            },
+            {
+                  "name": "Amfiteáter",
+                  "text": "Ein Freilichttheater in der Nähe der Burg Blatnica.",
+                  "category": "cultural",
+                  "coords": [
+                        18.935002,
+                        48.930353
+                  ]
+            },
+            {
+                  "name": "jaskyňa Mažarná",
+                  "text": "Eine bedeutende natürliche Höhle im Großen Fatra-Gebirge.",
+                  "category": "landmark",
+                  "coords": [
+                        18.9604,
+                        48.939597
+                  ]
+            },
+            {
+                  "name": "Tlstá",
+                  "text": "Ein markanter Berggipfel im Großen Fatra-Gebirge.",
+                  "category": "landmark",
+                  "coords": [
+                        18.971405,
+                        48.93413
+                  ]
+            },
+            {
+                  "name": "Mošovský park",
+                  "text": "Ein historischer Park im englischen Stil in Mošovce.",
+                  "category": "park",
+                  "coords": [
+                        18.893154,
+                        48.91287
+                  ]
+            },
+            {
+                  "name": "Révayovský kaštieľ",
+                  "text": "Ein historisches Herrenhaus der Familie Révay.",
+                  "category": "historical",
+                  "coords": [
+                        18.926819,
+                        48.938028
+                  ]
+            },
+            {
+                  "name": "Mlynčekovo",
+                  "text": "Eine lokale Touristenattraktion in der Gegend von Blatnica.",
+                  "category": "landmark",
+                  "coords": [
+                        18.964606,
+                        48.950102
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Blatnica",
+                  "text": "Középkori várrom a Nagy-Fátra hegységben.",
+                  "category": "castle",
+                  "coords": [
+                        18.947078,
+                        48.947193
+                  ]
+            },
+            {
+                  "name": "Amfiteáter",
+                  "text": "Szabadtéri színpad a blatnicai vár közelében.",
+                  "category": "cultural",
+                  "coords": [
+                        18.935002,
+                        48.930353
+                  ]
+            },
+            {
+                  "name": "jaskyňa Mažarná",
+                  "text": "Jelentős természetes barlang a Nagy-Fátra hegységben.",
+                  "category": "landmark",
+                  "coords": [
+                        18.9604,
+                        48.939597
+                  ]
+            },
+            {
+                  "name": "Tlstá",
+                  "text": "Kiemelkedő hegycsúcs a Nagy-Fátra vonulatában.",
+                  "category": "landmark",
+                  "coords": [
+                        18.971405,
+                        48.93413
+                  ]
+            },
+            {
+                  "name": "Angolpark",
+                  "text": "Történelmi angolpark Mošovce településen.",
+                  "category": "park",
+                  "coords": [
+                        18.893154,
+                        48.91287
+                  ]
+            },
+            {
+                  "name": "Révayovský kaštieľ",
+                  "text": "A Révay család történelmi kastélya.",
+                  "category": "historical",
+                  "coords": [
+                        18.926819,
+                        48.938028
+                  ]
+            },
+            {
+                  "name": "Mlynčekovo",
+                  "text": "Helyi turisztikai látványosság Blatnica környékén.",
+                  "category": "landmark",
+                  "coords": [
+                        18.964606,
+                        48.950102
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Blatnica",
+                  "text": "Ruinele unui castel medieval situat în munții Fatra Mare.",
+                  "category": "castle",
+                  "coords": [
+                        18.947078,
+                        48.947193
+                  ]
+            },
+            {
+                  "name": "Amfiteáter",
+                  "text": "Un amfiteatru în aer liber situat lângă castelul Blatnica.",
+                  "category": "cultural",
+                  "coords": [
+                        18.935002,
+                        48.930353
+                  ]
+            },
+            {
+                  "name": "jaskyňa Mažarná",
+                  "text": "O peșteră naturală semnificativă din munții Fatra Mare.",
+                  "category": "landmark",
+                  "coords": [
+                        18.9604,
+                        48.939597
+                  ]
+            },
+            {
+                  "name": "Tlstá",
+                  "text": "Un vârf muntos proeminent din masivul Fatra Mare.",
+                  "category": "landmark",
+                  "coords": [
+                        18.971405,
+                        48.93413
+                  ]
+            },
+            {
+                  "name": "Mošovský park",
+                  "text": "Un parc istoric în stil englezesc situat în Mošovce.",
+                  "category": "park",
+                  "coords": [
+                        18.893154,
+                        48.91287
+                  ]
+            },
+            {
+                  "name": "Révayovský kaštieľ",
+                  "text": "Un conac istoric aparținând familiei Révay.",
+                  "category": "historical",
+                  "coords": [
+                        18.926819,
+                        48.938028
+                  ]
+            },
+            {
+                  "name": "Mlynčekovo",
+                  "text": "O atracție turistică locală în zona Blatnica.",
+                  "category": "landmark",
+                  "coords": [
+                        18.964606,
+                        48.950102
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Blatnica",
+                  "text": "The ruins of a medieval castle located in the Greater Fatra mountains.",
+                  "category": "castle",
+                  "coords": [
+                        18.947078,
+                        48.947193
+                  ]
+            },
+            {
+                  "name": "Amfiteáter",
+                  "text": "An open-air theatre located near Blatnica Castle.",
+                  "category": "cultural",
+                  "coords": [
+                        18.935002,
+                        48.930353
+                  ]
+            },
+            {
+                  "name": "jaskyňa Mažarná",
+                  "text": "A significant natural cave in the Greater Fatra mountains.",
+                  "category": "landmark",
+                  "coords": [
+                        18.9604,
+                        48.939597
+                  ]
+            },
+            {
+                  "name": "Tlstá",
+                  "text": "A prominent mountain peak in the Greater Fatra range.",
+                  "category": "landmark",
+                  "coords": [
+                        18.971405,
+                        48.93413
+                  ]
+            },
+            {
+                  "name": "Mošovský park",
+                  "text": "A historical English-style park located in Mošovce.",
+                  "category": "park",
+                  "coords": [
+                        18.893154,
+                        48.91287
+                  ]
+            },
+            {
+                  "name": "Révayovský kaštieľ",
+                  "text": "A historical manor house belonging to the Révay family.",
+                  "category": "historical",
+                  "coords": [
+                        18.926819,
+                        48.938028
+                  ]
+            },
+            {
+                  "name": "Mlynčekovo",
+                  "text": "A local tourist attraction in the Blatnica area.",
+                  "category": "landmark",
+                  "coords": [
+                        18.964606,
+                        48.950102
+                  ]
+            }
+      ]
+},
     type: "castle",
     parent: "SK",
     name: { de: "Burg Blatnica", hu: "Blatnicai vár", ro: "Castelul Blatnica", en: "Blatnica Castle" },
@@ -1489,7 +3919,160 @@ imageHint: "Mirbach Palace Bratislava facade",
     image: "/poi-images/slovakia-hricov-castle-history-v2.webp",
   },
   {
-    id: "slovakia-dobra-niva-castle-history-v2",
+    id: "slovakia-dobra-niva-castle-history-v2", "sights": {
+      "de": [
+            {
+                  "name": "Ježová",
+                  "text": "Ježová ist ein Berggipfel in der Nähe der Burg Dobrá Niva.",
+                  "category": "landmark",
+                  "coords": [
+                        19.191542,
+                        48.446576
+                  ]
+            },
+            {
+                  "name": "Lomné",
+                  "text": "Lomné ist ein Berggipfel im Javorie-Gebirge bei der Burg Dobrá Niva.",
+                  "category": "landmark",
+                  "coords": [
+                        19.16262,
+                        48.495141
+                  ]
+            },
+            {
+                  "name": "Sekier",
+                  "text": "Sekier ist ein Berggipfel in der Nähe der Burg Dobrá Niva.",
+                  "category": "landmark",
+                  "coords": [
+                        19.196725,
+                        48.475021
+                  ]
+            },
+            {
+                  "name": "Kostol sv. Michala, archanjela",
+                  "text": "Kostol sv. Michala ist eine dem Erzengel Michael geweihte Kirche bei der Burg Dobrá Niva.",
+                  "category": "religious",
+                  "coords": [
+                        19.107534,
+                        48.469227
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Ježová",
+                  "text": "Ježová egy hegycsúcs Dobronya vára közelében.",
+                  "category": "landmark",
+                  "coords": [
+                        19.191542,
+                        48.446576
+                  ]
+            },
+            {
+                  "name": "Lomné",
+                  "text": "Lomné egy hegycsúcs a Jávoros-hegységben, Dobronya vára közelében.",
+                  "category": "landmark",
+                  "coords": [
+                        19.16262,
+                        48.495141
+                  ]
+            },
+            {
+                  "name": "Sekier",
+                  "text": "Sekier egy hegycsúcs Dobronya vára közelében.",
+                  "category": "landmark",
+                  "coords": [
+                        19.196725,
+                        48.475021
+                  ]
+            },
+            {
+                  "name": "Kostol sv. Michala, archanjela",
+                  "text": "A Szent Mihály arkangyal templom egy vallási helyszín Dobronya vára közelében.",
+                  "category": "religious",
+                  "coords": [
+                        19.107534,
+                        48.469227
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Ježová",
+                  "text": "Ježová este un vârf muntos lângă castelul Dobrá Niva.",
+                  "category": "landmark",
+                  "coords": [
+                        19.191542,
+                        48.446576
+                  ]
+            },
+            {
+                  "name": "Lomné",
+                  "text": "Lomné este un vârf muntos în munții Javorie, lângă castelul Dobrá Niva.",
+                  "category": "landmark",
+                  "coords": [
+                        19.16262,
+                        48.495141
+                  ]
+            },
+            {
+                  "name": "Sekier",
+                  "text": "Sekier este un vârf muntos lângă castelul Dobrá Niva.",
+                  "category": "landmark",
+                  "coords": [
+                        19.196725,
+                        48.475021
+                  ]
+            },
+            {
+                  "name": "Kostol sv. Michala, archanjela",
+                  "text": "Biserica Sf. Arhanghel Mihail este un lăcaș de cult lângă castelul Dobrá Niva.",
+                  "category": "religious",
+                  "coords": [
+                        19.107534,
+                        48.469227
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Ježová",
+                  "text": "Ježová is a mountain peak located near Dobrá Niva Castle.",
+                  "category": "landmark",
+                  "coords": [
+                        19.191542,
+                        48.446576
+                  ]
+            },
+            {
+                  "name": "Lomné",
+                  "text": "Lomné is a mountain peak in the Javorie range near Dobrá Niva Castle.",
+                  "category": "landmark",
+                  "coords": [
+                        19.16262,
+                        48.495141
+                  ]
+            },
+            {
+                  "name": "Sekier",
+                  "text": "Sekier is a mountain peak located near Dobrá Niva Castle.",
+                  "category": "landmark",
+                  "coords": [
+                        19.196725,
+                        48.475021
+                  ]
+            },
+            {
+                  "name": "Kostol sv. Michala, archanjela",
+                  "text": "The Church of St. Michael the Archangel is a place of worship near Dobrá Niva Castle.",
+                  "category": "religious",
+                  "coords": [
+                        19.107534,
+                        48.469227
+                  ]
+            }
+      ]
+},
     type: "castle",
     parent: "SK",
     name: { de: "Burg Dobrá Niva", hu: "Dobronya vára", ro: "Castelul Dobrá Niva", en: "Dobrá Niva Castle" },
@@ -1624,7 +4207,232 @@ imageHint: "Mirbach Palace Bratislava facade",
     image: "/poi-images/slovakia-pusty-hrad-zvolen-history-v2.webp",
   },
   {
-    id: "slovakia-jelsava-castle-history-v2",
+    id: "slovakia-jelsava-castle-history-v2", "sights": {
+      "de": [
+            {
+                  "name": "Mestské múzeum Jelšava",
+                  "text": "Das Stadtmuseum dokumentiert die Geschichte, Kultur und Traditionen der Region Jelšava.",
+                  "category": "museum",
+                  "coords": [
+                        20.235075,
+                        48.631239
+                  ]
+            },
+            {
+                  "name": "Starý Jelšavský hrad",
+                  "text": "Die Ruinen einer mittelalterlichen Burg, die sich auf einem Hügel in der Nähe der Stadt Jelšava befinden.",
+                  "category": "castle",
+                  "coords": [
+                        20.200479,
+                        48.630167
+                  ]
+            },
+            {
+                  "name": "Slovenská skala",
+                  "text": "Ein markanter Berggipfel im Slowakischen Erzgebirge, der Ausblicke auf die umliegende Landschaft bietet.",
+                  "category": "landmark",
+                  "coords": [
+                        20.269456,
+                        48.619715
+                  ]
+            },
+            {
+                  "name": "Tri peniažky",
+                  "text": "Ein Berggipfel in der Region Jelšava, der über Wanderwege durch die lokale Natur erreichbar ist.",
+                  "category": "landmark",
+                  "coords": [
+                        20.220167,
+                        48.62017
+                  ]
+            },
+            {
+                  "name": "Šivetický hrad",
+                  "text": "Überreste einer historischen Befestigungsanlage in der Nähe des Dorfes Šivetice.",
+                  "category": "historical",
+                  "coords": [
+                        20.262921,
+                        48.594588
+                  ]
+            },
+            {
+                  "name": "Mestský úrad Jelšava",
+                  "text": "Das Verwaltungsgebäude und der Sitz der lokalen Behörden in der Stadt Jelšava.",
+                  "category": "landmark",
+                  "coords": [
+                        20.235985,
+                        48.630868
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Mestské múzeum Jelšava",
+                  "text": "A városi múzeum Jelšava környékének történelmét, kultúráját és hagyományait dokumentálja.",
+                  "category": "museum",
+                  "coords": [
+                        20.235075,
+                        48.631239
+                  ]
+            },
+            {
+                  "name": "Starý Jelšavský hrad",
+                  "text": "Egy középkori vár romjai, amely egy dombon található Jelšava városa közelében.",
+                  "category": "castle",
+                  "coords": [
+                        20.200479,
+                        48.630167
+                  ]
+            },
+            {
+                  "name": "Slovenská skala",
+                  "text": "Jellegzetes hegycsúcs a Szlovák-érchegységben, amely kilátást nyújt a környező tájra.",
+                  "category": "landmark",
+                  "coords": [
+                        20.269456,
+                        48.619715
+                  ]
+            },
+            {
+                  "name": "Tri peniažky",
+                  "text": "Hegycsúcs Jelšava környékén, amely a helyi természeten keresztülvezető túraútvonalakon érhető el.",
+                  "category": "landmark",
+                  "coords": [
+                        20.220167,
+                        48.62017
+                  ]
+            },
+            {
+                  "name": "Šivetický hrad",
+                  "text": "Egy történelmi erődítmény maradványai Šivetice falu közelében.",
+                  "category": "historical",
+                  "coords": [
+                        20.262921,
+                        48.594588
+                  ]
+            },
+            {
+                  "name": "Mestský úrad Jelšava",
+                  "text": "Jelšava városának adminisztratív épülete és a helyi hatóságok székhelye.",
+                  "category": "landmark",
+                  "coords": [
+                        20.235985,
+                        48.630868
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Mestské múzeum Jelšava",
+                  "text": "Muzeul municipal documentează istoria, cultura și tradițiile regiunii Jelšava.",
+                  "category": "museum",
+                  "coords": [
+                        20.235075,
+                        48.631239
+                  ]
+            },
+            {
+                  "name": "Starý Jelšavský hrad",
+                  "text": "Ruinele unui castel medieval situat pe un deal în apropierea orașului Jelšava.",
+                  "category": "castle",
+                  "coords": [
+                        20.200479,
+                        48.630167
+                  ]
+            },
+            {
+                  "name": "Slovenská skala",
+                  "text": "Un vârf montan proeminent din Munții Metaliferi Slovaci, oferind priveliști asupra peisajului înconjurător.",
+                  "category": "landmark",
+                  "coords": [
+                        20.269456,
+                        48.619715
+                  ]
+            },
+            {
+                  "name": "Tri peniažky",
+                  "text": "Un vârf montan din regiunea Jelšava, accesibil prin trasee de drumeție prin natura locală.",
+                  "category": "landmark",
+                  "coords": [
+                        20.220167,
+                        48.62017
+                  ]
+            },
+            {
+                  "name": "Šivetický hrad",
+                  "text": "Rămășițele unei fortificații istorice situate în apropierea satului Šivetice.",
+                  "category": "historical",
+                  "coords": [
+                        20.262921,
+                        48.594588
+                  ]
+            },
+            {
+                  "name": "Mestský úrad Jelšava",
+                  "text": "Clădirea administrativă și sediul autorităților locale din orașul Jelšava.",
+                  "category": "landmark",
+                  "coords": [
+                        20.235985,
+                        48.630868
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Mestské múzeum Jelšava",
+                  "text": "The municipal museum documents the history, culture, and traditions of the Jelšava region.",
+                  "category": "museum",
+                  "coords": [
+                        20.235075,
+                        48.631239
+                  ]
+            },
+            {
+                  "name": "Starý Jelšavský hrad",
+                  "text": "The ruins of a medieval castle located on a hill near the town of Jelšava.",
+                  "category": "castle",
+                  "coords": [
+                        20.200479,
+                        48.630167
+                  ]
+            },
+            {
+                  "name": "Slovenská skala",
+                  "text": "A prominent mountain peak in the Slovak Ore Mountains offering views of the surrounding landscape.",
+                  "category": "landmark",
+                  "coords": [
+                        20.269456,
+                        48.619715
+                  ]
+            },
+            {
+                  "name": "Tri peniažky",
+                  "text": "A mountain peak in the Jelšava area accessible via hiking trails through the local nature.",
+                  "category": "landmark",
+                  "coords": [
+                        20.220167,
+                        48.62017
+                  ]
+            },
+            {
+                  "name": "Šivetický hrad",
+                  "text": "The remains of a historical fortification located near the village of Šivetice.",
+                  "category": "historical",
+                  "coords": [
+                        20.262921,
+                        48.594588
+                  ]
+            },
+            {
+                  "name": "Mestský úrad Jelšava",
+                  "text": "The administrative building and seat of the local authorities in the town of Jelšava.",
+                  "category": "landmark",
+                  "coords": [
+                        20.235985,
+                        48.630868
+                  ]
+            }
+      ]
+},
     type: "castle",
     parent: "SK",
     name: { de: "Burg Jelšava", hu: "Jolsva vára", ro: "Castelul Jelšava", en: "Jelšava Castle" },
@@ -1759,7 +4567,124 @@ imageHint: "Mirbach Palace Bratislava facade",
     image: "/poi-images/slovakia-sovol-castle-history-v2.webp",
   },
   {
-    id: "slovakia-divin-castle-history-v2",
+    id: "slovakia-divin-castle-history-v2", "sights": {
+      "de": [
+            {
+                  "name": "Sedem chotárov",
+                  "text": "Ein Berggipfel in der Nähe von Divín mit Blick auf die umliegende Landschaft.",
+                  "category": "landmark",
+                  "coords": [
+                        19.554589,
+                        48.404243
+                  ]
+            },
+            {
+                  "name": "Kaštieľ Podrečany",
+                  "text": "Ein klassizistisches Herrenhaus in Podrečany in der Nähe von Divín.",
+                  "category": "historical",
+                  "coords": [
+                        19.597879,
+                        48.402308
+                  ]
+            },
+            {
+                  "name": "Kaplnka Najsvätejšej Trojice",
+                  "text": "Eine kleine Kapelle, die der Heiligen Dreifaltigkeit gewidmet ist, in der Nähe der Burg Divín.",
+                  "category": "religious",
+                  "coords": [
+                        19.604842,
+                        48.405948
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Sedem chotárov",
+                  "text": "Hegycsúcs Divín közelében, kilátással a környező tájra.",
+                  "category": "landmark",
+                  "coords": [
+                        19.554589,
+                        48.404243
+                  ]
+            },
+            {
+                  "name": "Kaštieľ Podrečany",
+                  "text": "Klasszicista kastély Podrečany községben, Divín közelében.",
+                  "category": "historical",
+                  "coords": [
+                        19.597879,
+                        48.402308
+                  ]
+            },
+            {
+                  "name": "Kaplnka Najsvätejšej Trojice",
+                  "text": "A Szentháromságnak szentelt kis kápolna Divín vára közelében.",
+                  "category": "religious",
+                  "coords": [
+                        19.604842,
+                        48.405948
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Sedem chotárov",
+                  "text": "Un vârf montan lângă Divín, oferind panorame asupra peisajului înconjurător.",
+                  "category": "landmark",
+                  "coords": [
+                        19.554589,
+                        48.404243
+                  ]
+            },
+            {
+                  "name": "Kaštieľ Podrečany",
+                  "text": "Un conac clasicist situat în Podrečany, în apropiere de Divín.",
+                  "category": "historical",
+                  "coords": [
+                        19.597879,
+                        48.402308
+                  ]
+            },
+            {
+                  "name": "Kaplnka Najsvätejšej Trojice",
+                  "text": "O mică capelă dedicată Sfintei Treimi, situată lângă castelul Divín.",
+                  "category": "religious",
+                  "coords": [
+                        19.604842,
+                        48.405948
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Sedem chotárov",
+                  "text": "A mountain peak near Divín offering views over the surrounding landscape.",
+                  "category": "landmark",
+                  "coords": [
+                        19.554589,
+                        48.404243
+                  ]
+            },
+            {
+                  "name": "Kaštieľ Podrečany",
+                  "text": "A Classicist manor house located in Podrečany near Divín.",
+                  "category": "historical",
+                  "coords": [
+                        19.597879,
+                        48.402308
+                  ]
+            },
+            {
+                  "name": "Kaplnka Najsvätejšej Trojice",
+                  "text": "A small chapel dedicated to the Holy Trinity near Divín Castle.",
+                  "category": "religious",
+                  "coords": [
+                        19.604842,
+                        48.405948
+                  ]
+            }
+      ]
+},
     type: "castle",
     parent: "SK",
     name: { de: "Burg Divín", hu: "Divény vára", ro: "Castelul Divín", en: "Divín Castle" },
@@ -1804,7 +4729,268 @@ imageHint: "Mirbach Palace Bratislava facade",
     image: "/poi-images/slovakia-divin-castle-history-v2.webp",
   },
   {
-    id: "slovakia-gombasek-monastery-history-v2",
+    id: "slovakia-gombasek-monastery-history-v2", "sights": {
+      "de": [
+            {
+                  "name": "Divadlo v stodole",
+                  "text": "Ein einzigartiger Theaterort in einer Scheune auf dem Gombasek-Gelände.",
+                  "category": "cultural",
+                  "coords": [
+                        20.466254,
+                        48.563016
+                  ]
+            },
+            {
+                  "name": "Amfiteáter",
+                  "text": "Ein Freiluft-Amphitheater in der Nähe des Klosters Gombasek.",
+                  "category": "cultural",
+                  "coords": [
+                        20.468857,
+                        48.562952
+                  ]
+            },
+            {
+                  "name": "Silická ľadnica",
+                  "text": "Die am tiefsten gelegene Eishöhle in der gemäßigten Klimazone der nördlichen Hemisphäre.",
+                  "category": "landmark",
+                  "coords": [
+                        20.503557,
+                        48.549498
+                  ]
+            },
+            {
+                  "name": "Babská diera",
+                  "text": "Eingang zu einem Höhlensystem im Gebiet von Gombasek.",
+                  "category": "landmark",
+                  "coords": [
+                        20.504521,
+                        48.553923
+                  ]
+            },
+            {
+                  "name": "Brázda",
+                  "text": "Ein bedeutender vertikaler Höhleneingang oder Abgrund im Slowakischen Karst.",
+                  "category": "landmark",
+                  "coords": [
+                        20.494218,
+                        48.571295
+                  ]
+            },
+            {
+                  "name": "Jelenia priepasť",
+                  "text": "Ein tiefer Höhlenabgrund in der Nähe von Gombasek.",
+                  "category": "landmark",
+                  "coords": [
+                        20.418518,
+                        48.581725
+                  ]
+            },
+            {
+                  "name": "Diviačia priepasť",
+                  "text": "Ein tiefer Karstabgrund auf dem Silická-planina-Plateau.",
+                  "category": "landmark",
+                  "coords": [
+                        20.441972,
+                        48.58401
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Pajtaszínház",
+                  "text": "Különleges színházi helyszín egy pajtában a gombaszögi területen.",
+                  "category": "cultural",
+                  "coords": [
+                        20.466254,
+                        48.563016
+                  ]
+            },
+            {
+                  "name": "Amfiteáter",
+                  "text": "Szabadtéri amfiteátrum a gombaszögi monostor közelében.",
+                  "category": "cultural",
+                  "coords": [
+                        20.468857,
+                        48.562952
+                  ]
+            },
+            {
+                  "name": "Szilicei Jégbarlang",
+                  "text": "Az északi félteke mérsékelt égövének legalacsonyabban fekvő jégbarlangja.",
+                  "category": "landmark",
+                  "coords": [
+                        20.503557,
+                        48.549498
+                  ]
+            },
+            {
+                  "name": "Bába-lyuk",
+                  "text": "Barlangbejárat a gombaszögi területen.",
+                  "category": "landmark",
+                  "coords": [
+                        20.504521,
+                        48.553923
+                  ]
+            },
+            {
+                  "name": "Barázdálás",
+                  "text": "Jelentős függőleges barlangbejárat vagy zsomboly a Szlovák-karszt területén.",
+                  "category": "landmark",
+                  "coords": [
+                        20.494218,
+                        48.571295
+                  ]
+            },
+            {
+                  "name": "Jelenia priepasť",
+                  "text": "Mély barlangi szakadék Gombaszög környékén.",
+                  "category": "landmark",
+                  "coords": [
+                        20.418518,
+                        48.581725
+                  ]
+            },
+            {
+                  "name": "Vaddisznó lyuk",
+                  "text": "Mély karsztzsomboly a Szilicei-fennsíkon.",
+                  "category": "landmark",
+                  "coords": [
+                        20.441972,
+                        48.58401
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Divadlo v stodole",
+                  "text": "O locație de teatru unică situată într-o șură la situl Gombasek.",
+                  "category": "cultural",
+                  "coords": [
+                        20.466254,
+                        48.563016
+                  ]
+            },
+            {
+                  "name": "Amfiteáter",
+                  "text": "Un amfiteatru în aer liber situat lângă Mănăstirea Gombasek.",
+                  "category": "cultural",
+                  "coords": [
+                        20.468857,
+                        48.562952
+                  ]
+            },
+            {
+                  "name": "Silická ľadnica",
+                  "text": "Cea mai joasă peșteră de gheață din zona de climă temperată a emisferei nordice.",
+                  "category": "landmark",
+                  "coords": [
+                        20.503557,
+                        48.549498
+                  ]
+            },
+            {
+                  "name": "Babská diera",
+                  "text": "O intrare într-un sistem de peșteri situat în zona Gombasek.",
+                  "category": "landmark",
+                  "coords": [
+                        20.504521,
+                        48.553923
+                  ]
+            },
+            {
+                  "name": "Brázda",
+                  "text": "O intrare verticală semnificativă într-o peșteră sau un abis în Carstul Slovac.",
+                  "category": "landmark",
+                  "coords": [
+                        20.494218,
+                        48.571295
+                  ]
+            },
+            {
+                  "name": "Jelenia priepasť",
+                  "text": "Un abis adânc de peșteră situat în vecinătatea Gombasek.",
+                  "category": "landmark",
+                  "coords": [
+                        20.418518,
+                        48.581725
+                  ]
+            },
+            {
+                  "name": "Diviačia priepasť",
+                  "text": "Un abis carstic adânc situat pe platoul Silická planina.",
+                  "category": "landmark",
+                  "coords": [
+                        20.441972,
+                        48.58401
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Divadlo v stodole",
+                  "text": "A unique theatre venue located in a barn at the Gombasek site.",
+                  "category": "cultural",
+                  "coords": [
+                        20.466254,
+                        48.563016
+                  ]
+            },
+            {
+                  "name": "Amfiteáter",
+                  "text": "An open-air amphitheatre situated near the Gombasek Monastery.",
+                  "category": "cultural",
+                  "coords": [
+                        20.468857,
+                        48.562952
+                  ]
+            },
+            {
+                  "name": "Silická ľadnica",
+                  "text": "The lowest-lying ice cave in the temperate climate zone of the northern hemisphere.",
+                  "category": "landmark",
+                  "coords": [
+                        20.503557,
+                        48.549498
+                  ]
+            },
+            {
+                  "name": "Babská diera",
+                  "text": "An entrance to a cave system located in the Gombasek area.",
+                  "category": "landmark",
+                  "coords": [
+                        20.504521,
+                        48.553923
+                  ]
+            },
+            {
+                  "name": "Brázda",
+                  "text": "A significant vertical cave entrance or abyss in the Slovak Karst.",
+                  "category": "landmark",
+                  "coords": [
+                        20.494218,
+                        48.571295
+                  ]
+            },
+            {
+                  "name": "Jelenia priepasť",
+                  "text": "A deep cave abyss located in the vicinity of Gombasek.",
+                  "category": "landmark",
+                  "coords": [
+                        20.418518,
+                        48.581725
+                  ]
+            },
+            {
+                  "name": "Diviačia priepasť",
+                  "text": "A deep karst abyss situated on the Silická planina plateau.",
+                  "category": "landmark",
+                  "coords": [
+                        20.441972,
+                        48.58401
+                  ]
+            }
+      ]
+},
     type: "ruins",
     parent: "SK",
     name: { de: "Kloster Gombasek", hu: "Gombaszögi pálos kolostor", ro: "Mănăstirea Gombasek", en: "Gombasek Monastery" },
@@ -1849,7 +5035,304 @@ imageHint: "Mirbach Palace Bratislava facade",
     image: "/poi-images/slovakia-gombasek-monastery-history-v2.webp",
   },
   {
-    id: "slovakia-cachtice-manor-history-v2",
+    id: "slovakia-cachtice-manor-history-v2", "sights": {
+      "de": [
+            {
+                  "name": "Burg Schächtitz",
+                  "text": "Eine Burgruine in der Slowakei, bekannt als ehemaliger Wohnsitz von Elisabeth Báthory.",
+                  "category": "castle",
+                  "coords": [
+                        17.761266,
+                        48.725
+                  ]
+            },
+            {
+                  "name": "Trenčianske múzeum - expozícia Čachtice",
+                  "text": "Ein Museum in Čachtice, das Exponate zur Geschichte der Burg und der Region zeigt.",
+                  "category": "museum",
+                  "coords": [
+                        17.78578,
+                        48.715188
+                  ]
+            },
+            {
+                  "name": "Veľký Plešivec",
+                  "text": "Ein Berggipfel in den Kleinen Karpaten mit Aussicht auf die Region Čachtice.",
+                  "category": "landmark",
+                  "coords": [
+                        17.736931,
+                        48.701868
+                  ]
+            },
+            {
+                  "name": "Čachtická jaskyňa",
+                  "text": "Der Eingang zu einer bedeutenden Höhle in der Nähe der Burg Čachtice.",
+                  "category": "landmark",
+                  "coords": [
+                        17.786991,
+                        48.742591
+                  ]
+            },
+            {
+                  "name": "Skalka",
+                  "text": "Ein Gipfel in der hügeligen Landschaft der Westslowakei bei Čachtice.",
+                  "category": "landmark",
+                  "coords": [
+                        17.796578,
+                        48.736387
+                  ]
+            },
+            {
+                  "name": "Schloß Czastkowitz",
+                  "text": "Ein historisches Herrenhaus in Častkovce, das ein Beispiel für die Architektur der Region ist.",
+                  "category": "historical",
+                  "coords": [
+                        17.782044,
+                        48.687839
+                  ]
+            },
+            {
+                  "name": "Kúria Drugetovcov",
+                  "text": "Ein historisches Herrenhaus in Čachtice, das einst der Familie Drugeth gehörte.",
+                  "category": "historical",
+                  "coords": [
+                        17.786903,
+                        48.711872
+                  ]
+            },
+            {
+                  "name": "Drugetovská kúria",
+                  "text": "Ein denkmalgeschütztes Herrenhaus in Čachtice mit historischer Bedeutung.",
+                  "category": "historical",
+                  "coords": [
+                        17.785113,
+                        48.716412
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Čachtický hrad",
+                  "text": "Szlovákiai várrom, amely Báthory Erzsébet egykori lakhelyeként ismert.",
+                  "category": "castle",
+                  "coords": [
+                        17.761266,
+                        48.725
+                  ]
+            },
+            {
+                  "name": "Trenčianske múzeum - expozícia Čachtice",
+                  "text": "Csejtei múzeum, amely a vár és a régió történelmét bemutató tárlatokat kínál.",
+                  "category": "museum",
+                  "coords": [
+                        17.78578,
+                        48.715188
+                  ]
+            },
+            {
+                  "name": "Veľký Plešivec",
+                  "text": "Hegycsúcs a Kis-Kárpátokban, kilátással a csejtei régióra.",
+                  "category": "landmark",
+                  "coords": [
+                        17.736931,
+                        48.701868
+                  ]
+            },
+            {
+                  "name": "Čachtická jaskyňa",
+                  "text": "Egy jelentős barlang bejárata a csejtei vár közelében.",
+                  "category": "landmark",
+                  "coords": [
+                        17.786991,
+                        48.742591
+                  ]
+            },
+            {
+                  "name": "Skalka",
+                  "text": "Egy hegycsúcs Nyugat-Szlovákia dombos vidékén, Csejte közelében.",
+                  "category": "landmark",
+                  "coords": [
+                        17.796578,
+                        48.736387
+                  ]
+            },
+            {
+                  "name": "Kaštieľ Častkovce",
+                  "text": "Történelmi kastély Császtón, amely a régió építészetének egyik példája.",
+                  "category": "historical",
+                  "coords": [
+                        17.782044,
+                        48.687839
+                  ]
+            },
+            {
+                  "name": "Kúria Drugetovcov",
+                  "text": "Történelmi kúria Csejtén, amely egykor a Drugeth családé volt.",
+                  "category": "historical",
+                  "coords": [
+                        17.786903,
+                        48.711872
+                  ]
+            },
+            {
+                  "name": "Drugetovská kúria",
+                  "text": "Műemléki védelem alatt álló kúria Csejtén, amely történelmi jelentőséggel bír.",
+                  "category": "historical",
+                  "coords": [
+                        17.785113,
+                        48.716412
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Čachtický hrad",
+                  "text": "O ruină de castel din Slovacia, cunoscută ca fosta reședință a Elisabetei Báthory.",
+                  "category": "castle",
+                  "coords": [
+                        17.761266,
+                        48.725
+                  ]
+            },
+            {
+                  "name": "Trenčianske múzeum - expozícia Čachtice",
+                  "text": "Un muzeu din Čachtice care prezintă exponate despre istoria castelului și a regiunii.",
+                  "category": "museum",
+                  "coords": [
+                        17.78578,
+                        48.715188
+                  ]
+            },
+            {
+                  "name": "Veľký Plešivec",
+                  "text": "Un vârf muntos în Carpații Mici, cu vedere spre regiunea Čachtice.",
+                  "category": "landmark",
+                  "coords": [
+                        17.736931,
+                        48.701868
+                  ]
+            },
+            {
+                  "name": "Čachtická jaskyňa",
+                  "text": "Intrarea într-o peșteră importantă situată în apropierea castelului Čachtice.",
+                  "category": "landmark",
+                  "coords": [
+                        17.786991,
+                        48.742591
+                  ]
+            },
+            {
+                  "name": "Skalka",
+                  "text": "Un vârf în peisajul deluros al Slovaciei de Vest, lângă Čachtice.",
+                  "category": "landmark",
+                  "coords": [
+                        17.796578,
+                        48.736387
+                  ]
+            },
+            {
+                  "name": "Kaštieľ Častkovce",
+                  "text": "Un conac istoric în Častkovce, care reprezintă un exemplu de arhitectură regională.",
+                  "category": "historical",
+                  "coords": [
+                        17.782044,
+                        48.687839
+                  ]
+            },
+            {
+                  "name": "Kúria Drugetovcov",
+                  "text": "Un conac istoric din Čachtice, care a aparținut cândva familiei Drugeth.",
+                  "category": "historical",
+                  "coords": [
+                        17.786903,
+                        48.711872
+                  ]
+            },
+            {
+                  "name": "Drugetovská kúria",
+                  "text": "Un conac de patrimoniu din Čachtice, având o importanță istorică.",
+                  "category": "historical",
+                  "coords": [
+                        17.785113,
+                        48.716412
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Čachtický hrad",
+                  "text": "A castle ruin in Slovakia, known as the former residence of Elizabeth Báthory.",
+                  "category": "castle",
+                  "coords": [
+                        17.761266,
+                        48.725
+                  ]
+            },
+            {
+                  "name": "Trenčianske múzeum - expozícia Čachtice",
+                  "text": "A museum in Čachtice featuring exhibits on the history of the castle and the region.",
+                  "category": "museum",
+                  "coords": [
+                        17.78578,
+                        48.715188
+                  ]
+            },
+            {
+                  "name": "Veľký Plešivec",
+                  "text": "A mountain peak in the Little Carpathians with views over the Čachtice region.",
+                  "category": "landmark",
+                  "coords": [
+                        17.736931,
+                        48.701868
+                  ]
+            },
+            {
+                  "name": "Čachtická jaskyňa",
+                  "text": "The entrance to a significant cave located near the Čachtice castle.",
+                  "category": "landmark",
+                  "coords": [
+                        17.786991,
+                        48.742591
+                  ]
+            },
+            {
+                  "name": "Skalka",
+                  "text": "A peak in the hilly landscape of Western Slovakia near Čachtice.",
+                  "category": "landmark",
+                  "coords": [
+                        17.796578,
+                        48.736387
+                  ]
+            },
+            {
+                  "name": "Kaštieľ Častkovce",
+                  "text": "A historical manor house in Častkovce, representing an example of regional architecture.",
+                  "category": "historical",
+                  "coords": [
+                        17.782044,
+                        48.687839
+                  ]
+            },
+            {
+                  "name": "Kúria Drugetovcov",
+                  "text": "A historical manor house in Čachtice that once belonged to the Drugeth family.",
+                  "category": "historical",
+                  "coords": [
+                        17.786903,
+                        48.711872
+                  ]
+            },
+            {
+                  "name": "Drugetovská kúria",
+                  "text": "A heritage manor house in Čachtice with historical significance.",
+                  "category": "historical",
+                  "coords": [
+                        17.785113,
+                        48.716412
+                  ]
+            }
+      ]
+},
     type: "palace",
     parent: "SK",
     name: { de: "Schloss Čachtice", hu: "Csejtei kastély", ro: "Castelul Čachtice", en: "Čachtice Manor" },
@@ -1984,7 +5467,124 @@ imageHint: "Mirbach Palace Bratislava facade",
     image: "/poi-images/slovakia-liptovsky-hrad-history-v2.webp",
   },
   {
-    id: "slovakia-tupes-castle-history-v2",
+    id: "slovakia-tupes-castle-history-v2", "sights": {
+      "de": [
+            {
+                  "name": "Múzeum",
+                  "text": "Ein Museum mit regionalen Ausstellungen in Tupá Castle.",
+                  "category": "museum",
+                  "coords": [
+                        18.797821,
+                        48.086168
+                  ]
+            },
+            {
+                  "name": "Kostol sv. Mikuláša",
+                  "text": "Eine dem heiligen Nikolaus geweihte Kirche in Tupá Castle.",
+                  "category": "religious",
+                  "coords": [
+                        18.796825,
+                        48.086221
+                  ]
+            },
+            {
+                  "name": "Kostol sv. Heleny",
+                  "text": "Eine historische Kirche in Tupá Castle, die der heiligen Helena gewidmet ist.",
+                  "category": "religious",
+                  "coords": [
+                        18.812245,
+                        48.111837
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Múzeum",
+                  "text": "Helyi kiállításoknak otthont adó múzeum Tupá Castle területén.",
+                  "category": "museum",
+                  "coords": [
+                        18.797821,
+                        48.086168
+                  ]
+            },
+            {
+                  "name": "Kostol sv. Mikuláša",
+                  "text": "Szent Miklósnak szentelt templom Tupá Castle területén.",
+                  "category": "religious",
+                  "coords": [
+                        18.796825,
+                        48.086221
+                  ]
+            },
+            {
+                  "name": "Kostol sv. Heleny",
+                  "text": "Szent Ilonának szentelt történelmi templom Tupá Castle területén.",
+                  "category": "religious",
+                  "coords": [
+                        18.812245,
+                        48.111837
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Múzeum",
+                  "text": "Un muzeu cu expoziții regionale situat în Tupá Castle.",
+                  "category": "museum",
+                  "coords": [
+                        18.797821,
+                        48.086168
+                  ]
+            },
+            {
+                  "name": "Kostol sv. Mikuláša",
+                  "text": "O biserică dedicată Sfântului Nicolae în Tupá Castle.",
+                  "category": "religious",
+                  "coords": [
+                        18.796825,
+                        48.086221
+                  ]
+            },
+            {
+                  "name": "Kostol sv. Heleny",
+                  "text": "O biserică istorică din Tupá Castle dedicată Sfintei Elena.",
+                  "category": "religious",
+                  "coords": [
+                        18.812245,
+                        48.111837
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Múzeum",
+                  "text": "A museum featuring regional exhibits located in Tupá Castle.",
+                  "category": "museum",
+                  "coords": [
+                        18.797821,
+                        48.086168
+                  ]
+            },
+            {
+                  "name": "Kostol sv. Mikuláša",
+                  "text": "A church dedicated to Saint Nicholas in Tupá Castle.",
+                  "category": "religious",
+                  "coords": [
+                        18.796825,
+                        48.086221
+                  ]
+            },
+            {
+                  "name": "Kostol sv. Heleny",
+                  "text": "A historical church in Tupá Castle dedicated to Saint Helen.",
+                  "category": "religious",
+                  "coords": [
+                        18.812245,
+                        48.111837
+                  ]
+            }
+      ]
+},
     type: "castle",
     parent: "SK",
     name: { de: "Burg Tupá", hu: "Tupavára", ro: "Castelul Tupá", en: "Tupá Castle" },
@@ -2389,7 +5989,52 @@ imageHint: "Mirbach Palace Bratislava facade",
     image: "/poi-images/slovakia-budmerice-manor-history-v2.webp",
   },
   {
-    id: "slovakia-velka-baca-castle-history-v2",
+    id: "slovakia-velka-baca-castle-history-v2", "sights": {
+      "de": [
+            {
+                  "name": "Malkia Park",
+                  "text": "Eine Auffangstation, die sich auf die Rettung von Großkatzen spezialisiert hat.",
+                  "category": "recreational",
+                  "coords": [
+                        17.561234,
+                        48.045924
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Malkia Park",
+                  "text": "Egy mentőközpont, amely nagymacskák mentésére specializálódott.",
+                  "category": "recreational",
+                  "coords": [
+                        17.561234,
+                        48.045924
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Malkia Park",
+                  "text": "Un centru de salvare specializat în protejarea felinelor mari.",
+                  "category": "recreational",
+                  "coords": [
+                        17.561234,
+                        48.045924
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Malkia Park",
+                  "text": "A rescue center specializing in the protection of big cats.",
+                  "category": "recreational",
+                  "coords": [
+                        17.561234,
+                        48.045924
+                  ]
+            }
+      ]
+},
     type: "castle",
     parent: "SK",
     name: { de: "Burg Veľká Bača", hu: "Nagybács vára", ro: "Castelul Veľká Bača", en: "Veľká Bača Castle" },
@@ -2479,7 +6124,304 @@ imageHint: "Mirbach Palace Bratislava facade",
     image: "/poi-images/slovakia-zlate-moravce-manor-history-v2.webp",
   },
   {
-    id: "slovakia-hronsky-benadik-monastery-history-v2",
+    id: "slovakia-hronsky-benadik-monastery-history-v2", "sights": {
+      "de": [
+            {
+                  "name": "Kláštor Hronský Beňadik",
+                  "text": "Ein geschichtsträchtiges Benediktinerkloster in der Slowakei.",
+                  "category": "religious",
+                  "coords": [
+                        18.557955,
+                        48.344667
+                  ]
+            },
+            {
+                  "name": "Obranný val, Hradisko na Lipníkoch",
+                  "text": "Archäologische Überreste eines ehemaligen Burgwalls auf dem Lipník-Hügel.",
+                  "category": "historical",
+                  "coords": [
+                        18.579412,
+                        48.341063
+                  ]
+            },
+            {
+                  "name": "Obranný val, Hradisko na Beňadickej skale",
+                  "text": "Überreste einer alten Verteidigungsanlage auf dem Beňadik-Felsen.",
+                  "category": "historical",
+                  "coords": [
+                        18.557434,
+                        48.337411
+                  ]
+            },
+            {
+                  "name": "Obranný val, Hradisko Krivín v Rybníku",
+                  "text": "Teil eines archäologischen Schutzwalls bei Rybník.",
+                  "category": "historical",
+                  "coords": [
+                        18.575082,
+                        48.334149
+                  ]
+            },
+            {
+                  "name": "Bývalý amfiteáter pod Krivínom",
+                  "text": "Ein ehemaliges Freilichttheater am Fuße des Krivín-Hügels.",
+                  "category": "cultural",
+                  "coords": [
+                        18.550731,
+                        48.324347
+                  ]
+            },
+            {
+                  "name": "Hradisko Krivín v Rybníku",
+                  "text": "Fundstätte einer historischen Höhensiedlung in Rybník.",
+                  "category": "historical",
+                  "coords": [
+                        18.558786,
+                        48.326229
+                  ]
+            },
+            {
+                  "name": "Hláska Luchtov",
+                  "text": "Ruinen eines historischen Wach- oder Aussichtsturms.",
+                  "category": "historical",
+                  "coords": [
+                        18.594119,
+                        48.356739
+                  ]
+            },
+            {
+                  "name": "Beňadická vartovka",
+                  "text": "Überreste eines alten Wachturms in der Nähe von Hronský Beňadik.",
+                  "category": "historical",
+                  "coords": [
+                        18.554273,
+                        48.342645
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Garamszentbenedeki apátság",
+                  "text": "Történelmi jelentőségű bencés kolostor Szlovákiában.",
+                  "category": "religious",
+                  "coords": [
+                        18.557955,
+                        48.344667
+                  ]
+            },
+            {
+                  "name": "Obranný val, Hradisko na Lipníkoch",
+                  "text": "Egy egykori földvár régészeti maradványai a Lipník-dombon.",
+                  "category": "historical",
+                  "coords": [
+                        18.579412,
+                        48.341063
+                  ]
+            },
+            {
+                  "name": "Obranný val, Hradisko na Beňadickej skale",
+                  "text": "Ősi védművek maradványai a Beňadik-sziklán.",
+                  "category": "historical",
+                  "coords": [
+                        18.557434,
+                        48.337411
+                  ]
+            },
+            {
+                  "name": "Obranný val, Hradisko Krivín v Rybníku",
+                  "text": "Egy régészeti védőmű része Rybník közelében.",
+                  "category": "historical",
+                  "coords": [
+                        18.575082,
+                        48.334149
+                  ]
+            },
+            {
+                  "name": "Bývalý amfiteáter pod Krivínom",
+                  "text": "Egykori szabadtéri színpad a Krivín-domb lábánál.",
+                  "category": "cultural",
+                  "coords": [
+                        18.550731,
+                        48.324347
+                  ]
+            },
+            {
+                  "name": "Hradisko Krivín v Rybníku",
+                  "text": "Egy történelmi magaslati település régészeti lelőhelye Rybníkben.",
+                  "category": "historical",
+                  "coords": [
+                        18.558786,
+                        48.326229
+                  ]
+            },
+            {
+                  "name": "Hláska Luchtov",
+                  "text": "Egy történelmi őr- vagy kilátótorony romjai.",
+                  "category": "historical",
+                  "coords": [
+                        18.594119,
+                        48.356739
+                  ]
+            },
+            {
+                  "name": "Beňadická vartovka",
+                  "text": "Egy régi őrtorony maradványai Garamszentbenedek közelében.",
+                  "category": "historical",
+                  "coords": [
+                        18.554273,
+                        48.342645
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Kláštor Hronský Beňadik",
+                  "text": "O mănăstire benedictină istorică din Slovacia.",
+                  "category": "religious",
+                  "coords": [
+                        18.557955,
+                        48.344667
+                  ]
+            },
+            {
+                  "name": "Obranný val, Hradisko na Lipníkoch",
+                  "text": "Rămășițele arheologice ale unui fost fort pe dealul Lipník.",
+                  "category": "historical",
+                  "coords": [
+                        18.579412,
+                        48.341063
+                  ]
+            },
+            {
+                  "name": "Obranný val, Hradisko na Beňadickej skale",
+                  "text": "Vestigiile unei vechi fortificații pe stânca Beňadik.",
+                  "category": "historical",
+                  "coords": [
+                        18.557434,
+                        48.337411
+                  ]
+            },
+            {
+                  "name": "Obranný val, Hradisko Krivín v Rybníku",
+                  "text": "Parte a unui zid de apărare arheologic situat lângă Rybník.",
+                  "category": "historical",
+                  "coords": [
+                        18.575082,
+                        48.334149
+                  ]
+            },
+            {
+                  "name": "Bývalý amfiteáter pod Krivínom",
+                  "text": "Un fost amfiteatru în aer liber situat la poalele dealului Krivín.",
+                  "category": "cultural",
+                  "coords": [
+                        18.550731,
+                        48.324347
+                  ]
+            },
+            {
+                  "name": "Hradisko Krivín v Rybníku",
+                  "text": "Sit arheologic al unei așezări istorice fortificate din Rybník.",
+                  "category": "historical",
+                  "coords": [
+                        18.558786,
+                        48.326229
+                  ]
+            },
+            {
+                  "name": "Hláska Luchtov",
+                  "text": "Ruinele unui turn istoric de veghe sau de observație.",
+                  "category": "historical",
+                  "coords": [
+                        18.594119,
+                        48.356739
+                  ]
+            },
+            {
+                  "name": "Beňadická vartovka",
+                  "text": "Vestigiile unui vechi turn de veghe de lângă Hronský Beňadik.",
+                  "category": "historical",
+                  "coords": [
+                        18.554273,
+                        48.342645
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Hronský Beňadik monastery",
+                  "text": "A historic Benedictine monastery located in Slovakia.",
+                  "category": "religious",
+                  "coords": [
+                        18.557955,
+                        48.344667
+                  ]
+            },
+            {
+                  "name": "Obranný val, Hradisko na Lipníkoch",
+                  "text": "Archaeological remains of a former hillfort on the Lipník hill.",
+                  "category": "historical",
+                  "coords": [
+                        18.579412,
+                        48.341063
+                  ]
+            },
+            {
+                  "name": "Obranný val, Hradisko na Beňadickej skale",
+                  "text": "Remains of an ancient defense structure on the Beňadik rock.",
+                  "category": "historical",
+                  "coords": [
+                        18.557434,
+                        48.337411
+                  ]
+            },
+            {
+                  "name": "Obranný val, Hradisko Krivín v Rybníku",
+                  "text": "Part of an archaeological defensive wall near Rybník.",
+                  "category": "historical",
+                  "coords": [
+                        18.575082,
+                        48.334149
+                  ]
+            },
+            {
+                  "name": "Bývalý amfiteáter pod Krivínom",
+                  "text": "A former open-air theater located at the foot of Krivín hill.",
+                  "category": "cultural",
+                  "coords": [
+                        18.550731,
+                        48.324347
+                  ]
+            },
+            {
+                  "name": "Hradisko Krivín v Rybníku",
+                  "text": "Archaeological site of a historic hillfort in Rybník.",
+                  "category": "historical",
+                  "coords": [
+                        18.558786,
+                        48.326229
+                  ]
+            },
+            {
+                  "name": "Hláska Luchtov",
+                  "text": "Ruins of a historic watchtower or lookout point.",
+                  "category": "historical",
+                  "coords": [
+                        18.594119,
+                        48.356739
+                  ]
+            },
+            {
+                  "name": "Beňadická vartovka",
+                  "text": "Remains of an old watchtower near Hronský Beňadik.",
+                  "category": "historical",
+                  "coords": [
+                        18.554273,
+                        48.342645
+                  ]
+            }
+      ]
+},
     type: "church",
     parent: "SK",
     name: { de: "Kloster Hronský Beňadik", hu: "Garamszentbenedeki apátság", ro: "Mănăstirea Hronský Beňadik", en: "Hronský Beňadik Monastery" },

@@ -3,7 +3,88 @@ import { POI } from './poi';
 export const icelandEconomicV2: POI[] = [
 
   {
-    id: "iceland-hellisheidi-power-station-economic-v2",
+    id: "iceland-hellisheidi-power-station-economic-v2", "sights": {
+      "de": [
+            {
+                  "name": "Jarðhitasýningin",
+                  "text": "Ein Museum, das die Technologie und Geschichte der Erdwärme in Island erkundet.",
+                  "category": "museum",
+                  "coords": [
+                        -21.400651,
+                        64.037339
+                  ]
+            },
+            {
+                  "name": "Lambafell",
+                  "text": "Ein Berggipfel in der Geothermalregion von Hellisheiði.",
+                  "category": "landmark",
+                  "coords": [
+                        -21.46894,
+                        64.01826
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Jarðhitasýningin",
+                  "text": "Múzeum, amely az izlandi geotermikus energia technológiáját és történetét mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        -21.400651,
+                        64.037339
+                  ]
+            },
+            {
+                  "name": "Lambafell",
+                  "text": "Hegycsúcs Hellisheiði geotermikus régiójában.",
+                  "category": "landmark",
+                  "coords": [
+                        -21.46894,
+                        64.01826
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Jarðhitasýningin",
+                  "text": "Un muzeu care explorează tehnologia și istoria energiei geotermale în Islanda.",
+                  "category": "museum",
+                  "coords": [
+                        -21.400651,
+                        64.037339
+                  ]
+            },
+            {
+                  "name": "Lambafell",
+                  "text": "Un vârf de munte situat în regiunea geotermală Hellisheiði.",
+                  "category": "landmark",
+                  "coords": [
+                        -21.46894,
+                        64.01826
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Geothermal Energy Exhibition",
+                  "text": "A museum exploring the technology and history of geothermal power in Iceland.",
+                  "category": "museum",
+                  "coords": [
+                        -21.400651,
+                        64.037339
+                  ]
+            },
+            {
+                  "name": "Lambafell",
+                  "text": "A mountain peak located in the geothermal region of Hellisheiði.",
+                  "category": "landmark",
+                  "coords": [
+                        -21.46894,
+                        64.01826
+                  ]
+            }
+      ]
+},
     parent: "IS",
     type: "industry",
     name: { de: "Geothermiekraftwerk Hellisheiði", hu: "Hellisheiði geotermikus erőmű", ro: "Centrala geotermală Hellisheiði", en: "Hellisheiði Geothermal Power Station"},
@@ -49,7 +130,124 @@ imageHint: "Hellisheidi Geothermal Power Plant aerial view",
     },
     image: "/poi-images/iceland-hellisheidi-power-station-economic-v2.webp",
 },  {
-    id: "iceland-nesjavellir-power-station-economic-v2",
+    id: "iceland-nesjavellir-power-station-economic-v2", "sights": {
+      "de": [
+            {
+                  "name": "Adventure park",
+                  "text": "Ein Freizeitpark in der Nähe des Nesjavellir-Kraftwerks, der verschiedene Outdoor-Aktivitäten bietet.",
+                  "category": "recreational",
+                  "coords": [
+                        -21.242631,
+                        64.113622
+                  ]
+            },
+            {
+                  "name": "Mælifell",
+                  "text": "Ein markanter Vulkanberg in Island, bekannt für seine grüne Moosbedeckung und Kegelform.",
+                  "category": "landmark",
+                  "coords": [
+                        -21.198633,
+                        64.10158
+                  ]
+            },
+            {
+                  "name": "Sandfell",
+                  "text": "Ein Berg in der Nähe von Þingvellir, der Wanderern weite Ausblicke über die umliegenden Lavafelder bietet.",
+                  "category": "landmark",
+                  "coords": [
+                        -21.18128,
+                        64.11035
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Adventure park",
+                  "text": "A Nesjavellir erőmű közelében található kalandpark, amely különféle szabadtéri tevékenységeket kínál.",
+                  "category": "recreational",
+                  "coords": [
+                        -21.242631,
+                        64.113622
+                  ]
+            },
+            {
+                  "name": "Mælifell",
+                  "text": "Jellegzetes izlandi vulkáni hegy, amely zöld mohaborításáról és kúp alakjáról ismert.",
+                  "category": "landmark",
+                  "coords": [
+                        -21.198633,
+                        64.10158
+                  ]
+            },
+            {
+                  "name": "Sandfell",
+                  "text": "Hegy Þingvellir közelében, amely tágas kilátást nyújt a környező lávamezőkre.",
+                  "category": "landmark",
+                  "coords": [
+                        -21.18128,
+                        64.11035
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Adventure park",
+                  "text": "Un parc de aventură situat lângă centrala electrică Nesjavellir, oferind diverse activități în aer liber.",
+                  "category": "recreational",
+                  "coords": [
+                        -21.242631,
+                        64.113622
+                  ]
+            },
+            {
+                  "name": "Mælifell",
+                  "text": "Un munte vulcanic distinctiv din Islanda, cunoscut pentru acoperirea sa cu mușchi verde și forma conică.",
+                  "category": "landmark",
+                  "coords": [
+                        -21.198633,
+                        64.10158
+                  ]
+            },
+            {
+                  "name": "Sandfell",
+                  "text": "Un munte lângă Þingvellir, care oferă drumeților vederi largi asupra câmpurilor de lavă din jur.",
+                  "category": "landmark",
+                  "coords": [
+                        -21.18128,
+                        64.11035
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Adventure park",
+                  "text": "An adventure park located near the Nesjavellir power station, offering various outdoor activities.",
+                  "category": "recreational",
+                  "coords": [
+                        -21.242631,
+                        64.113622
+                  ]
+            },
+            {
+                  "name": "Mælifell",
+                  "text": "A distinctive volcanic mountain in Iceland, known for its green moss covering and conical shape.",
+                  "category": "landmark",
+                  "coords": [
+                        -21.198633,
+                        64.10158
+                  ]
+            },
+            {
+                  "name": "Sandfell",
+                  "text": "A mountain near Þingvellir, offering hikers wide views over the surrounding lava fields.",
+                  "category": "landmark",
+                  "coords": [
+                        -21.18128,
+                        64.11035
+                  ]
+            }
+      ]
+},
     parent: "IS",
     type: "industry",
     name: { de: "Kraftwerk Nesjavellir", hu: "Nesjavellir erőmű", ro: "Centrala Nesjavellir", en: "Nesjavellir Power Station"},
@@ -95,7 +293,52 @@ imageHint: "Nesjavellir Power Station pipes and steam",
     },
     image: "/poi-images/iceland-nesjavellir-power-station-economic-v2.webp",
 },  {
-    id: "iceland-karahnjukar-hydropower-plant-economic-v2",
+    id: "iceland-karahnjukar-hydropower-plant-economic-v2", "sights": {
+      "de": [
+            {
+                  "name": "Kárahnjúkar",
+                  "text": "Ein Berggipfel in Ostisland, bekannt für seine Nähe zum großen Wasserkraftdamm.",
+                  "category": "landmark",
+                  "coords": [
+                        -15.77716,
+                        64.94536
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Kárahnjúkar",
+                  "text": "Hegycsúcs Kelet-Izlandon, amely a nagy vízerőmű-gáthoz való közelségéről ismert.",
+                  "category": "landmark",
+                  "coords": [
+                        -15.77716,
+                        64.94536
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Kárahnjúkar",
+                  "text": "Un vârf muntos în estul Islandei, cunoscut pentru proximitatea sa față de marele baraj hidroelectric.",
+                  "category": "landmark",
+                  "coords": [
+                        -15.77716,
+                        64.94536
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Kárahnjúkar",
+                  "text": "A mountain peak in eastern Iceland, known for its proximity to the large hydropower dam.",
+                  "category": "landmark",
+                  "coords": [
+                        -15.77716,
+                        64.94536
+                  ]
+            }
+      ]
+},
     parent: "IS",
     type: "industry",
     name: { de: "Wasserkraftwerk Kárahnjúkar", hu: "Kárahnjúkar vízerőmű", ro: "Centrala hidroelectrică Kárahnjúkar", en: "Kárahnjúkar Hydropower Plant"},
@@ -647,7 +890,88 @@ imageHint: "Svartsengi power plant near Blue Lagoon",
     },
     image: "/poi-images/iceland-svartsengi-power-station-economic-v2.webp",
 },  {
-    id: "iceland-krafla-power-station-economic-v2",
+    id: "iceland-krafla-power-station-economic-v2", "sights": {
+      "de": [
+            {
+                  "name": "Kröflustöð",
+                  "text": "Ein Museum und Besucherzentrum im Zusammenhang mit dem Krafla-Geothermiekraftwerk in Island.",
+                  "category": "museum",
+                  "coords": [
+                        -16.774943,
+                        65.702697
+                  ]
+            },
+            {
+                  "name": "Krafla",
+                  "text": "Ein markanter Vulkangipfel und eine Caldera im Norden Islands.",
+                  "category": "landmark",
+                  "coords": [
+                        -16.730315,
+                        65.714229
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Kröflustöð",
+                  "text": "Izlandi múzeum és látogatóközpont a Krafla geotermikus erőmű közelében.",
+                  "category": "museum",
+                  "coords": [
+                        -16.774943,
+                        65.702697
+                  ]
+            },
+            {
+                  "name": "Krafla",
+                  "text": "Jelentős vulkáni csúcs és kaldera Izland északi részén.",
+                  "category": "landmark",
+                  "coords": [
+                        -16.730315,
+                        65.714229
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Kröflustöð",
+                  "text": "Un muzeu și centru de vizitare legat de centrala geotermală Krafla din Islanda.",
+                  "category": "museum",
+                  "coords": [
+                        -16.774943,
+                        65.702697
+                  ]
+            },
+            {
+                  "name": "Krafla",
+                  "text": "Un vârf vulcanic proeminent și o calderă situate în nordul Islandei.",
+                  "category": "landmark",
+                  "coords": [
+                        -16.730315,
+                        65.714229
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Kröflustöð",
+                  "text": "A museum and visitor center related to the Krafla geothermal power plant in Iceland.",
+                  "category": "museum",
+                  "coords": [
+                        -16.774943,
+                        65.702697
+                  ]
+            },
+            {
+                  "name": "Krafla",
+                  "text": "A prominent volcanic peak and caldera located in northern Iceland.",
+                  "category": "landmark",
+                  "coords": [
+                        -16.730315,
+                        65.714229
+                  ]
+            }
+      ]
+},
     parent: "IS",
     type: "industry",
     name: { de: "Kraftwerk Krafla", hu: "Krafla erőmű", ro: "Centrala Krafla", en: "Krafla Power Station"},
@@ -693,7 +1017,124 @@ imageHint: "Krafla geothermal power plant steam Iceland",
     },
     image: "/poi-images/iceland-krafla-power-station-economic-v2.webp",
 },  {
-    id: "iceland-burfell-hydropower-plant-economic-v2",
+    id: "iceland-burfell-hydropower-plant-economic-v2", "sights": {
+      "de": [
+            {
+                  "name": "Grassodenhäuser",
+                  "text": "Ein rekonstruierter Bauernhof aus der Wikingerzeit, basierend auf den Ruinen von Stöng in Þjórsárdalur.",
+                  "category": "museum",
+                  "coords": [
+                        -19.820643,
+                        64.119987
+                  ]
+            },
+            {
+                  "name": "Búrfell",
+                  "text": "Ein markanter Tafelberg in der Nähe des Kraftwerks Búrfell.",
+                  "category": "landmark",
+                  "coords": [
+                        -19.81786,
+                        64.07965
+                  ]
+            },
+            {
+                  "name": "Hjálparfoss",
+                  "text": "Ein einzigartiger Doppelwasserfall am Zusammenfluss der Flüsse Fossá und Þjórsá.",
+                  "category": "natural",
+                  "coords": [
+                        -19.851524,
+                        64.115274
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Þjóðveldisbærinn",
+                  "text": "Rekonstruált viking kori gazdaság a Þjórsárdalur-völgyben található Stöng romjai alapján.",
+                  "category": "museum",
+                  "coords": [
+                        -19.820643,
+                        64.119987
+                  ]
+            },
+            {
+                  "name": "Búrfell",
+                  "text": "Jellegzetes táblahegy a Búrfell erőmű közelében.",
+                  "category": "landmark",
+                  "coords": [
+                        -19.81786,
+                        64.07965
+                  ]
+            },
+            {
+                  "name": "Hjálparfoss",
+                  "text": "Egyedülálló kettős vízesés a Fossá és a Þjórsá folyók találkozásánál.",
+                  "category": "natural",
+                  "coords": [
+                        -19.851524,
+                        64.115274
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Þjóðveldisbærinn",
+                  "text": "O fermă reconstituită din epoca vikingă, bazată pe ruinele de la Stöng din Þjórsárdalur.",
+                  "category": "museum",
+                  "coords": [
+                        -19.820643,
+                        64.119987
+                  ]
+            },
+            {
+                  "name": "Búrfell",
+                  "text": "Un munte tabelar proeminent situat lângă centrala electrică Búrfell.",
+                  "category": "landmark",
+                  "coords": [
+                        -19.81786,
+                        64.07965
+                  ]
+            },
+            {
+                  "name": "Hjálparfoss",
+                  "text": "O cascadă dublă unică unde se întâlnesc râurile Fossá și Þjórsá.",
+                  "category": "natural",
+                  "coords": [
+                        -19.851524,
+                        64.115274
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Þjóðveldisbærinn",
+                  "text": "A reconstructed Viking-era farm based on the ruins of Stöng in Þjórsárdalur.",
+                  "category": "museum",
+                  "coords": [
+                        -19.820643,
+                        64.119987
+                  ]
+            },
+            {
+                  "name": "Búrfell",
+                  "text": "A prominent table mountain located near the Búrfell power station.",
+                  "category": "landmark",
+                  "coords": [
+                        -19.81786,
+                        64.07965
+                  ]
+            },
+            {
+                  "name": "Hjálparfoss",
+                  "text": "A unique double waterfall where the Fossá and Þjórsá rivers meet.",
+                  "category": "natural",
+                  "coords": [
+                        -19.851524,
+                        64.115274
+                  ]
+            }
+      ]
+},
     parent: "IS",
     type: "industry",
     name: { de: "Wasserkraftwerk Búrfell", hu: "Búrfell vízerőmű", ro: "Centrala hidroelectrică Búrfell", en: "Búrfell Hydropower Plant"},
@@ -785,7 +1226,52 @@ imageHint: "Krafla geothermal power plant steam Iceland",
     },
   },
   {
-    id: "iceland-sigalda-hydropower-plant-economic-v2",
+    id: "iceland-sigalda-hydropower-plant-economic-v2", "sights": {
+      "de": [
+            {
+                  "name": "Sigöldugljúfur",
+                  "text": "Ein atemberaubender Canyon im isländischen Hochland, bekannt für seine zahlreichen Wasserfälle.",
+                  "category": "natural",
+                  "coords": [
+                        -19.123767,
+                        64.157913
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Sigöldugljúfur",
+                  "text": "Lélegzetelállító kanyon az izlandi felföldön, amely számos vízeséséről ismert.",
+                  "category": "natural",
+                  "coords": [
+                        -19.123767,
+                        64.157913
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Sigöldugljúfur",
+                  "text": "Un canion uluitor din zonele înalte ale Islandei, cunoscut pentru numeroasele sale cascade.",
+                  "category": "natural",
+                  "coords": [
+                        -19.123767,
+                        64.157913
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Sigöldugljúfur",
+                  "text": "A breathtaking canyon in the Icelandic highlands known for its numerous waterfalls.",
+                  "category": "natural",
+                  "coords": [
+                        -19.123767,
+                        64.157913
+                  ]
+            }
+      ]
+},
     parent: "IS",
     type: "industry",
     name: { de: "Kraftwerk Sigalda", hu: "Sigalda erőmű", ro: "Centrala Sigalda", en: "Sigalda Power Station"},
@@ -831,7 +1317,52 @@ imageHint: "Sigalda power station in highlands",
     },
     image: "/poi-images/iceland-sigalda-hydropower-plant-economic-v2.webp",
 },  {
-    id: "iceland-hrauneyjafoss-hydropower-plant-economic-v2",
+    id: "iceland-hrauneyjafoss-hydropower-plant-economic-v2", "sights": {
+      "de": [
+            {
+                  "name": "Hrauneyjafell",
+                  "text": "Ein markanter Berggipfel in der Nähe des Wasserkraftwerks Hrauneyjafoss.",
+                  "category": "landmark",
+                  "coords": [
+                        -19.254604,
+                        64.172946
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Hrauneyjafell",
+                  "text": "Jellegzetes hegycsúcs a Hrauneyjafoss vízerőmű közelében.",
+                  "category": "landmark",
+                  "coords": [
+                        -19.254604,
+                        64.172946
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Hrauneyjafell",
+                  "text": "Un vârf montan proeminent situat lângă hidrocentrala Hrauneyjafoss.",
+                  "category": "landmark",
+                  "coords": [
+                        -19.254604,
+                        64.172946
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Hrauneyjafell",
+                  "text": "A prominent mountain peak located near the Hrauneyjafoss hydropower plant.",
+                  "category": "landmark",
+                  "coords": [
+                        -19.254604,
+                        64.172946
+                  ]
+            }
+      ]
+},
     parent: "IS",
     type: "industry",
     name: { de: "Wasserkraftwerk Hrauneyjafoss", hu: "Hrauneyjafoss vízerőmű", ro: "Hidrocentrala Hrauneyjafoss", en: "Hrauneyjafoss Hydropower Plant"},
@@ -1337,7 +1868,304 @@ imageHint: "Akranes harbour and old lighthouse",
     },
     image: "/poi-images/iceland-akranes-port-economic-v2.webp",
 },  {
-    id: "iceland-reykjanes-geothermal-power-economic-v2",
+    id: "iceland-reykjanes-geothermal-power-economic-v2", "sights": {
+      "de": [
+            {
+                  "name": "Leuchtturm Reykjanestá",
+                  "text": "Islands ältester noch in Betrieb befindlicher Leuchtturm an der Südwestspitze der Halbinsel Reykjanes.",
+                  "category": "landmark",
+                  "coords": [
+                        -22.70436,
+                        63.815611
+                  ]
+            },
+            {
+                  "name": "Powerplant Exhibition",
+                  "text": "Eine Ausstellung im Reykjanes-Kraftwerk, die die Nutzung geothermischer Energie veranschaulicht.",
+                  "category": "museum",
+                  "coords": [
+                        -22.699036,
+                        63.832029
+                  ]
+            },
+            {
+                  "name": "Reykjanestá",
+                  "text": "Die dramatische Südwestspitze der Halbinsel Reykjanes mit rauen Klippen und tosender Brandung.",
+                  "category": "landmark",
+                  "coords": [
+                        -22.715452,
+                        63.812793
+                  ]
+            },
+            {
+                  "name": "Gunnuhver",
+                  "text": "Ein beeindruckendes Geothermalgebiet mit Islands größter Schlammquelle und heißen Fumarolen.",
+                  "category": "landmark",
+                  "coords": [
+                        -22.68418,
+                        63.819445
+                  ]
+            },
+            {
+                  "name": "Skálafell",
+                  "text": "Ein Berg auf der Halbinsel Reykjanes, der eine weite Sicht über die vulkanische Landschaft bietet.",
+                  "category": "landmark",
+                  "coords": [
+                        -22.683885,
+                        63.813299
+                  ]
+            },
+            {
+                  "name": "Rauðhóll",
+                  "text": "Ein rötlicher Schlackenkegel oder Hügel in der Nähe des Kraftwerks Reykjanes.",
+                  "category": "landmark",
+                  "coords": [
+                        -22.690644,
+                        63.843428
+                  ]
+            },
+            {
+                  "name": "Sýrfell",
+                  "text": "Ein markanter Berggipfel in der Nähe des Kraftwerks Reykjanes.",
+                  "category": "landmark",
+                  "coords": [
+                        -22.658333,
+                        63.83735
+                  ]
+            },
+            {
+                  "name": "Brimketill",
+                  "text": "Ein Aussichtspunkt an der Küste mit Blick auf die vulkanische Landschaft bei Reykjanes.",
+                  "category": "natural",
+                  "coords": [
+                        -22.606046,
+                        63.819348
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Reykjanesviti",
+                  "text": "Izland legrégebbi, ma is működő világítótornya a Reykjanes-félsziget délnyugati csüdkén.",
+                  "category": "landmark",
+                  "coords": [
+                        -22.70436,
+                        63.815611
+                  ]
+            },
+            {
+                  "name": "Powerplant Exhibition",
+                  "text": "Kiállítás a Reykjanes erőműben, amely a geotermikus energia hasznosítását mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        -22.699036,
+                        63.832029
+                  ]
+            },
+            {
+                  "name": "Reykjanestá",
+                  "text": "A Reykjanes-félsziget látványos délnyugati csücske vad sziklákkal és zúgó hullámokkal.",
+                  "category": "landmark",
+                  "coords": [
+                        -22.715452,
+                        63.812793
+                  ]
+            },
+            {
+                  "name": "Gunnuhver",
+                  "text": "Lenyűgöző geotermikus terület Izland legnagyobb iszapforrásával és forró fumarolákkal.",
+                  "category": "landmark",
+                  "coords": [
+                        -22.68418,
+                        63.819445
+                  ]
+            },
+            {
+                  "name": "Skálafell",
+                  "text": "Hegy a Reykjanes-félszigeten, amely tágas kilátást nyújt a vulkanikus tájra.",
+                  "category": "landmark",
+                  "coords": [
+                        -22.683885,
+                        63.813299
+                  ]
+            },
+            {
+                  "name": "Rauðhóll",
+                  "text": "Vöröses salakkúp vagy domb a Reykjanes erőmű közelében.",
+                  "category": "landmark",
+                  "coords": [
+                        -22.690644,
+                        63.843428
+                  ]
+            },
+            {
+                  "name": "Sýrfell",
+                  "text": "Egy jellegzetes hegycsúcs a Reykjanes erőmű közelében.",
+                  "category": "landmark",
+                  "coords": [
+                        -22.658333,
+                        63.83735
+                  ]
+            },
+            {
+                  "name": "Brimketill",
+                  "text": "Tengerparti kilátóhely a Reykjanes környéki vulkanikus tájra.",
+                  "category": "natural",
+                  "coords": [
+                        -22.606046,
+                        63.819348
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Reykjanesviti",
+                  "text": "Cel mai vechi far din Islanda încă în funcțiune, situat în vârful sud-vestic al peninsulei Reykjanes.",
+                  "category": "landmark",
+                  "coords": [
+                        -22.70436,
+                        63.815611
+                  ]
+            },
+            {
+                  "name": "Powerplant Exhibition",
+                  "text": "O expoziție la centrala electrică Reykjanes care ilustrează utilizarea energiei geotermale.",
+                  "category": "museum",
+                  "coords": [
+                        -22.699036,
+                        63.832029
+                  ]
+            },
+            {
+                  "name": "Reykjanestá",
+                  "text": "Vârful dramatic de sud-vest al peninsulei Reykjanes, cu stânci abrupte și valuri puternice.",
+                  "category": "landmark",
+                  "coords": [
+                        -22.715452,
+                        63.812793
+                  ]
+            },
+            {
+                  "name": "Gunnuhver",
+                  "text": "O zonă geotermală impresionantă cu cel mai mare izvor de noroi din Islanda și fumarole fierbinți.",
+                  "category": "landmark",
+                  "coords": [
+                        -22.68418,
+                        63.819445
+                  ]
+            },
+            {
+                  "name": "Skálafell",
+                  "text": "Un munte de pe peninsula Reykjanes, oferind o panoramă largă asupra peisajului vulcanic.",
+                  "category": "landmark",
+                  "coords": [
+                        -22.683885,
+                        63.813299
+                  ]
+            },
+            {
+                  "name": "Rauðhóll",
+                  "text": "Un con de zgură sau un deal roșiatic situat în apropierea centralei Reykjanes.",
+                  "category": "landmark",
+                  "coords": [
+                        -22.690644,
+                        63.843428
+                  ]
+            },
+            {
+                  "name": "Sýrfell",
+                  "text": "Un vârf muntos proeminent situat în apropierea centralei electrice Reykjanes.",
+                  "category": "landmark",
+                  "coords": [
+                        -22.658333,
+                        63.83735
+                  ]
+            },
+            {
+                  "name": "Brimketill",
+                  "text": "Un punct de observație pe coastă care oferă priveliști asupra peisajului vulcanic de lângă Reykjanes.",
+                  "category": "natural",
+                  "coords": [
+                        -22.606046,
+                        63.819348
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Reykjanesviti",
+                  "text": "Iceland's oldest lighthouse still in operation, located on the southwestern tip of the Reykjanes Peninsula.",
+                  "category": "landmark",
+                  "coords": [
+                        -22.70436,
+                        63.815611
+                  ]
+            },
+            {
+                  "name": "Powerplant Exhibition",
+                  "text": "An exhibition at the Reykjanes Power Plant illustrating the utilization of geothermal energy.",
+                  "category": "museum",
+                  "coords": [
+                        -22.699036,
+                        63.832029
+                  ]
+            },
+            {
+                  "name": "Reykjanestá",
+                  "text": "The dramatic southwestern tip of the Reykjanes Peninsula featuring rugged cliffs and crashing waves.",
+                  "category": "landmark",
+                  "coords": [
+                        -22.715452,
+                        63.812793
+                  ]
+            },
+            {
+                  "name": "Gunnuhver - fumarole",
+                  "text": "An impressive geothermal area featuring Iceland's largest mud pool and hot fumaroles.",
+                  "category": "landmark",
+                  "coords": [
+                        -22.68418,
+                        63.819445
+                  ]
+            },
+            {
+                  "name": "Skálafell",
+                  "text": "A mountain on the Reykjanes Peninsula offering wide views over the volcanic landscape.",
+                  "category": "landmark",
+                  "coords": [
+                        -22.683885,
+                        63.813299
+                  ]
+            },
+            {
+                  "name": "Rauðhóll",
+                  "text": "A reddish scoria cone or hill located near the Reykjanes Power Plant.",
+                  "category": "landmark",
+                  "coords": [
+                        -22.690644,
+                        63.843428
+                  ]
+            },
+            {
+                  "name": "Sýrfell",
+                  "text": "A prominent mountain peak located near the Reykjanes Power Plant.",
+                  "category": "landmark",
+                  "coords": [
+                        -22.658333,
+                        63.83735
+                  ]
+            },
+            {
+                  "name": "Brimketill",
+                  "text": "A coastal viewpoint offering views of the volcanic landscape near Reykjanes.",
+                  "category": "natural",
+                  "coords": [
+                        -22.606046,
+                        63.819348
+                  ]
+            }
+      ]
+},
     parent: "IS",
     type: "industry",
     name: { de: "Kraftwerk Reykjanes", hu: "Reykjanes erőmű", ro: "Centrala Reykjanes", en: "Reykjanes Power Plant"},

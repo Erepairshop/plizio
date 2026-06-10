@@ -3,7 +3,52 @@ import { POI } from './poi';
 export const franceLifeV2: POI[] = [
 
   {
-    id: "france-cevennes-np-life-v2",
+    id: "france-cevennes-np-life-v2", "sights": {
+      "de": [
+            {
+                  "name": "Église Saint-Joseph",
+                  "text": "Eine katholische Kirche im Nationalpark Cevennen, die sich harmonisch in die Berglandschaft einfügt.",
+                  "category": "religious",
+                  "coords": [
+                        3.528208,
+                        44.299871
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Église Saint-Joseph",
+                  "text": "Katolikus templom a Cevennek Nemzeti Parkban, amely harmonikusan illeszkedik a hegyi tájba.",
+                  "category": "religious",
+                  "coords": [
+                        3.528208,
+                        44.299871
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Église Saint-Joseph",
+                  "text": "O biserică catolică în Parcul Național Cévennes, integrată armonios în peisajul montan.",
+                  "category": "religious",
+                  "coords": [
+                        3.528208,
+                        44.299871
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Église Saint-Joseph",
+                  "text": "A Catholic church in the Cévennes National Park, harmoniously integrated into the mountain landscape.",
+                  "category": "religious",
+                  "coords": [
+                        3.528208,
+                        44.299871
+                  ]
+            }
+      ]
+},
     type: "park",
     parent: "FR",
     name: { de: "Nationalpark Cevennen", hu: "Cévennes Nemzeti Park", ro: "Parcul Național Cévennes", en: "Cévennes National Park" , fr: "Parc national des Cévennes"},
@@ -48,7 +93,304 @@ export const franceLifeV2: POI[] = [
     image: "/poi-images/france-cevennes-np-life-v2.webp",
   },
   {
-    id: "france-port-cros-np-life-v2",
+    id: "france-port-cros-np-life-v2", "sights": {
+      "de": [
+            {
+                  "name": "Fort de l'Estissac",
+                  "text": "Diese Festung auf der Insel Port-Cros beherbergt Ausstellungen über die Geschichte und Natur des Nationalparks.",
+                  "category": "fortress",
+                  "coords": [
+                        6.385192,
+                        43.011426
+                  ]
+            },
+            {
+                  "name": "Fort du Moulin",
+                  "text": "Diese historische Burg auf Port-Cros diente einst der Verteidigung der Insel gegen Piratenüberfälle.",
+                  "category": "castle",
+                  "coords": [
+                        6.381144,
+                        43.010587
+                  ]
+            },
+            {
+                  "name": "Fort de l'Eminence",
+                  "text": "Die im 19. Jahrhundert errichtete Festung überragt die Insel und bietet einen weiten Blick über den Hafen.",
+                  "category": "fortress",
+                  "coords": [
+                        6.388175,
+                        43.008646
+                  ]
+            },
+            {
+                  "name": "Fort de Port Man",
+                  "text": "Diese am östlichen Ende der Insel gelegene Festung sicherte einst den Zugang zur Bucht von Port Man.",
+                  "category": "fortress",
+                  "coords": [
+                        6.420021,
+                        43.013334
+                  ]
+            },
+            {
+                  "name": "Fort de la Vigie",
+                  "text": "Dieses historische Fort befindet sich auf dem höchsten Punkt der Insel und diente als Wachposten.",
+                  "category": "castle",
+                  "coords": [
+                        6.400572,
+                        42.999038
+                  ]
+            },
+            {
+                  "name": "Ancienne Batterie du Centre",
+                  "text": "Diese ehemalige Küstenbatterie auf der Insel Bagaud ist Teil der historischen Verteidigungsanlagen des Archipels.",
+                  "category": "fortress",
+                  "coords": [
+                        6.361224,
+                        43.014074
+                  ]
+            },
+            {
+                  "name": "Ancienne Batterie du Sud",
+                  "text": "Die Überreste dieser historischen Batterie zeugen von der militärischen Vergangenheit des Nationalparks.",
+                  "category": "fortress",
+                  "coords": [
+                        6.360928,
+                        43.008568
+                  ]
+            },
+            {
+                  "name": "Plage de la Palud",
+                  "text": "Dieser Strand auf Port-Cros ist bekannt für sein klares Wasser und die reiche Unterwasserwelt.",
+                  "category": "recreational",
+                  "coords": [
+                        6.392682,
+                        43.012663
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Fort de l'Estissac",
+                  "text": "Ez a Port-Cros szigetén található erőd a nemzeti park történetét és természetét bemutató kiállításoknak ad otthont.",
+                  "category": "fortress",
+                  "coords": [
+                        6.385192,
+                        43.011426
+                  ]
+            },
+            {
+                  "name": "Fort du Moulin",
+                  "text": "Ez a történelmi vár Port-Cros szigetén egykor a kalóztámadások elleni védelmet szolgálta.",
+                  "category": "castle",
+                  "coords": [
+                        6.381144,
+                        43.010587
+                  ]
+            },
+            {
+                  "name": "Fort de l'Eminence",
+                  "text": "A 19. században épült erőd a sziget fölé magasodik, és pazar kilátást nyújt a kikötőre.",
+                  "category": "fortress",
+                  "coords": [
+                        6.388175,
+                        43.008646
+                  ]
+            },
+            {
+                  "name": "Fort de Port Man",
+                  "text": "A sziget keleti végén található erőd egykor a Port Man-öböl bejáratát biztosította.",
+                  "category": "fortress",
+                  "coords": [
+                        6.420021,
+                        43.013334
+                  ]
+            },
+            {
+                  "name": "Fort de la Vigie",
+                  "text": "Ez a történelmi erőd a sziget legmagasabb pontján található, és egykor őrhelyként szolgált.",
+                  "category": "castle",
+                  "coords": [
+                        6.400572,
+                        42.999038
+                  ]
+            },
+            {
+                  "name": "Ancienne Batterie du Centre",
+                  "text": "Ez a Bagaud-szigeten található egykori tengerparti üteg a szigetcsoport történelmi védelmi rendszerének része.",
+                  "category": "fortress",
+                  "coords": [
+                        6.361224,
+                        43.014074
+                  ]
+            },
+            {
+                  "name": "Ancienne Batterie du Sud",
+                  "text": "A történelmi üteg maradványai a nemzeti park katonai múltjáról tanúskodnak.",
+                  "category": "fortress",
+                  "coords": [
+                        6.360928,
+                        43.008568
+                  ]
+            },
+            {
+                  "name": "Plage de la Palud",
+                  "text": "Ez a Port-Cros-i strand tiszta vizéről és gazdag víz alatti élővilágáról ismert.",
+                  "category": "recreational",
+                  "coords": [
+                        6.392682,
+                        43.012663
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Fort de l'Estissac",
+                  "text": "Această fortăreață de pe insula Port-Cros găzduiește expoziții despre istoria și natura parcului național.",
+                  "category": "fortress",
+                  "coords": [
+                        6.385192,
+                        43.011426
+                  ]
+            },
+            {
+                  "name": "Fort du Moulin",
+                  "text": "Acest castel istoric de pe Port-Cros a servit odinioară la apărarea insulei împotriva atacurilor piraților.",
+                  "category": "castle",
+                  "coords": [
+                        6.381144,
+                        43.010587
+                  ]
+            },
+            {
+                  "name": "Fort de l'Eminence",
+                  "text": "Fortăreața construită în secolul al XIX-le domină insula și oferă o vedere largă asupra portului.",
+                  "category": "fortress",
+                  "coords": [
+                        6.388175,
+                        43.008646
+                  ]
+            },
+            {
+                  "name": "Fort de Port Man",
+                  "text": "Situată la capătul estic al insulei, această fortăreață asigura odinioară accesul în golful Port Man.",
+                  "category": "fortress",
+                  "coords": [
+                        6.420021,
+                        43.013334
+                  ]
+            },
+            {
+                  "name": "Fort de la Vigie",
+                  "text": "Acest fort istoric este situat pe cel mai înalt punct al insulei și a servit ca post de observație.",
+                  "category": "castle",
+                  "coords": [
+                        6.400572,
+                        42.999038
+                  ]
+            },
+            {
+                  "name": "Ancienne Batterie du Centre",
+                  "text": "Această fostă baterie de coastă de pe insula Bagaud face parte din sistemul istoric de apărare al arhipelagului.",
+                  "category": "fortress",
+                  "coords": [
+                        6.361224,
+                        43.014074
+                  ]
+            },
+            {
+                  "name": "Ancienne Batterie du Sud",
+                  "text": "Rămășițele acestei baterii istorice stau mărturie pentru trecutul militar al parcului național.",
+                  "category": "fortress",
+                  "coords": [
+                        6.360928,
+                        43.008568
+                  ]
+            },
+            {
+                  "name": "Plage de la Palud",
+                  "text": "Această plajă de pe Port-Cros este cunoscută pentru apele sale limpezi și fauna submarină bogată.",
+                  "category": "recreational",
+                  "coords": [
+                        6.392682,
+                        43.012663
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Fort de l'Estissac",
+                  "text": "This fortress on Port-Cros Island houses exhibitions about the history and nature of the national park.",
+                  "category": "fortress",
+                  "coords": [
+                        6.385192,
+                        43.011426
+                  ]
+            },
+            {
+                  "name": "Fort du Moulin",
+                  "text": "This historical castle on Port-Cros once served to defend the island against pirate raids.",
+                  "category": "castle",
+                  "coords": [
+                        6.381144,
+                        43.010587
+                  ]
+            },
+            {
+                  "name": "Fort de l'Eminence",
+                  "text": "Built in the 19th century, this fortress overlooks the island and offers a broad view over the harbor.",
+                  "category": "fortress",
+                  "coords": [
+                        6.388175,
+                        43.008646
+                  ]
+            },
+            {
+                  "name": "Fort de Port Man",
+                  "text": "Located at the eastern end of the island, this fortress once secured the entrance to Port Man bay.",
+                  "category": "fortress",
+                  "coords": [
+                        6.420021,
+                        43.013334
+                  ]
+            },
+            {
+                  "name": "Fort de la Vigie",
+                  "text": "This historical fort is situated on the highest point of the island and served as a lookout post.",
+                  "category": "castle",
+                  "coords": [
+                        6.400572,
+                        42.999038
+                  ]
+            },
+            {
+                  "name": "Ancienne Batterie du Centre",
+                  "text": "This former coastal battery on Bagaud Island is part of the archipelago's historical defense systems.",
+                  "category": "fortress",
+                  "coords": [
+                        6.361224,
+                        43.014074
+                  ]
+            },
+            {
+                  "name": "Ancienne Batterie du Sud",
+                  "text": "The remains of this historical battery bear witness to the military past of the national park.",
+                  "category": "fortress",
+                  "coords": [
+                        6.360928,
+                        43.008568
+                  ]
+            },
+            {
+                  "name": "Plage de la Palud",
+                  "text": "This beach on Port-Cros is known for its clear waters and rich underwater life.",
+                  "category": "recreational",
+                  "coords": [
+                        6.392682,
+                        43.012663
+                  ]
+            }
+      ]
+},
     type: "park",
     parent: "FR",
     name: { de: "Nationalpark Port-Cros", hu: "Port-Cros Nemzeti Park", ro: "Parcul Național Port-Cros", en: "Port-Cros National Park" , fr: "Parc national de Port-Cros"},
@@ -93,7 +435,304 @@ export const franceLifeV2: POI[] = [
     image: "/poi-images/france-port-cros-np-life-v2.webp",
   },
   {
-    id: "france-ecrins-np-life-v2",
+    id: "france-ecrins-np-life-v2", "sights": {
+      "de": [
+            {
+                  "name": "Parc national des Écrins (cœur)",
+                  "text": "Das Kerngebiet des Nationalparks Écrins in den französischen Alpen.",
+                  "category": "natural",
+                  "coords": [
+                        6.276129,
+                        44.857419
+                  ]
+            },
+            {
+                  "name": "Pics du Says",
+                  "text": "Berggipfel im Nationalpark Écrins.",
+                  "category": "landmark",
+                  "coords": [
+                        6.304261,
+                        44.873779
+                  ]
+            },
+            {
+                  "name": "Mont Gioberney",
+                  "text": "Ein Gipfel im Écrins-Massiv.",
+                  "category": "landmark",
+                  "coords": [
+                        6.317352,
+                        44.861586
+                  ]
+            },
+            {
+                  "name": "Pointe Richardson",
+                  "text": "Ein Berggipfel im Nationalpark Écrins.",
+                  "category": "landmark",
+                  "coords": [
+                        6.320118,
+                        44.857058
+                  ]
+            },
+            {
+                  "name": "Sommet Sud des Bans",
+                  "text": "Ein hoher Gipfel im Nationalpark Écrins.",
+                  "category": "landmark",
+                  "coords": [
+                        6.33615,
+                        44.848871
+                  ]
+            },
+            {
+                  "name": "Têtes de la Pilatte",
+                  "text": "Berggipfel im Nationalpark Écrins.",
+                  "category": "landmark",
+                  "coords": [
+                        6.340312,
+                        44.84872
+                  ]
+            },
+            {
+                  "name": "Pointe de la Pilatte",
+                  "text": "Ein Berggipfel im Nationalpark Écrins.",
+                  "category": "landmark",
+                  "coords": [
+                        6.344372,
+                        44.849422
+                  ]
+            },
+            {
+                  "name": "Pic des Aupillous",
+                  "text": "Ein markanter Gipfel im Nationalpark Écrins.",
+                  "category": "landmark",
+                  "coords": [
+                        6.329517,
+                        44.840839
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Parc national des Écrins (cœur)",
+                  "text": "Az Écrins Nemzeti Park központi területe a francia Alpokban.",
+                  "category": "natural",
+                  "coords": [
+                        6.276129,
+                        44.857419
+                  ]
+            },
+            {
+                  "name": "Pics du Says",
+                  "text": "Hegycsúcsok az Écrins Nemzeti Parkban.",
+                  "category": "landmark",
+                  "coords": [
+                        6.304261,
+                        44.873779
+                  ]
+            },
+            {
+                  "name": "Mont Gioberney",
+                  "text": "Egy csúcs az Écrins-masszívumban.",
+                  "category": "landmark",
+                  "coords": [
+                        6.317352,
+                        44.861586
+                  ]
+            },
+            {
+                  "name": "Pointe Richardson",
+                  "text": "Hegycsúcs az Écrins Nemzeti Parkban.",
+                  "category": "landmark",
+                  "coords": [
+                        6.320118,
+                        44.857058
+                  ]
+            },
+            {
+                  "name": "Sommet Sud des Bans",
+                  "text": "Magas hegycsúcs az Écrins Nemzeti Parkban.",
+                  "category": "landmark",
+                  "coords": [
+                        6.33615,
+                        44.848871
+                  ]
+            },
+            {
+                  "name": "Têtes de la Pilatte",
+                  "text": "Hegycsúcsok az Écrins Nemzeti Parkban.",
+                  "category": "landmark",
+                  "coords": [
+                        6.340312,
+                        44.84872
+                  ]
+            },
+            {
+                  "name": "Pointe de la Pilatte",
+                  "text": "Hegycsúcs az Écrins Nemzeti Parkban.",
+                  "category": "landmark",
+                  "coords": [
+                        6.344372,
+                        44.849422
+                  ]
+            },
+            {
+                  "name": "Pic des Aupillous",
+                  "text": "Jellegzetes hegycsúcs az Écrins Nemzeti Parkban.",
+                  "category": "landmark",
+                  "coords": [
+                        6.329517,
+                        44.840839
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Parc national des Écrins (cœur)",
+                  "text": "Zona centrală a Parcului Național Écrins din Alpii Francezi.",
+                  "category": "natural",
+                  "coords": [
+                        6.276129,
+                        44.857419
+                  ]
+            },
+            {
+                  "name": "Pics du Says",
+                  "text": "Vârfuri montane în Parcul Național Écrins.",
+                  "category": "landmark",
+                  "coords": [
+                        6.304261,
+                        44.873779
+                  ]
+            },
+            {
+                  "name": "Mont Gioberney",
+                  "text": "Un vârf în masivul Écrins.",
+                  "category": "landmark",
+                  "coords": [
+                        6.317352,
+                        44.861586
+                  ]
+            },
+            {
+                  "name": "Pointe Richardson",
+                  "text": "Un vârf montan în Parcul Național Écrins.",
+                  "category": "landmark",
+                  "coords": [
+                        6.320118,
+                        44.857058
+                  ]
+            },
+            {
+                  "name": "Sommet Sud des Bans",
+                  "text": "Un vârf înalt în Parcul Național Écrins.",
+                  "category": "landmark",
+                  "coords": [
+                        6.33615,
+                        44.848871
+                  ]
+            },
+            {
+                  "name": "Têtes de la Pilatte",
+                  "text": "Vârfuri montane în Parcul Național Écrins.",
+                  "category": "landmark",
+                  "coords": [
+                        6.340312,
+                        44.84872
+                  ]
+            },
+            {
+                  "name": "Pointe de la Pilatte",
+                  "text": "Un vârf montan în Parcul Național Écrins.",
+                  "category": "landmark",
+                  "coords": [
+                        6.344372,
+                        44.849422
+                  ]
+            },
+            {
+                  "name": "Pic des Aupillous",
+                  "text": "Un vârf muntos proeminent în Parcul Național Écrins.",
+                  "category": "landmark",
+                  "coords": [
+                        6.329517,
+                        44.840839
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Parc national des Écrins (cœur)",
+                  "text": "The core area of the Écrins National Park in the French Alps.",
+                  "category": "natural",
+                  "coords": [
+                        6.276129,
+                        44.857419
+                  ]
+            },
+            {
+                  "name": "Pics du Says",
+                  "text": "Mountain peaks in the Écrins National Park.",
+                  "category": "landmark",
+                  "coords": [
+                        6.304261,
+                        44.873779
+                  ]
+            },
+            {
+                  "name": "Mont Gioberney",
+                  "text": "A peak in the Écrins massif.",
+                  "category": "landmark",
+                  "coords": [
+                        6.317352,
+                        44.861586
+                  ]
+            },
+            {
+                  "name": "Pointe Richardson",
+                  "text": "A mountain peak in the Écrins National Park.",
+                  "category": "landmark",
+                  "coords": [
+                        6.320118,
+                        44.857058
+                  ]
+            },
+            {
+                  "name": "Sommet Sud des Bans",
+                  "text": "A high peak in the Écrins National Park.",
+                  "category": "landmark",
+                  "coords": [
+                        6.33615,
+                        44.848871
+                  ]
+            },
+            {
+                  "name": "Têtes de la Pilatte",
+                  "text": "Mountain peaks in the Écrins National Park.",
+                  "category": "landmark",
+                  "coords": [
+                        6.340312,
+                        44.84872
+                  ]
+            },
+            {
+                  "name": "Pointe de la Pilatte",
+                  "text": "A mountain peak in the Écrins National Park.",
+                  "category": "landmark",
+                  "coords": [
+                        6.344372,
+                        44.849422
+                  ]
+            },
+            {
+                  "name": "Pic des Aupillous",
+                  "text": "A prominent mountain peak in the Écrins National Park.",
+                  "category": "landmark",
+                  "coords": [
+                        6.329517,
+                        44.840839
+                  ]
+            }
+      ]
+},
     type: "park",
     parent: "FR",
     name: { de: "Nationalpark Écrins", hu: "Écrins Nemzeti Park", ro: "Parcul Național Écrins", en: "Écrins National Park" , fr: "Parc national des Écrins"},
@@ -228,7 +867,232 @@ export const franceLifeV2: POI[] = [
     image: "/poi-images/france-jardin-botanique-lyon-life-v2.webp",
   },
   {
-    id: "france-marais-poitevin-life-v2",
+    id: "france-marais-poitevin-life-v2", "sights": {
+      "de": [
+            {
+                  "name": "Embarcadère les frênes",
+                  "text": "Eine Anlegestelle im Marais Poitevin, die Bootsfahrten durch die Sumpflandschaft anbietet.",
+                  "category": "landmark",
+                  "coords": [
+                        -0.593037,
+                        46.30549
+                  ]
+            },
+            {
+                  "name": "Le Petit Train Pibalou",
+                  "text": "Ein kleiner Touristenzug, der Besucher durch die malerischen Landschaften des Marais Poitevin führt.",
+                  "category": "landmark",
+                  "coords": [
+                        -0.585887,
+                        46.321562
+                  ]
+            },
+            {
+                  "name": "Embarcadère La Pigouille",
+                  "text": "Ein beliebter Startpunkt für traditionelle Bootsfahrten im Naturpark Marais Poitevin.",
+                  "category": "landmark",
+                  "coords": [
+                        -0.584496,
+                        46.321247
+                  ]
+            },
+            {
+                  "name": "Embarcadère Prada",
+                  "text": "Ein Ausgangspunkt für Erkundungstouren mit dem Ruderboot durch das \"Grüne Venedig\".",
+                  "category": "landmark",
+                  "coords": [
+                        -0.587298,
+                        46.320648
+                  ]
+            },
+            {
+                  "name": "Embarcadere Cardinaud",
+                  "text": "Eine bekannte Anlegestelle im Marais Poitevin für Fahrten durch das verzweigte Kanalsystem.",
+                  "category": "landmark",
+                  "coords": [
+                        -0.580923,
+                        46.320363
+                  ]
+            },
+            {
+                  "name": "Mairie du Vanneau-Irleau",
+                  "text": "Das Rathaus von Le Vanneau-Irleau ist ein zentrales Verwaltungsgebäude in der Marais Poitevin-Region.",
+                  "category": "landmark",
+                  "coords": [
+                        -0.636912,
+                        46.29522
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Embarcadère les frênes",
+                  "text": "Kikötőhely a Marais Poitevin területén, ahonnan csónaktúrák indulnak a mocsárvilágba.",
+                  "category": "landmark",
+                  "coords": [
+                        -0.593037,
+                        46.30549
+                  ]
+            },
+            {
+                  "name": "Le Petit Train Pibalou",
+                  "text": "Kis turistavonat, amely a Marais Poitevin festői tájain vezeti körbe a látogatókat.",
+                  "category": "landmark",
+                  "coords": [
+                        -0.585887,
+                        46.321562
+                  ]
+            },
+            {
+                  "name": "Embarcadère La Pigouille",
+                  "text": "Népszerű kiindulópont a hagyományos csónaktúrákhoz a Marais Poitevin natúrparkban.",
+                  "category": "landmark",
+                  "coords": [
+                        -0.584496,
+                        46.321247
+                  ]
+            },
+            {
+                  "name": "Embarcadère Prada",
+                  "text": "Kiindulópont a \"Zöld Velence\" csónakkal történő felfedezéséhez.",
+                  "category": "landmark",
+                  "coords": [
+                        -0.587298,
+                        46.320648
+                  ]
+            },
+            {
+                  "name": "Embarcadere Cardinaud",
+                  "text": "Ismert kikötőhely a Marais Poitevinben, ahonnan túrák indulnak a szövevényes csatornarendszerbe.",
+                  "category": "landmark",
+                  "coords": [
+                        -0.580923,
+                        46.320363
+                  ]
+            },
+            {
+                  "name": "Mairie du Vanneau-Irleau",
+                  "text": "Le Vanneau-Irleau városháza a Marais Poitevin régió egyik központi igazgatási épülete.",
+                  "category": "landmark",
+                  "coords": [
+                        -0.636912,
+                        46.29522
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Embarcadère les frênes",
+                  "text": "Un debarcader din Marais Poitevin care oferă plimbări cu barca prin mlaștinile pitorești.",
+                  "category": "landmark",
+                  "coords": [
+                        -0.593037,
+                        46.30549
+                  ]
+            },
+            {
+                  "name": "Le Petit Train Pibalou",
+                  "text": "Un mic tren turistic care poartă vizitatorii prin peisajele pitorești din Marais Poitevin.",
+                  "category": "landmark",
+                  "coords": [
+                        -0.585887,
+                        46.321562
+                  ]
+            },
+            {
+                  "name": "Embarcadère La Pigouille",
+                  "text": "Un punct de plecare popular pentru plimbări tradiționale cu barca în parcul natural Marais Poitevin.",
+                  "category": "landmark",
+                  "coords": [
+                        -0.584496,
+                        46.321247
+                  ]
+            },
+            {
+                  "name": "Embarcadère Prada",
+                  "text": "Un punct de plecare pentru explorarea cu barca a „Veneției Verzi”.",
+                  "category": "landmark",
+                  "coords": [
+                        -0.587298,
+                        46.320648
+                  ]
+            },
+            {
+                  "name": "Embarcadere Cardinaud",
+                  "text": "Un debarcader cunoscut din Marais Poitevin pentru plimbări prin sistemul complex de canale.",
+                  "category": "landmark",
+                  "coords": [
+                        -0.580923,
+                        46.320363
+                  ]
+            },
+            {
+                  "name": "Mairie du Vanneau-Irleau",
+                  "text": "Primăria din Le Vanneau-Irleau este o clădire administrativă centrală din regiunea Marais Poitevin.",
+                  "category": "landmark",
+                  "coords": [
+                        -0.636912,
+                        46.29522
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Embarcadère les frênes",
+                  "text": "A pier in the Marais Poitevin offering boat trips through the scenic marshlands.",
+                  "category": "landmark",
+                  "coords": [
+                        -0.593037,
+                        46.30549
+                  ]
+            },
+            {
+                  "name": "Le Petit Train Pibalou",
+                  "text": "A small tourist train that takes visitors through the picturesque landscapes of Marais Poitevin.",
+                  "category": "landmark",
+                  "coords": [
+                        -0.585887,
+                        46.321562
+                  ]
+            },
+            {
+                  "name": "Embarcadère La Pigouille",
+                  "text": "A popular starting point for traditional boat trips in the Marais Poitevin natural park.",
+                  "category": "landmark",
+                  "coords": [
+                        -0.584496,
+                        46.321247
+                  ]
+            },
+            {
+                  "name": "Embarcadère Prada",
+                  "text": "A starting point for exploring the \"Green Venice\" by boat in the Marais Poitevin.",
+                  "category": "landmark",
+                  "coords": [
+                        -0.587298,
+                        46.320648
+                  ]
+            },
+            {
+                  "name": "Embarcadere Cardinaud",
+                  "text": "A well-known pier in Marais Poitevin for boat trips through the intricate canal system.",
+                  "category": "landmark",
+                  "coords": [
+                        -0.580923,
+                        46.320363
+                  ]
+            },
+            {
+                  "name": "Mairie du Vanneau-Irleau",
+                  "text": "The town hall of Le Vanneau-Irleau is a central administrative building in the Marais Poitevin region.",
+                  "category": "landmark",
+                  "coords": [
+                        -0.636912,
+                        46.29522
+                  ]
+            }
+      ]
+},
     type: "park",
     parent: "FR",
     name: { de: "Marais Poitevin", hu: "Marais Poitevin", ro: "Marais Poitevin", en: "Marais Poitevin" , fr: "Marais poitevin"},
@@ -318,7 +1182,268 @@ export const franceLifeV2: POI[] = [
     image: "/poi-images/france-reserve-camargue-life-v2.webp",
   },
   {
-    id: "france-vanoise-np-life-v2",
+    id: "france-vanoise-np-life-v2", "sights": {
+      "de": [
+            {
+                  "name": "Pointe de la Réchasse",
+                  "text": "Ein Berggipfel im Vanoise-Massiv innerhalb des Nationalparks.",
+                  "category": "landmark",
+                  "coords": [
+                        6.802123,
+                        45.373394
+                  ]
+            },
+            {
+                  "name": "Pointe du Dard",
+                  "text": "Ein markanter Berggipfel in den französischen Alpen im Vanoise-Nationalpark.",
+                  "category": "landmark",
+                  "coords": [
+                        6.765809,
+                        45.364085
+                  ]
+            },
+            {
+                  "name": "Dôme de Chasseforêt",
+                  "text": "Ein vergletscherter Berggipfel im Herzen des Vanoise-Nationalparks.",
+                  "category": "landmark",
+                  "coords": [
+                        6.760705,
+                        45.330755
+                  ]
+            },
+            {
+                  "name": "Pointe Ouest du Mont Pelve",
+                  "text": "Der westliche Gipfel des Mont Pelve in den französischen Alpen.",
+                  "category": "landmark",
+                  "coords": [
+                        6.765115,
+                        45.357523
+                  ]
+            },
+            {
+                  "name": "Mont Pelve",
+                  "text": "Mont Pelve ist ein beeindruckender Berg im Vanoise-Massiv.",
+                  "category": "landmark",
+                  "coords": [
+                        6.781557,
+                        45.35697
+                  ]
+            },
+            {
+                  "name": "Mollard de la Loza",
+                  "text": "Ein Berggipfel im Vanoise-Nationalpark, ideal für Bergwanderungen.",
+                  "category": "landmark",
+                  "coords": [
+                        6.817273,
+                        45.380424
+                  ]
+            },
+            {
+                  "name": "Pont de la Croe-Vie",
+                  "text": "Eine historische Brücke und ein Wanderpunkt im Vanoise-Nationalpark.",
+                  "category": "landmark",
+                  "coords": [
+                        6.834007,
+                        45.376472
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Pointe de la Réchasse",
+                  "text": "Hegycsúcs a Vanoise-masszívumban, a nemzeti park területén.",
+                  "category": "landmark",
+                  "coords": [
+                        6.802123,
+                        45.373394
+                  ]
+            },
+            {
+                  "name": "Pointe du Dard",
+                  "text": "Jellegzetes hegycsúcs a Francia-Alpokban, a Vanoise Nemzeti Parkban.",
+                  "category": "landmark",
+                  "coords": [
+                        6.765809,
+                        45.364085
+                  ]
+            },
+            {
+                  "name": "Dôme de Chasseforêt",
+                  "text": "Eljegesedett hegycsúcs a Vanoise Nemzeti Park szívében.",
+                  "category": "landmark",
+                  "coords": [
+                        6.760705,
+                        45.330755
+                  ]
+            },
+            {
+                  "name": "Pointe Ouest du Mont Pelve",
+                  "text": "A Mont Pelve nyugati csúcsa a Francia-Alpokban.",
+                  "category": "landmark",
+                  "coords": [
+                        6.765115,
+                        45.357523
+                  ]
+            },
+            {
+                  "name": "Mont Pelve",
+                  "text": "A Mont Pelve egy lenyűgöző hegy a Vanoise-masszívumban.",
+                  "category": "landmark",
+                  "coords": [
+                        6.781557,
+                        45.35697
+                  ]
+            },
+            {
+                  "name": "Mollard de la Loza",
+                  "text": "Hegycsúcs a Vanoise Nemzeti Parkban, ideális hegyi túrákhoz.",
+                  "category": "landmark",
+                  "coords": [
+                        6.817273,
+                        45.380424
+                  ]
+            },
+            {
+                  "name": "Pont de la Croe-Vie",
+                  "text": "Történelmi híd és túrázóhely a Vanoise Nemzeti Parkban.",
+                  "category": "landmark",
+                  "coords": [
+                        6.834007,
+                        45.376472
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Pointe de la Réchasse",
+                  "text": "Un vârf montan în masivul Vanoise, în cadrul parcului național.",
+                  "category": "landmark",
+                  "coords": [
+                        6.802123,
+                        45.373394
+                  ]
+            },
+            {
+                  "name": "Pointe du Dard",
+                  "text": "Un vârf montan proeminent în Alpii Francezi, în Parcul Național Vanoise.",
+                  "category": "landmark",
+                  "coords": [
+                        6.765809,
+                        45.364085
+                  ]
+            },
+            {
+                  "name": "Dôme de Chasseforêt",
+                  "text": "Un vârf muntos acoperit de ghețari în inima Parcului Național Vanoise.",
+                  "category": "landmark",
+                  "coords": [
+                        6.760705,
+                        45.330755
+                  ]
+            },
+            {
+                  "name": "Pointe Ouest du Mont Pelve",
+                  "text": "Vârful vestic al Mont Pelve din Alpii Francezi.",
+                  "category": "landmark",
+                  "coords": [
+                        6.765115,
+                        45.357523
+                  ]
+            },
+            {
+                  "name": "Mont Pelve",
+                  "text": "Mont Pelve este un munte impresionant în masivul Vanoise.",
+                  "category": "landmark",
+                  "coords": [
+                        6.781557,
+                        45.35697
+                  ]
+            },
+            {
+                  "name": "Mollard de la Loza",
+                  "text": "Un vârf montan în Parcul Național Vanoise, ideal pentru drumeții montane.",
+                  "category": "landmark",
+                  "coords": [
+                        6.817273,
+                        45.380424
+                  ]
+            },
+            {
+                  "name": "Pont de la Croe-Vie",
+                  "text": "Un pod istoric și un punct de drumeție în Parcul Național Vanoise.",
+                  "category": "landmark",
+                  "coords": [
+                        6.834007,
+                        45.376472
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Pointe de la Réchasse",
+                  "text": "A mountain peak in the Vanoise Massif within the national park.",
+                  "category": "landmark",
+                  "coords": [
+                        6.802123,
+                        45.373394
+                  ]
+            },
+            {
+                  "name": "Pointe du Dard",
+                  "text": "A prominent mountain peak in the French Alps within Vanoise National Park.",
+                  "category": "landmark",
+                  "coords": [
+                        6.765809,
+                        45.364085
+                  ]
+            },
+            {
+                  "name": "Dôme de Chasseforêt",
+                  "text": "A glaciated mountain peak in the heart of Vanoise National Park.",
+                  "category": "landmark",
+                  "coords": [
+                        6.760705,
+                        45.330755
+                  ]
+            },
+            {
+                  "name": "Pointe Ouest du Mont Pelve",
+                  "text": "The western peak of Mont Pelve in the French Alps.",
+                  "category": "landmark",
+                  "coords": [
+                        6.765115,
+                        45.357523
+                  ]
+            },
+            {
+                  "name": "Mont Pelve",
+                  "text": "Mont Pelve is an impressive mountain in the Vanoise Massif.",
+                  "category": "landmark",
+                  "coords": [
+                        6.781557,
+                        45.35697
+                  ]
+            },
+            {
+                  "name": "Mollard de la Loza",
+                  "text": "A mountain peak in Vanoise National Park, ideal for mountain hiking.",
+                  "category": "landmark",
+                  "coords": [
+                        6.817273,
+                        45.380424
+                  ]
+            },
+            {
+                  "name": "Pont de la Croe-Vie",
+                  "text": "A historical bridge and hiking point in Vanoise National Park.",
+                  "category": "landmark",
+                  "coords": [
+                        6.834007,
+                        45.376472
+                  ]
+            }
+      ]
+},
     type: "park",
     parent: "FR",
     name: { de: "Nationalpark Vanoise", hu: "Vanoise Nemzeti Park", ro: "Parcul Național Vanoise", en: "Vanoise National Park" , fr: "Parc national de la Vanoise"},
@@ -678,7 +1803,124 @@ export const franceLifeV2: POI[] = [
     image: "/poi-images/france-jardin-tuileries-life-v2.webp",
   },
   {
-    id: "france-reserve-hauts-plateaux-life-v2",
+    id: "france-reserve-hauts-plateaux-life-v2", "sights": {
+      "de": [
+            {
+                  "name": "Réserve biologique intégrale du Vercors",
+                  "text": "Ein streng geschütztes Naturschutzgebiet im Vercors-Massiv.",
+                  "category": "natural",
+                  "coords": [
+                        5.472786,
+                        44.927837
+                  ]
+            },
+            {
+                  "name": "Église Saint-Agnan",
+                  "text": "Eine lokale Kirche in der beeindruckenden Landschaft des Vercors-Hochplateaus.",
+                  "category": "religious",
+                  "coords": [
+                        5.432133,
+                        44.935749
+                  ]
+            },
+            {
+                  "name": "Église Notre-Dame-de-l'Assomption",
+                  "text": "Eine der Himmelfahrt Mariens geweihte Kirche im Vercors-Massiv.",
+                  "category": "religious",
+                  "coords": [
+                        5.415507,
+                        44.968056
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Réserve biologique intégrale du Vercors",
+                  "text": "Szigorúan védett természetvédelmi terület a Vercors-hegységben.",
+                  "category": "natural",
+                  "coords": [
+                        5.472786,
+                        44.927837
+                  ]
+            },
+            {
+                  "name": "Église Saint-Agnan",
+                  "text": "Helyi templom a Vercors-fennsík lenyűgöző tájain.",
+                  "category": "religious",
+                  "coords": [
+                        5.432133,
+                        44.935749
+                  ]
+            },
+            {
+                  "name": "Église Notre-Dame-de-l'Assomption",
+                  "text": "Szűz Mária mennybevételének szentelt templom a Vercors-hegységben.",
+                  "category": "religious",
+                  "coords": [
+                        5.415507,
+                        44.968056
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Réserve biologique intégrale du Vercors",
+                  "text": "O rezervație naturală strict protejată în masivul Vercors.",
+                  "category": "natural",
+                  "coords": [
+                        5.472786,
+                        44.927837
+                  ]
+            },
+            {
+                  "name": "Église Saint-Agnan",
+                  "text": "O biserică locală situată în peisajul impresionant al platoului Vercors.",
+                  "category": "religious",
+                  "coords": [
+                        5.432133,
+                        44.935749
+                  ]
+            },
+            {
+                  "name": "Église Notre-Dame-de-l'Assomption",
+                  "text": "O biserică dedicată Adormirii Maicii Domnului în masivul Vercors.",
+                  "category": "religious",
+                  "coords": [
+                        5.415507,
+                        44.968056
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Réserve biologique intégrale du Vercors",
+                  "text": "A strictly protected nature reserve in the Vercors Massif.",
+                  "category": "natural",
+                  "coords": [
+                        5.472786,
+                        44.927837
+                  ]
+            },
+            {
+                  "name": "Église Saint-Agnan",
+                  "text": "A local church situated in the impressive landscape of the Vercors high plateau.",
+                  "category": "religious",
+                  "coords": [
+                        5.432133,
+                        44.935749
+                  ]
+            },
+            {
+                  "name": "Église Notre-Dame-de-l'Assomption",
+                  "text": "A church dedicated to the Assumption of Mary in the Vercors Massif.",
+                  "category": "religious",
+                  "coords": [
+                        5.415507,
+                        44.968056
+                  ]
+            }
+      ]
+},
     type: "park",
     parent: "FR",
     name: { de: "Hauts Plateaux du Vercors", hu: "Hauts Plateaux du Vercors", ro: "Hauts Plateaux du Vercors", en: "Hauts Plateaux du Vercors" , fr: "Réserve naturelle des Hauts Plateaux du Vercors"},
@@ -768,7 +2010,304 @@ export const franceLifeV2: POI[] = [
     image: "/poi-images/france-jardin-biologique-life-v2.webp",
   },
   {
-    id: "france-reserve-bauges-life-v2",
+    id: "france-reserve-bauges-life-v2", "sights": {
+      "de": [
+            {
+                  "name": "Dent de Rossanaz",
+                  "text": "Ein markanter Berggipfel im Massif des Bauges, der eine weite Aussicht auf die Alpen bietet.",
+                  "category": "landmark",
+                  "coords": [
+                        6.116182,
+                        45.656582
+                  ]
+            },
+            {
+                  "name": "Roc de Poyez",
+                  "text": "Ein Gipfel im Massif des Bauges, bekannt bei Wanderern für seine natürliche Schönheit.",
+                  "category": "landmark",
+                  "coords": [
+                        6.122594,
+                        45.649335
+                  ]
+            },
+            {
+                  "name": "Mont Chardonnet",
+                  "text": "Ein beeindruckender Gipfel im Massif des Bauges, der Teil der regionalen Gebirgslandschaft ist.",
+                  "category": "landmark",
+                  "coords": [
+                        6.141425,
+                        45.634351
+                  ]
+            },
+            {
+                  "name": "Colombier",
+                  "text": "Ein markanter Gipfel im Massif des Bauges, der als beliebtes Ziel für Bergtouren gilt.",
+                  "category": "landmark",
+                  "coords": [
+                        6.119477,
+                        45.644484
+                  ]
+            },
+            {
+                  "name": "Rochers de la Bade",
+                  "text": "Felsige Erhebungen im Massif des Bauges, die charakteristisch für diese Alpenregion sind.",
+                  "category": "landmark",
+                  "coords": [
+                        6.108057,
+                        45.629653
+                  ]
+            },
+            {
+                  "name": "Cascade du Pissieu",
+                  "text": "Ein malerischer Wasserfall im Massif des Bauges, der über Kalksteinfelsen stürzt.",
+                  "category": "landmark",
+                  "coords": [
+                        6.104371,
+                        45.677295
+                  ]
+            },
+            {
+                  "name": "Église Notre-Dame de l'Assomption",
+                  "text": "Eine historische Kirche im Massif des Bauges, die der Himmelfahrt Mariens gewidmet ist.",
+                  "category": "religious",
+                  "coords": [
+                        6.080331,
+                        45.617691
+                  ]
+            },
+            {
+                  "name": "Église Saint-Donat",
+                  "text": "Ein lokales religiöses Bauwerk im Massif des Bauges, das dem Heiligen Donatus gewidmet ist.",
+                  "category": "religious",
+                  "coords": [
+                        6.094432,
+                        45.651805
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Dent de Rossanaz",
+                  "text": "Jelentős hegycsúcs a Massif des Bauges hegységben, amely tágas kilátást nyújt az Alpokra.",
+                  "category": "landmark",
+                  "coords": [
+                        6.116182,
+                        45.656582
+                  ]
+            },
+            {
+                  "name": "Roc de Poyez",
+                  "text": "Hegycsúcs a Massif des Bauges területén, amely természeti szépsége miatt népszerű a túrázók körében.",
+                  "category": "landmark",
+                  "coords": [
+                        6.122594,
+                        45.649335
+                  ]
+            },
+            {
+                  "name": "Mont Chardonnet",
+                  "text": "Lenyűgöző csúcs a Massif des Bauges hegységben, a regionális hegyi táj része.",
+                  "category": "landmark",
+                  "coords": [
+                        6.141425,
+                        45.634351
+                  ]
+            },
+            {
+                  "name": "Colombier",
+                  "text": "Jelentős hegycsúcs a Massif des Bauges hegységben, amely népszerű hegyi túracélpont.",
+                  "category": "landmark",
+                  "coords": [
+                        6.119477,
+                        45.644484
+                  ]
+            },
+            {
+                  "name": "Rochers de la Bade",
+                  "text": "Sziklás magaslatok a Massif des Bauges hegységben, amelyek jellemzőek erre az alpesi régióra.",
+                  "category": "landmark",
+                  "coords": [
+                        6.108057,
+                        45.629653
+                  ]
+            },
+            {
+                  "name": "Cascade du Pissieu",
+                  "text": "Festői vízesés a Massif des Bauges hegységben, amely mészkősziklákon zúdul le.",
+                  "category": "landmark",
+                  "coords": [
+                        6.104371,
+                        45.677295
+                  ]
+            },
+            {
+                  "name": "Église Notre-Dame de l'Assomption",
+                  "text": "Történelmi templom a Massif des Bauges területén, amelyet Szűz Mária mennybevételének szenteltek.",
+                  "category": "religious",
+                  "coords": [
+                        6.080331,
+                        45.617691
+                  ]
+            },
+            {
+                  "name": "Église Saint-Donat",
+                  "text": "Szent Donátnak szentelt helyi vallási épület a Massif des Bauges területén.",
+                  "category": "religious",
+                  "coords": [
+                        6.094432,
+                        45.651805
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Dent de Rossanaz",
+                  "text": "Un vârf montan proeminent în Massif des Bauges, oferind o panoramă largă asupra Alpilor.",
+                  "category": "landmark",
+                  "coords": [
+                        6.116182,
+                        45.656582
+                  ]
+            },
+            {
+                  "name": "Roc de Poyez",
+                  "text": "Un vârf în Massif des Bauges, cunoscut de drumeți pentru frumusețea sa naturală.",
+                  "category": "landmark",
+                  "coords": [
+                        6.122594,
+                        45.649335
+                  ]
+            },
+            {
+                  "name": "Mont Chardonnet",
+                  "text": "Un vârf impresionant în Massif des Bauges, făcând parte din peisajul montan regional.",
+                  "category": "landmark",
+                  "coords": [
+                        6.141425,
+                        45.634351
+                  ]
+            },
+            {
+                  "name": "Colombier",
+                  "text": "Un vârf proeminent în Massif des Bauges, considerat o destinație populară pentru drumeții montane.",
+                  "category": "landmark",
+                  "coords": [
+                        6.119477,
+                        45.644484
+                  ]
+            },
+            {
+                  "name": "Rochers de la Bade",
+                  "text": "Formațiuni stâncoase în Massif des Bauges, caracteristice pentru această regiune alpină.",
+                  "category": "landmark",
+                  "coords": [
+                        6.108057,
+                        45.629653
+                  ]
+            },
+            {
+                  "name": "Cascade du Pissieu",
+                  "text": "O cascadă pitorească în Massif des Bauges, care curge peste stânci de calcar.",
+                  "category": "landmark",
+                  "coords": [
+                        6.104371,
+                        45.677295
+                  ]
+            },
+            {
+                  "name": "Église Notre-Dame de l'Assomption",
+                  "text": "O biserică istorică în Massif des Bauges, dedicată Adormirii Maicii Domnului.",
+                  "category": "religious",
+                  "coords": [
+                        6.080331,
+                        45.617691
+                  ]
+            },
+            {
+                  "name": "Église Saint-Donat",
+                  "text": "Un edificiu religios local în Massif des Bauges, dedicat Sfântului Donat.",
+                  "category": "religious",
+                  "coords": [
+                        6.094432,
+                        45.651805
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Dent de Rossanaz",
+                  "text": "A prominent mountain peak in the Massif des Bauges, offering wide views of the Alps.",
+                  "category": "landmark",
+                  "coords": [
+                        6.116182,
+                        45.656582
+                  ]
+            },
+            {
+                  "name": "Roc de Poyez",
+                  "text": "A peak in the Massif des Bauges, known among hikers for its natural beauty.",
+                  "category": "landmark",
+                  "coords": [
+                        6.122594,
+                        45.649335
+                  ]
+            },
+            {
+                  "name": "Mont Chardonnet",
+                  "text": "An impressive peak in the Massif des Bauges, part of the regional mountain landscape.",
+                  "category": "landmark",
+                  "coords": [
+                        6.141425,
+                        45.634351
+                  ]
+            },
+            {
+                  "name": "Colombier",
+                  "text": "A prominent peak in the Massif des Bauges, considered a popular destination for mountain tours.",
+                  "category": "landmark",
+                  "coords": [
+                        6.119477,
+                        45.644484
+                  ]
+            },
+            {
+                  "name": "Rochers de la Bade",
+                  "text": "Rocky elevations in the Massif des Bauges, characteristic of this Alpine region.",
+                  "category": "landmark",
+                  "coords": [
+                        6.108057,
+                        45.629653
+                  ]
+            },
+            {
+                  "name": "Cascade du Pissieu",
+                  "text": "A picturesque waterfall in the Massif des Bauges, cascading over limestone rocks.",
+                  "category": "landmark",
+                  "coords": [
+                        6.104371,
+                        45.677295
+                  ]
+            },
+            {
+                  "name": "Église Notre-Dame de l'Assomption",
+                  "text": "A historic church in the Massif des Bauges, dedicated to the Assumption of Mary.",
+                  "category": "religious",
+                  "coords": [
+                        6.080331,
+                        45.617691
+                  ]
+            },
+            {
+                  "name": "Église Saint-Donat",
+                  "text": "A local religious building in the Massif des Bauges, dedicated to Saint Donatus.",
+                  "category": "religious",
+                  "coords": [
+                        6.094432,
+                        45.651805
+                  ]
+            }
+      ]
+},
     type: "park",
     parent: "FR",
     name: { de: "Massif des Bauges", hu: "Massif des Bauges", ro: "Massif des Bauges", en: "Massif des Bauges" , fr: "Massif des Bauges"},

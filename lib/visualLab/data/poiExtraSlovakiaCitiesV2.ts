@@ -5727,6 +5727,69 @@ imageHint: "Historic main square of Prešov with St. Nicholas Cathedral",
                         18.097518,
                         48.304209
                   ]
+            },
+            {
+                  "name": "Ponitrianske muzeum",
+                  "text": "Ein Regionalmuseum in Nitra, das sich auf die Naturgeschichte und Archäologie der Region konzentriert.",
+                  "category": "museum",
+                  "coords": [
+                        18.088134,
+                        48.313252
+                  ]
+            },
+            {
+                  "name": "Stare divadlo",
+                  "text": "Ein bedeutendes Theater in Nitra, das für seine Puppenspiel- und Schauspielaufführungen bekannt ist.",
+                  "category": "cultural",
+                  "coords": [
+                        18.084629,
+                        48.306934
+                  ]
+            },
+            {
+                  "name": "Nitriansky hrad",
+                  "text": "Eine dominante Burganlage auf einem Hügel in Nitra, die seit Jahrhunderten das Stadtbild prägt.",
+                  "category": "castle",
+                  "coords": [
+                        18.086758,
+                        48.318138
+                  ]
+            },
+            {
+                  "name": "Slovenske polnohospodarske muzeum",
+                  "text": "Ein Museum in Nitra, das die Entwicklung der Landwirtschaft in der Slowakei dokumentiert.",
+                  "category": "museum",
+                  "coords": [
+                        18.114768,
+                        48.30224
+                  ]
+            },
+            {
+                  "name": "Franciscan Monastery",
+                  "text": "Ein historisches Kloster in Nitra, zu dem auch die Kirche St. Peter und Paul gehört.",
+                  "category": "religious",
+                  "coords": [
+                        18.086782,
+                        48.315832
+                  ]
+            },
+            {
+                  "name": "Zupny dom",
+                  "text": "Das ehemalige Komitatshaus in Nitra beherbergt heute die Nitra-Galerie für zeitgenössische Kunst.",
+                  "category": "castle",
+                  "coords": [
+                        18.085546,
+                        48.315963
+                  ]
+            },
+            {
+                  "name": "Divadlo Andreja Bagara",
+                  "text": "Ein modernes Theatergebäude in Nitra, benannt nach dem bedeutenden slowenischen Schauspieler Andrej Bagar.",
+                  "category": "cultural",
+                  "coords": [
+                        18.089255,
+                        48.31427
+                  ]
             }
       ],
       "hu": [
@@ -5773,6 +5836,69 @@ imageHint: "Historic main square of Prešov with St. Nicholas Cathedral",
                   "coords": [
                         18.097518,
                         48.304209
+                  ]
+            },
+            {
+                  "name": "Ponitrianske muzeum",
+                  "text": "Regionális múzeum Nyitrán, amely a környék természetrajzára és régészetére összpontosít.",
+                  "category": "museum",
+                  "coords": [
+                        18.088134,
+                        48.313252
+                  ]
+            },
+            {
+                  "name": "Stare divadlo",
+                  "text": "Nyitrai színház, amely báb- és prózai előadásairól ismert.",
+                  "category": "cultural",
+                  "coords": [
+                        18.084629,
+                        48.306934
+                  ]
+            },
+            {
+                  "name": "Nitriansky hrad",
+                  "text": "Nyitra dombtetőjén álló domináns várkomplexum, amely évszázadok óta meghatározza a városképet.",
+                  "category": "castle",
+                  "coords": [
+                        18.086758,
+                        48.318138
+                  ]
+            },
+            {
+                  "name": "Slovenske polnohospodarske muzeum",
+                  "text": "Nyitrai múzeum, amely a szlovákiai mezőgazdaság fejlődését dokumentálja.",
+                  "category": "museum",
+                  "coords": [
+                        18.114768,
+                        48.30224
+                  ]
+            },
+            {
+                  "name": "Franciscan Monastery",
+                  "text": "Történelmi kolostor Nyitrán, amelyhez a Szent Péter és Pál-templom is tartozik.",
+                  "category": "religious",
+                  "coords": [
+                        18.086782,
+                        48.315832
+                  ]
+            },
+            {
+                  "name": "Zupny dom",
+                  "text": "Az egykori megyeháza Nyitrán ma a Nyitrai Galériának ad otthont.",
+                  "category": "castle",
+                  "coords": [
+                        18.085546,
+                        48.315963
+                  ]
+            },
+            {
+                  "name": "Divadlo Andreja Bagara",
+                  "text": "Modern színházépület Nyitrán, amelyet a neves szlovák színészről, Andrej Bagarról neveztek el.",
+                  "category": "cultural",
+                  "coords": [
+                        18.089255,
+                        48.31427
                   ]
             }
       ],
@@ -5821,6 +5947,69 @@ imageHint: "Historic main square of Prešov with St. Nicholas Cathedral",
                         18.097518,
                         48.304209
                   ]
+            },
+            {
+                  "name": "Ponitrianske muzeum",
+                  "text": "Un muzeu regional în Nitra, concentrat pe istoria naturală și arheologia regiunii.",
+                  "category": "museum",
+                  "coords": [
+                        18.088134,
+                        48.313252
+                  ]
+            },
+            {
+                  "name": "Stare divadlo",
+                  "text": "Un teatru important din Nitra, cunoscut pentru spectacolele sale de păpuși și dramă.",
+                  "category": "cultural",
+                  "coords": [
+                        18.084629,
+                        48.306934
+                  ]
+            },
+            {
+                  "name": "Nitriansky hrad",
+                  "text": "Un complex fortificat dominant situat pe un deal în Nitra, definind peisajul urban de secole.",
+                  "category": "castle",
+                  "coords": [
+                        18.086758,
+                        48.318138
+                  ]
+            },
+            {
+                  "name": "Slovenske polnohospodarske muzeum",
+                  "text": "Un muzeu din Nitra care documentează evoluția agriculturii în Slovacia.",
+                  "category": "museum",
+                  "coords": [
+                        18.114768,
+                        48.30224
+                  ]
+            },
+            {
+                  "name": "Franciscan Monastery",
+                  "text": "O mănăstire istorică din Nitra, care include și Biserica Sfinții Petru și Pavel.",
+                  "category": "religious",
+                  "coords": [
+                        18.086782,
+                        48.315832
+                  ]
+            },
+            {
+                  "name": "Zupny dom",
+                  "text": "Fosta casă a comitatului din Nitra, care găzduiește astăzi Galeria Nitra.",
+                  "category": "castle",
+                  "coords": [
+                        18.085546,
+                        48.315963
+                  ]
+            },
+            {
+                  "name": "Divadlo Andreja Bagara",
+                  "text": "O clădire modernă de teatru în Nitra, numită după proeminentul actor slovac Andrej Bagar.",
+                  "category": "cultural",
+                  "coords": [
+                        18.089255,
+                        48.31427
+                  ]
             }
       ],
       "en": [
@@ -5867,6 +6056,69 @@ imageHint: "Historic main square of Prešov with St. Nicholas Cathedral",
                   "coords": [
                         18.097518,
                         48.304209
+                  ]
+            },
+            {
+                  "name": "Ponitrianske muzeum",
+                  "text": "A regional museum in Nitra focused on the natural history and archaeology of the region.",
+                  "category": "museum",
+                  "coords": [
+                        18.088134,
+                        48.313252
+                  ]
+            },
+            {
+                  "name": "Stare divadlo",
+                  "text": "A significant theatre in Nitra known for its puppet and drama performances.",
+                  "category": "cultural",
+                  "coords": [
+                        18.084629,
+                        48.306934
+                  ]
+            },
+            {
+                  "name": "Nitriansky hrad",
+                  "text": "A dominant castle complex on a hill in Nitra, defining the cityscape for centuries.",
+                  "category": "castle",
+                  "coords": [
+                        18.086758,
+                        48.318138
+                  ]
+            },
+            {
+                  "name": "Slovenske polnohospodarske muzeum",
+                  "text": "A museum in Nitra documenting the development of agriculture in Slovakia.",
+                  "category": "museum",
+                  "coords": [
+                        18.114768,
+                        48.30224
+                  ]
+            },
+            {
+                  "name": "Franciscan Monastery",
+                  "text": "A historical monastery in Nitra, which includes the Church of Saints Peter and Paul.",
+                  "category": "religious",
+                  "coords": [
+                        18.086782,
+                        48.315832
+                  ]
+            },
+            {
+                  "name": "Zupny dom",
+                  "text": "The former county house in Nitra now houses the Nitra Gallery.",
+                  "category": "castle",
+                  "coords": [
+                        18.085546,
+                        48.315963
+                  ]
+            },
+            {
+                  "name": "Divadlo Andreja Bagara",
+                  "text": "A modern theatre building in Nitra named after the prominent Slovak actor Andrej Bagar.",
+                  "category": "cultural",
+                  "coords": [
+                        18.089255,
+                        48.31427
                   ]
             }
       ]
@@ -9548,6 +9800,69 @@ imageHint: "Piarist Church of St. Demetrius in Prievidza",
                         19.098312,
                         48.60622
                   ]
+            },
+            {
+                  "name": "Divadlo J.G. Tajovského",
+                  "text": "Das Jozef-Gregor-Tajovský-Theater ist ein bedeutendes professionelles Theater in Zvolen.",
+                  "category": "cultural",
+                  "coords": [
+                        19.127032,
+                        48.578661
+                  ]
+            },
+            {
+                  "name": "Pustý (Dolný) hrad",
+                  "text": "Die Überreste einer mittelalterlichen Burganlage, die einst zu den größten in Europa gehörte.",
+                  "category": "castle",
+                  "coords": [
+                        19.114684,
+                        48.561462
+                  ]
+            },
+            {
+                  "name": "Zvolenský zámok",
+                  "text": "Ein gut erhaltenes Renaissance-Schloss im Zentrum von Zvolen, heute Teil der Nationalgalerie.",
+                  "category": "castle",
+                  "coords": [
+                        19.127375,
+                        48.572922
+                  ]
+            },
+            {
+                  "name": "Pustý (horný) hrad",
+                  "text": "Die obere Sektion der weitläufigen mittelalterlichen Burganlage Pustý hrad.",
+                  "category": "castle",
+                  "coords": [
+                        19.109083,
+                        48.556816
+                  ]
+            },
+            {
+                  "name": "Lesnícke a drevárske múzeum",
+                  "text": "Ein Museum in Zvolen, das sich der Geschichte der Forstwirtschaft und Holzverarbeitung widmet.",
+                  "category": "museum",
+                  "coords": [
+                        19.125236,
+                        48.577132
+                  ]
+            },
+            {
+                  "name": "Výstava oznamovacej a zabezpečovacej techniky",
+                  "text": "Eine Fachausstellung für Signal- und Sicherungstechnik des Eisenbahnwesens in Zvolen.",
+                  "category": "museum",
+                  "coords": [
+                        19.120114,
+                        48.569997
+                  ]
+            },
+            {
+                  "name": "Môťová – hrádok",
+                  "text": "Eine archäologische Ausgrabungsstätte einer kleinen Befestigung nahe Zvolen.",
+                  "category": "historical",
+                  "coords": [
+                        19.137146,
+                        48.56469
+                  ]
             }
       ],
       "hu": [
@@ -9576,6 +9891,69 @@ imageHint: "Piarist Church of St. Demetrius in Prievidza",
                   "coords": [
                         19.098312,
                         48.60622
+                  ]
+            },
+            {
+                  "name": "Divadlo J.G. Tajovského",
+                  "text": "A Jozef Gregor Tajovský Színház Zólyom városának jelentős professzionális színháza.",
+                  "category": "cultural",
+                  "coords": [
+                        19.127032,
+                        48.578661
+                  ]
+            },
+            {
+                  "name": "Pustý (Dolný) hrad",
+                  "text": "Egy középkori várkomplexum maradványai, amely egykor Európa legnagyobbjai közé tartozott.",
+                  "category": "castle",
+                  "coords": [
+                        19.114684,
+                        48.561462
+                  ]
+            },
+            {
+                  "name": "Zólyomi Vár",
+                  "text": "Jó állapotban fennmaradt reneszánsz várkastély Zólyom központjában, ma a Nemzeti Galéria része.",
+                  "category": "castle",
+                  "coords": [
+                        19.127375,
+                        48.572922
+                  ]
+            },
+            {
+                  "name": "Pusztavár",
+                  "text": "A kiterjedt középkori Pusztavár (Pustý hrad) felső részének romjai.",
+                  "category": "castle",
+                  "coords": [
+                        19.109083,
+                        48.556816
+                  ]
+            },
+            {
+                  "name": "Lesnícke a drevárske múzeum",
+                  "text": "Zólyomi múzeum, amely az erdészet és a fafeldolgozás történetét mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        19.125236,
+                        48.577132
+                  ]
+            },
+            {
+                  "name": "Výstava oznamovacej a zabezpečovacej techniky",
+                  "text": "Vasúti jelző- és biztosítóberendezéseket bemutató szakkiállítás Zólyomban.",
+                  "category": "museum",
+                  "coords": [
+                        19.120114,
+                        48.569997
+                  ]
+            },
+            {
+                  "name": "Môťová – hrádok",
+                  "text": "Egy kis erődítmény régészeti lelőhelye Zólyom közelében.",
+                  "category": "historical",
+                  "coords": [
+                        19.137146,
+                        48.56469
                   ]
             }
       ],
@@ -9606,6 +9984,69 @@ imageHint: "Piarist Church of St. Demetrius in Prievidza",
                         19.098312,
                         48.60622
                   ]
+            },
+            {
+                  "name": "Divadlo J.G. Tajovského",
+                  "text": "Teatrul Jozef Gregor Tajovský este o instituție culturală importantă în Zvolen.",
+                  "category": "cultural",
+                  "coords": [
+                        19.127032,
+                        48.578661
+                  ]
+            },
+            {
+                  "name": "Pustý (Dolný) hrad",
+                  "text": "Rămășițele unui complex fortificat medieval, cândva unul dintre cele mai mari din Europa.",
+                  "category": "castle",
+                  "coords": [
+                        19.114684,
+                        48.561462
+                  ]
+            },
+            {
+                  "name": "Zvolenský zámok",
+                  "text": "Un castel renascentist bine conservat în centrul orașului Zvolen, astăzi parte a Galeriei Naționale.",
+                  "category": "castle",
+                  "coords": [
+                        19.127375,
+                        48.572922
+                  ]
+            },
+            {
+                  "name": "Pustý (horný) hrad",
+                  "text": "Secțiunea superioară a vastului complex fortificat medieval Pustý hrad.",
+                  "category": "castle",
+                  "coords": [
+                        19.109083,
+                        48.556816
+                  ]
+            },
+            {
+                  "name": "Lesnícke a drevárske múzeum",
+                  "text": "Un muzeu din Zvolen dedicat istoriei silviculturii și prelucrării lemnului.",
+                  "category": "museum",
+                  "coords": [
+                        19.125236,
+                        48.577132
+                  ]
+            },
+            {
+                  "name": "Výstava oznamovacej a zabezpečovacej techniky",
+                  "text": "O expoziție specializată în tehnica de semnalizare și siguranță feroviară din Zvolen.",
+                  "category": "museum",
+                  "coords": [
+                        19.120114,
+                        48.569997
+                  ]
+            },
+            {
+                  "name": "Môťová – hrádok",
+                  "text": "Situl arheologic al unei mici fortificații situate lângă Zvolen.",
+                  "category": "historical",
+                  "coords": [
+                        19.137146,
+                        48.56469
+                  ]
             }
       ],
       "en": [
@@ -9634,6 +10075,69 @@ imageHint: "Piarist Church of St. Demetrius in Prievidza",
                   "coords": [
                         19.098312,
                         48.60622
+                  ]
+            },
+            {
+                  "name": "Divadlo J.G. Tajovského",
+                  "text": "The Jozef Gregor Tajovský Theatre is a prominent professional theatre in Zvolen.",
+                  "category": "cultural",
+                  "coords": [
+                        19.127032,
+                        48.578661
+                  ]
+            },
+            {
+                  "name": "Pustý (Dolný) hrad",
+                  "text": "The remains of a medieval castle complex, once among the largest in Europe.",
+                  "category": "castle",
+                  "coords": [
+                        19.114684,
+                        48.561462
+                  ]
+            },
+            {
+                  "name": "Zvolenský zámok",
+                  "text": "A well-preserved Renaissance castle in the center of Zvolen, now part of the National Gallery.",
+                  "category": "castle",
+                  "coords": [
+                        19.127375,
+                        48.572922
+                  ]
+            },
+            {
+                  "name": "Pustý (horný) hrad",
+                  "text": "The upper section of the extensive medieval Pustý hrad castle complex.",
+                  "category": "castle",
+                  "coords": [
+                        19.109083,
+                        48.556816
+                  ]
+            },
+            {
+                  "name": "Lesnícke a drevárske múzeum",
+                  "text": "A museum in Zvolen dedicated to the history of forestry and wood processing.",
+                  "category": "museum",
+                  "coords": [
+                        19.125236,
+                        48.577132
+                  ]
+            },
+            {
+                  "name": "Výstava oznamovacej a zabezpečovacej techniky",
+                  "text": "A specialized exhibition of railway signaling and safety technology in Zvolen.",
+                  "category": "museum",
+                  "coords": [
+                        19.120114,
+                        48.569997
+                  ]
+            },
+            {
+                  "name": "Môťová – hrádok",
+                  "text": "An archaeological site of a small fortification located near Zvolen.",
+                  "category": "historical",
+                  "coords": [
+                        19.137146,
+                        48.56469
                   ]
             }
       ]
@@ -9729,6 +10233,51 @@ imageHint: "Zvolen Castle (Zvolenský zámok) exterior view",
                         18.451092,
                         49.112209
                   ]
+            },
+            {
+                  "name": "Vlastivedne muzeum",
+                  "text": "Dieses Heimatmuseum in Považská Bystrica präsentiert regionale Geschichte und Naturkunde.",
+                  "category": "museum",
+                  "coords": [
+                        18.445327,
+                        49.113408
+                  ]
+            },
+            {
+                  "name": "Kastiel Orlove",
+                  "text": "Ein bedeutendes Barockschloss in Považská Bystrica, das heute als Hotel genutzt wird.",
+                  "category": "historical",
+                  "coords": [
+                        18.424655,
+                        49.130748
+                  ]
+            },
+            {
+                  "name": "MG Art Galeria",
+                  "text": "Ein Kunstzentrum in Považská Bystrica, das Ausstellungen zeitgenössischer Kunst zeigt.",
+                  "category": "cultural",
+                  "coords": [
+                        18.440186,
+                        49.116884
+                  ]
+            },
+            {
+                  "name": "Kaplnka sv. Marie Magdaleny",
+                  "text": "Eine sakrale Kapelle in Považská Bystrica, die der heiligen Maria Magdalena gewidmet ist.",
+                  "category": "religious",
+                  "coords": [
+                        18.459358,
+                        49.113712
+                  ]
+            },
+            {
+                  "name": "Kostol Navstivenia Panny Marie",
+                  "text": "Die römisch-katholische Hauptkirche von Považská Bystrica mit historischen Elementen.",
+                  "category": "religious",
+                  "coords": [
+                        18.450275,
+                        49.118633
+                  ]
             }
       ],
       "hu": [
@@ -9775,6 +10324,51 @@ imageHint: "Zvolen Castle (Zvolenský zámok) exterior view",
                   "coords": [
                         18.451092,
                         49.112209
+                  ]
+            },
+            {
+                  "name": "Vlastivedne muzeum",
+                  "text": "Vágtapolcai honismereti múzeum, amely a régió történelmét és természeti kincseit mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        18.445327,
+                        49.113408
+                  ]
+            },
+            {
+                  "name": "Kastiel Orlove",
+                  "text": "Vágtapolca jelentős barokk kastélya, amely ma szállodaként működik.",
+                  "category": "historical",
+                  "coords": [
+                        18.424655,
+                        49.130748
+                  ]
+            },
+            {
+                  "name": "MG Art Galeria",
+                  "text": "Művészeti központ Vágtapolcán, amely kortárs kiállításoknak ad otthont.",
+                  "category": "cultural",
+                  "coords": [
+                        18.440186,
+                        49.116884
+                  ]
+            },
+            {
+                  "name": "Kaplnka sv. Marie Magdaleny",
+                  "text": "Szent Mária Magdolnának szentelt kápolna Vágtapolcán.",
+                  "category": "religious",
+                  "coords": [
+                        18.459358,
+                        49.113712
+                  ]
+            },
+            {
+                  "name": "Kostol Navstivenia Panny Marie",
+                  "text": "Vágtapolca fő római katolikus temploma, amely történelmi értékekkel bír.",
+                  "category": "religious",
+                  "coords": [
+                        18.450275,
+                        49.118633
                   ]
             }
       ],
@@ -9823,6 +10417,51 @@ imageHint: "Zvolen Castle (Zvolenský zámok) exterior view",
                         18.451092,
                         49.112209
                   ]
+            },
+            {
+                  "name": "Vlastivedne muzeum",
+                  "text": "Muzeu de istorie locală în Považská Bystrica, care prezintă istoria și natura regiunii.",
+                  "category": "museum",
+                  "coords": [
+                        18.445327,
+                        49.113408
+                  ]
+            },
+            {
+                  "name": "Kastiel Orlove",
+                  "text": "Un conac baroc remarcabil în Považská Bystrica, care în prezent funcționează ca hotel.",
+                  "category": "historical",
+                  "coords": [
+                        18.424655,
+                        49.130748
+                  ]
+            },
+            {
+                  "name": "MG Art Galeria",
+                  "text": "Centru de artă în Považská Bystrica, care găzduiește expoziții de artă contemporană.",
+                  "category": "cultural",
+                  "coords": [
+                        18.440186,
+                        49.116884
+                  ]
+            },
+            {
+                  "name": "Kaplnka sv. Marie Magdaleny",
+                  "text": "O capelă religioasă în Považská Bystrica, dedicată Sfintei Maria Magdalena.",
+                  "category": "religious",
+                  "coords": [
+                        18.459358,
+                        49.113712
+                  ]
+            },
+            {
+                  "name": "Kostol Navstivenia Panny Marie",
+                  "text": "Biserica romano-catolică principală din Považská Bystrica, cu elemente istorice.",
+                  "category": "religious",
+                  "coords": [
+                        18.450275,
+                        49.118633
+                  ]
             }
       ],
       "en": [
@@ -9869,6 +10508,51 @@ imageHint: "Zvolen Castle (Zvolenský zámok) exterior view",
                   "coords": [
                         18.451092,
                         49.112209
+                  ]
+            },
+            {
+                  "name": "Vlastivedne muzeum",
+                  "text": "A local history museum in Považská Bystrica focusing on regional history and natural science.",
+                  "category": "museum",
+                  "coords": [
+                        18.445327,
+                        49.113408
+                  ]
+            },
+            {
+                  "name": "Kastiel Orlove",
+                  "text": "A significant Baroque manor in Považská Bystrica, currently serving as a hotel.",
+                  "category": "historical",
+                  "coords": [
+                        18.424655,
+                        49.130748
+                  ]
+            },
+            {
+                  "name": "MG Art Galeria",
+                  "text": "An arts centre in Považská Bystrica showcasing various contemporary art exhibitions.",
+                  "category": "cultural",
+                  "coords": [
+                        18.440186,
+                        49.116884
+                  ]
+            },
+            {
+                  "name": "Kaplnka sv. Marie Magdaleny",
+                  "text": "A religious chapel in Považská Bystrica dedicated to Saint Mary Magdalene.",
+                  "category": "religious",
+                  "coords": [
+                        18.459358,
+                        49.113712
+                  ]
+            },
+            {
+                  "name": "Kostol Navstivenia Panny Marie",
+                  "text": "The main Roman Catholic church in Považská Bystrica featuring historical architectural elements.",
+                  "category": "religious",
+                  "coords": [
+                        18.450275,
+                        49.118633
                   ]
             }
       ]
@@ -10866,6 +11550,60 @@ imageHint: "Air view of Nové Zámky showing the hexagonal street pattern",
                         20.565592,
                         48.938447
                   ]
+            },
+            {
+                  "name": "Múzeum Spiša",
+                  "text": "Das Museum in Spišská Nová Ves präsentiert die reiche Natur und Geschichte der historischen Region Zips.",
+                  "category": "museum",
+                  "coords": [
+                        20.568488,
+                        48.94455
+                  ]
+            },
+            {
+                  "name": "Spišské divadlo",
+                  "text": "Ein regionales Theater, das in einem prachtvollen historischen Gebäude aus dem frühen 20. Jahrhundert untergebracht ist.",
+                  "category": "cultural",
+                  "coords": [
+                        20.571411,
+                        48.942931
+                  ]
+            },
+            {
+                  "name": "ZOO",
+                  "text": "Dieser Zoo ist einer der kleinsten in der Slowakei und beherbergt eine Vielzahl exotischer und einheimischer Tierarten.",
+                  "category": "recreational",
+                  "coords": [
+                        20.575343,
+                        48.932557
+                  ]
+            },
+            {
+                  "name": "Divadlo Kontra",
+                  "text": "Ein unabhängiges Theater in Spišská Nová Ves, das für seine experimentellen und zeitgenössischen Aufführungen bekannt ist.",
+                  "category": "cultural",
+                  "coords": [
+                        20.568907,
+                        48.94299
+                  ]
+            },
+            {
+                  "name": "Modrý vrch",
+                  "text": "Ein Berggipfel in der Nähe von Spišská Nová Ves, der beliebte Wanderwege und Naturerlebnisse bietet.",
+                  "category": "landmark",
+                  "coords": [
+                        20.57279,
+                        48.959802
+                  ]
+            },
+            {
+                  "name": "ÚŽ-6 Schulerloch",
+                  "text": "Eine lokale Sehenswürdigkeit in Spišská Nová Ves.",
+                  "category": "landmark",
+                  "coords": [
+                        20.551751,
+                        48.920512
+                  ]
             }
       ],
       "hu": [
@@ -10876,6 +11614,60 @@ imageHint: "Air view of Nové Zámky showing the hexagonal street pattern",
                   "coords": [
                         20.565592,
                         48.938447
+                  ]
+            },
+            {
+                  "name": "Múzeum Spiša",
+                  "text": "Az Iglón (Spišská Nová Ves) található múzeum a történelmi Szepesség gazdag természetét és történelmét mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        20.568488,
+                        48.94455
+                  ]
+            },
+            {
+                  "name": "Spišské divadlo",
+                  "text": "Egy regionális színház, amely egy pompás, 20. század eleji történelmi épületben kapott helyet.",
+                  "category": "cultural",
+                  "coords": [
+                        20.571411,
+                        48.942931
+                  ]
+            },
+            {
+                  "name": "ZOO",
+                  "text": "Ez az állatkert Szlovákia egyik legkisebbje, és számos egzotikus, valamint hazai állatfajnak ad otthont.",
+                  "category": "recreational",
+                  "coords": [
+                        20.575343,
+                        48.932557
+                  ]
+            },
+            {
+                  "name": "Divadlo Kontra",
+                  "text": "Egy független színház Iglón, amely kísérleti és kortárs előadásairól ismert.",
+                  "category": "cultural",
+                  "coords": [
+                        20.568907,
+                        48.94299
+                  ]
+            },
+            {
+                  "name": "Modrý vrch",
+                  "text": "Egy hegycsúcs Igló közelében, amely kedvelt túraútvonalakat és természeti élményeket kínál.",
+                  "category": "landmark",
+                  "coords": [
+                        20.57279,
+                        48.959802
+                  ]
+            },
+            {
+                  "name": "ÚŽ-6 Schulerloch",
+                  "text": "Helyi látnivaló Iglón.",
+                  "category": "landmark",
+                  "coords": [
+                        20.551751,
+                        48.920512
                   ]
             }
       ],
@@ -10888,6 +11680,60 @@ imageHint: "Air view of Nové Zámky showing the hexagonal street pattern",
                         20.565592,
                         48.938447
                   ]
+            },
+            {
+                  "name": "Múzeum Spiša",
+                  "text": "Muzeul din Spišská Nová Ves prezintă natura bogată și istoria regiunii istorice Spiș.",
+                  "category": "museum",
+                  "coords": [
+                        20.568488,
+                        48.94455
+                  ]
+            },
+            {
+                  "name": "Spišské divadlo",
+                  "text": "Un teatru regional găzduit într-o clădire istorică magnifică de la începutul secolului al XX-lea.",
+                  "category": "cultural",
+                  "coords": [
+                        20.571411,
+                        48.942931
+                  ]
+            },
+            {
+                  "name": "ZOO",
+                  "text": "Această grădină zoologică este una dintre cele mai mici din Slovacia și găzduiește o varietate de specii de animale exotice și locale.",
+                  "category": "recreational",
+                  "coords": [
+                        20.575343,
+                        48.932557
+                  ]
+            },
+            {
+                  "name": "Divadlo Kontra",
+                  "text": "Un teatru independent din Spišská Nová Ves, cunoscut pentru spectacolele sale experimentale și contemporane.",
+                  "category": "cultural",
+                  "coords": [
+                        20.568907,
+                        48.94299
+                  ]
+            },
+            {
+                  "name": "Modrý vrch",
+                  "text": "Un vârf muntos lângă Spišská Nová Ves, oferind trasee de drumeție populare și experiențe în natură.",
+                  "category": "landmark",
+                  "coords": [
+                        20.57279,
+                        48.959802
+                  ]
+            },
+            {
+                  "name": "ÚŽ-6 Schulerloch",
+                  "text": "O atracție locală în Spišská Nová Ves.",
+                  "category": "landmark",
+                  "coords": [
+                        20.551751,
+                        48.920512
+                  ]
             }
       ],
       "en": [
@@ -10898,6 +11744,60 @@ imageHint: "Air view of Nové Zámky showing the hexagonal street pattern",
                   "coords": [
                         20.565592,
                         48.938447
+                  ]
+            },
+            {
+                  "name": "Spis Museum",
+                  "text": "The museum in Spišská Nová Ves presents the rich nature and history of the historical Spiš region.",
+                  "category": "museum",
+                  "coords": [
+                        20.568488,
+                        48.94455
+                  ]
+            },
+            {
+                  "name": "Spišské divadlo",
+                  "text": "A regional theatre housed in a magnificent historical building from the early 20th century.",
+                  "category": "cultural",
+                  "coords": [
+                        20.571411,
+                        48.942931
+                  ]
+            },
+            {
+                  "name": "ZOO",
+                  "text": "This zoo is one of the smallest in Slovakia and is home to a variety of exotic and local animal species.",
+                  "category": "recreational",
+                  "coords": [
+                        20.575343,
+                        48.932557
+                  ]
+            },
+            {
+                  "name": "Divadlo Kontra",
+                  "text": "An independent theatre in Spišská Nová Ves, known for its experimental and contemporary performances.",
+                  "category": "cultural",
+                  "coords": [
+                        20.568907,
+                        48.94299
+                  ]
+            },
+            {
+                  "name": "Modrý vrch",
+                  "text": "A mountain peak near Spišská Nová Ves, offering popular hiking trails and nature experiences.",
+                  "category": "landmark",
+                  "coords": [
+                        20.57279,
+                        48.959802
+                  ]
+            },
+            {
+                  "name": "ÚŽ-6 Schulerloch",
+                  "text": "A local attraction in Spišská Nová Ves.",
+                  "category": "landmark",
+                  "coords": [
+                        20.551751,
+                        48.920512
                   ]
             }
       ]
@@ -11264,6 +12164,69 @@ imageHint: "Courtyard of Europe (Nádvorie Európy) buildings in Komárno",
                         21.947865,
                         48.939038
                   ]
+            },
+            {
+                  "name": "Kaštieľ v Humennom",
+                  "text": "Ein prachtvolles Renaissance-Schloss in Humenné, das heute ein Museum beherbergt.",
+                  "category": "castle",
+                  "coords": [
+                        21.907316,
+                        48.938987
+                  ]
+            },
+            {
+                  "name": "Praveká mohyla",
+                  "text": "Eine archäologische Stätte mit Überresten eines prähistorischen Grabhügels.",
+                  "category": "historical",
+                  "coords": [
+                        21.915741,
+                        48.944408
+                  ]
+            },
+            {
+                  "name": "Amfiteáter Humenné",
+                  "text": "Eine Freilichtbühne in Humenné für kulturelle Veranstaltungen und Aufführungen.",
+                  "category": "cultural",
+                  "coords": [
+                        21.910211,
+                        48.939176
+                  ]
+            },
+            {
+                  "name": "Expozícia ľudovej architektúry a bývania (skanzen)",
+                  "text": "Ein Freilichtmuseum in Humenné, das traditionelle Volksarchitektur präsentiert.",
+                  "category": "museum",
+                  "coords": [
+                        21.909537,
+                        48.940308
+                  ]
+            },
+            {
+                  "name": "NERV Platforma",
+                  "text": "Ein Zentrum für zeitgenössische Kunst und kulturelle Aktivitäten in Humenné.",
+                  "category": "cultural",
+                  "coords": [
+                        21.915422,
+                        48.933726
+                  ]
+            },
+            {
+                  "name": "Výhľad z cintorína",
+                  "text": "Ein Aussichtspunkt vom Friedhof in Humenné mit Blick auf die Stadt.",
+                  "category": "natural",
+                  "coords": [
+                        21.896645,
+                        48.939921
+                  ]
+            },
+            {
+                  "name": "Underbridge Gallery",
+                  "text": "Eine Kunstgalerie in Humenné, die oft Werke lokaler Künstler ausstellt.",
+                  "category": "museum",
+                  "coords": [
+                        21.907447,
+                        48.933124
+                  ]
             }
       ],
       "hu": [
@@ -11274,6 +12237,69 @@ imageHint: "Courtyard of Europe (Nádvorie Európy) buildings in Komárno",
                   "coords": [
                         21.947865,
                         48.939038
+                  ]
+            },
+            {
+                  "name": "Kaštieľ v Humennom",
+                  "text": "Pompás reneszánsz kastély Homonnán, amely ma múzeumnak ad otthont.",
+                  "category": "castle",
+                  "coords": [
+                        21.907316,
+                        48.938987
+                  ]
+            },
+            {
+                  "name": "Praveká mohyla",
+                  "text": "Régészeti lelőhely egy őskori halomsír maradványaival.",
+                  "category": "historical",
+                  "coords": [
+                        21.915741,
+                        48.944408
+                  ]
+            },
+            {
+                  "name": "Amfiteáter Humenné",
+                  "text": "Szabadtéri színpad Homonnán kulturális rendezvények és előadások számára.",
+                  "category": "cultural",
+                  "coords": [
+                        21.910211,
+                        48.939176
+                  ]
+            },
+            {
+                  "name": "Expozícia ľudovej architektúry a bývania (skanzen)",
+                  "text": "Homonnai skanzen, amely a hagyományos népi építészetet mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        21.909537,
+                        48.940308
+                  ]
+            },
+            {
+                  "name": "NERV Platforma",
+                  "text": "Kortárs művészeti központ és kulturális színtér Homonnán.",
+                  "category": "cultural",
+                  "coords": [
+                        21.915422,
+                        48.933726
+                  ]
+            },
+            {
+                  "name": "Výhľad z cintorína",
+                  "text": "Kilátás a homonnai temetőtől, ahonnan rálátni a városra.",
+                  "category": "natural",
+                  "coords": [
+                        21.896645,
+                        48.939921
+                  ]
+            },
+            {
+                  "name": "Underbridge Gallery",
+                  "text": "Homonnai művészeti galéria, amely gyakran helyi művészek alkotásait mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        21.907447,
+                        48.933124
                   ]
             }
       ],
@@ -11286,6 +12312,69 @@ imageHint: "Courtyard of Europe (Nádvorie Európy) buildings in Komárno",
                         21.947865,
                         48.939038
                   ]
+            },
+            {
+                  "name": "Kaštieľ v Humennom",
+                  "text": "Un castel renascentist impunător din Humenné, care găzduiește astăzi un muzeu.",
+                  "category": "castle",
+                  "coords": [
+                        21.907316,
+                        48.938987
+                  ]
+            },
+            {
+                  "name": "Praveká mohyla",
+                  "text": "Un sit arheologic ce cuprinde vestigiile unei movile funerare preistorice.",
+                  "category": "historical",
+                  "coords": [
+                        21.915741,
+                        48.944408
+                  ]
+            },
+            {
+                  "name": "Amfiteáter Humenné",
+                  "text": "O scenă în aer liber din Humenné pentru evenimente culturale și spectacole.",
+                  "category": "cultural",
+                  "coords": [
+                        21.910211,
+                        48.939176
+                  ]
+            },
+            {
+                  "name": "Expozícia ľudovej architektúry a bývania (skanzen)",
+                  "text": "Un muzeu în aer liber din Humenné, care prezintă arhitectura populară tradițională.",
+                  "category": "museum",
+                  "coords": [
+                        21.909537,
+                        48.940308
+                  ]
+            },
+            {
+                  "name": "NERV Platforma",
+                  "text": "Un centru de artă contemporană și activități culturale din Humenné.",
+                  "category": "cultural",
+                  "coords": [
+                        21.915422,
+                        48.933726
+                  ]
+            },
+            {
+                  "name": "Výhľad z cintorína",
+                  "text": "Un punct de belvedere de la cimitirul din Humenné, cu vedere spre oraș.",
+                  "category": "natural",
+                  "coords": [
+                        21.896645,
+                        48.939921
+                  ]
+            },
+            {
+                  "name": "Underbridge Gallery",
+                  "text": "O galerie de artă din Humenné, care expune adesea lucrări ale artiștilor locali.",
+                  "category": "museum",
+                  "coords": [
+                        21.907447,
+                        48.933124
+                  ]
             }
       ],
       "en": [
@@ -11296,6 +12385,69 @@ imageHint: "Courtyard of Europe (Nádvorie Európy) buildings in Komárno",
                   "coords": [
                         21.947865,
                         48.939038
+                  ]
+            },
+            {
+                  "name": "Kaštieľ v Humennom",
+                  "text": "A grand Renaissance manor house in Humenné that now houses a museum.",
+                  "category": "castle",
+                  "coords": [
+                        21.907316,
+                        48.938987
+                  ]
+            },
+            {
+                  "name": "Praveká mohyla",
+                  "text": "An archaeological site featuring the remains of a prehistoric burial mound.",
+                  "category": "historical",
+                  "coords": [
+                        21.915741,
+                        48.944408
+                  ]
+            },
+            {
+                  "name": "Amfiteáter Humenné",
+                  "text": "An open-air theatre in Humenné used for cultural events and performances.",
+                  "category": "cultural",
+                  "coords": [
+                        21.910211,
+                        48.939176
+                  ]
+            },
+            {
+                  "name": "Exposition of folk architecture and housing (open-air museum)",
+                  "text": "An open-air museum in Humenné presenting traditional folk architecture.",
+                  "category": "museum",
+                  "coords": [
+                        21.909537,
+                        48.940308
+                  ]
+            },
+            {
+                  "name": "NERV Platforma",
+                  "text": "A centre for contemporary art and cultural activities in Humenné.",
+                  "category": "cultural",
+                  "coords": [
+                        21.915422,
+                        48.933726
+                  ]
+            },
+            {
+                  "name": "Výhľad z cintorína",
+                  "text": "A viewpoint from the cemetery in Humenné with views over the city.",
+                  "category": "natural",
+                  "coords": [
+                        21.896645,
+                        48.939921
+                  ]
+            },
+            {
+                  "name": "Underbridge Gallery",
+                  "text": "An art gallery in Humenné often exhibiting works by local artists.",
+                  "category": "museum",
+                  "coords": [
+                        21.907447,
+                        48.933124
                   ]
             }
       ]
@@ -16863,6 +18015,69 @@ imageHint: "Čadca town center with the Parish Church of St. Bartholomew",
                         20.018272,
                         48.346488
                   ]
+            },
+            {
+                  "name": "Gemersko-malohontské múzeum",
+                  "text": "Ein Museum in Rimavská Sobota, das sich der lokalen Geschichte und Kultur widmet.",
+                  "category": "museum",
+                  "coords": [
+                        20.021698,
+                        48.384167
+                  ]
+            },
+            {
+                  "name": "Amfiteáter",
+                  "text": "Ein Freilichttheater für kulturelle Veranstaltungen in Rimavská Sobota.",
+                  "category": "cultural",
+                  "coords": [
+                        20.001609,
+                        48.385465
+                  ]
+            },
+            {
+                  "name": "Krajská Hvezdáreň a planetárium M. Hella",
+                  "text": "Eine Sternwarte und ein Planetarium in Rimavská Sobota.",
+                  "category": "museum",
+                  "coords": [
+                        20.00514,
+                        48.374204
+                  ]
+            },
+            {
+                  "name": "Kaštieľ Rimavská Sobota",
+                  "text": "Ein historisches Herrenhaus in Rimavská Sobota.",
+                  "category": "historical",
+                  "coords": [
+                        20.005337,
+                        48.375259
+                  ]
+            },
+            {
+                  "name": "Hrad Sobôtka",
+                  "text": "Die Ruinen einer alten Befestigungsanlage in Rimavská Sobota.",
+                  "category": "historical",
+                  "coords": [
+                        19.991485,
+                        48.39404
+                  ]
+            },
+            {
+                  "name": "Mestská galéria",
+                  "text": "Eine Stadtgalerie mit Kunstausstellungen in Rimavská Sobota.",
+                  "category": "museum",
+                  "coords": [
+                        20.018689,
+                        48.383591
+                  ]
+            },
+            {
+                  "name": "Reformovaný kostol",
+                  "text": "Eine reformierte Kirche im Zentrum von Rimavská Sobota.",
+                  "category": "religious",
+                  "coords": [
+                        20.017229,
+                        48.382822
+                  ]
             }
       ],
       "hu": [
@@ -16891,6 +18106,69 @@ imageHint: "Čadca town center with the Parish Church of St. Bartholomew",
                   "coords": [
                         20.018272,
                         48.346488
+                  ]
+            },
+            {
+                  "name": "Gemersko-malohontské múzeum",
+                  "text": "Helytörténeti és kulturális múzeum Rimaszombatban.",
+                  "category": "museum",
+                  "coords": [
+                        20.021698,
+                        48.384167
+                  ]
+            },
+            {
+                  "name": "Amfiteáter",
+                  "text": "Kulturális eseményeknek otthont adó szabadtéri színház Rimaszombatban.",
+                  "category": "cultural",
+                  "coords": [
+                        20.001609,
+                        48.385465
+                  ]
+            },
+            {
+                  "name": "Krajská Hvezdáreň a planetárium M. Hella",
+                  "text": "Csillagvizsgáló és planetárium Rimaszombatban.",
+                  "category": "museum",
+                  "coords": [
+                        20.00514,
+                        48.374204
+                  ]
+            },
+            {
+                  "name": "Kaštieľ Rimavská Sobota",
+                  "text": "Rimaszombatban található történelmi kúria.",
+                  "category": "historical",
+                  "coords": [
+                        20.005337,
+                        48.375259
+                  ]
+            },
+            {
+                  "name": "Hrad Sobôtka",
+                  "text": "Egy ősi erődítmény romjai Rimaszombatban.",
+                  "category": "historical",
+                  "coords": [
+                        19.991485,
+                        48.39404
+                  ]
+            },
+            {
+                  "name": "Mestská galéria",
+                  "text": "Városi galéria művészeti kiállításokkal Rimaszombatban.",
+                  "category": "museum",
+                  "coords": [
+                        20.018689,
+                        48.383591
+                  ]
+            },
+            {
+                  "name": "Reformovaný kostol",
+                  "text": "Rimaszombat központjában található református templom.",
+                  "category": "religious",
+                  "coords": [
+                        20.017229,
+                        48.382822
                   ]
             }
       ],
@@ -16921,6 +18199,69 @@ imageHint: "Čadca town center with the Parish Church of St. Bartholomew",
                         20.018272,
                         48.346488
                   ]
+            },
+            {
+                  "name": "Gemersko-malohontské múzeum",
+                  "text": "Un muzeu din Rimavská Sobota axat pe istoria și cultura locală.",
+                  "category": "museum",
+                  "coords": [
+                        20.021698,
+                        48.384167
+                  ]
+            },
+            {
+                  "name": "Amfiteáter",
+                  "text": "Un teatru în aer liber utilizat pentru evenimente culturale în Rimavská Sobota.",
+                  "category": "cultural",
+                  "coords": [
+                        20.001609,
+                        48.385465
+                  ]
+            },
+            {
+                  "name": "Krajská Hvezdáreň a planetárium M. Hella",
+                  "text": "Un observator și planetariu situat în Rimavská Sobota.",
+                  "category": "museum",
+                  "coords": [
+                        20.00514,
+                        48.374204
+                  ]
+            },
+            {
+                  "name": "Kaštieľ Rimavská Sobota",
+                  "text": "Un conac istoric situat în Rimavská Sobota.",
+                  "category": "historical",
+                  "coords": [
+                        20.005337,
+                        48.375259
+                  ]
+            },
+            {
+                  "name": "Hrad Sobôtka",
+                  "text": "Ruinele unei vechi fortificații în Rimavská Sobota.",
+                  "category": "historical",
+                  "coords": [
+                        19.991485,
+                        48.39404
+                  ]
+            },
+            {
+                  "name": "Mestská galéria",
+                  "text": "O galerie municipală care prezintă expoziții de artă în Rimavská Sobota.",
+                  "category": "museum",
+                  "coords": [
+                        20.018689,
+                        48.383591
+                  ]
+            },
+            {
+                  "name": "Reformovaný kostol",
+                  "text": "O biserică reformată situată în centrul orașului Rimavská Sobota.",
+                  "category": "religious",
+                  "coords": [
+                        20.017229,
+                        48.382822
+                  ]
             }
       ],
       "en": [
@@ -16949,6 +18290,69 @@ imageHint: "Čadca town center with the Parish Church of St. Bartholomew",
                   "coords": [
                         20.018272,
                         48.346488
+                  ]
+            },
+            {
+                  "name": "Gemersko-malohontské múzeum",
+                  "text": "A museum in Rimavská Sobota focused on local history and culture.",
+                  "category": "museum",
+                  "coords": [
+                        20.021698,
+                        48.384167
+                  ]
+            },
+            {
+                  "name": "Amfiteáter",
+                  "text": "An open-air theatre used for cultural events in Rimavská Sobota.",
+                  "category": "cultural",
+                  "coords": [
+                        20.001609,
+                        48.385465
+                  ]
+            },
+            {
+                  "name": "Krajská Hvezdáreň a planetárium M. Hella",
+                  "text": "An observatory and planetarium located in Rimavská Sobota.",
+                  "category": "museum",
+                  "coords": [
+                        20.00514,
+                        48.374204
+                  ]
+            },
+            {
+                  "name": "Kaštieľ Rimavská Sobota",
+                  "text": "A historic manor house situated in Rimavská Sobota.",
+                  "category": "historical",
+                  "coords": [
+                        20.005337,
+                        48.375259
+                  ]
+            },
+            {
+                  "name": "Hrad Sobôtka",
+                  "text": "The ruins of an ancient fortification in Rimavská Sobota.",
+                  "category": "historical",
+                  "coords": [
+                        19.991485,
+                        48.39404
+                  ]
+            },
+            {
+                  "name": "Mestská galéria",
+                  "text": "A city gallery showcasing art exhibitions in Rimavská Sobota.",
+                  "category": "museum",
+                  "coords": [
+                        20.018689,
+                        48.383591
+                  ]
+            },
+            {
+                  "name": "Reformovaný kostol",
+                  "text": "A reformed church located in the center of Rimavská Sobota.",
+                  "category": "religious",
+                  "coords": [
+                        20.017229,
+                        48.382822
                   ]
             }
       ]
@@ -17269,7 +18673,196 @@ imageHint: "Dunajská Streda thermal park pools and hotel",
     },
     image: "/poi-images/slovakia-dunajska-streda-cities-v2.webp",
 },  {
-    id: "slovakia-vranov-nad-toplou-cities-v2",
+    id: "slovakia-vranov-nad-toplou-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Človek a život",
+                  "text": "Ein Museum in Vranov nad Topľou, das sich mit dem menschlichen Leben und der Gesellschaft befasst.",
+                  "category": "museum",
+                  "coords": [
+                        21.686484,
+                        48.89058
+                  ]
+            },
+            {
+                  "name": "Majerovský kaštieľ",
+                  "text": "Ein historisches Herrenhaus in Vranov nad Topľou mit traditioneller Architektur.",
+                  "category": "historical",
+                  "coords": [
+                        21.714433,
+                        48.891521
+                  ]
+            },
+            {
+                  "name": "Reformovaný kostol",
+                  "text": "Ein bedeutendes reformiertes Kirchengebäude in Vranov nad Topľou.",
+                  "category": "religious",
+                  "coords": [
+                        21.689457,
+                        48.886332
+                  ]
+            },
+            {
+                  "name": "Bazilika Narodenia Panny Márie",
+                  "text": "Eine barocke Basilika in Vranov nad Topľou, die als bedeutender Wallfahrtsort dient.",
+                  "category": "religious",
+                  "coords": [
+                        21.680587,
+                        48.892102
+                  ]
+            },
+            {
+                  "name": "Kostol sv. Joachima a Anny",
+                  "text": "Eine örtliche Kirche, die den Heiligen Joachim und Anna gewidmet ist.",
+                  "category": "religious",
+                  "coords": [
+                        21.670337,
+                        48.881668
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Človek a život",
+                  "text": "Múzeum Varannóban, amely az emberi élettel és társadalommal foglalkozik.",
+                  "category": "museum",
+                  "coords": [
+                        21.686484,
+                        48.89058
+                  ]
+            },
+            {
+                  "name": "Majerovský kaštieľ",
+                  "text": "Történelmi udvarház Varannóban, amely hagyományos építészeti stílusát őrzi.",
+                  "category": "historical",
+                  "coords": [
+                        21.714433,
+                        48.891521
+                  ]
+            },
+            {
+                  "name": "Reformovaný kostol",
+                  "text": "Jelentős református templomépület Varannóban.",
+                  "category": "religious",
+                  "coords": [
+                        21.689457,
+                        48.886332
+                  ]
+            },
+            {
+                  "name": "Bazilika Narodenia Panny Márie",
+                  "text": "Barokk bazilika Varannóban, amely jelentős zarándokhelyként szolgál.",
+                  "category": "religious",
+                  "coords": [
+                        21.680587,
+                        48.892102
+                  ]
+            },
+            {
+                  "name": "Kostol sv. Joachima a Anny",
+                  "text": "Szent Joakimnak és Annának szentelt helyi templom.",
+                  "category": "religious",
+                  "coords": [
+                        21.670337,
+                        48.881668
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Človek a život",
+                  "text": "Un muzeu din Vranov nad Topľou axat pe viața umană și societate.",
+                  "category": "museum",
+                  "coords": [
+                        21.686484,
+                        48.89058
+                  ]
+            },
+            {
+                  "name": "Majerovský kaštieľ",
+                  "text": "Un conac istoric din Vranov nad Topľou, prezentând arhitectură tradițională.",
+                  "category": "historical",
+                  "coords": [
+                        21.714433,
+                        48.891521
+                  ]
+            },
+            {
+                  "name": "Reformovaný kostol",
+                  "text": "O clădire religioasă reformată importantă din Vranov nad Topľou.",
+                  "category": "religious",
+                  "coords": [
+                        21.689457,
+                        48.886332
+                  ]
+            },
+            {
+                  "name": "Bazilika Narodenia Panny Márie",
+                  "text": "O bazilică barocă din Vranov nad Topľou, care servește ca loc important de pelerinaj.",
+                  "category": "religious",
+                  "coords": [
+                        21.680587,
+                        48.892102
+                  ]
+            },
+            {
+                  "name": "Kostol sv. Joachima a Anny",
+                  "text": "O biserică locală dedicată Sfinților Ioachim și Ana.",
+                  "category": "religious",
+                  "coords": [
+                        21.670337,
+                        48.881668
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Človek a život",
+                  "text": "A museum in Vranov nad Topľou focused on human life and society.",
+                  "category": "museum",
+                  "coords": [
+                        21.686484,
+                        48.89058
+                  ]
+            },
+            {
+                  "name": "Majerovský kaštieľ",
+                  "text": "A historic manor house in Vranov nad Topľou featuring traditional architecture.",
+                  "category": "historical",
+                  "coords": [
+                        21.714433,
+                        48.891521
+                  ]
+            },
+            {
+                  "name": "Reformovaný kostol",
+                  "text": "A significant Reformed church building in Vranov nad Topľou.",
+                  "category": "religious",
+                  "coords": [
+                        21.689457,
+                        48.886332
+                  ]
+            },
+            {
+                  "name": "Bazilika Narodenia Panny Márie",
+                  "text": "A Baroque basilica in Vranov nad Topľou that serves as a major pilgrimage site.",
+                  "category": "religious",
+                  "coords": [
+                        21.680587,
+                        48.892102
+                  ]
+            },
+            {
+                  "name": "Kostol sv. Joachima a Anny",
+                  "text": "A local place of worship dedicated to Saints Joachim and Anne.",
+                  "category": "religious",
+                  "coords": [
+                        21.670337,
+                        48.881668
+                  ]
+            }
+      ]
+},
     parent: "SK",
     type: "city",
     name: { de: "Vranov nad Topľou", hu: "Varannó", ro: "Vranov nad Topľou", en: "Vranov nad Topľou"},
@@ -20247,6 +21840,60 @@ imageHint: "Church of St. Nicholas in Bánovce nad Bebravou",
                         19.283775,
                         49.208816
                   ]
+            },
+            {
+                  "name": "Oravská galéria",
+                  "text": "Eine bedeutende Kunstgalerie in Dolný Kubín, die slowakische und internationale Kunst zeigt.",
+                  "category": "museum",
+                  "coords": [
+                        19.296478,
+                        49.207029
+                  ]
+            },
+            {
+                  "name": "Šibenica",
+                  "text": "Eine archäologische Stätte in Dolný Kubín, an der historische Spuren früher Besiedlung gefunden wurden.",
+                  "category": "historical",
+                  "coords": [
+                        19.266852,
+                        49.213581
+                  ]
+            },
+            {
+                  "name": "Hradisko Trniny",
+                  "text": "Die Stätte einer antiken Höhenburg bei Dolný Kubín, die aus historischer Zeit stammt.",
+                  "category": "historical",
+                  "coords": [
+                        19.277086,
+                        49.228833
+                  ]
+            },
+            {
+                  "name": "Ostrá skala",
+                  "text": "Ein markanter Gipfel in der Region Orava bei Dolný Kubín, der weite Ausblicke auf die Umgebung bietet.",
+                  "category": "landmark",
+                  "coords": [
+                        19.330569,
+                        49.191977
+                  ]
+            },
+            {
+                  "name": "Abaffyovský park",
+                  "text": "Ein öffentlicher Park in Dolný Kubín, benannt nach der Familie Abaffy, der eine Grünfläche zur Erholung bietet.",
+                  "category": "park",
+                  "coords": [
+                        19.305989,
+                        49.235972
+                  ]
+            },
+            {
+                  "name": "Kubínyiovský kaštieľ",
+                  "text": "Ein historisches Herrenhaus in Dolný Kubín, das einst der adligen Familie Kubínyi gehörte.",
+                  "category": "historical",
+                  "coords": [
+                        19.307594,
+                        49.185247
+                  ]
             }
       ],
       "hu": [
@@ -20257,6 +21904,60 @@ imageHint: "Church of St. Nicholas in Bánovce nad Bebravou",
                   "coords": [
                         19.283775,
                         49.208816
+                  ]
+            },
+            {
+                  "name": "Oravská galéria",
+                  "text": "Dolný Kubín jelentős művészeti galériája, amely szlovák és nemzetközi művészeti alkotásokat mutat be.",
+                  "category": "museum",
+                  "coords": [
+                        19.296478,
+                        49.207029
+                  ]
+            },
+            {
+                  "name": "Šibenica",
+                  "text": "Régészeti lelőhely Dolný Kubínban, ahol korai településre utaló történelmi nyomokat találtak.",
+                  "category": "historical",
+                  "coords": [
+                        19.266852,
+                        49.213581
+                  ]
+            },
+            {
+                  "name": "Hradisko Trniny",
+                  "text": "Egy ősi földvár helyszíne Dolný Kubín közelében, amely a történelmi időkből származik.",
+                  "category": "historical",
+                  "coords": [
+                        19.277086,
+                        49.228833
+                  ]
+            },
+            {
+                  "name": "Ostrá skala",
+                  "text": "Kiemelkedő csúcs az Árva régióban Dolný Kubín közelében, amely széles kilátást nyújt a környékre.",
+                  "category": "landmark",
+                  "coords": [
+                        19.330569,
+                        49.191977
+                  ]
+            },
+            {
+                  "name": "Abaffyovský park",
+                  "text": "Dolný Kubín közparkja, amelyet az Abaffy családról neveztek el, és zöldterületet kínál a pihenéshez.",
+                  "category": "park",
+                  "coords": [
+                        19.305989,
+                        49.235972
+                  ]
+            },
+            {
+                  "name": "Kubínyiovský kaštieľ",
+                  "text": "Történelmi udvarház Dolný Kubínban, amely egykor a nemesi Kubínyi családé volt.",
+                  "category": "historical",
+                  "coords": [
+                        19.307594,
+                        49.185247
                   ]
             }
       ],
@@ -20269,6 +21970,60 @@ imageHint: "Church of St. Nicholas in Bánovce nad Bebravou",
                         19.283775,
                         49.208816
                   ]
+            },
+            {
+                  "name": "Oravská galéria",
+                  "text": "O galerie de artă proeminentă din Dolný Kubín, care prezintă artă slovacă și internațională.",
+                  "category": "museum",
+                  "coords": [
+                        19.296478,
+                        49.207029
+                  ]
+            },
+            {
+                  "name": "Šibenica",
+                  "text": "Un sit arheologic din Dolný Kubín unde au fost găsite urme istorice ale unei așezări timpurii.",
+                  "category": "historical",
+                  "coords": [
+                        19.266852,
+                        49.213581
+                  ]
+            },
+            {
+                  "name": "Hradisko Trniny",
+                  "text": "Locul unui vechi fort pe deal lângă Dolný Kubín, datând din vremuri istorice.",
+                  "category": "historical",
+                  "coords": [
+                        19.277086,
+                        49.228833
+                  ]
+            },
+            {
+                  "name": "Ostrá skala",
+                  "text": "Un vârf proeminent din regiunea Orava de lângă Dolný Kubín, care oferă vederi largi asupra împrejurimilor.",
+                  "category": "landmark",
+                  "coords": [
+                        19.330569,
+                        49.191977
+                  ]
+            },
+            {
+                  "name": "Abaffyovský park",
+                  "text": "Un parc public din Dolný Kubín numit după familia Abaffy, oferind un spațiu verde pentru recreere.",
+                  "category": "park",
+                  "coords": [
+                        19.305989,
+                        49.235972
+                  ]
+            },
+            {
+                  "name": "Kubínyiovský kaštieľ",
+                  "text": "Un conac istoric din Dolný Kubín, care a aparținut cândva familiei nobiliare Kubínyi.",
+                  "category": "historical",
+                  "coords": [
+                        19.307594,
+                        49.185247
+                  ]
             }
       ],
       "en": [
@@ -20279,6 +22034,60 @@ imageHint: "Church of St. Nicholas in Bánovce nad Bebravou",
                   "coords": [
                         19.283775,
                         49.208816
+                  ]
+            },
+            {
+                  "name": "Oravská galéria",
+                  "text": "A prominent art gallery in Dolný Kubín showcasing Slovak and international art.",
+                  "category": "museum",
+                  "coords": [
+                        19.296478,
+                        49.207029
+                  ]
+            },
+            {
+                  "name": "Šibenica",
+                  "text": "An archaeological site in Dolný Kubín where historical traces of early settlement have been found.",
+                  "category": "historical",
+                  "coords": [
+                        19.266852,
+                        49.213581
+                  ]
+            },
+            {
+                  "name": "Hradisko Trniny",
+                  "text": "The site of an ancient hillfort near Dolný Kubín, dating back to historic times.",
+                  "category": "historical",
+                  "coords": [
+                        19.277086,
+                        49.228833
+                  ]
+            },
+            {
+                  "name": "Ostrá skala",
+                  "text": "A prominent peak in the Orava region near Dolný Kubín, offering wide views of the surroundings.",
+                  "category": "landmark",
+                  "coords": [
+                        19.330569,
+                        49.191977
+                  ]
+            },
+            {
+                  "name": "Abaffyovský park",
+                  "text": "A public park in Dolný Kubín named after the Abaffy family, providing a green space for leisure.",
+                  "category": "park",
+                  "coords": [
+                        19.305989,
+                        49.235972
+                  ]
+            },
+            {
+                  "name": "Kubínyiovský kaštieľ",
+                  "text": "A historic manor house in Dolný Kubín, once belonging to the noble Kubínyi family.",
+                  "category": "historical",
+                  "coords": [
+                        19.307594,
+                        49.185247
                   ]
             }
       ]
@@ -23306,6 +25115,51 @@ imageHint: "Wooden UNESCO church in Kežmarok",
                         20.680338,
                         49.300514
                   ]
+            },
+            {
+                  "name": "Ľubovniansky skanzen",
+                  "text": "Ein Freilichtmuseum unter der Burg Lublau, das die traditionelle slowakische Volksarchitektur zeigt.",
+                  "category": "museum",
+                  "coords": [
+                        20.695427,
+                        49.317124
+                  ]
+            },
+            {
+                  "name": "Ľubovniansky hrad",
+                  "text": "Eine mittelalterliche Burg, die über der Stadt Stará Ľubovňa thront.",
+                  "category": "castle",
+                  "coords": [
+                        20.699565,
+                        49.31527
+                  ]
+            },
+            {
+                  "name": "Dom Mešťana",
+                  "text": "Ein Museum in einem historischen Bürgerhaus in Stará Ľubovňa.",
+                  "category": "museum",
+                  "coords": [
+                        20.690364,
+                        49.301951
+                  ]
+            },
+            {
+                  "name": "Vojenská expozícia Michala Strenka",
+                  "text": "Eine Militärausstellung in Stará Ľubovňa, die Sergeant Michael Strank gewidmet ist.",
+                  "category": "museum",
+                  "coords": [
+                        20.697289,
+                        49.31613
+                  ]
+            },
+            {
+                  "name": "Kostol sv. Jána Evanjelistu",
+                  "text": "Eine historische Kirche, die dem Heiligen Johannes dem Evangelisten in Stará Ľubovňa gewidmet ist.",
+                  "category": "religious",
+                  "coords": [
+                        20.683447,
+                        49.27459
+                  ]
             }
       ],
       "hu": [
@@ -23316,6 +25170,51 @@ imageHint: "Wooden UNESCO church in Kežmarok",
                   "coords": [
                         20.680338,
                         49.300514
+                  ]
+            },
+            {
+                  "name": "Ľubovniansky skanzen",
+                  "text": "A hagyományos szlovák népi építészetet bemutató szabadtéri múzeum a lublói vár alatt.",
+                  "category": "museum",
+                  "coords": [
+                        20.695427,
+                        49.317124
+                  ]
+            },
+            {
+                  "name": "Lubló vára",
+                  "text": "Stará Ľubovňa városa fölé magasodó középkori vár.",
+                  "category": "castle",
+                  "coords": [
+                        20.699565,
+                        49.31527
+                  ]
+            },
+            {
+                  "name": "Dom Mešťana",
+                  "text": "Történelmi polgárházban berendezett múzeum Stará Ľubovňa városában.",
+                  "category": "museum",
+                  "coords": [
+                        20.690364,
+                        49.301951
+                  ]
+            },
+            {
+                  "name": "Vojenská expozícia Michala Strenka",
+                  "text": "Michael Strank őrmesternek szentelt katonai kiállítás Stará Ľubovňa városában.",
+                  "category": "museum",
+                  "coords": [
+                        20.697289,
+                        49.31613
+                  ]
+            },
+            {
+                  "name": "Kostol sv. Jána Evanjelistu",
+                  "text": "Szent János evangélistának szentelt történelmi templom Stará Ľubovňa városában.",
+                  "category": "religious",
+                  "coords": [
+                        20.683447,
+                        49.27459
                   ]
             }
       ],
@@ -23328,6 +25227,51 @@ imageHint: "Wooden UNESCO church in Kežmarok",
                         20.680338,
                         49.300514
                   ]
+            },
+            {
+                  "name": "Ľubovniansky skanzen",
+                  "text": "Un muzeu în aer liber care prezintă arhitectura populară tradițională slovacă sub Castelul Lubovna.",
+                  "category": "museum",
+                  "coords": [
+                        20.695427,
+                        49.317124
+                  ]
+            },
+            {
+                  "name": "Ľubovniansky hrad",
+                  "text": "Un castel medieval care domină orașul Stará Ľubovňa.",
+                  "category": "castle",
+                  "coords": [
+                        20.699565,
+                        49.31527
+                  ]
+            },
+            {
+                  "name": "Dom Mešťana",
+                  "text": "Un muzeu situat într-o casă istorică de negustor în Stará Ľubovňa.",
+                  "category": "museum",
+                  "coords": [
+                        20.690364,
+                        49.301951
+                  ]
+            },
+            {
+                  "name": "Vojenská expozícia Michala Strenka",
+                  "text": "O expoziție militară în Stará Ľubovňa dedicată sergentului Michael Strank.",
+                  "category": "museum",
+                  "coords": [
+                        20.697289,
+                        49.31613
+                  ]
+            },
+            {
+                  "name": "Kostol sv. Jána Evanjelistu",
+                  "text": "O biserică istorică dedicată Sfântului Ioan Evanghelistul în Stará Ľubovňa.",
+                  "category": "religious",
+                  "coords": [
+                        20.683447,
+                        49.27459
+                  ]
             }
       ],
       "en": [
@@ -23338,6 +25282,51 @@ imageHint: "Wooden UNESCO church in Kežmarok",
                   "coords": [
                         20.680338,
                         49.300514
+                  ]
+            },
+            {
+                  "name": "Ľubovniansky skanzen",
+                  "text": "An open-air museum showcasing traditional Slovak folk architecture below the Lubovna Castle.",
+                  "category": "museum",
+                  "coords": [
+                        20.695427,
+                        49.317124
+                  ]
+            },
+            {
+                  "name": "Ľubovniansky hrad",
+                  "text": "A medieval castle overlooking the town of Stará Ľubovňa.",
+                  "category": "castle",
+                  "coords": [
+                        20.699565,
+                        49.31527
+                  ]
+            },
+            {
+                  "name": "Dom Mešťana",
+                  "text": "A museum located in a historic burgher's house in Stará Ľubovňa.",
+                  "category": "museum",
+                  "coords": [
+                        20.690364,
+                        49.301951
+                  ]
+            },
+            {
+                  "name": "Vojenská expozícia Michala Strenka",
+                  "text": "A military exhibition in Stará Ľubovňa dedicated to Sergeant Michael Strank.",
+                  "category": "museum",
+                  "coords": [
+                        20.697289,
+                        49.31613
+                  ]
+            },
+            {
+                  "name": "Kostol sv. Jána Evanjelistu",
+                  "text": "A historic church dedicated to Saint John the Evangelist in Stará Ľubovňa.",
+                  "category": "religious",
+                  "coords": [
+                        20.683447,
+                        49.27459
                   ]
             }
       ]
@@ -24768,6 +26757,60 @@ imageHint: "Folklore festival stage in Detva with people in costumes",
                         17.160302,
                         48.849722
                   ]
+            },
+            {
+                  "name": "Franciscan monastery",
+                  "text": "Historisches Franziskanerkloster in der Stadt Skalica.",
+                  "category": "religious",
+                  "coords": [
+                        17.232271,
+                        48.846574
+                  ]
+            },
+            {
+                  "name": "Pauline Monastery",
+                  "text": "Ehemaliges Paulinerkloster, ein Baudenkmal in Skalica.",
+                  "category": "religious",
+                  "coords": [
+                        17.225919,
+                        48.846644
+                  ]
+            },
+            {
+                  "name": "Jesuit Monastery",
+                  "text": "Historische Klosteranlage der Jesuiten in Skalica.",
+                  "category": "religious",
+                  "coords": [
+                        17.228675,
+                        48.846754
+                  ]
+            },
+            {
+                  "name": "Zahorske muzeum",
+                  "text": "Regionales Museum zur Kultur der Region Zahorie in Skalica.",
+                  "category": "museum",
+                  "coords": [
+                        17.229843,
+                        48.846249
+                  ]
+            },
+            {
+                  "name": "Monastery of the Merciful Brethren",
+                  "text": "Klosteranlage der Barmherzigen Brüder in Skalica.",
+                  "category": "religious",
+                  "coords": [
+                        17.22758,
+                        48.844686
+                  ]
+            },
+            {
+                  "name": "Knihtlaciaren Skarniclovska",
+                  "text": "Historische Druckerei der Familie Skarnicel in Skalica.",
+                  "category": "landmark",
+                  "coords": [
+                        17.227334,
+                        48.847569
+                  ]
             }
       ],
       "hu": [
@@ -24832,6 +26875,60 @@ imageHint: "Folklore festival stage in Detva with people in costumes",
                   "coords": [
                         17.160302,
                         48.849722
+                  ]
+            },
+            {
+                  "name": "Franciscan monastery",
+                  "text": "Történelmi ferences kolostor Szakolca városában.",
+                  "category": "religious",
+                  "coords": [
+                        17.232271,
+                        48.846574
+                  ]
+            },
+            {
+                  "name": "Pauline Monastery",
+                  "text": "Egykori pálos kolostor, műemlék Szakolcán.",
+                  "category": "religious",
+                  "coords": [
+                        17.225919,
+                        48.846644
+                  ]
+            },
+            {
+                  "name": "Jesuit Monastery",
+                  "text": "A jezsuiták történelmi kolostoregyüttese Szakolcán.",
+                  "category": "religious",
+                  "coords": [
+                        17.228675,
+                        48.846754
+                  ]
+            },
+            {
+                  "name": "Zahorske muzeum",
+                  "text": "Az Erdőhát (Záhorie) kultúráját bemutató múzeum Szakolcán.",
+                  "category": "museum",
+                  "coords": [
+                        17.229843,
+                        48.846249
+                  ]
+            },
+            {
+                  "name": "Monastery of the Merciful Brethren",
+                  "text": "Az Irgalmasrendi szerzetesek kolostora Szakolcán.",
+                  "category": "religious",
+                  "coords": [
+                        17.22758,
+                        48.844686
+                  ]
+            },
+            {
+                  "name": "Knihtlaciaren Skarniclovska",
+                  "text": "A Skarnicel család történelmi nyomdája Szakolcán.",
+                  "category": "landmark",
+                  "coords": [
+                        17.227334,
+                        48.847569
                   ]
             }
       ],
@@ -24898,6 +26995,60 @@ imageHint: "Folklore festival stage in Detva with people in costumes",
                         17.160302,
                         48.849722
                   ]
+            },
+            {
+                  "name": "Franciscan monastery",
+                  "text": "Mănăstire franciscană istorică din orașul Skalica.",
+                  "category": "religious",
+                  "coords": [
+                        17.232271,
+                        48.846574
+                  ]
+            },
+            {
+                  "name": "Pauline Monastery",
+                  "text": "Fostă mănăstire paulină, un monument istoric din Skalica.",
+                  "category": "religious",
+                  "coords": [
+                        17.225919,
+                        48.846644
+                  ]
+            },
+            {
+                  "name": "Jesuit Monastery",
+                  "text": "Complex monahal istoric al iezuiților din Skalica.",
+                  "category": "religious",
+                  "coords": [
+                        17.228675,
+                        48.846754
+                  ]
+            },
+            {
+                  "name": "Zahorske muzeum",
+                  "text": "Muzeu regional dedicat culturii zonei Zahorie din Skalica.",
+                  "category": "museum",
+                  "coords": [
+                        17.229843,
+                        48.846249
+                  ]
+            },
+            {
+                  "name": "Monastery of the Merciful Brethren",
+                  "text": "Mănăstirea fraților mizericordieni din Skalica.",
+                  "category": "religious",
+                  "coords": [
+                        17.22758,
+                        48.844686
+                  ]
+            },
+            {
+                  "name": "Knihtlaciaren Skarniclovska",
+                  "text": "Tipografie istorică a familiei Skarnicel din Skalica.",
+                  "category": "landmark",
+                  "coords": [
+                        17.227334,
+                        48.847569
+                  ]
             }
       ],
       "en": [
@@ -24962,6 +27113,60 @@ imageHint: "Folklore festival stage in Detva with people in costumes",
                   "coords": [
                         17.160302,
                         48.849722
+                  ]
+            },
+            {
+                  "name": "Franciscan monastery",
+                  "text": "Historic Franciscan monastery in the town of Skalica.",
+                  "category": "religious",
+                  "coords": [
+                        17.232271,
+                        48.846574
+                  ]
+            },
+            {
+                  "name": "Pauline Monastery",
+                  "text": "Former Pauline monastery, a historical monument in Skalica.",
+                  "category": "religious",
+                  "coords": [
+                        17.225919,
+                        48.846644
+                  ]
+            },
+            {
+                  "name": "Jesuit Monastery",
+                  "text": "Historic Jesuit monastery complex in Skalica.",
+                  "category": "religious",
+                  "coords": [
+                        17.228675,
+                        48.846754
+                  ]
+            },
+            {
+                  "name": "Zahorske muzeum",
+                  "text": "Regional museum dedicated to the culture of the Zahorie region in Skalica.",
+                  "category": "museum",
+                  "coords": [
+                        17.229843,
+                        48.846249
+                  ]
+            },
+            {
+                  "name": "Monastery of the Merciful Brethren",
+                  "text": "Monastery of the Brothers Hospitallers in Skalica.",
+                  "category": "religious",
+                  "coords": [
+                        17.22758,
+                        48.844686
+                  ]
+            },
+            {
+                  "name": "Knihtlaciaren Skarniclovska",
+                  "text": "Historic printing house of the Skarnicel family in Skalica.",
+                  "category": "landmark",
+                  "coords": [
+                        17.227334,
+                        48.847569
                   ]
             }
       ]
@@ -27753,7 +29958,88 @@ imageHint: "Modern X-Bionic Sphere sports complex in Šamorín",
     },
     image: "/poi-images/slovakia-samorin-cities-v2.webp",
 },  {
-    id: "slovakia-sabur-cities-v2",
+    id: "slovakia-sabur-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Mestské múzeum Zlaté Moravce",
+                  "text": "Das Stadtmuseum in Zlaté Moravce konzentriert sich auf die regionale Geschichte und Kultur der Region.",
+                  "category": "museum",
+                  "coords": [
+                        18.396494,
+                        48.382522
+                  ]
+            },
+            {
+                  "name": "Mauzóleum rodiny Migazziovcov",
+                  "text": "Ein bedeutendes neoklassizistisches Mausoleum in Zlaté Moravce, das für die Adelsfamilie Migazzi errichtet wurde.",
+                  "category": "landmark",
+                  "coords": [
+                        18.399317,
+                        48.380769
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Mestské múzeum Zlaté Moravce",
+                  "text": "Az Aranyosmaróti Városi Múzeum a terület regionális történelmére és kultúrájára összpontosít.",
+                  "category": "museum",
+                  "coords": [
+                        18.396494,
+                        48.382522
+                  ]
+            },
+            {
+                  "name": "Mauzóleum rodiny Migazziovcov",
+                  "text": "Jelentős neoklasszicista mauzóleum Aranyosmaróton, amely a nemesi Migazzi család számára épült.",
+                  "category": "landmark",
+                  "coords": [
+                        18.399317,
+                        48.380769
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Mestské múzeum Zlaté Moravce",
+                  "text": "Muzeul orașului Zlaté Moravce se concentrează pe istoria și cultura regională a zonei.",
+                  "category": "museum",
+                  "coords": [
+                        18.396494,
+                        48.382522
+                  ]
+            },
+            {
+                  "name": "Mauzóleum rodiny Migazziovcov",
+                  "text": "Un mausoleu neoclasic semnificativ în Zlaté Moravce, construit pentru familia nobilă Migazzi.",
+                  "category": "landmark",
+                  "coords": [
+                        18.399317,
+                        48.380769
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Mestské múzeum Zlaté Moravce",
+                  "text": "The city museum in Zlaté Moravce focuses on the regional history and culture of the area.",
+                  "category": "museum",
+                  "coords": [
+                        18.396494,
+                        48.382522
+                  ]
+            },
+            {
+                  "name": "Mauzóleum rodiny Migazziovcov",
+                  "text": "A significant Neoclassical mausoleum in Zlaté Moravce built for the noble Migazzi family.",
+                  "category": "landmark",
+                  "coords": [
+                        18.399317,
+                        48.380769
+                  ]
+            }
+      ]
+},
     parent: "SK",
     type: "city",
     name: { de: "Zlaté Moravce", hu: "Aranyosmarót", ro: "Zlaté Moravce", en: "Zlaté Moravce"},
@@ -27818,6 +30104,60 @@ imageHint: "Migazzi family palace in Zlaté Moravce",
                         18.491693,
                         49.190019
                   ]
+            },
+            {
+                  "name": "Sobášny palác",
+                  "text": "Ein Renaissance-Hochzeitspalast in Bytča, Teil des örtlichen Schlosskomplexes.",
+                  "category": "castle",
+                  "coords": [
+                        18.558292,
+                        49.220607
+                  ]
+            },
+            {
+                  "name": "Rodný dom Jozefa Tisa",
+                  "text": "Das Geburtshaus von Jozef Tiso in Bytča, das heute als Museum dient.",
+                  "category": "museum",
+                  "coords": [
+                        18.557873,
+                        49.222121
+                  ]
+            },
+            {
+                  "name": "Kaštieľ v Bytči",
+                  "text": "Ein bedeutendes Renaissance-Schloss in Bytča, erbaut von der Familie Thurzo.",
+                  "category": "historical",
+                  "coords": [
+                        18.559282,
+                        49.220288
+                  ]
+            },
+            {
+                  "name": "Rozhľadňa nad Hrabovým",
+                  "text": "Ein Aussichtsturm über dem Dorf Hrabové bei Bytča.",
+                  "category": "tower",
+                  "coords": [
+                        18.559323,
+                        49.202252
+                  ]
+            },
+            {
+                  "name": "Všetkých svätých",
+                  "text": "Die Allerheiligenkirche, ein religiöses Gebäude in Bytča.",
+                  "category": "religious",
+                  "coords": [
+                        18.559173,
+                        49.222813
+                  ]
+            },
+            {
+                  "name": "Kostol sv. Barbory",
+                  "text": "Die St.-Barbara-Kirche, ein katholisches Gotteshaus in Bytča.",
+                  "category": "religious",
+                  "coords": [
+                        18.56247,
+                        49.224536
+                  ]
             }
       ],
       "hu": [
@@ -27837,6 +30177,60 @@ imageHint: "Migazzi family palace in Zlaté Moravce",
                   "coords": [
                         18.491693,
                         49.190019
+                  ]
+            },
+            {
+                  "name": "Sobášny palác",
+                  "text": "Reneszánsz nászpalota Nagybiccsén, a helyi kastélyegyüttes része.",
+                  "category": "castle",
+                  "coords": [
+                        18.558292,
+                        49.220607
+                  ]
+            },
+            {
+                  "name": "Rodný dom Jozefa Tisa",
+                  "text": "Jozef Tiso szülőháza Nagybiccsén, amely ma múzeumként működik.",
+                  "category": "museum",
+                  "coords": [
+                        18.557873,
+                        49.222121
+                  ]
+            },
+            {
+                  "name": "Kaštieľ v Bytči",
+                  "text": "Jelentős reneszánsz kastély Nagybiccsén, amelyet a Thurzó család építtetett.",
+                  "category": "historical",
+                  "coords": [
+                        18.559282,
+                        49.220288
+                  ]
+            },
+            {
+                  "name": "Rozhľadňa nad Hrabovým",
+                  "text": "Kilátótorony a Nagybiccse melletti Hrabové falu felett.",
+                  "category": "tower",
+                  "coords": [
+                        18.559323,
+                        49.202252
+                  ]
+            },
+            {
+                  "name": "Všetkých svätých",
+                  "text": "A Mindenszentek-templom, Nagybiccse egyik vallási épülete.",
+                  "category": "religious",
+                  "coords": [
+                        18.559173,
+                        49.222813
+                  ]
+            },
+            {
+                  "name": "Kostol sv. Barbory",
+                  "text": "Szent Borbála-templom, katolikus hitéleti helyszín Nagybiccsén.",
+                  "category": "religious",
+                  "coords": [
+                        18.56247,
+                        49.224536
                   ]
             }
       ],
@@ -27858,6 +30252,60 @@ imageHint: "Migazzi family palace in Zlaté Moravce",
                         18.491693,
                         49.190019
                   ]
+            },
+            {
+                  "name": "Sobášny palác",
+                  "text": "Un palat de nunți în stil renascentist în Bytča, parte a complexului castelului local.",
+                  "category": "castle",
+                  "coords": [
+                        18.558292,
+                        49.220607
+                  ]
+            },
+            {
+                  "name": "Rodný dom Jozefa Tisa",
+                  "text": "Casa natală a lui Jozef Tiso din Bytča, care servește astăzi drept muzeu.",
+                  "category": "museum",
+                  "coords": [
+                        18.557873,
+                        49.222121
+                  ]
+            },
+            {
+                  "name": "Kaštieľ v Bytči",
+                  "text": "Un important castel renascentist în Bytča, construit de familia Thurzo.",
+                  "category": "historical",
+                  "coords": [
+                        18.559282,
+                        49.220288
+                  ]
+            },
+            {
+                  "name": "Rozhľadňa nad Hrabovým",
+                  "text": "Turn de observație situat deasupra satului Hrabové, lângă Bytča.",
+                  "category": "tower",
+                  "coords": [
+                        18.559323,
+                        49.202252
+                  ]
+            },
+            {
+                  "name": "Všetkých svätých",
+                  "text": "Biserica Toți Sfinții, un edificiu religios în orașul Bytča.",
+                  "category": "religious",
+                  "coords": [
+                        18.559173,
+                        49.222813
+                  ]
+            },
+            {
+                  "name": "Kostol sv. Barbory",
+                  "text": "Biserica Sfânta Barbara, un lăcaș de cult catolic în Bytča.",
+                  "category": "religious",
+                  "coords": [
+                        18.56247,
+                        49.224536
+                  ]
             }
       ],
       "en": [
@@ -27877,6 +30325,60 @@ imageHint: "Migazzi family palace in Zlaté Moravce",
                   "coords": [
                         18.491693,
                         49.190019
+                  ]
+            },
+            {
+                  "name": "Sobášny palác",
+                  "text": "A Renaissance wedding palace in Bytča, part of the local castle complex.",
+                  "category": "castle",
+                  "coords": [
+                        18.558292,
+                        49.220607
+                  ]
+            },
+            {
+                  "name": "Rodný dom Jozefa Tisa",
+                  "text": "The birthplace of Jozef Tiso in Bytča, now serving as a museum.",
+                  "category": "museum",
+                  "coords": [
+                        18.557873,
+                        49.222121
+                  ]
+            },
+            {
+                  "name": "Kaštieľ v Bytči",
+                  "text": "An important Renaissance manor house in Bytča, built by the Thurzo family.",
+                  "category": "historical",
+                  "coords": [
+                        18.559282,
+                        49.220288
+                  ]
+            },
+            {
+                  "name": "Rozhľadňa nad Hrabovým",
+                  "text": "An observation tower located above the village of Hrabové near Bytča.",
+                  "category": "tower",
+                  "coords": [
+                        18.559323,
+                        49.202252
+                  ]
+            },
+            {
+                  "name": "Všetkých svätých",
+                  "text": "The All Saints Church, a religious building in Bytča.",
+                  "category": "religious",
+                  "coords": [
+                        18.559173,
+                        49.222813
+                  ]
+            },
+            {
+                  "name": "Kostol sv. Barbory",
+                  "text": "St. Barbara's Church, a Catholic place of worship in Bytča.",
+                  "category": "religious",
+                  "coords": [
+                        18.56247,
+                        49.224536
                   ]
             }
       ]
@@ -27963,6 +30465,78 @@ imageHint: "Renaissance Wedding Palace (Sobášny palác) in Bytča",
                         17.179834,
                         48.192783
                   ]
+            },
+            {
+                  "name": "Biely Kamen",
+                  "text": "Die Ruinen einer gotischen Burg aus dem 13. Jahrhundert in den Kleinen Karpaten bei Svätý Jur.",
+                  "category": "castle",
+                  "coords": [
+                        17.196617,
+                        48.26113
+                  ]
+            },
+            {
+                  "name": "Velkomoravske hradisko",
+                  "text": "Eine bedeutende archäologische Stätte einer großmährischen Festung in der Nähe von Svätý Jur.",
+                  "category": "historical",
+                  "coords": [
+                        17.192704,
+                        48.265891
+                  ]
+            },
+            {
+                  "name": "Vinohradnicky skanzen",
+                  "text": "Ein Freilichtmuseum in Svätý Jur, das der Weinbautradition und der Geschichte der Region gewidmet ist.",
+                  "category": "museum",
+                  "coords": [
+                        17.204636,
+                        48.251067
+                  ]
+            },
+            {
+                  "name": "Palffyovsky kastiel",
+                  "text": "Ein historisches Herrenhaus der Familie Pálffy in Svätý Jur, das ein Beispiel für Renaissance-Architektur ist.",
+                  "category": "historical",
+                  "coords": [
+                        17.208957,
+                        48.255747
+                  ]
+            },
+            {
+                  "name": "Grinavska vyhliadka",
+                  "text": "Ein Aussichtspunkt in Svätý Jur, der einen Panoramablick auf die umliegenden Weinberge bietet.",
+                  "category": "natural",
+                  "coords": [
+                        17.220662,
+                        48.271427
+                  ]
+            },
+            {
+                  "name": "Vyhliadka vo vinici Dangl/Drotare",
+                  "text": "Ein malerischer Aussichtspunkt inmitten der Weinberge von Svätý Jur.",
+                  "category": "natural",
+                  "coords": [
+                        17.200964,
+                        48.253753
+                  ]
+            },
+            {
+                  "name": "Byvaly skokansky mostik",
+                  "text": "Die Überreste einer ehemaligen Skisprungschanze, die heute als lokale Kuriosität in Svätý Jur gilt.",
+                  "category": "landmark",
+                  "coords": [
+                        17.192676,
+                        48.262415
+                  ]
+            },
+            {
+                  "name": "Stary jursky kamenolom",
+                  "text": "Ein ehemaliger Steinbruch bei Svätý Jur, der heute ein interessantes geologisches Ziel darstellt.",
+                  "category": "landmark",
+                  "coords": [
+                        17.194212,
+                        48.233649
+                  ]
             }
       ],
       "hu": [
@@ -28000,6 +30574,78 @@ imageHint: "Renaissance Wedding Palace (Sobášny palác) in Bytča",
                   "coords": [
                         17.179834,
                         48.192783
+                  ]
+            },
+            {
+                  "name": "Biely Kamen",
+                  "text": "Egy 13. századi gótikus vár romjai a Kis-Kárpátokban, Szentgyörgy közelében.",
+                  "category": "castle",
+                  "coords": [
+                        17.196617,
+                        48.26113
+                  ]
+            },
+            {
+                  "name": "Velkomoravske hradisko",
+                  "text": "Jelentős nagymorva erődítmény régészeti lelőhelye Szentgyörgy közelében.",
+                  "category": "historical",
+                  "coords": [
+                        17.192704,
+                        48.265891
+                  ]
+            },
+            {
+                  "name": "Vinohradnicky skanzen",
+                  "text": "Szabadtéri múzeum Szentgyörgyön, amely a régió borászati hagyományainak és történelmének szentelt.",
+                  "category": "museum",
+                  "coords": [
+                        17.204636,
+                        48.251067
+                  ]
+            },
+            {
+                  "name": "Palffyovsky kastiel",
+                  "text": "A Pálffy család történelmi kastélya Szentgyörgyön, amely a reneszánsz építészet egyik példája.",
+                  "category": "historical",
+                  "coords": [
+                        17.208957,
+                        48.255747
+                  ]
+            },
+            {
+                  "name": "Grinavska vyhliadka",
+                  "text": "Kilátópont Szentgyörgyön, ahonnan panorámás kilátás nyílik a környező szőlőültetvényekre.",
+                  "category": "natural",
+                  "coords": [
+                        17.220662,
+                        48.271427
+                  ]
+            },
+            {
+                  "name": "Vyhliadka vo vinici Dangl/Drotare",
+                  "text": "Festői kilátópont a szentgyörgyi szőlőültetvények közepén.",
+                  "category": "natural",
+                  "coords": [
+                        17.200964,
+                        48.253753
+                  ]
+            },
+            {
+                  "name": "Byvaly skokansky mostik",
+                  "text": "Egy egykori síugró sánc maradványai, amely ma helyi érdekesség Szentgyörgyön.",
+                  "category": "landmark",
+                  "coords": [
+                        17.192676,
+                        48.262415
+                  ]
+            },
+            {
+                  "name": "Stary jursky kamenolom",
+                  "text": "Egykori kőbánya Szentgyörgy közelében, amely ma érdekes geológiai célpont.",
+                  "category": "landmark",
+                  "coords": [
+                        17.194212,
+                        48.233649
                   ]
             }
       ],
@@ -28039,6 +30685,78 @@ imageHint: "Renaissance Wedding Palace (Sobášny palác) in Bytča",
                         17.179834,
                         48.192783
                   ]
+            },
+            {
+                  "name": "Biely Kamen",
+                  "text": "Ruinele unui castel gotic din secolul al XIII-lea în Carpații Mici, lângă Svätý Jur.",
+                  "category": "castle",
+                  "coords": [
+                        17.196617,
+                        48.26113
+                  ]
+            },
+            {
+                  "name": "Velkomoravske hradisko",
+                  "text": "Un sit arheologic important al unei fortificații din perioada Marii Moravii, lângă Svätý Jur.",
+                  "category": "historical",
+                  "coords": [
+                        17.192704,
+                        48.265891
+                  ]
+            },
+            {
+                  "name": "Vinohradnicky skanzen",
+                  "text": "Un muzeu în aer liber din Svätý Jur dedicat tradiției viticole și istoriei regiunii.",
+                  "category": "museum",
+                  "coords": [
+                        17.204636,
+                        48.251067
+                  ]
+            },
+            {
+                  "name": "Palffyovsky kastiel",
+                  "text": "Un conac istoric al familiei Pálffy din Svätý Jur, care este un exemplu de arhitectură renascentistă.",
+                  "category": "historical",
+                  "coords": [
+                        17.208957,
+                        48.255747
+                  ]
+            },
+            {
+                  "name": "Grinavska vyhliadka",
+                  "text": "Un punct de belvedere în Svätý Jur, care oferă o vedere panoramică asupra podgoriilor din jur.",
+                  "category": "natural",
+                  "coords": [
+                        17.220662,
+                        48.271427
+                  ]
+            },
+            {
+                  "name": "Vyhliadka vo vinici Dangl/Drotare",
+                  "text": "Un punct de belvedere pitoresc în mijlocul podgoriilor din Svätý Jur.",
+                  "category": "natural",
+                  "coords": [
+                        17.200964,
+                        48.253753
+                  ]
+            },
+            {
+                  "name": "Byvaly skokansky mostik",
+                  "text": "Resturile unei foste trambuline de sărituri cu schiurile, care astăzi este o curiozitate locală în Svätý Jur.",
+                  "category": "landmark",
+                  "coords": [
+                        17.192676,
+                        48.262415
+                  ]
+            },
+            {
+                  "name": "Stary jursky kamenolom",
+                  "text": "O fostă carieră de piatră lângă Svätý Jur, care astăzi reprezintă o destinație geologică interesantă.",
+                  "category": "landmark",
+                  "coords": [
+                        17.194212,
+                        48.233649
+                  ]
             }
       ],
       "en": [
@@ -28076,6 +30794,78 @@ imageHint: "Renaissance Wedding Palace (Sobášny palác) in Bytča",
                   "coords": [
                         17.179834,
                         48.192783
+                  ]
+            },
+            {
+                  "name": "Biely Kamen",
+                  "text": "The ruins of a 13th-century Gothic castle in the Little Carpathians near Svätý Jur.",
+                  "category": "castle",
+                  "coords": [
+                        17.196617,
+                        48.26113
+                  ]
+            },
+            {
+                  "name": "Velkomoravske hradisko",
+                  "text": "A significant archaeological site of a Great Moravian fortification near Svätý Jur.",
+                  "category": "historical",
+                  "coords": [
+                        17.192704,
+                        48.265891
+                  ]
+            },
+            {
+                  "name": "Vinohradnicky skanzen",
+                  "text": "An open-air museum in Svätý Jur dedicated to the viticulture tradition and history of the region.",
+                  "category": "museum",
+                  "coords": [
+                        17.204636,
+                        48.251067
+                  ]
+            },
+            {
+                  "name": "Palffyovsky kastiel",
+                  "text": "A historic manor house of the Pálffy family in Svätý Jur, which is an example of Renaissance architecture.",
+                  "category": "historical",
+                  "coords": [
+                        17.208957,
+                        48.255747
+                  ]
+            },
+            {
+                  "name": "Grinavska vyhliadka",
+                  "text": "A viewpoint in Svätý Jur offering a panoramic view of the surrounding vineyards.",
+                  "category": "natural",
+                  "coords": [
+                        17.220662,
+                        48.271427
+                  ]
+            },
+            {
+                  "name": "Vyhliadka vo vinici Dangl/Drotare",
+                  "text": "A scenic viewpoint located amidst the vineyards of Svätý Jur.",
+                  "category": "natural",
+                  "coords": [
+                        17.200964,
+                        48.253753
+                  ]
+            },
+            {
+                  "name": "Byvaly skokansky mostik",
+                  "text": "The remains of a former ski jump, which is now a local curiosity in Svätý Jur.",
+                  "category": "landmark",
+                  "coords": [
+                        17.192676,
+                        48.262415
+                  ]
+            },
+            {
+                  "name": "Stary jursky kamenolom",
+                  "text": "A former stone quarry near Svätý Jur, which is now an interesting geological destination.",
+                  "category": "landmark",
+                  "coords": [
+                        17.194212,
+                        48.233649
                   ]
             }
       ]
@@ -30363,6 +33153,15 @@ imageHint: "Basilica of the Seven Sorrows of Mary in Šaštín",
                         19.67354,
                         49.038682
                   ]
+            },
+            {
+                  "name": "Liptovsky Hradok",
+                  "text": "Ein historischer Komplex aus Burg und Herrenhaus in Liptovský Hrádok, der heute als Hotel genutzt wird.",
+                  "category": "historical",
+                  "coords": [
+                        19.732943,
+                        49.04588
+                  ]
             }
       ],
       "hu": [
@@ -30499,6 +33298,15 @@ imageHint: "Basilica of the Seven Sorrows of Mary in Šaštín",
                   "coords": [
                         19.67354,
                         49.038682
+                  ]
+            },
+            {
+                  "name": "Liptovsky Hradok",
+                  "text": "Történelmi vár- és kastélykomplexum Liptóújváron, amely ma szállodaként működik.",
+                  "category": "historical",
+                  "coords": [
+                        19.732943,
+                        49.04588
                   ]
             }
       ],
@@ -30637,6 +33445,15 @@ imageHint: "Basilica of the Seven Sorrows of Mary in Šaštín",
                         19.67354,
                         49.038682
                   ]
+            },
+            {
+                  "name": "Liptovsky Hradok",
+                  "text": "Un complex istoric format dintr-un castel și un conac în Liptovský Hrádok, folosit astăzi ca hotel.",
+                  "category": "historical",
+                  "coords": [
+                        19.732943,
+                        49.04588
+                  ]
             }
       ],
       "en": [
@@ -30773,6 +33590,15 @@ imageHint: "Basilica of the Seven Sorrows of Mary in Šaštín",
                   "coords": [
                         19.67354,
                         49.038682
+                  ]
+            },
+            {
+                  "name": "Liptovsky Hradok",
+                  "text": "A historic castle and manor house complex in Liptovský Hrádok, now used as a hotel.",
+                  "category": "historical",
+                  "coords": [
+                        19.732943,
+                        49.04588
                   ]
             }
       ]
@@ -31986,6 +34812,33 @@ imageHint: "Modra main square with the church and historic houses",
                         18.660303,
                         48.085208
                   ]
+            },
+            {
+                  "name": "Mestské múzeum a pamätná izba Franza Schuberta",
+                  "text": "Ein Stadtmuseum in Želiezovce, das an den Aufenthalt des Komponisten Franz Schubert in der Stadt erinnert.",
+                  "category": "museum",
+                  "coords": [
+                        18.658925,
+                        48.046174
+                  ]
+            },
+            {
+                  "name": "Kaštieľ Želiezovce",
+                  "text": "Ein klassizistisches Herrenhaus der Familie Esterházy in Želiezovce, umgeben von einem englischen Park.",
+                  "category": "historical",
+                  "coords": [
+                        18.657285,
+                        48.046446
+                  ]
+            },
+            {
+                  "name": "Kostol sv. Jakuba apoštola",
+                  "text": "Eine katholische Kirche in Želiezovce, die ursprünglich im gotischen Stil erbaut wurde.",
+                  "category": "religious",
+                  "coords": [
+                        18.660041,
+                        48.050598
+                  ]
             }
       ],
       "hu": [
@@ -31996,6 +34849,33 @@ imageHint: "Modra main square with the church and historic houses",
                   "coords": [
                         18.660303,
                         48.085208
+                  ]
+            },
+            {
+                  "name": "Mestské múzeum a pamätná izba Franza Schuberta",
+                  "text": "Városi múzeum Zselízen, amely Franz Schubert zeneszerző városban töltött idejének állít emléket.",
+                  "category": "museum",
+                  "coords": [
+                        18.658925,
+                        48.046174
+                  ]
+            },
+            {
+                  "name": "Kaštieľ Želiezovce",
+                  "text": "Az Esterházy család klasszicista kastélya Zselízen, amelyet egy angolpark vesz körül.",
+                  "category": "historical",
+                  "coords": [
+                        18.657285,
+                        48.046446
+                  ]
+            },
+            {
+                  "name": "Idősebb Jakab apostol templom",
+                  "text": "Katolikus templom Zselízen, amely eredetileg gótikus stílusban épült.",
+                  "category": "religious",
+                  "coords": [
+                        18.660041,
+                        48.050598
                   ]
             }
       ],
@@ -32008,6 +34888,33 @@ imageHint: "Modra main square with the church and historic houses",
                         18.660303,
                         48.085208
                   ]
+            },
+            {
+                  "name": "Mestské múzeum a pamätná izba Franza Schuberta",
+                  "text": "Un muzeu orășenesc în Želiezovce, care comemorează șederea compozitorului Franz Schubert în oraș.",
+                  "category": "museum",
+                  "coords": [
+                        18.658925,
+                        48.046174
+                  ]
+            },
+            {
+                  "name": "Kaštieľ Želiezovce",
+                  "text": "Un conac neoclasic al familiei Esterházy în Želiezovce, înconjurat de un parc englezesc.",
+                  "category": "historical",
+                  "coords": [
+                        18.657285,
+                        48.046446
+                  ]
+            },
+            {
+                  "name": "Kostol sv. Jakuba apoštola",
+                  "text": "O biserică catolică în Želiezovce, construită inițial în stil gotic.",
+                  "category": "religious",
+                  "coords": [
+                        18.660041,
+                        48.050598
+                  ]
             }
       ],
       "en": [
@@ -32018,6 +34925,33 @@ imageHint: "Modra main square with the church and historic houses",
                   "coords": [
                         18.660303,
                         48.085208
+                  ]
+            },
+            {
+                  "name": "Mestské múzeum a pamätná izba Franza Schuberta",
+                  "text": "A town museum in Želiezovce commemorating the stay of composer Franz Schubert in the town.",
+                  "category": "museum",
+                  "coords": [
+                        18.658925,
+                        48.046174
+                  ]
+            },
+            {
+                  "name": "Kaštieľ Želiezovce",
+                  "text": "A neoclassical manor house of the Esterházy family in Želiezovce, surrounded by an English park.",
+                  "category": "historical",
+                  "coords": [
+                        18.657285,
+                        48.046446
+                  ]
+            },
+            {
+                  "name": "Kostol sv. Jakuba apoštola",
+                  "text": "A Catholic church in Želiezovce, originally built in the Gothic style.",
+                  "category": "religious",
+                  "coords": [
+                        18.660041,
+                        48.050598
                   ]
             }
       ]
@@ -32871,6 +35805,15 @@ imageHint: "Renaissance Strážky Manor near Spišská Belá",
                         20.969822,
                         49.197034
                   ]
+            },
+            {
+                  "name": "Kastiel Dubovica",
+                  "text": "Ein historisches Herrenhaus in der Gemeinde Dubovica bei Lipany.",
+                  "category": "historical",
+                  "coords": [
+                        20.954011,
+                        49.138371
+                  ]
             }
       ],
       "hu": [
@@ -32953,6 +35896,15 @@ imageHint: "Renaissance Strážky Manor near Spišská Belá",
                   "coords": [
                         20.969822,
                         49.197034
+                  ]
+            },
+            {
+                  "name": "Kastiel Dubovica",
+                  "text": "Történelmi kastély Héthárs közelében, Dubovica községben.",
+                  "category": "historical",
+                  "coords": [
+                        20.954011,
+                        49.138371
                   ]
             }
       ],
@@ -33037,6 +35989,15 @@ imageHint: "Renaissance Strážky Manor near Spišská Belá",
                         20.969822,
                         49.197034
                   ]
+            },
+            {
+                  "name": "Kastiel Dubovica",
+                  "text": "Un conac istoric în comuna Dubovica, lângă Lipany.",
+                  "category": "historical",
+                  "coords": [
+                        20.954011,
+                        49.138371
+                  ]
             }
       ],
       "en": [
@@ -33119,6 +36080,15 @@ imageHint: "Renaissance Strážky Manor near Spišská Belá",
                   "coords": [
                         20.969822,
                         49.197034
+                  ]
+            },
+            {
+                  "name": "Kastiel Dubovica",
+                  "text": "A historic manor house in the village of Dubovica near Lipany.",
+                  "category": "historical",
+                  "coords": [
+                        20.954011,
+                        49.138371
                   ]
             }
       ]
@@ -37792,7 +40762,304 @@ imageHint: "Podolínec historic square with the belfry and monastery",
     },
     image: "/poi-images/slovakia-podolinec-cities-v2.webp",
 },  {
-    id: "slovakia-spisska-kapitula-cities-v2",
+    id: "slovakia-spisska-kapitula-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Zipser Burg",
+                  "text": "Eine der größten Burganlagen Mitteleuropas und UNESCO-Welterbe.",
+                  "category": "castle",
+                  "coords": [
+                        20.767518,
+                        48.999376
+                  ]
+            },
+            {
+                  "name": "Archeologické nálezisko na Pažici",
+                  "text": "Eine archäologische Fundstelle in der Nähe von Spišská Kapitula.",
+                  "category": "historical",
+                  "coords": [
+                        20.738884,
+                        49.001463
+                  ]
+            },
+            {
+                  "name": "Dreveník",
+                  "text": "Ein markantes Travertin-Hochplateau und Naturschutzgebiet bei Spišská Kapitula.",
+                  "category": "landmark",
+                  "coords": [
+                        20.772479,
+                        48.984282
+                  ]
+            },
+            {
+                  "name": "Spišský hradný vrch",
+                  "text": "Der Burgberg von Spiš, auf dem sich die berühmte Zipser Burg befindet.",
+                  "category": "landmark",
+                  "coords": [
+                        20.768466,
+                        49.000474
+                  ]
+            },
+            {
+                  "name": "Kaštieľsky park",
+                  "text": "Eine Parkanlage in Spišská Kapitula, die zum Entspannen einlädt.",
+                  "category": "park",
+                  "coords": [
+                        20.781605,
+                        48.98898
+                  ]
+            },
+            {
+                  "name": "Kamenný raj",
+                  "text": "Eine beeindruckende Felsformation im Naturschutzgebiet Dreveník.",
+                  "category": "landmark",
+                  "coords": [
+                        20.775422,
+                        48.987291
+                  ]
+            },
+            {
+                  "name": "Peklo",
+                  "text": "Eine markante Schlucht und Felsformation im Gebiet Dreveník.",
+                  "category": "landmark",
+                  "coords": [
+                        20.771028,
+                        48.983825
+                  ]
+            },
+            {
+                  "name": "Kaplnka svätého Františka Xaverského",
+                  "text": "Eine religiöse Stätte in Spišská Kapitula, die dem heiligen Franz Xaver gewidmet ist.",
+                  "category": "religious",
+                  "coords": [
+                        20.729326,
+                        49.006393
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Szepesi vár",
+                  "text": "Közép-Európa egyik legnagyobb várkomplexuma és UNESCO világörökségi helyszín.",
+                  "category": "castle",
+                  "coords": [
+                        20.767518,
+                        48.999376
+                  ]
+            },
+            {
+                  "name": "Archeologické nálezisko na Pažici",
+                  "text": "Régészeti lelőhely Szepeshely közelében.",
+                  "category": "historical",
+                  "coords": [
+                        20.738884,
+                        49.001463
+                  ]
+            },
+            {
+                  "name": "Dreveník",
+                  "text": "Jellegzetes mésztufa-fennsík és természetvédelmi terület Szepeshely közelében.",
+                  "category": "landmark",
+                  "coords": [
+                        20.772479,
+                        48.984282
+                  ]
+            },
+            {
+                  "name": "Spišský hradný vrch",
+                  "text": "A szepesi várhegy, amelyen a nevezetes szepesi vár áll.",
+                  "category": "landmark",
+                  "coords": [
+                        20.768466,
+                        49.000474
+                  ]
+            },
+            {
+                  "name": "Kaštieľsky park",
+                  "text": "Kikapcsolódást nyújtó park Szepeshelyen.",
+                  "category": "park",
+                  "coords": [
+                        20.781605,
+                        48.98898
+                  ]
+            },
+            {
+                  "name": "Kamenný raj",
+                  "text": "Látványos sziklaalakzat a Dreveník természetvédelmi területen.",
+                  "category": "landmark",
+                  "coords": [
+                        20.775422,
+                        48.987291
+                  ]
+            },
+            {
+                  "name": "Peklo",
+                  "text": "Jellegzetes szurdok és sziklaalakzat a Dreveník területén.",
+                  "category": "landmark",
+                  "coords": [
+                        20.771028,
+                        48.983825
+                  ]
+            },
+            {
+                  "name": "Kaplnka svätého Františka Xaverského",
+                  "text": "Xavéri Szent Ferencnek szentelt vallási helyszín Szepeshelyen.",
+                  "category": "religious",
+                  "coords": [
+                        20.729326,
+                        49.006393
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Spišský hrad",
+                  "text": "Unul dintre cele mai mari complexe cetățești din Europa Centrală, sit UNESCO.",
+                  "category": "castle",
+                  "coords": [
+                        20.767518,
+                        48.999376
+                  ]
+            },
+            {
+                  "name": "Archeologické nálezisko na Pažici",
+                  "text": "Un sit arheologic situat în apropiere de Spišská Kapitula.",
+                  "category": "historical",
+                  "coords": [
+                        20.738884,
+                        49.001463
+                  ]
+            },
+            {
+                  "name": "Dreveník",
+                  "text": "Un platou de travertin distinctiv și o rezervație naturală lângă Spišská Kapitula.",
+                  "category": "landmark",
+                  "coords": [
+                        20.772479,
+                        48.984282
+                  ]
+            },
+            {
+                  "name": "Spišský hradný vrch",
+                  "text": "Dealul cetății Spiš, pe care se află faimosul castel Spiš.",
+                  "category": "landmark",
+                  "coords": [
+                        20.768466,
+                        49.000474
+                  ]
+            },
+            {
+                  "name": "Kaštieľsky park",
+                  "text": "O zonă de parc în Spišská Kapitula, ideală pentru relaxare.",
+                  "category": "park",
+                  "coords": [
+                        20.781605,
+                        48.98898
+                  ]
+            },
+            {
+                  "name": "Kamenný raj",
+                  "text": "O formațiune stâncoasă impresionantă în rezervația naturală Dreveník.",
+                  "category": "landmark",
+                  "coords": [
+                        20.775422,
+                        48.987291
+                  ]
+            },
+            {
+                  "name": "Peklo",
+                  "text": "Un defileu și o formațiune stâncoasă distinctivă în zona Dreveník.",
+                  "category": "landmark",
+                  "coords": [
+                        20.771028,
+                        48.983825
+                  ]
+            },
+            {
+                  "name": "Kaplnka svätého Františka Xaverského",
+                  "text": "Un lăcaș de cult în Spišská Kapitula, dedicat Sfântului Francisc Xaveriu.",
+                  "category": "religious",
+                  "coords": [
+                        20.729326,
+                        49.006393
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Spiš Castle",
+                  "text": "One of the largest castle complexes in Central Europe and a UNESCO World Heritage site.",
+                  "category": "castle",
+                  "coords": [
+                        20.767518,
+                        48.999376
+                  ]
+            },
+            {
+                  "name": "Archeologické nálezisko na Pažici",
+                  "text": "An archaeological site located near Spišská Kapitula.",
+                  "category": "historical",
+                  "coords": [
+                        20.738884,
+                        49.001463
+                  ]
+            },
+            {
+                  "name": "Dreveník",
+                  "text": "A distinctive travertine plateau and nature reserve near Spišská Kapitula.",
+                  "category": "landmark",
+                  "coords": [
+                        20.772479,
+                        48.984282
+                  ]
+            },
+            {
+                  "name": "Spišský hradný vrch",
+                  "text": "The Spiš castle hill, home to the famous Spiš Castle.",
+                  "category": "landmark",
+                  "coords": [
+                        20.768466,
+                        49.000474
+                  ]
+            },
+            {
+                  "name": "Kaštieľsky park",
+                  "text": "A park area in Spišská Kapitula, ideal for relaxation.",
+                  "category": "park",
+                  "coords": [
+                        20.781605,
+                        48.98898
+                  ]
+            },
+            {
+                  "name": "Kamenný raj",
+                  "text": "An impressive rock formation within the Dreveník nature reserve.",
+                  "category": "landmark",
+                  "coords": [
+                        20.775422,
+                        48.987291
+                  ]
+            },
+            {
+                  "name": "Peklo",
+                  "text": "A distinctive gorge and rock formation in the Dreveník area.",
+                  "category": "landmark",
+                  "coords": [
+                        20.771028,
+                        48.983825
+                  ]
+            },
+            {
+                  "name": "Kaplnka svätého Františka Xaverského",
+                  "text": "A religious site in Spišská Kapitula dedicated to Saint Francis Xavier.",
+                  "category": "religious",
+                  "coords": [
+                        20.729326,
+                        49.006393
+                  ]
+            }
+      ]
+},
     parent: "SK",
     type: "landmark",
     name: { de: "Spišská Kapitula", hu: "Szepeshely", ro: "Spišská Kapitula", en: "Spišská Kapitula"},
@@ -38082,6 +41349,51 @@ imageHint: "St. Martin's Cathedral in Spišská Kapitula",
                         20.247832,
                         49.122982
                   ]
+            },
+            {
+                  "name": "Muzeum tatranskej kinematografie a fotografie",
+                  "text": "Ein Museum in Vysoké Tatry, das sich auf die Geschichte der Kinematografie und Fotografie in der Tatra konzentriert.",
+                  "category": "museum",
+                  "coords": [
+                        20.222731,
+                        49.140359
+                  ]
+            },
+            {
+                  "name": "Vila Flora",
+                  "text": "Eine Galerie in einer eleganten Villa in Vysoké Tatry, die verschiedene Kunstausstellungen beherbergt.",
+                  "category": "museum",
+                  "coords": [
+                        20.223836,
+                        49.141222
+                  ]
+            },
+            {
+                  "name": "Kostol Najsvatejsieho Spasitela",
+                  "text": "Ein Kirchengebäude im Gebirgskurort Vysoké Tatry.",
+                  "category": "religious",
+                  "coords": [
+                        20.239734,
+                        49.132445
+                  ]
+            },
+            {
+                  "name": "Evanjelicky a. v. kostol",
+                  "text": "Eine evangelische Kirche A.B. in Vysoké Tatry.",
+                  "category": "religious",
+                  "coords": [
+                        20.2188,
+                        49.137253
+                  ]
+            },
+            {
+                  "name": "Kostol Neposkvrneneho pocatia Panny Marie",
+                  "text": "Eine der Unbefleckten Empfängnis gewidmete Kirche in Vysoké Tatry.",
+                  "category": "religious",
+                  "coords": [
+                        20.220908,
+                        49.141237
+                  ]
             }
       ],
       "hu": [
@@ -38326,6 +41638,51 @@ imageHint: "St. Martin's Cathedral in Spišská Kapitula",
                   "coords": [
                         20.247832,
                         49.122982
+                  ]
+            },
+            {
+                  "name": "Muzeum tatranskej kinematografie a fotografie",
+                  "text": "A Tátra filmművészetének és fotózásának történetét bemutató múzeum Magastátra városában.",
+                  "category": "museum",
+                  "coords": [
+                        20.222731,
+                        49.140359
+                  ]
+            },
+            {
+                  "name": "Vila Flora",
+                  "text": "Elegáns villában kialakított galéria Magastátra városában, amely különféle művészeti kiállításoknak ad otthont.",
+                  "category": "museum",
+                  "coords": [
+                        20.223836,
+                        49.141222
+                  ]
+            },
+            {
+                  "name": "Kostol Najsvatejsieho Spasitela",
+                  "text": "Egyházi épület Magastátra hegyi üdülőhelyén.",
+                  "category": "religious",
+                  "coords": [
+                        20.239734,
+                        49.132445
+                  ]
+            },
+            {
+                  "name": "Evanjelicky a. v. kostol",
+                  "text": "Ágostai hitvallású evangélikus templom Magastátra városában.",
+                  "category": "religious",
+                  "coords": [
+                        20.2188,
+                        49.137253
+                  ]
+            },
+            {
+                  "name": "Kostol Neposkvrneneho pocatia Panny Marie",
+                  "text": "A Szeplőtelen Fogantatásnak szentelt templom Magastátra városában.",
+                  "category": "religious",
+                  "coords": [
+                        20.220908,
+                        49.141237
                   ]
             }
       ],
@@ -38572,6 +41929,51 @@ imageHint: "St. Martin's Cathedral in Spišská Kapitula",
                         20.247832,
                         49.122982
                   ]
+            },
+            {
+                  "name": "Muzeum tatranskej kinematografie a fotografie",
+                  "text": "Un muzeu din Vysoké Tatry axat pe istoria cinematografiei și fotografiei din Munții Tatra.",
+                  "category": "museum",
+                  "coords": [
+                        20.222731,
+                        49.140359
+                  ]
+            },
+            {
+                  "name": "Vila Flora",
+                  "text": "O galerie situată într-o vilă elegantă din Vysoké Tatry, care găzduiește diverse expoziții de artă.",
+                  "category": "museum",
+                  "coords": [
+                        20.223836,
+                        49.141222
+                  ]
+            },
+            {
+                  "name": "Kostol Najsvatejsieho Spasitela",
+                  "text": "Un lăcaș de cult din stațiunea montană Vysoké Tatry.",
+                  "category": "religious",
+                  "coords": [
+                        20.239734,
+                        49.132445
+                  ]
+            },
+            {
+                  "name": "Evanjelicky a. v. kostol",
+                  "text": "O biserică evanghelică de confesiune augustană situată în Vysoké Tatry.",
+                  "category": "religious",
+                  "coords": [
+                        20.2188,
+                        49.137253
+                  ]
+            },
+            {
+                  "name": "Kostol Neposkvrneneho pocatia Panny Marie",
+                  "text": "O biserică dedicată Imaculatei Concepții din Vysoké Tatry.",
+                  "category": "religious",
+                  "coords": [
+                        20.220908,
+                        49.141237
+                  ]
             }
       ],
       "en": [
@@ -38816,6 +42218,51 @@ imageHint: "St. Martin's Cathedral in Spišská Kapitula",
                   "coords": [
                         20.247832,
                         49.122982
+                  ]
+            },
+            {
+                  "name": "Muzeum tatranskej kinematografie a fotografie",
+                  "text": "A museum in Vysoké Tatry focusing on the history of cinematography and photography in the Tatras.",
+                  "category": "museum",
+                  "coords": [
+                        20.222731,
+                        49.140359
+                  ]
+            },
+            {
+                  "name": "Vila Flora",
+                  "text": "A gallery located in an elegant villa in Vysoké Tatry, hosting various art exhibitions.",
+                  "category": "museum",
+                  "coords": [
+                        20.223836,
+                        49.141222
+                  ]
+            },
+            {
+                  "name": "Kostol Najsvatejsieho Spasitela",
+                  "text": "A place of worship in the mountain resort of Vysoké Tatry.",
+                  "category": "religious",
+                  "coords": [
+                        20.239734,
+                        49.132445
+                  ]
+            },
+            {
+                  "name": "Evanjelicky a. v. kostol",
+                  "text": "An Evangelical church of the Augsburg Confession located in Vysoké Tatry.",
+                  "category": "religious",
+                  "coords": [
+                        20.2188,
+                        49.137253
+                  ]
+            },
+            {
+                  "name": "Kostol Neposkvrneneho pocatia Panny Marie",
+                  "text": "A church dedicated to the Immaculate Conception in Vysoké Tatry.",
+                  "category": "religious",
+                  "coords": [
+                        20.220908,
+                        49.141237
                   ]
             }
       ]
@@ -40194,6 +43641,42 @@ imageHint: "Neo-Gothic church in Vráble town center",
                         21.651515,
                         49.204677
                   ]
+            },
+            {
+                  "name": "Kozinec",
+                  "text": "Ein Gipfel in der Nähe von Stropkov, der als Ziel für Wanderungen in der Region dient.",
+                  "category": "landmark",
+                  "coords": [
+                        21.674001,
+                        49.208583
+                  ]
+            },
+            {
+                  "name": "Stropkovský hrad",
+                  "text": "Ein historisches Herrenhaus in Stropkov, das an der Stelle einer ehemaligen Burg errichtet wurde.",
+                  "category": "historical",
+                  "coords": [
+                        21.653715,
+                        49.201698
+                  ]
+            },
+            {
+                  "name": "Rozhľadňa Ščerbovka",
+                  "text": "Ein hölzerner Aussichtsturm bei Stropkov, der einen Blick auf die Stadt und das Umland bietet.",
+                  "category": "natural",
+                  "coords": [
+                        21.671007,
+                        49.191655
+                  ]
+            },
+            {
+                  "name": "Kostol Obetovania Panny Márie",
+                  "text": "Ein religiöses Bauwerk in Stropkov, das der Opferung Mariens gewidmet ist.",
+                  "category": "religious",
+                  "coords": [
+                        21.638645,
+                        49.222495
+                  ]
             }
       ],
       "hu": [
@@ -40213,6 +43696,42 @@ imageHint: "Neo-Gothic church in Vráble town center",
                   "coords": [
                         21.651515,
                         49.204677
+                  ]
+            },
+            {
+                  "name": "Kozinec",
+                  "text": "Sztropkó közeli hegycsúcs, amely népszerű túracélpont a régióban.",
+                  "category": "landmark",
+                  "coords": [
+                        21.674001,
+                        49.208583
+                  ]
+            },
+            {
+                  "name": "Stropkovský hrad",
+                  "text": "Történelmi kúria Sztropkón, amely egy egykori vár helyén épült.",
+                  "category": "historical",
+                  "coords": [
+                        21.653715,
+                        49.201698
+                  ]
+            },
+            {
+                  "name": "Rozhľadňa Ščerbovka",
+                  "text": "Sztropkó melletti fából készült kilátótorony, ahonnan rálátni a városra és a környékre.",
+                  "category": "natural",
+                  "coords": [
+                        21.671007,
+                        49.191655
+                  ]
+            },
+            {
+                  "name": "Kostol Obetovania Panny Márie",
+                  "text": "Sztropkói vallási épület, amelyet Szűz Mária bemutatásának tiszteletére szenteltek.",
+                  "category": "religious",
+                  "coords": [
+                        21.638645,
+                        49.222495
                   ]
             }
       ],
@@ -40234,6 +43753,42 @@ imageHint: "Neo-Gothic church in Vráble town center",
                         21.651515,
                         49.204677
                   ]
+            },
+            {
+                  "name": "Kozinec",
+                  "text": "Un vârf de lângă Stropkov, care servește ca destinație pentru drumeții în regiune.",
+                  "category": "landmark",
+                  "coords": [
+                        21.674001,
+                        49.208583
+                  ]
+            },
+            {
+                  "name": "Stropkovský hrad",
+                  "text": "Un conac istoric din Stropkov, construit pe locul unui fost castel.",
+                  "category": "historical",
+                  "coords": [
+                        21.653715,
+                        49.201698
+                  ]
+            },
+            {
+                  "name": "Rozhľadňa Ščerbovka",
+                  "text": "Un turn de belvedere din lemn lângă Stropkov, oferind o vedere asupra orașului și a împrejurimilor.",
+                  "category": "natural",
+                  "coords": [
+                        21.671007,
+                        49.191655
+                  ]
+            },
+            {
+                  "name": "Kostol Obetovania Panny Márie",
+                  "text": "Un edificiu religios din Stropkov dedicat Prezentării Fecioarei Maria.",
+                  "category": "religious",
+                  "coords": [
+                        21.638645,
+                        49.222495
+                  ]
             }
       ],
       "en": [
@@ -40253,6 +43808,42 @@ imageHint: "Neo-Gothic church in Vráble town center",
                   "coords": [
                         21.651515,
                         49.204677
+                  ]
+            },
+            {
+                  "name": "Kozinec",
+                  "text": "A peak near Stropkov that serves as a destination for hikes in the region.",
+                  "category": "landmark",
+                  "coords": [
+                        21.674001,
+                        49.208583
+                  ]
+            },
+            {
+                  "name": "Stropkovský hrad",
+                  "text": "A historical manor house in Stropkov, built on the site of a former castle.",
+                  "category": "historical",
+                  "coords": [
+                        21.653715,
+                        49.201698
+                  ]
+            },
+            {
+                  "name": "Rozhľadňa Ščerbovka",
+                  "text": "A wooden lookout tower near Stropkov, offering a view of the town and its surroundings.",
+                  "category": "natural",
+                  "coords": [
+                        21.671007,
+                        49.191655
+                  ]
+            },
+            {
+                  "name": "Kostol Obetovania Panny Márie",
+                  "text": "A religious building in Stropkov dedicated to the Presentation of Mary.",
+                  "category": "religious",
+                  "coords": [
+                        21.638645,
+                        49.222495
                   ]
             }
       ]
@@ -40311,6 +43902,69 @@ imageHint: "Neo-Gothic church in Vráble town center",
                         19.199323,
                         49.339064
                   ]
+            },
+            {
+                  "name": "Štíbeľ",
+                  "text": "Ein Berggipfel in der Nähe der Gemeinde Hruštín in der Slowakei.",
+                  "category": "landmark",
+                  "coords": [
+                        19.25224,
+                        49.346973
+                  ]
+            },
+            {
+                  "name": "Feračová",
+                  "text": "Ein Gipfel im Gebirge Oravská Magura bei Hruštín.",
+                  "category": "landmark",
+                  "coords": [
+                        19.272576,
+                        49.311067
+                  ]
+            },
+            {
+                  "name": "Magurka",
+                  "text": "Ein 1128 Meter hoher Gipfel im Gebirge Oravská Magura bei Hruštín.",
+                  "category": "landmark",
+                  "coords": [
+                        19.267741,
+                        49.318951
+                  ]
+            },
+            {
+                  "name": "Príslopec",
+                  "text": "Ein Gipfel in der Region Orava bei Hruštín.",
+                  "category": "landmark",
+                  "coords": [
+                        19.241386,
+                        49.316847
+                  ]
+            },
+            {
+                  "name": "Magura",
+                  "text": "Ein prominenter Berggipfel im Gebirge Oravská Magura.",
+                  "category": "landmark",
+                  "coords": [
+                        19.270111,
+                        49.348203
+                  ]
+            },
+            {
+                  "name": "Prípor",
+                  "text": "Ein Gipfel in der nordslowakischen Gemeinde Hruštín.",
+                  "category": "landmark",
+                  "coords": [
+                        19.275528,
+                        49.36128
+                  ]
+            },
+            {
+                  "name": "Výhliadka Podurviská",
+                  "text": "Ein Aussichtspunkt mit Panoramablick in der Nähe von Hruštín.",
+                  "category": "natural",
+                  "coords": [
+                        19.245338,
+                        49.329642
+                  ]
             }
       ],
       "hu": [
@@ -40321,6 +43975,69 @@ imageHint: "Neo-Gothic church in Vráble town center",
                   "coords": [
                         19.199323,
                         49.339064
+                  ]
+            },
+            {
+                  "name": "Štíbeľ",
+                  "text": "Hegycsúcs a szlovákiai Hrustin község közelében.",
+                  "category": "landmark",
+                  "coords": [
+                        19.25224,
+                        49.346973
+                  ]
+            },
+            {
+                  "name": "Feračová",
+                  "text": "Hegycsúcs az Árvai-Magura hegységben, Hrustin közelében.",
+                  "category": "landmark",
+                  "coords": [
+                        19.272576,
+                        49.311067
+                  ]
+            },
+            {
+                  "name": "Magurka",
+                  "text": "Az Árvai-Magura hegység 1128 méter magas csúcsa Hrustin közelében.",
+                  "category": "landmark",
+                  "coords": [
+                        19.267741,
+                        49.318951
+                  ]
+            },
+            {
+                  "name": "Príslopec",
+                  "text": "Hegycsúcs az árvai régióban, Hrustin közelében.",
+                  "category": "landmark",
+                  "coords": [
+                        19.241386,
+                        49.316847
+                  ]
+            },
+            {
+                  "name": "Magura",
+                  "text": "Jelentős hegycsúcs az Árvai-Magura hegységben.",
+                  "category": "landmark",
+                  "coords": [
+                        19.270111,
+                        49.348203
+                  ]
+            },
+            {
+                  "name": "Prípor",
+                  "text": "Hegycsúcs az észak-szlovákiai Hrustin község területén.",
+                  "category": "landmark",
+                  "coords": [
+                        19.275528,
+                        49.36128
+                  ]
+            },
+            {
+                  "name": "Výhliadka Podurviská",
+                  "text": "Panorámás kilátópont Hrustin közelében.",
+                  "category": "natural",
+                  "coords": [
+                        19.245338,
+                        49.329642
                   ]
             }
       ],
@@ -40333,6 +44050,69 @@ imageHint: "Neo-Gothic church in Vráble town center",
                         19.199323,
                         49.339064
                   ]
+            },
+            {
+                  "name": "Štíbeľ",
+                  "text": "Un vârf muntos situat lângă localitatea Hruštín din Slovacia.",
+                  "category": "landmark",
+                  "coords": [
+                        19.25224,
+                        49.346973
+                  ]
+            },
+            {
+                  "name": "Feračová",
+                  "text": "Un vârf în munții Magura Oravei, lângă Hruštín.",
+                  "category": "landmark",
+                  "coords": [
+                        19.272576,
+                        49.311067
+                  ]
+            },
+            {
+                  "name": "Magurka",
+                  "text": "Un vârf cu înălțimea de 1128 metri din munții Magura Oravei, lângă Hruštín.",
+                  "category": "landmark",
+                  "coords": [
+                        19.267741,
+                        49.318951
+                  ]
+            },
+            {
+                  "name": "Príslopec",
+                  "text": "Un vârf muntos din regiunea Orava, situat lângă Hruštín.",
+                  "category": "landmark",
+                  "coords": [
+                        19.241386,
+                        49.316847
+                  ]
+            },
+            {
+                  "name": "Magura",
+                  "text": "Un vârf muntos proeminent din munții Magura Oravei.",
+                  "category": "landmark",
+                  "coords": [
+                        19.270111,
+                        49.348203
+                  ]
+            },
+            {
+                  "name": "Prípor",
+                  "text": "Un vârf situat în localitatea Hruštín din nordul Slovaciei.",
+                  "category": "landmark",
+                  "coords": [
+                        19.275528,
+                        49.36128
+                  ]
+            },
+            {
+                  "name": "Výhliadka Podurviská",
+                  "text": "Un punct de observație cu vedere panoramică situat lângă Hruštín.",
+                  "category": "natural",
+                  "coords": [
+                        19.245338,
+                        49.329642
+                  ]
             }
       ],
       "en": [
@@ -40343,6 +44123,69 @@ imageHint: "Neo-Gothic church in Vráble town center",
                   "coords": [
                         19.199323,
                         49.339064
+                  ]
+            },
+            {
+                  "name": "Štíbeľ",
+                  "text": "A mountain peak located near the village of Hruštín in Slovakia.",
+                  "category": "landmark",
+                  "coords": [
+                        19.25224,
+                        49.346973
+                  ]
+            },
+            {
+                  "name": "Feračová",
+                  "text": "A peak in the Oravská Magura mountains near Hruštín.",
+                  "category": "landmark",
+                  "coords": [
+                        19.272576,
+                        49.311067
+                  ]
+            },
+            {
+                  "name": "Magurka",
+                  "text": "An 1128-meter peak in the Oravská Magura mountains near Hruštín.",
+                  "category": "landmark",
+                  "coords": [
+                        19.267741,
+                        49.318951
+                  ]
+            },
+            {
+                  "name": "Príslopec",
+                  "text": "A mountain peak in the Orava region near Hruštín.",
+                  "category": "landmark",
+                  "coords": [
+                        19.241386,
+                        49.316847
+                  ]
+            },
+            {
+                  "name": "Magura",
+                  "text": "A prominent mountain peak in the Oravská Magura mountains.",
+                  "category": "landmark",
+                  "coords": [
+                        19.270111,
+                        49.348203
+                  ]
+            },
+            {
+                  "name": "Prípor",
+                  "text": "A peak located in the village of Hruštín in northern Slovakia.",
+                  "category": "landmark",
+                  "coords": [
+                        19.275528,
+                        49.36128
+                  ]
+            },
+            {
+                  "name": "Výhliadka Podurviská",
+                  "text": "A viewpoint offering panoramic vistas near Hruštín.",
+                  "category": "natural",
+                  "coords": [
+                        19.245338,
+                        49.329642
                   ]
             }
       ]
@@ -40446,6 +44289,69 @@ imageHint: "Neo-Gothic church in Vráble town center",
                         19.164026,
                         48.611148
                   ]
+            },
+            {
+                  "name": "Divadlo J.G. Tajovskeho",
+                  "text": "Ein professionelles Theaterensemble, benannt nach dem Schriftsteller Jozef Gregor Tajovský.",
+                  "category": "cultural",
+                  "coords": [
+                        19.127032,
+                        48.578661
+                  ]
+            },
+            {
+                  "name": "Lesnicke a drevarske muzeum",
+                  "text": "Ein Museum in Kováčová, das sich auf die Geschichte der Forst- und Holzwirtschaft konzentriert.",
+                  "category": "museum",
+                  "coords": [
+                        19.125236,
+                        48.577132
+                  ]
+            },
+            {
+                  "name": "Arboretum Borova hora",
+                  "text": "Ein botanischer Garten in Kováčová, der auf Rosen und verschiedene Baumarten spezialisiert ist.",
+                  "category": "park",
+                  "coords": [
+                        19.135186,
+                        48.59474
+                  ]
+            },
+            {
+                  "name": "Borova hora",
+                  "text": "Ein Aussichtsgipfel in der Nähe des Dorfes Kováčová.",
+                  "category": "landmark",
+                  "coords": [
+                        19.133257,
+                        48.597183
+                  ]
+            },
+            {
+                  "name": "Finkova kuria",
+                  "text": "Ein historisches Herrenhaus im Dorf Kováčová.",
+                  "category": "historical",
+                  "coords": [
+                        19.125378,
+                        48.579522
+                  ]
+            },
+            {
+                  "name": "Podpolianske osvetove stredisko",
+                  "text": "Ein regionales Kunst- und Kulturzentrum in Kováčová, das lokale Traditionen unterstützt.",
+                  "category": "cultural",
+                  "coords": [
+                        19.131501,
+                        48.577717
+                  ]
+            },
+            {
+                  "name": "Kaplnka svateho Kristofa",
+                  "text": "Eine kleine Wegkapelle in Kováčová, die dem heiligen Christophorus gewidmet ist.",
+                  "category": "landmark",
+                  "coords": [
+                        19.091396,
+                        48.58476
+                  ]
             }
       ],
       "hu": [
@@ -40501,6 +44407,69 @@ imageHint: "Neo-Gothic church in Vráble town center",
                   "coords": [
                         19.164026,
                         48.611148
+                  ]
+            },
+            {
+                  "name": "Divadlo J.G. Tajovskeho",
+                  "text": "A Jozef Gregor Tajovský íróról elnevezett professzionális színház.",
+                  "category": "cultural",
+                  "coords": [
+                        19.127032,
+                        48.578661
+                  ]
+            },
+            {
+                  "name": "Lesnicke a drevarske muzeum",
+                  "text": "Az erdőgazdálkodás és a fafeldolgozás történetét bemutató múzeum Kovácsfalván.",
+                  "category": "museum",
+                  "coords": [
+                        19.125236,
+                        48.577132
+                  ]
+            },
+            {
+                  "name": "Arboretum Borova hora",
+                  "text": "Kovácsfalva botanikus kertje, amely rózsákra és különféle fafajokra specializálódott.",
+                  "category": "park",
+                  "coords": [
+                        19.135186,
+                        48.59474
+                  ]
+            },
+            {
+                  "name": "Borova hora",
+                  "text": "Kilátást nyújtó hegycsúcs Kovácsfalva közelében.",
+                  "category": "landmark",
+                  "coords": [
+                        19.133257,
+                        48.597183
+                  ]
+            },
+            {
+                  "name": "Finkova kuria",
+                  "text": "Történelmi kúria Kovácsfalva községben.",
+                  "category": "historical",
+                  "coords": [
+                        19.125378,
+                        48.579522
+                  ]
+            },
+            {
+                  "name": "Podpolianske osvetove stredisko",
+                  "text": "Regionális művészeti és kulturális központ Kovácsfalván, amely a helyi hagyományokat támogatja.",
+                  "category": "cultural",
+                  "coords": [
+                        19.131501,
+                        48.577717
+                  ]
+            },
+            {
+                  "name": "Kaplnka svateho Kristofa",
+                  "text": "Szent Kristófnak szentelt kis útmenti kápolna Kovácsfalván.",
+                  "category": "landmark",
+                  "coords": [
+                        19.091396,
+                        48.58476
                   ]
             }
       ],
@@ -40558,6 +44527,69 @@ imageHint: "Neo-Gothic church in Vráble town center",
                         19.164026,
                         48.611148
                   ]
+            },
+            {
+                  "name": "Divadlo J.G. Tajovskeho",
+                  "text": "O companie de teatru profesionistă, numită după scriitorul Jozef Gregor Tajovský.",
+                  "category": "cultural",
+                  "coords": [
+                        19.127032,
+                        48.578661
+                  ]
+            },
+            {
+                  "name": "Lesnicke a drevarske muzeum",
+                  "text": "Un muzeu din Kováčová axat pe istoria silviculturii și prelucrării lemnului.",
+                  "category": "museum",
+                  "coords": [
+                        19.125236,
+                        48.577132
+                  ]
+            },
+            {
+                  "name": "Arboretum Borova hora",
+                  "text": "O grădină botanică din Kováčová, specializată în trandafiri și diverse specii de arbori.",
+                  "category": "park",
+                  "coords": [
+                        19.135186,
+                        48.59474
+                  ]
+            },
+            {
+                  "name": "Borova hora",
+                  "text": "Un vârf pitoresc situat lângă satul Kováčová.",
+                  "category": "landmark",
+                  "coords": [
+                        19.133257,
+                        48.597183
+                  ]
+            },
+            {
+                  "name": "Finkova kuria",
+                  "text": "Un conac istoric situat în satul Kováčová.",
+                  "category": "historical",
+                  "coords": [
+                        19.125378,
+                        48.579522
+                  ]
+            },
+            {
+                  "name": "Podpolianske osvetove stredisko",
+                  "text": "Un centru regional de artă și cultură din Kováčová, care sprijină tradițiile locale.",
+                  "category": "cultural",
+                  "coords": [
+                        19.131501,
+                        48.577717
+                  ]
+            },
+            {
+                  "name": "Kaplnka svateho Kristofa",
+                  "text": "O mică capelă de pe marginea drumului, dedicată Sfântului Cristofor în Kováčová.",
+                  "category": "landmark",
+                  "coords": [
+                        19.091396,
+                        48.58476
+                  ]
             }
       ],
       "en": [
@@ -40613,6 +44645,69 @@ imageHint: "Neo-Gothic church in Vráble town center",
                   "coords": [
                         19.164026,
                         48.611148
+                  ]
+            },
+            {
+                  "name": "Divadlo J.G. Tajovskeho",
+                  "text": "A professional theater company named after the writer Jozef Gregor Tajovský.",
+                  "category": "cultural",
+                  "coords": [
+                        19.127032,
+                        48.578661
+                  ]
+            },
+            {
+                  "name": "Lesnicke a drevarske muzeum",
+                  "text": "A museum in Kováčová focusing on forestry and woodworking history.",
+                  "category": "museum",
+                  "coords": [
+                        19.125236,
+                        48.577132
+                  ]
+            },
+            {
+                  "name": "Arboretum Borova hora",
+                  "text": "A botanical garden in Kováčová specializing in roses and diverse tree species.",
+                  "category": "park",
+                  "coords": [
+                        19.135186,
+                        48.59474
+                  ]
+            },
+            {
+                  "name": "Borova hora",
+                  "text": "A scenic peak located near the village of Kováčová.",
+                  "category": "landmark",
+                  "coords": [
+                        19.133257,
+                        48.597183
+                  ]
+            },
+            {
+                  "name": "Finkova kuria",
+                  "text": "A historic manor house located in the village of Kováčová.",
+                  "category": "historical",
+                  "coords": [
+                        19.125378,
+                        48.579522
+                  ]
+            },
+            {
+                  "name": "Podpolianske osvetove stredisko",
+                  "text": "A regional arts and cultural center in Kováčová supporting local traditions.",
+                  "category": "cultural",
+                  "coords": [
+                        19.131501,
+                        48.577717
+                  ]
+            },
+            {
+                  "name": "Kaplnka svateho Kristofa",
+                  "text": "A small wayside shrine dedicated to Saint Christopher in Kováčová.",
+                  "category": "landmark",
+                  "coords": [
+                        19.091396,
+                        48.58476
                   ]
             }
       ]
@@ -40680,6 +44775,60 @@ imageHint: "Neo-Gothic church in Vráble town center",
                         19.099047,
                         48.286917
                   ]
+            },
+            {
+                  "name": "Múzeum Andreja Sládkoviča",
+                  "text": "Museum über den Dichter Andrej Sládkovič in Krupina.",
+                  "category": "museum",
+                  "coords": [
+                        19.066001,
+                        48.352486
+                  ]
+            },
+            {
+                  "name": "Mestský park Krupina",
+                  "text": "Der Stadtpark von Krupina bietet Grünflächen zur Erholung.",
+                  "category": "park",
+                  "coords": [
+                        19.064838,
+                        48.352657
+                  ]
+            },
+            {
+                  "name": "Pivnice vytesané do skaly",
+                  "text": "In den Fels gehauene Keller in Krupina, die historisch genutzt wurden.",
+                  "category": "landmark",
+                  "coords": [
+                        19.085024,
+                        48.335783
+                  ]
+            },
+            {
+                  "name": "Štrampľoch - Turecké studne",
+                  "text": "Eine historische Stätte in Krupina mit in den Stein gehauenen Strukturen.",
+                  "category": "landmark",
+                  "coords": [
+                        19.073925,
+                        48.356279
+                  ]
+            },
+            {
+                  "name": "Kostol Narodenia Panny Márie",
+                  "text": "Eine katholische Kirche in Krupina, die der Geburt Mariens gewidmet ist.",
+                  "category": "religious",
+                  "coords": [
+                        19.064722,
+                        48.354129
+                  ]
+            },
+            {
+                  "name": "Strážna veža Vartovka",
+                  "text": "Ein Wachturm aus dem 16. Jahrhundert, der zum Schutz gegen Angriffe diente.",
+                  "category": "tower",
+                  "coords": [
+                        19.079146,
+                        48.349297
+                  ]
             }
       ],
       "hu": [
@@ -40699,6 +44848,60 @@ imageHint: "Neo-Gothic church in Vráble town center",
                   "coords": [
                         19.099047,
                         48.286917
+                  ]
+            },
+            {
+                  "name": "Múzeum Andreja Sládkoviča",
+                  "text": "Andrej Sládkovič költő életét bemutató múzeum Korponán.",
+                  "category": "museum",
+                  "coords": [
+                        19.066001,
+                        48.352486
+                  ]
+            },
+            {
+                  "name": "Mestský park Krupina",
+                  "text": "Korpona városi parkja kikapcsolódási lehetőséget nyújt a természetben.",
+                  "category": "park",
+                  "coords": [
+                        19.064838,
+                        48.352657
+                  ]
+            },
+            {
+                  "name": "Pivnice vytesané do skaly",
+                  "text": "Sziklába vájt történelmi pincék Korpona városában.",
+                  "category": "landmark",
+                  "coords": [
+                        19.085024,
+                        48.335783
+                  ]
+            },
+            {
+                  "name": "Štrampľoch - Turecké studne",
+                  "text": "Sziklába vájt építmények és török kori kutak Korponán.",
+                  "category": "landmark",
+                  "coords": [
+                        19.073925,
+                        48.356279
+                  ]
+            },
+            {
+                  "name": "Kostol Narodenia Panny Márie",
+                  "text": "Szűz Mária születésének szentelt katolikus templom Korponán.",
+                  "category": "religious",
+                  "coords": [
+                        19.064722,
+                        48.354129
+                  ]
+            },
+            {
+                  "name": "Strážna veža Vartovka",
+                  "text": "16. századi őrtorony, amely egykor a török elleni védelmet szolgálta.",
+                  "category": "tower",
+                  "coords": [
+                        19.079146,
+                        48.349297
                   ]
             }
       ],
@@ -40720,6 +44923,60 @@ imageHint: "Neo-Gothic church in Vráble town center",
                         19.099047,
                         48.286917
                   ]
+            },
+            {
+                  "name": "Múzeum Andreja Sládkoviča",
+                  "text": "Muzeu dedicat poetului Andrej Sládkovič în Krupina.",
+                  "category": "museum",
+                  "coords": [
+                        19.066001,
+                        48.352486
+                  ]
+            },
+            {
+                  "name": "Mestský park Krupina",
+                  "text": "Parcul municipal din Krupina oferă spații verzi pentru recreere.",
+                  "category": "park",
+                  "coords": [
+                        19.064838,
+                        48.352657
+                  ]
+            },
+            {
+                  "name": "Pivnice vytesané do skaly",
+                  "text": "Pivnițe săpate în stâncă în Krupina, utilizate istoric pentru depozitare.",
+                  "category": "landmark",
+                  "coords": [
+                        19.085024,
+                        48.335783
+                  ]
+            },
+            {
+                  "name": "Štrampľoch - Turecké studne",
+                  "text": "Un sit istoric în Krupina cu structuri săpate în piatră.",
+                  "category": "landmark",
+                  "coords": [
+                        19.073925,
+                        48.356279
+                  ]
+            },
+            {
+                  "name": "Kostol Narodenia Panny Márie",
+                  "text": "O biserică romano-catolică din Krupina dedicată Nașterii Maicii Domnului.",
+                  "category": "religious",
+                  "coords": [
+                        19.064722,
+                        48.354129
+                  ]
+            },
+            {
+                  "name": "Strážna veža Vartovka",
+                  "text": "Un turn de veghe din secolul al XVI-lea, construit pentru apărare.",
+                  "category": "tower",
+                  "coords": [
+                        19.079146,
+                        48.349297
+                  ]
             }
       ],
       "en": [
@@ -40739,6 +44996,60 @@ imageHint: "Neo-Gothic church in Vráble town center",
                   "coords": [
                         19.099047,
                         48.286917
+                  ]
+            },
+            {
+                  "name": "Múzeum Andreja Sládkoviča",
+                  "text": "Museum dedicated to the poet Andrej Sládkovič in Krupina.",
+                  "category": "museum",
+                  "coords": [
+                        19.066001,
+                        48.352486
+                  ]
+            },
+            {
+                  "name": "Mestský park Krupina",
+                  "text": "The municipal park in Krupina provides green spaces for relaxation.",
+                  "category": "park",
+                  "coords": [
+                        19.064838,
+                        48.352657
+                  ]
+            },
+            {
+                  "name": "Pivnice vytesané do skaly",
+                  "text": "Historic cellars carved into the rock in the town of Krupina.",
+                  "category": "landmark",
+                  "coords": [
+                        19.085024,
+                        48.335783
+                  ]
+            },
+            {
+                  "name": "Štrampľoch - Turecké studne",
+                  "text": "A historical site in Krupina featuring structures carved into the rock.",
+                  "category": "landmark",
+                  "coords": [
+                        19.073925,
+                        48.356279
+                  ]
+            },
+            {
+                  "name": "Kostol Narodenia Panny Márie",
+                  "text": "A Roman Catholic church in Krupina dedicated to the Nativity of Mary.",
+                  "category": "religious",
+                  "coords": [
+                        19.064722,
+                        48.354129
+                  ]
+            },
+            {
+                  "name": "Strážna veža Vartovka",
+                  "text": "A 16th-century watchtower built for defense against Ottoman raids.",
+                  "category": "tower",
+                  "coords": [
+                        19.079146,
+                        48.349297
                   ]
             }
       ]

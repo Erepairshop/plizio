@@ -58,6 +58,69 @@ export const polandReliefV2: POI[] = [
                         22.482564,
                         49.142369
                   ]
+            },
+            {
+                  "name": "Jawornik",
+                  "text": "Ein Gipfel in den Bieszczady-Bergen, der an der Grenze zwischen Polen und der Slowakei liegt.",
+                  "category": "landmark",
+                  "coords": [
+                        22.455729,
+                        49.135276
+                  ]
+            },
+            {
+                  "name": "Osadzki Wierch",
+                  "text": "Einer der höchsten Gipfel im Połonina-Wetlińska-Kamm des Bieszczady-Gebirges.",
+                  "category": "landmark",
+                  "coords": [
+                        22.525293,
+                        49.165751
+                  ]
+            },
+            {
+                  "name": "Hnatowe Berdo",
+                  "text": "Ein Berg in den polnischen Bieszczady, bekannt für seine weiten Graslandschaften auf dem Gipfel.",
+                  "category": "landmark",
+                  "coords": [
+                        22.510845,
+                        49.166811
+                  ]
+            },
+            {
+                  "name": "Hasiakowa Skała",
+                  "text": "Ein felsiger Gipfelabschnitt im Bieszczady-Gebirge, der ein beliebtes Wanderziel darstellt.",
+                  "category": "landmark",
+                  "coords": [
+                        22.551404,
+                        49.158151
+                  ]
+            },
+            {
+                  "name": "Roh",
+                  "text": "Ein Gipfel im Bieszczady-Nationalpark, der für seine unberührte Natur geschätzt wird.",
+                  "category": "landmark",
+                  "coords": [
+                        22.528065,
+                        49.167757
+                  ]
+            },
+            {
+                  "name": "Szare Berdo",
+                  "text": "Szare Berdo ist ein Berggipfel im Bieszczady-Gebirge im Südosten Polens.",
+                  "category": "landmark",
+                  "coords": [
+                        22.504646,
+                        49.178046
+                  ]
+            },
+            {
+                  "name": "Kościół pw. Miłosierdzia Bożego",
+                  "text": "Diese Holzkirche in Wetlina ist ein dem Barmherzigen Jesus geweihtes Gotteshaus im Bieszczady-Gebirge.",
+                  "category": "religious",
+                  "coords": [
+                        22.475614,
+                        49.148874
+                  ]
             }
       ],
       "hu": [
@@ -68,6 +131,69 @@ export const polandReliefV2: POI[] = [
                   "coords": [
                         22.482564,
                         49.142369
+                  ]
+            },
+            {
+                  "name": "Jawornik",
+                  "text": "Hegycsúcs a Bieszczady-hegységben, a lengyel-szlovák határ mentén.",
+                  "category": "landmark",
+                  "coords": [
+                        22.455729,
+                        49.135276
+                  ]
+            },
+            {
+                  "name": "Osadzki Wierch",
+                  "text": "A Bieszczady-hegységben található Połonina Wetlińska-gerinc egyik legmagasabb csúcsa.",
+                  "category": "landmark",
+                  "coords": [
+                        22.525293,
+                        49.165751
+                  ]
+            },
+            {
+                  "name": "Hnatowe Berdo",
+                  "text": "Hegy a lengyel Bieszczady-ban, amely a csúcsán található kiterjedt hegyi legelőkről ismert.",
+                  "category": "landmark",
+                  "coords": [
+                        22.510845,
+                        49.166811
+                  ]
+            },
+            {
+                  "name": "Hasiakowa Skała",
+                  "text": "Sziklás hegycsúcs-szakasz a Bieszczady-hegységben, amely népszerű túracélpont.",
+                  "category": "landmark",
+                  "coords": [
+                        22.551404,
+                        49.158151
+                  ]
+            },
+            {
+                  "name": "Roh",
+                  "text": "Hegycsúcs a Bieszczady Nemzeti Parkban, amelyet érintetlen természetéért kedvelnek.",
+                  "category": "landmark",
+                  "coords": [
+                        22.528065,
+                        49.167757
+                  ]
+            },
+            {
+                  "name": "Szare Berdo",
+                  "text": "A Szare Berdo egy hegycsúcs a Bieszczady-hegységben, Lengyelország délkeleti részén.",
+                  "category": "landmark",
+                  "coords": [
+                        22.504646,
+                        49.178046
+                  ]
+            },
+            {
+                  "name": "Kościół pw. Miłosierdzia Bożego",
+                  "text": "Ez a wetlinai fatemplom az Isteni Irgalmasságnak szentelt templom a Bieszczady-hegységben.",
+                  "category": "religious",
+                  "coords": [
+                        22.475614,
+                        49.148874
                   ]
             }
       ],
@@ -80,6 +206,69 @@ export const polandReliefV2: POI[] = [
                         22.482564,
                         49.142369
                   ]
+            },
+            {
+                  "name": "Jawornik",
+                  "text": "Un vârf în munții Bieszczady, situat la granița dintre Polonia și Slovacia.",
+                  "category": "landmark",
+                  "coords": [
+                        22.455729,
+                        49.135276
+                  ]
+            },
+            {
+                  "name": "Osadzki Wierch",
+                  "text": "Unul dintre cele mai înalte vârfuri din creasta Połonina Wetlińska a munților Bieszczady.",
+                  "category": "landmark",
+                  "coords": [
+                        22.525293,
+                        49.165751
+                  ]
+            },
+            {
+                  "name": "Hnatowe Berdo",
+                  "text": "Un munte din Bieszczady polonezi, cunoscut pentru pajiștile sale alpine vaste de pe vârf.",
+                  "category": "landmark",
+                  "coords": [
+                        22.510845,
+                        49.166811
+                  ]
+            },
+            {
+                  "name": "Hasiakowa Skała",
+                  "text": "O secțiune de vârf stâncoasă în munții Bieszczady, reprezentând o destinație populară de drumeție.",
+                  "category": "landmark",
+                  "coords": [
+                        22.551404,
+                        49.158151
+                  ]
+            },
+            {
+                  "name": "Roh",
+                  "text": "Un vârf în Parcul Național Bieszczady, apreciat pentru natura sa virgină.",
+                  "category": "landmark",
+                  "coords": [
+                        22.528065,
+                        49.167757
+                  ]
+            },
+            {
+                  "name": "Szare Berdo",
+                  "text": "Szare Berdo este un vârf muntos situat în Munții Bieszczady, în sud-estul Poloniei.",
+                  "category": "landmark",
+                  "coords": [
+                        22.504646,
+                        49.178046
+                  ]
+            },
+            {
+                  "name": "Kościół pw. Miłosierdzia Bożego",
+                  "text": "Această biserică de lemn din Wetlina este un lăcaș de cult dedicat Milostivirii Divine din Munții Bieszczady.",
+                  "category": "religious",
+                  "coords": [
+                        22.475614,
+                        49.148874
+                  ]
             }
       ],
       "en": [
@@ -90,6 +279,69 @@ export const polandReliefV2: POI[] = [
                   "coords": [
                         22.482564,
                         49.142369
+                  ]
+            },
+            {
+                  "name": "Jawornik",
+                  "text": "A peak in the Bieszczady Mountains located on the border between Poland and Slovakia.",
+                  "category": "landmark",
+                  "coords": [
+                        22.455729,
+                        49.135276
+                  ]
+            },
+            {
+                  "name": "Osadzki Wierch",
+                  "text": "One of the highest peaks in the Połonina Wetlińska ridge of the Bieszczady Mountains.",
+                  "category": "landmark",
+                  "coords": [
+                        22.525293,
+                        49.165751
+                  ]
+            },
+            {
+                  "name": "Hnatowe Berdo",
+                  "text": "A mountain in the Polish Bieszczady, known for its vast alpine meadows at the summit.",
+                  "category": "landmark",
+                  "coords": [
+                        22.510845,
+                        49.166811
+                  ]
+            },
+            {
+                  "name": "Hasiakowa Skała",
+                  "text": "A rocky summit section in the Bieszczady Mountains that is a popular hiking destination.",
+                  "category": "landmark",
+                  "coords": [
+                        22.551404,
+                        49.158151
+                  ]
+            },
+            {
+                  "name": "Roh",
+                  "text": "A peak in the Bieszczady National Park, valued for its pristine nature.",
+                  "category": "landmark",
+                  "coords": [
+                        22.528065,
+                        49.167757
+                  ]
+            },
+            {
+                  "name": "Szare Berdo",
+                  "text": "Szare Berdo is a mountain peak located in the Bieszczady Mountains in southeastern Poland.",
+                  "category": "landmark",
+                  "coords": [
+                        22.504646,
+                        49.178046
+                  ]
+            },
+            {
+                  "name": "Kościół pw. Miłosierdzia Bożego",
+                  "text": "This wooden church in Wetlina is a place of worship dedicated to Divine Mercy in the Bieszczady Mountains.",
+                  "category": "religious",
+                  "coords": [
+                        22.475614,
+                        49.148874
                   ]
             }
       ]
@@ -138,7 +390,304 @@ export const polandReliefV2: POI[] = [
       fr: ["Le point culminant, la Tarnica, s'élève à 1346 mètres", "Le parc national des Bieszczady a été créé en 1973 pour protéger la zone", "Plus de 500 bisons d'Europe vivent en liberté dans cette nature sauvage", "La limite des arbres se situe ici exceptionnellement bas, entre 1150 et 1200 mètres", "La zone fait partie de la réserve de biosphère transfrontalière des Carpates orientales", "Les roches flysch datent du Crétacé et du Paléogène", "Après la guerre, les populations Lemko et Boyko ont été expulsées lors de l'Opération Vistule"],
     }, image: "/poi-images/poland-bieszczady-mountains-relief-v2.webp"},
   {
-    id: "poland-tarnica-peak-relief-v2",
+    id: "poland-tarnica-peak-relief-v2", "sights": {
+      "de": [
+            {
+                  "name": "Pradawne i pierwotne lasy bukowe Karpat i innych regionów Europy - Dolina potoku Terebowiec",
+                  "text": "Ein Teil des UNESCO-Welterbes der alten Buchenwälder der Karpaten.",
+                  "category": "natural",
+                  "coords": [
+                        22.724624,
+                        49.093592
+                  ]
+            },
+            {
+                  "name": "Pradawne i pierwotne lasy bukowe Karpat i innych regionów Europy - Dolina potoku Wołosatka",
+                  "text": "Dieses Naturschutzgebiet schützt unberührte Buchenwälder im Bieszczady-Nationalpark.",
+                  "category": "natural",
+                  "coords": [
+                        22.744842,
+                        49.067068
+                  ]
+            },
+            {
+                  "name": "Halicz",
+                  "text": "Ein markanter Gipfel im Bieszczady-Gebirge mit weitem Panorama.",
+                  "category": "landmark",
+                  "coords": [
+                        22.768789,
+                        49.072082
+                  ]
+            },
+            {
+                  "name": "Rozsypaniec",
+                  "text": "Ein Berg im südöstlichen Polen, bekannt für seine Wanderwege.",
+                  "category": "landmark",
+                  "coords": [
+                        22.77042,
+                        49.061804
+                  ]
+            },
+            {
+                  "name": "Menczył",
+                  "text": "Ein Gipfel im Bieszczady-Gebiet, der Teil der malerischen Berglandschaft ist.",
+                  "category": "landmark",
+                  "coords": [
+                        22.727074,
+                        49.051386
+                  ]
+            },
+            {
+                  "name": "Kiczerka",
+                  "text": "Ein markanter Berggipfel im Bieszczady-Gebirge nahe der Tarnica.",
+                  "category": "landmark",
+                  "coords": [
+                        22.750321,
+                        49.067736
+                  ]
+            },
+            {
+                  "name": "Kopa Bukowska",
+                  "text": "Ein Gipfel im polnischen Bieszczady-Gebirge, der für seine weite Aussicht bekannt ist.",
+                  "category": "landmark",
+                  "coords": [
+                        22.75663,
+                        49.08232
+                  ]
+            },
+            {
+                  "name": "Krzemień",
+                  "text": "Der zweithöchste Berggipfel im polnischen Teil des Bieszczady-Gebirges.",
+                  "category": "landmark",
+                  "coords": [
+                        22.73852,
+                        49.0861
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Pradawne i pierwotne lasy bukowe Karpat i innych regionów Europy - Dolina potoku Terebowiec",
+                  "text": "Az UNESCO Világörökség részét képező kárpátoki ősi bükkösök egyik területe.",
+                  "category": "natural",
+                  "coords": [
+                        22.724624,
+                        49.093592
+                  ]
+            },
+            {
+                  "name": "Pradawne i pierwotne lasy bukowe Karpat i innych regionów Europy - Dolina potoku Wołosatka",
+                  "text": "Ez a természetvédelmi terület érintetlen bükkösöket véd a Bieszczady Nemzeti Parkban.",
+                  "category": "natural",
+                  "coords": [
+                        22.744842,
+                        49.067068
+                  ]
+            },
+            {
+                  "name": "Halicz",
+                  "text": "A Bieszczady-hegység egyik jellegzetes csúcsa, tágas panorámával.",
+                  "category": "landmark",
+                  "coords": [
+                        22.768789,
+                        49.072082
+                  ]
+            },
+            {
+                  "name": "Rozsypaniec",
+                  "text": "Hegycsúcs Délkelet-Lengyelországban, amely túraútvonalairól ismert.",
+                  "category": "landmark",
+                  "coords": [
+                        22.77042,
+                        49.061804
+                  ]
+            },
+            {
+                  "name": "Menczył",
+                  "text": "A bieszczady-i régió egyik hegycsúcsa, a festői hegyi táj része.",
+                  "category": "landmark",
+                  "coords": [
+                        22.727074,
+                        49.051386
+                  ]
+            },
+            {
+                  "name": "Kiczerka",
+                  "text": "Jelentős hegycsúcs a Bieszczady-hegységben, a Tarnica közelében.",
+                  "category": "landmark",
+                  "coords": [
+                        22.750321,
+                        49.067736
+                  ]
+            },
+            {
+                  "name": "Kopa Bukowska",
+                  "text": "Kilátásáról ismert hegycsúcs a lengyel Bieszczady-hegységben.",
+                  "category": "landmark",
+                  "coords": [
+                        22.75663,
+                        49.08232
+                  ]
+            },
+            {
+                  "name": "Krzemień",
+                  "text": "A lengyel Bieszczady-hegység második legmagasabb csúcsa.",
+                  "category": "landmark",
+                  "coords": [
+                        22.73852,
+                        49.0861
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Pradawne i pierwotne lasy bukowe Karpat i innych regionów Europy - Dolina potoku Terebowiec",
+                  "text": "O parte a Patrimoniului Mondial UNESCO a pădurilor de fag din Carpați.",
+                  "category": "natural",
+                  "coords": [
+                        22.724624,
+                        49.093592
+                  ]
+            },
+            {
+                  "name": "Pradawne i pierwotne lasy bukowe Karpat i innych regionów Europy - Dolina potoku Wołosatka",
+                  "text": "Această rezervație protejează păduri de fag virgine în Parcul Național Bieszczady.",
+                  "category": "natural",
+                  "coords": [
+                        22.744842,
+                        49.067068
+                  ]
+            },
+            {
+                  "name": "Halicz",
+                  "text": "Un vârf proeminent în munții Bieszczady, cu o panoramă largă.",
+                  "category": "landmark",
+                  "coords": [
+                        22.768789,
+                        49.072082
+                  ]
+            },
+            {
+                  "name": "Rozsypaniec",
+                  "text": "Un vârf montan în sud-estul Poloniei, cunoscut pentru traseele sale de drumeție.",
+                  "category": "landmark",
+                  "coords": [
+                        22.77042,
+                        49.061804
+                  ]
+            },
+            {
+                  "name": "Menczył",
+                  "text": "Un vârf din regiunea Bieszczady, care face parte din peisajul montan pitoresc.",
+                  "category": "landmark",
+                  "coords": [
+                        22.727074,
+                        49.051386
+                  ]
+            },
+            {
+                  "name": "Kiczerka",
+                  "text": "Un vârf montan proeminent în munții Bieszczady, lângă Tarnica.",
+                  "category": "landmark",
+                  "coords": [
+                        22.750321,
+                        49.067736
+                  ]
+            },
+            {
+                  "name": "Kopa Bukowska",
+                  "text": "Un vârf în munții Bieszczady din Polonia, cunoscut pentru vederile sale largi.",
+                  "category": "landmark",
+                  "coords": [
+                        22.75663,
+                        49.08232
+                  ]
+            },
+            {
+                  "name": "Krzemień",
+                  "text": "Al doilea cel mai înalt vârf montan din partea poloneză a munților Bieszczady.",
+                  "category": "landmark",
+                  "coords": [
+                        22.73852,
+                        49.0861
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Pradawne i pierwotne lasy bukowe Karpat i innych regionów Europy - Dolina potoku Terebowiec",
+                  "text": "Part of the UNESCO World Heritage site of ancient beech forests of the Carpathians.",
+                  "category": "natural",
+                  "coords": [
+                        22.724624,
+                        49.093592
+                  ]
+            },
+            {
+                  "name": "Pradawne i pierwotne lasy bukowe Karpat i innych regionów Europy - Dolina potoku Wołosatka",
+                  "text": "This nature reserve protects virgin beech forests in the Bieszczady National Park.",
+                  "category": "natural",
+                  "coords": [
+                        22.744842,
+                        49.067068
+                  ]
+            },
+            {
+                  "name": "Halicz",
+                  "text": "A prominent peak in the Bieszczady Mountains with a wide panorama.",
+                  "category": "landmark",
+                  "coords": [
+                        22.768789,
+                        49.072082
+                  ]
+            },
+            {
+                  "name": "Rozsypaniec",
+                  "text": "A mountain peak in southeastern Poland, known for its hiking trails.",
+                  "category": "landmark",
+                  "coords": [
+                        22.77042,
+                        49.061804
+                  ]
+            },
+            {
+                  "name": "Menczył",
+                  "text": "A peak in the Bieszczady region, part of the scenic mountain landscape.",
+                  "category": "landmark",
+                  "coords": [
+                        22.727074,
+                        49.051386
+                  ]
+            },
+            {
+                  "name": "Kiczerka",
+                  "text": "A prominent mountain peak in the Bieszczady Mountains near Tarnica.",
+                  "category": "landmark",
+                  "coords": [
+                        22.750321,
+                        49.067736
+                  ]
+            },
+            {
+                  "name": "Kopa Bukowska",
+                  "text": "A peak in the Polish Bieszczady Mountains, known for its wide views.",
+                  "category": "landmark",
+                  "coords": [
+                        22.75663,
+                        49.08232
+                  ]
+            },
+            {
+                  "name": "Krzemień",
+                  "text": "The second highest mountain peak in the Polish part of the Bieszczady Mountains.",
+                  "category": "landmark",
+                  "coords": [
+                        22.73852,
+                        49.0861
+                  ]
+            }
+      ]
+},
     parent: "PL",
     type: "peak",
     name: { de: "Tarnica", hu: "Tarnica", ro: "Vârful Tarnica", en: "Tarnica"},
@@ -228,7 +777,304 @@ export const polandReliefV2: POI[] = [
       fr: ["Le point culminant du massif, le Szczeliniec Wielki, culmine à 919 mètres", "Les couches rocheuses datent du Crétacé supérieur", "La zone a obtenu le statut de parc national en 1993", "Le labyrinthe de Błędne Skały ('Roches errantes') est la cité de pierre la plus célèbre", "Dans les crevasses profondes, la température estivale dépasse rarement les 10 degrés Celsius", "Plusieurs scènes du film 'Le Monde de Narnia' ont été tournées sur ce site", "Le plateau abrite de nombreuses tourbières de montagne protégées"],
     }, image: "/poi-images/poland-stolowe-mountains-relief-v2.webp"},
   {
-    id: "poland-pieniny-mountains-relief-v2",
+    id: "poland-pieniny-mountains-relief-v2", "sights": {
+      "de": [
+            {
+                  "name": "Pieninen-Burg",
+                  "text": "Die Ruinen einer mittelalterlichen Burg in den Pieninen, die einst als Zufluchtsort diente.",
+                  "category": "castle",
+                  "coords": [
+                        20.420283,
+                        49.420109
+                  ]
+            },
+            {
+                  "name": "Rotes Kloster",
+                  "text": "Ein ehemaliges Kartäuserkloster aus dem 14. Jahrhundert, das heute ein Museum beherbergt.",
+                  "category": "religious",
+                  "coords": [
+                        20.417235,
+                        49.398667
+                  ]
+            },
+            {
+                  "name": "Muzeum Uzdrowiska Szczawnica",
+                  "text": "Ein Museum in Szczawnica, das die Geschichte des lokalen Kurwesens und Heilbads dokumentiert.",
+                  "category": "museum",
+                  "coords": [
+                        20.488383,
+                        49.429434
+                  ]
+            },
+            {
+                  "name": "Pawilon Wejściowy w Szczawnicy",
+                  "text": "Ein markantes Gebäude am Eingang des Nationalparks, das Ausstellungen zur Natur der Region zeigt.",
+                  "category": "museum",
+                  "coords": [
+                        20.4563,
+                        49.418465
+                  ]
+            },
+            {
+                  "name": "Ninja Park",
+                  "text": "Ein aktiver Erlebnispark in den Pieninen mit Hindernisparcours und Herausforderungen für Kinder.",
+                  "category": "recreational",
+                  "coords": [
+                        20.415994,
+                        49.440811
+                  ]
+            },
+            {
+                  "name": "Wystawa Przyrodnicza PPN",
+                  "text": "Eine Naturausstellung, die sich auf die Flora und Fauna des Nationalparks Pieninen konzentriert.",
+                  "category": "museum",
+                  "coords": [
+                        20.419414,
+                        49.440268
+                  ]
+            },
+            {
+                  "name": "ABlandia",
+                  "text": "Ein Freizeitpark im Pieninen-Gebirge, der verschiedene Outdoor-Aktivitäten für Familien bietet.",
+                  "category": "recreational",
+                  "coords": [
+                        20.414995,
+                        49.440683
+                  ]
+            },
+            {
+                  "name": "Teatr letni",
+                  "text": "Ein Sommertheater im Pieninen-Gebirge, das kulturelle Veranstaltungen im Freien präsentiert.",
+                  "category": "cultural",
+                  "coords": [
+                        20.430045,
+                        49.440701
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Zamek Pieniński",
+                  "text": "Egy középkori vár romjai a Pieninekben, amely egykor menedékhelyként szolgált.",
+                  "category": "castle",
+                  "coords": [
+                        20.420283,
+                        49.420109
+                  ]
+            },
+            {
+                  "name": "Vöröskolostor",
+                  "text": "Egy 14. századi egykori karthauzi kolostor, amelyben ma múzeum működik.",
+                  "category": "religious",
+                  "coords": [
+                        20.417235,
+                        49.398667
+                  ]
+            },
+            {
+                  "name": "Muzeum Uzdrowiska Szczawnica",
+                  "text": "Szczawnicai múzeum, amely a helyi fürdőkultúra és gyógyfürdő történetét dokumentálja.",
+                  "category": "museum",
+                  "coords": [
+                        20.488383,
+                        49.429434
+                  ]
+            },
+            {
+                  "name": "Pawilon Wejściowy w Szczawnicy",
+                  "text": "Jellegzetes épület a nemzeti park bejáratánál, ahol a régió természetvilágát bemutató kiállítások láthatók.",
+                  "category": "museum",
+                  "coords": [
+                        20.4563,
+                        49.418465
+                  ]
+            },
+            {
+                  "name": "Ninja Park",
+                  "text": "Aktív élménypark a Pieninekben akadálypályákkal és kihívásokkal gyerekeknek.",
+                  "category": "recreational",
+                  "coords": [
+                        20.415994,
+                        49.440811
+                  ]
+            },
+            {
+                  "name": "Wystawa Przyrodnicza PPN",
+                  "text": "A Pieniny Nemzeti Park élővilágát és természeti értékeit bemutató kiállítás.",
+                  "category": "museum",
+                  "coords": [
+                        20.419414,
+                        49.440268
+                  ]
+            },
+            {
+                  "name": "ABlandia",
+                  "text": "Szabadtéri kalandpark a Pieniny-hegységben, amely különféle családi kikapcsolódást kínál.",
+                  "category": "recreational",
+                  "coords": [
+                        20.414995,
+                        49.440683
+                  ]
+            },
+            {
+                  "name": "Teatr letni",
+                  "text": "Szabadtéri nyári színház a Pieniny-hegységben, amely kulturális előadásoknak ad otthont.",
+                  "category": "cultural",
+                  "coords": [
+                        20.430045,
+                        49.440701
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Zamek Pieniński",
+                  "text": "Ruinele unui castel medieval din munții Pieniny, care a servit cândva drept loc de refugiu.",
+                  "category": "castle",
+                  "coords": [
+                        20.420283,
+                        49.420109
+                  ]
+            },
+            {
+                  "name": "Červený kláštor",
+                  "text": "O fostă mănăstire cartusiană din secolul al XIV-lea, care astăzi găzduiește un muzeu.",
+                  "category": "religious",
+                  "coords": [
+                        20.417235,
+                        49.398667
+                  ]
+            },
+            {
+                  "name": "Muzeum Uzdrowiska Szczawnica",
+                  "text": "Un muzeu în Szczawnica care documentează istoria stațiunii balneare și a băilor locale.",
+                  "category": "museum",
+                  "coords": [
+                        20.488383,
+                        49.429434
+                  ]
+            },
+            {
+                  "name": "Pawilon Wejściowy w Szczawnicy",
+                  "text": "O clădire distinctivă la intrarea în parcul național, găzduind expoziții despre natura regiunii.",
+                  "category": "museum",
+                  "coords": [
+                        20.4563,
+                        49.418465
+                  ]
+            },
+            {
+                  "name": "Ninja Park",
+                  "text": "Un parc de aventură în munții Pieniny, cu trasee cu obstacole și provocări pentru copii.",
+                  "category": "recreational",
+                  "coords": [
+                        20.415994,
+                        49.440811
+                  ]
+            },
+            {
+                  "name": "Wystawa Przyrodnicza PPN",
+                  "text": "O expoziție naturală dedicată florei și faunei din Parcul Național Pieniny.",
+                  "category": "museum",
+                  "coords": [
+                        20.419414,
+                        49.440268
+                  ]
+            },
+            {
+                  "name": "ABlandia",
+                  "text": "Un parc de distracții în Munții Pieniny, oferind diverse activități în aer liber pentru familii.",
+                  "category": "recreational",
+                  "coords": [
+                        20.414995,
+                        49.440683
+                  ]
+            },
+            {
+                  "name": "Teatr letni",
+                  "text": "Un teatru de vară în Munții Pieniny, care găzduiește spectacole culturale în aer liber.",
+                  "category": "cultural",
+                  "coords": [
+                        20.430045,
+                        49.440701
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Pieniny Castle",
+                  "text": "The ruins of a medieval castle in the Pieniny Mountains, which once served as a place of refuge.",
+                  "category": "castle",
+                  "coords": [
+                        20.420283,
+                        49.420109
+                  ]
+            },
+            {
+                  "name": "Červený kláštor",
+                  "text": "A former 14th-century Carthusian monastery that today houses a museum.",
+                  "category": "religious",
+                  "coords": [
+                        20.417235,
+                        49.398667
+                  ]
+            },
+            {
+                  "name": "Muzeum Uzdrowiska Szczawnica",
+                  "text": "A museum in Szczawnica documenting the history of the local spa and health resort.",
+                  "category": "museum",
+                  "coords": [
+                        20.488383,
+                        49.429434
+                  ]
+            },
+            {
+                  "name": "Pawilon Wejściowy w Szczawnicy",
+                  "text": "A distinctive building at the entrance to the national park, housing exhibitions about the region's nature.",
+                  "category": "museum",
+                  "coords": [
+                        20.4563,
+                        49.418465
+                  ]
+            },
+            {
+                  "name": "Ninja Park",
+                  "text": "An active adventure park in the Pieniny Mountains with obstacle courses and challenges for children.",
+                  "category": "recreational",
+                  "coords": [
+                        20.415994,
+                        49.440811
+                  ]
+            },
+            {
+                  "name": "Wystawa Przyrodnicza PPN",
+                  "text": "A nature exhibition focusing on the flora and fauna of the Pieniny National Park.",
+                  "category": "museum",
+                  "coords": [
+                        20.419414,
+                        49.440268
+                  ]
+            },
+            {
+                  "name": "ABlandia",
+                  "text": "A theme park in the Pieniny Mountains offering various outdoor activities for families.",
+                  "category": "recreational",
+                  "coords": [
+                        20.414995,
+                        49.440683
+                  ]
+            },
+            {
+                  "name": "Teatr letni",
+                  "text": "A summer theatre in the Pieniny Mountains presenting outdoor cultural performances.",
+                  "category": "cultural",
+                  "coords": [
+                        20.430045,
+                        49.440701
+                  ]
+            }
+      ]
+},
     parent: "PL",
     type: "mountain",
     name: { de: "Pieninen", hu: "Pieninek", ro: "Munții Pieniny", en: "Pieniny Mountains"},
@@ -273,7 +1119,232 @@ export const polandReliefV2: POI[] = [
       fr: ["Le sommet des Trzy Korony atteint 982 mètres d'altitude", "La gorge du Dunajec ne mesure que 8 kilomètres de long mais est exceptionnellement profonde", "Le parc national des Piénines est l'un des plus petits de Pologne", "La tradition des descentes du Dunajec en radeau remonte au début du XIXe siècle", "Le pissenlit des Piénines (Taraxacum pieninicum) est une espèce unique au monde", "Les roches calcaires ont été formées par des dépôts marins au Mésozoïque", "Des populations de rares papillons Apollon vivent sur les sommets rocheux de la région"],
     }, image: "/poi-images/poland-pieniny-mountains-relief-v2.webp"},
   {
-    id: "poland-holy-cross-mountains-relief-v2",
+    id: "poland-holy-cross-mountains-relief-v2", "sights": {
+      "de": [
+            {
+                  "name": "Muzeum Przyrodnicze Świętokrzyskiego Parku Narodowego",
+                  "text": "Ein Naturkundemuseum, das die Flora und Fauna des Nationalparks Heiligkreuz präsentiert.",
+                  "category": "museum",
+                  "coords": [
+                        21.052412,
+                        50.859386
+                  ]
+            },
+            {
+                  "name": "Centrum \"Osada średniowieczna\"",
+                  "text": "Ein Freilichtmuseum, das eine mittelalterliche Siedlung im Heiligkreuzgebirge rekonstruiert.",
+                  "category": "museum",
+                  "coords": [
+                        21.020757,
+                        50.863161
+                  ]
+            },
+            {
+                  "name": "Park Rozrywki w Hucie",
+                  "text": "Ein Familienfreizeitpark im Herzen des Heiligkreuzgebirges.",
+                  "category": "recreational",
+                  "coords": [
+                        21.022434,
+                        50.863774
+                  ]
+            },
+            {
+                  "name": "Blessenberg",
+                  "text": "Ein markanter Gipfel im Heiligkreuzgebirge, bekannt für seine religiöse Bedeutung.",
+                  "category": "landmark",
+                  "coords": [
+                        21.047537,
+                        50.860392
+                  ]
+            },
+            {
+                  "name": "Heiligkreuz",
+                  "text": "Bedeutende Reliquien des Heiligen Kreuzes, die in der Abtei auf dem Berg aufbewahrt werden.",
+                  "category": "landmark",
+                  "coords": [
+                        21.053384,
+                        50.859267
+                  ]
+            },
+            {
+                  "name": "Pomnik Katyński",
+                  "text": "Ein Denkmal zur Erinnerung an die Opfer des Massakers von Katyn im Heiligkreuzgebirge.",
+                  "category": "historical",
+                  "coords": [
+                        21.025093,
+                        50.86312
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Muzeum Przyrodnicze Świętokrzyskiego Parku Narodowego",
+                  "text": "Természettudományi múzeum, amely a Szentkereszt Nemzeti Park élővilágát mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        21.052412,
+                        50.859386
+                  ]
+            },
+            {
+                  "name": "Centrum \"Osada średniowieczna\"",
+                  "text": "Szabadtéri múzeum, amely egy középkori települést mutat be a Szentkereszt-hegységben.",
+                  "category": "museum",
+                  "coords": [
+                        21.020757,
+                        50.863161
+                  ]
+            },
+            {
+                  "name": "Park Rozrywki w Hucie",
+                  "text": "Családi szabadidőpark a Szentkereszt-hegység szívében.",
+                  "category": "recreational",
+                  "coords": [
+                        21.022434,
+                        50.863774
+                  ]
+            },
+            {
+                  "name": "Łysa Góra",
+                  "text": "A Szentkereszt-hegység egyik nevezetes csúcsa, amely vallási jelentőségéről ismert.",
+                  "category": "landmark",
+                  "coords": [
+                        21.047537,
+                        50.860392
+                  ]
+            },
+            {
+                  "name": "Świętokrzyskie Relikwie Drzewa Krzyża Świętego w Kaplicy Oleśnickich",
+                  "text": "A Szent Kereszt jelentős ereklyéi, amelyeket a hegyi apátságban őriznek.",
+                  "category": "landmark",
+                  "coords": [
+                        21.053384,
+                        50.859267
+                  ]
+            },
+            {
+                  "name": "Pomnik Katyński",
+                  "text": "A katyni mészárlás áldozatainak emlékműve a Szentkereszt-hegységben.",
+                  "category": "historical",
+                  "coords": [
+                        21.025093,
+                        50.86312
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Muzeum Przyrodnicze Świętokrzyskiego Parku Narodowego",
+                  "text": "Un muzeu de istorie naturală care prezintă flora și fauna Parcului Național Munții Sfânta Cruce.",
+                  "category": "museum",
+                  "coords": [
+                        21.052412,
+                        50.859386
+                  ]
+            },
+            {
+                  "name": "Centrum \"Osada średniowieczna\"",
+                  "text": "Un muzeu în aer liber care reconstruiește o așezare medievală în Munții Sfânta Cruce.",
+                  "category": "museum",
+                  "coords": [
+                        21.020757,
+                        50.863161
+                  ]
+            },
+            {
+                  "name": "Park Rozrywki w Hucie",
+                  "text": "Un parc de distracții pentru familii situat în inima Munților Sfânta Cruce.",
+                  "category": "recreational",
+                  "coords": [
+                        21.022434,
+                        50.863774
+                  ]
+            },
+            {
+                  "name": "Łysa Góra",
+                  "text": "Un vârf proeminent din Munții Sfânta Cruce, cunoscut pentru importanța sa religioasă.",
+                  "category": "landmark",
+                  "coords": [
+                        21.047537,
+                        50.860392
+                  ]
+            },
+            {
+                  "name": "Świętokrzyskie Relikwie Drzewa Krzyża Świętego w Kaplicy Oleśnickich",
+                  "text": "Relicve importante ale Sfintei Cruci, păstrate în abația de pe munte.",
+                  "category": "landmark",
+                  "coords": [
+                        21.053384,
+                        50.859267
+                  ]
+            },
+            {
+                  "name": "Pomnik Katyński",
+                  "text": "Un monument dedicat victimelor masacrului de la Katyn, situat în Munții Sfânta Cruce.",
+                  "category": "historical",
+                  "coords": [
+                        21.025093,
+                        50.86312
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Muzeum Przyrodnicze Świętokrzyskiego Parku Narodowego",
+                  "text": "A natural history museum showcasing the flora and fauna of the Holy Cross National Park.",
+                  "category": "museum",
+                  "coords": [
+                        21.052412,
+                        50.859386
+                  ]
+            },
+            {
+                  "name": "Centrum \"Osada średniowieczna\"",
+                  "text": "An open-air museum reconstructing a medieval settlement in the Holy Cross Mountains.",
+                  "category": "museum",
+                  "coords": [
+                        21.020757,
+                        50.863161
+                  ]
+            },
+            {
+                  "name": "Park Rozrywki w Hucie",
+                  "text": "A family amusement park in the heart of the Holy Cross Mountains.",
+                  "category": "recreational",
+                  "coords": [
+                        21.022434,
+                        50.863774
+                  ]
+            },
+            {
+                  "name": "The Holy Cross",
+                  "text": "A prominent peak in the Holy Cross Mountains, known for its religious significance.",
+                  "category": "landmark",
+                  "coords": [
+                        21.047537,
+                        50.860392
+                  ]
+            },
+            {
+                  "name": "The Holy Cross Wood Relic",
+                  "text": "Significant relics of the Holy Cross kept in the abbey on the mountain.",
+                  "category": "landmark",
+                  "coords": [
+                        21.053384,
+                        50.859267
+                  ]
+            },
+            {
+                  "name": "Pomnik Katyński",
+                  "text": "A monument commemorating the victims of the Katyn massacre in the Holy Cross Mountains.",
+                  "category": "historical",
+                  "coords": [
+                        21.025093,
+                        50.86312
+                  ]
+            }
+      ]
+},
     parent: "PL",
     type: "mountain",
     name: { de: "Heiligkreuzgebirge", hu: "Szentkereszt-hegység", ro: "Munții Sfânta Cruce", en: "Holy Cross Mountains"},
@@ -318,7 +1389,232 @@ export const polandReliefV2: POI[] = [
       fr: ["Le massif a été plissé lors des orogenèses calédonienne et hercynienne", "Le point culminant de la chaîne est la Łysica, à 612 mètres", "L'âge des roches de quartzite cambrien dépasse les 500 millions d'années", "Au cœur des mers de blocs 'gołoborze', la température avoisine les 0 degré toute l'année", "Le parc national de Sainte-Croix (Świętokrzyski PN) a été créé en 1950", "D'anciens bas fourneaux millénaires ont été mis au jour dans le massif", "L'abbaye au sommet de la Łysa Góra aurait été fondée au XIe siècle selon la tradition"],
     }, image: "/poi-images/poland-holy-cross-mountains-relief-v2.webp"},
   {
-    id: "poland-lysica-peak-relief-v2",
+    id: "poland-lysica-peak-relief-v2", "sights": {
+      "de": [
+            {
+                  "name": "Muzeum Minerałów i Skamieniałości",
+                  "text": "Ein Museum in Łysica, das Mineralien und Fossilien ausstellt.",
+                  "category": "museum",
+                  "coords": [
+                        20.881757,
+                        50.906421
+                  ]
+            },
+            {
+                  "name": "Park Rozrywki i Miniatur - Sabat Krajno",
+                  "text": "Ein Freizeitpark mit Miniaturen bekannter Bauwerke in Krajno.",
+                  "category": "recreational",
+                  "coords": [
+                        20.857128,
+                        50.896349
+                  ]
+            },
+            {
+                  "name": "Łysica",
+                  "text": "Der höchste Gipfel des Heiligkreuzgebirges in Polen.",
+                  "category": "landmark",
+                  "coords": [
+                        20.896598,
+                        50.891616
+                  ]
+            },
+            {
+                  "name": "Agata",
+                  "text": "Der höchste Punkt des Łysica-Massivs im Heiligkreuzgebirge.",
+                  "category": "landmark",
+                  "coords": [
+                        20.905947,
+                        50.889074
+                  ]
+            },
+            {
+                  "name": "Pomnik Stefana Żeromskiego",
+                  "text": "Ein Denkmal zu Ehren des Schriftstellers Stefan Żeromski.",
+                  "category": "historical",
+                  "coords": [
+                        20.883795,
+                        50.900314
+                  ]
+            },
+            {
+                  "name": "Punkt widokowy im. Przewodników Świętokrzyskich",
+                  "text": "Ein Aussichtspunkt, der nach den Bergführern des Heiligkreuzgebirges benannt ist.",
+                  "category": "natural",
+                  "coords": [
+                        20.863742,
+                        50.891506
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Muzeum Minerałów i Skamieniałości",
+                  "text": "Ásványokat és kövületeket bemutató múzeum Łysica településen.",
+                  "category": "museum",
+                  "coords": [
+                        20.881757,
+                        50.906421
+                  ]
+            },
+            {
+                  "name": "Park Rozrywki i Miniatur - Sabat Krajno",
+                  "text": "Vidámpark és miniatűrpark ismert épületek makettjeivel Krajnóban.",
+                  "category": "recreational",
+                  "coords": [
+                        20.857128,
+                        50.896349
+                  ]
+            },
+            {
+                  "name": "Łysica",
+                  "text": "A lengyelországi Szentkereszt-hegység legmagasabb csúcsa.",
+                  "category": "landmark",
+                  "coords": [
+                        20.896598,
+                        50.891616
+                  ]
+            },
+            {
+                  "name": "Agata",
+                  "text": "A Łysica-masszívum legmagasabb pontja a Szentkereszt-hegységben.",
+                  "category": "landmark",
+                  "coords": [
+                        20.905947,
+                        50.889074
+                  ]
+            },
+            {
+                  "name": "Pomnik Stefana Żeromskiego",
+                  "text": "Stefan Żeromski író tiszteletére emelt emlékmű.",
+                  "category": "historical",
+                  "coords": [
+                        20.883795,
+                        50.900314
+                  ]
+            },
+            {
+                  "name": "Punkt widokowy im. Przewodników Świętokrzyskich",
+                  "text": "A Szentkereszt-hegységi túravezetőkről elnevezett kilátópont.",
+                  "category": "natural",
+                  "coords": [
+                        20.863742,
+                        50.891506
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Muzeum Minerałów i Skamieniałości",
+                  "text": "Un muzeu în Łysica care expune minerale și fosile.",
+                  "category": "museum",
+                  "coords": [
+                        20.881757,
+                        50.906421
+                  ]
+            },
+            {
+                  "name": "Park Rozrywki i Miniatur - Sabat Krajno",
+                  "text": "Un parc de distracții cu machete în miniatură ale unor clădiri celebre.",
+                  "category": "recreational",
+                  "coords": [
+                        20.857128,
+                        50.896349
+                  ]
+            },
+            {
+                  "name": "Łysica",
+                  "text": "Cel mai înalt vârf din Munții Sfânta Cruce din Polonia.",
+                  "category": "landmark",
+                  "coords": [
+                        20.896598,
+                        50.891616
+                  ]
+            },
+            {
+                  "name": "Agata",
+                  "text": "Cel mai înalt punct al masivului Łysica din Munții Sfânta Cruce.",
+                  "category": "landmark",
+                  "coords": [
+                        20.905947,
+                        50.889074
+                  ]
+            },
+            {
+                  "name": "Pomnik Stefana Żeromskiego",
+                  "text": "Un monument ridicat în onoarea scriitorului Stefan Żeromski.",
+                  "category": "historical",
+                  "coords": [
+                        20.883795,
+                        50.900314
+                  ]
+            },
+            {
+                  "name": "Punkt widokowy im. Przewodników Świętokrzyskich",
+                  "text": "Un punct de belvedere numit după ghizii montani din Munții Sfânta Cruce.",
+                  "category": "natural",
+                  "coords": [
+                        20.863742,
+                        50.891506
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Muzeum Minerałów i Skamieniałości",
+                  "text": "A museum in Łysica exhibiting minerals and fossils.",
+                  "category": "museum",
+                  "coords": [
+                        20.881757,
+                        50.906421
+                  ]
+            },
+            {
+                  "name": "Park Rozrywki i Miniatur - Sabat Krajno",
+                  "text": "An amusement park featuring miniatures of famous buildings in Krajno.",
+                  "category": "recreational",
+                  "coords": [
+                        20.857128,
+                        50.896349
+                  ]
+            },
+            {
+                  "name": "Łysica",
+                  "text": "The highest peak of the Świętokrzyskie Mountains in Poland.",
+                  "category": "landmark",
+                  "coords": [
+                        20.896598,
+                        50.891616
+                  ]
+            },
+            {
+                  "name": "Agata",
+                  "text": "The highest point of the Łysica massif in the Świętokrzyskie Mountains.",
+                  "category": "landmark",
+                  "coords": [
+                        20.905947,
+                        50.889074
+                  ]
+            },
+            {
+                  "name": "Pomnik Stefana Żeromskiego",
+                  "text": "A monument dedicated to the writer Stefan Żeromski.",
+                  "category": "historical",
+                  "coords": [
+                        20.883795,
+                        50.900314
+                  ]
+            },
+            {
+                  "name": "Punkt widokowy im. Przewodników Świętokrzyskich",
+                  "text": "A viewpoint named after the Świętokrzyskie mountain guides.",
+                  "category": "natural",
+                  "coords": [
+                        20.863742,
+                        50.891506
+                  ]
+            }
+      ]
+},
     parent: "PL",
     type: "peak",
     name: { de: "Lysica", hu: "Łysica", ro: "Vârful Łysica", en: "Łysica"},
@@ -363,7 +1659,304 @@ export const polandReliefV2: POI[] = [
       fr: ["Le sommet principal (Agata) culmine à 612 mètres d'altitude", "La taille des blocs de quartzite peut atteindre 1 à 2 mètres de diamètre", "De la glace peut être présente toute l'année dans les fissures au fond des mers de pierres", "Le mont est le membre le plus bas de la liste des 28 sommets de la 'Couronne des montagnes polonaises'", "La forêt autour du sommet a plus de 200 ans et se compose de sapins indigènes", "Zone naturelle strictement protégée, il est interdit de quitter le sentier balisé", "La montagne est souvent associée par les habitants au vol des sorcières"],
     }, image: "/poi-images/poland-lysica-peak-relief-v2.webp"},
   {
-    id: "poland-beskid-slaski-range-relief-v2",
+    id: "poland-beskid-slaski-range-relief-v2", "sights": {
+      "de": [
+            {
+                  "name": "Magurka Radziechowska",
+                  "text": "Ein 1108 Meter hoher Berggipfel in den Schlesischen Beskiden.",
+                  "category": "landmark",
+                  "coords": [
+                        19.043122,
+                        49.630426
+                  ]
+            },
+            {
+                  "name": "Magurka Wiślańska",
+                  "text": "Ein markanter Berggipfel in den Schlesischen Beskiden.",
+                  "category": "landmark",
+                  "coords": [
+                        19.016389,
+                        49.628637
+                  ]
+            },
+            {
+                  "name": "Małe Skrzyczne",
+                  "text": "Ein Gipfel in den Schlesischen Beskiden, der Teil des Skrzyczne-Massivs ist.",
+                  "category": "landmark",
+                  "coords": [
+                        19.012547,
+                        49.676639
+                  ]
+            },
+            {
+                  "name": "Kościelec",
+                  "text": "Ein bewaldeter Berggipfel in den Schlesischen Beskiden.",
+                  "category": "landmark",
+                  "coords": [
+                        19.020657,
+                        49.653074
+                  ]
+            },
+            {
+                  "name": "Malinowska Skała",
+                  "text": "Ein bekannter Gipfel in den Schlesischen Beskiden mit markanten Felsformationen.",
+                  "category": "landmark",
+                  "coords": [
+                        19.00122,
+                        49.655877
+                  ]
+            },
+            {
+                  "name": "Malinów",
+                  "text": "Ein Gipfel in den Schlesischen Beskiden nahe der Malinowska Skała.",
+                  "category": "landmark",
+                  "coords": [
+                        18.977573,
+                        49.6602
+                  ]
+            },
+            {
+                  "name": "Zielony Kopiec",
+                  "text": "Ein Berggipfel in den Schlesischen Beskiden an der Grenze zweier Gemeinden.",
+                  "category": "landmark",
+                  "coords": [
+                        19.002442,
+                        49.643227
+                  ]
+            },
+            {
+                  "name": "Jaskinia Malinowska",
+                  "text": "Eine der größten Höhlen in den Schlesischen Beskiden, gelegen am Malinów.",
+                  "category": "landmark",
+                  "coords": [
+                        18.982222,
+                        49.657501
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Magurka Radziechowska",
+                  "text": "Egy 1108 méter magas hegycsúcs a Sziléziai-Beszkidekben.",
+                  "category": "landmark",
+                  "coords": [
+                        19.043122,
+                        49.630426
+                  ]
+            },
+            {
+                  "name": "Magurka Wiślańska",
+                  "text": "Jellegzetes hegycsúcs a Sziléziai-Beszkidekben.",
+                  "category": "landmark",
+                  "coords": [
+                        19.016389,
+                        49.628637
+                  ]
+            },
+            {
+                  "name": "Małe Skrzyczne",
+                  "text": "A Sziléziai-Beszkidek egyik csúcsa, a Skrzyczne-masszívum része.",
+                  "category": "landmark",
+                  "coords": [
+                        19.012547,
+                        49.676639
+                  ]
+            },
+            {
+                  "name": "Kościelec",
+                  "text": "Erdős hegycsúcs a Sziléziai-Beszkidekben.",
+                  "category": "landmark",
+                  "coords": [
+                        19.020657,
+                        49.653074
+                  ]
+            },
+            {
+                  "name": "Malinowska Skała",
+                  "text": "A Sziléziai-Beszkidek ismert csúcsa, jellegzetes sziklaalakzatokkal.",
+                  "category": "landmark",
+                  "coords": [
+                        19.00122,
+                        49.655877
+                  ]
+            },
+            {
+                  "name": "Malinów",
+                  "text": "Hegycsúcs a Sziléziai-Beszkidekben, a Malinowska Skała közelében.",
+                  "category": "landmark",
+                  "coords": [
+                        18.977573,
+                        49.6602
+                  ]
+            },
+            {
+                  "name": "Zielony Kopiec",
+                  "text": "Hegycsúcs a Sziléziai-Beszkidekben, két község határán.",
+                  "category": "landmark",
+                  "coords": [
+                        19.002442,
+                        49.643227
+                  ]
+            },
+            {
+                  "name": "Jaskinia Malinowska",
+                  "text": "A Sziléziai-Beszkidek egyik legnagyobb barlangja a Malinów-hegyen.",
+                  "category": "landmark",
+                  "coords": [
+                        18.982222,
+                        49.657501
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Magurka Radziechowska",
+                  "text": "Un vârf montan de 1108 metri în Beskizii Silezieni.",
+                  "category": "landmark",
+                  "coords": [
+                        19.043122,
+                        49.630426
+                  ]
+            },
+            {
+                  "name": "Magurka Wiślańska",
+                  "text": "Un vârf montan proeminent în Beskizii Silezieni.",
+                  "category": "landmark",
+                  "coords": [
+                        19.016389,
+                        49.628637
+                  ]
+            },
+            {
+                  "name": "Małe Skrzyczne",
+                  "text": "Un vârf în Beskizii Silezieni, făcând parte din masivul Skrzyczne.",
+                  "category": "landmark",
+                  "coords": [
+                        19.012547,
+                        49.676639
+                  ]
+            },
+            {
+                  "name": "Kościelec",
+                  "text": "Un vârf montan împădurit în Beskizii Silezieni.",
+                  "category": "landmark",
+                  "coords": [
+                        19.020657,
+                        49.653074
+                  ]
+            },
+            {
+                  "name": "Malinowska Skała",
+                  "text": "Un vârf cunoscut în Beskizii Silezieni, cu formațiuni stâncoase distinctive.",
+                  "category": "landmark",
+                  "coords": [
+                        19.00122,
+                        49.655877
+                  ]
+            },
+            {
+                  "name": "Malinów",
+                  "text": "Un vârf în Beskizii Silezieni, situat lângă Malinowska Skała.",
+                  "category": "landmark",
+                  "coords": [
+                        18.977573,
+                        49.6602
+                  ]
+            },
+            {
+                  "name": "Zielony Kopiec",
+                  "text": "Un vârf montan în Beskizii Silezieni, la granița a două comune.",
+                  "category": "landmark",
+                  "coords": [
+                        19.002442,
+                        49.643227
+                  ]
+            },
+            {
+                  "name": "Jaskinia Malinowska",
+                  "text": "Una dintre cele mai mari peșteri din Beskizii Silezieni, situată pe muntele Malinów.",
+                  "category": "landmark",
+                  "coords": [
+                        18.982222,
+                        49.657501
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Magurka Radziechowska",
+                  "text": "A mountain peak reaching 1108 meters in the Silesian Beskids.",
+                  "category": "landmark",
+                  "coords": [
+                        19.043122,
+                        49.630426
+                  ]
+            },
+            {
+                  "name": "Magurka Wiślańska",
+                  "text": "A prominent mountain peak in the Silesian Beskids.",
+                  "category": "landmark",
+                  "coords": [
+                        19.016389,
+                        49.628637
+                  ]
+            },
+            {
+                  "name": "Małe Skrzyczne",
+                  "text": "A peak in the Silesian Beskids, part of the Skrzyczne massif.",
+                  "category": "landmark",
+                  "coords": [
+                        19.012547,
+                        49.676639
+                  ]
+            },
+            {
+                  "name": "Kościelec",
+                  "text": "A forested mountain peak in the Silesian Beskids.",
+                  "category": "landmark",
+                  "coords": [
+                        19.020657,
+                        49.653074
+                  ]
+            },
+            {
+                  "name": "Malinowska Skała",
+                  "text": "A well-known peak in the Silesian Beskids featuring distinctive rock formations.",
+                  "category": "landmark",
+                  "coords": [
+                        19.00122,
+                        49.655877
+                  ]
+            },
+            {
+                  "name": "Malinów",
+                  "text": "A peak in the Silesian Beskids located near Malinowska Skała.",
+                  "category": "landmark",
+                  "coords": [
+                        18.977573,
+                        49.6602
+                  ]
+            },
+            {
+                  "name": "Zielony Kopiec",
+                  "text": "A mountain peak in the Silesian Beskids on the border of two municipalities.",
+                  "category": "landmark",
+                  "coords": [
+                        19.002442,
+                        49.643227
+                  ]
+            },
+            {
+                  "name": "Jaskinia Malinowska",
+                  "text": "One of the largest caves in the Silesian Beskids, located on Malinów mountain.",
+                  "category": "landmark",
+                  "coords": [
+                        18.982222,
+                        49.657501
+                  ]
+            }
+      ]
+},
     parent: "PL",
     type: "mountain",
     name: { de: "Schlesische Beskiden", hu: "Sziléziai-Beszkidek", ro: "Beskizii Silezieni", en: "Silesian Beskids"},
@@ -408,7 +2001,304 @@ export const polandReliefV2: POI[] = [
       fr: ["Le point culminant, Skrzyczne, s'élève à 1257 mètres", "La Vistule blanche et la Vistule noire y prennent leur source pour former la Vistule", "Les versants sont relativement doux en raison de l'érosion facile des roches flysch", "Plus de 200 petites grottes se trouvent dans les couches de calcaire et de grès", "Le parc paysager des Beskides de Silésie a été créé en 1998", "Les villes de Szczyrk et Wisła comptent parmi les centres de sports d'hiver les plus prisés du pays", "De nombreuses compétitions internationales prestigieuses de saut à ski y sont organisées chaque année"],
     }, image: "/poi-images/poland-beskid-slaski-range-relief-v2.webp"},
   {
-    id: "poland-skrzyczne-peak-relief-v2",
+    id: "poland-skrzyczne-peak-relief-v2", "sights": {
+      "de": [
+            {
+                  "name": "Park Linowy Base Camp Szczyrk",
+                  "text": "Outdoor-Abenteuerpark mit Seilgarten für verschiedene Schwierigkeitsstufen.",
+                  "category": "recreational",
+                  "coords": [
+                        19.021519,
+                        49.712928
+                  ]
+            },
+            {
+                  "name": "Aqua Aries",
+                  "text": "Freizeiteinrichtung mit Schwimmbecken und Wasseraktivitäten.",
+                  "category": "recreational",
+                  "coords": [
+                        19.018158,
+                        49.716291
+                  ]
+            },
+            {
+                  "name": "Szyszka Park",
+                  "text": "Familienfreundlicher Freizeitpark mit Aktivitäten im Freien.",
+                  "category": "recreational",
+                  "coords": [
+                        19.030436,
+                        49.716451
+                  ]
+            },
+            {
+                  "name": "Rauhkogel",
+                  "text": "Der höchste Gipfel der Schlesischen Beskiden.",
+                  "category": "landmark",
+                  "coords": [
+                        19.030274,
+                        49.684574
+                  ]
+            },
+            {
+                  "name": "Małe Skrzyczne",
+                  "text": "Markanter Berggipfel in der Nähe des Skrzyczne.",
+                  "category": "landmark",
+                  "coords": [
+                        19.012547,
+                        49.676639
+                  ]
+            },
+            {
+                  "name": "Kościelec",
+                  "text": "Berggipfel mit Wandermöglichkeiten in den Schlesischen Beskiden.",
+                  "category": "landmark",
+                  "coords": [
+                        19.020657,
+                        49.653074
+                  ]
+            },
+            {
+                  "name": "Malinowska Skała",
+                  "text": "Berggipfel bekannt für seine markanten Felsformationen.",
+                  "category": "landmark",
+                  "coords": [
+                        19.00122,
+                        49.655877
+                  ]
+            },
+            {
+                  "name": "Skalite",
+                  "text": "Malerischer Berggipfel in der Nähe von Szczyrk.",
+                  "category": "landmark",
+                  "coords": [
+                        19.044819,
+                        49.711139
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Park Linowy Base Camp Szczyrk",
+                  "text": "Szabadtéri kalandpark kötélpályákkal különböző nehézségi szinteken.",
+                  "category": "recreational",
+                  "coords": [
+                        19.021519,
+                        49.712928
+                  ]
+            },
+            {
+                  "name": "Aqua Aries",
+                  "text": "Szabadidős létesítmény medencékkel és vízi programokkal.",
+                  "category": "recreational",
+                  "coords": [
+                        19.018158,
+                        49.716291
+                  ]
+            },
+            {
+                  "name": "Szyszka Park",
+                  "text": "Családbarát élménypark szabadtéri szabadidős tevékenységekkel.",
+                  "category": "recreational",
+                  "coords": [
+                        19.030436,
+                        49.716451
+                  ]
+            },
+            {
+                  "name": "Skrzyczne",
+                  "text": "A Sziléziai-Beszkidek hegység legmagasabb csúcsa.",
+                  "category": "landmark",
+                  "coords": [
+                        19.030274,
+                        49.684574
+                  ]
+            },
+            {
+                  "name": "Małe Skrzyczne",
+                  "text": "Jelentős hegycsúcs a Skrzyczne közelében.",
+                  "category": "landmark",
+                  "coords": [
+                        19.012547,
+                        49.676639
+                  ]
+            },
+            {
+                  "name": "Kościelec",
+                  "text": "Túrázási lehetőségeket kínáló hegycsúcs a Sziléziai-Beszkidekben.",
+                  "category": "landmark",
+                  "coords": [
+                        19.020657,
+                        49.653074
+                  ]
+            },
+            {
+                  "name": "Malinowska Skała",
+                  "text": "Jellegzetes sziklaalakzatairól ismert hegycsúcs.",
+                  "category": "landmark",
+                  "coords": [
+                        19.00122,
+                        49.655877
+                  ]
+            },
+            {
+                  "name": "Skalite",
+                  "text": "Festői hegycsúcs Szczyrk környékén.",
+                  "category": "landmark",
+                  "coords": [
+                        19.044819,
+                        49.711139
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Park Linowy Base Camp Szczyrk",
+                  "text": "Parc de aventură în aer liber cu trasee de corzi pentru toate nivelurile.",
+                  "category": "recreational",
+                  "coords": [
+                        19.021519,
+                        49.712928
+                  ]
+            },
+            {
+                  "name": "Aqua Aries",
+                  "text": "Facilitate recreativă cu piscine și activități acvatice.",
+                  "category": "recreational",
+                  "coords": [
+                        19.018158,
+                        49.716291
+                  ]
+            },
+            {
+                  "name": "Szyszka Park",
+                  "text": "Parc de distracții pentru familii cu activități de agrement în aer liber.",
+                  "category": "recreational",
+                  "coords": [
+                        19.030436,
+                        49.716451
+                  ]
+            },
+            {
+                  "name": "Skrzyczne",
+                  "text": "Cel mai înalt vârf muntos din masivul Beskizii Silezieni.",
+                  "category": "landmark",
+                  "coords": [
+                        19.030274,
+                        49.684574
+                  ]
+            },
+            {
+                  "name": "Małe Skrzyczne",
+                  "text": "Vârf muntos notabil situat în apropierea vârfului Skrzyczne.",
+                  "category": "landmark",
+                  "coords": [
+                        19.012547,
+                        49.676639
+                  ]
+            },
+            {
+                  "name": "Kościelec",
+                  "text": "Vârf muntos ce oferă oportunități de drumeție în Beskizii Silezieni.",
+                  "category": "landmark",
+                  "coords": [
+                        19.020657,
+                        49.653074
+                  ]
+            },
+            {
+                  "name": "Malinowska Skała",
+                  "text": "Vârf muntos faimos pentru formațiunile sale stâncoase distinctive.",
+                  "category": "landmark",
+                  "coords": [
+                        19.00122,
+                        49.655877
+                  ]
+            },
+            {
+                  "name": "Skalite",
+                  "text": "Vârf muntos pitoresc situat în vecinătatea localității Szczyrk.",
+                  "category": "landmark",
+                  "coords": [
+                        19.044819,
+                        49.711139
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Park Linowy Base Camp Szczyrk",
+                  "text": "Outdoor adventure park with rope courses for various skill levels.",
+                  "category": "recreational",
+                  "coords": [
+                        19.021519,
+                        49.712928
+                  ]
+            },
+            {
+                  "name": "Aqua Aries",
+                  "text": "Recreational facility with swimming pools and water-based activities.",
+                  "category": "recreational",
+                  "coords": [
+                        19.018158,
+                        49.716291
+                  ]
+            },
+            {
+                  "name": "Szyszka Park",
+                  "text": "Family-oriented amusement park offering outdoor leisure activities.",
+                  "category": "recreational",
+                  "coords": [
+                        19.030436,
+                        49.716451
+                  ]
+            },
+            {
+                  "name": "Skrzyczne",
+                  "text": "The highest mountain peak in the Silesian Beskids range.",
+                  "category": "landmark",
+                  "coords": [
+                        19.030274,
+                        49.684574
+                  ]
+            },
+            {
+                  "name": "Małe Skrzyczne",
+                  "text": "Notable mountain summit located near the Skrzyczne peak.",
+                  "category": "landmark",
+                  "coords": [
+                        19.012547,
+                        49.676639
+                  ]
+            },
+            {
+                  "name": "Kościelec",
+                  "text": "Mountain peak providing hiking opportunities in the Silesian Beskids.",
+                  "category": "landmark",
+                  "coords": [
+                        19.020657,
+                        49.653074
+                  ]
+            },
+            {
+                  "name": "Malinowska Skała",
+                  "text": "Mountain summit famous for its distinctive rock formations.",
+                  "category": "landmark",
+                  "coords": [
+                        19.00122,
+                        49.655877
+                  ]
+            },
+            {
+                  "name": "Skalite",
+                  "text": "Scenic mountain peak located in the vicinity of Szczyrk.",
+                  "category": "landmark",
+                  "coords": [
+                        19.044819,
+                        49.711139
+                  ]
+            }
+      ]
+},
     parent: "PL",
     type: "peak",
     name: { de: "Skrzyczne", hu: "Skrzyczne", ro: "Vârful Skrzyczne", en: "Skrzyczne"},
@@ -453,7 +2343,268 @@ export const polandReliefV2: POI[] = [
       fr: ["L'altitude du sommet est de 1 257 mètres au-dessus du niveau de la mer", "La tour de télévision au sommet a été reconstruite à la fin des années 1990", "Le sommet est accessible depuis la ville de Szczyrk par un télésiège à deux tronçons", "Le refuge de montagne (Schronisko PTTK) situé au sommet a ouvert ses portes en 1933", "La longueur totale des pistes de ski sur le flanc de la montagne dépasse 14 kilomètres", "Par temps clair, on peut apercevoir les sommets des Hautes Tatras depuis le sommet", "La montagne est une étape officielle de la 'Couronne des montagnes polonaises'"],
     }, image: "/poi-images/poland-skrzyczne-peak-relief-v2.webp"},
     {
-    id: "poland-jura-upland-relief-v2",
+    id: "poland-jura-upland-relief-v2", "sights": {
+      "de": [
+            {
+                  "name": "Jaskinia Ciemna",
+                  "text": "Eine bedeutende archäologische Höhle mit paläolithischen Funden.",
+                  "category": "historical",
+                  "coords": [
+                        19.83175,
+                        50.196843
+                  ]
+            },
+            {
+                  "name": "Ekspozycja Przyrodnicza",
+                  "text": "Naturkundliche Ausstellung über die Flora und Fauna des Ojców-Nationalparks.",
+                  "category": "museum",
+                  "coords": [
+                        19.829362,
+                        50.209963
+                  ]
+            },
+            {
+                  "name": "Grodzisko na górze Okopy",
+                  "text": "Überreste einer mittelalterlichen Wallburg auf einem Hügel.",
+                  "category": "historical",
+                  "coords": [
+                        19.836401,
+                        50.192155
+                  ]
+            },
+            {
+                  "name": "Boroniówka",
+                  "text": "Ein Mühlenmuseum mit einer historischen Wasser- und Sägemühle.",
+                  "category": "museum",
+                  "coords": [
+                        19.832501,
+                        50.222358
+                  ]
+            },
+            {
+                  "name": "Jaskinia Nietoperzowa",
+                  "text": "Eine Höhle, die für ihre Fledermauskolonien und Knochenfunde bekannt ist.",
+                  "category": "landmark",
+                  "coords": [
+                        19.774532,
+                        50.19395
+                  ]
+            },
+            {
+                  "name": "Jaskinia Łokietka",
+                  "text": "Eine berühmte Höhle, in der sich König Władysław I. versteckt haben soll.",
+                  "category": "landmark",
+                  "coords": [
+                        19.818897,
+                        50.201633
+                  ]
+            },
+            {
+                  "name": "Jaskinia Wierzchowska Górna",
+                  "text": "Eine der größten und interessantesten Höhlen im Jura-Gebiet.",
+                  "category": "landmark",
+                  "coords": [
+                        19.806618,
+                        50.1747
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Jaskinia Ciemna",
+                  "text": "Jelentős régészeti barlang paleolit leletekkel.",
+                  "category": "historical",
+                  "coords": [
+                        19.83175,
+                        50.196843
+                  ]
+            },
+            {
+                  "name": "Ekspozycja Przyrodnicza",
+                  "text": "Természettudományi kiállítás az Ojcówi Nemzeti Park élővilágáról.",
+                  "category": "museum",
+                  "coords": [
+                        19.829362,
+                        50.209963
+                  ]
+            },
+            {
+                  "name": "Grodzisko na górze Okopy",
+                  "text": "Egy dombtetőn található középkori földvár maradványai.",
+                  "category": "historical",
+                  "coords": [
+                        19.836401,
+                        50.192155
+                  ]
+            },
+            {
+                  "name": "Boroniówka",
+                  "text": "Malommúzeum történelmi vízimalommal és fűrészmalommal.",
+                  "category": "museum",
+                  "coords": [
+                        19.832501,
+                        50.222358
+                  ]
+            },
+            {
+                  "name": "Jaskinia Nietoperzowa",
+                  "text": "Denevérkolóniáiról és csontleleteiről ismert barlang.",
+                  "category": "landmark",
+                  "coords": [
+                        19.774532,
+                        50.19395
+                  ]
+            },
+            {
+                  "name": "Jaskinia Łokietka",
+                  "text": "Híres barlang, ahol a hagyomány szerint I. Ulászló király rejtőzködött.",
+                  "category": "landmark",
+                  "coords": [
+                        19.818897,
+                        50.201633
+                  ]
+            },
+            {
+                  "name": "Jaskinia Wierzchowska Górna",
+                  "text": "A jura vidék egyik legnagyobb és legérdekesebb barlangja.",
+                  "category": "landmark",
+                  "coords": [
+                        19.806618,
+                        50.1747
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Jaskinia Ciemna",
+                  "text": "O peșteră arheologică importantă cu descoperiri paleolitice.",
+                  "category": "historical",
+                  "coords": [
+                        19.83175,
+                        50.196843
+                  ]
+            },
+            {
+                  "name": "Ekspozycja Przyrodnicza",
+                  "text": "Expoziție de istorie naturală despre flora și fauna Parcului Național Ojców.",
+                  "category": "museum",
+                  "coords": [
+                        19.829362,
+                        50.209963
+                  ]
+            },
+            {
+                  "name": "Grodzisko na górze Okopy",
+                  "text": "Rămășițele unei cetăți medievale de pământ pe un deal.",
+                  "category": "historical",
+                  "coords": [
+                        19.836401,
+                        50.192155
+                  ]
+            },
+            {
+                  "name": "Boroniówka",
+                  "text": "Un muzeu al morăritului cu o moară de apă și un gater istoric.",
+                  "category": "museum",
+                  "coords": [
+                        19.832501,
+                        50.222358
+                  ]
+            },
+            {
+                  "name": "Jaskinia Nietoperzowa",
+                  "text": "O peșteră cunoscută pentru coloniile de lilieci și descoperirile de oase.",
+                  "category": "landmark",
+                  "coords": [
+                        19.774532,
+                        50.19395
+                  ]
+            },
+            {
+                  "name": "Jaskinia Łokietka",
+                  "text": "O peșteră celebră unde se spune că s-ar fi ascuns regele Władysław I.",
+                  "category": "landmark",
+                  "coords": [
+                        19.818897,
+                        50.201633
+                  ]
+            },
+            {
+                  "name": "Jaskinia Wierzchowska Górna",
+                  "text": "Una dintre cele mai mari și interesante peșteri din regiunea Jurei.",
+                  "category": "landmark",
+                  "coords": [
+                        19.806618,
+                        50.1747
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Jaskinia Ciemna",
+                  "text": "A significant archaeological cave with Paleolithic findings.",
+                  "category": "historical",
+                  "coords": [
+                        19.83175,
+                        50.196843
+                  ]
+            },
+            {
+                  "name": "Ekspozycja Przyrodnicza",
+                  "text": "Natural history exhibition on the flora and fauna of the Ojców National Park.",
+                  "category": "museum",
+                  "coords": [
+                        19.829362,
+                        50.209963
+                  ]
+            },
+            {
+                  "name": "Grodzisko na górze Okopy",
+                  "text": "Remains of a medieval hillfort located on a hilltop.",
+                  "category": "historical",
+                  "coords": [
+                        19.836401,
+                        50.192155
+                  ]
+            },
+            {
+                  "name": "Boroniówka",
+                  "text": "A milling museum featuring a historic watermill and sawmill.",
+                  "category": "museum",
+                  "coords": [
+                        19.832501,
+                        50.222358
+                  ]
+            },
+            {
+                  "name": "Jaskinia Nietoperzowa",
+                  "text": "A cave known for its bat colonies and bone findings.",
+                  "category": "landmark",
+                  "coords": [
+                        19.774532,
+                        50.19395
+                  ]
+            },
+            {
+                  "name": "Jaskinia Łokietka",
+                  "text": "A famous cave where King Władysław I is said to have hidden.",
+                  "category": "landmark",
+                  "coords": [
+                        19.818897,
+                        50.201633
+                  ]
+            },
+            {
+                  "name": "Jaskinia Wierzchowska Górna",
+                  "text": "One of the largest and most interesting caves in the Jura region.",
+                  "category": "landmark",
+                  "coords": [
+                        19.806618,
+                        50.1747
+                  ]
+            }
+      ]
+},
     parent: "PL",
     type: "mountain",
     name: { de: "Krakau-Tschenstochauer Jura", hu: "Krakkó-Częstochowai-fennsík", ro: "Podișul Cracovia-Częstochowa", en: "Kraków-Częstochowa Upland"},
@@ -498,7 +2649,196 @@ export const polandReliefV2: POI[] = [
       fr: ["Le plateau s'étend sur environ 80 kilomètres entre Cracovie et Częstochowa", "Le point culminant est le mont Góra Zamkowa, haut de 516 mètres", "La région compte plus de 1500 grottes calcaires répertoriées", "Le célèbre sentier des 'Nids d'Aigle' serpente sur environ 163 kilomètres", "La nappe phréatique de la zone karstique se trouve très profondément sous la surface", "Le désert de Błędów, le plus grand désert de sable d'Europe centrale, se trouve en bordure du plateau", "Le parc national d'Ojców est le plus petit parc national de Pologne"],
     }, image: "/poi-images/poland-jura-upland-relief-v2.webp"},
   {
-    id: "poland-lublin-upland-relief-v2",
+    id: "poland-lublin-upland-relief-v2", "sights": {
+      "de": [
+            {
+                  "name": "Amfiteatr",
+                  "text": "Ein Freilicht-Amphitheater in der Region Lubliner Hochland für öffentliche Veranstaltungen.",
+                  "category": "cultural",
+                  "coords": [
+                        22.778561,
+                        51.229046
+                  ]
+            },
+            {
+                  "name": "zabytkowa brama",
+                  "text": "Ein historisches Tor, das als lokales architektonisches Wahrzeichen im Lubliner Hochland dient.",
+                  "category": "landmark",
+                  "coords": [
+                        22.787634,
+                        51.206774
+                  ]
+            },
+            {
+                  "name": "pomnik Megliew",
+                  "text": "Ein Gedenkmonument in der Region Lubliner Hochland.",
+                  "category": "historical",
+                  "coords": [
+                        22.780562,
+                        51.230848
+                  ]
+            },
+            {
+                  "name": "Kościół pw. Świętego Wita w Mełgwi",
+                  "text": "Eine dem heiligen Vitus geweihte Pfarrkirche in der Region Lubliner Hochland.",
+                  "category": "religious",
+                  "coords": [
+                        22.779363,
+                        51.227792
+                  ]
+            },
+            {
+                  "name": "śmigłowiec Mi-2",
+                  "text": "Ein Hubschrauber vom Typ Mi-2, der als lokale technische Attraktion im Lubliner Hochland ausgestellt ist.",
+                  "category": "landmark",
+                  "coords": [
+                        22.778628,
+                        51.231012
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Amfiteatr",
+                  "text": "Szabadtéri amfiteátrum a Lublini-felföldön, közösségi rendezvények helyszíne.",
+                  "category": "cultural",
+                  "coords": [
+                        22.778561,
+                        51.229046
+                  ]
+            },
+            {
+                  "name": "zabytkowa brama",
+                  "text": "Történelmi kapu, amely helyi építészeti látnivaló a Lublini-felföldön.",
+                  "category": "landmark",
+                  "coords": [
+                        22.787634,
+                        51.206774
+                  ]
+            },
+            {
+                  "name": "pomnik Megliew",
+                  "text": "Emlékmű a Lublini-felföld régiójában.",
+                  "category": "historical",
+                  "coords": [
+                        22.780562,
+                        51.230848
+                  ]
+            },
+            {
+                  "name": "Kościół pw. Świętego Wita w Mełgwi",
+                  "text": "Szent Vitusnak szentelt plébániatemplom a Lublini-felföldön.",
+                  "category": "religious",
+                  "coords": [
+                        22.779363,
+                        51.227792
+                  ]
+            },
+            {
+                  "name": "śmigłowiec Mi-2",
+                  "text": "Egy Mi–2 típusú helikopter, amely helyi technikai látványosság a Lublini-felföldön.",
+                  "category": "landmark",
+                  "coords": [
+                        22.778628,
+                        51.231012
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Amfiteatr",
+                  "text": "Un amfiteatru în aer liber situat în regiunea Podișul Lublin pentru evenimente publice.",
+                  "category": "cultural",
+                  "coords": [
+                        22.778561,
+                        51.229046
+                  ]
+            },
+            {
+                  "name": "zabytkowa brama",
+                  "text": "O poartă istorică ce servește ca punct de reper arhitectural local în Podișul Lublin.",
+                  "category": "landmark",
+                  "coords": [
+                        22.787634,
+                        51.206774
+                  ]
+            },
+            {
+                  "name": "pomnik Megliew",
+                  "text": "Un monument comemorativ situat în regiunea Podișul Lublin.",
+                  "category": "historical",
+                  "coords": [
+                        22.780562,
+                        51.230848
+                  ]
+            },
+            {
+                  "name": "Kościół pw. Świętego Wita w Mełgwi",
+                  "text": "O biserică parohială dedicată Sfântului Vitus din regiunea Podișul Lublin.",
+                  "category": "religious",
+                  "coords": [
+                        22.779363,
+                        51.227792
+                  ]
+            },
+            {
+                  "name": "śmigłowiec Mi-2",
+                  "text": "Un elicopter Mi-2 expus ca atracție tehnică locală în Podișul Lublin.",
+                  "category": "landmark",
+                  "coords": [
+                        22.778628,
+                        51.231012
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Amfiteatr",
+                  "text": "An outdoor amphitheater located in the Lublin Upland region for public events.",
+                  "category": "cultural",
+                  "coords": [
+                        22.778561,
+                        51.229046
+                  ]
+            },
+            {
+                  "name": "zabytkowa brama",
+                  "text": "A historic gate serving as a local architectural landmark in the Lublin Upland.",
+                  "category": "landmark",
+                  "coords": [
+                        22.787634,
+                        51.206774
+                  ]
+            },
+            {
+                  "name": "pomnik Megliew",
+                  "text": "A commemorative monument located in the Lublin Upland region.",
+                  "category": "historical",
+                  "coords": [
+                        22.780562,
+                        51.230848
+                  ]
+            },
+            {
+                  "name": "Kościół pw. Świętego Wita w Mełgwi",
+                  "text": "A parish church dedicated to Saint Vitus in the Lublin Upland region.",
+                  "category": "religious",
+                  "coords": [
+                        22.779363,
+                        51.227792
+                  ]
+            },
+            {
+                  "name": "śmigłowiec Mi-2",
+                  "text": "A Mi-2 helicopter displayed as a local technical attraction in the Lublin Upland.",
+                  "category": "landmark",
+                  "coords": [
+                        22.778628,
+                        51.231012
+                  ]
+            }
+      ]
+},
     parent: "PL",
     type: "landmark",
     name: { de: "Lubliner Hochland", hu: "Lublini-fennsík", ro: "Podișul Lublin", en: "Lublin Upland"},
@@ -543,7 +2883,52 @@ export const polandReliefV2: POI[] = [
       fr: ["L'altitude moyenne du plateau varie entre 200 et 300 mètres", "L'épaisseur de la couche de loess atteint par endroits 30 mètres", "Près de Kazimierz Dolny se trouve le réseau de gorges de loess le plus dense d'Europe", "Les cultures les plus courantes de la région sont le blé, la betterave sucrière et le houblon", "La limite ouest de la zone est formée par la vallée de la Vistule (Wisła)", "Le parc national de Roztocze se trouve sur la bordure sud boisée du plateau", "Un microclimat frais et humide règne dans les gorges profondes, même lors des chaleurs estivales"],
     }, image: "/poi-images/poland-lublin-upland-relief-v2.webp"},
   {
-    id: "poland-sandomierz-basin-relief-v2",
+    id: "poland-sandomierz-basin-relief-v2", "sights": {
+      "de": [
+            {
+                  "name": "Kościół pw. Świętego Antoniego Padewskiego",
+                  "text": "Eine dem heiligen Antonius von Padua gewidmete Kirche im Sandomierz-Becken.",
+                  "category": "religious",
+                  "coords": [
+                        21.954246,
+                        50.211555
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Kościół pw. Świętego Antoniego Padewskiego",
+                  "text": "Páduai Szent Antalnak szentelt templom a Sandomierz-medencében.",
+                  "category": "religious",
+                  "coords": [
+                        21.954246,
+                        50.211555
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Kościół pw. Świętego Antoniego Padewskiego",
+                  "text": "O biserică dedicată Sfântului Anton de Padova în Bazinul Sandomierz.",
+                  "category": "religious",
+                  "coords": [
+                        21.954246,
+                        50.211555
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Kościół pw. Świętego Antoniego Padewskiego",
+                  "text": "A church dedicated to Saint Anthony of Padua in the Sandomierz Basin.",
+                  "category": "religious",
+                  "coords": [
+                        21.954246,
+                        50.211555
+                  ]
+            }
+      ]
+},
     parent: "PL",
     type: "valley",
     name: { de: "Sandomirer Becken", hu: "Sandomierzi-medence", ro: "Bazinul Sandomierz", en: "Sandomierz Basin"},
@@ -599,6 +2984,51 @@ export const polandReliefV2: POI[] = [
                         21.490858,
                         53.802307
                   ]
+            },
+            {
+                  "name": "Naturschutzgebiet Lißuhner See",
+                  "text": "Naturschutzgebiet zum Schutz eines dystrophen Sees und umliegender Moore.",
+                  "category": "natural",
+                  "coords": [
+                        21.505514,
+                        53.78306
+                  ]
+            },
+            {
+                  "name": "Tropikana",
+                  "text": "Wasserpark mit verschiedenen Pools und Wellnesseinrichtungen.",
+                  "category": "recreational",
+                  "coords": [
+                        21.558535,
+                        53.80406
+                  ]
+            },
+            {
+                  "name": "Torfowisko Zełwąga",
+                  "text": "Naturschutzgebiet zum Schutz lokaler Torfmoore.",
+                  "category": "natural",
+                  "coords": [
+                        21.523195,
+                        53.802683
+                  ]
+            },
+            {
+                  "name": "Ehem. Paprotna-See",
+                  "text": "Ein geschütztes Naturgebiet in der masurischen Region.",
+                  "category": "natural",
+                  "coords": [
+                        21.482179,
+                        53.767735
+                  ]
+            },
+            {
+                  "name": "Prawdowskie Wzgórze",
+                  "text": "Naturschutzgebiet, das ein hügeliges Waldgebiet umfasst.",
+                  "category": "natural",
+                  "coords": [
+                        21.534213,
+                        53.796378
+                  ]
             }
       ],
       "hu": [
@@ -609,6 +3039,51 @@ export const polandReliefV2: POI[] = [
                   "coords": [
                         21.490858,
                         53.802307
+                  ]
+            },
+            {
+                  "name": "Rezerwat Jezioro Lisunie",
+                  "text": "Disztrofikus tavat és a környező mocsarakat védő természetvédelmi terület.",
+                  "category": "natural",
+                  "coords": [
+                        21.505514,
+                        53.78306
+                  ]
+            },
+            {
+                  "name": "Tropikana",
+                  "text": "Aquapark különböző medencékkel és wellness szolgáltatásokkal.",
+                  "category": "recreational",
+                  "coords": [
+                        21.558535,
+                        53.80406
+                  ]
+            },
+            {
+                  "name": "Torfowisko Zełwąga",
+                  "text": "Helyi tőzeglápokat védő természetvédelmi terület.",
+                  "category": "natural",
+                  "coords": [
+                        21.523195,
+                        53.802683
+                  ]
+            },
+            {
+                  "name": "Bażyna",
+                  "text": "Védett természeti terület a Mazuri-régióban.",
+                  "category": "natural",
+                  "coords": [
+                        21.482179,
+                        53.767735
+                  ]
+            },
+            {
+                  "name": "Prawdowskie Wzgórze",
+                  "text": "Dombos erdőterületet magában foglaló természetvédelmi terület.",
+                  "category": "natural",
+                  "coords": [
+                        21.534213,
+                        53.796378
                   ]
             }
       ],
@@ -621,6 +3096,51 @@ export const polandReliefV2: POI[] = [
                         21.490858,
                         53.802307
                   ]
+            },
+            {
+                  "name": "Rezerwat Jezioro Lisunie",
+                  "text": "Rezervație naturală care protejează un lac distrofic și mlaștinile din jur.",
+                  "category": "natural",
+                  "coords": [
+                        21.505514,
+                        53.78306
+                  ]
+            },
+            {
+                  "name": "Tropikana",
+                  "text": "Parc acvatic cu diverse piscine și facilități de wellness.",
+                  "category": "recreational",
+                  "coords": [
+                        21.558535,
+                        53.80406
+                  ]
+            },
+            {
+                  "name": "Torfowisko Zełwąga",
+                  "text": "Rezervație naturală care protejează mlaștinile de turbă locale.",
+                  "category": "natural",
+                  "coords": [
+                        21.523195,
+                        53.802683
+                  ]
+            },
+            {
+                  "name": "Bażyna",
+                  "text": "O arie naturală protejată în regiunea Mazuriei.",
+                  "category": "natural",
+                  "coords": [
+                        21.482179,
+                        53.767735
+                  ]
+            },
+            {
+                  "name": "Prawdowskie Wzgórze",
+                  "text": "Rezervație naturală care acoperă o zonă forestieră deluroasă.",
+                  "category": "natural",
+                  "coords": [
+                        21.534213,
+                        53.796378
+                  ]
             }
       ],
       "en": [
@@ -631,6 +3151,51 @@ export const polandReliefV2: POI[] = [
                   "coords": [
                         21.490858,
                         53.802307
+                  ]
+            },
+            {
+                  "name": "Rezerwat Jezioro Lisunie",
+                  "text": "Nature reserve protecting a dystrophic lake and surrounding bogs.",
+                  "category": "natural",
+                  "coords": [
+                        21.505514,
+                        53.78306
+                  ]
+            },
+            {
+                  "name": "Tropikana",
+                  "text": "Water park with various pools and wellness facilities.",
+                  "category": "recreational",
+                  "coords": [
+                        21.558535,
+                        53.80406
+                  ]
+            },
+            {
+                  "name": "Torfowisko Zełwąga",
+                  "text": "Nature reserve protecting local peat bogs.",
+                  "category": "natural",
+                  "coords": [
+                        21.523195,
+                        53.802683
+                  ]
+            },
+            {
+                  "name": "Bażyna",
+                  "text": "A protected natural area in the Masurian region.",
+                  "category": "natural",
+                  "coords": [
+                        21.482179,
+                        53.767735
+                  ]
+            },
+            {
+                  "name": "Prawdowskie Wzgórze",
+                  "text": "Nature reserve covering a hilly forest area.",
+                  "category": "natural",
+                  "coords": [
+                        21.534213,
+                        53.796378
                   ]
             }
       ]
@@ -679,7 +3244,52 @@ export const polandReliefV2: POI[] = [
       fr: ["La surface totale des lacs dépasse les 480 kilomètres carrés", "On y trouve le plus grand lac de Pologne, le Śniardwy, d'une superficie de 113 km²", "Le système hydrique est relié par des canaux artificiels (ex : canal de Mazurie)", "Le lac Łuknajno est une réserve de biosphère de l'UNESCO, lieu de nidification privilégié des cygnes", "L'altitude des collines morainiques glaciaires atteint 300 mètres", "Le lynx boréal est présent dans les forêts denses de la région", "La région des lacs était finaliste du concours des '7 nouvelles merveilles de la nature' en 2011"],
     }, image: "/poi-images/poland-masurian-lake-district-relief-v2.webp"},
   {
-    id: "poland-lacka-dune-relief-v2",
+    id: "poland-lacka-dune-relief-v2", "sights": {
+      "de": [
+            {
+                  "name": "Wydma Łącka",
+                  "text": "Eine große Wanderdüne, die beeindruckende Ausblicke auf die Küste bietet.",
+                  "category": "natural",
+                  "coords": [
+                        17.432294,
+                        54.748189
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Wydma Łącka",
+                  "text": "Hatalmas vándorló homokdűne, amely lenyűgöző kilátást nyújt a tengerpartra.",
+                  "category": "natural",
+                  "coords": [
+                        17.432294,
+                        54.748189
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Wydma Łącka",
+                  "text": "O dună de nisip mișcătoare mare, care oferă vederi impresionante asupra coastei.",
+                  "category": "natural",
+                  "coords": [
+                        17.432294,
+                        54.748189
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Wydma Łącka",
+                  "text": "A large moving sand dune offering impressive views of the coast.",
+                  "category": "natural",
+                  "coords": [
+                        17.432294,
+                        54.748189
+                  ]
+            }
+      ]
+},
     parent: "PL",
     type: "landmark",
     name: { de: "Lontzke-Düne", hu: "Lontzke-dűne", ro: "Duna Łącka", en: "Łącka Dune"},
@@ -769,7 +3379,304 @@ export const polandReliefV2: POI[] = [
       fr: ["Le bassin couvre une superficie d'environ 270 kilomètres carrés", "Le fond de la vallée se situe à une altitude moyenne de 300 à 400 mètres au-dessus du niveau de la mer", "Plus de 30 châteaux historiques et manoirs se trouvent dans la région", "La zone était la résidence d'été favorite de la famille royale de Prusse, les Hohenzollern, au XIXe siècle", "La rivière Bóbr a creusé dans la vallée une gorge pittoresque bordée de parois rocheuses abruptes", "Le paysage culturel a été classé Monument historique officiel de Pologne (Pomnik Historii)", "La vallée offre une vue directe sur le point culminant des Sudètes, la Sněžka, à 1603 mètres"],
     }, image: "/poi-images/poland-jelenia-gora-valley-relief-v2.webp"},
   {
-    id: "poland-beskid-zywiecki-range-relief-v2",
+    id: "poland-beskid-zywiecki-range-relief-v2", "sights": {
+      "de": [
+            {
+                  "name": "Góra Pięciu Kopców",
+                  "text": "Der höchste Punkt des Pilsko-Massivs in den Saybuscher Beskiden.",
+                  "category": "landmark",
+                  "coords": [
+                        19.318797,
+                        49.53109
+                  ]
+            },
+            {
+                  "name": "Munczolik (Szczawinka)",
+                  "text": "Ein Gipfel in Żywiec Beskids.",
+                  "category": "landmark",
+                  "coords": [
+                        19.297005,
+                        49.533598
+                  ]
+            },
+            {
+                  "name": "Dudová",
+                  "text": "Ein Gipfel in Żywiec Beskids.",
+                  "category": "landmark",
+                  "coords": [
+                        19.346118,
+                        49.504968
+                  ]
+            },
+            {
+                  "name": "Minčol",
+                  "text": "Ein Gipfel in Żywiec Beskids.",
+                  "category": "landmark",
+                  "coords": [
+                        19.285823,
+                        49.516244
+                  ]
+            },
+            {
+                  "name": "Magurka",
+                  "text": "Ein Gipfel in Żywiec Beskids.",
+                  "category": "landmark",
+                  "coords": [
+                        19.335881,
+                        49.49964
+                  ]
+            },
+            {
+                  "name": "Mechy",
+                  "text": "Ein Gipfel in Żywiec Beskids.",
+                  "category": "landmark",
+                  "coords": [
+                        19.311888,
+                        49.515804
+                  ]
+            },
+            {
+                  "name": "Hoľa",
+                  "text": "Ein Gipfel in Żywiec Beskids.",
+                  "category": "landmark",
+                  "coords": [
+                        19.349035,
+                        49.498092
+                  ]
+            },
+            {
+                  "name": "Súšava",
+                  "text": "Ein Gipfel in Żywiec Beskids.",
+                  "category": "landmark",
+                  "coords": [
+                        19.311152,
+                        49.498479
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Góra Pięciu Kopców",
+                  "text": "A Pilsko-masszívum legmagasabb pontja a Żywieci-Beszkidekben.",
+                  "category": "landmark",
+                  "coords": [
+                        19.318797,
+                        49.53109
+                  ]
+            },
+            {
+                  "name": "Munczolik (Szczawinka)",
+                  "text": "Egy hegycsúcs Żywiec Beskids területén.",
+                  "category": "landmark",
+                  "coords": [
+                        19.297005,
+                        49.533598
+                  ]
+            },
+            {
+                  "name": "Dudová",
+                  "text": "Egy hegycsúcs Żywiec Beskids területén.",
+                  "category": "landmark",
+                  "coords": [
+                        19.346118,
+                        49.504968
+                  ]
+            },
+            {
+                  "name": "Minčol",
+                  "text": "Egy hegycsúcs Żywiec Beskids területén.",
+                  "category": "landmark",
+                  "coords": [
+                        19.285823,
+                        49.516244
+                  ]
+            },
+            {
+                  "name": "Magurka",
+                  "text": "Egy hegycsúcs Żywiec Beskids területén.",
+                  "category": "landmark",
+                  "coords": [
+                        19.335881,
+                        49.49964
+                  ]
+            },
+            {
+                  "name": "Mechy",
+                  "text": "Egy hegycsúcs Żywiec Beskids területén.",
+                  "category": "landmark",
+                  "coords": [
+                        19.311888,
+                        49.515804
+                  ]
+            },
+            {
+                  "name": "Hoľa",
+                  "text": "Egy hegycsúcs Żywiec Beskids területén.",
+                  "category": "landmark",
+                  "coords": [
+                        19.349035,
+                        49.498092
+                  ]
+            },
+            {
+                  "name": "Súšava",
+                  "text": "Egy hegycsúcs Żywiec Beskids területén.",
+                  "category": "landmark",
+                  "coords": [
+                        19.311152,
+                        49.498479
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Góra Pięciu Kopców",
+                  "text": "Cel mai înalt punct al masivului Pilsko din Beskizii Żywiec.",
+                  "category": "landmark",
+                  "coords": [
+                        19.318797,
+                        49.53109
+                  ]
+            },
+            {
+                  "name": "Munczolik (Szczawinka)",
+                  "text": "Un vârf montan în Żywiec Beskids.",
+                  "category": "landmark",
+                  "coords": [
+                        19.297005,
+                        49.533598
+                  ]
+            },
+            {
+                  "name": "Dudová",
+                  "text": "Un vârf montan în Żywiec Beskids.",
+                  "category": "landmark",
+                  "coords": [
+                        19.346118,
+                        49.504968
+                  ]
+            },
+            {
+                  "name": "Minčol",
+                  "text": "Un vârf montan în Żywiec Beskids.",
+                  "category": "landmark",
+                  "coords": [
+                        19.285823,
+                        49.516244
+                  ]
+            },
+            {
+                  "name": "Magurka",
+                  "text": "Un vârf montan în Żywiec Beskids.",
+                  "category": "landmark",
+                  "coords": [
+                        19.335881,
+                        49.49964
+                  ]
+            },
+            {
+                  "name": "Mechy",
+                  "text": "Un vârf montan în Żywiec Beskids.",
+                  "category": "landmark",
+                  "coords": [
+                        19.311888,
+                        49.515804
+                  ]
+            },
+            {
+                  "name": "Hoľa",
+                  "text": "Un vârf montan în Żywiec Beskids.",
+                  "category": "landmark",
+                  "coords": [
+                        19.349035,
+                        49.498092
+                  ]
+            },
+            {
+                  "name": "Súšava",
+                  "text": "Un vârf montan în Żywiec Beskids.",
+                  "category": "landmark",
+                  "coords": [
+                        19.311152,
+                        49.498479
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Góra Pięciu Kopców",
+                  "text": "The highest point of the Pilsko massif in the Żywiec Beskids.",
+                  "category": "landmark",
+                  "coords": [
+                        19.318797,
+                        49.53109
+                  ]
+            },
+            {
+                  "name": "Munczolik (Szczawinka)",
+                  "text": "A mountain peak in Żywiec Beskids.",
+                  "category": "landmark",
+                  "coords": [
+                        19.297005,
+                        49.533598
+                  ]
+            },
+            {
+                  "name": "Dudová",
+                  "text": "A mountain peak in Żywiec Beskids.",
+                  "category": "landmark",
+                  "coords": [
+                        19.346118,
+                        49.504968
+                  ]
+            },
+            {
+                  "name": "Minčol",
+                  "text": "A mountain peak in Żywiec Beskids.",
+                  "category": "landmark",
+                  "coords": [
+                        19.285823,
+                        49.516244
+                  ]
+            },
+            {
+                  "name": "Magurka",
+                  "text": "A mountain peak in Żywiec Beskids.",
+                  "category": "landmark",
+                  "coords": [
+                        19.335881,
+                        49.49964
+                  ]
+            },
+            {
+                  "name": "Mechy",
+                  "text": "A mountain peak in Żywiec Beskids.",
+                  "category": "landmark",
+                  "coords": [
+                        19.311888,
+                        49.515804
+                  ]
+            },
+            {
+                  "name": "Hoľa",
+                  "text": "A mountain peak in Żywiec Beskids.",
+                  "category": "landmark",
+                  "coords": [
+                        19.349035,
+                        49.498092
+                  ]
+            },
+            {
+                  "name": "Súšava",
+                  "text": "A mountain peak in Żywiec Beskids.",
+                  "category": "landmark",
+                  "coords": [
+                        19.311152,
+                        49.498479
+                  ]
+            }
+      ]
+},
     parent: "PL",
     type: "mountain",
     name: { de: "Saybuscher Beskiden", hu: "Magas-Beszkidek", ro: "Beskizii Żywiecki", en: "Żywiec Beskids"},
@@ -859,7 +3766,268 @@ export const polandReliefV2: POI[] = [
       fr: ["Le sommet le plus élevé des Sudètes, la Sniejka, s'élève à 1 603 mètres", "Le système montagneux s'est formé il y a plus de 300 millions d'années", "Le mouvement des blocs rocheux le long des failles tectoniques a façonné le relief actuel de montagne de blocs", "Le passé volcanique de la région est préservé par les cônes de basalte des monts Kaczawskie (par ex. Ostrzyca)", "Les eaux minérales de la région ont permis la création de célèbres villes thermales comme Lądek-Zdrój", "Le bassin houiller de Silésie est étroitement lié à la géologie de la périphérie des Sudètes", "La région a connu par le passé une exploitation intense de l'or, de l'argent, du cuivre et de l'uranium"],
     }, image: "/poi-images/poland-sudetes-mountains-relief-v2.webp"},
   {
-    id: "poland-beskid-niski-range-relief-v2",
+    id: "poland-beskid-niski-range-relief-v2", "sights": {
+      "de": [
+            {
+                  "name": "Smilniansky vrch",
+                  "text": "Ein markanter Gipfel im Bergland der Niederen Beskiden.",
+                  "category": "landmark",
+                  "coords": [
+                        21.33967,
+                        49.407252
+                  ]
+            },
+            {
+                  "name": "Jubilejný háj RČS 1918-1928, Zborov",
+                  "text": "Ein kleiner Gedenkhain in Zborov, der an das erste Jahrzehnt der Tschechoslowakei erinnert.",
+                  "category": "landmark",
+                  "coords": [
+                        21.30771,
+                        49.367279
+                  ]
+            },
+            {
+                  "name": "Deutscher Soldatenfriedhof 1939-1945 Zborov",
+                  "text": "Ein Soldatenfriedhof in Zborov für die im Zweiten Weltkrieg gefallenen deutschen Soldaten.",
+                  "category": "landmark",
+                  "coords": [
+                        21.314842,
+                        49.369232
+                  ]
+            },
+            {
+                  "name": "Kostol sv. Žofie",
+                  "text": "Eine barocke Kirche in der Gemeinde Zborov.",
+                  "category": "religious",
+                  "coords": [
+                        21.307479,
+                        49.36836
+                  ]
+            },
+            {
+                  "name": "Kostol sv. Margaréty Antiochijskej",
+                  "text": "Eine historische Kirche in Zborov, die der heiligen Margareta gewidmet ist.",
+                  "category": "religious",
+                  "coords": [
+                        21.308595,
+                        49.371402
+                  ]
+            },
+            {
+                  "name": "narodenia Presvätej Bohorodičky",
+                  "text": "Eine traditionelle Kirche in den Niederen Beskiden, die der Geburt der seligen Jungfrau Maria gewidmet ist.",
+                  "category": "religious",
+                  "coords": [
+                        21.318596,
+                        49.420823
+                  ]
+            },
+            {
+                  "name": "Chrám Zosnutia Presvätej Bohorodičky",
+                  "text": "Ein griechisch-katholisches Gotteshaus in den Niederen Beskiden, das der Entschlafung der Gottesmutter gewidmet ist.",
+                  "category": "religious",
+                  "coords": [
+                        21.297045,
+                        49.398281
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Smilniansky vrch",
+                  "text": "Jelentős hegycsúcs az Alacsony-Beszkidek hegységben.",
+                  "category": "landmark",
+                  "coords": [
+                        21.33967,
+                        49.407252
+                  ]
+            },
+            {
+                  "name": "Jubilejný háj RČS 1918-1928, Zborov",
+                  "text": "Emlékpark Zborón Csehszlovákia fennállásának első tíz éve alkalmából.",
+                  "category": "landmark",
+                  "coords": [
+                        21.30771,
+                        49.367279
+                  ]
+            },
+            {
+                  "name": "Nemecký vojenský cintorín Zborov 1939-1945",
+                  "text": "Zborói katonai temető a második világháborúban elesett német katonák számára.",
+                  "category": "landmark",
+                  "coords": [
+                        21.314842,
+                        49.369232
+                  ]
+            },
+            {
+                  "name": "Kostol sv. Žofie",
+                  "text": "Barokk stílusú templom Zboró községben.",
+                  "category": "religious",
+                  "coords": [
+                        21.307479,
+                        49.36836
+                  ]
+            },
+            {
+                  "name": "Kostol sv. Margaréty Antiochijskej",
+                  "text": "Szent Margitnak szentelt történelmi templom Zborón.",
+                  "category": "religious",
+                  "coords": [
+                        21.308595,
+                        49.371402
+                  ]
+            },
+            {
+                  "name": "narodenia Presvätej Bohorodičky",
+                  "text": "Az Istenszülő születésének szentelt hagyományos templom az Alacsony-Beszkidekben.",
+                  "category": "religious",
+                  "coords": [
+                        21.318596,
+                        49.420823
+                  ]
+            },
+            {
+                  "name": "Chrám Zosnutia Presvätej Bohorodičky",
+                  "text": "Az Istenszülő elszenderedésének szentelt templom az Alacsony-Beszkidekben.",
+                  "category": "religious",
+                  "coords": [
+                        21.297045,
+                        49.398281
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Smilniansky vrch",
+                  "text": "Un vârf montan proeminent în zona Beschizilor de Jos.",
+                  "category": "landmark",
+                  "coords": [
+                        21.33967,
+                        49.407252
+                  ]
+            },
+            {
+                  "name": "Jubilejný háj RČS 1918-1928, Zborov",
+                  "text": "Un mic parc memorial în Zborov care amintește de prima decadă a Cehoslovaciei.",
+                  "category": "landmark",
+                  "coords": [
+                        21.30771,
+                        49.367279
+                  ]
+            },
+            {
+                  "name": "Nemecký vojenský cintorín Zborov 1939-1945",
+                  "text": "Un cimitir militar în Zborov pentru soldații germani căzuți în Al Doilea Război Mondial.",
+                  "category": "landmark",
+                  "coords": [
+                        21.314842,
+                        49.369232
+                  ]
+            },
+            {
+                  "name": "Kostol sv. Žofie",
+                  "text": "O biserică în stil baroc în comuna Zborov.",
+                  "category": "religious",
+                  "coords": [
+                        21.307479,
+                        49.36836
+                  ]
+            },
+            {
+                  "name": "Kostol sv. Margaréty Antiochijskej",
+                  "text": "O biserică istorică în Zborov, dedicată Sfintei Margareta.",
+                  "category": "religious",
+                  "coords": [
+                        21.308595,
+                        49.371402
+                  ]
+            },
+            {
+                  "name": "narodenia Presvätej Bohorodičky",
+                  "text": "O biserică tradițională dedicată Nașterii Maicii Domnului, situată în Beskizii de Jos.",
+                  "category": "religious",
+                  "coords": [
+                        21.318596,
+                        49.420823
+                  ]
+            },
+            {
+                  "name": "Chrám Zosnutia Presvätej Bohorodičky",
+                  "text": "O biserică dedicată Adormirii Maicii Domnului din Beskizii de Jos.",
+                  "category": "religious",
+                  "coords": [
+                        21.297045,
+                        49.398281
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Smilniansky vrch",
+                  "text": "A prominent peak in the Low Beskids mountain range.",
+                  "category": "landmark",
+                  "coords": [
+                        21.33967,
+                        49.407252
+                  ]
+            },
+            {
+                  "name": "Jubilejný háj RČS 1918-1928, Zborov",
+                  "text": "A small commemorative grove in Zborov marking the first decade of Czechoslovakia.",
+                  "category": "landmark",
+                  "coords": [
+                        21.30771,
+                        49.367279
+                  ]
+            },
+            {
+                  "name": "Nemecký vojenský cintorín Zborov 1939-1945",
+                  "text": "A military cemetery in Zborov for German soldiers fallen during World War II.",
+                  "category": "landmark",
+                  "coords": [
+                        21.314842,
+                        49.369232
+                  ]
+            },
+            {
+                  "name": "Kostol sv. Žofie",
+                  "text": "A Baroque church in the village of Zborov.",
+                  "category": "religious",
+                  "coords": [
+                        21.307479,
+                        49.36836
+                  ]
+            },
+            {
+                  "name": "Kostol sv. Margaréty Antiochijskej",
+                  "text": "A historic church in Zborov dedicated to Saint Margaret.",
+                  "category": "religious",
+                  "coords": [
+                        21.308595,
+                        49.371402
+                  ]
+            },
+            {
+                  "name": "narodenia Presvätej Bohorodičky",
+                  "text": "A traditional church dedicated to the Nativity of the Blessed Virgin Mary in the Low Beskids.",
+                  "category": "religious",
+                  "coords": [
+                        21.318596,
+                        49.420823
+                  ]
+            },
+            {
+                  "name": "Chrám Zosnutia Presvätej Bohorodičky",
+                  "text": "A church dedicated to the Dormition of the Mother of God in the Low Beskids.",
+                  "category": "religious",
+                  "coords": [
+                        21.297045,
+                        49.398281
+                  ]
+            }
+      ]
+},
     parent: "PL",
     type: "mountain",
     name: { de: "Niedere Beskiden", hu: "Alacsony-Beszkidek", ro: "Beskizii Joși", en: "Low Beskids"},
@@ -904,7 +4072,304 @@ export const polandReliefV2: POI[] = [
       fr: ["Le massif est la partie la plus basse des Carpates en Pologne ; ses sommets dépassent rarement 800 mètres", "Le point culminant, Lackowa, s'élève à 997 mètres au-dessus du niveau de la mer", "Le col de Dukla (500 m) a été pendant des siècles la route commerciale la plus importante à travers les Carpates", "Ignacy Łukasiewicz a créé la première mine de pétrole au monde à Bóbrka en 1854", "Le parc national de Magura protège les forêts les plus précieuses du massif depuis 1995", "Après la Seconde Guerre mondiale, la population locale Lemko a été expulsée dans le cadre de l'Opération Vistule", "Des dizaines d'églises en bois gréco-catholiques et orthodoxes subsistent, certaines classées à l'UNESCO"],
     }, image: "/poi-images/poland-beskid-niski-range-relief-v2.webp"},
   {
-    id: "poland-pogorze-przemyskie-upland-relief-v2",
+    id: "poland-pogorze-przemyskie-upland-relief-v2", "sights": {
+      "de": [
+            {
+                  "name": "Kopystanka",
+                  "text": "Ein Naturschutzgebiet in Polen, das für den Berg Kopystanka bekannt ist.",
+                  "category": "natural",
+                  "coords": [
+                        22.623886,
+                        49.677526
+                  ]
+            },
+            {
+                  "name": "Grodzisko Kopysno",
+                  "text": "Eine archäologische Stätte einer frühmittelalterlichen slawischen Burgwallanlage.",
+                  "category": "historical",
+                  "coords": [
+                        22.63034,
+                        49.676067
+                  ]
+            },
+            {
+                  "name": "Ruiny zamku fortecznego w Rybotyczach",
+                  "text": "Die Überreste einer historischen Festungsanlage in Rybotycze.",
+                  "category": "castle",
+                  "coords": [
+                        22.651178,
+                        49.655996
+                  ]
+            },
+            {
+                  "name": "Użytek ekologiczny Trójca",
+                  "text": "Ein geschütztes ökologisches Gebiet in den Przemyśl-Vorgebirgen.",
+                  "category": "natural",
+                  "coords": [
+                        22.576009,
+                        49.654735
+                  ]
+            },
+            {
+                  "name": "Zespół użytków ekologicznych Kopysno",
+                  "text": "Ein Komplex ökologischer Gebiete im Przemyśl-Vorgebirge zum Schutz der lokalen Artenvielfalt.",
+                  "category": "natural",
+                  "coords": [
+                        22.643948,
+                        49.667747
+                  ]
+            },
+            {
+                  "name": "Zespół użytków ekologicznych Posada Rybotycka",
+                  "text": "Dieses Naturschutzgebiet bei Posada Rybotycka bewahrt die biologische Vielfalt der Region.",
+                  "category": "natural",
+                  "coords": [
+                        22.603512,
+                        49.681551
+                  ]
+            },
+            {
+                  "name": "Zespół użytków ekologicznych Rybotycze",
+                  "text": "Ein ökologisch wertvolles Schutzgebiet in der Nähe von Rybotycze im Przemyśl-Vorgebirge.",
+                  "category": "natural",
+                  "coords": [
+                        22.650599,
+                        49.649954
+                  ]
+            },
+            {
+                  "name": "Użytek ekologiczny Borysławka",
+                  "text": "Ein ausgewiesenes Naturschutzgebiet im Borysławka-Tal zur Erhaltung der lokalen Flora und Fauna.",
+                  "category": "natural",
+                  "coords": [
+                        22.631288,
+                        49.65349
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Kopystanka",
+                  "text": "Lengyelországi természetvédelmi terület, amely a Kopystanka-hegyről nevezetes.",
+                  "category": "natural",
+                  "coords": [
+                        22.623886,
+                        49.677526
+                  ]
+            },
+            {
+                  "name": "Grodzisko Kopysno",
+                  "text": "Kora középkori szláv földvár régészeti lelőhelye Lengyelországban.",
+                  "category": "historical",
+                  "coords": [
+                        22.63034,
+                        49.676067
+                  ]
+            },
+            {
+                  "name": "Ruiny zamku fortecznego w Rybotyczach",
+                  "text": "Egy történelmi várkastély romjai Rybotycze településen.",
+                  "category": "castle",
+                  "coords": [
+                        22.651178,
+                        49.655996
+                  ]
+            },
+            {
+                  "name": "Użytek ekologiczny Trójca",
+                  "text": "Védett ökológiai terület a Przemyśl-hegyalja vidékén.",
+                  "category": "natural",
+                  "coords": [
+                        22.576009,
+                        49.654735
+                  ]
+            },
+            {
+                  "name": "Zespół użytków ekologicznych Kopysno",
+                  "text": "Ökológiai területek együttese a Przemyśl-hegyalján, a helyi biológiai sokféleség védelmére.",
+                  "category": "natural",
+                  "coords": [
+                        22.643948,
+                        49.667747
+                  ]
+            },
+            {
+                  "name": "Zespół użytków ekologicznych Posada Rybotycka",
+                  "text": "Természetvédelmi terület Posada Rybotycka közelében, amely a régió biológiai sokféleségét őrzi.",
+                  "category": "natural",
+                  "coords": [
+                        22.603512,
+                        49.681551
+                  ]
+            },
+            {
+                  "name": "Zespół użytków ekologicznych Rybotycze",
+                  "text": "Ökológiailag jelentős védett terület Rybotycze közelében a Przemyśl-hegyalján.",
+                  "category": "natural",
+                  "coords": [
+                        22.650599,
+                        49.649954
+                  ]
+            },
+            {
+                  "name": "Użytek ekologiczny Borysławka",
+                  "text": "Természetvédelmi terület a Borysławka-völgyben, a helyi növény- és állatvilág megőrzésére.",
+                  "category": "natural",
+                  "coords": [
+                        22.631288,
+                        49.65349
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Kopystanka",
+                  "text": "O rezervație naturală din Polonia, cunoscută pentru dealul Kopystanka.",
+                  "category": "natural",
+                  "coords": [
+                        22.623886,
+                        49.677526
+                  ]
+            },
+            {
+                  "name": "Grodzisko Kopysno",
+                  "text": "Situl arheologic al unei așezări fortificate slave din Evul Mediu timpuriu.",
+                  "category": "historical",
+                  "coords": [
+                        22.63034,
+                        49.676067
+                  ]
+            },
+            {
+                  "name": "Ruiny zamku fortecznego w Rybotyczach",
+                  "text": "Ruinele unei fortificații istorice situate în localitatea Rybotycze.",
+                  "category": "castle",
+                  "coords": [
+                        22.651178,
+                        49.655996
+                  ]
+            },
+            {
+                  "name": "Użytek ekologiczny Trójca",
+                  "text": "O arie ecologică protejată situată în regiunea deluroasă de lângă Przemyśl.",
+                  "category": "natural",
+                  "coords": [
+                        22.576009,
+                        49.654735
+                  ]
+            },
+            {
+                  "name": "Zespół użytków ekologicznych Kopysno",
+                  "text": "Un complex de situri ecologice în podișul Przemyśl pentru protejarea biodiversității locale.",
+                  "category": "natural",
+                  "coords": [
+                        22.643948,
+                        49.667747
+                  ]
+            },
+            {
+                  "name": "Zespół użytków ekologicznych Posada Rybotycka",
+                  "text": "O rezervație naturală lângă Posada Rybotycka, dedicată conservării biodiversității regionale.",
+                  "category": "natural",
+                  "coords": [
+                        22.603512,
+                        49.681551
+                  ]
+            },
+            {
+                  "name": "Zespół użytków ekologicznych Rybotycze",
+                  "text": "O arie protejată de importanță ecologică lângă Rybotycze, în podișul Przemyśl.",
+                  "category": "natural",
+                  "coords": [
+                        22.650599,
+                        49.649954
+                  ]
+            },
+            {
+                  "name": "Użytek ekologiczny Borysławka",
+                  "text": "O rezervație naturală în valea Borysławka, pentru conservarea florei și faunei locale.",
+                  "category": "natural",
+                  "coords": [
+                        22.631288,
+                        49.65349
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Kopystanka",
+                  "text": "A nature reserve in Poland, centered around the Kopystanka hill.",
+                  "category": "natural",
+                  "coords": [
+                        22.623886,
+                        49.677526
+                  ]
+            },
+            {
+                  "name": "Grodzisko Kopysno",
+                  "text": "The archaeological site of an early medieval Slavic fortified settlement.",
+                  "category": "historical",
+                  "coords": [
+                        22.63034,
+                        49.676067
+                  ]
+            },
+            {
+                  "name": "Ruiny zamku fortecznego w Rybotyczach",
+                  "text": "The historical remains of a fortified castle located in Rybotycze.",
+                  "category": "castle",
+                  "coords": [
+                        22.651178,
+                        49.655996
+                  ]
+            },
+            {
+                  "name": "Użytek ekologiczny Trójca",
+                  "text": "A protected ecological area located in the Przemyśl Foothills.",
+                  "category": "natural",
+                  "coords": [
+                        22.576009,
+                        49.654735
+                  ]
+            },
+            {
+                  "name": "Zespół użytków ekologicznych Kopysno",
+                  "text": "A complex of ecological sites in the Przemyśl Foothills protecting local biodiversity.",
+                  "category": "natural",
+                  "coords": [
+                        22.643948,
+                        49.667747
+                  ]
+            },
+            {
+                  "name": "Zespół użytków ekologicznych Posada Rybotycka",
+                  "text": "A nature reserve near Posada Rybotycka dedicated to preserving regional biodiversity.",
+                  "category": "natural",
+                  "coords": [
+                        22.603512,
+                        49.681551
+                  ]
+            },
+            {
+                  "name": "Zespół użytków ekologicznych Rybotycze",
+                  "text": "An ecologically significant protected area near Rybotycze in the Przemyśl Foothills.",
+                  "category": "natural",
+                  "coords": [
+                        22.650599,
+                        49.649954
+                  ]
+            },
+            {
+                  "name": "Użytek ekologiczny Borysławka",
+                  "text": "A nature reserve in the Borysławka valley for the conservation of local flora and fauna.",
+                  "category": "natural",
+                  "coords": [
+                        22.631288,
+                        49.65349
+                  ]
+            }
+      ]
+},
     parent: "PL",
     type: "mountain",
     name: { de: "Przemysler Vorgebirge", hu: "Przemyśli-előhegység", ro: "Piemontul Przemyśl", en: "Przemyśl Foothills"},
@@ -949,7 +4414,304 @@ export const polandReliefV2: POI[] = [
       fr: ["Le point culminant de la région, le Suchy Obycz, s'élève à 617 mètres au-dessus du niveau de la mer", "Le taux de boisement de la zone est extrêmement élevé, dépassant par endroits les 60 %", "Le complexe monastique franciscain de Kalwaria Pacławska est le lieu de pèlerinage le plus important", "La forteresse de Przemyśl était l'un des plus grands systèmes de fortification d'Europe à la fin du XIXe siècle", "Le long de la vallée de la rivière Wiar, subsistent des îlots de flore steppique datant d'avant la glaciation", "Le sol des collines est également recouvert d'épaisses couches de loess d'origine glaciaire", "Les traces des cultures polonaise, ukrainienne et juive se mêlent dans cette région frontalière historique"],
     }, image: "/poi-images/poland-pogorze-przemyskie-upland-relief-v2.webp"},
   {
-    id: "poland-beskid-sadecki-range-relief-v2",
+    id: "poland-beskid-sadecki-range-relief-v2", "sights": {
+      "de": [
+            {
+                  "name": "Popradzki Park Krajobrazowy",
+                  "text": "Ein großer Landschaftspark, der die Natur der Beskiden schützt.",
+                  "category": "natural",
+                  "coords": [
+                        20.77392,
+                        49.429347
+                  ]
+            },
+            {
+                  "name": "Rezerwat Lembarczek",
+                  "text": "Ein Naturschutzgebiet zum Schutz der lokalen Waldökosysteme.",
+                  "category": "natural",
+                  "coords": [
+                        20.84037,
+                        49.444999
+                  ]
+            },
+            {
+                  "name": "Rezerwat Łabowiec",
+                  "text": "Ein Schutzgebiet, das für seine unberührte Natur bekannt ist.",
+                  "category": "natural",
+                  "coords": [
+                        20.824284,
+                        49.47648
+                  ]
+            },
+            {
+                  "name": "Bunior",
+                  "text": "Ein geschütztes Naturgebiet in den Sandezer Beskiden.",
+                  "category": "natural",
+                  "coords": [
+                        20.792369,
+                        49.428632
+                  ]
+            },
+            {
+                  "name": "Parchowatka",
+                  "text": "Ein Berggipfel in den Sandezer Beskiden.",
+                  "category": "landmark",
+                  "coords": [
+                        20.783425,
+                        49.455112
+                  ]
+            },
+            {
+                  "name": "Wargulszańskie Góry",
+                  "text": "Eine landschaftlich reizvolle Erhebung in den polnischen Beskiden.",
+                  "category": "landmark",
+                  "coords": [
+                        20.805259,
+                        49.469765
+                  ]
+            },
+            {
+                  "name": "Łaziska",
+                  "text": "Ein bekannter Berggipfel in der Nähe des Poprad-Tals.",
+                  "category": "landmark",
+                  "coords": [
+                        20.800113,
+                        49.458938
+                  ]
+            },
+            {
+                  "name": "Wodospad na potoku Łomniczanka",
+                  "text": "Ein kleiner natürlicher Wasserfall am Bach Łomniczanka.",
+                  "category": "landmark",
+                  "coords": [
+                        20.757294,
+                        49.451027
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Popradzki Park Krajobrazowy",
+                  "text": "Nagy kiterjedésű tájvédelmi körzet a Beszkidekben.",
+                  "category": "natural",
+                  "coords": [
+                        20.77392,
+                        49.429347
+                  ]
+            },
+            {
+                  "name": "Rezerwat Lembarczek",
+                  "text": "A helyi erdei ökoszisztémák védelmére létrehozott természetvédelmi terület.",
+                  "category": "natural",
+                  "coords": [
+                        20.84037,
+                        49.444999
+                  ]
+            },
+            {
+                  "name": "Rezerwat Łabowiec",
+                  "text": "Védett terület, amely érintetlen természetéről ismert.",
+                  "category": "natural",
+                  "coords": [
+                        20.824284,
+                        49.47648
+                  ]
+            },
+            {
+                  "name": "Bunior",
+                  "text": "Védett természeti terület a Szandeci-Beszkidekben.",
+                  "category": "natural",
+                  "coords": [
+                        20.792369,
+                        49.428632
+                  ]
+            },
+            {
+                  "name": "Parchowatka",
+                  "text": "Hegycsúcs a Szandeci-Beszkidek hegységben.",
+                  "category": "landmark",
+                  "coords": [
+                        20.783425,
+                        49.455112
+                  ]
+            },
+            {
+                  "name": "Wargulszańskie Góry",
+                  "text": "Festői magaslat a lengyel Beszkidekben.",
+                  "category": "landmark",
+                  "coords": [
+                        20.805259,
+                        49.469765
+                  ]
+            },
+            {
+                  "name": "Łaziska",
+                  "text": "Ismert hegycsúcs a Poprád-völgy közelében.",
+                  "category": "landmark",
+                  "coords": [
+                        20.800113,
+                        49.458938
+                  ]
+            },
+            {
+                  "name": "Wodospad na potoku Łomniczanka",
+                  "text": "Kisméretű természetes vízesés a Łomniczanka-patakon.",
+                  "category": "landmark",
+                  "coords": [
+                        20.757294,
+                        49.451027
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Popradzki Park Krajobrazowy",
+                  "text": "Un parc peisaj mare care protejează natura din Beskizi.",
+                  "category": "natural",
+                  "coords": [
+                        20.77392,
+                        49.429347
+                  ]
+            },
+            {
+                  "name": "Rezerwat Lembarczek",
+                  "text": "O rezervație naturală pentru protejarea ecosistemelor forestiere locale.",
+                  "category": "natural",
+                  "coords": [
+                        20.84037,
+                        49.444999
+                  ]
+            },
+            {
+                  "name": "Rezerwat Łabowiec",
+                  "text": "O zonă protejată cunoscută pentru natura sa curată.",
+                  "category": "natural",
+                  "coords": [
+                        20.824284,
+                        49.47648
+                  ]
+            },
+            {
+                  "name": "Bunior",
+                  "text": "O zonă naturală protejată în Beskizii Sądecki.",
+                  "category": "natural",
+                  "coords": [
+                        20.792369,
+                        49.428632
+                  ]
+            },
+            {
+                  "name": "Parchowatka",
+                  "text": "Un vârf montan în munții Beskizii Sądecki.",
+                  "category": "landmark",
+                  "coords": [
+                        20.783425,
+                        49.455112
+                  ]
+            },
+            {
+                  "name": "Wargulszańskie Góry",
+                  "text": "O cotă pitorească în munții Beskizi din Polonia.",
+                  "category": "landmark",
+                  "coords": [
+                        20.805259,
+                        49.469765
+                  ]
+            },
+            {
+                  "name": "Łaziska",
+                  "text": "Un vârf montan notabil în apropierea văii Poprad.",
+                  "category": "landmark",
+                  "coords": [
+                        20.800113,
+                        49.458938
+                  ]
+            },
+            {
+                  "name": "Wodospad na potoku Łomniczanka",
+                  "text": "O mică cascadă naturală pe pârâul Łomniczanka.",
+                  "category": "landmark",
+                  "coords": [
+                        20.757294,
+                        49.451027
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Popradzki Park Krajobrazowy",
+                  "text": "A large landscape park protecting the nature of the Beskids.",
+                  "category": "natural",
+                  "coords": [
+                        20.77392,
+                        49.429347
+                  ]
+            },
+            {
+                  "name": "Rezerwat Lembarczek",
+                  "text": "A nature reserve for the protection of local forest ecosystems.",
+                  "category": "natural",
+                  "coords": [
+                        20.84037,
+                        49.444999
+                  ]
+            },
+            {
+                  "name": "Rezerwat Łabowiec",
+                  "text": "A protected area known for its pristine natural environment.",
+                  "category": "natural",
+                  "coords": [
+                        20.824284,
+                        49.47648
+                  ]
+            },
+            {
+                  "name": "Bunior",
+                  "text": "A protected natural area in the Sądecki Beskids.",
+                  "category": "natural",
+                  "coords": [
+                        20.792369,
+                        49.428632
+                  ]
+            },
+            {
+                  "name": "Parchowatka",
+                  "text": "A mountain peak in the Sądecki Beskids range.",
+                  "category": "landmark",
+                  "coords": [
+                        20.783425,
+                        49.455112
+                  ]
+            },
+            {
+                  "name": "Wargulszańskie Góry",
+                  "text": "A scenic elevation in the Polish Beskids.",
+                  "category": "landmark",
+                  "coords": [
+                        20.805259,
+                        49.469765
+                  ]
+            },
+            {
+                  "name": "Łaziska",
+                  "text": "A notable mountain peak near the Poprad valley.",
+                  "category": "landmark",
+                  "coords": [
+                        20.800113,
+                        49.458938
+                  ]
+            },
+            {
+                  "name": "Wodospad na potoku Łomniczanka",
+                  "text": "A small natural waterfall on the Łomniczanka stream.",
+                  "category": "landmark",
+                  "coords": [
+                        20.757294,
+                        49.451027
+                  ]
+            }
+      ]
+},
     parent: "PL",
     type: "mountain",
     name: { de: "Sandzer Beskiden", hu: "Sądecki-Beszkidek", ro: "Beskizii Sądecki", en: "Sądecki Beskids"},
@@ -994,7 +4756,304 @@ export const polandReliefV2: POI[] = [
       fr: ["Le sommet le plus élevé est le Radziejowa, qui atteint 1262 mètres", "La vallée de la rivière Poprad dessine l'un des plus grands méandres des montagnes polonaises", "Le premier téléphérique à cabines de Pologne a été construit à Krynica-Zdrój en 1937", "Le parc paysager de Poprad protège une grande partie de la région", "La zone est un centre important de la culture et de l'architecture montagnarde Lemko (par ex. églises en bois)", "Des mofettes (émanations de CO2) sont présentes suite à une activité volcanique résiduelle", "Un système moderne de pistes de ski de plusieurs kilomètres fonctionne sur les pentes de la Jaworzyna Krynicka"],
     }, image: "/poi-images/poland-beskid-sadecki-range-relief-v2.webp"},
   {
-    id: "poland-gorce-mountains-relief-v2",
+    id: "poland-gorce-mountains-relief-v2", "sights": {
+      "de": [
+            {
+                  "name": "Nationalpark Gorce",
+                  "text": "Der Nationalpark Gorce schützt die Naturlandschaft und die vielfältige Tierwelt des Gorce-Gebirges in Polen.",
+                  "category": "natural",
+                  "coords": [
+                        20.150395,
+                        49.56146
+                  ]
+            },
+            {
+                  "name": "Gajówka Mikołaja",
+                  "text": "Gajówka Mikołaja ist ein historisches Forsthaus, das als Ausstellungsort im Gorce-Gebirge dient.",
+                  "category": "museum",
+                  "coords": [
+                        20.125309,
+                        49.521285
+                  ]
+            },
+            {
+                  "name": "Turbacz",
+                  "text": "Der Turbacz ist mit einer Höhe von 1.310 Metern der höchste Gipfel des Gorce-Gebirges.",
+                  "category": "landmark",
+                  "coords": [
+                        20.111384,
+                        49.542824
+                  ]
+            },
+            {
+                  "name": "Przełęcz Borek",
+                  "text": "Borek ist ein Gebirgspass im Gorce-Gebirge, der Panoramablicke auf die umliegenden Gipfel bietet.",
+                  "category": "natural",
+                  "coords": [
+                        20.145664,
+                        49.559179
+                  ]
+            },
+            {
+                  "name": "Jaworzyna Kamienicka",
+                  "text": "Die Jaworzyna Kamienicka ist der zweithöchste Gipfel im Gorce-Gebirge, bekannt für ihre historische Bergkapelle.",
+                  "category": "landmark",
+                  "coords": [
+                        20.157368,
+                        49.547766
+                  ]
+            },
+            {
+                  "name": "Kiczora",
+                  "text": "Die Kiczora ist ein markanter Berggipfel im Nationalpark Gorce.",
+                  "category": "landmark",
+                  "coords": [
+                        20.149147,
+                        49.539683
+                  ]
+            },
+            {
+                  "name": "Przysłop",
+                  "text": "Der Przysłop ist ein Berggipfel im Gorce-Gebirge mit Blick auf die polnischen Karpaten.",
+                  "category": "landmark",
+                  "coords": [
+                        20.204231,
+                        49.550242
+                  ]
+            },
+            {
+                  "name": "Czoło Turbacza",
+                  "text": "Das Czoło Turbacza ist ein Gipfel nahe dem Turbacz im Gorce-Gebirge, bekannt für seine Bergwiesen.",
+                  "category": "landmark",
+                  "coords": [
+                        20.115286,
+                        49.552254
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Gorczański Park Narodowy",
+                  "text": "A Gorce Nemzeti Park a lengyelországi Gorce-hegység természeti táját és változatos élővilágát védi.",
+                  "category": "natural",
+                  "coords": [
+                        20.150395,
+                        49.56146
+                  ]
+            },
+            {
+                  "name": "Gajówka Mikołaja",
+                  "text": "A Gajówka Mikołaja egy történelmi erdészház, amely kiállítóhelyként szolgál a Gorce-hegységben.",
+                  "category": "museum",
+                  "coords": [
+                        20.125309,
+                        49.521285
+                  ]
+            },
+            {
+                  "name": "Turbacz",
+                  "text": "A Turbacz a Gorce-hegység legmagasabb csúcsa, tengerszint feletti magassága 1310 méter.",
+                  "category": "landmark",
+                  "coords": [
+                        20.111384,
+                        49.542824
+                  ]
+            },
+            {
+                  "name": "Przełęcz Borek",
+                  "text": "A Borek-hágó a Gorce-hegységben található, ahonnan panorámás kilátás nyílik a környező csúcsokra.",
+                  "category": "natural",
+                  "coords": [
+                        20.145664,
+                        49.559179
+                  ]
+            },
+            {
+                  "name": "Jaworzyna Kamienicka",
+                  "text": "A Jaworzyna Kamienicka a Gorce-hegység második legmagasabb csúcsa, amely történelmi hegyi kápolnájáról ismert.",
+                  "category": "landmark",
+                  "coords": [
+                        20.157368,
+                        49.547766
+                  ]
+            },
+            {
+                  "name": "Kiczora",
+                  "text": "A Kiczora egy jelentős hegycsúcs a Gorce Nemzeti Parkban.",
+                  "category": "landmark",
+                  "coords": [
+                        20.149147,
+                        49.539683
+                  ]
+            },
+            {
+                  "name": "Przysłop",
+                  "text": "A Przysłop egy hegycsúcs a Gorce-hegységben, ahonnan kilátás nyílik a lengyel Kárpátokra.",
+                  "category": "landmark",
+                  "coords": [
+                        20.204231,
+                        49.550242
+                  ]
+            },
+            {
+                  "name": "Czoło Turbacza",
+                  "text": "A Czoło Turbacza egy csúcs a Turbacz közelében a Gorce-hegységben, amely hegyi rétjeiről ismert.",
+                  "category": "landmark",
+                  "coords": [
+                        20.115286,
+                        49.552254
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Gorczański Park Narodowy",
+                  "text": "Parcul Național Gorce protejează peisajul natural și fauna diversă din Munții Gorce din Polonia.",
+                  "category": "natural",
+                  "coords": [
+                        20.150395,
+                        49.56146
+                  ]
+            },
+            {
+                  "name": "Gajówka Mikołaja",
+                  "text": "Gajówka Mikołaja este o cabană forestieră istorică ce servește ca loc de expoziție în Munții Gorce.",
+                  "category": "museum",
+                  "coords": [
+                        20.125309,
+                        49.521285
+                  ]
+            },
+            {
+                  "name": "Turbacz",
+                  "text": "Turbacz este cel mai înalt vârf din Munții Gorce, atingând o altitudine de 1.310 metri.",
+                  "category": "landmark",
+                  "coords": [
+                        20.111384,
+                        49.542824
+                  ]
+            },
+            {
+                  "name": "Przełęcz Borek",
+                  "text": "Pasul Borek este o trecătoare montană din Munții Gorce care oferă vederi panoramice asupra vârfurilor din jur.",
+                  "category": "natural",
+                  "coords": [
+                        20.145664,
+                        49.559179
+                  ]
+            },
+            {
+                  "name": "Jaworzyna Kamienicka",
+                  "text": "Jaworzyna Kamienicka este al doilea cel mai înalt vârf din Munții Gorce, cunoscut pentru capela sa montană istorică.",
+                  "category": "landmark",
+                  "coords": [
+                        20.157368,
+                        49.547766
+                  ]
+            },
+            {
+                  "name": "Kiczora",
+                  "text": "Kiczora este un vârf muntos proeminent situat în Parcul Național Gorce.",
+                  "category": "landmark",
+                  "coords": [
+                        20.149147,
+                        49.539683
+                  ]
+            },
+            {
+                  "name": "Przysłop",
+                  "text": "Przysłop este un vârf muntos din masivul Gorce, oferind vederi spre Carpații Polonezi.",
+                  "category": "landmark",
+                  "coords": [
+                        20.204231,
+                        49.550242
+                  ]
+            },
+            {
+                  "name": "Czoło Turbacza",
+                  "text": "Czoło Turbacza este un vârf de lângă Turbacz, în Munții Gorce, cunoscut pentru pajiștile sale montane.",
+                  "category": "landmark",
+                  "coords": [
+                        20.115286,
+                        49.552254
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Gorce National Park",
+                  "text": "Gorce National Park protects the natural landscape and diverse wildlife of the Gorce Mountains in Poland.",
+                  "category": "natural",
+                  "coords": [
+                        20.150395,
+                        49.56146
+                  ]
+            },
+            {
+                  "name": "Gajówka Mikołaja",
+                  "text": "Gajówka Mikołaja is a historic forest lodge serving as an exhibition site in the Gorce Mountains.",
+                  "category": "museum",
+                  "coords": [
+                        20.125309,
+                        49.521285
+                  ]
+            },
+            {
+                  "name": "Turbacz",
+                  "text": "Turbacz is the highest peak of the Gorce Mountains, reaching an elevation of 1,310 meters.",
+                  "category": "landmark",
+                  "coords": [
+                        20.111384,
+                        49.542824
+                  ]
+            },
+            {
+                  "name": "Borek pass",
+                  "text": "Borek is a mountain pass in the Gorce Mountains that offers panoramic views of the surrounding peaks.",
+                  "category": "natural",
+                  "coords": [
+                        20.145664,
+                        49.559179
+                  ]
+            },
+            {
+                  "name": "Jaworzyna Kamienicka",
+                  "text": "Jaworzyna Kamienicka is the second-highest peak in the Gorce Mountains, known for its historic mountain chapel.",
+                  "category": "landmark",
+                  "coords": [
+                        20.157368,
+                        49.547766
+                  ]
+            },
+            {
+                  "name": "Kiczora",
+                  "text": "Kiczora is a prominent mountain peak located in the Gorce National Park.",
+                  "category": "landmark",
+                  "coords": [
+                        20.149147,
+                        49.539683
+                  ]
+            },
+            {
+                  "name": "Przysłop",
+                  "text": "Przysłop is a mountain peak in the Gorce range, offering views of the Polish Carpathians.",
+                  "category": "landmark",
+                  "coords": [
+                        20.204231,
+                        49.550242
+                  ]
+            },
+            {
+                  "name": "Czoło Turbacza",
+                  "text": "Czoło Turbacza is a peak near Turbacz in the Gorce Mountains, known for its mountain meadows.",
+                  "category": "landmark",
+                  "coords": [
+                        20.115286,
+                        49.552254
+                  ]
+            }
+      ]
+},
     parent: "PL",
     type: "mountain",
     name: { de: "Gorce-Gebirge", hu: "Gorce-hegység", ro: "Munții Gorce", en: "Gorce Mountains"},
@@ -1039,7 +5098,52 @@ export const polandReliefV2: POI[] = [
       fr: ["Le point culminant, le Turbacz, s'élève à 1310 mètres au-dessus du niveau de la mer", "Le parc national de Gorce a été créé relativement tardivement, en 1981", "La célèbre floraison printanière des crocus s'observe surtout dans les prés autour de la Jaworzyna Kamienicka", "Le massif est l'un des plus importants habitats polonais pour la salamandre tachetée (Salamandra salamandra)", "Les forêts denses ont servi de cachettes importantes pour les partisans pendant la Seconde Guerre mondiale", "Par temps clair, on peut apercevoir la quasi-totalité des Tatras comme un mur à l'horizon sud depuis les crêtes de Gorce", "Des cabanes en bois traditionnelles ('koliba') subsistent encore sur les alpages"],
     }, image: "/poi-images/poland-gorce-mountains-relief-v2.webp"},
   {
-    id: "poland-north-european-plain-relief-v2",
+    id: "poland-north-european-plain-relief-v2", "sights": {
+      "de": [
+            {
+                  "name": "Kościół parafialny pw. św. Mikołaja",
+                  "text": "Eine katholische Pfarrkirche, die dem heiligen Nikolaus geweiht ist.",
+                  "category": "religious",
+                  "coords": [
+                        18.99443,
+                        52.276675
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Kościół parafialny pw. św. Mikołaja",
+                  "text": "Szent Miklósnak szentelt katolikus plébániatemplom.",
+                  "category": "religious",
+                  "coords": [
+                        18.99443,
+                        52.276675
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Kościół parafialny pw. św. Mikołaja",
+                  "text": "O biserică parohială catolică dedicată Sfântului Nicolae.",
+                  "category": "religious",
+                  "coords": [
+                        18.99443,
+                        52.276675
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Kościół parafialny pw. św. Mikołaja",
+                  "text": "A Catholic parish church dedicated to Saint Nicholas.",
+                  "category": "religious",
+                  "coords": [
+                        18.99443,
+                        52.276675
+                  ]
+            }
+      ]
+},
     parent: "PL",
     type: "landmark",
     name: { de: "Polnisches Tiefland", hu: "Lengyel-alföld", ro: "Câmpia Poloneză", en: "Polish Plain"},
@@ -1085,7 +5189,160 @@ export const polandReliefV2: POI[] = [
     }
   },
   {
-    id: "poland-pogorze-wielickie-upland-relief-v2",
+    id: "poland-pogorze-wielickie-upland-relief-v2", "sights": {
+      "de": [
+            {
+                  "name": "Kościół pw. Świętego Marcina w Sieprawiu",
+                  "text": "Eine historische Pfarrkirche in Siepraw mit architektonischen Elementen aus verschiedenen Jahrhunderten.",
+                  "category": "religious",
+                  "coords": [
+                        19.963743,
+                        49.907167
+                  ]
+            },
+            {
+                  "name": "Kościół pw. Świętego Michała Archanioła w Sieprawiu",
+                  "text": "Eine historische römisch-katholische Kirche im Siepraw, die dem heiligen Erzengel Michael geweiht ist.",
+                  "category": "religious",
+                  "coords": [
+                        19.964711,
+                        49.912504
+                  ]
+            },
+            {
+                  "name": "Kościół pw. Matki Bożej Częstochowskiej w Gorzkowie",
+                  "text": "Ein katholisches Gotteshaus in Gorzków, das der Muttergottes von Tschenstochau gewidmet ist.",
+                  "category": "religious",
+                  "coords": [
+                        20.028566,
+                        49.928263
+                  ]
+            },
+            {
+                  "name": "Kościół pw. Wszystkich Świętych w Zakliczynie",
+                  "text": "Eine katholische Allerheiligenkirche in der Ortschaft Zakliczyn im Wieliczka-Vorgebirge.",
+                  "category": "religious",
+                  "coords": [
+                        20.024277,
+                        49.883086
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Kościół pw. Świętego Marcina w Sieprawiu",
+                  "text": "Történelmi plébániatemplom Sieprawban, amely több évszázad építészeti jegyeit hordozza.",
+                  "category": "religious",
+                  "coords": [
+                        19.963743,
+                        49.907167
+                  ]
+            },
+            {
+                  "name": "Kościół pw. Świętego Michała Archanioła w Sieprawiu",
+                  "text": "Szent Mihály arkangyalnak szentelt történelmi római katolikus templom Sieprawban.",
+                  "category": "religious",
+                  "coords": [
+                        19.964711,
+                        49.912504
+                  ]
+            },
+            {
+                  "name": "Kościół pw. Matki Bożej Częstochowskiej w Gorzkowie",
+                  "text": "A częstochowai Miasszonyunknak szentelt katolikus templom Gorzkówban.",
+                  "category": "religious",
+                  "coords": [
+                        20.028566,
+                        49.928263
+                  ]
+            },
+            {
+                  "name": "Kościół pw. Wszystkich Świętych w Zakliczynie",
+                  "text": "Mindenszentek tiszteletére szentelt katolikus templom Zakliczyn településen.",
+                  "category": "religious",
+                  "coords": [
+                        20.024277,
+                        49.883086
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Kościół pw. Świętego Marcina w Sieprawiu",
+                  "text": "O biserică parohială istorică din Siepraw, prezentând elemente arhitecturale din mai multe secole.",
+                  "category": "religious",
+                  "coords": [
+                        19.963743,
+                        49.907167
+                  ]
+            },
+            {
+                  "name": "Kościół pw. Świętego Michała Archanioła w Sieprawiu",
+                  "text": "O biserică romano-catolică istorică din Siepraw, dedicată Sfântului Arhanghel Mihail.",
+                  "category": "religious",
+                  "coords": [
+                        19.964711,
+                        49.912504
+                  ]
+            },
+            {
+                  "name": "Kościół pw. Matki Bożej Częstochowskiej w Gorzkowie",
+                  "text": "Lăcaș de cult catolic în Gorzków, dedicat Maicii Domnului de la Częstochowa.",
+                  "category": "religious",
+                  "coords": [
+                        20.028566,
+                        49.928263
+                  ]
+            },
+            {
+                  "name": "Kościół pw. Wszystkich Świętych w Zakliczynie",
+                  "text": "O biserică catolică dedicată Tuturor Sfinților, situată în localitatea Zakliczyn.",
+                  "category": "religious",
+                  "coords": [
+                        20.024277,
+                        49.883086
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Kościół pw. Świętego Marcina w Sieprawiu",
+                  "text": "A historic parish church in Siepraw, featuring architectural elements from several centuries.",
+                  "category": "religious",
+                  "coords": [
+                        19.963743,
+                        49.907167
+                  ]
+            },
+            {
+                  "name": "Kościół pw. Świętego Michała Archanioła w Sieprawiu",
+                  "text": "A historic Roman Catholic church in Siepraw dedicated to Saint Michael the Archangel.",
+                  "category": "religious",
+                  "coords": [
+                        19.964711,
+                        49.912504
+                  ]
+            },
+            {
+                  "name": "Kościół pw. Matki Bożej Częstochowskiej w Gorzkowie",
+                  "text": "A Catholic place of worship in Gorzków dedicated to Our Lady of Częstochowa.",
+                  "category": "religious",
+                  "coords": [
+                        20.028566,
+                        49.928263
+                  ]
+            },
+            {
+                  "name": "Kościół pw. Wszystkich Świętych w Zakliczynie",
+                  "text": "A Catholic church dedicated to All Saints, located in the village of Zakliczyn.",
+                  "category": "religious",
+                  "coords": [
+                        20.024277,
+                        49.883086
+                  ]
+            }
+      ]
+},
     parent: "PL",
     type: "mountain",
     name: { de: "Wieliczka-Vorgebirge", hu: "Wieliczkai-előhegység", ro: "Piemontul Wieliczka", en: "Wieliczka Foothills"},
@@ -1132,7 +5389,304 @@ export const polandReliefV2: POI[] = [
   }
 ,
   {
-    id: "poland-beskid-maly-relief-v2",
+    id: "poland-beskid-maly-relief-v2", "sights": {
+      "de": [
+            {
+                  "name": "Park Krajobrazowy Beskidu Małego",
+                  "text": "Ein Landschaftsschutzpark im Gebirgszug der Kleinen Beskiden.",
+                  "category": "natural",
+                  "coords": [
+                        19.305294,
+                        49.78564
+                  ]
+            },
+            {
+                  "name": "Aquapark",
+                  "text": "Ein Freizeitbad mit Wasserattraktionen in den Kleinen Beskiden.",
+                  "category": "recreational",
+                  "coords": [
+                        19.319026,
+                        49.778221
+                  ]
+            },
+            {
+                  "name": "Mini park linowy",
+                  "text": "Ein kleiner Seilpark mit Kletterelementen für Kinder.",
+                  "category": "recreational",
+                  "coords": [
+                        19.388713,
+                        49.793798
+                  ]
+            },
+            {
+                  "name": "Magiczna Osada",
+                  "text": "Ein familienfreundlicher Themenpark oder Spielbereich.",
+                  "category": "recreational",
+                  "coords": [
+                        19.388639,
+                        49.792829
+                  ]
+            },
+            {
+                  "name": "Potrójna",
+                  "text": "Ein beliebter Aussichtsgipfel in den Kleinen Beskiden.",
+                  "category": "landmark",
+                  "coords": [
+                        19.366244,
+                        49.777718
+                  ]
+            },
+            {
+                  "name": "Beskid",
+                  "text": "Ein Berggipfel in den Kleinen Beskiden in Polen.",
+                  "category": "landmark",
+                  "coords": [
+                        19.305523,
+                        49.779715
+                  ]
+            },
+            {
+                  "name": "Błasiakówka",
+                  "text": "Ein Gipfel in der Gebirgsregion der Kleinen Beskiden.",
+                  "category": "landmark",
+                  "coords": [
+                        19.314527,
+                        49.776185
+                  ]
+            },
+            {
+                  "name": "Góra Kaprówka",
+                  "text": "Ein Berggipfel in den polnischen Kleinen Beskiden.",
+                  "category": "landmark",
+                  "coords": [
+                        19.308541,
+                        49.792616
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Park Krajobrazowy Beskidu Małego",
+                  "text": "Tájvédelmi körzet a Kis-Beszkidek hegységben.",
+                  "category": "natural",
+                  "coords": [
+                        19.305294,
+                        49.78564
+                  ]
+            },
+            {
+                  "name": "Aquapark",
+                  "text": "Vízi élménypark a Kis-Beszkidek területén.",
+                  "category": "recreational",
+                  "coords": [
+                        19.319026,
+                        49.778221
+                  ]
+            },
+            {
+                  "name": "Mini park linowy",
+                  "text": "Kisméretű kötélpálya és mászópark gyerekeknek.",
+                  "category": "recreational",
+                  "coords": [
+                        19.388713,
+                        49.793798
+                  ]
+            },
+            {
+                  "name": "Magiczna Osada",
+                  "text": "Családbarát élménypark vagy játszóhely.",
+                  "category": "recreational",
+                  "coords": [
+                        19.388639,
+                        49.792829
+                  ]
+            },
+            {
+                  "name": "Potrójna",
+                  "text": "Népszerű kilátóhelyet nyújtó hegycsúcs a Kis-Beszkidekben.",
+                  "category": "landmark",
+                  "coords": [
+                        19.366244,
+                        49.777718
+                  ]
+            },
+            {
+                  "name": "Beskid",
+                  "text": "Hegycsúcs a lengyelországi Kis-Beszkidekben.",
+                  "category": "landmark",
+                  "coords": [
+                        19.305523,
+                        49.779715
+                  ]
+            },
+            {
+                  "name": "Błasiakówka",
+                  "text": "Hegycsúcs a Kis-Beszkidek hegyvidékén.",
+                  "category": "landmark",
+                  "coords": [
+                        19.314527,
+                        49.776185
+                  ]
+            },
+            {
+                  "name": "Góra Kaprówka",
+                  "text": "Hegycsúcs a lengyel Kis-Beszkidekben.",
+                  "category": "landmark",
+                  "coords": [
+                        19.308541,
+                        49.792616
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Park Krajobrazowy Beskidu Małego",
+                  "text": "Un parc natural protejat în munții Beskizii Mici.",
+                  "category": "natural",
+                  "coords": [
+                        19.305294,
+                        49.78564
+                  ]
+            },
+            {
+                  "name": "Aquapark",
+                  "text": "Un parc acvatic cu atracții recreative în zona Beskizilor Mici.",
+                  "category": "recreational",
+                  "coords": [
+                        19.319026,
+                        49.778221
+                  ]
+            },
+            {
+                  "name": "Mini park linowy",
+                  "text": "Un mic parc de aventură cu frânghii pentru copii.",
+                  "category": "recreational",
+                  "coords": [
+                        19.388713,
+                        49.793798
+                  ]
+            },
+            {
+                  "name": "Magiczna Osada",
+                  "text": "Un parc tematic sau zonă de joacă pentru familii.",
+                  "category": "recreational",
+                  "coords": [
+                        19.388639,
+                        49.792829
+                  ]
+            },
+            {
+                  "name": "Potrójna",
+                  "text": "Un vârf muntos popular cu panoramă în Beskizii Mici.",
+                  "category": "landmark",
+                  "coords": [
+                        19.366244,
+                        49.777718
+                  ]
+            },
+            {
+                  "name": "Beskid",
+                  "text": "Un vârf muntos în Beskizii Mici din Polonia.",
+                  "category": "landmark",
+                  "coords": [
+                        19.305523,
+                        49.779715
+                  ]
+            },
+            {
+                  "name": "Błasiakówka",
+                  "text": "Un vârf în regiunea montană a Beskizilor Mici.",
+                  "category": "landmark",
+                  "coords": [
+                        19.314527,
+                        49.776185
+                  ]
+            },
+            {
+                  "name": "Góra Kaprówka",
+                  "text": "Un vârf muntos în Beskizii Mici polonezi.",
+                  "category": "landmark",
+                  "coords": [
+                        19.308541,
+                        49.792616
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Park Krajobrazowy Beskidu Małego",
+                  "text": "A protected landscape park in the Little Beskids mountain range.",
+                  "category": "natural",
+                  "coords": [
+                        19.305294,
+                        49.78564
+                  ]
+            },
+            {
+                  "name": "Aquapark",
+                  "text": "A water park with recreational attractions in the Little Beskids area.",
+                  "category": "recreational",
+                  "coords": [
+                        19.319026,
+                        49.778221
+                  ]
+            },
+            {
+                  "name": "Mini park linowy",
+                  "text": "A small rope park with climbing elements for children.",
+                  "category": "recreational",
+                  "coords": [
+                        19.388713,
+                        49.793798
+                  ]
+            },
+            {
+                  "name": "Magiczna Osada",
+                  "text": "A family-friendly theme park or playground area.",
+                  "category": "recreational",
+                  "coords": [
+                        19.388639,
+                        49.792829
+                  ]
+            },
+            {
+                  "name": "Potrójna",
+                  "text": "A popular mountain peak with scenic views in the Little Beskids.",
+                  "category": "landmark",
+                  "coords": [
+                        19.366244,
+                        49.777718
+                  ]
+            },
+            {
+                  "name": "Beskid",
+                  "text": "A mountain peak in the Little Beskids in Poland.",
+                  "category": "landmark",
+                  "coords": [
+                        19.305523,
+                        49.779715
+                  ]
+            },
+            {
+                  "name": "Błasiakówka",
+                  "text": "A peak in the mountainous region of the Little Beskids.",
+                  "category": "landmark",
+                  "coords": [
+                        19.314527,
+                        49.776185
+                  ]
+            },
+            {
+                  "name": "Góra Kaprówka",
+                  "text": "A mountain peak in the Polish Little Beskids.",
+                  "category": "landmark",
+                  "coords": [
+                        19.308541,
+                        49.792616
+                  ]
+            }
+      ]
+},
     type: "mountain",
     parent: "PL",
     name: { de: "Kleine Beskiden", hu: "Kis-Beszkidek", ro: "Beskizii Mici", en: "Little Beskids" },
@@ -1177,7 +5731,160 @@ export const polandReliefV2: POI[] = [
     image: "/poi-images/poland-beskid-maly-relief-v2.webp",
   },
   {
-    id: "poland-beskid-makowski-relief-v2",
+    id: "poland-beskid-makowski-relief-v2", "sights": {
+      "de": [
+            {
+                  "name": "Izba Pamięci Rozalii Celakówny",
+                  "text": "Ein Gedenkraum in den Makower Beskiden, der dem Leben und Werk von Rozalia Celakówna gewidmet ist.",
+                  "category": "museum",
+                  "coords": [
+                        19.697291,
+                        49.755707
+                  ]
+            },
+            {
+                  "name": "Podbabiogórskie Centrum Kultury",
+                  "text": "Ein regionales Kulturzentrum in den Makower Beskiden, das lokale Traditionen und Künste fördert.",
+                  "category": "cultural",
+                  "coords": [
+                        19.688618,
+                        49.727502
+                  ]
+            },
+            {
+                  "name": "Kościół pw. Przemienienia Pańskiego",
+                  "text": "Eine katholische Pfarrkirche in Maków Podhalański, die für ihr religiöses Heiligtum bekannt ist.",
+                  "category": "religious",
+                  "coords": [
+                        19.676495,
+                        49.732218
+                  ]
+            },
+            {
+                  "name": "Kaplica Chowaniakowej",
+                  "text": "Eine kleine historische Kapelle in den Makower Beskiden, die als lokaler Gebetsort dient.",
+                  "category": "landmark",
+                  "coords": [
+                        19.685989,
+                        49.745221
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Izba Pamięci Rozalii Celakówny",
+                  "text": "Emlékszoba a Makówi-Beszkidekben, amelyet Rozalia Celakówna életének és munkásságának szenteltek.",
+                  "category": "museum",
+                  "coords": [
+                        19.697291,
+                        49.755707
+                  ]
+            },
+            {
+                  "name": "Podbabiogórskie Centrum Kultury",
+                  "text": "Regionális kulturális központ a Makówi-Beszkidekben, amely a helyi hagyományokat és művészetet ápolja.",
+                  "category": "cultural",
+                  "coords": [
+                        19.688618,
+                        49.727502
+                  ]
+            },
+            {
+                  "name": "Kościół pw. Przemienienia Pańskiego",
+                  "text": "Katolikus plébániatemplom Maków Podhalańskiban, amely vallási kegyhelyéről ismert.",
+                  "category": "religious",
+                  "coords": [
+                        19.676495,
+                        49.732218
+                  ]
+            },
+            {
+                  "name": "Kaplica Chowaniakowej",
+                  "text": "Kisméretű történelmi kápolna a Makówi-Beszkidekben, amely helyi imádkozóhelyként szolgál.",
+                  "category": "landmark",
+                  "coords": [
+                        19.685989,
+                        49.745221
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Izba Pamięci Rozalii Celakówny",
+                  "text": "O cameră memorială în Beskizii Makowski, dedicată vieții și operei Rozaliei Celakówna.",
+                  "category": "museum",
+                  "coords": [
+                        19.697291,
+                        49.755707
+                  ]
+            },
+            {
+                  "name": "Podbabiogórskie Centrum Kultury",
+                  "text": "Un centru cultural regional în Beskizii Makowski, care promovează tradițiile și artele locale.",
+                  "category": "cultural",
+                  "coords": [
+                        19.688618,
+                        49.727502
+                  ]
+            },
+            {
+                  "name": "Kościół pw. Przemienienia Pańskiego",
+                  "text": "O biserică parohială catolică în Maków Podhalański, cunoscută pentru sanctuarul său religios.",
+                  "category": "religious",
+                  "coords": [
+                        19.676495,
+                        49.732218
+                  ]
+            },
+            {
+                  "name": "Kaplica Chowaniakowej",
+                  "text": "O mică capelă istorică în Beskizii Makowski, care servește ca loc de rugăciune local.",
+                  "category": "landmark",
+                  "coords": [
+                        19.685989,
+                        49.745221
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Izba Pamięci Rozalii Celakówny",
+                  "text": "A memorial room in the Maków Beskids dedicated to the life and work of Rozalia Celakówna.",
+                  "category": "museum",
+                  "coords": [
+                        19.697291,
+                        49.755707
+                  ]
+            },
+            {
+                  "name": "Podbabiogórskie Centrum Kultury",
+                  "text": "A regional cultural center in the Maków Beskids that promotes local traditions and arts.",
+                  "category": "cultural",
+                  "coords": [
+                        19.688618,
+                        49.727502
+                  ]
+            },
+            {
+                  "name": "Kościół pw. Przemienienia Pańskiego",
+                  "text": "A Catholic parish church in Maków Podhalański, known for its religious sanctuary.",
+                  "category": "religious",
+                  "coords": [
+                        19.676495,
+                        49.732218
+                  ]
+            },
+            {
+                  "name": "Kaplica Chowaniakowej",
+                  "text": "A small historic chapel in the Maków Beskids serving as a local place of prayer.",
+                  "category": "landmark",
+                  "coords": [
+                        19.685989,
+                        49.745221
+                  ]
+            }
+      ]
+},
     type: "mountain",
     parent: "PL",
     name: { de: "Makower Beskiden", hu: "Makówi-Beszkidek", ro: "Beskizii Maków", en: "Maków Beskids" },
@@ -1277,6 +5984,33 @@ export const polandReliefV2: POI[] = [
                         17.964889,
                         54.232965
                   ]
+            },
+            {
+                  "name": "Amfiteatr",
+                  "text": "Ein Freilichttheater in der Kaschubischen Seenplatte.",
+                  "category": "cultural",
+                  "coords": [
+                        17.949219,
+                        54.214474
+                  ]
+            },
+            {
+                  "name": "Kościół pw. Świętej Katarzyny Aleksandryjskiej",
+                  "text": "Eine religiöse Stätte in der Kaschubischen Seenplatte.",
+                  "category": "religious",
+                  "coords": [
+                        17.952306,
+                        54.20753
+                  ]
+            },
+            {
+                  "name": "Nieczynny Kościół Ewangelicki",
+                  "text": "Eine ehemalige evangelische Kirche in der Kaschubischen Seenplatte.",
+                  "category": "religious",
+                  "coords": [
+                        17.959711,
+                        54.206334
+                  ]
             }
       ],
       "hu": [
@@ -1287,6 +6021,33 @@ export const polandReliefV2: POI[] = [
                   "coords": [
                         17.964889,
                         54.232965
+                  ]
+            },
+            {
+                  "name": "Amfiteatr",
+                  "text": "Szabadtéri színpad a Kasub-tóvidéken.",
+                  "category": "cultural",
+                  "coords": [
+                        17.949219,
+                        54.214474
+                  ]
+            },
+            {
+                  "name": "Kościół pw. Świętej Katarzyny Aleksandryjskiej",
+                  "text": "Szent Katalin tiszteletére szentelt templom a Kasub-tóvidéken.",
+                  "category": "religious",
+                  "coords": [
+                        17.952306,
+                        54.20753
+                  ]
+            },
+            {
+                  "name": "Nieczynny Kościół Ewangelicki",
+                  "text": "Használaton kívüli evangélikus templom a Kasub-tóvidéken.",
+                  "category": "religious",
+                  "coords": [
+                        17.959711,
+                        54.206334
                   ]
             }
       ],
@@ -1299,6 +6060,33 @@ export const polandReliefV2: POI[] = [
                         17.964889,
                         54.232965
                   ]
+            },
+            {
+                  "name": "Amfiteatr",
+                  "text": "Un amfiteatru în regiunea lacurilor cașubiene.",
+                  "category": "cultural",
+                  "coords": [
+                        17.949219,
+                        54.214474
+                  ]
+            },
+            {
+                  "name": "Kościół pw. Świętej Katarzyny Aleksandryjskiej",
+                  "text": "O biserică dedicată Sfintei Ecaterina în regiunea lacurilor cașubiene.",
+                  "category": "religious",
+                  "coords": [
+                        17.952306,
+                        54.20753
+                  ]
+            },
+            {
+                  "name": "Nieczynny Kościół Ewangelicki",
+                  "text": "O fostă biserică evanghelică în regiunea lacurilor cașubiene.",
+                  "category": "religious",
+                  "coords": [
+                        17.959711,
+                        54.206334
+                  ]
             }
       ],
       "en": [
@@ -1309,6 +6097,33 @@ export const polandReliefV2: POI[] = [
                   "coords": [
                         17.964889,
                         54.232965
+                  ]
+            },
+            {
+                  "name": "Amfiteatr",
+                  "text": "An amphitheatre in the Kashubian Lake District.",
+                  "category": "cultural",
+                  "coords": [
+                        17.949219,
+                        54.214474
+                  ]
+            },
+            {
+                  "name": "Kościół pw. Świętej Katarzyny Aleksandryjskiej",
+                  "text": "A church dedicated to Saint Catherine in the Kashubian Lake District.",
+                  "category": "religious",
+                  "coords": [
+                        17.952306,
+                        54.20753
+                  ]
+            },
+            {
+                  "name": "Nieczynny Kościół Ewangelicki",
+                  "text": "A former Evangelical church in the Kashubian Lake District.",
+                  "category": "religious",
+                  "coords": [
+                        17.959711,
+                        54.206334
                   ]
             }
       ]
@@ -1357,7 +6172,304 @@ export const polandReliefV2: POI[] = [
     image: "/poi-images/poland-kaszubian-lake-district-relief-v2.webp",
   },
   {
-    id: "poland-swietokrzyski-ridge-relief-v2",
+    id: "poland-swietokrzyski-ridge-relief-v2", "sights": {
+      "de": [
+            {
+                  "name": "Muzeum Przyrodnicze Świętokrzyskiego Parku Narodowego",
+                  "text": "Naturkundemuseum, das die Flora und Fauna des Heiligkreuz-Nationalparks zeigt.",
+                  "category": "museum",
+                  "coords": [
+                        21.052412,
+                        50.859386
+                  ]
+            },
+            {
+                  "name": "Muzeum Starożytnego Hutnictwa",
+                  "text": "Museum in Nowa Słupia über die antike Eisenverhüttung in der Region.",
+                  "category": "museum",
+                  "coords": [
+                        21.080276,
+                        50.860372
+                  ]
+            },
+            {
+                  "name": "Centrum \"Osada średniowieczna\"",
+                  "text": "Ein Zentrum mit der Rekonstruktion einer mittelalterlichen Siedlung.",
+                  "category": "museum",
+                  "coords": [
+                        21.020757,
+                        50.863161
+                  ]
+            },
+            {
+                  "name": "Park Dziedzictwa Gór Świętokrzyskich „Łysa Góra”",
+                  "text": "Themenpark zur Geschichte und den Legenden des Heiligkreuzgebirges.",
+                  "category": "museum",
+                  "coords": [
+                        21.082382,
+                        50.859356
+                  ]
+            },
+            {
+                  "name": "Park Rozrywki w Hucie",
+                  "text": "Ein Freizeitpark für Familienaktivitäten in der Region Huta.",
+                  "category": "recreational",
+                  "coords": [
+                        21.022434,
+                        50.863774
+                  ]
+            },
+            {
+                  "name": "Chełmowa Góra",
+                  "text": "Naturschutzgebiet zum Schutz der Lärchenwälder auf dem Chełmowa-Hügel.",
+                  "category": "natural",
+                  "coords": [
+                        21.096061,
+                        50.887492
+                  ]
+            },
+            {
+                  "name": "Blessenberg",
+                  "text": "Ein berühmter Gipfel in Polen mit einem Kloster und uralten Steingestalten.",
+                  "category": "landmark",
+                  "coords": [
+                        21.047537,
+                        50.860392
+                  ]
+            },
+            {
+                  "name": "Heiligkreuz",
+                  "text": "Bedeutende religiöse Reliquie im Kloster auf dem Łysa Góra.",
+                  "category": "landmark",
+                  "coords": [
+                        21.053384,
+                        50.859267
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Muzeum Przyrodnicze Świętokrzyskiego Parku Narodowego",
+                  "text": "Természettudományi múzeum, amely a Szentkereszt Nemzeti Park élővilágát mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        21.052412,
+                        50.859386
+                  ]
+            },
+            {
+                  "name": "Muzeum Starożytnego Hutnictwa",
+                  "text": "Múzeum Nowa Słupiában, amely a régió ősi vaskohászatát mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        21.080276,
+                        50.860372
+                  ]
+            },
+            {
+                  "name": "Centrum \"Osada średniowieczna\"",
+                  "text": "Középkori település rekonstrukcióját bemutató központ.",
+                  "category": "museum",
+                  "coords": [
+                        21.020757,
+                        50.863161
+                  ]
+            },
+            {
+                  "name": "Park Dziedzictwa Gór Świętokrzyskich „Łysa Góra”",
+                  "text": "A Szentkereszt-hegység történelmét és legendáit bemutató örökségpark.",
+                  "category": "museum",
+                  "coords": [
+                        21.082382,
+                        50.859356
+                  ]
+            },
+            {
+                  "name": "Park Rozrywki w Hucie",
+                  "text": "Családi kikapcsolódást nyújtó élménypark Huta környékén.",
+                  "category": "recreational",
+                  "coords": [
+                        21.022434,
+                        50.863774
+                  ]
+            },
+            {
+                  "name": "Chełmowa Góra",
+                  "text": "Természetvédelmi terület a Chełmowa-domb vörösfenyőerdőinek védelmére.",
+                  "category": "natural",
+                  "coords": [
+                        21.096061,
+                        50.887492
+                  ]
+            },
+            {
+                  "name": "Łysa Góra",
+                  "text": "Lengyelország híres csúcsa egy kolostorral és ősi kősáncokkal.",
+                  "category": "landmark",
+                  "coords": [
+                        21.047537,
+                        50.860392
+                  ]
+            },
+            {
+                  "name": "Świętokrzyskie Relikwie Drzewa Krzyża Świętego w Kaplicy Oleśnickich",
+                  "text": "Jelentős vallási ereklye a Łysa Góra-i kolostorban.",
+                  "category": "landmark",
+                  "coords": [
+                        21.053384,
+                        50.859267
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Muzeum Przyrodnicze Świętokrzyskiego Parku Narodowego",
+                  "text": "Muzeu de istorie naturală care prezintă flora și fauna Parcului Național Świętokrzyski.",
+                  "category": "museum",
+                  "coords": [
+                        21.052412,
+                        50.859386
+                  ]
+            },
+            {
+                  "name": "Muzeum Starożytnego Hutnictwa",
+                  "text": "Muzeu din Nowa Słupia dedicat metalurgiei antice a fierului din regiune.",
+                  "category": "museum",
+                  "coords": [
+                        21.080276,
+                        50.860372
+                  ]
+            },
+            {
+                  "name": "Centrum \"Osada średniowieczna\"",
+                  "text": "Un centru care cuprinde reconstrucția unei așezări medievale.",
+                  "category": "museum",
+                  "coords": [
+                        21.020757,
+                        50.863161
+                  ]
+            },
+            {
+                  "name": "Park Dziedzictwa Gór Świętokrzyskich „Łysa Góra”",
+                  "text": "Parc tematic dedicat istoriei și legendelor Munților Świętokrzyskie.",
+                  "category": "museum",
+                  "coords": [
+                        21.082382,
+                        50.859356
+                  ]
+            },
+            {
+                  "name": "Park Rozrywki w Hucie",
+                  "text": "Parc de distracții ce oferă activități recreative pentru familii în zona Huta.",
+                  "category": "recreational",
+                  "coords": [
+                        21.022434,
+                        50.863774
+                  ]
+            },
+            {
+                  "name": "Chełmowa Góra",
+                  "text": "Rezervație naturală pentru protejarea pădurilor de zadă de pe dealul Chełmowa.",
+                  "category": "natural",
+                  "coords": [
+                        21.096061,
+                        50.887492
+                  ]
+            },
+            {
+                  "name": "Łysa Góra",
+                  "text": "Un vârf muntos faimos din Polonia, unde se află o mănăstire și terasamente antice.",
+                  "category": "landmark",
+                  "coords": [
+                        21.047537,
+                        50.860392
+                  ]
+            },
+            {
+                  "name": "Świętokrzyskie Relikwie Drzewa Krzyża Świętego w Kaplicy Oleśnickich",
+                  "text": "O importantă relicvă religioasă păstrată în mănăstirea de pe Łysa Góra.",
+                  "category": "landmark",
+                  "coords": [
+                        21.053384,
+                        50.859267
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Muzeum Przyrodnicze Świętokrzyskiego Parku Narodowego",
+                  "text": "Natural history museum showcasing the flora and fauna of the Świętokrzyski National Park.",
+                  "category": "museum",
+                  "coords": [
+                        21.052412,
+                        50.859386
+                  ]
+            },
+            {
+                  "name": "Muzeum Starożytnego Hutnictwa",
+                  "text": "Museum in Nowa Słupia dedicated to ancient iron smelting in the region.",
+                  "category": "museum",
+                  "coords": [
+                        21.080276,
+                        50.860372
+                  ]
+            },
+            {
+                  "name": "Centrum \"Osada średniowieczna\"",
+                  "text": "A center featuring a reconstruction of a medieval settlement.",
+                  "category": "museum",
+                  "coords": [
+                        21.020757,
+                        50.863161
+                  ]
+            },
+            {
+                  "name": "Park Dziedzictwa Gór Świętokrzyskich „Łysa Góra”",
+                  "text": "Heritage park presenting the history and legends of the Holy Cross Mountains.",
+                  "category": "museum",
+                  "coords": [
+                        21.082382,
+                        50.859356
+                  ]
+            },
+            {
+                  "name": "Park Rozrywki w Hucie",
+                  "text": "A leisure park offering family activities in the Huta region.",
+                  "category": "recreational",
+                  "coords": [
+                        21.022434,
+                        50.863774
+                  ]
+            },
+            {
+                  "name": "Chełmowa Góra",
+                  "text": "Nature reserve protecting the larch forests on Chełmowa Hill.",
+                  "category": "natural",
+                  "coords": [
+                        21.096061,
+                        50.887492
+                  ]
+            },
+            {
+                  "name": "The Holy Cross",
+                  "text": "A famous peak in Poland featuring a monastery and ancient stone embankments.",
+                  "category": "landmark",
+                  "coords": [
+                        21.047537,
+                        50.860392
+                  ]
+            },
+            {
+                  "name": "The Holy Cross Wood Relic",
+                  "text": "A significant religious relic kept in the monastery on Łysa Góra.",
+                  "category": "landmark",
+                  "coords": [
+                        21.053384,
+                        50.859267
+                  ]
+            }
+      ]
+},
     type: "mountain",
     parent: "PL",
     name: { de: "Heiligkreuz-Kamm", hu: "Szentkereszt-hegyhát", ro: "Culmea Sfintei Cruci", en: "Holy Cross Ridge" },
@@ -1402,7 +6514,304 @@ export const polandReliefV2: POI[] = [
     image: "/poi-images/poland-swietokrzyski-ridge-relief-v2.webp",
   },
   {
-    id: "poland-beskid-wyspowy-relief-v2",
+    id: "poland-beskid-wyspowy-relief-v2", "sights": {
+      "de": [
+            {
+                  "name": "Rezerwat Śnieżnica",
+                  "text": "Ein Naturschutzgebiet am Berg Śnieżnica zum Schutz der alpinen Flora.",
+                  "category": "natural",
+                  "coords": [
+                        20.190856,
+                        49.715905
+                  ]
+            },
+            {
+                  "name": "Ćwilin",
+                  "text": "Einer der höchsten Gipfel der Inselbeskiden mit weitem Blick über Südpolen.",
+                  "category": "landmark",
+                  "coords": [
+                        20.191433,
+                        49.688763
+                  ]
+            },
+            {
+                  "name": "Kiczorka",
+                  "text": "Ein markanter Berggipfel in den Inselbeskiden.",
+                  "category": "landmark",
+                  "coords": [
+                        20.201056,
+                        49.652972
+                  ]
+            },
+            {
+                  "name": "Śnieżnica",
+                  "text": "Ein bekannter Gipfel in den Inselbeskiden, der für seine Aussicht geschätzt wird.",
+                  "category": "landmark",
+                  "coords": [
+                        20.17819,
+                        49.716017
+                  ]
+            },
+            {
+                  "name": "Mały Ćwilinek",
+                  "text": "Ein Gipfel in den polnischen Inselbeskiden.",
+                  "category": "landmark",
+                  "coords": [
+                        20.200789,
+                        49.67241
+                  ]
+            },
+            {
+                  "name": "Kaplica św. Maksymiliana Marii Kolbe w Wilczycach",
+                  "text": "Eine katholische Kapelle in der Region der Inselbeskiden.",
+                  "category": "religious",
+                  "coords": [
+                        20.16983,
+                        49.666828
+                  ]
+            },
+            {
+                  "name": "Kościół Matki Bożej Nieustającej Pomocy w Jurkowie",
+                  "text": "Eine lokale Kirche in Jurków in den Inselbeskiden.",
+                  "category": "religious",
+                  "coords": [
+                        20.233135,
+                        49.68229
+                  ]
+            },
+            {
+                  "name": "Droga Krzyżowa stacja V",
+                  "text": "Ein religiöser Bildstock an einem Wanderweg in den Inselbeskiden.",
+                  "category": "landmark",
+                  "coords": [
+                        20.17048,
+                        49.71065
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Rezerwat Śnieżnica",
+                  "text": "Természetvédelmi terület a Śnieżnica-hegyen az alpesi flóra védelmére.",
+                  "category": "natural",
+                  "coords": [
+                        20.190856,
+                        49.715905
+                  ]
+            },
+            {
+                  "name": "Ćwilin",
+                  "text": "A Sziget-Beszkidek egyik legmagasabb csúcsa, tágas kilátással Dél-Lengyelországra.",
+                  "category": "landmark",
+                  "coords": [
+                        20.191433,
+                        49.688763
+                  ]
+            },
+            {
+                  "name": "Kiczorka",
+                  "text": "Egy jellegzetes hegycsúcs a Szigetes-Beszkidekben.",
+                  "category": "landmark",
+                  "coords": [
+                        20.201056,
+                        49.652972
+                  ]
+            },
+            {
+                  "name": "Śnieżnica",
+                  "text": "Népszerű hegycsúcs a Szigetes-Beszkidekben, amely kilátásáról ismert.",
+                  "category": "landmark",
+                  "coords": [
+                        20.17819,
+                        49.716017
+                  ]
+            },
+            {
+                  "name": "Mały Ćwilinek",
+                  "text": "Hegycsúcs a lengyelországi Szigetes-Beszkidekben.",
+                  "category": "landmark",
+                  "coords": [
+                        20.200789,
+                        49.67241
+                  ]
+            },
+            {
+                  "name": "Kaplica św. Maksymiliana Marii Kolbe w Wilczycach",
+                  "text": "Római katolikus kápolna a Szigetes-Beszkidek régiójában.",
+                  "category": "religious",
+                  "coords": [
+                        20.16983,
+                        49.666828
+                  ]
+            },
+            {
+                  "name": "Kościół Matki Bożej Nieustającej Pomocy w Jurkowie",
+                  "text": "Helyi templom a Szigetes-Beszkidekben található Jurków faluban.",
+                  "category": "religious",
+                  "coords": [
+                        20.233135,
+                        49.68229
+                  ]
+            },
+            {
+                  "name": "Droga Krzyżowa stacja V",
+                  "text": "Vallási útszéli emlékhely egy túraútvonal mentén a Szigetes-Beszkidekben.",
+                  "category": "landmark",
+                  "coords": [
+                        20.17048,
+                        49.71065
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Rezerwat Śnieżnica",
+                  "text": "O rezervație naturală pe muntele Śnieżnica pentru protejarea florei alpine.",
+                  "category": "natural",
+                  "coords": [
+                        20.190856,
+                        49.715905
+                  ]
+            },
+            {
+                  "name": "Ćwilin",
+                  "text": "Unul dintre cele mai înalte vârfuri din Beskizii Insulari, cu o vedere largă asupra Poloniei de Sud.",
+                  "category": "landmark",
+                  "coords": [
+                        20.191433,
+                        49.688763
+                  ]
+            },
+            {
+                  "name": "Kiczorka",
+                  "text": "Un vârf montan proeminent în Beskizii Insulari.",
+                  "category": "landmark",
+                  "coords": [
+                        20.201056,
+                        49.652972
+                  ]
+            },
+            {
+                  "name": "Śnieżnica",
+                  "text": "Un vârf cunoscut în Beskizii Insulari, apreciat pentru panoramele sale.",
+                  "category": "landmark",
+                  "coords": [
+                        20.17819,
+                        49.716017
+                  ]
+            },
+            {
+                  "name": "Mały Ćwilinek",
+                  "text": "Un vârf montan în Beskizii Insulari din Polonia.",
+                  "category": "landmark",
+                  "coords": [
+                        20.200789,
+                        49.67241
+                  ]
+            },
+            {
+                  "name": "Kaplica św. Maksymiliana Marii Kolbe w Wilczycach",
+                  "text": "O capelă catolică în regiunea Beskizilor Insulari.",
+                  "category": "religious",
+                  "coords": [
+                        20.16983,
+                        49.666828
+                  ]
+            },
+            {
+                  "name": "Kościół Matki Bożej Nieustającej Pomocy w Jurkowie",
+                  "text": "O biserică locală în Jurków, situată în Beskizii Insulari.",
+                  "category": "religious",
+                  "coords": [
+                        20.233135,
+                        49.68229
+                  ]
+            },
+            {
+                  "name": "Droga Krzyżowa stacja V",
+                  "text": "O troiță religioasă situată pe un traseu din Beskizii Insulari.",
+                  "category": "landmark",
+                  "coords": [
+                        20.17048,
+                        49.71065
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Rezerwat Śnieżnica",
+                  "text": "A nature reserve on Śnieżnica mountain for the protection of alpine flora.",
+                  "category": "natural",
+                  "coords": [
+                        20.190856,
+                        49.715905
+                  ]
+            },
+            {
+                  "name": "Ćwilin",
+                  "text": "One of the highest peaks of the Island Beskids with a wide view over southern Poland.",
+                  "category": "landmark",
+                  "coords": [
+                        20.191433,
+                        49.688763
+                  ]
+            },
+            {
+                  "name": "Kiczorka",
+                  "text": "A prominent mountain peak in the Island Beskids.",
+                  "category": "landmark",
+                  "coords": [
+                        20.201056,
+                        49.652972
+                  ]
+            },
+            {
+                  "name": "Śnieżnica",
+                  "text": "A well-known peak in the Island Beskids, valued for its views.",
+                  "category": "landmark",
+                  "coords": [
+                        20.17819,
+                        49.716017
+                  ]
+            },
+            {
+                  "name": "Mały Ćwilinek",
+                  "text": "A mountain peak in the Polish Island Beskids.",
+                  "category": "landmark",
+                  "coords": [
+                        20.200789,
+                        49.67241
+                  ]
+            },
+            {
+                  "name": "Kaplica św. Maksymiliana Marii Kolbe w Wilczycach",
+                  "text": "A Catholic chapel located in the Island Beskids region.",
+                  "category": "religious",
+                  "coords": [
+                        20.16983,
+                        49.666828
+                  ]
+            },
+            {
+                  "name": "Kościół Matki Bożej Nieustającej Pomocy w Jurkowie",
+                  "text": "A local church in Jurków, situated in the Island Beskids.",
+                  "category": "religious",
+                  "coords": [
+                        20.233135,
+                        49.68229
+                  ]
+            },
+            {
+                  "name": "Droga Krzyżowa stacja V",
+                  "text": "A religious wayside shrine located along a trail in the Island Beskids.",
+                  "category": "landmark",
+                  "coords": [
+                        20.17048,
+                        49.71065
+                  ]
+            }
+      ]
+},
     type: "mountain",
     parent: "PL",
     name: { de: "Inselbeskiden", hu: "Sziget-Beszkidek", ro: "Beskizii Insulari", en: "Island Beskids" },
@@ -1447,7 +6856,304 @@ export const polandReliefV2: POI[] = [
     image: "/poi-images/poland-beskid-wyspowy-relief-v2.webp",
   },
   {
-    id: "poland-beskid-maly-peak-relief-v2",
+    id: "poland-beskid-maly-peak-relief-v2", "sights": {
+      "de": [
+            {
+                  "name": "Leskowiec",
+                  "text": "Ein beliebter Wandergipfel in den Kleinen Beskiden in Polen.",
+                  "category": "landmark",
+                  "coords": [
+                        19.443158,
+                        49.788747
+                  ]
+            },
+            {
+                  "name": "Żurawnica",
+                  "text": "Ein Gipfel in den Kleinen Beskiden, bekannt für seine Waldwege.",
+                  "category": "landmark",
+                  "coords": [
+                        19.512162,
+                        49.75936
+                  ]
+            },
+            {
+                  "name": "Groń Jana Pawła II",
+                  "text": "Ein Berggipfel, der zu Ehren von Papst Johannes Paul II. benannt wurde.",
+                  "category": "landmark",
+                  "coords": [
+                        19.445174,
+                        49.795519
+                  ]
+            },
+            {
+                  "name": "Potrójna",
+                  "text": "Ein Aussichtsgipfel in den Kleinen Beskiden mit weitem Panorama.",
+                  "category": "landmark",
+                  "coords": [
+                        19.417537,
+                        49.777216
+                  ]
+            },
+            {
+                  "name": "Capia Górka",
+                  "text": "Ein Gipfel in der Żurawnica-Gruppe innerhalb der Beskiden.",
+                  "category": "landmark",
+                  "coords": [
+                        19.483823,
+                        49.742965
+                  ]
+            },
+            {
+                  "name": "Góra Sołowa",
+                  "text": "Ein bewaldeter Berggipfel in der Region der Kleinen Beskiden.",
+                  "category": "landmark",
+                  "coords": [
+                        19.494337,
+                        49.749656
+                  ]
+            },
+            {
+                  "name": "Kukowska Gajka",
+                  "text": "Ein kleinerer Gipfel im Gebirgszug der Beskiden.",
+                  "category": "landmark",
+                  "coords": [
+                        19.479817,
+                        49.747479
+                  ]
+            },
+            {
+                  "name": "Harańczykowa Góra",
+                  "text": "Ein markanter Berggipfel in der Umgebung von Leskowiec.",
+                  "category": "landmark",
+                  "coords": [
+                        19.478803,
+                        49.770527
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Leskowiec",
+                  "text": "Népszerű túrázóhely a Kis-Beszkidekben, Lengyelországban.",
+                  "category": "landmark",
+                  "coords": [
+                        19.443158,
+                        49.788747
+                  ]
+            },
+            {
+                  "name": "Żurawnica",
+                  "text": "Hegycsúcs a Kis-Beszkidekben, amely erdei ösvényeiről ismert.",
+                  "category": "landmark",
+                  "coords": [
+                        19.512162,
+                        49.75936
+                  ]
+            },
+            {
+                  "name": "Groń Jana Pawła II",
+                  "text": "Hegycsúcs, amelyet II. János Pál pápa tiszteletére neveztek el.",
+                  "category": "landmark",
+                  "coords": [
+                        19.445174,
+                        49.795519
+                  ]
+            },
+            {
+                  "name": "Potrójna",
+                  "text": "Kilátópont a Kis-Beszkidekben, széles körpanorámával.",
+                  "category": "landmark",
+                  "coords": [
+                        19.417537,
+                        49.777216
+                  ]
+            },
+            {
+                  "name": "Capia Górka",
+                  "text": "A Beszkidek Żurawnica-csoportjához tartozó hegycsúcs.",
+                  "category": "landmark",
+                  "coords": [
+                        19.483823,
+                        49.742965
+                  ]
+            },
+            {
+                  "name": "Góra Sołowa",
+                  "text": "Erdős hegycsúcs a Kis-Beszkidek régiójában.",
+                  "category": "landmark",
+                  "coords": [
+                        19.494337,
+                        49.749656
+                  ]
+            },
+            {
+                  "name": "Kukowska Gajka",
+                  "text": "Kisebb hegycsúcs a Beszkidek hegyláncában.",
+                  "category": "landmark",
+                  "coords": [
+                        19.479817,
+                        49.747479
+                  ]
+            },
+            {
+                  "name": "Harańczykowa Góra",
+                  "text": "Jellegzetes hegycsúcs Leskowiec környékén.",
+                  "category": "landmark",
+                  "coords": [
+                        19.478803,
+                        49.770527
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Leskowiec",
+                  "text": "Un vârf montan popular pentru drumeții în Beskizii Mici din Polonia.",
+                  "category": "landmark",
+                  "coords": [
+                        19.443158,
+                        49.788747
+                  ]
+            },
+            {
+                  "name": "Żurawnica",
+                  "text": "Un vârf în Beskizii Mici, cunoscut pentru traseele sale forestiere.",
+                  "category": "landmark",
+                  "coords": [
+                        19.512162,
+                        49.75936
+                  ]
+            },
+            {
+                  "name": "Groń Jana Pawła II",
+                  "text": "Un vârf montan numit în onoarea Papei Ioan Paul al II-lea.",
+                  "category": "landmark",
+                  "coords": [
+                        19.445174,
+                        49.795519
+                  ]
+            },
+            {
+                  "name": "Potrójna",
+                  "text": "Un vârf cu belvedere în Beskizii Mici, oferind o panoramă largă.",
+                  "category": "landmark",
+                  "coords": [
+                        19.417537,
+                        49.777216
+                  ]
+            },
+            {
+                  "name": "Capia Górka",
+                  "text": "Un vârf în grupul Żurawnica din cadrul munților Beskizi.",
+                  "category": "landmark",
+                  "coords": [
+                        19.483823,
+                        49.742965
+                  ]
+            },
+            {
+                  "name": "Góra Sołowa",
+                  "text": "Un vârf montan împădurit în regiunea Beskizilor Mici.",
+                  "category": "landmark",
+                  "coords": [
+                        19.494337,
+                        49.749656
+                  ]
+            },
+            {
+                  "name": "Kukowska Gajka",
+                  "text": "Un vârf mai mic în lanțul muntos al Beskizilor.",
+                  "category": "landmark",
+                  "coords": [
+                        19.479817,
+                        49.747479
+                  ]
+            },
+            {
+                  "name": "Harańczykowa Góra",
+                  "text": "Un vârf montan distinctiv în împrejurimile muntelui Leskowiec.",
+                  "category": "landmark",
+                  "coords": [
+                        19.478803,
+                        49.770527
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Leskowiec",
+                  "text": "A popular hiking peak in the Little Beskids of Poland.",
+                  "category": "landmark",
+                  "coords": [
+                        19.443158,
+                        49.788747
+                  ]
+            },
+            {
+                  "name": "Żurawnica",
+                  "text": "A peak in the Little Beskids known for its forest trails.",
+                  "category": "landmark",
+                  "coords": [
+                        19.512162,
+                        49.75936
+                  ]
+            },
+            {
+                  "name": "Groń Jana Pawła II",
+                  "text": "A mountain peak named in honor of Pope John Paul II.",
+                  "category": "landmark",
+                  "coords": [
+                        19.445174,
+                        49.795519
+                  ]
+            },
+            {
+                  "name": "Potrójna",
+                  "text": "A scenic peak in the Little Beskids offering a wide panorama.",
+                  "category": "landmark",
+                  "coords": [
+                        19.417537,
+                        49.777216
+                  ]
+            },
+            {
+                  "name": "Capia Górka",
+                  "text": "A peak in the Żurawnica group within the Beskid mountains.",
+                  "category": "landmark",
+                  "coords": [
+                        19.483823,
+                        49.742965
+                  ]
+            },
+            {
+                  "name": "Góra Sołowa",
+                  "text": "A forested mountain peak in the Little Beskids region.",
+                  "category": "landmark",
+                  "coords": [
+                        19.494337,
+                        49.749656
+                  ]
+            },
+            {
+                  "name": "Kukowska Gajka",
+                  "text": "A smaller peak in the Beskid mountain range.",
+                  "category": "landmark",
+                  "coords": [
+                        19.479817,
+                        49.747479
+                  ]
+            },
+            {
+                  "name": "Harańczykowa Góra",
+                  "text": "A distinctive mountain peak in the vicinity of Leskowiec.",
+                  "category": "landmark",
+                  "coords": [
+                        19.478803,
+                        49.770527
+                  ]
+            }
+      ]
+},
     type: "peak",
     parent: "PL",
     name: { de: "Leskowiec", hu: "Leskowiec", ro: "Leskowiec", en: "Leskowiec Peak" },
@@ -1492,7 +7198,304 @@ export const polandReliefV2: POI[] = [
     image: "/poi-images/poland-beskid-maly-peak-relief-v2.webp",
   },
   {
-    id: "poland-pieniny-high-plateau-relief-v2",
+    id: "poland-pieniny-high-plateau-relief-v2", "sights": {
+      "de": [
+            {
+                  "name": "Pieninen-Burg",
+                  "text": "Die Ruinen einer mittelalterlichen Burg in den Pieninen, gelegen am Berg Zamkowa Góra.",
+                  "category": "castle",
+                  "coords": [
+                        20.420283,
+                        49.420109
+                  ]
+            },
+            {
+                  "name": "Rotes Kloster",
+                  "text": "Ein ehemaliges Kartäuserkloster aus dem 14. Jahrhundert in der Nähe des Dunajec-Durchbruchs.",
+                  "category": "religious",
+                  "coords": [
+                        20.417235,
+                        49.398667
+                  ]
+            },
+            {
+                  "name": "Muzeum Uzdrowiska Szczawnica",
+                  "text": "Ein Museum in Szczawnica, das die Geschichte des lokalen Kurwesens dokumentiert.",
+                  "category": "museum",
+                  "coords": [
+                        20.488383,
+                        49.429434
+                  ]
+            },
+            {
+                  "name": "Pawilon Wejściowy w Szczawnicy",
+                  "text": "Ein Ausstellungsgebäude in Szczawnica, das Informationen über die Region bietet.",
+                  "category": "museum",
+                  "coords": [
+                        20.4563,
+                        49.418465
+                  ]
+            },
+            {
+                  "name": "Ninja Park",
+                  "text": "Ein Abenteuer- und Freizeitpark in den Pieninen, der sportliche Aktivitäten bietet.",
+                  "category": "recreational",
+                  "coords": [
+                        20.415994,
+                        49.440811
+                  ]
+            },
+            {
+                  "name": "Wystawa Przyrodnicza PPN",
+                  "text": "Eine naturkundliche Ausstellung über die Flora und Fauna des Pieninen-Nationalparks.",
+                  "category": "museum",
+                  "coords": [
+                        20.419414,
+                        49.440268
+                  ]
+            },
+            {
+                  "name": "ABlandia",
+                  "text": "Ein Familien-Freizeitpark in der Region Pieninen mit verschiedenen Attraktionen.",
+                  "category": "recreational",
+                  "coords": [
+                        20.414995,
+                        49.440683
+                  ]
+            },
+            {
+                  "name": "Teatr letni",
+                  "text": "Ein Freilichttheater in Szczawnica, das während der Sommermonate Aufführungen zeigt.",
+                  "category": "cultural",
+                  "coords": [
+                        20.430045,
+                        49.440701
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Zamek Pieniński",
+                  "text": "Egy középkori vár romjai a Pieninekben, a Zamkowa Góra hegyen.",
+                  "category": "castle",
+                  "coords": [
+                        20.420283,
+                        49.420109
+                  ]
+            },
+            {
+                  "name": "Vöröskolostor",
+                  "text": "14. századi egykori kartúzi kolostor a Dunajec-áttörés közelében.",
+                  "category": "religious",
+                  "coords": [
+                        20.417235,
+                        49.398667
+                  ]
+            },
+            {
+                  "name": "Muzeum Uzdrowiska Szczawnica",
+                  "text": "Szczawnica múzeuma, amely a helyi fürdőkultúra történetét mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        20.488383,
+                        49.429434
+                  ]
+            },
+            {
+                  "name": "Pawilon Wejściowy w Szczawnicy",
+                  "text": "Kiállítóépület Szczawnicában, amely tájékoztatást nyújt a régióról.",
+                  "category": "museum",
+                  "coords": [
+                        20.4563,
+                        49.418465
+                  ]
+            },
+            {
+                  "name": "Ninja Park",
+                  "text": "Kaland- és szabadidőpark a Pieninekben, amely sportos kikapcsolódást kínál.",
+                  "category": "recreational",
+                  "coords": [
+                        20.415994,
+                        49.440811
+                  ]
+            },
+            {
+                  "name": "Wystawa Przyrodnicza PPN",
+                  "text": "Természettudományi kiállítás a Pienineki Nemzeti Park növény- és állatvilágáról.",
+                  "category": "museum",
+                  "coords": [
+                        20.419414,
+                        49.440268
+                  ]
+            },
+            {
+                  "name": "ABlandia",
+                  "text": "Családi élménypark a Pieninek régióban, különféle attrakciókkal.",
+                  "category": "recreational",
+                  "coords": [
+                        20.414995,
+                        49.440683
+                  ]
+            },
+            {
+                  "name": "Teatr letni",
+                  "text": "Szabadtéri színház Szczawnicában, amely a nyári hónapokban tart előadásokat.",
+                  "category": "cultural",
+                  "coords": [
+                        20.430045,
+                        49.440701
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Zamek Pieniński",
+                  "text": "Ruinele unui castel medieval în Munții Pieniny, situate pe muntele Zamkowa Góra.",
+                  "category": "castle",
+                  "coords": [
+                        20.420283,
+                        49.420109
+                  ]
+            },
+            {
+                  "name": "Červený kláštor",
+                  "text": "O fostă mănăstire cartusiană din secolul al XIV-lea, situată lângă cheile Dunajecului.",
+                  "category": "religious",
+                  "coords": [
+                        20.417235,
+                        49.398667
+                  ]
+            },
+            {
+                  "name": "Muzeum Uzdrowiska Szczawnica",
+                  "text": "Un muzeu din Szczawnica care documentează istoria stațiunii balneare locale.",
+                  "category": "museum",
+                  "coords": [
+                        20.488383,
+                        49.429434
+                  ]
+            },
+            {
+                  "name": "Pawilon Wejściowy w Szczawnicy",
+                  "text": "Un pavilion expozițional în Szczawnica care oferă informații despre regiune.",
+                  "category": "museum",
+                  "coords": [
+                        20.4563,
+                        49.418465
+                  ]
+            },
+            {
+                  "name": "Ninja Park",
+                  "text": "Un parc de aventură și recreere în Munții Pieniny, oferind activități sportive.",
+                  "category": "recreational",
+                  "coords": [
+                        20.415994,
+                        49.440811
+                  ]
+            },
+            {
+                  "name": "Wystawa Przyrodnicza PPN",
+                  "text": "O expoziție naturală despre flora și fauna Parcului Național Pieniny.",
+                  "category": "museum",
+                  "coords": [
+                        20.419414,
+                        49.440268
+                  ]
+            },
+            {
+                  "name": "ABlandia",
+                  "text": "Un parc de distracții pentru familii în regiunea Pieniny, cu diverse atracții.",
+                  "category": "recreational",
+                  "coords": [
+                        20.414995,
+                        49.440683
+                  ]
+            },
+            {
+                  "name": "Teatr letni",
+                  "text": "Un teatru de vară în Szczawnica, care găzduiește spectacole în lunile de vară.",
+                  "category": "cultural",
+                  "coords": [
+                        20.430045,
+                        49.440701
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Pieniny Castle",
+                  "text": "The ruins of a medieval castle in the Pieniny Mountains, located on Zamkowa Góra mountain.",
+                  "category": "castle",
+                  "coords": [
+                        20.420283,
+                        49.420109
+                  ]
+            },
+            {
+                  "name": "Červený kláštor",
+                  "text": "A 14th-century former Carthusian monastery located near the Dunajec Gorge.",
+                  "category": "religious",
+                  "coords": [
+                        20.417235,
+                        49.398667
+                  ]
+            },
+            {
+                  "name": "Muzeum Uzdrowiska Szczawnica",
+                  "text": "A museum in Szczawnica documenting the history of the local spa resort.",
+                  "category": "museum",
+                  "coords": [
+                        20.488383,
+                        49.429434
+                  ]
+            },
+            {
+                  "name": "Pawilon Wejściowy w Szczawnicy",
+                  "text": "An exhibition pavilion in Szczawnica providing information about the region.",
+                  "category": "museum",
+                  "coords": [
+                        20.4563,
+                        49.418465
+                  ]
+            },
+            {
+                  "name": "Ninja Park",
+                  "text": "An adventure and recreation park in the Pieniny Mountains offering sporting activities.",
+                  "category": "recreational",
+                  "coords": [
+                        20.415994,
+                        49.440811
+                  ]
+            },
+            {
+                  "name": "Wystawa Przyrodnicza PPN",
+                  "text": "A nature exhibition about the flora and fauna of the Pieniny National Park.",
+                  "category": "museum",
+                  "coords": [
+                        20.419414,
+                        49.440268
+                  ]
+            },
+            {
+                  "name": "ABlandia",
+                  "text": "A family amusement park in the Pieniny region with various attractions.",
+                  "category": "recreational",
+                  "coords": [
+                        20.414995,
+                        49.440683
+                  ]
+            },
+            {
+                  "name": "Teatr letni",
+                  "text": "A summer theatre in Szczawnica that hosts performances during the summer months.",
+                  "category": "cultural",
+                  "coords": [
+                        20.430045,
+                        49.440701
+                  ]
+            }
+      ]
+},
     type: "landmark",
     parent: "PL",
     name: { de: "Pieninen-Hochland", hu: "Pieninek-fennsík", ro: "Podișul Pieniny", en: "Pieniny Plateau" },
@@ -1537,7 +7540,232 @@ export const polandReliefV2: POI[] = [
     image: "/poi-images/poland-pieniny-high-plateau-relief-v2.webp",
   },
   {
-    id: "poland-silesian-lowland-relief-v2",
+    id: "poland-silesian-lowland-relief-v2", "sights": {
+      "de": [
+            {
+                  "name": "Zamek Piastów Śląskich",
+                  "text": "Eine prachtvolle Renaissance-Residenz, die oft als Schlesischer Wawel bezeichnet wird.",
+                  "category": "castle",
+                  "coords": [
+                        17.466653,
+                        50.863811
+                  ]
+            },
+            {
+                  "name": "Pałacyk Löbecka",
+                  "text": "Ein historisches Schlossgebäude in der Region Brzeg.",
+                  "category": "castle",
+                  "coords": [
+                        17.465652,
+                        50.861204
+                  ]
+            },
+            {
+                  "name": "Kościół Świętych Apostołów Piotra i Pawła",
+                  "text": "Die gotischen Ruinen einer ehemaligen Franziskanerkirche aus dem 13. Jahrhundert.",
+                  "category": "historical",
+                  "coords": [
+                        17.472747,
+                        50.862645
+                  ]
+            },
+            {
+                  "name": "Komin tartaku braci Storch",
+                  "text": "Ein Industriedenkmal mit dem Schornstein des ehemaligen Sägewerks der Gebrüder Storch.",
+                  "category": "landmark",
+                  "coords": [
+                        17.456575,
+                        50.870928
+                  ]
+            },
+            {
+                  "name": "Bohaterom Poległym za Ojczyznę",
+                  "text": "Ein Denkmal für die Helden, die für ihr Vaterland gefallen sind.",
+                  "category": "historical",
+                  "coords": [
+                        17.486981,
+                        50.858096
+                  ]
+            },
+            {
+                  "name": "Brama Odrzańska",
+                  "text": "Ein Renaissance-Stadttor, das ursprünglich Teil der Brzeger Stadtbefestigung war.",
+                  "category": "fortress",
+                  "coords": [
+                        17.466586,
+                        50.865007
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Zamek Piastów Śląskich",
+                  "text": "Pompás reneszánsz rezidencia, amelyet gyakran sziléziai Wawelnek neveznek.",
+                  "category": "castle",
+                  "coords": [
+                        17.466653,
+                        50.863811
+                  ]
+            },
+            {
+                  "name": "Pałacyk Löbecka",
+                  "text": "Történelmi palotaépület Brzeg régiójában.",
+                  "category": "castle",
+                  "coords": [
+                        17.465652,
+                        50.861204
+                  ]
+            },
+            {
+                  "name": "Kościół Świętych Apostołów Piotra i Pawła",
+                  "text": "Egy egykori ferences templom 13. századi gótikus romjai.",
+                  "category": "historical",
+                  "coords": [
+                        17.472747,
+                        50.862645
+                  ]
+            },
+            {
+                  "name": "Komin tartaku braci Storch",
+                  "text": "Ipari örökségi helyszín a Storch testvérek egykori fűrészüzemének kéményével.",
+                  "category": "landmark",
+                  "coords": [
+                        17.456575,
+                        50.870928
+                  ]
+            },
+            {
+                  "name": "Bohaterom Poległym za Ojczyznę",
+                  "text": "A hazáért elhunyt hősöknek szentelt emlékmű.",
+                  "category": "historical",
+                  "coords": [
+                        17.486981,
+                        50.858096
+                  ]
+            },
+            {
+                  "name": "Brama Odrzańska",
+                  "text": "Reneszánsz városkapu, amely eredetileg a brzeg-i erődítmények része volt.",
+                  "category": "fortress",
+                  "coords": [
+                        17.466586,
+                        50.865007
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Zamek Piastów Śląskich",
+                  "text": "O reședință renascentistă magnifică, numită adesea Wawel-ul silezian.",
+                  "category": "castle",
+                  "coords": [
+                        17.466653,
+                        50.863811
+                  ]
+            },
+            {
+                  "name": "Pałacyk Löbecka",
+                  "text": "O clădire istorică de palat situată în regiunea Brzeg.",
+                  "category": "castle",
+                  "coords": [
+                        17.465652,
+                        50.861204
+                  ]
+            },
+            {
+                  "name": "Kościół Świętych Apostołów Piotra i Pawła",
+                  "text": "Ruinele gotice ale unei foste biserici franciscane datând din secolul al XIII-lea.",
+                  "category": "historical",
+                  "coords": [
+                        17.472747,
+                        50.862645
+                  ]
+            },
+            {
+                  "name": "Komin tartaku braci Storch",
+                  "text": "Un sit de patrimoniu industrial care prezintă coșul fostei fabrici de cherestea a fraților Storch.",
+                  "category": "landmark",
+                  "coords": [
+                        17.456575,
+                        50.870928
+                  ]
+            },
+            {
+                  "name": "Bohaterom Poległym za Ojczyznę",
+                  "text": "Un monument dedicat eroilor care au murit pentru patria lor.",
+                  "category": "historical",
+                  "coords": [
+                        17.486981,
+                        50.858096
+                  ]
+            },
+            {
+                  "name": "Brama Odrzańska",
+                  "text": "O poartă de oraș renascentistă care a făcut parte inițial din fortificațiile orașului Brzeg.",
+                  "category": "fortress",
+                  "coords": [
+                        17.466586,
+                        50.865007
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Brzeg Silesian Piasts' Castle",
+                  "text": "A magnificent Renaissance residence often called the Silesian Wawel.",
+                  "category": "castle",
+                  "coords": [
+                        17.466653,
+                        50.863811
+                  ]
+            },
+            {
+                  "name": "Pałacyk Löbecka",
+                  "text": "A historic palace building situated in the Brzeg region.",
+                  "category": "castle",
+                  "coords": [
+                        17.465652,
+                        50.861204
+                  ]
+            },
+            {
+                  "name": "Former Saint Peter and Paul Church",
+                  "text": "The Gothic ruins of a former Franciscan church dating back to the 13th century.",
+                  "category": "historical",
+                  "coords": [
+                        17.472747,
+                        50.862645
+                  ]
+            },
+            {
+                  "name": "Komin tartaku braci Storch",
+                  "text": "An industrial heritage site featuring the chimney of the Storch brothers' former sawmill.",
+                  "category": "landmark",
+                  "coords": [
+                        17.456575,
+                        50.870928
+                  ]
+            },
+            {
+                  "name": "Bohaterom Poległym za Ojczyznę",
+                  "text": "A monument dedicated to the heroes who died for their country.",
+                  "category": "historical",
+                  "coords": [
+                        17.486981,
+                        50.858096
+                  ]
+            },
+            {
+                  "name": "Brama Odrzańska",
+                  "text": "A Renaissance city gate that was originally part of the Brzeg fortifications.",
+                  "category": "fortress",
+                  "coords": [
+                        17.466586,
+                        50.865007
+                  ]
+            }
+      ]
+},
     type: "landmark",
     parent: "PL",
     name: { de: "Schlesisches Tiefland", hu: "Sziléziai-alföld", ro: "Câmpia Sileziei", en: "Silesian Lowland" },
@@ -1582,7 +7810,268 @@ export const polandReliefV2: POI[] = [
     image: "/poi-images/poland-silesian-lowland-relief-v2.webp",
   },
   {
-    id: "poland-beskid-makowski-peak-relief-v2",
+    id: "poland-beskid-makowski-peak-relief-v2", "sights": {
+      "de": [
+            {
+                  "name": "Ruiny Zamku w Myślenicach",
+                  "text": "Ruinen einer mittelalterlichen Burg auf dem Chełm-Gipfel.",
+                  "category": "castle",
+                  "coords": [
+                        19.946958,
+                        49.817415
+                  ]
+            },
+            {
+                  "name": "Muzeum Niepodległości w Myślenicach",
+                  "text": "Museum zur Geschichte der polnischen Unabhängigkeit in Myślenice.",
+                  "category": "museum",
+                  "coords": [
+                        19.937312,
+                        49.837466
+                  ]
+            },
+            {
+                  "name": "Barnasiówka",
+                  "text": "Ein markanter Bergrücken in den Beskiden bei Myślenice.",
+                  "category": "landmark",
+                  "coords": [
+                        19.883639,
+                        49.837167
+                  ]
+            },
+            {
+                  "name": "Pomnik Niepodległości",
+                  "text": "Ein Denkmal zur Erinnerung an die Wiedererlangung der Unabhängigkeit.",
+                  "category": "historical",
+                  "coords": [
+                        19.938744,
+                        49.834657
+                  ]
+            },
+            {
+                  "name": "Myślenicki Ośrodek Kultury i Sportu",
+                  "text": "Ein lokales Zentrum für kulturelle Veranstaltungen und Sport.",
+                  "category": "cultural",
+                  "coords": [
+                        19.942739,
+                        49.829553
+                  ]
+            },
+            {
+                  "name": "Kościół pw. Narodzenia Najświętszej Maryi Panny",
+                  "text": "Die Hauptpfarrkirche von Myślenice mit einem berühmten Marienbild.",
+                  "category": "religious",
+                  "coords": [
+                        19.936547,
+                        49.834195
+                  ]
+            },
+            {
+                  "name": "Kościół pw. Świętego Jakuba w Myślenicach",
+                  "text": "Ein historisches Sakralgebäude in der Umgebung von Myślenice.",
+                  "category": "religious",
+                  "coords": [
+                        19.940536,
+                        49.828737
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Ruiny Zamku w Myślenicach",
+                  "text": "Egy középkori vár romjai a Chełm-csúcson.",
+                  "category": "castle",
+                  "coords": [
+                        19.946958,
+                        49.817415
+                  ]
+            },
+            {
+                  "name": "Muzeum Niepodległości w Myślenicach",
+                  "text": "A lengyel függetlenség történetét bemutató múzeum Myślenicében.",
+                  "category": "museum",
+                  "coords": [
+                        19.937312,
+                        49.837466
+                  ]
+            },
+            {
+                  "name": "Barnasiówka",
+                  "text": "Jellegzetes hegygerinc a Beszkidekben, Myślenice közelében.",
+                  "category": "landmark",
+                  "coords": [
+                        19.883639,
+                        49.837167
+                  ]
+            },
+            {
+                  "name": "Pomnik Niepodległości",
+                  "text": "Az emlékmű a függetlenség visszaszerzésének tiszteletére áll.",
+                  "category": "historical",
+                  "coords": [
+                        19.938744,
+                        49.834657
+                  ]
+            },
+            {
+                  "name": "Myślenicki Ośrodek Kultury i Sportu",
+                  "text": "Helyi kulturális események és sportolás központja.",
+                  "category": "cultural",
+                  "coords": [
+                        19.942739,
+                        49.829553
+                  ]
+            },
+            {
+                  "name": "Kościół pw. Narodzenia Najświętszej Maryi Panny",
+                  "text": "Myślenice főplébániatemploma egy híres Mária-képpel.",
+                  "category": "religious",
+                  "coords": [
+                        19.936547,
+                        49.834195
+                  ]
+            },
+            {
+                  "name": "Kościół pw. Świętego Jakuba w Myślenicach",
+                  "text": "Történelmi egyházi épület Myślenice környékén.",
+                  "category": "religious",
+                  "coords": [
+                        19.940536,
+                        49.828737
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Ruiny Zamku w Myślenicach",
+                  "text": "Ruinele unui castel medieval situat pe vârful Chełm.",
+                  "category": "castle",
+                  "coords": [
+                        19.946958,
+                        49.817415
+                  ]
+            },
+            {
+                  "name": "Muzeum Niepodległości w Myślenicach",
+                  "text": "Muzeu dedicat istoriei independenței Poloniei în Myślenice.",
+                  "category": "museum",
+                  "coords": [
+                        19.937312,
+                        49.837466
+                  ]
+            },
+            {
+                  "name": "Barnasiówka",
+                  "text": "O creastă muntoasă distinctivă în Beskizi, lângă Myślenice.",
+                  "category": "landmark",
+                  "coords": [
+                        19.883639,
+                        49.837167
+                  ]
+            },
+            {
+                  "name": "Pomnik Niepodległości",
+                  "text": "Un monument ridicat în memoria redobândirii independenței.",
+                  "category": "historical",
+                  "coords": [
+                        19.938744,
+                        49.834657
+                  ]
+            },
+            {
+                  "name": "Myślenicki Ośrodek Kultury i Sportu",
+                  "text": "Un centru local pentru evenimente culturale și sport.",
+                  "category": "cultural",
+                  "coords": [
+                        19.942739,
+                        49.829553
+                  ]
+            },
+            {
+                  "name": "Kościół pw. Narodzenia Najświętszej Maryi Panny",
+                  "text": "Biserica parohială principală din Myślenice, adăpostind o faimoasă icoană a Fecioarei Maria.",
+                  "category": "religious",
+                  "coords": [
+                        19.936547,
+                        49.834195
+                  ]
+            },
+            {
+                  "name": "Kościół pw. Świętego Jakuba w Myślenicach",
+                  "text": "O clădire religioasă istorică din zona Myślenice.",
+                  "category": "religious",
+                  "coords": [
+                        19.940536,
+                        49.828737
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Ruiny Zamku w Myślenicach",
+                  "text": "Ruins of a medieval castle situated on the Chełm peak.",
+                  "category": "castle",
+                  "coords": [
+                        19.946958,
+                        49.817415
+                  ]
+            },
+            {
+                  "name": "Muzeum Niepodległości w Myślenicach",
+                  "text": "Museum dedicated to the history of Polish independence in Myślenice.",
+                  "category": "museum",
+                  "coords": [
+                        19.937312,
+                        49.837466
+                  ]
+            },
+            {
+                  "name": "Barnasiówka",
+                  "text": "A distinctive mountain ridge in the Beskids near Myślenice.",
+                  "category": "landmark",
+                  "coords": [
+                        19.883639,
+                        49.837167
+                  ]
+            },
+            {
+                  "name": "Pomnik Niepodległości",
+                  "text": "A monument commemorating the recovery of independence.",
+                  "category": "historical",
+                  "coords": [
+                        19.938744,
+                        49.834657
+                  ]
+            },
+            {
+                  "name": "Myślenicki Ośrodek Kultury i Sportu",
+                  "text": "A local hub for cultural events and sports.",
+                  "category": "cultural",
+                  "coords": [
+                        19.942739,
+                        49.829553
+                  ]
+            },
+            {
+                  "name": "Kościół pw. Narodzenia Najświętszej Maryi Panny",
+                  "text": "The main parish church of Myślenice, home to a famous icon of the Virgin Mary.",
+                  "category": "religious",
+                  "coords": [
+                        19.936547,
+                        49.834195
+                  ]
+            },
+            {
+                  "name": "Kościół pw. Świętego Jakuba w Myślenicach",
+                  "text": "A historical religious building in the Myślenice area.",
+                  "category": "religious",
+                  "coords": [
+                        19.940536,
+                        49.828737
+                  ]
+            }
+      ]
+},
     type: "peak",
     parent: "PL",
     name: { de: "Chełm", hu: "Chełm", ro: "Chełm", en: "Chełm Peak" },
@@ -1627,7 +8116,268 @@ export const polandReliefV2: POI[] = [
     image: "/poi-images/poland-beskid-makowski-peak-relief-v2.webp",
   },
   {
-    id: "poland-sudetes-piedmont-relief-v2",
+    id: "poland-sudetes-piedmont-relief-v2", "sights": {
+      "de": [
+            {
+                  "name": "Grodzisko Gilów",
+                  "text": "Die archäologische Stätte Gilów umfasst die Überreste einer bedeutenden frühmittelalterlichen slawischen Wallburg.",
+                  "category": "historical",
+                  "coords": [
+                        16.794542,
+                        50.719081
+                  ]
+            },
+            {
+                  "name": "Zamek książęcy - przebudowany",
+                  "text": "Das ehemalige herzogliche Schloss in Niemcza ist ein historisches Bauwerk mit einer wechselvollen Geschichte.",
+                  "category": "castle",
+                  "coords": [
+                        16.835224,
+                        50.719013
+                  ]
+            },
+            {
+                  "name": "Pałac Gilów",
+                  "text": "Dieses Schloss ist ein Beispiel für die historische Residenzarchitektur im schlesischen Vorgebirge.",
+                  "category": "castle",
+                  "coords": [
+                        16.783328,
+                        50.721838
+                  ]
+            },
+            {
+                  "name": "Pilzberg",
+                  "text": "Dieser bewaldete Hügel ist Teil der Gumińskie-Höhen und ein beliebtes Ziel für Naturfreunde.",
+                  "category": "landmark",
+                  "coords": [
+                        16.785403,
+                        50.683101
+                  ]
+            },
+            {
+                  "name": "Kościół pw. Świętego Marcina",
+                  "text": "Eine dem heiligen Martin geweihte Kirche im Sudetenvorland.",
+                  "category": "religious",
+                  "coords": [
+                        16.750582,
+                        50.684255
+                  ]
+            },
+            {
+                  "name": "Kościół pw. MB Królowej Polski",
+                  "text": "Eine katholische Kirche im Sudetenvorland, die der Muttergottes, der Königin von Polen, geweiht ist.",
+                  "category": "religious",
+                  "coords": [
+                        16.826865,
+                        50.685833
+                  ]
+            },
+            {
+                  "name": "Kaplica św.Wojciecha",
+                  "text": "Eine dem heiligen Adalbert geweihte Kapelle im Sudetenvorland.",
+                  "category": "religious",
+                  "coords": [
+                        16.832215,
+                        50.719658
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Grodzisko Gilów",
+                  "text": "A gilówi régészeti lelőhely egy jelentős kora középkori szláv földvár maradványait őrzi.",
+                  "category": "historical",
+                  "coords": [
+                        16.794542,
+                        50.719081
+                  ]
+            },
+            {
+                  "name": "Zamek książęcy - przebudowany",
+                  "text": "A niemczai egykori hercegi kastély egy változatos történelmű, jelentős műemlék épület.",
+                  "category": "castle",
+                  "coords": [
+                        16.835224,
+                        50.719013
+                  ]
+            },
+            {
+                  "name": "Pałac Gilów",
+                  "text": "Ez a kastély a sziléziai előhegység történelmi rezidencia-építészetének egyik példája.",
+                  "category": "castle",
+                  "coords": [
+                        16.783328,
+                        50.721838
+                  ]
+            },
+            {
+                  "name": "Grzybowiec",
+                  "text": "Ez az erdős domb a Gumińskie-magaslatok része, és népszerű célpont a természetjárók körében.",
+                  "category": "landmark",
+                  "coords": [
+                        16.785403,
+                        50.683101
+                  ]
+            },
+            {
+                  "name": "Kościół pw. Świętego Marcina",
+                  "text": "Szent Mártonnak szentelt templom a Szudéták előhegyei között.",
+                  "category": "religious",
+                  "coords": [
+                        16.750582,
+                        50.684255
+                  ]
+            },
+            {
+                  "name": "Kościół pw. MB Królowej Polski",
+                  "text": "Lengyelország Királynőjének szentelt katolikus templom a Szudéták előhegyei között.",
+                  "category": "religious",
+                  "coords": [
+                        16.826865,
+                        50.685833
+                  ]
+            },
+            {
+                  "name": "Kaplica św.Wojciecha",
+                  "text": "Szent Adalbertnak szentelt kápolna a Szudéták előhegyei között.",
+                  "category": "religious",
+                  "coords": [
+                        16.832215,
+                        50.719658
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Grodzisko Gilów",
+                  "text": "Situl arheologic Gilów cuprinde rămășițele unei cetăți slave importante din perioada medievală timpurie.",
+                  "category": "historical",
+                  "coords": [
+                        16.794542,
+                        50.719081
+                  ]
+            },
+            {
+                  "name": "Zamek książęcy - przebudowany",
+                  "text": "Fostul castel ducal din Niemcza este un edificiu istoric cu o trecut complex.",
+                  "category": "castle",
+                  "coords": [
+                        16.835224,
+                        50.719013
+                  ]
+            },
+            {
+                  "name": "Pałac Gilów",
+                  "text": "Acest palat este un exemplu al arhitecturii rezidențiale istorice din regiunea subcarpatică sileziană.",
+                  "category": "castle",
+                  "coords": [
+                        16.783328,
+                        50.721838
+                  ]
+            },
+            {
+                  "name": "Grzybowiec",
+                  "text": "Acest deal împădurit face parte din înălțimile Gumińskie și este o destinație populară pentru iubitorii de natură.",
+                  "category": "landmark",
+                  "coords": [
+                        16.785403,
+                        50.683101
+                  ]
+            },
+            {
+                  "name": "Kościół pw. Świętego Marcina",
+                  "text": "O biserică dedicată Sfântului Martin în Piemontul Sudeților.",
+                  "category": "religious",
+                  "coords": [
+                        16.750582,
+                        50.684255
+                  ]
+            },
+            {
+                  "name": "Kościół pw. MB Królowej Polski",
+                  "text": "O biserică catolică dedicată Maicii Domnului Regina Poloniei în Piemontul Sudeților.",
+                  "category": "religious",
+                  "coords": [
+                        16.826865,
+                        50.685833
+                  ]
+            },
+            {
+                  "name": "Kaplica św.Wojciecha",
+                  "text": "O capelă dedicată Sfântului Adalbert în Piemontul Sudeților.",
+                  "category": "religious",
+                  "coords": [
+                        16.832215,
+                        50.719658
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Grodzisko Gilów",
+                  "text": "The Gilów archaeological site includes the remains of a significant early medieval Slavic earthwork fortification.",
+                  "category": "historical",
+                  "coords": [
+                        16.794542,
+                        50.719081
+                  ]
+            },
+            {
+                  "name": "Zamek książęcy - przebudowany",
+                  "text": "The former ducal castle in Niemcza is a historical building with a long and varied history.",
+                  "category": "castle",
+                  "coords": [
+                        16.835224,
+                        50.719013
+                  ]
+            },
+            {
+                  "name": "Pałac Gilów",
+                  "text": "This palace is an example of historical residential architecture in the Silesian Piedmont.",
+                  "category": "castle",
+                  "coords": [
+                        16.783328,
+                        50.721838
+                  ]
+            },
+            {
+                  "name": "Grzybowiec",
+                  "text": "This forested hill is part of the Gumińskie Heights and a popular destination for nature lovers.",
+                  "category": "landmark",
+                  "coords": [
+                        16.785403,
+                        50.683101
+                  ]
+            },
+            {
+                  "name": "Kościół pw. Świętego Marcina",
+                  "text": "A church dedicated to Saint Martin located in the Sudetes Piedmont.",
+                  "category": "religious",
+                  "coords": [
+                        16.750582,
+                        50.684255
+                  ]
+            },
+            {
+                  "name": "Kościół pw. MB Królowej Polski",
+                  "text": "A Catholic church dedicated to Our Lady Queen of Poland in the Sudetes Piedmont.",
+                  "category": "religious",
+                  "coords": [
+                        16.826865,
+                        50.685833
+                  ]
+            },
+            {
+                  "name": "Kaplica św.Wojciecha",
+                  "text": "A chapel dedicated to Saint Adalbert in the Sudetes Piedmont.",
+                  "category": "religious",
+                  "coords": [
+                        16.832215,
+                        50.719658
+                  ]
+            }
+      ]
+},
     type: "landmark",
     parent: "PL",
     name: { de: "Sudetenvorland", hu: "Szudéta-előhegység", ro: "Piemontul Sudeților", en: "Sudetes Piedmont" },
@@ -1672,7 +8422,304 @@ export const polandReliefV2: POI[] = [
     image: "/poi-images/poland-sudetes-piedmont-relief-v2.webp",
   },
   {
-    id: "poland-beskid-slaski-valley-relief-v2",
+    id: "poland-beskid-slaski-valley-relief-v2", "sights": {
+      "de": [
+            {
+                  "name": "Park wodny Tropikana",
+                  "text": "Der Wasserpark Tropikana im Weichseltal bietet zahlreiche Schwimmbecken und Freizeitaktivitäten für Familien.",
+                  "category": "recreational",
+                  "coords": [
+                        18.858354,
+                        49.661174
+                  ]
+            },
+            {
+                  "name": "Zagroda edukacyjna u Gazdy",
+                  "text": "Dieser Bildungshof vermittelt Besuchern Einblicke in das traditionelle ländliche Leben und Handwerk.",
+                  "category": "museum",
+                  "coords": [
+                        18.869918,
+                        49.636259
+                  ]
+            },
+            {
+                  "name": "Amfiteatr",
+                  "text": "Das Amphitheater im Weichseltal ist ein beliebter Ort für Konzerte und kulturelle Veranstaltungen im Freien.",
+                  "category": "cultural",
+                  "coords": [
+                        18.861526,
+                        49.655547
+                  ]
+            },
+            {
+                  "name": "Muzeum Narciarstwa",
+                  "text": "Das Skimuseum dokumentiert die Geschichte und Entwicklung des Skisports in dieser bergigen Region.",
+                  "category": "museum",
+                  "coords": [
+                        18.856595,
+                        49.659944
+                  ]
+            },
+            {
+                  "name": "Ochorowiczówka",
+                  "text": "Ochorowiczówka ist ein Museum für magischen Realismus im ehemaligen Wohnhaus des Wissenschaftlers Julian Ochorowicz.",
+                  "category": "museum",
+                  "coords": [
+                        18.869109,
+                        49.642337
+                  ]
+            },
+            {
+                  "name": "Galeria Sportowych Trofeów Adama Małysza",
+                  "text": "Diese Galerie zeigt die beeindruckende Sammlung von Medaillen und Pokalen des berühmten Skispringers Adam Małysz.",
+                  "category": "museum",
+                  "coords": [
+                        18.868894,
+                        49.646981
+                  ]
+            },
+            {
+                  "name": "Velký Sošov / Soszów Wielki",
+                  "text": "Der Soszów Wielki ist ein beliebter Berggipfel in den Beskiden mit einem bekannten Skigebiet.",
+                  "category": "landmark",
+                  "coords": [
+                        18.812954,
+                        49.634343
+                  ]
+            },
+            {
+                  "name": "Malý Sošov / Soszów Mały",
+                  "text": "Der Soszów Mały ist ein Gipfel an der Grenze zwischen Polen und Tschechien im Weichseltal.",
+                  "category": "landmark",
+                  "coords": [
+                        18.806346,
+                        49.651288
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Park wodny Tropikana",
+                  "text": "A Visztula-völgyben található Tropikana vízipark számos medencével és szabadidős tevékenységgel várja a családokat.",
+                  "category": "recreational",
+                  "coords": [
+                        18.858354,
+                        49.661174
+                  ]
+            },
+            {
+                  "name": "Zagroda edukacyjna u Gazdy",
+                  "text": "Ez az oktató jellegű gazdaság betekintést nyújt a látogatóknak a hagyományos vidéki életbe és mesterségekbe.",
+                  "category": "museum",
+                  "coords": [
+                        18.869918,
+                        49.636259
+                  ]
+            },
+            {
+                  "name": "Amfiteatr",
+                  "text": "A Visztula-völgyi amfiteátrum koncertek és szabadtéri kulturális rendezvények kedvelt helyszíne.",
+                  "category": "cultural",
+                  "coords": [
+                        18.861526,
+                        49.655547
+                  ]
+            },
+            {
+                  "name": "Muzeum Narciarstwa",
+                  "text": "A Símúzeum a sísport történelmét és fejlődését dokumentálja ebben a hegyvidéki régióban.",
+                  "category": "museum",
+                  "coords": [
+                        18.856595,
+                        49.659944
+                  ]
+            },
+            {
+                  "name": "Ochorowiczówka",
+                  "text": "Az Ochorowiczówka a mágikus realizmus múzeuma, amely Julian Ochorowicz tudós egykori lakóházában kapott helyet.",
+                  "category": "museum",
+                  "coords": [
+                        18.869109,
+                        49.642337
+                  ]
+            },
+            {
+                  "name": "Galeria Sportowych Trofeów Adama Małysza",
+                  "text": "Ez a galéria Adam Małysz, a híres síugró érmeinek és kupáinak lenyűgöző gyűjteményét mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        18.868894,
+                        49.646981
+                  ]
+            },
+            {
+                  "name": "Velký Sošov / Soszów Wielki",
+                  "text": "A Soszów Wielki a Beszkidek egyik népszerű hegycsúcsa, amely ismert síközponttal rendelkezik.",
+                  "category": "landmark",
+                  "coords": [
+                        18.812954,
+                        49.634343
+                  ]
+            },
+            {
+                  "name": "Malý Sošov / Soszów Mały",
+                  "text": "A Soszów Mały egy hegycsúcs a lengyel-cseh határon, a Visztula-völgy térségében.",
+                  "category": "landmark",
+                  "coords": [
+                        18.806346,
+                        49.651288
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Park wodny Tropikana",
+                  "text": "Parcul acvatic Tropikana din Valea Vistulei oferă numeroase piscine și activități recreative pentru familii.",
+                  "category": "recreational",
+                  "coords": [
+                        18.858354,
+                        49.661174
+                  ]
+            },
+            {
+                  "name": "Zagroda edukacyjna u Gazdy",
+                  "text": "Această fermă educațională oferă vizitatorilor o perspectivă asupra vieții rurale și meșteșugurilor tradiționale.",
+                  "category": "museum",
+                  "coords": [
+                        18.869918,
+                        49.636259
+                  ]
+            },
+            {
+                  "name": "Amfiteatr",
+                  "text": "Amfiteatrul din Valea Vistulei este un loc popular pentru concerte și evenimente culturale în aer liber.",
+                  "category": "cultural",
+                  "coords": [
+                        18.861526,
+                        49.655547
+                  ]
+            },
+            {
+                  "name": "Muzeum Narciarstwa",
+                  "text": "Muzeul Schiului documentează istoria și evoluția schiului în această regiune montană.",
+                  "category": "museum",
+                  "coords": [
+                        18.856595,
+                        49.659944
+                  ]
+            },
+            {
+                  "name": "Ochorowiczówka",
+                  "text": "Ochorowiczówka este un muzeu al realismului magic, situat în fosta reședință a omului de știință Julian Ochorowicz.",
+                  "category": "museum",
+                  "coords": [
+                        18.869109,
+                        49.642337
+                  ]
+            },
+            {
+                  "name": "Galeria Sportowych Trofeów Adama Małysza",
+                  "text": "Această galerie prezintă colecția impresionantă de medalii și trofee a celebrului săritor cu schiurile Adam Małysz.",
+                  "category": "museum",
+                  "coords": [
+                        18.868894,
+                        49.646981
+                  ]
+            },
+            {
+                  "name": "Velký Sošov / Soszów Wielki",
+                  "text": "Soszów Wielki este un vârf montan popular din Beskizi, dotat cu o stațiune de schi cunoscută.",
+                  "category": "landmark",
+                  "coords": [
+                        18.812954,
+                        49.634343
+                  ]
+            },
+            {
+                  "name": "Malý Sošov / Soszów Mały",
+                  "text": "Soszów Mały este un vârf situat la granița dintre Polonia și Cehia, în zona Văii Vistulei.",
+                  "category": "landmark",
+                  "coords": [
+                        18.806346,
+                        49.651288
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Park wodny Tropikana",
+                  "text": "Tropikana Water Park in the Vistula Valley features numerous swimming pools and leisure activities for families.",
+                  "category": "recreational",
+                  "coords": [
+                        18.858354,
+                        49.661174
+                  ]
+            },
+            {
+                  "name": "Zagroda edukacyjna u Gazdy",
+                  "text": "This educational farm provides visitors with insights into traditional rural life and crafts.",
+                  "category": "museum",
+                  "coords": [
+                        18.869918,
+                        49.636259
+                  ]
+            },
+            {
+                  "name": "Amfiteatr",
+                  "text": "The amphitheatre in the Vistula Valley is a popular venue for concerts and outdoor cultural events.",
+                  "category": "cultural",
+                  "coords": [
+                        18.861526,
+                        49.655547
+                  ]
+            },
+            {
+                  "name": "Muzeum Narciarstwa",
+                  "text": "The Ski Museum documents the history and development of skiing in this mountainous region.",
+                  "category": "museum",
+                  "coords": [
+                        18.856595,
+                        49.659944
+                  ]
+            },
+            {
+                  "name": "Ochorowiczówka",
+                  "text": "Ochorowiczówka is a museum of magic realism located in the former residence of scientist Julian Ochorowicz.",
+                  "category": "museum",
+                  "coords": [
+                        18.869109,
+                        49.642337
+                  ]
+            },
+            {
+                  "name": "Galeria Sportowych Trofeów Adama Małysza",
+                  "text": "This gallery displays the impressive collection of medals and trophies of the famous ski jumper Adam Małysz.",
+                  "category": "museum",
+                  "coords": [
+                        18.868894,
+                        49.646981
+                  ]
+            },
+            {
+                  "name": "Velký Sošov / Soszów Wielki",
+                  "text": "Soszów Wielki is a popular mountain peak in the Beskids featuring a well-known ski resort.",
+                  "category": "landmark",
+                  "coords": [
+                        18.812954,
+                        49.634343
+                  ]
+            },
+            {
+                  "name": "Malý Sošov / Soszów Mały",
+                  "text": "Soszów Mały is a peak on the border between Poland and the Czech Republic in the Vistula Valley area.",
+                  "category": "landmark",
+                  "coords": [
+                        18.806346,
+                        49.651288
+                  ]
+            }
+      ]
+},
     type: "valley",
     parent: "PL",
     name: { de: "Weichsel-Tal", hu: "Visztula-völgy", ro: "Valea Vistulei", en: "Vistula Valley" },
@@ -1717,7 +8764,268 @@ export const polandReliefV2: POI[] = [
     image: "/poi-images/poland-beskid-slaski-valley-relief-v2.webp",
   },
   {
-    id: "poland-lubuskie-lake-district-relief-v2",
+    id: "poland-lubuskie-lake-district-relief-v2", "sights": {
+      "de": [
+            {
+                  "name": "Zamek Joannitów",
+                  "text": "Eine historische Burg des Johanniterordens in Łagów, die über dem Ort thront.",
+                  "category": "castle",
+                  "coords": [
+                        15.292789,
+                        52.334699
+                  ]
+            },
+            {
+                  "name": "Rezerwat Nad Jeziorem Trześniowskim",
+                  "text": "Ein Waldschutzgebiet am malerischen Trześniowskie-See in der Lebuser Seenplatte.",
+                  "category": "natural",
+                  "coords": [
+                        15.287605,
+                        52.344034
+                  ]
+            },
+            {
+                  "name": "Landschaftsschutzpark Łagów",
+                  "text": "Ein weitläufiger Landschaftsschutzpark mit Seen und Wäldern in Westpolen.",
+                  "category": "natural",
+                  "coords": [
+                        15.290999,
+                        52.352416
+                  ]
+            },
+            {
+                  "name": "Amfiteatr",
+                  "text": "Ein Freilichttheater für kulturelle Veranstaltungen in der Region Łagów.",
+                  "category": "cultural",
+                  "coords": [
+                        15.291707,
+                        52.33495
+                  ]
+            },
+            {
+                  "name": "Park linowy Łagów Lubuski",
+                  "text": "Ein Kletterpark in Łagów Lubuski, der verschiedene Hindernisparcours bietet.",
+                  "category": "recreational",
+                  "coords": [
+                        15.285036,
+                        52.331023
+                  ]
+            },
+            {
+                  "name": "Grodzisko Łagów",
+                  "text": "Eine archäologische Fundstätte einer mittelalterlichen Siedlung in der Nähe von Łagów.",
+                  "category": "historical",
+                  "coords": [
+                        15.288955,
+                        52.337646
+                  ]
+            },
+            {
+                  "name": "unidentified post ww2 ruins",
+                  "text": "Überreste nicht näher identifizierter Bauwerke aus der Zeit nach dem Zweiten Weltkrieg.",
+                  "category": "historical",
+                  "coords": [
+                        15.287878,
+                        52.341299
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Zamek Joannitów",
+                  "text": "A máltai lovagrend történelmi vára Łagówban, amely a település fölé magasodik.",
+                  "category": "castle",
+                  "coords": [
+                        15.292789,
+                        52.334699
+                  ]
+            },
+            {
+                  "name": "Rezerwat Nad Jeziorem Trześniowskim",
+                  "text": "Erdőrezervátum a festői Trześniowskie-tó partján a Lubusi-tóvidéken.",
+                  "category": "natural",
+                  "coords": [
+                        15.287605,
+                        52.344034
+                  ]
+            },
+            {
+                  "name": "Łagowsko-Sulęciński Park Krajobrazowy",
+                  "text": "Kiterjedt tájvédelmi körzet tavakkal és erdőkkel Nyugat-Lengyelországban.",
+                  "category": "natural",
+                  "coords": [
+                        15.290999,
+                        52.352416
+                  ]
+            },
+            {
+                  "name": "Amfiteatr",
+                  "text": "Szabadtéri színház kulturális rendezvények számára Łagów környékén.",
+                  "category": "cultural",
+                  "coords": [
+                        15.291707,
+                        52.33495
+                  ]
+            },
+            {
+                  "name": "Park linowy Łagów Lubuski",
+                  "text": "Kötélpályás kalandpark Łagów Lubuskiban, amely különféle akadálypályákat kínál.",
+                  "category": "recreational",
+                  "coords": [
+                        15.285036,
+                        52.331023
+                  ]
+            },
+            {
+                  "name": "Grodzisko Łagów",
+                  "text": "Egy középkori település régészeti lelőhelye Łagów közelében.",
+                  "category": "historical",
+                  "coords": [
+                        15.288955,
+                        52.337646
+                  ]
+            },
+            {
+                  "name": "unidentified post ww2 ruins",
+                  "text": "A második világháború utáni időszakból származó, közelebbről nem azonosított romok.",
+                  "category": "historical",
+                  "coords": [
+                        15.287878,
+                        52.341299
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Zamek Joannitów",
+                  "text": "Un castel istoric al Ordinului Ioaniților în Łagów, care domină localitatea.",
+                  "category": "castle",
+                  "coords": [
+                        15.292789,
+                        52.334699
+                  ]
+            },
+            {
+                  "name": "Rezerwat Nad Jeziorem Trześniowskim",
+                  "text": "O rezervație forestieră lângă lacul pitoresc Trześniowskie, în regiunea lacurilor Lubusz.",
+                  "category": "natural",
+                  "coords": [
+                        15.287605,
+                        52.344034
+                  ]
+            },
+            {
+                  "name": "Łagowsko-Sulęciński Park Krajobrazowy",
+                  "text": "Un parc peisajistic vast, cu lacuri și păduri, în vestul Poloniei.",
+                  "category": "natural",
+                  "coords": [
+                        15.290999,
+                        52.352416
+                  ]
+            },
+            {
+                  "name": "Amfiteatr",
+                  "text": "Un amfiteatru în aer liber pentru evenimente culturale în regiunea Łagów.",
+                  "category": "cultural",
+                  "coords": [
+                        15.291707,
+                        52.33495
+                  ]
+            },
+            {
+                  "name": "Park linowy Łagów Lubuski",
+                  "text": "Un parc de aventură în Łagów Lubuski, care oferă diverse trasee cu obstacole.",
+                  "category": "recreational",
+                  "coords": [
+                        15.285036,
+                        52.331023
+                  ]
+            },
+            {
+                  "name": "Grodzisko Łagów",
+                  "text": "Un sit arheologic al unei așezări medievale situate lângă Łagów.",
+                  "category": "historical",
+                  "coords": [
+                        15.288955,
+                        52.337646
+                  ]
+            },
+            {
+                  "name": "unidentified post ww2 ruins",
+                  "text": "Ruine neidentificate ale unor structuri datând din perioada de după cel de-al Doilea Război Mondial.",
+                  "category": "historical",
+                  "coords": [
+                        15.287878,
+                        52.341299
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Zamek Joannitów",
+                  "text": "A historic castle of the Knights Hospitaller in Łagów, overlooking the village.",
+                  "category": "castle",
+                  "coords": [
+                        15.292789,
+                        52.334699
+                  ]
+            },
+            {
+                  "name": "Rezerwat Nad Jeziorem Trześniowskim",
+                  "text": "A forest nature reserve by the scenic Trześniowskie Lake in the Lubusz Lake District.",
+                  "category": "natural",
+                  "coords": [
+                        15.287605,
+                        52.344034
+                  ]
+            },
+            {
+                  "name": "Łagów Landscape Park",
+                  "text": "An extensive landscape park featuring lakes and forests in western Poland.",
+                  "category": "natural",
+                  "coords": [
+                        15.290999,
+                        52.352416
+                  ]
+            },
+            {
+                  "name": "Amfiteatr",
+                  "text": "An open-air theatre used for cultural events in the Łagów area.",
+                  "category": "cultural",
+                  "coords": [
+                        15.291707,
+                        52.33495
+                  ]
+            },
+            {
+                  "name": "Park linowy Łagów Lubuski",
+                  "text": "A rope adventure park in Łagów Lubuski offering various obstacle courses.",
+                  "category": "recreational",
+                  "coords": [
+                        15.285036,
+                        52.331023
+                  ]
+            },
+            {
+                  "name": "Grodzisko Łagów",
+                  "text": "An archaeological site of a medieval settlement located near Łagów.",
+                  "category": "historical",
+                  "coords": [
+                        15.288955,
+                        52.337646
+                  ]
+            },
+            {
+                  "name": "unidentified post ww2 ruins",
+                  "text": "Unidentified ruins of structures dating from the post-World War II period.",
+                  "category": "historical",
+                  "coords": [
+                        15.287878,
+                        52.341299
+                  ]
+            }
+      ]
+},
     type: "landmark",
     parent: "PL",
     name: { de: "Lebuser Seenplatte", hu: "Lubuski-tóvidék", ro: "Regiunea Lacustră Lubusz", en: "Lubusz Lake District" },

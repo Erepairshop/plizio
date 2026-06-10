@@ -3,7 +3,88 @@ import type { POI } from "./poi";
 
 export const poiExtraIcelandOther: POI[] = [
   {
-    id: "landmark-hengifoss-extra",
+    id: "landmark-hengifoss-extra", "sights": {
+      "de": [
+            {
+                  "name": "Litlanesfoss",
+                  "text": "Ein beeindruckender Wasserfall, der von sechseckigen Basaltsäulen umgeben ist.",
+                  "category": "natural",
+                  "coords": [
+                        -14.883353,
+                        65.082055
+                  ]
+            },
+            {
+                  "name": "Hengifoss",
+                  "text": "Einer der höchsten Wasserfälle Islands, bekannt für seine roten Tonschichten.",
+                  "category": "natural",
+                  "coords": [
+                        -14.887536,
+                        65.091364
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Litlanesfoss",
+                  "text": "Lenyűgöző vízesés, amelyet hatszögletű bazaltoszlopok vesznek körül.",
+                  "category": "natural",
+                  "coords": [
+                        -14.883353,
+                        65.082055
+                  ]
+            },
+            {
+                  "name": "Hengifoss",
+                  "text": "Izland egyik legmagasabb vízesése, amely vörös agyagrétegeiről ismert.",
+                  "category": "natural",
+                  "coords": [
+                        -14.887536,
+                        65.091364
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Litlanesfoss",
+                  "text": "O cascadă uluitoare înconjurată de coloane hexagonale de bazalt.",
+                  "category": "natural",
+                  "coords": [
+                        -14.883353,
+                        65.082055
+                  ]
+            },
+            {
+                  "name": "Hengifoss",
+                  "text": "Una dintre cele mai înalte cascade din Islanda, cunoscută pentru straturile sale de argilă roșie.",
+                  "category": "natural",
+                  "coords": [
+                        -14.887536,
+                        65.091364
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Litlanesfoss",
+                  "text": "A stunning waterfall surrounded by hexagonal basalt columns.",
+                  "category": "natural",
+                  "coords": [
+                        -14.883353,
+                        65.082055
+                  ]
+            },
+            {
+                  "name": "Hengifoss",
+                  "text": "One of the tallest waterfalls in Iceland, known for its red clay layers.",
+                  "category": "natural",
+                  "coords": [
+                        -14.887536,
+                        65.091364
+                  ]
+            }
+      ]
+},
     type: "landmark",
     parent: "IS-001",
     coords: [-14.8856, 65.0831],

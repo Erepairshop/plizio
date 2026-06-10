@@ -332,7 +332,304 @@ export const slovakiaLandmarksV2: POI[] = [
     },
   },
   {
-    id: "slovakia-devin-castle-landmarks-v2",
+    id: "slovakia-devin-castle-landmarks-v2", "sights": {
+      "de": [
+            {
+                  "name": "Sandberg",
+                  "text": "Eine bedeutende archäologische und paläontologische Fundstätte bei Devín.",
+                  "category": "historical",
+                  "coords": [
+                        16.974281,
+                        48.20082
+                  ]
+            },
+            {
+                  "name": "Ruine Röthelstein",
+                  "text": "Die Überreste einer mittelalterlichen Burgruine in der Nähe von Devín.",
+                  "category": "castle",
+                  "coords": [
+                        16.95426,
+                        48.161045
+                  ]
+            },
+            {
+                  "name": "Villa Rustica",
+                  "text": "Die Überreste eines römischen Landguts aus dem 3. bis 4. Jahrhundert.",
+                  "category": "historical",
+                  "coords": [
+                        17.015687,
+                        48.195482
+                  ]
+            },
+            {
+                  "name": "Burgruine Theben",
+                  "text": "Eine historische Burgruine an der Mündung der March in die Donau.",
+                  "category": "castle",
+                  "coords": [
+                        16.979874,
+                        48.173223
+                  ]
+            },
+            {
+                  "name": "Hügelgrab Schulerbergl",
+                  "text": "Eine archäologische Stätte mit Überresten prähistorischer Grabhügel.",
+                  "category": "historical",
+                  "coords": [
+                        16.946347,
+                        48.151222
+                  ]
+            },
+            {
+                  "name": "Sokoliareň a minizoo Devín",
+                  "text": "Ein kleines Tiergehege und ein Zentrum für Falknerei in Devín.",
+                  "category": "recreational",
+                  "coords": [
+                        16.979728,
+                        48.177188
+                  ]
+            },
+            {
+                  "name": "Mittlere Burg",
+                  "text": "Ein Teil der Burganlage von Devín, der zwischen der oberen und unteren Burg liegt.",
+                  "category": "castle",
+                  "coords": [
+                        16.978309,
+                        48.17339
+                  ]
+            },
+            {
+                  "name": "Anjelská pláž",
+                  "text": "Ein Strandbereich am Ufer der Donau unterhalb der Burg Devín.",
+                  "category": "recreational",
+                  "coords": [
+                        17.014424,
+                        48.153992
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Sandberg",
+                  "text": "Jelentős régészeti és őslénytani lelőhely Dévény közelében.",
+                  "category": "historical",
+                  "coords": [
+                        16.974281,
+                        48.20082
+                  ]
+            },
+            {
+                  "name": "Ruine Röthelstein",
+                  "text": "Egy középkori várrom maradványai Dévény közelében.",
+                  "category": "castle",
+                  "coords": [
+                        16.95426,
+                        48.161045
+                  ]
+            },
+            {
+                  "name": "Villa Rustica",
+                  "text": "Egy 3-4. századi római vidéki birtok maradványai.",
+                  "category": "historical",
+                  "coords": [
+                        17.015687,
+                        48.195482
+                  ]
+            },
+            {
+                  "name": "Dévény vára",
+                  "text": "Történelmi várrom a Morva és a Duna összefolyásánál.",
+                  "category": "castle",
+                  "coords": [
+                        16.979874,
+                        48.173223
+                  ]
+            },
+            {
+                  "name": "Hügelgrab Schulerbergl",
+                  "text": "Régészeti lelőhely őskori halomsírok maradványaival.",
+                  "category": "historical",
+                  "coords": [
+                        16.946347,
+                        48.151222
+                  ]
+            },
+            {
+                  "name": "Sokoliareň a minizoo Devín",
+                  "text": "Egy kis állatkert és solymászati központ Dévényben.",
+                  "category": "recreational",
+                  "coords": [
+                        16.979728,
+                        48.177188
+                  ]
+            },
+            {
+                  "name": "Stredný hrad",
+                  "text": "A dévényi várkomplexum része a felső és az alsó vár között.",
+                  "category": "castle",
+                  "coords": [
+                        16.978309,
+                        48.17339
+                  ]
+            },
+            {
+                  "name": "Anjelská pláž",
+                  "text": "Duna-parti strandterület a dévényi vár alatt.",
+                  "category": "recreational",
+                  "coords": [
+                        17.014424,
+                        48.153992
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Sandberg",
+                  "text": "Un sit arheologic și paleontologic important lângă Devín.",
+                  "category": "historical",
+                  "coords": [
+                        16.974281,
+                        48.20082
+                  ]
+            },
+            {
+                  "name": "Ruine Röthelstein",
+                  "text": "Vestigiile unei ruine de castel medieval în apropiere de Devín.",
+                  "category": "castle",
+                  "coords": [
+                        16.95426,
+                        48.161045
+                  ]
+            },
+            {
+                  "name": "Villa Rustica",
+                  "text": "Vestigiile unei vile rustice romane din secolele III-IV.",
+                  "category": "historical",
+                  "coords": [
+                        17.015687,
+                        48.195482
+                  ]
+            },
+            {
+                  "name": "Devín",
+                  "text": "O cetate istorică situată la confluența râului Morava cu Dunărea.",
+                  "category": "castle",
+                  "coords": [
+                        16.979874,
+                        48.173223
+                  ]
+            },
+            {
+                  "name": "Hügelgrab Schulerbergl",
+                  "text": "Un sit arheologic ce cuprinde vestigiile unor tumuli preistorici.",
+                  "category": "historical",
+                  "coords": [
+                        16.946347,
+                        48.151222
+                  ]
+            },
+            {
+                  "name": "Sokoliareň a minizoo Devín",
+                  "text": "O mică grădină zoologică și un centru de șoimărit în Devín.",
+                  "category": "recreational",
+                  "coords": [
+                        16.979728,
+                        48.177188
+                  ]
+            },
+            {
+                  "name": "Stredný hrad",
+                  "text": "O secțiune a complexului cetății Devín, situată între castelul de sus și cel de jos.",
+                  "category": "castle",
+                  "coords": [
+                        16.978309,
+                        48.17339
+                  ]
+            },
+            {
+                  "name": "Anjelská pláž",
+                  "text": "O zonă de plajă pe malul Dunării, sub cetatea Devín.",
+                  "category": "recreational",
+                  "coords": [
+                        17.014424,
+                        48.153992
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Sandberg",
+                  "text": "An important archaeological and paleontological site near Devín.",
+                  "category": "historical",
+                  "coords": [
+                        16.974281,
+                        48.20082
+                  ]
+            },
+            {
+                  "name": "Ruine Röthelstein",
+                  "text": "The remains of a medieval castle ruin near Devín.",
+                  "category": "castle",
+                  "coords": [
+                        16.95426,
+                        48.161045
+                  ]
+            },
+            {
+                  "name": "Villa Rustica",
+                  "text": "The remains of a Roman country estate dating from the 3rd to 4th century.",
+                  "category": "historical",
+                  "coords": [
+                        17.015687,
+                        48.195482
+                  ]
+            },
+            {
+                  "name": "Devín Castle",
+                  "text": "A historic castle ruin situated at the confluence of the Morava and Danube rivers.",
+                  "category": "castle",
+                  "coords": [
+                        16.979874,
+                        48.173223
+                  ]
+            },
+            {
+                  "name": "Hügelgrab Schulerbergl",
+                  "text": "An archaeological site containing the remains of prehistoric burial mounds.",
+                  "category": "historical",
+                  "coords": [
+                        16.946347,
+                        48.151222
+                  ]
+            },
+            {
+                  "name": "Sokoliareň a minizoo Devín",
+                  "text": "A small animal enclosure and falconry center in Devín.",
+                  "category": "recreational",
+                  "coords": [
+                        16.979728,
+                        48.177188
+                  ]
+            },
+            {
+                  "name": "Middle castle",
+                  "text": "A section of the Devín castle complex, situated between the upper and lower castles.",
+                  "category": "castle",
+                  "coords": [
+                        16.978309,
+                        48.17339
+                  ]
+            },
+            {
+                  "name": "Anjelská pláž",
+                  "text": "A beach area on the banks of the Danube below Devín Castle.",
+                  "category": "recreational",
+                  "coords": [
+                        17.014424,
+                        48.153992
+                  ]
+            }
+      ]
+},
     parent: "SK",
     type: "castle",
     name: { de: "Burg Theben", hu: "Dévényi vár", ro: "Castelul Devín", en: "Devín Castle"},
@@ -567,7 +864,268 @@ export const slovakiaLandmarksV2: POI[] = [
     },
   },
   {
-    id: "slovakia-cachtice-castle-landmarks-v2",
+    id: "slovakia-cachtice-castle-landmarks-v2", "sights": {
+      "de": [
+            {
+                  "name": "Burg Schächtitz",
+                  "text": "Eine Burgruine, die als Wohnsitz der „Blutgräfin“ Elisabeth Báthory bekannt ist.",
+                  "category": "castle",
+                  "coords": [
+                        17.761266,
+                        48.725
+                  ]
+            },
+            {
+                  "name": "Trenčianske múzeum - expozícia Čachtice",
+                  "text": "Eine Museumsausstellung in Čachtice, die die Geschichte der Burg und des Dorfes dokumentiert.",
+                  "category": "museum",
+                  "coords": [
+                        17.78578,
+                        48.715188
+                  ]
+            },
+            {
+                  "name": "Veľký Plešivec",
+                  "text": "Ein markanter Hügel in den Kleinen Karpaten in der Nähe der Burgruine Čachtice.",
+                  "category": "landmark",
+                  "coords": [
+                        17.736931,
+                        48.701868
+                  ]
+            },
+            {
+                  "name": "Čachtická jaskyňa",
+                  "text": "Ein Karsthöhlensystem in der Nähe des Dorfes Čachtice.",
+                  "category": "landmark",
+                  "coords": [
+                        17.786991,
+                        48.742591
+                  ]
+            },
+            {
+                  "name": "Skalka",
+                  "text": "Ein malerischer Hügel mit Blick auf die Burg Čachtice und die Umgebung.",
+                  "category": "landmark",
+                  "coords": [
+                        17.796578,
+                        48.736387
+                  ]
+            },
+            {
+                  "name": "Kúria Drugetovcov",
+                  "text": "Ein historisches Herrenhaus in Čachtice, das einst der Familie Drugeth gehörte.",
+                  "category": "historical",
+                  "coords": [
+                        17.786903,
+                        48.711872
+                  ]
+            },
+            {
+                  "name": "Drugetovská kúria",
+                  "text": "Ein historisches Herrenhaus in der Nähe der Burg Čachtice.",
+                  "category": "historical",
+                  "coords": [
+                        17.785113,
+                        48.716412
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Čachtický hrad",
+                  "text": "Várrom, amely Báthory Erzsébet, a „véres grófnő” lakhelyeként vált híressé.",
+                  "category": "castle",
+                  "coords": [
+                        17.761266,
+                        48.725
+                  ]
+            },
+            {
+                  "name": "Trenčianske múzeum - expozícia Čachtice",
+                  "text": "Múzeumi kiállítás Csejtén, amely a vár és a falu történetét mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        17.78578,
+                        48.715188
+                  ]
+            },
+            {
+                  "name": "Veľký Plešivec",
+                  "text": "Jellegzetes domb a Kis-Kárpátokban, a csejtei várrom közelében.",
+                  "category": "landmark",
+                  "coords": [
+                        17.736931,
+                        48.701868
+                  ]
+            },
+            {
+                  "name": "Čachtická jaskyňa",
+                  "text": "Karsztbarlang-rendszer Csejte falu közelében.",
+                  "category": "landmark",
+                  "coords": [
+                        17.786991,
+                        48.742591
+                  ]
+            },
+            {
+                  "name": "Skalka",
+                  "text": "Festői domb, ahonnan kilátás nyílik a csejtei várra és a környékre.",
+                  "category": "landmark",
+                  "coords": [
+                        17.796578,
+                        48.736387
+                  ]
+            },
+            {
+                  "name": "Kúria Drugetovcov",
+                  "text": "Történelmi kúria Csejtén, amely egykor a Drugeth családé volt.",
+                  "category": "historical",
+                  "coords": [
+                        17.786903,
+                        48.711872
+                  ]
+            },
+            {
+                  "name": "Drugetovská kúria",
+                  "text": "Történelmi kúria Csejte vára közelében.",
+                  "category": "historical",
+                  "coords": [
+                        17.785113,
+                        48.716412
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Čachtický hrad",
+                  "text": "O cetate în ruină, faimoasă ca reședință a „contesei însângerate” Elisabeta Báthory.",
+                  "category": "castle",
+                  "coords": [
+                        17.761266,
+                        48.725
+                  ]
+            },
+            {
+                  "name": "Trenčianske múzeum - expozícia Čachtice",
+                  "text": "O expoziție muzeală în Čachtice care detaliază istoria castelului și a satului.",
+                  "category": "museum",
+                  "coords": [
+                        17.78578,
+                        48.715188
+                  ]
+            },
+            {
+                  "name": "Veľký Plešivec",
+                  "text": "Un deal proeminent în Carpații Mici, lângă ruinele castelului Čachtice.",
+                  "category": "landmark",
+                  "coords": [
+                        17.736931,
+                        48.701868
+                  ]
+            },
+            {
+                  "name": "Čachtická jaskyňa",
+                  "text": "Un sistem de peșteri carstice situat lângă satul Čachtice.",
+                  "category": "landmark",
+                  "coords": [
+                        17.786991,
+                        48.742591
+                  ]
+            },
+            {
+                  "name": "Skalka",
+                  "text": "Un deal pitoresc care oferă priveliști asupra castelului Čachtice și a zonei înconjurătoare.",
+                  "category": "landmark",
+                  "coords": [
+                        17.796578,
+                        48.736387
+                  ]
+            },
+            {
+                  "name": "Kúria Drugetovcov",
+                  "text": "Un conac istoric în Čachtice care a aparținut odinioară familiei Drugeth.",
+                  "category": "historical",
+                  "coords": [
+                        17.786903,
+                        48.711872
+                  ]
+            },
+            {
+                  "name": "Drugetovská kúria",
+                  "text": "Un conac istoric situat în apropierea Castelului Čachtice.",
+                  "category": "historical",
+                  "coords": [
+                        17.785113,
+                        48.716412
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Čachtický hrad",
+                  "text": "A ruined castle famous as the residence of the \"Blood Countess\" Elizabeth Báthory.",
+                  "category": "castle",
+                  "coords": [
+                        17.761266,
+                        48.725
+                  ]
+            },
+            {
+                  "name": "Trenčianske múzeum - expozícia Čachtice",
+                  "text": "A museum exhibit in Čachtice detailing the history of the castle and the village.",
+                  "category": "museum",
+                  "coords": [
+                        17.78578,
+                        48.715188
+                  ]
+            },
+            {
+                  "name": "Veľký Plešivec",
+                  "text": "A prominent hill in the Little Carpathians near the Čachtice Castle ruins.",
+                  "category": "landmark",
+                  "coords": [
+                        17.736931,
+                        48.701868
+                  ]
+            },
+            {
+                  "name": "Čachtická jaskyňa",
+                  "text": "A karst cave system located near the village of Čachtice.",
+                  "category": "landmark",
+                  "coords": [
+                        17.786991,
+                        48.742591
+                  ]
+            },
+            {
+                  "name": "Skalka",
+                  "text": "A scenic hill offering views of the Čachtice castle and the surrounding area.",
+                  "category": "landmark",
+                  "coords": [
+                        17.796578,
+                        48.736387
+                  ]
+            },
+            {
+                  "name": "Kúria Drugetovcov",
+                  "text": "A historic manor house in Čachtice that once belonged to the Drugeth family.",
+                  "category": "historical",
+                  "coords": [
+                        17.786903,
+                        48.711872
+                  ]
+            },
+            {
+                  "name": "Drugetovská kúria",
+                  "text": "A historic manor house located near Čachtice Castle.",
+                  "category": "historical",
+                  "coords": [
+                        17.785113,
+                        48.716412
+                  ]
+            }
+      ]
+},
     parent: "SK",
     type: "ruins",
     name: { de: "Burg Schächtitz", hu: "Csejte vára", ro: "Castelul Čachtice", en: "Čachtice Castle"},
@@ -614,7 +1172,304 @@ export const slovakiaLandmarksV2: POI[] = [
     },
   },
   {
-    id: "slovakia-beckov-castle-landmarks-v2",
+    id: "slovakia-beckov-castle-landmarks-v2", "sights": {
+      "de": [
+            {
+                  "name": "Ivanovská skala",
+                  "text": "Eine archäologische Stätte bei der Burg Beckov.",
+                  "category": "historical",
+                  "coords": [
+                        17.904583,
+                        48.825021
+                  ]
+            },
+            {
+                  "name": "Beckov",
+                  "text": "Eine imposante Burgruine auf einem steilen Felsen über der Gemeinde Beckov.",
+                  "category": "castle",
+                  "coords": [
+                        17.898353,
+                        48.790718
+                  ]
+            },
+            {
+                  "name": "Kúria Ambrovec- Múzeum dejín",
+                  "text": "Ein historisches Herrenhaus und Museum zur Geschichte in Beckov.",
+                  "category": "museum",
+                  "coords": [
+                        17.896787,
+                        48.791754
+                  ]
+            },
+            {
+                  "name": "Nudistická pláž",
+                  "text": "Ein FKK-Strand in der Nähe von Beckov.",
+                  "category": "recreational",
+                  "coords": [
+                        17.875505,
+                        48.782687
+                  ]
+            },
+            {
+                  "name": "Centrum novej evanjelizácie sv. Jána Pavla II.",
+                  "text": "Ein religiöses Zentrum und Kloster in Beckov.",
+                  "category": "religious",
+                  "coords": [
+                        17.895717,
+                        48.79018
+                  ]
+            },
+            {
+                  "name": "Skalice",
+                  "text": "Ein Berggipfel in der Nähe der Burg Beckov.",
+                  "category": "landmark",
+                  "coords": [
+                        17.901523,
+                        48.777664
+                  ]
+            },
+            {
+                  "name": "Lašid",
+                  "text": "Ein Berggipfel bei Beckov.",
+                  "category": "landmark",
+                  "coords": [
+                        17.932053,
+                        48.792488
+                  ]
+            },
+            {
+                  "name": "Románsky kostolík",
+                  "text": "Die Überreste einer kleinen romanischen Kirche bei Beckov.",
+                  "category": "historical",
+                  "coords": [
+                        17.87001,
+                        48.821157
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Ivanovská skala",
+                  "text": "Régészeti lelőhely a beckói vár közelében.",
+                  "category": "historical",
+                  "coords": [
+                        17.904583,
+                        48.825021
+                  ]
+            },
+            {
+                  "name": "Beckó vára",
+                  "text": "Impozáns várrom a Beckó község feletti meredek sziklán.",
+                  "category": "castle",
+                  "coords": [
+                        17.898353,
+                        48.790718
+                  ]
+            },
+            {
+                  "name": "Kúria Ambrovec- Múzeum dejín",
+                  "text": "Történelmi kúria és helytörténeti múzeum Beckón.",
+                  "category": "museum",
+                  "coords": [
+                        17.896787,
+                        48.791754
+                  ]
+            },
+            {
+                  "name": "Nudistická pláž",
+                  "text": "Nudista strand Beckó közelében.",
+                  "category": "recreational",
+                  "coords": [
+                        17.875505,
+                        48.782687
+                  ]
+            },
+            {
+                  "name": "Centrum novej evanjelizácie sv. Jána Pavla II.",
+                  "text": "Vallási központ és kolostor Beckón.",
+                  "category": "religious",
+                  "coords": [
+                        17.895717,
+                        48.79018
+                  ]
+            },
+            {
+                  "name": "Skalice",
+                  "text": "Hegyi csúcs a beckói vár közelében.",
+                  "category": "landmark",
+                  "coords": [
+                        17.901523,
+                        48.777664
+                  ]
+            },
+            {
+                  "name": "Lašid",
+                  "text": "Hegyi csúcs Beckó közelében.",
+                  "category": "landmark",
+                  "coords": [
+                        17.932053,
+                        48.792488
+                  ]
+            },
+            {
+                  "name": "Románsky kostolík",
+                  "text": "Egy kis román stílusú templom maradványai Beckó közelében.",
+                  "category": "historical",
+                  "coords": [
+                        17.87001,
+                        48.821157
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Ivanovská skala",
+                  "text": "Un sit arheologic lângă castelul Beckov.",
+                  "category": "historical",
+                  "coords": [
+                        17.904583,
+                        48.825021
+                  ]
+            },
+            {
+                  "name": "Beckov",
+                  "text": "O ruină impunătoare de castel pe o stâncă abruptă deasupra comunei Beckov.",
+                  "category": "castle",
+                  "coords": [
+                        17.898353,
+                        48.790718
+                  ]
+            },
+            {
+                  "name": "Kúria Ambrovec- Múzeum dejín",
+                  "text": "Un conac istoric și muzeu de istorie în Beckov.",
+                  "category": "museum",
+                  "coords": [
+                        17.896787,
+                        48.791754
+                  ]
+            },
+            {
+                  "name": "Nudistická pláž",
+                  "text": "O plajă de nudism lângă Beckov.",
+                  "category": "recreational",
+                  "coords": [
+                        17.875505,
+                        48.782687
+                  ]
+            },
+            {
+                  "name": "Centrum novej evanjelizácie sv. Jána Pavla II.",
+                  "text": "Un centru religios și mănăstire în Beckov.",
+                  "category": "religious",
+                  "coords": [
+                        17.895717,
+                        48.79018
+                  ]
+            },
+            {
+                  "name": "Skalice",
+                  "text": "Un vârf montan lângă castelul Beckov.",
+                  "category": "landmark",
+                  "coords": [
+                        17.901523,
+                        48.777664
+                  ]
+            },
+            {
+                  "name": "Lašid",
+                  "text": "Un vârf montan lângă Beckov.",
+                  "category": "landmark",
+                  "coords": [
+                        17.932053,
+                        48.792488
+                  ]
+            },
+            {
+                  "name": "Románsky kostolík",
+                  "text": "Resturile unei mici biserici romanice lângă Beckov.",
+                  "category": "historical",
+                  "coords": [
+                        17.87001,
+                        48.821157
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Ivanovská skala",
+                  "text": "An archaeological site located near Beckov Castle.",
+                  "category": "historical",
+                  "coords": [
+                        17.904583,
+                        48.825021
+                  ]
+            },
+            {
+                  "name": "Beckov",
+                  "text": "An imposing castle ruin situated on a steep rock above the village of Beckov.",
+                  "category": "castle",
+                  "coords": [
+                        17.898353,
+                        48.790718
+                  ]
+            },
+            {
+                  "name": "Kúria Ambrovec- Múzeum dejín",
+                  "text": "A historical manor house and museum of history in Beckov.",
+                  "category": "museum",
+                  "coords": [
+                        17.896787,
+                        48.791754
+                  ]
+            },
+            {
+                  "name": "Nudistická pláž",
+                  "text": "A nudist beach located near Beckov.",
+                  "category": "recreational",
+                  "coords": [
+                        17.875505,
+                        48.782687
+                  ]
+            },
+            {
+                  "name": "Centrum novej evanjelizácie sv. Jána Pavla II.",
+                  "text": "A religious center and monastery in Beckov.",
+                  "category": "religious",
+                  "coords": [
+                        17.895717,
+                        48.79018
+                  ]
+            },
+            {
+                  "name": "Skalice",
+                  "text": "A mountain peak near Beckov Castle.",
+                  "category": "landmark",
+                  "coords": [
+                        17.901523,
+                        48.777664
+                  ]
+            },
+            {
+                  "name": "Lašid",
+                  "text": "A mountain peak near Beckov.",
+                  "category": "landmark",
+                  "coords": [
+                        17.932053,
+                        48.792488
+                  ]
+            },
+            {
+                  "name": "Románsky kostolík",
+                  "text": "The ruins of a small Romanesque church near Beckov.",
+                  "category": "historical",
+                  "coords": [
+                        17.87001,
+                        48.821157
+                  ]
+            }
+      ]
+},
     parent: "SK",
     type: "ruins",
     name: { de: "Burg Beckov", hu: "Beckó vára", ro: "Castelul Beckov", en: "Beckov Castle"},
@@ -755,7 +1610,304 @@ export const slovakiaLandmarksV2: POI[] = [
     },
   },
   {
-    id: "slovakia-strecno-castle-landmarks-v2",
+    id: "slovakia-strecno-castle-landmarks-v2", "sights": {
+      "de": [
+            {
+                  "name": "Alte Burg",
+                  "text": "Ruinen einer mittelalterlichen Burg, auch bekannt als Starhrad, mit Blick auf den Fluss Waag.",
+                  "category": "castle",
+                  "coords": [
+                        18.890926,
+                        49.178057
+                  ]
+            },
+            {
+                  "name": "Stredoveká dedina Paseka",
+                  "text": "Ein rekonstruiertes mittelalterliches Dorf unterhalb der Burg Strečno.",
+                  "category": "museum",
+                  "coords": [
+                        18.861464,
+                        49.175225
+                  ]
+            },
+            {
+                  "name": "Múzeum Malofatranskej operácie",
+                  "text": "Ein Museum, das den Militäroperationen in den Kleinen Fatra-Bergen gewidmet ist.",
+                  "category": "museum",
+                  "coords": [
+                        18.820349,
+                        49.159766
+                  ]
+            },
+            {
+                  "name": "Kúdeľná izba",
+                  "text": "Ein kleines Museum, das die traditionelle Flachsverarbeitung und Weberei zeigt.",
+                  "category": "museum",
+                  "coords": [
+                        18.862541,
+                        49.188509
+                  ]
+            },
+            {
+                  "name": "Hrádok Varín",
+                  "text": "Archäologische Stätte einer ehemaligen Befestigungsanlage bei Varín.",
+                  "category": "historical",
+                  "coords": [
+                        18.857538,
+                        49.202058
+                  ]
+            },
+            {
+                  "name": "Panoramapark",
+                  "text": "Ein Freizeitpark mit malerischer Aussicht in der Nähe von Strečno.",
+                  "category": "recreational",
+                  "coords": [
+                        18.870693,
+                        49.180842
+                  ]
+            },
+            {
+                  "name": "Pamätník francúzskych partizánov",
+                  "text": "Ein Denkmal für die französischen Partisanen, die im Slowakischen Nationalaufstand kämpften.",
+                  "category": "historical",
+                  "coords": [
+                        18.86067,
+                        49.182008
+                  ]
+            },
+            {
+                  "name": "Domašín",
+                  "text": "Ein Gipfel in der Kleinen Fatra, bekannt für den Domašín-Mäander des Flusses Waag.",
+                  "category": "landmark",
+                  "coords": [
+                        18.881305,
+                        49.168246
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Óvár",
+                  "text": "Középkori várrom, más néven Óvár (Starhrad), a Vág folyóra néző kilátással.",
+                  "category": "castle",
+                  "coords": [
+                        18.890926,
+                        49.178057
+                  ]
+            },
+            {
+                  "name": "Stredoveká dedina Paseka",
+                  "text": "Rekonstruált középkori falu Sztrecsény vára alatt.",
+                  "category": "museum",
+                  "coords": [
+                        18.861464,
+                        49.175225
+                  ]
+            },
+            {
+                  "name": "Múzeum Malofatranskej operácie",
+                  "text": "A Kis-Fátra hegységben zajló katonai műveleteknek szentelt múzeum.",
+                  "category": "museum",
+                  "coords": [
+                        18.820349,
+                        49.159766
+                  ]
+            },
+            {
+                  "name": "Kúdeľná izba",
+                  "text": "Kis múzeum, amely a hagyományos lenfeldolgozást és szövést mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        18.862541,
+                        49.188509
+                  ]
+            },
+            {
+                  "name": "Hrádok Varín",
+                  "text": "Egy egykori erődítmény régészeti lelőhelye Varín közelében.",
+                  "category": "historical",
+                  "coords": [
+                        18.857538,
+                        49.202058
+                  ]
+            },
+            {
+                  "name": "Panoramapark",
+                  "text": "Szabadidőpark festői kilátással Sztrecsény közelében.",
+                  "category": "recreational",
+                  "coords": [
+                        18.870693,
+                        49.180842
+                  ]
+            },
+            {
+                  "name": "Pamätník francúzskych partizánov",
+                  "text": "A szlovák nemzeti felkelésben harcoló francia partizánok emlékműve.",
+                  "category": "historical",
+                  "coords": [
+                        18.86067,
+                        49.182008
+                  ]
+            },
+            {
+                  "name": "Domašín",
+                  "text": "A Kis-Fátra egyik csúcsa, amely a Vág folyó Domasini-kanyarulatáról ismert.",
+                  "category": "landmark",
+                  "coords": [
+                        18.881305,
+                        49.168246
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Starý hrad",
+                  "text": "Ruinele unui castel medieval, cunoscut și sub numele de Starhrad, cu vedere la râul Váh.",
+                  "category": "castle",
+                  "coords": [
+                        18.890926,
+                        49.178057
+                  ]
+            },
+            {
+                  "name": "Stredoveká dedina Paseka",
+                  "text": "Un sat medieval reconstruit situat sub castelul Strečno.",
+                  "category": "museum",
+                  "coords": [
+                        18.861464,
+                        49.175225
+                  ]
+            },
+            {
+                  "name": "Múzeum Malofatranskej operácie",
+                  "text": "Un muzeu dedicat operațiunilor militare din munții Malá Fatra.",
+                  "category": "museum",
+                  "coords": [
+                        18.820349,
+                        49.159766
+                  ]
+            },
+            {
+                  "name": "Kúdeľná izba",
+                  "text": "Un mic muzeu care prezintă prelucrarea tradițională a inului și țesutul.",
+                  "category": "museum",
+                  "coords": [
+                        18.862541,
+                        49.188509
+                  ]
+            },
+            {
+                  "name": "Hrádok Varín",
+                  "text": "Situl arheologic al unei foste fortificații de lângă Varín.",
+                  "category": "historical",
+                  "coords": [
+                        18.857538,
+                        49.202058
+                  ]
+            },
+            {
+                  "name": "Panoramapark",
+                  "text": "Un parc de agrement care oferă vederi pitorești lângă Strečno.",
+                  "category": "recreational",
+                  "coords": [
+                        18.870693,
+                        49.180842
+                  ]
+            },
+            {
+                  "name": "Pamätník francúzskych partizánov",
+                  "text": "Un monument dedicat partizanilor francezi care au luptat în Insurecția Națională Slovacă.",
+                  "category": "historical",
+                  "coords": [
+                        18.86067,
+                        49.182008
+                  ]
+            },
+            {
+                  "name": "Domašín",
+                  "text": "Un vârf din munții Malá Fatra, cunoscut pentru meandrul Domašín al râului Váh.",
+                  "category": "landmark",
+                  "coords": [
+                        18.881305,
+                        49.168246
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Old Castle",
+                  "text": "Ruins of a medieval castle, also known as Starhrad, overlooking the Váh river.",
+                  "category": "castle",
+                  "coords": [
+                        18.890926,
+                        49.178057
+                  ]
+            },
+            {
+                  "name": "Stredoveká dedina Paseka",
+                  "text": "A reconstructed medieval village located below Strečno Castle.",
+                  "category": "museum",
+                  "coords": [
+                        18.861464,
+                        49.175225
+                  ]
+            },
+            {
+                  "name": "Múzeum Malofatranskej operácie",
+                  "text": "A museum dedicated to the military operations in the Malá Fatra mountains.",
+                  "category": "museum",
+                  "coords": [
+                        18.820349,
+                        49.159766
+                  ]
+            },
+            {
+                  "name": "Kúdeľná izba",
+                  "text": "A small museum showcasing traditional flax processing and weaving.",
+                  "category": "museum",
+                  "coords": [
+                        18.862541,
+                        49.188509
+                  ]
+            },
+            {
+                  "name": "Hrádok Varín",
+                  "text": "Archaeological site of a former fortification near Varín.",
+                  "category": "historical",
+                  "coords": [
+                        18.857538,
+                        49.202058
+                  ]
+            },
+            {
+                  "name": "Panoramapark",
+                  "text": "A leisure park offering scenic views near Strečno.",
+                  "category": "recreational",
+                  "coords": [
+                        18.870693,
+                        49.180842
+                  ]
+            },
+            {
+                  "name": "Pamätník francúzskych partizánov",
+                  "text": "A monument dedicated to French partisans who fought in the Slovak National Uprising.",
+                  "category": "historical",
+                  "coords": [
+                        18.86067,
+                        49.182008
+                  ]
+            },
+            {
+                  "name": "Domašín",
+                  "text": "A peak in the Malá Fatra mountains known for the Domašínský meander of the Váh river.",
+                  "category": "landmark",
+                  "coords": [
+                        18.881305,
+                        49.168246
+                  ]
+            }
+      ]
+},
     parent: "SK",
     type: "castle",
     name: { de: "Burg Strečno", hu: "Sztrecsény vára", ro: "Castelul Strečno", en: "Strečno Castle"},

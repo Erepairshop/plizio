@@ -3,7 +3,124 @@ import { POI } from './poi';
 export const italyEconomicV2: POI[] = [
 
   {
-    id: "italy-porto-di-gioia-tauro-economic-v2",
+    id: "italy-porto-di-gioia-tauro-economic-v2", "sights": {
+      "de": [
+            {
+                  "name": "Museo Archeologico Metauros",
+                  "text": "Archäologisches Museum, das Funde der antiken griechischen Stadt Metauros ausstellt.",
+                  "category": "museum",
+                  "coords": [
+                        15.89794,
+                        38.430842
+                  ]
+            },
+            {
+                  "name": "Ruderi Ex opificio Gaslini",
+                  "text": "Überreste einer ehemaligen Industrieanlage im Hafengebiet von Gioia Tauro.",
+                  "category": "historical",
+                  "coords": [
+                        15.884811,
+                        38.429644
+                  ]
+            },
+            {
+                  "name": "Chiesa di San Gaetano Catanoso",
+                  "text": "Eine moderne Kirche in Gioia Tauro, die dem heiligen Gaetano Catanoso gewidmet ist.",
+                  "category": "religious",
+                  "coords": [
+                        15.910287,
+                        38.414521
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Museo Archeologico Metauros",
+                  "text": "Régészeti múzeum, amely az ókori görög város, Metauros leleteit mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        15.89794,
+                        38.430842
+                  ]
+            },
+            {
+                  "name": "Ruderi Ex opificio Gaslini",
+                  "text": "Egy egykori ipari létesítmény maradványai Gioia Tauro kikötői negyedében.",
+                  "category": "historical",
+                  "coords": [
+                        15.884811,
+                        38.429644
+                  ]
+            },
+            {
+                  "name": "Chiesa di San Gaetano Catanoso",
+                  "text": "Modern templom Gioia Tauróban, amelyet Szent Gaetano Catanosónak szenteltek.",
+                  "category": "religious",
+                  "coords": [
+                        15.910287,
+                        38.414521
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Museo Archeologico Metauros",
+                  "text": "Muzeu arheologic care expune descoperiri din orașul antic grec Metauros.",
+                  "category": "museum",
+                  "coords": [
+                        15.89794,
+                        38.430842
+                  ]
+            },
+            {
+                  "name": "Ruderi Ex opificio Gaslini",
+                  "text": "Vestigii ale unei foste instalații industriale în zona portuară Gioia Tauro.",
+                  "category": "historical",
+                  "coords": [
+                        15.884811,
+                        38.429644
+                  ]
+            },
+            {
+                  "name": "Chiesa di San Gaetano Catanoso",
+                  "text": "O biserică modernă în Gioia Tauro, dedicată Sfântului Gaetano Catanoso.",
+                  "category": "religious",
+                  "coords": [
+                        15.910287,
+                        38.414521
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Museo Archeologico Metauros",
+                  "text": "Archaeological museum exhibiting finds from the ancient Greek city of Metauros.",
+                  "category": "museum",
+                  "coords": [
+                        15.89794,
+                        38.430842
+                  ]
+            },
+            {
+                  "name": "Ruderi Ex opificio Gaslini",
+                  "text": "Remains of a former industrial plant in the harbor area of Gioia Tauro.",
+                  "category": "historical",
+                  "coords": [
+                        15.884811,
+                        38.429644
+                  ]
+            },
+            {
+                  "name": "Chiesa di San Gaetano Catanoso",
+                  "text": "A modern church in Gioia Tauro dedicated to Saint Gaetano Catanoso.",
+                  "category": "religious",
+                  "coords": [
+                        15.910287,
+                        38.414521
+                  ]
+            }
+      ]
+},
     type: "port",
     parent: "IT",
     name: { de: "Hafen Gioia Tauro", hu: "Gioia Tauro kikötő", ro: "Portul Gioia Tauro", en: "Port of Gioia Tauro" },
@@ -228,7 +345,304 @@ export const italyEconomicV2: POI[] = [
     image: "/poi-images/italy-zona-industriale-di-padova-economic-v2.webp",
   },
   {
-    id: "italy-distretto-ceramica-sassuolo-economic-v2",
+    id: "italy-distretto-ceramica-sassuolo-economic-v2", "sights": {
+      "de": [
+            {
+                  "name": "Teatro Carani",
+                  "text": "Ein bekanntes Theater in Sassuolo, das für verschiedene kulturelle Veranstaltungen und Aufführungen bekannt ist.",
+                  "category": "cultural",
+                  "coords": [
+                        10.784008,
+                        44.54074
+                  ]
+            },
+            {
+                  "name": "Castello di Montegibbio",
+                  "text": "Eine mittelalterliche Burg auf einem Hügel in der Gegend von Sassuolo mit historischer Architektur.",
+                  "category": "castle",
+                  "coords": [
+                        10.785324,
+                        44.507112
+                  ]
+            },
+            {
+                  "name": "IT4040007 - SIC - Salse di Nirano",
+                  "text": "Ein Naturschutzgebiet, das für seine „Schlammvulkane“ bekannt ist, ein einzigartiges geologisches Phänomen.",
+                  "category": "natural",
+                  "coords": [
+                        10.819623,
+                        44.513874
+                  ]
+            },
+            {
+                  "name": "Palazzo Ducale",
+                  "text": "Ein prächtiger Herzogspalast in Sassuolo, bekannt für seine Barockarchitektur und freskierten Innenräume.",
+                  "category": "castle",
+                  "coords": [
+                        10.779751,
+                        44.542595
+                  ]
+            },
+            {
+                  "name": "Cinema Teatro Astoria",
+                  "text": "Ein Veranstaltungsort in Sassuolo, der sowohl als Kino als auch als Theater für lokale Unterhaltung dient.",
+                  "category": "cultural",
+                  "coords": [
+                        10.812343,
+                        44.539131
+                  ]
+            },
+            {
+                  "name": "Museo Bertozzi & Casoni",
+                  "text": "Ein Museum in Sassuolo, das den zeitgenössischen Keramikarbeiten der Künstler Bertozzi & Casoni gewidmet ist.",
+                  "category": "museum",
+                  "coords": [
+                        10.779885,
+                        44.541325
+                  ]
+            },
+            {
+                  "name": "Torre Castello di Fiorano",
+                  "text": "Die Ruinen eines Turms, der zur ehemaligen Burg von Fiorano Modenese gehörte.",
+                  "category": "historical",
+                  "coords": [
+                        10.811553,
+                        44.537584
+                  ]
+            },
+            {
+                  "name": "Villa Bontempelli",
+                  "text": "Ein historisches Herrenhaus im Industriegebiet von Sassuolo.",
+                  "category": "historical",
+                  "coords": [
+                        10.773095,
+                        44.528911
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Teatro Carani",
+                  "text": "Sassuolo jelentős színháza, amely különféle kulturális eseményeknek és előadásoknak ad otthont.",
+                  "category": "cultural",
+                  "coords": [
+                        10.784008,
+                        44.54074
+                  ]
+            },
+            {
+                  "name": "Castello di Montegibbio",
+                  "text": "Középkori vár egy dombon Sassuolo környékén, történelmi építészettel.",
+                  "category": "castle",
+                  "coords": [
+                        10.785324,
+                        44.507112
+                  ]
+            },
+            {
+                  "name": "IT4040007 - SIC - Salse di Nirano",
+                  "text": "Iszapvulkánjairól híres természetvédelmi terület, amely egyedülálló geológiai jelenség.",
+                  "category": "natural",
+                  "coords": [
+                        10.819623,
+                        44.513874
+                  ]
+            },
+            {
+                  "name": "Palazzo Ducale",
+                  "text": "Nagyszabású hercegi palota Sassuolóban, amely barokk építészetéről és freskókkal díszített termeiről nevezetes.",
+                  "category": "castle",
+                  "coords": [
+                        10.779751,
+                        44.542595
+                  ]
+            },
+            {
+                  "name": "Cinema Teatro Astoria",
+                  "text": "Sassuolói helyszín, amely moziként és színházként is szolgál a helyi szórakoztatás számára.",
+                  "category": "cultural",
+                  "coords": [
+                        10.812343,
+                        44.539131
+                  ]
+            },
+            {
+                  "name": "Museo Bertozzi & Casoni",
+                  "text": "Sassuolói múzeum, amely Bertozzi & Casoni művészek kortárs kerámiaalkotásainak van szentelve.",
+                  "category": "museum",
+                  "coords": [
+                        10.779885,
+                        44.541325
+                  ]
+            },
+            {
+                  "name": "Torre Castello di Fiorano",
+                  "text": "A korábbi Fiorano Modenese-i vár egyik tornyának maradványai.",
+                  "category": "historical",
+                  "coords": [
+                        10.811553,
+                        44.537584
+                  ]
+            },
+            {
+                  "name": "Villa Bontempelli",
+                  "text": "Történelmi kúria Sassuolo ipari negyedében.",
+                  "category": "historical",
+                  "coords": [
+                        10.773095,
+                        44.528911
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Teatro Carani",
+                  "text": "Un teatru proeminent din Sassuolo, cunoscut pentru găzduirea diverselor evenimente și spectacole culturale.",
+                  "category": "cultural",
+                  "coords": [
+                        10.784008,
+                        44.54074
+                  ]
+            },
+            {
+                  "name": "Castello di Montegibbio",
+                  "text": "Un castel medieval situat pe un deal în zona Sassuolo, cu o arhitectură istorică.",
+                  "category": "castle",
+                  "coords": [
+                        10.785324,
+                        44.507112
+                  ]
+            },
+            {
+                  "name": "IT4040007 - SIC - Salse di Nirano",
+                  "text": "O rezervație naturală renumită pentru „vulcanii de noroi”, un fenomen geologic unic.",
+                  "category": "natural",
+                  "coords": [
+                        10.819623,
+                        44.513874
+                  ]
+            },
+            {
+                  "name": "Palazzo Ducale",
+                  "text": "Un palat ducal grandios din Sassuolo, renumit pentru arhitectura barocă și interioarele decorate cu fresce.",
+                  "category": "castle",
+                  "coords": [
+                        10.779751,
+                        44.542595
+                  ]
+            },
+            {
+                  "name": "Cinema Teatro Astoria",
+                  "text": "Un spațiu din Sassuolo care servește atât ca cinematograf, cât și ca teatru pentru divertisment local.",
+                  "category": "cultural",
+                  "coords": [
+                        10.812343,
+                        44.539131
+                  ]
+            },
+            {
+                  "name": "Museo Bertozzi & Casoni",
+                  "text": "Un muzeu din Sassuolo dedicat lucrărilor de ceramică contemporană ale artiștilor Bertozzi & Casoni.",
+                  "category": "museum",
+                  "coords": [
+                        10.779885,
+                        44.541325
+                  ]
+            },
+            {
+                  "name": "Torre Castello di Fiorano",
+                  "text": "Ruinele unui turn aparținând fostului castel din Fiorano Modenese.",
+                  "category": "historical",
+                  "coords": [
+                        10.811553,
+                        44.537584
+                  ]
+            },
+            {
+                  "name": "Villa Bontempelli",
+                  "text": "Un conac istoric situat în districtul industrial Sassuolo.",
+                  "category": "historical",
+                  "coords": [
+                        10.773095,
+                        44.528911
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Teatro Carani",
+                  "text": "A prominent theatre in Sassuolo known for hosting various cultural events and performances.",
+                  "category": "cultural",
+                  "coords": [
+                        10.784008,
+                        44.54074
+                  ]
+            },
+            {
+                  "name": "Castello di Montegibbio",
+                  "text": "A medieval castle located on a hill in the Sassuolo area, featuring historical architecture.",
+                  "category": "castle",
+                  "coords": [
+                        10.785324,
+                        44.507112
+                  ]
+            },
+            {
+                  "name": "IT4040007 - SIC - Salse di Nirano",
+                  "text": "A nature reserve famous for its \"mud volcanoes,\" a unique geological phenomenon.",
+                  "category": "natural",
+                  "coords": [
+                        10.819623,
+                        44.513874
+                  ]
+            },
+            {
+                  "name": "Palazzo Ducale",
+                  "text": "A grand ducal palace in Sassuolo, renowned for its Baroque architecture and frescoed interiors.",
+                  "category": "castle",
+                  "coords": [
+                        10.779751,
+                        44.542595
+                  ]
+            },
+            {
+                  "name": "Cinema Teatro Astoria",
+                  "text": "A venue in Sassuolo that serves as both a cinema and a theatre for local entertainment.",
+                  "category": "cultural",
+                  "coords": [
+                        10.812343,
+                        44.539131
+                  ]
+            },
+            {
+                  "name": "Museo Bertozzi & Casoni",
+                  "text": "A museum in Sassuolo dedicated to the contemporary ceramic works of the artists Bertozzi & Casoni.",
+                  "category": "museum",
+                  "coords": [
+                        10.779885,
+                        44.541325
+                  ]
+            },
+            {
+                  "name": "Torre Castello di Fiorano",
+                  "text": "The ruins of a tower belonging to the former castle of Fiorano Modenese.",
+                  "category": "historical",
+                  "coords": [
+                        10.811553,
+                        44.537584
+                  ]
+            },
+            {
+                  "name": "Villa Bontempelli",
+                  "text": "A historical manor house located within the Sassuolo industrial district.",
+                  "category": "historical",
+                  "coords": [
+                        10.773095,
+                        44.528911
+                  ]
+            }
+      ]
+},
     type: "industry",
     parent: "IT",
     name: { de: "Keramik-Cluster Sassuolo", hu: "Sassuolo kerámia körzet", ro: "Districtul ceramic Sassuolo", en: "Sassuolo Ceramic Cluster" },
@@ -318,7 +732,304 @@ export const italyEconomicV2: POI[] = [
     image: "/poi-images/italy-porto-di-genova-economic-v2.webp",
   },
   {
-    id: "italy-porto-di-livorno-economic-v2",
+    id: "italy-porto-di-livorno-economic-v2", "sights": {
+      "de": [
+            {
+                  "name": "Teatro Goldoni",
+                  "text": "Ein prächtiges historisches Theater in Livorno, bekannt für seine Architektur.",
+                  "category": "cultural",
+                  "coords": [
+                        10.313889,
+                        43.545924
+                  ]
+            },
+            {
+                  "name": "Nuovo Teatro delle Commedie",
+                  "text": "Ein zeitgenössisches Theaterzentrum für Aufführungen im Hafen von Livorno.",
+                  "category": "cultural",
+                  "coords": [
+                        10.319704,
+                        43.553691
+                  ]
+            },
+            {
+                  "name": "Casa natale di Amedeo Modigliani",
+                  "text": "Das Geburtshaus des berühmten Malers Amedeo Modigliani in Livorno.",
+                  "category": "museum",
+                  "coords": [
+                        10.313337,
+                        43.543729
+                  ]
+            },
+            {
+                  "name": "Museo diocesano \"Leonello Barsotti\"",
+                  "text": "Ein Diözesanmuseum in Livorno, das religiöse Kunstwerke und Artefakte ausstellt.",
+                  "category": "museum",
+                  "coords": [
+                        10.317751,
+                        43.553541
+                  ]
+            },
+            {
+                  "name": "Museo ebraico Yeshivà Marini",
+                  "text": "Ein Museum in Livorno, das die jüdische Geschichte und Kultur der Stadt dokumentiert.",
+                  "category": "museum",
+                  "coords": [
+                        10.320407,
+                        43.548068
+                  ]
+            },
+            {
+                  "name": "Museo della città",
+                  "text": "Ein Museum, das der Geschichte und kulturellen Entwicklung von Livorno gewidmet ist.",
+                  "category": "museum",
+                  "coords": [
+                        10.306309,
+                        43.554956
+                  ]
+            },
+            {
+                  "name": "Museo di Arte Sacra di Santa Giulia",
+                  "text": "Ein Museum in Livorno, das sich auf sakrale Kunst und religiöse Gegenstände spezialisiert hat.",
+                  "category": "museum",
+                  "coords": [
+                        10.310089,
+                        43.549951
+                  ]
+            },
+            {
+                  "name": "Museo Civico Giovanni Fattori",
+                  "text": "Ein Kunstmuseum in Livorno, das Werke des Malers Giovanni Fattori und der Macchiaioli zeigt.",
+                  "category": "museum",
+                  "coords": [
+                        10.305888,
+                        43.535362
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Teatro Goldoni",
+                  "text": "Livorno pompás történelmi színháza, amely építészetéről nevezetes.",
+                  "category": "cultural",
+                  "coords": [
+                        10.313889,
+                        43.545924
+                  ]
+            },
+            {
+                  "name": "Nuovo Teatro delle Commedie",
+                  "text": "Kortárs színházi központ előadások számára Livorno kikötőjében.",
+                  "category": "cultural",
+                  "coords": [
+                        10.319704,
+                        43.553691
+                  ]
+            },
+            {
+                  "name": "Casa natale di Amedeo Modigliani",
+                  "text": "A híres festő, Amedeo Modigliani szülőháza Livornóban.",
+                  "category": "museum",
+                  "coords": [
+                        10.313337,
+                        43.543729
+                  ]
+            },
+            {
+                  "name": "Museo diocesano \"Leonello Barsotti\"",
+                  "text": "Egyházmegyei múzeum Livornóban, amely vallási műalkotásokat mutat be.",
+                  "category": "museum",
+                  "coords": [
+                        10.317751,
+                        43.553541
+                  ]
+            },
+            {
+                  "name": "Museo ebraico Yeshivà Marini",
+                  "text": "Livorno zsidó történelmét és kultúráját bemutató múzeum.",
+                  "category": "museum",
+                  "coords": [
+                        10.320407,
+                        43.548068
+                  ]
+            },
+            {
+                  "name": "Museo della città",
+                  "text": "Livorno történelmének és kulturális fejlődésének szentelt múzeum.",
+                  "category": "museum",
+                  "coords": [
+                        10.306309,
+                        43.554956
+                  ]
+            },
+            {
+                  "name": "Museo di Arte Sacra di Santa Giulia",
+                  "text": "Szakrális művészetre és vallási tárgyakra szakosodott múzeum Livornóban.",
+                  "category": "museum",
+                  "coords": [
+                        10.310089,
+                        43.549951
+                  ]
+            },
+            {
+                  "name": "Museo Civico Giovanni Fattori",
+                  "text": "Művészeti múzeum Livornóban, Giovanni Fattori és a Macchiaioli műveivel.",
+                  "category": "museum",
+                  "coords": [
+                        10.305888,
+                        43.535362
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Teatro Goldoni",
+                  "text": "Un teatru istoric magnific în Livorno, cunoscut pentru arhitectura sa.",
+                  "category": "cultural",
+                  "coords": [
+                        10.313889,
+                        43.545924
+                  ]
+            },
+            {
+                  "name": "Nuovo Teatro delle Commedie",
+                  "text": "Un centru teatral contemporan pentru spectacole în portul Livorno.",
+                  "category": "cultural",
+                  "coords": [
+                        10.319704,
+                        43.553691
+                  ]
+            },
+            {
+                  "name": "Casa natale di Amedeo Modigliani",
+                  "text": "Casa natală a celebrului pictor Amedeo Modigliani din Livorno.",
+                  "category": "museum",
+                  "coords": [
+                        10.313337,
+                        43.543729
+                  ]
+            },
+            {
+                  "name": "Museo diocesano \"Leonello Barsotti\"",
+                  "text": "Un muzeu diecezan în Livorno care expune artă religioasă și artefacte.",
+                  "category": "museum",
+                  "coords": [
+                        10.317751,
+                        43.553541
+                  ]
+            },
+            {
+                  "name": "Museo ebraico Yeshivà Marini",
+                  "text": "Un muzeu în Livorno care documentează istoria și cultura evreiască a orașului.",
+                  "category": "museum",
+                  "coords": [
+                        10.320407,
+                        43.548068
+                  ]
+            },
+            {
+                  "name": "Museo della città",
+                  "text": "Un muzeu dedicat istoriei și dezvoltării culturale a orașului Livorno.",
+                  "category": "museum",
+                  "coords": [
+                        10.306309,
+                        43.554956
+                  ]
+            },
+            {
+                  "name": "Museo di Arte Sacra di Santa Giulia",
+                  "text": "Un muzeu din Livorno specializat în artă sacră și obiecte religioase.",
+                  "category": "museum",
+                  "coords": [
+                        10.310089,
+                        43.549951
+                  ]
+            },
+            {
+                  "name": "Museo Civico Giovanni Fattori",
+                  "text": "Un muzeu de artă din Livorno ce expune lucrări de Giovanni Fattori și ale grupului Macchiaioli.",
+                  "category": "museum",
+                  "coords": [
+                        10.305888,
+                        43.535362
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Teatro Goldoni",
+                  "text": "A magnificent historic theatre in Livorno, known for its architecture.",
+                  "category": "cultural",
+                  "coords": [
+                        10.313889,
+                        43.545924
+                  ]
+            },
+            {
+                  "name": "Nuovo Teatro delle Commedie",
+                  "text": "A contemporary theatre center for performances in the Port of Livorno.",
+                  "category": "cultural",
+                  "coords": [
+                        10.319704,
+                        43.553691
+                  ]
+            },
+            {
+                  "name": "Casa natale di Amedeo Modigliani",
+                  "text": "The birthplace of the famous painter Amedeo Modigliani in Livorno.",
+                  "category": "museum",
+                  "coords": [
+                        10.313337,
+                        43.543729
+                  ]
+            },
+            {
+                  "name": "Museo diocesano \"Leonello Barsotti\"",
+                  "text": "A diocesan museum in Livorno exhibiting religious artworks and artifacts.",
+                  "category": "museum",
+                  "coords": [
+                        10.317751,
+                        43.553541
+                  ]
+            },
+            {
+                  "name": "Museo ebraico Yeshivà Marini",
+                  "text": "A museum in Livorno documenting the city's Jewish history and culture.",
+                  "category": "museum",
+                  "coords": [
+                        10.320407,
+                        43.548068
+                  ]
+            },
+            {
+                  "name": "Museo della città",
+                  "text": "A museum dedicated to the history and cultural development of Livorno.",
+                  "category": "museum",
+                  "coords": [
+                        10.306309,
+                        43.554956
+                  ]
+            },
+            {
+                  "name": "Museo di Arte Sacra di Santa Giulia",
+                  "text": "A museum in Livorno specializing in sacred art and religious items.",
+                  "category": "museum",
+                  "coords": [
+                        10.310089,
+                        43.549951
+                  ]
+            },
+            {
+                  "name": "Museo Civico Giovanni Fattori",
+                  "text": "An art museum in Livorno showcasing works by Giovanni Fattori and the Macchiaioli.",
+                  "category": "museum",
+                  "coords": [
+                        10.305888,
+                        43.535362
+                  ]
+            }
+      ]
+},
     type: "port",
     parent: "IT",
     name: { de: "Hafen Livorno", hu: "Livornoi kikötő", ro: "Portul Livorno", en: "Port of Livorno" },
@@ -453,7 +1164,304 @@ export const italyEconomicV2: POI[] = [
     image: "/poi-images/italy-distretto-della-moda-milano-economic-v2.webp",
   },
   {
-    id: "italy-porto-di-ancona-economic-v2",
+    id: "italy-porto-di-ancona-economic-v2", "sights": {
+      "de": [
+            {
+                  "name": "Museo Tattile Statale Omero",
+                  "text": "Ein staatliches Tastmuseum in Ancona für blinde und sehende Besucher.",
+                  "category": "museum",
+                  "coords": [
+                        13.5037,
+                        43.613977
+                  ]
+            },
+            {
+                  "name": "Teatro Sperimentale \"Lirio Arena\"",
+                  "text": "Ein Theater für experimentelle Kunst im Hafen von Ancona.",
+                  "category": "cultural",
+                  "coords": [
+                        13.515407,
+                        43.613519
+                  ]
+            },
+            {
+                  "name": "Sala museale Contrammiraglio Guglielmo Marconi",
+                  "text": "Ein Museum in Ancona, das der maritimen Geschichte und Guglielmo Marconi gewidmet ist.",
+                  "category": "museum",
+                  "coords": [
+                        13.509091,
+                        43.618211
+                  ]
+            },
+            {
+                  "name": "Museo archeologico nazionale delle Marche",
+                  "text": "Das Nationalmuseum in Ancona zeigt bedeutende archäologische Funde aus der Region Marken.",
+                  "category": "museum",
+                  "coords": [
+                        13.510747,
+                        43.623406
+                  ]
+            },
+            {
+                  "name": "Pinacoteca civica \"Francesco Podesti\"",
+                  "text": "Diese städtische Gemäldegalerie in Ancona beherbergt eine wertvolle Sammlung regionaler Kunstwerke.",
+                  "category": "museum",
+                  "coords": [
+                        13.511058,
+                        43.620882
+                  ]
+            },
+            {
+                  "name": "Forte Scrima",
+                  "text": "Eine historische Festungsanlage, die zur Verteidigung des Hafens von Ancona diente.",
+                  "category": "fortress",
+                  "coords": [
+                        13.496975,
+                        43.603807
+                  ]
+            },
+            {
+                  "name": "Cittadella",
+                  "text": "Die Zitadelle von Ancona ist eine imposante Festung auf dem Hügel Astagno über dem Hafen.",
+                  "category": "castle",
+                  "coords": [
+                        13.508794,
+                        43.613369
+                  ]
+            },
+            {
+                  "name": "Lunetta di Santo Stefano",
+                  "text": "Ein Teil der historischen Befestigungsanlagen von Ancona mit Blick auf die Stadt und den Hafen.",
+                  "category": "castle",
+                  "coords": [
+                        13.518028,
+                        43.612994
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Museo Tattile Statale Omero",
+                  "text": "Állami tapintható múzeum Anconában vakok és látók számára.",
+                  "category": "museum",
+                  "coords": [
+                        13.5037,
+                        43.613977
+                  ]
+            },
+            {
+                  "name": "Teatro Sperimentale \"Lirio Arena\"",
+                  "text": "Experimentális művészeti színház Ancona kikötőjében.",
+                  "category": "cultural",
+                  "coords": [
+                        13.515407,
+                        43.613519
+                  ]
+            },
+            {
+                  "name": "Sala museale Contrammiraglio Guglielmo Marconi",
+                  "text": "Az anconai kikötőben található múzeum, amely Guglielmo Marconinak állít emléket.",
+                  "category": "museum",
+                  "coords": [
+                        13.509091,
+                        43.618211
+                  ]
+            },
+            {
+                  "name": "Museo archeologico nazionale delle Marche",
+                  "text": "Ancona nemzeti régészeti múzeuma a Marche régió jelentős leleteit mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        13.510747,
+                        43.623406
+                  ]
+            },
+            {
+                  "name": "Pinacoteca civica \"Francesco Podesti\"",
+                  "text": "Ancona városi képtára a régió jelentős képzőművészeti alkotásait őrzi.",
+                  "category": "museum",
+                  "coords": [
+                        13.511058,
+                        43.620882
+                  ]
+            },
+            {
+                  "name": "Forte Scrima",
+                  "text": "Történelmi erődítmény, amely Ancona kikötőjének védelmét szolgálta.",
+                  "category": "fortress",
+                  "coords": [
+                        13.496975,
+                        43.603807
+                  ]
+            },
+            {
+                  "name": "Cittadella",
+                  "text": "Ancona citadellája egy impozáns erődítmény az Astagno-dombon, a kikötő felett.",
+                  "category": "castle",
+                  "coords": [
+                        13.508794,
+                        43.613369
+                  ]
+            },
+            {
+                  "name": "Lunetta di Santo Stefano",
+                  "text": "Ancona történelmi erődítményeinek része, amely rálátást biztosít a városra és a kikötőre.",
+                  "category": "castle",
+                  "coords": [
+                        13.518028,
+                        43.612994
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Museo Tattile Statale Omero",
+                  "text": "Un muzeu tactil de stat în Ancona pentru vizitatori nevăzători și văzători.",
+                  "category": "museum",
+                  "coords": [
+                        13.5037,
+                        43.613977
+                  ]
+            },
+            {
+                  "name": "Teatro Sperimentale \"Lirio Arena\"",
+                  "text": "Un teatru de artă experimentală în portul din Ancona.",
+                  "category": "cultural",
+                  "coords": [
+                        13.515407,
+                        43.613519
+                  ]
+            },
+            {
+                  "name": "Sala museale Contrammiraglio Guglielmo Marconi",
+                  "text": "Un muzeu situat în portul Ancona, dedicat contraamiralului Guglielmo Marconi.",
+                  "category": "museum",
+                  "coords": [
+                        13.509091,
+                        43.618211
+                  ]
+            },
+            {
+                  "name": "Museo archeologico nazionale delle Marche",
+                  "text": "Muzeul național de arheologie din Ancona expune descoperiri importante din regiunea Marche.",
+                  "category": "museum",
+                  "coords": [
+                        13.510747,
+                        43.623406
+                  ]
+            },
+            {
+                  "name": "Pinacoteca civica \"Francesco Podesti\"",
+                  "text": "Galeria civică de artă din Ancona găzduiește o colecție valoroasă de picturi regionale.",
+                  "category": "museum",
+                  "coords": [
+                        13.511058,
+                        43.620882
+                  ]
+            },
+            {
+                  "name": "Forte Scrima",
+                  "text": "O fortificație istorică ce a servit la apărarea portului Ancona.",
+                  "category": "fortress",
+                  "coords": [
+                        13.496975,
+                        43.603807
+                  ]
+            },
+            {
+                  "name": "Cittadella",
+                  "text": "Citadela din Ancona este o fortificație impunătoare situată pe dealul Astagno, deasupra portului.",
+                  "category": "castle",
+                  "coords": [
+                        13.508794,
+                        43.613369
+                  ]
+            },
+            {
+                  "name": "Lunetta di Santo Stefano",
+                  "text": "O parte a fortificațiilor istorice din Ancona, oferind vedere spre oraș și port.",
+                  "category": "castle",
+                  "coords": [
+                        13.518028,
+                        43.612994
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Museo Tattile Statale Omero",
+                  "text": "A state tactile museum in Ancona for blind and sighted visitors.",
+                  "category": "museum",
+                  "coords": [
+                        13.5037,
+                        43.613977
+                  ]
+            },
+            {
+                  "name": "Teatro Sperimentale \"Lirio Arena\"",
+                  "text": "A theater for experimental art in the Port of Ancona.",
+                  "category": "cultural",
+                  "coords": [
+                        13.515407,
+                        43.613519
+                  ]
+            },
+            {
+                  "name": "Sala museale Contrammiraglio Guglielmo Marconi",
+                  "text": "A museum in the Port of Ancona dedicated to Rear Admiral Guglielmo Marconi.",
+                  "category": "museum",
+                  "coords": [
+                        13.509091,
+                        43.618211
+                  ]
+            },
+            {
+                  "name": "Museo archeologico nazionale delle Marche",
+                  "text": "The national archaeological museum in Ancona showcases significant finds from the Marche region.",
+                  "category": "museum",
+                  "coords": [
+                        13.510747,
+                        43.623406
+                  ]
+            },
+            {
+                  "name": "Pinacoteca civica \"Francesco Podesti\"",
+                  "text": "This civic art gallery in Ancona houses a valuable collection of regional paintings and artworks.",
+                  "category": "museum",
+                  "coords": [
+                        13.511058,
+                        43.620882
+                  ]
+            },
+            {
+                  "name": "Forte Scrima",
+                  "text": "A historical fort that served as part of the defensive system for the Port of Ancona.",
+                  "category": "fortress",
+                  "coords": [
+                        13.496975,
+                        43.603807
+                  ]
+            },
+            {
+                  "name": "Cittadella",
+                  "text": "The Citadel of Ancona is an imposing fortress located on the Astagno hill overlooking the port.",
+                  "category": "castle",
+                  "coords": [
+                        13.508794,
+                        43.613369
+                  ]
+            },
+            {
+                  "name": "Lunetta di Santo Stefano",
+                  "text": "Part of Ancona's historical fortifications, offering views over the city and the port.",
+                  "category": "castle",
+                  "coords": [
+                        13.518028,
+                        43.612994
+                  ]
+            }
+      ]
+},
     type: "port",
     parent: "IT",
     name: { de: "Hafen Ancona", hu: "Anconai kikötő", ro: "Portul Ancona", en: "Port of Ancona" },
@@ -723,7 +1731,232 @@ export const italyEconomicV2: POI[] = [
     image: "/poi-images/italy-porto-di-ravenna-economic-v2.webp",
   },
   {
-    id: "italy-distretto-delle-calzature-marche-economic-v2",
+    id: "italy-distretto-delle-calzature-marche-economic-v2", "sights": {
+      "de": [
+            {
+                  "name": "Teatro Gian Battista Velluti",
+                  "text": "Ein historisches Theater in Corridonia, benannt nach dem berühmten Sänger Gian Battista Velluti.",
+                  "category": "cultural",
+                  "coords": [
+                        13.509974,
+                        43.248901
+                  ]
+            },
+            {
+                  "name": "Acquariomania",
+                  "text": "Ein lokales Aquarium, das eine Vielzahl von Fischen und Wasserpflanzen in Corridonia präsentiert.",
+                  "category": "recreational",
+                  "coords": [
+                        13.499423,
+                        43.280157
+                  ]
+            },
+            {
+                  "name": "Statua Filippo Corridoni",
+                  "text": "Ein imposantes Denkmal in Corridonia zu Ehren des Gewerkschaftsführers Filippo Corridoni.",
+                  "category": "historical",
+                  "coords": [
+                        13.508998,
+                        43.248319
+                  ]
+            },
+            {
+                  "name": "Chiesa di San Vincenzo Maria Strambi",
+                  "text": "Eine dem Heiligen Vincenzo Maria Strambi gewidmete Kirche in der Region Corridonia.",
+                  "category": "religious",
+                  "coords": [
+                        13.485295,
+                        43.275366
+                  ]
+            },
+            {
+                  "name": "Chiesa di San Pietro, Paolo e Donato",
+                  "text": "Eine bedeutende katholische Kirche in Corridonia, die den Heiligen Petrus, Paulus und Donatus gewidmet ist.",
+                  "category": "religious",
+                  "coords": [
+                        13.51215,
+                        43.24898
+                  ]
+            },
+            {
+                  "name": "Chiesa di Sant'Agostino",
+                  "text": "Diese Augustinerkirche in Corridonia ist bekannt für ihre religiöse Architektur und Kunstwerke.",
+                  "category": "religious",
+                  "coords": [
+                        13.508086,
+                        43.248768
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Teatro Gian Battista Velluti",
+                  "text": "Történelmi színház Corridoniában, amely a híres énekes, Gian Battista Velluti nevét viseli.",
+                  "category": "cultural",
+                  "coords": [
+                        13.509974,
+                        43.248901
+                  ]
+            },
+            {
+                  "name": "Acquariomania",
+                  "text": "Helyi akvárium Corridoniában, amely különféle halakat és vízinövényeket mutat be.",
+                  "category": "recreational",
+                  "coords": [
+                        13.499423,
+                        43.280157
+                  ]
+            },
+            {
+                  "name": "Statua Filippo Corridoni",
+                  "text": "Impozáns emlékmű Corridoniában Filippo Corridoni szakszervezeti vezető tiszteletére.",
+                  "category": "historical",
+                  "coords": [
+                        13.508998,
+                        43.248319
+                  ]
+            },
+            {
+                  "name": "Chiesa di San Vincenzo Maria Strambi",
+                  "text": "Szent Vincenzo Maria Strambinak szentelt templom Corridonia környékén.",
+                  "category": "religious",
+                  "coords": [
+                        13.485295,
+                        43.275366
+                  ]
+            },
+            {
+                  "name": "Chiesa di San Pietro, Paolo e Donato",
+                  "text": "Jelentős katolikus templom Corridoniában, amelyet Szent Péter, Pál és Donát tiszteletére szenteltek.",
+                  "category": "religious",
+                  "coords": [
+                        13.51215,
+                        43.24898
+                  ]
+            },
+            {
+                  "name": "Chiesa di Sant'Agostino",
+                  "text": "Ez a corridoniai Ágoston-rendi templom vallási építészetéről és művészeti alkotásairól ismert.",
+                  "category": "religious",
+                  "coords": [
+                        13.508086,
+                        43.248768
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Teatro Gian Battista Velluti",
+                  "text": "Un teatru istoric din Corridonia, numit după celebrul cântăreț Gian Battista Velluti.",
+                  "category": "cultural",
+                  "coords": [
+                        13.509974,
+                        43.248901
+                  ]
+            },
+            {
+                  "name": "Acquariomania",
+                  "text": "Un acvariu local care prezintă o varietate de pești și plante acvatice în Corridonia.",
+                  "category": "recreational",
+                  "coords": [
+                        13.499423,
+                        43.280157
+                  ]
+            },
+            {
+                  "name": "Statua Filippo Corridoni",
+                  "text": "Un monument impunător în Corridonia ridicat în onoarea liderului sindical Filippo Corridoni.",
+                  "category": "historical",
+                  "coords": [
+                        13.508998,
+                        43.248319
+                  ]
+            },
+            {
+                  "name": "Chiesa di San Vincenzo Maria Strambi",
+                  "text": "O biserică dedicată Sfântului Vincenzo Maria Strambi în zona Corridonia.",
+                  "category": "religious",
+                  "coords": [
+                        13.485295,
+                        43.275366
+                  ]
+            },
+            {
+                  "name": "Chiesa di San Pietro, Paolo e Donato",
+                  "text": "O biserică catolică importantă din Corridonia, dedicată Sfinților Petru, Pavel și Donat.",
+                  "category": "religious",
+                  "coords": [
+                        13.51215,
+                        43.24898
+                  ]
+            },
+            {
+                  "name": "Chiesa di Sant'Agostino",
+                  "text": "Această biserică augustiniană din Corridonia este cunoscută pentru arhitectura sa religioasă și operele de artă.",
+                  "category": "religious",
+                  "coords": [
+                        13.508086,
+                        43.248768
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Teatro Gian Battista Velluti",
+                  "text": "A historic theatre in Corridonia named after the famous singer Gian Battista Velluti.",
+                  "category": "cultural",
+                  "coords": [
+                        13.509974,
+                        43.248901
+                  ]
+            },
+            {
+                  "name": "Acquariomania",
+                  "text": "A local aquarium showcasing a variety of fish and aquatic plants in Corridonia.",
+                  "category": "recreational",
+                  "coords": [
+                        13.499423,
+                        43.280157
+                  ]
+            },
+            {
+                  "name": "Statua Filippo Corridoni",
+                  "text": "An imposing monument in Corridonia honoring the trade union leader Filippo Corridoni.",
+                  "category": "historical",
+                  "coords": [
+                        13.508998,
+                        43.248319
+                  ]
+            },
+            {
+                  "name": "Chiesa di San Vincenzo Maria Strambi",
+                  "text": "A church dedicated to Saint Vincenzo Maria Strambi in the Corridonia area.",
+                  "category": "religious",
+                  "coords": [
+                        13.485295,
+                        43.275366
+                  ]
+            },
+            {
+                  "name": "Chiesa di San Pietro, Paolo e Donato",
+                  "text": "A significant Catholic church in Corridonia dedicated to Saints Peter, Paul, and Donatus.",
+                  "category": "religious",
+                  "coords": [
+                        13.51215,
+                        43.24898
+                  ]
+            },
+            {
+                  "name": "Chiesa di Sant'Agostino",
+                  "text": "This Augustinian church in Corridonia is known for its religious architecture and artworks.",
+                  "category": "religious",
+                  "coords": [
+                        13.508086,
+                        43.248768
+                  ]
+            }
+      ]
+},
     type: "industry",
     parent: "IT",
     name: { de: "Schuh-Cluster Marken", hu: "Marche cipőipari körzet", ro: "Districtul de încălțăminte Marche", en: "Marche Footwear Cluster" },
@@ -813,7 +2046,196 @@ export const italyEconomicV2: POI[] = [
     image: "/poi-images/italy-zona-industriale-di-vicenza-economic-v2.webp",
   },
   {
-    id: "italy-distretto-dell-occhiale-cadore-economic-v2",
+    id: "italy-distretto-dell-occhiale-cadore-economic-v2", "sights": {
+      "de": [
+            {
+                  "name": "Museo dell'occhiale",
+                  "text": "Dieses Museum in Pieve di Cadore dokumentiert die Geschichte und Entwicklung der Brillenherstellung.",
+                  "category": "museum",
+                  "coords": [
+                        12.374518,
+                        46.42724
+                  ]
+            },
+            {
+                  "name": "MARC - Museo Archeologico Cadorino",
+                  "text": "Das MARC präsentiert archäologische Funde aus der Region Cadore, von der Antike bis zum Mittelalter.",
+                  "category": "museum",
+                  "coords": [
+                        12.375003,
+                        46.428633
+                  ]
+            },
+            {
+                  "name": "Forte Monte Ricco",
+                  "text": "Das Forte Monte Ricco ist eine historische Festungsanlage, die einen Panoramablick über das Cadore-Tal bietet.",
+                  "category": "castle",
+                  "coords": [
+                        12.376779,
+                        46.426428
+                  ]
+            },
+            {
+                  "name": "Fondazione Centro Studi Tiziano e Cadore",
+                  "text": "Diese Stiftung widmet sich dem Studium und der Bewahrung des Erbes des Malers Tizian.",
+                  "category": "museum",
+                  "coords": [
+                        12.376086,
+                        46.429044
+                  ]
+            },
+            {
+                  "name": "Museo etnografico",
+                  "text": "Das ethnografische Museum zeigt traditionelle Lebensweisen und Handwerk der Region Cadore.",
+                  "category": "museum",
+                  "coords": [
+                        12.364908,
+                        46.436047
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Museo dell'occhiale",
+                  "text": "Ez a Pieve di Cadore-i múzeum a szemüveggyártás történetét és fejlődését mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        12.374518,
+                        46.42724
+                  ]
+            },
+            {
+                  "name": "MARC - Museo Archeologico Cadorino",
+                  "text": "A MARC a Cadore régió régészeti leleteit mutatja be az ókortól a középkorig.",
+                  "category": "museum",
+                  "coords": [
+                        12.375003,
+                        46.428633
+                  ]
+            },
+            {
+                  "name": "Forte Monte Ricco",
+                  "text": "A Forte Monte Ricco egy történelmi erődítmény, amely panorámás kilátást nyújt a Cadore-völgyre.",
+                  "category": "castle",
+                  "coords": [
+                        12.376779,
+                        46.426428
+                  ]
+            },
+            {
+                  "name": "Fondazione Centro Studi Tiziano e Cadore",
+                  "text": "Ez az alapítvány Tiziano festőművész életművének tanulmányozásával és örökségének megőrzésével foglalkozik.",
+                  "category": "museum",
+                  "coords": [
+                        12.376086,
+                        46.429044
+                  ]
+            },
+            {
+                  "name": "Museo etnografico",
+                  "text": "A néprajzi múzeum a Cadore régió hagyományos életmódját és mesterségeit mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        12.364908,
+                        46.436047
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Museo dell'occhiale",
+                  "text": "Acest muzeu din Pieve di Cadore documentează istoria și evoluția fabricării ochelarilor.",
+                  "category": "museum",
+                  "coords": [
+                        12.374518,
+                        46.42724
+                  ]
+            },
+            {
+                  "name": "MARC - Museo Archeologico Cadorino",
+                  "text": "MARC prezintă descoperiri arheologice din regiunea Cadore, din antichitate până în epoca medievală.",
+                  "category": "museum",
+                  "coords": [
+                        12.375003,
+                        46.428633
+                  ]
+            },
+            {
+                  "name": "Forte Monte Ricco",
+                  "text": "Forte Monte Ricco este o fortificație istorică ce oferă o vedere panoramică asupra văii Cadore.",
+                  "category": "castle",
+                  "coords": [
+                        12.376779,
+                        46.426428
+                  ]
+            },
+            {
+                  "name": "Fondazione Centro Studi Tiziano e Cadore",
+                  "text": "Această fundație este dedicată studiului și conservării moștenirii pictorului Tițian.",
+                  "category": "museum",
+                  "coords": [
+                        12.376086,
+                        46.429044
+                  ]
+            },
+            {
+                  "name": "Museo etnografico",
+                  "text": "Muzeul etnografic prezintă modurile de viață tradiționale și meșteșugurile din regiunea Cadore.",
+                  "category": "museum",
+                  "coords": [
+                        12.364908,
+                        46.436047
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Museo dell'occhiale",
+                  "text": "This museum in Pieve di Cadore documents the history and evolution of eyewear manufacturing.",
+                  "category": "museum",
+                  "coords": [
+                        12.374518,
+                        46.42724
+                  ]
+            },
+            {
+                  "name": "MARC - Museo Archeologico Cadorino",
+                  "text": "The MARC presents archaeological finds from the Cadore region, spanning from antiquity to the medieval era.",
+                  "category": "museum",
+                  "coords": [
+                        12.375003,
+                        46.428633
+                  ]
+            },
+            {
+                  "name": "Forte Monte Ricco",
+                  "text": "Forte Monte Ricco is a historical fortification offering panoramic views over the Cadore valley.",
+                  "category": "castle",
+                  "coords": [
+                        12.376779,
+                        46.426428
+                  ]
+            },
+            {
+                  "name": "Fondazione Centro Studi Tiziano e Cadore",
+                  "text": "This foundation is dedicated to the study and preservation of the legacy of the painter Titian.",
+                  "category": "museum",
+                  "coords": [
+                        12.376086,
+                        46.429044
+                  ]
+            },
+            {
+                  "name": "Museo etnografico",
+                  "text": "The ethnographic museum displays traditional ways of life and crafts from the Cadore region.",
+                  "category": "museum",
+                  "coords": [
+                        12.364908,
+                        46.436047
+                  ]
+            }
+      ]
+},
     type: "industry",
     parent: "IT",
     name: { de: "Brillen-Cluster Cadore", hu: "Cadore szemüvegipari körzet", ro: "Districtul de ochelari Cadore", en: "Cadore Eyewear Cluster" },

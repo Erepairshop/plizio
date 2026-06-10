@@ -93,7 +93,268 @@ export const cyprusLandmarksV2: POI[] = [
     image: "/poi-images/cyprus-panagia-angeloktisti-landmarks-v2.webp",
   },
   {
-    id: "cyprus-agios-georgios-pegeia-landmarks-v2",
+    id: "cyprus-agios-georgios-pegeia-landmarks-v2", "sights": {
+      "de": [
+            {
+                  "name": "Pafos Zoo",
+                  "text": "Ein beliebter Zoo bei Pegeia mit einer Vielzahl exotischer Tiere und Vogelshows.",
+                  "category": "recreational",
+                  "coords": [
+                        32.341857,
+                        34.892897
+                  ]
+            },
+            {
+                  "name": "Παραλια Ασπροποταμου",
+                  "text": "Ein ruhiger Sandstrand an der Küste in der Nähe des Dorfes Pegeia.",
+                  "category": "recreational",
+                  "coords": [
+                        32.326044,
+                        34.911985
+                  ]
+            },
+            {
+                  "name": "The Necropolis at Meletis Forest",
+                  "text": "Eine antike archäologische Stätte mit in den Fels gehauenen Gräbern im Meletis-Wald.",
+                  "category": "historical",
+                  "coords": [
+                        32.328602,
+                        34.905011
+                  ]
+            },
+            {
+                  "name": "Kafizis Beach",
+                  "text": "Ein Naturstrand mit klarem Wasser und einer ruhigen Umgebung bei Pegeia.",
+                  "category": "recreational",
+                  "coords": [
+                        32.323007,
+                        34.894662
+                  ]
+            },
+            {
+                  "name": "Agios Georgios Ancient Basilikas",
+                  "text": "Die Ruinen von drei frühchristlichen Basiliken aus dem 6. Jahrhundert in Küstennähe.",
+                  "category": "historical",
+                  "coords": [
+                        32.321154,
+                        34.902171
+                  ]
+            },
+            {
+                  "name": "Traditional Clothes Museum",
+                  "text": "Ein lokales Museum, das traditionelle zyprische Kostüme und Volkskunst zeigt.",
+                  "category": "museum",
+                  "coords": [
+                        32.342799,
+                        34.893702
+                  ]
+            },
+            {
+                  "name": "Asian Elephant Interactions",
+                  "text": "Ein spezieller Bereich im Zoo, in dem Besucher Asiatische Elefanten erleben können.",
+                  "category": "recreational",
+                  "coords": [
+                        32.341594,
+                        34.89173
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Pafos Zoo",
+                  "text": "Népszerű állatkert Pegeia közelében, egzotikus állatokkal és madárbemutatókkal.",
+                  "category": "recreational",
+                  "coords": [
+                        32.341857,
+                        34.892897
+                  ]
+            },
+            {
+                  "name": "Παραλια Ασπροποταμου",
+                  "text": "Csendes homokos strand a tengerparton, Pegeia falu közelében.",
+                  "category": "recreational",
+                  "coords": [
+                        32.326044,
+                        34.911985
+                  ]
+            },
+            {
+                  "name": "The Necropolis at Meletis Forest",
+                  "text": "Ókori régészeti lelőhely sziklába vájt sírokkal a Meletis-erdőben.",
+                  "category": "historical",
+                  "coords": [
+                        32.328602,
+                        34.905011
+                  ]
+            },
+            {
+                  "name": "Kafizis Beach",
+                  "text": "Természetes strand tiszta vízzel és nyugodt környezettel Pegeia közelében.",
+                  "category": "recreational",
+                  "coords": [
+                        32.323007,
+                        34.894662
+                  ]
+            },
+            {
+                  "name": "Agios Georgios Ancient Basilikas",
+                  "text": "Három 6. századi kora keresztény bazilika romjai a tengerpart közelében.",
+                  "category": "historical",
+                  "coords": [
+                        32.321154,
+                        34.902171
+                  ]
+            },
+            {
+                  "name": "Traditional Clothes Museum",
+                  "text": "Helyi múzeum, amely hagyományos ciprusi viseleteket és népművészetet mutat be.",
+                  "category": "museum",
+                  "coords": [
+                        32.342799,
+                        34.893702
+                  ]
+            },
+            {
+                  "name": "Asian Elephant Interactions",
+                  "text": "Az állatkert egyik része, ahol a látogatók ázsiai elefántokkal találkozhatnak.",
+                  "category": "recreational",
+                  "coords": [
+                        32.341594,
+                        34.89173
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Pafos Zoo",
+                  "text": "O grădină zoologică populară lângă Pegeia, cu diverse animale exotice și spectacole cu păsări.",
+                  "category": "recreational",
+                  "coords": [
+                        32.341857,
+                        34.892897
+                  ]
+            },
+            {
+                  "name": "Παραλια Ασπροποταμου",
+                  "text": "O plajă de nisip liniștită situată pe coastă, în apropierea satului Pegeia.",
+                  "category": "recreational",
+                  "coords": [
+                        32.326044,
+                        34.911985
+                  ]
+            },
+            {
+                  "name": "The Necropolis at Meletis Forest",
+                  "text": "Un sit arheologic antic cu morminte săpate în stâncă în pădurea Meletis.",
+                  "category": "historical",
+                  "coords": [
+                        32.328602,
+                        34.905011
+                  ]
+            },
+            {
+                  "name": "Kafizis Beach",
+                  "text": "O plajă naturală cu ape limpezi și un mediu liniștit lângă Pegeia.",
+                  "category": "recreational",
+                  "coords": [
+                        32.323007,
+                        34.894662
+                  ]
+            },
+            {
+                  "name": "Agios Georgios Ancient Basilikas",
+                  "text": "Ruinele a trei basilici creștine timpurii din secolul al VI-lea, situate lângă coastă.",
+                  "category": "historical",
+                  "coords": [
+                        32.321154,
+                        34.902171
+                  ]
+            },
+            {
+                  "name": "Traditional Clothes Museum",
+                  "text": "Un muzeu local care expune costume tradiționale cipriote și artă populară.",
+                  "category": "museum",
+                  "coords": [
+                        32.342799,
+                        34.893702
+                  ]
+            },
+            {
+                  "name": "Asian Elephant Interactions",
+                  "text": "O zonă specializată din cadrul grădinii zoologice unde vizitatorii pot interacționa cu elefanți asiatici.",
+                  "category": "recreational",
+                  "coords": [
+                        32.341594,
+                        34.89173
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Pafos Zoo",
+                  "text": "A popular zoo near Pegeia featuring a variety of exotic animals and bird shows.",
+                  "category": "recreational",
+                  "coords": [
+                        32.341857,
+                        34.892897
+                  ]
+            },
+            {
+                  "name": "White River Beach",
+                  "text": "A quiet sandy beach located on the coast near the village of Pegeia.",
+                  "category": "recreational",
+                  "coords": [
+                        32.326044,
+                        34.911985
+                  ]
+            },
+            {
+                  "name": "The Necropolis at Meletis Forest",
+                  "text": "An ancient archaeological site featuring rock-cut tombs in the Meletis Forest.",
+                  "category": "historical",
+                  "coords": [
+                        32.328602,
+                        34.905011
+                  ]
+            },
+            {
+                  "name": "Kafizis Beach",
+                  "text": "A natural beach offering clear waters and a peaceful environment near Pegeia.",
+                  "category": "recreational",
+                  "coords": [
+                        32.323007,
+                        34.894662
+                  ]
+            },
+            {
+                  "name": "Agios Georgios Ancient Basilikas",
+                  "text": "The ruins of three early Christian basilicas from the 6th century located near the coast.",
+                  "category": "historical",
+                  "coords": [
+                        32.321154,
+                        34.902171
+                  ]
+            },
+            {
+                  "name": "Traditional Clothes Museum",
+                  "text": "A local museum showcasing traditional Cypriot costumes and folk art.",
+                  "category": "museum",
+                  "coords": [
+                        32.342799,
+                        34.893702
+                  ]
+            },
+            {
+                  "name": "Asian Elephant Interactions",
+                  "text": "A specialized area within the zoo where visitors can learn about and interact with Asian elephants.",
+                  "category": "recreational",
+                  "coords": [
+                        32.341594,
+                        34.89173
+                  ]
+            }
+      ]
+},
     type: "church",
     parent: "CY",
     name: { de: "Kirche Agios Georgios Pegeia", hu: "Agios Georgios Pegeia-templom", ro: "Biserica Agios Georgios Pegeia", en: "Agios Georgios Pegeia Church" },

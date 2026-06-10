@@ -3,7 +3,196 @@ import type { POI } from "./poi";
 
 export const poiExtraPortugalHistorical: POI[] = [
   {
-    id: "historical-monsanto",
+    id: "historical-monsanto", "sights": {
+      "de": [
+            {
+                  "name": "Estação Arqueológica Romana de São Lourenço",
+                  "text": "Reste einer römischen Siedlung in der historischen Region Monsanto.",
+                  "category": "historical",
+                  "coords": [
+                        -7.136317,
+                        40.054641
+                  ]
+            },
+            {
+                  "name": "Castelo de Monsanto",
+                  "text": "Eine mittelalterliche Burg, die spektakulär in die Granitfelsen von Monsanto gebaut wurde.",
+                  "category": "castle",
+                  "coords": [
+                        -7.113951,
+                        40.035916
+                  ]
+            },
+            {
+                  "name": "Necrópole de São Miguel",
+                  "text": "Eine antike archäologische Stätte mit Felsengräbern in Monsanto.",
+                  "category": "historical",
+                  "coords": [
+                        -7.113132,
+                        40.036997
+                  ]
+            },
+            {
+                  "name": "Lagar",
+                  "text": "Eine historische Stätte in Monsanto, die früher für die Wein- oder Ölproduktion genutzt wurde.",
+                  "category": "historical",
+                  "coords": [
+                        -7.118599,
+                        40.034129
+                  ]
+            },
+            {
+                  "name": "Solar da Família Melo",
+                  "text": "Ein historisches Herrenhaus der Familie Melo in Monsanto.",
+                  "category": "historical",
+                  "coords": [
+                        -7.114309,
+                        40.039183
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Estação Arqueológica Romana de São Lourenço",
+                  "text": "Római település maradványai Monsanto történelmi régiójában.",
+                  "category": "historical",
+                  "coords": [
+                        -7.136317,
+                        40.054641
+                  ]
+            },
+            {
+                  "name": "Castelo de Monsanto",
+                  "text": "Középkori vár, amely látványosan a Monsanto gránitsziklái közé épült.",
+                  "category": "castle",
+                  "coords": [
+                        -7.113951,
+                        40.035916
+                  ]
+            },
+            {
+                  "name": "Necrópole de São Miguel",
+                  "text": "Ősi régészeti lelőhely sziklába vájt sírokkal Monsantóban.",
+                  "category": "historical",
+                  "coords": [
+                        -7.113132,
+                        40.036997
+                  ]
+            },
+            {
+                  "name": "Lagar",
+                  "text": "Történelmi helyszín Monsantóban, amelyet korábban bor- vagy olajtermelésre használtak.",
+                  "category": "historical",
+                  "coords": [
+                        -7.118599,
+                        40.034129
+                  ]
+            },
+            {
+                  "name": "Solar da Família Melo",
+                  "text": "A Melo család történelmi kúriája Monsantóban.",
+                  "category": "historical",
+                  "coords": [
+                        -7.114309,
+                        40.039183
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Estação Arqueológica Romana de São Lourenço",
+                  "text": "Rămășițele unei așezări romane în regiunea istorică Monsanto.",
+                  "category": "historical",
+                  "coords": [
+                        -7.136317,
+                        40.054641
+                  ]
+            },
+            {
+                  "name": "Castelo de Monsanto",
+                  "text": "Un castel medieval construit spectaculos printre stâncile de granit din Monsanto.",
+                  "category": "castle",
+                  "coords": [
+                        -7.113951,
+                        40.035916
+                  ]
+            },
+            {
+                  "name": "Necrópole de São Miguel",
+                  "text": "Un sit arheologic antic cu morminte săpate în stâncă în Monsanto.",
+                  "category": "historical",
+                  "coords": [
+                        -7.113132,
+                        40.036997
+                  ]
+            },
+            {
+                  "name": "Lagar",
+                  "text": "Un sit istoric în Monsanto, folosit anterior pentru producția de vin sau ulei.",
+                  "category": "historical",
+                  "coords": [
+                        -7.118599,
+                        40.034129
+                  ]
+            },
+            {
+                  "name": "Solar da Família Melo",
+                  "text": "Un conac istoric al familiei Melo în Monsanto.",
+                  "category": "historical",
+                  "coords": [
+                        -7.114309,
+                        40.039183
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Estação Arqueológica Romana de São Lourenço",
+                  "text": "Remains of a Roman settlement in the historic Monsanto region.",
+                  "category": "historical",
+                  "coords": [
+                        -7.136317,
+                        40.054641
+                  ]
+            },
+            {
+                  "name": "Castelo de Monsanto",
+                  "text": "A medieval castle spectacularly built into the granite boulders of Monsanto.",
+                  "category": "castle",
+                  "coords": [
+                        -7.113951,
+                        40.035916
+                  ]
+            },
+            {
+                  "name": "Necrópole de São Miguel",
+                  "text": "An ancient archaeological site with rock-cut tombs in Monsanto.",
+                  "category": "historical",
+                  "coords": [
+                        -7.113132,
+                        40.036997
+                  ]
+            },
+            {
+                  "name": "Lagar",
+                  "text": "A historical site in Monsanto previously used for wine or oil production.",
+                  "category": "historical",
+                  "coords": [
+                        -7.118599,
+                        40.034129
+                  ]
+            },
+            {
+                  "name": "Solar da Família Melo",
+                  "text": "A historic manor house of the Melo family in Monsanto.",
+                  "category": "historical",
+                  "coords": [
+                        -7.114309,
+                        40.039183
+                  ]
+            }
+      ]
+},
     type: "historical",
     parent: "portugal",
     coords: [-7.1114, 40.0383],
@@ -45,7 +234,196 @@ export const poiExtraPortugalHistorical: POI[] = [
       fr: ["Les énormes blocs de granit servent souvent de murs, de sols ou même de toits aux maisons traditionnelles en pierre.", "Au point culminant de la montagne trônent les ruines d'un ancien château templier du XIIe siècle.", "Monsanto a servi de lieu de tournage spectaculaire pour la célèbre série fantastique « House of the Dragon ».", "Une coutume locale est la fête de la Sainte-Croix, au cours de laquelle une poupée symbolique est jetée du haut des remparts du château."],
     }, image: "/poi-images/historical-monsanto.webp"},
   {
-    id: "historical-sortelha",
+    id: "historical-sortelha", "sights": {
+      "de": [
+            {
+                  "name": "Castelo de Sortelha",
+                  "text": "Eine gut erhaltene mittelalterliche Burg in einem der historischen Dörfer Portugals.",
+                  "category": "castle",
+                  "coords": [
+                        -7.215239,
+                        40.3285
+                  ]
+            },
+            {
+                  "name": "Solar de Nossa Senhora da Conceição",
+                  "text": "Ein historisches Herrenhaus in Sortelha, das ein Beispiel lokaler Architektur ist.",
+                  "category": "historical",
+                  "coords": [
+                        -7.209764,
+                        40.331206
+                  ]
+            },
+            {
+                  "name": "Baloiço de Sortelha",
+                  "text": "Eine Panoramaschaukel in Sortelha mit Blick auf die umliegende Landschaft.",
+                  "category": "landmark",
+                  "coords": [
+                        -7.215203,
+                        40.329552
+                  ]
+            },
+            {
+                  "name": "Igreja Paroquial de São João",
+                  "text": "Die Ruinen der ehemaligen Pfarrkirche São João in Sortelha.",
+                  "category": "historical",
+                  "coords": [
+                        -7.217402,
+                        40.328223
+                  ]
+            },
+            {
+                  "name": "Torre do Relógio de Sortelha",
+                  "text": "Der Uhrturm von Sortelha, ein markantes Bauwerk in dem befestigten Dorf.",
+                  "category": "tower",
+                  "coords": [
+                        -7.212599,
+                        40.330524
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Castelo de Sortelha",
+                  "text": "Jól megőrzött középkori vár Portugália egyik történelmi falujában.",
+                  "category": "castle",
+                  "coords": [
+                        -7.215239,
+                        40.3285
+                  ]
+            },
+            {
+                  "name": "Solar de Nossa Senhora da Conceição",
+                  "text": "Történelmi udvarház Sortelhában, amely a helyi építészet egyik példája.",
+                  "category": "historical",
+                  "coords": [
+                        -7.209764,
+                        40.331206
+                  ]
+            },
+            {
+                  "name": "Baloiço de Sortelha",
+                  "text": "Panorámás hinta Sortelhában, kilátással a környező tájra.",
+                  "category": "landmark",
+                  "coords": [
+                        -7.215203,
+                        40.329552
+                  ]
+            },
+            {
+                  "name": "Igreja Paroquial de São João",
+                  "text": "A sortelhai São João plébániatemplom egykori romjai.",
+                  "category": "historical",
+                  "coords": [
+                        -7.217402,
+                        40.328223
+                  ]
+            },
+            {
+                  "name": "Torre do Relógio de Sortelha",
+                  "text": "Sortelha óratornya, az erődített falu egyik jellegzetes építménye.",
+                  "category": "tower",
+                  "coords": [
+                        -7.212599,
+                        40.330524
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Castelo de Sortelha",
+                  "text": "Un castel medieval bine conservat situat într-unul dintre satele istorice ale Portugaliei.",
+                  "category": "castle",
+                  "coords": [
+                        -7.215239,
+                        40.3285
+                  ]
+            },
+            {
+                  "name": "Solar de Nossa Senhora da Conceição",
+                  "text": "Un conac istoric din Sortelha, reprezentativ pentru arhitectura locală.",
+                  "category": "historical",
+                  "coords": [
+                        -7.209764,
+                        40.331206
+                  ]
+            },
+            {
+                  "name": "Baloiço de Sortelha",
+                  "text": "Un leagăn panoramic în Sortelha ce oferă priveliști asupra peisajului înconjurător.",
+                  "category": "landmark",
+                  "coords": [
+                        -7.215203,
+                        40.329552
+                  ]
+            },
+            {
+                  "name": "Igreja Paroquial de São João",
+                  "text": "Ruinele fostei biserici parohiale São João din Sortelha.",
+                  "category": "historical",
+                  "coords": [
+                        -7.217402,
+                        40.328223
+                  ]
+            },
+            {
+                  "name": "Torre do Relógio de Sortelha",
+                  "text": "Turnul cu ceas din Sortelha, o structură distinctivă în satul fortificat.",
+                  "category": "tower",
+                  "coords": [
+                        -7.212599,
+                        40.330524
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Castelo de Sortelha",
+                  "text": "A well-preserved medieval castle located in one of Portugal's historical villages.",
+                  "category": "castle",
+                  "coords": [
+                        -7.215239,
+                        40.3285
+                  ]
+            },
+            {
+                  "name": "Solar de Nossa Senhora da Conceição",
+                  "text": "A historic manor house in Sortelha, showcasing examples of local architecture.",
+                  "category": "historical",
+                  "coords": [
+                        -7.209764,
+                        40.331206
+                  ]
+            },
+            {
+                  "name": "Baloiço de Sortelha",
+                  "text": "A panoramic swing in Sortelha offering views of the surrounding countryside.",
+                  "category": "landmark",
+                  "coords": [
+                        -7.215203,
+                        40.329552
+                  ]
+            },
+            {
+                  "name": "Igreja Paroquial de São João",
+                  "text": "The ruins of the former São João parish church in Sortelha.",
+                  "category": "historical",
+                  "coords": [
+                        -7.217402,
+                        40.328223
+                  ]
+            },
+            {
+                  "name": "Torre do Relógio de Sortelha",
+                  "text": "The clock tower of Sortelha, a distinctive structure within the fortified village.",
+                  "category": "tower",
+                  "coords": [
+                        -7.212599,
+                        40.330524
+                  ]
+            }
+      ]
+},
     type: "historical",
     parent: "portugal",
     coords: [-7.2081, 40.3308],
@@ -87,7 +465,268 @@ export const poiExtraPortugalHistorical: POI[] = [
       fr: ["Le nom « Sortelha » dérive de l'anneau, ce qui se reflète dans la forme circulaire de l'enceinte de la ville.", "Devant la porte principale du château se dresse un ancien pilori (Pelourinho) datant de l'époque manuéline.", "Un rocher célèbre près des remparts du château est appelé « baiser de l'éternité » car il ressemble à un couple qui s'embrasse.", "Le village a presque entièrement conservé son caractère médiéval, car aucune route moderne n'a été construite à travers le centre."],
     }, image: "/poi-images/historical-sortelha.webp"},
   {
-    id: "historical-almendres",
+    id: "historical-almendres", "sights": {
+      "de": [
+            {
+                  "name": "Menir dos Almendres",
+                  "text": "Ein prähistorischer Menhir in der Nähe von Évora.",
+                  "category": "historical",
+                  "coords": [
+                        -8.048347,
+                        38.564017
+                  ]
+            },
+            {
+                  "name": "Cromeleque dos Almendres",
+                  "text": "Die größte megalithische Anlage auf der Iberischen Halbinsel.",
+                  "category": "historical",
+                  "coords": [
+                        -8.061187,
+                        38.55749
+                  ]
+            },
+            {
+                  "name": "Castelo do Giraldo",
+                  "text": "Überreste einer alten befestigten Siedlung.",
+                  "category": "historical",
+                  "coords": [
+                        -8.033172,
+                        38.537476
+                  ]
+            },
+            {
+                  "name": "Anta Pequena do Zambujeiro",
+                  "text": "Ein kleineres megalithisches Grab in der Region Évora.",
+                  "category": "historical",
+                  "coords": [
+                        -8.017663,
+                        38.540563
+                  ]
+            },
+            {
+                  "name": "Menir Vale dos Cardos 2",
+                  "text": "Ein prähistorischer stehender Stein in der portugiesischen Landschaft.",
+                  "category": "historical",
+                  "coords": [
+                        -8.055089,
+                        38.551305
+                  ]
+            },
+            {
+                  "name": "Menir Almendres 20",
+                  "text": "Einer der einzelnen Menhire im Megalith-Areal von Almendres.",
+                  "category": "historical",
+                  "coords": [
+                        -8.053929,
+                        38.555806
+                  ]
+            },
+            {
+                  "name": "Igreja da Nossa Senhora da Boa Fé",
+                  "text": "Eine traditionelle Pfarrkirche, die der örtlichen Gemeinde dient.",
+                  "category": "religious",
+                  "coords": [
+                        -8.09089,
+                        38.553029
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Menir dos Almendres",
+                  "text": "Prehisztorikus menhir Évora közelében.",
+                  "category": "historical",
+                  "coords": [
+                        -8.048347,
+                        38.564017
+                  ]
+            },
+            {
+                  "name": "Cromeleque dos Almendres",
+                  "text": "Az Ibériai-félsziget legnagyobb megalitikus építménye.",
+                  "category": "historical",
+                  "coords": [
+                        -8.061187,
+                        38.55749
+                  ]
+            },
+            {
+                  "name": "Castelo do Giraldo",
+                  "text": "Egy ősi erődített település maradványai.",
+                  "category": "historical",
+                  "coords": [
+                        -8.033172,
+                        38.537476
+                  ]
+            },
+            {
+                  "name": "Anta Pequena do Zambujeiro",
+                  "text": "Egy kisebb megalitikus sír Évora régiójában.",
+                  "category": "historical",
+                  "coords": [
+                        -8.017663,
+                        38.540563
+                  ]
+            },
+            {
+                  "name": "Menir Vale dos Cardos 2",
+                  "text": "Prehisztorikus állókő a portugál vidéken.",
+                  "category": "historical",
+                  "coords": [
+                        -8.055089,
+                        38.551305
+                  ]
+            },
+            {
+                  "name": "Menir Almendres 20",
+                  "text": "Az almendresi megalitikus terület egyik egyedi menhirje.",
+                  "category": "historical",
+                  "coords": [
+                        -8.053929,
+                        38.555806
+                  ]
+            },
+            {
+                  "name": "Igreja da Nossa Senhora da Boa Fé",
+                  "text": "Hagyományos plébániatemplom, amely a helyi közösséget szolgálja.",
+                  "category": "religious",
+                  "coords": [
+                        -8.09089,
+                        38.553029
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Menir dos Almendres",
+                  "text": "Un menhir preistoric situat în apropiere de Évora.",
+                  "category": "historical",
+                  "coords": [
+                        -8.048347,
+                        38.564017
+                  ]
+            },
+            {
+                  "name": "Cromeleque dos Almendres",
+                  "text": "Cel mai mare complex megalitic din Peninsula Iberică.",
+                  "category": "historical",
+                  "coords": [
+                        -8.061187,
+                        38.55749
+                  ]
+            },
+            {
+                  "name": "Castelo do Giraldo",
+                  "text": "Rămășițele unei vechi așezări fortificate.",
+                  "category": "historical",
+                  "coords": [
+                        -8.033172,
+                        38.537476
+                  ]
+            },
+            {
+                  "name": "Anta Pequena do Zambujeiro",
+                  "text": "Un mormânt megalitic mai mic situat în regiunea Évora.",
+                  "category": "historical",
+                  "coords": [
+                        -8.017663,
+                        38.540563
+                  ]
+            },
+            {
+                  "name": "Menir Vale dos Cardos 2",
+                  "text": "O piatră preistorică ridicată în peisajul rural portughez.",
+                  "category": "historical",
+                  "coords": [
+                        -8.055089,
+                        38.551305
+                  ]
+            },
+            {
+                  "name": "Menir Almendres 20",
+                  "text": "Unul dintre menhirii individuali din zona megalitică Almendres.",
+                  "category": "historical",
+                  "coords": [
+                        -8.053929,
+                        38.555806
+                  ]
+            },
+            {
+                  "name": "Igreja da Nossa Senhora da Boa Fé",
+                  "text": "O biserică parohială tradițională care deservește comunitatea locală.",
+                  "category": "religious",
+                  "coords": [
+                        -8.09089,
+                        38.553029
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Menir dos Almendres",
+                  "text": "A prehistoric standing stone located near Évora.",
+                  "category": "historical",
+                  "coords": [
+                        -8.048347,
+                        38.564017
+                  ]
+            },
+            {
+                  "name": "Almendres Cromlech",
+                  "text": "The largest megalithic complex in the Iberian Peninsula.",
+                  "category": "historical",
+                  "coords": [
+                        -8.061187,
+                        38.55749
+                  ]
+            },
+            {
+                  "name": "Castelo do Giraldo",
+                  "text": "Remains of an ancient fortified settlement.",
+                  "category": "historical",
+                  "coords": [
+                        -8.033172,
+                        38.537476
+                  ]
+            },
+            {
+                  "name": "Anta Pequena do Zambujeiro",
+                  "text": "A smaller megalithic tomb located in the Évora region.",
+                  "category": "historical",
+                  "coords": [
+                        -8.017663,
+                        38.540563
+                  ]
+            },
+            {
+                  "name": "Menir Vale dos Cardos 2",
+                  "text": "A prehistoric standing stone in the Portuguese countryside.",
+                  "category": "historical",
+                  "coords": [
+                        -8.055089,
+                        38.551305
+                  ]
+            },
+            {
+                  "name": "Menir Almendres 20",
+                  "text": "One of the individual standing stones in the Almendres megalithic area.",
+                  "category": "historical",
+                  "coords": [
+                        -8.053929,
+                        38.555806
+                  ]
+            },
+            {
+                  "name": "Igreja da Nossa Senhora da Boa Fé",
+                  "text": "A traditional parish church serving the local community.",
+                  "category": "religious",
+                  "coords": [
+                        -8.09089,
+                        38.553029
+                  ]
+            }
+      ]
+},
     type: "historical",
     parent: "portugal",
     coords: [-8.0569, 38.5567],
@@ -129,7 +768,232 @@ export const poiExtraPortugalHistorical: POI[] = [
       fr: ["Le monument se compose de 95 pierres de granit ovoïdes formant un motif de double ellipse.", "L'alignement des pierres est étroitement lié aux solstices et aux équinoxes.", "Le site n'a été redécouvert qu'en 1964 par le chercheur portugais Henrique Leonor Pina.", "À environ un kilomètre se dresse un menhir isolé, appelé Menhir des Almendres."], 
     }, image: "/poi-images/historical-almendres.webp"},
   {
-    id: "historical-flordarosa",
+    id: "historical-flordarosa", "sights": {
+      "de": [
+            {
+                  "name": "Castelo de Alter Pedroso",
+                  "text": "Die Ruinen einer mittelalterlichen Burg, die auf einer Anhöhe über der Region Alter do Chão thronen.",
+                  "category": "castle",
+                  "coords": [
+                        -7.62267,
+                        39.188933
+                  ]
+            },
+            {
+                  "name": "Convento de Alter",
+                  "text": "Ein ehemaliges Franziskanerkloster aus dem 16. Jahrhundert in Alter do Chão.",
+                  "category": "religious",
+                  "coords": [
+                        -7.658413,
+                        39.197287
+                  ]
+            },
+            {
+                  "name": "Castelo de Alter do Chão",
+                  "text": "Eine gut erhaltene mittelalterliche Burg aus dem 14. Jahrhundert im Zentrum von Alter do Chão.",
+                  "category": "castle",
+                  "coords": [
+                        -7.658673,
+                        39.199
+                  ]
+            },
+            {
+                  "name": "Villa Romana da Quinta do Pião",
+                  "text": "Eine archäologische Fundstätte mit den Überresten einer antiken römischen Villa.",
+                  "category": "historical",
+                  "coords": [
+                        -7.620984,
+                        39.162431
+                  ]
+            },
+            {
+                  "name": "Anta dos Tapadões",
+                  "text": "Eine prähistorische Grabstätte und ein bedeutendes megalithisches Denkmal in der Region Alentejo.",
+                  "category": "historical",
+                  "coords": [
+                        -7.62814,
+                        39.19199
+                  ]
+            },
+            {
+                  "name": "Pelourinho de Alter do Chão",
+                  "text": "Ein historischer Schandpfahl aus Stein, der als Symbol der lokalen Gerichtsbarkeit in Alter do Chão dient.",
+                  "category": "landmark",
+                  "coords": [
+                        -7.658866,
+                        39.200226
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Castelo de Alter Pedroso",
+                  "text": "Középkori várromok egy dombtetőn, Alter do Chão régiójában.",
+                  "category": "castle",
+                  "coords": [
+                        -7.62267,
+                        39.188933
+                  ]
+            },
+            {
+                  "name": "Convento de Alter",
+                  "text": "Egykori 16. századi ferences kolostor Alter do Chão településen.",
+                  "category": "religious",
+                  "coords": [
+                        -7.658413,
+                        39.197287
+                  ]
+            },
+            {
+                  "name": "Castelo de Alter do Chão",
+                  "text": "Jó állapotban fennmaradt 14. századi középkori vár Alter do Chão központjában.",
+                  "category": "castle",
+                  "coords": [
+                        -7.658673,
+                        39.199
+                  ]
+            },
+            {
+                  "name": "Villa Romana da Quinta do Pião",
+                  "text": "Régészeti lelőhely egy ókori római villa maradványaival.",
+                  "category": "historical",
+                  "coords": [
+                        -7.620984,
+                        39.162431
+                  ]
+            },
+            {
+                  "name": "Anta dos Tapadões",
+                  "text": "Prehisztorikus sírhely és jelentős megalitikus emlék az Alentejo régióban.",
+                  "category": "historical",
+                  "coords": [
+                        -7.62814,
+                        39.19199
+                  ]
+            },
+            {
+                  "name": "Pelourinho de Alter do Chão",
+                  "text": "Történelmi kő szégyen使い方 (pelourinho), amely a helyi joghatóság jelképe Alter do Chão-ban.",
+                  "category": "landmark",
+                  "coords": [
+                        -7.658866,
+                        39.200226
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Castelo de Alter Pedroso",
+                  "text": "Ruinele unui castel medieval situat pe un deal în regiunea Alter do Chão.",
+                  "category": "castle",
+                  "coords": [
+                        -7.62267,
+                        39.188933
+                  ]
+            },
+            {
+                  "name": "Convento de Alter",
+                  "text": "O fostă mănăstire franciscană din secolul al XVI-lea, situată în Alter do Chão.",
+                  "category": "religious",
+                  "coords": [
+                        -7.658413,
+                        39.197287
+                  ]
+            },
+            {
+                  "name": "Castelo de Alter do Chão",
+                  "text": "Un castel medieval bine conservat din secolul al XIV-lea, aflat în centrul localității Alter do Chão.",
+                  "category": "castle",
+                  "coords": [
+                        -7.658673,
+                        39.199
+                  ]
+            },
+            {
+                  "name": "Villa Romana da Quinta do Pião",
+                  "text": "Un sit arheologic care cuprinde vestigiile unei vechi vile romane.",
+                  "category": "historical",
+                  "coords": [
+                        -7.620984,
+                        39.162431
+                  ]
+            },
+            {
+                  "name": "Anta dos Tapadões",
+                  "text": "Un sit funerar preistoric și un monument megalitic important din regiunea Alentejo.",
+                  "category": "historical",
+                  "coords": [
+                        -7.62814,
+                        39.19199
+                  ]
+            },
+            {
+                  "name": "Pelourinho de Alter do Chão",
+                  "text": "Un stâlp al infamiei istoric din piatră, simbol al jurisdicției locale în Alter do Chão.",
+                  "category": "landmark",
+                  "coords": [
+                        -7.658866,
+                        39.200226
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Castelo de Alter Pedroso",
+                  "text": "The ruins of a medieval castle situated on a hill overlooking the Alter do Chão region.",
+                  "category": "castle",
+                  "coords": [
+                        -7.62267,
+                        39.188933
+                  ]
+            },
+            {
+                  "name": "Convento de Alter",
+                  "text": "A former 16th-century Franciscan monastery located in Alter do Chão.",
+                  "category": "religious",
+                  "coords": [
+                        -7.658413,
+                        39.197287
+                  ]
+            },
+            {
+                  "name": "Castelo de Alter do Chão",
+                  "text": "A well-preserved 14th-century medieval castle in the center of Alter do Chão.",
+                  "category": "castle",
+                  "coords": [
+                        -7.658673,
+                        39.199
+                  ]
+            },
+            {
+                  "name": "Villa Romana da Quinta do Pião",
+                  "text": "An archaeological site containing the remains of an ancient Roman villa.",
+                  "category": "historical",
+                  "coords": [
+                        -7.620984,
+                        39.162431
+                  ]
+            },
+            {
+                  "name": "Anta dos Tapadões",
+                  "text": "A prehistoric burial site and significant megalithic monument in the Alentejo region.",
+                  "category": "historical",
+                  "coords": [
+                        -7.62814,
+                        39.19199
+                  ]
+            },
+            {
+                  "name": "Pelourinho de Alter do Chão",
+                  "text": "A historic stone pillory serving as a symbol of local jurisdiction in Alter do Chão.",
+                  "category": "landmark",
+                  "coords": [
+                        -7.658866,
+                        39.200226
+                  ]
+            }
+      ]
+},
     type: "historical",
     parent: "portugal",
     coords: [-7.6186, 39.1837],
@@ -171,7 +1035,304 @@ export const poiExtraPortugalHistorical: POI[] = [
       fr: ["Le fondateur du monastère était le père du célèbre Nuno Álvares Pereira, héros national portugais.", "L'architecture du monastère présente de nettes influences mudéjares, mélange d'éléments chrétiens et islamiques.", "L'impressionnant cloître combine des formes gothiques austères avec des décorations manuélines ultérieures.", "Le monastère fut initialement fondé pour consolider la région après les guerres d'indépendance contre la Castille."], 
     }, image: "/poi-images/historical-flordarosa.webp"},
   {
-    id: "historical-briteiros",
+    id: "historical-briteiros", "sights": {
+      "de": [
+            {
+                  "name": "Citânia de Sabroso",
+                  "text": "Eine archäologische Stätte einer eisenzeitlichen Siedlung bei Citânia de Briteiros.",
+                  "category": "historical",
+                  "coords": [
+                        -8.341152,
+                        41.511341
+                  ]
+            },
+            {
+                  "name": "Museu da Cultura Castreja",
+                  "text": "Ein Museum, das sich der Castro-Kultur und den Funden aus der Region widmet.",
+                  "category": "museum",
+                  "coords": [
+                        -8.32532,
+                        41.520473
+                  ]
+            },
+            {
+                  "name": "Citânia de Briteiros",
+                  "text": "Eine bedeutende archäologische Stätte einer befestigten Siedlung aus der Eisenzeit in Portugal.",
+                  "category": "historical",
+                  "coords": [
+                        -8.316304,
+                        41.528076
+                  ]
+            },
+            {
+                  "name": "Banhos Velhos das Caldas das Taipas",
+                  "text": "Antike Badeanlagen in Caldas das Taipas mit historischer Bedeutung.",
+                  "category": "historical",
+                  "coords": [
+                        -8.341869,
+                        41.486156
+                  ]
+            },
+            {
+                  "name": "Praia fluvial de Santa Eufémia",
+                  "text": "Ein Flussstrand bei Santa Eufémia, ideal zum Baden und Entspannen im Grünen.",
+                  "category": "recreational",
+                  "coords": [
+                        -8.321419,
+                        41.495334
+                  ]
+            },
+            {
+                  "name": "Baloiço dos Moinhos",
+                  "text": "Eine Panoramaschaukel bei den Mühlen, die einen weiten Ausblick über die Landschaft bietet.",
+                  "category": "landmark",
+                  "coords": [
+                        -8.348301,
+                        41.478994
+                  ]
+            },
+            {
+                  "name": "Igreja das Taipas",
+                  "text": "Ein religiöses Gebäude und Ort der Andacht in Caldas das Taipas.",
+                  "category": "religious",
+                  "coords": [
+                        -8.343777,
+                        41.487108
+                  ]
+            },
+            {
+                  "name": "Igreja Paroquial de Gominhães",
+                  "text": "Die Pfarrkirche von Gominhães, ein lokales Zentrum der Gemeinde.",
+                  "category": "religious",
+                  "coords": [
+                        -8.284249,
+                        41.479848
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Citânia de Sabroso",
+                  "text": "Vaskori település régészeti lelőhelye Citânia de Briteiros közelében.",
+                  "category": "historical",
+                  "coords": [
+                        -8.341152,
+                        41.511341
+                  ]
+            },
+            {
+                  "name": "Museu da Cultura Castreja",
+                  "text": "A castro-kultúrának és a régió leleteinek szentelt múzeum.",
+                  "category": "museum",
+                  "coords": [
+                        -8.32532,
+                        41.520473
+                  ]
+            },
+            {
+                  "name": "Citânia de Briteiros",
+                  "text": "Fontos vaskori erődített település régészeti lelőhelye Portugáliában.",
+                  "category": "historical",
+                  "coords": [
+                        -8.316304,
+                        41.528076
+                  ]
+            },
+            {
+                  "name": "Banhos Velhos das Caldas das Taipas",
+                  "text": "Caldas das Taipas történelmi jelentőségű ókori fürdőhelye.",
+                  "category": "historical",
+                  "coords": [
+                        -8.341869,
+                        41.486156
+                  ]
+            },
+            {
+                  "name": "Praia fluvial de Santa Eufémia",
+                  "text": "Folyami strand Santa Eufémia közelében, amely ideális fürdésre és pihenésre.",
+                  "category": "recreational",
+                  "coords": [
+                        -8.321419,
+                        41.495334
+                  ]
+            },
+            {
+                  "name": "Baloiço dos Moinhos",
+                  "text": "Panorámás hinta a malmoknál, amely tágas kilátást nyújt a tájra.",
+                  "category": "landmark",
+                  "coords": [
+                        -8.348301,
+                        41.478994
+                  ]
+            },
+            {
+                  "name": "Igreja das Taipas",
+                  "text": "Vallási épület és istentiszteleti hely Caldas das Taipasban.",
+                  "category": "religious",
+                  "coords": [
+                        -8.343777,
+                        41.487108
+                  ]
+            },
+            {
+                  "name": "Igreja Paroquial de Gominhães",
+                  "text": "Gominhães plébániatemploma, a helyi közösség vallási központja.",
+                  "category": "religious",
+                  "coords": [
+                        -8.284249,
+                        41.479848
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Citânia de Sabroso",
+                  "text": "Un sit arheologic al unei așezări din epoca fierului, lângă Citânia de Briteiros.",
+                  "category": "historical",
+                  "coords": [
+                        -8.341152,
+                        41.511341
+                  ]
+            },
+            {
+                  "name": "Museu da Cultura Castreja",
+                  "text": "Un muzeu dedicat culturii Castro și descoperirilor din regiune.",
+                  "category": "museum",
+                  "coords": [
+                        -8.32532,
+                        41.520473
+                  ]
+            },
+            {
+                  "name": "Citânia de Briteiros",
+                  "text": "Un sit arheologic important al unei așezări fortificate din epoca fierului în Portugalia.",
+                  "category": "historical",
+                  "coords": [
+                        -8.316304,
+                        41.528076
+                  ]
+            },
+            {
+                  "name": "Banhos Velhos das Caldas das Taipas",
+                  "text": "Băi antice în Caldas das Taipas, având o importanță istorică.",
+                  "category": "historical",
+                  "coords": [
+                        -8.341869,
+                        41.486156
+                  ]
+            },
+            {
+                  "name": "Praia fluvial de Santa Eufémia",
+                  "text": "O plajă fluvială lângă Santa Eufémia, ideală pentru scăldat și relaxare în natură.",
+                  "category": "recreational",
+                  "coords": [
+                        -8.321419,
+                        41.495334
+                  ]
+            },
+            {
+                  "name": "Baloiço dos Moinhos",
+                  "text": "Un leagăn panoramic lângă mori, oferind o vedere largă asupra peisajului.",
+                  "category": "landmark",
+                  "coords": [
+                        -8.348301,
+                        41.478994
+                  ]
+            },
+            {
+                  "name": "Igreja das Taipas",
+                  "text": "O clădire religioasă și loc de cult în Caldas das Taipas.",
+                  "category": "religious",
+                  "coords": [
+                        -8.343777,
+                        41.487108
+                  ]
+            },
+            {
+                  "name": "Igreja Paroquial de Gominhães",
+                  "text": "Biserica parohială din Gominhães, un centru religios local al comunității.",
+                  "category": "religious",
+                  "coords": [
+                        -8.284249,
+                        41.479848
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Citânia de Sabroso",
+                  "text": "An archaeological site of an Iron Age settlement near Citânia de Briteiros.",
+                  "category": "historical",
+                  "coords": [
+                        -8.341152,
+                        41.511341
+                  ]
+            },
+            {
+                  "name": "Museu da Cultura Castreja",
+                  "text": "A museum dedicated to the Castro culture and findings from the local region.",
+                  "category": "museum",
+                  "coords": [
+                        -8.32532,
+                        41.520473
+                  ]
+            },
+            {
+                  "name": "Citânia de Briteiros",
+                  "text": "A major archaeological site of a fortified Iron Age settlement in Portugal.",
+                  "category": "historical",
+                  "coords": [
+                        -8.316304,
+                        41.528076
+                  ]
+            },
+            {
+                  "name": "Banhos Velhos das Caldas das Taipas",
+                  "text": "Ancient bathing facilities in Caldas das Taipas with historical significance.",
+                  "category": "historical",
+                  "coords": [
+                        -8.341869,
+                        41.486156
+                  ]
+            },
+            {
+                  "name": "Praia fluvial de Santa Eufémia",
+                  "text": "A river beach near Santa Eufémia, ideal for swimming and relaxing in nature.",
+                  "category": "recreational",
+                  "coords": [
+                        -8.321419,
+                        41.495334
+                  ]
+            },
+            {
+                  "name": "Baloiço dos Moinhos",
+                  "text": "A scenic swing by the mills offering panoramic views over the landscape.",
+                  "category": "landmark",
+                  "coords": [
+                        -8.348301,
+                        41.478994
+                  ]
+            },
+            {
+                  "name": "Igreja das Taipas",
+                  "text": "A religious building and place of worship located in Caldas das Taipas.",
+                  "category": "religious",
+                  "coords": [
+                        -8.343777,
+                        41.487108
+                  ]
+            },
+            {
+                  "name": "Igreja Paroquial de Gominhães",
+                  "text": "The parish church of Gominhães, a local religious center for the community.",
+                  "category": "religious",
+                  "coords": [
+                        -8.284249,
+                        41.479848
+                  ]
+            }
+      ]
+},
     type: "historical",
     parent: "portugal",
     coords: [-8.3181, 41.5033],
@@ -213,7 +1374,268 @@ export const poiExtraPortugalHistorical: POI[] = [
       fr: ["Le site était entouré de plusieurs remparts défensifs massifs et de fossés profonds.", "Parmi les découvertes les plus fascinantes figure un bâtiment de bains publics monumental connu sous le nom de Pedra Formosa.", "Les fouilles ont été entreprises au XIXe siècle par le célèbre archéologue portugais Martins Sarmento.", "Deux des maisons circulaires traditionnelles ont été reconstruites fidèlement sur place pour offrir une image réaliste aux visiteurs."],
     }, image: "/poi-images/historical-briteiros.webp"},
   {
-    id: "historical-lanhoso",
+    id: "historical-lanhoso", "sights": {
+      "de": [
+            {
+                  "name": "Museu da Cultura Castreja",
+                  "text": "Ein Museum beim Schloss Lanhoso, das der Castro-Kultur gewidmet ist.",
+                  "category": "museum",
+                  "coords": [
+                        -8.32532,
+                        41.520473
+                  ]
+            },
+            {
+                  "name": "Citânia de Briteiros",
+                  "text": "Eine bedeutende archäologische Ausgrabungsstätte einer eisenzeitlichen Siedlung.",
+                  "category": "historical",
+                  "coords": [
+                        -8.316304,
+                        41.528076
+                  ]
+            },
+            {
+                  "name": "Villa Beatriz",
+                  "text": "Ein elegantes historisches Herrenhaus in der Nähe des Schlosses Lanhoso.",
+                  "category": "historical",
+                  "coords": [
+                        -8.279634,
+                        41.53218
+                  ]
+            },
+            {
+                  "name": "Capela de Santo António",
+                  "text": "Eine charmante Kapelle, die dem Heiligen Antonius gewidmet ist.",
+                  "category": "religious",
+                  "coords": [
+                        -8.346982,
+                        41.54141
+                  ]
+            },
+            {
+                  "name": "Igreja de Pedralva",
+                  "text": "Eine traditionelle Pfarrkirche in der Gemeinde Pedralva.",
+                  "category": "religious",
+                  "coords": [
+                        -8.320935,
+                        41.560052
+                  ]
+            },
+            {
+                  "name": "Igreja Matriz de Briteiros (Santo Estêvão)",
+                  "text": "Die historische Hauptkirche von Briteiros, dem Heiligen Stephan gewidmet.",
+                  "category": "religious",
+                  "coords": [
+                        -8.312272,
+                        41.513409
+                  ]
+            },
+            {
+                  "name": "Igreja de Sobreposta",
+                  "text": "Eine lokale Kirche in der Gemeinde Sobreposta.",
+                  "category": "religious",
+                  "coords": [
+                        -8.33588,
+                        41.553767
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Museu da Cultura Castreja",
+                  "text": "A Lanhoso vára melletti múzeum a kelta-ibér castro-kultúrát mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        -8.32532,
+                        41.520473
+                  ]
+            },
+            {
+                  "name": "Citânia de Briteiros",
+                  "text": "Egy jelentős vaskori település régészeti lelőhelye.",
+                  "category": "historical",
+                  "coords": [
+                        -8.316304,
+                        41.528076
+                  ]
+            },
+            {
+                  "name": "Villa Beatriz",
+                  "text": "Elegáns történelmi udvarház a Lanhoso vára közelében.",
+                  "category": "historical",
+                  "coords": [
+                        -8.279634,
+                        41.53218
+                  ]
+            },
+            {
+                  "name": "Capela de Santo António",
+                  "text": "Páduai Szent Antalnak szentelt bájos kápolna.",
+                  "category": "religious",
+                  "coords": [
+                        -8.346982,
+                        41.54141
+                  ]
+            },
+            {
+                  "name": "Igreja de Pedralva",
+                  "text": "Hagyományos plébániatemplom Pedralva településen.",
+                  "category": "religious",
+                  "coords": [
+                        -8.320935,
+                        41.560052
+                  ]
+            },
+            {
+                  "name": "Igreja Matriz de Briteiros (Santo Estêvão)",
+                  "text": "Briteiros történelmi főtemploma, amelyet Szent Istvánnak szenteltek.",
+                  "category": "religious",
+                  "coords": [
+                        -8.312272,
+                        41.513409
+                  ]
+            },
+            {
+                  "name": "Igreja de Sobreposta",
+                  "text": "Helyi templom Sobreposta településen.",
+                  "category": "religious",
+                  "coords": [
+                        -8.33588,
+                        41.553767
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Museu da Cultura Castreja",
+                  "text": "Un muzeu de lângă Castelul Lanhoso dedicat culturii castre de tip celtiberic.",
+                  "category": "museum",
+                  "coords": [
+                        -8.32532,
+                        41.520473
+                  ]
+            },
+            {
+                  "name": "Citânia de Briteiros",
+                  "text": "Un sit arheologic important al unei așezări din epoca fierului.",
+                  "category": "historical",
+                  "coords": [
+                        -8.316304,
+                        41.528076
+                  ]
+            },
+            {
+                  "name": "Villa Beatriz",
+                  "text": "Un conac istoric elegant situat în apropierea Castelului Lanhoso.",
+                  "category": "historical",
+                  "coords": [
+                        -8.279634,
+                        41.53218
+                  ]
+            },
+            {
+                  "name": "Capela de Santo António",
+                  "text": "O capelă fermecătoare dedicată Sfântului Anton.",
+                  "category": "religious",
+                  "coords": [
+                        -8.346982,
+                        41.54141
+                  ]
+            },
+            {
+                  "name": "Igreja de Pedralva",
+                  "text": "O biserică parohială tradițională din localitatea Pedralva.",
+                  "category": "religious",
+                  "coords": [
+                        -8.320935,
+                        41.560052
+                  ]
+            },
+            {
+                  "name": "Igreja Matriz de Briteiros (Santo Estêvão)",
+                  "text": "Biserica principală istorică din Briteiros, dedicată Sfântului Ștefan.",
+                  "category": "religious",
+                  "coords": [
+                        -8.312272,
+                        41.513409
+                  ]
+            },
+            {
+                  "name": "Igreja de Sobreposta",
+                  "text": "O biserică locală din localitatea Sobreposta.",
+                  "category": "religious",
+                  "coords": [
+                        -8.33588,
+                        41.553767
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Museu da Cultura Castreja",
+                  "text": "A museum near the Castle of Lanhoso dedicated to the Castro culture.",
+                  "category": "museum",
+                  "coords": [
+                        -8.32532,
+                        41.520473
+                  ]
+            },
+            {
+                  "name": "Citânia de Briteiros",
+                  "text": "An important archaeological site of an Iron Age settlement.",
+                  "category": "historical",
+                  "coords": [
+                        -8.316304,
+                        41.528076
+                  ]
+            },
+            {
+                  "name": "Villa Beatriz",
+                  "text": "An elegant historical manor house located near the Castle of Lanhoso.",
+                  "category": "historical",
+                  "coords": [
+                        -8.279634,
+                        41.53218
+                  ]
+            },
+            {
+                  "name": "Capela de Santo António",
+                  "text": "A charming chapel dedicated to Saint Anthony.",
+                  "category": "religious",
+                  "coords": [
+                        -8.346982,
+                        41.54141
+                  ]
+            },
+            {
+                  "name": "Igreja de Pedralva",
+                  "text": "A traditional parish church in the village of Pedralva.",
+                  "category": "religious",
+                  "coords": [
+                        -8.320935,
+                        41.560052
+                  ]
+            },
+            {
+                  "name": "Igreja Matriz de Briteiros (Santo Estêvão)",
+                  "text": "The historical main church of Briteiros, dedicated to Saint Stephen.",
+                  "category": "religious",
+                  "coords": [
+                        -8.312272,
+                        41.513409
+                  ]
+            },
+            {
+                  "name": "Igreja de Sobreposta",
+                  "text": "A local church in the village of Sobreposta.",
+                  "category": "religious",
+                  "coords": [
+                        -8.33588,
+                        41.553767
+                  ]
+            }
+      ]
+},
     type: "historical",
     parent: "portugal",
     coords: [-8.3039, 41.5369],
@@ -255,7 +1677,52 @@ export const poiExtraPortugalHistorical: POI[] = [
       fr: ["L'immense rocher de granit sur lequel repose le château est le résultat d'une ancienne activité volcanique et tectonique.", "La forteresse fut le théâtre d'affrontements dramatiques entre Thérèse de León et son propre fils.", "Le sanctuaire de Nossa Senhora do Pilar, ajouté plus tard, est aujourd'hui une destination prisée pour les pèlerinages régionaux.", "La montée vers le château s'effectue par une route raide et sinueuse offrant une vue panoramique à couper le souffle."],
     }, image: "/poi-images/historical-lanhoso.webp"},
   {
-    id: "historical-troia",
+    id: "historical-troia", "sights": {
+      "de": [
+            {
+                  "name": "Naturreservat Sado-Mündung",
+                  "text": "Ein bedeutendes Naturschutzgebiet im Sado-Estuar, bekannt für seine Delfinpopulation und Wattflächen.",
+                  "category": "natural",
+                  "coords": [
+                        -8.735223,
+                        38.463171
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Reserva Natural do Estuário do Sado",
+                  "text": "A Sado-estuarium jelentős természetvédelmi területe, amely delfinjeiről és mocsaras vidékeiről ismert.",
+                  "category": "natural",
+                  "coords": [
+                        -8.735223,
+                        38.463171
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Reserva Natural do Estuário do Sado",
+                  "text": "O rezervație naturală importantă în estuarul Sado, cunoscută pentru populația de delfini și zonele umede.",
+                  "category": "natural",
+                  "coords": [
+                        -8.735223,
+                        38.463171
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Estuario do Sado Nature Reserve",
+                  "text": "A significant nature reserve in the Sado Estuary, known for its dolphin population and wetlands.",
+                  "category": "natural",
+                  "coords": [
+                        -8.735223,
+                        38.463171
+                  ]
+            }
+      ]
+},
     type: "historical",
     parent: "portugal",
     coords: [-8.7617, 38.4875],
@@ -339,7 +1806,232 @@ export const poiExtraPortugalHistorical: POI[] = [
       fr: ["L'escalier baroque comprend exactement 686 marches réparties sur neuf terrasses différentes.", "Au pied de l'escalier se trouve le Pátio dos Reis, orné de statues des rois bibliques d'Israël.", "La fête annuelle de Nossa Senhora dos Remédios en septembre attire des milliers de pèlerins fidèles.", "À l'intérieur de l'église, on trouve un autel richement sculpté et doré (Talha Dourada) ainsi que de fines boiseries."],
     }, image: "/poi-images/historical-lamego.webp"},
   {
-    id: "historical-arraiolos",
+    id: "historical-arraiolos", "sights": {
+      "de": [
+            {
+                  "name": "Anta da Vila de Arraiolos",
+                  "text": "Eine prähistorische Megalithanlage in der Nähe von Arraiolos.",
+                  "category": "historical",
+                  "coords": [
+                        -7.987539,
+                        38.713838
+                  ]
+            },
+            {
+                  "name": "Castelo de Arraiolos",
+                  "text": "Eine mittelalterliche Burg in Portugal, bekannt für ihre kreisförmigen Mauern.",
+                  "category": "castle",
+                  "coords": [
+                        -7.987999,
+                        38.725644
+                  ]
+            },
+            {
+                  "name": "Tinturaria",
+                  "text": "Eine archäologische Stätte in Arraiolos, die historische Färbereitechniken zeigt.",
+                  "category": "historical",
+                  "coords": [
+                        -7.984414,
+                        38.725697
+                  ]
+            },
+            {
+                  "name": "Cineteatro",
+                  "text": "Ein lokales Theater und Kulturzentrum im Herzen von Arraiolos.",
+                  "category": "cultural",
+                  "coords": [
+                        -7.984582,
+                        38.724434
+                  ]
+            },
+            {
+                  "name": "Monumento à Tapeteira",
+                  "text": "Ein Denkmal zu Ehren der traditionellen Teppichweberinnen von Arraiolos.",
+                  "category": "landmark",
+                  "coords": [
+                        -7.984544,
+                        38.722988
+                  ]
+            },
+            {
+                  "name": "Solar de Sempre Noiva",
+                  "text": "Ein historisches Herrenhaus in der Gemeinde Arraiolos.",
+                  "category": "historical",
+                  "coords": [
+                        -7.968998,
+                        38.695494
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Anta da Vila de Arraiolos",
+                  "text": "Prehisztorikus megalitikus emlékhely Arraiolos közelében.",
+                  "category": "historical",
+                  "coords": [
+                        -7.987539,
+                        38.713838
+                  ]
+            },
+            {
+                  "name": "Castelo de Arraiolos",
+                  "text": "Középkori portugál vár, amely kör alakú falairól nevezetes.",
+                  "category": "castle",
+                  "coords": [
+                        -7.987999,
+                        38.725644
+                  ]
+            },
+            {
+                  "name": "Tinturaria",
+                  "text": "Régészeti lelőhely Arraiolosban, amely történelmi festési technikákat mutat be.",
+                  "category": "historical",
+                  "coords": [
+                        -7.984414,
+                        38.725697
+                  ]
+            },
+            {
+                  "name": "Cineteatro",
+                  "text": "Helyi színház és kulturális központ Arraiolos szívében.",
+                  "category": "cultural",
+                  "coords": [
+                        -7.984582,
+                        38.724434
+                  ]
+            },
+            {
+                  "name": "Monumento à Tapeteira",
+                  "text": "Emlékmű Arraiolos hagyományos szőnyegszövő asszonyainak tiszteletére.",
+                  "category": "landmark",
+                  "coords": [
+                        -7.984544,
+                        38.722988
+                  ]
+            },
+            {
+                  "name": "Solar de Sempre Noiva",
+                  "text": "Történelmi udvarház Arraiolos községben.",
+                  "category": "historical",
+                  "coords": [
+                        -7.968998,
+                        38.695494
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Anta da Vila de Arraiolos",
+                  "text": "Un sit megalitic preistoric situat lângă Arraiolos.",
+                  "category": "historical",
+                  "coords": [
+                        -7.987539,
+                        38.713838
+                  ]
+            },
+            {
+                  "name": "Castelo de Arraiolos",
+                  "text": "Un castel medieval din Portugalia, cunoscut pentru zidurile sale circulare.",
+                  "category": "castle",
+                  "coords": [
+                        -7.987999,
+                        38.725644
+                  ]
+            },
+            {
+                  "name": "Tinturaria",
+                  "text": "Un sit arheologic în Arraiolos care prezintă tehnici istorice de vopsire.",
+                  "category": "historical",
+                  "coords": [
+                        -7.984414,
+                        38.725697
+                  ]
+            },
+            {
+                  "name": "Cineteatro",
+                  "text": "Un teatru local și centru cultural în inima orașului Arraiolos.",
+                  "category": "cultural",
+                  "coords": [
+                        -7.984582,
+                        38.724434
+                  ]
+            },
+            {
+                  "name": "Monumento à Tapeteira",
+                  "text": "Un monument în cinstea țesătoarelor tradiționale de covoare din Arraiolos.",
+                  "category": "landmark",
+                  "coords": [
+                        -7.984544,
+                        38.722988
+                  ]
+            },
+            {
+                  "name": "Solar de Sempre Noiva",
+                  "text": "Un conac istoric situat în municipalitatea Arraiolos.",
+                  "category": "historical",
+                  "coords": [
+                        -7.968998,
+                        38.695494
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Anta da Vila de Arraiolos",
+                  "text": "A prehistoric megalithic site located near Arraiolos.",
+                  "category": "historical",
+                  "coords": [
+                        -7.987539,
+                        38.713838
+                  ]
+            },
+            {
+                  "name": "Castelo de Arraiolos",
+                  "text": "A medieval castle in Portugal, notable for its circular walls.",
+                  "category": "castle",
+                  "coords": [
+                        -7.987999,
+                        38.725644
+                  ]
+            },
+            {
+                  "name": "Tinturaria",
+                  "text": "An archaeological site in Arraiolos showcasing historical dyeing techniques.",
+                  "category": "historical",
+                  "coords": [
+                        -7.984414,
+                        38.725697
+                  ]
+            },
+            {
+                  "name": "Cineteatro",
+                  "text": "A local theatre and cultural centre in the heart of Arraiolos.",
+                  "category": "cultural",
+                  "coords": [
+                        -7.984582,
+                        38.724434
+                  ]
+            },
+            {
+                  "name": "Monumento à Tapeteira",
+                  "text": "A monument honoring the traditional carpet weavers of Arraiolos.",
+                  "category": "landmark",
+                  "coords": [
+                        -7.984544,
+                        38.722988
+                  ]
+            },
+            {
+                  "name": "Solar de Sempre Noiva",
+                  "text": "A historical manor house located in the Arraiolos municipality.",
+                  "category": "historical",
+                  "coords": [
+                        -7.968998,
+                        38.695494
+                  ]
+            }
+      ]
+},
     type: "historical",
     parent: "portugal",
     coords: [-7.9892, 38.7236],
@@ -423,7 +2115,304 @@ export const poiExtraPortugalHistorical: POI[] = [
       fr: ["Beaucoup de figures animales sont dessinées avec des têtes superposées, ce qui leur donne une impression de mouvement.", "Le parc archéologique a été inscrit au patrimoine mondial de l'UNESCO en 1998, quelques années seulement après sa découverte.", "Certaines gravures ont été réalisées avec des outils en pierre par incision, d'autres par piquetage répété.", "Outre l'art paléolithique, on trouve également des gravures de l'âge du fer et même d'époques historiques."], 
     }, image: "/poi-images/historical-coa.webp"},
   {
-    id: "historical-paiva",
+    id: "historical-paiva", "sights": {
+      "de": [
+            {
+                  "name": "Castelo de Carvalhais",
+                  "text": "Archäologische Überreste einer alten Befestigungsanlage in der Nähe der Paiva-Passadiços in Portugal.",
+                  "category": "historical",
+                  "coords": [
+                        -8.177918,
+                        40.963274
+                  ]
+            },
+            {
+                  "name": "Praia Fluvial do Areinho",
+                  "text": "Ein Flussstrand am Beginn der Paiva-Passadiços, der Erholung und Schwimmen in natürlicher Umgebung bietet.",
+                  "category": "recreational",
+                  "coords": [
+                        -8.176524,
+                        40.952683
+                  ]
+            },
+            {
+                  "name": "Praia Fluvial de Espiunca",
+                  "text": "Ein beliebter Flussstrand an einem Ende der Paiva-Passadiços, ideal zur Abkühlung im Fluss Paiva.",
+                  "category": "recreational",
+                  "coords": [
+                        -8.212346,
+                        40.993161
+                  ]
+            },
+            {
+                  "name": "Centro de Interpretação Geológica de Canelas",
+                  "text": "Dieses Zentrum zeigt riesige Trilobiten-Fossilien und das einzigartige geologische Erbe der Region Arouca.",
+                  "category": "museum",
+                  "coords": [
+                        -8.215789,
+                        40.962528
+                  ]
+            },
+            {
+                  "name": "Salão Paroquial",
+                  "text": "Ein Gemeindesaal und Veranstaltungsort für lokale kulturelle Ereignisse und Theateraufführungen bei Passadiços do Paiva.",
+                  "category": "cultural",
+                  "coords": [
+                        -8.161548,
+                        41.002627
+                  ]
+            },
+            {
+                  "name": "Ponte da Balsa",
+                  "text": "Ein Flussstrand und Erholungsgebiet bei der historischen Balsa-Brücke am Fluss Paiva.",
+                  "category": "recreational",
+                  "coords": [
+                        -8.171447,
+                        40.998368
+                  ]
+            },
+            {
+                  "name": "Icnofósseis da área de Vilarinho",
+                  "text": "Ein Gebiet mit versteinerten Fußabdrücken und Spuren antiker Organismen, Teil des Arouca Geoparks.",
+                  "category": "landmark",
+                  "coords": [
+                        -8.204517,
+                        40.958383
+                  ]
+            },
+            {
+                  "name": "Falha da Espiunca",
+                  "text": "Eine bedeutende geologische Verwerfungslinie, die in den Felsformationen nahe dem Eingang Espiunca der Passadiços sichtbar ist.",
+                  "category": "landmark",
+                  "coords": [
+                        -8.21135,
+                        40.993548
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Castelo de Carvalhais",
+                  "text": "Egy ősi erődítmény régészeti maradványai Portugáliában, a Paiva-gyalogút közelében.",
+                  "category": "historical",
+                  "coords": [
+                        -8.177918,
+                        40.963274
+                  ]
+            },
+            {
+                  "name": "Praia Fluvial do Areinho",
+                  "text": "Folyami strand a Paiva-gyalogút kezdeténél, amely kikapcsolódást és fürdőzési lehetőséget kínál természetes környezetben.",
+                  "category": "recreational",
+                  "coords": [
+                        -8.176524,
+                        40.952683
+                  ]
+            },
+            {
+                  "name": "Praia Fluvial de Espiunca",
+                  "text": "Népszerű folyami strand a Paiva-gyalogút egyik végénél, amely ideális a Paiva-folyóban való felfrissüléshez.",
+                  "category": "recreational",
+                  "coords": [
+                        -8.212346,
+                        40.993161
+                  ]
+            },
+            {
+                  "name": "Centro de Interpretação Geológica de Canelas",
+                  "text": "Ez a központ óriási trilobita fosszíliákat és az Arouca-régió egyedülálló geológiai örökségét mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        -8.215789,
+                        40.962528
+                  ]
+            },
+            {
+                  "name": "Salão Paroquial",
+                  "text": "Közösségi ház és helyszín helyi kulturális események és színházi előadások számára Passadiços do Paiva közelében.",
+                  "category": "cultural",
+                  "coords": [
+                        -8.161548,
+                        41.002627
+                  ]
+            },
+            {
+                  "name": "Ponte da Balsa",
+                  "text": "Folyami strand és pihenőhely a történelmi Balsa-híd közelében a Paiva-folyó mentén.",
+                  "category": "recreational",
+                  "coords": [
+                        -8.171447,
+                        40.998368
+                  ]
+            },
+            {
+                  "name": "Icnofósseis da área de Vilarinho",
+                  "text": "Megkövesedett lábnyomokat és ősi élőlények nyomait bemutató terület, az Arouca Geopark része.",
+                  "category": "landmark",
+                  "coords": [
+                        -8.204517,
+                        40.958383
+                  ]
+            },
+            {
+                  "name": "Falha da Espiunca",
+                  "text": "Jelentős geológiai törésvonal, amely a kőzetformációkban látható a gyalogút espiuncai bejárata közelében.",
+                  "category": "landmark",
+                  "coords": [
+                        -8.21135,
+                        40.993548
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Castelo de Carvalhais",
+                  "text": "Vestigii arheologice ale unei fortificații antice situate în apropierea Pasarelelor Paiva din Portugalia.",
+                  "category": "historical",
+                  "coords": [
+                        -8.177918,
+                        40.963274
+                  ]
+            },
+            {
+                  "name": "Praia Fluvial do Areinho",
+                  "text": "O plajă fluvială la începutul Pasarelelor Paiva, care oferă recreere și înot într-un cadru natural.",
+                  "category": "recreational",
+                  "coords": [
+                        -8.176524,
+                        40.952683
+                  ]
+            },
+            {
+                  "name": "Praia Fluvial de Espiunca",
+                  "text": "O plajă fluvială populară situată la un capăt al Pasarelelor Paiva, ideală pentru răcorire în râul Paiva.",
+                  "category": "recreational",
+                  "coords": [
+                        -8.212346,
+                        40.993161
+                  ]
+            },
+            {
+                  "name": "Centro de Interpretação Geológica de Canelas",
+                  "text": "Acest centru prezintă fosile gigantice de trilobiți și moștenirea geologică unică a regiunii Arouca.",
+                  "category": "museum",
+                  "coords": [
+                        -8.215789,
+                        40.962528
+                  ]
+            },
+            {
+                  "name": "Salão Paroquial",
+                  "text": "O sală comunitară și un loc de desfășurare pentru evenimente culturale locale și spectacole de teatru lângă Passadiços do Paiva.",
+                  "category": "cultural",
+                  "coords": [
+                        -8.161548,
+                        41.002627
+                  ]
+            },
+            {
+                  "name": "Ponte da Balsa",
+                  "text": "O plajă fluvială și o zonă de recreere situată lângă podul istoric Balsa de-a lungul râului Paiva.",
+                  "category": "recreational",
+                  "coords": [
+                        -8.171447,
+                        40.998368
+                  ]
+            },
+            {
+                  "name": "Icnofósseis da área de Vilarinho",
+                  "text": "O zonă care prezintă amprente fosilizate și urme ale organismelor antice, parte a Geoparcului Arouca.",
+                  "category": "landmark",
+                  "coords": [
+                        -8.204517,
+                        40.958383
+                  ]
+            },
+            {
+                  "name": "Falha da Espiunca",
+                  "text": "O linie de falie geologică semnificativă vizibilă în formațiunile stâncoase de lângă intrarea Espiunca a pasarelelor.",
+                  "category": "landmark",
+                  "coords": [
+                        -8.21135,
+                        40.993548
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Castelo de Carvalhais",
+                  "text": "Archaeological remains of an ancient fortification located near the Paiva Walkways in Portugal.",
+                  "category": "historical",
+                  "coords": [
+                        -8.177918,
+                        40.963274
+                  ]
+            },
+            {
+                  "name": "Praia Fluvial do Areinho",
+                  "text": "A river beach at the start of the Paiva Walkways, offering recreation and swimming in a natural setting.",
+                  "category": "recreational",
+                  "coords": [
+                        -8.176524,
+                        40.952683
+                  ]
+            },
+            {
+                  "name": "Fluvial Beach of Espiunca",
+                  "text": "A popular river beach located at one end of the Paiva Walkways, ideal for cooling off in the Paiva River.",
+                  "category": "recreational",
+                  "coords": [
+                        -8.212346,
+                        40.993161
+                  ]
+            },
+            {
+                  "name": "Centro de Interpretação Geológica de Canelas",
+                  "text": "This center showcases giant trilobite fossils and the unique geological heritage of the Arouca region.",
+                  "category": "museum",
+                  "coords": [
+                        -8.215789,
+                        40.962528
+                  ]
+            },
+            {
+                  "name": "Salão Paroquial",
+                  "text": "A community hall and venue for local cultural events and theatrical performances near Passadiços do Paiva.",
+                  "category": "cultural",
+                  "coords": [
+                        -8.161548,
+                        41.002627
+                  ]
+            },
+            {
+                  "name": "Ponte da Balsa",
+                  "text": "A river beach and recreation area located near the historic Balsa Bridge along the Paiva River.",
+                  "category": "recreational",
+                  "coords": [
+                        -8.171447,
+                        40.998368
+                  ]
+            },
+            {
+                  "name": "Icnofósseis da área de Vilarinho",
+                  "text": "An area featuring fossilized footprints and traces of ancient organisms, part of the Arouca Geopark.",
+                  "category": "landmark",
+                  "coords": [
+                        -8.204517,
+                        40.958383
+                  ]
+            },
+            {
+                  "name": "Falha da Espiunca",
+                  "text": "A significant geological fault line visible in the rock formations near the Espiunca entrance of the walkways.",
+                  "category": "landmark",
+                  "coords": [
+                        -8.21135,
+                        40.993548
+                  ]
+            }
+      ]
+},
     type: "historical",
     parent: "portugal",
     coords: [-8.1798, 40.9789],

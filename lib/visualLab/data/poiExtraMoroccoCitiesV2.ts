@@ -1892,7 +1892,7 @@ export const poiExtraMoroccoCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Musée Dar El Bacha\n دار الباشا",
+                  "name": "Musée Dar El Bacha",
                   "text": "Dieses Museum in Marrakesch befindet sich in einem prächtigen Palast, der einst dem Thami El Glaoui gehörte.",
                   "category": "museum",
                   "coords": [
@@ -2191,7 +2191,7 @@ export const poiExtraMoroccoCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Musée Dar El Bacha\n دار الباشا",
+                  "name": "Musée Dar El Bacha",
                   "text": "Ez a marrákesi múzeum egy csodálatos palotában található, amely egykor Thami El Glaoui birtokában volt.",
                   "category": "museum",
                   "coords": [

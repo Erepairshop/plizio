@@ -3,7 +3,304 @@ import { POI } from "./poi";
 
 export const slovakiaHistory: POI[] = [
   {
-    id: "historical-spis-castle",
+    id: "historical-spis-castle", "sights": {
+      "de": [
+            {
+                  "name": "Zipser Burg",
+                  "text": "Eine der größten Burganlagen Mitteleuropas und Teil des UNESCO-Welterbes.",
+                  "category": "castle",
+                  "coords": [
+                        20.767518,
+                        48.999376
+                  ]
+            },
+            {
+                  "name": "Archeologické nálezisko na Pažici",
+                  "text": "Eine archäologische Ausgrabungsstätte in der Nähe der Zipser Burg.",
+                  "category": "historical",
+                  "coords": [
+                        20.738884,
+                        49.001463
+                  ]
+            },
+            {
+                  "name": "Dreveník",
+                  "text": "Ein markanter Travertinfelsen und Naturschutzgebiet in der Nähe der Zipser Burg.",
+                  "category": "landmark",
+                  "coords": [
+                        20.772479,
+                        48.984282
+                  ]
+            },
+            {
+                  "name": "Spišský hradný vrch",
+                  "text": "Der Berg, auf dem die Zipser Burg thront.",
+                  "category": "landmark",
+                  "coords": [
+                        20.768466,
+                        49.000474
+                  ]
+            },
+            {
+                  "name": "Kaštieľ Hodkovce",
+                  "text": "Ein historisches Herrenhaus in Hodkovce bei der Zipser Burg.",
+                  "category": "historical",
+                  "coords": [
+                        20.783137,
+                        48.988698
+                  ]
+            },
+            {
+                  "name": "Kaštieľsky park",
+                  "text": "Eine Parkanlage, die zu einem lokalen Herrenhaus gehört.",
+                  "category": "park",
+                  "coords": [
+                        20.781605,
+                        48.98898
+                  ]
+            },
+            {
+                  "name": "Kaštieľ Bijacovce",
+                  "text": "Ein barockes Herrenhaus in Bijacovce in der Nähe der Zipser Burg.",
+                  "category": "historical",
+                  "coords": [
+                        20.793071,
+                        49.021253
+                  ]
+            },
+            {
+                  "name": "Kamenný raj",
+                  "text": "Eine Felsformation und Naturschauplatz in der Nähe der Zipser Burg.",
+                  "category": "landmark",
+                  "coords": [
+                        20.775422,
+                        48.987291
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Szepesi vár",
+                  "text": "Közép-Európa egyik legnagyobb vára, az UNESCO Világörökség része.",
+                  "category": "castle",
+                  "coords": [
+                        20.767518,
+                        48.999376
+                  ]
+            },
+            {
+                  "name": "Archeologické nálezisko na Pažici",
+                  "text": "Régészeti lelőhely a Szepesi vár közelében.",
+                  "category": "historical",
+                  "coords": [
+                        20.738884,
+                        49.001463
+                  ]
+            },
+            {
+                  "name": "Dreveník",
+                  "text": "Jellegzetes travertin szikla és természetvédelmi terület a Szepesi vár közelében.",
+                  "category": "landmark",
+                  "coords": [
+                        20.772479,
+                        48.984282
+                  ]
+            },
+            {
+                  "name": "Spišský hradný vrch",
+                  "text": "A domb, amelyen a Szepesi vár áll.",
+                  "category": "landmark",
+                  "coords": [
+                        20.768466,
+                        49.000474
+                  ]
+            },
+            {
+                  "name": "Kaštieľ Hodkovce",
+                  "text": "Történelmi kastély Hodkovce faluban, a Szepesi vár közelében.",
+                  "category": "historical",
+                  "coords": [
+                        20.783137,
+                        48.988698
+                  ]
+            },
+            {
+                  "name": "Kaštieľsky park",
+                  "text": "Egy helyi kastélyhoz tartozó park.",
+                  "category": "park",
+                  "coords": [
+                        20.781605,
+                        48.98898
+                  ]
+            },
+            {
+                  "name": "Kaštieľ Bijacovce",
+                  "text": "Barokk kastély Bijacovce községben, a Szepesi vár közelében.",
+                  "category": "historical",
+                  "coords": [
+                        20.793071,
+                        49.021253
+                  ]
+            },
+            {
+                  "name": "Kamenný raj",
+                  "text": "Sziklaalakzatok és természeti látnivaló a Szepesi vár közelében.",
+                  "category": "landmark",
+                  "coords": [
+                        20.775422,
+                        48.987291
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Spišský hrad",
+                  "text": "Unul dintre cele mai mari complexe de cetăți din Europa Centrală, inclus în patrimoniul UNESCO.",
+                  "category": "castle",
+                  "coords": [
+                        20.767518,
+                        48.999376
+                  ]
+            },
+            {
+                  "name": "Archeologické nálezisko na Pažici",
+                  "text": "Un sit arheologic situat în apropierea Castelului Spiš.",
+                  "category": "historical",
+                  "coords": [
+                        20.738884,
+                        49.001463
+                  ]
+            },
+            {
+                  "name": "Dreveník",
+                  "text": "O stâncă de travertin și o rezervație naturală în apropierea Castelului Spiš.",
+                  "category": "landmark",
+                  "coords": [
+                        20.772479,
+                        48.984282
+                  ]
+            },
+            {
+                  "name": "Spišský hradný vrch",
+                  "text": "Dealul pe care este situat Castelul Spiš.",
+                  "category": "landmark",
+                  "coords": [
+                        20.768466,
+                        49.000474
+                  ]
+            },
+            {
+                  "name": "Kaštieľ Hodkovce",
+                  "text": "Un conac istoric în Hodkovce, lângă Castelul Spiš.",
+                  "category": "historical",
+                  "coords": [
+                        20.783137,
+                        48.988698
+                  ]
+            },
+            {
+                  "name": "Kaštieľsky park",
+                  "text": "Un parc situat în incinta unui conac local.",
+                  "category": "park",
+                  "coords": [
+                        20.781605,
+                        48.98898
+                  ]
+            },
+            {
+                  "name": "Kaštieľ Bijacovce",
+                  "text": "Un conac baroc în Bijacovce, lângă Castelul Spiš.",
+                  "category": "historical",
+                  "coords": [
+                        20.793071,
+                        49.021253
+                  ]
+            },
+            {
+                  "name": "Kamenný raj",
+                  "text": "O formațiune stâncoasă și atracție naturală lângă Castelul Spiš.",
+                  "category": "landmark",
+                  "coords": [
+                        20.775422,
+                        48.987291
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Spiš Castle",
+                  "text": "One of the largest castle complexes in Central Europe and a UNESCO World Heritage site.",
+                  "category": "castle",
+                  "coords": [
+                        20.767518,
+                        48.999376
+                  ]
+            },
+            {
+                  "name": "Archeologické nálezisko na Pažici",
+                  "text": "An archaeological site located near Spiš Castle.",
+                  "category": "historical",
+                  "coords": [
+                        20.738884,
+                        49.001463
+                  ]
+            },
+            {
+                  "name": "Dreveník",
+                  "text": "A prominent travertine rock formation and nature reserve near Spiš Castle.",
+                  "category": "landmark",
+                  "coords": [
+                        20.772479,
+                        48.984282
+                  ]
+            },
+            {
+                  "name": "Spišský hradný vrch",
+                  "text": "The hill upon which Spiš Castle is situated.",
+                  "category": "landmark",
+                  "coords": [
+                        20.768466,
+                        49.000474
+                  ]
+            },
+            {
+                  "name": "Kaštieľ Hodkovce",
+                  "text": "A historic manor house in Hodkovce, near Spiš Castle.",
+                  "category": "historical",
+                  "coords": [
+                        20.783137,
+                        48.988698
+                  ]
+            },
+            {
+                  "name": "Kaštieľsky park",
+                  "text": "A park area belonging to a local manor house.",
+                  "category": "park",
+                  "coords": [
+                        20.781605,
+                        48.98898
+                  ]
+            },
+            {
+                  "name": "Kaštieľ Bijacovce",
+                  "text": "A baroque manor house in Bijacovce, located near Spiš Castle.",
+                  "category": "historical",
+                  "coords": [
+                        20.793071,
+                        49.021253
+                  ]
+            },
+            {
+                  "name": "Kamenný raj",
+                  "text": "A rock formation and natural attraction located near Spiš Castle.",
+                  "category": "landmark",
+                  "coords": [
+                        20.775422,
+                        48.987291
+                  ]
+            }
+      ]
+},
     type: "historical",
     parent: "country-slovakia",
     coords: [20.768, 49.001],

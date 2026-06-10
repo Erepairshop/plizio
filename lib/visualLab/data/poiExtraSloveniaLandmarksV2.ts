@@ -427,6 +427,60 @@ imageHint: "Ljubljana Town Hall building at Mestni trg",
                         14.931793,
                         45.828293
                   ]
+            },
+            {
+                  "name": "Burg Seisenberg",
+                  "text": "Eine bedeutende mittelalterliche Burg, die majestätisch über dem Fluss Krka thront.",
+                  "category": "castle",
+                  "coords": [
+                        14.92908,
+                        45.83014
+                  ]
+            },
+            {
+                  "name": "Železo-Livarski muzej",
+                  "text": "Ein Museum in Žužemberk, das der Geschichte des Eisengusses gewidmet ist.",
+                  "category": "museum",
+                  "coords": [
+                        14.965635,
+                        45.808188
+                  ]
+            },
+            {
+                  "name": "Cvibelj",
+                  "text": "Ein Denkmal in Žužemberk zur Erinnerung an historische Ereignisse der Region.",
+                  "category": "historical",
+                  "coords": [
+                        14.93182,
+                        45.835954
+                  ]
+            },
+            {
+                  "name": "Cerkev Svete Katarine",
+                  "text": "Die malerischen Ruinen einer alten Kirche in der Nähe von Žužemberk.",
+                  "category": "historical",
+                  "coords": [
+                        14.882513,
+                        45.827411
+                  ]
+            },
+            {
+                  "name": "Cerkev sv. Nikolaja",
+                  "text": "Eine der traditionellen Kirchen in der Umgebung von Žužemberk.",
+                  "category": "religious",
+                  "coords": [
+                        14.910308,
+                        45.813612
+                  ]
+            },
+            {
+                  "name": "Cerkev sv. Martina",
+                  "text": "Ein religiöses Bauwerk in der Gemeinde Žužemberk.",
+                  "category": "religious",
+                  "coords": [
+                        14.920126,
+                        45.800003
+                  ]
             }
       ],
       "hu": [
@@ -437,6 +491,60 @@ imageHint: "Ljubljana Town Hall building at Mestni trg",
                   "coords": [
                         14.931793,
                         45.828293
+                  ]
+            },
+            {
+                  "name": "Grad Žužemberk",
+                  "text": "Jelentős középkori vár, amely méltóságteljesen magasodik a Krka folyó fölé.",
+                  "category": "castle",
+                  "coords": [
+                        14.92908,
+                        45.83014
+                  ]
+            },
+            {
+                  "name": "Železo-Livarski muzej",
+                  "text": "Žužemberki múzeum, amelyet a vasöntés történetének szenteltek.",
+                  "category": "museum",
+                  "coords": [
+                        14.965635,
+                        45.808188
+                  ]
+            },
+            {
+                  "name": "Cvibelj",
+                  "text": "Emlékmű Žužemberkben a régió történelmi eseményeinek emlékére.",
+                  "category": "historical",
+                  "coords": [
+                        14.93182,
+                        45.835954
+                  ]
+            },
+            {
+                  "name": "Cerkev Svete Katarine",
+                  "text": "Egy régi templom festői romjai Žužemberk közelében.",
+                  "category": "historical",
+                  "coords": [
+                        14.882513,
+                        45.827411
+                  ]
+            },
+            {
+                  "name": "Cerkev sv. Nikolaja",
+                  "text": "Žužemberk környékének egyik hagyományos temploma.",
+                  "category": "religious",
+                  "coords": [
+                        14.910308,
+                        45.813612
+                  ]
+            },
+            {
+                  "name": "Cerkev sv. Martina",
+                  "text": "Egyházi épület Žužemberk községben.",
+                  "category": "religious",
+                  "coords": [
+                        14.920126,
+                        45.800003
                   ]
             }
       ],
@@ -449,6 +557,60 @@ imageHint: "Ljubljana Town Hall building at Mestni trg",
                         14.931793,
                         45.828293
                   ]
+            },
+            {
+                  "name": "Grad Žužemberk",
+                  "text": "Un castel medieval important care domină maiestuos râul Krka.",
+                  "category": "castle",
+                  "coords": [
+                        14.92908,
+                        45.83014
+                  ]
+            },
+            {
+                  "name": "Železo-Livarski muzej",
+                  "text": "Un muzeu în Žužemberk dedicat istoriei turnării fierului.",
+                  "category": "museum",
+                  "coords": [
+                        14.965635,
+                        45.808188
+                  ]
+            },
+            {
+                  "name": "Cvibelj",
+                  "text": "Un monument în Žužemberk care comemorează evenimente istorice din regiune.",
+                  "category": "historical",
+                  "coords": [
+                        14.93182,
+                        45.835954
+                  ]
+            },
+            {
+                  "name": "Cerkev Svete Katarine",
+                  "text": "Ruinele pitorești ale unei vechi biserici din apropiere de Žužemberk.",
+                  "category": "historical",
+                  "coords": [
+                        14.882513,
+                        45.827411
+                  ]
+            },
+            {
+                  "name": "Cerkev sv. Nikolaja",
+                  "text": "Una dintre bisericile tradiționale din împrejurimile localității Žužemberk.",
+                  "category": "religious",
+                  "coords": [
+                        14.910308,
+                        45.813612
+                  ]
+            },
+            {
+                  "name": "Cerkev sv. Martina",
+                  "text": "O structură religioasă din comuna Žužemberk.",
+                  "category": "religious",
+                  "coords": [
+                        14.920126,
+                        45.800003
+                  ]
             }
       ],
       "en": [
@@ -459,6 +621,60 @@ imageHint: "Ljubljana Town Hall building at Mestni trg",
                   "coords": [
                         14.931793,
                         45.828293
+                  ]
+            },
+            {
+                  "name": "Grad Žužemberk",
+                  "text": "A significant medieval castle majestically overlooking the Krka River.",
+                  "category": "castle",
+                  "coords": [
+                        14.92908,
+                        45.83014
+                  ]
+            },
+            {
+                  "name": "Železo-Livarski muzej",
+                  "text": "A museum in Žužemberk dedicated to the history of iron casting.",
+                  "category": "museum",
+                  "coords": [
+                        14.965635,
+                        45.808188
+                  ]
+            },
+            {
+                  "name": "Cvibelj",
+                  "text": "A monument in Žužemberk commemorating historical events in the region.",
+                  "category": "historical",
+                  "coords": [
+                        14.93182,
+                        45.835954
+                  ]
+            },
+            {
+                  "name": "Cerkev Svete Katarine",
+                  "text": "The picturesque ruins of an old church near Žužemberk.",
+                  "category": "historical",
+                  "coords": [
+                        14.882513,
+                        45.827411
+                  ]
+            },
+            {
+                  "name": "Cerkev sv. Nikolaja",
+                  "text": "One of the traditional churches in the surroundings of Žužemberk.",
+                  "category": "religious",
+                  "coords": [
+                        14.910308,
+                        45.813612
+                  ]
+            },
+            {
+                  "name": "Cerkev sv. Martina",
+                  "text": "A religious building located in the Žužemberk municipality.",
+                  "category": "religious",
+                  "coords": [
+                        14.920126,
+                        45.800003
                   ]
             }
       ]
@@ -600,7 +816,124 @@ imageHint: "Old Vine House in Maribor with green vine on facade",
     },
     image: "/poi-images/slovenia-old-vine-house-landmarks-v2.webp",
 },  {
-    id: "slovenia-kostanjevica-monastery-landmarks-v2",
+    id: "slovenia-kostanjevica-monastery-landmarks-v2", "sights": {
+      "de": [
+            {
+                  "name": "Krakovski pragozd",
+                  "text": "Einer der seltenen Urwälder Sloweniens mit einem geschützten Ökosystem.",
+                  "category": "natural",
+                  "coords": [
+                        15.406938,
+                        45.876533
+                  ]
+            },
+            {
+                  "name": "Galerija Božidar Jakac (Former Monastary Fons Beatae Mariae)",
+                  "text": "Ein bedeutendes Kunstmuseum, das in den Räumlichkeiten eines ehemaligen Klosters untergebracht ist.",
+                  "category": "museum",
+                  "coords": [
+                        15.416405,
+                        45.835181
+                  ]
+            },
+            {
+                  "name": "Kostanjeviška jama",
+                  "text": "Eine faszinierende Tropfsteinhöhle in der Nähe von Kostanjevica na Krki.",
+                  "category": "landmark",
+                  "coords": [
+                        15.434388,
+                        45.838203
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Krakovski pragozd",
+                  "text": "Szlovénia ritka őserdeinek egyike, védett ökoszisztémával.",
+                  "category": "natural",
+                  "coords": [
+                        15.406938,
+                        45.876533
+                  ]
+            },
+            {
+                  "name": "Galerija Božidar Jakac (Former Monastary Fons Beatae Mariae)",
+                  "text": "Jelentős művészeti galéria, amely egy egykori kolostor épületében kapott helyet.",
+                  "category": "museum",
+                  "coords": [
+                        15.416405,
+                        45.835181
+                  ]
+            },
+            {
+                  "name": "Kostanjeviška jama",
+                  "text": "Lenyűgöző cseppkőbarlang Kostanjevica na Krki közelében.",
+                  "category": "landmark",
+                  "coords": [
+                        15.434388,
+                        45.838203
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Krakovski pragozd",
+                  "text": "Una dintre rarele păduri virgine din Slovenia, cu un ecosistem protejat.",
+                  "category": "natural",
+                  "coords": [
+                        15.406938,
+                        45.876533
+                  ]
+            },
+            {
+                  "name": "Galerija Božidar Jakac (Former Monastary Fons Beatae Mariae)",
+                  "text": "O galerie de artă importantă situată în incinta unei foste mănăstiri.",
+                  "category": "museum",
+                  "coords": [
+                        15.416405,
+                        45.835181
+                  ]
+            },
+            {
+                  "name": "Kostanjeviška jama",
+                  "text": "O peșteră cu stalactite fascinantă situată lângă Kostanjevica na Krki.",
+                  "category": "landmark",
+                  "coords": [
+                        15.434388,
+                        45.838203
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Krakovski pragozd",
+                  "text": "One of the rare virgin forests in Slovenia with a protected ecosystem.",
+                  "category": "natural",
+                  "coords": [
+                        15.406938,
+                        45.876533
+                  ]
+            },
+            {
+                  "name": "Galerija Božidar Jakac (Former Monastary Fons Beatae Mariae)",
+                  "text": "A significant art gallery housed in the premises of a former monastery.",
+                  "category": "museum",
+                  "coords": [
+                        15.416405,
+                        45.835181
+                  ]
+            },
+            {
+                  "name": "Kostanjeviška jama",
+                  "text": "A fascinating stalactite cave located near Kostanjevica na Krki.",
+                  "category": "landmark",
+                  "coords": [
+                        15.434388,
+                        45.838203
+                  ]
+            }
+      ]
+},
     parent: "SI",
     type: "landmark",
     name: { de: "Zisterzienserkloster Kostanjevica", hu: "Kosztanjevicai ciszterci kolostor", ro: "Mănăstirea Cisterciană Kostanjevica", en: "Kostanjevica Monastery"},
@@ -692,7 +1025,196 @@ imageHint: "Solkan Bridge stone arch over Soča river",
     },
     image: "/poi-images/slovenia-solkan-bridge-landmarks-v2.webp",
 },  {
-    id: "slovenia-military-history-park-landmarks-v2",
+    id: "slovenia-military-history-park-landmarks-v2", "sights": {
+      "de": [
+            {
+                  "name": "Park vojaške zgodovine",
+                  "text": "Ein großes Militärmuseum in Pivka, das Panzer und Flugzeuge ausstellt.",
+                  "category": "museum",
+                  "coords": [
+                        14.188471,
+                        45.668098
+                  ]
+            },
+            {
+                  "name": "Dina Pivka",
+                  "text": "Ein Informationszentrum über die großen Beutegreifer in der Region Pivka.",
+                  "category": "museum",
+                  "coords": [
+                        14.194942,
+                        45.68369
+                  ]
+            },
+            {
+                  "name": "Pavilion C - Park vojaške zgodovine Pivka",
+                  "text": "Ein Teil der musealen Sammlung im Militärpark von Pivka.",
+                  "category": "museum",
+                  "coords": [
+                        14.18853,
+                        45.666974
+                  ]
+            },
+            {
+                  "name": "Šobčeva domačija",
+                  "text": "Ein ethnologisches Museum in Pivka, das lokales ländliches Erbe zeigt.",
+                  "category": "museum",
+                  "coords": [
+                        14.167884,
+                        45.669518
+                  ]
+            },
+            {
+                  "name": "Primož",
+                  "text": "Ein Hügel bei Pivka mit Befestigungsanlagen aus der Zwischenkriegszeit.",
+                  "category": "landmark",
+                  "coords": [
+                        14.202338,
+                        45.670159
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Park vojaške zgodovine",
+                  "text": "Nagy hadtörténeti múzeum Pivkában, ahol tankokat és repülőket láthatunk.",
+                  "category": "museum",
+                  "coords": [
+                        14.188471,
+                        45.668098
+                  ]
+            },
+            {
+                  "name": "Dina Pivka",
+                  "text": "Információs központ a pivkai régió nagyragadozóiról.",
+                  "category": "museum",
+                  "coords": [
+                        14.194942,
+                        45.68369
+                  ]
+            },
+            {
+                  "name": "Pavilion C - Park vojaške zgodovine Pivka",
+                  "text": "A pivkai hadtörténeti park múzeumi gyűjteményének része.",
+                  "category": "museum",
+                  "coords": [
+                        14.18853,
+                        45.666974
+                  ]
+            },
+            {
+                  "name": "Šobčeva domačija",
+                  "text": "Néprajzi múzeum Pivkában, amely a helyi paraszti örökséget mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        14.167884,
+                        45.669518
+                  ]
+            },
+            {
+                  "name": "Primož",
+                  "text": "Domb Pivka mellett, ahol a két világháború közötti időszak erődítményei találhatók.",
+                  "category": "landmark",
+                  "coords": [
+                        14.202338,
+                        45.670159
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Park vojaške zgodovine",
+                  "text": "Un muzeu militar mare din Pivka, care expune tancuri și avioane.",
+                  "category": "museum",
+                  "coords": [
+                        14.188471,
+                        45.668098
+                  ]
+            },
+            {
+                  "name": "Dina Pivka",
+                  "text": "Un centru de informare despre marii prădători din regiunea Pivka.",
+                  "category": "museum",
+                  "coords": [
+                        14.194942,
+                        45.68369
+                  ]
+            },
+            {
+                  "name": "Pavilion C - Park vojaške zgodovine Pivka",
+                  "text": "O parte a colecției muzeale din cadrul parcului militar din Pivka.",
+                  "category": "museum",
+                  "coords": [
+                        14.18853,
+                        45.666974
+                  ]
+            },
+            {
+                  "name": "Šobčeva domačija",
+                  "text": "Un muzeu etnografic din Pivka care prezintă patrimoniul rural local.",
+                  "category": "museum",
+                  "coords": [
+                        14.167884,
+                        45.669518
+                  ]
+            },
+            {
+                  "name": "Primož",
+                  "text": "Un deal lângă Pivka cu fortificații din perioada interbelică.",
+                  "category": "landmark",
+                  "coords": [
+                        14.202338,
+                        45.670159
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Park of military history",
+                  "text": "A large military museum in Pivka exhibiting tanks and aircraft.",
+                  "category": "museum",
+                  "coords": [
+                        14.188471,
+                        45.668098
+                  ]
+            },
+            {
+                  "name": "Dina Pivka",
+                  "text": "An information center about large carnivores in the Pivka region.",
+                  "category": "museum",
+                  "coords": [
+                        14.194942,
+                        45.68369
+                  ]
+            },
+            {
+                  "name": "Pavilion C - Park vojaške zgodovine Pivka",
+                  "text": "A part of the museum collection within the military park of Pivka.",
+                  "category": "museum",
+                  "coords": [
+                        14.18853,
+                        45.666974
+                  ]
+            },
+            {
+                  "name": "Šobčeva domačija",
+                  "text": "An ethnological museum in Pivka showcasing local rural heritage.",
+                  "category": "museum",
+                  "coords": [
+                        14.167884,
+                        45.669518
+                  ]
+            },
+            {
+                  "name": "Primož",
+                  "text": "A hill near Pivka featuring fortifications from the interwar period.",
+                  "category": "landmark",
+                  "coords": [
+                        14.202338,
+                        45.670159
+                  ]
+            }
+      ]
+},
     parent: "SI",
     type: "museum",
     name: { de: "Park der Militärgeschichte Pivka", hu: "Pivkai Hadtörténeti Park", ro: "Parcul de Istorie Militară din Pivka", en: "Park of Military History in Pivka"},
@@ -1103,7 +1625,160 @@ imageHint: "Technical Museum of Slovenia Bistra Castle exterior",
     },
     image: "/poi-images/slovenia-technical-museum-bistra-landmarks-v2.webp",
 },  {
-    id: "slovenia-grad-castle-goricko-landmarks-v2",
+    id: "slovenia-grad-castle-goricko-landmarks-v2", "sights": {
+      "de": [
+            {
+                  "name": "Grad pri Gradu",
+                  "text": "Die größte Burganlage Sloweniens, die heute Ausstellungen zur Regionalgeschichte und Natur beherbergt.",
+                  "category": "museum",
+                  "coords": [
+                        16.095838,
+                        46.800456
+                  ]
+            },
+            {
+                  "name": "Vulkanija doživljajski park",
+                  "text": "Ein Erlebnispark, der sich der geologischen Geschichte und dem Vulkanismus der Region Goričko widmet.",
+                  "category": "landmark",
+                  "coords": [
+                        16.091655,
+                        46.802984
+                  ]
+            },
+            {
+                  "name": "Cerkev Marijinega vnebovzetja",
+                  "text": "Eine barocke Kirche in der Ortschaft Grad, die für ihre Architektur und Innenausstattung bekannt ist.",
+                  "category": "religious",
+                  "coords": [
+                        16.092567,
+                        46.801365
+                  ]
+            },
+            {
+                  "name": "Evangeličanska cerkev",
+                  "text": "Eine evangelische Kirche in der Region Prekmurje, die ein wichtiges religiöses Denkmal darstellt.",
+                  "category": "religious",
+                  "coords": [
+                        16.065348,
+                        46.815352
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Felsőlendvai vár",
+                  "text": "Szlovénia legnagyobb várkastélya, amely ma helytörténeti és természetrajzi kiállításoknak ad otthont.",
+                  "category": "museum",
+                  "coords": [
+                        16.095838,
+                        46.800456
+                  ]
+            },
+            {
+                  "name": "Vulkanija doživljajski park",
+                  "text": "Élménypark, amely a Goričko régió földtani történetével és vulkanizmusával foglalkozik.",
+                  "category": "landmark",
+                  "coords": [
+                        16.091655,
+                        46.802984
+                  ]
+            },
+            {
+                  "name": "Mária mennybevétele templom",
+                  "text": "Barokk templom Felsőlendva (Grad) településen, amely építészetéről és belső díszítéséről ismert.",
+                  "category": "religious",
+                  "coords": [
+                        16.092567,
+                        46.801365
+                  ]
+            },
+            {
+                  "name": "Evangélikus templom",
+                  "text": "Evangélikus templom a Muravidéken, amely fontos vallási emlékhely.",
+                  "category": "religious",
+                  "coords": [
+                        16.065348,
+                        46.815352
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Grad pri Gradu",
+                  "text": "Cea mai mare cetate din Slovenia, care găzduiește astăzi expoziții de istorie regională și natură.",
+                  "category": "museum",
+                  "coords": [
+                        16.095838,
+                        46.800456
+                  ]
+            },
+            {
+                  "name": "Vulkanija doživljajski park",
+                  "text": "Un parc de aventură dedicat istoriei geologice și vulcanismului din regiunea Goričko.",
+                  "category": "landmark",
+                  "coords": [
+                        16.091655,
+                        46.802984
+                  ]
+            },
+            {
+                  "name": "Cerkev Marijinega vnebovzetja",
+                  "text": "O biserică barocă din localitatea Grad, cunoscută pentru arhitectura și decorațiunile sale interioare.",
+                  "category": "religious",
+                  "coords": [
+                        16.092567,
+                        46.801365
+                  ]
+            },
+            {
+                  "name": "Evangeličanska cerkev",
+                  "text": "O biserică evanghelică din regiunea Prekmurje, reprezentând un monument religios important.",
+                  "category": "religious",
+                  "coords": [
+                        16.065348,
+                        46.815352
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Grad Castle",
+                  "text": "Slovenia's largest castle complex, which now houses exhibitions on regional history and nature.",
+                  "category": "museum",
+                  "coords": [
+                        16.095838,
+                        46.800456
+                  ]
+            },
+            {
+                  "name": "Vulkanija doživljajski park",
+                  "text": "An adventure park dedicated to the geological history and vulcanism of the Goričko region.",
+                  "category": "landmark",
+                  "coords": [
+                        16.091655,
+                        46.802984
+                  ]
+            },
+            {
+                  "name": "Cerkev Marijinega vnebovzetja",
+                  "text": "A Baroque church in the village of Grad, known for its architecture and interior decorations.",
+                  "category": "religious",
+                  "coords": [
+                        16.092567,
+                        46.801365
+                  ]
+            },
+            {
+                  "name": "Evangeličanska cerkev",
+                  "text": "An Evangelical church in the Prekmurje region, representing an important religious monument.",
+                  "category": "religious",
+                  "coords": [
+                        16.065348,
+                        46.815352
+                  ]
+            }
+      ]
+},
     parent: "SI",
     type: "castle",
     name: { de: "Burg Grad", hu: "Felsőlendvai vár", ro: "Castelul Grad", en: "Grad Castle"},

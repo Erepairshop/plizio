@@ -619,7 +619,268 @@ export const poiExtraGeorgiaLandmarksV2: POI[] = [
     },
   },
   {
-    id: "svaneti-towers-mestia-landmarks-v2",
+    id: "svaneti-towers-mestia-landmarks-v2", "sights": {
+      "de": [
+            {
+                  "name": "სვანეთის მუზეუმი",
+                  "text": "Ein bedeutendes Museum in Mestia, das die einzigartige Geschichte und Kultur Swanetiens präsentiert.",
+                  "category": "museum",
+                  "coords": [
+                        42.726509,
+                        43.041161
+                  ]
+            },
+            {
+                  "name": "მარგიანის სახლ-მუზეუმი(კოშკი)",
+                  "text": "Ein Kulturmuseum in einem traditionellen swanetischen Wehrturm in Mestia.",
+                  "category": "museum",
+                  "coords": [
+                        42.731793,
+                        43.04904
+                  ]
+            },
+            {
+                  "name": "ნიგურიანების საცხოვრებელი კომპლექსი",
+                  "text": "Ein Turmmuseum im Niguriani-Viertel von Mestia, das lokale Geschichte lebendig macht.",
+                  "category": "museum",
+                  "coords": [
+                        42.729986,
+                        43.046035
+                  ]
+            },
+            {
+                  "name": "ხერგიანის სახლ-მუზეუმი",
+                  "text": "Das Hausmuseum von Michail Chergiani ist dem berühmten georgischen Bergsteiger gewidmet.",
+                  "category": "museum",
+                  "coords": [
+                        42.740124,
+                        43.053172
+                  ]
+            },
+            {
+                  "name": "თამარ მეფე",
+                  "text": "Ein Denkmal in Mestia zu Ehren der georgischen Königin Tamar.",
+                  "category": "historical",
+                  "coords": [
+                        42.725238,
+                        43.043899
+                  ]
+            },
+            {
+                  "name": "მესტიის ჯვარი",
+                  "text": "Ein Aussichtspunkt oberhalb von Mestia mit einem weiten Panorama über den Kaukasus.",
+                  "category": "natural",
+                  "coords": [
+                        42.723417,
+                        43.059492
+                  ]
+            },
+            {
+                  "name": "Lake \"Georgia\" (2400 m)",
+                  "text": "Ein hochgelegener Aussichtspunkt an einem See auf 2400 Metern über Mestia.",
+                  "category": "natural",
+                  "coords": [
+                        42.712982,
+                        43.069528
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "სვანეთის მუზეუმი",
+                  "text": "Jelentős múzeum Mestiában, amely Szvanéti egyedülálló történelmét és kultúráját mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        42.726509,
+                        43.041161
+                  ]
+            },
+            {
+                  "name": "მარგიანის სახლ-მუზეუმი(კოშკი)",
+                  "text": "Kulturális múzeum egy hagyományos szván lakótoronyban, Mestiában.",
+                  "category": "museum",
+                  "coords": [
+                        42.731793,
+                        43.04904
+                  ]
+            },
+            {
+                  "name": "ნიგურიანების საცხოვრებელი კომპლექსი",
+                  "text": "Toronymúzeum Mestia Niguriani negyedében, amely a helyi történelmet mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        42.729986,
+                        43.046035
+                  ]
+            },
+            {
+                  "name": "ხერგიანის სახლ-მუზეუმი",
+                  "text": "Mihail Hergiani házmúzeuma a híres grúz hegymászónak állít emléket.",
+                  "category": "museum",
+                  "coords": [
+                        42.740124,
+                        43.053172
+                  ]
+            },
+            {
+                  "name": "თამარ მეფე",
+                  "text": "Emlékmű Mestiában Tamar grúz királynő tiszteletére.",
+                  "category": "historical",
+                  "coords": [
+                        42.725238,
+                        43.043899
+                  ]
+            },
+            {
+                  "name": "მესტიის ჯვარი",
+                  "text": "Kilátópont Mestia felett, széles panorámával a Kaukázusra.",
+                  "category": "natural",
+                  "coords": [
+                        42.723417,
+                        43.059492
+                  ]
+            },
+            {
+                  "name": "Lake \"Georgia\" (2400 m)",
+                  "text": "Magaslati kilátópont egy tónál 2400 méter magasságban Mestia felett.",
+                  "category": "natural",
+                  "coords": [
+                        42.712982,
+                        43.069528
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "სვანეთის მუზეუმი",
+                  "text": "Un muzeu important din Mestia care prezintă istoria și cultura unică a regiunii Svaneti.",
+                  "category": "museum",
+                  "coords": [
+                        42.726509,
+                        43.041161
+                  ]
+            },
+            {
+                  "name": "მარგიანის სახლ-მუზეუმი(კოშკი)",
+                  "text": "Un muzeu cultural situat într-un turn tradițional svan din Mestia.",
+                  "category": "museum",
+                  "coords": [
+                        42.731793,
+                        43.04904
+                  ]
+            },
+            {
+                  "name": "ნიგურიანების საცხოვრებელი კომპლექსი",
+                  "text": "Un muzeu-turn în cartierul Niguriani din Mestia, care prezintă istoria locală.",
+                  "category": "museum",
+                  "coords": [
+                        42.729986,
+                        43.046035
+                  ]
+            },
+            {
+                  "name": "ხერგიანის სახლ-მუზეუმი",
+                  "text": "Muzeul-casă al lui Mihail Hergiani este dedicat celebrului alpinist georgian.",
+                  "category": "museum",
+                  "coords": [
+                        42.740124,
+                        43.053172
+                  ]
+            },
+            {
+                  "name": "თამარ მეფე",
+                  "text": "Un monument în Mestia ridicat în onoarea reginei Tamara a Georgiei.",
+                  "category": "historical",
+                  "coords": [
+                        42.725238,
+                        43.043899
+                  ]
+            },
+            {
+                  "name": "მესტიის ჯვარი",
+                  "text": "Un punct de observare deasupra Mestiei, oferind o panoramă vastă asupra Caucazului.",
+                  "category": "natural",
+                  "coords": [
+                        42.723417,
+                        43.059492
+                  ]
+            },
+            {
+                  "name": "Lake \"Georgia\" (2400 m)",
+                  "text": "Un punct de belvedere situat lângă un lac la 2400 de metri altitudine, deasupra Mestiei.",
+                  "category": "natural",
+                  "coords": [
+                        42.712982,
+                        43.069528
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Svaneti Museum",
+                  "text": "A significant museum in Mestia showcasing the unique history and culture of the Svaneti region.",
+                  "category": "museum",
+                  "coords": [
+                        42.726509,
+                        43.041161
+                  ]
+            },
+            {
+                  "name": "Svaneti Cultural Museum in Tower",
+                  "text": "A cultural museum located in a traditional Svan tower in Mestia.",
+                  "category": "museum",
+                  "coords": [
+                        42.731793,
+                        43.04904
+                  ]
+            },
+            {
+                  "name": "Niguriani Tower Museum",
+                  "text": "A tower museum in the Niguriani district of Mestia, showcasing local history.",
+                  "category": "museum",
+                  "coords": [
+                        42.729986,
+                        43.046035
+                  ]
+            },
+            {
+                  "name": "Mikheil Khergiani House-Museum",
+                  "text": "The house-museum of Mikheil Khergiani is dedicated to the famous Georgian mountaineer.",
+                  "category": "museum",
+                  "coords": [
+                        42.740124,
+                        43.053172
+                  ]
+            },
+            {
+                  "name": "Queen Tamar",
+                  "text": "A monument in Mestia dedicated to Queen Tamar of Georgia.",
+                  "category": "historical",
+                  "coords": [
+                        42.725238,
+                        43.043899
+                  ]
+            },
+            {
+                  "name": "The Cross Over Mestia",
+                  "text": "A viewpoint above Mestia offering a wide panorama of the Caucasus Mountains.",
+                  "category": "natural",
+                  "coords": [
+                        42.723417,
+                        43.059492
+                  ]
+            },
+            {
+                  "name": "Lake \"Georgia\" (2400 m)",
+                  "text": "A high-altitude viewpoint near a lake at 2400 meters above Mestia.",
+                  "category": "natural",
+                  "coords": [
+                        42.712982,
+                        43.069528
+                  ]
+            }
+      ]
+},
     type: "landmark",
     parent: "GE-SZ",
     coords: [42.7278, 43.0458],
@@ -751,7 +1012,268 @@ export const poiExtraGeorgiaLandmarksV2: POI[] = [
     },
   },
   {
-    id: "sighnaghi-city-wall-landmarks-v2",
+    id: "sighnaghi-city-wall-landmarks-v2", "sights": {
+      "de": [
+            {
+                  "name": "სიღნაღის მუზეუმი",
+                  "text": "Ein Museum in Sighnaghi, das Kunst und archäologische Funde aus der Region Kachetien ausstellt.",
+                  "category": "museum",
+                  "coords": [
+                        45.922985,
+                        41.619705
+                  ]
+            },
+            {
+                  "name": "ვაკირის ხელოვნების ცენტრი (Vakiri Arts Center)",
+                  "text": "Ein Kunstzentrum in der Nähe der Stadtmauer von Sighnaghi.",
+                  "category": "cultural",
+                  "coords": [
+                        45.928206,
+                        41.646001
+                  ]
+            },
+            {
+                  "name": "panorama view of Sighnaghi",
+                  "text": "Ein Aussichtspunkt mit Panoramablick auf die befestigte Stadt Sighnaghi und das Alasani-Tal.",
+                  "category": "natural",
+                  "coords": [
+                        45.921478,
+                        41.614291
+                  ]
+            },
+            {
+                  "name": "Vano Sarajishvili, The founder of Georgian opera",
+                  "text": "Ein Denkmal zu Ehren von Wano Saradschischwili, dem Begründer der georgischen Oper.",
+                  "category": "historical",
+                  "coords": [
+                        45.922499,
+                        41.618264
+                  ]
+            },
+            {
+                  "name": "Turm der Stadtmauer",
+                  "text": "Ein historischer Turm mit Blick auf die Stadtmauern von Sighnaghi.",
+                  "category": "natural",
+                  "coords": [
+                        45.925093,
+                        41.624222
+                  ]
+            },
+            {
+                  "name": "Living Roots Ranch",
+                  "text": "Eine lokale Ranch und Attraktion in der Nähe der Stadtmauer von Sighnaghi.",
+                  "category": "landmark",
+                  "coords": [
+                        45.931605,
+                        41.603922
+                  ]
+            },
+            {
+                  "name": "ციბალას წყალი",
+                  "text": "Eine lokale Attraktion und Wasserquelle in der Nähe der Stadtmauer.",
+                  "category": "landmark",
+                  "coords": [
+                        45.918044,
+                        41.596593
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "სიღნაღის მუზეუმი",
+                  "text": "Múzeum Szignagiban, amely Kaheti régió művészeti és régészeti leleteit mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        45.922985,
+                        41.619705
+                  ]
+            },
+            {
+                  "name": "ვაკირის ხელოვნების ცენტრი (Vakiri Arts Center)",
+                  "text": "Művészeti központ a szignagi városfal közelében.",
+                  "category": "cultural",
+                  "coords": [
+                        45.928206,
+                        41.646001
+                  ]
+            },
+            {
+                  "name": "panorama view of Sighnaghi",
+                  "text": "Kilátópont, ahonnan panorámás kilátás nyílik Szignagi erődfalára és az Alazani-völgyre.",
+                  "category": "natural",
+                  "coords": [
+                        45.921478,
+                        41.614291
+                  ]
+            },
+            {
+                  "name": "Vano Sarajishvili, The founder of Georgian opera",
+                  "text": "Vano Szaradzsisvili, a grúz opera alapítójának tiszteletére emelt emlékmű.",
+                  "category": "historical",
+                  "coords": [
+                        45.922499,
+                        41.618264
+                  ]
+            },
+            {
+                  "name": "Tower of the city wall",
+                  "text": "Történelmi torony, amely kilátást nyújt Szignagi városfalaira.",
+                  "category": "natural",
+                  "coords": [
+                        45.925093,
+                        41.624222
+                  ]
+            },
+            {
+                  "name": "Living Roots Ranch",
+                  "text": "Helyi tanya és látnivaló Szignagi városfalai közelében.",
+                  "category": "landmark",
+                  "coords": [
+                        45.931605,
+                        41.603922
+                  ]
+            },
+            {
+                  "name": "ციბალას წყალი",
+                  "text": "Helyi látványosság és vízforrás a városfalak közelében.",
+                  "category": "landmark",
+                  "coords": [
+                        45.918044,
+                        41.596593
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "სიღნაღის მუზეუმი",
+                  "text": "Un muzeu din Sighnaghi care expune artă și descoperiri arheologice din regiunea Kakheti.",
+                  "category": "museum",
+                  "coords": [
+                        45.922985,
+                        41.619705
+                  ]
+            },
+            {
+                  "name": "ვაკირის ხელოვნების ცენტრი (Vakiri Arts Center)",
+                  "text": "Un centru de artă situat lângă zidul cetății Sighnaghi.",
+                  "category": "cultural",
+                  "coords": [
+                        45.928206,
+                        41.646001
+                  ]
+            },
+            {
+                  "name": "panorama view of Sighnaghi",
+                  "text": "Un punct de observație cu vedere panoramică asupra orașului fortificat Sighnaghi și a văii Alazani.",
+                  "category": "natural",
+                  "coords": [
+                        45.921478,
+                        41.614291
+                  ]
+            },
+            {
+                  "name": "Vano Sarajishvili, The founder of Georgian opera",
+                  "text": "Un monument dedicat lui Vano Sarajishvili, fondatorul operei georgiene.",
+                  "category": "historical",
+                  "coords": [
+                        45.922499,
+                        41.618264
+                  ]
+            },
+            {
+                  "name": "Tower of the city wall",
+                  "text": "Un turn istoric ce oferă o vedere asupra zidurilor cetății Sighnaghi.",
+                  "category": "natural",
+                  "coords": [
+                        45.925093,
+                        41.624222
+                  ]
+            },
+            {
+                  "name": "Living Roots Ranch",
+                  "text": "O fermă locală și atracție situată lângă zidurile orașului Sighnaghi.",
+                  "category": "landmark",
+                  "coords": [
+                        45.931605,
+                        41.603922
+                  ]
+            },
+            {
+                  "name": "ციბალას წყალი",
+                  "text": "O atracție locală și sursă de apă situată lângă zidurile orașului.",
+                  "category": "landmark",
+                  "coords": [
+                        45.918044,
+                        41.596593
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Sighnaghi museum",
+                  "text": "A museum in Sighnaghi exhibiting art and archaeological finds from the Kakheti region.",
+                  "category": "museum",
+                  "coords": [
+                        45.922985,
+                        41.619705
+                  ]
+            },
+            {
+                  "name": "Vakiri Arts Center",
+                  "text": "An arts centre located near the Sighnaghi city wall.",
+                  "category": "cultural",
+                  "coords": [
+                        45.928206,
+                        41.646001
+                  ]
+            },
+            {
+                  "name": "panorama view of Sighnaghi",
+                  "text": "A viewpoint offering a panoramic view of the fortified town of Sighnaghi and the Alazani Valley.",
+                  "category": "natural",
+                  "coords": [
+                        45.921478,
+                        41.614291
+                  ]
+            },
+            {
+                  "name": "Vano Sarajishvili, The founder of Georgian opera",
+                  "text": "A monument dedicated to the founder of Georgian opera, Vano Sarajishvili.",
+                  "category": "historical",
+                  "coords": [
+                        45.922499,
+                        41.618264
+                  ]
+            },
+            {
+                  "name": "Tower of the city wall",
+                  "text": "A historic tower offering views over the Sighnaghi city walls.",
+                  "category": "natural",
+                  "coords": [
+                        45.925093,
+                        41.624222
+                  ]
+            },
+            {
+                  "name": "Living Roots Ranch",
+                  "text": "A local ranch and attraction located near the Sighnaghi city walls.",
+                  "category": "landmark",
+                  "coords": [
+                        45.931605,
+                        41.603922
+                  ]
+            },
+            {
+                  "name": "Tsibala Water",
+                  "text": "A local attraction and water source located near the city walls.",
+                  "category": "landmark",
+                  "coords": [
+                        45.918044,
+                        41.596593
+                  ]
+            }
+      ]
+},
     type: "landmark",
     parent: "GE-KA",
     coords: [45.9225, 41.6214],

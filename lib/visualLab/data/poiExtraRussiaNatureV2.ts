@@ -49,7 +49,88 @@ imageHint: "Lake Baikal crystal clear ice in winter",
     },
     image: "/poi-images/russia-lake-baikal-nature-v2.webp",
 },  {
-    id: "russia-mount-elbrus-nature-v2",
+    id: "russia-mount-elbrus-nature-v2", "sights": {
+      "de": [
+            {
+                  "name": "Ратрак",
+                  "text": "Ein Pistenbully-Service für den Transport an den Hängen des Elbrus.",
+                  "category": "landmark",
+                  "coords": [
+                        42.456994,
+                        43.336662
+                  ]
+            },
+            {
+                  "name": "Скалы Пастухова",
+                  "text": "Eine markante Felsformation an den hohen Hängen des Berges Elbrus.",
+                  "category": "landmark",
+                  "coords": [
+                        42.458679,
+                        43.331069
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Ратрак",
+                  "text": "Hójáró szolgáltatás az Elbrusz lejtőin történő szállításhoz.",
+                  "category": "landmark",
+                  "coords": [
+                        42.456994,
+                        43.336662
+                  ]
+            },
+            {
+                  "name": "Скалы Пастухова",
+                  "text": "Nevezetes sziklaalakzat az Elbrusz hegy magaslati lejtőin.",
+                  "category": "landmark",
+                  "coords": [
+                        42.458679,
+                        43.331069
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Ратрак",
+                  "text": "Un serviciu de transport cu vehicule de zăpadă pe versanții muntelui Elbrus.",
+                  "category": "landmark",
+                  "coords": [
+                        42.456994,
+                        43.336662
+                  ]
+            },
+            {
+                  "name": "Скалы Пастухова",
+                  "text": "O formațiune stâncoasă proeminentă pe versanții înalți ai muntelui Elbrus.",
+                  "category": "landmark",
+                  "coords": [
+                        42.458679,
+                        43.331069
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Snowcat",
+                  "text": "A snowcat service for transportation on the slopes of Mount Elbrus.",
+                  "category": "landmark",
+                  "coords": [
+                        42.456994,
+                        43.336662
+                  ]
+            },
+            {
+                  "name": "Pastuhov rocks",
+                  "text": "A prominent rock formation on the high slopes of Mount Elbrus.",
+                  "category": "landmark",
+                  "coords": [
+                        42.458679,
+                        43.331069
+                  ]
+            }
+      ]
+},
     parent: "RU",
     type: "peak",
     name: { de: "Elbrus", hu: "Elbrusz", ro: "Muntele Elbrus", en: "Mount Elbrus"},
@@ -1291,7 +1372,52 @@ imageHint: "Taimyr Peninsula tundra and musk ox",
     },
     image: "/poi-images/russia-taimyr-peninsula-nature-v2.webp",
 },  {
-    id: "russia-dombay-ulgen-nature-v2",
+    id: "russia-dombay-ulgen-nature-v2", "sights": {
+      "de": [
+            {
+                  "name": "Dombai-Ulgen",
+                  "text": "Der höchste Berggipfel im westlichen Kaukasus, bekannt für seine ewigen Gletscher und anspruchsvollen Kletterrouten.",
+                  "category": "landmark",
+                  "coords": [
+                        41.725773,
+                        43.243901
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Домбай-Ульген главная",
+                  "text": "A Nyugat-Kaukázus legmagasabb hegycsúcsa, amely állandó gleccsereiről és kihívást jelentő mászóútvonalairól ismert.",
+                  "category": "landmark",
+                  "coords": [
+                        41.725773,
+                        43.243901
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Домбай-Ульген главная",
+                  "text": "Cel mai înalt vârf montan din Caucazul de Vest, cunoscut pentru ghețarii săi permanenți și traseele de alpinism provocatoare.",
+                  "category": "landmark",
+                  "coords": [
+                        41.725773,
+                        43.243901
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Dombay-Ulgen",
+                  "text": "The highest mountain peak in the Western Caucasus, known for its permanent glaciers and challenging climbing routes.",
+                  "category": "landmark",
+                  "coords": [
+                        41.725773,
+                        43.243901
+                  ]
+            }
+      ]
+},
     parent: "RU",
     type: "peak",
     name: { de: "Dombai-Ulgen", hu: "Dombaj-Ulgen", ro: "Muntele Dombai-Ulgen", en: "Dombay-Ulgen"},

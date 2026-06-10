@@ -48,7 +48,304 @@ export const italyReliefV2: POI[] = [
     image: "/poi-images/italy-monte-cervino-relief-v2.webp",
   },
   {
-    id: "italy-monte-viso-relief-v2",
+    id: "italy-monte-viso-relief-v2", "sights": {
+      "de": [
+            {
+                  "name": "Parco Naturale Regionale del Monviso",
+                  "text": "Ein Naturschutzgebiet in den Cottischen Alpen rund um den markanten Monte Viso.",
+                  "category": "natural",
+                  "coords": [
+                        7.109946,
+                        44.65622
+                  ]
+            },
+            {
+                  "name": "Pointe d'Udine / Punta Udine",
+                  "text": "Ein Berggipfel im Monte-Viso-Massiv an der Grenze zwischen Italien und Frankreich.",
+                  "category": "landmark",
+                  "coords": [
+                        7.073323,
+                        44.695748
+                  ]
+            },
+            {
+                  "name": "Pointe de Rome / Punta Roma",
+                  "text": "Ein markanter Alpengipfel im Gebiet des Monte Viso.",
+                  "category": "landmark",
+                  "coords": [
+                        7.075704,
+                        44.689615
+                  ]
+            },
+            {
+                  "name": "Punta Gastaldi",
+                  "text": "Ein hoher Berggipfel in den Cottischen Alpen nahe dem Monte Viso.",
+                  "category": "landmark",
+                  "coords": [
+                        7.077565,
+                        44.680784
+                  ]
+            },
+            {
+                  "name": "Pointe de Venise / Punta Venezia",
+                  "text": "Ein Grenzgipfel in den Westalpen innerhalb der Monte-Viso-Gruppe.",
+                  "category": "landmark",
+                  "coords": [
+                        7.070678,
+                        44.700374
+                  ]
+            },
+            {
+                  "name": "Punta Dante",
+                  "text": "Ein Gipfel im Monviso-Massiv, benannt zu Ehren von Dante Alighieri.",
+                  "category": "landmark",
+                  "coords": [
+                        7.100144,
+                        44.648039
+                  ]
+            },
+            {
+                  "name": "Monte Losetta / Pointe Joanne",
+                  "text": "Ein Aussichtsgipfel in den Cottischen Alpen mit Blick auf den Monte Viso.",
+                  "category": "landmark",
+                  "coords": [
+                        7.063181,
+                        44.680261
+                  ]
+            },
+            {
+                  "name": "Punta Malta",
+                  "text": "Ein Hochgebirgsgipfel in der italienischen Region Piemont nahe dem Monte Viso.",
+                  "category": "landmark",
+                  "coords": [
+                        7.104048,
+                        44.636634
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Parco Naturale Regionale del Monviso",
+                  "text": "Természetvédelmi terület a Cotti-Alpokban a Monte Viso körül.",
+                  "category": "natural",
+                  "coords": [
+                        7.109946,
+                        44.65622
+                  ]
+            },
+            {
+                  "name": "Pointe d'Udine / Punta Udine",
+                  "text": "Hegycsúcs a Monte Viso-masszívumban az olasz-francia határon.",
+                  "category": "landmark",
+                  "coords": [
+                        7.073323,
+                        44.695748
+                  ]
+            },
+            {
+                  "name": "Pointe de Rome / Punta Roma",
+                  "text": "Jellegzetes alpesi csúcs a Monte Viso vidékén.",
+                  "category": "landmark",
+                  "coords": [
+                        7.075704,
+                        44.689615
+                  ]
+            },
+            {
+                  "name": "Punta Gastaldi",
+                  "text": "Magas hegycsúcs a Cotti-Alpokban a Monte Viso közelében.",
+                  "category": "landmark",
+                  "coords": [
+                        7.077565,
+                        44.680784
+                  ]
+            },
+            {
+                  "name": "Pointe de Venise / Punta Venezia",
+                  "text": "Határhegycsúcs a Nyugati-Alpokban, a Monte Viso-csoportban.",
+                  "category": "landmark",
+                  "coords": [
+                        7.070678,
+                        44.700374
+                  ]
+            },
+            {
+                  "name": "Punta Dante",
+                  "text": "Hegycsúcs a Monviso-masszívumban, Dante Alighieri tiszteletére elnevezve.",
+                  "category": "landmark",
+                  "coords": [
+                        7.100144,
+                        44.648039
+                  ]
+            },
+            {
+                  "name": "Monte Losetta / Pointe Joanne",
+                  "text": "Kilátócsúcs a Cotti-Alpokban, rálátással a Monte Visóra.",
+                  "category": "landmark",
+                  "coords": [
+                        7.063181,
+                        44.680261
+                  ]
+            },
+            {
+                  "name": "Punta Malta",
+                  "text": "Magashegyi csúcs az olaszországi Piemont régióban, a Monte Viso közelében.",
+                  "category": "landmark",
+                  "coords": [
+                        7.104048,
+                        44.636634
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Parco Naturale Regionale del Monviso",
+                  "text": "O rezervație naturală în Alpii Cotici, în jurul masivului Monte Viso.",
+                  "category": "natural",
+                  "coords": [
+                        7.109946,
+                        44.65622
+                  ]
+            },
+            {
+                  "name": "Pointe d'Udine / Punta Udine",
+                  "text": "Un vârf montan în masivul Monte Viso, la granița dintre Italia și Franța.",
+                  "category": "landmark",
+                  "coords": [
+                        7.073323,
+                        44.695748
+                  ]
+            },
+            {
+                  "name": "Pointe de Rome / Punta Roma",
+                  "text": "Un vârf alpin proeminent în zona masivului Monte Viso.",
+                  "category": "landmark",
+                  "coords": [
+                        7.075704,
+                        44.689615
+                  ]
+            },
+            {
+                  "name": "Punta Gastaldi",
+                  "text": "Un vârf montan înalt în Alpii Cotici, aproape de Monte Viso.",
+                  "category": "landmark",
+                  "coords": [
+                        7.077565,
+                        44.680784
+                  ]
+            },
+            {
+                  "name": "Pointe de Venise / Punta Venezia",
+                  "text": "Un vârf de frontieră în Alpii Occidentali, în grupul Monte Viso.",
+                  "category": "landmark",
+                  "coords": [
+                        7.070678,
+                        44.700374
+                  ]
+            },
+            {
+                  "name": "Punta Dante",
+                  "text": "Un vârf în masivul Monviso, numit în onoarea lui Dante Alighieri.",
+                  "category": "landmark",
+                  "coords": [
+                        7.100144,
+                        44.648039
+                  ]
+            },
+            {
+                  "name": "Monte Losetta / Pointe Joanne",
+                  "text": "Un vârf cu belvedere în Alpii Cotici, oferind vedere spre Monte Viso.",
+                  "category": "landmark",
+                  "coords": [
+                        7.063181,
+                        44.680261
+                  ]
+            },
+            {
+                  "name": "Punta Malta",
+                  "text": "Un vârf montan înalt în regiunea Piemont din Italia, lângă Monte Viso.",
+                  "category": "landmark",
+                  "coords": [
+                        7.104048,
+                        44.636634
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Parco Naturale Regionale del Monviso",
+                  "text": "A nature reserve in the Cottian Alps surrounding the iconic Monte Viso peak.",
+                  "category": "natural",
+                  "coords": [
+                        7.109946,
+                        44.65622
+                  ]
+            },
+            {
+                  "name": "Pointe d'Udine / Punta Udine",
+                  "text": "A mountain peak in the Monte Viso massif on the border between Italy and France.",
+                  "category": "landmark",
+                  "coords": [
+                        7.073323,
+                        44.695748
+                  ]
+            },
+            {
+                  "name": "Pointe de Rome / Punta Roma",
+                  "text": "A prominent Alpine peak located in the Monte Viso area.",
+                  "category": "landmark",
+                  "coords": [
+                        7.075704,
+                        44.689615
+                  ]
+            },
+            {
+                  "name": "Punta Gastaldi",
+                  "text": "A high mountain peak in the Cottian Alps near Monte Viso.",
+                  "category": "landmark",
+                  "coords": [
+                        7.077565,
+                        44.680784
+                  ]
+            },
+            {
+                  "name": "Pointe de Venise / Punta Venezia",
+                  "text": "A border peak in the Western Alps within the Monte Viso group.",
+                  "category": "landmark",
+                  "coords": [
+                        7.070678,
+                        44.700374
+                  ]
+            },
+            {
+                  "name": "Punta Dante",
+                  "text": "A peak in the Monviso massif named in honor of Dante Alighieri.",
+                  "category": "landmark",
+                  "coords": [
+                        7.100144,
+                        44.648039
+                  ]
+            },
+            {
+                  "name": "Monte Losetta / Pointe Joanne",
+                  "text": "A scenic peak in the Cottian Alps with views towards Monte Viso.",
+                  "category": "landmark",
+                  "coords": [
+                        7.063181,
+                        44.680261
+                  ]
+            },
+            {
+                  "name": "Punta Malta",
+                  "text": "A high mountain peak in the Piedmont region of Italy near Monte Viso.",
+                  "category": "landmark",
+                  "coords": [
+                        7.104048,
+                        44.636634
+                  ]
+            }
+      ]
+},
     type: "peak",
     parent: "IT",
     name: { de: "Monte Viso", hu: "Monte Viso", ro: "Monte Viso", en: "Monte Viso" },
@@ -93,7 +390,160 @@ export const italyReliefV2: POI[] = [
     image: "/poi-images/italy-monte-viso-relief-v2.webp",
   },
   {
-    id: "italy-pianura-padana-relief-v2",
+    id: "italy-pianura-padana-relief-v2", "sights": {
+      "de": [
+            {
+                  "name": "Museo Casa Barezzi",
+                  "text": "Das ehemalige Wohnhaus von Antonio Barezzi, in dem Giuseppe Verdi seine Ausbildung begann.",
+                  "category": "museum",
+                  "coords": [
+                        10.042533,
+                        44.980775
+                  ]
+            },
+            {
+                  "name": "Museo Renata Tebaldi",
+                  "text": "Ein der berühmten Sopranistin Renata Tebaldi gewidmetes Museum.",
+                  "category": "museum",
+                  "coords": [
+                        10.0363,
+                        44.977233
+                  ]
+            },
+            {
+                  "name": "Teatro Giuseppe Verdi",
+                  "text": "Ein historisches Opernhaus in Busseto, das zu Ehren von Giuseppe Verdi erbaut wurde.",
+                  "category": "cultural",
+                  "coords": [
+                        10.041211,
+                        44.981522
+                  ]
+            },
+            {
+                  "name": "Villa Verdi",
+                  "text": "Das langjährige Wohnhaus des Komponisten Giuseppe Verdi in der Nähe von Busseto.",
+                  "category": "museum",
+                  "coords": [
+                        10.036003,
+                        45.005649
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Museo Casa Barezzi",
+                  "text": "Antonio Barezzi egykori lakóháza, ahol Giuseppe Verdi zenei tanulmányait kezdte.",
+                  "category": "museum",
+                  "coords": [
+                        10.042533,
+                        44.980775
+                  ]
+            },
+            {
+                  "name": "Museo Renata Tebaldi",
+                  "text": "A híres szoprán énekesnőnek, Renata Tebaldinak szentelt múzeum.",
+                  "category": "museum",
+                  "coords": [
+                        10.0363,
+                        44.977233
+                  ]
+            },
+            {
+                  "name": "Teatro Giuseppe Verdi",
+                  "text": "Busseto történelmi operaháza, amelyet Giuseppe Verdi tiszteletére építettek.",
+                  "category": "cultural",
+                  "coords": [
+                        10.041211,
+                        44.981522
+                  ]
+            },
+            {
+                  "name": "Villa Verdi",
+                  "text": "Giuseppe Verdi zeneszerző hosszú ideig használt lakóháza Busseto közelében.",
+                  "category": "museum",
+                  "coords": [
+                        10.036003,
+                        45.005649
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Museo Casa Barezzi",
+                  "text": "Fosta casă a lui Antonio Barezzi, unde Giuseppe Verdi și-a început studiile muzicale.",
+                  "category": "museum",
+                  "coords": [
+                        10.042533,
+                        44.980775
+                  ]
+            },
+            {
+                  "name": "Museo Renata Tebaldi",
+                  "text": "Un muzeu dedicat celebrei soprane Renata Tebaldi.",
+                  "category": "museum",
+                  "coords": [
+                        10.0363,
+                        44.977233
+                  ]
+            },
+            {
+                  "name": "Teatro Giuseppe Verdi",
+                  "text": "O casă de operă istorică din Busseto, construită în onoarea lui Giuseppe Verdi.",
+                  "category": "cultural",
+                  "coords": [
+                        10.041211,
+                        44.981522
+                  ]
+            },
+            {
+                  "name": "Villa Verdi",
+                  "text": "Reședința de lungă durată a compozitorului Giuseppe Verdi de lângă Busseto.",
+                  "category": "museum",
+                  "coords": [
+                        10.036003,
+                        45.005649
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Museo Casa Barezzi",
+                  "text": "The former home of Antonio Barezzi, where Giuseppe Verdi began his musical education.",
+                  "category": "museum",
+                  "coords": [
+                        10.042533,
+                        44.980775
+                  ]
+            },
+            {
+                  "name": "Museo Renata Tebaldi",
+                  "text": "A museum dedicated to the famous soprano Renata Tebaldi.",
+                  "category": "museum",
+                  "coords": [
+                        10.0363,
+                        44.977233
+                  ]
+            },
+            {
+                  "name": "Teatro Giuseppe Verdi",
+                  "text": "A historic opera house in Busseto built in honor of Giuseppe Verdi.",
+                  "category": "cultural",
+                  "coords": [
+                        10.041211,
+                        44.981522
+                  ]
+            },
+            {
+                  "name": "Villa Verdi",
+                  "text": "The long-term residence of composer Giuseppe Verdi located near Busseto.",
+                  "category": "museum",
+                  "coords": [
+                        10.036003,
+                        45.005649
+                  ]
+            }
+      ]
+},
     type: "valley",
     parent: "IT",
     name: { de: "Po-Ebene", hu: "Pó-alföld", ro: "Câmpia Padului", en: "Po Valley" },
@@ -138,7 +588,304 @@ export const italyReliefV2: POI[] = [
     image: "/poi-images/italy-pianura-padana-relief-v2.webp",
   },
   {
-    id: "italy-massiccio-del-gran-paradiso-relief-v2",
+    id: "italy-massiccio-del-gran-paradiso-relief-v2", "sights": {
+      "de": [
+            {
+                  "name": "Herbetet",
+                  "text": "Ein markanter Berggipfel im Gran-Paradiso-Massiv der Grajischen Alpen.",
+                  "category": "landmark",
+                  "coords": [
+                        7.273839,
+                        45.544501
+                  ]
+            },
+            {
+                  "name": "Gran Serra",
+                  "text": "Ein vergletscherter Gipfel in der Gran-Paradiso-Gruppe in Italien.",
+                  "category": "landmark",
+                  "coords": [
+                        7.284907,
+                        45.556221
+                  ]
+            },
+            {
+                  "name": "Cresta Gastaldi",
+                  "text": "Ein schroffer Felsgrat im Herzen des Gran-Paradiso-Massivs.",
+                  "category": "landmark",
+                  "coords": [
+                        7.27534,
+                        45.514113
+                  ]
+            },
+            {
+                  "name": "Becca di Montandayné",
+                  "text": "Ein Hochgebirgsgipfel im Aostatal innerhalb des Gran-Paradiso-Massivs.",
+                  "category": "landmark",
+                  "coords": [
+                        7.269954,
+                        45.532427
+                  ]
+            },
+            {
+                  "name": "Tresenta",
+                  "text": "Ein beliebter Gipfel für Bergsteiger in der Gran-Paradiso-Gruppe.",
+                  "category": "landmark",
+                  "coords": [
+                        7.264217,
+                        45.499216
+                  ]
+            },
+            {
+                  "name": "Punta di Ceresole",
+                  "text": "Ein Berggipfel an der Grenze zwischen dem Piemont und dem Aostatal.",
+                  "category": "landmark",
+                  "coords": [
+                        7.285211,
+                        45.513111
+                  ]
+            },
+            {
+                  "name": "Testa della Tribolazione",
+                  "text": "Ein markanter Berggipfel im Gran-Paradiso-Massiv in den Grajischen Alpen.",
+                  "category": "landmark",
+                  "coords": [
+                        7.297703,
+                        45.516322
+                  ]
+            },
+            {
+                  "name": "Becca di Gay",
+                  "text": "Ein Berggipfel an der Grenze zwischen dem Aostatal und dem Piemont im Gran-Paradiso-Massiv.",
+                  "category": "landmark",
+                  "coords": [
+                        7.320738,
+                        45.514231
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Herbetet",
+                  "text": "Jellegzetes hegycsúcs a Graji-Alpok Gran Paradiso-masszívumában.",
+                  "category": "landmark",
+                  "coords": [
+                        7.273839,
+                        45.544501
+                  ]
+            },
+            {
+                  "name": "Gran Serra",
+                  "text": "Eljegesedett hegycsúcs az olaszországi Gran Paradiso-csoportban.",
+                  "category": "landmark",
+                  "coords": [
+                        7.284907,
+                        45.556221
+                  ]
+            },
+            {
+                  "name": "Cresta Gastaldi",
+                  "text": "Sziporkázó sziklagerinc a Gran Paradiso-masszívum szívében.",
+                  "category": "landmark",
+                  "coords": [
+                        7.27534,
+                        45.514113
+                  ]
+            },
+            {
+                  "name": "Becca di Montandayné",
+                  "text": "Magashegyi csúcs az Aosta-völgyben, a Gran Paradiso-masszívumban.",
+                  "category": "landmark",
+                  "coords": [
+                        7.269954,
+                        45.532427
+                  ]
+            },
+            {
+                  "name": "Tresenta",
+                  "text": "A hegymászók körében népszerű csúcs a Gran Paradiso-csoportban.",
+                  "category": "landmark",
+                  "coords": [
+                        7.264217,
+                        45.499216
+                  ]
+            },
+            {
+                  "name": "Punta di Ceresole",
+                  "text": "Hegycsúcs Piemont és az Aosta-völgy határán.",
+                  "category": "landmark",
+                  "coords": [
+                        7.285211,
+                        45.513111
+                  ]
+            },
+            {
+                  "name": "Testa della Tribolazione",
+                  "text": "Jellegzetes hegycsúcs a Graji-Alpokban található Gran Paradiso-masszívumban.",
+                  "category": "landmark",
+                  "coords": [
+                        7.297703,
+                        45.516322
+                  ]
+            },
+            {
+                  "name": "Becca di Gay",
+                  "text": "Hegycsúcs az Aosta-völgy és Piemont határán, a Gran Paradiso-masszívumban.",
+                  "category": "landmark",
+                  "coords": [
+                        7.320738,
+                        45.514231
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Herbetet",
+                  "text": "Un vârf montan proeminent în masivul Gran Paradiso din Alpii Graici.",
+                  "category": "landmark",
+                  "coords": [
+                        7.273839,
+                        45.544501
+                  ]
+            },
+            {
+                  "name": "Gran Serra",
+                  "text": "Un vârf glaciar în grupul Gran Paradiso din Italia.",
+                  "category": "landmark",
+                  "coords": [
+                        7.284907,
+                        45.556221
+                  ]
+            },
+            {
+                  "name": "Cresta Gastaldi",
+                  "text": "O creastă stâncoasă zimțată în inima masivului Gran Paradiso.",
+                  "category": "landmark",
+                  "coords": [
+                        7.27534,
+                        45.514113
+                  ]
+            },
+            {
+                  "name": "Becca di Montandayné",
+                  "text": "Un vârf montan înalt în Valea Aosta, în cadrul masivului Gran Paradiso.",
+                  "category": "landmark",
+                  "coords": [
+                        7.269954,
+                        45.532427
+                  ]
+            },
+            {
+                  "name": "Tresenta",
+                  "text": "Un vârf popular pentru alpiniști în grupul Gran Paradiso.",
+                  "category": "landmark",
+                  "coords": [
+                        7.264217,
+                        45.499216
+                  ]
+            },
+            {
+                  "name": "Punta di Ceresole",
+                  "text": "Un vârf montan la granița dintre Piemont și Valea Aosta.",
+                  "category": "landmark",
+                  "coords": [
+                        7.285211,
+                        45.513111
+                  ]
+            },
+            {
+                  "name": "Testa della Tribolazione",
+                  "text": "Un vârf montan proeminent în masivul Gran Paradiso din Alpii Graici.",
+                  "category": "landmark",
+                  "coords": [
+                        7.297703,
+                        45.516322
+                  ]
+            },
+            {
+                  "name": "Becca di Gay",
+                  "text": "Un vârf montan situat la granița dintre Valea Aosta și Piemont, în masivul Gran Paradiso.",
+                  "category": "landmark",
+                  "coords": [
+                        7.320738,
+                        45.514231
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Herbetet",
+                  "text": "A prominent mountain peak in the Gran Paradiso massif of the Graian Alps.",
+                  "category": "landmark",
+                  "coords": [
+                        7.273839,
+                        45.544501
+                  ]
+            },
+            {
+                  "name": "Gran Serra",
+                  "text": "A glaciated peak in the Gran Paradiso group in Italy.",
+                  "category": "landmark",
+                  "coords": [
+                        7.284907,
+                        45.556221
+                  ]
+            },
+            {
+                  "name": "Cresta Gastaldi",
+                  "text": "A rugged rocky ridge in the heart of the Gran Paradiso massif.",
+                  "category": "landmark",
+                  "coords": [
+                        7.27534,
+                        45.514113
+                  ]
+            },
+            {
+                  "name": "Becca di Montandayné",
+                  "text": "A high mountain peak in the Aosta Valley within the Gran Paradiso massif.",
+                  "category": "landmark",
+                  "coords": [
+                        7.269954,
+                        45.532427
+                  ]
+            },
+            {
+                  "name": "Tresenta",
+                  "text": "A popular peak for mountaineers in the Gran Paradiso group.",
+                  "category": "landmark",
+                  "coords": [
+                        7.264217,
+                        45.499216
+                  ]
+            },
+            {
+                  "name": "Punta di Ceresole",
+                  "text": "A mountain peak on the border between Piedmont and the Aosta Valley.",
+                  "category": "landmark",
+                  "coords": [
+                        7.285211,
+                        45.513111
+                  ]
+            },
+            {
+                  "name": "Testa della Tribolazione",
+                  "text": "A prominent mountain peak in the Gran Paradiso Massif of the Graian Alps.",
+                  "category": "landmark",
+                  "coords": [
+                        7.297703,
+                        45.516322
+                  ]
+            },
+            {
+                  "name": "Becca di Gay",
+                  "text": "A mountain peak on the border between the Aosta Valley and Piedmont in the Gran Paradiso Massif.",
+                  "category": "landmark",
+                  "coords": [
+                        7.320738,
+                        45.514231
+                  ]
+            }
+      ]
+},
     type: "mountain",
     parent: "IT",
     name: { de: "Gran Paradiso Massiv", hu: "Gran Paradiso-hegytömb", ro: "Masivul Gran Paradiso", en: "Gran Paradiso Massif" },
@@ -183,7 +930,268 @@ export const italyReliefV2: POI[] = [
     image: "/poi-images/italy-massiccio-del-gran-paradiso-relief-v2.webp",
   },
   {
-    id: "italy-monte-amiata-relief-v2",
+    id: "italy-monte-amiata-relief-v2", "sights": {
+      "de": [
+            {
+                  "name": "Museo d'Arte Sacra Don Roberto Corvini",
+                  "text": "Museum für sakrale Kunst im historischen Zentrum von Abbadia San Salvatore.",
+                  "category": "museum",
+                  "coords": [
+                        11.676136,
+                        42.882512
+                  ]
+            },
+            {
+                  "name": "Parco Museo Minerario di Abbadia San Salvatore",
+                  "text": "Ein Bergbaumuseum, das die Industriegeschichte am Monte Amiata zeigt.",
+                  "category": "museum",
+                  "coords": [
+                        11.663367,
+                        42.882759
+                  ]
+            },
+            {
+                  "name": "Monte Amiata",
+                  "text": "Ein erloschener Vulkan und der höchste Gipfel der südlichen Toskana.",
+                  "category": "landmark",
+                  "coords": [
+                        11.623274,
+                        42.887426
+                  ]
+            },
+            {
+                  "name": "Punto Panoramico Valle d'Inferno",
+                  "text": "Ein Aussichtspunkt mit weitem Blick über die Landschaft des Monte Amiata.",
+                  "category": "natural",
+                  "coords": [
+                        11.614443,
+                        42.881585
+                  ]
+            },
+            {
+                  "name": "Punto Panoramico Rigale",
+                  "text": "Ein Panoramapunkt am Monte Amiata mit herrlicher Aussicht.",
+                  "category": "natural",
+                  "coords": [
+                        11.632568,
+                        42.877219
+                  ]
+            },
+            {
+                  "name": "Chiesa di Santa Maria dell'Ermeta",
+                  "text": "Eine alte Einsiedelei und Kirche in der Nähe des Gipfels des Monte Amiata.",
+                  "category": "religious",
+                  "coords": [
+                        11.647974,
+                        42.885514
+                  ]
+            },
+            {
+                  "name": "Chiesa della Madonna del Castagno",
+                  "text": "Eine malerische Kirche, die der Madonna des Kastanienbaums gewidmet ist.",
+                  "category": "religious",
+                  "coords": [
+                        11.668702,
+                        42.882152
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Museo d'Arte Sacra Don Roberto Corvini",
+                  "text": "Egyházi művészeti múzeum Abbadia San Salvatore történelmi központjában.",
+                  "category": "museum",
+                  "coords": [
+                        11.676136,
+                        42.882512
+                  ]
+            },
+            {
+                  "name": "Parco Museo Minerario di Abbadia San Salvatore",
+                  "text": "Bányászati múzeum, amely a Monte Amiata ipari múltját mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        11.663367,
+                        42.882759
+                  ]
+            },
+            {
+                  "name": "Monte Amiata",
+                  "text": "Kialudt tűzhányó és Dél-Toszkána legmagasabb csúcsa.",
+                  "category": "landmark",
+                  "coords": [
+                        11.623274,
+                        42.887426
+                  ]
+            },
+            {
+                  "name": "Punto Panoramico Valle d'Inferno",
+                  "text": "Kilátópont, ahonnan széles panoráma nyílik a Monte Amiata vidékére.",
+                  "category": "natural",
+                  "coords": [
+                        11.614443,
+                        42.881585
+                  ]
+            },
+            {
+                  "name": "Punto Panoramico Rigale",
+                  "text": "Panorámás kilátóhely a Monte Amiata hegyén.",
+                  "category": "natural",
+                  "coords": [
+                        11.632568,
+                        42.877219
+                  ]
+            },
+            {
+                  "name": "Chiesa di Santa Maria dell'Ermeta",
+                  "text": "Ősi remetelak és templom a Monte Amiata csúcsának közelében.",
+                  "category": "religious",
+                  "coords": [
+                        11.647974,
+                        42.885514
+                  ]
+            },
+            {
+                  "name": "Chiesa della Madonna del Castagno",
+                  "text": "Gesztenyefa Madonnájának szentelt festői templom.",
+                  "category": "religious",
+                  "coords": [
+                        11.668702,
+                        42.882152
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Museo d'Arte Sacra Don Roberto Corvini",
+                  "text": "Muzeu de artă sacră în centrul istoric din Abbadia San Salvatore.",
+                  "category": "museum",
+                  "coords": [
+                        11.676136,
+                        42.882512
+                  ]
+            },
+            {
+                  "name": "Parco Museo Minerario di Abbadia San Salvatore",
+                  "text": "Un muzeu minier care prezintă istoria industrială de pe Monte Amiata.",
+                  "category": "museum",
+                  "coords": [
+                        11.663367,
+                        42.882759
+                  ]
+            },
+            {
+                  "name": "Monte Amiata",
+                  "text": "Un vulcan stins și cel mai înalt vârf din sudul Toscanei.",
+                  "category": "landmark",
+                  "coords": [
+                        11.623274,
+                        42.887426
+                  ]
+            },
+            {
+                  "name": "Punto Panoramico Valle d'Inferno",
+                  "text": "Un punct de belvedere cu vedere panoramică asupra peisajului de pe Monte Amiata.",
+                  "category": "natural",
+                  "coords": [
+                        11.614443,
+                        42.881585
+                  ]
+            },
+            {
+                  "name": "Punto Panoramico Rigale",
+                  "text": "Un punct panoramic pe Muntele Amiata cu vederi superbe.",
+                  "category": "natural",
+                  "coords": [
+                        11.632568,
+                        42.877219
+                  ]
+            },
+            {
+                  "name": "Chiesa di Santa Maria dell'Ermeta",
+                  "text": "Un vechi schit și biserică lângă vârful Muntelui Amiata.",
+                  "category": "religious",
+                  "coords": [
+                        11.647974,
+                        42.885514
+                  ]
+            },
+            {
+                  "name": "Chiesa della Madonna del Castagno",
+                  "text": "O biserică pitorească dedicată Madonei Castanului.",
+                  "category": "religious",
+                  "coords": [
+                        11.668702,
+                        42.882152
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Museo d'Arte Sacra Don Roberto Corvini",
+                  "text": "Museum of sacred art in the historic center of Abbadia San Salvatore.",
+                  "category": "museum",
+                  "coords": [
+                        11.676136,
+                        42.882512
+                  ]
+            },
+            {
+                  "name": "Parco Museo Minerario di Abbadia San Salvatore",
+                  "text": "A mining museum showcasing the industrial history of Mount Amiata.",
+                  "category": "museum",
+                  "coords": [
+                        11.663367,
+                        42.882759
+                  ]
+            },
+            {
+                  "name": "Mount Amiata",
+                  "text": "An extinct volcano and the highest peak in southern Tuscany.",
+                  "category": "landmark",
+                  "coords": [
+                        11.623274,
+                        42.887426
+                  ]
+            },
+            {
+                  "name": "Punto Panoramico Valle d'Inferno",
+                  "text": "A viewpoint offering wide vistas over the Mount Amiata landscape.",
+                  "category": "natural",
+                  "coords": [
+                        11.614443,
+                        42.881585
+                  ]
+            },
+            {
+                  "name": "Punto Panoramico Rigale",
+                  "text": "A panoramic viewpoint on Mount Amiata with beautiful views.",
+                  "category": "natural",
+                  "coords": [
+                        11.632568,
+                        42.877219
+                  ]
+            },
+            {
+                  "name": "Chiesa di Santa Maria dell'Ermeta",
+                  "text": "An ancient hermitage and church near the summit of Mount Amiata.",
+                  "category": "religious",
+                  "coords": [
+                        11.647974,
+                        42.885514
+                  ]
+            },
+            {
+                  "name": "Chiesa della Madonna del Castagno",
+                  "text": "A picturesque church dedicated to the Madonna of the Chestnut Tree.",
+                  "category": "religious",
+                  "coords": [
+                        11.668702,
+                        42.882152
+                  ]
+            }
+      ]
+},
     type: "mountain",
     parent: "IT",
     name: { de: "Monte Amiata", hu: "Monte Amiata", ro: "Monte Amiata", en: "Monte Amiata" },
@@ -228,7 +1236,88 @@ export const italyReliefV2: POI[] = [
     image: "/poi-images/italy-monte-amiata-relief-v2.webp",
   },
   {
-    id: "italy-altopiano-delle-murge-relief-v2",
+    id: "italy-altopiano-delle-murge-relief-v2", "sights": {
+      "de": [
+            {
+                  "name": "Ex Sito Jupiter BITONTO CERASO",
+                  "text": "Ein Denkmal auf dem Murge-Plateau.",
+                  "category": "historical",
+                  "coords": [
+                        16.506496,
+                        40.968348
+                  ]
+            },
+            {
+                  "name": "Villa Torrequadra",
+                  "text": "Ein historisches Herrenhaus auf dem Murge-Plateau in Apulien.",
+                  "category": "historical",
+                  "coords": [
+                        16.527149,
+                        40.996145
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Ex Sito Jupiter BITONTO CERASO",
+                  "text": "Emlékmű a Murge-fennsíkon.",
+                  "category": "historical",
+                  "coords": [
+                        16.506496,
+                        40.968348
+                  ]
+            },
+            {
+                  "name": "Villa Torrequadra",
+                  "text": "Történelmi udvarház a pugliai Murge-fennsíkon.",
+                  "category": "historical",
+                  "coords": [
+                        16.527149,
+                        40.996145
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Ex Sito Jupiter BITONTO CERASO",
+                  "text": "Un monument pe platoul Murge.",
+                  "category": "historical",
+                  "coords": [
+                        16.506496,
+                        40.968348
+                  ]
+            },
+            {
+                  "name": "Villa Torrequadra",
+                  "text": "Un conac istoric pe platoul Murge din Puglia.",
+                  "category": "historical",
+                  "coords": [
+                        16.527149,
+                        40.996145
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Ex Sito Jupiter BITONTO CERASO",
+                  "text": "A monument located on the Murge Plateau.",
+                  "category": "historical",
+                  "coords": [
+                        16.506496,
+                        40.968348
+                  ]
+            },
+            {
+                  "name": "Villa Torrequadra",
+                  "text": "A historical manor house on the Murge Plateau in Apulia.",
+                  "category": "historical",
+                  "coords": [
+                        16.527149,
+                        40.996145
+                  ]
+            }
+      ]
+},
     type: "landmark",
     parent: "IT",
     name: { de: "Murge-Plateau", hu: "Murge-fennsík", ro: "Podișul Murge", en: "Murge Plateau" },
@@ -363,7 +1452,88 @@ export const italyReliefV2: POI[] = [
     image: "/poi-images/italy-pianura-di-catania-relief-v2.webp",
   },
   {
-    id: "italy-monte-sirino-relief-v2",
+    id: "italy-monte-sirino-relief-v2", "sights": {
+      "de": [
+            {
+                  "name": "Micromondo, parco tematico sulla geologia",
+                  "text": "Ein Themenpark zur Geologie in der Nähe des Monte Sirino.",
+                  "category": "recreational",
+                  "coords": [
+                        15.807371,
+                        40.092045
+                  ]
+            },
+            {
+                  "name": "Lago Laudemio",
+                  "text": "Ein Aussichtspunkt mit Blick auf den Gletschersee Lago Laudemio am Monte Sirino.",
+                  "category": "natural",
+                  "coords": [
+                        15.836,
+                        40.143076
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Micromondo, parco tematico sulla geologia",
+                  "text": "A geológiának szentelt tematikus park a Monte Sirino közelében.",
+                  "category": "recreational",
+                  "coords": [
+                        15.807371,
+                        40.092045
+                  ]
+            },
+            {
+                  "name": "Lago Laudemio",
+                  "text": "Kilátóhely, ahonnan rálátás nyílik a Monte Sirino glaciális tavára.",
+                  "category": "natural",
+                  "coords": [
+                        15.836,
+                        40.143076
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Micromondo, parco tematico sulla geologia",
+                  "text": "Un parc tematic dedicat geologiei situat lângă Monte Sirino.",
+                  "category": "recreational",
+                  "coords": [
+                        15.807371,
+                        40.092045
+                  ]
+            },
+            {
+                  "name": "Lago Laudemio",
+                  "text": "Un punct de belvedere cu vedere la lacul glaciar Lago Laudemio de pe Monte Sirino.",
+                  "category": "natural",
+                  "coords": [
+                        15.836,
+                        40.143076
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Micromondo, parco tematico sulla geologia",
+                  "text": "A theme park dedicated to geology located near Monte Sirino.",
+                  "category": "recreational",
+                  "coords": [
+                        15.807371,
+                        40.092045
+                  ]
+            },
+            {
+                  "name": "Lago Laudemio",
+                  "text": "A scenic viewpoint overlooking the glacial lake Lago Laudemio on Monte Sirino.",
+                  "category": "natural",
+                  "coords": [
+                        15.836,
+                        40.143076
+                  ]
+            }
+      ]
+},
     type: "mountain",
     parent: "IT",
     name: { de: "Monte Sirino", hu: "Monte Sirino", ro: "Monte Sirino", en: "Monte Sirino" },
@@ -408,7 +1578,304 @@ export const italyReliefV2: POI[] = [
     image: "/poi-images/italy-monte-sirino-relief-v2.webp",
   },
   {
-    id: "italy-massiccio-del-pollino-relief-v2",
+    id: "italy-massiccio-del-pollino-relief-v2", "sights": {
+      "de": [
+            {
+                  "name": "Giardino degli Dei",
+                  "text": "Ein Naturschutzgebiet im Pollino-Massiv, bekannt für seine jahrhundertealten Schlangenhaut-Kiefern.",
+                  "category": "natural",
+                  "coords": [
+                        16.2115,
+                        39.928122
+                  ]
+            },
+            {
+                  "name": "Serra Dolcedorme",
+                  "text": "Der höchste Gipfel des Pollino-Massivs im südlichen Apennin.",
+                  "category": "landmark",
+                  "coords": [
+                        16.215752,
+                        39.894365
+                  ]
+            },
+            {
+                  "name": "Serra delle Ciavole",
+                  "text": "Ein markanter Gipfel im Pollino-Nationalpark, bekannt für seine unberührte Natur.",
+                  "category": "landmark",
+                  "coords": [
+                        16.219097,
+                        39.915895
+                  ]
+            },
+            {
+                  "name": "Monte Pollino",
+                  "text": "Ein bedeutender Gipfel im Pollino-Massiv, der dem Nationalpark seinen Namen gibt.",
+                  "category": "landmark",
+                  "coords": [
+                        16.188493,
+                        39.907639
+                  ]
+            },
+            {
+                  "name": "Circo glaciale (GS 3)",
+                  "text": "Ein geomorphologisches Merkmal im Pollino-Massiv, das durch antike Gletschereinwirkung entstand.",
+                  "category": "landmark",
+                  "coords": [
+                        16.191993,
+                        39.9077
+                  ]
+            },
+            {
+                  "name": "Circo glaciale Dolcedorme -Pollino (GS7)",
+                  "text": "Ein beeindruckendes Gletschertreppen-Relikt in der Hochregion des Pollino-Massivs.",
+                  "category": "landmark",
+                  "coords": [
+                        16.201627,
+                        39.900293
+                  ]
+            },
+            {
+                  "name": "Circo glaciale di Serra del Prete (GS 9)",
+                  "text": "Ein durch Eiszeitgletscher geformter Talkessel unterhalb des Serra del Prete.",
+                  "category": "landmark",
+                  "coords": [
+                        16.161786,
+                        39.919786
+                  ]
+            },
+            {
+                  "name": "Valli glaciali (GS 10)",
+                  "text": "Durch eiszeitliche Gletscher geformte Täler im Herzen des Pollino-Massivs.",
+                  "category": "landmark",
+                  "coords": [
+                        16.186656,
+                        39.92047
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Giardino degli Dei",
+                  "text": "Természetvédelmi terület a Pollino-masszívumban, amely évszázados páncélfenyőiről ismert.",
+                  "category": "natural",
+                  "coords": [
+                        16.2115,
+                        39.928122
+                  ]
+            },
+            {
+                  "name": "Serra Dolcedorme",
+                  "text": "A Pollino-masszívum és a Déli-Appenninek legmagasabb csúcsa.",
+                  "category": "landmark",
+                  "coords": [
+                        16.215752,
+                        39.894365
+                  ]
+            },
+            {
+                  "name": "Serra delle Ciavole",
+                  "text": "Jellegzetes csúcs a Pollino Nemzeti Parkban, érintetlen természetéről ismert.",
+                  "category": "landmark",
+                  "coords": [
+                        16.219097,
+                        39.915895
+                  ]
+            },
+            {
+                  "name": "Monte Pollino",
+                  "text": "A Pollino-masszívum egyik jelentős csúcsa, amelyről a nemzeti park a nevét kapta.",
+                  "category": "landmark",
+                  "coords": [
+                        16.188493,
+                        39.907639
+                  ]
+            },
+            {
+                  "name": "Circo glaciale (GS 3)",
+                  "text": "A Pollino-masszívum egyik geomorfológiai képződménye, amelyet ősi gleccserek alakítottak ki.",
+                  "category": "landmark",
+                  "coords": [
+                        16.191993,
+                        39.9077
+                  ]
+            },
+            {
+                  "name": "Circo glaciale Dolcedorme -Pollino (GS7)",
+                  "text": "Lenyűgöző jégkorszaki cirkuszvölgy-maradvány a Pollino-masszívum magaslati régiójában.",
+                  "category": "landmark",
+                  "coords": [
+                        16.201627,
+                        39.900293
+                  ]
+            },
+            {
+                  "name": "Circo glaciale di Serra del Prete (GS 9)",
+                  "text": "A Serra del Prete alatt található, jégkorszaki gleccserek által formált völgykatlan.",
+                  "category": "landmark",
+                  "coords": [
+                        16.161786,
+                        39.919786
+                  ]
+            },
+            {
+                  "name": "Valli glaciali (GS 10)",
+                  "text": "A Pollino-masszívum szívében található, jégkorszaki gleccserek által kialakított völgyek.",
+                  "category": "landmark",
+                  "coords": [
+                        16.186656,
+                        39.92047
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Giardino degli Dei",
+                  "text": "O rezervație naturală în masivul Pollino, cunoscută pentru pinii săi bosniaci seculari.",
+                  "category": "natural",
+                  "coords": [
+                        16.2115,
+                        39.928122
+                  ]
+            },
+            {
+                  "name": "Serra Dolcedorme",
+                  "text": "Cel mai înalt vârf din masivul Pollino, situat în Apeninii sudici.",
+                  "category": "landmark",
+                  "coords": [
+                        16.215752,
+                        39.894365
+                  ]
+            },
+            {
+                  "name": "Serra delle Ciavole",
+                  "text": "Un vârf proeminent din Parcul Național Pollino, cunoscut pentru natura sa curată.",
+                  "category": "landmark",
+                  "coords": [
+                        16.219097,
+                        39.915895
+                  ]
+            },
+            {
+                  "name": "Monte Pollino",
+                  "text": "Un vârf important din masivul Pollino, care dă numele parcului național.",
+                  "category": "landmark",
+                  "coords": [
+                        16.188493,
+                        39.907639
+                  ]
+            },
+            {
+                  "name": "Circo glaciale (GS 3)",
+                  "text": "O formă de relief geomorfologică din masivul Pollino, creată prin acțiunea ghețarilor antici.",
+                  "category": "landmark",
+                  "coords": [
+                        16.191993,
+                        39.9077
+                  ]
+            },
+            {
+                  "name": "Circo glaciale Dolcedorme -Pollino (GS7)",
+                  "text": "O relicvă impresionantă de circ glaciar situată în regiunea înaltă a masivului Pollino.",
+                  "category": "landmark",
+                  "coords": [
+                        16.201627,
+                        39.900293
+                  ]
+            },
+            {
+                  "name": "Circo glaciale di Serra del Prete (GS 9)",
+                  "text": "Un circ glaciar format de ghețarii din epoca de gheață sub vârful Serra del Prete.",
+                  "category": "landmark",
+                  "coords": [
+                        16.161786,
+                        39.919786
+                  ]
+            },
+            {
+                  "name": "Valli glaciali (GS 10)",
+                  "text": "Văi modelate de ghețarii din epoca de gheață în inima masivului Pollino.",
+                  "category": "landmark",
+                  "coords": [
+                        16.186656,
+                        39.92047
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Giardino degli Dei",
+                  "text": "A nature reserve in the Pollino Massif, known for its centuries-old Bosnian pines.",
+                  "category": "natural",
+                  "coords": [
+                        16.2115,
+                        39.928122
+                  ]
+            },
+            {
+                  "name": "Serra Dolcedorme",
+                  "text": "The highest peak of the Pollino Massif in the southern Apennines.",
+                  "category": "landmark",
+                  "coords": [
+                        16.215752,
+                        39.894365
+                  ]
+            },
+            {
+                  "name": "Serra delle Ciavole",
+                  "text": "A prominent peak in the Pollino National Park, known for its pristine nature.",
+                  "category": "landmark",
+                  "coords": [
+                        16.219097,
+                        39.915895
+                  ]
+            },
+            {
+                  "name": "Monte Pollino",
+                  "text": "A major peak in the Pollino Massif that gives its name to the national park.",
+                  "category": "landmark",
+                  "coords": [
+                        16.188493,
+                        39.907639
+                  ]
+            },
+            {
+                  "name": "Circo glaciale (GS 3)",
+                  "text": "A geomorphological feature in the Pollino Massif formed by ancient glacial activity.",
+                  "category": "landmark",
+                  "coords": [
+                        16.191993,
+                        39.9077
+                  ]
+            },
+            {
+                  "name": "Circo glaciale Dolcedorme -Pollino (GS7)",
+                  "text": "An impressive glacial cirque relic located in the high region of the Pollino Massif.",
+                  "category": "landmark",
+                  "coords": [
+                        16.201627,
+                        39.900293
+                  ]
+            },
+            {
+                  "name": "Circo glaciale di Serra del Prete (GS 9)",
+                  "text": "A glacial cirque formed by ice age glaciers below the Serra del Prete peak.",
+                  "category": "landmark",
+                  "coords": [
+                        16.161786,
+                        39.919786
+                  ]
+            },
+            {
+                  "name": "Valli glaciali (GS 10)",
+                  "text": "Valleys shaped by ice age glaciers in the heart of the Pollino Massif.",
+                  "category": "landmark",
+                  "coords": [
+                        16.186656,
+                        39.92047
+                  ]
+            }
+      ]
+},
     type: "mountain",
     parent: "IT",
     name: { de: "Pollino-Massiv", hu: "Pollino-hegytömb", ro: "Masivul Pollino", en: "Pollino Massif" },
@@ -543,7 +2010,232 @@ export const italyReliefV2: POI[] = [
     image: "/poi-images/italy-altopiano-di-asiago-relief-v2.webp",
   },
   {
-    id: "italy-monte-cinto-relief-v2",
+    id: "italy-monte-cinto-relief-v2", "sights": {
+      "de": [
+            {
+                  "name": "Paese sommerso di Fabbriche di Careggine",
+                  "text": "Ein im Lago di Vagli versunkenes Dorf, das bei niedrigem Wasserstand als archäologische Stätte sichtbar wird.",
+                  "category": "historical",
+                  "coords": [
+                        10.304269,
+                        44.122875
+                  ]
+            },
+            {
+                  "name": "Civica Raccolta di Ceramiche Rinascimentali",
+                  "text": "Eine städtische Sammlung, die bedeutende Keramikarbeiten aus der Renaissance präsentiert.",
+                  "category": "museum",
+                  "coords": [
+                        10.335798,
+                        44.158557
+                  ]
+            },
+            {
+                  "name": "castagno storico",
+                  "text": "Ein jahrhundertealter, historischer Kastanienbaum als Naturattraktion.",
+                  "category": "landmark",
+                  "coords": [
+                        10.302852,
+                        44.139781
+                  ]
+            },
+            {
+                  "name": "Fosso di Apraia",
+                  "text": "Ein Bachlauf und Naturgebiet in der gebirgigen Landschaft von Lucca.",
+                  "category": "landmark",
+                  "coords": [
+                        10.322121,
+                        44.109168
+                  ]
+            },
+            {
+                  "name": "giant yellow bench",
+                  "text": "Ein Aussichtspunkt mit einer übergroßen gelben Bank, Teil des Big Bench Community Projects.",
+                  "category": "natural",
+                  "coords": [
+                        10.317883,
+                        44.125444
+                  ]
+            },
+            {
+                  "name": "Chiesa di San Nicolao in Sillicano",
+                  "text": "Eine historische Kirche im romanischen Stil im Dorf Sillicano.",
+                  "category": "religious",
+                  "coords": [
+                        10.361103,
+                        44.121165
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Paese sommerso di Fabbriche di Careggine",
+                  "text": "A Vagli-tóban elsüllyedt középkori falu, amely a vízszint csökkenésekor válik láthatóvá.",
+                  "category": "historical",
+                  "coords": [
+                        10.304269,
+                        44.122875
+                  ]
+            },
+            {
+                  "name": "Civica Raccolta di Ceramiche Rinascimentali",
+                  "text": "Városi gyűjtemény, amely jelentős reneszánsz kori kerámiákat mutat be.",
+                  "category": "museum",
+                  "coords": [
+                        10.335798,
+                        44.158557
+                  ]
+            },
+            {
+                  "name": "castagno storico",
+                  "text": "Természeti látványosságként tisztelt, évszázados történelmi gesztenyefa.",
+                  "category": "landmark",
+                  "coords": [
+                        10.302852,
+                        44.139781
+                  ]
+            },
+            {
+                  "name": "Fosso di Apraia",
+                  "text": "Természeti terület és patakmeder Lucca hegyvidéki táján.",
+                  "category": "landmark",
+                  "coords": [
+                        10.322121,
+                        44.109168
+                  ]
+            },
+            {
+                  "name": "giant yellow bench",
+                  "text": "Kilátópont egy hatalmas sárga paddal, a Big Bench Community Project része.",
+                  "category": "natural",
+                  "coords": [
+                        10.317883,
+                        44.125444
+                  ]
+            },
+            {
+                  "name": "Chiesa di San Nicolao in Sillicano",
+                  "text": "Sillicano falujában található történelmi templom, amely román stílusjegyeket hordoz.",
+                  "category": "religious",
+                  "coords": [
+                        10.361103,
+                        44.121165
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Paese sommerso di Fabbriche di Careggine",
+                  "text": "Un sat scufundat în lacul Vagli, care devine vizibil ca sit arheologic atunci când apa este scăzută.",
+                  "category": "historical",
+                  "coords": [
+                        10.304269,
+                        44.122875
+                  ]
+            },
+            {
+                  "name": "Civica Raccolta di Ceramiche Rinascimentali",
+                  "text": "O colecție civică ce expune piese remarcabile de ceramică din perioada Renașterii.",
+                  "category": "museum",
+                  "coords": [
+                        10.335798,
+                        44.158557
+                  ]
+            },
+            {
+                  "name": "castagno storico",
+                  "text": "Un castan istoric multisecular, considerat o atracție naturală locală.",
+                  "category": "landmark",
+                  "coords": [
+                        10.302852,
+                        44.139781
+                  ]
+            },
+            {
+                  "name": "Fosso di Apraia",
+                  "text": "Un curs de apă și zonă naturală situată în peisajul montan din regiunea Lucca.",
+                  "category": "landmark",
+                  "coords": [
+                        10.322121,
+                        44.109168
+                  ]
+            },
+            {
+                  "name": "giant yellow bench",
+                  "text": "Un punct de belvedere dotat cu o bancă galbenă gigantică, parte dintr-un proiect comunitar.",
+                  "category": "natural",
+                  "coords": [
+                        10.317883,
+                        44.125444
+                  ]
+            },
+            {
+                  "name": "Chiesa di San Nicolao in Sillicano",
+                  "text": "O biserică istorică în stil romanic situată în satul Sillicano.",
+                  "category": "religious",
+                  "coords": [
+                        10.361103,
+                        44.121165
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Paese sommerso di Fabbriche di Careggine",
+                  "text": "A submerged medieval village in Lake Vagli that appears as an archaeological site when water levels are low.",
+                  "category": "historical",
+                  "coords": [
+                        10.304269,
+                        44.122875
+                  ]
+            },
+            {
+                  "name": "Civica Raccolta di Ceramiche Rinascimentali",
+                  "text": "A civic collection showcasing significant ceramic works from the Renaissance period.",
+                  "category": "museum",
+                  "coords": [
+                        10.335798,
+                        44.158557
+                  ]
+            },
+            {
+                  "name": "castagno storico",
+                  "text": "A centuries-old historical chestnut tree serving as a local natural attraction.",
+                  "category": "landmark",
+                  "coords": [
+                        10.302852,
+                        44.139781
+                  ]
+            },
+            {
+                  "name": "Fosso di Apraia",
+                  "text": "A stream and natural area located within the mountainous landscape of Lucca.",
+                  "category": "landmark",
+                  "coords": [
+                        10.322121,
+                        44.109168
+                  ]
+            },
+            {
+                  "name": "giant yellow bench",
+                  "text": "A viewpoint featuring an oversized yellow bench, part of the Big Bench Community Project.",
+                  "category": "natural",
+                  "coords": [
+                        10.317883,
+                        44.125444
+                  ]
+            },
+            {
+                  "name": "Chiesa di San Nicolao in Sillicano",
+                  "text": "A historical Romanesque-style church located in the village of Sillicano.",
+                  "category": "religious",
+                  "coords": [
+                        10.361103,
+                        44.121165
+                  ]
+            }
+      ]
+},
     type: "mountain",
     parent: "IT",
     name: { de: "Monte Cinto", hu: "Monte Cinto", ro: "Monte Cinto", en: "Monte Cinto" },
@@ -588,7 +2280,304 @@ export const italyReliefV2: POI[] = [
     image: "/poi-images/italy-monte-cinto-relief-v2.webp",
   },
   {
-    id: "italy-monte-falterona-relief-v2",
+    id: "italy-monte-falterona-relief-v2", "sights": {
+      "de": [
+            {
+                  "name": "Museo forestale di Campigna",
+                  "text": "Ein Forstmuseum in Campigna, das die Geschichte der lokalen Wälder dokumentiert.",
+                  "category": "museum",
+                  "coords": [
+                        11.747413,
+                        43.871965
+                  ]
+            },
+            {
+                  "name": "Museo del Parco",
+                  "text": "Das Besucherzentrum und Museum des Nationalparks Foreste Casentinesi.",
+                  "category": "museum",
+                  "coords": [
+                        11.746098,
+                        43.871787
+                  ]
+            },
+            {
+                  "name": "Lago degli Idoli",
+                  "text": "Ein Bergsee, der als antike etruskische archäologische und votive Stätte bekannt ist.",
+                  "category": "historical",
+                  "coords": [
+                        11.691739,
+                        43.864073
+                  ]
+            },
+            {
+                  "name": "Monte Falco",
+                  "text": "Der höchste Gipfel des toskanisch-emilianischen Apennins mit weitem Ausblick.",
+                  "category": "landmark",
+                  "coords": [
+                        11.709207,
+                        43.877537
+                  ]
+            },
+            {
+                  "name": "Monte Falterona",
+                  "text": "Ein bedeutender Gipfel im Apennin und die Quelle des Flusses Arno.",
+                  "category": "landmark",
+                  "coords": [
+                        11.696641,
+                        43.873623
+                  ]
+            },
+            {
+                  "name": "Monte Gabrendo",
+                  "text": "Ein Berggipfel im Monte-Falterona-Massiv innerhalb des Nationalparks.",
+                  "category": "landmark",
+                  "coords": [
+                        11.732942,
+                        43.862033
+                  ]
+            },
+            {
+                  "name": "Monte Castellonchio",
+                  "text": "Einer der Gipfel um den Monte Falterona im nördlichen Apennin.",
+                  "category": "landmark",
+                  "coords": [
+                        11.669962,
+                        43.847001
+                  ]
+            },
+            {
+                  "name": "La Posa",
+                  "text": "Ein Aussichtspunkt mit Blick über den Nationalpark Foreste Casentinesi.",
+                  "category": "natural",
+                  "coords": [
+                        11.697086,
+                        43.89676
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Museo forestale di Campigna",
+                  "text": "Erdészeti múzeum Campignában, amely a helyi erdők történetét mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        11.747413,
+                        43.871965
+                  ]
+            },
+            {
+                  "name": "Museo del Parco",
+                  "text": "A Foreste Casentinesi Nemzeti Park látogatóközpontja és múzeuma.",
+                  "category": "museum",
+                  "coords": [
+                        11.746098,
+                        43.871787
+                  ]
+            },
+            {
+                  "name": "Lago degli Idoli",
+                  "text": "Hegyi tó, amely ősi etruszk régészeti és fogadalmi helyként ismert.",
+                  "category": "historical",
+                  "coords": [
+                        11.691739,
+                        43.864073
+                  ]
+            },
+            {
+                  "name": "Monte Falco",
+                  "text": "A Toszkán-Emilián-Appenninek legmagasabb csúcsa, ahonnan pazar kilátás nyílik.",
+                  "category": "landmark",
+                  "coords": [
+                        11.709207,
+                        43.877537
+                  ]
+            },
+            {
+                  "name": "Monte Falterona",
+                  "text": "Az Appenninek egyik jelentős csúcsa, az Arno folyó forrásvidéke.",
+                  "category": "landmark",
+                  "coords": [
+                        11.696641,
+                        43.873623
+                  ]
+            },
+            {
+                  "name": "Monte Gabrendo",
+                  "text": "Hegycsúcs a Monte Falterona-masszívumban, a nemzeti park területén.",
+                  "category": "landmark",
+                  "coords": [
+                        11.732942,
+                        43.862033
+                  ]
+            },
+            {
+                  "name": "Monte Castellonchio",
+                  "text": "Az északi Appenninekben található Monte Falterona körüli csúcsok egyike.",
+                  "category": "landmark",
+                  "coords": [
+                        11.669962,
+                        43.847001
+                  ]
+            },
+            {
+                  "name": "La Posa",
+                  "text": "Kilátó, ahonnan kilátás nyílik a Foreste Casentinesi Nemzeti Parkra.",
+                  "category": "natural",
+                  "coords": [
+                        11.697086,
+                        43.89676
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Museo forestale di Campigna",
+                  "text": "Un muzeu forestier în Campigna care detaliază istoria pădurilor locale.",
+                  "category": "museum",
+                  "coords": [
+                        11.747413,
+                        43.871965
+                  ]
+            },
+            {
+                  "name": "Museo del Parco",
+                  "text": "Centrul de vizitare și muzeul Parcului Național Foreste Casentinesi.",
+                  "category": "museum",
+                  "coords": [
+                        11.746098,
+                        43.871787
+                  ]
+            },
+            {
+                  "name": "Lago degli Idoli",
+                  "text": "Un lac montan cunoscut ca sit arheologic și votiv etrusc antic.",
+                  "category": "historical",
+                  "coords": [
+                        11.691739,
+                        43.864073
+                  ]
+            },
+            {
+                  "name": "Monte Falco",
+                  "text": "Cel mai înalt vârf din Apeninii Toscan-Emiliani, oferind vederi spectaculoase.",
+                  "category": "landmark",
+                  "coords": [
+                        11.709207,
+                        43.877537
+                  ]
+            },
+            {
+                  "name": "Monte Falterona",
+                  "text": "Un vârf semnificativ din Apenini și izvorul râului Arno.",
+                  "category": "landmark",
+                  "coords": [
+                        11.696641,
+                        43.873623
+                  ]
+            },
+            {
+                  "name": "Monte Gabrendo",
+                  "text": "Un vârf muntos din masivul Monte Falterona, aflat în interiorul parcului național.",
+                  "category": "landmark",
+                  "coords": [
+                        11.732942,
+                        43.862033
+                  ]
+            },
+            {
+                  "name": "Monte Castellonchio",
+                  "text": "Unul dintre vârfurile care înconjoară Monte Falterona în Apeninii Nordici.",
+                  "category": "landmark",
+                  "coords": [
+                        11.669962,
+                        43.847001
+                  ]
+            },
+            {
+                  "name": "La Posa",
+                  "text": "Un punct de belvedere care oferă vederi asupra Parcului Național Foreste Casentinesi.",
+                  "category": "natural",
+                  "coords": [
+                        11.697086,
+                        43.89676
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Museo forestale di Campigna",
+                  "text": "A forestry museum in Campigna detailing the history of the local forests.",
+                  "category": "museum",
+                  "coords": [
+                        11.747413,
+                        43.871965
+                  ]
+            },
+            {
+                  "name": "Museo del Parco",
+                  "text": "The visitor center and museum of the Foreste Casentinesi National Park.",
+                  "category": "museum",
+                  "coords": [
+                        11.746098,
+                        43.871787
+                  ]
+            },
+            {
+                  "name": "Lago degli Idoli",
+                  "text": "A mountain lake known as an ancient Etruscan archaeological and votive site.",
+                  "category": "historical",
+                  "coords": [
+                        11.691739,
+                        43.864073
+                  ]
+            },
+            {
+                  "name": "Monte Falco",
+                  "text": "The highest peak of the Tuscan-Emilian Apennines, offering expansive views.",
+                  "category": "landmark",
+                  "coords": [
+                        11.709207,
+                        43.877537
+                  ]
+            },
+            {
+                  "name": "Monte Falterona",
+                  "text": "A significant peak in the Apennines and the source of the Arno River.",
+                  "category": "landmark",
+                  "coords": [
+                        11.696641,
+                        43.873623
+                  ]
+            },
+            {
+                  "name": "Monte Gabrendo",
+                  "text": "A mountain peak in the Monte Falterona massif within the national park.",
+                  "category": "landmark",
+                  "coords": [
+                        11.732942,
+                        43.862033
+                  ]
+            },
+            {
+                  "name": "Monte Castellonchio",
+                  "text": "One of the peaks surrounding Monte Falterona in the Northern Apennines.",
+                  "category": "landmark",
+                  "coords": [
+                        11.669962,
+                        43.847001
+                  ]
+            },
+            {
+                  "name": "La Posa",
+                  "text": "A scenic viewpoint offering vistas over the Foreste Casentinesi National Park.",
+                  "category": "natural",
+                  "coords": [
+                        11.697086,
+                        43.89676
+                  ]
+            }
+      ]
+},
     type: "mountain",
     parent: "IT",
     name: { de: "Monte Falterona", hu: "Monte Falterona", ro: "Monte Falterona", en: "Monte Falterona" },
@@ -633,7 +2622,232 @@ export const italyReliefV2: POI[] = [
     image: "/poi-images/italy-monte-falterona-relief-v2.webp",
   },
   {
-    id: "italy-monte-nerone-relief-v2",
+    id: "italy-monte-nerone-relief-v2", "sights": {
+      "de": [
+            {
+                  "name": "Vecchio Mulino",
+                  "text": "Archäologische Überreste einer alten Mühle am Monte Nerone.",
+                  "category": "historical",
+                  "coords": [
+                        12.517006,
+                        43.581396
+                  ]
+            },
+            {
+                  "name": "Monte Nerone - Gola di Gorgo a Cerbara",
+                  "text": "Ein Naturschutzgebiet am Monte Nerone, bekannt für die Schlucht von Gorgo a Cerbara.",
+                  "category": "natural",
+                  "coords": [
+                        12.542881,
+                        43.562091
+                  ]
+            },
+            {
+                  "name": "Monte Nerone",
+                  "text": "Ein markanter Gipfel im Apennin, der weite Ausblicke über die Region bietet.",
+                  "category": "landmark",
+                  "coords": [
+                        12.518088,
+                        43.557844
+                  ]
+            },
+            {
+                  "name": "I Muracci",
+                  "text": "Alte Ruinenstrukturen in der Bergregion des Monte Nerone.",
+                  "category": "historical",
+                  "coords": [
+                        12.509915,
+                        43.579317
+                  ]
+            },
+            {
+                  "name": "Eremo di Morimondo (rovine)",
+                  "text": "Überreste einer ehemaligen Einsiedelei in der Nähe des Monte Nerone.",
+                  "category": "historical",
+                  "coords": [
+                        12.536874,
+                        43.583836
+                  ]
+            },
+            {
+                  "name": "Balza Forata",
+                  "text": "Eine markante Felsformation am Monte Nerone mit einem natürlichen Durchbruch.",
+                  "category": "landmark",
+                  "coords": [
+                        12.515583,
+                        43.572443
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Vecchio Mulino",
+                  "text": "Egy régi malom régészeti maradványai a Monte Nerone lábánál.",
+                  "category": "historical",
+                  "coords": [
+                        12.517006,
+                        43.581396
+                  ]
+            },
+            {
+                  "name": "Monte Nerone - Gola di Gorgo a Cerbara",
+                  "text": "Természetvédelmi terület a Monte Nerone-nál, amely a Gorgo a Cerbara szurdokáról ismert.",
+                  "category": "natural",
+                  "coords": [
+                        12.542881,
+                        43.562091
+                  ]
+            },
+            {
+                  "name": "Monte Nerone",
+                  "text": "Az Appenninek egyik jellegzetes csúcsa, amely tágas kilátást nyújt a régióra.",
+                  "category": "landmark",
+                  "coords": [
+                        12.518088,
+                        43.557844
+                  ]
+            },
+            {
+                  "name": "I Muracci",
+                  "text": "Régi romok a Monte Nerone hegyvidéki területén.",
+                  "category": "historical",
+                  "coords": [
+                        12.509915,
+                        43.579317
+                  ]
+            },
+            {
+                  "name": "Eremo di Morimondo (rovine)",
+                  "text": "Egykori remetelak maradványai a Monte Nerone közelében.",
+                  "category": "historical",
+                  "coords": [
+                        12.536874,
+                        43.583836
+                  ]
+            },
+            {
+                  "name": "Balza Forata",
+                  "text": "Jellegzetes sziklaformáció a Monte Nerone-n, természetes áttöréssel.",
+                  "category": "landmark",
+                  "coords": [
+                        12.515583,
+                        43.572443
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Vecchio Mulino",
+                  "text": "Vestigii arheologice ale unei vechi mori de la poalele Muntelui Nerone.",
+                  "category": "historical",
+                  "coords": [
+                        12.517006,
+                        43.581396
+                  ]
+            },
+            {
+                  "name": "Monte Nerone - Gola di Gorgo a Cerbara",
+                  "text": "O rezervație naturală pe Muntele Nerone, cunoscută pentru cheile Gorgo a Cerbara.",
+                  "category": "natural",
+                  "coords": [
+                        12.542881,
+                        43.562091
+                  ]
+            },
+            {
+                  "name": "Monte Nerone",
+                  "text": "Un vârf proeminent din Apenini, care oferă vederi largi asupra regiunii.",
+                  "category": "landmark",
+                  "coords": [
+                        12.518088,
+                        43.557844
+                  ]
+            },
+            {
+                  "name": "I Muracci",
+                  "text": "Ruine vechi situate în regiunea montană a Muntelui Nerone.",
+                  "category": "historical",
+                  "coords": [
+                        12.509915,
+                        43.579317
+                  ]
+            },
+            {
+                  "name": "Eremo di Morimondo (rovine)",
+                  "text": "Rămășițele unei foste sihăstrii în apropiere de Monte Nerone.",
+                  "category": "historical",
+                  "coords": [
+                        12.536874,
+                        43.583836
+                  ]
+            },
+            {
+                  "name": "Balza Forata",
+                  "text": "O formațiune stâncoasă deosebită pe Muntele Nerone, cu o deschidere naturală.",
+                  "category": "landmark",
+                  "coords": [
+                        12.515583,
+                        43.572443
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Vecchio Mulino",
+                  "text": "Archaeological remains of an old mill at the foot of Monte Nerone.",
+                  "category": "historical",
+                  "coords": [
+                        12.517006,
+                        43.581396
+                  ]
+            },
+            {
+                  "name": "Monte Nerone - Gola di Gorgo a Cerbara",
+                  "text": "A nature reserve on Monte Nerone, known for the Gorgo a Cerbara gorge.",
+                  "category": "natural",
+                  "coords": [
+                        12.542881,
+                        43.562091
+                  ]
+            },
+            {
+                  "name": "Monte Nerone",
+                  "text": "A prominent peak in the Apennines offering expansive views over the region.",
+                  "category": "landmark",
+                  "coords": [
+                        12.518088,
+                        43.557844
+                  ]
+            },
+            {
+                  "name": "I Muracci",
+                  "text": "Ancient ruins located in the mountainous region of Monte Nerone.",
+                  "category": "historical",
+                  "coords": [
+                        12.509915,
+                        43.579317
+                  ]
+            },
+            {
+                  "name": "Eremo di Morimondo (rovine)",
+                  "text": "The remains of a former hermitage near Monte Nerone.",
+                  "category": "historical",
+                  "coords": [
+                        12.536874,
+                        43.583836
+                  ]
+            },
+            {
+                  "name": "Balza Forata",
+                  "text": "A distinctive rock formation on Monte Nerone featuring a natural hole.",
+                  "category": "landmark",
+                  "coords": [
+                        12.515583,
+                        43.572443
+                  ]
+            }
+      ]
+},
     type: "mountain",
     parent: "IT",
     name: { de: "Monte Nerone", hu: "Monte Nerone", ro: "Monte Nerone", en: "Monte Nerone" },
@@ -678,7 +2892,124 @@ export const italyReliefV2: POI[] = [
     image: "/poi-images/italy-monte-nerone-relief-v2.webp",
   },
   {
-    id: "italy-monte-cucuzzo-relief-v2",
+    id: "italy-monte-cucuzzo-relief-v2", "sights": {
+      "de": [
+            {
+                  "name": "Casa Museo",
+                  "text": "Ein Museum und historisches Haus zur lokalen Kultur bei Monte Cucuzzo.",
+                  "category": "museum",
+                  "coords": [
+                        16.145525,
+                        39.505146
+                  ]
+            },
+            {
+                  "name": "Archi di Santa Barbara",
+                  "text": "Historische Ruinen mit alten Bögen in der Region Monte Cucuzzo.",
+                  "category": "historical",
+                  "coords": [
+                        16.145753,
+                        39.507451
+                  ]
+            },
+            {
+                  "name": "Cavallerizzo di Cerzeto Vecchio",
+                  "text": "Ruinen einer verlassenen historischen Siedlung in der Region Kalabrien.",
+                  "category": "historical",
+                  "coords": [
+                        16.111479,
+                        39.515178
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Casa Museo",
+                  "text": "Múzeum és történelmi ház a helyi kultúra bemutatására a Monte Cucuzzo közelében.",
+                  "category": "museum",
+                  "coords": [
+                        16.145525,
+                        39.505146
+                  ]
+            },
+            {
+                  "name": "Archi di Santa Barbara",
+                  "text": "Történelmi romok régi boltívekkel a Monte Cucuzzo régióban.",
+                  "category": "historical",
+                  "coords": [
+                        16.145753,
+                        39.507451
+                  ]
+            },
+            {
+                  "name": "Cavallerizzo di Cerzeto Vecchio",
+                  "text": "Egy elhagyatott történelmi település romjai Calabria régiójában.",
+                  "category": "historical",
+                  "coords": [
+                        16.111479,
+                        39.515178
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Casa Museo",
+                  "text": "Un muzeu și casă istorică despre cultura locală de lângă Monte Cucuzzo.",
+                  "category": "museum",
+                  "coords": [
+                        16.145525,
+                        39.505146
+                  ]
+            },
+            {
+                  "name": "Archi di Santa Barbara",
+                  "text": "Ruine istorice cu arcade vechi în regiunea Monte Cucuzzo.",
+                  "category": "historical",
+                  "coords": [
+                        16.145753,
+                        39.507451
+                  ]
+            },
+            {
+                  "name": "Cavallerizzo di Cerzeto Vecchio",
+                  "text": "Ruinele unei așezări istorice abandonate din regiunea Calabria.",
+                  "category": "historical",
+                  "coords": [
+                        16.111479,
+                        39.515178
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Casa Museo",
+                  "text": "A museum and historic house dedicated to local culture near Monte Cucuzzo.",
+                  "category": "museum",
+                  "coords": [
+                        16.145525,
+                        39.505146
+                  ]
+            },
+            {
+                  "name": "Archi di Santa Barbara",
+                  "text": "Historical ruins featuring old arches in the Monte Cucuzzo region.",
+                  "category": "historical",
+                  "coords": [
+                        16.145753,
+                        39.507451
+                  ]
+            },
+            {
+                  "name": "Cavallerizzo di Cerzeto Vecchio",
+                  "text": "Ruins of an abandoned historical settlement in the Calabria region.",
+                  "category": "historical",
+                  "coords": [
+                        16.111479,
+                        39.515178
+                  ]
+            }
+      ]
+},
     type: "mountain",
     parent: "IT",
     name: { de: "Monte Cucuzzo", hu: "Monte Cucuzzo", ro: "Monte Cucuzzo", en: "Monte Cucuzzo" },
@@ -723,7 +3054,268 @@ export const italyReliefV2: POI[] = [
     image: "/poi-images/italy-monte-cucuzzo-relief-v2.webp",
   },
   {
-    id: "italy-monte-vettore-relief-v2",
+    id: "italy-monte-vettore-relief-v2", "sights": {
+      "de": [
+            {
+                  "name": "Monte Argentella",
+                  "text": "Ein Gipfel in den Sibillinischen Bergen im zentralen Apennin in Italien.",
+                  "category": "landmark",
+                  "coords": [
+                        13.243643,
+                        42.858775
+                  ]
+            },
+            {
+                  "name": "Cima del Redentore",
+                  "text": "Der zweithöchste Gipfel im Sibillini-Gebirge mit Panoramablick.",
+                  "category": "landmark",
+                  "coords": [
+                        13.255051,
+                        42.825433
+                  ]
+            },
+            {
+                  "name": "Pizzo del Diavolo",
+                  "text": "Ein scharfer Berggipfel im Sibillini-Gebirge in der Nähe des Monte Vettore.",
+                  "category": "landmark",
+                  "coords": [
+                        13.259347,
+                        42.826365
+                  ]
+            },
+            {
+                  "name": "Cima del Lago",
+                  "text": "Ein Berggipfel im Sibillini-Gebirge mit Blick auf den Pilato-See.",
+                  "category": "landmark",
+                  "coords": [
+                        13.258793,
+                        42.818335
+                  ]
+            },
+            {
+                  "name": "Cima dell'Osservatorio",
+                  "text": "Ein Berggipfel im Monte-Vettore-Massiv im Apennin.",
+                  "category": "landmark",
+                  "coords": [
+                        13.253218,
+                        42.831561
+                  ]
+            },
+            {
+                  "name": "Quarto San Lorenzo",
+                  "text": "Ein Berggipfel im zentralen Apennin in der Nähe des Gebiets Monte Vettore.",
+                  "category": "landmark",
+                  "coords": [
+                        13.249861,
+                        42.837693
+                  ]
+            },
+            {
+                  "name": "Monte Vettore",
+                  "text": "Der höchste Gipfel im Sibillini-Gebirge in Mittelitalien mit 2.476 Metern.",
+                  "category": "landmark",
+                  "coords": [
+                        13.274972,
+                        42.824412
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Monte Argentella",
+                  "text": "Hegycsúcs a Szibillini-hegységben, az olaszországi Központi-Appenninekben.",
+                  "category": "landmark",
+                  "coords": [
+                        13.243643,
+                        42.858775
+                  ]
+            },
+            {
+                  "name": "Cima del Redentore",
+                  "text": "A Szibillini-hegység második legmagasabb csúcsa, panorámás kilátással.",
+                  "category": "landmark",
+                  "coords": [
+                        13.255051,
+                        42.825433
+                  ]
+            },
+            {
+                  "name": "Pizzo del Diavolo",
+                  "text": "Egy éles hegycsúcs a Szibillini-hegységben, a Monte Vettore közelében.",
+                  "category": "landmark",
+                  "coords": [
+                        13.259347,
+                        42.826365
+                  ]
+            },
+            {
+                  "name": "Cima del Lago",
+                  "text": "Hegycsúcs a Szibillini-hegységben, kilátással a Pilato-tóra.",
+                  "category": "landmark",
+                  "coords": [
+                        13.258793,
+                        42.818335
+                  ]
+            },
+            {
+                  "name": "Cima dell'Osservatorio",
+                  "text": "Hegycsúcs a Monte Vettore-masszívumban az Appenninekben.",
+                  "category": "landmark",
+                  "coords": [
+                        13.253218,
+                        42.831561
+                  ]
+            },
+            {
+                  "name": "Quarto San Lorenzo",
+                  "text": "Hegycsúcs a Központi-Appenninekben, a Monte Vettore környékén.",
+                  "category": "landmark",
+                  "coords": [
+                        13.249861,
+                        42.837693
+                  ]
+            },
+            {
+                  "name": "Monte Vettore",
+                  "text": "Közép-Olaszország Szibillini-hegységének legmagasabb csúcsa, 2476 méter.",
+                  "category": "landmark",
+                  "coords": [
+                        13.274972,
+                        42.824412
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Monte Argentella",
+                  "text": "Un vârf în Munții Sibillini din Apeninii centrali în Italia.",
+                  "category": "landmark",
+                  "coords": [
+                        13.243643,
+                        42.858775
+                  ]
+            },
+            {
+                  "name": "Cima del Redentore",
+                  "text": "Al doilea cel mai înalt vârf din Munții Sibillini, oferind vederi panoramice.",
+                  "category": "landmark",
+                  "coords": [
+                        13.255051,
+                        42.825433
+                  ]
+            },
+            {
+                  "name": "Pizzo del Diavolo",
+                  "text": "Un vârf montan ascuțit în Munții Sibillini, lângă Monte Vettore.",
+                  "category": "landmark",
+                  "coords": [
+                        13.259347,
+                        42.826365
+                  ]
+            },
+            {
+                  "name": "Cima del Lago",
+                  "text": "Un vârf muntos în Munții Sibillini, cu vedere spre Lacul Pilato.",
+                  "category": "landmark",
+                  "coords": [
+                        13.258793,
+                        42.818335
+                  ]
+            },
+            {
+                  "name": "Cima dell'Osservatorio",
+                  "text": "Un vârf muntos situat în masivul Monte Vettore din Apenini.",
+                  "category": "landmark",
+                  "coords": [
+                        13.253218,
+                        42.831561
+                  ]
+            },
+            {
+                  "name": "Quarto San Lorenzo",
+                  "text": "Un vârf muntos în Apeninii centrali, lângă zona Monte Vettore.",
+                  "category": "landmark",
+                  "coords": [
+                        13.249861,
+                        42.837693
+                  ]
+            },
+            {
+                  "name": "Monte Vettore",
+                  "text": "Cel mai înalt vârf din Munții Sibillini din centrul Italiei, atingând 2.476 de metri.",
+                  "category": "landmark",
+                  "coords": [
+                        13.274972,
+                        42.824412
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Monte Argentella",
+                  "text": "A peak in the Sibillini Mountains of the central Apennines in Italy.",
+                  "category": "landmark",
+                  "coords": [
+                        13.243643,
+                        42.858775
+                  ]
+            },
+            {
+                  "name": "Cima del Redentore",
+                  "text": "The second highest peak in the Sibillini Mountains, offering panoramic views.",
+                  "category": "landmark",
+                  "coords": [
+                        13.255051,
+                        42.825433
+                  ]
+            },
+            {
+                  "name": "Pizzo del Diavolo",
+                  "text": "A sharp mountain peak in the Sibillini range near Monte Vettore.",
+                  "category": "landmark",
+                  "coords": [
+                        13.259347,
+                        42.826365
+                  ]
+            },
+            {
+                  "name": "Cima del Lago",
+                  "text": "A mountain peak in the Sibillini Mountains overlooking Lake Pilato.",
+                  "category": "landmark",
+                  "coords": [
+                        13.258793,
+                        42.818335
+                  ]
+            },
+            {
+                  "name": "Cima dell'Osservatorio",
+                  "text": "A mountain peak located within the Monte Vettore massif in the Apennines.",
+                  "category": "landmark",
+                  "coords": [
+                        13.253218,
+                        42.831561
+                  ]
+            },
+            {
+                  "name": "Quarto San Lorenzo",
+                  "text": "A mountain peak in the central Apennines near the Monte Vettore area.",
+                  "category": "landmark",
+                  "coords": [
+                        13.249861,
+                        42.837693
+                  ]
+            },
+            {
+                  "name": "Monte Vettore",
+                  "text": "The highest peak in the Sibillini Mountains of central Italy, reaching 2,476 meters.",
+                  "category": "landmark",
+                  "coords": [
+                        13.274972,
+                        42.824412
+                  ]
+            }
+      ]
+},
     type: "mountain",
     parent: "IT",
     name: { de: "Monte Vettore", hu: "Monte Vettore", ro: "Monte Vettore", en: "Monte Vettore" },
@@ -768,7 +3360,124 @@ export const italyReliefV2: POI[] = [
     image: "/poi-images/italy-monte-vettore-relief-v2.webp",
   },
   {
-    id: "italy-monte-meta-relief-v2",
+    id: "italy-monte-meta-relief-v2", "sights": {
+      "de": [
+            {
+                  "name": "Monte La Meta",
+                  "text": "Ein Gipfel im Apennin, an der Grenze zwischen den Regionen Latium, Abruzzen und Molise.",
+                  "category": "landmark",
+                  "coords": [
+                        13.939799,
+                        41.688902
+                  ]
+            },
+            {
+                  "name": "Rocca Altiera",
+                  "text": "Ein Berggipfel in den Abruzzen, Teil des Monti-della-Meta-Massivs.",
+                  "category": "landmark",
+                  "coords": [
+                        13.883034,
+                        41.699186
+                  ]
+            },
+            {
+                  "name": "Santuario diocesano Maria Santissima di Canneto",
+                  "text": "Ein bedeutender Wallfahrtsort in der Gemeinde Settefrati im Canneto-Tal.",
+                  "category": "religious",
+                  "coords": [
+                        13.908228,
+                        41.678319
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Monte La Meta",
+                  "text": "Az Appenninek egyik csúcsa Lazio, Abruzzo és Molise régiók határán.",
+                  "category": "landmark",
+                  "coords": [
+                        13.939799,
+                        41.688902
+                  ]
+            },
+            {
+                  "name": "Rocca Altiera",
+                  "text": "Hegyi csúcs az Abruzzókban, a Monti della Meta hegység része.",
+                  "category": "landmark",
+                  "coords": [
+                        13.883034,
+                        41.699186
+                  ]
+            },
+            {
+                  "name": "Santuario diocesano Maria Santissima di Canneto",
+                  "text": "Fontos zarándokhely Settefrati községben, a Canneto-völgyben.",
+                  "category": "religious",
+                  "coords": [
+                        13.908228,
+                        41.678319
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Monte La Meta",
+                  "text": "Un vârf din Munții Apenini, situat la granița dintre regiunile Lazio, Abruzzo și Molise.",
+                  "category": "landmark",
+                  "coords": [
+                        13.939799,
+                        41.688902
+                  ]
+            },
+            {
+                  "name": "Rocca Altiera",
+                  "text": "Un vârf muntos în Apenini, făcând parte din masivul Monti della Meta.",
+                  "category": "landmark",
+                  "coords": [
+                        13.883034,
+                        41.699186
+                  ]
+            },
+            {
+                  "name": "Santuario diocesano Maria Santissima di Canneto",
+                  "text": "Un important loc de pelerinaj situat în comuna Settefrati, în valea Canneto.",
+                  "category": "religious",
+                  "coords": [
+                        13.908228,
+                        41.678319
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Monte La Meta",
+                  "text": "A peak in the Apennines located on the border of the Lazio, Abruzzo, and Molise regions.",
+                  "category": "landmark",
+                  "coords": [
+                        13.939799,
+                        41.688902
+                  ]
+            },
+            {
+                  "name": "Rocca Altiera",
+                  "text": "A mountain peak in the Apennines, part of the Monti della Meta massif.",
+                  "category": "landmark",
+                  "coords": [
+                        13.883034,
+                        41.699186
+                  ]
+            },
+            {
+                  "name": "Santuario diocesano Maria Santissima di Canneto",
+                  "text": "A significant pilgrimage site located in the municipality of Settefrati in the Canneto Valley.",
+                  "category": "religious",
+                  "coords": [
+                        13.908228,
+                        41.678319
+                  ]
+            }
+      ]
+},
     type: "mountain",
     parent: "IT",
     name: { de: "Monte Meta", hu: "Monte Meta", ro: "Monte Meta", en: "Monte Meta" },
@@ -813,7 +3522,124 @@ export const italyReliefV2: POI[] = [
     image: "/poi-images/italy-monte-meta-relief-v2.webp",
   },
   {
-    id: "italy-altopiano-della-sila-relief-v2",
+    id: "italy-altopiano-della-sila-relief-v2", "sights": {
+      "de": [
+            {
+                  "name": "I Giganti della Sila",
+                  "text": "Naturschutzgebiet auf dem Sila-Plateau mit riesigen, jahrhundertealten Schwarzkiefern.",
+                  "category": "natural",
+                  "coords": [
+                        16.467468,
+                        39.324645
+                  ]
+            },
+            {
+                  "name": "Pietra dell'Altare",
+                  "text": "Eine markante Felsformation auf dem Sila-Plateau in Kalabrien.",
+                  "category": "landmark",
+                  "coords": [
+                        16.525073,
+                        39.275151
+                  ]
+            },
+            {
+                  "name": "Chiesa di Sant'Alessandro",
+                  "text": "Eine Kirche in der Bergregion des Sila-Plateaus.",
+                  "category": "religious",
+                  "coords": [
+                        16.524192,
+                        39.295507
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "I Giganti della Sila",
+                  "text": "Természetvédelmi terület a Sila-fennsíkon, óriási, évszázados feketefenyőkkel.",
+                  "category": "natural",
+                  "coords": [
+                        16.467468,
+                        39.324645
+                  ]
+            },
+            {
+                  "name": "Pietra dell'Altare",
+                  "text": "Jellegzetes sziklaformáció a calabriai Sila-fennsíkon.",
+                  "category": "landmark",
+                  "coords": [
+                        16.525073,
+                        39.275151
+                  ]
+            },
+            {
+                  "name": "Chiesa di Sant'Alessandro",
+                  "text": "Egy templom a Sila-fennsík hegyvidéki régiójában.",
+                  "category": "religious",
+                  "coords": [
+                        16.524192,
+                        39.295507
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "I Giganti della Sila",
+                  "text": "Rezervație naturală pe Podișul Sila, adăpostind pini negri uriași și seculari.",
+                  "category": "natural",
+                  "coords": [
+                        16.467468,
+                        39.324645
+                  ]
+            },
+            {
+                  "name": "Pietra dell'Altare",
+                  "text": "O formațiune stâncoasă proeminentă pe Podișul Sila din Calabria.",
+                  "category": "landmark",
+                  "coords": [
+                        16.525073,
+                        39.275151
+                  ]
+            },
+            {
+                  "name": "Chiesa di Sant'Alessandro",
+                  "text": "O biserică situată în regiunea montană a Podișului Sila.",
+                  "category": "religious",
+                  "coords": [
+                        16.524192,
+                        39.295507
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "I Giganti della Sila",
+                  "text": "Nature reserve on the Sila Plateau home to giant, centuries-old black pines.",
+                  "category": "natural",
+                  "coords": [
+                        16.467468,
+                        39.324645
+                  ]
+            },
+            {
+                  "name": "Pietra dell'Altare",
+                  "text": "A prominent rock formation on the Sila Plateau in Calabria.",
+                  "category": "landmark",
+                  "coords": [
+                        16.525073,
+                        39.275151
+                  ]
+            },
+            {
+                  "name": "Chiesa di Sant'Alessandro",
+                  "text": "A church located in the mountainous region of the Sila Plateau.",
+                  "category": "religious",
+                  "coords": [
+                        16.524192,
+                        39.295507
+                  ]
+            }
+      ]
+},
     type: "landmark",
     parent: "IT",
     name: { de: "Sila-Hochebene", hu: "Sila-fennsík", ro: "Podișul Sila", en: "Sila Plateau" },
@@ -858,7 +3684,232 @@ export const italyReliefV2: POI[] = [
     image: "/poi-images/italy-altopiano-della-sila-relief-v2.webp",
   },
   {
-    id: "italy-monte-terminillo-relief-v2",
+    id: "italy-monte-terminillo-relief-v2", "sights": {
+      "de": [
+            {
+                  "name": "Monte Terminilletto",
+                  "text": "Ein Nebengipfel des Monte Terminillo, der beliebte Wanderwege bietet.",
+                  "category": "landmark",
+                  "coords": [
+                        12.990146,
+                        42.467362
+                  ]
+            },
+            {
+                  "name": "Monte Calcarone",
+                  "text": "Ein Berg im Terminillo-Massiv in der Region Latium.",
+                  "category": "landmark",
+                  "coords": [
+                        12.932707,
+                        42.462506
+                  ]
+            },
+            {
+                  "name": "Cippo Incidente Aereo Volo Sabena 13 Febbraio 1955",
+                  "text": "Ein Denkmal zur Erinnerung an den Flugzeugabsturz der Sabena im Jahr 1955.",
+                  "category": "historical",
+                  "coords": [
+                        12.966902,
+                        42.496604
+                  ]
+            },
+            {
+                  "name": "Monte Terminillo",
+                  "text": "Ein bedeutender Gipfel im Apennin, bekannt als Skigebiet und Ausflugsziel nahe Rom.",
+                  "category": "landmark",
+                  "coords": [
+                        12.99736,
+                        42.473304
+                  ]
+            },
+            {
+                  "name": "Erma \"Ai caduti della rivoluzione fascista\" di Arduino Angelucci",
+                  "text": "Ein Denkmal auf dem Monte Terminillo, geschaffen von Arduino Angelucci.",
+                  "category": "historical",
+                  "coords": [
+                        12.987531,
+                        42.452467
+                  ]
+            },
+            {
+                  "name": "Ruderi dell'ex Chiesa e dell'Ospitale di San Bartolomeo",
+                  "text": "Historische Überreste einer ehemaligen Kirche und eines Hospizes am Monte Terminillo.",
+                  "category": "historical",
+                  "coords": [
+                        12.944751,
+                        42.511492
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Monte Terminilletto",
+                  "text": "A Monte Terminillo egyik mellékcsúcsa, amely kedvelt túraútvonalakat kínál.",
+                  "category": "landmark",
+                  "coords": [
+                        12.990146,
+                        42.467362
+                  ]
+            },
+            {
+                  "name": "Monte Calcarone",
+                  "text": "Hegycsúcs a Terminillo-masszívumban, Lazio régióban.",
+                  "category": "landmark",
+                  "coords": [
+                        12.932707,
+                        42.462506
+                  ]
+            },
+            {
+                  "name": "Cippo Incidente Aereo Volo Sabena 13 Febbraio 1955",
+                  "text": "Emlékmű az 1955-ös Sabena repülőgép-szerencsétlenség áldozatainak emlékére.",
+                  "category": "historical",
+                  "coords": [
+                        12.966902,
+                        42.496604
+                  ]
+            },
+            {
+                  "name": "Monte Terminillo",
+                  "text": "Az Appenninek egyik jelentős csúcsa, népszerű síközpont és kirándulóhely Róma közelében.",
+                  "category": "landmark",
+                  "coords": [
+                        12.99736,
+                        42.473304
+                  ]
+            },
+            {
+                  "name": "Erma \"Ai caduti della rivoluzione fascista\" di Arduino Angelucci",
+                  "text": "Emlékmű a Monte Terminillo hegyen, Arduino Angelucci alkotása.",
+                  "category": "historical",
+                  "coords": [
+                        12.987531,
+                        42.452467
+                  ]
+            },
+            {
+                  "name": "Ruderi dell'ex Chiesa e dell'Ospitale di San Bartolomeo",
+                  "text": "Egy egykori templom és ispotály történelmi romjai a Monte Terminillo hegyen.",
+                  "category": "historical",
+                  "coords": [
+                        12.944751,
+                        42.511492
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Monte Terminilletto",
+                  "text": "Un vârf secundar al masivului Monte Terminillo, oferind trasee populare de drumeție.",
+                  "category": "landmark",
+                  "coords": [
+                        12.990146,
+                        42.467362
+                  ]
+            },
+            {
+                  "name": "Monte Calcarone",
+                  "text": "Un munte din masivul Terminillo, situat în regiunea Lazio.",
+                  "category": "landmark",
+                  "coords": [
+                        12.932707,
+                        42.462506
+                  ]
+            },
+            {
+                  "name": "Cippo Incidente Aereo Volo Sabena 13 Febbraio 1955",
+                  "text": "Un monument ridicat în memoria victimelor accidentului aviatic Sabena din 1955.",
+                  "category": "historical",
+                  "coords": [
+                        12.966902,
+                        42.496604
+                  ]
+            },
+            {
+                  "name": "Monte Terminillo",
+                  "text": "Un vârf important din Apenini, cunoscut ca stațiune de schi și destinație de recreere lângă Roma.",
+                  "category": "landmark",
+                  "coords": [
+                        12.99736,
+                        42.473304
+                  ]
+            },
+            {
+                  "name": "Erma \"Ai caduti della rivoluzione fascista\" di Arduino Angelucci",
+                  "text": "Un monument situat pe Monte Terminillo, realizat de Arduino Angelucci.",
+                  "category": "historical",
+                  "coords": [
+                        12.987531,
+                        42.452467
+                  ]
+            },
+            {
+                  "name": "Ruderi dell'ex Chiesa e dell'Ospitale di San Bartolomeo",
+                  "text": "Vestigiile istorice ale unei foste biserici și ale unui spital pe Monte Terminillo.",
+                  "category": "historical",
+                  "coords": [
+                        12.944751,
+                        42.511492
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Monte Terminilletto",
+                  "text": "A secondary peak of Monte Terminillo offering popular hiking routes.",
+                  "category": "landmark",
+                  "coords": [
+                        12.990146,
+                        42.467362
+                  ]
+            },
+            {
+                  "name": "Monte Calcarone",
+                  "text": "A mountain peak in the Terminillo massif, located in the Lazio region.",
+                  "category": "landmark",
+                  "coords": [
+                        12.932707,
+                        42.462506
+                  ]
+            },
+            {
+                  "name": "Cippo Incidente Aereo Volo Sabena 13 Febbraio 1955",
+                  "text": "A monument commemorating the victims of the 1955 Sabena aircraft crash.",
+                  "category": "historical",
+                  "coords": [
+                        12.966902,
+                        42.496604
+                  ]
+            },
+            {
+                  "name": "Monte Terminillo",
+                  "text": "A major peak in the Apennines, known as a popular ski resort and hiking destination near Rome.",
+                  "category": "landmark",
+                  "coords": [
+                        12.99736,
+                        42.473304
+                  ]
+            },
+            {
+                  "name": "Erma \"Ai caduti della rivoluzione fascista\" di Arduino Angelucci",
+                  "text": "A monument on Monte Terminillo, created by the artist Arduino Angelucci.",
+                  "category": "historical",
+                  "coords": [
+                        12.987531,
+                        42.452467
+                  ]
+            },
+            {
+                  "name": "Ruderi dell'ex Chiesa e dell'Ospitale di San Bartolomeo",
+                  "text": "The historical remains of a former church and hospice on Monte Terminillo.",
+                  "category": "historical",
+                  "coords": [
+                        12.944751,
+                        42.511492
+                  ]
+            }
+      ]
+},
     type: "mountain",
     parent: "IT",
     name: { de: "Monte Terminillo", hu: "Monte Terminillo", ro: "Monte Terminillo", en: "Monte Terminillo" },
@@ -903,7 +3954,232 @@ export const italyReliefV2: POI[] = [
     image: "/poi-images/italy-monte-terminillo-relief-v2.webp",
   },
   {
-    id: "italy-monte-marsicano-relief-v2",
+    id: "italy-monte-marsicano-relief-v2", "sights": {
+      "de": [
+            {
+                  "name": "Museo dell'uomo e della foresta",
+                  "text": "Ein Museum, das sich der Beziehung zwischen den Menschen und dem lokalen Waldökosystem widmet.",
+                  "category": "museum",
+                  "coords": [
+                        13.856351,
+                        41.777426
+                  ]
+            },
+            {
+                  "name": "Parco Nazionale d'Abruzzo, Lazio e Molise",
+                  "text": "Ein weitläufiges Schutzgebiet, das für seine unberührte Natur und den Schutz seltener Tierarten bekannt ist.",
+                  "category": "natural",
+                  "coords": [
+                        13.886322,
+                        41.763638
+                  ]
+            },
+            {
+                  "name": "Riserva Naturale Colle di Licco",
+                  "text": "Ein Naturschutzgebiet innerhalb des Nationalparks, das wertvolle Waldflächen und Gebirgslandschaften umfasst.",
+                  "category": "natural",
+                  "coords": [
+                        13.893049,
+                        41.774686
+                  ]
+            },
+            {
+                  "name": "Monte Amaro",
+                  "text": "Ein markanter Berggipfel in der Region Monte Marsicano.",
+                  "category": "landmark",
+                  "coords": [
+                        13.881991,
+                        41.76618
+                  ]
+            },
+            {
+                  "name": "Cascata",
+                  "text": "Ein Aussichtspunkt mit weitem Blick über die umliegende Landschaft.",
+                  "category": "natural",
+                  "coords": [
+                        13.908771,
+                        41.75592
+                  ]
+            },
+            {
+                  "name": "Pietra del Verticchio",
+                  "text": "Eine lokale Sehenswürdigkeit in der Nähe des Monte Marsicano.",
+                  "category": "landmark",
+                  "coords": [
+                        13.858932,
+                        41.761489
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Museo dell'uomo e della foresta",
+                  "text": "A múzeum az emberek és a helyi erdei ökoszisztéma közötti kapcsolatnak szenteli kiállításait.",
+                  "category": "museum",
+                  "coords": [
+                        13.856351,
+                        41.777426
+                  ]
+            },
+            {
+                  "name": "Parco Nazionale d'Abruzzo, Lazio e Molise",
+                  "text": "Hatalmas védett terület, amely érintetlen természetéről és ritka állatfajok védelméről ismert.",
+                  "category": "natural",
+                  "coords": [
+                        13.886322,
+                        41.763638
+                  ]
+            },
+            {
+                  "name": "Riserva Naturale Colle di Licco",
+                  "text": "A nemzeti parkon belüli természetvédelmi terület, amely értékes erdőket és hegyi tájakat foglal magában.",
+                  "category": "natural",
+                  "coords": [
+                        13.893049,
+                        41.774686
+                  ]
+            },
+            {
+                  "name": "Monte Amaro",
+                  "text": "Egy jellegzetes hegycsúcs a Monte Marsicano régióban.",
+                  "category": "landmark",
+                  "coords": [
+                        13.881991,
+                        41.76618
+                  ]
+            },
+            {
+                  "name": "Cascata",
+                  "text": "Kilátópont, ahonnan széles panoráma nyílik a környező tájra.",
+                  "category": "natural",
+                  "coords": [
+                        13.908771,
+                        41.75592
+                  ]
+            },
+            {
+                  "name": "Pietra del Verticchio",
+                  "text": "Helyi látványosság a Monte Marsicano közelében.",
+                  "category": "landmark",
+                  "coords": [
+                        13.858932,
+                        41.761489
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Museo dell'uomo e della foresta",
+                  "text": "Un muzeu dedicat relației dintre oameni și ecosistemul forestier local.",
+                  "category": "museum",
+                  "coords": [
+                        13.856351,
+                        41.777426
+                  ]
+            },
+            {
+                  "name": "Parco Nazionale d'Abruzzo, Lazio e Molise",
+                  "text": "O zonă protejată vastă, cunoscută pentru natura sa curată și protejarea speciilor rare.",
+                  "category": "natural",
+                  "coords": [
+                        13.886322,
+                        41.763638
+                  ]
+            },
+            {
+                  "name": "Riserva Naturale Colle di Licco",
+                  "text": "O rezervație naturală în cadrul parcului național, care cuprinde zone forestiere valoroase și peisaje montane.",
+                  "category": "natural",
+                  "coords": [
+                        13.893049,
+                        41.774686
+                  ]
+            },
+            {
+                  "name": "Monte Amaro",
+                  "text": "Un vârf montan proeminent în regiunea Monte Marsicano.",
+                  "category": "landmark",
+                  "coords": [
+                        13.881991,
+                        41.76618
+                  ]
+            },
+            {
+                  "name": "Cascata",
+                  "text": "Un punct de observație ce oferă o vedere panoramică asupra peisajului înconjurător.",
+                  "category": "natural",
+                  "coords": [
+                        13.908771,
+                        41.75592
+                  ]
+            },
+            {
+                  "name": "Pietra del Verticchio",
+                  "text": "O atracție locală situată în apropiere de Monte Marsicano.",
+                  "category": "landmark",
+                  "coords": [
+                        13.858932,
+                        41.761489
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Museo dell'uomo e della foresta",
+                  "text": "A museum dedicated to the relationship between humans and the local forest ecosystem.",
+                  "category": "museum",
+                  "coords": [
+                        13.856351,
+                        41.777426
+                  ]
+            },
+            {
+                  "name": "Parco Nazionale d'Abruzzo, Lazio e Molise",
+                  "text": "A vast protected area known for its pristine nature and the protection of rare animal species.",
+                  "category": "natural",
+                  "coords": [
+                        13.886322,
+                        41.763638
+                  ]
+            },
+            {
+                  "name": "Riserva Naturale Colle di Licco",
+                  "text": "A nature reserve within the national park, encompassing valuable forest areas and mountain landscapes.",
+                  "category": "natural",
+                  "coords": [
+                        13.893049,
+                        41.774686
+                  ]
+            },
+            {
+                  "name": "Monte Amaro",
+                  "text": "A prominent mountain peak located in the Monte Marsicano area.",
+                  "category": "landmark",
+                  "coords": [
+                        13.881991,
+                        41.76618
+                  ]
+            },
+            {
+                  "name": "Cascata",
+                  "text": "A scenic viewpoint offering wide vistas of the surrounding landscape.",
+                  "category": "natural",
+                  "coords": [
+                        13.908771,
+                        41.75592
+                  ]
+            },
+            {
+                  "name": "Pietra del Verticchio",
+                  "text": "A local attraction situated near Monte Marsicano.",
+                  "category": "landmark",
+                  "coords": [
+                        13.858932,
+                        41.761489
+                  ]
+            }
+      ]
+},
     type: "mountain",
     parent: "IT",
     name: { de: "Monte Marsicano", hu: "Monte Marsicano", ro: "Monte Marsicano", en: "Monte Marsicano" },
@@ -948,7 +4224,268 @@ export const italyReliefV2: POI[] = [
     image: "/poi-images/italy-monte-marsicano-relief-v2.webp",
   },
   {
-    id: "italy-monte-catria-relief-v2",
+    id: "italy-monte-catria-relief-v2", "sights": {
+      "de": [
+            {
+                  "name": "Parco dei Daini",
+                  "text": "Ein Wildpark am Monte Catria, in dem Damhirsche beobachtet werden können.",
+                  "category": "recreational",
+                  "coords": [
+                        12.770455,
+                        43.442779
+                  ]
+            },
+            {
+                  "name": "Croce del Monte Strega",
+                  "text": "Ein Berggipfel des Monte Strega, der durch ein monumentales Gipfelkreuz markiert ist.",
+                  "category": "landmark",
+                  "coords": [
+                        12.782306,
+                        43.448603
+                  ]
+            },
+            {
+                  "name": "Monte Catria",
+                  "text": "Ein markanter Gipfel im Apennin, der für seine weite Aussicht bekannt ist.",
+                  "category": "landmark",
+                  "coords": [
+                        12.704274,
+                        43.461063
+                  ]
+            },
+            {
+                  "name": "Monte Strega",
+                  "text": "Ein Aussichtspunkt auf dem Monte Strega mit weitem Blick über die Marken.",
+                  "category": "natural",
+                  "coords": [
+                        12.779627,
+                        43.450153
+                  ]
+            },
+            {
+                  "name": "Ai Caduti I e II Guerra Mondiale",
+                  "text": "Ein Denkmal am Monte Catria zu Ehren der Gefallenen der Weltkriege.",
+                  "category": "historical",
+                  "coords": [
+                        12.739024,
+                        43.433406
+                  ]
+            },
+            {
+                  "name": "Abbazia di Santa Maria di Sitria",
+                  "text": "Eine ehemalige Benediktinerabtei in abgelegener Lage am Monte Catria.",
+                  "category": "religious",
+                  "coords": [
+                        12.752029,
+                        43.451015
+                  ]
+            },
+            {
+                  "name": "Chiesa del Santissimo Salvatore",
+                  "text": "Eine religiöse Stätte in der Bergregion des Monte Catria.",
+                  "category": "religious",
+                  "coords": [
+                        12.788043,
+                        43.434808
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Parco dei Daini",
+                  "text": "Vadaspark a Monte Catria lábánál, ahol dámvadak láthatóak.",
+                  "category": "recreational",
+                  "coords": [
+                        12.770455,
+                        43.442779
+                  ]
+            },
+            {
+                  "name": "Croce del Monte Strega",
+                  "text": "A Monte Strega egyik csúcsa, amelyet egy monumentális kereszt jelöl.",
+                  "category": "landmark",
+                  "coords": [
+                        12.782306,
+                        43.448603
+                  ]
+            },
+            {
+                  "name": "Monte Catria",
+                  "text": "Az Appenninek egyik jellegzetes csúcsa, amely tágas kilátásáról ismert.",
+                  "category": "landmark",
+                  "coords": [
+                        12.704274,
+                        43.461063
+                  ]
+            },
+            {
+                  "name": "Monte Strega",
+                  "text": "Kilátópont a Monte Strega hegyen, ahonnan belátni Marche régiót.",
+                  "category": "natural",
+                  "coords": [
+                        12.779627,
+                        43.450153
+                  ]
+            },
+            {
+                  "name": "Ai Caduti I e II Guerra Mondiale",
+                  "text": "Emlékmű a Monte Catrián a világháborúk elesett katonáinak tiszteletére.",
+                  "category": "historical",
+                  "coords": [
+                        12.739024,
+                        43.433406
+                  ]
+            },
+            {
+                  "name": "Abbazia di Santa Maria di Sitria",
+                  "text": "Egykori bencés apátság elszigetelt környezetben a Monte Catria tövében.",
+                  "category": "religious",
+                  "coords": [
+                        12.752029,
+                        43.451015
+                  ]
+            },
+            {
+                  "name": "Chiesa del Santissimo Salvatore",
+                  "text": "Vallási helyszín a Monte Catria hegyvidéki területén.",
+                  "category": "religious",
+                  "coords": [
+                        12.788043,
+                        43.434808
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Parco dei Daini",
+                  "text": "Un parc de animale pe Monte Catria, unde pot fi văzuți cerbi lopătari.",
+                  "category": "recreational",
+                  "coords": [
+                        12.770455,
+                        43.442779
+                  ]
+            },
+            {
+                  "name": "Croce del Monte Strega",
+                  "text": "Un vârf muntos pe Monte Strega, marcat de o cruce monumentală.",
+                  "category": "landmark",
+                  "coords": [
+                        12.782306,
+                        43.448603
+                  ]
+            },
+            {
+                  "name": "Monte Catria",
+                  "text": "Un vârf proeminent din Apenini, cunoscut pentru vederile sale largi.",
+                  "category": "landmark",
+                  "coords": [
+                        12.704274,
+                        43.461063
+                  ]
+            },
+            {
+                  "name": "Monte Strega",
+                  "text": "Punct de belvedere pe muntele Strega, cu vederi largi asupra regiunii Marche.",
+                  "category": "natural",
+                  "coords": [
+                        12.779627,
+                        43.450153
+                  ]
+            },
+            {
+                  "name": "Ai Caduti I e II Guerra Mondiale",
+                  "text": "Un monument pe Monte Catria în onoarea celor căzuți în războaiele mondiale.",
+                  "category": "historical",
+                  "coords": [
+                        12.739024,
+                        43.433406
+                  ]
+            },
+            {
+                  "name": "Abbazia di Santa Maria di Sitria",
+                  "text": "O fostă abație benedictină situată într-un loc izolat pe Monte Catria.",
+                  "category": "religious",
+                  "coords": [
+                        12.752029,
+                        43.451015
+                  ]
+            },
+            {
+                  "name": "Chiesa del Santissimo Salvatore",
+                  "text": "Un lăcaș de cult situat în regiunea montană Monte Catria.",
+                  "category": "religious",
+                  "coords": [
+                        12.788043,
+                        43.434808
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Parco dei Daini",
+                  "text": "A wildlife park on Monte Catria where fallow deer can be observed.",
+                  "category": "recreational",
+                  "coords": [
+                        12.770455,
+                        43.442779
+                  ]
+            },
+            {
+                  "name": "Croce del Monte Strega",
+                  "text": "A mountain peak on Monte Strega marked by a monumental summit cross.",
+                  "category": "landmark",
+                  "coords": [
+                        12.782306,
+                        43.448603
+                  ]
+            },
+            {
+                  "name": "Monte Catria",
+                  "text": "A prominent peak in the Apennines known for its expansive views.",
+                  "category": "landmark",
+                  "coords": [
+                        12.704274,
+                        43.461063
+                  ]
+            },
+            {
+                  "name": "Monte Strega",
+                  "text": "A viewpoint on Monte Strega offering broad views over the Marche region.",
+                  "category": "natural",
+                  "coords": [
+                        12.779627,
+                        43.450153
+                  ]
+            },
+            {
+                  "name": "Ai Caduti I e II Guerra Mondiale",
+                  "text": "A monument on Monte Catria honoring those who fell in the World Wars.",
+                  "category": "historical",
+                  "coords": [
+                        12.739024,
+                        43.433406
+                  ]
+            },
+            {
+                  "name": "Abbazia di Santa Maria di Sitria",
+                  "text": "A former Benedictine abbey located in a remote setting on Monte Catria.",
+                  "category": "religious",
+                  "coords": [
+                        12.752029,
+                        43.451015
+                  ]
+            },
+            {
+                  "name": "Chiesa del Santissimo Salvatore",
+                  "text": "A place of worship located in the mountainous Monte Catria area.",
+                  "category": "religious",
+                  "coords": [
+                        12.788043,
+                        43.434808
+                  ]
+            }
+      ]
+},
     type: "mountain",
     parent: "IT",
     name: { de: "Monte Catria", hu: "Monte Catria", ro: "Monte Catria", en: "Monte Catria" },
@@ -993,7 +4530,232 @@ export const italyReliefV2: POI[] = [
     image: "/poi-images/italy-monte-catria-relief-v2.webp",
   },
   {
-    id: "italy-monte-la-nuda-relief-v2",
+    id: "italy-monte-la-nuda-relief-v2", "sights": {
+      "de": [
+            {
+                  "name": "Monte Vecchio",
+                  "text": "Ein Gipfel im Apennin-Gebirge in der Nähe des Monte La Nuda.",
+                  "category": "landmark",
+                  "coords": [
+                        10.413738,
+                        44.235341
+                  ]
+            },
+            {
+                  "name": "Monte Cella",
+                  "text": "Ein weiterer Berggipfel in der Gebirgsregion des nördlichen Apennins.",
+                  "category": "landmark",
+                  "coords": [
+                        10.421025,
+                        44.231413
+                  ]
+            },
+            {
+                  "name": "Monte La Piella",
+                  "text": "Ein Gipfel im toskanisch-emilianischen Apennin-Nationalpark.",
+                  "category": "landmark",
+                  "coords": [
+                        10.405576,
+                        44.278437
+                  ]
+            },
+            {
+                  "name": "Monte Prado",
+                  "text": "Der höchste Berg der Toskana, gelegen im Apennin-Hauptkamm.",
+                  "category": "landmark",
+                  "coords": [
+                        10.407503,
+                        44.249325
+                  ]
+            },
+            {
+                  "name": "Passo degli Scaloni",
+                  "text": "Ein Bergpass und Aussichtspunkt im Apennin-Gebirge.",
+                  "category": "natural",
+                  "coords": [
+                        10.416016,
+                        44.234686
+                  ]
+            },
+            {
+                  "name": "San Bartolomeo",
+                  "text": "Eine kleine Bergkapelle in der Region des Monte La Nuda.",
+                  "category": "landmark",
+                  "coords": [
+                        10.375652,
+                        44.268409
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Monte Vecchio",
+                  "text": "Csúcs az Appenninekben, a Monte La Nuda közelében.",
+                  "category": "landmark",
+                  "coords": [
+                        10.413738,
+                        44.235341
+                  ]
+            },
+            {
+                  "name": "Monte Cella",
+                  "text": "Egy másik hegycsúcs az Északi-Appenninek hegyvidéki régiójában.",
+                  "category": "landmark",
+                  "coords": [
+                        10.421025,
+                        44.231413
+                  ]
+            },
+            {
+                  "name": "Monte La Piella",
+                  "text": "Csúcs a Toszkán-Emilián Appenninek Nemzeti Parkban.",
+                  "category": "landmark",
+                  "coords": [
+                        10.405576,
+                        44.278437
+                  ]
+            },
+            {
+                  "name": "Monte Prado",
+                  "text": "Toszkána legmagasabb hegye az Appenninek főgerincén.",
+                  "category": "landmark",
+                  "coords": [
+                        10.407503,
+                        44.249325
+                  ]
+            },
+            {
+                  "name": "Passo degli Scaloni",
+                  "text": "Hegyi hágó és kilátópont az Appenninekben.",
+                  "category": "natural",
+                  "coords": [
+                        10.416016,
+                        44.234686
+                  ]
+            },
+            {
+                  "name": "San Bartolomeo",
+                  "text": "Kis hegyi kápolna a Monte La Nuda régiójában.",
+                  "category": "landmark",
+                  "coords": [
+                        10.375652,
+                        44.268409
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Monte Vecchio",
+                  "text": "Un vârf în Munții Apenini, lângă Monte La Nuda.",
+                  "category": "landmark",
+                  "coords": [
+                        10.413738,
+                        44.235341
+                  ]
+            },
+            {
+                  "name": "Monte Cella",
+                  "text": "Un alt vârf muntos în regiunea montană a Apeninilor de Nord.",
+                  "category": "landmark",
+                  "coords": [
+                        10.421025,
+                        44.231413
+                  ]
+            },
+            {
+                  "name": "Monte La Piella",
+                  "text": "Un vârf în Parcul Național al Apeninilor Tosco-Emiliani.",
+                  "category": "landmark",
+                  "coords": [
+                        10.405576,
+                        44.278437
+                  ]
+            },
+            {
+                  "name": "Monte Prado",
+                  "text": "Cel mai înalt munte din Toscana, situat în creasta principală a Apeninilor.",
+                  "category": "landmark",
+                  "coords": [
+                        10.407503,
+                        44.249325
+                  ]
+            },
+            {
+                  "name": "Passo degli Scaloni",
+                  "text": "O trecătoare montană și un punct de observație în Munții Apenini.",
+                  "category": "natural",
+                  "coords": [
+                        10.416016,
+                        44.234686
+                  ]
+            },
+            {
+                  "name": "San Bartolomeo",
+                  "text": "O mică capelă montană în regiunea Monte La Nuda.",
+                  "category": "landmark",
+                  "coords": [
+                        10.375652,
+                        44.268409
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Monte Vecchio",
+                  "text": "A peak in the Apennine Mountains near Monte La Nuda.",
+                  "category": "landmark",
+                  "coords": [
+                        10.413738,
+                        44.235341
+                  ]
+            },
+            {
+                  "name": "Monte Cella",
+                  "text": "Another mountain peak in the mountain region of the Northern Apennines.",
+                  "category": "landmark",
+                  "coords": [
+                        10.421025,
+                        44.231413
+                  ]
+            },
+            {
+                  "name": "Monte La Piella",
+                  "text": "A peak in the Tuscan-Emilian Apennines National Park.",
+                  "category": "landmark",
+                  "coords": [
+                        10.405576,
+                        44.278437
+                  ]
+            },
+            {
+                  "name": "Monte Prado",
+                  "text": "The highest mountain in Tuscany, located in the main ridge of the Apennines.",
+                  "category": "landmark",
+                  "coords": [
+                        10.407503,
+                        44.249325
+                  ]
+            },
+            {
+                  "name": "Passo degli Scaloni",
+                  "text": "A mountain pass and viewpoint in the Apennine Mountains.",
+                  "category": "natural",
+                  "coords": [
+                        10.416016,
+                        44.234686
+                  ]
+            },
+            {
+                  "name": "San Bartolomeo",
+                  "text": "A small mountain chapel in the Monte La Nuda region.",
+                  "category": "landmark",
+                  "coords": [
+                        10.375652,
+                        44.268409
+                  ]
+            }
+      ]
+},
     type: "mountain",
     parent: "IT",
     name: { de: "Monte La Nuda", hu: "Monte La Nuda", ro: "Monte La Nuda", en: "Monte La Nuda" },
@@ -1038,7 +4800,304 @@ export const italyReliefV2: POI[] = [
     image: "/poi-images/italy-monte-la-nuda-relief-v2.webp",
   },
   {
-    id: "italy-monte-carpegna-relief-v2",
+    id: "italy-monte-carpegna-relief-v2", "sights": {
+      "de": [
+            {
+                  "name": "Palazzo dei Principi di Carpegna",
+                  "text": "Renaissancepalast in Carpegna, Sitz der Fürstenfamilie.",
+                  "category": "castle",
+                  "coords": [
+                        12.336056,
+                        43.781646
+                  ]
+            },
+            {
+                  "name": "Monte Simoncello",
+                  "text": "Berggipfel im Naturpark Sasso Simone und Simoncello.",
+                  "category": "landmark",
+                  "coords": [
+                        12.285485,
+                        43.764449
+                  ]
+            },
+            {
+                  "name": "Sasso Simone",
+                  "text": "Massive Kalksteinformation und Berggipfel bei Carpegna.",
+                  "category": "landmark",
+                  "coords": [
+                        12.291647,
+                        43.760385
+                  ]
+            },
+            {
+                  "name": "Monte Carpegna",
+                  "text": "Höchster Berggipfel der Region Montefeltro.",
+                  "category": "landmark",
+                  "coords": [
+                        12.320161,
+                        43.802017
+                  ]
+            },
+            {
+                  "name": "Monte Canale",
+                  "text": "Berggipfel in der Gebirgskette des Monte Carpegna.",
+                  "category": "landmark",
+                  "coords": [
+                        12.267381,
+                        43.785334
+                  ]
+            },
+            {
+                  "name": "Serra di Valpiano",
+                  "text": "Panoramapunkt mit Blick auf die umliegende Landschaft von Carpegna.",
+                  "category": "natural",
+                  "coords": [
+                        12.265494,
+                        43.780245
+                  ]
+            },
+            {
+                  "name": "Città del Sole",
+                  "text": "Ruinen einer geplanten Idealstadt aus dem 16. Jahrhundert auf dem Sasso Simone.",
+                  "category": "historical",
+                  "coords": [
+                        12.293213,
+                        43.760536
+                  ]
+            },
+            {
+                  "name": "Questo è il cielo del Pirata",
+                  "text": "Aussichtspunkt gewidmet dem berühmten Radsportler Marco Pantani.",
+                  "category": "natural",
+                  "coords": [
+                        12.337611,
+                        43.790455
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Palazzo dei Principi di Carpegna",
+                  "text": "Reneszánsz palota Carpegnában, a hercegi család székhelye.",
+                  "category": "castle",
+                  "coords": [
+                        12.336056,
+                        43.781646
+                  ]
+            },
+            {
+                  "name": "Monte Simoncello",
+                  "text": "Hegycsúcs a Sasso Simone és Simoncello natúrparkban.",
+                  "category": "landmark",
+                  "coords": [
+                        12.285485,
+                        43.764449
+                  ]
+            },
+            {
+                  "name": "Sasso Simone",
+                  "text": "Hatalmas mészkőformáció és hegycsúcs Carpegna közelében.",
+                  "category": "landmark",
+                  "coords": [
+                        12.291647,
+                        43.760385
+                  ]
+            },
+            {
+                  "name": "Monte Carpegna",
+                  "text": "A Montefeltro régió legmagasabb hegycsúcsa.",
+                  "category": "landmark",
+                  "coords": [
+                        12.320161,
+                        43.802017
+                  ]
+            },
+            {
+                  "name": "Monte Canale",
+                  "text": "Hegycsúcs a Monte Carpegna hegyvonulatában.",
+                  "category": "landmark",
+                  "coords": [
+                        12.267381,
+                        43.785334
+                  ]
+            },
+            {
+                  "name": "Serra di Valpiano",
+                  "text": "Panorámás kilátópont Carpegna környékére.",
+                  "category": "natural",
+                  "coords": [
+                        12.265494,
+                        43.780245
+                  ]
+            },
+            {
+                  "name": "Città del Sole",
+                  "text": "Egy 16. századi tervezett ideális város romjai a Sasso Simone hegyen.",
+                  "category": "historical",
+                  "coords": [
+                        12.293213,
+                        43.760536
+                  ]
+            },
+            {
+                  "name": "Questo è il cielo del Pirata",
+                  "text": "A híres kerékpáros, Marco Pantani emlékének szentelt kilátópont.",
+                  "category": "natural",
+                  "coords": [
+                        12.337611,
+                        43.790455
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Palazzo dei Principi di Carpegna",
+                  "text": "Palat renascentist în Carpegna, reședința familiei princiare.",
+                  "category": "castle",
+                  "coords": [
+                        12.336056,
+                        43.781646
+                  ]
+            },
+            {
+                  "name": "Monte Simoncello",
+                  "text": "Vârf montan în parcul natural Sasso Simone și Simoncello.",
+                  "category": "landmark",
+                  "coords": [
+                        12.285485,
+                        43.764449
+                  ]
+            },
+            {
+                  "name": "Sasso Simone",
+                  "text": "Formațiune masivă de calcar și vârf montan lângă Carpegna.",
+                  "category": "landmark",
+                  "coords": [
+                        12.291647,
+                        43.760385
+                  ]
+            },
+            {
+                  "name": "Monte Carpegna",
+                  "text": "Cel mai înalt vârf montan din regiunea Montefeltro.",
+                  "category": "landmark",
+                  "coords": [
+                        12.320161,
+                        43.802017
+                  ]
+            },
+            {
+                  "name": "Monte Canale",
+                  "text": "Vârf montan în masivul Monte Carpegna.",
+                  "category": "landmark",
+                  "coords": [
+                        12.267381,
+                        43.785334
+                  ]
+            },
+            {
+                  "name": "Serra di Valpiano",
+                  "text": "Punct panoramic cu vedere asupra peisajului din jurul localității Carpegna.",
+                  "category": "natural",
+                  "coords": [
+                        12.265494,
+                        43.780245
+                  ]
+            },
+            {
+                  "name": "Città del Sole",
+                  "text": "Ruinele unui oraș ideal planificat în secolul al XVI-lea pe Sasso Simone.",
+                  "category": "historical",
+                  "coords": [
+                        12.293213,
+                        43.760536
+                  ]
+            },
+            {
+                  "name": "Questo è il cielo del Pirata",
+                  "text": "Punct de belvedere dedicat faimosului ciclist Marco Pantani.",
+                  "category": "natural",
+                  "coords": [
+                        12.337611,
+                        43.790455
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Palazzo dei Principi di Carpegna",
+                  "text": "A Renaissance palace in Carpegna, seat of the princely family.",
+                  "category": "castle",
+                  "coords": [
+                        12.336056,
+                        43.781646
+                  ]
+            },
+            {
+                  "name": "Monte Simoncello",
+                  "text": "A mountain peak in the Sasso Simone and Simoncello natural park.",
+                  "category": "landmark",
+                  "coords": [
+                        12.285485,
+                        43.764449
+                  ]
+            },
+            {
+                  "name": "Sasso Simone",
+                  "text": "A massive limestone rock formation and peak near Carpegna.",
+                  "category": "landmark",
+                  "coords": [
+                        12.291647,
+                        43.760385
+                  ]
+            },
+            {
+                  "name": "Monte Carpegna",
+                  "text": "The highest mountain peak in the Montefeltro region.",
+                  "category": "landmark",
+                  "coords": [
+                        12.320161,
+                        43.802017
+                  ]
+            },
+            {
+                  "name": "Monte Canale",
+                  "text": "A mountain peak in the Monte Carpegna range.",
+                  "category": "landmark",
+                  "coords": [
+                        12.267381,
+                        43.785334
+                  ]
+            },
+            {
+                  "name": "Serra di Valpiano",
+                  "text": "A scenic viewpoint offering panoramas of the Carpegna countryside.",
+                  "category": "natural",
+                  "coords": [
+                        12.265494,
+                        43.780245
+                  ]
+            },
+            {
+                  "name": "Città del Sole",
+                  "text": "Ruins of a planned 16th-century ideal city on Sasso Simone.",
+                  "category": "historical",
+                  "coords": [
+                        12.293213,
+                        43.760536
+                  ]
+            },
+            {
+                  "name": "Questo è il cielo del Pirata",
+                  "text": "A viewpoint dedicated to the memory of the famous cyclist Marco Pantani.",
+                  "category": "natural",
+                  "coords": [
+                        12.337611,
+                        43.790455
+                  ]
+            }
+      ]
+},
     type: "mountain",
     parent: "IT",
     name: { de: "Monte Carpegna", hu: "Monte Carpegna", ro: "Monte Carpegna", en: "Monte Carpegna" },
@@ -1083,7 +5142,160 @@ export const italyReliefV2: POI[] = [
     image: "/poi-images/italy-monte-carpegna-relief-v2.webp",
   },
   {
-    id: "italy-monte-camicia-relief-v2",
+    id: "italy-monte-camicia-relief-v2", "sights": {
+      "de": [
+            {
+                  "name": "Monte Brancastello",
+                  "text": "Ein markanter Berggipfel im Gran Sasso-Massiv mit weitem Blick über die Abruzzen.",
+                  "category": "landmark",
+                  "coords": [
+                        13.639904,
+                        42.447362
+                  ]
+            },
+            {
+                  "name": "Monte San Gregorio di Paganica",
+                  "text": "Ein Gipfel in der Nähe des Monte Camicia, der für seine natürliche Schönheit und Wanderwege bekannt ist.",
+                  "category": "landmark",
+                  "coords": [
+                        13.606949,
+                        42.42393
+                  ]
+            },
+            {
+                  "name": "Ruderi di Sant'Egidio",
+                  "text": "Historische Ruinen in der Berglandschaft, die von vergangenen Siedlungen in diesem Gebiet zeugen.",
+                  "category": "historical",
+                  "coords": [
+                        13.625557,
+                        42.417973
+                  ]
+            },
+            {
+                  "name": "Captazione Gronda Fossaceca",
+                  "text": "Ein Aussichtspunkt in den Bergen, der für seine Wasserbauwerke und den Blick ins Tal bekannt ist.",
+                  "category": "natural",
+                  "coords": [
+                        13.664992,
+                        42.461229
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Monte Brancastello",
+                  "text": "A Gran Sasso-masszívum egyik markáns hegycsúcsa, ahonnan tágas kilátás nyílik az Abruzzókra.",
+                  "category": "landmark",
+                  "coords": [
+                        13.639904,
+                        42.447362
+                  ]
+            },
+            {
+                  "name": "Monte San Gregorio di Paganica",
+                  "text": "Hegycsúcs a Monte Camicia közelében, amely természeti szépségéről és túraútvonalairól ismert.",
+                  "category": "landmark",
+                  "coords": [
+                        13.606949,
+                        42.42393
+                  ]
+            },
+            {
+                  "name": "Ruderi di Sant'Egidio",
+                  "text": "Történelmi romok a hegyi tájban, amelyek a terület korábbi településeiről tanúskodnak.",
+                  "category": "historical",
+                  "coords": [
+                        13.625557,
+                        42.417973
+                  ]
+            },
+            {
+                  "name": "Captazione Gronda Fossaceca",
+                  "text": "Hegyi kilátópont, amely vízgazdálkodási létesítményeiről és a völgyre nyíló kilátásáról ismert.",
+                  "category": "natural",
+                  "coords": [
+                        13.664992,
+                        42.461229
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Monte Brancastello",
+                  "text": "Un vârf muntos proeminent în masivul Gran Sasso, cu vederi largi asupra regiunii Abruzzo.",
+                  "category": "landmark",
+                  "coords": [
+                        13.639904,
+                        42.447362
+                  ]
+            },
+            {
+                  "name": "Monte San Gregorio di Paganica",
+                  "text": "Un vârf lângă Monte Camicia, cunoscut pentru frumusețea sa naturală și traseele de drumeție.",
+                  "category": "landmark",
+                  "coords": [
+                        13.606949,
+                        42.42393
+                  ]
+            },
+            {
+                  "name": "Ruderi di Sant'Egidio",
+                  "text": "Ruine istorice în peisajul montan, care stau mărturie pentru așezările trecute din această zonă.",
+                  "category": "historical",
+                  "coords": [
+                        13.625557,
+                        42.417973
+                  ]
+            },
+            {
+                  "name": "Captazione Gronda Fossaceca",
+                  "text": "Un punct de observație montan cunoscut pentru lucrările de captare a apei și vederea spre vale.",
+                  "category": "natural",
+                  "coords": [
+                        13.664992,
+                        42.461229
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Monte Brancastello",
+                  "text": "A prominent mountain peak in the Gran Sasso massif offering wide views over the Abruzzo region.",
+                  "category": "landmark",
+                  "coords": [
+                        13.639904,
+                        42.447362
+                  ]
+            },
+            {
+                  "name": "Monte San Gregorio di Paganica",
+                  "text": "A peak near Monte Camicia known for its natural beauty and hiking trails.",
+                  "category": "landmark",
+                  "coords": [
+                        13.606949,
+                        42.42393
+                  ]
+            },
+            {
+                  "name": "Ruderi di Sant'Egidio",
+                  "text": "Historical ruins in the mountain landscape, testifying to past settlements in this area.",
+                  "category": "historical",
+                  "coords": [
+                        13.625557,
+                        42.417973
+                  ]
+            },
+            {
+                  "name": "Captazione Gronda Fossaceca",
+                  "text": "A mountain viewpoint known for its water management works and views into the valley.",
+                  "category": "natural",
+                  "coords": [
+                        13.664992,
+                        42.461229
+                  ]
+            }
+      ]
+},
     type: "mountain",
     parent: "IT",
     name: { de: "Monte Camicia", hu: "Monte Camicia", ro: "Monte Camicia", en: "Monte Camicia" },
@@ -1173,7 +5385,304 @@ export const italyReliefV2: POI[] = [
     image: "/poi-images/italy-monte-brencola-relief-v2.webp",
   },
   {
-    id: "italy-cime-di-lavaredo-relief-v2",
+    id: "italy-cime-di-lavaredo-relief-v2", "sights": {
+      "de": [
+            {
+                  "name": "Paternkofel",
+                  "text": "Ein markanter Gipfel in den Dolomiten, bekannt für seine Stollen aus dem Ersten Weltkrieg.",
+                  "category": "landmark",
+                  "coords": [
+                        12.315178,
+                        46.630411
+                  ]
+            },
+            {
+                  "name": "Sextner Stein",
+                  "text": "Ein Berggipfel in den Sextner Dolomiten mit Blick auf die Drei Zinnen.",
+                  "category": "landmark",
+                  "coords": [
+                        12.308224,
+                        46.638994
+                  ]
+            },
+            {
+                  "name": "Westliche Zinne",
+                  "text": "Der westliche der drei markanten Gipfel der Drei Zinnen in den Dolomiten.",
+                  "category": "landmark",
+                  "coords": [
+                        12.297233,
+                        46.618769
+                  ]
+            },
+            {
+                  "name": "Kleine Zinne",
+                  "text": "Der kleinste der drei Hauptgipfel der Drei Zinnen in den Sextner Dolomiten.",
+                  "category": "landmark",
+                  "coords": [
+                        12.306126,
+                        46.619391
+                  ]
+            },
+            {
+                  "name": "Passportenkofel",
+                  "text": "Ein Berggipfel in den Sextner Dolomiten, nahe der Drei Zinnen.",
+                  "category": "landmark",
+                  "coords": [
+                        12.316499,
+                        46.624331
+                  ]
+            },
+            {
+                  "name": "Monte Campedelle",
+                  "text": "Ein Berggipfel in der Nähe der Drei Zinnen in den Sextner Dolomiten.",
+                  "category": "landmark",
+                  "coords": [
+                        12.297601,
+                        46.602484
+                  ]
+            },
+            {
+                  "name": "Große Zinne",
+                  "text": "Mit 2999 Metern der höchste Gipfel der Drei Zinnen in den Dolomiten.",
+                  "category": "landmark",
+                  "coords": [
+                        12.30254,
+                        46.619438
+                  ]
+            },
+            {
+                  "name": "Toblinger Knoten",
+                  "text": "Ein markanter Felsturm, der über einen bekannten Klettersteig aus dem Ersten Weltkrieg erreichbar ist.",
+                  "category": "landmark",
+                  "coords": [
+                        12.308055,
+                        46.641719
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Monte Paterno - Paternkofel",
+                  "text": "Jellegzetes csúcs a Dolomitokban, amely az első világháborús alagútjairól ismert.",
+                  "category": "landmark",
+                  "coords": [
+                        12.315178,
+                        46.630411
+                  ]
+            },
+            {
+                  "name": "Sextner Stein - Sasso di Sesto",
+                  "text": "Hegycsúcs a Sexteni-Dolomitokban, kilátással a Drei Zinnenre.",
+                  "category": "landmark",
+                  "coords": [
+                        12.308224,
+                        46.638994
+                  ]
+            },
+            {
+                  "name": "Cima Ovest - Westliche Zinne",
+                  "text": "A Drei Zinnen három jellegzetes csúcsának nyugati tagja a Dolomitokban.",
+                  "category": "landmark",
+                  "coords": [
+                        12.297233,
+                        46.618769
+                  ]
+            },
+            {
+                  "name": "Cima Piccola - Kleine Zinne",
+                  "text": "A Drei Zinnen három fő csúcsának legkisebb tagja a Sexteni-Dolomitokban.",
+                  "category": "landmark",
+                  "coords": [
+                        12.306126,
+                        46.619391
+                  ]
+            },
+            {
+                  "name": "Cime Passaporto - Passportenkofel",
+                  "text": "Hegycsúcs a Sexteni-Dolomitokban, a Drei Zinnen közelében.",
+                  "category": "landmark",
+                  "coords": [
+                        12.316499,
+                        46.624331
+                  ]
+            },
+            {
+                  "name": "Monte Campedelle",
+                  "text": "Hegycsúcs a Drei Zinnen közelében a Sexteni-Dolomitokban.",
+                  "category": "landmark",
+                  "coords": [
+                        12.297601,
+                        46.602484
+                  ]
+            },
+            {
+                  "name": "Cima Grande - Große Zinne",
+                  "text": "A 2999 méteres magasságával a Drei Zinnen legmagasabb csúcsa a Dolomitokban.",
+                  "category": "landmark",
+                  "coords": [
+                        12.30254,
+                        46.619438
+                  ]
+            },
+            {
+                  "name": "Toblinger Knoten - Torre di Toblin",
+                  "text": "Jellegzetes sziklatorony, amely egy ismert első világháborús via ferratán keresztül érhető el.",
+                  "category": "landmark",
+                  "coords": [
+                        12.308055,
+                        46.641719
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Monte Paterno - Paternkofel",
+                  "text": "Un vârf distinctiv din Dolomiți, cunoscut pentru tunelurile sale din Primul Război Mondial.",
+                  "category": "landmark",
+                  "coords": [
+                        12.315178,
+                        46.630411
+                  ]
+            },
+            {
+                  "name": "Sextner Stein - Sasso di Sesto",
+                  "text": "Un vârf muntos din Dolomiții Sesto, oferind vedere spre Tre Cime di Lavaredo.",
+                  "category": "landmark",
+                  "coords": [
+                        12.308224,
+                        46.638994
+                  ]
+            },
+            {
+                  "name": "Cima Ovest - Westliche Zinne",
+                  "text": "Cel mai vestic dintre cei trei vârfuri emblematice ale masivului Tre Cime di Lavaredo.",
+                  "category": "landmark",
+                  "coords": [
+                        12.297233,
+                        46.618769
+                  ]
+            },
+            {
+                  "name": "Cima Piccola - Kleine Zinne",
+                  "text": "Cel mai mic dintre cele trei vârfuri principale ale masivului Tre Cime di Lavaredo.",
+                  "category": "landmark",
+                  "coords": [
+                        12.306126,
+                        46.619391
+                  ]
+            },
+            {
+                  "name": "Cime Passaporto - Passportenkofel",
+                  "text": "Un vârf muntos din Dolomiții Sesto, situat lângă Tre Cime di Lavaredo.",
+                  "category": "landmark",
+                  "coords": [
+                        12.316499,
+                        46.624331
+                  ]
+            },
+            {
+                  "name": "Monte Campedelle",
+                  "text": "Un vârf muntos situat în apropiere de Tre Cime di Lavaredo, în Dolomiții Sesto.",
+                  "category": "landmark",
+                  "coords": [
+                        12.297601,
+                        46.602484
+                  ]
+            },
+            {
+                  "name": "Cima Grande - Große Zinne",
+                  "text": "Cu o înălțime de 2999 de metri, este cel mai înalt vârf din masivul Tre Cime di Lavaredo.",
+                  "category": "landmark",
+                  "coords": [
+                        12.30254,
+                        46.619438
+                  ]
+            },
+            {
+                  "name": "Toblinger Knoten - Torre di Toblin",
+                  "text": "Un turn stâncos distinctiv, accesibil printr-o cunoscută via ferrata din Primul Război Mondial.",
+                  "category": "landmark",
+                  "coords": [
+                        12.308055,
+                        46.641719
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Monte Paterno - Paternkofel",
+                  "text": "A prominent peak in the Dolomites, famous for its tunnels from the First World War.",
+                  "category": "landmark",
+                  "coords": [
+                        12.315178,
+                        46.630411
+                  ]
+            },
+            {
+                  "name": "Sextner Stein - Sasso di Sesto",
+                  "text": "A mountain peak in the Sesto Dolomites offering views of the Tre Cime di Lavaredo.",
+                  "category": "landmark",
+                  "coords": [
+                        12.308224,
+                        46.638994
+                  ]
+            },
+            {
+                  "name": "Cima Ovest - Westliche Zinne",
+                  "text": "The westernmost of the three iconic peaks of the Tre Cime di Lavaredo in the Dolomites.",
+                  "category": "landmark",
+                  "coords": [
+                        12.297233,
+                        46.618769
+                  ]
+            },
+            {
+                  "name": "Cima Piccola - Kleine Zinne",
+                  "text": "The smallest of the three main peaks of the Tre Cime di Lavaredo in the Sesto Dolomites.",
+                  "category": "landmark",
+                  "coords": [
+                        12.306126,
+                        46.619391
+                  ]
+            },
+            {
+                  "name": "Cime Passaporto - Passportenkofel",
+                  "text": "A mountain peak in the Sesto Dolomites, located near the Tre Cime di Lavaredo.",
+                  "category": "landmark",
+                  "coords": [
+                        12.316499,
+                        46.624331
+                  ]
+            },
+            {
+                  "name": "Monte Campedelle",
+                  "text": "A mountain peak located near the Tre Cime di Lavaredo in the Sesto Dolomites.",
+                  "category": "landmark",
+                  "coords": [
+                        12.297601,
+                        46.602484
+                  ]
+            },
+            {
+                  "name": "Cima Grande - Große Zinne",
+                  "text": "At 2,999 meters, it is the highest peak of the Tre Cime di Lavaredo in the Dolomites.",
+                  "category": "landmark",
+                  "coords": [
+                        12.30254,
+                        46.619438
+                  ]
+            },
+            {
+                  "name": "Toblinger Knoten - Torre di Toblin",
+                  "text": "A distinctive rock tower accessible via a well-known via ferrata from the First World War.",
+                  "category": "landmark",
+                  "coords": [
+                        12.308055,
+                        46.641719
+                  ]
+            }
+      ]
+},
     type: "mountain",
     parent: "IT",
     name: { de: "Drei Zinnen", hu: "Drei Zinnen", ro: "Drei Zinnen", en: "Tre Cime di Lavaredo" },
@@ -1218,7 +5727,268 @@ export const italyReliefV2: POI[] = [
     image: "/poi-images/italy-cime-di-lavaredo-relief-v2.webp",
   },
   {
-    id: "italy-monte-cusna-relief-v2",
+    id: "italy-monte-cusna-relief-v2", "sights": {
+      "de": [
+            {
+                  "name": "Museo Parco Appennino Tosco Emiliano",
+                  "text": "Ein Museum, das Informationen über den Toskanisch-Emilianischen Apennin-Nationalpark bietet.",
+                  "category": "museum",
+                  "coords": [
+                        10.475676,
+                        44.253609
+                  ]
+            },
+            {
+                  "name": "Abetina Reale, Alta Val Dolo",
+                  "text": "Ein geschütztes Waldgebiet, das für seine alten Tannenbestände bekannt ist.",
+                  "category": "natural",
+                  "coords": [
+                        10.451212,
+                        44.260377
+                  ]
+            },
+            {
+                  "name": "Alpe di Vallestrina",
+                  "text": "Ein markanter Berggipfel im nördlichen Apennin-Gebirge.",
+                  "category": "landmark",
+                  "coords": [
+                        10.436186,
+                        44.266129
+                  ]
+            },
+            {
+                  "name": "Monte La Piella",
+                  "text": "Ein hoher Berggipfel mit Panoramablick auf die Apenninen.",
+                  "category": "landmark",
+                  "coords": [
+                        10.405576,
+                        44.278437
+                  ]
+            },
+            {
+                  "name": "Monte Ravino",
+                  "text": "Ein Berggipfel, der zum Massiv des Monte Cusna gehört.",
+                  "category": "landmark",
+                  "coords": [
+                        10.445139,
+                        44.25601
+                  ]
+            },
+            {
+                  "name": "Monte Prado",
+                  "text": "Der höchste Berg der Toskana, gelegen im Apennin-Gebirge.",
+                  "category": "landmark",
+                  "coords": [
+                        10.407503,
+                        44.249325
+                  ]
+            },
+            {
+                  "name": "Monumento ai partigiani stranieri",
+                  "text": "Ein Denkmal für ausländische Partisanen, die in dieser Region kämpften.",
+                  "category": "historical",
+                  "coords": [
+                        10.469861,
+                        44.260001
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Museo Parco Appennino Tosco Emiliano",
+                  "text": "Egy múzeum, amely a Toszkán-Emilián-Appenninek Nemzeti Parkról nyújt tájékoztatást.",
+                  "category": "museum",
+                  "coords": [
+                        10.475676,
+                        44.253609
+                  ]
+            },
+            {
+                  "name": "Abetina Reale, Alta Val Dolo",
+                  "text": "Védett erdőterület, amely ősi fenyőállományairól ismert.",
+                  "category": "natural",
+                  "coords": [
+                        10.451212,
+                        44.260377
+                  ]
+            },
+            {
+                  "name": "Alpe di Vallestrina",
+                  "text": "Egy jellegzetes hegycsúcs az északi Appenninekben.",
+                  "category": "landmark",
+                  "coords": [
+                        10.436186,
+                        44.266129
+                  ]
+            },
+            {
+                  "name": "Monte La Piella",
+                  "text": "Egy magas hegycsúcs, ahonnan panorámás kilátás nyílik az Appenninekre.",
+                  "category": "landmark",
+                  "coords": [
+                        10.405576,
+                        44.278437
+                  ]
+            },
+            {
+                  "name": "Monte Ravino",
+                  "text": "A Monte Cusna masszívumhoz tartozó hegycsúcs.",
+                  "category": "landmark",
+                  "coords": [
+                        10.445139,
+                        44.25601
+                  ]
+            },
+            {
+                  "name": "Monte Prado",
+                  "text": "Toszkána legmagasabb hegye az Appenninekben.",
+                  "category": "landmark",
+                  "coords": [
+                        10.407503,
+                        44.249325
+                  ]
+            },
+            {
+                  "name": "Monumento ai partigiani stranieri",
+                  "text": "Emlékmű a régióban harcoló külföldi partizánok tiszteletére.",
+                  "category": "historical",
+                  "coords": [
+                        10.469861,
+                        44.260001
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Museo Parco Appennino Tosco Emiliano",
+                  "text": "Un muzeu care oferă informații despre Parcul Național Apeninii Tosco-Emiliani.",
+                  "category": "museum",
+                  "coords": [
+                        10.475676,
+                        44.253609
+                  ]
+            },
+            {
+                  "name": "Abetina Reale, Alta Val Dolo",
+                  "text": "O zonă forestieră protejată, cunoscută pentru brazii săi antici.",
+                  "category": "natural",
+                  "coords": [
+                        10.451212,
+                        44.260377
+                  ]
+            },
+            {
+                  "name": "Alpe di Vallestrina",
+                  "text": "Un vârf muntos proeminent în nordul munților Apenini.",
+                  "category": "landmark",
+                  "coords": [
+                        10.436186,
+                        44.266129
+                  ]
+            },
+            {
+                  "name": "Monte La Piella",
+                  "text": "Un vârf muntos înalt care oferă o vedere panoramică asupra Apeninilor.",
+                  "category": "landmark",
+                  "coords": [
+                        10.405576,
+                        44.278437
+                  ]
+            },
+            {
+                  "name": "Monte Ravino",
+                  "text": "Un vârf muntos care face parte din masivul Monte Cusna.",
+                  "category": "landmark",
+                  "coords": [
+                        10.445139,
+                        44.25601
+                  ]
+            },
+            {
+                  "name": "Monte Prado",
+                  "text": "Cel mai înalt munte din Toscana, situat în munții Apenini.",
+                  "category": "landmark",
+                  "coords": [
+                        10.407503,
+                        44.249325
+                  ]
+            },
+            {
+                  "name": "Monumento ai partigiani stranieri",
+                  "text": "Un monument dedicat partizanilor străini care au luptat în această regiune.",
+                  "category": "historical",
+                  "coords": [
+                        10.469861,
+                        44.260001
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Museo Parco Appennino Tosco Emiliano",
+                  "text": "A museum providing information about the Tuscan-Emilian Apennine National Park.",
+                  "category": "museum",
+                  "coords": [
+                        10.475676,
+                        44.253609
+                  ]
+            },
+            {
+                  "name": "Abetina Reale, Alta Val Dolo",
+                  "text": "A protected forest area known for its ancient fir trees.",
+                  "category": "natural",
+                  "coords": [
+                        10.451212,
+                        44.260377
+                  ]
+            },
+            {
+                  "name": "Alpe di Vallestrina",
+                  "text": "A prominent mountain peak in the northern Apennine range.",
+                  "category": "landmark",
+                  "coords": [
+                        10.436186,
+                        44.266129
+                  ]
+            },
+            {
+                  "name": "Monte La Piella",
+                  "text": "A high mountain peak offering panoramic views of the Apennines.",
+                  "category": "landmark",
+                  "coords": [
+                        10.405576,
+                        44.278437
+                  ]
+            },
+            {
+                  "name": "Monte Ravino",
+                  "text": "A mountain peak belonging to the Monte Cusna massif.",
+                  "category": "landmark",
+                  "coords": [
+                        10.445139,
+                        44.25601
+                  ]
+            },
+            {
+                  "name": "Monte Prado",
+                  "text": "The highest mountain in Tuscany, located in the Apennine range.",
+                  "category": "landmark",
+                  "coords": [
+                        10.407503,
+                        44.249325
+                  ]
+            },
+            {
+                  "name": "Monumento ai partigiani stranieri",
+                  "text": "A monument dedicated to foreign partisans who fought in this region.",
+                  "category": "historical",
+                  "coords": [
+                        10.469861,
+                        44.260001
+                  ]
+            }
+      ]
+},
     type: "mountain",
     parent: "IT",
     name: { de: "Monte Cusna", hu: "Monte Cusna", ro: "Monte Cusna", en: "Monte Cusna" },
@@ -1263,7 +6033,268 @@ export const italyReliefV2: POI[] = [
     image: "/poi-images/italy-monte-cusna-relief-v2.webp",
   },
   {
-    id: "italy-monte-cimone-relief-v2",
+    id: "italy-monte-cimone-relief-v2", "sights": {
+      "de": [
+            {
+                  "name": "Teatro Comunale",
+                  "text": "Das städtische Theater in der Bergregion um den Monte Cimone.",
+                  "category": "cultural",
+                  "coords": [
+                        10.647466,
+                        44.179641
+                  ]
+            },
+            {
+                  "name": "Monte Cimone, Libro Aperto, Lago di Pratignano",
+                  "text": "Ein Regionalpark im Apennin, der Gipfel und Naturseen schützt.",
+                  "category": "natural",
+                  "coords": [
+                        10.667092,
+                        44.176328
+                  ]
+            },
+            {
+                  "name": "Castello di Fiumalbo",
+                  "text": "Eine historische Festungsanlage in Fiumalbo am Fuße des Monte Cimone.",
+                  "category": "castle",
+                  "coords": [
+                        10.647361,
+                        44.180772
+                  ]
+            },
+            {
+                  "name": "Monte Rotondo",
+                  "text": "Ein Berggipfel, der zur Gebirgsgruppe Libro Aperto im Apennin gehört.",
+                  "category": "landmark",
+                  "coords": [
+                        10.712019,
+                        44.157407
+                  ]
+            },
+            {
+                  "name": "Monte Lagoni",
+                  "text": "Ein Gipfel im nördlichen Apennin in der Nähe des Monte Cimone.",
+                  "category": "landmark",
+                  "coords": [
+                        10.69985,
+                        44.170367
+                  ]
+            },
+            {
+                  "name": "Alpicella del Cimone",
+                  "text": "Ein kleinerer Gipfel im Bergmassiv des Monte Cimone.",
+                  "category": "landmark",
+                  "coords": [
+                        10.669349,
+                        44.200799
+                  ]
+            },
+            {
+                  "name": "Monte Cimone",
+                  "text": "Der höchste Berg des nördlichen Apennins mit einer Höhe von 2165 Metern.",
+                  "category": "landmark",
+                  "coords": [
+                        10.69888,
+                        44.193774
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Teatro Comunale",
+                  "text": "Városi színház a Monte Cimone környéki hegyvidéken.",
+                  "category": "cultural",
+                  "coords": [
+                        10.647466,
+                        44.179641
+                  ]
+            },
+            {
+                  "name": "Monte Cimone, Libro Aperto, Lago di Pratignano",
+                  "text": "Regionális park az Appenninekben, amely csúcsokat és tavakat védelmez.",
+                  "category": "natural",
+                  "coords": [
+                        10.667092,
+                        44.176328
+                  ]
+            },
+            {
+                  "name": "Castello di Fiumalbo",
+                  "text": "Történelmi erődítmény Fiumalbóban, a Monte Cimone lábánál.",
+                  "category": "castle",
+                  "coords": [
+                        10.647361,
+                        44.180772
+                  ]
+            },
+            {
+                  "name": "Monte Rotondo",
+                  "text": "Az Appenninek Libro Aperto hegységéhez tartozó hegycsúcs.",
+                  "category": "landmark",
+                  "coords": [
+                        10.712019,
+                        44.157407
+                  ]
+            },
+            {
+                  "name": "Monte Lagoni",
+                  "text": "Hegycsúcs az Északi-Appenninekben, a Monte Cimone közelében.",
+                  "category": "landmark",
+                  "coords": [
+                        10.69985,
+                        44.170367
+                  ]
+            },
+            {
+                  "name": "Alpicella del Cimone",
+                  "text": "Kisebb hegycsúcs a Monte Cimone hegységben.",
+                  "category": "landmark",
+                  "coords": [
+                        10.669349,
+                        44.200799
+                  ]
+            },
+            {
+                  "name": "Monte Cimone",
+                  "text": "Az Északi-Appenninek legmagasabb csúcsa, 2165 méter magas.",
+                  "category": "landmark",
+                  "coords": [
+                        10.69888,
+                        44.193774
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Teatro Comunale",
+                  "text": "Teatrul municipal din regiunea montană din jurul Monte Cimone.",
+                  "category": "cultural",
+                  "coords": [
+                        10.647466,
+                        44.179641
+                  ]
+            },
+            {
+                  "name": "Monte Cimone, Libro Aperto, Lago di Pratignano",
+                  "text": "Un parc regional în Apenini, care protejează vârfuri și lacuri naturale.",
+                  "category": "natural",
+                  "coords": [
+                        10.667092,
+                        44.176328
+                  ]
+            },
+            {
+                  "name": "Castello di Fiumalbo",
+                  "text": "O fortăreață istorică în Fiumalbo, la poalele muntelui Monte Cimone.",
+                  "category": "castle",
+                  "coords": [
+                        10.647361,
+                        44.180772
+                  ]
+            },
+            {
+                  "name": "Monte Rotondo",
+                  "text": "Un vârf montan aparținând grupului Libro Aperto din Apenini.",
+                  "category": "landmark",
+                  "coords": [
+                        10.712019,
+                        44.157407
+                  ]
+            },
+            {
+                  "name": "Monte Lagoni",
+                  "text": "Un vârf în Apeninii de Nord, situat lângă Monte Cimone.",
+                  "category": "landmark",
+                  "coords": [
+                        10.69985,
+                        44.170367
+                  ]
+            },
+            {
+                  "name": "Alpicella del Cimone",
+                  "text": "Un vârf mai mic în masivul muntos Monte Cimone.",
+                  "category": "landmark",
+                  "coords": [
+                        10.669349,
+                        44.200799
+                  ]
+            },
+            {
+                  "name": "Monte Cimone",
+                  "text": "Cel mai înalt munte din Apeninii de Nord, cu o înălțime de 2165 metri.",
+                  "category": "landmark",
+                  "coords": [
+                        10.69888,
+                        44.193774
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Teatro Comunale",
+                  "text": "The municipal theatre in the mountain region around Monte Cimone.",
+                  "category": "cultural",
+                  "coords": [
+                        10.647466,
+                        44.179641
+                  ]
+            },
+            {
+                  "name": "Monte Cimone, Libro Aperto, Lago di Pratignano",
+                  "text": "A regional park in the Apennines protecting peaks and natural lakes.",
+                  "category": "natural",
+                  "coords": [
+                        10.667092,
+                        44.176328
+                  ]
+            },
+            {
+                  "name": "Castello di Fiumalbo",
+                  "text": "A historic fortress in Fiumalbo at the foot of Monte Cimone.",
+                  "category": "castle",
+                  "coords": [
+                        10.647361,
+                        44.180772
+                  ]
+            },
+            {
+                  "name": "Monte Rotondo",
+                  "text": "A mountain peak belonging to the Libro Aperto group in the Apennines.",
+                  "category": "landmark",
+                  "coords": [
+                        10.712019,
+                        44.157407
+                  ]
+            },
+            {
+                  "name": "Monte Lagoni",
+                  "text": "A peak in the Northern Apennines located near Monte Cimone.",
+                  "category": "landmark",
+                  "coords": [
+                        10.69985,
+                        44.170367
+                  ]
+            },
+            {
+                  "name": "Alpicella del Cimone",
+                  "text": "A minor peak in the Monte Cimone mountain massif.",
+                  "category": "landmark",
+                  "coords": [
+                        10.669349,
+                        44.200799
+                  ]
+            },
+            {
+                  "name": "Monte Cimone",
+                  "text": "The highest mountain of the Northern Apennines, with a height of 2,165 meters.",
+                  "category": "landmark",
+                  "coords": [
+                        10.69888,
+                        44.193774
+                  ]
+            }
+      ]
+},
     type: "mountain",
     parent: "IT",
     name: { de: "Monte Cimone", hu: "Monte Cimone", ro: "Monte Cimone", en: "Monte Cimone" },
@@ -1308,7 +6339,304 @@ export const italyReliefV2: POI[] = [
     image: "/poi-images/italy-monte-cimone-relief-v2.webp",
   },
   {
-    id: "italy-monte-giovo-relief-v2",
+    id: "italy-monte-giovo-relief-v2", "sights": {
+      "de": [
+            {
+                  "name": "Monte Gomito",
+                  "text": "Ein Gipfel im toskanisch-emilianischen Apennin mit weitem Blick über die Bergwelt.",
+                  "category": "landmark",
+                  "coords": [
+                        10.643763,
+                        44.127599
+                  ]
+            },
+            {
+                  "name": "Monte Nuda",
+                  "text": "Ein Berg im Apennin-Gebiet, der für Wanderungen in der Region Monte Giovo beliebt ist.",
+                  "category": "landmark",
+                  "coords": [
+                        10.578851,
+                        44.160737
+                  ]
+            },
+            {
+                  "name": "Cima dell'Omo",
+                  "text": "Ein Gipfel im Apennin, der Wanderern eine beeindruckende Aussicht bietet.",
+                  "category": "landmark",
+                  "coords": [
+                        10.553426,
+                        44.142845
+                  ]
+            },
+            {
+                  "name": "Femminamorta",
+                  "text": "Ein markanter Berg im toskanisch-emilianischen Apennin nahe dem Monte Giovo.",
+                  "category": "landmark",
+                  "coords": [
+                        10.622702,
+                        44.120431
+                  ]
+            },
+            {
+                  "name": "Alpe Tre Potenze",
+                  "text": "Ein Gipfel, an dem historisch drei verschiedene Herrschaftsgebiete aneinandergrenzten.",
+                  "category": "landmark",
+                  "coords": [
+                        10.631639,
+                        44.115996
+                  ]
+            },
+            {
+                  "name": "Balzo delle Rose",
+                  "text": "Ein Berg im Apennin, bekannt für seine Flora und die umliegende Naturlandschaft.",
+                  "category": "landmark",
+                  "coords": [
+                        10.621371,
+                        44.139304
+                  ]
+            },
+            {
+                  "name": "Monte Rondinaio",
+                  "text": "Einer der höchsten Gipfel des toskanisch-emilianischen Apennins mit steilen Hängen.",
+                  "category": "landmark",
+                  "coords": [
+                        10.592995,
+                        44.115332
+                  ]
+            },
+            {
+                  "name": "Dente della Vecchia",
+                  "text": "Eine charakteristische Felsformation und ein Gipfel im Gebirgszug des Apennin.",
+                  "category": "landmark",
+                  "coords": [
+                        10.636639,
+                        44.120468
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Monte Gomito",
+                  "text": "A toszkán-emilián Appenninek egyik csúcsa, pazar kilátással a hegyvidékre.",
+                  "category": "landmark",
+                  "coords": [
+                        10.643763,
+                        44.127599
+                  ]
+            },
+            {
+                  "name": "Monte Nuda",
+                  "text": "Az Appenninek egyik hegycsúcsa, amely népszerű a túrázók körében a Monte Giovo régióban.",
+                  "category": "landmark",
+                  "coords": [
+                        10.578851,
+                        44.160737
+                  ]
+            },
+            {
+                  "name": "Cima dell'Omo",
+                  "text": "Hegycsúcs az Appenninekben, amely lenyűgöző kilátást nyújt a túrázóknak.",
+                  "category": "landmark",
+                  "coords": [
+                        10.553426,
+                        44.142845
+                  ]
+            },
+            {
+                  "name": "Femminamorta",
+                  "text": "Jellegzetes hegycsúcs a toszkán-emilián Appenninekben, a Monte Giovo közelében.",
+                  "category": "landmark",
+                  "coords": [
+                        10.622702,
+                        44.120431
+                  ]
+            },
+            {
+                  "name": "Alpe Tre Potenze",
+                  "text": "Hegycsúcs, ahol történelmileg három különböző hatalmi terület határos volt egymással.",
+                  "category": "landmark",
+                  "coords": [
+                        10.631639,
+                        44.115996
+                  ]
+            },
+            {
+                  "name": "Balzo delle Rose",
+                  "text": "Hegy az Appenninekben, amely flórájáról és a környező természeti tájról ismert.",
+                  "category": "landmark",
+                  "coords": [
+                        10.621371,
+                        44.139304
+                  ]
+            },
+            {
+                  "name": "Monte Rondinaio",
+                  "text": "A toszkán-emilián Appenninek egyik legmagasabb csúcsa meredek lejtőkkel.",
+                  "category": "landmark",
+                  "coords": [
+                        10.592995,
+                        44.115332
+                  ]
+            },
+            {
+                  "name": "Dente della Vecchia",
+                  "text": "Jellegzetes sziklaformáció és hegycsúcs az Appenninek vonulatában.",
+                  "category": "landmark",
+                  "coords": [
+                        10.636639,
+                        44.120468
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Monte Gomito",
+                  "text": "Un vârf în Apeninii Tosco-Emilieni, oferind vederi vaste asupra munților.",
+                  "category": "landmark",
+                  "coords": [
+                        10.643763,
+                        44.127599
+                  ]
+            },
+            {
+                  "name": "Monte Nuda",
+                  "text": "Un munte în zona Apeninilor, popular pentru drumeții în regiunea Monte Giovo.",
+                  "category": "landmark",
+                  "coords": [
+                        10.578851,
+                        44.160737
+                  ]
+            },
+            {
+                  "name": "Cima dell'Omo",
+                  "text": "Un vârf în Apenini care oferă drumeților o vedere impresionantă.",
+                  "category": "landmark",
+                  "coords": [
+                        10.553426,
+                        44.142845
+                  ]
+            },
+            {
+                  "name": "Femminamorta",
+                  "text": "Un munte proeminent în Apeninii Tosco-Emilieni, lângă Monte Giovo.",
+                  "category": "landmark",
+                  "coords": [
+                        10.622702,
+                        44.120431
+                  ]
+            },
+            {
+                  "name": "Alpe Tre Potenze",
+                  "text": "Un vârf unde, istoric, se învecinau trei puteri diferite.",
+                  "category": "landmark",
+                  "coords": [
+                        10.631639,
+                        44.115996
+                  ]
+            },
+            {
+                  "name": "Balzo delle Rose",
+                  "text": "Un munte în Apenini, cunoscut pentru flora sa și peisajul natural înconjurător.",
+                  "category": "landmark",
+                  "coords": [
+                        10.621371,
+                        44.139304
+                  ]
+            },
+            {
+                  "name": "Monte Rondinaio",
+                  "text": "Unul dintre cele mai înalte vârfuri din Apeninii Tosco-Emilieni, cu versanți abrupți.",
+                  "category": "landmark",
+                  "coords": [
+                        10.592995,
+                        44.115332
+                  ]
+            },
+            {
+                  "name": "Dente della Vecchia",
+                  "text": "O formațiune stâncoasă caracteristică și un vârf în lanțul muntos al Apeninilor.",
+                  "category": "landmark",
+                  "coords": [
+                        10.636639,
+                        44.120468
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Monte Gomito",
+                  "text": "A peak in the Tuscan-Emilian Apennines providing expansive views of the mountain range.",
+                  "category": "landmark",
+                  "coords": [
+                        10.643763,
+                        44.127599
+                  ]
+            },
+            {
+                  "name": "Monte Nuda",
+                  "text": "A mountain in the Apennines area, popular for hiking in the Monte Giovo region.",
+                  "category": "landmark",
+                  "coords": [
+                        10.578851,
+                        44.160737
+                  ]
+            },
+            {
+                  "name": "Cima dell'Omo",
+                  "text": "A peak in the Apennines that offers hikers impressive scenic views.",
+                  "category": "landmark",
+                  "coords": [
+                        10.553426,
+                        44.142845
+                  ]
+            },
+            {
+                  "name": "Femminamorta",
+                  "text": "A prominent mountain in the Tuscan-Emilian Apennines near Monte Giovo.",
+                  "category": "landmark",
+                  "coords": [
+                        10.622702,
+                        44.120431
+                  ]
+            },
+            {
+                  "name": "Alpe Tre Potenze",
+                  "text": "A peak where historically three different power territories met at their borders.",
+                  "category": "landmark",
+                  "coords": [
+                        10.631639,
+                        44.115996
+                  ]
+            },
+            {
+                  "name": "Balzo delle Rose",
+                  "text": "A mountain in the Apennines known for its flora and the surrounding natural landscape.",
+                  "category": "landmark",
+                  "coords": [
+                        10.621371,
+                        44.139304
+                  ]
+            },
+            {
+                  "name": "Monte Rondinaio",
+                  "text": "One of the highest peaks in the Tuscan-Emilian Apennines, featuring steep slopes.",
+                  "category": "landmark",
+                  "coords": [
+                        10.592995,
+                        44.115332
+                  ]
+            },
+            {
+                  "name": "Dente della Vecchia",
+                  "text": "A characteristic rock formation and peak within the Apennine mountain range.",
+                  "category": "landmark",
+                  "coords": [
+                        10.636639,
+                        44.120468
+                  ]
+            }
+      ]
+},
     type: "mountain",
     parent: "IT",
     name: { de: "Monte Giovo", hu: "Monte Giovo", ro: "Monte Giovo", en: "Monte Giovo" },
@@ -1353,7 +6681,304 @@ export const italyReliefV2: POI[] = [
     image: "/poi-images/italy-monte-giovo-relief-v2.webp",
   },
   {
-    id: "italy-monte-penna-relief-v2",
+    id: "italy-monte-penna-relief-v2", "sights": {
+      "de": [
+            {
+                  "name": "antico selciato",
+                  "text": "Ein alter gepflasterter Weg am Monte Penna, der von historischer Bedeutung ist.",
+                  "category": "historical",
+                  "coords": [
+                        9.531838,
+                        44.546689
+                  ]
+            },
+            {
+                  "name": "Monumento Scalabrini",
+                  "text": "Ein Denkmal am Monte Penna, das der Erinnerung an Bischof Scalabrini gewidmet ist.",
+                  "category": "historical",
+                  "coords": [
+                        9.50581,
+                        44.488578
+                  ]
+            },
+            {
+                  "name": "Albero monumentale Faggio di Revoleto",
+                  "text": "Eine stattliche, unter Denkmalschutz stehende Buche im Gebiet des Monte Penna.",
+                  "category": "historical",
+                  "coords": [
+                        9.538139,
+                        44.543811
+                  ]
+            },
+            {
+                  "name": "antico tagliacqua in pietra",
+                  "text": "Eine historische steinerne Vorrichtung zur Wasserführung am Monte Penna.",
+                  "category": "historical",
+                  "coords": [
+                        9.544845,
+                        44.544396
+                  ]
+            },
+            {
+                  "name": "tagliacqua in pietra",
+                  "text": "Ein steinerner Wellenbrecher oder Wasserteiler in der Bergregion des Monte Penna.",
+                  "category": "historical",
+                  "coords": [
+                        9.542189,
+                        44.545406
+                  ]
+            },
+            {
+                  "name": "antica carbonaia",
+                  "text": "Überreste einer historischen Kohlenmeilerstätte in den Wäldern des Monte Penna.",
+                  "category": "historical",
+                  "coords": [
+                        9.513075,
+                        44.547506
+                  ]
+            },
+            {
+                  "name": "antichi muri a secco",
+                  "text": "Traditionelle alte Trockenmauern, die die Kulturlandschaft am Monte Penna prägen.",
+                  "category": "historical",
+                  "coords": [
+                        9.556276,
+                        44.539046
+                  ]
+            },
+            {
+                  "name": "selciato storico",
+                  "text": "Ein gut erhaltener historischer Pflasterweg in der Umgebung des Monte Penna.",
+                  "category": "historical",
+                  "coords": [
+                        9.533376,
+                        44.532548
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "antico selciato",
+                  "text": "Történelmi jelentőségű régi kövezett út a Monte Penna hegyen.",
+                  "category": "historical",
+                  "coords": [
+                        9.531838,
+                        44.546689
+                  ]
+            },
+            {
+                  "name": "Monumento Scalabrini",
+                  "text": "Scalabrini püspök emlékére állított emlékmű a Monte Penna területén.",
+                  "category": "historical",
+                  "coords": [
+                        9.50581,
+                        44.488578
+                  ]
+            },
+            {
+                  "name": "Albero monumentale Faggio di Revoleto",
+                  "text": "Egy impozáns, védett bükkfa a Monte Penna hegy vidékén.",
+                  "category": "historical",
+                  "coords": [
+                        9.538139,
+                        44.543811
+                  ]
+            },
+            {
+                  "name": "antico tagliacqua in pietra",
+                  "text": "Régi, kőből készült vízelvezető szerkezet a Monte Penna területén.",
+                  "category": "historical",
+                  "coords": [
+                        9.544845,
+                        44.544396
+                  ]
+            },
+            {
+                  "name": "tagliacqua in pietra",
+                  "text": "Kőből faragott vízelterelő elem a Monte Penna hegyvidéki környezetében.",
+                  "category": "historical",
+                  "coords": [
+                        9.542189,
+                        44.545406
+                  ]
+            },
+            {
+                  "name": "antica carbonaia",
+                  "text": "Egy régi faszénégető hely maradványai a Monte Penna erdőiben.",
+                  "category": "historical",
+                  "coords": [
+                        9.513075,
+                        44.547506
+                  ]
+            },
+            {
+                  "name": "antichi muri a secco",
+                  "text": "Hagyományos régi kőfalak, amelyek a Monte Penna tájképét jellemzik.",
+                  "category": "historical",
+                  "coords": [
+                        9.556276,
+                        44.539046
+                  ]
+            },
+            {
+                  "name": "selciato storico",
+                  "text": "Egy jól megőrzött történelmi kövezett út a Monte Penna környékén.",
+                  "category": "historical",
+                  "coords": [
+                        9.533376,
+                        44.532548
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "antico selciato",
+                  "text": "O veche cale pavată de pe muntele Monte Penna, având o importanță istorică locală.",
+                  "category": "historical",
+                  "coords": [
+                        9.531838,
+                        44.546689
+                  ]
+            },
+            {
+                  "name": "Monumento Scalabrini",
+                  "text": "Un monument ridicat pe Monte Penna în memoria episcopului Scalabrini.",
+                  "category": "historical",
+                  "coords": [
+                        9.50581,
+                        44.488578
+                  ]
+            },
+            {
+                  "name": "Albero monumentale Faggio di Revoleto",
+                  "text": "Un fag secular impresionant, protejat ca monument al naturii în zona Monte Penna.",
+                  "category": "historical",
+                  "coords": [
+                        9.538139,
+                        44.543811
+                  ]
+            },
+            {
+                  "name": "antico tagliacqua in pietra",
+                  "text": "O structură istorică din piatră pentru dirijarea apei, situată pe muntele Monte Penna.",
+                  "category": "historical",
+                  "coords": [
+                        9.544845,
+                        44.544396
+                  ]
+            },
+            {
+                  "name": "tagliacqua in pietra",
+                  "text": "Un element din piatră folosit pentru devierea apei în regiunea montană Monte Penna.",
+                  "category": "historical",
+                  "coords": [
+                        9.542189,
+                        44.545406
+                  ]
+            },
+            {
+                  "name": "antica carbonaia",
+                  "text": "Rămășițele unui vechi cuptor de cărbune situat în pădurile de pe Monte Penna.",
+                  "category": "historical",
+                  "coords": [
+                        9.513075,
+                        44.547506
+                  ]
+            },
+            {
+                  "name": "antichi muri a secco",
+                  "text": "Ziduri vechi din piatră uscată, tipice pentru peisajul cultural de pe Monte Penna.",
+                  "category": "historical",
+                  "coords": [
+                        9.556276,
+                        44.539046
+                  ]
+            },
+            {
+                  "name": "selciato storico",
+                  "text": "O porțiune de drum pavat istoric, bine conservată, în zona Monte Penna.",
+                  "category": "historical",
+                  "coords": [
+                        9.533376,
+                        44.532548
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "antico selciato",
+                  "text": "An ancient paved path on Monte Penna that holds historical significance.",
+                  "category": "historical",
+                  "coords": [
+                        9.531838,
+                        44.546689
+                  ]
+            },
+            {
+                  "name": "Monumento Scalabrini",
+                  "text": "A monument on Monte Penna dedicated to the memory of Bishop Scalabrini.",
+                  "category": "historical",
+                  "coords": [
+                        9.50581,
+                        44.488578
+                  ]
+            },
+            {
+                  "name": "Albero monumentale Faggio di Revoleto",
+                  "text": "A majestic and protected monumental beech tree in the Monte Penna area.",
+                  "category": "historical",
+                  "coords": [
+                        9.538139,
+                        44.543811
+                  ]
+            },
+            {
+                  "name": "antico tagliacqua in pietra",
+                  "text": "An ancient stone structure designed for water management on Monte Penna.",
+                  "category": "historical",
+                  "coords": [
+                        9.544845,
+                        44.544396
+                  ]
+            },
+            {
+                  "name": "tagliacqua in pietra",
+                  "text": "A stone water-diversion element located in the mountainous area of Monte Penna.",
+                  "category": "historical",
+                  "coords": [
+                        9.542189,
+                        44.545406
+                  ]
+            },
+            {
+                  "name": "antica carbonaia",
+                  "text": "The remains of an ancient charcoal kiln site in the forests of Monte Penna.",
+                  "category": "historical",
+                  "coords": [
+                        9.513075,
+                        44.547506
+                  ]
+            },
+            {
+                  "name": "antichi muri a secco",
+                  "text": "Traditional ancient dry stone walls that characterize the landscape of Monte Penna.",
+                  "category": "historical",
+                  "coords": [
+                        9.556276,
+                        44.539046
+                  ]
+            },
+            {
+                  "name": "selciato storico",
+                  "text": "A well-preserved stretch of historic paving in the Monte Penna area.",
+                  "category": "historical",
+                  "coords": [
+                        9.533376,
+                        44.532548
+                  ]
+            }
+      ]
+},
     type: "mountain",
     parent: "IT",
     name: { de: "Monte Penna", hu: "Monte Penna", ro: "Monte Penna", en: "Monte Penna" },
@@ -1398,7 +7023,268 @@ export const italyReliefV2: POI[] = [
     image: "/poi-images/italy-monte-penna-relief-v2.webp",
   },
   {
-    id: "italy-monte-beigua-relief-v2",
+    id: "italy-monte-beigua-relief-v2", "sights": {
+      "de": [
+            {
+                  "name": "Strada Megalitica",
+                  "text": "Archäologische Stätte mit megalithischen Spuren am Monte Beigua.",
+                  "category": "historical",
+                  "coords": [
+                        8.559674,
+                        44.404989
+                  ]
+            },
+            {
+                  "name": "Menhir Ceresa 2",
+                  "text": "Prähistorischer Menhir in der Bergregion des Monte Beigua.",
+                  "category": "historical",
+                  "coords": [
+                        8.550953,
+                        44.407601
+                  ]
+            },
+            {
+                  "name": "Cabana du Squarzin",
+                  "text": "Eine traditionelle Steinhütte, die früher als Unterstand am Monte Beigua diente.",
+                  "category": "historical",
+                  "coords": [
+                        8.554899,
+                        44.437613
+                  ]
+            },
+            {
+                  "name": "casella",
+                  "text": "Ein typisches ländliches Steingebäude der Region Monte Beigua.",
+                  "category": "historical",
+                  "coords": [
+                        8.562671,
+                        44.416124
+                  ]
+            },
+            {
+                  "name": "Neviera",
+                  "text": "Eine historische Anlage zur Lagerung von Eis im Monte Beigua-Massiv.",
+                  "category": "historical",
+                  "coords": [
+                        8.567074,
+                        44.415307
+                  ]
+            },
+            {
+                  "name": "Torbiera del Laione",
+                  "text": "Ein wertvolles Hochmoor und Naturschutzgebiet im Regionalpark Beigua.",
+                  "category": "natural",
+                  "coords": [
+                        8.577917,
+                        44.445774
+                  ]
+            },
+            {
+                  "name": "Cima Fontanaccia",
+                  "text": "Ein markanter Berggipfel in den ligurischen Apenninen am Monte Beigua.",
+                  "category": "landmark",
+                  "coords": [
+                        8.613097,
+                        44.428947
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Strada Megalitica",
+                  "text": "Megalitikus nyomokat őrző régészeti lelőhely a Monte Beiguán.",
+                  "category": "historical",
+                  "coords": [
+                        8.559674,
+                        44.404989
+                  ]
+            },
+            {
+                  "name": "Menhir Ceresa 2",
+                  "text": "Prehisztorikus menhir a Monte Beigua hegyvidéki régiójában.",
+                  "category": "historical",
+                  "coords": [
+                        8.550953,
+                        44.407601
+                  ]
+            },
+            {
+                  "name": "Cabana du Squarzin",
+                  "text": "Hagyományos kőkunyhó, amely egykor menedékként szolgált a Monte Beigua hegyen.",
+                  "category": "historical",
+                  "coords": [
+                        8.554899,
+                        44.437613
+                  ]
+            },
+            {
+                  "name": "casella",
+                  "text": "A Monte Beigua régióra jellemző vidéki kőépület.",
+                  "category": "historical",
+                  "coords": [
+                        8.562671,
+                        44.416124
+                  ]
+            },
+            {
+                  "name": "Neviera",
+                  "text": "Történelmi jégverem a Monte Beigua-hegységben a jég tárolására.",
+                  "category": "historical",
+                  "coords": [
+                        8.567074,
+                        44.415307
+                  ]
+            },
+            {
+                  "name": "Torbiera del Laione",
+                  "text": "Értékes magasláp és természetvédelmi terület a Beigua Regionális Parkban.",
+                  "category": "natural",
+                  "coords": [
+                        8.577917,
+                        44.445774
+                  ]
+            },
+            {
+                  "name": "Cima Fontanaccia",
+                  "text": "Jellegzetes hegycsúcs a liguriai Appenninekben, a Monte Beigua területén.",
+                  "category": "landmark",
+                  "coords": [
+                        8.613097,
+                        44.428947
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Strada Megalitica",
+                  "text": "Sit arheologic cu urme megalitice pe Monte Beigua.",
+                  "category": "historical",
+                  "coords": [
+                        8.559674,
+                        44.404989
+                  ]
+            },
+            {
+                  "name": "Menhir Ceresa 2",
+                  "text": "Menhir preistoric în regiunea montană Monte Beigua.",
+                  "category": "historical",
+                  "coords": [
+                        8.550953,
+                        44.407601
+                  ]
+            },
+            {
+                  "name": "Cabana du Squarzin",
+                  "text": "O colibă tradițională din piatră care servea drept adăpost pe muntele Monte Beigua.",
+                  "category": "historical",
+                  "coords": [
+                        8.554899,
+                        44.437613
+                  ]
+            },
+            {
+                  "name": "casella",
+                  "text": "O clădire rurală tipică din piatră din regiunea Monte Beigua.",
+                  "category": "historical",
+                  "coords": [
+                        8.562671,
+                        44.416124
+                  ]
+            },
+            {
+                  "name": "Neviera",
+                  "text": "O structură istorică pentru depozitarea gheții în masivul Monte Beigua.",
+                  "category": "historical",
+                  "coords": [
+                        8.567074,
+                        44.415307
+                  ]
+            },
+            {
+                  "name": "Torbiera del Laione",
+                  "text": "O mlaștină de mare altitudine și rezervație naturală în Parcul Regional Beigua.",
+                  "category": "natural",
+                  "coords": [
+                        8.577917,
+                        44.445774
+                  ]
+            },
+            {
+                  "name": "Cima Fontanaccia",
+                  "text": "Un vârf montan proeminent în Apeninii Ligurici, pe Monte Beigua.",
+                  "category": "landmark",
+                  "coords": [
+                        8.613097,
+                        44.428947
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Strada Megalitica",
+                  "text": "Archaeological site with megalithic remains on Monte Beigua.",
+                  "category": "historical",
+                  "coords": [
+                        8.559674,
+                        44.404989
+                  ]
+            },
+            {
+                  "name": "Menhir Ceresa 2",
+                  "text": "Prehistoric menhir in the mountainous region of Monte Beigua.",
+                  "category": "historical",
+                  "coords": [
+                        8.550953,
+                        44.407601
+                  ]
+            },
+            {
+                  "name": "Cabana du Squarzin",
+                  "text": "A traditional stone hut that formerly served as a shelter on Monte Beigua.",
+                  "category": "historical",
+                  "coords": [
+                        8.554899,
+                        44.437613
+                  ]
+            },
+            {
+                  "name": "casella",
+                  "text": "A typical rural stone building characteristic of the Monte Beigua region.",
+                  "category": "historical",
+                  "coords": [
+                        8.562671,
+                        44.416124
+                  ]
+            },
+            {
+                  "name": "Neviera",
+                  "text": "A historical facility used for storing ice in the Monte Beigua massif.",
+                  "category": "historical",
+                  "coords": [
+                        8.567074,
+                        44.415307
+                  ]
+            },
+            {
+                  "name": "Torbiera del Laione",
+                  "text": "A valuable high-altitude peat bog and nature reserve in the Beigua Regional Park.",
+                  "category": "natural",
+                  "coords": [
+                        8.577917,
+                        44.445774
+                  ]
+            },
+            {
+                  "name": "Cima Fontanaccia",
+                  "text": "A prominent mountain peak in the Ligurian Apennines at Monte Beigua.",
+                  "category": "landmark",
+                  "coords": [
+                        8.613097,
+                        44.428947
+                  ]
+            }
+      ]
+},
     type: "mountain",
     parent: "IT",
     name: { de: "Monte Beigua", hu: "Monte Beigua", ro: "Monte Beigua", en: "Monte Beigua" },
@@ -1443,7 +7329,232 @@ export const italyReliefV2: POI[] = [
     image: "/poi-images/italy-monte-beigua-relief-v2.webp",
   },
   {
-    id: "italy-monte-antola-relief-v2",
+    id: "italy-monte-antola-relief-v2", "sights": {
+      "de": [
+            {
+                  "name": "Sezione Etnologica \"La stalla\"",
+                  "text": "Eine ethnologische Abteilung, die das traditionelle ländliche Leben zeigt.",
+                  "category": "museum",
+                  "coords": [
+                        9.119575,
+                        44.556399
+                  ]
+            },
+            {
+                  "name": "scavi di Torriglia Vecchia",
+                  "text": "Eine archäologische Ausgrabungsstätte mit historischen Überresten.",
+                  "category": "historical",
+                  "coords": [
+                        9.160579,
+                        44.53304
+                  ]
+            },
+            {
+                  "name": "Comune di Propata",
+                  "text": "Ein lokales Museum in der Gemeinde Propata, das über die Natur und Kultur der Region Monte Antola informiert.",
+                  "category": "museum",
+                  "coords": [
+                        9.184881,
+                        44.564721
+                  ]
+            },
+            {
+                  "name": "Monte Antola",
+                  "text": "Ein markanter Gipfel im ligurischen Apennin, der für seine weite Aussicht bekannt ist.",
+                  "category": "landmark",
+                  "coords": [
+                        9.149542,
+                        44.574147
+                  ]
+            },
+            {
+                  "name": "Monte Prelà",
+                  "text": "Ein Berggipfel im ligurischen Apennin in der Nähe des Monte Antola.",
+                  "category": "landmark",
+                  "coords": [
+                        9.156848,
+                        44.540023
+                  ]
+            },
+            {
+                  "name": "Monte delle Tre Croci",
+                  "text": "Ein Gipfel in der Region Monte Antola, der Teil der ligurischen Apenninen ist.",
+                  "category": "landmark",
+                  "coords": [
+                        9.171607,
+                        44.58604
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Sezione Etnologica \"La stalla\"",
+                  "text": "Néprajzi részleg, amely a hagyományos vidéki életet mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        9.119575,
+                        44.556399
+                  ]
+            },
+            {
+                  "name": "scavi di Torriglia Vecchia",
+                  "text": "Régészeti lelőhely történelmi maradványokkal.",
+                  "category": "historical",
+                  "coords": [
+                        9.160579,
+                        44.53304
+                  ]
+            },
+            {
+                  "name": "Comune di Propata",
+                  "text": "Propata község helytörténeti múzeuma, amely a Monte Antola régió értékeit mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        9.184881,
+                        44.564721
+                  ]
+            },
+            {
+                  "name": "Monte Antola",
+                  "text": "A Ligur-Appenninek egyik népszerű csúcsa, amely híres panorámás kilátásáról.",
+                  "category": "landmark",
+                  "coords": [
+                        9.149542,
+                        44.574147
+                  ]
+            },
+            {
+                  "name": "Monte Prelà",
+                  "text": "Hegycsúcs a Ligur-Appenninekben, a Monte Antola közelében.",
+                  "category": "landmark",
+                  "coords": [
+                        9.156848,
+                        44.540023
+                  ]
+            },
+            {
+                  "name": "Monte delle Tre Croci",
+                  "text": "Csúcs a Monte Antola régióban, amely a Ligur-Appenninek részét képezi.",
+                  "category": "landmark",
+                  "coords": [
+                        9.171607,
+                        44.58604
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Sezione Etnologica \"La stalla\"",
+                  "text": "O secție etnologică ce prezintă viața rurală tradițională.",
+                  "category": "museum",
+                  "coords": [
+                        9.119575,
+                        44.556399
+                  ]
+            },
+            {
+                  "name": "scavi di Torriglia Vecchia",
+                  "text": "Un sit arheologic ce cuprinde vestigii istorice.",
+                  "category": "historical",
+                  "coords": [
+                        9.160579,
+                        44.53304
+                  ]
+            },
+            {
+                  "name": "Comune di Propata",
+                  "text": "Un muzeu local din comuna Propata, care oferă informații despre natura și cultura regiunii Monte Antola.",
+                  "category": "museum",
+                  "coords": [
+                        9.184881,
+                        44.564721
+                  ]
+            },
+            {
+                  "name": "Monte Antola",
+                  "text": "Un vârf proeminent din Apeninii Ligurici, cunoscut pentru vederile sale panoramice extinse.",
+                  "category": "landmark",
+                  "coords": [
+                        9.149542,
+                        44.574147
+                  ]
+            },
+            {
+                  "name": "Monte Prelà",
+                  "text": "Un vârf montan din Apeninii Ligurici, situat în apropiere de Monte Antola.",
+                  "category": "landmark",
+                  "coords": [
+                        9.156848,
+                        44.540023
+                  ]
+            },
+            {
+                  "name": "Monte delle Tre Croci",
+                  "text": "Un vârf din regiunea Monte Antola, făcând parte din Apeninii Ligurici.",
+                  "category": "landmark",
+                  "coords": [
+                        9.171607,
+                        44.58604
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Sezione Etnologica \"La stalla\"",
+                  "text": "An ethnological section showcasing traditional rural life.",
+                  "category": "museum",
+                  "coords": [
+                        9.119575,
+                        44.556399
+                  ]
+            },
+            {
+                  "name": "scavi di Torriglia Vecchia",
+                  "text": "An archaeological site featuring historical remains.",
+                  "category": "historical",
+                  "coords": [
+                        9.160579,
+                        44.53304
+                  ]
+            },
+            {
+                  "name": "Comune di Propata",
+                  "text": "A local museum in the municipality of Propata providing information on the nature and culture of the Monte Antola region.",
+                  "category": "museum",
+                  "coords": [
+                        9.184881,
+                        44.564721
+                  ]
+            },
+            {
+                  "name": "Monte Antola",
+                  "text": "A prominent peak in the Ligurian Apennines known for its wide panoramic views.",
+                  "category": "landmark",
+                  "coords": [
+                        9.149542,
+                        44.574147
+                  ]
+            },
+            {
+                  "name": "Monte Prelà",
+                  "text": "A mountain peak in the Ligurian Apennines located near Monte Antola.",
+                  "category": "landmark",
+                  "coords": [
+                        9.156848,
+                        44.540023
+                  ]
+            },
+            {
+                  "name": "Monte delle Tre Croci",
+                  "text": "A peak in the Monte Antola region, forming part of the Ligurian Apennines.",
+                  "category": "landmark",
+                  "coords": [
+                        9.171607,
+                        44.58604
+                  ]
+            }
+      ]
+},
     type: "mountain",
     parent: "IT",
     name: { de: "Monte Antola", hu: "Monte Antola", ro: "Monte Antola", en: "Monte Antola" },
@@ -1488,7 +7599,232 @@ export const italyReliefV2: POI[] = [
     image: "/poi-images/italy-monte-antola-relief-v2.webp",
   },
   {
-    id: "italy-monte-tobbio-relief-v2",
+    id: "italy-monte-tobbio-relief-v2", "sights": {
+      "de": [
+            {
+                  "name": "Castello di Casaleggio",
+                  "text": "Eine historische Burgruine in der Berglandschaft des Monte Tobbio.",
+                  "category": "castle",
+                  "coords": [
+                        8.736066,
+                        44.626735
+                  ]
+            },
+            {
+                  "name": "Monastero di S.Maria di Bano",
+                  "text": "Eine archäologische Stätte mit den Überresten eines ehemaligen Klosters.",
+                  "category": "historical",
+                  "coords": [
+                        8.710444,
+                        44.598758
+                  ]
+            },
+            {
+                  "name": "Madonnina",
+                  "text": "Ein religiöses Denkmal auf dem Gipfel des Monte Tobbio.",
+                  "category": "historical",
+                  "coords": [
+                        8.792345,
+                        44.619413
+                  ]
+            },
+            {
+                  "name": "Cascina FERRERE inferiore",
+                  "text": "Die Ruinen eines historischen Bauernhauses in der Region Monte Tobbio.",
+                  "category": "historical",
+                  "coords": [
+                        8.753537,
+                        44.598406
+                  ]
+            },
+            {
+                  "name": "Mondovile inferiore",
+                  "text": "Historische Gebäudereste in der unteren Region des Monte Tobbio.",
+                  "category": "historical",
+                  "coords": [
+                        8.73631,
+                        44.603976
+                  ]
+            },
+            {
+                  "name": "C.se Tugello",
+                  "text": "Ruinen eines alten Bauwerks in der Nähe des Monte Tobbio.",
+                  "category": "historical",
+                  "coords": [
+                        8.776491,
+                        44.588631
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Castello di Casaleggio",
+                  "text": "Történelmi várrom a Monte Tobbio hegyi környezetében.",
+                  "category": "castle",
+                  "coords": [
+                        8.736066,
+                        44.626735
+                  ]
+            },
+            {
+                  "name": "Monastero di S.Maria di Bano",
+                  "text": "Egy egykori kolostor maradványait őrző régészeti lelőhely.",
+                  "category": "historical",
+                  "coords": [
+                        8.710444,
+                        44.598758
+                  ]
+            },
+            {
+                  "name": "Madonnina",
+                  "text": "Vallási emlékmű a Monte Tobbio hegycsúcsán.",
+                  "category": "historical",
+                  "coords": [
+                        8.792345,
+                        44.619413
+                  ]
+            },
+            {
+                  "name": "Cascina FERRERE inferiore",
+                  "text": "Egy történelmi tanya romjai a Monte Tobbio vidékén.",
+                  "category": "historical",
+                  "coords": [
+                        8.753537,
+                        44.598406
+                  ]
+            },
+            {
+                  "name": "Mondovile inferiore",
+                  "text": "Történelmi épületmaradványok a Monte Tobbio alsóbb vidékein.",
+                  "category": "historical",
+                  "coords": [
+                        8.73631,
+                        44.603976
+                  ]
+            },
+            {
+                  "name": "C.se Tugello",
+                  "text": "Egy régi építmény romjai a Monte Tobbio közelében.",
+                  "category": "historical",
+                  "coords": [
+                        8.776491,
+                        44.588631
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Castello di Casaleggio",
+                  "text": "O ruină de castel istoric în peisajul montan de pe Monte Tobbio.",
+                  "category": "castle",
+                  "coords": [
+                        8.736066,
+                        44.626735
+                  ]
+            },
+            {
+                  "name": "Monastero di S.Maria di Bano",
+                  "text": "Un sit arheologic ce conține vestigiile unei foste mănăstiri.",
+                  "category": "historical",
+                  "coords": [
+                        8.710444,
+                        44.598758
+                  ]
+            },
+            {
+                  "name": "Madonnina",
+                  "text": "Un monument religios situat pe vârful muntelui Tobbio.",
+                  "category": "historical",
+                  "coords": [
+                        8.792345,
+                        44.619413
+                  ]
+            },
+            {
+                  "name": "Cascina FERRERE inferiore",
+                  "text": "Ruinele unei vechi ferme în regiunea Monte Tobbio.",
+                  "category": "historical",
+                  "coords": [
+                        8.753537,
+                        44.598406
+                  ]
+            },
+            {
+                  "name": "Mondovile inferiore",
+                  "text": "Vestigii istorice situate în zona inferioară a muntelui Tobbio.",
+                  "category": "historical",
+                  "coords": [
+                        8.73631,
+                        44.603976
+                  ]
+            },
+            {
+                  "name": "C.se Tugello",
+                  "text": "Ruinele unei vechi structuri situate lângă Monte Tobbio.",
+                  "category": "historical",
+                  "coords": [
+                        8.776491,
+                        44.588631
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Castello di Casaleggio",
+                  "text": "A historic castle ruin in the mountainous landscape of Monte Tobbio.",
+                  "category": "castle",
+                  "coords": [
+                        8.736066,
+                        44.626735
+                  ]
+            },
+            {
+                  "name": "Monastero di S.Maria di Bano",
+                  "text": "An archaeological site containing the remains of a former monastery.",
+                  "category": "historical",
+                  "coords": [
+                        8.710444,
+                        44.598758
+                  ]
+            },
+            {
+                  "name": "Madonnina",
+                  "text": "A religious monument located on the summit of Monte Tobbio.",
+                  "category": "historical",
+                  "coords": [
+                        8.792345,
+                        44.619413
+                  ]
+            },
+            {
+                  "name": "Cascina FERRERE inferiore",
+                  "text": "The ruins of a historical farmhouse in the Monte Tobbio region.",
+                  "category": "historical",
+                  "coords": [
+                        8.753537,
+                        44.598406
+                  ]
+            },
+            {
+                  "name": "Mondovile inferiore",
+                  "text": "Historical building remains located in the lower Monte Tobbio area.",
+                  "category": "historical",
+                  "coords": [
+                        8.73631,
+                        44.603976
+                  ]
+            },
+            {
+                  "name": "C.se Tugello",
+                  "text": "Ruins of an old structure located near Monte Tobbio.",
+                  "category": "historical",
+                  "coords": [
+                        8.776491,
+                        44.588631
+                  ]
+            }
+      ]
+},
     type: "mountain",
     parent: "IT",
     name: { de: "Monte Tobbio", hu: "Monte Tobbio", ro: "Monte Tobbio", en: "Monte Tobbio" },
@@ -1533,7 +7869,304 @@ export const italyReliefV2: POI[] = [
     image: "/poi-images/italy-monte-tobbio-relief-v2.webp",
   },
   {
-    id: "italy-monte-matto-relief-v2",
+    id: "italy-monte-matto-relief-v2", "sights": {
+      "de": [
+            {
+                  "name": "Parco naturale delle Alpi Marittime",
+                  "text": "Ein Informationszentrum oder Museum zum Naturpark der Seealpen in der Region Monte Matto.",
+                  "category": "museum",
+                  "coords": [
+                        7.269734,
+                        44.204836
+                  ]
+            },
+            {
+                  "name": "Cime de Tavels",
+                  "text": "Ein markanter Berggipfel in den Seealpen, der bei Wanderern und Bergsteigern beliebt ist.",
+                  "category": "landmark",
+                  "coords": [
+                        7.193589,
+                        44.187085
+                  ]
+            },
+            {
+                  "name": "Mont Malinvern / Testa di Malinvern",
+                  "text": "Ein imposanter Grenzgipfel zwischen Frankreich und Italien im Massiv des Monte Matto.",
+                  "category": "landmark",
+                  "coords": [
+                        7.18907,
+                        44.198726
+                  ]
+            },
+            {
+                  "name": "Testa del Claus / Tête du Claus",
+                  "text": "Ein Gipfel in den Seealpen, der spektakuläre Ausblicke auf die umliegende Gebirgslandschaft bietet.",
+                  "category": "landmark",
+                  "coords": [
+                        7.204796,
+                        44.182261
+                  ]
+            },
+            {
+                  "name": "Cima di Fremamorta / Cime de Frémamorte",
+                  "text": "Ein alpiner Berggipfel in der Nähe des Monte Matto, ideal für anspruchsvolle Bergtouren.",
+                  "category": "landmark",
+                  "coords": [
+                        7.250698,
+                        44.15701
+                  ]
+            },
+            {
+                  "name": "Pointe Giegn",
+                  "text": "Ein hoher Gipfel in der Gebirgsgruppe des Monte Matto in den italienischen Alpen.",
+                  "category": "landmark",
+                  "coords": [
+                        7.223589,
+                        44.163457
+                  ]
+            },
+            {
+                  "name": "Cima sud di Valrossa",
+                  "text": "Der südliche Gipfel des Valrossa-Massivs in der unberührten Natur der Seealpen.",
+                  "category": "landmark",
+                  "coords": [
+                        7.208369,
+                        44.207478
+                  ]
+            },
+            {
+                  "name": "Ricoveri di Valscura",
+                  "text": "Historische Ruinen ehemaliger Unterkünfte im Valscura-Gebiet der Seealpen.",
+                  "category": "historical",
+                  "coords": [
+                        7.208779,
+                        44.198522
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Parco naturale delle Alpi Marittime",
+                  "text": "A Tengeri-Alpok Natúrpark információs központja vagy múzeuma a Monte Matto régióban.",
+                  "category": "museum",
+                  "coords": [
+                        7.269734,
+                        44.204836
+                  ]
+            },
+            {
+                  "name": "Cime de Tavels",
+                  "text": "A Tengeri-Alpok egyik jellegzetes csúcsa, amely kedvelt a túrázók és hegymászók körében.",
+                  "category": "landmark",
+                  "coords": [
+                        7.193589,
+                        44.187085
+                  ]
+            },
+            {
+                  "name": "Mont Malinvern / Testa di Malinvern",
+                  "text": "Impozáns határhegy Franciaország és Olaszország között a Monte Matto-masszívumban.",
+                  "category": "landmark",
+                  "coords": [
+                        7.18907,
+                        44.198726
+                  ]
+            },
+            {
+                  "name": "Testa del Claus / Tête du Claus",
+                  "text": "A Tengeri-Alpok egyik csúcsa, amely látványos kilátást nyújt a környező hegyvidékre.",
+                  "category": "landmark",
+                  "coords": [
+                        7.204796,
+                        44.182261
+                  ]
+            },
+            {
+                  "name": "Cima di Fremamorta / Cime de Frémamorte",
+                  "text": "Alpesi hegycsúcs a Monte Matto közelében, amely ideális a kihívást jelentő túrákhoz.",
+                  "category": "landmark",
+                  "coords": [
+                        7.250698,
+                        44.15701
+                  ]
+            },
+            {
+                  "name": "Pointe Giegn",
+                  "text": "Magas hegycsúcs a Monte Matto csoportban az olasz Alpok területén.",
+                  "category": "landmark",
+                  "coords": [
+                        7.223589,
+                        44.163457
+                  ]
+            },
+            {
+                  "name": "Cima sud di Valrossa",
+                  "text": "A Valrossa-masszívum déli csúcsa a Tengeri-Alpok érintetlen természetében.",
+                  "category": "landmark",
+                  "coords": [
+                        7.208369,
+                        44.207478
+                  ]
+            },
+            {
+                  "name": "Ricoveri di Valscura",
+                  "text": "Egykori szálláshelyek történelmi romjai a Tengeri-Alpok Valscura területén.",
+                  "category": "historical",
+                  "coords": [
+                        7.208779,
+                        44.198522
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Parco naturale delle Alpi Marittime",
+                  "text": "Un centru de informare sau muzeu dedicat Parcului Natural Alpii Maritimi în regiunea Monte Matto.",
+                  "category": "museum",
+                  "coords": [
+                        7.269734,
+                        44.204836
+                  ]
+            },
+            {
+                  "name": "Cime de Tavels",
+                  "text": "Un vârf muntos distinctiv din Alpii Maritimi, apreciat de drumeți și alpiniști.",
+                  "category": "landmark",
+                  "coords": [
+                        7.193589,
+                        44.187085
+                  ]
+            },
+            {
+                  "name": "Mont Malinvern / Testa di Malinvern",
+                  "text": "Un vârf de frontieră impunător între Franța și Italia, situat în masivul Monte Matto.",
+                  "category": "landmark",
+                  "coords": [
+                        7.18907,
+                        44.198726
+                  ]
+            },
+            {
+                  "name": "Testa del Claus / Tête du Claus",
+                  "text": "Un vârf din Alpii Maritimi ce oferă vederi spectaculoase asupra peisajului montan înconjurător.",
+                  "category": "landmark",
+                  "coords": [
+                        7.204796,
+                        44.182261
+                  ]
+            },
+            {
+                  "name": "Cima di Fremamorta / Cime de Frémamorte",
+                  "text": "Un vârf muntos alpin lângă Monte Matto, ideal pentru trasee montane solicitante.",
+                  "category": "landmark",
+                  "coords": [
+                        7.250698,
+                        44.15701
+                  ]
+            },
+            {
+                  "name": "Pointe Giegn",
+                  "text": "Un vârf înalt din grupul montan Monte Matto, situat în Alpii italieni.",
+                  "category": "landmark",
+                  "coords": [
+                        7.223589,
+                        44.163457
+                  ]
+            },
+            {
+                  "name": "Cima sud di Valrossa",
+                  "text": "Vârful sudic al masivului Valrossa, situat în natura virgină a Alpilor Maritimi.",
+                  "category": "landmark",
+                  "coords": [
+                        7.208369,
+                        44.207478
+                  ]
+            },
+            {
+                  "name": "Ricoveri di Valscura",
+                  "text": "Ruinele istorice ale unor foste adăposturi din zona Valscura a Alpilor Maritimi.",
+                  "category": "historical",
+                  "coords": [
+                        7.208779,
+                        44.198522
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Parco naturale delle Alpi Marittime",
+                  "text": "An information center or museum dedicated to the Maritime Alps Natural Park in the Monte Matto region.",
+                  "category": "museum",
+                  "coords": [
+                        7.269734,
+                        44.204836
+                  ]
+            },
+            {
+                  "name": "Cime de Tavels",
+                  "text": "A distinctive mountain peak in the Maritime Alps popular with hikers and climbers.",
+                  "category": "landmark",
+                  "coords": [
+                        7.193589,
+                        44.187085
+                  ]
+            },
+            {
+                  "name": "Mont Malinvern / Testa di Malinvern",
+                  "text": "An imposing border peak between France and Italy in the Monte Matto massif.",
+                  "category": "landmark",
+                  "coords": [
+                        7.18907,
+                        44.198726
+                  ]
+            },
+            {
+                  "name": "Testa del Claus / Tête du Claus",
+                  "text": "A peak in the Maritime Alps offering spectacular views of the surrounding mountain landscape.",
+                  "category": "landmark",
+                  "coords": [
+                        7.204796,
+                        44.182261
+                  ]
+            },
+            {
+                  "name": "Cima di Fremamorta / Cime de Frémamorte",
+                  "text": "An alpine mountain peak near Monte Matto, ideal for challenging mountain tours.",
+                  "category": "landmark",
+                  "coords": [
+                        7.250698,
+                        44.15701
+                  ]
+            },
+            {
+                  "name": "Pointe Giegn",
+                  "text": "A high peak in the Monte Matto mountain group within the Italian Alps.",
+                  "category": "landmark",
+                  "coords": [
+                        7.223589,
+                        44.163457
+                  ]
+            },
+            {
+                  "name": "Cima sud di Valrossa",
+                  "text": "The southern peak of the Valrossa massif in the pristine nature of the Maritime Alps.",
+                  "category": "landmark",
+                  "coords": [
+                        7.208369,
+                        44.207478
+                  ]
+            },
+            {
+                  "name": "Ricoveri di Valscura",
+                  "text": "Historic ruins of former shelters in the Valscura area of the Maritime Alps.",
+                  "category": "historical",
+                  "coords": [
+                        7.208779,
+                        44.198522
+                  ]
+            }
+      ]
+},
     type: "mountain",
     parent: "IT",
     name: { de: "Monte Matto", hu: "Monte Matto", ro: "Monte Matto", en: "Monte Matto" },
@@ -1578,7 +8211,268 @@ export const italyReliefV2: POI[] = [
     image: "/poi-images/italy-monte-matto-relief-v2.webp",
   },
   {
-    id: "italy-pizzo-d-uccello-relief-v2",
+    id: "italy-pizzo-d-uccello-relief-v2", "sights": {
+      "de": [
+            {
+                  "name": "Parco Culturale delle Grotte di Equi e Museo Archeologico Cesare Ambrosi",
+                  "text": "Ein Museum und eine archäologische Stätte, die die Höhlen und Geschichte der Region präsentiert.",
+                  "category": "museum",
+                  "coords": [
+                        10.15239,
+                        44.167882
+                  ]
+            },
+            {
+                  "name": "Museo del Lavoro nella Valle del Lucido",
+                  "text": "Ein Museum in Pizzo d'Uccello, das der Industriegeschichte des Lucido-Tals gewidmet ist.",
+                  "category": "museum",
+                  "coords": [
+                        10.12388,
+                        44.165875
+                  ]
+            },
+            {
+                  "name": "Apuangeolab - Museo Interattivo di Scienze della Terra",
+                  "text": "Ein interaktives Museum für Geowissenschaften in der Region Pizzo d'Uccello.",
+                  "category": "museum",
+                  "coords": [
+                        10.153519,
+                        44.168681
+                  ]
+            },
+            {
+                  "name": "Museo del Territorio dell'Alta Valle dell'Aulella",
+                  "text": "Ein Museum, das das kulturelle und natürliche Erbe des oberen Aulella-Tals bewahrt.",
+                  "category": "museum",
+                  "coords": [
+                        10.175229,
+                        44.199357
+                  ]
+            },
+            {
+                  "name": "Castello di Aiola",
+                  "text": "Die Ruinen einer historischen Befestigungsanlage in der Nähe von Pizzo d'Uccello.",
+                  "category": "historical",
+                  "coords": [
+                        10.135427,
+                        44.159478
+                  ]
+            },
+            {
+                  "name": "Eremo di San Giorgio",
+                  "text": "Eine antike Einsiedelei und archäologische Stätte in der Berglandschaft.",
+                  "category": "historical",
+                  "coords": [
+                        10.141671,
+                        44.156376
+                  ]
+            },
+            {
+                  "name": "Madonna Vecchia",
+                  "text": "Eine archäologische Fundstätte in Pizzo d'Uccello mit historischen Überresten.",
+                  "category": "historical",
+                  "coords": [
+                        10.147518,
+                        44.146753
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Parco Culturale delle Grotte di Equi e Museo Archeologico Cesare Ambrosi",
+                  "text": "Egy múzeum és régészeti lelőhely, amely a régió barlangjait és történelmét mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        10.15239,
+                        44.167882
+                  ]
+            },
+            {
+                  "name": "Museo del Lavoro nella Valle del Lucido",
+                  "text": "A Lucido-völgy ipartörténetének szentelt múzeum Pizzo d'Uccellóban.",
+                  "category": "museum",
+                  "coords": [
+                        10.12388,
+                        44.165875
+                  ]
+            },
+            {
+                  "name": "Apuangeolab - Museo Interattivo di Scienze della Terra",
+                  "text": "Egy interaktív földtudományi múzeum Pizzo d'Uccello régiójában.",
+                  "category": "museum",
+                  "coords": [
+                        10.153519,
+                        44.168681
+                  ]
+            },
+            {
+                  "name": "Museo del Territorio dell'Alta Valle dell'Aulella",
+                  "text": "Az Aulella-völgy felső szakaszának kulturális és természeti örökségét őrző múzeum.",
+                  "category": "museum",
+                  "coords": [
+                        10.175229,
+                        44.199357
+                  ]
+            },
+            {
+                  "name": "Castello di Aiola",
+                  "text": "Egy történelmi erődítmény romjai Pizzo d'Uccello közelében.",
+                  "category": "historical",
+                  "coords": [
+                        10.135427,
+                        44.159478
+                  ]
+            },
+            {
+                  "name": "Eremo di San Giorgio",
+                  "text": "Egy ősi remetelak és régészeti lelőhely a hegyi környezetben.",
+                  "category": "historical",
+                  "coords": [
+                        10.141671,
+                        44.156376
+                  ]
+            },
+            {
+                  "name": "Madonna Vecchia",
+                  "text": "Régészeti lelőhely Pizzo d'Uccellóban, történelmi maradványokkal.",
+                  "category": "historical",
+                  "coords": [
+                        10.147518,
+                        44.146753
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Parco Culturale delle Grotte di Equi e Museo Archeologico Cesare Ambrosi",
+                  "text": "Un muzeu și sit arheologic care prezintă peșterile și istoria regiunii.",
+                  "category": "museum",
+                  "coords": [
+                        10.15239,
+                        44.167882
+                  ]
+            },
+            {
+                  "name": "Museo del Lavoro nella Valle del Lucido",
+                  "text": "Un muzeu din Pizzo d'Uccello dedicat istoriei industriale a văii Lucido.",
+                  "category": "museum",
+                  "coords": [
+                        10.12388,
+                        44.165875
+                  ]
+            },
+            {
+                  "name": "Apuangeolab - Museo Interattivo di Scienze della Terra",
+                  "text": "Un muzeu interactiv de științe ale pământului din regiunea Pizzo d'Uccello.",
+                  "category": "museum",
+                  "coords": [
+                        10.153519,
+                        44.168681
+                  ]
+            },
+            {
+                  "name": "Museo del Territorio dell'Alta Valle dell'Aulella",
+                  "text": "Un muzeu care conservă moștenirea culturală și naturală a văii superioare Aulella.",
+                  "category": "museum",
+                  "coords": [
+                        10.175229,
+                        44.199357
+                  ]
+            },
+            {
+                  "name": "Castello di Aiola",
+                  "text": "Ruinele unei fortificații istorice situate în apropiere de Pizzo d'Uccello.",
+                  "category": "historical",
+                  "coords": [
+                        10.135427,
+                        44.159478
+                  ]
+            },
+            {
+                  "name": "Eremo di San Giorgio",
+                  "text": "Un vechi schit și sit arheologic situat în peisajul montan.",
+                  "category": "historical",
+                  "coords": [
+                        10.141671,
+                        44.156376
+                  ]
+            },
+            {
+                  "name": "Madonna Vecchia",
+                  "text": "Un sit arheologic din Pizzo d'Uccello care conține vestigii istorice.",
+                  "category": "historical",
+                  "coords": [
+                        10.147518,
+                        44.146753
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Parco Culturale delle Grotte di Equi e Museo Archeologico Cesare Ambrosi",
+                  "text": "A museum and archaeological site showcasing the caves and history of the region.",
+                  "category": "museum",
+                  "coords": [
+                        10.15239,
+                        44.167882
+                  ]
+            },
+            {
+                  "name": "Museo del Lavoro nella Valle del Lucido",
+                  "text": "A museum in Pizzo d'Uccello dedicated to the industrial history of the Lucido Valley.",
+                  "category": "museum",
+                  "coords": [
+                        10.12388,
+                        44.165875
+                  ]
+            },
+            {
+                  "name": "Apuangeolab - Museo Interattivo di Scienze della Terra",
+                  "text": "An interactive earth sciences museum located in the Pizzo d'Uccello region.",
+                  "category": "museum",
+                  "coords": [
+                        10.153519,
+                        44.168681
+                  ]
+            },
+            {
+                  "name": "Museo del Territorio dell'Alta Valle dell'Aulella",
+                  "text": "A museum preserving the cultural and natural heritage of the upper Aulella Valley.",
+                  "category": "museum",
+                  "coords": [
+                        10.175229,
+                        44.199357
+                  ]
+            },
+            {
+                  "name": "Castello di Aiola",
+                  "text": "The ruins of a historical fortification located near Pizzo d'Uccello.",
+                  "category": "historical",
+                  "coords": [
+                        10.135427,
+                        44.159478
+                  ]
+            },
+            {
+                  "name": "Eremo di San Giorgio",
+                  "text": "An ancient hermitage and archaeological site situated in the mountainous landscape.",
+                  "category": "historical",
+                  "coords": [
+                        10.141671,
+                        44.156376
+                  ]
+            },
+            {
+                  "name": "Madonna Vecchia",
+                  "text": "An archaeological site in Pizzo d'Uccello containing historical remains.",
+                  "category": "historical",
+                  "coords": [
+                        10.147518,
+                        44.146753
+                  ]
+            }
+      ]
+},
     type: "mountain",
     parent: "IT",
     name: { de: "Pizzo d'Uccello", hu: "Pizzo d'Uccello", ro: "Pizzo d'Uccello", en: "Pizzo d'Uccello" },
@@ -1623,7 +8517,304 @@ export const italyReliefV2: POI[] = [
     image: "/poi-images/italy-pizzo-d-uccello-relief-v2.webp",
   },
   {
-    id: "italy-monte-sagro-relief-v2",
+    id: "italy-monte-sagro-relief-v2", "sights": {
+      "de": [
+            {
+                  "name": "La baia del fico",
+                  "text": "Ein malerischer Strand am Monte Sagro, der für sein klares Wasser bekannt ist.",
+                  "category": "recreational",
+                  "coords": [
+                        10.190751,
+                        44.075689
+                  ]
+            },
+            {
+                  "name": "Cava Romana",
+                  "text": "Diese archäologische Stätte am Monte Sagro zeigt die Überreste eines antiken römischen Steinbruchs.",
+                  "category": "historical",
+                  "coords": [
+                        10.143047,
+                        44.08352
+                  ]
+            },
+            {
+                  "name": "Sacrario di Antona",
+                  "text": "Ein Denkmal am Monte Sagro, das an wichtige historische Ereignisse der Region erinnert.",
+                  "category": "historical",
+                  "coords": [
+                        10.182232,
+                        44.057864
+                  ]
+            },
+            {
+                  "name": "Monte Brugiana",
+                  "text": "Ein markanter Berggipfel in der Nähe des Monte Sagro mit weitem Blick über die Landschaft.",
+                  "category": "landmark",
+                  "coords": [
+                        10.140539,
+                        44.067102
+                  ]
+            },
+            {
+                  "name": "Foce di Vinca",
+                  "text": "Ein Aussichtspunkt am Monte Sagro, der ein beeindruckendes Panorama auf die umliegenden Berge bietet.",
+                  "category": "natural",
+                  "coords": [
+                        10.168543,
+                        44.116434
+                  ]
+            },
+            {
+                  "name": "Foce di Navola",
+                  "text": "Dieser Aussichtspunkt in der Nähe des Monte Sagro bietet weite Ausblicke auf die Täler der Region.",
+                  "category": "natural",
+                  "coords": [
+                        10.175291,
+                        44.115764
+                  ]
+            },
+            {
+                  "name": "Statua a Mazzini",
+                  "text": "Ein Denkmal zu Ehren von Giuseppe Mazzini am Monte Sagro.",
+                  "category": "historical",
+                  "coords": [
+                        10.155437,
+                        44.08605
+                  ]
+            },
+            {
+                  "name": "Piazzale del Bizzarro",
+                  "text": "Ein malerischer Aussichtspunkt am Monte Sagro mit Blick auf die natürliche Umgebung.",
+                  "category": "natural",
+                  "coords": [
+                        10.1731,
+                        44.072029
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "La baia del fico",
+                  "text": "Galdnieki festői tengerpartja a Monte Sagro-nál, amely tiszta vizéről ismert.",
+                  "category": "recreational",
+                  "coords": [
+                        10.190751,
+                        44.075689
+                  ]
+            },
+            {
+                  "name": "Cava Romana",
+                  "text": "Ez a Monte Sagro-i régészeti lelőhely egy ókori római kőfejtő maradványait mutatja be.",
+                  "category": "historical",
+                  "coords": [
+                        10.143047,
+                        44.08352
+                  ]
+            },
+            {
+                  "name": "Sacrario di Antona",
+                  "text": "Emlékmű a Monte Sagro-n, amely a régió fontos történelmi eseményeire emlékeztet.",
+                  "category": "historical",
+                  "coords": [
+                        10.182232,
+                        44.057864
+                  ]
+            },
+            {
+                  "name": "Monte Brugiana",
+                  "text": "Jellegzetes hegycsúcs a Monte Sagro közelében, széles kilátással a tájra.",
+                  "category": "landmark",
+                  "coords": [
+                        10.140539,
+                        44.067102
+                  ]
+            },
+            {
+                  "name": "Foce di Vinca",
+                  "text": "Kilátópont a Monte Sagro-n, amely lenyűgöző panorámát nyújt a környező hegyekre.",
+                  "category": "natural",
+                  "coords": [
+                        10.168543,
+                        44.116434
+                  ]
+            },
+            {
+                  "name": "Foce di Navola",
+                  "text": "Ez a Monte Sagro közeli kilátópont széles kilátást nyújt a régió völgyeire.",
+                  "category": "natural",
+                  "coords": [
+                        10.175291,
+                        44.115764
+                  ]
+            },
+            {
+                  "name": "Statua a Mazzini",
+                  "text": "Emlékmű Giuseppe Mazzini tiszteletére a Monte Sagro-n.",
+                  "category": "historical",
+                  "coords": [
+                        10.155437,
+                        44.08605
+                  ]
+            },
+            {
+                  "name": "Piazzale del Bizzarro",
+                  "text": "Festői kilátópont a Monte Sagro-n, kilátással a természetes környezetre.",
+                  "category": "natural",
+                  "coords": [
+                        10.1731,
+                        44.072029
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "La baia del fico",
+                  "text": "O plajă pitorească la Monte Sagro, cunoscută pentru apele sale limpezi.",
+                  "category": "recreational",
+                  "coords": [
+                        10.190751,
+                        44.075689
+                  ]
+            },
+            {
+                  "name": "Cava Romana",
+                  "text": "Acest sit arheologic de pe Monte Sagro prezintă rămășițele unei cariere romane antice.",
+                  "category": "historical",
+                  "coords": [
+                        10.143047,
+                        44.08352
+                  ]
+            },
+            {
+                  "name": "Sacrario di Antona",
+                  "text": "Un monument pe Monte Sagro care comemorează evenimente istorice importante din regiune.",
+                  "category": "historical",
+                  "coords": [
+                        10.182232,
+                        44.057864
+                  ]
+            },
+            {
+                  "name": "Monte Brugiana",
+                  "text": "Un vârf montan proeminent lângă Monte Sagro, cu vederi largi asupra peisajului.",
+                  "category": "landmark",
+                  "coords": [
+                        10.140539,
+                        44.067102
+                  ]
+            },
+            {
+                  "name": "Foce di Vinca",
+                  "text": "Un punct de belvedere pe Monte Sagro, care oferă o panoramă impresionantă asupra munților din jur.",
+                  "category": "natural",
+                  "coords": [
+                        10.168543,
+                        44.116434
+                  ]
+            },
+            {
+                  "name": "Foce di Navola",
+                  "text": "Acest punct de belvedere de lângă Monte Sagro oferă vederi largi asupra văilor din regiune.",
+                  "category": "natural",
+                  "coords": [
+                        10.175291,
+                        44.115764
+                  ]
+            },
+            {
+                  "name": "Statua a Mazzini",
+                  "text": "Un monument în onoarea lui Giuseppe Mazzini pe Monte Sagro.",
+                  "category": "historical",
+                  "coords": [
+                        10.155437,
+                        44.08605
+                  ]
+            },
+            {
+                  "name": "Piazzale del Bizzarro",
+                  "text": "Un punct de belvedere pitoresc pe Monte Sagro, cu vedere la mediul natural.",
+                  "category": "natural",
+                  "coords": [
+                        10.1731,
+                        44.072029
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "La baia del fico",
+                  "text": "A scenic beach at Monte Sagro, known for its clear waters.",
+                  "category": "recreational",
+                  "coords": [
+                        10.190751,
+                        44.075689
+                  ]
+            },
+            {
+                  "name": "Cava Romana",
+                  "text": "This archaeological site on Monte Sagro features the remains of an ancient Roman quarry.",
+                  "category": "historical",
+                  "coords": [
+                        10.143047,
+                        44.08352
+                  ]
+            },
+            {
+                  "name": "Sacrario di Antona",
+                  "text": "A monument on Monte Sagro commemorating important historical events in the region.",
+                  "category": "historical",
+                  "coords": [
+                        10.182232,
+                        44.057864
+                  ]
+            },
+            {
+                  "name": "Monte Brugiana",
+                  "text": "A prominent mountain peak near Monte Sagro with wide views over the landscape.",
+                  "category": "landmark",
+                  "coords": [
+                        10.140539,
+                        44.067102
+                  ]
+            },
+            {
+                  "name": "Foce di Vinca",
+                  "text": "A viewpoint on Monte Sagro offering an impressive panorama of the surrounding mountains.",
+                  "category": "natural",
+                  "coords": [
+                        10.168543,
+                        44.116434
+                  ]
+            },
+            {
+                  "name": "Foce di Navola",
+                  "text": "This viewpoint near Monte Sagro offers wide views of the region's valleys.",
+                  "category": "natural",
+                  "coords": [
+                        10.175291,
+                        44.115764
+                  ]
+            },
+            {
+                  "name": "Statua a Mazzini",
+                  "text": "A monument in honor of Giuseppe Mazzini on Monte Sagro.",
+                  "category": "historical",
+                  "coords": [
+                        10.155437,
+                        44.08605
+                  ]
+            },
+            {
+                  "name": "Piazzale del Bizzarro",
+                  "text": "A scenic viewpoint on Monte Sagro overlooking the natural surroundings.",
+                  "category": "natural",
+                  "coords": [
+                        10.1731,
+                        44.072029
+                  ]
+            }
+      ]
+},
     type: "mountain",
     parent: "IT",
     name: { de: "Monte Sagro", hu: "Monte Sagro", ro: "Monte Sagro", en: "Monte Sagro" },
@@ -1758,7 +8949,160 @@ export const italyReliefV2: POI[] = [
     image: "/poi-images/italy-monte-cristallo-relief-v2.webp",
   },
   {
-    id: "italy-monte-soratte-relief-v2",
+    id: "italy-monte-soratte-relief-v2", "sights": {
+      "de": [
+            {
+                  "name": "Riserva Naturale Regionale Nazzano Tevere-Farfa",
+                  "text": "Das erste regionale Naturschutzgebiet Latiums umfasst Flusslandschaften entlang des Tibers.",
+                  "category": "natural",
+                  "coords": [
+                        12.612413,
+                        42.221422
+                  ]
+            },
+            {
+                  "name": "Museo del fiume",
+                  "text": "Ein Museum in Nazzano, das der Ökologie und Geschichte des Flusses gewidmet ist.",
+                  "category": "museum",
+                  "coords": [
+                        12.597526,
+                        42.228672
+                  ]
+            },
+            {
+                  "name": "Monumentum Album di Galantina",
+                  "text": "Historische Ruinen eines Denkmals in der Gegend von Galantina am Monte Soratte.",
+                  "category": "historical",
+                  "coords": [
+                        12.634945,
+                        42.26966
+                  ]
+            },
+            {
+                  "name": "Comune di Filacciano",
+                  "text": "Das Rathaus der italienischen Gemeinde Filacciano in der Region Latium.",
+                  "category": "landmark",
+                  "coords": [
+                        12.597951,
+                        42.255063
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Riserva Naturale Regionale Nazzano Tevere-Farfa",
+                  "text": "Lazio első regionális természetvédelmi területe a Tevere folyó menti tájakat foglalja magában.",
+                  "category": "natural",
+                  "coords": [
+                        12.612413,
+                        42.221422
+                  ]
+            },
+            {
+                  "name": "Museo del fiume",
+                  "text": "Múzeum Nazzanóban, amely a folyó ökológiáját és történelmét mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        12.597526,
+                        42.228672
+                  ]
+            },
+            {
+                  "name": "Monumentum Album di Galantina",
+                  "text": "Egy emlékmű történelmi romjai a Monte Soratte lábánál fekvő Galantina területén.",
+                  "category": "historical",
+                  "coords": [
+                        12.634945,
+                        42.26966
+                  ]
+            },
+            {
+                  "name": "Comune di Filacciano",
+                  "text": "Filacciano olasz község városházája Lazio régióban.",
+                  "category": "landmark",
+                  "coords": [
+                        12.597951,
+                        42.255063
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Riserva Naturale Regionale Nazzano Tevere-Farfa",
+                  "text": "Prima rezervație naturală regională din Lazio cuprinde peisaje de-a lungul râului Tibru.",
+                  "category": "natural",
+                  "coords": [
+                        12.612413,
+                        42.221422
+                  ]
+            },
+            {
+                  "name": "Museo del fiume",
+                  "text": "Un muzeu din Nazzano dedicat ecologiei și istoriei râului.",
+                  "category": "museum",
+                  "coords": [
+                        12.597526,
+                        42.228672
+                  ]
+            },
+            {
+                  "name": "Monumentum Album di Galantina",
+                  "text": "Ruinele istorice ale unui monument în zona Galantina, lângă Monte Soratte.",
+                  "category": "historical",
+                  "coords": [
+                        12.634945,
+                        42.26966
+                  ]
+            },
+            {
+                  "name": "Comune di Filacciano",
+                  "text": "Primăria comunei italiene Filacciano din regiunea Lazio.",
+                  "category": "landmark",
+                  "coords": [
+                        12.597951,
+                        42.255063
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Riserva Naturale Regionale Nazzano Tevere-Farfa",
+                  "text": "The first regional nature reserve in Lazio encompasses river landscapes along the Tiber.",
+                  "category": "natural",
+                  "coords": [
+                        12.612413,
+                        42.221422
+                  ]
+            },
+            {
+                  "name": "Museo del fiume",
+                  "text": "A museum in Nazzano dedicated to the ecology and history of the river.",
+                  "category": "museum",
+                  "coords": [
+                        12.597526,
+                        42.228672
+                  ]
+            },
+            {
+                  "name": "Monumentum Album di Galantina",
+                  "text": "Historical ruins of a monument in the Galantina area near Monte Soratte.",
+                  "category": "historical",
+                  "coords": [
+                        12.634945,
+                        42.26966
+                  ]
+            },
+            {
+                  "name": "Comune di Filacciano",
+                  "text": "The town hall of the Italian municipality of Filacciano in the Lazio region.",
+                  "category": "landmark",
+                  "coords": [
+                        12.597951,
+                        42.255063
+                  ]
+            }
+      ]
+},
     type: "mountain",
     parent: "IT",
     name: { de: "Monte Soratte", hu: "Monte Soratte", ro: "Monte Soratte", en: "Monte Soratte" },
@@ -1803,7 +9147,52 @@ export const italyReliefV2: POI[] = [
     image: "/poi-images/italy-monte-soratte-relief-v2.webp",
   },
   {
-    id: "italy-monte-gargano-relief-v2",
+    id: "italy-monte-gargano-relief-v2", "sights": {
+      "de": [
+            {
+                  "name": "Chiesa di Santa Maria degli Angeli",
+                  "text": "Eine religiöse Stätte in Monte Sant'Angelo, die der Heiligen Maria der Engel gewidmet ist.",
+                  "category": "religious",
+                  "coords": [
+                        15.936651,
+                        41.709963
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Chiesa di Santa Maria degli Angeli",
+                  "text": "Vallási helyszín Monte Sant'Angelóban, amelyet az Angyalok Boldogasszonyának szenteltek.",
+                  "category": "religious",
+                  "coords": [
+                        15.936651,
+                        41.709963
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Chiesa di Santa Maria degli Angeli",
+                  "text": "Un sit religios din Monte Sant'Angelo dedicat Sfintei Maria a Îngerilor.",
+                  "category": "religious",
+                  "coords": [
+                        15.936651,
+                        41.709963
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Chiesa di Santa Maria degli Angeli",
+                  "text": "A religious site in Monte Sant'Angelo dedicated to Saint Mary of the Angels.",
+                  "category": "religious",
+                  "coords": [
+                        15.936651,
+                        41.709963
+                  ]
+            }
+      ]
+},
     type: "mountain",
     parent: "IT",
     name: { de: "Monte Gargano", hu: "Monte Gargano", ro: "Monte Gargano", en: "Monte Gargano" },
@@ -1848,7 +9237,124 @@ export const italyReliefV2: POI[] = [
     image: "/poi-images/italy-monte-gargano-relief-v2.webp",
   },
   {
-    id: "italy-altopiano-della-sila-grande-relief-v2",
+    id: "italy-altopiano-della-sila-grande-relief-v2", "sights": {
+      "de": [
+            {
+                  "name": "Riserva Naturale Gallopane",
+                  "text": "Dieses Naturschutzgebiet in der Sila Grande schützt wertvolle Waldökosysteme und Gebirgslandschaften.",
+                  "category": "natural",
+                  "coords": [
+                        16.571536,
+                        39.410822
+                  ]
+            },
+            {
+                  "name": "Museo della Biodiversità",
+                  "text": "Das Museum für Biodiversität in der Sila Grande informiert über die reiche Artenvielfalt des Nationalparks.",
+                  "category": "museum",
+                  "coords": [
+                        16.549596,
+                        39.385612
+                  ]
+            },
+            {
+                  "name": "Parco Nazionale della Sila",
+                  "text": "Der Sila-Nationalpark in Kalabrien besticht durch seine dichten Wälder, klaren Seen und unberührte Natur.",
+                  "category": "landmark",
+                  "coords": [
+                        16.547432,
+                        39.38524
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Riserva Naturale Gallopane",
+                  "text": "Ez a Sila Grande területén található természetvédelmi terület értékes erdei ökoszisztémákat és hegyi tájakat véd.",
+                  "category": "natural",
+                  "coords": [
+                        16.571536,
+                        39.410822
+                  ]
+            },
+            {
+                  "name": "Museo della Biodiversità",
+                  "text": "A Sila Grande Biodiverzitás Múzeuma a nemzeti park gazdag élővilágát mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        16.549596,
+                        39.385612
+                  ]
+            },
+            {
+                  "name": "Parco Nazionale della Sila",
+                  "text": "A calabriai Sila Nemzeti Park sűrű erdőivel, tiszta tavaival és érintetlen természetével nyűgözi le a látogatókat.",
+                  "category": "landmark",
+                  "coords": [
+                        16.547432,
+                        39.38524
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Riserva Naturale Gallopane",
+                  "text": "Această rezervație naturală din Sila Grande protejează ecosisteme forestiere valoroase și peisaje montane.",
+                  "category": "natural",
+                  "coords": [
+                        16.571536,
+                        39.410822
+                  ]
+            },
+            {
+                  "name": "Museo della Biodiversità",
+                  "text": "Muzeul Biodiversității din Sila Grande oferă informații despre bogata diversitate a speciilor din parcul național.",
+                  "category": "museum",
+                  "coords": [
+                        16.549596,
+                        39.385612
+                  ]
+            },
+            {
+                  "name": "Parco Nazionale della Sila",
+                  "text": "Parcul Național Sila din Calabria impresionează prin pădurile sale dese, lacurile limpezi și natura virgină.",
+                  "category": "landmark",
+                  "coords": [
+                        16.547432,
+                        39.38524
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Riserva Naturale Gallopane",
+                  "text": "This nature reserve in the Sila Grande protects valuable forest ecosystems and mountain landscapes.",
+                  "category": "natural",
+                  "coords": [
+                        16.571536,
+                        39.410822
+                  ]
+            },
+            {
+                  "name": "Museo della Biodiversità",
+                  "text": "The Biodiversity Museum in Sila Grande provides information about the rich variety of species in the national park.",
+                  "category": "museum",
+                  "coords": [
+                        16.549596,
+                        39.385612
+                  ]
+            },
+            {
+                  "name": "Parco Nazionale della Sila",
+                  "text": "The Sila National Park in Calabria impresses with its dense forests, clear lakes, and untouched nature.",
+                  "category": "landmark",
+                  "coords": [
+                        16.547432,
+                        39.38524
+                  ]
+            }
+      ]
+},
     type: "landmark",
     parent: "IT",
     name: { de: "Sila Grande", hu: "Sila Grande", ro: "Sila Grande", en: "Sila Grande" },
@@ -1893,7 +9399,196 @@ export const italyReliefV2: POI[] = [
     image: "/poi-images/italy-altopiano-della-sila-grande-relief-v2.webp",
   },
   {
-    id: "italy-monte-tancia-relief-v2",
+    id: "italy-monte-tancia-relief-v2", "sights": {
+      "de": [
+            {
+                  "name": "Monte Ode",
+                  "text": "Ein Berggipfel in den Sabiner Bergen, der Wanderern weite Ausblicke bietet.",
+                  "category": "landmark",
+                  "coords": [
+                        12.747463,
+                        42.288817
+                  ]
+            },
+            {
+                  "name": "Monte Tancia",
+                  "text": "Der höchste Gipfel der Sabiner Berge in Zentralitalien.",
+                  "category": "landmark",
+                  "coords": [
+                        12.742758,
+                        42.327738
+                  ]
+            },
+            {
+                  "name": "Eremo San Leonardo",
+                  "text": "Die Ruinen einer alten Einsiedelei in den Bergen des Monte Tancia.",
+                  "category": "historical",
+                  "coords": [
+                        12.705661,
+                        42.312135
+                  ]
+            },
+            {
+                  "name": "Rocca di Tancia",
+                  "text": "Die Überreste einer mittelalterlichen Festung in der Bergregion.",
+                  "category": "historical",
+                  "coords": [
+                        12.738533,
+                        42.304922
+                  ]
+            },
+            {
+                  "name": "Mulino ad Acqua",
+                  "text": "Die Ruinen einer alten Wassermühle am Fuße des Monte Tancia.",
+                  "category": "historical",
+                  "coords": [
+                        12.703999,
+                        42.311036
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Monte Ode",
+                  "text": "Hegycsúcs a Sabini-hegységben, amely tágas kilátást nyújt a túrázóknak.",
+                  "category": "landmark",
+                  "coords": [
+                        12.747463,
+                        42.288817
+                  ]
+            },
+            {
+                  "name": "Monte Tancia",
+                  "text": "A közép-olaszországi Sabini-hegység legmagasabb csúcsa.",
+                  "category": "landmark",
+                  "coords": [
+                        12.742758,
+                        42.327738
+                  ]
+            },
+            {
+                  "name": "Eremo San Leonardo",
+                  "text": "Egy ősi remetelak romjai a Monte Tancia hegyei között.",
+                  "category": "historical",
+                  "coords": [
+                        12.705661,
+                        42.312135
+                  ]
+            },
+            {
+                  "name": "Rocca di Tancia",
+                  "text": "Egy középkori erőd maradványai a hegyvidéki területen.",
+                  "category": "historical",
+                  "coords": [
+                        12.738533,
+                        42.304922
+                  ]
+            },
+            {
+                  "name": "Mulino ad Acqua",
+                  "text": "Egy régi vízimalom romjai a Monte Tancia lábánál.",
+                  "category": "historical",
+                  "coords": [
+                        12.703999,
+                        42.311036
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Monte Ode",
+                  "text": "Un vârf montan în munții Sabini, oferind panorame largi drumeților.",
+                  "category": "landmark",
+                  "coords": [
+                        12.747463,
+                        42.288817
+                  ]
+            },
+            {
+                  "name": "Monte Tancia",
+                  "text": "Cel mai înalt vârf al munților Sabini din centrul Italiei.",
+                  "category": "landmark",
+                  "coords": [
+                        12.742758,
+                        42.327738
+                  ]
+            },
+            {
+                  "name": "Eremo San Leonardo",
+                  "text": "Ruinele unei vechi sihăstrii situate în munții Monte Tancia.",
+                  "category": "historical",
+                  "coords": [
+                        12.705661,
+                        42.312135
+                  ]
+            },
+            {
+                  "name": "Rocca di Tancia",
+                  "text": "Rămășițele unei fortificații medievale în regiunea muntoasă.",
+                  "category": "historical",
+                  "coords": [
+                        12.738533,
+                        42.304922
+                  ]
+            },
+            {
+                  "name": "Mulino ad Acqua",
+                  "text": "Ruinele unei vechi mori de apă la poalele muntelui Monte Tancia.",
+                  "category": "historical",
+                  "coords": [
+                        12.703999,
+                        42.311036
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Monte Ode",
+                  "text": "A mountain peak in the Sabini Mountains offering wide views for hikers.",
+                  "category": "landmark",
+                  "coords": [
+                        12.747463,
+                        42.288817
+                  ]
+            },
+            {
+                  "name": "Monte Tancia",
+                  "text": "The highest peak of the Sabini Mountains in central Italy.",
+                  "category": "landmark",
+                  "coords": [
+                        12.742758,
+                        42.327738
+                  ]
+            },
+            {
+                  "name": "Eremo San Leonardo",
+                  "text": "The ruins of an ancient hermitage located in the mountains of Monte Tancia.",
+                  "category": "historical",
+                  "coords": [
+                        12.705661,
+                        42.312135
+                  ]
+            },
+            {
+                  "name": "Rocca di Tancia",
+                  "text": "The remains of a medieval fortification in the mountainous area.",
+                  "category": "historical",
+                  "coords": [
+                        12.738533,
+                        42.304922
+                  ]
+            },
+            {
+                  "name": "Mulino ad Acqua",
+                  "text": "The ruins of an old water mill at the foot of Monte Tancia.",
+                  "category": "historical",
+                  "coords": [
+                        12.703999,
+                        42.311036
+                  ]
+            }
+      ]
+},
     type: "mountain",
     parent: "IT",
     name: { de: "Monte Tancia", hu: "Monte Tancia", ro: "Monte Tancia", en: "Monte Tancia" },
@@ -1938,7 +9633,124 @@ export const italyReliefV2: POI[] = [
     image: "/poi-images/italy-monte-tancia-relief-v2.webp",
   },
   {
-    id: "italy-monte-simbruini-relief-v2",
+    id: "italy-monte-simbruini-relief-v2", "sights": {
+      "de": [
+            {
+                  "name": "Monte Pratiglio",
+                  "text": "Ein Berggipfel in den Monti Simbruini im Zentral-Apennin.",
+                  "category": "landmark",
+                  "coords": [
+                        13.192028,
+                        41.907648
+                  ]
+            },
+            {
+                  "name": "Affresco",
+                  "text": "Ein historisches Fresko als Sehenswürdigkeit in der Region Monte Simbruini.",
+                  "category": "landmark",
+                  "coords": [
+                        13.166347,
+                        41.885778
+                  ]
+            },
+            {
+                  "name": "Eremo San Donato",
+                  "text": "Die Überreste einer alten Einsiedelei in der Berglandschaft.",
+                  "category": "historical",
+                  "coords": [
+                        13.134158,
+                        41.923167
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Monte Pratiglio",
+                  "text": "Egy hegycsúcs a Monti Simbruini hegységben, a Központi-Appenninekben.",
+                  "category": "landmark",
+                  "coords": [
+                        13.192028,
+                        41.907648
+                  ]
+            },
+            {
+                  "name": "Affresco",
+                  "text": "Történelmi freskó, amely látnivaló a Monte Simbruini régióban.",
+                  "category": "landmark",
+                  "coords": [
+                        13.166347,
+                        41.885778
+                  ]
+            },
+            {
+                  "name": "Eremo San Donato",
+                  "text": "Egy régi remetelak maradványai a hegyi tájban.",
+                  "category": "historical",
+                  "coords": [
+                        13.134158,
+                        41.923167
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Monte Pratiglio",
+                  "text": "Un vârf montan în munții Simbruini din Apeninii Centrali.",
+                  "category": "landmark",
+                  "coords": [
+                        13.192028,
+                        41.907648
+                  ]
+            },
+            {
+                  "name": "Affresco",
+                  "text": "O frescă istorică ce reprezintă o atracție în regiunea Monte Simbruini.",
+                  "category": "landmark",
+                  "coords": [
+                        13.166347,
+                        41.885778
+                  ]
+            },
+            {
+                  "name": "Eremo San Donato",
+                  "text": "Ruinele unei vechi sihăstrii în peisajul montan.",
+                  "category": "historical",
+                  "coords": [
+                        13.134158,
+                        41.923167
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Monte Pratiglio",
+                  "text": "A mountain peak in the Simbruini Mountains of the Central Apennines.",
+                  "category": "landmark",
+                  "coords": [
+                        13.192028,
+                        41.907648
+                  ]
+            },
+            {
+                  "name": "Affresco",
+                  "text": "A historic fresco serving as an attraction in the Monte Simbruini region.",
+                  "category": "landmark",
+                  "coords": [
+                        13.166347,
+                        41.885778
+                  ]
+            },
+            {
+                  "name": "Eremo San Donato",
+                  "text": "The remains of an ancient hermitage in the mountainous landscape.",
+                  "category": "historical",
+                  "coords": [
+                        13.134158,
+                        41.923167
+                  ]
+            }
+      ]
+},
     type: "mountain",
     parent: "IT",
     name: { de: "Monte Simbruini", hu: "Monte Simbruini", ro: "Monte Simbruini", en: "Monte Simbruini" },
@@ -1983,7 +9795,124 @@ export const italyReliefV2: POI[] = [
     image: "/poi-images/italy-monte-simbruini-relief-v2.webp",
   },
   {
-    id: "italy-monte-lerno-relief-v2",
+    id: "italy-monte-lerno-relief-v2", "sights": {
+      "de": [
+            {
+                  "name": "Nuraghe Lerno",
+                  "text": "Eine archäologische Stätte mit Überresten einer Nuraghe am Monte Lerno.",
+                  "category": "historical",
+                  "coords": [
+                        9.164624,
+                        40.584325
+                  ]
+            },
+            {
+                  "name": "Muraglia megalitica Sa Chidade",
+                  "text": "Eine archäologische Stätte mit einer megalithischen Mauer am Monte Lerno.",
+                  "category": "historical",
+                  "coords": [
+                        9.156773,
+                        40.594934
+                  ]
+            },
+            {
+                  "name": "Monte Lerno",
+                  "text": "Ein markanter Berggipfel in der Region Monte Lerno.",
+                  "category": "landmark",
+                  "coords": [
+                        9.166361,
+                        40.606688
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Nuraghe Lerno",
+                  "text": "Régészeti lelőhely a Monte Lerno területén, egy nuraghe maradványaival.",
+                  "category": "historical",
+                  "coords": [
+                        9.164624,
+                        40.584325
+                  ]
+            },
+            {
+                  "name": "Muraglia megalitica Sa Chidade",
+                  "text": "Megalitikus falmaradványokat bemutató régészeti lelőhely a Monte Lerno közelében.",
+                  "category": "historical",
+                  "coords": [
+                        9.156773,
+                        40.594934
+                  ]
+            },
+            {
+                  "name": "Monte Lerno",
+                  "text": "Egy jelentős hegycsúcs Monte Lerno környékén.",
+                  "category": "landmark",
+                  "coords": [
+                        9.166361,
+                        40.606688
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Nuraghe Lerno",
+                  "text": "Un sit arheologic cu vestigiile unui nuraghe situat pe Monte Lerno.",
+                  "category": "historical",
+                  "coords": [
+                        9.164624,
+                        40.584325
+                  ]
+            },
+            {
+                  "name": "Muraglia megalitica Sa Chidade",
+                  "text": "Un sit arheologic ce cuprinde un zid megalitic pe Monte Lerno.",
+                  "category": "historical",
+                  "coords": [
+                        9.156773,
+                        40.594934
+                  ]
+            },
+            {
+                  "name": "Monte Lerno",
+                  "text": "Un vârf muntos proeminent din regiunea Monte Lerno.",
+                  "category": "landmark",
+                  "coords": [
+                        9.166361,
+                        40.606688
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Nuraghe Lerno",
+                  "text": "An archaeological site featuring the remains of a nuraghe on Monte Lerno.",
+                  "category": "historical",
+                  "coords": [
+                        9.164624,
+                        40.584325
+                  ]
+            },
+            {
+                  "name": "Muraglia megalitica Sa Chidade",
+                  "text": "An archaeological site featuring a megalithic wall on Monte Lerno.",
+                  "category": "historical",
+                  "coords": [
+                        9.156773,
+                        40.594934
+                  ]
+            },
+            {
+                  "name": "Monte Lerno",
+                  "text": "A prominent mountain peak in the Monte Lerno region.",
+                  "category": "landmark",
+                  "coords": [
+                        9.166361,
+                        40.606688
+                  ]
+            }
+      ]
+},
     type: "mountain",
     parent: "IT",
     name: { de: "Monte Lerno", hu: "Monte Lerno", ro: "Monte Lerno", en: "Monte Lerno" },

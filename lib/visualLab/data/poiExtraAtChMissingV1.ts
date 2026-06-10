@@ -205,6 +205,69 @@ export const poiExtraAtChMissingV1: POI[] = [
                         14.265566,
                         46.619839
                   ]
+            },
+            {
+                  "name": "Museum Moderner Kunst Karnten",
+                  "text": "Ein Museum in Klagenfurt, das regionale und internationale moderne Kunst ausstellt.",
+                  "category": "museum",
+                  "coords": [
+                        14.310132,
+                        46.62417
+                  ]
+            },
+            {
+                  "name": "Robert Musil Museum",
+                  "text": "Das Geburtshaus des Schriftstellers Robert Musil dient heute als Literaturmuseum.",
+                  "category": "museum",
+                  "coords": [
+                        14.313034,
+                        46.616579
+                  ]
+            },
+            {
+                  "name": "Schloss Annabichl",
+                  "text": "Ein Landschloss im Norden von Klagenfurt mit barocken Architekturmerkmalen.",
+                  "category": "castle",
+                  "coords": [
+                        14.311877,
+                        46.656322
+                  ]
+            },
+            {
+                  "name": "Schloss Welzenegg",
+                  "text": "Ein historisches Schlossgebäude in Klagenfurt, das heute für verschiedene Zwecke genutzt wird.",
+                  "category": "castle",
+                  "coords": [
+                        14.332251,
+                        46.628315
+                  ]
+            },
+            {
+                  "name": "Schloss Ehrental",
+                  "text": "Ein klassizistisches Schloss in Klagenfurt, das eine landwirtschaftliche Schule beherbergt.",
+                  "category": "castle",
+                  "coords": [
+                        14.301896,
+                        46.65375
+                  ]
+            },
+            {
+                  "name": "Landesmuseum Karnten",
+                  "text": "Das größte Museum Kärntens zeigt Sammlungen zu Archäologie, Kunst und Natur.",
+                  "category": "museum",
+                  "coords": [
+                        14.312461,
+                        46.621046
+                  ]
+            },
+            {
+                  "name": "Schloss Zigguln",
+                  "text": "Ein auf einem Hügel gelegenes Schloss in Klagenfurt mit weitreichender Geschichte.",
+                  "category": "castle",
+                  "coords": [
+                        14.291837,
+                        46.635206
+                  ]
             }
       ],
       "hu": [
@@ -404,6 +467,69 @@ export const poiExtraAtChMissingV1: POI[] = [
                   "coords": [
                         14.265566,
                         46.619839
+                  ]
+            },
+            {
+                  "name": "Museum Moderner Kunst Karnten",
+                  "text": "Klagenfurti múzeum, amely regionális és nemzetközi modern művészetet mutat be.",
+                  "category": "museum",
+                  "coords": [
+                        14.310132,
+                        46.62417
+                  ]
+            },
+            {
+                  "name": "Robert Musil Museum",
+                  "text": "Robert Musil író szülőháza, amely ma irodalmi múzeumként működik.",
+                  "category": "museum",
+                  "coords": [
+                        14.313034,
+                        46.616579
+                  ]
+            },
+            {
+                  "name": "Schloss Annabichl",
+                  "text": "Vidéki kastély Klagenfurt északi részén, barokk építészeti jellemzőkkel.",
+                  "category": "castle",
+                  "coords": [
+                        14.311877,
+                        46.656322
+                  ]
+            },
+            {
+                  "name": "Schloss Welzenegg",
+                  "text": "Történelmi kastélyépület Klagenfurtban, amelyet ma különböző célokra használnak.",
+                  "category": "castle",
+                  "coords": [
+                        14.332251,
+                        46.628315
+                  ]
+            },
+            {
+                  "name": "Schloss Ehrental",
+                  "text": "Klasszicista kastély Klagenfurtban, amely ma mezőgazdasági iskolának ad otthont.",
+                  "category": "castle",
+                  "coords": [
+                        14.301896,
+                        46.65375
+                  ]
+            },
+            {
+                  "name": "Landesmuseum Karnten",
+                  "text": "Karintia legnagyobb múzeuma régészeti, művészeti és természeti gyűjteményeket mutat be.",
+                  "category": "museum",
+                  "coords": [
+                        14.312461,
+                        46.621046
+                  ]
+            },
+            {
+                  "name": "Schloss Zigguln",
+                  "text": "Domboldalon fekvő kastély Klagenfurtban, jelentős történelmi múlttal.",
+                  "category": "castle",
+                  "coords": [
+                        14.291837,
+                        46.635206
                   ]
             }
       ],
@@ -605,6 +731,69 @@ export const poiExtraAtChMissingV1: POI[] = [
                         14.265566,
                         46.619839
                   ]
+            },
+            {
+                  "name": "Museum Moderner Kunst Karnten",
+                  "text": "Un muzeu din Klagenfurt care expune artă modernă regională și internațională.",
+                  "category": "museum",
+                  "coords": [
+                        14.310132,
+                        46.62417
+                  ]
+            },
+            {
+                  "name": "Robert Musil Museum",
+                  "text": "Casa natală a scriitorului Robert Musil, care astăzi servește drept muzeu literar.",
+                  "category": "museum",
+                  "coords": [
+                        14.313034,
+                        46.616579
+                  ]
+            },
+            {
+                  "name": "Schloss Annabichl",
+                  "text": "Un castel rural în nordul Klagenfurtului, cu trăsături arhitecturale baroce.",
+                  "category": "castle",
+                  "coords": [
+                        14.311877,
+                        46.656322
+                  ]
+            },
+            {
+                  "name": "Schloss Welzenegg",
+                  "text": "O clădire istorică de castel din Klagenfurt, utilizată astăzi în diverse scopuri.",
+                  "category": "castle",
+                  "coords": [
+                        14.332251,
+                        46.628315
+                  ]
+            },
+            {
+                  "name": "Schloss Ehrental",
+                  "text": "Un castel clasicist din Klagenfurt care găzduiește o școală agricolă.",
+                  "category": "castle",
+                  "coords": [
+                        14.301896,
+                        46.65375
+                  ]
+            },
+            {
+                  "name": "Landesmuseum Karnten",
+                  "text": "Cel mai mare muzeu din Carintia prezintă colecții de arheologie, artă și natură.",
+                  "category": "museum",
+                  "coords": [
+                        14.312461,
+                        46.621046
+                  ]
+            },
+            {
+                  "name": "Schloss Zigguln",
+                  "text": "Un castel situat pe o colină în Klagenfurt, cu o istorie îndelungată.",
+                  "category": "castle",
+                  "coords": [
+                        14.291837,
+                        46.635206
+                  ]
             }
       ],
       "en": [
@@ -804,6 +993,69 @@ export const poiExtraAtChMissingV1: POI[] = [
                   "coords": [
                         14.265566,
                         46.619839
+                  ]
+            },
+            {
+                  "name": "Museum Moderner Kunst Karnten",
+                  "text": "A museum in Klagenfurt exhibiting regional and international modern art.",
+                  "category": "museum",
+                  "coords": [
+                        14.310132,
+                        46.62417
+                  ]
+            },
+            {
+                  "name": "Robert Musil Museum",
+                  "text": "The birthplace of writer Robert Musil, now serving as a literary museum.",
+                  "category": "museum",
+                  "coords": [
+                        14.313034,
+                        46.616579
+                  ]
+            },
+            {
+                  "name": "Schloss Annabichl",
+                  "text": "A country castle in the north of Klagenfurt with Baroque architectural features.",
+                  "category": "castle",
+                  "coords": [
+                        14.311877,
+                        46.656322
+                  ]
+            },
+            {
+                  "name": "Schloss Welzenegg",
+                  "text": "A historic castle building in Klagenfurt used today for various purposes.",
+                  "category": "castle",
+                  "coords": [
+                        14.332251,
+                        46.628315
+                  ]
+            },
+            {
+                  "name": "Schloss Ehrental",
+                  "text": "A Neoclassical castle in Klagenfurt that houses an agricultural school.",
+                  "category": "castle",
+                  "coords": [
+                        14.301896,
+                        46.65375
+                  ]
+            },
+            {
+                  "name": "Landesmuseum Karnten",
+                  "text": "The largest museum in Carinthia features collections on archaeology, art, and nature.",
+                  "category": "museum",
+                  "coords": [
+                        14.312461,
+                        46.621046
+                  ]
+            },
+            {
+                  "name": "Schloss Zigguln",
+                  "text": "A castle situated on a hill in Klagenfurt with a long history.",
+                  "category": "castle",
+                  "coords": [
+                        14.291837,
+                        46.635206
                   ]
             }
       ]
@@ -3538,6 +3790,69 @@ export const poiExtraAtChMissingV1: POI[] = [
                         16.319431,
                         48.100345
                   ]
+            },
+            {
+                  "name": "Volkskundemuseum Modling",
+                  "text": "Ein Museum in Mödling, das sich der lokalen Volkskunde und Traditionen widmet.",
+                  "category": "museum",
+                  "coords": [
+                        16.28584,
+                        48.086336
+                  ]
+            },
+            {
+                  "name": "Schloss Liechtenstein",
+                  "text": "Ein Schloss bei Mödling, das im 19. Jahrhundert im neugotischen Stil erbaut wurde.",
+                  "category": "castle",
+                  "coords": [
+                        16.271988,
+                        48.092058
+                  ]
+            },
+            {
+                  "name": "Modlinger Stadtverkehrsmuseum",
+                  "text": "Dieses Museum dokumentiert die Geschichte des öffentlichen Verkehrs in der Stadt Mödling.",
+                  "category": "museum",
+                  "coords": [
+                        16.296025,
+                        48.084149
+                  ]
+            },
+            {
+                  "name": "Schloss Hunyadi",
+                  "text": "Ein Barockschloss in der Nähe von Mödling, das heute als Kulturzentrum dient.",
+                  "category": "castle",
+                  "coords": [
+                        16.282331,
+                        48.098666
+                  ]
+            },
+            {
+                  "name": "Schonberg Haus",
+                  "text": "Das ehemalige Wohnhaus des Komponisten Arnold Schönberg in Mödling.",
+                  "category": "museum",
+                  "coords": [
+                        16.284498,
+                        48.07928
+                  ]
+            },
+            {
+                  "name": "Schlosschen an der Weide",
+                  "text": "Ein kleines, charmantes Schlösschen in Mödling mit historischer Architektur.",
+                  "category": "castle",
+                  "coords": [
+                        16.283446,
+                        48.097054
+                  ]
+            },
+            {
+                  "name": "Buhne Mayer",
+                  "text": "Eine kulturelle Bühne in Mödling für Theater- und Musikveranstaltungen.",
+                  "category": "cultural",
+                  "coords": [
+                        16.282667,
+                        48.083931
+                  ]
             }
       ],
       "hu": [
@@ -3734,6 +4049,69 @@ export const poiExtraAtChMissingV1: POI[] = [
                   "coords": [
                         16.319431,
                         48.100345
+                  ]
+            },
+            {
+                  "name": "Volkskundemuseum Modling",
+                  "text": "Mödlingi múzeum, amely a helyi néprajznak és hagyományoknak szentelt.",
+                  "category": "museum",
+                  "coords": [
+                        16.28584,
+                        48.086336
+                  ]
+            },
+            {
+                  "name": "Schloss Liechtenstein",
+                  "text": "Mödling melletti kastély, amely a 19. században épült neogótikus stílusban.",
+                  "category": "castle",
+                  "coords": [
+                        16.271988,
+                        48.092058
+                  ]
+            },
+            {
+                  "name": "Modlinger Stadtverkehrsmuseum",
+                  "text": "Ez a múzeum Mödling város tömegközlekedésének történetét dokumentálja.",
+                  "category": "museum",
+                  "coords": [
+                        16.296025,
+                        48.084149
+                  ]
+            },
+            {
+                  "name": "Schloss Hunyadi",
+                  "text": "Barokk kastély Mödling közelében, amely ma kulturális központként szolgál.",
+                  "category": "castle",
+                  "coords": [
+                        16.282331,
+                        48.098666
+                  ]
+            },
+            {
+                  "name": "Schonberg Haus",
+                  "text": "Arnold Schönberg zeneszerző egykori lakóháza Mödlingben.",
+                  "category": "museum",
+                  "coords": [
+                        16.284498,
+                        48.07928
+                  ]
+            },
+            {
+                  "name": "Schlosschen an der Weide",
+                  "text": "Kicsi, bájos kastély Mödlingben, történelmi építészettel.",
+                  "category": "castle",
+                  "coords": [
+                        16.283446,
+                        48.097054
+                  ]
+            },
+            {
+                  "name": "Buhne Mayer",
+                  "text": "Kulturális színpad Mödlingben színházi és zenei események számára.",
+                  "category": "cultural",
+                  "coords": [
+                        16.282667,
+                        48.083931
                   ]
             }
       ],
@@ -3932,6 +4310,69 @@ export const poiExtraAtChMissingV1: POI[] = [
                         16.319431,
                         48.100345
                   ]
+            },
+            {
+                  "name": "Volkskundemuseum Modling",
+                  "text": "Un muzeu din Mödling dedicat folclorului și tradițiilor locale.",
+                  "category": "museum",
+                  "coords": [
+                        16.28584,
+                        48.086336
+                  ]
+            },
+            {
+                  "name": "Schloss Liechtenstein",
+                  "text": "Un castel lângă Mödling, construit în secolul al XIX-lea în stil neogotic.",
+                  "category": "castle",
+                  "coords": [
+                        16.271988,
+                        48.092058
+                  ]
+            },
+            {
+                  "name": "Modlinger Stadtverkehrsmuseum",
+                  "text": "Acest muzeu documentează istoria transportului public din orașul Mödling.",
+                  "category": "museum",
+                  "coords": [
+                        16.296025,
+                        48.084149
+                  ]
+            },
+            {
+                  "name": "Schloss Hunyadi",
+                  "text": "Un castel baroc lângă Mödling, care astăzi servește drept centru cultural.",
+                  "category": "castle",
+                  "coords": [
+                        16.282331,
+                        48.098666
+                  ]
+            },
+            {
+                  "name": "Schonberg Haus",
+                  "text": "Fosta locuință a compozitorului Arnold Schönberg din Mödling.",
+                  "category": "museum",
+                  "coords": [
+                        16.284498,
+                        48.07928
+                  ]
+            },
+            {
+                  "name": "Schlosschen an der Weide",
+                  "text": "Un mic și fermecător castel în Mödling, cu arhitectură istorică.",
+                  "category": "castle",
+                  "coords": [
+                        16.283446,
+                        48.097054
+                  ]
+            },
+            {
+                  "name": "Buhne Mayer",
+                  "text": "O scenă culturală în Mödling pentru spectacole de teatru și evenimente muzicale.",
+                  "category": "cultural",
+                  "coords": [
+                        16.282667,
+                        48.083931
+                  ]
             }
       ],
       "en": [
@@ -4129,6 +4570,69 @@ export const poiExtraAtChMissingV1: POI[] = [
                         16.319431,
                         48.100345
                   ]
+            },
+            {
+                  "name": "Volkskundemuseum Modling",
+                  "text": "A museum in Mödling dedicated to local folklore and traditions.",
+                  "category": "museum",
+                  "coords": [
+                        16.28584,
+                        48.086336
+                  ]
+            },
+            {
+                  "name": "Schloss Liechtenstein",
+                  "text": "A castle near Mödling built in the 19th century in Neogothic style.",
+                  "category": "castle",
+                  "coords": [
+                        16.271988,
+                        48.092058
+                  ]
+            },
+            {
+                  "name": "Modlinger Stadtverkehrsmuseum",
+                  "text": "This museum documents the history of public transport in the town of Mödling.",
+                  "category": "museum",
+                  "coords": [
+                        16.296025,
+                        48.084149
+                  ]
+            },
+            {
+                  "name": "Schloss Hunyadi",
+                  "text": "A Baroque castle near Mödling that serves as a cultural center today.",
+                  "category": "castle",
+                  "coords": [
+                        16.282331,
+                        48.098666
+                  ]
+            },
+            {
+                  "name": "Schonberg Haus",
+                  "text": "The former residence of composer Arnold Schönberg in Mödling.",
+                  "category": "museum",
+                  "coords": [
+                        16.284498,
+                        48.07928
+                  ]
+            },
+            {
+                  "name": "Schlosschen an der Weide",
+                  "text": "A small, charming little castle in Mödling with historic architecture.",
+                  "category": "castle",
+                  "coords": [
+                        16.283446,
+                        48.097054
+                  ]
+            },
+            {
+                  "name": "Buhne Mayer",
+                  "text": "A cultural stage in Mödling for theater and music events.",
+                  "category": "cultural",
+                  "coords": [
+                        16.282667,
+                        48.083931
+                  ]
             }
       ]
 }
@@ -4255,6 +4759,42 @@ export const poiExtraAtChMissingV1: POI[] = [
                         16.281472,
                         48.046523
                   ]
+            },
+            {
+                  "name": "Feuerwehrmuseum Traiskirchen",
+                  "text": "Das Museum zeigt die Geschichte des Feuerwehrwesens in Traiskirchen.",
+                  "category": "museum",
+                  "coords": [
+                        16.309469,
+                        48.028751
+                  ]
+            },
+            {
+                  "name": "Fluchtlings Betreuung",
+                  "text": "Ein regionales Zentrum für kulturelle und soziale Projekte in Traiskirchen.",
+                  "category": "cultural",
+                  "coords": [
+                        16.290449,
+                        48.014629
+                  ]
+            },
+            {
+                  "name": "Art & Fun Factory",
+                  "text": "Ein lokales Kunstzentrum für kreative Freizeitgestaltung in Traiskirchen.",
+                  "category": "cultural",
+                  "coords": [
+                        16.263827,
+                        48.007259
+                  ]
+            },
+            {
+                  "name": "Alte Schlosserei",
+                  "text": "Ein Veranstaltungsort für Kunst und Kultur in einer ehemaligen Schlosserei.",
+                  "category": "cultural",
+                  "coords": [
+                        16.308472,
+                        48.028705
+                  ]
             }
       ],
       "hu": [
@@ -4376,6 +4916,42 @@ export const poiExtraAtChMissingV1: POI[] = [
                   "coords": [
                         16.281472,
                         48.046523
+                  ]
+            },
+            {
+                  "name": "Feuerwehrmuseum Traiskirchen",
+                  "text": "A múzeum a tűzoltás történetét mutatja be Traiskirchenben.",
+                  "category": "museum",
+                  "coords": [
+                        16.309469,
+                        48.028751
+                  ]
+            },
+            {
+                  "name": "Fluchtlings Betreuung",
+                  "text": "Kulturális és szociális projektek regionális központja Traiskirchenben.",
+                  "category": "cultural",
+                  "coords": [
+                        16.290449,
+                        48.014629
+                  ]
+            },
+            {
+                  "name": "Art & Fun Factory",
+                  "text": "Helyi művészeti központ a kreatív szabadidőhöz Traiskirchenben.",
+                  "category": "cultural",
+                  "coords": [
+                        16.263827,
+                        48.007259
+                  ]
+            },
+            {
+                  "name": "Alte Schlosserei",
+                  "text": "Művészeti és kulturális helyszín egy egykori lakatosműhelyben.",
+                  "category": "cultural",
+                  "coords": [
+                        16.308472,
+                        48.028705
                   ]
             }
       ],
@@ -4499,6 +5075,42 @@ export const poiExtraAtChMissingV1: POI[] = [
                         16.281472,
                         48.046523
                   ]
+            },
+            {
+                  "name": "Feuerwehrmuseum Traiskirchen",
+                  "text": "Muzeul prezintă istoria serviciului de pompieri din Traiskirchen.",
+                  "category": "museum",
+                  "coords": [
+                        16.309469,
+                        48.028751
+                  ]
+            },
+            {
+                  "name": "Fluchtlings Betreuung",
+                  "text": "Un centru regional pentru proiecte culturale și sociale în Traiskirchen.",
+                  "category": "cultural",
+                  "coords": [
+                        16.290449,
+                        48.014629
+                  ]
+            },
+            {
+                  "name": "Art & Fun Factory",
+                  "text": "Un centru de artă local pentru petrecerea timpului liber în mod creativ la Traiskirchen.",
+                  "category": "cultural",
+                  "coords": [
+                        16.263827,
+                        48.007259
+                  ]
+            },
+            {
+                  "name": "Alte Schlosserei",
+                  "text": "Un loc pentru artă și cultură situat într-o fostă lăcătușărie.",
+                  "category": "cultural",
+                  "coords": [
+                        16.308472,
+                        48.028705
+                  ]
             }
       ],
       "en": [
@@ -4620,6 +5232,42 @@ export const poiExtraAtChMissingV1: POI[] = [
                   "coords": [
                         16.281472,
                         48.046523
+                  ]
+            },
+            {
+                  "name": "Feuerwehrmuseum Traiskirchen",
+                  "text": "The museum showcases the history of firefighting in Traiskirchen.",
+                  "category": "museum",
+                  "coords": [
+                        16.309469,
+                        48.028751
+                  ]
+            },
+            {
+                  "name": "Fluchtlings Betreuung",
+                  "text": "A regional center for cultural and social projects in Traiskirchen.",
+                  "category": "cultural",
+                  "coords": [
+                        16.290449,
+                        48.014629
+                  ]
+            },
+            {
+                  "name": "Art & Fun Factory",
+                  "text": "A local arts centre for creative leisure activities in Traiskirchen.",
+                  "category": "cultural",
+                  "coords": [
+                        16.263827,
+                        48.007259
+                  ]
+            },
+            {
+                  "name": "Alte Schlosserei",
+                  "text": "A venue for art and culture located in a former locksmith's shop.",
+                  "category": "cultural",
+                  "coords": [
+                        16.308472,
+                        48.028705
                   ]
             }
       ]
@@ -5025,7 +5673,1528 @@ export const poiExtraAtChMissingV1: POI[] = [
       ]
 }
   },
-  {"id": "at-hard", "sights": {"de": [{"name": "Burgruine Fussach", "text": "Die Überreste einer historischen Befestigung in der Nähe von Hard am Bodensee.", "category": "castle", "coords": [9.66394, 47.48077]}, {"name": "Textildruckmuseum Mittelweiherburg", "text": "Ein Museum für Textildruck, das in einem historischen Wasserschloss in Hard untergebracht ist.", "category": "castle", "coords": [9.70376, 47.482136]}, {"name": "Rheindelta", "text": "Ein bedeutendes Naturschutzgebiet am Bodensee, das das Mündungsgebiet des Rheins umfasst.", "category": "natural", "coords": [9.618689, 47.503284]}, {"name": "Naturschutzgebiet Mehrerauer Seeufer – Bregenzerachmündung", "text": "Ein Schutzgebiet am Seeufer bei Hard, das für seine reiche Flora und Fauna bekannt ist.", "category": "natural", "coords": [9.70601, 47.500601]}, {"name": "Strandbad Hard", "text": "Ein beliebtes öffentliches Bad in Hard mit Zugang zum Bodensee.", "category": "family", "coords": [9.686003, 47.497861]}, {"name": "Feuerwehr-Oldtimer-Museum", "text": "Ein Museum in Hard, das historische Feuerwehrfahrzeuge und Ausrüstung zeigt.", "category": "museum", "coords": [9.69103, 47.479594]}, {"name": "Oldtimermuseum", "text": "Eine Sammlung klassischer Fahrzeuge und technischer Raritäten in Hard.", "category": "museum", "coords": [9.676182, 47.478685]}, {"name": "Hörnle", "text": "Ein Strandabschnitt in Hard, der gerne zum Entspannen am Wasser genutzt wird.", "category": "recreational", "coords": [9.656372, 47.491581]}, {"name": "Wocherhafen", "text": "Eine kleine Bucht oder ein Hafenbereich in Hard am Bodensee.", "category": "landmark", "coords": [9.701314, 47.506709]}, {"name": "Schoeller Spinning Group und Kulturwerkstatt Kammgarn", "text": "Ein Kulturzentrum in Hard, das in einer ehemaligen Spinnerei untergebracht ist.", "category": "cultural", "coords": [9.693089, 47.497925]}, {"name": "Rad-Dampfschiff Hohentwiel", "text": "Ein historischer Schaufelraddampfer, der als schwimmendes Denkmal auf dem Bodensee verkehrt.", "category": "landmark", "coords": [9.688634, 47.498942]}, {"name": "Grüner Damm", "text": "Ein Dammweg in Hard, der weite Ausblicke über den Bodensee bietet.", "category": "natural", "coords": [9.684804, 47.501893]}, {"name": "Thaler Areal", "text": "Ein Veranstaltungs- und Kunstgelände in Hard mit industriellem Flair.", "category": "cultural", "coords": [9.688453, 47.494774]}, {"name": "Galerie Maximilian Hutz", "text": "Eine Kunstgalerie in Hard, die zeitgenössische Werke präsentiert.", "category": "museum", "coords": [9.694092, 47.486568]}, {"name": "FKK Strand Hard", "text": "Am österreichischen Ufer des Bodensees gelegen, bietet der FKK-Strand Hard eine ausgewiesene Zone für Naturismus. Die friedliche Atmosphäre zieht Besucher an, die hüllenloses Sonnenbaden und Schwimmen in einem geschützten Rahmen schätzen. Das klare Seewasser und die entspannte Umgebung machen den Aufenthalt besonders erholsam. Um die Ruhe in vollen Zügen zu genießen, lohnt sich ein Besuch außerhalb der Wochenenden.", "category": "recreational", "coords": [9.664829, 47.49374]}, {"name": "St. Sebastian", "text": "Die katholische Pfarrkirche St. Sebastian ist ein bedeutendes Sakralbauwerk in Hard am Bodensee.", "category": "religious", "coords": [9.688385, 47.491666]}, {"name": "Hl. Nikolaus", "text": "Die dem heiligen Nikolaus geweihte Pfarrkirche ist ein zentraler Ort der Andacht in der Gemeinde.", "category": "religious", "coords": [9.663358, 47.479839]}, {"name": "St. Gebhard Kirche", "text": "Die St. Gebhard Kirche ist ein sakraler Ort in Hard, der dem Gedenken des heiligen Gebhard gewidmet ist.", "category": "religious", "coords": [9.716251, 47.493061]}, {"name": "Damm Wocherhafen", "text": "Der Damm am Wocherhafen ist ein beliebter Ort zum Baden und Erholen am Ufer des Bodensees.", "category": "landmark", "coords": [9.699772, 47.506903]}, {"name": "Möckle Weiher", "text": "Der Möckle Weiher in Hard ist ein malerischer See, der zum Spazierengehen und Entspannen einlädt.", "category": "natural", "coords": [9.716245, 47.443666]}, {"name": "Schleienloch", "text": "Das Schleienloch ist ein See in Hard, der eine ruhige Umgebung für Naturspaziergänge bietet.", "category": "natural", "coords": [9.673412, 47.495179]}, {"name": "Naturbad Bruggerloch", "text": "Das Naturbad Bruggerloch in Hard ist ein Natursee, der zum Baden und zur Erholung genutzt wird.", "category": "natural", "coords": [9.657915, 47.453426]}, {"name": "Bregenzer Sporthafen", "text": "Der Bregenzer Sporthafen in Hard ist ein Bereich am See mit schöner Aussicht auf das Wasser.", "category": "natural", "coords": [9.726728, 47.506655]}, {"name": "Fischerhafen", "text": "Der Fischerhafen ist ein Seebereich in Hard, der eine ruhige Atmosphäre am Wasser bietet.", "category": "natural", "coords": [9.730063, 47.506252]}, {"name": "Bodensee", "text": "Der Bodensee bei Hard ist ein großer See, der sich ideal für malerische Spaziergänge und Wasseraktivitäten eignet.", "category": "natural", "coords": [9.30627, 47.647787]}, {"name": "Auhafenteich", "text": "Der Auhafenteich in Hard ist ein ruhiger See, der sich für entspannte Spaziergänge in der Natur eignet.", "category": "natural", "coords": [9.689407, 47.502258]}, {"name": "Spielplatz Lehenweg", "text": "Der Spielplatz Lehenweg in Hard ist ein familienfreundlicher Spielplatz für Kinder.", "category": "family", "coords": [9.72064, 47.495127]}, {"name": "Waldspielplatz Kischaru", "text": "Der Waldspielplatz Kischaru in Hard ist ein Waldspielplatz, ideal für einen Familienausflug ins Freie.", "category": "family", "coords": [9.696343, 47.496383]}, {"name": "Spielplatz Rheintalsiedlung", "text": "Der Spielplatz Rheintalsiedlung in Hard bietet eine sichere und unterhaltsame Umgebung für Kinder zum Spielen.", "category": "family", "coords": [9.687329, 47.480519]}, {"name": "Schach", "text": "Schach in Hard ist ein öffentlicher Bereich, in dem Familien Spiele im Freien genießen können.", "category": "family", "coords": [9.688105, 47.492661]}, {"name": "Spielplatz Mittriedstraße", "text": "Dieser Spielplatz in der Mittriedstraße in Hard ist ein toller Ort für Kinder, um aktiv zu sein.", "category": "family", "coords": [9.693045, 47.485968]}, {"name": "Spielplatz Kaisermannstraße", "text": "Der Spielplatz Kaisermannstraße in Hard bietet verschiedene Spielgeräte für Familien vor Ort.", "category": "family", "coords": [9.721494, 47.488398]}, {"name": "Spielplatz am Margarethendamm", "text": "Der Spielplatz am Margarethendamm in Hard ist ein freundlicher Ort für Kinder, um die Zeit im Freien zu genießen.", "category": "family", "coords": [9.711769, 47.486405]}, {"name": "Erlach-Spielplatz", "text": "Der Erlach-Spielplatz in Hard ist ein beliebtes Ziel für Familien mit Kindern.", "category": "family", "coords": [9.687033, 47.476465]}, {"name": "Spielplatz Steinachstraße", "text": "Der Spielplatz Steinachstraße in Hard bietet einen angenehmen Spielbereich für Kinder in der Nachbarschaft.", "category": "family", "coords": [9.71395, 47.492414]}, {"name": "Spielplatz Achgasse", "text": "Der Spielplatz Achgasse in Hard ist ein schöner Ort für Kinder zum Spielen und Kontakteknüpfen.", "category": "family", "coords": [9.714711, 47.493631]}, {"name": "Spielplatz Strabonstraße", "text": "Der Spielplatz Strabonstraße in Hard bietet einen unterhaltsamen Außenbereich für Aktivitäten von Kindern.", "category": "family", "coords": [9.720643, 47.491463]}, {"name": "Strandbad Hard (FKK)", "text": "Das FKK-Strandbad in Hard bietet einen Bereich für hüllenloses Badevergnügen am Bodensee.", "category": "family", "coords": [9.667619, 47.492199]}, {"name": "Kinderpool", "text": "Der Kinderpool in Hard bietet sicheren Wasserspaß für die kleinsten Besucher.", "category": "family", "coords": [9.686401, 47.495994]}, {"name": "Yachthafen Bregenz", "text": "Der Yachthafen Bregenz bei Hard lädt mit seinem Seezugang zum Schwimmen und Verweilen ein.", "category": "family", "coords": [9.716818, 47.507083]}, {"name": "Seecamping", "text": "Das Seecamping in Hard bietet einen Zugang zum Bodensee für Campinggäste und Besucher.", "category": "family", "coords": [9.713577, 47.506819]}], "hu": [{"name": "Burgruine Fussach", "text": "Történelmi erődítmény romjai Hard közelében, a Bódeni-tónál.", "category": "castle", "coords": [9.66394, 47.48077]}, {"name": "Textildruckmuseum Mittelweiherburg", "text": "Hard történelmi vízikastélyában berendezett textilnyomó múzeum.", "category": "castle", "coords": [9.70376, 47.482136]}, {"name": "Rheindelta", "text": "Fontos természetvédelmi terület a Bódeni-tónál, a Rajna torkolatvidékén.", "category": "natural", "coords": [9.618689, 47.503284]}, {"name": "Naturschutzgebiet Mehrerauer Seeufer – Bregenzerachmündung", "text": "Természetvédelmi terület Hardnál, amely gazdag növény- és állatvilágáról nevezetes.", "category": "natural", "coords": [9.70601, 47.500601]}, {"name": "Strandbad Hard", "text": "Hard népszerű strandfürdője közvetlen kijárattal a Bódeni-tóhoz.", "category": "family", "coords": [9.686003, 47.497861]}, {"name": "Feuerwehr-Oldtimer-Museum", "text": "Hardi múzeum, amely régi tűzoltóautókat és felszereléseket mutat be.", "category": "museum", "coords": [9.69103, 47.479594]}, {"name": "Oldtimermuseum", "text": "Veterán autók és technikai ritkaságok gyűjteménye Hard városában.", "category": "museum", "coords": [9.676182, 47.478685]}, {"name": "Hörnle", "text": "Hard egyik vízparti szakasza, amely kedvelt pihenőhely.", "category": "recreational", "coords": [9.656372, 47.491581]}, {"name": "Wocherhafen", "text": "Kisebb öböl vagy kikötőhely Hardnál, a Bódeni-tó partján.", "category": "landmark", "coords": [9.701314, 47.506709]}, {"name": "Schoeller Spinning Group und Kulturwerkstatt Kammgarn", "text": "Hardi kulturális központ, amely egy egykori fonodában kapott helyet.", "category": "cultural", "coords": [9.693089, 47.497925]}, {"name": "Rad-Dampfschiff Hohentwiel", "text": "Történelmi lapátkerekes gőzhajó, amely a Bódeni-tó egyik fő látványossága.", "category": "landmark", "coords": [9.688634, 47.498942]}, {"name": "Grüner Damm", "text": "Gátút Hardnál, ahonnan tágas kilátás nyílik a Bódeni-tóra.", "category": "natural", "coords": [9.684804, 47.501893]}, {"name": "Thaler Areal", "text": "Ipari hangulatú rendezvény- és művészeti helyszín Hard városában.", "category": "cultural", "coords": [9.688453, 47.494774]}, {"name": "Galerie Maximilian Hutz", "text": "Kortárs műalkotásokat bemutató művészeti galéria Hardban.", "category": "museum", "coords": [9.694092, 47.486568]}, {"name": "FKK Strand Hard", "text": "A Boden-tó osztrák partján fekvő FKK-Strand Hard kijelölt területet biztosít a naturizmus kedvelőinek. A békés légkör vonzza a látogatókat, akik értékelik a védett környezetben történő meztelen napozást és úszást. A tiszta tóvíz és a nyugodt környezet különösen pihentetővé teszi az ittlétet. Ha a nyugalmat a maga teljességében szeretné élvezni, érdemes hétköznapokon látogatni a strandot.", "category": "recreational", "coords": [9.664829, 47.49374]}, {"name": "St. Sebastian", "text": "A Szent Sebestyén-plébániatemplom Hard jelentős katolikus hitéleti központja a Bodeni-tónál.", "category": "religious", "coords": [9.688385, 47.491666]}, {"name": "Hl. Nikolaus", "text": "A Szent Miklósnak szentelt plébániatemplom a közösség központi hitéleti helyszíne.", "category": "religious", "coords": [9.663358, 47.479839]}, {"name": "St. Gebhard Kirche", "text": "A Szent Gebhárd-templom egy vallási helyszín Hardban, amelyet a szent emlékének szenteltek.", "category": "religious", "coords": [9.716251, 47.493061]}, {"name": "Damm Wocherhafen", "text": "A Wocherhafen gátja népszerű fürdőző- és pihenőhely a Bodeni-tó partján.", "category": "landmark", "coords": [9.699772, 47.506903]}, {"name": "Möckle Weiher", "text": "A Hard településen található Möckle Weiher egy festői tó, amely ideális sétákhoz és kikapcsolódáshoz.", "category": "natural", "coords": [9.716245, 47.443666]}, {"name": "Schleienloch", "text": "A Hardban fekvő Schleienloch egy tó, amely nyugodt környezetet biztosít a természetjáráshoz.", "category": "natural", "coords": [9.673412, 47.495179]}, {"name": "Naturbad Bruggerloch", "text": "A Hardban található Naturbad Bruggerloch egy természetes tó, amely fürdésre és kikapcsolódásra alkalmas.", "category": "natural", "coords": [9.657915, 47.453426]}, {"name": "Bregenzer Sporthafen", "text": "A Hardban található Bregenzer Sporthafen egy tóparti terület, szép kilátással a vízre.", "category": "natural", "coords": [9.726728, 47.506655]}, {"name": "Fischerhafen", "text": "A Hardban található Fischerhafen egy tóparti terület, amely nyugodt hangulatot áraszt a víz mellett.", "category": "natural", "coords": [9.730063, 47.506252]}, {"name": "Bodensee", "text": "A Hardnál található Bodeni-tó egy hatalmas tó, amely tökéletes látványos sétákhoz és vízi tevékenységekhez.", "category": "natural", "coords": [9.30627, 47.647787]}, {"name": "Auhafenteich", "text": "A Hardban található Auhafenteich egy csendes tó, amely alkalmas pihentető erdei sétákhoz.", "category": "natural", "coords": [9.689407, 47.502258]}, {"name": "Spielplatz Lehenweg", "text": "A Hardban található Spielplatz Lehenweg egy családbarát játszótér a gyermekek számára.", "category": "family", "coords": [9.72064, 47.495127]}, {"name": "Waldspielplatz Kischaru", "text": "A Hardban található Waldspielplatz Kischaru egy erdei játszótér, amely tökéletes egy családi kiránduláshoz.", "category": "family", "coords": [9.696343, 47.496383]}, {"name": "Spielplatz Rheintalsiedlung", "text": "A Hardban található Spielplatz Rheintalsiedlung biztonságos és szórakoztató környezetet biztosít a gyerekeknek a játékhoz.", "category": "family", "coords": [9.687329, 47.480519]}, {"name": "Schach", "text": "A Hardban található Schach egy nyilvános terület, ahol a családok szabadtéri játékokat élvezhetnek.", "category": "family", "coords": [9.688105, 47.492661]}, {"name": "Spielplatz Mittriedstraße", "text": "Ez a Hardban, a Mittriedstraße-n található játszótér remek hely a gyerekeknek az aktív kikapcsolódásra.", "category": "family", "coords": [9.693045, 47.485968]}, {"name": "Spielplatz Kaisermannstraße", "text": "A Hardban található Spielplatz Kaisermannstraße különféle játéklehetőségeket kínál a helyi családoknak.", "category": "family", "coords": [9.721494, 47.488398]}, {"name": "Spielplatz am Margarethendamm", "text": "A Hardban, a Margarethendamm-nál található játszótér barátságos hely a gyerekeknek a szabadban való játékra.", "category": "family", "coords": [9.711769, 47.486405]}, {"name": "Erlach-Spielplatz", "text": "A Hardban található Erlach-Spielplatz népszerű úti cél a kisgyermekes családok számára.", "category": "family", "coords": [9.687033, 47.476465]}, {"name": "Spielplatz Steinachstraße", "text": "A Hardban található Spielplatz Steinachstraße kellemes játszóhelyet kínál a környékbeli gyerekeknek.", "category": "family", "coords": [9.71395, 47.492414]}, {"name": "Spielplatz Achgasse", "text": "A Hardban található Achgasse játszótér remek hely a gyerekeknek a játékra és a barátkozásra.", "category": "family", "coords": [9.714711, 47.493631]}, {"name": "Spielplatz Strabonstraße", "text": "A Hardban található Spielplatz Strabonstraße szórakoztató szabadtéri helyszínt biztosít a gyermekek tevékenységeihez.", "category": "family", "coords": [9.720643, 47.491463]}, {"name": "Strandbad Hard (FKK)", "text": "A hardi FKK-strand a ruházat nélküli fürdőzés örömét kínálja a Bodeni-tónál.", "category": "family", "coords": [9.667619, 47.492199]}, {"name": "Kinderpool", "text": "A hardi gyerekmedence biztonságos vízi szórakozást nyújt a legkisebb látogatóknak.", "category": "family", "coords": [9.686401, 47.495994]}, {"name": "Yachthafen Bregenz", "text": "A Hard melletti bregenzi jachtkikötő tóparti hozzáférésével úszásra és pihenésre hívogat.", "category": "family", "coords": [9.716818, 47.507083]}, {"name": "Seecamping", "text": "A hardi Seecamping hozzáférést biztosít a Bodeni-tóhoz a kempingezők és a látogatók számára.", "category": "family", "coords": [9.713577, 47.506819]}], "ro": [{"name": "Burgruine Fussach", "text": "Ruinele unei fortificații istorice situate lângă Hard, pe malul lacului Constanța.", "category": "castle", "coords": [9.66394, 47.48077]}, {"name": "Textildruckmuseum Mittelweiherburg", "text": "Un muzeu al imprimeriei textile situat într-un castel de apă istoric din Hard.", "category": "castle", "coords": [9.70376, 47.482136]}, {"name": "Rheindelta", "text": "O rezervație naturală importantă la lacul Constanța, cuprinzând zona de vărsare a Rinului.", "category": "natural", "coords": [9.618689, 47.503284]}, {"name": "Naturschutzgebiet Mehrerauer Seeufer – Bregenzerachmündung", "text": "O arie protejată pe malul lacului lângă Hard, cunoscută pentru flora și fauna sa diversă.", "category": "natural", "coords": [9.70601, 47.500601]}, {"name": "Strandbad Hard", "text": "Un ștrand public popular în Hard, cu acces la lacul Constanța.", "category": "family", "coords": [9.686003, 47.497861]}, {"name": "Feuerwehr-Oldtimer-Museum", "text": "Un muzeu din Hard care expune vehicule și echipamente istorice de pompieri.", "category": "museum", "coords": [9.69103, 47.479594]}, {"name": "Oldtimermuseum", "text": "O colecție de vehicule clasice și rarități tehnice situată în Hard.", "category": "museum", "coords": [9.676182, 47.478685]}, {"name": "Hörnle", "text": "O porțiune de plajă în Hard, utilizată pentru relaxare pe malul lacului.", "category": "recreational", "coords": [9.656372, 47.491581]}, {"name": "Wocherhafen", "text": "Un mic golf sau zonă portuară în Hard, la lacul Constanța.", "category": "landmark", "coords": [9.701314, 47.506709]}, {"name": "Schoeller Spinning Group und Kulturwerkstatt Kammgarn", "text": "Un centru cultural din Hard, găzduit într-o fostă filatură.", "category": "cultural", "coords": [9.693089, 47.497925]}, {"name": "Rad-Dampfschiff Hohentwiel", "text": "Un vapor istoric cu roate, care funcționează ca monument plutitor pe lacul Constanța.", "category": "landmark", "coords": [9.688634, 47.498942]}, {"name": "Grüner Damm", "text": "Un dig în Hard care oferă vederi largi asupra lacului Constanța.", "category": "natural", "coords": [9.684804, 47.501893]}, {"name": "Thaler Areal", "text": "Un spațiu pentru evenimente și artă din Hard, cu un aer industrial.", "category": "cultural", "coords": [9.688453, 47.494774]}, {"name": "Galerie Maximilian Hutz", "text": "O galerie de artă din Hard care prezintă lucrări contemporane.", "category": "museum", "coords": [9.694092, 47.486568]}, {"name": "FKK Strand Hard", "text": "Situată pe malul austriac al Lacului Konstanz, plaja FKK Strand Hard oferă o zonă desemnatată pentru naturism. Atmosfera pașnică atrage vizitatorii care apreciază băile de soare fără haine și înotul într-un cadru protejat. Apa limpede a lacului și împrejurimile relaxate fac șederea deosebit de odihnitoare. Pentru a vă bucura din plin de liniște, o vizită în afara weekend-urilor este foarte recomandată.", "category": "recreational", "coords": [9.664829, 47.49374]}, {"name": "St. Sebastian", "text": "Biserica parohială Sfântul Sebastian este un edificiu religios important din Hard, pe malul lacului Constance.", "category": "religious", "coords": [9.688385, 47.491666]}, {"name": "Hl. Nikolaus", "text": "Biserica parohială dedicată Sfântului Nicolae este un loc central de rugăciune în comunitate.", "category": "religious", "coords": [9.663358, 47.479839]}, {"name": "St. Gebhard Kirche", "text": "Biserica Sfântul Gebhard este un lăcaș de cult din Hard, dedicat memoriei sfântului Gebhard.", "category": "religious", "coords": [9.716251, 47.493061]}, {"name": "Damm Wocherhafen", "text": "Digul de la Wocherhafen este un loc popular pentru scăldat și recreere pe malul lacului Constance.", "category": "landmark", "coords": [9.699772, 47.506903]}, {"name": "Möckle Weiher", "text": "Möckle Weiher din Hard este un lac pitoresc, ideal pentru plimbări și relaxare.", "category": "natural", "coords": [9.716245, 47.443666]}, {"name": "Schleienloch", "text": "Schleienloch este un lac din Hard care oferă un mediu liniștit pentru plimbări în natură.", "category": "natural", "coords": [9.673412, 47.495179]}, {"name": "Naturbad Bruggerloch", "text": "Naturbad Bruggerloch din Hard este un lac natural utilizat pentru înot și recreere.", "category": "natural", "coords": [9.657915, 47.453426]}, {"name": "Bregenzer Sporthafen", "text": "Bregenzer Sporthafen din Hard este o zonă de la malul lacului, cu vederi pitorești spre apă.", "category": "natural", "coords": [9.726728, 47.506655]}, {"name": "Fischerhafen", "text": "Fischerhafen este o zonă de lac din Hard care oferă o atmosferă liniștită lângă apă.", "category": "natural", "coords": [9.730063, 47.506252]}, {"name": "Bodensee", "text": "Lacul Constanța de lângă Hard este un lac mare, perfect pentru plimbări pitorești și activități acvatice.", "category": "natural", "coords": [9.30627, 47.647787]}, {"name": "Auhafenteich", "text": "Auhafenteich din Hard este un lac liniștit, potrivit pentru plimbări relaxante în natură.", "category": "natural", "coords": [9.689407, 47.502258]}, {"name": "Spielplatz Lehenweg", "text": "Spielplatz Lehenweg din Hard este un loc de joacă primitor pentru familii și copii.", "category": "family", "coords": [9.72064, 47.495127]}, {"name": "Waldspielplatz Kischaru", "text": "Waldspielplatz Kischaru este un loc de joacă în pădure din Hard, perfect pentru o ieșire cu familia în aer liber.", "category": "family", "coords": [9.696343, 47.496383]}, {"name": "Spielplatz Rheintalsiedlung", "text": "Spielplatz Rheintalsiedlung din Hard oferă un mediu sigur și distractiv pentru joaca copiilor.", "category": "family", "coords": [9.687329, 47.480519]}, {"name": "Schach", "text": "Schach din Hard este o zonă publică unde familiile se pot bucura de jocuri în aer liber.", "category": "family", "coords": [9.688105, 47.492661]}, {"name": "Spielplatz Mittriedstraße", "text": "Acest loc de joacă de pe Mittriedstraße din Hard este un loc minunat pentru copiii activi.", "category": "family", "coords": [9.693045, 47.485968]}, {"name": "Spielplatz Kaisermannstraße", "text": "Spielplatz Kaisermannstraße din Hard oferă diverse structuri de joacă pentru familiile locale.", "category": "family", "coords": [9.721494, 47.488398]}, {"name": "Spielplatz am Margarethendamm", "text": "Locul de joacă de la Margarethendamm din Hard este un loc prietenos pentru copii, unde se pot bucura de aer liber.", "category": "family", "coords": [9.711769, 47.486405]}, {"name": "Erlach-Spielplatz", "text": "Erlach-Spielplatz din Hard este o destinație populară pentru familiile cu copii.", "category": "family", "coords": [9.687033, 47.476465]}, {"name": "Spielplatz Steinachstraße", "text": "Spielplatz Steinachstraße din Hard oferă o zonă de joacă plăcută pentru copiii din cartier.", "category": "family", "coords": [9.71395, 47.492414]}, {"name": "Spielplatz Achgasse", "text": "Locul de joacă Achgasse din Hard este un punct bun pentru copii, unde se pot juca și socializa.", "category": "family", "coords": [9.714711, 47.493631]}, {"name": "Spielplatz Strabonstraße", "text": "Spielplatz Strabonstraße din Hard oferă un spațiu exterior distractiv pentru activitățile copiilor.", "category": "family", "coords": [9.720643, 47.491463]}, {"name": "Strandbad Hard (FKK)", "text": "Ștrandul FKK din Hard oferă o zonă pentru nudiști pe malul lacului Constance.", "category": "family", "coords": [9.667619, 47.492199]}, {"name": "Kinderpool", "text": "Piscina pentru copii din Hard oferă distracție sigură în apă pentru cei mai mici vizitatori.", "category": "family", "coords": [9.686401, 47.495994]}, {"name": "Yachthafen Bregenz", "text": "Portul de iahturi Bregenz de lângă Hard invită la înot și relaxare cu accesul său la lac.", "category": "family", "coords": [9.716818, 47.507083]}, {"name": "Seecamping", "text": "Seecamping din Hard oferă acces la lacul Constance pentru turiștii cu cortul și vizitatori.", "category": "family", "coords": [9.713577, 47.506819]}], "en": [{"name": "Burgruine Fussach", "text": "The remains of a historic fortification near Hard on Lake Constance.", "category": "castle", "coords": [9.66394, 47.48077]}, {"name": "Textildruckmuseum Mittelweiherburg", "text": "A textile printing museum housed in a historic moated castle in Hard.", "category": "castle", "coords": [9.70376, 47.482136]}, {"name": "Rheindelta", "text": "A major nature reserve on Lake Constance encompassing the Rhine River delta.", "category": "natural", "coords": [9.618689, 47.503284]}, {"name": "Naturschutzgebiet Mehrerauer Seeufer – Bregenzerachmündung", "text": "A protected area on the lakeshore near Hard, known for its rich flora and fauna.", "category": "natural", "coords": [9.70601, 47.500601]}, {"name": "Strandbad Hard", "text": "A popular public bathing facility in Hard with access to Lake Constance.", "category": "family", "coords": [9.686003, 47.497861]}, {"name": "Feuerwehr-Oldtimer-Museum", "text": "A museum in Hard exhibiting historic fire engines and equipment.", "category": "museum", "coords": [9.69103, 47.479594]}, {"name": "Oldtimermuseum", "text": "A collection of classic vehicles and technical rarities located in Hard.", "category": "museum", "coords": [9.676182, 47.478685]}, {"name": "Hörnle", "text": "A beach area in Hard commonly used for relaxation by the water.", "category": "recreational", "coords": [9.656372, 47.491581]}, {"name": "Wocherhafen", "text": "A small bay or harbour area in Hard on Lake Constance.", "category": "landmark", "coords": [9.701314, 47.506709]}, {"name": "Schoeller Spinning Group und Kulturwerkstatt Kammgarn", "text": "A cultural centre in Hard housed in a former spinning mill.", "category": "cultural", "coords": [9.693089, 47.497925]}, {"name": "Rad-Dampfschiff Hohentwiel", "text": "A historic paddle steamer operating as a floating monument on Lake Constance.", "category": "landmark", "coords": [9.688634, 47.498942]}, {"name": "Grüner Damm", "text": "An embankment path in Hard offering wide views over Lake Constance.", "category": "natural", "coords": [9.684804, 47.501893]}, {"name": "Thaler Areal", "text": "An event and arts space in Hard with an industrial flair.", "category": "cultural", "coords": [9.688453, 47.494774]}, {"name": "Galerie Maximilian Hutz", "text": "An art gallery in Hard showcasing contemporary works.", "category": "museum", "coords": [9.694092, 47.486568]}, {"name": "FKK Strand Hard", "text": "Situated on the Austrian shore of Lake Constance, FKK Strand Hard offers a designated zone for naturism. The peaceful atmosphere attracts visitors who appreciate nude sunbathing and swimming in a protected setting. The clear lake water and relaxed surroundings make the stay particularly restful. To fully enjoy the tranquility, a visit outside of the weekends is highly recommended.", "category": "recreational", "coords": [9.664829, 47.49374]}, {"name": "St. Sebastian", "text": "The Catholic parish church of St. Sebastian is a significant religious landmark in Hard on Lake Constance.", "category": "religious", "coords": [9.688385, 47.491666]}, {"name": "Hl. Nikolaus", "text": "The parish church dedicated to St. Nicholas is a central place of worship in the community.", "category": "religious", "coords": [9.663358, 47.479839]}, {"name": "St. Gebhard Kirche", "text": "St. Gebhard Church is a sacred site in Hard dedicated to the memory of St. Gebhard.", "category": "religious", "coords": [9.716251, 47.493061]}, {"name": "Damm Wocherhafen", "text": "The dam at Wocherhafen is a popular spot for swimming and relaxation on the shores of Lake Constance.", "category": "landmark", "coords": [9.699772, 47.506903]}, {"name": "Möckle Weiher", "text": "The Möckle Weiher in Hard is a scenic lake suitable for walking and relaxation.", "category": "natural", "coords": [9.716245, 47.443666]}, {"name": "Schleienloch", "text": "Schleienloch is a lake in Hard offering a peaceful environment for nature walks.", "category": "natural", "coords": [9.673412, 47.495179]}, {"name": "Naturbad Bruggerloch", "text": "Naturbad Bruggerloch in Hard is a natural lake used for swimming and recreation.", "category": "natural", "coords": [9.657915, 47.453426]}, {"name": "Bregenzer Sporthafen", "text": "Bregenzer Sporthafen in Hard is a lakeside area with scenic views of the water.", "category": "natural", "coords": [9.726728, 47.506655]}, {"name": "Fischerhafen", "text": "Fischerhafen is a lake area in Hard offering a tranquil atmosphere by the water.", "category": "natural", "coords": [9.730063, 47.506252]}, {"name": "Lake Constance", "text": "Lake Constance at Hard is a large lake perfect for scenic walks and water activities.", "category": "natural", "coords": [9.30627, 47.647787]}, {"name": "Auhafenteich", "text": "Auhafenteich in Hard is a quiet lake suitable for relaxing walks in nature.", "category": "natural", "coords": [9.689407, 47.502258]}, {"name": "Spielplatz Lehenweg", "text": "Spielplatz Lehenweg in Hard is a family-friendly playground for children to play.", "category": "family", "coords": [9.72064, 47.495127]}, {"name": "Waldspielplatz Kischaru", "text": "Waldspielplatz Kischaru is a forest playground in Hard perfect for an outdoor family outing.", "category": "family", "coords": [9.696343, 47.496383]}, {"name": "Spielplatz Rheintalsiedlung", "text": "Spielplatz Rheintalsiedlung in Hard provides a safe and fun environment for children to play.", "category": "family", "coords": [9.687329, 47.480519]}, {"name": "Schach", "text": "Schach in Hard is a public area where families can enjoy outdoor games.", "category": "family", "coords": [9.688105, 47.492661]}, {"name": "Spielplatz Mittriedstraße", "text": "This playground on Mittriedstraße in Hard is a great spot for children to be active.", "category": "family", "coords": [9.693045, 47.485968]}, {"name": "Spielplatz Kaisermannstraße", "text": "Spielplatz Kaisermannstraße in Hard offers various play structures for local families.", "category": "family", "coords": [9.721494, 47.488398]}, {"name": "Spielplatz am Margarethendamm", "text": "The playground at Margarethendamm in Hard is a friendly place for kids to enjoy the outdoors.", "category": "family", "coords": [9.711769, 47.486405]}, {"name": "Erlach-Spielplatz", "text": "Erlach-Spielplatz in Hard is a popular destination for families with children.", "category": "family", "coords": [9.687033, 47.476465]}, {"name": "Spielplatz Steinachstraße", "text": "Spielplatz Steinachstraße in Hard offers a pleasant play area for children in the neighborhood.", "category": "family", "coords": [9.71395, 47.492414]}, {"name": "Spielplatz Achgasse", "text": "The Achgasse playground in Hard is a nice spot for kids to play and socialize.", "category": "family", "coords": [9.714711, 47.493631]}, {"name": "Spielplatz Strabonstraße", "text": "Spielplatz Strabonstraße in Hard provides a fun outdoor space for children's activities.", "category": "family", "coords": [9.720643, 47.491463]}, {"name": "Strandbad Hard (FKK)", "text": "The FKK beach in Hard offers an area for nudist bathing enjoyment on Lake Constance.", "category": "family", "coords": [9.667619, 47.492199]}, {"name": "Kinderpool", "text": "The children's pool in Hard offers safe water fun for the smallest visitors.", "category": "family", "coords": [9.686401, 47.495994]}, {"name": "Yachthafen Bregenz", "text": "The Bregenz Marina near Hard invites you to swim and linger with its lake access.", "category": "family", "coords": [9.716818, 47.507083]}, {"name": "Seecamping", "text": "The Seecamping in Hard offers access to Lake Constance for campers and visitors.", "category": "family", "coords": [9.713577, 47.506819]}]}, "type": "city", "parent": "AT-8", "coords": [9.6878, 47.4825], "population": 14460, "image": "/geo-images/austria/at-hard.webp", "name": {"de": "Hard", "hu": "Hard", "ro": "Hard", "en": "Hard"}, "description": {"de": "Hard liegt am österreichischen Bodenseeufer zwischen Rhein und Bregenzerach und ist bekannt für seine hohe Lebensqualität und Naturverbundenheit.", "hu": "A Boden-tó osztrák partján, a Rajna és a Bregenzerach között fekvő város, amely magas életminőségéről és természetközelségéről ismert.", "ro": "Hard este situat pe malul austriac al lacului Constanța (Bodensee), între Rin și Bregenzerach, fiind cunoscut pentru calitatea ridicată a vieții și legătura cu natura.", "en": "Hard is situated on the Austrian shores of Lake Constance between the Rhine and Bregenzerach, known for its high quality of life and natural beauty."}, "facts": {"de": ["Lage am Bodensee", "Mündung des Neuen Rheins", "Bedeutende Textilgeschichte", "Naturreservat Rheindelta"], "hu": ["A Boden-tó partján fekszik", "Az Új-Rajna torkolata", "Jelentős textilipari múlt", "Rajna-delta természetvédelmi terület"], "ro": ["Situat pe lacul Constanța", "Vărsarea noului Rin", "Istorie textilă importantă", "Rezervația naturală Delta Rinului"], "en": ["Located on Lake Constance", "Mouth of the New Rhine", "Significant textile history", "Rhine Delta nature reserve"]}, "descriptionAdvanced": {"de": "Hard ist eine bedeutende Marktgemeinde im österreichischen Bundesland Vorarlberg, direkt am Südufer des Bodensees gelegen. Geografisch ist der Ort durch seine Lage zwischen der Mündung des Neuen Rheins im Westen und der Bregenzerach im Osten geprägt. Diese Lage am Wasser hat die Entwicklung von Hard maßgeblich beeinflusst, von der Fischerei bis hin zur modernen Industrie. Die Geschichte des Ortes reicht bis ins 13. Jahrhundert zurück, wobei die Industrialisierung im 19. Jahrhundert durch die Textilindustrie, insbesondere durch die Firma Samuel Schindler, einen großen Aufschwung brachte. Zeugnisse dieser Ära finden sich noch heute im Stadtbild, wie etwa im Textildruckmuseum Mittelweiherburg. Heute ist Hard ein moderner Wirtschaftsstandort mit einer starken Verwurzelung im Bootsbau und der Metallverarbeitung. Für Naturliebhaber bietet das angrenzende Rheindelta, eines der bedeutendsten Vogelschutzgebiete Mitteleuropas, einzigartige Beobachtungsmöglichkeiten. Das Harder Seeufer mit seinen weitläufigen Parkanlagen, dem Strandbad und dem Hafen ist ein beliebtes Naherholungsgebiet für die gesamte Region. Kulturell ist die Gemeinde durch Veranstaltungen im Spannrahmen und ein reges Vereinsleben geprägt, was die soziale Struktur festigt.", "hu": "Hard egy jelentős mezőváros az osztrák Vorarlberg tartományban, közvetlenül a Boden-tó déli partján. Földrajzilag a települést az Új-Rajna nyugati torkolata és a keleten fekvő Bregenzerach közötti elhelyezkedése határozza meg. Ez a vízközeli fekvés döntően befolyásolta Hard fejlődését, a halászattól a modern iparig. A település története a 13. századig nyúlik vissza, az iparosodás a 19. században a textilipar révén – különösen a Samuel Schindler cég által – nagy fellendülést hozott. Ennek a korszaknak az emlékei ma is megtalálhatók a városképben, például a Mittelweiherburg textilnyomda-múzeumban. Ma Hard modern gazdasági helyszín, erős gyökerekkel a hajóépítésben és a fémfeldolgozásban. A természetkedvelők számára a szomszédos Rajna-delta, Közép-Európa egyik legjelentősebb madárvédelmi körzete nyújt egyedülálló megfigyelési lehetőségeket. A hardi tópart tágas parkjaival, strandjával és kikötőjével az egész régió kedvelt pihenőhelye. Kulturálisan a települést a Spannrahmenben tartott rendezvények és az élénk egyesületi élet jellemzi, ami megerősíti a társadalmi struktúrát.", "ro": "Hard este o comună importantă în statul federal austriac Vorarlberg, situată direct pe malul sudic al lacului Constanța. Din punct de vedere geografic, localitatea este marcată de poziția sa între gura de vărsare a Noului Rin la vest și Bregenzerach la est. Această locație lângă apă a influențat decisiv dezvoltarea localității Hard, de la pescuit până la industria modernă. Istoria locului datează din secolul al XIII-lea, industrializarea în secolul al XIX-lea aducând un mare avânt prin industria textilă, în special prin firma Samuel Schindler. Mărturii ale acestei ere se găsesc și astăzi în imaginea orașului, cum ar fi muzeul de imprimare textilă Mittelweiherburg. Astăzi, Hard este o locație economică modernă, cu rădăcini puternice în construcția de bărci și prelucrarea metalelor. Pentru iubitorii de natură, Delta Rinului adiacentă, una dintre cele mai importante zone de protecție a păsărilor din Europa Centrală, oferă oportunități unice de observare. Malul lacului din Hard, cu parcurile sale întinse, ștrandul și portul, este o zonă populară de recreere pentru întreaga regiune. Din punct de vedere cultural, comuna este marcată de evenimente desfășurate în centrul Spannrahmen și de o viață asociativă activă, care consolidează structura socială.", "en": "Hard is a significant market town in the Austrian state of Vorarlberg, located directly on the southern shore of Lake Constance. Geographically, the town is shaped by its position between the mouth of the New Rhine to the west and the Bregenzerach to the east. This waterside location has significantly influenced the development of Hard, from fishing to modern industry. The history of the town dates back to the 13th century, with industrialization in the 19th century bringing a great upswing through the textile industry, particularly through the Samuel Schindler company. Witnesses of this era can still be found in the cityscape, such as in the Mittelweiherburg textile printing museum. Today, Hard is a modern economic location with strong roots in boat building and metal processing. For nature lovers, the adjacent Rhine Delta, one of Central Europe's most important bird sanctuaries, offers unique observation opportunities. The Hard lakeshore with its extensive parks, the lido, and the harbor is a popular local recreation area for the entire region. Culturally, the community is characterized by events at the Spannrahmen center and active club life, which strengthens the social structure."}, "factsAdvanced": {"de": ["Erste Erwähnung im Jahr 1249", "Lage auf 399 Metern Höhe", "Sitz des Textildruckmuseums", "Naturpark Rheindelta angrenzend", "Größte Gemeinde am Vorarlberger Bodensee", "Bekannt für traditionellen Bootsbau"], "hu": ["Első említés 1249-ben", "399 méteres tengerszint feletti magasság", "A textilnyomda-múzeum székhelye", "Határos a Rajna-delta natúrparkkal", "A legnagyobb település a vorarlbergi Boden-tó partján", "A hagyományos hajóépítésről ismert"], "ro": ["Prima mențiune în anul 1249", "Altitudine de 399 metri", "Sediul Muzeului de Imprimare Textilă", "Se învecinează cu Parcul Natural Delta Rinului", "Cea mai mare comună de pe malul lacului Constanța în Vorarlberg", "Cunoscut pentru construcția tradițională de bărci"], "en": ["First mentioned in the year 1249", "Elevation of 399 meters", "Home to the textile printing museum", "Borders the Rhine Delta nature park", "Largest community on the Vorarlberg side of Lake Constance", "Known for traditional boat building"]}, "faq": {"de": [{"q": "Wo liegt Hard genau?", "a": "Hard liegt in Vorarlberg, direkt am Bodensee zwischen Bregenz und der Schweizer Grenze."}, {"q": "Was ist das Rheindelta?", "a": "Ein großes Naturschutzgebiet an der Mündung des Rheins in den Bodensee bei Hard."}, {"q": "Gibt es Museen in Hard?", "a": "Ja, das Textildruckmuseum in der Mittelweiherburg ist sehr sehenswert."}, {"q": "Kann man in Hard baden?", "a": "Ja, das Harder Strandbad ist eines der größten und beliebtesten am See."}], "hu": [{"q": "Hol fekszik pontosan Hard?", "a": "Hard Vorarlbergben található, közvetlenül a Boden-tó partján, Bregenz és a svájci határ között."}, {"q": "Mi az a Rajna-delta?", "a": "Egy nagy természetvédelmi terület a Rajna Boden-tavi torkolatánál, Hard közelében."}, {"q": "Vannak múzeumok Hardban?", "a": "Igen, a Mittelweiherburgban található textilnyomda-múzeum nagyon érdekes."}, {"q": "Lehet fürödni Hardban?", "a": "Igen, a hardi strand az egyik legnagyobb és legnépszerűbb a tónál."}], "ro": [{"q": "Unde se află mai exact Hard?", "a": "Hard este situat în Vorarlberg, direct pe malul lacului Constanța, între Bregenz și granița cu Elveția."}, {"q": "Ce este Delta Rinului?", "a": "O mare rezervație naturală la vărsarea Rinului în lacul Constanța, lângă Hard."}, {"q": "Există muzee în Hard?", "a": "Da, Muzeul de Imprimare Textilă din Mittelweiherburg merită vizitat."}, {"q": "Se poate înota în Hard?", "a": "Da, ștrandul din Hard este unul dintre cele mai mari și populare de pe lac."}], "en": [{"q": "Where exactly is Hard located?", "a": "Hard is located in Vorarlberg, directly on Lake Constance between Bregenz and the Swiss border."}, {"q": "What is the Rhine Delta?", "a": "A large nature reserve at the mouth of the Rhine into Lake Constance near Hard."}, {"q": "Are there museums in Hard?", "a": "Yes, the textile printing museum in Mittelweiherburg is very much worth seeing."}, {"q": "Can you swim in Hard?", "a": "Yes, the Hard lido is one of the largest and most popular on the lake."}]}},
+  {"id": "at-hard", "sights": {
+      "de": [
+            {
+                  "name": "Burgruine Fussach",
+                  "text": "Die Überreste einer historischen Befestigung in der Nähe von Hard am Bodensee.",
+                  "category": "castle",
+                  "coords": [
+                        9.66394,
+                        47.48077
+                  ]
+            },
+            {
+                  "name": "Textildruckmuseum Mittelweiherburg",
+                  "text": "Ein Museum für Textildruck, das in einem historischen Wasserschloss in Hard untergebracht ist.",
+                  "category": "castle",
+                  "coords": [
+                        9.70376,
+                        47.482136
+                  ]
+            },
+            {
+                  "name": "Rheindelta",
+                  "text": "Ein bedeutendes Naturschutzgebiet am Bodensee, das das Mündungsgebiet des Rheins umfasst.",
+                  "category": "natural",
+                  "coords": [
+                        9.618689,
+                        47.503284
+                  ]
+            },
+            {
+                  "name": "Naturschutzgebiet Mehrerauer Seeufer – Bregenzerachmündung",
+                  "text": "Ein Schutzgebiet am Seeufer bei Hard, das für seine reiche Flora und Fauna bekannt ist.",
+                  "category": "natural",
+                  "coords": [
+                        9.70601,
+                        47.500601
+                  ]
+            },
+            {
+                  "name": "Strandbad Hard",
+                  "text": "Ein beliebtes öffentliches Bad in Hard mit Zugang zum Bodensee.",
+                  "category": "family",
+                  "coords": [
+                        9.686003,
+                        47.497861
+                  ]
+            },
+            {
+                  "name": "Feuerwehr-Oldtimer-Museum",
+                  "text": "Ein Museum in Hard, das historische Feuerwehrfahrzeuge und Ausrüstung zeigt.",
+                  "category": "museum",
+                  "coords": [
+                        9.69103,
+                        47.479594
+                  ]
+            },
+            {
+                  "name": "Oldtimermuseum",
+                  "text": "Eine Sammlung klassischer Fahrzeuge und technischer Raritäten in Hard.",
+                  "category": "museum",
+                  "coords": [
+                        9.676182,
+                        47.478685
+                  ]
+            },
+            {
+                  "name": "Hörnle",
+                  "text": "Ein Strandabschnitt in Hard, der gerne zum Entspannen am Wasser genutzt wird.",
+                  "category": "recreational",
+                  "coords": [
+                        9.656372,
+                        47.491581
+                  ]
+            },
+            {
+                  "name": "Wocherhafen",
+                  "text": "Eine kleine Bucht oder ein Hafenbereich in Hard am Bodensee.",
+                  "category": "landmark",
+                  "coords": [
+                        9.701314,
+                        47.506709
+                  ]
+            },
+            {
+                  "name": "Schoeller Spinning Group und Kulturwerkstatt Kammgarn",
+                  "text": "Ein Kulturzentrum in Hard, das in einer ehemaligen Spinnerei untergebracht ist.",
+                  "category": "cultural",
+                  "coords": [
+                        9.693089,
+                        47.497925
+                  ]
+            },
+            {
+                  "name": "Rad-Dampfschiff Hohentwiel",
+                  "text": "Ein historischer Schaufelraddampfer, der als schwimmendes Denkmal auf dem Bodensee verkehrt.",
+                  "category": "landmark",
+                  "coords": [
+                        9.688634,
+                        47.498942
+                  ]
+            },
+            {
+                  "name": "Grüner Damm",
+                  "text": "Ein Dammweg in Hard, der weite Ausblicke über den Bodensee bietet.",
+                  "category": "natural",
+                  "coords": [
+                        9.684804,
+                        47.501893
+                  ]
+            },
+            {
+                  "name": "Thaler Areal",
+                  "text": "Ein Veranstaltungs- und Kunstgelände in Hard mit industriellem Flair.",
+                  "category": "cultural",
+                  "coords": [
+                        9.688453,
+                        47.494774
+                  ]
+            },
+            {
+                  "name": "Galerie Maximilian Hutz",
+                  "text": "Eine Kunstgalerie in Hard, die zeitgenössische Werke präsentiert.",
+                  "category": "museum",
+                  "coords": [
+                        9.694092,
+                        47.486568
+                  ]
+            },
+            {
+                  "name": "FKK Strand Hard",
+                  "text": "Am österreichischen Ufer des Bodensees gelegen, bietet der FKK-Strand Hard eine ausgewiesene Zone für Naturismus. Die friedliche Atmosphäre zieht Besucher an, die hüllenloses Sonnenbaden und Schwimmen in einem geschützten Rahmen schätzen. Das klare Seewasser und die entspannte Umgebung machen den Aufenthalt besonders erholsam. Um die Ruhe in vollen Zügen zu genießen, lohnt sich ein Besuch außerhalb der Wochenenden.",
+                  "category": "recreational",
+                  "coords": [
+                        9.664829,
+                        47.49374
+                  ]
+            },
+            {
+                  "name": "St. Sebastian",
+                  "text": "Die katholische Pfarrkirche St. Sebastian ist ein bedeutendes Sakralbauwerk in Hard am Bodensee.",
+                  "category": "religious",
+                  "coords": [
+                        9.688385,
+                        47.491666
+                  ]
+            },
+            {
+                  "name": "Hl. Nikolaus",
+                  "text": "Die dem heiligen Nikolaus geweihte Pfarrkirche ist ein zentraler Ort der Andacht in der Gemeinde.",
+                  "category": "religious",
+                  "coords": [
+                        9.663358,
+                        47.479839
+                  ]
+            },
+            {
+                  "name": "St. Gebhard Kirche",
+                  "text": "Die St. Gebhard Kirche ist ein sakraler Ort in Hard, der dem Gedenken des heiligen Gebhard gewidmet ist.",
+                  "category": "religious",
+                  "coords": [
+                        9.716251,
+                        47.493061
+                  ]
+            },
+            {
+                  "name": "Damm Wocherhafen",
+                  "text": "Der Damm am Wocherhafen ist ein beliebter Ort zum Baden und Erholen am Ufer des Bodensees.",
+                  "category": "landmark",
+                  "coords": [
+                        9.699772,
+                        47.506903
+                  ]
+            },
+            {
+                  "name": "Möckle Weiher",
+                  "text": "Der Möckle Weiher in Hard ist ein malerischer See, der zum Spazierengehen und Entspannen einlädt.",
+                  "category": "natural",
+                  "coords": [
+                        9.716245,
+                        47.443666
+                  ]
+            },
+            {
+                  "name": "Schleienloch",
+                  "text": "Das Schleienloch ist ein See in Hard, der eine ruhige Umgebung für Naturspaziergänge bietet.",
+                  "category": "natural",
+                  "coords": [
+                        9.673412,
+                        47.495179
+                  ]
+            },
+            {
+                  "name": "Naturbad Bruggerloch",
+                  "text": "Das Naturbad Bruggerloch in Hard ist ein Natursee, der zum Baden und zur Erholung genutzt wird.",
+                  "category": "natural",
+                  "coords": [
+                        9.657915,
+                        47.453426
+                  ]
+            },
+            {
+                  "name": "Bregenzer Sporthafen",
+                  "text": "Der Bregenzer Sporthafen in Hard ist ein Bereich am See mit schöner Aussicht auf das Wasser.",
+                  "category": "natural",
+                  "coords": [
+                        9.726728,
+                        47.506655
+                  ]
+            },
+            {
+                  "name": "Fischerhafen",
+                  "text": "Der Fischerhafen ist ein Seebereich in Hard, der eine ruhige Atmosphäre am Wasser bietet.",
+                  "category": "natural",
+                  "coords": [
+                        9.730063,
+                        47.506252
+                  ]
+            },
+            {
+                  "name": "Bodensee",
+                  "text": "Der Bodensee bei Hard ist ein großer See, der sich ideal für malerische Spaziergänge und Wasseraktivitäten eignet.",
+                  "category": "natural",
+                  "coords": [
+                        9.30627,
+                        47.647787
+                  ]
+            },
+            {
+                  "name": "Auhafenteich",
+                  "text": "Der Auhafenteich in Hard ist ein ruhiger See, der sich für entspannte Spaziergänge in der Natur eignet.",
+                  "category": "natural",
+                  "coords": [
+                        9.689407,
+                        47.502258
+                  ]
+            },
+            {
+                  "name": "Spielplatz Lehenweg",
+                  "text": "Der Spielplatz Lehenweg in Hard ist ein familienfreundlicher Spielplatz für Kinder.",
+                  "category": "family",
+                  "coords": [
+                        9.72064,
+                        47.495127
+                  ]
+            },
+            {
+                  "name": "Waldspielplatz Kischaru",
+                  "text": "Der Waldspielplatz Kischaru in Hard ist ein Waldspielplatz, ideal für einen Familienausflug ins Freie.",
+                  "category": "family",
+                  "coords": [
+                        9.696343,
+                        47.496383
+                  ]
+            },
+            {
+                  "name": "Spielplatz Rheintalsiedlung",
+                  "text": "Der Spielplatz Rheintalsiedlung in Hard bietet eine sichere und unterhaltsame Umgebung für Kinder zum Spielen.",
+                  "category": "family",
+                  "coords": [
+                        9.687329,
+                        47.480519
+                  ]
+            },
+            {
+                  "name": "Schach",
+                  "text": "Schach in Hard ist ein öffentlicher Bereich, in dem Familien Spiele im Freien genießen können.",
+                  "category": "family",
+                  "coords": [
+                        9.688105,
+                        47.492661
+                  ]
+            },
+            {
+                  "name": "Spielplatz Mittriedstraße",
+                  "text": "Dieser Spielplatz in der Mittriedstraße in Hard ist ein toller Ort für Kinder, um aktiv zu sein.",
+                  "category": "family",
+                  "coords": [
+                        9.693045,
+                        47.485968
+                  ]
+            },
+            {
+                  "name": "Spielplatz Kaisermannstraße",
+                  "text": "Der Spielplatz Kaisermannstraße in Hard bietet verschiedene Spielgeräte für Familien vor Ort.",
+                  "category": "family",
+                  "coords": [
+                        9.721494,
+                        47.488398
+                  ]
+            },
+            {
+                  "name": "Spielplatz am Margarethendamm",
+                  "text": "Der Spielplatz am Margarethendamm in Hard ist ein freundlicher Ort für Kinder, um die Zeit im Freien zu genießen.",
+                  "category": "family",
+                  "coords": [
+                        9.711769,
+                        47.486405
+                  ]
+            },
+            {
+                  "name": "Erlach-Spielplatz",
+                  "text": "Der Erlach-Spielplatz in Hard ist ein beliebtes Ziel für Familien mit Kindern.",
+                  "category": "family",
+                  "coords": [
+                        9.687033,
+                        47.476465
+                  ]
+            },
+            {
+                  "name": "Spielplatz Steinachstraße",
+                  "text": "Der Spielplatz Steinachstraße in Hard bietet einen angenehmen Spielbereich für Kinder in der Nachbarschaft.",
+                  "category": "family",
+                  "coords": [
+                        9.71395,
+                        47.492414
+                  ]
+            },
+            {
+                  "name": "Spielplatz Achgasse",
+                  "text": "Der Spielplatz Achgasse in Hard ist ein schöner Ort für Kinder zum Spielen und Kontakteknüpfen.",
+                  "category": "family",
+                  "coords": [
+                        9.714711,
+                        47.493631
+                  ]
+            },
+            {
+                  "name": "Spielplatz Strabonstraße",
+                  "text": "Der Spielplatz Strabonstraße in Hard bietet einen unterhaltsamen Außenbereich für Aktivitäten von Kindern.",
+                  "category": "family",
+                  "coords": [
+                        9.720643,
+                        47.491463
+                  ]
+            },
+            {
+                  "name": "Strandbad Hard (FKK)",
+                  "text": "Das FKK-Strandbad in Hard bietet einen Bereich für hüllenloses Badevergnügen am Bodensee.",
+                  "category": "family",
+                  "coords": [
+                        9.667619,
+                        47.492199
+                  ]
+            },
+            {
+                  "name": "Kinderpool",
+                  "text": "Der Kinderpool in Hard bietet sicheren Wasserspaß für die kleinsten Besucher.",
+                  "category": "family",
+                  "coords": [
+                        9.686401,
+                        47.495994
+                  ]
+            },
+            {
+                  "name": "Yachthafen Bregenz",
+                  "text": "Der Yachthafen Bregenz bei Hard lädt mit seinem Seezugang zum Schwimmen und Verweilen ein.",
+                  "category": "family",
+                  "coords": [
+                        9.716818,
+                        47.507083
+                  ]
+            },
+            {
+                  "name": "Seecamping",
+                  "text": "Das Seecamping in Hard bietet einen Zugang zum Bodensee für Campinggäste und Besucher.",
+                  "category": "family",
+                  "coords": [
+                        9.713577,
+                        47.506819
+                  ]
+            },
+            {
+                  "name": "Lauteracher Ried",
+                  "text": "Ein wichtiges Naturschutzgebiet in Hard, das seltene Pflanzen und Vögel beheimatet.",
+                  "category": "natural",
+                  "coords": [
+                        9.699412,
+                        47.462733
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Burgruine Fussach",
+                  "text": "Történelmi erődítmény romjai Hard közelében, a Bódeni-tónál.",
+                  "category": "castle",
+                  "coords": [
+                        9.66394,
+                        47.48077
+                  ]
+            },
+            {
+                  "name": "Textildruckmuseum Mittelweiherburg",
+                  "text": "Hard történelmi vízikastélyában berendezett textilnyomó múzeum.",
+                  "category": "castle",
+                  "coords": [
+                        9.70376,
+                        47.482136
+                  ]
+            },
+            {
+                  "name": "Rheindelta",
+                  "text": "Fontos természetvédelmi terület a Bódeni-tónál, a Rajna torkolatvidékén.",
+                  "category": "natural",
+                  "coords": [
+                        9.618689,
+                        47.503284
+                  ]
+            },
+            {
+                  "name": "Naturschutzgebiet Mehrerauer Seeufer – Bregenzerachmündung",
+                  "text": "Természetvédelmi terület Hardnál, amely gazdag növény- és állatvilágáról nevezetes.",
+                  "category": "natural",
+                  "coords": [
+                        9.70601,
+                        47.500601
+                  ]
+            },
+            {
+                  "name": "Strandbad Hard",
+                  "text": "Hard népszerű strandfürdője közvetlen kijárattal a Bódeni-tóhoz.",
+                  "category": "family",
+                  "coords": [
+                        9.686003,
+                        47.497861
+                  ]
+            },
+            {
+                  "name": "Feuerwehr-Oldtimer-Museum",
+                  "text": "Hardi múzeum, amely régi tűzoltóautókat és felszereléseket mutat be.",
+                  "category": "museum",
+                  "coords": [
+                        9.69103,
+                        47.479594
+                  ]
+            },
+            {
+                  "name": "Oldtimermuseum",
+                  "text": "Veterán autók és technikai ritkaságok gyűjteménye Hard városában.",
+                  "category": "museum",
+                  "coords": [
+                        9.676182,
+                        47.478685
+                  ]
+            },
+            {
+                  "name": "Hörnle",
+                  "text": "Hard egyik vízparti szakasza, amely kedvelt pihenőhely.",
+                  "category": "recreational",
+                  "coords": [
+                        9.656372,
+                        47.491581
+                  ]
+            },
+            {
+                  "name": "Wocherhafen",
+                  "text": "Kisebb öböl vagy kikötőhely Hardnál, a Bódeni-tó partján.",
+                  "category": "landmark",
+                  "coords": [
+                        9.701314,
+                        47.506709
+                  ]
+            },
+            {
+                  "name": "Schoeller Spinning Group und Kulturwerkstatt Kammgarn",
+                  "text": "Hardi kulturális központ, amely egy egykori fonodában kapott helyet.",
+                  "category": "cultural",
+                  "coords": [
+                        9.693089,
+                        47.497925
+                  ]
+            },
+            {
+                  "name": "Rad-Dampfschiff Hohentwiel",
+                  "text": "Történelmi lapátkerekes gőzhajó, amely a Bódeni-tó egyik fő látványossága.",
+                  "category": "landmark",
+                  "coords": [
+                        9.688634,
+                        47.498942
+                  ]
+            },
+            {
+                  "name": "Grüner Damm",
+                  "text": "Gátút Hardnál, ahonnan tágas kilátás nyílik a Bódeni-tóra.",
+                  "category": "natural",
+                  "coords": [
+                        9.684804,
+                        47.501893
+                  ]
+            },
+            {
+                  "name": "Thaler Areal",
+                  "text": "Ipari hangulatú rendezvény- és művészeti helyszín Hard városában.",
+                  "category": "cultural",
+                  "coords": [
+                        9.688453,
+                        47.494774
+                  ]
+            },
+            {
+                  "name": "Galerie Maximilian Hutz",
+                  "text": "Kortárs műalkotásokat bemutató művészeti galéria Hardban.",
+                  "category": "museum",
+                  "coords": [
+                        9.694092,
+                        47.486568
+                  ]
+            },
+            {
+                  "name": "FKK Strand Hard",
+                  "text": "A Boden-tó osztrák partján fekvő FKK-Strand Hard kijelölt területet biztosít a naturizmus kedvelőinek. A békés légkör vonzza a látogatókat, akik értékelik a védett környezetben történő meztelen napozást és úszást. A tiszta tóvíz és a nyugodt környezet különösen pihentetővé teszi az ittlétet. Ha a nyugalmat a maga teljességében szeretné élvezni, érdemes hétköznapokon látogatni a strandot.",
+                  "category": "recreational",
+                  "coords": [
+                        9.664829,
+                        47.49374
+                  ]
+            },
+            {
+                  "name": "St. Sebastian",
+                  "text": "A Szent Sebestyén-plébániatemplom Hard jelentős katolikus hitéleti központja a Bodeni-tónál.",
+                  "category": "religious",
+                  "coords": [
+                        9.688385,
+                        47.491666
+                  ]
+            },
+            {
+                  "name": "Hl. Nikolaus",
+                  "text": "A Szent Miklósnak szentelt plébániatemplom a közösség központi hitéleti helyszíne.",
+                  "category": "religious",
+                  "coords": [
+                        9.663358,
+                        47.479839
+                  ]
+            },
+            {
+                  "name": "St. Gebhard Kirche",
+                  "text": "A Szent Gebhárd-templom egy vallási helyszín Hardban, amelyet a szent emlékének szenteltek.",
+                  "category": "religious",
+                  "coords": [
+                        9.716251,
+                        47.493061
+                  ]
+            },
+            {
+                  "name": "Damm Wocherhafen",
+                  "text": "A Wocherhafen gátja népszerű fürdőző- és pihenőhely a Bodeni-tó partján.",
+                  "category": "landmark",
+                  "coords": [
+                        9.699772,
+                        47.506903
+                  ]
+            },
+            {
+                  "name": "Möckle Weiher",
+                  "text": "A Hard településen található Möckle Weiher egy festői tó, amely ideális sétákhoz és kikapcsolódáshoz.",
+                  "category": "natural",
+                  "coords": [
+                        9.716245,
+                        47.443666
+                  ]
+            },
+            {
+                  "name": "Schleienloch",
+                  "text": "A Hardban fekvő Schleienloch egy tó, amely nyugodt környezetet biztosít a természetjáráshoz.",
+                  "category": "natural",
+                  "coords": [
+                        9.673412,
+                        47.495179
+                  ]
+            },
+            {
+                  "name": "Naturbad Bruggerloch",
+                  "text": "A Hardban található Naturbad Bruggerloch egy természetes tó, amely fürdésre és kikapcsolódásra alkalmas.",
+                  "category": "natural",
+                  "coords": [
+                        9.657915,
+                        47.453426
+                  ]
+            },
+            {
+                  "name": "Bregenzer Sporthafen",
+                  "text": "A Hardban található Bregenzer Sporthafen egy tóparti terület, szép kilátással a vízre.",
+                  "category": "natural",
+                  "coords": [
+                        9.726728,
+                        47.506655
+                  ]
+            },
+            {
+                  "name": "Fischerhafen",
+                  "text": "A Hardban található Fischerhafen egy tóparti terület, amely nyugodt hangulatot áraszt a víz mellett.",
+                  "category": "natural",
+                  "coords": [
+                        9.730063,
+                        47.506252
+                  ]
+            },
+            {
+                  "name": "Bodensee",
+                  "text": "A Hardnál található Bodeni-tó egy hatalmas tó, amely tökéletes látványos sétákhoz és vízi tevékenységekhez.",
+                  "category": "natural",
+                  "coords": [
+                        9.30627,
+                        47.647787
+                  ]
+            },
+            {
+                  "name": "Auhafenteich",
+                  "text": "A Hardban található Auhafenteich egy csendes tó, amely alkalmas pihentető erdei sétákhoz.",
+                  "category": "natural",
+                  "coords": [
+                        9.689407,
+                        47.502258
+                  ]
+            },
+            {
+                  "name": "Spielplatz Lehenweg",
+                  "text": "A Hardban található Spielplatz Lehenweg egy családbarát játszótér a gyermekek számára.",
+                  "category": "family",
+                  "coords": [
+                        9.72064,
+                        47.495127
+                  ]
+            },
+            {
+                  "name": "Waldspielplatz Kischaru",
+                  "text": "A Hardban található Waldspielplatz Kischaru egy erdei játszótér, amely tökéletes egy családi kiránduláshoz.",
+                  "category": "family",
+                  "coords": [
+                        9.696343,
+                        47.496383
+                  ]
+            },
+            {
+                  "name": "Spielplatz Rheintalsiedlung",
+                  "text": "A Hardban található Spielplatz Rheintalsiedlung biztonságos és szórakoztató környezetet biztosít a gyerekeknek a játékhoz.",
+                  "category": "family",
+                  "coords": [
+                        9.687329,
+                        47.480519
+                  ]
+            },
+            {
+                  "name": "Schach",
+                  "text": "A Hardban található Schach egy nyilvános terület, ahol a családok szabadtéri játékokat élvezhetnek.",
+                  "category": "family",
+                  "coords": [
+                        9.688105,
+                        47.492661
+                  ]
+            },
+            {
+                  "name": "Spielplatz Mittriedstraße",
+                  "text": "Ez a Hardban, a Mittriedstraße-n található játszótér remek hely a gyerekeknek az aktív kikapcsolódásra.",
+                  "category": "family",
+                  "coords": [
+                        9.693045,
+                        47.485968
+                  ]
+            },
+            {
+                  "name": "Spielplatz Kaisermannstraße",
+                  "text": "A Hardban található Spielplatz Kaisermannstraße különféle játéklehetőségeket kínál a helyi családoknak.",
+                  "category": "family",
+                  "coords": [
+                        9.721494,
+                        47.488398
+                  ]
+            },
+            {
+                  "name": "Spielplatz am Margarethendamm",
+                  "text": "A Hardban, a Margarethendamm-nál található játszótér barátságos hely a gyerekeknek a szabadban való játékra.",
+                  "category": "family",
+                  "coords": [
+                        9.711769,
+                        47.486405
+                  ]
+            },
+            {
+                  "name": "Erlach-Spielplatz",
+                  "text": "A Hardban található Erlach-Spielplatz népszerű úti cél a kisgyermekes családok számára.",
+                  "category": "family",
+                  "coords": [
+                        9.687033,
+                        47.476465
+                  ]
+            },
+            {
+                  "name": "Spielplatz Steinachstraße",
+                  "text": "A Hardban található Spielplatz Steinachstraße kellemes játszóhelyet kínál a környékbeli gyerekeknek.",
+                  "category": "family",
+                  "coords": [
+                        9.71395,
+                        47.492414
+                  ]
+            },
+            {
+                  "name": "Spielplatz Achgasse",
+                  "text": "A Hardban található Achgasse játszótér remek hely a gyerekeknek a játékra és a barátkozásra.",
+                  "category": "family",
+                  "coords": [
+                        9.714711,
+                        47.493631
+                  ]
+            },
+            {
+                  "name": "Spielplatz Strabonstraße",
+                  "text": "A Hardban található Spielplatz Strabonstraße szórakoztató szabadtéri helyszínt biztosít a gyermekek tevékenységeihez.",
+                  "category": "family",
+                  "coords": [
+                        9.720643,
+                        47.491463
+                  ]
+            },
+            {
+                  "name": "Strandbad Hard (FKK)",
+                  "text": "A hardi FKK-strand a ruházat nélküli fürdőzés örömét kínálja a Bodeni-tónál.",
+                  "category": "family",
+                  "coords": [
+                        9.667619,
+                        47.492199
+                  ]
+            },
+            {
+                  "name": "Kinderpool",
+                  "text": "A hardi gyerekmedence biztonságos vízi szórakozást nyújt a legkisebb látogatóknak.",
+                  "category": "family",
+                  "coords": [
+                        9.686401,
+                        47.495994
+                  ]
+            },
+            {
+                  "name": "Yachthafen Bregenz",
+                  "text": "A Hard melletti bregenzi jachtkikötő tóparti hozzáférésével úszásra és pihenésre hívogat.",
+                  "category": "family",
+                  "coords": [
+                        9.716818,
+                        47.507083
+                  ]
+            },
+            {
+                  "name": "Seecamping",
+                  "text": "A hardi Seecamping hozzáférést biztosít a Bodeni-tóhoz a kempingezők és a látogatók számára.",
+                  "category": "family",
+                  "coords": [
+                        9.713577,
+                        47.506819
+                  ]
+            },
+            {
+                  "name": "Lauteracher Ried",
+                  "text": "Fontos természetvédelmi terület Hardban, ritka növények és madarak élőhelye.",
+                  "category": "natural",
+                  "coords": [
+                        9.699412,
+                        47.462733
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Burgruine Fussach",
+                  "text": "Ruinele unei fortificații istorice situate lângă Hard, pe malul lacului Constanța.",
+                  "category": "castle",
+                  "coords": [
+                        9.66394,
+                        47.48077
+                  ]
+            },
+            {
+                  "name": "Textildruckmuseum Mittelweiherburg",
+                  "text": "Un muzeu al imprimeriei textile situat într-un castel de apă istoric din Hard.",
+                  "category": "castle",
+                  "coords": [
+                        9.70376,
+                        47.482136
+                  ]
+            },
+            {
+                  "name": "Rheindelta",
+                  "text": "O rezervație naturală importantă la lacul Constanța, cuprinzând zona de vărsare a Rinului.",
+                  "category": "natural",
+                  "coords": [
+                        9.618689,
+                        47.503284
+                  ]
+            },
+            {
+                  "name": "Naturschutzgebiet Mehrerauer Seeufer – Bregenzerachmündung",
+                  "text": "O arie protejată pe malul lacului lângă Hard, cunoscută pentru flora și fauna sa diversă.",
+                  "category": "natural",
+                  "coords": [
+                        9.70601,
+                        47.500601
+                  ]
+            },
+            {
+                  "name": "Strandbad Hard",
+                  "text": "Un ștrand public popular în Hard, cu acces la lacul Constanța.",
+                  "category": "family",
+                  "coords": [
+                        9.686003,
+                        47.497861
+                  ]
+            },
+            {
+                  "name": "Feuerwehr-Oldtimer-Museum",
+                  "text": "Un muzeu din Hard care expune vehicule și echipamente istorice de pompieri.",
+                  "category": "museum",
+                  "coords": [
+                        9.69103,
+                        47.479594
+                  ]
+            },
+            {
+                  "name": "Oldtimermuseum",
+                  "text": "O colecție de vehicule clasice și rarități tehnice situată în Hard.",
+                  "category": "museum",
+                  "coords": [
+                        9.676182,
+                        47.478685
+                  ]
+            },
+            {
+                  "name": "Hörnle",
+                  "text": "O porțiune de plajă în Hard, utilizată pentru relaxare pe malul lacului.",
+                  "category": "recreational",
+                  "coords": [
+                        9.656372,
+                        47.491581
+                  ]
+            },
+            {
+                  "name": "Wocherhafen",
+                  "text": "Un mic golf sau zonă portuară în Hard, la lacul Constanța.",
+                  "category": "landmark",
+                  "coords": [
+                        9.701314,
+                        47.506709
+                  ]
+            },
+            {
+                  "name": "Schoeller Spinning Group und Kulturwerkstatt Kammgarn",
+                  "text": "Un centru cultural din Hard, găzduit într-o fostă filatură.",
+                  "category": "cultural",
+                  "coords": [
+                        9.693089,
+                        47.497925
+                  ]
+            },
+            {
+                  "name": "Rad-Dampfschiff Hohentwiel",
+                  "text": "Un vapor istoric cu roate, care funcționează ca monument plutitor pe lacul Constanța.",
+                  "category": "landmark",
+                  "coords": [
+                        9.688634,
+                        47.498942
+                  ]
+            },
+            {
+                  "name": "Grüner Damm",
+                  "text": "Un dig în Hard care oferă vederi largi asupra lacului Constanța.",
+                  "category": "natural",
+                  "coords": [
+                        9.684804,
+                        47.501893
+                  ]
+            },
+            {
+                  "name": "Thaler Areal",
+                  "text": "Un spațiu pentru evenimente și artă din Hard, cu un aer industrial.",
+                  "category": "cultural",
+                  "coords": [
+                        9.688453,
+                        47.494774
+                  ]
+            },
+            {
+                  "name": "Galerie Maximilian Hutz",
+                  "text": "O galerie de artă din Hard care prezintă lucrări contemporane.",
+                  "category": "museum",
+                  "coords": [
+                        9.694092,
+                        47.486568
+                  ]
+            },
+            {
+                  "name": "FKK Strand Hard",
+                  "text": "Situată pe malul austriac al Lacului Konstanz, plaja FKK Strand Hard oferă o zonă desemnatată pentru naturism. Atmosfera pașnică atrage vizitatorii care apreciază băile de soare fără haine și înotul într-un cadru protejat. Apa limpede a lacului și împrejurimile relaxate fac șederea deosebit de odihnitoare. Pentru a vă bucura din plin de liniște, o vizită în afara weekend-urilor este foarte recomandată.",
+                  "category": "recreational",
+                  "coords": [
+                        9.664829,
+                        47.49374
+                  ]
+            },
+            {
+                  "name": "St. Sebastian",
+                  "text": "Biserica parohială Sfântul Sebastian este un edificiu religios important din Hard, pe malul lacului Constance.",
+                  "category": "religious",
+                  "coords": [
+                        9.688385,
+                        47.491666
+                  ]
+            },
+            {
+                  "name": "Hl. Nikolaus",
+                  "text": "Biserica parohială dedicată Sfântului Nicolae este un loc central de rugăciune în comunitate.",
+                  "category": "religious",
+                  "coords": [
+                        9.663358,
+                        47.479839
+                  ]
+            },
+            {
+                  "name": "St. Gebhard Kirche",
+                  "text": "Biserica Sfântul Gebhard este un lăcaș de cult din Hard, dedicat memoriei sfântului Gebhard.",
+                  "category": "religious",
+                  "coords": [
+                        9.716251,
+                        47.493061
+                  ]
+            },
+            {
+                  "name": "Damm Wocherhafen",
+                  "text": "Digul de la Wocherhafen este un loc popular pentru scăldat și recreere pe malul lacului Constance.",
+                  "category": "landmark",
+                  "coords": [
+                        9.699772,
+                        47.506903
+                  ]
+            },
+            {
+                  "name": "Möckle Weiher",
+                  "text": "Möckle Weiher din Hard este un lac pitoresc, ideal pentru plimbări și relaxare.",
+                  "category": "natural",
+                  "coords": [
+                        9.716245,
+                        47.443666
+                  ]
+            },
+            {
+                  "name": "Schleienloch",
+                  "text": "Schleienloch este un lac din Hard care oferă un mediu liniștit pentru plimbări în natură.",
+                  "category": "natural",
+                  "coords": [
+                        9.673412,
+                        47.495179
+                  ]
+            },
+            {
+                  "name": "Naturbad Bruggerloch",
+                  "text": "Naturbad Bruggerloch din Hard este un lac natural utilizat pentru înot și recreere.",
+                  "category": "natural",
+                  "coords": [
+                        9.657915,
+                        47.453426
+                  ]
+            },
+            {
+                  "name": "Bregenzer Sporthafen",
+                  "text": "Bregenzer Sporthafen din Hard este o zonă de la malul lacului, cu vederi pitorești spre apă.",
+                  "category": "natural",
+                  "coords": [
+                        9.726728,
+                        47.506655
+                  ]
+            },
+            {
+                  "name": "Fischerhafen",
+                  "text": "Fischerhafen este o zonă de lac din Hard care oferă o atmosferă liniștită lângă apă.",
+                  "category": "natural",
+                  "coords": [
+                        9.730063,
+                        47.506252
+                  ]
+            },
+            {
+                  "name": "Bodensee",
+                  "text": "Lacul Constanța de lângă Hard este un lac mare, perfect pentru plimbări pitorești și activități acvatice.",
+                  "category": "natural",
+                  "coords": [
+                        9.30627,
+                        47.647787
+                  ]
+            },
+            {
+                  "name": "Auhafenteich",
+                  "text": "Auhafenteich din Hard este un lac liniștit, potrivit pentru plimbări relaxante în natură.",
+                  "category": "natural",
+                  "coords": [
+                        9.689407,
+                        47.502258
+                  ]
+            },
+            {
+                  "name": "Spielplatz Lehenweg",
+                  "text": "Spielplatz Lehenweg din Hard este un loc de joacă primitor pentru familii și copii.",
+                  "category": "family",
+                  "coords": [
+                        9.72064,
+                        47.495127
+                  ]
+            },
+            {
+                  "name": "Waldspielplatz Kischaru",
+                  "text": "Waldspielplatz Kischaru este un loc de joacă în pădure din Hard, perfect pentru o ieșire cu familia în aer liber.",
+                  "category": "family",
+                  "coords": [
+                        9.696343,
+                        47.496383
+                  ]
+            },
+            {
+                  "name": "Spielplatz Rheintalsiedlung",
+                  "text": "Spielplatz Rheintalsiedlung din Hard oferă un mediu sigur și distractiv pentru joaca copiilor.",
+                  "category": "family",
+                  "coords": [
+                        9.687329,
+                        47.480519
+                  ]
+            },
+            {
+                  "name": "Schach",
+                  "text": "Schach din Hard este o zonă publică unde familiile se pot bucura de jocuri în aer liber.",
+                  "category": "family",
+                  "coords": [
+                        9.688105,
+                        47.492661
+                  ]
+            },
+            {
+                  "name": "Spielplatz Mittriedstraße",
+                  "text": "Acest loc de joacă de pe Mittriedstraße din Hard este un loc minunat pentru copiii activi.",
+                  "category": "family",
+                  "coords": [
+                        9.693045,
+                        47.485968
+                  ]
+            },
+            {
+                  "name": "Spielplatz Kaisermannstraße",
+                  "text": "Spielplatz Kaisermannstraße din Hard oferă diverse structuri de joacă pentru familiile locale.",
+                  "category": "family",
+                  "coords": [
+                        9.721494,
+                        47.488398
+                  ]
+            },
+            {
+                  "name": "Spielplatz am Margarethendamm",
+                  "text": "Locul de joacă de la Margarethendamm din Hard este un loc prietenos pentru copii, unde se pot bucura de aer liber.",
+                  "category": "family",
+                  "coords": [
+                        9.711769,
+                        47.486405
+                  ]
+            },
+            {
+                  "name": "Erlach-Spielplatz",
+                  "text": "Erlach-Spielplatz din Hard este o destinație populară pentru familiile cu copii.",
+                  "category": "family",
+                  "coords": [
+                        9.687033,
+                        47.476465
+                  ]
+            },
+            {
+                  "name": "Spielplatz Steinachstraße",
+                  "text": "Spielplatz Steinachstraße din Hard oferă o zonă de joacă plăcută pentru copiii din cartier.",
+                  "category": "family",
+                  "coords": [
+                        9.71395,
+                        47.492414
+                  ]
+            },
+            {
+                  "name": "Spielplatz Achgasse",
+                  "text": "Locul de joacă Achgasse din Hard este un punct bun pentru copii, unde se pot juca și socializa.",
+                  "category": "family",
+                  "coords": [
+                        9.714711,
+                        47.493631
+                  ]
+            },
+            {
+                  "name": "Spielplatz Strabonstraße",
+                  "text": "Spielplatz Strabonstraße din Hard oferă un spațiu exterior distractiv pentru activitățile copiilor.",
+                  "category": "family",
+                  "coords": [
+                        9.720643,
+                        47.491463
+                  ]
+            },
+            {
+                  "name": "Strandbad Hard (FKK)",
+                  "text": "Ștrandul FKK din Hard oferă o zonă pentru nudiști pe malul lacului Constance.",
+                  "category": "family",
+                  "coords": [
+                        9.667619,
+                        47.492199
+                  ]
+            },
+            {
+                  "name": "Kinderpool",
+                  "text": "Piscina pentru copii din Hard oferă distracție sigură în apă pentru cei mai mici vizitatori.",
+                  "category": "family",
+                  "coords": [
+                        9.686401,
+                        47.495994
+                  ]
+            },
+            {
+                  "name": "Yachthafen Bregenz",
+                  "text": "Portul de iahturi Bregenz de lângă Hard invită la înot și relaxare cu accesul său la lac.",
+                  "category": "family",
+                  "coords": [
+                        9.716818,
+                        47.507083
+                  ]
+            },
+            {
+                  "name": "Seecamping",
+                  "text": "Seecamping din Hard oferă acces la lacul Constance pentru turiștii cu cortul și vizitatori.",
+                  "category": "family",
+                  "coords": [
+                        9.713577,
+                        47.506819
+                  ]
+            },
+            {
+                  "name": "Lauteracher Ried",
+                  "text": "O rezervație naturală importantă în Hard, care adăpostește plante și păsări rare.",
+                  "category": "natural",
+                  "coords": [
+                        9.699412,
+                        47.462733
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Burgruine Fussach",
+                  "text": "The remains of a historic fortification near Hard on Lake Constance.",
+                  "category": "castle",
+                  "coords": [
+                        9.66394,
+                        47.48077
+                  ]
+            },
+            {
+                  "name": "Textildruckmuseum Mittelweiherburg",
+                  "text": "A textile printing museum housed in a historic moated castle in Hard.",
+                  "category": "castle",
+                  "coords": [
+                        9.70376,
+                        47.482136
+                  ]
+            },
+            {
+                  "name": "Rheindelta",
+                  "text": "A major nature reserve on Lake Constance encompassing the Rhine River delta.",
+                  "category": "natural",
+                  "coords": [
+                        9.618689,
+                        47.503284
+                  ]
+            },
+            {
+                  "name": "Naturschutzgebiet Mehrerauer Seeufer – Bregenzerachmündung",
+                  "text": "A protected area on the lakeshore near Hard, known for its rich flora and fauna.",
+                  "category": "natural",
+                  "coords": [
+                        9.70601,
+                        47.500601
+                  ]
+            },
+            {
+                  "name": "Strandbad Hard",
+                  "text": "A popular public bathing facility in Hard with access to Lake Constance.",
+                  "category": "family",
+                  "coords": [
+                        9.686003,
+                        47.497861
+                  ]
+            },
+            {
+                  "name": "Feuerwehr-Oldtimer-Museum",
+                  "text": "A museum in Hard exhibiting historic fire engines and equipment.",
+                  "category": "museum",
+                  "coords": [
+                        9.69103,
+                        47.479594
+                  ]
+            },
+            {
+                  "name": "Oldtimermuseum",
+                  "text": "A collection of classic vehicles and technical rarities located in Hard.",
+                  "category": "museum",
+                  "coords": [
+                        9.676182,
+                        47.478685
+                  ]
+            },
+            {
+                  "name": "Hörnle",
+                  "text": "A beach area in Hard commonly used for relaxation by the water.",
+                  "category": "recreational",
+                  "coords": [
+                        9.656372,
+                        47.491581
+                  ]
+            },
+            {
+                  "name": "Wocherhafen",
+                  "text": "A small bay or harbour area in Hard on Lake Constance.",
+                  "category": "landmark",
+                  "coords": [
+                        9.701314,
+                        47.506709
+                  ]
+            },
+            {
+                  "name": "Schoeller Spinning Group und Kulturwerkstatt Kammgarn",
+                  "text": "A cultural centre in Hard housed in a former spinning mill.",
+                  "category": "cultural",
+                  "coords": [
+                        9.693089,
+                        47.497925
+                  ]
+            },
+            {
+                  "name": "Rad-Dampfschiff Hohentwiel",
+                  "text": "A historic paddle steamer operating as a floating monument on Lake Constance.",
+                  "category": "landmark",
+                  "coords": [
+                        9.688634,
+                        47.498942
+                  ]
+            },
+            {
+                  "name": "Grüner Damm",
+                  "text": "An embankment path in Hard offering wide views over Lake Constance.",
+                  "category": "natural",
+                  "coords": [
+                        9.684804,
+                        47.501893
+                  ]
+            },
+            {
+                  "name": "Thaler Areal",
+                  "text": "An event and arts space in Hard with an industrial flair.",
+                  "category": "cultural",
+                  "coords": [
+                        9.688453,
+                        47.494774
+                  ]
+            },
+            {
+                  "name": "Galerie Maximilian Hutz",
+                  "text": "An art gallery in Hard showcasing contemporary works.",
+                  "category": "museum",
+                  "coords": [
+                        9.694092,
+                        47.486568
+                  ]
+            },
+            {
+                  "name": "FKK Strand Hard",
+                  "text": "Situated on the Austrian shore of Lake Constance, FKK Strand Hard offers a designated zone for naturism. The peaceful atmosphere attracts visitors who appreciate nude sunbathing and swimming in a protected setting. The clear lake water and relaxed surroundings make the stay particularly restful. To fully enjoy the tranquility, a visit outside of the weekends is highly recommended.",
+                  "category": "recreational",
+                  "coords": [
+                        9.664829,
+                        47.49374
+                  ]
+            },
+            {
+                  "name": "St. Sebastian",
+                  "text": "The Catholic parish church of St. Sebastian is a significant religious landmark in Hard on Lake Constance.",
+                  "category": "religious",
+                  "coords": [
+                        9.688385,
+                        47.491666
+                  ]
+            },
+            {
+                  "name": "Hl. Nikolaus",
+                  "text": "The parish church dedicated to St. Nicholas is a central place of worship in the community.",
+                  "category": "religious",
+                  "coords": [
+                        9.663358,
+                        47.479839
+                  ]
+            },
+            {
+                  "name": "St. Gebhard Kirche",
+                  "text": "St. Gebhard Church is a sacred site in Hard dedicated to the memory of St. Gebhard.",
+                  "category": "religious",
+                  "coords": [
+                        9.716251,
+                        47.493061
+                  ]
+            },
+            {
+                  "name": "Damm Wocherhafen",
+                  "text": "The dam at Wocherhafen is a popular spot for swimming and relaxation on the shores of Lake Constance.",
+                  "category": "landmark",
+                  "coords": [
+                        9.699772,
+                        47.506903
+                  ]
+            },
+            {
+                  "name": "Möckle Weiher",
+                  "text": "The Möckle Weiher in Hard is a scenic lake suitable for walking and relaxation.",
+                  "category": "natural",
+                  "coords": [
+                        9.716245,
+                        47.443666
+                  ]
+            },
+            {
+                  "name": "Schleienloch",
+                  "text": "Schleienloch is a lake in Hard offering a peaceful environment for nature walks.",
+                  "category": "natural",
+                  "coords": [
+                        9.673412,
+                        47.495179
+                  ]
+            },
+            {
+                  "name": "Naturbad Bruggerloch",
+                  "text": "Naturbad Bruggerloch in Hard is a natural lake used for swimming and recreation.",
+                  "category": "natural",
+                  "coords": [
+                        9.657915,
+                        47.453426
+                  ]
+            },
+            {
+                  "name": "Bregenzer Sporthafen",
+                  "text": "Bregenzer Sporthafen in Hard is a lakeside area with scenic views of the water.",
+                  "category": "natural",
+                  "coords": [
+                        9.726728,
+                        47.506655
+                  ]
+            },
+            {
+                  "name": "Fischerhafen",
+                  "text": "Fischerhafen is a lake area in Hard offering a tranquil atmosphere by the water.",
+                  "category": "natural",
+                  "coords": [
+                        9.730063,
+                        47.506252
+                  ]
+            },
+            {
+                  "name": "Lake Constance",
+                  "text": "Lake Constance at Hard is a large lake perfect for scenic walks and water activities.",
+                  "category": "natural",
+                  "coords": [
+                        9.30627,
+                        47.647787
+                  ]
+            },
+            {
+                  "name": "Auhafenteich",
+                  "text": "Auhafenteich in Hard is a quiet lake suitable for relaxing walks in nature.",
+                  "category": "natural",
+                  "coords": [
+                        9.689407,
+                        47.502258
+                  ]
+            },
+            {
+                  "name": "Spielplatz Lehenweg",
+                  "text": "Spielplatz Lehenweg in Hard is a family-friendly playground for children to play.",
+                  "category": "family",
+                  "coords": [
+                        9.72064,
+                        47.495127
+                  ]
+            },
+            {
+                  "name": "Waldspielplatz Kischaru",
+                  "text": "Waldspielplatz Kischaru is a forest playground in Hard perfect for an outdoor family outing.",
+                  "category": "family",
+                  "coords": [
+                        9.696343,
+                        47.496383
+                  ]
+            },
+            {
+                  "name": "Spielplatz Rheintalsiedlung",
+                  "text": "Spielplatz Rheintalsiedlung in Hard provides a safe and fun environment for children to play.",
+                  "category": "family",
+                  "coords": [
+                        9.687329,
+                        47.480519
+                  ]
+            },
+            {
+                  "name": "Schach",
+                  "text": "Schach in Hard is a public area where families can enjoy outdoor games.",
+                  "category": "family",
+                  "coords": [
+                        9.688105,
+                        47.492661
+                  ]
+            },
+            {
+                  "name": "Spielplatz Mittriedstraße",
+                  "text": "This playground on Mittriedstraße in Hard is a great spot for children to be active.",
+                  "category": "family",
+                  "coords": [
+                        9.693045,
+                        47.485968
+                  ]
+            },
+            {
+                  "name": "Spielplatz Kaisermannstraße",
+                  "text": "Spielplatz Kaisermannstraße in Hard offers various play structures for local families.",
+                  "category": "family",
+                  "coords": [
+                        9.721494,
+                        47.488398
+                  ]
+            },
+            {
+                  "name": "Spielplatz am Margarethendamm",
+                  "text": "The playground at Margarethendamm in Hard is a friendly place for kids to enjoy the outdoors.",
+                  "category": "family",
+                  "coords": [
+                        9.711769,
+                        47.486405
+                  ]
+            },
+            {
+                  "name": "Erlach-Spielplatz",
+                  "text": "Erlach-Spielplatz in Hard is a popular destination for families with children.",
+                  "category": "family",
+                  "coords": [
+                        9.687033,
+                        47.476465
+                  ]
+            },
+            {
+                  "name": "Spielplatz Steinachstraße",
+                  "text": "Spielplatz Steinachstraße in Hard offers a pleasant play area for children in the neighborhood.",
+                  "category": "family",
+                  "coords": [
+                        9.71395,
+                        47.492414
+                  ]
+            },
+            {
+                  "name": "Spielplatz Achgasse",
+                  "text": "The Achgasse playground in Hard is a nice spot for kids to play and socialize.",
+                  "category": "family",
+                  "coords": [
+                        9.714711,
+                        47.493631
+                  ]
+            },
+            {
+                  "name": "Spielplatz Strabonstraße",
+                  "text": "Spielplatz Strabonstraße in Hard provides a fun outdoor space for children's activities.",
+                  "category": "family",
+                  "coords": [
+                        9.720643,
+                        47.491463
+                  ]
+            },
+            {
+                  "name": "Strandbad Hard (FKK)",
+                  "text": "The FKK beach in Hard offers an area for nudist bathing enjoyment on Lake Constance.",
+                  "category": "family",
+                  "coords": [
+                        9.667619,
+                        47.492199
+                  ]
+            },
+            {
+                  "name": "Kinderpool",
+                  "text": "The children's pool in Hard offers safe water fun for the smallest visitors.",
+                  "category": "family",
+                  "coords": [
+                        9.686401,
+                        47.495994
+                  ]
+            },
+            {
+                  "name": "Yachthafen Bregenz",
+                  "text": "The Bregenz Marina near Hard invites you to swim and linger with its lake access.",
+                  "category": "family",
+                  "coords": [
+                        9.716818,
+                        47.507083
+                  ]
+            },
+            {
+                  "name": "Seecamping",
+                  "text": "The Seecamping in Hard offers access to Lake Constance for campers and visitors.",
+                  "category": "family",
+                  "coords": [
+                        9.713577,
+                        47.506819
+                  ]
+            },
+            {
+                  "name": "Lauteracher Ried",
+                  "text": "An important nature reserve in Hard, home to rare plants and birds.",
+                  "category": "natural",
+                  "coords": [
+                        9.699412,
+                        47.462733
+                  ]
+            }
+      ]
+}, "type": "city", "parent": "AT-8", "coords": [9.6878, 47.4825], "population": 14460, "image": "/geo-images/austria/at-hard.webp", "name": {"de": "Hard", "hu": "Hard", "ro": "Hard", "en": "Hard"}, "description": {"de": "Hard liegt am österreichischen Bodenseeufer zwischen Rhein und Bregenzerach und ist bekannt für seine hohe Lebensqualität und Naturverbundenheit.", "hu": "A Boden-tó osztrák partján, a Rajna és a Bregenzerach között fekvő város, amely magas életminőségéről és természetközelségéről ismert.", "ro": "Hard este situat pe malul austriac al lacului Constanța (Bodensee), între Rin și Bregenzerach, fiind cunoscut pentru calitatea ridicată a vieții și legătura cu natura.", "en": "Hard is situated on the Austrian shores of Lake Constance between the Rhine and Bregenzerach, known for its high quality of life and natural beauty."}, "facts": {"de": ["Lage am Bodensee", "Mündung des Neuen Rheins", "Bedeutende Textilgeschichte", "Naturreservat Rheindelta"], "hu": ["A Boden-tó partján fekszik", "Az Új-Rajna torkolata", "Jelentős textilipari múlt", "Rajna-delta természetvédelmi terület"], "ro": ["Situat pe lacul Constanța", "Vărsarea noului Rin", "Istorie textilă importantă", "Rezervația naturală Delta Rinului"], "en": ["Located on Lake Constance", "Mouth of the New Rhine", "Significant textile history", "Rhine Delta nature reserve"]}, "descriptionAdvanced": {"de": "Hard ist eine bedeutende Marktgemeinde im österreichischen Bundesland Vorarlberg, direkt am Südufer des Bodensees gelegen. Geografisch ist der Ort durch seine Lage zwischen der Mündung des Neuen Rheins im Westen und der Bregenzerach im Osten geprägt. Diese Lage am Wasser hat die Entwicklung von Hard maßgeblich beeinflusst, von der Fischerei bis hin zur modernen Industrie. Die Geschichte des Ortes reicht bis ins 13. Jahrhundert zurück, wobei die Industrialisierung im 19. Jahrhundert durch die Textilindustrie, insbesondere durch die Firma Samuel Schindler, einen großen Aufschwung brachte. Zeugnisse dieser Ära finden sich noch heute im Stadtbild, wie etwa im Textildruckmuseum Mittelweiherburg. Heute ist Hard ein moderner Wirtschaftsstandort mit einer starken Verwurzelung im Bootsbau und der Metallverarbeitung. Für Naturliebhaber bietet das angrenzende Rheindelta, eines der bedeutendsten Vogelschutzgebiete Mitteleuropas, einzigartige Beobachtungsmöglichkeiten. Das Harder Seeufer mit seinen weitläufigen Parkanlagen, dem Strandbad und dem Hafen ist ein beliebtes Naherholungsgebiet für die gesamte Region. Kulturell ist die Gemeinde durch Veranstaltungen im Spannrahmen und ein reges Vereinsleben geprägt, was die soziale Struktur festigt.", "hu": "Hard egy jelentős mezőváros az osztrák Vorarlberg tartományban, közvetlenül a Boden-tó déli partján. Földrajzilag a települést az Új-Rajna nyugati torkolata és a keleten fekvő Bregenzerach közötti elhelyezkedése határozza meg. Ez a vízközeli fekvés döntően befolyásolta Hard fejlődését, a halászattól a modern iparig. A település története a 13. századig nyúlik vissza, az iparosodás a 19. században a textilipar révén – különösen a Samuel Schindler cég által – nagy fellendülést hozott. Ennek a korszaknak az emlékei ma is megtalálhatók a városképben, például a Mittelweiherburg textilnyomda-múzeumban. Ma Hard modern gazdasági helyszín, erős gyökerekkel a hajóépítésben és a fémfeldolgozásban. A természetkedvelők számára a szomszédos Rajna-delta, Közép-Európa egyik legjelentősebb madárvédelmi körzete nyújt egyedülálló megfigyelési lehetőségeket. A hardi tópart tágas parkjaival, strandjával és kikötőjével az egész régió kedvelt pihenőhelye. Kulturálisan a települést a Spannrahmenben tartott rendezvények és az élénk egyesületi élet jellemzi, ami megerősíti a társadalmi struktúrát.", "ro": "Hard este o comună importantă în statul federal austriac Vorarlberg, situată direct pe malul sudic al lacului Constanța. Din punct de vedere geografic, localitatea este marcată de poziția sa între gura de vărsare a Noului Rin la vest și Bregenzerach la est. Această locație lângă apă a influențat decisiv dezvoltarea localității Hard, de la pescuit până la industria modernă. Istoria locului datează din secolul al XIII-lea, industrializarea în secolul al XIX-lea aducând un mare avânt prin industria textilă, în special prin firma Samuel Schindler. Mărturii ale acestei ere se găsesc și astăzi în imaginea orașului, cum ar fi muzeul de imprimare textilă Mittelweiherburg. Astăzi, Hard este o locație economică modernă, cu rădăcini puternice în construcția de bărci și prelucrarea metalelor. Pentru iubitorii de natură, Delta Rinului adiacentă, una dintre cele mai importante zone de protecție a păsărilor din Europa Centrală, oferă oportunități unice de observare. Malul lacului din Hard, cu parcurile sale întinse, ștrandul și portul, este o zonă populară de recreere pentru întreaga regiune. Din punct de vedere cultural, comuna este marcată de evenimente desfășurate în centrul Spannrahmen și de o viață asociativă activă, care consolidează structura socială.", "en": "Hard is a significant market town in the Austrian state of Vorarlberg, located directly on the southern shore of Lake Constance. Geographically, the town is shaped by its position between the mouth of the New Rhine to the west and the Bregenzerach to the east. This waterside location has significantly influenced the development of Hard, from fishing to modern industry. The history of the town dates back to the 13th century, with industrialization in the 19th century bringing a great upswing through the textile industry, particularly through the Samuel Schindler company. Witnesses of this era can still be found in the cityscape, such as in the Mittelweiherburg textile printing museum. Today, Hard is a modern economic location with strong roots in boat building and metal processing. For nature lovers, the adjacent Rhine Delta, one of Central Europe's most important bird sanctuaries, offers unique observation opportunities. The Hard lakeshore with its extensive parks, the lido, and the harbor is a popular local recreation area for the entire region. Culturally, the community is characterized by events at the Spannrahmen center and active club life, which strengthens the social structure."}, "factsAdvanced": {"de": ["Erste Erwähnung im Jahr 1249", "Lage auf 399 Metern Höhe", "Sitz des Textildruckmuseums", "Naturpark Rheindelta angrenzend", "Größte Gemeinde am Vorarlberger Bodensee", "Bekannt für traditionellen Bootsbau"], "hu": ["Első említés 1249-ben", "399 méteres tengerszint feletti magasság", "A textilnyomda-múzeum székhelye", "Határos a Rajna-delta natúrparkkal", "A legnagyobb település a vorarlbergi Boden-tó partján", "A hagyományos hajóépítésről ismert"], "ro": ["Prima mențiune în anul 1249", "Altitudine de 399 metri", "Sediul Muzeului de Imprimare Textilă", "Se învecinează cu Parcul Natural Delta Rinului", "Cea mai mare comună de pe malul lacului Constanța în Vorarlberg", "Cunoscut pentru construcția tradițională de bărci"], "en": ["First mentioned in the year 1249", "Elevation of 399 meters", "Home to the textile printing museum", "Borders the Rhine Delta nature park", "Largest community on the Vorarlberg side of Lake Constance", "Known for traditional boat building"]}, "faq": {"de": [{"q": "Wo liegt Hard genau?", "a": "Hard liegt in Vorarlberg, direkt am Bodensee zwischen Bregenz und der Schweizer Grenze."}, {"q": "Was ist das Rheindelta?", "a": "Ein großes Naturschutzgebiet an der Mündung des Rheins in den Bodensee bei Hard."}, {"q": "Gibt es Museen in Hard?", "a": "Ja, das Textildruckmuseum in der Mittelweiherburg ist sehr sehenswert."}, {"q": "Kann man in Hard baden?", "a": "Ja, das Harder Strandbad ist eines der größten und beliebtesten am See."}], "hu": [{"q": "Hol fekszik pontosan Hard?", "a": "Hard Vorarlbergben található, közvetlenül a Boden-tó partján, Bregenz és a svájci határ között."}, {"q": "Mi az a Rajna-delta?", "a": "Egy nagy természetvédelmi terület a Rajna Boden-tavi torkolatánál, Hard közelében."}, {"q": "Vannak múzeumok Hardban?", "a": "Igen, a Mittelweiherburgban található textilnyomda-múzeum nagyon érdekes."}, {"q": "Lehet fürödni Hardban?", "a": "Igen, a hardi strand az egyik legnagyobb és legnépszerűbb a tónál."}], "ro": [{"q": "Unde se află mai exact Hard?", "a": "Hard este situat în Vorarlberg, direct pe malul lacului Constanța, între Bregenz și granița cu Elveția."}, {"q": "Ce este Delta Rinului?", "a": "O mare rezervație naturală la vărsarea Rinului în lacul Constanța, lângă Hard."}, {"q": "Există muzee în Hard?", "a": "Da, Muzeul de Imprimare Textilă din Mittelweiherburg merită vizitat."}, {"q": "Se poate înota în Hard?", "a": "Da, ștrandul din Hard este unul dintre cele mai mari și populare de pe lac."}], "en": [{"q": "Where exactly is Hard located?", "a": "Hard is located in Vorarlberg, directly on Lake Constance between Bregenz and the Swiss border."}, {"q": "What is the Rhine Delta?", "a": "A large nature reserve at the mouth of the Rhine into Lake Constance near Hard."}, {"q": "Are there museums in Hard?", "a": "Yes, the textile printing museum in Mittelweiherburg is very much worth seeing."}, {"q": "Can you swim in Hard?", "a": "Yes, the Hard lido is one of the largest and most popular on the lake."}]}},
   {"id": "at-marchtrenk", "sights": {
       "de": [
             {
@@ -7181,6 +9350,15 @@ export const poiExtraAtChMissingV1: POI[] = [
                         14.794965,
                         47.205515
                   ]
+            },
+            {
+                  "name": "Schloss Spielberg",
+                  "text": "Ein historischer Adelssitz in Spielberg bei Knittelfeld.",
+                  "category": "castle",
+                  "coords": [
+                        14.783672,
+                        47.215546
+                  ]
             }
       ],
       "hu": [
@@ -7290,6 +9468,15 @@ export const poiExtraAtChMissingV1: POI[] = [
                   "coords": [
                         14.794965,
                         47.205515
+                  ]
+            },
+            {
+                  "name": "Schloss Spielberg",
+                  "text": "Történelmi nemesi székhely Knittelfeld közelében, Spielbergben.",
+                  "category": "castle",
+                  "coords": [
+                        14.783672,
+                        47.215546
                   ]
             }
       ],
@@ -7401,6 +9588,15 @@ export const poiExtraAtChMissingV1: POI[] = [
                         14.794965,
                         47.205515
                   ]
+            },
+            {
+                  "name": "Schloss Spielberg",
+                  "text": "O reședință nobiliară istorică în Spielberg, lângă Knittelfeld.",
+                  "category": "castle",
+                  "coords": [
+                        14.783672,
+                        47.215546
+                  ]
             }
       ],
       "en": [
@@ -7510,6 +9706,15 @@ export const poiExtraAtChMissingV1: POI[] = [
                   "coords": [
                         14.794965,
                         47.205515
+                  ]
+            },
+            {
+                  "name": "Schloss Spielberg",
+                  "text": "A historic noble residence in Spielberg near Knittelfeld.",
+                  "category": "castle",
+                  "coords": [
+                        14.783672,
+                        47.215546
                   ]
             }
       ]
@@ -8650,6 +10855,15 @@ export const poiExtraAtChMissingV1: POI[] = [
                         14.425549,
                         46.789501
                   ]
+            },
+            {
+                  "name": "Schloss Weyer",
+                  "text": "Ein historisches Schloss in Sankt Veit an der Glan, bekannt für seine gut erhaltene Renaissance-Architektur.",
+                  "category": "castle",
+                  "coords": [
+                        14.373727,
+                        46.771003
+                  ]
             }
       ],
       "hu": [
@@ -8804,6 +11018,15 @@ export const poiExtraAtChMissingV1: POI[] = [
                   "coords": [
                         14.425549,
                         46.789501
+                  ]
+            },
+            {
+                  "name": "Schloss Weyer",
+                  "text": "Történelmi kastély Sankt Veit an der Glanban, amely jól megőrzött reneszánsz építészetéről ismert.",
+                  "category": "castle",
+                  "coords": [
+                        14.373727,
+                        46.771003
                   ]
             }
       ],
@@ -8960,6 +11183,15 @@ export const poiExtraAtChMissingV1: POI[] = [
                         14.425549,
                         46.789501
                   ]
+            },
+            {
+                  "name": "Schloss Weyer",
+                  "text": "Un castel istoric din Sankt Veit an der Glan, cunoscut pentru arhitectura sa renascentistă bine conservată.",
+                  "category": "castle",
+                  "coords": [
+                        14.373727,
+                        46.771003
+                  ]
             }
       ],
       "en": [
@@ -9114,6 +11346,15 @@ export const poiExtraAtChMissingV1: POI[] = [
                   "coords": [
                         14.425549,
                         46.789501
+                  ]
+            },
+            {
+                  "name": "Schloss Weyer",
+                  "text": "A historic castle in Sankt Veit an der Glan, known for its well-preserved Renaissance architecture.",
+                  "category": "castle",
+                  "coords": [
+                        14.373727,
+                        46.771003
                   ]
             }
       ]
@@ -12470,6 +14711,15 @@ export const poiExtraAtChMissingV1: POI[] = [
                         16.423075,
                         47.967001
                   ]
+            },
+            {
+                  "name": "Schloss Ebreichsdorf",
+                  "text": "Ein prächtiges Wasserschloss in Ebreichsdorf, umgeben von einem großen Park.",
+                  "category": "castle",
+                  "coords": [
+                        16.396818,
+                        47.962961
+                  ]
             }
       ],
       "hu": [
@@ -12561,6 +14811,15 @@ export const poiExtraAtChMissingV1: POI[] = [
                   "coords": [
                         16.423075,
                         47.967001
+                  ]
+            },
+            {
+                  "name": "Schloss Ebreichsdorf",
+                  "text": "Pompás vízi kastély Ebreichsdorfban, nagy parkkal körülvéve.",
+                  "category": "castle",
+                  "coords": [
+                        16.396818,
+                        47.962961
                   ]
             }
       ],
@@ -12654,6 +14913,15 @@ export const poiExtraAtChMissingV1: POI[] = [
                         16.423075,
                         47.967001
                   ]
+            },
+            {
+                  "name": "Schloss Ebreichsdorf",
+                  "text": "Un castel pe apă magnific în Ebreichsdorf, înconjurat de un parc mare.",
+                  "category": "castle",
+                  "coords": [
+                        16.396818,
+                        47.962961
+                  ]
             }
       ],
       "en": [
@@ -12745,6 +15013,15 @@ export const poiExtraAtChMissingV1: POI[] = [
                   "coords": [
                         16.423075,
                         47.967001
+                  ]
+            },
+            {
+                  "name": "Schloss Ebreichsdorf",
+                  "text": "A magnificent moated castle in Ebreichsdorf, surrounded by a large park.",
+                  "category": "castle",
+                  "coords": [
+                        16.396818,
+                        47.962961
                   ]
             }
       ]
@@ -12886,6 +15163,15 @@ export const poiExtraAtChMissingV1: POI[] = [
                         15.260283,
                         46.826989
                   ]
+            },
+            {
+                  "name": "Schloss Frauental",
+                  "text": "Ein Renaissanceschloss in Frauental an der Laßnitz bei Deutschlandsberg.",
+                  "category": "castle",
+                  "coords": [
+                        15.244396,
+                        46.813674
+                  ]
             }
       ],
       "hu": [
@@ -13022,6 +15308,15 @@ export const poiExtraAtChMissingV1: POI[] = [
                   "coords": [
                         15.260283,
                         46.826989
+                  ]
+            },
+            {
+                  "name": "Schloss Frauental",
+                  "text": "Reneszánsz kastély Frauental an der Laßnitz településen, Deutschlandsberg közelében.",
+                  "category": "castle",
+                  "coords": [
+                        15.244396,
+                        46.813674
                   ]
             }
       ],
@@ -13160,6 +15455,15 @@ export const poiExtraAtChMissingV1: POI[] = [
                         15.260283,
                         46.826989
                   ]
+            },
+            {
+                  "name": "Schloss Frauental",
+                  "text": "Un castel renascentist situat în Frauental an der Laßnitz, lângă Deutschlandsberg.",
+                  "category": "castle",
+                  "coords": [
+                        15.244396,
+                        46.813674
+                  ]
             }
       ],
       "en": [
@@ -13296,6 +15600,15 @@ export const poiExtraAtChMissingV1: POI[] = [
                   "coords": [
                         15.260283,
                         46.826989
+                  ]
+            },
+            {
+                  "name": "Schloss Frauental",
+                  "text": "A Renaissance castle situated in Frauental an der Laßnitz near Deutschlandsberg.",
+                  "category": "castle",
+                  "coords": [
+                        15.244396,
+                        46.813674
                   ]
             }
       ]
@@ -15284,7 +17597,160 @@ export const poiExtraAtChMissingV1: POI[] = [
             }
       ]
 }, "type": "city", "parent": "AT-3", "coords": [14.7733, 47.9617], "population": 11268, "image": "/geo-images/austria/at-waidhofen-an-der-ybbs.webp", "name": {"de": "Waidhofen an der Ybbs", "hu": "Waidhofen an der Ybbs", "ro": "Waidhofen an der Ybbs", "en": "Waidhofen an der Ybbs"}, "description": {"de": "Waidhofen an der Ybbs ist eine Statutarstadt im Mostviertel, bekannt für ihr mittelalterliches Stadtbild und ihre bedeutende Eisenverarbeitungstradition.", "hu": "Waidhofen an der Ybbs egy önálló tartományi város a Mostviertelben, amely középkori városképéről és vasfeldolgozó hagyományairól híres.", "ro": "Waidhofen an der Ybbs este un oraș statutar din regiunea Mostviertel, cunoscut pentru centrul său medieval și tradiția importantă în prelucrarea fierului.", "en": "Waidhofen an der Ybbs is a statutory city in the Mostviertel region, known for its medieval cityscape and significant iron processing tradition."}, "facts": {"de": ["Stadt der Türme", "Liegt am Fluss Ybbs", "Eisenwurzen-Region", "Schloss Rothschild"], "hu": ["A tornyok városa", "Az Ybbs folyó partján fekszik", "Eisenwurzen régió központja", "Rothschild-kastély"], "ro": ["Orașul turnurilor", "Situat pe râul Ybbs", "Regiunea Eisenwurzen", "Castelul Rothschild"], "en": ["City of Towers", "Located on the Ybbs River", "Eisenwurzen region", "Rothschild Castle"]}, "descriptionAdvanced": {"de": "Waidhofen an der Ybbs, gelegen im südwestlichen Niederösterreich, ist eine Stadt mit einer tief verwurzelten Geschichte in der Eisenindustrie. Als Zentrum der Eisenwurzen war sie über Jahrhunderte ein Knotenpunkt für den Handel mit Eisen vom steirischen Erzberg. Geografisch liegt die Stadt eingebettet in die Voralpen im Tal der Ybbs. Das historische Stadtzentrum ist von einer beeindruckenden Anzahl an Türmen geprägt, was Waidhofen den Beinamen Stadt der Türme einbrachte. Das Schloss Rothschild, das im 19. Jahrhundert von Albert Salomon Anselm von Rothschild im neugotischen Stil umgestaltet wurde, dominiert das Stadtbild und beherbergt heute moderne Veranstaltungsräume und das 5-Elemente-Museum. Die Architektur reicht von spätgotischen Bürgerhäusern am Oberen Stadtplatz bis zu modernen Glaselementen, die geschickt in die historische Substanz integriert wurden. Wirtschaftlich hat sich die Stadt von der Schwerindustrie hin zu spezialisierter Metallverarbeitung und Dienstleistungen entwickelt. Demografisch ist die Stadt ein stabiles Zentrum für die umliegenden Berggemeinden und bietet ein reiches kulturelles Leben sowie erstklassige Bildungseinrichtungen.", "hu": "Waidhofen an der Ybbs Alsó-Ausztria délnyugati részén fekszik, és mélyen gyökerező vasipari múlttal rendelkezik. Az Eisenwurzen központjaként évszázadokon át a stájer Erzbergből származó vas kereskedelmének csomópontja volt. Földrajzilag az Elő-Alpokban, az Ybbs folyó völgyében helyezkedik el. A történelmi városközpontot lenyűgöző számú torony jellemzi, amiért a várost a tornyok városának is nevezik. A Rothschild-kastély, amelyet a 19. században Albert Salomon Anselm von Rothschild neogótikus stílusban alakíttatott át, uralja a városképet, ma pedig modern rendezvényhelyszínnek és az 5-elem múzeumnak ad otthont. Az építészet a késő gótikus polgárházaktól a történelmi környezetbe illesztett modern üvegfelületekig terjed. Gazdaságilag a város a nehézipartól a speciális fémfeldolgozás és a szolgáltatások felé fordult. Demográfiailag stabil központ a környező hegyi közösségek számára, gazdag kulturális életet és kiváló oktatási intézményeket kínálva.", "ro": "Waidhofen an der Ybbs, situat în sud-vestul Austriei Inferioare, este un oraș cu o istorie profund înrădăcinată în industria fierului. Ca centru al regiunii Eisenwurzen, a fost timp de secole un nod comercial pentru fierul provenit de la muntele Erzberg din Stiria. Geografic, orașul este cuibărit în Alpii Calcaroși din valea râului Ybbs. Centrul istoric este marcat de un număr impresionant de turnuri, ceea ce i-a adus orașului supranumele de Orașul Turnurilor. Castelul Rothschild, reamenajat în secolul al 19-lea de Albert Salomon Anselm von Rothschild în stil neogotic, domină peisajul urban și găzduiește astăzi spații moderne pentru evenimente și Muzeul celor 5 Elemente. Arhitectura variază de la case cetățenești în stil gotic târziu în Piața Orașului de Sus, până la elemente moderne de sticlă integrate cu abilitate în substanța istorică. Economic, orașul a evoluat de la industria grea către prelucrarea specializată a metalelor și servicii. Demografic, orașul este un centru stabil pentru comunitățile montane din jur și oferă o viață culturală bogată și facilități educaționale de prim rang.", "en": "Waidhofen an der Ybbs, located in southwestern Lower Austria, is a city with a deep-rooted history in the iron industry. As the center of the Eisenwurzen, it was for centuries a hub for the iron trade from the Styrian Erzberg. Geographically, the town is nestled in the foothills of the Alps in the Ybbs valley. The historical town center is characterized by an impressive number of towers, which earned Waidhofen the nickname City of Towers. Rothschild Castle, which was remodeled in the Neo-Gothic style by Albert Salomon Anselm von Rothschild in the 19th century, dominates the cityscape and now houses modern event spaces and the 5 Elements Museum. The architecture ranges from late Gothic townhouses on the Upper Town Square to modern glass elements that have been cleverly integrated into the historical structure. Economically, the city has evolved from heavy industry to specialized metal processing and services. Demographically, the city is a stable center for the surrounding mountain communities and offers a rich cultural life and first-class educational facilities."}, "factsAdvanced": {"de": ["Besitzt den Status einer Statutarstadt", "Der Stadtturm ist 50 Meter hoch", "Zentrum der Eisenstraße Niederösterreich", "Sitz der Bene AG Büromöbel", "Gastgeber der NÖ Landesausstellung 2007", "Liegt am Ybbstalradweg"], "hu": ["Önálló tartományi városi ranggal rendelkezik", "A várostorony 50 méter magas", "Az alsó-ausztriai vasi út központja", "A Bene AG irodabútorgyár székhelye", "A 2007-es tartományi kiállítás házigazdája", "Az Ybbstal kerékpárút mentén fekszik"], "ro": ["Deține statutul de oraș statutar", "Turnul orașului are o înălțime de 50 de metri", "Centrul drumului fierului din Austria Inferioară", "Sediul companiei de mobilier de birou Bene AG", "Gazda expoziției provinciale din 2007", "Situat pe pista de biciclete Ybbstal"], "en": ["Has the status of a statutory city", "The town tower is 50 meters high", "Center of the Lower Austrian Iron Road", "Headquarters of Bene AG office furniture", "Host of the Lower Austrian State Exhibition 2007", "Located on the Ybbstal Cycle Path"]}, "faq": {"de": [{"q": "Warum heißt Waidhofen Stadt der Türme?", "a": "Weil das historische Zentrum von vielen Wehr- und Kirchtürmen geprägt ist."}, {"q": "Was kann man im Schloss Rothschild machen?", "a": "Man kann das Museum besuchen oder den verglasten Schlossturm besteigen."}, {"q": "Gibt es Naturaktivitäten in der Nähe?", "a": "Der Ybbstalradweg und der Buchenberg bieten tolle Outdoor-Möglichkeiten."}, {"q": "Ist Waidhofen mit dem Zug erreichbar?", "a": "Ja, über die Rudolfsbahn und die Citybahn Waidhofen."}], "hu": [{"q": "Miért hívják Waidhofent a tornyok városának?", "a": "Mert a történelmi központot számos védelmi és templomtorony díszíti."}, {"q": "Mit lehet csinálni a Rothschild-kastélyban?", "a": "Meglátogatható a múzeum vagy fel lehet menni az üvegezett kastélytoronyba."}, {"q": "Vannak természeti tevékenységek a közelben?", "a": "Az Ybbstal kerékpárút és a Buchenberg kiváló szabadtéri lehetőségeket kínál."}, {"q": "Elérhető Waidhofen vonattal?", "a": "Igen, a Rudolfsbahn és a Citybahn Waidhofen vonalain keresztül."}], "ro": [{"q": "De ce este numit Waidhofen Orașul Turnurilor?", "a": "Deoarece centrul istoric este marcat de numeroase turnuri de apărare și bisericești."}, {"q": "Ce se poate face la Castelul Rothschild?", "a": "Se poate vizita muzeul sau se poate urca în turnul de sticlă al castelului."}, {"q": "Există activități în natură în apropiere?", "a": "Pista de biciclete Ybbstal și muntele Buchenberg oferă opțiuni excelente în aer liber."}, {"q": "Este Waidhofen accesibil cu trenul?", "a": "Da, prin intermediul Rudolfsbahn și al Citybahn Waidhofen."}], "en": [{"q": "Why is Waidhofen called the City of Towers?", "a": "Because the historical center is characterized by many defensive and church towers."}, {"q": "What can you do at Rothschild Castle?", "a": "You can visit the museum or climb the glass-enclosed castle tower."}, {"q": "Are there nature activities nearby?", "a": "The Ybbstal Cycle Path and Buchenberg offer great outdoor opportunities."}, {"q": "Is Waidhofen reachable by train?", "a": "Yes, via the Rudolfsbahn and the Citybahn Waidhofen."}]}},
-  {"id": "at-strasshof-an-der-nordbahn", "type": "city", "parent": "AT-3", "coords": [16.6553, 48.3208], "population": 11149, "image": "/geo-images/austria/at-strasshof-an-der-nordbahn.webp", "name": {"de": "Strasshof an der Nordbahn", "hu": "Strasshof", "ro": "Strasshof", "en": "Strasshof"}, "description": {"de": "Strasshof an der Nordbahn ist eine bedeutende Eisenbahnerstadt im Marchfeld, bekannt für ihr großes Heizhaus und die lange Bahngeschichte.", "hu": "Strasshof an der Nordbahn egy jelentős vasutasváros a Marchfeldben, amely hatalmas fűtőházáról és hosszú vasúttörténetéről híres.", "ro": "Strasshof an der Nordbahn este un oraș feroviar important din Marchfeld, cunoscut pentru depoul său mare de locomotive și istoria feroviară îndelungată.", "en": "Strasshof an der Nordbahn is an important railway town in the Marchfeld, known for its large locomotive depot and long railway history."}, "facts": {"de": ["Eisenbahnmuseum Heizhaus", "Nordbahnstrecke", "Region Marchfeld", "Gartenstadt-Charakter"], "hu": ["Fűtőház Vasúttörténeti Múzeum", "Északi vasútvonal", "Marchfeld régió", "Kertvárosi jelleg"], "ro": ["Muzeul Căilor Ferate Heizhaus", "Linia feroviară de nord", "Regiunea Marchfeld", "Caracter de oraș-grădină"], "en": ["Heizhaus Railway Museum", "North Railway line", "Marchfeld region", "Garden city character"]}, "descriptionAdvanced": {"de": "Strasshof an der Nordbahn liegt im Bezirk Gänserndorf in Niederösterreich. Die Entwicklung der Stadt ist untrennbar mit dem Bau der Kaiser-Ferdinands-Nordbahn im 19. Jahrhundert verbunden. Geografisch erstreckt sich der Ort in der weiten Ebene des Marchfelds nordöstlich von Wien. Das prägende Merkmal der Stadt ist ihre weitläufige Struktur mit vielen Einfamilienhäusern und Gärten, was ihr den Beinamen Gartenstadt einbrachte. Historisch erlangte Strasshof traurige Bekanntheit während des Zweiten Weltkriegs als Standort eines Durchgangslagers. Heute ist die Stadt vor allem als Standort des Eisenbahnmuseums Das Heizhaus bekannt, das eine der bedeutendsten Sammlungen historischer Dampflokomotiven in Europa beherbergt. Wirtschaftlich ist Strasshof eine klassische Wohngemeinde für Pendler nach Wien, verfügt aber auch über lokale Handelsbetriebe entlang der B8. Die demografische Struktur ist durch einen hohen Anteil an Zuzüglern geprägt, was eine moderne Infrastruktur mit neuen Schulen und Kindergärten erforderlich gemacht hat. Die Architektur ist vorwiegend funktional und durch die Siedlungsgeschichte des 20. Jahrhunderts geprägt, wobei das alte Heizhaus ein bedeutendes technisches Denkmal darstellt.", "hu": "Strasshof an der Nordbahn az alsó-ausztriai Gänserndorfi járásban található. A város fejlődése elválaszthatatlan a 19. századi Kaiser-Ferdinands-Nordbahn vasútvonal építésétől. Földrajzilag a település a Marchfeld tágas síkságán fekszik, Bécstől északkeletre. A város meghatározó jellemzője a tágas, sok családi házzal és kerttel rendelkező szerkezete, amiért kertvárosnak is nevezik. Történelmileg Strasshof a második világháború alatt vált szomorúan ismertté egy tranzittábor helyszíneként. Ma a város elsősorban a Das Heizhaus vasúti múzeumról ismert, amely Európa egyik legjelentősebb történelmi gőzmozdony-gyűjteményének ad otthont. Gazdaságilag Strasshof tipikus lakótelepülés a Bécsbe ingázók számára, de a B8-as út mentén helyi kereskedelmi egységekkel is rendelkezik. A demográfiai szerkezetet a beköltözők magas aránya jellemzi, ami modern infrastruktúrát, új iskolákat és óvodákat tett szükségessé. Az építészet túlnyomórészt funkcionális, a 20. századi településtörténet határozza meg, a régi fűtőház pedig jelentős technikai műemlék.", "ro": "Strasshof an der Nordbahn este situat în districtul Gänserndorf din Austria Inferioară. Dezvoltarea orașului este inseparabil legată de construcția căii ferate de nord Kaiser-Ferdinand în secolul al 19-lea. Geografic, localitatea se întinde în câmpia vastă a Marchfeld, la nord-est de Viena. Caracteristica definitorie a orașului este structura sa extinsă, cu multe case unifamiliale și grădini, ceea ce i-a adus supranumele de oraș-grădină. Din punct de vedere istoric, Strasshof a dobândit o notorietate tristă în timpul celui de-al Doilea Război Mondial ca locație a unui lagăr de tranzit. Astăzi, orașul este cunoscut în principal pentru Muzeul Căilor Ferate Das Heizhaus, care adăpostește una dintre cele mai importante colecții de locomotive cu abur istorice din Europa. Economic, Strasshof este o comunitate rezidențială clasică pentru navetiștii către Viena, dar dispune și de afaceri comerciale locale de-a lungul drumului B8. Structura demografică este marcată de un număr mare de nou-veniți, ceea ce a necesitat o infrastructură modernă cu școli și grădinițe noi. Arhitectura este predominant funcțională, fiind marcată de istoria așezărilor din secolul 20, vechiul depou fiind un monument tehnic semnificativ.", "en": "Strasshof an der Nordbahn is located in the Gänserndorf district of Lower Austria. The development of the town is inextricably linked to the construction of the Kaiser Ferdinand North Railway in the 19th century. Geographically, the town extends across the vast plains of the Marchfeld, northeast of Vienna. The defining feature of the town is its spacious structure with many detached houses and gardens, which earned it the nickname Garden City. Historically, Strasshof gained sad notoriety during the Second World War as the site of a transit camp. Today, the town is best known as the home of the Das Heizhaus railway museum, which houses one of the most important collections of historic steam locomotives in Europe. Economically, Strasshof is a classic residential community for commuters to Vienna, but also has local retail businesses along the B8 road. The demographic structure is characterized by a high proportion of newcomers, which has necessitated a modern infrastructure with new schools and kindergartens. The architecture is predominantly functional and shaped by the settlement history of the 20th century, with the old locomotive depot representing an important technical monument."}, "factsAdvanced": {"de": ["Stadterhebung im Jahr 2004", "Heizhaus-Gelände umfasst 25 Hektar", "Liegt an der Nordbahn (Wien-Lundenburg)", "Größtes Eisenbahnmuseum Österreichs", "Besitzt vier Volksschulen", "Teil der Metropolregion Wien"], "hu": ["2004-ben kapott városi rangot", "A fűtőház területe 25 hektár", "Az Északi vasútvonal mentén fekszik", "Ausztria legnagyobb vasúti múzeuma", "Négy általános iskolával rendelkezik", "A bécsi metropolisz-régió része"], "ro": ["A obținut statutul de oraș în 2004", "Zona depoului Heizhaus cuprinde 25 de hectare", "Situat pe calea ferată de nord (Viena-Lundenburg)", "Cel mai mare muzeu feroviar din Austria", "Deține patru școli primare", "Parte a regiunii metropolitane Viena"], "en": ["City status granted in 2004", "The Heizhaus site covers 25 hectares", "Located on the North Railway (Vienna-Lundenburg)", "Austria's largest railway museum", "Has four primary schools", "Part of the Vienna metropolitan region"]}, "faq": {"de": [{"q": "Was ist die Hauptattraktion in Strasshof?", "a": "Das Eisenbahnmuseum Das Heizhaus mit seinen Dampflokomotiven."}, {"q": "Kann man von Strasshof nach Wien pendeln?", "a": "Ja, mit der Schnellbahn S1 ist man in etwa 30 Minuten im Zentrum Wiens."}, {"q": "Warum heißt es Gartenstadt?", "a": "Wegen der lockeren Bebauung mit vielen großen Privatgärten."}, {"q": "Wann ist das Eisenbahnmuseum geöffnet?", "a": "Es ist saisonal von April bis Oktober geöffnet."}], "hu": [{"q": "Mi a fő látnivaló Strasshofban?", "a": "A Das Heizhaus vasúti múzeum a gőzmozdonyaival."}, {"q": "Lehet Strasshofból Bécsbe ingázni?", "a": "Igen, az S1-es gyorsvasúttal kb. 30 perc alatt a központba érhetünk."}, {"q": "Miért hívják kertvárosnak?", "a": "A laza beépítettség és a sok nagy magánkert miatt."}, {"q": "Mikor van nyitva a vasúti múzeum?", "a": "Szezonálisan, áprilistól októberig tart nyitva."}], "ro": [{"q": "Care este atracția principală în Strasshof?", "a": "Muzeul Căilor Ferate Das Heizhaus cu locomotivele sale cu abur."}, {"q": "Se poate face naveta de la Strasshof la Viena?", "a": "Da, cu trenul S1 se ajunge în centrul Vienei în aproximativ 30 de minute."}, {"q": "De ce se numește oraș-grădină?", "a": "Datorită construcțiilor aerisite cu multe grădini private mari."}, {"q": "Când este deschis muzeul feroviar?", "a": "Este deschis sezonier, din aprilie până în octombrie."}], "en": [{"q": "What is the main attraction in Strasshof?", "a": "The Das Heizhaus railway museum with its steam locomotives."}, {"q": "Can you commute from Strasshof to Vienna?", "a": "Yes, with the S1 rapid transit train, you reach central Vienna in about 30 minutes."}, {"q": "Why is it called a Garden City?", "a": "Because of the sparse development with many large private gardens."}, {"q": "When is the railway museum open?", "a": "It is open seasonally from April to October."}]}},
+  {"id": "at-strasshof-an-der-nordbahn", "sights": {
+      "de": [
+            {
+                  "name": "Heimatmuseum",
+                  "text": "Ein Heimatmuseum in Strasshof, das das Erbe der Region dokumentiert.",
+                  "category": "museum",
+                  "coords": [
+                        16.633903,
+                        48.317189
+                  ]
+            },
+            {
+                  "name": "Kellertheater Strasshof",
+                  "text": "Ein kleines Kellertheater in Strasshof, in dem verschiedene Aufführungen stattfinden.",
+                  "category": "cultural",
+                  "coords": [
+                        16.632398,
+                        48.315649
+                  ]
+            },
+            {
+                  "name": "Eisenbahnmuseum Heizhaus Strasshof",
+                  "text": "Ein bedeutendes Eisenbahnmuseum in Strasshof, das in einem ehemaligen Heizhaus untergebracht ist.",
+                  "category": "museum",
+                  "coords": [
+                        16.667178,
+                        48.325092
+                  ]
+            },
+            {
+                  "name": "St. Antonius",
+                  "text": "Eine dem heiligen Antonius geweihte Kirche in Strasshof.",
+                  "category": "religious",
+                  "coords": [
+                        16.67239,
+                        48.320908
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Heimatmuseum",
+                  "text": "Strasshof helytörténeti múzeuma, amely a régió örökségét mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        16.633903,
+                        48.317189
+                  ]
+            },
+            {
+                  "name": "Kellertheater Strasshof",
+                  "text": "Egy kis pinceszínház Strasshofban, amely különféle előadásoknak ad otthont.",
+                  "category": "cultural",
+                  "coords": [
+                        16.632398,
+                        48.315649
+                  ]
+            },
+            {
+                  "name": "Eisenbahnmuseum Heizhaus Strasshof",
+                  "text": "Jelentős vasúti múzeum Strasshofban, amely egy egykori fűtőházban kapott helyet.",
+                  "category": "museum",
+                  "coords": [
+                        16.667178,
+                        48.325092
+                  ]
+            },
+            {
+                  "name": "St. Antonius",
+                  "text": "Páduai Szent Antalnak szentelt helyi templom Strasshofban.",
+                  "category": "religious",
+                  "coords": [
+                        16.67239,
+                        48.320908
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Heimatmuseum",
+                  "text": "Un muzeu de istorie locală din Strasshof care documentează moștenirea regiunii.",
+                  "category": "museum",
+                  "coords": [
+                        16.633903,
+                        48.317189
+                  ]
+            },
+            {
+                  "name": "Kellertheater Strasshof",
+                  "text": "Un teatru mic din Strasshof situat într-o pivniță, care găzduiește diverse spectacole.",
+                  "category": "cultural",
+                  "coords": [
+                        16.632398,
+                        48.315649
+                  ]
+            },
+            {
+                  "name": "Eisenbahnmuseum Heizhaus Strasshof",
+                  "text": "Un important muzeu feroviar din Strasshof, găzduit într-un fost depou de locomotive.",
+                  "category": "museum",
+                  "coords": [
+                        16.667178,
+                        48.325092
+                  ]
+            },
+            {
+                  "name": "St. Antonius",
+                  "text": "O biserică locală din Strasshof dedicată Sfântului Anton.",
+                  "category": "religious",
+                  "coords": [
+                        16.67239,
+                        48.320908
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Heimatmuseum",
+                  "text": "A local history museum in Strasshof documenting the heritage of the region.",
+                  "category": "museum",
+                  "coords": [
+                        16.633903,
+                        48.317189
+                  ]
+            },
+            {
+                  "name": "Kellertheater Strasshof",
+                  "text": "A small theatre in Strasshof located in a cellar, hosting various performances.",
+                  "category": "cultural",
+                  "coords": [
+                        16.632398,
+                        48.315649
+                  ]
+            },
+            {
+                  "name": "Eisenbahnmuseum Heizhaus Strasshof",
+                  "text": "A significant railway museum in Strasshof housed in a former locomotive depot.",
+                  "category": "museum",
+                  "coords": [
+                        16.667178,
+                        48.325092
+                  ]
+            },
+            {
+                  "name": "St. Antonius",
+                  "text": "A local church in Strasshof dedicated to Saint Anthony.",
+                  "category": "religious",
+                  "coords": [
+                        16.67239,
+                        48.320908
+                  ]
+            }
+      ]
+}, "type": "city", "parent": "AT-3", "coords": [16.6553, 48.3208], "population": 11149, "image": "/geo-images/austria/at-strasshof-an-der-nordbahn.webp", "name": {"de": "Strasshof an der Nordbahn", "hu": "Strasshof", "ro": "Strasshof", "en": "Strasshof"}, "description": {"de": "Strasshof an der Nordbahn ist eine bedeutende Eisenbahnerstadt im Marchfeld, bekannt für ihr großes Heizhaus und die lange Bahngeschichte.", "hu": "Strasshof an der Nordbahn egy jelentős vasutasváros a Marchfeldben, amely hatalmas fűtőházáról és hosszú vasúttörténetéről híres.", "ro": "Strasshof an der Nordbahn este un oraș feroviar important din Marchfeld, cunoscut pentru depoul său mare de locomotive și istoria feroviară îndelungată.", "en": "Strasshof an der Nordbahn is an important railway town in the Marchfeld, known for its large locomotive depot and long railway history."}, "facts": {"de": ["Eisenbahnmuseum Heizhaus", "Nordbahnstrecke", "Region Marchfeld", "Gartenstadt-Charakter"], "hu": ["Fűtőház Vasúttörténeti Múzeum", "Északi vasútvonal", "Marchfeld régió", "Kertvárosi jelleg"], "ro": ["Muzeul Căilor Ferate Heizhaus", "Linia feroviară de nord", "Regiunea Marchfeld", "Caracter de oraș-grădină"], "en": ["Heizhaus Railway Museum", "North Railway line", "Marchfeld region", "Garden city character"]}, "descriptionAdvanced": {"de": "Strasshof an der Nordbahn liegt im Bezirk Gänserndorf in Niederösterreich. Die Entwicklung der Stadt ist untrennbar mit dem Bau der Kaiser-Ferdinands-Nordbahn im 19. Jahrhundert verbunden. Geografisch erstreckt sich der Ort in der weiten Ebene des Marchfelds nordöstlich von Wien. Das prägende Merkmal der Stadt ist ihre weitläufige Struktur mit vielen Einfamilienhäusern und Gärten, was ihr den Beinamen Gartenstadt einbrachte. Historisch erlangte Strasshof traurige Bekanntheit während des Zweiten Weltkriegs als Standort eines Durchgangslagers. Heute ist die Stadt vor allem als Standort des Eisenbahnmuseums Das Heizhaus bekannt, das eine der bedeutendsten Sammlungen historischer Dampflokomotiven in Europa beherbergt. Wirtschaftlich ist Strasshof eine klassische Wohngemeinde für Pendler nach Wien, verfügt aber auch über lokale Handelsbetriebe entlang der B8. Die demografische Struktur ist durch einen hohen Anteil an Zuzüglern geprägt, was eine moderne Infrastruktur mit neuen Schulen und Kindergärten erforderlich gemacht hat. Die Architektur ist vorwiegend funktional und durch die Siedlungsgeschichte des 20. Jahrhunderts geprägt, wobei das alte Heizhaus ein bedeutendes technisches Denkmal darstellt.", "hu": "Strasshof an der Nordbahn az alsó-ausztriai Gänserndorfi járásban található. A város fejlődése elválaszthatatlan a 19. századi Kaiser-Ferdinands-Nordbahn vasútvonal építésétől. Földrajzilag a település a Marchfeld tágas síkságán fekszik, Bécstől északkeletre. A város meghatározó jellemzője a tágas, sok családi házzal és kerttel rendelkező szerkezete, amiért kertvárosnak is nevezik. Történelmileg Strasshof a második világháború alatt vált szomorúan ismertté egy tranzittábor helyszíneként. Ma a város elsősorban a Das Heizhaus vasúti múzeumról ismert, amely Európa egyik legjelentősebb történelmi gőzmozdony-gyűjteményének ad otthont. Gazdaságilag Strasshof tipikus lakótelepülés a Bécsbe ingázók számára, de a B8-as út mentén helyi kereskedelmi egységekkel is rendelkezik. A demográfiai szerkezetet a beköltözők magas aránya jellemzi, ami modern infrastruktúrát, új iskolákat és óvodákat tett szükségessé. Az építészet túlnyomórészt funkcionális, a 20. századi településtörténet határozza meg, a régi fűtőház pedig jelentős technikai műemlék.", "ro": "Strasshof an der Nordbahn este situat în districtul Gänserndorf din Austria Inferioară. Dezvoltarea orașului este inseparabil legată de construcția căii ferate de nord Kaiser-Ferdinand în secolul al 19-lea. Geografic, localitatea se întinde în câmpia vastă a Marchfeld, la nord-est de Viena. Caracteristica definitorie a orașului este structura sa extinsă, cu multe case unifamiliale și grădini, ceea ce i-a adus supranumele de oraș-grădină. Din punct de vedere istoric, Strasshof a dobândit o notorietate tristă în timpul celui de-al Doilea Război Mondial ca locație a unui lagăr de tranzit. Astăzi, orașul este cunoscut în principal pentru Muzeul Căilor Ferate Das Heizhaus, care adăpostește una dintre cele mai importante colecții de locomotive cu abur istorice din Europa. Economic, Strasshof este o comunitate rezidențială clasică pentru navetiștii către Viena, dar dispune și de afaceri comerciale locale de-a lungul drumului B8. Structura demografică este marcată de un număr mare de nou-veniți, ceea ce a necesitat o infrastructură modernă cu școli și grădinițe noi. Arhitectura este predominant funcțională, fiind marcată de istoria așezărilor din secolul 20, vechiul depou fiind un monument tehnic semnificativ.", "en": "Strasshof an der Nordbahn is located in the Gänserndorf district of Lower Austria. The development of the town is inextricably linked to the construction of the Kaiser Ferdinand North Railway in the 19th century. Geographically, the town extends across the vast plains of the Marchfeld, northeast of Vienna. The defining feature of the town is its spacious structure with many detached houses and gardens, which earned it the nickname Garden City. Historically, Strasshof gained sad notoriety during the Second World War as the site of a transit camp. Today, the town is best known as the home of the Das Heizhaus railway museum, which houses one of the most important collections of historic steam locomotives in Europe. Economically, Strasshof is a classic residential community for commuters to Vienna, but also has local retail businesses along the B8 road. The demographic structure is characterized by a high proportion of newcomers, which has necessitated a modern infrastructure with new schools and kindergartens. The architecture is predominantly functional and shaped by the settlement history of the 20th century, with the old locomotive depot representing an important technical monument."}, "factsAdvanced": {"de": ["Stadterhebung im Jahr 2004", "Heizhaus-Gelände umfasst 25 Hektar", "Liegt an der Nordbahn (Wien-Lundenburg)", "Größtes Eisenbahnmuseum Österreichs", "Besitzt vier Volksschulen", "Teil der Metropolregion Wien"], "hu": ["2004-ben kapott városi rangot", "A fűtőház területe 25 hektár", "Az Északi vasútvonal mentén fekszik", "Ausztria legnagyobb vasúti múzeuma", "Négy általános iskolával rendelkezik", "A bécsi metropolisz-régió része"], "ro": ["A obținut statutul de oraș în 2004", "Zona depoului Heizhaus cuprinde 25 de hectare", "Situat pe calea ferată de nord (Viena-Lundenburg)", "Cel mai mare muzeu feroviar din Austria", "Deține patru școli primare", "Parte a regiunii metropolitane Viena"], "en": ["City status granted in 2004", "The Heizhaus site covers 25 hectares", "Located on the North Railway (Vienna-Lundenburg)", "Austria's largest railway museum", "Has four primary schools", "Part of the Vienna metropolitan region"]}, "faq": {"de": [{"q": "Was ist die Hauptattraktion in Strasshof?", "a": "Das Eisenbahnmuseum Das Heizhaus mit seinen Dampflokomotiven."}, {"q": "Kann man von Strasshof nach Wien pendeln?", "a": "Ja, mit der Schnellbahn S1 ist man in etwa 30 Minuten im Zentrum Wiens."}, {"q": "Warum heißt es Gartenstadt?", "a": "Wegen der lockeren Bebauung mit vielen großen Privatgärten."}, {"q": "Wann ist das Eisenbahnmuseum geöffnet?", "a": "Es ist saisonal von April bis Oktober geöffnet."}], "hu": [{"q": "Mi a fő látnivaló Strasshofban?", "a": "A Das Heizhaus vasúti múzeum a gőzmozdonyaival."}, {"q": "Lehet Strasshofból Bécsbe ingázni?", "a": "Igen, az S1-es gyorsvasúttal kb. 30 perc alatt a központba érhetünk."}, {"q": "Miért hívják kertvárosnak?", "a": "A laza beépítettség és a sok nagy magánkert miatt."}, {"q": "Mikor van nyitva a vasúti múzeum?", "a": "Szezonálisan, áprilistól októberig tart nyitva."}], "ro": [{"q": "Care este atracția principală în Strasshof?", "a": "Muzeul Căilor Ferate Das Heizhaus cu locomotivele sale cu abur."}, {"q": "Se poate face naveta de la Strasshof la Viena?", "a": "Da, cu trenul S1 se ajunge în centrul Vienei în aproximativ 30 de minute."}, {"q": "De ce se numește oraș-grădină?", "a": "Datorită construcțiilor aerisite cu multe grădini private mari."}, {"q": "Când este deschis muzeul feroviar?", "a": "Este deschis sezonier, din aprilie până în octombrie."}], "en": [{"q": "What is the main attraction in Strasshof?", "a": "The Das Heizhaus railway museum with its steam locomotives."}, {"q": "Can you commute from Strasshof to Vienna?", "a": "Yes, with the S1 rapid transit train, you reach central Vienna in about 30 minutes."}, {"q": "Why is it called a Garden City?", "a": "Because of the sparse development with many large private gardens."}, {"q": "When is the railway museum open?", "a": "It is open seasonally from April to October."}]}},
   {"id": "at-trofaiach", "sights": {
       "de": [
             {
@@ -15746,6 +18212,15 @@ export const poiExtraAtChMissingV1: POI[] = [
                         13.180029,
                         47.909517
                   ]
+            },
+            {
+                  "name": "Strandbad Seekirchen",
+                  "text": "Ein gut ausgestattetes Strandbad in Seekirchen am Wallersee für Badegäste und Familien.",
+                  "category": "recreational",
+                  "coords": [
+                        13.142464,
+                        47.903382
+                  ]
             }
       ],
       "hu": [
@@ -15945,6 +18420,15 @@ export const poiExtraAtChMissingV1: POI[] = [
                   "coords": [
                         13.180029,
                         47.909517
+                  ]
+            },
+            {
+                  "name": "Strandbad Seekirchen",
+                  "text": "Jól felszerelt strandfürdő Seekirchenben a Wallersee partján, fürdőzők és családok számára.",
+                  "category": "recreational",
+                  "coords": [
+                        13.142464,
+                        47.903382
                   ]
             }
       ],
@@ -16146,6 +18630,15 @@ export const poiExtraAtChMissingV1: POI[] = [
                         13.180029,
                         47.909517
                   ]
+            },
+            {
+                  "name": "Strandbad Seekirchen",
+                  "text": "Un ștrand bine dotat în Seekirchen pe malul lacului Wallersee, pentru înotători și familii.",
+                  "category": "recreational",
+                  "coords": [
+                        13.142464,
+                        47.903382
+                  ]
             }
       ],
       "en": [
@@ -16345,6 +18838,15 @@ export const poiExtraAtChMissingV1: POI[] = [
                   "coords": [
                         13.180029,
                         47.909517
+                  ]
+            },
+            {
+                  "name": "Strandbad Seekirchen",
+                  "text": "A well-equipped lido in Seekirchen on Lake Wallersee for swimmers and families.",
+                  "category": "recreational",
+                  "coords": [
+                        13.142464,
+                        47.903382
                   ]
             }
       ]
@@ -17629,7 +20131,880 @@ export const poiExtraAtChMissingV1: POI[] = [
             }
       ]
 }, "type": "city", "parent": "AT-3", "coords": [15.1672, 48.6075], "population": 10721, "image": "/geo-images/austria/at-zwettl-niederoesterreich.webp", "name": {"de": "Zwettl-Niederösterreich", "hu": "Zwettl", "ro": "Zwettl", "en": "Zwettl"}, "description": {"de": "Zwettl ist eine historische Braustadt im Waldviertel, berühmt für ihr prachtvolles Zisterzienserstift und die unberührte Natur des Kamp-Tals.", "hu": "Zwettl egy történelmi sörfőző város a Waldviertelben, amely pompás ciszterci apátságáról és a Kamp-völgy érintetlen természetéről híres.", "ro": "Zwettl este un oraș istoric al berii din regiunea Waldviertel, renumit pentru abația sa cisterciană splendidă și natura virgină a văii Kamp.", "en": "Zwettl is a historic brewing town in the Waldviertel region, famous for its magnificent Cistercian abbey and the untouched nature of the Kamp valley."}, "facts": {"de": ["Stift Zwettl", "Waldviertler Bierstadt", "Zusammenfluss von Kamp und Zwettl", "Historische Stadtmauer"], "hu": ["Zwettli apátság", "A Waldviertel sörvárosa", "A Kamp és a Zwettl folyók találkozása", "Történelmi városfal"], "ro": ["Abația Zwettl", "Orașul berii din Waldviertel", "Confluența râurilor Kamp și Zwettl", "Zid istoric al orașului"], "en": ["Zwettl Abbey", "Waldviertel beer town", "Confluence of Kamp and Zwettl rivers", "Historic city wall"]}, "descriptionAdvanced": {"de": "Zwettl-Niederösterreich liegt im Zentrum des Waldviertels und ist die Bezirkshauptstadt des gleichnamigen Bezirks. Die Stadt befindet sich am Zusammenfluss der Flüsse Kamp und Zwettl in einer rauen, aber reizvollen Mittelgebirgslandschaft. Geografisch ist die Region durch Granitstein und dichte Wälder geprägt. Historisch wurde Zwettl im 12. Jahrhundert von den Kuenringern gegründet. Weltberühmt ist das nahegelegene Zisterzienserstift Zwettl mit seinem beeindruckenden Kreuzgang und dem barocken Turm. Die Architektur der Altstadt besticht durch gut erhaltene Fassaden, mittelalterliche Stadttürme und eine fast vollständig erhaltene Stadtmauer. Wirtschaftlich ist die Stadt ein bedeutender Standort für die Lebensmittelindustrie, insbesondere durch die Zwettler Brauerei und die Vermarktung von Waldviertler Qualitätsprodukten. Demografisch fungiert Zwettl als zentraler Ort für das nordwestliche Niederösterreich mit wichtigen Schulen, Krankenhäusern und Ämtern. Das kulturelle Leben ist eng mit kirchlichen Traditionen, Musikfestivals im Stift und regionalen Handwerksmärkten verbunden. Das Klima ist als typisch Waldviertlerisch bekannt - kühl, klar und erfrischend.", "hu": "Zwettl-Niederösterreich a Waldviertel szívében található, és az azonos nevű járás székhelye. A város a Kamp és a Zwettl folyók találkozásánál fekszik, egy zord, de vonzó középhegységi tájon. Földrajzilag a régiót a gránitkőzetek és a sűrű erdők jellemzik. Történelmileg Zwettlt a 12. században alapították a Kuenringerek. Világhírű a közeli zwettli ciszterci apátság a lenyűgöző keringőjével és barokk tornyával. Az óváros építészete jól megőrzött homlokzatokkal, középkori bástyákkal és szinte teljesen ép városfallal büszkélkedhet. Gazdaságilag a város az élelmiszeripar jelentős központja, különösen a Zwettler sörfőzde és a Waldviertel minőségi termékeinek értékesítése révén. Demográfiailag Zwettl Északnyugat-Alsó-Ausztria központi helyszíne, fontos iskolákkal, kórházakkal és hivatalokkal. A kulturális élet szorosan kapcsolódik az egyházi hagyományokhoz, az apátsági zenei fesztiválokhoz és a regionális kézműves vásárokhoz. A klíma tipikus waldvierteli: hűvös, tiszta és frissítő.", "ro": "Zwettl-Niederösterreich este situat în centrul regiunii Waldviertel și este capitala districtului cu același nume. Orașul se află la confluența râurilor Kamp și Zwettl, într-un peisaj montan de joasă înălțime, aspru dar fermecător. Geografic, regiunea este marcată de granit și păduri dese. Din punct de vedere istoric, Zwettl a fost fondat în secolul al 12-lea de familia Kuenringer. Abația cisterciană Zwettl din apropiere este renumită în întreaga lume pentru cloastrul său impresionant și turnul baroc. Arhitectura centrului vechi impresionează prin fațade bine conservate, turnuri medievale și un zid al orașului aproape complet intact. Economic, orașul este un sediu important pentru industria alimentară, în special prin Fabrica de Bere Zwettl și comercializarea produselor de calitate din Waldviertel. Demografic, Zwettl funcționează ca un loc central pentru nord-vestul Austriei Inferioare, cu școli, spitale și birouri administrative importante. Viața culturală este strâns legată de tradițiile religioase, festivalurile de muzică din abație și piețele regionale de meșteșuguri. Clima este cunoscută ca fiind tipică pentru Waldviertel - răcoroasă, senină și revigorantă.", "en": "Zwettl-Niederösterreich is located in the center of the Waldviertel and is the district capital of the district of the same name. The town is situated at the confluence of the Kamp and Zwettl rivers in a rugged but charming low mountain landscape. Geographically, the region is characterized by granite rock and dense forests. Historically, Zwettl was founded in the 12th century by the Kuenring family. The nearby Cistercian Zwettl Abbey is world-famous for its impressive cloisters and baroque tower. The architecture of the old town impresses with well-preserved facades, medieval town towers and an almost completely preserved city wall. Economically, the town is an important location for the food industry, in particular due to the Zwettl Brewery and the marketing of Waldviertel quality products. Demographically, Zwettl functions as a central hub for northwestern Lower Austria with important schools, hospitals and administrative offices. Cultural life is closely linked to religious traditions, music festivals at the abbey and regional craft markets. The climate is known as typically Waldviertel - cool, clear and refreshing."}, "factsAdvanced": {"de": ["Stadterhebung erfolgte im Jahr 1200", "Heimat des Hundertwasser-Brunnens", "Brautradition seit 1708", "Liegt am Kamp-Thaya-March Radweg", "Besitzt eine der ältesten Stadtbefestigungen", "Zentrum der Waldviertler Karpfenzucht"], "hu": ["A városi rangot 1200-ban kapta meg", "Itt található a Hundertwasser-kút", "A sörfőzési hagyomány 1708-ig nyúlik vissza", "A Kamp-Thaya-March kerékpárút mentén fekszik", "Az egyik legrégebbi városi erődítménnyel rendelkezik", "A waldvierteli pontytenyésztés központja"], "ro": ["Statutul de oraș acordat în anul 1200", "Găzduiește fântâna Hundertwasser", "Tradiție de fabricare a berii din 1708", "Situat pe pista de biciclete Kamp-Thaya-March", "Deține una dintre cele mai vechi fortificații urbane", "Centrul pisciculturii de crap din Waldviertel"], "en": ["City status granted in the year 1200", "Home to the Hundertwasser Fountain", "Brewing tradition since 1708", "Located on the Kamp-Thaya-March cycle route", "Has one of the oldest city fortifications", "Center of Waldviertel carp farming"]}, "faq": {"de": [{"q": "Wo befindet sich das Stift Zwettl?", "a": "Es liegt etwa 3 Kilometer nordöstlich des Stadtzentrums."}, {"q": "Was ist das bekannteste Produkt aus Zwettl?", "a": "Das Zwettler Bier ist überregional bekannt und beliebt."}, {"q": "Gibt es Sehenswürdigkeiten von Friedensreich Hundertwasser?", "a": "Ja, der Hundertwasser-Brunnen schmückt den Hauptplatz."}, {"q": "Kann man im Kamp wandern?", "a": "Ja, das Kamptal bietet wunderschöne Wanderwege durch das Waldviertel."}], "hu": [{"q": "Hol található a zwettli apátság?", "a": "Körülbelül 3 kilométerre északkeletre a városközponttól."}, {"q": "Mi a legismertebb termék Zwettlből?", "a": "A Zwettler sör országszerte ismert és kedvelt."}, {"q": "Vannak Friedensreich Hundertwasser alkotások?", "a": "Igen, a Hundertwasser-kút díszíti a főteret."}, {"q": "Lehet túrázni a Kamp mentén?", "a": "Igen, a Kamp-völgy gyönyörű túraútvonalakat kínál."}], "ro": [{"q": "Unde se află Abația Zwettl?", "a": "Se află la aproximativ 3 kilometri nord-est de centrul orașului."}, {"q": "Care este cel mai cunoscut produs din Zwettl?", "a": "Berea Zwettler este cunoscută și apreciată la nivel național."}, {"q": "Există obiective turistice realizate de Friedensreich Hundertwasser?", "a": "Da, fântâna Hundertwasser decorează piața principală."}, {"q": "Se pot face drumeții pe malul râului Kamp?", "a": "Da, valea Kamp oferă trasee de drumeție minunate prin Waldviertel."}], "en": [{"q": "Where is Zwettl Abbey located?", "a": "It is located about 3 kilometers northeast of the town center."}, {"q": "What is the most famous product from Zwettl?", "a": "Zwettler beer is known and popular throughout the country."}, {"q": "Are there any sights by Friedensreich Hundertwasser?", "a": "Yes, the Hundertwasser Fountain adorns the main square."}, {"q": "Can you go hiking in the Kamp valley?", "a": "Yes, the Kamptal offers beautiful hiking trails through the Waldviertel."}]}},
-  {"id": "at-purkersdorf", "sights": {"de": [{"name": "Freiluftbühne", "text": "Die Freiluftbühne in Purkersdorf ist ein beliebter Ort für sommerliche Theateraufführungen und Konzerte.", "category": "cultural", "coords": [16.145001, 48.19256]}, {"name": "Wienerwaldbad Purkersdorf", "text": "Das Wienerwaldbad ist ein idyllisch gelegenes Freibad in Purkersdorf, ideal für sommerliche Erholung.", "category": "family", "coords": [16.171487, 48.202886]}, {"name": "Wildtiergehege", "text": "Das Wildtiergehege in Purkersdorf ermöglicht Besuchern die Beobachtung heimischer Tiere in natürlicher Umgebung.", "category": "family", "coords": [16.177412, 48.205444]}, {"name": "82er Haus", "text": "Das 82er Haus ist eine kulturelle Einrichtung in Purkersdorf, die Raum für Theater und Kleinkunst bietet.", "category": "cultural", "coords": [16.153267, 48.229668]}, {"name": "Rudolfshöhe", "text": "Die Rudolfshöhe ist ein beliebter Aussichtspunkt im Wienerwald mit einer Aussichtswarte.", "category": "natural", "coords": [16.187246, 48.195591]}, {"name": "Georgenberg", "text": "Ein bewaldeter Gipfel in der Umgebung von Purkersdorf.", "category": "natural", "coords": [16.183928, 48.202041]}, {"name": "Schöffelstein", "text": "Ein bewaldeter Gipfel im Wienerwald bei Purkersdorf.", "category": "natural", "coords": [16.175425, 48.19819]}, {"name": "Weidlingauer Eichberg", "text": "Ein markanter Gipfel in der Landschaft von Purkersdorf.", "category": "natural", "coords": [16.195138, 48.21312]}, {"name": "Gelber Berg", "text": "Eine natürliche Erhebung in der Region Purkersdorf.", "category": "natural", "coords": [16.185162, 48.192675]}, {"name": "Purkersdorfer Eichberg", "text": "Ein Gipfel in den Ausläufern des Wienerwalds bei Purkersdorf.", "category": "natural", "coords": [16.181547, 48.218337]}, {"name": "Josef Egger", "text": "Ein Denkmal zu Ehren von Josef Egger in Purkersdorf.", "category": "historical", "coords": [16.149677, 48.226673]}, {"name": "Gablitzer Kunstkeller", "text": "Kunstinteressierte zieht es in Purkersdorf zum Gablitzer Kunstkeller, wo zeitgenössische Werke präsentiert werden. Dieses besondere Museum in Österreich bietet Ausstellungen, die das lokale und überregionale Kunstgeschehen beleuchten. Besucher erwartet ein facettenreicher Einblick in moderne kreative Strömungen.", "category": "museum", "coords": [16.151983, 48.228549]}, {"name": "Evangelisches Pfarrzentrum", "text": "Ein evangelisches Gemeindezentrum für Gottesdienste in Purkersdorf.", "category": "religious", "coords": [16.180006, 48.209827]}, {"name": "Pfarrkirche Sankt Jakob", "text": "Die römisch-katholische Pfarrkirche von Purkersdorf, dem heiligen Jakob geweiht.", "category": "religious", "coords": [16.1755, 48.207432]}, {"name": "St. Laurenz", "text": "Die barocke Pfarrkirche von Gablitz in der Nähe von Purkersdorf.", "category": "religious", "coords": [16.150766, 48.227163]}, {"name": "Wienerwaldsee", "text": "Der Wienerwaldsee bei Purkersdorf ist ein malerischer Stausee, ideal für ruhige Spaziergänge in der Natur.", "category": "natural", "coords": [16.117938, 48.180563]}, {"name": "Heschteich", "text": "Der Heschteich ist ein ruhiger See in Purkersdorf, der eine friedliche Umgebung zur Entspannung bietet.", "category": "natural", "coords": [16.273898, 48.215023]}, {"name": "Spielplatz Kellerwiese", "text": "Der Spielplatz Kellerwiese in Purkersdorf ist ein beliebter lokaler Spielplatz für Familienausflüge.", "category": "family", "coords": [16.176502, 48.204977]}, {"name": "Kinderspielplatz Gablitz", "text": "Dieser Spielplatz in Purkersdorf bietet einen unterhaltsamen und sicheren Bereich für Kinder zum Spielen.", "category": "family", "coords": [16.153328, 48.228414]}, {"name": "Robinson-Spielplatz", "text": "Der Robinson-Spielplatz in Purkersdorf ist ein Abenteuerspielplatz, den Kinder gerne erkunden werden.", "category": "family", "coords": [16.143882, 48.225953]}], "hu": [{"name": "Freiluftbühne", "text": "A Purkersdorf-i szabadtéri színpad népszerű helyszín nyári színházi előadások és koncertek számára.", "category": "cultural", "coords": [16.145001, 48.19256]}, {"name": "Wienerwaldbad Purkersdorf", "text": "A Wienerwaldbad egy idilli fekvésű strand Purkersdorfban, ideális a nyári kikapcsolódáshoz.", "category": "family", "coords": [16.171487, 48.202886]}, {"name": "Wildtiergehege", "text": "A Purkersdorf-i vadaspark lehetővé teszi a látogatóknak a hazai állatok megfigyelését természetes környezetben.", "category": "family", "coords": [16.177412, 48.205444]}, {"name": "82er Haus", "text": "A 82er Haus egy kulturális intézmény Purkersdorfban, amely helyet biztosít színházi és kabaréműsoroknak.", "category": "cultural", "coords": [16.153267, 48.229668]}, {"name": "Rudolfshöhe", "text": "A Rudolfshöhe a Bécsi-erdő egyik népszerű kilátóhelye, kilátótoronnyal.", "category": "natural", "coords": [16.187246, 48.195591]}, {"name": "Georgenberg", "text": "Erdős hegycsúcs Purkersdorf környékén.", "category": "natural", "coords": [16.183928, 48.202041]}, {"name": "Schöffelstein", "text": "Erdős hegycsúcs a Bécsi-erdőben, Purkersdorf közelében.", "category": "natural", "coords": [16.175425, 48.19819]}, {"name": "Weidlingauer Eichberg", "text": "Jellegzetes hegycsúcs Purkersdorf tájain.", "category": "natural", "coords": [16.195138, 48.21312]}, {"name": "Gelber Berg", "text": "Természetes magaslat Purkersdorf régiójában.", "category": "natural", "coords": [16.185162, 48.192675]}, {"name": "Purkersdorfer Eichberg", "text": "Hegycsúcs a Bécsi-erdő nyúlványainál Purkersdorf mellett.", "category": "natural", "coords": [16.181547, 48.218337]}, {"name": "Josef Egger", "text": "Emlékmű Josef Egger tiszteletére Purkersdorfban.", "category": "historical", "coords": [16.149677, 48.226673]}, {"name": "Gablitzer Kunstkeller", "text": "A művészet iránt érdeklődőket Purkersdorfban a Gablitzer Kunstkeller vonzza, ahol kortárs műveket mutatnak be. Ez a különleges osztrák múzeum olyan kiállításokat kínál, amelyek a helyi és regionális művészeti eseményekre világítanak rá. A látogatókat a modern kreatív irányzatok sokrétű bemutatása várja.", "category": "museum", "coords": [16.151983, 48.228549]}, {"name": "Evangelisches Pfarrzentrum", "text": "Evangélikus közösségi központ istentiszteletekhez Purkersdorfban.", "category": "religious", "coords": [16.180006, 48.209827]}, {"name": "Pfarrkirche Sankt Jakob", "text": "Purkersdorf római katolikus plébániatemploma, Szent Jakabnak szentelve.", "category": "religious", "coords": [16.1755, 48.207432]}, {"name": "St. Laurenz", "text": "Gablitz barokk plébániatemploma Purkersdorf közelében.", "category": "religious", "coords": [16.150766, 48.227163]}, {"name": "Wienerwaldsee", "text": "A Purkersdorf közelében található Wienerwaldsee egy festői víztározó, amely ideális a nyugodt természetjáráshoz.", "category": "natural", "coords": [16.117938, 48.180563]}, {"name": "Heschteich", "text": "A Purkersdorfban található Heschteich egy csendes tó, amely nyugodt környezetet biztosít a kikapcsolódáshoz.", "category": "natural", "coords": [16.273898, 48.215023]}, {"name": "Spielplatz Kellerwiese", "text": "A Purkersdorfban található Spielplatz Kellerwiese egy népszerű helyi játszótér családi kirándulásokhoz.", "category": "family", "coords": [16.176502, 48.204977]}, {"name": "Kinderspielplatz Gablitz", "text": "Ez a Purkersdorfban található játszótér szórakoztató és biztonságos helyet biztosít a gyerekeknek a játékhoz.", "category": "family", "coords": [16.153328, 48.228414]}, {"name": "Robinson-Spielplatz", "text": "A Purkersdorfban található Robinson-Spielplatz egy kalandjátszótér, amelyet a gyerekek örömmel fedeznek fel.", "category": "family", "coords": [16.143882, 48.225953]}], "ro": [{"name": "Freiluftbühne", "text": "Scena în aer liber din Purkersdorf este un loc popular pentru spectacole de teatru și concerte de vară.", "category": "cultural", "coords": [16.145001, 48.19256]}, {"name": "Wienerwaldbad Purkersdorf", "text": "Wienerwaldbad este un ștrand situat idilic în Purkersdorf, ideal pentru recreere pe timp de vară.", "category": "family", "coords": [16.171487, 48.202886]}, {"name": "Wildtiergehege", "text": "Rezervația de animale sălbatice din Purkersdorf permite vizitatorilor observarea animalelor autohtone în mediul lor natural.", "category": "family", "coords": [16.177412, 48.205444]}, {"name": "82er Haus", "text": "82er Haus este o instituție culturală din Purkersdorf, care oferă spațiu pentru teatru și cabaret.", "category": "cultural", "coords": [16.153267, 48.229668]}, {"name": "Rudolfshöhe", "text": "Rudolfshöhe este un punct de belvedere popular în Wienerwald, dotat cu un turn de observație.", "category": "natural", "coords": [16.187246, 48.195591]}, {"name": "Georgenberg", "text": "Un vârf muntos împădurit în apropiere de Purkersdorf.", "category": "natural", "coords": [16.183928, 48.202041]}, {"name": "Schöffelstein", "text": "Un vârf muntos împădurit în Pădurea Vieneză, lângă Purkersdorf.", "category": "natural", "coords": [16.175425, 48.19819]}, {"name": "Weidlingauer Eichberg", "text": "Un vârf proeminent în peisajul din Purkersdorf.", "category": "natural", "coords": [16.195138, 48.21312]}, {"name": "Gelber Berg", "text": "O formă de relief naturală în regiunea Purkersdorf.", "category": "natural", "coords": [16.185162, 48.192675]}, {"name": "Purkersdorfer Eichberg", "text": "Un vârf la poalele Pădurii Vieneze, lângă Purkersdorf.", "category": "natural", "coords": [16.181547, 48.218337]}, {"name": "Josef Egger", "text": "Un monument în onoarea lui Josef Egger în Purkersdorf.", "category": "historical", "coords": [16.149677, 48.226673]}, {"name": "Gablitzer Kunstkeller", "text": "Pasionații de artă sunt atrași în Purkersdorf de Gablitzer Kunstkeller, unde sunt prezentate opere contemporane. Acest muzeu special din Austria oferă expoziții care evidențiază scena artistică locală și regională. Vizitatorii au parte de o perspectivă multifațetată asupra curentelor creative moderne.", "category": "museum", "coords": [16.151983, 48.228549]}, {"name": "Evangelisches Pfarrzentrum", "text": "Un centru parohial evanghelic pentru slujbe religioase în Purkersdorf.", "category": "religious", "coords": [16.180006, 48.209827]}, {"name": "Pfarrkirche Sankt Jakob", "text": "Biserica parohială romano-catolică din Purkersdorf, dedicată Sfântului Iacob.", "category": "religious", "coords": [16.1755, 48.207432]}, {"name": "St. Laurenz", "text": "Biserica parohială barocă din Gablitz, în apropiere de Purkersdorf.", "category": "religious", "coords": [16.150766, 48.227163]}, {"name": "Wienerwaldsee", "text": "Wienerwaldsee de lângă Purkersdorf este un lac de acumulare pitoresc, ideal pentru plimbări liniștite în natură.", "category": "natural", "coords": [16.117938, 48.180563]}, {"name": "Heschteich", "text": "Heschteich este un lac liniștit din Purkersdorf care oferă un cadru calm pentru relaxare.", "category": "natural", "coords": [16.273898, 48.215023]}, {"name": "Spielplatz Kellerwiese", "text": "Spielplatz Kellerwiese din Purkersdorf este un loc de joacă local popular pentru ieșirile în familie.", "category": "family", "coords": [16.176502, 48.204977]}, {"name": "Kinderspielplatz Gablitz", "text": "Acest loc de joacă din Purkersdorf oferă o zonă distractivă și sigură pentru joaca copiilor.", "category": "family", "coords": [16.153328, 48.228414]}, {"name": "Robinson-Spielplatz", "text": "Robinson-Spielplatz din Purkersdorf este un loc de joacă plin de aventură pe care copiii îl vor explora cu plăcere.", "category": "family", "coords": [16.143882, 48.225953]}], "en": [{"name": "Freiluftbühne", "text": "The open-air stage in Purkersdorf is a popular venue for summer theater performances and concerts.", "category": "cultural", "coords": [16.145001, 48.19256]}, {"name": "Wienerwaldbad Purkersdorf", "text": "The Wienerwaldbad is an idyllically located outdoor pool in Purkersdorf, ideal for summer relaxation.", "category": "family", "coords": [16.171487, 48.202886]}, {"name": "Wildtiergehege", "text": "The wildlife enclosure in Purkersdorf allows visitors to observe native animals in a natural environment.", "category": "family", "coords": [16.177412, 48.205444]}, {"name": "82er Haus", "text": "The 82er Haus is a cultural institution in Purkersdorf providing space for theater and cabaret.", "category": "cultural", "coords": [16.153267, 48.229668]}, {"name": "Rudolfshöhe", "text": "Rudolfshöhe is a popular viewpoint in the Vienna Woods with an observation tower.", "category": "natural", "coords": [16.187246, 48.195591]}, {"name": "Georgenberg", "text": "A forested peak located in the vicinity of Purkersdorf.", "category": "natural", "coords": [16.183928, 48.202041]}, {"name": "Schöffelstein", "text": "A forested peak in the Vienna Woods near Purkersdorf.", "category": "natural", "coords": [16.175425, 48.19819]}, {"name": "Weidlingauer Eichberg", "text": "A prominent peak in the landscape of Purkersdorf.", "category": "natural", "coords": [16.195138, 48.21312]}, {"name": "Gelber Berg", "text": "A natural elevation in the Purkersdorf region.", "category": "natural", "coords": [16.185162, 48.192675]}, {"name": "Purkersdorfer Eichberg", "text": "A peak in the foothills of the Vienna Woods near Purkersdorf.", "category": "natural", "coords": [16.181547, 48.218337]}, {"name": "Josef Egger", "text": "A monument dedicated to Josef Egger in Purkersdorf.", "category": "historical", "coords": [16.149677, 48.226673]}, {"name": "Gablitzer Kunstkeller", "text": "Art enthusiasts are drawn to the Gablitzer Kunstkeller in Purkersdorf, where contemporary works are presented. This special museum in Austria offers exhibitions that highlight the local and regional art scene. Visitors can expect a multifaceted insight into modern creative trends.", "category": "museum", "coords": [16.151983, 48.228549]}, {"name": "Evangelisches Pfarrzentrum", "text": "A Protestant parish center for worship in Purkersdorf.", "category": "religious", "coords": [16.180006, 48.209827]}, {"name": "Pfarrkirche Sankt Jakob", "text": "The Roman Catholic parish church of Purkersdorf, dedicated to Saint James.", "category": "religious", "coords": [16.1755, 48.207432]}, {"name": "St. Laurenz", "text": "The Baroque parish church of Gablitz near Purkersdorf.", "category": "religious", "coords": [16.150766, 48.227163]}, {"name": "Wienerwaldsee", "text": "Wienerwaldsee near Purkersdorf is a scenic reservoir ideal for peaceful walks in nature.", "category": "natural", "coords": [16.117938, 48.180563]}, {"name": "Heschteich", "text": "Heschteich is a quiet lake in Purkersdorf offering a tranquil setting for relaxation.", "category": "natural", "coords": [16.273898, 48.215023]}, {"name": "Spielplatz Kellerwiese", "text": "Spielplatz Kellerwiese in Purkersdorf is a popular local playground for family outings.", "category": "family", "coords": [16.176502, 48.204977]}, {"name": "Kinderspielplatz Gablitz", "text": "This playground in Purkersdorf provides a fun and safe area for kids to play.", "category": "family", "coords": [16.153328, 48.228414]}, {"name": "Robinson-Spielplatz", "text": "Robinson-Spielplatz in Purkersdorf is an adventure playground that children will love exploring.", "category": "family", "coords": [16.143882, 48.225953]}]}, "type": "city", "parent": "AT-3", "coords": [16.1672, 48.2078], "population": 10539, "image": "/geo-images/austria/at-purkersdorf.webp", "name": {"de": "Purkersdorf", "hu": "Purkersdorf", "ro": "Purkersdorf", "en": "Purkersdorf"}, "description": {"de": "Purkersdorf liegt unmittelbar an der Wiener Stadtgrenze im Herzen des Wienerwaldes und verbindet naturnahes Wohnen mit historischem Flair.", "hu": "Purkersdorf közvetlenül Bécs határában, a Bécsi-erdő szívében található, ötvözve a természetközeli lakókörnyezetet a történelmi hangulattal.", "ro": "Purkersdorf este situat direct la granița cu Viena, în inima Pădurii Vieneze, combinând locuințele în natură cu farmecul istoric.", "en": "Purkersdorf is located directly on the Vienna city boundary in the heart of the Vienna Woods, combining nature-oriented living with historical flair."}, "facts": {"de": ["Wienerwald-Lage", "Sanatorium Purkersdorf", "Poststation-Historie", "Wienfluss-Quelle"], "hu": ["Bécsi-erdő fekvés", "Purkersdorfi szanatórium", "Postaállomás múlt", "Bécs-folyó forrásvidék"], "ro": ["Locație în Pădurea Vieneză", "Sanatoriul Purkersdorf", "Istorie ca stație poștală", "Zona izvoarelor râului Viena"], "en": ["Vienna Woods location", "Purkersdorf Sanatorium", "Post station history", "Wien River source area"]}, "descriptionAdvanced": {"de": "Purkersdorf ist eine Stadtgemeinde im Bezirk Sankt Pölten-Land in Niederösterreich, die direkt an den Westen Wiens grenzt. Geografisch liegt die Stadt im Tal des Wienflusses und ist vom waldreichen Hügelland des Wienerwaldes umgeben. Die Geschichte der Siedlung reicht bis ins 12. Jahrhundert zurück, wobei der Ort im Jahr 1130 erstmals urkundlich als Purchartsdorf erwähnt wurde. Eine zentrale Rolle in der Stadtentwicklung spielte das Sanatorium Purkersdorf, das 1904 bis 1905 von dem bedeutenden Architekten Josef Hoffmann im Jugendstil errichtet wurde und als Meilenstein der modernen Architektur gilt. Im 16. Jahrhundert war Purkersdorf eine wichtige kaiserliche Poststation an der Verbindung von Wien nach Linz. Heute zeichnet sich die Stadt durch eine hohe Lebensqualität, zahlreiche Wanderwege im Naturpark Purkersdorf-Sandsteinwienerwald und eine exzellente Verkehrsanbindung an die Bundeshauptstadt aus. Die Wirtschaft ist vorwiegend durch Dienstleistungsbetriebe und den Einzelhandel geprägt, während die Stadt gleichzeitig als beliebte Wohngemeinde für Pendler fungiert.", "hu": "Purkersdorf városi rangú település Alsó-Ausztriában, a Sankt Pölten-Land járásban, közvetlenül Bécs nyugati határán. Földrajzilag a Bécs-folyó (Wienfluss) völgyében fekszik, a Bécsi-erdő erdős dombjai által körülvéve. A település története a 12. századig nyúlik vissza, első írásos említése 1130-ból származik Purchartsdorf néven. A város fejlődésében meghatározó szerepet játszott a Purkersdorfi Szanatórium, amelyet 1904 és 1905 között Josef Hoffmann neves építész tervezett szecessziós stílusban, és a modern építészet mérföldköveként tartják számon. A 16. században fontos császári postaállomás volt a Bécs és Linz közötti útvonalon. Ma a város magas életminőségéről, a Purkersdorf-Sandsteinwienerwald natúrpark számos túraútvonaláról és a szövetségi fővárosba irányuló kiváló közlekedési kapcsolatairól ismert. Gazdaságát elsősorban szolgáltatóipari egységek és kiskereskedelem jellemzi, miközben a város kedvelt lakóhely az ingázók számára.", "ro": "Purkersdorf este o municipalitate urbană în districtul Sankt Pölten-Land din Austria Inferioară, învecinându-se direct cu vestul Vienei. Din punct de vedere geografic, orașul este situat în valea râului Viena și este înconjurat de dealurile împădurite ale Pădurii Vieneze. Istoria așezării datează din secolul al XII-lea, localitatea fiind menționată documentar pentru prima dată în 1130 sub numele de Purchartsdorf. Un rol central în dezvoltarea orașului l-a jucat Sanatoriul Purkersdorf, construit între 1904 și 1905 de renumitul arhitect Josef Hoffmann în stil Art Nouveau, fiind considerat un reper al arhitecturii moderne. În secolul al XVI-lea, Purkersdorf a fost o importantă stație poștală imperială pe ruta dintre Viena și Linz. Astăzi, orașul se remarcă printr-o calitate ridicată a vieții, numeroase trasee de drumeție în Parcul Natural Purkersdorf-Sandsteinwienerwald și o conexiune excelentă de transport cu capitala federală. Economia este dominată în principal de companii de servicii și comerț cu amănuntul, în timp ce orașul funcționează ca o comunitate rezidențială populară pentru navetiști.", "en": "Purkersdorf is a town municipality in the district of Sankt Pölten-Land in Lower Austria, directly bordering the west of Vienna. Geographically, the town lies in the valley of the Wien River and is surrounded by the wooded hills of the Vienna Woods. The history of the settlement dates back to the 12th century, with the town being first mentioned in documents in 1130 as Purchartsdorf. A central role in the town's development was played by the Purkersdorf Sanatorium, built between 1904 and 1905 by the prominent architect Josef Hoffmann in the Art Nouveau style, considered a milestone of modern architecture. In the 16th century, Purkersdorf was an important imperial post station on the route from Vienna to Linz. Today, the town is characterized by a high quality of life, numerous hiking trails in the Purkersdorf-Sandsteinwienerwald Nature Park, and excellent transport connections to the federal capital. The economy is primarily shaped by service companies and retail, while the town simultaneously serves as a popular residential community for commuters."}, "factsAdvanced": {"de": ["Erste urkundliche Erwähnung im Jahr 1130 als Purchartsdorf.", "Errichtung des Sanatoriums Purkersdorf durch Josef Hoffmann 1904.", "Erhebung zur Stadtgemeinde erfolgte im Jahr 1966.", "Fläche der Stadtgemeinde beträgt etwa 30,25 Quadratkilometer.", "Der Naturpark Purkersdorf umfasst eine Fläche von rund 77 Hektar.", "Historische Poststation war seit 1558 ein wichtiger Knotenpunkt."], "hu": ["Első írásos említése 1130-ban történt Purchartsdorf néven.", "A Purkersdorfi Szanatórium felépítése Josef Hoffmann által 1904-ben.", "A település 1966-ban kapott városi rangot.", "A város teljes területe körülbelül 30,25 négyzetkilométer.", "A Purkersdorfi Natúrpark területe nagyjából 77 hektár.", "A történelmi postaállomás 1558 óta volt fontos csomópont."], "ro": ["Prima mențiune documentară în anul 1130 sub numele de Purchartsdorf.", "Construcția Sanatoriului Purkersdorf de către Josef Hoffmann în 1904.", "Ridicarea la rang de oraș a avut loc în anul 1966.", "Suprafața municipalității este de aproximativ 30,25 kilometri pătrați.", "Parcul Natural Purkersdorf acoperă o suprafață de circa 77 de hectare.", "Stația poștală istorică a fost un nod important începând cu 1558."], "en": ["First documented mention in the year 1130 as Purchartsdorf.", "Construction of the Purkersdorf Sanatorium by Josef Hoffmann in 1904.", "Elevation to town status occurred in the year 1966.", "Area of the town municipality is approximately 30.25 square kilometers.", "The Purkersdorf Nature Park covers an area of about 77 hectares.", "Historical post station was an important hub since 1558."]}, "faq": {"de": [{"q": "Warum ist das Sanatorium Purkersdorf berühmt?", "a": "Es gilt als wegweisendes Bauwerk der Wiener Moderne und des Jugendstils."}, {"q": "Welche Freizeitaktivitäten bietet Purkersdorf?", "a": "Besonders beliebt sind Wanderungen und Naturerlebnisse im Naturpark Purkersdorf."}, {"q": "Wie weit ist Purkersdorf von Wien entfernt?", "a": "Das Stadtzentrum von Purkersdorf liegt direkt an der westlichen Wiener Stadtgrenze."}, {"q": "Wann wurde Purkersdorf zur Stadt erhoben?", "a": "Die Marktgemeinde Purkersdorf erhielt im Jahr 1966 den Status einer Stadt."}], "hu": [{"q": "Miért híres a Purkersdorfi Szanatórium?", "a": "A bécsi modernizmus és a szecesszió úttörő építészeti alkotásának számít."}, {"q": "Milyen szabadidős lehetőségeket kínál Purkersdorf?", "a": "Különösen népszerűek a túrák és természetközeli élmények a Purkersdorfi Natúrparkban."}, {"q": "Milyen messze van Purkersdorf Bécstől?", "a": "Purkersdorf városközpontja közvetlenül Bécs nyugati határa mellett található."}, {"q": "Mikor kapott Purkersdorf városi rangot?", "a": "Purkersdorf mezővárosa 1966-ban nyerte el a városi státuszt."}], "ro": [{"q": "De ce este faimos Sanatoriul Purkersdorf?", "a": "Este considerat o operă arhitecturală de pionierat a modernismului vienez și a stilului Art Nouveau."}, {"q": "Ce activități de petrecere a timpului liber oferă Purkersdorf?", "a": "Sunt populare în special drumețiile și experiențele în natură în Parcul Natural Purkersdorf."}, {"q": "Cât de departe este Purkersdorf de Viena?", "a": "Centrul orașului Purkersdorf este situat direct la granița vestică a Vienei."}, {"q": "Când a fost ridicat Purkersdorf la rang de oraș?", "a": "Municipalitatea Purkersdorf a primit statutul de oraș în anul 1966."}], "en": [{"q": "Why is the Purkersdorf Sanatorium famous?", "a": "It is considered a pioneering architectural work of Viennese Modernism and Art Nouveau."}, {"q": "What leisure activities does Purkersdorf offer?", "a": "Hiking and nature experiences in the Purkersdorf Nature Park are particularly popular."}, {"q": "How far is Purkersdorf from Vienna?", "a": "The town center of Purkersdorf is located directly on the western Vienna city boundary."}, {"q": "When was Purkersdorf elevated to a town?", "a": "The market town of Purkersdorf received town status in the year 1966."}]}},
+  {"id": "at-purkersdorf", "sights": {
+      "de": [
+            {
+                  "name": "Freiluftbühne",
+                  "text": "Die Freiluftbühne in Purkersdorf ist ein beliebter Ort für sommerliche Theateraufführungen und Konzerte.",
+                  "category": "cultural",
+                  "coords": [
+                        16.145001,
+                        48.19256
+                  ]
+            },
+            {
+                  "name": "Wienerwaldbad Purkersdorf",
+                  "text": "Das Wienerwaldbad ist ein idyllisch gelegenes Freibad in Purkersdorf, ideal für sommerliche Erholung.",
+                  "category": "family",
+                  "coords": [
+                        16.171487,
+                        48.202886
+                  ]
+            },
+            {
+                  "name": "Wildtiergehege",
+                  "text": "Das Wildtiergehege in Purkersdorf ermöglicht Besuchern die Beobachtung heimischer Tiere in natürlicher Umgebung.",
+                  "category": "family",
+                  "coords": [
+                        16.177412,
+                        48.205444
+                  ]
+            },
+            {
+                  "name": "82er Haus",
+                  "text": "Das 82er Haus ist eine kulturelle Einrichtung in Purkersdorf, die Raum für Theater und Kleinkunst bietet.",
+                  "category": "cultural",
+                  "coords": [
+                        16.153267,
+                        48.229668
+                  ]
+            },
+            {
+                  "name": "Rudolfshöhe",
+                  "text": "Die Rudolfshöhe ist ein beliebter Aussichtspunkt im Wienerwald mit einer Aussichtswarte.",
+                  "category": "natural",
+                  "coords": [
+                        16.187246,
+                        48.195591
+                  ]
+            },
+            {
+                  "name": "Georgenberg",
+                  "text": "Ein bewaldeter Gipfel in der Umgebung von Purkersdorf.",
+                  "category": "natural",
+                  "coords": [
+                        16.183928,
+                        48.202041
+                  ]
+            },
+            {
+                  "name": "Schöffelstein",
+                  "text": "Ein bewaldeter Gipfel im Wienerwald bei Purkersdorf.",
+                  "category": "natural",
+                  "coords": [
+                        16.175425,
+                        48.19819
+                  ]
+            },
+            {
+                  "name": "Weidlingauer Eichberg",
+                  "text": "Ein markanter Gipfel in der Landschaft von Purkersdorf.",
+                  "category": "natural",
+                  "coords": [
+                        16.195138,
+                        48.21312
+                  ]
+            },
+            {
+                  "name": "Gelber Berg",
+                  "text": "Eine natürliche Erhebung in der Region Purkersdorf.",
+                  "category": "natural",
+                  "coords": [
+                        16.185162,
+                        48.192675
+                  ]
+            },
+            {
+                  "name": "Purkersdorfer Eichberg",
+                  "text": "Ein Gipfel in den Ausläufern des Wienerwalds bei Purkersdorf.",
+                  "category": "natural",
+                  "coords": [
+                        16.181547,
+                        48.218337
+                  ]
+            },
+            {
+                  "name": "Josef Egger",
+                  "text": "Ein Denkmal zu Ehren von Josef Egger in Purkersdorf.",
+                  "category": "historical",
+                  "coords": [
+                        16.149677,
+                        48.226673
+                  ]
+            },
+            {
+                  "name": "Gablitzer Kunstkeller",
+                  "text": "Kunstinteressierte zieht es in Purkersdorf zum Gablitzer Kunstkeller, wo zeitgenössische Werke präsentiert werden. Dieses besondere Museum in Österreich bietet Ausstellungen, die das lokale und überregionale Kunstgeschehen beleuchten. Besucher erwartet ein facettenreicher Einblick in moderne kreative Strömungen.",
+                  "category": "museum",
+                  "coords": [
+                        16.151983,
+                        48.228549
+                  ]
+            },
+            {
+                  "name": "Evangelisches Pfarrzentrum",
+                  "text": "Ein evangelisches Gemeindezentrum für Gottesdienste in Purkersdorf.",
+                  "category": "religious",
+                  "coords": [
+                        16.180006,
+                        48.209827
+                  ]
+            },
+            {
+                  "name": "Pfarrkirche Sankt Jakob",
+                  "text": "Die römisch-katholische Pfarrkirche von Purkersdorf, dem heiligen Jakob geweiht.",
+                  "category": "religious",
+                  "coords": [
+                        16.1755,
+                        48.207432
+                  ]
+            },
+            {
+                  "name": "St. Laurenz",
+                  "text": "Die barocke Pfarrkirche von Gablitz in der Nähe von Purkersdorf.",
+                  "category": "religious",
+                  "coords": [
+                        16.150766,
+                        48.227163
+                  ]
+            },
+            {
+                  "name": "Wienerwaldsee",
+                  "text": "Der Wienerwaldsee bei Purkersdorf ist ein malerischer Stausee, ideal für ruhige Spaziergänge in der Natur.",
+                  "category": "natural",
+                  "coords": [
+                        16.117938,
+                        48.180563
+                  ]
+            },
+            {
+                  "name": "Heschteich",
+                  "text": "Der Heschteich ist ein ruhiger See in Purkersdorf, der eine friedliche Umgebung zur Entspannung bietet.",
+                  "category": "natural",
+                  "coords": [
+                        16.273898,
+                        48.215023
+                  ]
+            },
+            {
+                  "name": "Spielplatz Kellerwiese",
+                  "text": "Der Spielplatz Kellerwiese in Purkersdorf ist ein beliebter lokaler Spielplatz für Familienausflüge.",
+                  "category": "family",
+                  "coords": [
+                        16.176502,
+                        48.204977
+                  ]
+            },
+            {
+                  "name": "Kinderspielplatz Gablitz",
+                  "text": "Dieser Spielplatz in Purkersdorf bietet einen unterhaltsamen und sicheren Bereich für Kinder zum Spielen.",
+                  "category": "family",
+                  "coords": [
+                        16.153328,
+                        48.228414
+                  ]
+            },
+            {
+                  "name": "Robinson-Spielplatz",
+                  "text": "Der Robinson-Spielplatz in Purkersdorf ist ein Abenteuerspielplatz, den Kinder gerne erkunden werden.",
+                  "category": "family",
+                  "coords": [
+                        16.143882,
+                        48.225953
+                  ]
+            },
+            {
+                  "name": "Biospharenpark Wienerwald Kernzone Deutschwald",
+                  "text": "Eine geschützte Kernzone des Biosphärenparks Wienerwald bei Purkersdorf.",
+                  "category": "natural",
+                  "coords": [
+                        16.179348,
+                        48.191087
+                  ]
+            },
+            {
+                  "name": "Biospharenpark Wienerwald Kernzone Waldandacht",
+                  "text": "Ein naturbelassenes Waldgebiet in der Kernzone des Biosphärenparks Wienerwald.",
+                  "category": "natural",
+                  "coords": [
+                        16.200202,
+                        48.21715
+                  ]
+            },
+            {
+                  "name": "Biospharenpark Wienerwald Kernzone Baunzen",
+                  "text": "Teil des UNESCO-Biosphärenparks Wienerwald, der dem Schutz der lokalen Flora und Fauna dient.",
+                  "category": "natural",
+                  "coords": [
+                        16.158052,
+                        48.187351
+                  ]
+            },
+            {
+                  "name": "Schwimmbad Gablitz",
+                  "text": "Ein Freibad in der Nähe von Purkersdorf, das Abkühlung an Sommertagen bietet.",
+                  "category": "recreational",
+                  "coords": [
+                        16.150111,
+                        48.229494
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Freiluftbühne",
+                  "text": "A Purkersdorf-i szabadtéri színpad népszerű helyszín nyári színházi előadások és koncertek számára.",
+                  "category": "cultural",
+                  "coords": [
+                        16.145001,
+                        48.19256
+                  ]
+            },
+            {
+                  "name": "Wienerwaldbad Purkersdorf",
+                  "text": "A Wienerwaldbad egy idilli fekvésű strand Purkersdorfban, ideális a nyári kikapcsolódáshoz.",
+                  "category": "family",
+                  "coords": [
+                        16.171487,
+                        48.202886
+                  ]
+            },
+            {
+                  "name": "Wildtiergehege",
+                  "text": "A Purkersdorf-i vadaspark lehetővé teszi a látogatóknak a hazai állatok megfigyelését természetes környezetben.",
+                  "category": "family",
+                  "coords": [
+                        16.177412,
+                        48.205444
+                  ]
+            },
+            {
+                  "name": "82er Haus",
+                  "text": "A 82er Haus egy kulturális intézmény Purkersdorfban, amely helyet biztosít színházi és kabaréműsoroknak.",
+                  "category": "cultural",
+                  "coords": [
+                        16.153267,
+                        48.229668
+                  ]
+            },
+            {
+                  "name": "Rudolfshöhe",
+                  "text": "A Rudolfshöhe a Bécsi-erdő egyik népszerű kilátóhelye, kilátótoronnyal.",
+                  "category": "natural",
+                  "coords": [
+                        16.187246,
+                        48.195591
+                  ]
+            },
+            {
+                  "name": "Georgenberg",
+                  "text": "Erdős hegycsúcs Purkersdorf környékén.",
+                  "category": "natural",
+                  "coords": [
+                        16.183928,
+                        48.202041
+                  ]
+            },
+            {
+                  "name": "Schöffelstein",
+                  "text": "Erdős hegycsúcs a Bécsi-erdőben, Purkersdorf közelében.",
+                  "category": "natural",
+                  "coords": [
+                        16.175425,
+                        48.19819
+                  ]
+            },
+            {
+                  "name": "Weidlingauer Eichberg",
+                  "text": "Jellegzetes hegycsúcs Purkersdorf tájain.",
+                  "category": "natural",
+                  "coords": [
+                        16.195138,
+                        48.21312
+                  ]
+            },
+            {
+                  "name": "Gelber Berg",
+                  "text": "Természetes magaslat Purkersdorf régiójában.",
+                  "category": "natural",
+                  "coords": [
+                        16.185162,
+                        48.192675
+                  ]
+            },
+            {
+                  "name": "Purkersdorfer Eichberg",
+                  "text": "Hegycsúcs a Bécsi-erdő nyúlványainál Purkersdorf mellett.",
+                  "category": "natural",
+                  "coords": [
+                        16.181547,
+                        48.218337
+                  ]
+            },
+            {
+                  "name": "Josef Egger",
+                  "text": "Emlékmű Josef Egger tiszteletére Purkersdorfban.",
+                  "category": "historical",
+                  "coords": [
+                        16.149677,
+                        48.226673
+                  ]
+            },
+            {
+                  "name": "Gablitzer Kunstkeller",
+                  "text": "A művészet iránt érdeklődőket Purkersdorfban a Gablitzer Kunstkeller vonzza, ahol kortárs műveket mutatnak be. Ez a különleges osztrák múzeum olyan kiállításokat kínál, amelyek a helyi és regionális művészeti eseményekre világítanak rá. A látogatókat a modern kreatív irányzatok sokrétű bemutatása várja.",
+                  "category": "museum",
+                  "coords": [
+                        16.151983,
+                        48.228549
+                  ]
+            },
+            {
+                  "name": "Evangelisches Pfarrzentrum",
+                  "text": "Evangélikus közösségi központ istentiszteletekhez Purkersdorfban.",
+                  "category": "religious",
+                  "coords": [
+                        16.180006,
+                        48.209827
+                  ]
+            },
+            {
+                  "name": "Pfarrkirche Sankt Jakob",
+                  "text": "Purkersdorf római katolikus plébániatemploma, Szent Jakabnak szentelve.",
+                  "category": "religious",
+                  "coords": [
+                        16.1755,
+                        48.207432
+                  ]
+            },
+            {
+                  "name": "St. Laurenz",
+                  "text": "Gablitz barokk plébániatemploma Purkersdorf közelében.",
+                  "category": "religious",
+                  "coords": [
+                        16.150766,
+                        48.227163
+                  ]
+            },
+            {
+                  "name": "Wienerwaldsee",
+                  "text": "A Purkersdorf közelében található Wienerwaldsee egy festői víztározó, amely ideális a nyugodt természetjáráshoz.",
+                  "category": "natural",
+                  "coords": [
+                        16.117938,
+                        48.180563
+                  ]
+            },
+            {
+                  "name": "Heschteich",
+                  "text": "A Purkersdorfban található Heschteich egy csendes tó, amely nyugodt környezetet biztosít a kikapcsolódáshoz.",
+                  "category": "natural",
+                  "coords": [
+                        16.273898,
+                        48.215023
+                  ]
+            },
+            {
+                  "name": "Spielplatz Kellerwiese",
+                  "text": "A Purkersdorfban található Spielplatz Kellerwiese egy népszerű helyi játszótér családi kirándulásokhoz.",
+                  "category": "family",
+                  "coords": [
+                        16.176502,
+                        48.204977
+                  ]
+            },
+            {
+                  "name": "Kinderspielplatz Gablitz",
+                  "text": "Ez a Purkersdorfban található játszótér szórakoztató és biztonságos helyet biztosít a gyerekeknek a játékhoz.",
+                  "category": "family",
+                  "coords": [
+                        16.153328,
+                        48.228414
+                  ]
+            },
+            {
+                  "name": "Robinson-Spielplatz",
+                  "text": "A Purkersdorfban található Robinson-Spielplatz egy kalandjátszótér, amelyet a gyerekek örömmel fedeznek fel.",
+                  "category": "family",
+                  "coords": [
+                        16.143882,
+                        48.225953
+                  ]
+            },
+            {
+                  "name": "Biospharenpark Wienerwald Kernzone Deutschwald",
+                  "text": "A Bécsi-erdő Bioszféra-rezervátum védett magterülete Purkersdorf közelében.",
+                  "category": "natural",
+                  "coords": [
+                        16.179348,
+                        48.191087
+                  ]
+            },
+            {
+                  "name": "Biospharenpark Wienerwald Kernzone Waldandacht",
+                  "text": "Természetes erdőterület a Bécsi-erdő Bioszféra-rezervátum magterületén.",
+                  "category": "natural",
+                  "coords": [
+                        16.200202,
+                        48.21715
+                  ]
+            },
+            {
+                  "name": "Biospharenpark Wienerwald Kernzone Baunzen",
+                  "text": "Az UNESCO Bécsi-erdő Bioszféra-rezervátum része, amely a helyi élővilág védelmét szolgálja.",
+                  "category": "natural",
+                  "coords": [
+                        16.158052,
+                        48.187351
+                  ]
+            },
+            {
+                  "name": "Schwimmbad Gablitz",
+                  "text": "Szabadtéri strand Purkersdorf közelében, amely hűsölési lehetőséget kínál a nyári napokon.",
+                  "category": "recreational",
+                  "coords": [
+                        16.150111,
+                        48.229494
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Freiluftbühne",
+                  "text": "Scena în aer liber din Purkersdorf este un loc popular pentru spectacole de teatru și concerte de vară.",
+                  "category": "cultural",
+                  "coords": [
+                        16.145001,
+                        48.19256
+                  ]
+            },
+            {
+                  "name": "Wienerwaldbad Purkersdorf",
+                  "text": "Wienerwaldbad este un ștrand situat idilic în Purkersdorf, ideal pentru recreere pe timp de vară.",
+                  "category": "family",
+                  "coords": [
+                        16.171487,
+                        48.202886
+                  ]
+            },
+            {
+                  "name": "Wildtiergehege",
+                  "text": "Rezervația de animale sălbatice din Purkersdorf permite vizitatorilor observarea animalelor autohtone în mediul lor natural.",
+                  "category": "family",
+                  "coords": [
+                        16.177412,
+                        48.205444
+                  ]
+            },
+            {
+                  "name": "82er Haus",
+                  "text": "82er Haus este o instituție culturală din Purkersdorf, care oferă spațiu pentru teatru și cabaret.",
+                  "category": "cultural",
+                  "coords": [
+                        16.153267,
+                        48.229668
+                  ]
+            },
+            {
+                  "name": "Rudolfshöhe",
+                  "text": "Rudolfshöhe este un punct de belvedere popular în Wienerwald, dotat cu un turn de observație.",
+                  "category": "natural",
+                  "coords": [
+                        16.187246,
+                        48.195591
+                  ]
+            },
+            {
+                  "name": "Georgenberg",
+                  "text": "Un vârf muntos împădurit în apropiere de Purkersdorf.",
+                  "category": "natural",
+                  "coords": [
+                        16.183928,
+                        48.202041
+                  ]
+            },
+            {
+                  "name": "Schöffelstein",
+                  "text": "Un vârf muntos împădurit în Pădurea Vieneză, lângă Purkersdorf.",
+                  "category": "natural",
+                  "coords": [
+                        16.175425,
+                        48.19819
+                  ]
+            },
+            {
+                  "name": "Weidlingauer Eichberg",
+                  "text": "Un vârf proeminent în peisajul din Purkersdorf.",
+                  "category": "natural",
+                  "coords": [
+                        16.195138,
+                        48.21312
+                  ]
+            },
+            {
+                  "name": "Gelber Berg",
+                  "text": "O formă de relief naturală în regiunea Purkersdorf.",
+                  "category": "natural",
+                  "coords": [
+                        16.185162,
+                        48.192675
+                  ]
+            },
+            {
+                  "name": "Purkersdorfer Eichberg",
+                  "text": "Un vârf la poalele Pădurii Vieneze, lângă Purkersdorf.",
+                  "category": "natural",
+                  "coords": [
+                        16.181547,
+                        48.218337
+                  ]
+            },
+            {
+                  "name": "Josef Egger",
+                  "text": "Un monument în onoarea lui Josef Egger în Purkersdorf.",
+                  "category": "historical",
+                  "coords": [
+                        16.149677,
+                        48.226673
+                  ]
+            },
+            {
+                  "name": "Gablitzer Kunstkeller",
+                  "text": "Pasionații de artă sunt atrași în Purkersdorf de Gablitzer Kunstkeller, unde sunt prezentate opere contemporane. Acest muzeu special din Austria oferă expoziții care evidențiază scena artistică locală și regională. Vizitatorii au parte de o perspectivă multifațetată asupra curentelor creative moderne.",
+                  "category": "museum",
+                  "coords": [
+                        16.151983,
+                        48.228549
+                  ]
+            },
+            {
+                  "name": "Evangelisches Pfarrzentrum",
+                  "text": "Un centru parohial evanghelic pentru slujbe religioase în Purkersdorf.",
+                  "category": "religious",
+                  "coords": [
+                        16.180006,
+                        48.209827
+                  ]
+            },
+            {
+                  "name": "Pfarrkirche Sankt Jakob",
+                  "text": "Biserica parohială romano-catolică din Purkersdorf, dedicată Sfântului Iacob.",
+                  "category": "religious",
+                  "coords": [
+                        16.1755,
+                        48.207432
+                  ]
+            },
+            {
+                  "name": "St. Laurenz",
+                  "text": "Biserica parohială barocă din Gablitz, în apropiere de Purkersdorf.",
+                  "category": "religious",
+                  "coords": [
+                        16.150766,
+                        48.227163
+                  ]
+            },
+            {
+                  "name": "Wienerwaldsee",
+                  "text": "Wienerwaldsee de lângă Purkersdorf este un lac de acumulare pitoresc, ideal pentru plimbări liniștite în natură.",
+                  "category": "natural",
+                  "coords": [
+                        16.117938,
+                        48.180563
+                  ]
+            },
+            {
+                  "name": "Heschteich",
+                  "text": "Heschteich este un lac liniștit din Purkersdorf care oferă un cadru calm pentru relaxare.",
+                  "category": "natural",
+                  "coords": [
+                        16.273898,
+                        48.215023
+                  ]
+            },
+            {
+                  "name": "Spielplatz Kellerwiese",
+                  "text": "Spielplatz Kellerwiese din Purkersdorf este un loc de joacă local popular pentru ieșirile în familie.",
+                  "category": "family",
+                  "coords": [
+                        16.176502,
+                        48.204977
+                  ]
+            },
+            {
+                  "name": "Kinderspielplatz Gablitz",
+                  "text": "Acest loc de joacă din Purkersdorf oferă o zonă distractivă și sigură pentru joaca copiilor.",
+                  "category": "family",
+                  "coords": [
+                        16.153328,
+                        48.228414
+                  ]
+            },
+            {
+                  "name": "Robinson-Spielplatz",
+                  "text": "Robinson-Spielplatz din Purkersdorf este un loc de joacă plin de aventură pe care copiii îl vor explora cu plăcere.",
+                  "category": "family",
+                  "coords": [
+                        16.143882,
+                        48.225953
+                  ]
+            },
+            {
+                  "name": "Biospharenpark Wienerwald Kernzone Deutschwald",
+                  "text": "O zonă centrală protejată a Rezervației Biosferei Wienerwald de lângă Purkersdorf.",
+                  "category": "natural",
+                  "coords": [
+                        16.179348,
+                        48.191087
+                  ]
+            },
+            {
+                  "name": "Biospharenpark Wienerwald Kernzone Waldandacht",
+                  "text": "O zonă forestieră naturală în zona centrală a Rezervației Biosferei Wienerwald.",
+                  "category": "natural",
+                  "coords": [
+                        16.200202,
+                        48.21715
+                  ]
+            },
+            {
+                  "name": "Biospharenpark Wienerwald Kernzone Baunzen",
+                  "text": "Parte a Rezervației Biosferei UNESCO Wienerwald, dedicată protejării florei și faunei locale.",
+                  "category": "natural",
+                  "coords": [
+                        16.158052,
+                        48.187351
+                  ]
+            },
+            {
+                  "name": "Schwimmbad Gablitz",
+                  "text": "O piscină în aer liber lângă Purkersdorf, care oferă răcoare în zilele de vară.",
+                  "category": "recreational",
+                  "coords": [
+                        16.150111,
+                        48.229494
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Freiluftbühne",
+                  "text": "The open-air stage in Purkersdorf is a popular venue for summer theater performances and concerts.",
+                  "category": "cultural",
+                  "coords": [
+                        16.145001,
+                        48.19256
+                  ]
+            },
+            {
+                  "name": "Wienerwaldbad Purkersdorf",
+                  "text": "The Wienerwaldbad is an idyllically located outdoor pool in Purkersdorf, ideal for summer relaxation.",
+                  "category": "family",
+                  "coords": [
+                        16.171487,
+                        48.202886
+                  ]
+            },
+            {
+                  "name": "Wildtiergehege",
+                  "text": "The wildlife enclosure in Purkersdorf allows visitors to observe native animals in a natural environment.",
+                  "category": "family",
+                  "coords": [
+                        16.177412,
+                        48.205444
+                  ]
+            },
+            {
+                  "name": "82er Haus",
+                  "text": "The 82er Haus is a cultural institution in Purkersdorf providing space for theater and cabaret.",
+                  "category": "cultural",
+                  "coords": [
+                        16.153267,
+                        48.229668
+                  ]
+            },
+            {
+                  "name": "Rudolfshöhe",
+                  "text": "Rudolfshöhe is a popular viewpoint in the Vienna Woods with an observation tower.",
+                  "category": "natural",
+                  "coords": [
+                        16.187246,
+                        48.195591
+                  ]
+            },
+            {
+                  "name": "Georgenberg",
+                  "text": "A forested peak located in the vicinity of Purkersdorf.",
+                  "category": "natural",
+                  "coords": [
+                        16.183928,
+                        48.202041
+                  ]
+            },
+            {
+                  "name": "Schöffelstein",
+                  "text": "A forested peak in the Vienna Woods near Purkersdorf.",
+                  "category": "natural",
+                  "coords": [
+                        16.175425,
+                        48.19819
+                  ]
+            },
+            {
+                  "name": "Weidlingauer Eichberg",
+                  "text": "A prominent peak in the landscape of Purkersdorf.",
+                  "category": "natural",
+                  "coords": [
+                        16.195138,
+                        48.21312
+                  ]
+            },
+            {
+                  "name": "Gelber Berg",
+                  "text": "A natural elevation in the Purkersdorf region.",
+                  "category": "natural",
+                  "coords": [
+                        16.185162,
+                        48.192675
+                  ]
+            },
+            {
+                  "name": "Purkersdorfer Eichberg",
+                  "text": "A peak in the foothills of the Vienna Woods near Purkersdorf.",
+                  "category": "natural",
+                  "coords": [
+                        16.181547,
+                        48.218337
+                  ]
+            },
+            {
+                  "name": "Josef Egger",
+                  "text": "A monument dedicated to Josef Egger in Purkersdorf.",
+                  "category": "historical",
+                  "coords": [
+                        16.149677,
+                        48.226673
+                  ]
+            },
+            {
+                  "name": "Gablitzer Kunstkeller",
+                  "text": "Art enthusiasts are drawn to the Gablitzer Kunstkeller in Purkersdorf, where contemporary works are presented. This special museum in Austria offers exhibitions that highlight the local and regional art scene. Visitors can expect a multifaceted insight into modern creative trends.",
+                  "category": "museum",
+                  "coords": [
+                        16.151983,
+                        48.228549
+                  ]
+            },
+            {
+                  "name": "Evangelisches Pfarrzentrum",
+                  "text": "A Protestant parish center for worship in Purkersdorf.",
+                  "category": "religious",
+                  "coords": [
+                        16.180006,
+                        48.209827
+                  ]
+            },
+            {
+                  "name": "Pfarrkirche Sankt Jakob",
+                  "text": "The Roman Catholic parish church of Purkersdorf, dedicated to Saint James.",
+                  "category": "religious",
+                  "coords": [
+                        16.1755,
+                        48.207432
+                  ]
+            },
+            {
+                  "name": "St. Laurenz",
+                  "text": "The Baroque parish church of Gablitz near Purkersdorf.",
+                  "category": "religious",
+                  "coords": [
+                        16.150766,
+                        48.227163
+                  ]
+            },
+            {
+                  "name": "Wienerwaldsee",
+                  "text": "Wienerwaldsee near Purkersdorf is a scenic reservoir ideal for peaceful walks in nature.",
+                  "category": "natural",
+                  "coords": [
+                        16.117938,
+                        48.180563
+                  ]
+            },
+            {
+                  "name": "Heschteich",
+                  "text": "Heschteich is a quiet lake in Purkersdorf offering a tranquil setting for relaxation.",
+                  "category": "natural",
+                  "coords": [
+                        16.273898,
+                        48.215023
+                  ]
+            },
+            {
+                  "name": "Spielplatz Kellerwiese",
+                  "text": "Spielplatz Kellerwiese in Purkersdorf is a popular local playground for family outings.",
+                  "category": "family",
+                  "coords": [
+                        16.176502,
+                        48.204977
+                  ]
+            },
+            {
+                  "name": "Kinderspielplatz Gablitz",
+                  "text": "This playground in Purkersdorf provides a fun and safe area for kids to play.",
+                  "category": "family",
+                  "coords": [
+                        16.153328,
+                        48.228414
+                  ]
+            },
+            {
+                  "name": "Robinson-Spielplatz",
+                  "text": "Robinson-Spielplatz in Purkersdorf is an adventure playground that children will love exploring.",
+                  "category": "family",
+                  "coords": [
+                        16.143882,
+                        48.225953
+                  ]
+            },
+            {
+                  "name": "Biospharenpark Wienerwald Kernzone Deutschwald",
+                  "text": "A protected core zone of the Vienna Woods Biosphere Reserve near Purkersdorf.",
+                  "category": "natural",
+                  "coords": [
+                        16.179348,
+                        48.191087
+                  ]
+            },
+            {
+                  "name": "Biospharenpark Wienerwald Kernzone Waldandacht",
+                  "text": "A natural forest area in the core zone of the Vienna Woods Biosphere Reserve.",
+                  "category": "natural",
+                  "coords": [
+                        16.200202,
+                        48.21715
+                  ]
+            },
+            {
+                  "name": "Biospharenpark Wienerwald Kernzone Baunzen",
+                  "text": "Part of the UNESCO Vienna Woods Biosphere Reserve, dedicated to protecting local flora and fauna.",
+                  "category": "natural",
+                  "coords": [
+                        16.158052,
+                        48.187351
+                  ]
+            },
+            {
+                  "name": "Schwimmbad Gablitz",
+                  "text": "An outdoor swimming pool near Purkersdorf, offering cooling on summer days.",
+                  "category": "recreational",
+                  "coords": [
+                        16.150111,
+                        48.229494
+                  ]
+            }
+      ]
+}, "type": "city", "parent": "AT-3", "coords": [16.1672, 48.2078], "population": 10539, "image": "/geo-images/austria/at-purkersdorf.webp", "name": {"de": "Purkersdorf", "hu": "Purkersdorf", "ro": "Purkersdorf", "en": "Purkersdorf"}, "description": {"de": "Purkersdorf liegt unmittelbar an der Wiener Stadtgrenze im Herzen des Wienerwaldes und verbindet naturnahes Wohnen mit historischem Flair.", "hu": "Purkersdorf közvetlenül Bécs határában, a Bécsi-erdő szívében található, ötvözve a természetközeli lakókörnyezetet a történelmi hangulattal.", "ro": "Purkersdorf este situat direct la granița cu Viena, în inima Pădurii Vieneze, combinând locuințele în natură cu farmecul istoric.", "en": "Purkersdorf is located directly on the Vienna city boundary in the heart of the Vienna Woods, combining nature-oriented living with historical flair."}, "facts": {"de": ["Wienerwald-Lage", "Sanatorium Purkersdorf", "Poststation-Historie", "Wienfluss-Quelle"], "hu": ["Bécsi-erdő fekvés", "Purkersdorfi szanatórium", "Postaállomás múlt", "Bécs-folyó forrásvidék"], "ro": ["Locație în Pădurea Vieneză", "Sanatoriul Purkersdorf", "Istorie ca stație poștală", "Zona izvoarelor râului Viena"], "en": ["Vienna Woods location", "Purkersdorf Sanatorium", "Post station history", "Wien River source area"]}, "descriptionAdvanced": {"de": "Purkersdorf ist eine Stadtgemeinde im Bezirk Sankt Pölten-Land in Niederösterreich, die direkt an den Westen Wiens grenzt. Geografisch liegt die Stadt im Tal des Wienflusses und ist vom waldreichen Hügelland des Wienerwaldes umgeben. Die Geschichte der Siedlung reicht bis ins 12. Jahrhundert zurück, wobei der Ort im Jahr 1130 erstmals urkundlich als Purchartsdorf erwähnt wurde. Eine zentrale Rolle in der Stadtentwicklung spielte das Sanatorium Purkersdorf, das 1904 bis 1905 von dem bedeutenden Architekten Josef Hoffmann im Jugendstil errichtet wurde und als Meilenstein der modernen Architektur gilt. Im 16. Jahrhundert war Purkersdorf eine wichtige kaiserliche Poststation an der Verbindung von Wien nach Linz. Heute zeichnet sich die Stadt durch eine hohe Lebensqualität, zahlreiche Wanderwege im Naturpark Purkersdorf-Sandsteinwienerwald und eine exzellente Verkehrsanbindung an die Bundeshauptstadt aus. Die Wirtschaft ist vorwiegend durch Dienstleistungsbetriebe und den Einzelhandel geprägt, während die Stadt gleichzeitig als beliebte Wohngemeinde für Pendler fungiert.", "hu": "Purkersdorf városi rangú település Alsó-Ausztriában, a Sankt Pölten-Land járásban, közvetlenül Bécs nyugati határán. Földrajzilag a Bécs-folyó (Wienfluss) völgyében fekszik, a Bécsi-erdő erdős dombjai által körülvéve. A település története a 12. századig nyúlik vissza, első írásos említése 1130-ból származik Purchartsdorf néven. A város fejlődésében meghatározó szerepet játszott a Purkersdorfi Szanatórium, amelyet 1904 és 1905 között Josef Hoffmann neves építész tervezett szecessziós stílusban, és a modern építészet mérföldköveként tartják számon. A 16. században fontos császári postaállomás volt a Bécs és Linz közötti útvonalon. Ma a város magas életminőségéről, a Purkersdorf-Sandsteinwienerwald natúrpark számos túraútvonaláról és a szövetségi fővárosba irányuló kiváló közlekedési kapcsolatairól ismert. Gazdaságát elsősorban szolgáltatóipari egységek és kiskereskedelem jellemzi, miközben a város kedvelt lakóhely az ingázók számára.", "ro": "Purkersdorf este o municipalitate urbană în districtul Sankt Pölten-Land din Austria Inferioară, învecinându-se direct cu vestul Vienei. Din punct de vedere geografic, orașul este situat în valea râului Viena și este înconjurat de dealurile împădurite ale Pădurii Vieneze. Istoria așezării datează din secolul al XII-lea, localitatea fiind menționată documentar pentru prima dată în 1130 sub numele de Purchartsdorf. Un rol central în dezvoltarea orașului l-a jucat Sanatoriul Purkersdorf, construit între 1904 și 1905 de renumitul arhitect Josef Hoffmann în stil Art Nouveau, fiind considerat un reper al arhitecturii moderne. În secolul al XVI-lea, Purkersdorf a fost o importantă stație poștală imperială pe ruta dintre Viena și Linz. Astăzi, orașul se remarcă printr-o calitate ridicată a vieții, numeroase trasee de drumeție în Parcul Natural Purkersdorf-Sandsteinwienerwald și o conexiune excelentă de transport cu capitala federală. Economia este dominată în principal de companii de servicii și comerț cu amănuntul, în timp ce orașul funcționează ca o comunitate rezidențială populară pentru navetiști.", "en": "Purkersdorf is a town municipality in the district of Sankt Pölten-Land in Lower Austria, directly bordering the west of Vienna. Geographically, the town lies in the valley of the Wien River and is surrounded by the wooded hills of the Vienna Woods. The history of the settlement dates back to the 12th century, with the town being first mentioned in documents in 1130 as Purchartsdorf. A central role in the town's development was played by the Purkersdorf Sanatorium, built between 1904 and 1905 by the prominent architect Josef Hoffmann in the Art Nouveau style, considered a milestone of modern architecture. In the 16th century, Purkersdorf was an important imperial post station on the route from Vienna to Linz. Today, the town is characterized by a high quality of life, numerous hiking trails in the Purkersdorf-Sandsteinwienerwald Nature Park, and excellent transport connections to the federal capital. The economy is primarily shaped by service companies and retail, while the town simultaneously serves as a popular residential community for commuters."}, "factsAdvanced": {"de": ["Erste urkundliche Erwähnung im Jahr 1130 als Purchartsdorf.", "Errichtung des Sanatoriums Purkersdorf durch Josef Hoffmann 1904.", "Erhebung zur Stadtgemeinde erfolgte im Jahr 1966.", "Fläche der Stadtgemeinde beträgt etwa 30,25 Quadratkilometer.", "Der Naturpark Purkersdorf umfasst eine Fläche von rund 77 Hektar.", "Historische Poststation war seit 1558 ein wichtiger Knotenpunkt."], "hu": ["Első írásos említése 1130-ban történt Purchartsdorf néven.", "A Purkersdorfi Szanatórium felépítése Josef Hoffmann által 1904-ben.", "A település 1966-ban kapott városi rangot.", "A város teljes területe körülbelül 30,25 négyzetkilométer.", "A Purkersdorfi Natúrpark területe nagyjából 77 hektár.", "A történelmi postaállomás 1558 óta volt fontos csomópont."], "ro": ["Prima mențiune documentară în anul 1130 sub numele de Purchartsdorf.", "Construcția Sanatoriului Purkersdorf de către Josef Hoffmann în 1904.", "Ridicarea la rang de oraș a avut loc în anul 1966.", "Suprafața municipalității este de aproximativ 30,25 kilometri pătrați.", "Parcul Natural Purkersdorf acoperă o suprafață de circa 77 de hectare.", "Stația poștală istorică a fost un nod important începând cu 1558."], "en": ["First documented mention in the year 1130 as Purchartsdorf.", "Construction of the Purkersdorf Sanatorium by Josef Hoffmann in 1904.", "Elevation to town status occurred in the year 1966.", "Area of the town municipality is approximately 30.25 square kilometers.", "The Purkersdorf Nature Park covers an area of about 77 hectares.", "Historical post station was an important hub since 1558."]}, "faq": {"de": [{"q": "Warum ist das Sanatorium Purkersdorf berühmt?", "a": "Es gilt als wegweisendes Bauwerk der Wiener Moderne und des Jugendstils."}, {"q": "Welche Freizeitaktivitäten bietet Purkersdorf?", "a": "Besonders beliebt sind Wanderungen und Naturerlebnisse im Naturpark Purkersdorf."}, {"q": "Wie weit ist Purkersdorf von Wien entfernt?", "a": "Das Stadtzentrum von Purkersdorf liegt direkt an der westlichen Wiener Stadtgrenze."}, {"q": "Wann wurde Purkersdorf zur Stadt erhoben?", "a": "Die Marktgemeinde Purkersdorf erhielt im Jahr 1966 den Status einer Stadt."}], "hu": [{"q": "Miért híres a Purkersdorfi Szanatórium?", "a": "A bécsi modernizmus és a szecesszió úttörő építészeti alkotásának számít."}, {"q": "Milyen szabadidős lehetőségeket kínál Purkersdorf?", "a": "Különösen népszerűek a túrák és természetközeli élmények a Purkersdorfi Natúrparkban."}, {"q": "Milyen messze van Purkersdorf Bécstől?", "a": "Purkersdorf városközpontja közvetlenül Bécs nyugati határa mellett található."}, {"q": "Mikor kapott Purkersdorf városi rangot?", "a": "Purkersdorf mezővárosa 1966-ban nyerte el a városi státuszt."}], "ro": [{"q": "De ce este faimos Sanatoriul Purkersdorf?", "a": "Este considerat o operă arhitecturală de pionierat a modernismului vienez și a stilului Art Nouveau."}, {"q": "Ce activități de petrecere a timpului liber oferă Purkersdorf?", "a": "Sunt populare în special drumețiile și experiențele în natură în Parcul Natural Purkersdorf."}, {"q": "Cât de departe este Purkersdorf de Viena?", "a": "Centrul orașului Purkersdorf este situat direct la granița vestică a Vienei."}, {"q": "Când a fost ridicat Purkersdorf la rang de oraș?", "a": "Municipalitatea Purkersdorf a primit statutul de oraș în anul 1966."}], "en": [{"q": "Why is the Purkersdorf Sanatorium famous?", "a": "It is considered a pioneering architectural work of Viennese Modernism and Art Nouveau."}, {"q": "What leisure activities does Purkersdorf offer?", "a": "Hiking and nature experiences in the Purkersdorf Nature Park are particularly popular."}, {"q": "How far is Purkersdorf from Vienna?", "a": "The town center of Purkersdorf is located directly on the western Vienna city boundary."}, {"q": "When was Purkersdorf elevated to a town?", "a": "The market town of Purkersdorf received town status in the year 1966."}]}},
   {"id": "at-lauterach", "sights": {
       "de": [
             {
@@ -23933,6 +27308,15 @@ export const poiExtraAtChMissingV1: POI[] = [
                         16.836375,
                         47.928686
                   ]
+            },
+            {
+                  "name": "Ruine Tabor",
+                  "text": "Überreste einer mittelalterlichen Wehranlage auf einem Hügel in Neusiedl am See.",
+                  "category": "castle",
+                  "coords": [
+                        16.840917,
+                        47.95207
+                  ]
             }
       ],
       "hu": [
@@ -24006,6 +27390,15 @@ export const poiExtraAtChMissingV1: POI[] = [
                   "coords": [
                         16.836375,
                         47.928686
+                  ]
+            },
+            {
+                  "name": "Ruine Tabor",
+                  "text": "Középkori erődítmény maradványai egy dombon, Neusiedl am See-ben.",
+                  "category": "castle",
+                  "coords": [
+                        16.840917,
+                        47.95207
                   ]
             }
       ],
@@ -24081,6 +27474,15 @@ export const poiExtraAtChMissingV1: POI[] = [
                         16.836375,
                         47.928686
                   ]
+            },
+            {
+                  "name": "Ruine Tabor",
+                  "text": "Rămășițele unei fortificații medievale pe un deal din Neusiedl am See.",
+                  "category": "castle",
+                  "coords": [
+                        16.840917,
+                        47.95207
+                  ]
             }
       ],
       "en": [
@@ -24154,6 +27556,15 @@ export const poiExtraAtChMissingV1: POI[] = [
                   "coords": [
                         16.836375,
                         47.928686
+                  ]
+            },
+            {
+                  "name": "Ruine Tabor",
+                  "text": "Remains of a medieval fortification on a hill in Neusiedl am See.",
+                  "category": "castle",
+                  "coords": [
+                        16.840917,
+                        47.95207
                   ]
             }
       ]
@@ -27683,6 +31094,33 @@ export const poiExtraAtChMissingV1: POI[] = [
                         15.901379,
                         48.197493
                   ]
+            },
+            {
+                  "name": "Burg Neulengbach",
+                  "text": "Die Burg Neulengbach ist eine markante Burganlage, die über der gleichnamigen Stadt thront.",
+                  "category": "castle",
+                  "coords": [
+                        15.910352,
+                        48.198377
+                  ]
+            },
+            {
+                  "name": "Ruine Raipoltenbach",
+                  "text": "Die Ruine Raipoltenbach ist die Ruine einer einstigen Höhenburg in der Nähe von Neulengbach.",
+                  "category": "castle",
+                  "coords": [
+                        15.88692,
+                        48.216969
+                  ]
+            },
+            {
+                  "name": "Ortskapelle hll. Rochus und Florian",
+                  "text": "Die Ortskapelle hll. Rochus und Florian ist ein sakraler Bau im Gebiet von Neulengbach.",
+                  "category": "landmark",
+                  "coords": [
+                        15.888603,
+                        48.217562
+                  ]
             }
       ],
       "hu": [
@@ -27774,6 +31212,33 @@ export const poiExtraAtChMissingV1: POI[] = [
                   "coords": [
                         15.901379,
                         48.197493
+                  ]
+            },
+            {
+                  "name": "Burg Neulengbach",
+                  "text": "A Neulengbach vára egy jelentős erődítmény, amely a város felett magasodik.",
+                  "category": "castle",
+                  "coords": [
+                        15.910352,
+                        48.198377
+                  ]
+            },
+            {
+                  "name": "Ruine Raipoltenbach",
+                  "text": "A Raipoltenbach romja egy egykori hegyi vár maradványa Neulengbach közelében.",
+                  "category": "castle",
+                  "coords": [
+                        15.88692,
+                        48.216969
+                  ]
+            },
+            {
+                  "name": "Ortskapelle hll. Rochus und Florian",
+                  "text": "A Szent Rókus és Flórián kápolna egy szakrális épület Neulengbach területén.",
+                  "category": "landmark",
+                  "coords": [
+                        15.888603,
+                        48.217562
                   ]
             }
       ],
@@ -27867,6 +31332,33 @@ export const poiExtraAtChMissingV1: POI[] = [
                         15.901379,
                         48.197493
                   ]
+            },
+            {
+                  "name": "Burg Neulengbach",
+                  "text": "Castelul Neulengbach este o fortificație impunătoare care domină orașul cu același nume.",
+                  "category": "castle",
+                  "coords": [
+                        15.910352,
+                        48.198377
+                  ]
+            },
+            {
+                  "name": "Ruine Raipoltenbach",
+                  "text": "Ruina Raipoltenbach reprezintă vestigiile unui fost castel de munte din apropiere de Neulengbach.",
+                  "category": "castle",
+                  "coords": [
+                        15.88692,
+                        48.216969
+                  ]
+            },
+            {
+                  "name": "Ortskapelle hll. Rochus und Florian",
+                  "text": "Capela locală Sfinții Rochus și Florian este un edificiu sacru din zona Neulengbach.",
+                  "category": "landmark",
+                  "coords": [
+                        15.888603,
+                        48.217562
+                  ]
             }
       ],
       "en": [
@@ -27958,6 +31450,33 @@ export const poiExtraAtChMissingV1: POI[] = [
                   "coords": [
                         15.901379,
                         48.197493
+                  ]
+            },
+            {
+                  "name": "Burg Neulengbach",
+                  "text": "Burg Neulengbach is a prominent castle complex overlooking the town of Neulengbach.",
+                  "category": "castle",
+                  "coords": [
+                        15.910352,
+                        48.198377
+                  ]
+            },
+            {
+                  "name": "Ruine Raipoltenbach",
+                  "text": "Ruine Raipoltenbach is the ruin of a former hill castle near Neulengbach.",
+                  "category": "castle",
+                  "coords": [
+                        15.88692,
+                        48.216969
+                  ]
+            },
+            {
+                  "name": "Ortskapelle hll. Rochus und Florian",
+                  "text": "The local chapel of St. Roch and St. Florian is a sacred building in the Neulengbach area.",
+                  "category": "landmark",
+                  "coords": [
+                        15.888603,
+                        48.217562
                   ]
             }
       ]
@@ -32967,6 +36486,15 @@ export const poiExtraAtChMissingV1: POI[] = [
                         11.626964,
                         47.297008
                   ]
+            },
+            {
+                  "name": "Swarovski Kristallwelten",
+                  "text": "Die Swarovski Kristallwelten sind eine weltberühmte Erlebniswelt und ein Themenpark in Wattens.",
+                  "category": "recreational",
+                  "coords": [
+                        11.601708,
+                        47.29374
+                  ]
             }
       ],
       "hu": [
@@ -33184,6 +36712,15 @@ export const poiExtraAtChMissingV1: POI[] = [
                   "coords": [
                         11.626964,
                         47.297008
+                  ]
+            },
+            {
+                  "name": "Swarovski Kristallwelten",
+                  "text": "A Swarovski Kristallwelten egy világhírű élménypark és kiállítóhely Wattensben.",
+                  "category": "recreational",
+                  "coords": [
+                        11.601708,
+                        47.29374
                   ]
             }
       ],
@@ -33403,6 +36940,15 @@ export const poiExtraAtChMissingV1: POI[] = [
                         11.626964,
                         47.297008
                   ]
+            },
+            {
+                  "name": "Swarovski Kristallwelten",
+                  "text": "Swarovski Kristallwelten este o lume a experiențelor și un parc tematic renumit în Wattens.",
+                  "category": "recreational",
+                  "coords": [
+                        11.601708,
+                        47.29374
+                  ]
             }
       ],
       "en": [
@@ -33620,6 +37166,15 @@ export const poiExtraAtChMissingV1: POI[] = [
                   "coords": [
                         11.626964,
                         47.297008
+                  ]
+            },
+            {
+                  "name": "Swarovski Kristallwelten",
+                  "text": "Swarovski Kristallwelten is a world-famous experience center and theme park in Wattens.",
+                  "category": "recreational",
+                  "coords": [
+                        11.601708,
+                        47.29374
                   ]
             }
       ]
@@ -35636,6 +39191,15 @@ export const poiExtraAtChMissingV1: POI[] = [
                         9.664829,
                         47.49374
                   ]
+            },
+            {
+                  "name": "Strandbad Bruggerhorn",
+                  "text": "Das Strandbad Bruggerhorn ist eine öffentliche Badeanlage und ein beliebtes Erholungsgebiet in Höchst.",
+                  "category": "recreational",
+                  "coords": [
+                        9.656955,
+                        47.452461
+                  ]
             }
       ],
       "hu": [
@@ -35889,6 +39453,15 @@ export const poiExtraAtChMissingV1: POI[] = [
                   "coords": [
                         9.664829,
                         47.49374
+                  ]
+            },
+            {
+                  "name": "Strandbad Bruggerhorn",
+                  "text": "A Strandbad Bruggerhorn egy nyilvános strand és népszerű üdülőhely Höchstben.",
+                  "category": "recreational",
+                  "coords": [
+                        9.656955,
+                        47.452461
                   ]
             }
       ],
@@ -36144,6 +39717,15 @@ export const poiExtraAtChMissingV1: POI[] = [
                         9.664829,
                         47.49374
                   ]
+            },
+            {
+                  "name": "Strandbad Bruggerhorn",
+                  "text": "Strandbad Bruggerhorn este un ștrand public și o zonă populară de recreere din Höchst.",
+                  "category": "recreational",
+                  "coords": [
+                        9.656955,
+                        47.452461
+                  ]
             }
       ],
       "en": [
@@ -36397,6 +39979,15 @@ export const poiExtraAtChMissingV1: POI[] = [
                   "coords": [
                         9.664829,
                         47.49374
+                  ]
+            },
+            {
+                  "name": "Strandbad Bruggerhorn",
+                  "text": "Strandbad Bruggerhorn is a public swimming facility and a popular recreation area in Höchst.",
+                  "category": "recreational",
+                  "coords": [
+                        9.656955,
+                        47.452461
                   ]
             }
       ]
@@ -36827,6 +40418,15 @@ export const poiExtraAtChMissingV1: POI[] = [
                         16.043718,
                         48.174755
                   ]
+            },
+            {
+                  "name": "Biospharenpark Wienerwald Kernzone Sattel",
+                  "text": "Diese Kernzone liegt im Biosphärenpark Wienerwald, einem geschützten Waldgebiet bei Pressbaum.",
+                  "category": "natural",
+                  "coords": [
+                        16.087244,
+                        48.161469
+                  ]
             }
       ],
       "hu": [
@@ -36954,6 +40554,15 @@ export const poiExtraAtChMissingV1: POI[] = [
                   "coords": [
                         16.043718,
                         48.174755
+                  ]
+            },
+            {
+                  "name": "Biospharenpark Wienerwald Kernzone Sattel",
+                  "text": "Ez a magzóna a Wienerwald Bioszféra-parkban, egy Pressbaum melletti védett erdőterületen található.",
+                  "category": "natural",
+                  "coords": [
+                        16.087244,
+                        48.161469
                   ]
             }
       ],
@@ -37083,6 +40692,15 @@ export const poiExtraAtChMissingV1: POI[] = [
                         16.043718,
                         48.174755
                   ]
+            },
+            {
+                  "name": "Biospharenpark Wienerwald Kernzone Sattel",
+                  "text": "Această zonă centrală se află în Parcul Biosferei Wienerwald, o zonă forestieră protejată de lângă Pressbaum.",
+                  "category": "natural",
+                  "coords": [
+                        16.087244,
+                        48.161469
+                  ]
             }
       ],
       "en": [
@@ -37210,6 +40828,15 @@ export const poiExtraAtChMissingV1: POI[] = [
                   "coords": [
                         16.043718,
                         48.174755
+                  ]
+            },
+            {
+                  "name": "Biospharenpark Wienerwald Kernzone Sattel",
+                  "text": "This core zone is located in the Wienerwald Biosphere Park, a protected forest area near Pressbaum.",
+                  "category": "natural",
+                  "coords": [
+                        16.087244,
+                        48.161469
                   ]
             }
       ]
@@ -38631,6 +42258,15 @@ export const poiExtraAtChMissingV1: POI[] = [
                         14.257978,
                         48.269517
                   ]
+            },
+            {
+                  "name": "Stadtfriedhof Linz St. Martin - Park der Begegnung",
+                  "text": "Ein als „Park der Begegnung“ gestalteter Friedhofsbereich in Pasching bei Linz.",
+                  "category": "park",
+                  "coords": [
+                        14.24946,
+                        48.237514
+                  ]
             }
       ],
       "hu": [
@@ -38866,6 +42502,15 @@ export const poiExtraAtChMissingV1: POI[] = [
                   "coords": [
                         14.257978,
                         48.269517
+                  ]
+            },
+            {
+                  "name": "Stadtfriedhof Linz St. Martin - Park der Begegnung",
+                  "text": "„A találkozás parkjaként” kialakított temetői terület Paschingban, Linz közelében.",
+                  "category": "park",
+                  "coords": [
+                        14.24946,
+                        48.237514
                   ]
             }
       ],
@@ -39103,6 +42748,15 @@ export const poiExtraAtChMissingV1: POI[] = [
                         14.257978,
                         48.269517
                   ]
+            },
+            {
+                  "name": "Stadtfriedhof Linz St. Martin - Park der Begegnung",
+                  "text": "O zonă de cimitir amenajată ca „parc al întâlnirii” în Pasching, lângă Linz.",
+                  "category": "park",
+                  "coords": [
+                        14.24946,
+                        48.237514
+                  ]
             }
       ],
       "en": [
@@ -39338,6 +42992,15 @@ export const poiExtraAtChMissingV1: POI[] = [
                   "coords": [
                         14.257978,
                         48.269517
+                  ]
+            },
+            {
+                  "name": "Stadtfriedhof Linz St. Martin - Park der Begegnung",
+                  "text": "A cemetery area designed as a \"Park of Encounter\" in Pasching near Linz.",
+                  "category": "park",
+                  "coords": [
+                        14.24946,
+                        48.237514
                   ]
             }
       ]
@@ -42498,6 +46161,33 @@ export const poiExtraAtChMissingV1: POI[] = [
                         15.256822,
                         47.266639
                   ]
+            },
+            {
+                  "name": "Schloss Neu-Pfannberg",
+                  "text": "Ein historisches Schloss in Frohnleiten, das für seine Architektur bekannt ist.",
+                  "category": "castle",
+                  "coords": [
+                        15.317535,
+                        47.26233
+                  ]
+            },
+            {
+                  "name": "Schloss Weyer",
+                  "text": "Ein denkmalgeschütztes Schloss in Frohnleiten.",
+                  "category": "castle",
+                  "coords": [
+                        15.302645,
+                        47.279941
+                  ]
+            },
+            {
+                  "name": "Ruine Pfannberg",
+                  "text": "Die Überreste einer mittelalterlichen Höhenburg oberhalb von Frohnleiten.",
+                  "category": "castle",
+                  "coords": [
+                        15.329565,
+                        47.254781
+                  ]
             }
       ],
       "hu": [
@@ -42580,6 +46270,33 @@ export const poiExtraAtChMissingV1: POI[] = [
                   "coords": [
                         15.256822,
                         47.266639
+                  ]
+            },
+            {
+                  "name": "Schloss Neu-Pfannberg",
+                  "text": "Történelmi kastély Frohnleitenben, amely építészetéről ismert.",
+                  "category": "castle",
+                  "coords": [
+                        15.317535,
+                        47.26233
+                  ]
+            },
+            {
+                  "name": "Schloss Weyer",
+                  "text": "Műemlékvédelem alatt álló kastély Frohnleitenben.",
+                  "category": "castle",
+                  "coords": [
+                        15.302645,
+                        47.279941
+                  ]
+            },
+            {
+                  "name": "Ruine Pfannberg",
+                  "text": "Egy középkori hegyi vár maradványai Frohnleiten felett.",
+                  "category": "castle",
+                  "coords": [
+                        15.329565,
+                        47.254781
                   ]
             }
       ],
@@ -42664,6 +46381,33 @@ export const poiExtraAtChMissingV1: POI[] = [
                         15.256822,
                         47.266639
                   ]
+            },
+            {
+                  "name": "Schloss Neu-Pfannberg",
+                  "text": "Un castel istoric din Frohnleiten, cunoscut pentru arhitectura sa.",
+                  "category": "castle",
+                  "coords": [
+                        15.317535,
+                        47.26233
+                  ]
+            },
+            {
+                  "name": "Schloss Weyer",
+                  "text": "Un castel protejat ca monument istoric în Frohnleiten.",
+                  "category": "castle",
+                  "coords": [
+                        15.302645,
+                        47.279941
+                  ]
+            },
+            {
+                  "name": "Ruine Pfannberg",
+                  "text": "Rămășițele unei cetăți medievale de pe deal, deasupra localității Frohnleiten.",
+                  "category": "castle",
+                  "coords": [
+                        15.329565,
+                        47.254781
+                  ]
             }
       ],
       "en": [
@@ -42746,6 +46490,33 @@ export const poiExtraAtChMissingV1: POI[] = [
                   "coords": [
                         15.256822,
                         47.266639
+                  ]
+            },
+            {
+                  "name": "Schloss Neu-Pfannberg",
+                  "text": "A historical castle in Frohnleiten known for its architecture.",
+                  "category": "castle",
+                  "coords": [
+                        15.317535,
+                        47.26233
+                  ]
+            },
+            {
+                  "name": "Schloss Weyer",
+                  "text": "A heritage-protected castle in Frohnleiten.",
+                  "category": "castle",
+                  "coords": [
+                        15.302645,
+                        47.279941
+                  ]
+            },
+            {
+                  "name": "Ruine Pfannberg",
+                  "text": "The remains of a medieval hill castle above Frohnleiten.",
+                  "category": "castle",
+                  "coords": [
+                        15.329565,
+                        47.254781
                   ]
             }
       ]
@@ -43725,6 +47496,78 @@ export const poiExtraAtChMissingV1: POI[] = [
                         14.265566,
                         46.619839
                   ]
+            },
+            {
+                  "name": "Museum Moderner Kunst Karnten",
+                  "text": "Das Museum für moderne Kunst in Kärnten zeigt wechselnde Ausstellungen zeitgenössischer Werke.",
+                  "category": "museum",
+                  "coords": [
+                        14.310132,
+                        46.62417
+                  ]
+            },
+            {
+                  "name": "Robert Musil Museum",
+                  "text": "Ein Museum, das dem Leben und Werk des Schriftstellers Robert Musil gewidmet ist.",
+                  "category": "museum",
+                  "coords": [
+                        14.313034,
+                        46.616579
+                  ]
+            },
+            {
+                  "name": "Schloss Welzenegg",
+                  "text": "Ein Barockschloss in Klagenfurt, das von einer weitläufigen Parkanlage umgeben ist.",
+                  "category": "castle",
+                  "coords": [
+                        14.332251,
+                        46.628315
+                  ]
+            },
+            {
+                  "name": "Landesmuseum Karnten",
+                  "text": "Das größte Museum Kärntens mit Exponaten zur Natur, Geschichte und Kultur der Region.",
+                  "category": "museum",
+                  "coords": [
+                        14.312461,
+                        46.621046
+                  ]
+            },
+            {
+                  "name": "Schloss Zigguln",
+                  "text": "Ein historisches Schloss am Fuße des Kreuzbergls in Klagenfurt.",
+                  "category": "castle",
+                  "coords": [
+                        14.291837,
+                        46.635206
+                  ]
+            },
+            {
+                  "name": "Jugendstiltheater Klagenfurt",
+                  "text": "Ein im Jugendstil erbautes Theatergebäude, das für kulturelle Veranstaltungen genutzt wird.",
+                  "category": "cultural",
+                  "coords": [
+                        14.302498,
+                        46.627068
+                  ]
+            },
+            {
+                  "name": "Klagenfurter Ensemble",
+                  "text": "Eine renommierte Theatergruppe in Klagenfurt mit eigenem Spielort.",
+                  "category": "cultural",
+                  "coords": [
+                        14.304107,
+                        46.616698
+                  ]
+            },
+            {
+                  "name": "Mali Schachmuseum",
+                  "text": "Ein Fachmuseum in Klagenfurt, das sich der Geschichte und Vielfalt des Schachspiels widmet.",
+                  "category": "museum",
+                  "coords": [
+                        14.290218,
+                        46.6065
+                  ]
             }
       ],
       "hu": [
@@ -43816,6 +47659,78 @@ export const poiExtraAtChMissingV1: POI[] = [
                   "coords": [
                         14.265566,
                         46.619839
+                  ]
+            },
+            {
+                  "name": "Museum Moderner Kunst Karnten",
+                  "text": "A karintiai modern művészeti múzeum kortárs alkotások időszaki kiállításait mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        14.310132,
+                        46.62417
+                  ]
+            },
+            {
+                  "name": "Robert Musil Museum",
+                  "text": "Robert Musil író életének és munkásságának szentelt múzeum.",
+                  "category": "museum",
+                  "coords": [
+                        14.313034,
+                        46.616579
+                  ]
+            },
+            {
+                  "name": "Schloss Welzenegg",
+                  "text": "Barokk kastély Klagenfurtban, amelyet tágas park vesz körül.",
+                  "category": "castle",
+                  "coords": [
+                        14.332251,
+                        46.628315
+                  ]
+            },
+            {
+                  "name": "Landesmuseum Karnten",
+                  "text": "Karintia legnagyobb múzeuma a régió természetével, történelmével és kultúrájával kapcsolatos kiállításokkal.",
+                  "category": "museum",
+                  "coords": [
+                        14.312461,
+                        46.621046
+                  ]
+            },
+            {
+                  "name": "Schloss Zigguln",
+                  "text": "Történelmi kastély a klagenfurti Kreuzbergl lábánál.",
+                  "category": "castle",
+                  "coords": [
+                        14.291837,
+                        46.635206
+                  ]
+            },
+            {
+                  "name": "Jugendstiltheater Klagenfurt",
+                  "text": "Szecessziós stílusban épült színházépület, amelyet kulturális rendezvényekre használnak.",
+                  "category": "cultural",
+                  "coords": [
+                        14.302498,
+                        46.627068
+                  ]
+            },
+            {
+                  "name": "Klagenfurter Ensemble",
+                  "text": "Klagenfurti neves színházi társulat saját játszóhellyel.",
+                  "category": "cultural",
+                  "coords": [
+                        14.304107,
+                        46.616698
+                  ]
+            },
+            {
+                  "name": "Mali Schachmuseum",
+                  "text": "Specializált múzeum Klagenfurtban, amely a sakkjáték történetének és változatosságának szentelt.",
+                  "category": "museum",
+                  "coords": [
+                        14.290218,
+                        46.6065
                   ]
             }
       ],
@@ -43909,6 +47824,78 @@ export const poiExtraAtChMissingV1: POI[] = [
                         14.265566,
                         46.619839
                   ]
+            },
+            {
+                  "name": "Museum Moderner Kunst Karnten",
+                  "text": "Muzeul de artă modernă din Carintia prezintă expoziții temporare de lucrări contemporane.",
+                  "category": "museum",
+                  "coords": [
+                        14.310132,
+                        46.62417
+                  ]
+            },
+            {
+                  "name": "Robert Musil Museum",
+                  "text": "Un muzeu dedicat vieții și operei scriitorului Robert Musil.",
+                  "category": "museum",
+                  "coords": [
+                        14.313034,
+                        46.616579
+                  ]
+            },
+            {
+                  "name": "Schloss Welzenegg",
+                  "text": "Un castel baroc din Klagenfurt, înconjurat de un parc vast.",
+                  "category": "castle",
+                  "coords": [
+                        14.332251,
+                        46.628315
+                  ]
+            },
+            {
+                  "name": "Landesmuseum Karnten",
+                  "text": "Cel mai mare muzeu din Carintia, cu exponate despre natura, istoria și cultura regiunii.",
+                  "category": "museum",
+                  "coords": [
+                        14.312461,
+                        46.621046
+                  ]
+            },
+            {
+                  "name": "Schloss Zigguln",
+                  "text": "Un castel istoric situat la poalele dealului Kreuzbergl din Klagenfurt.",
+                  "category": "castle",
+                  "coords": [
+                        14.291837,
+                        46.635206
+                  ]
+            },
+            {
+                  "name": "Jugendstiltheater Klagenfurt",
+                  "text": "O clădire de teatru construită în stil Art Nouveau, utilizată pentru evenimente culturale.",
+                  "category": "cultural",
+                  "coords": [
+                        14.302498,
+                        46.627068
+                  ]
+            },
+            {
+                  "name": "Klagenfurter Ensemble",
+                  "text": "O trupă de teatru renumită din Klagenfurt, cu propriul spațiu de spectacol.",
+                  "category": "cultural",
+                  "coords": [
+                        14.304107,
+                        46.616698
+                  ]
+            },
+            {
+                  "name": "Mali Schachmuseum",
+                  "text": "Un muzeu specializat din Klagenfurt, dedicat istoriei și diversității jocului de șah.",
+                  "category": "museum",
+                  "coords": [
+                        14.290218,
+                        46.6065
+                  ]
             }
       ],
       "en": [
@@ -44001,10 +47988,343 @@ export const poiExtraAtChMissingV1: POI[] = [
                         14.265566,
                         46.619839
                   ]
+            },
+            {
+                  "name": "Museum Moderner Kunst Karnten",
+                  "text": "The museum of modern art in Carinthia features rotating exhibitions of contemporary works.",
+                  "category": "museum",
+                  "coords": [
+                        14.310132,
+                        46.62417
+                  ]
+            },
+            {
+                  "name": "Robert Musil Museum",
+                  "text": "A museum dedicated to the life and work of the writer Robert Musil.",
+                  "category": "museum",
+                  "coords": [
+                        14.313034,
+                        46.616579
+                  ]
+            },
+            {
+                  "name": "Schloss Welzenegg",
+                  "text": "A Baroque castle in Klagenfurt surrounded by extensive parkland.",
+                  "category": "castle",
+                  "coords": [
+                        14.332251,
+                        46.628315
+                  ]
+            },
+            {
+                  "name": "Landesmuseum Karnten",
+                  "text": "The largest museum in Carinthia with exhibits on the nature, history, and culture of the region.",
+                  "category": "museum",
+                  "coords": [
+                        14.312461,
+                        46.621046
+                  ]
+            },
+            {
+                  "name": "Schloss Zigguln",
+                  "text": "A historic castle located at the foot of the Kreuzbergl in Klagenfurt.",
+                  "category": "castle",
+                  "coords": [
+                        14.291837,
+                        46.635206
+                  ]
+            },
+            {
+                  "name": "Jugendstiltheater Klagenfurt",
+                  "text": "An Art Nouveau theatre building used for cultural events.",
+                  "category": "cultural",
+                  "coords": [
+                        14.302498,
+                        46.627068
+                  ]
+            },
+            {
+                  "name": "Klagenfurter Ensemble",
+                  "text": "A renowned theatre ensemble in Klagenfurt with its own performance venue.",
+                  "category": "cultural",
+                  "coords": [
+                        14.304107,
+                        46.616698
+                  ]
+            },
+            {
+                  "name": "Mali Schachmuseum",
+                  "text": "A specialized museum in Klagenfurt dedicated to the history and variety of chess.",
+                  "category": "museum",
+                  "coords": [
+                        14.290218,
+                        46.6065
+                  ]
             }
       ]
 }, "type": "city", "parent": "AT-2", "coords": [14.3055, 46.6247], "population": 7000, "image": "/geo-images/austria/at-klagenfurt-land.webp", "name": {"de": "Klagenfurt-Land", "hu": "Klagenfurt-Land", "ro": "Klagenfurt-Land", "en": "Klagenfurt-Land"}, "description": {"de": "Der Bezirk Klagenfurt-Land umschließt die Kärntner Landeshauptstadt und besticht durch eine malerische Mischung aus alpinen Landschaften und kulturellen Schätzen.", "hu": "Klagenfurt-vidék járás Karintia szívében található, amely a tartományi fővárost körülölelve kínál lenyűgöző alpesi tájakat és történelmi emlékhelyeket.", "ro": "Districtul Klagenfurt-Land înconjoară capitala Carintiei și oferă un amestec pitoresc de peisaje alpine și comori culturale istorice.", "en": "The Klagenfurt-Land district surrounds the Carinthian state capital and offers a picturesque mix of alpine landscapes and significant cultural heritage sites."}, "facts": {"de": ["Lage am Wörthersee", "Herzogstuhl in Maria Saal", "Karawanken-Gebirgskette", "Vielzahl an Badeseen"], "hu": ["Wörthi-tó partvidéke", "Maria Saal-i hercegi szék", "Karavankák hegylánca", "Számos fürdő tó"], "ro": ["Locație pe lacul Wörthersee", "Scaunul ducal din Maria Saal", "Lanțul muntos Karawanken", "Numeroase lacuri de agrement"], "en": ["Location on Lake Wörthersee", "Ducal Seat in Maria Saal", "Karawanks mountain range", "Variety of swimming lakes"]}, "descriptionAdvanced": {"de": "Der Bezirk Klagenfurt-Land ist ein Verwaltungsbezirk im österreichischen Bundesland Kärnten, der eine geographisch vielfältige Region im Klagenfurter Becken abdeckt. Die Geschichte des Gebiets ist tief in der römischen Antike verwurzelt, was durch die Überreste der Stadt Virunum in der Nähe von Maria Saal belegt wird. Maria Saal selbst gilt als eines der ältesten christlichen Zentren der Region und beherbergt den berühmten Kärntner Herzogstuhl, auf dem die Kärntner Herzöge einst eingesetzt wurden. Die Landschaft wird im Süden von den markanten Gipfeln der Karawanken begrenzt, die die Grenze zu Slowenien bilden, während der Norden durch sanfte Hügel und fruchtbare Ebenen geprägt ist. Wirtschaftlich spielt der Tourismus eine zentrale Rolle, insbesondere durch den Zugang zum Ostufer des Wörthersees sowie zu kleineren Seen wie dem Keutschacher See. Neben der Landwirtschaft ist die Region eng mit der wirtschaftlichen Dynamik der Landeshauptstadt Klagenfurt verknüpft, wobei viele Bewohner als Pendler tätig sind. Architektonisch prägen historische Kirchen und gut erhaltene Bauernhöfe das Bild der ländlichen Gemeinden.", "hu": "A Klagenfurt-vidék járás Ausztria Karintia tartományának egyik legváltozatosabb közigazgatási egysége, amely a Klagenfurti-medence jelentős részét lefedi. A terület történelme egészen a római korig nyúlik vissza, amit a Maria Saal közelében található ókori Virunum városának maradványai tanúsítanak. Maria Saal települése a régió egyik legrégebbi keresztény központja, itt található a híres karintiai hercegi szék, amely a középkori hercegavatások helyszíne volt. A tájat délen a Karavankák vonulatai határolják, amelyek természetes határt képeznek Szlovénia felé, míg északon dombos vidékek és termékeny síkságok váltják egymást. Gazdaságilag a turizmus kiemelt jelentőségű, különösen a Wörthi-tó keleti partjának és a Keutschachi-tó vidékének köszönhetően. A mezőgazdaság mellett a járás szorosan kötődik Klagenfurt városának gazdasági vérkeringéséhez, mivel a lakosság jelentős része ingázó. Építészetileg a történelmi templomok és a gondosan megőrzött parasztgazdaságok határozzák meg a vidéki települések arculatát.", "ro": "Districtul Klagenfurt-Land este o unitate administrativă din statul austriac Carintia, care acoperă o regiune geografică diversă în bazinul Klagenfurt. Istoria zonei este profund înrădăcinată în antichitatea romană, fapt dovedit de rămășițele orașului Virunum de lângă Maria Saal. Maria Saal este considerată unul dintre cele mai vechi centre creștine din regiune și găzduiește celebrul Scaun Ducal al Carintiei, unde erau înscăunați odinioară ducii. Peisajul este mărginit la sud de vârfurile impresionante ale munților Karawanken, care formează granița cu Slovenia, în timp ce nordul este caracterizat de dealuri domoale și câmpii fertile. Din punct de vedere economic, turismul joacă un rol central, în special datorită accesului la malul estic al lacului Wörthersee și la lacuri mai mici precum lacul Keutschacher. Pe lângă agricultură, regiunea este strâns legată de dinamica economică a capitalei provinciale Klagenfurt, mulți locuitori fiind navetiști. Arhitectural, bisericile istorice și fermele bine conservate definesc imaginea comunităților rurale.", "en": "The Klagenfurt-Land district is an administrative region in the Austrian state of Carinthia, covering a geographically diverse area within the Klagenfurt Basin. The history of the territory is deeply rooted in Roman antiquity, evidenced by the remains of the ancient city of Virunum located near Maria Saal. Maria Saal itself is regarded as one of the oldest Christian centers in the region and houses the famous Carinthian Ducal Seat, where dukes were once installed in office. The landscape is bordered to the south by the striking peaks of the Karawanks, forming the border with Slovenia, while the northern parts are characterized by rolling hills and fertile plains. Economically, tourism plays a pivotal role, particularly due to the access to the eastern shores of Lake Wörthersee and smaller bodies of water like Lake Keutschach. Alongside agriculture, the region is closely linked to the economic dynamics of the state capital, Klagenfurt, with many residents serving as commuters. Architecturally, historic churches and well-preserved farmsteads define the visual character of the rural municipalities."}, "factsAdvanced": {"de": ["Gegründet im Jahr 1868", "Fläche von etwa 765 Quadratkilometern", "Beinhaltet 19 Gemeinden", "Höchster Punkt ist der Hochstuhl mit 2237 Metern", "Sitz der Bezirksmannschaft ist in Klagenfurt", "Teil des Klagenfurter Beckens"], "hu": ["Alapítva 1868-ban", "Területe körülbelül 765 négyzetkilométer", "19 önkormányzatot foglal magában", "Legmagasabb pontja a Hochstuhl (2237 méter)", "A járási kapitányság székhelye Klagenfurtban van", "A Klagenfurti-medence része"], "ro": ["Fondat în anul 1868", "Suprafață de aproximativ 765 kilometri pătrați", "Include 19 municipalități", "Cel mai înalt punct este Hochstuhl la 2237 metri", "Sediul administrației districtuale este în Klagenfurt", "Parte a bazinului Klagenfurt"], "en": ["Founded in 1868", "Area of approximately 765 square kilometers", "Includes 19 municipalities", "Highest point is the Hochstuhl at 2237 meters", "District administration headquarters in Klagenfurt", "Part of the Klagenfurt Basin"]}, "faq": {"de": [{"q": "Was ist der Kärntner Herzogstuhl?", "a": "Ein steinerner Doppelsitz aus dem 9. Jahrhundert, der für die Einsetzung der Kärntner Herzöge genutzt wurde."}, {"q": "Welche Seen liegen im Bezirk?", "a": "Zu den bekanntesten gehören Teile des Wörthersees, der Keutschacher See und der Rauschelesee."}, {"q": "Wo liegt Maria Saal?", "a": "Maria Saal liegt nördlich von Klagenfurt und ist bekannt für seinen bedeutenden Dom."}, {"q": "Gibt es Berge zum Wandern?", "a": "Ja, die Karawanken im Süden bieten zahlreiche Wanderwege und alpine Herausforderungen."}], "hu": [{"q": "Mi az a karintiai hercegi szék?", "a": "Egy 9. századi kőből készült kettős szék, amelyet a karintiai hercegek beiktatására használtak."}, {"q": "Mely tavak találhatók a járásban?", "a": "A legismertebbek a Wörthi-tó részei, a Keutschachi-tó és a Rauschele-tó."}, {"q": "Hol található Maria Saal?", "a": "Maria Saal Klagenfurttól északra fekszik, és jelentős székesegyházáról ismert."}, {"q": "Vannak túrázásra alkalmas hegyek?", "a": "Igen, a délen fekvő Karavankák számos túraútvonalat és alpesi kihívást kínálnak."}], "ro": [{"q": "Ce este Scaunul Ducal al Carintiei?", "a": "Un scaun dublu din piatră din secolul al IX-lea, utilizat pentru înscăunarea ducilor carintieni."}, {"q": "Ce lacuri se află în district?", "a": "Printre cele mai cunoscute se numără părți din Wörthersee, Keutschacher See și Rauschelesee."}, {"q": "Unde se află Maria Saal?", "a": "Maria Saal este situată la nord de Klagenfurt și este renumită pentru catedrala sa importantă."}, {"q": "Există munți pentru drumeții?", "a": "Da, munții Karawanken din sud oferă numeroase trasee de drumeție și provocări alpine."}], "en": [{"q": "What is the Carinthian Ducal Seat?", "a": "A stone double seat from the 9th century used for the installation of Carinthian dukes."}, {"q": "Which lakes are in the district?", "a": "The most famous include parts of Lake Wörthersee, Lake Keutschach, and Rauschelesee."}, {"q": "Where is Maria Saal located?", "a": "Maria Saal is located north of Klagenfurt and is known for its significant cathedral."}, {"q": "Are there mountains for hiking?", "a": "Yes, the Karawanks in the south offer numerous hiking trails and alpine challenges."}]}},
-  {"id": "at-sankt-poelten-land", "type": "city", "parent": "AT-3", "coords": [15.6256, 48.2047], "population": 7000, "image": "/geo-images/austria/at-sankt-poelten-land.webp", "name": {"de": "Sankt Pölten Land", "hu": "Sankt Pölten Land", "ro": "Sankt Pölten Land", "en": "Sankt Pölten Land"}, "description": {"de": "Der Bezirk Sankt Pölten-Land umschließt die niederösterreichische Landeshauptstadt und erstreckt sich vom sanften Alpenvorland bis in den Wienerwald.", "hu": "Sankt Pölten-vidék járás az alsó-ausztriai tartományi fővárost veszi körül, területe a szelíd Alpokaljától egészen a Bécsi-erdőig nyúlik.", "ro": "Districtul Sankt Pölten-Land înconjoară capitala Austriei Inferioare și se întinde de la poalele domoale ale Alpilor până în Pădurea Vieneză.", "en": "The Sankt Pölten-Land district surrounds the Lower Austrian state capital and extends from the gentle Alpine foothills into the Vienna Woods."}, "facts": {"de": ["Stift Herzogenburg", "Lage an der Traisen", "Wienerwald-Region", "Zentrum Niederösterreichs"], "hu": ["Herzogenburgi apátság", "Traisen-folyó menti fekvés", "Bécsi-erdő régió", "Alsó-Ausztria központja"], "ro": ["Abația Herzogenburg", "Locație pe râul Traisen", "Regiunea Pădurii Vieneze", "Centrul Austriei Inferioare"], "en": ["Herzogenburg Abbey", "Location on the Traisen", "Vienna Woods region", "Center of Lower Austria"]}, "descriptionAdvanced": {"de": "Der Bezirk Sankt Pölten-Land ist ein zentraler Verwaltungsbezirk in Niederösterreich, der die Statutarstadt Sankt Pölten vollständig umschließt. Geographisch ist die Region äußerst vielfältig und umfasst Teile des Mostviertels sowie des Industrieviertels. Im Norden wird das Gebiet durch das Tullnerfeld und die Donau begrenzt, während sich im Süden die Ausläufer der Voralpen erheben. Historisch ist der Bezirk durch bedeutende Sakralbauten wie das Augustiner-Chorherrenstift Herzogenburg geprägt, das ein Meisterwerk des Barock darstellt. Die wirtschaftliche Struktur ist durch einen starken Dienstleistungssektor in den Randgebieten der Landeshauptstadt sowie durch eine produktive Landwirtschaft im Umland gekennzeichnet. Besonders der Weinbau in der Region Traisental hat eine lange Tradition und genießt internationale Anerkennung. Verkehrstechnisch ist der Bezirk durch die Westbahn und die Westautobahn (A1) hervorragend erschlossen, was ihn zu einem attraktiven Wohnort für Pendler macht. Die Landschaft bietet zudem zahlreiche Erholungsmöglichkeiten, von Radwegen entlang der Traisen bis hin zu Wanderwegen im Wienerwald, die Touristen und Einheimische gleichermaßen anziehen.", "hu": "Sankt Pölten-vidék járás Alsó-Ausztria központi közigazgatási egysége, amely teljesen körülöleli Sankt Pölten városát. Földrajzilag a régió rendkívül változatos, magában foglalja a Mostviertel és az Industrieviertel egyes részeit. Északon a Tullnerfeld és a Duna határolja, míg délen az Alpok előterének nyúlványai emelkednek ki. Történelmileg a járást olyan jelentős szakrális építmények határozzák meg, mint a Herzogenburgi Ágoston-rendi apátság, amely a barokk építészet remekműve. Gazdasági szerkezetét a tartományi főváros peremterületein tapasztalható erős szolgáltatási szektor, valamint a környék produktív mezőgazdasága jellemzi. Különösen a Traisental borvidék szőlőtermesztése rendelkezik hosszú hagyományokkal és nemzetközi elismertséggel. Közlekedésileg a járás a Westbahn vasútvonal és a Westautobahn (A1) révén kiválóan megközelíthető, ami vonzó lakóhellyé teszi az ingázók számára. A táj emellett számos kikapcsolódási lehetőséget kínál, a Traisen menti kerékpárutaktól a Bécsi-erdő túraútvonalaiig, amelyek turistákat és helyieket egyaránt vonzanak.", "ro": "Districtul Sankt Pölten-Land este un district administrativ central din Austria Inferioară, care înconjoară complet orașul statutar Sankt Pölten. Din punct de vedere geografic, regiunea este extrem de diversă și include părți din Mostviertel și Industrieviertel. La nord, zona este delimitată de Tullnerfeld și Dunăre, în timp ce la sud se ridică dealurile de la poalele Alpilor. Din punct de vedere istoric, districtul este marcat de clădiri sacre importante, cum ar fi abația Herzogenburg, care reprezintă o capodoperă a barocului. Structura economică este caracterizată printr-un sector puternic de servicii în zonele de la periferia capitalei statului, precum și printr-o agricultură productivă în împrejurimi. În special viticultura din regiunea Traisental are o lungă tradiție și se bucură de recunoaștere internațională. Din punct de vedere al transportului, districtul este excelent conectat prin magistrala feroviară Westbahn și autostrada Westautobahn (A1), ceea ce îl face un loc de rezidență atractiv pentru navetiști. Peisajul oferă, de asemenea, numeroase oportunități de recreere, de la piste de biciclete de-a lungul râului Traisen până la trasee de drumeție în Pădurea Vieneză.", "en": "The Sankt Pölten-Land district is a central administrative region in Lower Austria that completely surrounds the statutory city of Sankt Pölten. Geographically, the region is exceptionally diverse, encompassing parts of both the Mostviertel and the Industrieviertel. To the north, the area is bordered by the Tullnerfeld and the Danube, while the southern reaches rise into the Alpine foothills. Historically, the district is defined by significant religious buildings such as the Herzogenburg Augustinian Abbey, which stands as a masterpiece of Baroque architecture. The economic structure is characterized by a strong service sector on the outskirts of the state capital, as well as productive agriculture in the surrounding countryside. Notably, viticulture in the Traisental region has a long tradition and enjoys international recognition. In terms of transportation, the district is excellently developed via the Westbahn railway and the Westautobahn (A1), making it an attractive residential location for commuters. The landscape also offers numerous recreational opportunities, from cycling paths along the Traisen River to hiking trails in the Vienna Woods."}, "factsAdvanced": {"de": ["Fläche von 1121 Quadratkilometern", "Zählt zu den größten Bezirken Niederösterreichs", "Umfasst 45 Gemeinden", "Sitz der Verwaltung ist in Sankt Pölten", "Wichtige Verkehrsader A1 durchquert den Bezirk", "Höchste Erhebung ist der Schöpfl mit 893 Metern"], "hu": ["Területe 1121 négyzetkilométer", "Alsó-Ausztria egyik legnagyobb járása", "45 önkormányzatot foglal magában", "A közigazgatás székhelye Sankt Pöltenben van", "Az A1-es autópálya fontos közlekedési útvonalként szeli át", "Legmagasabb pontja a Schöpfl (893 méter)"], "ro": ["Suprafață de 1121 kilometri pătrați", "Unul dintre cele mai mari districte din Austria Inferioară", "Cuprinde 45 de municipalități", "Sediul administrației este în Sankt Pölten", "Importanta autostradă A1 traversează districtul", "Cea mai înaltă cotă este Schöpfl la 893 metri"], "en": ["Area of 1121 square kilometers", "One of the largest districts in Lower Austria", "Includes 45 municipalities", "Administrative seat is in Sankt Pölten", "The major A1 motorway crosses the district", "Highest elevation is the Schöpfl at 893 meters"]}, "faq": {"de": [{"q": "Was ist das bedeutendste Kloster im Bezirk?", "a": "Das Stift Herzogenburg, bekannt für seine barocke Architektur und Kunstsammlungen."}, {"q": "Welche Flüsse fließen durch das Gebiet?", "a": "Die Traisen ist der Hauptfluss, im Norden bildet die Donau die Grenze."}, {"q": "Gibt es Weinbau in Sankt Pölten-Land?", "a": "Ja, das Traisental ist ein bekanntes Weinbaugebiet für Weißweine wie Grüner Veltliner."}, {"q": "Welche Berge eignen sich für Ausflüge?", "a": "Der Schöpfl im Wienerwald ist ein beliebtes Ziel für Wanderer."}], "hu": [{"q": "Melyik a legjelentősebb kolostor a járásban?", "a": "A Herzogenburgi apátság, amely barokk építészetéről és művészeti gyűjteményeiről ismert."}, {"q": "Milyen folyók folynak át a területen?", "a": "A Traisen a fő folyó, északon pedig a Duna alkotja a határt."}, {"q": "Van borászat Sankt Pölten-vidéken?", "a": "Igen, a Traisental egy ismert borvidék, főként a Grüner Veltliner fehérborról nevezetes."}, {"q": "Mely hegyek alkalmasak kirándulásra?", "a": "A Bécsi-erdőben található Schöpfl kedvelt célpont a túrázók körében."}], "ro": [{"q": "Care este cea mai importantă mănăstire din district?", "a": "Abația Herzogenburg, cunoscută pentru arhitectura barocă și colecțiile sale de artă."}, {"q": "Ce râuri traversează zona?", "a": "Traisen este râul principal, iar la nord Dunărea formează granița."}, {"q": "Există viticultură în Sankt Pölten-Land?", "a": "Da, Traisental este o regiune viticolă renumită pentru vinuri albe precum Grüner Veltliner."}, {"q": "Ce munți sunt potriviți pentru excursii?", "a": "Schöpfl din Pădurea Vieneză este o destinație populară pentru drumeți."}], "en": [{"q": "What is the most significant monastery in the district?", "a": "Herzogenburg Abbey, known for its Baroque architecture and art collections."}, {"q": "Which rivers flow through the area?", "a": "The Traisen is the main river, while the Danube forms the northern border."}, {"q": "Is there viticulture in Sankt Pölten-Land?", "a": "Yes, the Traisental is a well-known wine-growing region for white wines like Grüner Veltliner."}, {"q": "Which mountains are suitable for excursions?", "a": "The Schöpfl in the Vienna Woods is a popular destination for hikers."}]}},
+  {"id": "at-sankt-poelten-land", "sights": {
+      "de": [
+            {
+                  "name": "Museum am Dom",
+                  "text": "Das Diözesanmuseum in Sankt Pölten zeigt sakrale Kunst und historische Exponate.",
+                  "category": "museum",
+                  "coords": [
+                        15.626639,
+                        48.205538
+                  ]
+            },
+            {
+                  "name": "KinderKunstLabor",
+                  "text": "Ein Ausstellungs- und Vermittlungsort für zeitgenössische Kunst in Sankt Pölten, der sich an Kinder und Jugendliche richtet.",
+                  "category": "museum",
+                  "coords": [
+                        15.627955,
+                        48.201288
+                  ]
+            },
+            {
+                  "name": "Karmeliterhof",
+                  "text": "Das im ehemaligen Karmeliterhof untergebrachte Stadtmuseum Sankt Pölten beleuchtet die Geschichte der Stadt.",
+                  "category": "museum",
+                  "coords": [
+                        15.622216,
+                        48.204052
+                  ]
+            },
+            {
+                  "name": "Museum Niederösterreich",
+                  "text": "Ein modernes Museum in Sankt Pölten, das sich der Geschichte und der Natur Niederösterreichs widmet.",
+                  "category": "museum",
+                  "coords": [
+                        15.631143,
+                        48.200123
+                  ]
+            },
+            {
+                  "name": "Ehemalige Synagoge",
+                  "text": "Die ehemalige Synagoge von Sankt Pölten dient heute als Kulturzentrum und Gedenkstätte.",
+                  "category": "museum",
+                  "coords": [
+                        15.62874,
+                        48.2025
+                  ]
+            },
+            {
+                  "name": "Ausstellungsbrücke",
+                  "text": "Eine Galerie für zeitgenössische Kunst im Landhausviertel von Sankt Pölten.",
+                  "category": "museum",
+                  "coords": [
+                        15.633168,
+                        48.201113
+                  ]
+            },
+            {
+                  "name": "Kleiner Saal",
+                  "text": "Ein kleinerer Veranstaltungssaal für Theateraufführungen und Konzerte in Sankt Pölten.",
+                  "category": "cultural",
+                  "coords": [
+                        15.630796,
+                        48.201125
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Museum am Dom",
+                  "text": "A Sankt Pölten-i egyházmegyei múzeum szakrális művészeti alkotásokat és történelmi emlékeket mutat be.",
+                  "category": "museum",
+                  "coords": [
+                        15.626639,
+                        48.205538
+                  ]
+            },
+            {
+                  "name": "KinderKunstLabor",
+                  "text": "Kortárs művészeti kiállítóhely Sankt Pöltenben, amely kifejezetten gyermekeknek és fiataloknak szól.",
+                  "category": "museum",
+                  "coords": [
+                        15.627955,
+                        48.201288
+                  ]
+            },
+            {
+                  "name": "Karmeliterhof",
+                  "text": "Az egykori karmelita kolostorban működő városi múzeum Sankt Pölten történelmét mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        15.622216,
+                        48.204052
+                  ]
+            },
+            {
+                  "name": "Museum Niederösterreich",
+                  "text": "Modern múzeum Sankt Pöltenben, amely Alsó-Ausztria történelmét és természetvilágát mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        15.631143,
+                        48.200123
+                  ]
+            },
+            {
+                  "name": "Ehemalige Synagoge",
+                  "text": "A korábbi zsinagóga Sankt Pöltenben ma kulturális központként és emlékhelyként működik.",
+                  "category": "museum",
+                  "coords": [
+                        15.62874,
+                        48.2025
+                  ]
+            },
+            {
+                  "name": "Ausstellungsbrücke",
+                  "text": "Kortárs művészeti galéria Sankt Pölten kormányzati negyedében.",
+                  "category": "museum",
+                  "coords": [
+                        15.633168,
+                        48.201113
+                  ]
+            },
+            {
+                  "name": "Kleiner Saal",
+                  "text": "Kisebb rendezvényterem színházi előadások és koncertek számára Sankt Pöltenben.",
+                  "category": "cultural",
+                  "coords": [
+                        15.630796,
+                        48.201125
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Museum am Dom",
+                  "text": "Muzeul diecezan din Sankt Pölten expune artă sacră și obiecte istorice.",
+                  "category": "museum",
+                  "coords": [
+                        15.626639,
+                        48.205538
+                  ]
+            },
+            {
+                  "name": "KinderKunstLabor",
+                  "text": "Un spațiu expozițional de artă contemporană în Sankt Pölten, dedicat copiilor și tinerilor.",
+                  "category": "museum",
+                  "coords": [
+                        15.627955,
+                        48.201288
+                  ]
+            },
+            {
+                  "name": "Karmeliterhof",
+                  "text": "Muzeul orașului Sankt Pölten, găzduit în fostul Karmeliterhof, prezintă istoria locală.",
+                  "category": "museum",
+                  "coords": [
+                        15.622216,
+                        48.204052
+                  ]
+            },
+            {
+                  "name": "Museum Niederösterreich",
+                  "text": "Un muzeu modern din Sankt Pölten dedicat istoriei și naturii Austriei Inferioare.",
+                  "category": "museum",
+                  "coords": [
+                        15.631143,
+                        48.200123
+                  ]
+            },
+            {
+                  "name": "Ehemalige Synagoge",
+                  "text": "Fosta sinagogă din Sankt Pölten servește astăzi ca centru cultural și loc de memorie.",
+                  "category": "museum",
+                  "coords": [
+                        15.62874,
+                        48.2025
+                  ]
+            },
+            {
+                  "name": "Ausstellungsbrücke",
+                  "text": "O galerie de artă contemporană situată în cartierul administrativ din Sankt Pölten.",
+                  "category": "museum",
+                  "coords": [
+                        15.633168,
+                        48.201113
+                  ]
+            },
+            {
+                  "name": "Kleiner Saal",
+                  "text": "O sală de spectacole mai mică pentru piese de teatru și concerte în Sankt Pölten.",
+                  "category": "cultural",
+                  "coords": [
+                        15.630796,
+                        48.201125
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Museum am Dom",
+                  "text": "The diocesan museum in Sankt Pölten displays sacred art and historical exhibits.",
+                  "category": "museum",
+                  "coords": [
+                        15.626639,
+                        48.205538
+                  ]
+            },
+            {
+                  "name": "KinderKunstLabor",
+                  "text": "A contemporary art exhibition space in Sankt Pölten dedicated to children and young people.",
+                  "category": "museum",
+                  "coords": [
+                        15.627955,
+                        48.201288
+                  ]
+            },
+            {
+                  "name": "Karmeliterhof",
+                  "text": "The St. Pölten City Museum, housed in the former Carmelite courtyard, presents the history of the city.",
+                  "category": "museum",
+                  "coords": [
+                        15.622216,
+                        48.204052
+                  ]
+            },
+            {
+                  "name": "Museum Niederösterreich",
+                  "text": "A modern museum in Sankt Pölten dedicated to the history and nature of Lower Austria.",
+                  "category": "museum",
+                  "coords": [
+                        15.631143,
+                        48.200123
+                  ]
+            },
+            {
+                  "name": "Ehemalige Synagoge",
+                  "text": "The former synagogue of Sankt Pölten now serves as a cultural center and memorial site.",
+                  "category": "museum",
+                  "coords": [
+                        15.62874,
+                        48.2025
+                  ]
+            },
+            {
+                  "name": "Ausstellungsbrücke",
+                  "text": "A contemporary art gallery located in the government district of Sankt Pölten.",
+                  "category": "museum",
+                  "coords": [
+                        15.633168,
+                        48.201113
+                  ]
+            },
+            {
+                  "name": "Kleiner Saal",
+                  "text": "A smaller performance venue for theatre and concerts in Sankt Pölten.",
+                  "category": "cultural",
+                  "coords": [
+                        15.630796,
+                        48.201125
+                  ]
+            }
+      ]
+}, "type": "city", "parent": "AT-3", "coords": [15.6256, 48.2047], "population": 7000, "image": "/geo-images/austria/at-sankt-poelten-land.webp", "name": {"de": "Sankt Pölten Land", "hu": "Sankt Pölten Land", "ro": "Sankt Pölten Land", "en": "Sankt Pölten Land"}, "description": {"de": "Der Bezirk Sankt Pölten-Land umschließt die niederösterreichische Landeshauptstadt und erstreckt sich vom sanften Alpenvorland bis in den Wienerwald.", "hu": "Sankt Pölten-vidék járás az alsó-ausztriai tartományi fővárost veszi körül, területe a szelíd Alpokaljától egészen a Bécsi-erdőig nyúlik.", "ro": "Districtul Sankt Pölten-Land înconjoară capitala Austriei Inferioare și se întinde de la poalele domoale ale Alpilor până în Pădurea Vieneză.", "en": "The Sankt Pölten-Land district surrounds the Lower Austrian state capital and extends from the gentle Alpine foothills into the Vienna Woods."}, "facts": {"de": ["Stift Herzogenburg", "Lage an der Traisen", "Wienerwald-Region", "Zentrum Niederösterreichs"], "hu": ["Herzogenburgi apátság", "Traisen-folyó menti fekvés", "Bécsi-erdő régió", "Alsó-Ausztria központja"], "ro": ["Abația Herzogenburg", "Locație pe râul Traisen", "Regiunea Pădurii Vieneze", "Centrul Austriei Inferioare"], "en": ["Herzogenburg Abbey", "Location on the Traisen", "Vienna Woods region", "Center of Lower Austria"]}, "descriptionAdvanced": {"de": "Der Bezirk Sankt Pölten-Land ist ein zentraler Verwaltungsbezirk in Niederösterreich, der die Statutarstadt Sankt Pölten vollständig umschließt. Geographisch ist die Region äußerst vielfältig und umfasst Teile des Mostviertels sowie des Industrieviertels. Im Norden wird das Gebiet durch das Tullnerfeld und die Donau begrenzt, während sich im Süden die Ausläufer der Voralpen erheben. Historisch ist der Bezirk durch bedeutende Sakralbauten wie das Augustiner-Chorherrenstift Herzogenburg geprägt, das ein Meisterwerk des Barock darstellt. Die wirtschaftliche Struktur ist durch einen starken Dienstleistungssektor in den Randgebieten der Landeshauptstadt sowie durch eine produktive Landwirtschaft im Umland gekennzeichnet. Besonders der Weinbau in der Region Traisental hat eine lange Tradition und genießt internationale Anerkennung. Verkehrstechnisch ist der Bezirk durch die Westbahn und die Westautobahn (A1) hervorragend erschlossen, was ihn zu einem attraktiven Wohnort für Pendler macht. Die Landschaft bietet zudem zahlreiche Erholungsmöglichkeiten, von Radwegen entlang der Traisen bis hin zu Wanderwegen im Wienerwald, die Touristen und Einheimische gleichermaßen anziehen.", "hu": "Sankt Pölten-vidék járás Alsó-Ausztria központi közigazgatási egysége, amely teljesen körülöleli Sankt Pölten városát. Földrajzilag a régió rendkívül változatos, magában foglalja a Mostviertel és az Industrieviertel egyes részeit. Északon a Tullnerfeld és a Duna határolja, míg délen az Alpok előterének nyúlványai emelkednek ki. Történelmileg a járást olyan jelentős szakrális építmények határozzák meg, mint a Herzogenburgi Ágoston-rendi apátság, amely a barokk építészet remekműve. Gazdasági szerkezetét a tartományi főváros peremterületein tapasztalható erős szolgáltatási szektor, valamint a környék produktív mezőgazdasága jellemzi. Különösen a Traisental borvidék szőlőtermesztése rendelkezik hosszú hagyományokkal és nemzetközi elismertséggel. Közlekedésileg a járás a Westbahn vasútvonal és a Westautobahn (A1) révén kiválóan megközelíthető, ami vonzó lakóhellyé teszi az ingázók számára. A táj emellett számos kikapcsolódási lehetőséget kínál, a Traisen menti kerékpárutaktól a Bécsi-erdő túraútvonalaiig, amelyek turistákat és helyieket egyaránt vonzanak.", "ro": "Districtul Sankt Pölten-Land este un district administrativ central din Austria Inferioară, care înconjoară complet orașul statutar Sankt Pölten. Din punct de vedere geografic, regiunea este extrem de diversă și include părți din Mostviertel și Industrieviertel. La nord, zona este delimitată de Tullnerfeld și Dunăre, în timp ce la sud se ridică dealurile de la poalele Alpilor. Din punct de vedere istoric, districtul este marcat de clădiri sacre importante, cum ar fi abația Herzogenburg, care reprezintă o capodoperă a barocului. Structura economică este caracterizată printr-un sector puternic de servicii în zonele de la periferia capitalei statului, precum și printr-o agricultură productivă în împrejurimi. În special viticultura din regiunea Traisental are o lungă tradiție și se bucură de recunoaștere internațională. Din punct de vedere al transportului, districtul este excelent conectat prin magistrala feroviară Westbahn și autostrada Westautobahn (A1), ceea ce îl face un loc de rezidență atractiv pentru navetiști. Peisajul oferă, de asemenea, numeroase oportunități de recreere, de la piste de biciclete de-a lungul râului Traisen până la trasee de drumeție în Pădurea Vieneză.", "en": "The Sankt Pölten-Land district is a central administrative region in Lower Austria that completely surrounds the statutory city of Sankt Pölten. Geographically, the region is exceptionally diverse, encompassing parts of both the Mostviertel and the Industrieviertel. To the north, the area is bordered by the Tullnerfeld and the Danube, while the southern reaches rise into the Alpine foothills. Historically, the district is defined by significant religious buildings such as the Herzogenburg Augustinian Abbey, which stands as a masterpiece of Baroque architecture. The economic structure is characterized by a strong service sector on the outskirts of the state capital, as well as productive agriculture in the surrounding countryside. Notably, viticulture in the Traisental region has a long tradition and enjoys international recognition. In terms of transportation, the district is excellently developed via the Westbahn railway and the Westautobahn (A1), making it an attractive residential location for commuters. The landscape also offers numerous recreational opportunities, from cycling paths along the Traisen River to hiking trails in the Vienna Woods."}, "factsAdvanced": {"de": ["Fläche von 1121 Quadratkilometern", "Zählt zu den größten Bezirken Niederösterreichs", "Umfasst 45 Gemeinden", "Sitz der Verwaltung ist in Sankt Pölten", "Wichtige Verkehrsader A1 durchquert den Bezirk", "Höchste Erhebung ist der Schöpfl mit 893 Metern"], "hu": ["Területe 1121 négyzetkilométer", "Alsó-Ausztria egyik legnagyobb járása", "45 önkormányzatot foglal magában", "A közigazgatás székhelye Sankt Pöltenben van", "Az A1-es autópálya fontos közlekedési útvonalként szeli át", "Legmagasabb pontja a Schöpfl (893 méter)"], "ro": ["Suprafață de 1121 kilometri pătrați", "Unul dintre cele mai mari districte din Austria Inferioară", "Cuprinde 45 de municipalități", "Sediul administrației este în Sankt Pölten", "Importanta autostradă A1 traversează districtul", "Cea mai înaltă cotă este Schöpfl la 893 metri"], "en": ["Area of 1121 square kilometers", "One of the largest districts in Lower Austria", "Includes 45 municipalities", "Administrative seat is in Sankt Pölten", "The major A1 motorway crosses the district", "Highest elevation is the Schöpfl at 893 meters"]}, "faq": {"de": [{"q": "Was ist das bedeutendste Kloster im Bezirk?", "a": "Das Stift Herzogenburg, bekannt für seine barocke Architektur und Kunstsammlungen."}, {"q": "Welche Flüsse fließen durch das Gebiet?", "a": "Die Traisen ist der Hauptfluss, im Norden bildet die Donau die Grenze."}, {"q": "Gibt es Weinbau in Sankt Pölten-Land?", "a": "Ja, das Traisental ist ein bekanntes Weinbaugebiet für Weißweine wie Grüner Veltliner."}, {"q": "Welche Berge eignen sich für Ausflüge?", "a": "Der Schöpfl im Wienerwald ist ein beliebtes Ziel für Wanderer."}], "hu": [{"q": "Melyik a legjelentősebb kolostor a járásban?", "a": "A Herzogenburgi apátság, amely barokk építészetéről és művészeti gyűjteményeiről ismert."}, {"q": "Milyen folyók folynak át a területen?", "a": "A Traisen a fő folyó, északon pedig a Duna alkotja a határt."}, {"q": "Van borászat Sankt Pölten-vidéken?", "a": "Igen, a Traisental egy ismert borvidék, főként a Grüner Veltliner fehérborról nevezetes."}, {"q": "Mely hegyek alkalmasak kirándulásra?", "a": "A Bécsi-erdőben található Schöpfl kedvelt célpont a túrázók körében."}], "ro": [{"q": "Care este cea mai importantă mănăstire din district?", "a": "Abația Herzogenburg, cunoscută pentru arhitectura barocă și colecțiile sale de artă."}, {"q": "Ce râuri traversează zona?", "a": "Traisen este râul principal, iar la nord Dunărea formează granița."}, {"q": "Există viticultură în Sankt Pölten-Land?", "a": "Da, Traisental este o regiune viticolă renumită pentru vinuri albe precum Grüner Veltliner."}, {"q": "Ce munți sunt potriviți pentru excursii?", "a": "Schöpfl din Pădurea Vieneză este o destinație populară pentru drumeți."}], "en": [{"q": "What is the most significant monastery in the district?", "a": "Herzogenburg Abbey, known for its Baroque architecture and art collections."}, {"q": "Which rivers flow through the area?", "a": "The Traisen is the main river, while the Danube forms the northern border."}, {"q": "Is there viticulture in Sankt Pölten-Land?", "a": "Yes, the Traisental is a well-known wine-growing region for white wines like Grüner Veltliner."}, {"q": "Which mountains are suitable for excursions?", "a": "The Schöpfl in the Vienna Woods is a popular destination for hikers."}]}},
   {"id": "at-innsbruck-land", "sights": {
       "de": [
             {
@@ -44680,6 +49000,33 @@ export const poiExtraAtChMissingV1: POI[] = [
                   "coords": [
                         11.41715,
                         47.240273
+                  ]
+            },
+            {
+                  "name": "Radiomuseum Schuchter Innsbruck",
+                  "text": "Ein spezialisiertes Museum in Innsbruck-Land, das sich der Geschichte der Radiotechnik widmet.",
+                  "category": "museum",
+                  "coords": [
+                        11.41552,
+                        47.269426
+                  ]
+            },
+            {
+                  "name": "Anatomisches Museum",
+                  "text": "Das Museum in Innsbruck-Land präsentiert anatomische Präparate und wissenschaftliche Sammlungen.",
+                  "category": "museum",
+                  "coords": [
+                        11.387547,
+                        47.260671
+                  ]
+            },
+            {
+                  "name": "Archaologisches Museum Innsbruck",
+                  "text": "Das Museum zeigt archäologische Funde und Sammlungen aus der Region Innsbruck-Land.",
+                  "category": "museum",
+                  "coords": [
+                        11.383917,
+                        47.262181
                   ]
             }
       ],
@@ -45358,6 +49705,33 @@ export const poiExtraAtChMissingV1: POI[] = [
                         11.41715,
                         47.240273
                   ]
+            },
+            {
+                  "name": "Radiomuseum Schuchter Innsbruck",
+                  "text": "Speciális múzeum Innsbruck-Landban, amelyet a rádiótechnika történetének szentelték.",
+                  "category": "museum",
+                  "coords": [
+                        11.41552,
+                        47.269426
+                  ]
+            },
+            {
+                  "name": "Anatomisches Museum",
+                  "text": "Az Innsbruck-Land-i múzeum anatómiai preparátumokat és tudományos gyűjteményeket mutat be.",
+                  "category": "museum",
+                  "coords": [
+                        11.387547,
+                        47.260671
+                  ]
+            },
+            {
+                  "name": "Archaologisches Museum Innsbruck",
+                  "text": "A múzeum Innsbruck-Land régiójából származó régészeti leleteket és gyűjteményeket mutat be.",
+                  "category": "museum",
+                  "coords": [
+                        11.383917,
+                        47.262181
+                  ]
             }
       ],
       "ro": [
@@ -46035,6 +50409,33 @@ export const poiExtraAtChMissingV1: POI[] = [
                         11.41715,
                         47.240273
                   ]
+            },
+            {
+                  "name": "Radiomuseum Schuchter Innsbruck",
+                  "text": "Un muzeu specializat din Innsbruck-Land dedicat istoriei tehnologiei radio.",
+                  "category": "museum",
+                  "coords": [
+                        11.41552,
+                        47.269426
+                  ]
+            },
+            {
+                  "name": "Anatomisches Museum",
+                  "text": "Muzeul din Innsbruck-Land prezintă specimene anatomice și colecții științifice.",
+                  "category": "museum",
+                  "coords": [
+                        11.387547,
+                        47.260671
+                  ]
+            },
+            {
+                  "name": "Archaologisches Museum Innsbruck",
+                  "text": "Muzeul expune descoperiri arheologice și colecții din regiunea Innsbruck-Land.",
+                  "category": "museum",
+                  "coords": [
+                        11.383917,
+                        47.262181
+                  ]
             }
       ],
       "en": [
@@ -46711,6 +51112,33 @@ export const poiExtraAtChMissingV1: POI[] = [
                   "coords": [
                         11.41715,
                         47.240273
+                  ]
+            },
+            {
+                  "name": "Radiomuseum Schuchter Innsbruck",
+                  "text": "A specialized museum in Innsbruck-Land dedicated to the history of radio technology.",
+                  "category": "museum",
+                  "coords": [
+                        11.41552,
+                        47.269426
+                  ]
+            },
+            {
+                  "name": "Anatomisches Museum",
+                  "text": "The museum in Innsbruck-Land presents anatomical specimens and scientific collections.",
+                  "category": "museum",
+                  "coords": [
+                        11.387547,
+                        47.260671
+                  ]
+            },
+            {
+                  "name": "Archaologisches Museum Innsbruck",
+                  "text": "The museum displays archaeological finds and collections from the Innsbruck-Land region.",
+                  "category": "museum",
+                  "coords": [
+                        11.383917,
+                        47.262181
                   ]
             }
       ]
@@ -48165,6 +52593,78 @@ export const poiExtraAtChMissingV1: POI[] = [
                         7.459139,
                         46.947694
                   ]
+            },
+            {
+                  "name": "Zentrum Paul Klee",
+                  "text": "Ein Museum gewidmet dem Leben und Werk des Künstlers Paul Klee.",
+                  "category": "museum",
+                  "coords": [
+                        7.474291,
+                        46.949066
+                  ]
+            },
+            {
+                  "name": "University of Berne - collection of antiques",
+                  "text": "Eine Sammlung antiker Kunstwerke der Universität Bern.",
+                  "category": "museum",
+                  "coords": [
+                        7.435205,
+                        46.952804
+                  ]
+            },
+            {
+                  "name": "Das Theater an der Effingerstrasse",
+                  "text": "Ein renommiertes Theater an der Effingerstrasse in Bern.",
+                  "category": "cultural",
+                  "coords": [
+                        7.435319,
+                        46.945971
+                  ]
+            },
+            {
+                  "name": "Einstein House",
+                  "text": "Das ehemalige Wohnhaus von Albert Einstein, heute ein Museum.",
+                  "category": "museum",
+                  "coords": [
+                        7.449971,
+                        46.947674
+                  ]
+            },
+            {
+                  "name": "SAPA Foundation",
+                  "text": "Das Schweizer Archiv der Darstellenden Künste in Bern.",
+                  "category": "museum",
+                  "coords": [
+                        7.43644,
+                        46.949145
+                  ]
+            },
+            {
+                  "name": "Schulmuseum Bern",
+                  "text": "Ein Museum zur Geschichte des Schulwesens in Bern.",
+                  "category": "museum",
+                  "coords": [
+                        7.413926,
+                        46.920996
+                  ]
+            },
+            {
+                  "name": "Schloss Muri bei Bern",
+                  "text": "Ein historisches Schloss in Muri bei Bern.",
+                  "category": "castle",
+                  "coords": [
+                        7.488076,
+                        46.930881
+                  ]
+            },
+            {
+                  "name": "Romische Badeanlage",
+                  "text": "Die Überreste einer römischen Badeanlage auf der Engehalbinsel.",
+                  "category": "historical",
+                  "coords": [
+                        7.449676,
+                        46.983566
+                  ]
             }
       ],
       "hu": [
@@ -48418,6 +52918,78 @@ export const poiExtraAtChMissingV1: POI[] = [
                   "coords": [
                         7.459139,
                         46.947694
+                  ]
+            },
+            {
+                  "name": "Zentrum Paul Klee",
+                  "text": "Paul Klee művész életét és munkásságát bemutató múzeum.",
+                  "category": "museum",
+                  "coords": [
+                        7.474291,
+                        46.949066
+                  ]
+            },
+            {
+                  "name": "University of Berne - collection of antiques",
+                  "text": "A Berni Egyetem antik gyűjteménye.",
+                  "category": "museum",
+                  "coords": [
+                        7.435205,
+                        46.952804
+                  ]
+            },
+            {
+                  "name": "Das Theater an der Effingerstrasse",
+                  "text": "Egy neves színház Bernben, az Effingerstrassén.",
+                  "category": "cultural",
+                  "coords": [
+                        7.435319,
+                        46.945971
+                  ]
+            },
+            {
+                  "name": "Einstein House",
+                  "text": "Albert Einstein egykori lakóháza, ma múzeum.",
+                  "category": "museum",
+                  "coords": [
+                        7.449971,
+                        46.947674
+                  ]
+            },
+            {
+                  "name": "SAPA Foundation",
+                  "text": "A svájci előadóművészeti archívum Bernben.",
+                  "category": "museum",
+                  "coords": [
+                        7.43644,
+                        46.949145
+                  ]
+            },
+            {
+                  "name": "Schulmuseum Bern",
+                  "text": "Bern iskolatörténeti múzeuma.",
+                  "category": "museum",
+                  "coords": [
+                        7.413926,
+                        46.920996
+                  ]
+            },
+            {
+                  "name": "Schloss Muri bei Bern",
+                  "text": "Történelmi kastély Muri bei Bern településen.",
+                  "category": "castle",
+                  "coords": [
+                        7.488076,
+                        46.930881
+                  ]
+            },
+            {
+                  "name": "Romische Badeanlage",
+                  "text": "Egy római fürdő maradványai az Enge-félszigeten.",
+                  "category": "historical",
+                  "coords": [
+                        7.449676,
+                        46.983566
                   ]
             }
       ],
@@ -48673,6 +53245,78 @@ export const poiExtraAtChMissingV1: POI[] = [
                         7.459139,
                         46.947694
                   ]
+            },
+            {
+                  "name": "Zentrum Paul Klee",
+                  "text": "Un muzeu dedicat vieții și operei artistului Paul Klee.",
+                  "category": "museum",
+                  "coords": [
+                        7.474291,
+                        46.949066
+                  ]
+            },
+            {
+                  "name": "University of Berne - collection of antiques",
+                  "text": "O colecție de antichități a Universității din Berna.",
+                  "category": "museum",
+                  "coords": [
+                        7.435205,
+                        46.952804
+                  ]
+            },
+            {
+                  "name": "Das Theater an der Effingerstrasse",
+                  "text": "Un teatru renumit de pe Effingerstrasse din Berna.",
+                  "category": "cultural",
+                  "coords": [
+                        7.435319,
+                        46.945971
+                  ]
+            },
+            {
+                  "name": "Einstein House",
+                  "text": "Fosta locuință a lui Albert Einstein, astăzi muzeu.",
+                  "category": "museum",
+                  "coords": [
+                        7.449971,
+                        46.947674
+                  ]
+            },
+            {
+                  "name": "SAPA Foundation",
+                  "text": "Arhiva elvețiană a artelor spectacolului din Berna.",
+                  "category": "museum",
+                  "coords": [
+                        7.43644,
+                        46.949145
+                  ]
+            },
+            {
+                  "name": "Schulmuseum Bern",
+                  "text": "Un muzeu despre istoria învățământului din Berna.",
+                  "category": "museum",
+                  "coords": [
+                        7.413926,
+                        46.920996
+                  ]
+            },
+            {
+                  "name": "Schloss Muri bei Bern",
+                  "text": "Un castel istoric în Muri bei Bern.",
+                  "category": "castle",
+                  "coords": [
+                        7.488076,
+                        46.930881
+                  ]
+            },
+            {
+                  "name": "Romische Badeanlage",
+                  "text": "Rămășițele unei băi romane pe peninsula Enge.",
+                  "category": "historical",
+                  "coords": [
+                        7.449676,
+                        46.983566
+                  ]
             }
       ],
       "en": [
@@ -48926,6 +53570,78 @@ export const poiExtraAtChMissingV1: POI[] = [
                   "coords": [
                         7.459139,
                         46.947694
+                  ]
+            },
+            {
+                  "name": "Zentrum Paul Klee",
+                  "text": "A museum dedicated to the life and work of the artist Paul Klee.",
+                  "category": "museum",
+                  "coords": [
+                        7.474291,
+                        46.949066
+                  ]
+            },
+            {
+                  "name": "University of Berne - collection of antiques",
+                  "text": "A collection of antiques from the University of Bern.",
+                  "category": "museum",
+                  "coords": [
+                        7.435205,
+                        46.952804
+                  ]
+            },
+            {
+                  "name": "Das Theater an der Effingerstrasse",
+                  "text": "A renowned theatre on Effingerstrasse in Bern.",
+                  "category": "cultural",
+                  "coords": [
+                        7.435319,
+                        46.945971
+                  ]
+            },
+            {
+                  "name": "Einstein House",
+                  "text": "The former residence of Albert Einstein, now a museum.",
+                  "category": "museum",
+                  "coords": [
+                        7.449971,
+                        46.947674
+                  ]
+            },
+            {
+                  "name": "SAPA Foundation",
+                  "text": "The Swiss archive of performing arts in Bern.",
+                  "category": "museum",
+                  "coords": [
+                        7.43644,
+                        46.949145
+                  ]
+            },
+            {
+                  "name": "Schulmuseum Bern",
+                  "text": "A museum about the history of schooling in Bern.",
+                  "category": "museum",
+                  "coords": [
+                        7.413926,
+                        46.920996
+                  ]
+            },
+            {
+                  "name": "Schloss Muri bei Bern",
+                  "text": "A historic castle in Muri bei Bern.",
+                  "category": "castle",
+                  "coords": [
+                        7.488076,
+                        46.930881
+                  ]
+            },
+            {
+                  "name": "Romische Badeanlage",
+                  "text": "The remains of a Roman bath on the Enge peninsula.",
+                  "category": "historical",
+                  "coords": [
+                        7.449676,
+                        46.983566
                   ]
             }
       ]
@@ -58073,6 +62789,15 @@ export const poiExtraAtChMissingV1: POI[] = [
                         8.819727,
                         47.236954
                   ]
+            },
+            {
+                  "name": "Lachner Aahorn",
+                  "text": "Ein Naturschutzgebiet am Seeufer bei Rapperswil-Jona.",
+                  "category": "natural",
+                  "coords": [
+                        8.852084,
+                        47.20311
+                  ]
             }
       ],
       "hu": [
@@ -58595,6 +63320,15 @@ export const poiExtraAtChMissingV1: POI[] = [
                   "coords": [
                         8.819727,
                         47.236954
+                  ]
+            },
+            {
+                  "name": "Lachner Aahorn",
+                  "text": "Természetvédelmi terület a tóparton Rapperswil-Jona közelében.",
+                  "category": "natural",
+                  "coords": [
+                        8.852084,
+                        47.20311
                   ]
             }
       ],
@@ -59119,6 +63853,15 @@ export const poiExtraAtChMissingV1: POI[] = [
                         8.819727,
                         47.236954
                   ]
+            },
+            {
+                  "name": "Lachner Aahorn",
+                  "text": "O rezervație naturală pe malul lacului, lângă Rapperswil-Jona.",
+                  "category": "natural",
+                  "coords": [
+                        8.852084,
+                        47.20311
+                  ]
             }
       ],
       "en": [
@@ -59641,6 +64384,15 @@ export const poiExtraAtChMissingV1: POI[] = [
                   "coords": [
                         8.819727,
                         47.236954
+                  ]
+            },
+            {
+                  "name": "Lachner Aahorn",
+                  "text": "A nature reserve located on the lakeshore near Rapperswil-Jona.",
+                  "category": "natural",
+                  "coords": [
+                        8.852084,
+                        47.20311
                   ]
             }
       ]
@@ -62524,6 +67276,24 @@ export const poiExtraAtChMissingV1: POI[] = [
                         8.550355,
                         47.409554
                   ]
+            },
+            {
+                  "name": "Observation Deck B",
+                  "text": "Eine Aussichtsterrasse am Flughafen Zürich, die Einblicke in den Flugbetrieb gewährt.",
+                  "category": "natural",
+                  "coords": [
+                        8.557408,
+                        47.451205
+                  ]
+            },
+            {
+                  "name": "Viewpoint Hardwald",
+                  "text": "Ein Aussichtspunkt im Hardwald bei Opfikon, ideal für Naturbeobachtungen.",
+                  "category": "natural",
+                  "coords": [
+                        8.600223,
+                        47.436071
+                  ]
             }
       ],
       "hu": [
@@ -63033,6 +67803,24 @@ export const poiExtraAtChMissingV1: POI[] = [
                   "coords": [
                         8.550355,
                         47.409554
+                  ]
+            },
+            {
+                  "name": "Observation Deck B",
+                  "text": "Kilátóterasz a zürichi repülőtéren, ahonnan rálátni a repülők forgalmára.",
+                  "category": "natural",
+                  "coords": [
+                        8.557408,
+                        47.451205
+                  ]
+            },
+            {
+                  "name": "Viewpoint Hardwald",
+                  "text": "Kilátópont az Opfikon melletti Hardwaldban, ideális a természet megfigyelésére.",
+                  "category": "natural",
+                  "coords": [
+                        8.600223,
+                        47.436071
                   ]
             }
       ],
@@ -63544,6 +68332,24 @@ export const poiExtraAtChMissingV1: POI[] = [
                         8.550355,
                         47.409554
                   ]
+            },
+            {
+                  "name": "Observation Deck B",
+                  "text": "O terasă de observație la aeroportul din Zürich, care oferă vedere spre activitatea aviatică.",
+                  "category": "natural",
+                  "coords": [
+                        8.557408,
+                        47.451205
+                  ]
+            },
+            {
+                  "name": "Viewpoint Hardwald",
+                  "text": "Un punct de belvedere în pădurea Hardwald de lângă Opfikon, ideal pentru observarea naturii.",
+                  "category": "natural",
+                  "coords": [
+                        8.600223,
+                        47.436071
+                  ]
             }
       ],
       "en": [
@@ -64053,6 +68859,24 @@ export const poiExtraAtChMissingV1: POI[] = [
                   "coords": [
                         8.550355,
                         47.409554
+                  ]
+            },
+            {
+                  "name": "Observation Deck B",
+                  "text": "An observation deck at Zurich Airport providing views of the flight operations.",
+                  "category": "natural",
+                  "coords": [
+                        8.557408,
+                        47.451205
+                  ]
+            },
+            {
+                  "name": "Viewpoint Hardwald",
+                  "text": "A viewpoint in the Hardwald forest near Opfikon, ideal for nature observation.",
+                  "category": "natural",
+                  "coords": [
+                        8.600223,
+                        47.436071
                   ]
             }
       ]
@@ -73726,6 +78550,15 @@ export const poiExtraAtChMissingV1: POI[] = [
                         6.68488,
                         46.50329
                   ]
+            },
+            {
+                  "name": "Theatre Boulimie",
+                  "text": "Das Théâtre Boulimie in Pully ist eine bekannte Bühne für Humor und satirische Aufführungen.",
+                  "category": "cultural",
+                  "coords": [
+                        6.631934,
+                        46.522608
+                  ]
             }
       ],
       "hu": [
@@ -74121,6 +78954,15 @@ export const poiExtraAtChMissingV1: POI[] = [
                   "coords": [
                         6.68488,
                         46.50329
+                  ]
+            },
+            {
+                  "name": "Theatre Boulimie",
+                  "text": "A pully-i Théâtre Boulimie a humor és a szatirikus előadások ismert színpada.",
+                  "category": "cultural",
+                  "coords": [
+                        6.631934,
+                        46.522608
                   ]
             }
       ],
@@ -74518,6 +79360,15 @@ export const poiExtraAtChMissingV1: POI[] = [
                         6.68488,
                         46.50329
                   ]
+            },
+            {
+                  "name": "Theatre Boulimie",
+                  "text": "Théâtre Boulimie din Pully este o scenă cunoscută pentru umor și spectacole satirice.",
+                  "category": "cultural",
+                  "coords": [
+                        6.631934,
+                        46.522608
+                  ]
             }
       ],
       "en": [
@@ -74913,6 +79764,15 @@ export const poiExtraAtChMissingV1: POI[] = [
                   "coords": [
                         6.68488,
                         46.50329
+                  ]
+            },
+            {
+                  "name": "Theatre Boulimie",
+                  "text": "Theatre Boulimie in Pully is a well-known stage for humor and satirical performances.",
+                  "category": "cultural",
+                  "coords": [
+                        6.631934,
+                        46.522608
                   ]
             }
       ]
@@ -91700,6 +96560,51 @@ export const poiExtraAtChMissingV1: POI[] = [
                         7.59253,
                         47.528274
                   ]
+            },
+            {
+                  "name": "Cartoonmuseum Basel",
+                  "text": "Das Cartoonmuseum Basel in Binningen widmet sich der Kunst von Cartoons, Karikaturen und Comics.",
+                  "category": "museum",
+                  "coords": [
+                        7.596368,
+                        47.554529
+                  ]
+            },
+            {
+                  "name": "Spielzeug Welten",
+                  "text": "Das Museum Spielzeug Welten in Binningen präsentiert eine umfangreiche Sammlung historischer Spielsachen.",
+                  "category": "museum",
+                  "coords": [
+                        7.589093,
+                        47.553993
+                  ]
+            },
+            {
+                  "name": "Schweizerisches Architekturmuseum",
+                  "text": "Das Schweizerische Architekturmuseum in Binningen zeigt wechselnde Ausstellungen zur Baukultur.",
+                  "category": "museum",
+                  "coords": [
+                        7.591032,
+                        47.553766
+                  ]
+            },
+            {
+                  "name": "Pharmaziemuseum Universitat Basel",
+                  "text": "Ein Museum in Binningen, das sich der Geschichte der Pharmazie der Universität Basel widmet.",
+                  "category": "museum",
+                  "coords": [
+                        7.586335,
+                        47.55855
+                  ]
+            },
+            {
+                  "name": "Judisches Museum der Schweiz",
+                  "text": "Ein Museum in Binningen, das die jüdische Kultur und Geschichte der Schweiz dokumentiert.",
+                  "category": "museum",
+                  "coords": [
+                        7.583168,
+                        47.557641
+                  ]
             }
       ],
       "hu": [
@@ -92245,6 +97150,51 @@ export const poiExtraAtChMissingV1: POI[] = [
                   "coords": [
                         7.59253,
                         47.528274
+                  ]
+            },
+            {
+                  "name": "Cartoonmuseum Basel",
+                  "text": "A binningeni Cartoonmuseum Basel a rajzfilmek, karikatúrák és képregények művészetének szentelt intézmény.",
+                  "category": "museum",
+                  "coords": [
+                        7.596368,
+                        47.554529
+                  ]
+            },
+            {
+                  "name": "Spielzeug Welten",
+                  "text": "A binningeni Spielzeug Welten múzeum történelmi játékok széleskörű gyűjteményét mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        7.589093,
+                        47.553993
+                  ]
+            },
+            {
+                  "name": "Schweizerisches Architekturmuseum",
+                  "text": "A binningeni Svájci Építészeti Múzeum az építészeti kultúrával foglalkozó időszaki kiállításokat mutat be.",
+                  "category": "museum",
+                  "coords": [
+                        7.591032,
+                        47.553766
+                  ]
+            },
+            {
+                  "name": "Pharmaziemuseum Universitat Basel",
+                  "text": "A Bázeli Egyetem gyógyszerészeti történetét bemutató múzeum Binningenben.",
+                  "category": "museum",
+                  "coords": [
+                        7.586335,
+                        47.55855
+                  ]
+            },
+            {
+                  "name": "Judisches Museum der Schweiz",
+                  "text": "Svájc zsidó kultúráját és történelmét dokumentáló múzeum Binningenben.",
+                  "category": "museum",
+                  "coords": [
+                        7.583168,
+                        47.557641
                   ]
             }
       ],
@@ -92792,6 +97742,51 @@ export const poiExtraAtChMissingV1: POI[] = [
                         7.59253,
                         47.528274
                   ]
+            },
+            {
+                  "name": "Cartoonmuseum Basel",
+                  "text": "Cartoonmuseum Basel din Binningen este dedicat artei desenelor animate, caricaturilor și benzilor desenate.",
+                  "category": "museum",
+                  "coords": [
+                        7.596368,
+                        47.554529
+                  ]
+            },
+            {
+                  "name": "Spielzeug Welten",
+                  "text": "Muzeul Spielzeug Welten din Binningen prezintă o colecție vastă de jucării istorice.",
+                  "category": "museum",
+                  "coords": [
+                        7.589093,
+                        47.553993
+                  ]
+            },
+            {
+                  "name": "Schweizerisches Architekturmuseum",
+                  "text": "Muzeul Elvețian de Arhitectură din Binningen prezintă expoziții temporare despre cultura construcțiilor.",
+                  "category": "museum",
+                  "coords": [
+                        7.591032,
+                        47.553766
+                  ]
+            },
+            {
+                  "name": "Pharmaziemuseum Universitat Basel",
+                  "text": "Un muzeu în Binningen dedicat istoriei farmaciei de la Universitatea din Basel.",
+                  "category": "museum",
+                  "coords": [
+                        7.586335,
+                        47.55855
+                  ]
+            },
+            {
+                  "name": "Judisches Museum der Schweiz",
+                  "text": "Un muzeu în Binningen care documentează cultura și istoria evreiască din Elveția.",
+                  "category": "museum",
+                  "coords": [
+                        7.583168,
+                        47.557641
+                  ]
             }
       ],
       "en": [
@@ -93337,6 +98332,51 @@ export const poiExtraAtChMissingV1: POI[] = [
                   "coords": [
                         7.59253,
                         47.528274
+                  ]
+            },
+            {
+                  "name": "Cartoonmuseum Basel",
+                  "text": "The Cartoon Museum Basel in Binningen is dedicated to the art of cartoons, caricatures, and comics.",
+                  "category": "museum",
+                  "coords": [
+                        7.596368,
+                        47.554529
+                  ]
+            },
+            {
+                  "name": "Spielzeug Welten",
+                  "text": "The Toy Worlds Museum in Binningen presents an extensive collection of historical toys.",
+                  "category": "museum",
+                  "coords": [
+                        7.589093,
+                        47.553993
+                  ]
+            },
+            {
+                  "name": "Schweizerisches Architekturmuseum",
+                  "text": "The Swiss Architecture Museum in Binningen features rotating exhibitions on architectural culture.",
+                  "category": "museum",
+                  "coords": [
+                        7.591032,
+                        47.553766
+                  ]
+            },
+            {
+                  "name": "Pharmaziemuseum Universitat Basel",
+                  "text": "A museum in Binningen dedicated to the history of pharmacy at the University of Basel.",
+                  "category": "museum",
+                  "coords": [
+                        7.586335,
+                        47.55855
+                  ]
+            },
+            {
+                  "name": "Judisches Museum der Schweiz",
+                  "text": "A museum in Binningen documenting Jewish culture and history in Switzerland.",
+                  "category": "museum",
+                  "coords": [
+                        7.583168,
+                        47.557641
                   ]
             }
       ]
@@ -98249,6 +103289,15 @@ export const poiExtraAtChMissingV1: POI[] = [
                         8.77216,
                         47.258848
                   ]
+            },
+            {
+                  "name": "Adolf Bolliger Weiher",
+                  "text": "Ein idyllischer Weiher und Naturschutzgebiet in Stäfa.",
+                  "category": "landmark",
+                  "coords": [
+                        8.726605,
+                        47.26169
+                  ]
             }
       ],
       "hu": [
@@ -98601,6 +103650,15 @@ export const poiExtraAtChMissingV1: POI[] = [
                   "coords": [
                         8.77216,
                         47.258848
+                  ]
+            },
+            {
+                  "name": "Adolf Bolliger Weiher",
+                  "text": "Egy idilli tó és természetvédelmi terület Stäfában.",
+                  "category": "landmark",
+                  "coords": [
+                        8.726605,
+                        47.26169
                   ]
             }
       ],
@@ -98955,6 +104013,15 @@ export const poiExtraAtChMissingV1: POI[] = [
                         8.77216,
                         47.258848
                   ]
+            },
+            {
+                  "name": "Adolf Bolliger Weiher",
+                  "text": "Un iaz idilic și o rezervație naturală în Stäfa.",
+                  "category": "landmark",
+                  "coords": [
+                        8.726605,
+                        47.26169
+                  ]
             }
       ],
       "en": [
@@ -99307,6 +104374,15 @@ export const poiExtraAtChMissingV1: POI[] = [
                   "coords": [
                         8.77216,
                         47.258848
+                  ]
+            },
+            {
+                  "name": "Adolf Bolliger Weiher",
+                  "text": "An idyllic pond and nature reserve in Stäfa.",
+                  "category": "landmark",
+                  "coords": [
+                        8.726605,
+                        47.26169
                   ]
             }
       ]
@@ -102249,6 +107325,15 @@ export const poiExtraAtChMissingV1: POI[] = [
                         8.621371,
                         47.275167
                   ]
+            },
+            {
+                  "name": "St. Franziskus",
+                  "text": "Die katholische Kirche St. Franziskus in Uetikon am See.",
+                  "category": "religious",
+                  "coords": [
+                        8.678606,
+                        47.264764
+                  ]
             }
       ],
       "hu": [
@@ -102565,6 +107650,15 @@ export const poiExtraAtChMissingV1: POI[] = [
                   "coords": [
                         8.621371,
                         47.275167
+                  ]
+            },
+            {
+                  "name": "St. Franziskus",
+                  "text": "A Szent Ferenc katolikus templom Uetikon am See-ben.",
+                  "category": "religious",
+                  "coords": [
+                        8.678606,
+                        47.264764
                   ]
             }
       ],
@@ -102883,6 +107977,15 @@ export const poiExtraAtChMissingV1: POI[] = [
                         8.621371,
                         47.275167
                   ]
+            },
+            {
+                  "name": "St. Franziskus",
+                  "text": "Biserica catolică Sfântul Francisc din Uetikon am See.",
+                  "category": "religious",
+                  "coords": [
+                        8.678606,
+                        47.264764
+                  ]
             }
       ],
       "en": [
@@ -103199,6 +108302,15 @@ export const poiExtraAtChMissingV1: POI[] = [
                   "coords": [
                         8.621371,
                         47.275167
+                  ]
+            },
+            {
+                  "name": "St. Franziskus",
+                  "text": "The Catholic church of St. Francis in Uetikon am See.",
+                  "category": "religious",
+                  "coords": [
+                        8.678606,
+                        47.264764
                   ]
             }
       ]
@@ -128340,6 +133452,15 @@ export const poiExtraAtChMissingV1: POI[] = [
                         7.616451,
                         47.478648
                   ]
+            },
+            {
+                  "name": "Schloss Angenstein",
+                  "text": "Ein historisches Schloss bei Aesch, das eine strategische Lage in der Klus von Angenstein einnimmt.",
+                  "category": "castle",
+                  "coords": [
+                        7.604817,
+                        47.46332
+                  ]
             }
       ],
       "hu": [
@@ -128647,6 +133768,15 @@ export const poiExtraAtChMissingV1: POI[] = [
                   "coords": [
                         7.616451,
                         47.478648
+                  ]
+            },
+            {
+                  "name": "Schloss Angenstein",
+                  "text": "Történelmi kastély Aesch közelében, amely stratégiai helyet foglal el az Angenstein-szorosban.",
+                  "category": "castle",
+                  "coords": [
+                        7.604817,
+                        47.46332
                   ]
             }
       ],
@@ -128956,6 +134086,15 @@ export const poiExtraAtChMissingV1: POI[] = [
                         7.616451,
                         47.478648
                   ]
+            },
+            {
+                  "name": "Schloss Angenstein",
+                  "text": "Un castel istoric de lângă Aesch, situat strategic în defileul Angenstein.",
+                  "category": "castle",
+                  "coords": [
+                        7.604817,
+                        47.46332
+                  ]
             }
       ],
       "en": [
@@ -129263,6 +134402,15 @@ export const poiExtraAtChMissingV1: POI[] = [
                   "coords": [
                         7.616451,
                         47.478648
+                  ]
+            },
+            {
+                  "name": "Schloss Angenstein",
+                  "text": "A historic castle near Aesch, occupying a strategic position in the Angenstein pass.",
+                  "category": "castle",
+                  "coords": [
+                        7.604817,
+                        47.46332
                   ]
             }
       ]
@@ -130277,6 +135425,15 @@ export const poiExtraAtChMissingV1: POI[] = [
                         8.523288,
                         47.170944
                   ]
+            },
+            {
+                  "name": "Schloss Sankt Andreas",
+                  "text": "Ein markantes Schloss am Ufer des Zugersees in Steinhausen.",
+                  "category": "castle",
+                  "coords": [
+                        8.466224,
+                        47.178725
+                  ]
             }
       ],
       "hu": [
@@ -130629,6 +135786,15 @@ export const poiExtraAtChMissingV1: POI[] = [
                   "coords": [
                         8.523288,
                         47.170944
+                  ]
+            },
+            {
+                  "name": "Schloss Sankt Andreas",
+                  "text": "Egy jellegzetes kastély a Zugi-tó partján, Steinhausenben.",
+                  "category": "castle",
+                  "coords": [
+                        8.466224,
+                        47.178725
                   ]
             }
       ],
@@ -130983,6 +136149,15 @@ export const poiExtraAtChMissingV1: POI[] = [
                         8.523288,
                         47.170944
                   ]
+            },
+            {
+                  "name": "Schloss Sankt Andreas",
+                  "text": "Un castel distinctiv situat pe malul lacului Zug, în Steinhausen.",
+                  "category": "castle",
+                  "coords": [
+                        8.466224,
+                        47.178725
+                  ]
             }
       ],
       "en": [
@@ -131336,10 +136511,532 @@ export const poiExtraAtChMissingV1: POI[] = [
                         8.523288,
                         47.170944
                   ]
+            },
+            {
+                  "name": "Schloss Sankt Andreas",
+                  "text": "A distinctive castle located on the shores of Lake Zug in Steinhausen.",
+                  "category": "castle",
+                  "coords": [
+                        8.466224,
+                        47.178725
+                  ]
             }
       ]
 }, "type": "city", "parent": "CH-ZG", "coords": [8.4892, 47.1953], "population": 10125, "image": "/geo-images/switzerland/ch-steinhausen.webp", "name": {"de": "Steinhausen", "hu": "Steinhausen", "ro": "Steinhausen", "en": "Steinhausen"}, "description": {"de": "Steinhausen ist eine dynamische Gemeinde im Kanton Zug, die moderne Infrastruktur mit naturnaher Lebensqualität verbindet.", "hu": "Steinhausen egy dinamikus település Zug kantonban, amely a modern infrastruktúrát ötvözi a természetközeli életminőséggel.", "ro": "Steinhausen este o comună dinamică din cantonul Zug, care îmbină infrastructura modernă cu o calitate a vieții apropiată de natură.", "en": "Steinhausen is a dynamic municipality in the Canton of Zug, combining modern infrastructure with a high quality of life near nature."}, "facts": {"de": ["Lage im Kanton Zug", "Nähe zum Zugersee", "Wirtschaftszentrum", "Gute Verkehrsanbindung"], "hu": ["Zug kantonban fekszik", "A Zugi-tó közelében", "Gazdasági központ", "Kiváló közlekedés"], "ro": ["Situat în cantonul Zug", "Aproape de lacul Zug", "Centru economic", "Conexiuni rutiere bune"], "en": ["Located in Canton Zug", "Near Lake Zug", "Economic center", "Excellent transport links"]}, "descriptionAdvanced": {"de": "Steinhausen liegt im Kanton Zug und hat sich von einem bäuerlichen Dorf zu einem dynamischen Wirtschaftsstandort entwickelt. Die Gemeinde profitiert von ihrer strategischen Lage zwischen dem Zugersee und dem Ballungsraum Zürich. Die Geschichte der Siedlung reicht bis ins Hochmittelalter zurück, wobei die erste urkundliche Erwähnung auf das Jahr 1173 datiert wird. Heute zeichnet sich der Ort durch eine hohe Lebensqualität, moderne Infrastruktur und eine Vielzahl von Unternehmen aus, die die steuergünstigen Rahmenbedingungen des Kantons nutzen. Die Architektur im Zentrum verbindet historische Bauten mit zeitgenössischer Planung. Besonders hervorzuheben ist die Pfarrkirche St. Matthias und Nikolaus, die das Ortsbild prägt. Für Erholungssuchende bieten der nahegelegene Bannwald und die Seeuferregion zahlreiche Möglichkeiten für Freizeitaktivitäten im Freien. Die Gemeinde ist zudem ein wichtiger Knotenpunkt im regionalen Schienenverkehr der S-Bahn Zentralschweiz.", "hu": "Steinhausen a Zug kanton északi részén fekszik, és az elmúlt évtizedekben jelentős fejlődésen ment keresztül. A település első írásos említése 1173-ból származik, amikor még kis mezőgazdasági faluként létezett. Napjainkban modern ipari és kereskedelmi központ, amely szoros kapcsolatban áll Zug városával és Zürich agglomerációjával. A község területén számos nemzetközi vállalat székháza található, kihasználva a kanton kedvező adózási feltételeit. Steinhausen központjában található a Szent Mátyás és Szent Miklós plébániatemplom, amely a helyi közösség vallási életének központja. A lakosok számára kiváló kikapcsolódási lehetőséget nyújt a közeli Bannwald erdő, valamint a Zugi-tó közelsége, amely nyáron népszerű kirándulóhely. A kiváló közlekedési kapcsolatok, köztük az S-Bahn hálózat, gyors elérést biztosítanak a környező nagyvárosokhoz és gazdasági övezetekhez.", "ro": "Steinhausen este situat în cantonul Zug și s-a transformat dintr-un sat agricol într-un centru economic dinamic. Prima mențiune documentară a localității datează din anul 1173, reflectând o istorie îndelungată în regiunea platoului elvețian. Astăzi, comunitatea beneficiază de proximitatea față de lacul Zug și de orașul Zürich, oferind un echilibru între zonele rezidențiale liniștite și zonele industriale moderne. Steinhausen este cunoscut pentru infrastructura sa excelentă și pentru mediul de afaceri atractiv, facilitat de taxele scăzute din canton. Biserica parohială Sfântul Matei și Nicolae este un reper arhitectural important în centrul localității. Pădurea Bannwald oferă numeroase trasee pentru drumeții și activități în aer liber, fiind o destinație populară pentru recreere. Localitatea este bine conectată la rețeaua feroviară S-Bahn, asigurând o mobilitate ridicată pentru navetiști și turiști deopotrivă în întreaga Elveție Centrală.", "en": "Steinhausen is located in the Canton of Zug and has evolved from a rural village into a dynamic economic hub. The municipality's first documentary mention dates back to 1173, marking its long historical presence in the Swiss plateau. Today, it stands as a modern center that benefits from its strategic location between Lake Zug and the Zurich metropolitan area. The town is home to numerous national and international companies, attracted by the favorable tax climate of the canton. The architectural landscape features a mix of traditional structures and contemporary developments, with the Parish Church of St. Matthias and Nicholas serving as a central landmark. For recreation, residents and visitors enjoy the nearby Bannwald forest and the scenic shores of Lake Zug. Excellent transport links, including the S-Bahn network, provide quick access to neighboring cities, making it a highly desirable residential and business location in the heart of Switzerland."}, "factsAdvanced": {"de": ["Fläche von 5.05 Quadratkilometern", "Erstmals 1173 urkundlich erwähnt", "Über 10000 Einwohner heute", "Steuergünstiger Standort im Kanton Zug", "Anschluss an die S-Bahn Zentralschweiz", "Naherholungsgebiet Bannwald"], "hu": ["5.05 négyzetkilométeres terület", "Első említés 1173-ban", "Több mint 10000 lakos napjainkban", "Kedvező adózási környezet Zugban", "S-Bahn vasúti kapcsolat", "Bannwald rekreációs terület"], "ro": ["Suprafață de 5.05 kilometri pătrați", "Prima atestare în 1173", "Peste 10000 de locuitori în prezent", "Locație cu taxe mici în cantonul Zug", "Acces la rețeaua S-Bahn", "Zona de recreere Bannwald"], "en": ["Area of 5.05 square kilometers", "First documented in 1173", "Over 10,000 residents today", "Low-tax location in Canton Zug", "Connected to the S-Bahn network", "Bannwald local recreation area"]}, "faq": {"de": [{"q": "Wo liegt Steinhausen?", "a": "Steinhausen liegt im Kanton Zug, nördlich der Stadt Zug."}, {"q": "Was ist die Hauptattraktion?", "a": "Die Pfarrkirche St. Matthias und der nahegelegene Bannwald."}, {"q": "Wie ist die Wirtschaft?", "a": "Steinhausen ist ein bedeutender Standort für viele Unternehmen."}, {"q": "Gibt es Seezugang?", "a": "Die Gemeinde liegt sehr nah am Nordufer des Zugersees."}], "hu": [{"q": "Hol található Steinhausen?", "a": "Steinhausen Zug kantonban, Zug városától északra fekszik."}, {"q": "Mi a fő látnivaló?", "a": "A Szent Mátyás plébániatemplom és a közeli Bannwald erdő."}, {"q": "Milyen a gazdasága?", "a": "Steinhausen számos vállalat számára fontos üzleti központ."}, {"q": "Van tópartja?", "a": "A település nagyon közel fekszik a Zugi-tó északi partjához."}], "ro": [{"q": "Unde se află Steinhausen?", "a": "Steinhausen se află în cantonul Zug, la nord de orașul Zug."}, {"q": "Care este principala atracție?", "a": "Biserica Sf. Matei și pădurea Bannwald din apropiere."}, {"q": "Cum este economia locală?", "a": "Steinhausen este un sediu important pentru numeroase companii."}, {"q": "Există acces la lac?", "a": "Comuna este situată foarte aproape de malul nordic al lacului Zug."}], "en": [{"q": "Where is Steinhausen located?", "a": "Steinhausen is in Canton Zug, just north of the city of Zug."}, {"q": "What is the main attraction?", "a": "The St. Matthias Parish Church and the nearby Bannwald forest."}, {"q": "What is the economy like?", "a": "Steinhausen is a significant hub for many businesses."}, {"q": "Is there access to a lake?", "a": "The municipality is very close to the northern shore of Lake Zug."}]}},
-  {"id": "ch-estavayer", "sights": {"de": [{"name": "Musée des Grenouilles", "text": "Ein einzigartiges Museum in Estavayer, das eine berühmte Sammlung präparierter Frösche zeigt.", "category": "museum", "coords": [6.848804, 46.849489]}, {"name": "Chateau de Chenaux", "text": "Ein beeindruckendes mittelalterliches Schloss, das das Stadtbild von Estavayer-le-Lac prägt.", "category": "castle", "coords": [6.84886, 46.851497]}, {"name": "Pierre du Mariage", "text": "Eine archäologische Fundstätte in Estavayer, die mit alten Legenden verknüpft ist.", "category": "historical", "coords": [6.826537, 46.842074]}, {"name": "l'azimut", "text": "Ein lokaler Kulturort und Theaterraum in Estavayer für verschiedene Aufführungen.", "category": "cultural", "coords": [6.843163, 46.84556]}, {"name": "Réserve naturelle de Cheyres", "text": "Dieses Naturschutzgebiet in Estavayer bietet einen geschützten Lebensraum für die lokale Flora und Fauna am Seeufer.", "category": "natural", "coords": [6.81178, 46.83345]}, {"name": "Plage de Font", "text": "Entlang des Neuenburgersees in Estavayer gelegen, wird die Plage de Font als ruhiger und idyllischer Strandabschnitt geschätzt. Die ruhige Umgebung macht sie zu einem idealen Ziel für pure Entspannung und ungestörtes Schwimmen im See. Besucher schätzen die unaufgeregte Atmosphäre, die perfekt ist, um unter der Sonne abzuschalten. Ein Picknick an den sanften Gewässern ist ein großartiger Abschluss für einen Sommerausflug hierher.", "category": "recreational", "coords": [6.810623, 46.838091]}, {"name": "Plage de la Corbière", "text": "Als bevorzugtes Ziel für Erholungssuchende in Estavayer bietet die Plage de la Corbière eine lebhafte und zugleich entspannende Umgebung am Seeufer. Die angenehme Küstenatmosphäre zieht alle an, die baden, sich sonnen oder sich am Seeufer vergnügen möchten. Sie pflegt ein einladendes Ambiente, das lokale Energie mit natürlicher Schönheit verbindet. Ein Besuch an einem warmen Nachmittag ist der perfekte Weg, um diesen lebendigen Charme zu erleben.", "category": "recreational", "coords": [6.86323, 46.864685]}, {"name": "La Prillaz", "text": "Ein lokales Kulturzentrum in Estavayer, das Raum für künstlerische Aktivitäten und Veranstaltungen bietet.", "category": "cultural", "coords": [6.854609, 46.849165]}, {"name": "Plateforme Paysagère de Font", "text": "Diese Aussichtsplattform in Estavayer bietet einen weiten Blick über die umliegende Landschaft und den See.", "category": "natural", "coords": [6.813286, 46.837317]}, {"name": "Point de vue paysager d'Autavaux", "text": "Ein landschaftlicher Aussichtspunkt in Estavayer, der Besuchern einen Panoramablick auf die Region ermöglicht.", "category": "natural", "coords": [6.872142, 46.866909]}, {"name": "La Grande Gouille", "text": "La Grande Gouille in Estavayer ist ein schöner See in der Nähe des Neuenburgersees.", "category": "natural", "coords": [6.8479, 46.855223]}, {"name": "Neuenburgersee", "text": "Der Neuenburgersee bei Estavayer lädt zu Wassersport und Erholung ein.", "category": "natural", "coords": [6.842332, 46.897844]}, {"name": "Minigolf de la Rose", "text": "Der Minigolf de la Rose in Estavayer bietet Freizeitvergnügen für Groß und Klein.", "category": "family", "coords": [6.848097, 46.853571]}], "hu": [{"name": "Musée des Grenouilles", "text": "Egyedülálló múzeum Estavayerben, amely kitömött békák híres gyűjteményét mutatja be.", "category": "museum", "coords": [6.848804, 46.849489]}, {"name": "Chateau de Chenaux", "text": "Lenyűgöző középkori kastély, amely meghatározza Estavayer-le-Lac városképét.", "category": "castle", "coords": [6.84886, 46.851497]}, {"name": "Pierre du Mariage", "text": "Régészeti lelőhely Estavayerben, amely régi legendákhoz kötődik.", "category": "historical", "coords": [6.826537, 46.842074]}, {"name": "l'azimut", "text": "Helyi kulturális helyszín és színházi tér Estavayerben különféle előadások számára.", "category": "cultural", "coords": [6.843163, 46.84556]}, {"name": "Réserve naturelle de Cheyres", "text": "Ez az Estavayer melletti természetvédelmi terület védett élőhelyet biztosít a helyi tóparti növény- és állatvilágnak.", "category": "natural", "coords": [6.81178, 46.83345]}, {"name": "Plage de Font", "text": "Az Estavayerben, a Neuchâteli-tó mentén található Plage de Font csendes és idilli strandszakaszként ismert. A nyugodt környezet ideális célponttá teszi a tiszta pihenéshez és a zavartalan tóparti úszáshoz. A látogatók értékelik a békés légkört, amely tökéletes a napsütésben való kikapcsolódáshoz. Egy vízparti piknik nagyszerű módja az itteni nyári kiruccanás megkoronázásának.", "category": "recreational", "coords": [6.810623, 46.838091]}, {"name": "Plage de la Corbière", "text": "Estavayer kedvelt rekreációs célpontjaként a Plage de la Corbière élénk, mégis pihentető környezetet kínál a tó partján. A kellemes parti hangulat vonzza azokat, akik fürdeni, napozni szeretnének, vagy élveznék a tóparti kikapcsolódást. Barátságos légkört tart fenn, amely egyensúlyban tartja a helyi energiát a természeti szépséggel. Egy meleg délutáni látogatás a tökéletes módja e pezsgő, mégis nyugtató báj megtapasztalásának.", "category": "recreational", "coords": [6.86323, 46.864685]}, {"name": "La Prillaz", "text": "Helyi kulturális központ Estavayerben, amely helyet biztosít művészeti tevékenységeknek és rendezvényeknek.", "category": "cultural", "coords": [6.854609, 46.849165]}, {"name": "Plateforme Paysagère de Font", "text": "Ez az Estavayerben található kilátóplatform széles kilátást nyújt a környező tájra és a tóra.", "category": "natural", "coords": [6.813286, 46.837317]}, {"name": "Point de vue paysager d'Autavaux", "text": "Tájképi kilátópont Estavayerben, amely panormáma kilátást nyújt a látogatóknak a régióra.", "category": "natural", "coords": [6.872142, 46.866909]}, {"name": "La Grande Gouille", "text": "Az estavayeri La Grande Gouille egy szép tó a Neuchâteli-tó közelében.", "category": "natural", "coords": [6.8479, 46.855223]}, {"name": "Lac de Neuchâtel", "text": "Az Estavayer melletti Neuchâteli-tó vízi sportokra és kikapcsolódásra hív.", "category": "natural", "coords": [6.842332, 46.897844]}, {"name": "Minigolf de la Rose", "text": "Az estavayeri Minigolf de la Rose szabadidős szórakozást nyújt kicsiknek és nagyoknak.", "category": "family", "coords": [6.848097, 46.853571]}], "ro": [{"name": "Musée des Grenouilles", "text": "Un muzeu inedit din Estavayer care prezintă o faimoasă colecție de broaște preparate.", "category": "museum", "coords": [6.848804, 46.849489]}, {"name": "Chateau de Chenaux", "text": "Un castel medieval impresionant care domină peisajul urban din Estavayer-le-Lac.", "category": "castle", "coords": [6.84886, 46.851497]}, {"name": "Pierre du Mariage", "text": "Un sit arheologic în Estavayer, legat de vechi legende locale.", "category": "historical", "coords": [6.826537, 46.842074]}, {"name": "l'azimut", "text": "Un spațiu cultural și teatral local în Estavayer pentru diverse spectacole.", "category": "cultural", "coords": [6.843163, 46.84556]}, {"name": "Réserve naturelle de Cheyres", "text": "Această rezervație naturală din Estavayer oferă un habitat protejat pentru flora și fauna locală de pe malul lacului.", "category": "natural", "coords": [6.81178, 46.83345]}, {"name": "Plage de Font", "text": "Situată de-a lungul Lacului Neuchâtel în Estavayer, Plage de Font este celebrată ca o plajă liniștită și idilică. Mediul calm o face o destinație ideală pentru relaxare pură și înot neîntrerupt în lac. Vizitatorii apreciază atmosfera fără grabă, care este perfectă pentru a vă relaxa sub soare. Pregătirea unui picnic pentru a vă bucura lângă apele blânde este o modalitate excelentă de a completa o ieșire de vară.", "category": "recreational", "coords": [6.810623, 46.838091]}, {"name": "Plage de la Corbière", "text": "Ca o destinație favorită pentru recreere în Estavayer, Plage de la Corbière oferă un cadru plin de viață, dar relaxant, la marginea lacului. Mediul de coastă plăcut atrage pe cei care doresc să înoate, să facă plajă sau să se angajeze în activități de agrement. Menține o atmosferă primitoare care echilibrează energia locală cu frumusețea naturală. O vizită într-o după-amiază caldă este modalitatea perfectă de a experimenta farmecul său.", "category": "recreational", "coords": [6.86323, 46.864685]}, {"name": "La Prillaz", "text": "Un centru cultural local din Estavayer care oferă spațiu pentru activități și evenimente artistice.", "category": "cultural", "coords": [6.854609, 46.849165]}, {"name": "Plateforme Paysagère de Font", "text": "Această platformă de observare din Estavayer oferă o vedere panoramică asupra peisajului înconjurător și a lacului.", "category": "natural", "coords": [6.813286, 46.837317]}, {"name": "Point de vue paysager d'Autavaux", "text": "Un punct de belvedere pitoresc în Estavayer, care oferă vizitatorilor o vedere panoramică asupra regiunii.", "category": "natural", "coords": [6.872142, 46.866909]}, {"name": "La Grande Gouille", "text": "La Grande Gouille din Estavayer este un lac frumos lângă lacul Neuchâtel.", "category": "natural", "coords": [6.8479, 46.855223]}, {"name": "Lac de Neuchâtel", "text": "Lacul Neuchâtel de lângă Estavayer invită la sporturi nautice și relaxare.", "category": "natural", "coords": [6.842332, 46.897844]}, {"name": "Minigolf de la Rose", "text": "Minigolf de la Rose din Estavayer oferă distracție în timpul liber pentru cei mari și mici.", "category": "family", "coords": [6.848097, 46.853571]}], "en": [{"name": "Musée des Grenouilles", "text": "A unique museum in Estavayer displaying a famous collection of taxidermied frogs.", "category": "museum", "coords": [6.848804, 46.849489]}, {"name": "Chateau de Chenaux", "text": "An impressive medieval castle that characterizes the cityscape of Estavayer-le-Lac.", "category": "castle", "coords": [6.84886, 46.851497]}, {"name": "Pierre du Mariage", "text": "An archaeological site in Estavayer linked to ancient local legends.", "category": "historical", "coords": [6.826537, 46.842074]}, {"name": "l'azimut", "text": "A local cultural venue and theatre space in Estavayer for various performances.", "category": "cultural", "coords": [6.843163, 46.84556]}, {"name": "Réserve naturelle de Cheyres", "text": "This nature reserve in Estavayer provides a protected habitat for local lakeside flora and fauna.", "category": "natural", "coords": [6.81178, 46.83345]}, {"name": "Plage de Font", "text": "Situated along Lake Neuchâtel in Estavayer, Plage de Font is celebrated as a quiet and idyllic beach stretch. The calm environment makes it an ideal destination for pure relaxation and uninterrupted swimming in the lake. Visitors appreciate the unhurried atmosphere, which is perfect for unwinding under the sun. Packing a picnic to enjoy by the gentle waters is a great way to complete a summer outing here.", "category": "recreational", "coords": [6.810623, 46.838091]}, {"name": "Plage de la Corbière", "text": "As a favored destination for recreation in Estavayer, Plage de la Corbière offers a lively yet relaxing setting on the lake's edge. The pleasant coastal environment draws those looking to swim, sunbathe, or engage in lakeside leisure. It maintains a welcoming atmosphere that balances local energy with natural beauty. A visit during a warm afternoon is the perfect way to experience its vibrant yet soothing charm.", "category": "recreational", "coords": [6.86323, 46.864685]}, {"name": "La Prillaz", "text": "A local arts centre in Estavayer providing space for artistic activities and events.", "category": "cultural", "coords": [6.854609, 46.849165]}, {"name": "Plateforme Paysagère de Font", "text": "This observation platform in Estavayer offers a wide view over the surrounding landscape and the lake.", "category": "natural", "coords": [6.813286, 46.837317]}, {"name": "Point de vue paysager d'Autavaux", "text": "A scenic viewpoint in Estavayer offering visitors a panoramic view of the region.", "category": "natural", "coords": [6.872142, 46.866909]}, {"name": "La Grande Gouille", "text": "La Grande Gouille in Estavayer is a beautiful lake near Lake Neuchâtel.", "category": "natural", "coords": [6.8479, 46.855223]}, {"name": "Lake Neuchâtel", "text": "Lake Neuchâtel near Estavayer invites you to water sports and relaxation.", "category": "natural", "coords": [6.842332, 46.897844]}, {"name": "Minigolf de la Rose", "text": "The Minigolf de la Rose in Estavayer offers leisure fun for all ages.", "category": "family", "coords": [6.848097, 46.853571]}]}, "type": "city", "parent": "CH-FR", "coords": [6.8472, 46.8487], "population": 10071, "image": "/geo-images/switzerland/ch-estavayer.webp", "name": {"de": "Estavayer", "hu": "Estavayer", "ro": "Estavayer", "en": "Estavayer"}, "description": {"de": "Estavayer ist eine charmante mittelalterliche Stadt am Neuenburgersee, bekannt für ihr Schloss und Wassersportmöglichkeiten.", "hu": "Estavayer egy bájos középkori város a Neuchâteli-tó partján, amely kastélyáról és vízisport-lehetőségeiről ismert.", "ro": "Estavayer este un oraș medieval fermecător de pe malul lacului Neuchâtel, cunoscut pentru castelul său și sporturile nautice.", "en": "Estavayer is a charming medieval town on Lake Neuchâtel, known for its castle and diverse water sports activities."}, "facts": {"de": ["Mittelalterliche Altstadt", "Schloss Chenaux", "Am Neuenburgersee", "Froschmuseum"], "hu": ["Középkori óváros", "Chenaux kastély", "A Neuchâteli-tó partján", "Békamúzeum"], "ro": ["Oraș vechi medieval", "Castelul Chenaux", "Pe malul lacului Neuchâtel", "Muzeul Broaștelor"], "en": ["Medieval old town", "Chenaux Castle", "On Lake Neuchâtel", "Frog Museum"]}, "descriptionAdvanced": {"de": "Estavayer liegt am Südufer des Neuenburgersees im Kanton Freiburg und ist der Hauptort des Broyebezirks. Die Stadt blickt auf eine reiche Geschichte zurück, die bis in die Römerzeit reicht, doch ihr heutiges Erscheinungsbild ist stark mittelalterlich geprägt. Das imposante Schloss Chenaux aus dem 13. Jahrhundert thront über der Stadt und zeugt von der strategischen Bedeutung des Ortes. Die gut erhaltene Altstadt mit ihren engen Gassen und historischen Gebäuden lädt zum Verweilen ein. Estavayer ist heute nicht nur ein kulturelles Zentrum, sondern auch ein beliebtes Ziel für Touristen, besonders für Liebhaber des Wassersports. Der Ort verfügt über einen der am besten ausgestatteten Wasserski-Lifte in Europa. Ein Unikum ist das Froschmuseum, in dem präparierte Frösche in Alltagsszenen aus dem 19. Jahrhundert dargestellt sind. Die umliegende Natur der Grande Cariçaie bietet zudem wichtige Lebensräume für seltene Pflanzen und Tiere.", "hu": "Estavayer a Neuchâteli-tó déli partján, Fribourg kantonban található, és a Broye kerület székhelye. A város gazdag történelme egészen a római korig nyúlik vissza, de mai arculatát elsősorban a középkori építészet határozza meg. A 13. századi Chenaux kastély fenségesen magasodik a város fölé, emlékeztetve a hely egykori stratégiai jelentőségére. A jól megőrzött óváros szűk utcáival és történelmi házaival különleges hangulatot áraszt. Estavayer ma nemcsak kulturális központ, hanem népszerű turisztikai célpont is, különösen a vízi sportok kedvelői körében. Itt található Európa egyik legjobban felszerelt vízisí-pályája. A város egyik különlegessége a Békamúzeum, ahol kitömött békákat láthatunk 19. századi életképekbe helyezve. A várost körülvevő Grande Cariçaie természetvédelmi terület fontos élőhelyet biztosít számos ritka növény- és állatfaj számára a tópart mentén.", "ro": "Estavayer este situat pe malul sudic al lacului Neuchâtel în cantonul Fribourg și este reședința districtului Broye. Orașul are o istorie bogată care datează din epoca romană, dar aspectul său actual este puternic influențat de arhitectura medievală. Impunătorul Castel Chenaux din secolul al XIII-lea domină orașul, fiind o mărturie a importanței strategice a locației în trecut. Orașul vechi bine conservat, cu străduțele sale înguste și clădirile istorice, oferă o atmosferă autentică. Astăzi, Estavayer nu este doar un centru cultural, ci și o destinație turistică populară, în special pentru pasionații de sporturi nautice. Localitatea deține una dintre cele mai bine dotate instalații de schi nautic din Europa. O atracție unică este Muzeul Broaștelor, unde broaște preparate sunt prezentate în scene din viața cotidiană a secolului al XIX-lea. Rezervația naturală Grande Cariçaie din apropiere oferă habitate esențiale pentru specii rare de plante și animale.", "en": "Estavayer is situated on the southern shore of Lake Neuchâtel in the Canton of Fribourg and serves as the capital of the Broye district. The town boasts a rich history dating back to Roman times, though its present character is profoundly defined by its medieval heritage. The majestic Chenaux Castle, constructed in the 13th century, overlooks the town and reflects its past strategic importance. The well-preserved old town, with its narrow cobblestone streets and historic buildings, invites exploration. Today, Estavayer is both a cultural center and a popular tourist destination, especially renowned for its water sports facilities. It features one of the most advanced water-skiing cableways in Europe. A unique local curiosity is the Frog Museum, displaying taxidermied frogs in 19th-century domestic scenes. The surrounding Grande Cariçaie nature reserve provides crucial habitats for rare flora and fauna, making it a paradise for nature enthusiasts and birdwatchers alike."}, "factsAdvanced": {"de": ["Schloss Chenaux aus dem 13. Jahrhundert", "Hauptort des Broyebezirks", "Teil der Grande Cariçaie Naturzone", "Bekannt für das Froschmuseum", "Beliebter Ort für Wasserski", "Mittelalterliches Stadtbild"], "hu": ["13. századi Chenaux kastély", "A Broye kerület központja", "A Grande Cariçaie természetvédelmi övezet része", "Híres Békamúzeum", "Népszerű vízisí-központ", "Középkori városkép"], "ro": ["Castelul Chenaux din secolul al XIII-lea", "Reședința districtului Broye", "Parte a zonei naturale Grande Cariçaie", "Cunoscut pentru Muzeul Broaștelor", "Loc popular pentru schi nautic", "Aspect urban medieval"], "en": ["13th-century Chenaux Castle", "Capital of the Broye district", "Part of the Grande Cariçaie nature zone", "Famous for the Frog Museum", "Popular spot for water skiing", "Medieval urban character"]}, "faq": {"de": [{"q": "Was ist das Froschmuseum?", "a": "Ein Museum mit Fröschen, die menschliche Szenen nachstellen."}, {"q": "Wo liegt Estavayer?", "a": "Am Südufer des Neuenburgersees im Kanton Freiburg."}, {"q": "Welches Schloss gibt es dort?", "a": "Das Château de Chenaux aus dem 13. Jahrhundert."}, {"q": "Was kann man am See machen?", "a": "Wasserski fahren, Segeln und in der Natur wandern."}], "hu": [{"q": "Mi az a Békamúzeum?", "a": "Egy múzeum, ahol békák mutatnak be emberi életjeleneteket."}, {"q": "Hol fekszik Estavayer?", "a": "A Neuchâteli-tó déli partján, Fribourg kantonban."}, {"q": "Melyik kastély található itt?", "a": "A 13. századi Château de Chenaux kastély."}, {"q": "Mit lehet a tónál csinálni?", "a": "Vízisízni, vitorlázni és természetet járni."}], "ro": [{"q": "Ce este Muzeul Broaștelor?", "a": "Un muzeu cu broaște care imită scene din viața umană."}, {"q": "Unde se află Estavayer?", "a": "Pe malul sudic al lacului Neuchâtel, în cantonul Fribourg."}, {"q": "Ce castel există acolo?", "a": "Château de Chenaux, datând din secolul al XIII-lea."}, {"q": "Ce activități sunt pe lac?", "a": "Schi nautic, navigație și drumeții în natură."}], "en": [{"q": "What is the Frog Museum?", "a": "A museum featuring frogs arranged in human-like scenes."}, {"q": "Where is Estavayer located?", "a": "On the southern shore of Lake Neuchâtel in Canton Fribourg."}, {"q": "Which castle is there?", "a": "The 13th-century Château de Chenaux."}, {"q": "What activities are on the lake?", "a": "Water skiing, sailing, and nature hiking."}]}},
+  {"id": "ch-estavayer", "sights": {
+      "de": [
+            {
+                  "name": "Musée des Grenouilles",
+                  "text": "Ein einzigartiges Museum in Estavayer, das eine berühmte Sammlung präparierter Frösche zeigt.",
+                  "category": "museum",
+                  "coords": [
+                        6.848804,
+                        46.849489
+                  ]
+            },
+            {
+                  "name": "Chateau de Chenaux",
+                  "text": "Ein beeindruckendes mittelalterliches Schloss, das das Stadtbild von Estavayer-le-Lac prägt.",
+                  "category": "castle",
+                  "coords": [
+                        6.84886,
+                        46.851497
+                  ]
+            },
+            {
+                  "name": "Pierre du Mariage",
+                  "text": "Eine archäologische Fundstätte in Estavayer, die mit alten Legenden verknüpft ist.",
+                  "category": "historical",
+                  "coords": [
+                        6.826537,
+                        46.842074
+                  ]
+            },
+            {
+                  "name": "l'azimut",
+                  "text": "Ein lokaler Kulturort und Theaterraum in Estavayer für verschiedene Aufführungen.",
+                  "category": "cultural",
+                  "coords": [
+                        6.843163,
+                        46.84556
+                  ]
+            },
+            {
+                  "name": "Réserve naturelle de Cheyres",
+                  "text": "Dieses Naturschutzgebiet in Estavayer bietet einen geschützten Lebensraum für die lokale Flora und Fauna am Seeufer.",
+                  "category": "natural",
+                  "coords": [
+                        6.81178,
+                        46.83345
+                  ]
+            },
+            {
+                  "name": "Plage de Font",
+                  "text": "Entlang des Neuenburgersees in Estavayer gelegen, wird die Plage de Font als ruhiger und idyllischer Strandabschnitt geschätzt. Die ruhige Umgebung macht sie zu einem idealen Ziel für pure Entspannung und ungestörtes Schwimmen im See. Besucher schätzen die unaufgeregte Atmosphäre, die perfekt ist, um unter der Sonne abzuschalten. Ein Picknick an den sanften Gewässern ist ein großartiger Abschluss für einen Sommerausflug hierher.",
+                  "category": "recreational",
+                  "coords": [
+                        6.810623,
+                        46.838091
+                  ]
+            },
+            {
+                  "name": "Plage de la Corbière",
+                  "text": "Als bevorzugtes Ziel für Erholungssuchende in Estavayer bietet die Plage de la Corbière eine lebhafte und zugleich entspannende Umgebung am Seeufer. Die angenehme Küstenatmosphäre zieht alle an, die baden, sich sonnen oder sich am Seeufer vergnügen möchten. Sie pflegt ein einladendes Ambiente, das lokale Energie mit natürlicher Schönheit verbindet. Ein Besuch an einem warmen Nachmittag ist der perfekte Weg, um diesen lebendigen Charme zu erleben.",
+                  "category": "recreational",
+                  "coords": [
+                        6.86323,
+                        46.864685
+                  ]
+            },
+            {
+                  "name": "La Prillaz",
+                  "text": "Ein lokales Kulturzentrum in Estavayer, das Raum für künstlerische Aktivitäten und Veranstaltungen bietet.",
+                  "category": "cultural",
+                  "coords": [
+                        6.854609,
+                        46.849165
+                  ]
+            },
+            {
+                  "name": "Plateforme Paysagère de Font",
+                  "text": "Diese Aussichtsplattform in Estavayer bietet einen weiten Blick über die umliegende Landschaft und den See.",
+                  "category": "natural",
+                  "coords": [
+                        6.813286,
+                        46.837317
+                  ]
+            },
+            {
+                  "name": "Point de vue paysager d'Autavaux",
+                  "text": "Ein landschaftlicher Aussichtspunkt in Estavayer, der Besuchern einen Panoramablick auf die Region ermöglicht.",
+                  "category": "natural",
+                  "coords": [
+                        6.872142,
+                        46.866909
+                  ]
+            },
+            {
+                  "name": "La Grande Gouille",
+                  "text": "La Grande Gouille in Estavayer ist ein schöner See in der Nähe des Neuenburgersees.",
+                  "category": "natural",
+                  "coords": [
+                        6.8479,
+                        46.855223
+                  ]
+            },
+            {
+                  "name": "Neuenburgersee",
+                  "text": "Der Neuenburgersee bei Estavayer lädt zu Wassersport und Erholung ein.",
+                  "category": "natural",
+                  "coords": [
+                        6.842332,
+                        46.897844
+                  ]
+            },
+            {
+                  "name": "Minigolf de la Rose",
+                  "text": "Der Minigolf de la Rose in Estavayer bietet Freizeitvergnügen für Groß und Klein.",
+                  "category": "family",
+                  "coords": [
+                        6.848097,
+                        46.853571
+                  ]
+            },
+            {
+                  "name": "La Nouvelle Plage",
+                  "text": "Ein beliebter Sandstrand am Neuenburgersee in Estavayer-le-Lac.",
+                  "category": "recreational",
+                  "coords": [
+                        6.848145,
+                        46.856645
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Musée des Grenouilles",
+                  "text": "Egyedülálló múzeum Estavayerben, amely kitömött békák híres gyűjteményét mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        6.848804,
+                        46.849489
+                  ]
+            },
+            {
+                  "name": "Chateau de Chenaux",
+                  "text": "Lenyűgöző középkori kastély, amely meghatározza Estavayer-le-Lac városképét.",
+                  "category": "castle",
+                  "coords": [
+                        6.84886,
+                        46.851497
+                  ]
+            },
+            {
+                  "name": "Pierre du Mariage",
+                  "text": "Régészeti lelőhely Estavayerben, amely régi legendákhoz kötődik.",
+                  "category": "historical",
+                  "coords": [
+                        6.826537,
+                        46.842074
+                  ]
+            },
+            {
+                  "name": "l'azimut",
+                  "text": "Helyi kulturális helyszín és színházi tér Estavayerben különféle előadások számára.",
+                  "category": "cultural",
+                  "coords": [
+                        6.843163,
+                        46.84556
+                  ]
+            },
+            {
+                  "name": "Réserve naturelle de Cheyres",
+                  "text": "Ez az Estavayer melletti természetvédelmi terület védett élőhelyet biztosít a helyi tóparti növény- és állatvilágnak.",
+                  "category": "natural",
+                  "coords": [
+                        6.81178,
+                        46.83345
+                  ]
+            },
+            {
+                  "name": "Plage de Font",
+                  "text": "Az Estavayerben, a Neuchâteli-tó mentén található Plage de Font csendes és idilli strandszakaszként ismert. A nyugodt környezet ideális célponttá teszi a tiszta pihenéshez és a zavartalan tóparti úszáshoz. A látogatók értékelik a békés légkört, amely tökéletes a napsütésben való kikapcsolódáshoz. Egy vízparti piknik nagyszerű módja az itteni nyári kiruccanás megkoronázásának.",
+                  "category": "recreational",
+                  "coords": [
+                        6.810623,
+                        46.838091
+                  ]
+            },
+            {
+                  "name": "Plage de la Corbière",
+                  "text": "Estavayer kedvelt rekreációs célpontjaként a Plage de la Corbière élénk, mégis pihentető környezetet kínál a tó partján. A kellemes parti hangulat vonzza azokat, akik fürdeni, napozni szeretnének, vagy élveznék a tóparti kikapcsolódást. Barátságos légkört tart fenn, amely egyensúlyban tartja a helyi energiát a természeti szépséggel. Egy meleg délutáni látogatás a tökéletes módja e pezsgő, mégis nyugtató báj megtapasztalásának.",
+                  "category": "recreational",
+                  "coords": [
+                        6.86323,
+                        46.864685
+                  ]
+            },
+            {
+                  "name": "La Prillaz",
+                  "text": "Helyi kulturális központ Estavayerben, amely helyet biztosít művészeti tevékenységeknek és rendezvényeknek.",
+                  "category": "cultural",
+                  "coords": [
+                        6.854609,
+                        46.849165
+                  ]
+            },
+            {
+                  "name": "Plateforme Paysagère de Font",
+                  "text": "Ez az Estavayerben található kilátóplatform széles kilátást nyújt a környező tájra és a tóra.",
+                  "category": "natural",
+                  "coords": [
+                        6.813286,
+                        46.837317
+                  ]
+            },
+            {
+                  "name": "Point de vue paysager d'Autavaux",
+                  "text": "Tájképi kilátópont Estavayerben, amely panormáma kilátást nyújt a látogatóknak a régióra.",
+                  "category": "natural",
+                  "coords": [
+                        6.872142,
+                        46.866909
+                  ]
+            },
+            {
+                  "name": "La Grande Gouille",
+                  "text": "Az estavayeri La Grande Gouille egy szép tó a Neuchâteli-tó közelében.",
+                  "category": "natural",
+                  "coords": [
+                        6.8479,
+                        46.855223
+                  ]
+            },
+            {
+                  "name": "Lac de Neuchâtel",
+                  "text": "Az Estavayer melletti Neuchâteli-tó vízi sportokra és kikapcsolódásra hív.",
+                  "category": "natural",
+                  "coords": [
+                        6.842332,
+                        46.897844
+                  ]
+            },
+            {
+                  "name": "Minigolf de la Rose",
+                  "text": "Az estavayeri Minigolf de la Rose szabadidős szórakozást nyújt kicsiknek és nagyoknak.",
+                  "category": "family",
+                  "coords": [
+                        6.848097,
+                        46.853571
+                  ]
+            },
+            {
+                  "name": "La Nouvelle Plage",
+                  "text": "Népszerű homokos strand a Neuchâteli-tó partján, Estavayer-le-Lac-ban.",
+                  "category": "recreational",
+                  "coords": [
+                        6.848145,
+                        46.856645
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Musée des Grenouilles",
+                  "text": "Un muzeu inedit din Estavayer care prezintă o faimoasă colecție de broaște preparate.",
+                  "category": "museum",
+                  "coords": [
+                        6.848804,
+                        46.849489
+                  ]
+            },
+            {
+                  "name": "Chateau de Chenaux",
+                  "text": "Un castel medieval impresionant care domină peisajul urban din Estavayer-le-Lac.",
+                  "category": "castle",
+                  "coords": [
+                        6.84886,
+                        46.851497
+                  ]
+            },
+            {
+                  "name": "Pierre du Mariage",
+                  "text": "Un sit arheologic în Estavayer, legat de vechi legende locale.",
+                  "category": "historical",
+                  "coords": [
+                        6.826537,
+                        46.842074
+                  ]
+            },
+            {
+                  "name": "l'azimut",
+                  "text": "Un spațiu cultural și teatral local în Estavayer pentru diverse spectacole.",
+                  "category": "cultural",
+                  "coords": [
+                        6.843163,
+                        46.84556
+                  ]
+            },
+            {
+                  "name": "Réserve naturelle de Cheyres",
+                  "text": "Această rezervație naturală din Estavayer oferă un habitat protejat pentru flora și fauna locală de pe malul lacului.",
+                  "category": "natural",
+                  "coords": [
+                        6.81178,
+                        46.83345
+                  ]
+            },
+            {
+                  "name": "Plage de Font",
+                  "text": "Situată de-a lungul Lacului Neuchâtel în Estavayer, Plage de Font este celebrată ca o plajă liniștită și idilică. Mediul calm o face o destinație ideală pentru relaxare pură și înot neîntrerupt în lac. Vizitatorii apreciază atmosfera fără grabă, care este perfectă pentru a vă relaxa sub soare. Pregătirea unui picnic pentru a vă bucura lângă apele blânde este o modalitate excelentă de a completa o ieșire de vară.",
+                  "category": "recreational",
+                  "coords": [
+                        6.810623,
+                        46.838091
+                  ]
+            },
+            {
+                  "name": "Plage de la Corbière",
+                  "text": "Ca o destinație favorită pentru recreere în Estavayer, Plage de la Corbière oferă un cadru plin de viață, dar relaxant, la marginea lacului. Mediul de coastă plăcut atrage pe cei care doresc să înoate, să facă plajă sau să se angajeze în activități de agrement. Menține o atmosferă primitoare care echilibrează energia locală cu frumusețea naturală. O vizită într-o după-amiază caldă este modalitatea perfectă de a experimenta farmecul său.",
+                  "category": "recreational",
+                  "coords": [
+                        6.86323,
+                        46.864685
+                  ]
+            },
+            {
+                  "name": "La Prillaz",
+                  "text": "Un centru cultural local din Estavayer care oferă spațiu pentru activități și evenimente artistice.",
+                  "category": "cultural",
+                  "coords": [
+                        6.854609,
+                        46.849165
+                  ]
+            },
+            {
+                  "name": "Plateforme Paysagère de Font",
+                  "text": "Această platformă de observare din Estavayer oferă o vedere panoramică asupra peisajului înconjurător și a lacului.",
+                  "category": "natural",
+                  "coords": [
+                        6.813286,
+                        46.837317
+                  ]
+            },
+            {
+                  "name": "Point de vue paysager d'Autavaux",
+                  "text": "Un punct de belvedere pitoresc în Estavayer, care oferă vizitatorilor o vedere panoramică asupra regiunii.",
+                  "category": "natural",
+                  "coords": [
+                        6.872142,
+                        46.866909
+                  ]
+            },
+            {
+                  "name": "La Grande Gouille",
+                  "text": "La Grande Gouille din Estavayer este un lac frumos lângă lacul Neuchâtel.",
+                  "category": "natural",
+                  "coords": [
+                        6.8479,
+                        46.855223
+                  ]
+            },
+            {
+                  "name": "Lac de Neuchâtel",
+                  "text": "Lacul Neuchâtel de lângă Estavayer invită la sporturi nautice și relaxare.",
+                  "category": "natural",
+                  "coords": [
+                        6.842332,
+                        46.897844
+                  ]
+            },
+            {
+                  "name": "Minigolf de la Rose",
+                  "text": "Minigolf de la Rose din Estavayer oferă distracție în timpul liber pentru cei mari și mici.",
+                  "category": "family",
+                  "coords": [
+                        6.848097,
+                        46.853571
+                  ]
+            },
+            {
+                  "name": "La Nouvelle Plage",
+                  "text": "O plajă de nisip populară pe malul lacului Neuchâtel, în Estavayer-le-Lac.",
+                  "category": "recreational",
+                  "coords": [
+                        6.848145,
+                        46.856645
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Musée des Grenouilles",
+                  "text": "A unique museum in Estavayer displaying a famous collection of taxidermied frogs.",
+                  "category": "museum",
+                  "coords": [
+                        6.848804,
+                        46.849489
+                  ]
+            },
+            {
+                  "name": "Chateau de Chenaux",
+                  "text": "An impressive medieval castle that characterizes the cityscape of Estavayer-le-Lac.",
+                  "category": "castle",
+                  "coords": [
+                        6.84886,
+                        46.851497
+                  ]
+            },
+            {
+                  "name": "Pierre du Mariage",
+                  "text": "An archaeological site in Estavayer linked to ancient local legends.",
+                  "category": "historical",
+                  "coords": [
+                        6.826537,
+                        46.842074
+                  ]
+            },
+            {
+                  "name": "l'azimut",
+                  "text": "A local cultural venue and theatre space in Estavayer for various performances.",
+                  "category": "cultural",
+                  "coords": [
+                        6.843163,
+                        46.84556
+                  ]
+            },
+            {
+                  "name": "Réserve naturelle de Cheyres",
+                  "text": "This nature reserve in Estavayer provides a protected habitat for local lakeside flora and fauna.",
+                  "category": "natural",
+                  "coords": [
+                        6.81178,
+                        46.83345
+                  ]
+            },
+            {
+                  "name": "Plage de Font",
+                  "text": "Situated along Lake Neuchâtel in Estavayer, Plage de Font is celebrated as a quiet and idyllic beach stretch. The calm environment makes it an ideal destination for pure relaxation and uninterrupted swimming in the lake. Visitors appreciate the unhurried atmosphere, which is perfect for unwinding under the sun. Packing a picnic to enjoy by the gentle waters is a great way to complete a summer outing here.",
+                  "category": "recreational",
+                  "coords": [
+                        6.810623,
+                        46.838091
+                  ]
+            },
+            {
+                  "name": "Plage de la Corbière",
+                  "text": "As a favored destination for recreation in Estavayer, Plage de la Corbière offers a lively yet relaxing setting on the lake's edge. The pleasant coastal environment draws those looking to swim, sunbathe, or engage in lakeside leisure. It maintains a welcoming atmosphere that balances local energy with natural beauty. A visit during a warm afternoon is the perfect way to experience its vibrant yet soothing charm.",
+                  "category": "recreational",
+                  "coords": [
+                        6.86323,
+                        46.864685
+                  ]
+            },
+            {
+                  "name": "La Prillaz",
+                  "text": "A local arts centre in Estavayer providing space for artistic activities and events.",
+                  "category": "cultural",
+                  "coords": [
+                        6.854609,
+                        46.849165
+                  ]
+            },
+            {
+                  "name": "Plateforme Paysagère de Font",
+                  "text": "This observation platform in Estavayer offers a wide view over the surrounding landscape and the lake.",
+                  "category": "natural",
+                  "coords": [
+                        6.813286,
+                        46.837317
+                  ]
+            },
+            {
+                  "name": "Point de vue paysager d'Autavaux",
+                  "text": "A scenic viewpoint in Estavayer offering visitors a panoramic view of the region.",
+                  "category": "natural",
+                  "coords": [
+                        6.872142,
+                        46.866909
+                  ]
+            },
+            {
+                  "name": "La Grande Gouille",
+                  "text": "La Grande Gouille in Estavayer is a beautiful lake near Lake Neuchâtel.",
+                  "category": "natural",
+                  "coords": [
+                        6.8479,
+                        46.855223
+                  ]
+            },
+            {
+                  "name": "Lake Neuchâtel",
+                  "text": "Lake Neuchâtel near Estavayer invites you to water sports and relaxation.",
+                  "category": "natural",
+                  "coords": [
+                        6.842332,
+                        46.897844
+                  ]
+            },
+            {
+                  "name": "Minigolf de la Rose",
+                  "text": "The Minigolf de la Rose in Estavayer offers leisure fun for all ages.",
+                  "category": "family",
+                  "coords": [
+                        6.848097,
+                        46.853571
+                  ]
+            },
+            {
+                  "name": "La Nouvelle Plage",
+                  "text": "A popular sandy beach on the shores of Lake Neuchâtel in Estavayer-le-Lac.",
+                  "category": "recreational",
+                  "coords": [
+                        6.848145,
+                        46.856645
+                  ]
+            }
+      ]
+}, "type": "city", "parent": "CH-FR", "coords": [6.8472, 46.8487], "population": 10071, "image": "/geo-images/switzerland/ch-estavayer.webp", "name": {"de": "Estavayer", "hu": "Estavayer", "ro": "Estavayer", "en": "Estavayer"}, "description": {"de": "Estavayer ist eine charmante mittelalterliche Stadt am Neuenburgersee, bekannt für ihr Schloss und Wassersportmöglichkeiten.", "hu": "Estavayer egy bájos középkori város a Neuchâteli-tó partján, amely kastélyáról és vízisport-lehetőségeiről ismert.", "ro": "Estavayer este un oraș medieval fermecător de pe malul lacului Neuchâtel, cunoscut pentru castelul său și sporturile nautice.", "en": "Estavayer is a charming medieval town on Lake Neuchâtel, known for its castle and diverse water sports activities."}, "facts": {"de": ["Mittelalterliche Altstadt", "Schloss Chenaux", "Am Neuenburgersee", "Froschmuseum"], "hu": ["Középkori óváros", "Chenaux kastély", "A Neuchâteli-tó partján", "Békamúzeum"], "ro": ["Oraș vechi medieval", "Castelul Chenaux", "Pe malul lacului Neuchâtel", "Muzeul Broaștelor"], "en": ["Medieval old town", "Chenaux Castle", "On Lake Neuchâtel", "Frog Museum"]}, "descriptionAdvanced": {"de": "Estavayer liegt am Südufer des Neuenburgersees im Kanton Freiburg und ist der Hauptort des Broyebezirks. Die Stadt blickt auf eine reiche Geschichte zurück, die bis in die Römerzeit reicht, doch ihr heutiges Erscheinungsbild ist stark mittelalterlich geprägt. Das imposante Schloss Chenaux aus dem 13. Jahrhundert thront über der Stadt und zeugt von der strategischen Bedeutung des Ortes. Die gut erhaltene Altstadt mit ihren engen Gassen und historischen Gebäuden lädt zum Verweilen ein. Estavayer ist heute nicht nur ein kulturelles Zentrum, sondern auch ein beliebtes Ziel für Touristen, besonders für Liebhaber des Wassersports. Der Ort verfügt über einen der am besten ausgestatteten Wasserski-Lifte in Europa. Ein Unikum ist das Froschmuseum, in dem präparierte Frösche in Alltagsszenen aus dem 19. Jahrhundert dargestellt sind. Die umliegende Natur der Grande Cariçaie bietet zudem wichtige Lebensräume für seltene Pflanzen und Tiere.", "hu": "Estavayer a Neuchâteli-tó déli partján, Fribourg kantonban található, és a Broye kerület székhelye. A város gazdag történelme egészen a római korig nyúlik vissza, de mai arculatát elsősorban a középkori építészet határozza meg. A 13. századi Chenaux kastély fenségesen magasodik a város fölé, emlékeztetve a hely egykori stratégiai jelentőségére. A jól megőrzött óváros szűk utcáival és történelmi házaival különleges hangulatot áraszt. Estavayer ma nemcsak kulturális központ, hanem népszerű turisztikai célpont is, különösen a vízi sportok kedvelői körében. Itt található Európa egyik legjobban felszerelt vízisí-pályája. A város egyik különlegessége a Békamúzeum, ahol kitömött békákat láthatunk 19. századi életképekbe helyezve. A várost körülvevő Grande Cariçaie természetvédelmi terület fontos élőhelyet biztosít számos ritka növény- és állatfaj számára a tópart mentén.", "ro": "Estavayer este situat pe malul sudic al lacului Neuchâtel în cantonul Fribourg și este reședința districtului Broye. Orașul are o istorie bogată care datează din epoca romană, dar aspectul său actual este puternic influențat de arhitectura medievală. Impunătorul Castel Chenaux din secolul al XIII-lea domină orașul, fiind o mărturie a importanței strategice a locației în trecut. Orașul vechi bine conservat, cu străduțele sale înguste și clădirile istorice, oferă o atmosferă autentică. Astăzi, Estavayer nu este doar un centru cultural, ci și o destinație turistică populară, în special pentru pasionații de sporturi nautice. Localitatea deține una dintre cele mai bine dotate instalații de schi nautic din Europa. O atracție unică este Muzeul Broaștelor, unde broaște preparate sunt prezentate în scene din viața cotidiană a secolului al XIX-lea. Rezervația naturală Grande Cariçaie din apropiere oferă habitate esențiale pentru specii rare de plante și animale.", "en": "Estavayer is situated on the southern shore of Lake Neuchâtel in the Canton of Fribourg and serves as the capital of the Broye district. The town boasts a rich history dating back to Roman times, though its present character is profoundly defined by its medieval heritage. The majestic Chenaux Castle, constructed in the 13th century, overlooks the town and reflects its past strategic importance. The well-preserved old town, with its narrow cobblestone streets and historic buildings, invites exploration. Today, Estavayer is both a cultural center and a popular tourist destination, especially renowned for its water sports facilities. It features one of the most advanced water-skiing cableways in Europe. A unique local curiosity is the Frog Museum, displaying taxidermied frogs in 19th-century domestic scenes. The surrounding Grande Cariçaie nature reserve provides crucial habitats for rare flora and fauna, making it a paradise for nature enthusiasts and birdwatchers alike."}, "factsAdvanced": {"de": ["Schloss Chenaux aus dem 13. Jahrhundert", "Hauptort des Broyebezirks", "Teil der Grande Cariçaie Naturzone", "Bekannt für das Froschmuseum", "Beliebter Ort für Wasserski", "Mittelalterliches Stadtbild"], "hu": ["13. századi Chenaux kastély", "A Broye kerület központja", "A Grande Cariçaie természetvédelmi övezet része", "Híres Békamúzeum", "Népszerű vízisí-központ", "Középkori városkép"], "ro": ["Castelul Chenaux din secolul al XIII-lea", "Reședința districtului Broye", "Parte a zonei naturale Grande Cariçaie", "Cunoscut pentru Muzeul Broaștelor", "Loc popular pentru schi nautic", "Aspect urban medieval"], "en": ["13th-century Chenaux Castle", "Capital of the Broye district", "Part of the Grande Cariçaie nature zone", "Famous for the Frog Museum", "Popular spot for water skiing", "Medieval urban character"]}, "faq": {"de": [{"q": "Was ist das Froschmuseum?", "a": "Ein Museum mit Fröschen, die menschliche Szenen nachstellen."}, {"q": "Wo liegt Estavayer?", "a": "Am Südufer des Neuenburgersees im Kanton Freiburg."}, {"q": "Welches Schloss gibt es dort?", "a": "Das Château de Chenaux aus dem 13. Jahrhundert."}, {"q": "Was kann man am See machen?", "a": "Wasserski fahren, Segeln und in der Natur wandern."}], "hu": [{"q": "Mi az a Békamúzeum?", "a": "Egy múzeum, ahol békák mutatnak be emberi életjeleneteket."}, {"q": "Hol fekszik Estavayer?", "a": "A Neuchâteli-tó déli partján, Fribourg kantonban."}, {"q": "Melyik kastély található itt?", "a": "A 13. századi Château de Chenaux kastély."}, {"q": "Mit lehet a tónál csinálni?", "a": "Vízisízni, vitorlázni és természetet járni."}], "ro": [{"q": "Ce este Muzeul Broaștelor?", "a": "Un muzeu cu broaște care imită scene din viața umană."}, {"q": "Unde se află Estavayer?", "a": "Pe malul sudic al lacului Neuchâtel, în cantonul Fribourg."}, {"q": "Ce castel există acolo?", "a": "Château de Chenaux, datând din secolul al XIII-lea."}, {"q": "Ce activități sunt pe lac?", "a": "Schi nautic, navigație și drumeții în natură."}], "en": [{"q": "What is the Frog Museum?", "a": "A museum featuring frogs arranged in human-like scenes."}, {"q": "Where is Estavayer located?", "a": "On the southern shore of Lake Neuchâtel in Canton Fribourg."}, {"q": "Which castle is there?", "a": "The 13th-century Château de Chenaux."}, {"q": "What activities are on the lake?", "a": "Water skiing, sailing, and nature hiking."}]}},
   {"id": "ch-mã¼nchenbuchsee", "sights": {"de": [{"name": "Schloss Hofwil", "text": "Ein klassizistisches Schloss, das Teil der bedeutenden pädagogischen Anlagen von Hofwil ist.", "category": "castle", "coords": [7.461744, 47.021305]}, {"name": "Schloss Münchenbuchsee", "text": "Ein historischer Herrensitz in Münchenbuchsee, der heute für die Verwaltung genutzt wird.", "category": "castle", "coords": [7.448467, 47.022069]}, {"name": "Erdwerk Bärenried Ost", "text": "Archäologische Stätte mit Überresten historischer Erdbefestigungen.", "category": "historical", "coords": [7.41323, 47.030722]}, {"name": "Erdwerk Zamberg", "text": "Ort prähistorischer oder mittelalterlicher Bodenfunde in der Gemeinde.", "category": "historical", "coords": [7.441998, 47.03742]}, {"name": "Spielzeugmuseum Münchenbuchsee", "text": "Ein Museum, das eine vielfältige Sammlung historischer Spielzeuge zeigt.", "category": "museum", "coords": [7.446423, 47.020571]}, {"name": "Blindenmuseum", "text": "Spezialmuseum, das sich der Geschichte und Hilfsmitteln für Sehbehinderte widmet.", "category": "museum", "coords": [7.453983, 47.00022]}, {"name": "Einbaum vom Moossee", "text": "Ein bedeutender prähistorischer Einbaum, der im nahen Moossee entdeckt wurde.", "category": "landmark", "coords": [7.484449, 47.018519]}, {"name": "Üedeli, Panorama", "text": "Der Naturpunkt Üedeli, Panorama befindet sich bei der Schweizer Gemeinde Muenchenbuchsee. Dieser erhöhte Aussichtspunkt gewährt seinen Besuchern einen weiten und malerischen Blick über das Berner Mittelland. Es ist ein beliebtes Ziel, um die Weite der Schweizer Landschaft in sich aufzunehmen.", "category": "natural", "coords": [7.451068, 47.016151]}, {"name": "Bern-Tempel", "text": "Der erste Tempel der Kirche Jesu Christi der Heiligen der Letzten Tage in Europa.", "category": "religious", "coords": [7.458248, 47.002146]}, {"name": "Franziskuskirche", "text": "Eine katholische Kirche in Münchenbuchsee, benannt nach dem Heiligen Franziskus.", "category": "religious", "coords": [7.455288, 47.000138]}, {"name": "Reformierte Kirche Moosseedorf", "text": "Das historische reformierte Gotteshaus im Zentrum der Nachbargemeinde Moosseedorf.", "category": "religious", "coords": [7.482301, 47.017578]}, {"name": "Reformierte Kirche Zollikofen", "text": "Die evangelisch-reformierte Kirche für die lokale Gemeinde in Zollikofen.", "category": "religious", "coords": [7.45231, 46.99481]}, {"name": "Neuapostolische Kirche Zollikofen", "text": "Ein modernes sakrales Gebäude der Neuapostolischen Kirche in Zollikofen.", "category": "religious", "coords": [7.445852, 47.00348]}, {"name": "Kleiner Moossee", "text": "Ein kleinerer See in Münchenbuchsee, der eine ruhige Kulisse für Spaziergänge bietet.", "category": "natural", "coords": [7.469126, 47.026537]}, {"name": "Moossee", "text": "Ein idyllischer See in Münchenbuchsee, der Möglichkeiten zur Erholung in der Natur bietet.", "category": "natural", "coords": [7.480347, 47.022128]}, {"name": "Solbad & Spa Schönbühl", "text": "Ein Solebad und Spa in Münchenbuchsee für erholsame Stunden und Wellness.", "category": "family", "coords": [7.496153, 47.022127]}], "hu": [{"name": "Schloss Hofwil", "text": "Klasszicista kastély, amely a hofwili jelentős oktatási intézmények része.", "category": "castle", "coords": [7.461744, 47.021305]}, {"name": "Schloss Münchenbuchsee", "text": "Történelmi nemesi kúria Münchenbuchseeben, amelyet ma közigazgatási célokra használnak.", "category": "castle", "coords": [7.448467, 47.022069]}, {"name": "Erdwerk Bärenried Ost", "text": "Régészeti lelőhely történelmi földvár-maradványokkal.", "category": "historical", "coords": [7.41323, 47.030722]}, {"name": "Erdwerk Zamberg", "text": "Őskori vagy középkori régészeti leletek helyszíne a községben.", "category": "historical", "coords": [7.441998, 47.03742]}, {"name": "Spielzeugmuseum Münchenbuchsee", "text": "Múzeum, amely történelmi játékok sokszínű gyűjteményét mutatja be.", "category": "museum", "coords": [7.446423, 47.020571]}, {"name": "Blindenmuseum", "text": "Szakmúzeum, amely a látássérültek történetének és segédeszközeinek szentelték.", "category": "museum", "coords": [7.453983, 47.00022]}, {"name": "Einbaum vom Moossee", "text": "Jelentős őskori bödönhajó, amelyet a közeli Moossee-tóban fedeztek fel.", "category": "landmark", "coords": [7.484449, 47.018519]}, {"name": "Üedeli, Panorama", "text": "Az Üedeli, Panorama természeti pont a svájci Muenchenbuchsee község közelében található. Ez a magaslati kilátó tágas és festői kilátást nyújt a látogatóknak a Berni-középföldre. Népszerű úti cél a svájci táj tágasságának megcsodálására.", "category": "natural", "coords": [7.451068, 47.016151]}, {"name": "Bern-Tempel", "text": "Az Utolsó Napi Szentek Jézus Krisztus Egyházának első európai temploma.", "category": "religious", "coords": [7.458248, 47.002146]}, {"name": "Franziskuskirche", "text": "Katolikus templom Münchenbuchseeben, amelyet Szent Ferencről neveztek el.", "category": "religious", "coords": [7.455288, 47.000138]}, {"name": "Reformierte Kirche Moosseedorf", "text": "Történelmi református templom a szomszédos Moosseedorf központjában.", "category": "religious", "coords": [7.482301, 47.017578]}, {"name": "Reformierte Kirche Zollikofen", "text": "Zollikofen helyi közösségének evangélikus-református temploma.", "category": "religious", "coords": [7.45231, 46.99481]}, {"name": "Neuapostolische Kirche Zollikofen", "text": "Az Újaposztoli Egyház modern szakrális épülete Zollikofenben.", "category": "religious", "coords": [7.445852, 47.00348]}, {"name": "Kleiner Moossee", "text": "Kisebb tó Münchenbuchsee-ben, amely nyugodt környezetet biztosít a sétákhoz.", "category": "natural", "coords": [7.469126, 47.026537]}, {"name": "Moossee", "text": "Idilli tó Münchenbuchsee-ben, amely lehetőséget nyújt a természetben való kikapcsolódásra.", "category": "natural", "coords": [7.480347, 47.022128]}, {"name": "Solbad & Spa Schönbühl", "text": "Sós vizes fürdő és wellness központ Münchenbuchseeben a teljes ellazulásért.", "category": "family", "coords": [7.496153, 47.022127]}], "ro": [{"name": "Schloss Hofwil", "text": "Un castel neoclasic care face parte din importantele facilități educaționale din Hofwil.", "category": "castle", "coords": [7.461744, 47.021305]}, {"name": "Schloss Münchenbuchsee", "text": "Un conac istoric în Münchenbuchsee, folosit astăzi pentru administrație.", "category": "castle", "coords": [7.448467, 47.022069]}, {"name": "Erdwerk Bärenried Ost", "text": "Sit arheologic cu rămășițe ale unor fortificații istorice de pământ.", "category": "historical", "coords": [7.41323, 47.030722]}, {"name": "Erdwerk Zamberg", "text": "Locul unor descoperiri arheologice preistorice sau medievale în comună.", "category": "historical", "coords": [7.441998, 47.03742]}, {"name": "Spielzeugmuseum Münchenbuchsee", "text": "Un muzeu care expune o colecție diversă de jucării istorice.", "category": "museum", "coords": [7.446423, 47.020571]}, {"name": "Blindenmuseum", "text": "Muzeu specializat dedicat istoriei și ajutoarelor pentru persoanele cu deficiențe de vedere.", "category": "museum", "coords": [7.453983, 47.00022]}, {"name": "Einbaum vom Moossee", "text": "O pirogă preistorică importantă, descoperită în lacul Moossee din apropiere.", "category": "landmark", "coords": [7.484449, 47.018519]}, {"name": "Üedeli, Panorama", "text": "Punctul natural Üedeli, Panorama se află lângă comuna elvețiană Muenchenbuchsee. Acest punct de belvedere înalt oferă vizitatorilor o priveliște vastă și pitorească asupra regiunii Berner Mittelland. Este o destinație populară pentru a admira imensitatea peisajului elvețian.", "category": "natural", "coords": [7.451068, 47.016151]}, {"name": "Bern-Tempel", "text": "Primul templu al Bisericii lui Isus Hristos a Sfinților din Zilele din Urmă din Europa.", "category": "religious", "coords": [7.458248, 47.002146]}, {"name": "Franziskuskirche", "text": "O biserică catolică în Münchenbuchsee, numită după Sfântul Francisc.", "category": "religious", "coords": [7.455288, 47.000138]}, {"name": "Reformierte Kirche Moosseedorf", "text": "Lăcașul de cult reformat istoric din centrul comunei învecinate Moosseedorf.", "category": "religious", "coords": [7.482301, 47.017578]}, {"name": "Reformierte Kirche Zollikofen", "text": "Biserica evanghelică-reformată pentru comunitatea locală din Zollikofen.", "category": "religious", "coords": [7.45231, 46.99481]}, {"name": "Neuapostolische Kirche Zollikofen", "text": "O clădire sacră modernă a Bisericii Nouapostolice din Zollikofen.", "category": "religious", "coords": [7.445852, 47.00348]}, {"name": "Kleiner Moossee", "text": "Un lac mai mic în Münchenbuchsee, care oferă un cadru liniștit pentru plimbări.", "category": "natural", "coords": [7.469126, 47.026537]}, {"name": "Moossee", "text": "Un lac idilic în Münchenbuchsee, care oferă posibilități de recreere în natură.", "category": "natural", "coords": [7.480347, 47.022128]}, {"name": "Solbad & Spa Schönbühl", "text": "Băi saline și spa în Münchenbuchsee, un loc ideal pentru relaxare și tratamente.", "category": "family", "coords": [7.496153, 47.022127]}], "en": [{"name": "Schloss Hofwil", "text": "A neoclassical castle that is part of the significant educational facilities of Hofwil.", "category": "castle", "coords": [7.461744, 47.021305]}, {"name": "Schloss Münchenbuchsee", "text": "A historical manor house in Münchenbuchsee, currently used for administration.", "category": "castle", "coords": [7.448467, 47.022069]}, {"name": "Erdwerk Bärenried Ost", "text": "An archaeological site featuring remains of historical earthwork fortifications.", "category": "historical", "coords": [7.41323, 47.030722]}, {"name": "Erdwerk Zamberg", "text": "A site of prehistoric or medieval archaeological findings in the municipality.", "category": "historical", "coords": [7.441998, 47.03742]}, {"name": "Spielzeugmuseum Münchenbuchsee", "text": "A museum displaying a diverse collection of historical toys.", "category": "museum", "coords": [7.446423, 47.020571]}, {"name": "Blindenmuseum", "text": "A specialized museum dedicated to the history and aids for the visually impaired.", "category": "museum", "coords": [7.453983, 47.00022]}, {"name": "Einbaum vom Moossee", "text": "A significant prehistoric dugout boat discovered in the nearby Moossee lake.", "category": "landmark", "coords": [7.484449, 47.018519]}, {"name": "Üedeli, Panorama", "text": "The natural spot Üedeli, Panorama is located near the Swiss municipality of Muenchenbuchsee. This elevated viewpoint grants its visitors a vast and picturesque view over the Bernese Mittelland. It is a popular destination to take in the expanse of the Swiss landscape.", "category": "natural", "coords": [7.451068, 47.016151]}, {"name": "Bern-Tempel", "text": "The first temple of The Church of Jesus Christ of Latter-day Saints in Europe.", "category": "religious", "coords": [7.458248, 47.002146]}, {"name": "Franziskuskirche", "text": "A Catholic church in Münchenbuchsee, named after Saint Francis.", "category": "religious", "coords": [7.455288, 47.000138]}, {"name": "Reformierte Kirche Moosseedorf", "text": "The historical Reformed place of worship in the center of the neighboring Moosseedorf.", "category": "religious", "coords": [7.482301, 47.017578]}, {"name": "Reformierte Kirche Zollikofen", "text": "The Evangelical-Reformed church for the local community in Zollikofen.", "category": "religious", "coords": [7.45231, 46.99481]}, {"name": "Neuapostolische Kirche Zollikofen", "text": "A modern sacred building of the New Apostolic Church in Zollikofen.", "category": "religious", "coords": [7.445852, 47.00348]}, {"name": "Kleiner Moossee", "text": "A smaller lake in Münchenbuchsee offering a quiet backdrop for walks.", "category": "natural", "coords": [7.469126, 47.026537]}, {"name": "Moossee", "text": "An idyllic lake in Münchenbuchsee offering opportunities for recreation in nature.", "category": "natural", "coords": [7.480347, 47.022128]}, {"name": "Solbad & Spa Schönbühl", "text": "A saltwater bath and spa in Muenchenbuchsee for relaxation and wellness.", "category": "family", "coords": [7.496153, 47.022127]}]}, "type": "city", "parent": "CH-BE", "coords": [7.4486, 47.0211], "population": 10071, "image": "/geo-images/switzerland/ch-muenchenbuchsee.webp", "name": {"de": "Münchenbuchsee", "hu": "Münchenbuchsee", "ro": "Münchenbuchsee", "en": "Münchenbuchsee"}, "description": {"de": "Münchenbuchsee ist eine lebendige Berner Gemeinde, bekannt als Geburtsort von Paul Klee und Standort einer historischen Komturei.", "hu": "Münchenbuchsee egy élénk berni település, amely Paul Klee szülőhelyeként és egy történelmi rendház helyszíneként ismert.", "ro": "Münchenbuchsee este o comună vibrantă din Berna, cunoscută ca locul de naștere al lui Paul Klee și sediul unei comanderii istorice.", "en": "Münchenbuchsee is a lively Bernese municipality, known as the birthplace of Paul Klee and home to a historic commandery."}, "facts": {"de": ["Geburtsort von Paul Klee", "Ehemalige Johanniterkomturei", "Nähe zur Stadt Bern", "Moossee in der Umgebung"], "hu": ["Paul Klee szülőhelye", "Egykori jánosrendi lovagrendház", "Bern városának közelében", "Moossee a szomszédságban"], "ro": ["Locul de naștere al lui Paul Klee", "Fostă comanderie a Ioaniților", "Aproape de orașul Berna", "Lacul Moossee în apropiere"], "en": ["Birthplace of Paul Klee", "Former Johanniter commandery", "Near the city of Bern", "Moossee lake nearby"]}, "descriptionAdvanced": {"de": "Münchenbuchsee liegt im Herzen des Kantons Bern und ist ein bedeutender Wohn- und Wirtschaftsstandort im Berner Mittelland. Die Geschichte der Gemeinde ist untrennbar mit der Johanniterkomturei verbunden, die im 12. Jahrhundert gegründet wurde und lange Zeit das religiöse und kulturelle Zentrum der Region bildete. Ein besonderes kulturelles Highlight ist die Tatsache, dass der berühmte Maler Paul Klee hier im Jahr 1879 geboren wurde. Die Gemeinde zeichnet sich durch eine gute Mischung aus traditioneller Landwirtschaft und moderner Industrie aus. Das Bildungszentrum Hofwil, das auf den Philanthropen Philipp Emanuel von Fellenberg zurückgeht, geniesst weit über die Region hinaus einen exzellenten Ruf. Naturfreunde schätzen den nahegelegenen Moossee, der im Sommer zum Baden und im Winter zum Eislaufen einlädt. Die verkehrstechnisch hervorragende Lage mit direktem Autobahnanschluss und Bahnverbindung macht Münchenbuchsee zu einem attraktiven Standort für Pendler, die in der Bundesstadt Bern arbeiten.", "hu": "Münchenbuchsee Bern kanton szívében fekszik, és a Berni-középföld egyik fontos lakó- és gazdasági központja. A település történelme elválaszthatatlan a 12. században alapított jánosrendi lovagrendháztól, amely hosszú ideig a régió vallási és kulturális központjaként működött. Különleges kulturális büszkesége a városnak, hogy 1879-ben itt született a híres festőművész, Paul Klee. A községben jól megfér egymás mellett a hagyományos mezőgazdaság és a modern ipar. A Hofwil oktatási központ, amelyet Philipp Emanuel von Fellenberg filantróp alapított, a régión túl is kiváló hírnévnek örvend. A természetkedvelők nagyra értékelik a közeli Moossee-t, amely nyáron fürdésre, télen pedig korcsolyázásra csábít. A kiváló közlekedési adottságok, beleértve a közvetlen autópálya-kapcsolatot és a vasúti összeköttetést, Münchenbuchsee-t vonzóvá teszik a szövetségi fővárosba, Bernbe ingázók számára.", "ro": "Münchenbuchsee este situat în inima cantonului Berna și reprezintă o locație rezidențială și economică importantă în regiunea Mittelland. Istoria comunei este strâns legată de comanderia Ioaniților, fondată în secolul al XII-lea, care a servit mult timp ca centru religios și cultural al regiunii. Un punct de atracție culturală deosebit este faptul că celebrul pictor Paul Klee s-a născut aici în anul 1879. Comunitatea se caracterizează printr-un amestec reușit de agricultură tradițională și industrie modernă. Centrul educațional Hofwil, creat de filantropul Philipp Emanuel von Fellenberg, se bucură de o reputație excelentă dincolo de granițele regiunii. Iubitorii de natură apreciază lacul Moossee din apropiere, care oferă posibilități de înot vara și de patinaj iarna. Locația excelentă din punct de vedere al transportului, cu acces direct la autostradă și conexiuni feroviare, face din Münchenbuchsee un loc atractiv pentru cei care lucrează în capitala federală Berna.", "en": "Münchenbuchsee is located in the heart of the Canton of Bern and is a significant residential and economic hub in the Bernese Mittelland. The history of the municipality is inextricably linked to the Johanniter commandery, founded in the 12th century, which served as the regional religious and cultural center for centuries. A major cultural highlight is that the world-renowned painter Paul Klee was born here in 1879. The community features a balanced mix of traditional agriculture and modern industrial sectors. The Hofwil educational center, established by the philanthropist Philipp Emanuel von Fellenberg, enjoys an excellent reputation far beyond the local region. Nature lovers appreciate the nearby Moossee lake, which invites swimming in summer and ice skating in winter. Its superb transport links, including direct highway access and frequent train services, make Münchenbuchsee an attractive location for commuters working in the federal city of Bern."}, "factsAdvanced": {"de": ["Geburtsort von Paul Klee (1879)", "Johanniterkomturei aus dem 12. Jh.", "Pädagogisches Zentrum Hofwil", "Fläche von 8.82 Quadratkilometern", "Eigene S-Bahn-Station", "Naherholungsgebiet am Moossee"], "hu": ["Paul Klee szülőhelye (1879)", "12. századi jánosrendi rendház", "Hofwil pedagógiai központ", "8.82 négyzetkilométeres terület", "Saját S-Bahn állomás", "Rekreációs övezet a Moossee-nél"], "ro": ["Locul de naștere al lui Paul Klee (1879)", "Comanderie ioanită din sec. XII", "Centrul pedagogic Hofwil", "Suprafață de 8.82 kilometri pătrați", "Stație proprie de S-Bahn", "Zonă de recreere la Moossee"], "en": ["Birthplace of Paul Klee (1879)", "12th-century Johanniter commandery", "Hofwil pedagogical center", "Area of 8.82 square kilometers", "Dedicated S-Bahn station", "Moossee recreation area"]}, "faq": {"de": [{"q": "Wer ist der berühmteste Bürger?", "a": "Der Maler Paul Klee wurde hier 1879 geboren."}, {"q": "Was ist die historische Bedeutung?", "a": "Die Johanniterkomturei prägte den Ort jahrhundertelang."}, {"q": "Wo kann man sich erholen?", "a": "Am Moossee, einem beliebten Badesee in der Nähe."}, {"q": "Wie weit ist es nach Bern?", "a": "Die Stadt Bern ist in etwa 10 Minuten mit dem Zug erreichbar."}], "hu": [{"q": "Ki a leghíresebb szülötte?", "a": "Paul Klee festőművész itt született 1879-ben."}, {"q": "Mi a történelmi jelentősége?", "a": "A jánosrendi lovagrendház évszázadokon át meghatározta a falut."}, {"q": "Hol lehet kikapcsolódni?", "a": "A Moossee-nél, amely egy népszerű közeli tó."}, {"q": "Milyen messze van Bern?", "a": "Bern városa vonattal körülbelül 10 perc alatt elérhető."}], "ro": [{"q": "Cine este cel mai faimos cetățean?", "a": "Pictorul Paul Klee s-a născut aici în 1879."}, {"q": "Care este importanța istorică?", "a": "Comanderia Ioaniților a dominat localitatea timp de secole."}, {"q": "Unde te poți relaxa?", "a": "La lacul Moossee, o zonă populară pentru înot din apropiere."}, {"q": "Cât de departe este Berna?", "a": "Orașul Berna este la aproximativ 10 minute de mers cu trenul."}], "en": [{"q": "Who is the most famous citizen?", "a": "The painter Paul Klee was born here in 1879."}, {"q": "What is the historical significance?", "a": "The Johanniter commandery shaped the town for centuries."}, {"q": "Where can one relax?", "a": "At Lake Moossee, a popular swimming lake nearby."}, {"q": "How far is it to Bern?", "a": "The city of Bern can be reached in about 10 minutes by train."}]}},
   {"id": "ch-hochdorf", "sights": {
       "de": [
@@ -131704,6 +137401,24 @@ export const poiExtraAtChMissingV1: POI[] = [
                         6.629251,
                         46.534163
                   ]
+            },
+            {
+                  "name": "Jorat Nature Discovery Park",
+                  "text": "Ein weitläufiges Naturschutzgebiet im Jorat-Wald zur Naturbeobachtung.",
+                  "category": "natural",
+                  "coords": [
+                        6.678175,
+                        46.577781
+                  ]
+            },
+            {
+                  "name": "Paroisse Protestatante De La Sallaz-Les Croisettes",
+                  "text": "Eine protestantische Kirche, die der Gemeinde in Epalinges dient.",
+                  "category": "religious",
+                  "coords": [
+                        6.673765,
+                        46.545966
+                  ]
             }
       ],
       "hu": [
@@ -131804,6 +137519,24 @@ export const poiExtraAtChMissingV1: POI[] = [
                   "coords": [
                         6.629251,
                         46.534163
+                  ]
+            },
+            {
+                  "name": "Jorat Nature Discovery Park",
+                  "text": "Kiterjedt természetvédelmi terület a Jorat-erdőben, alkalmas természetjárásra.",
+                  "category": "natural",
+                  "coords": [
+                        6.678175,
+                        46.577781
+                  ]
+            },
+            {
+                  "name": "Paroisse Protestatante De La Sallaz-Les Croisettes",
+                  "text": "Protestáns templom, amely az epalinges-i közösséget szolgálja.",
+                  "category": "religious",
+                  "coords": [
+                        6.673765,
+                        46.545966
                   ]
             }
       ],
@@ -131906,6 +137639,24 @@ export const poiExtraAtChMissingV1: POI[] = [
                         6.629251,
                         46.534163
                   ]
+            },
+            {
+                  "name": "Jorat Nature Discovery Park",
+                  "text": "O rezervație naturală extinsă în pădurea Jorat, ideală pentru observarea naturii.",
+                  "category": "natural",
+                  "coords": [
+                        6.678175,
+                        46.577781
+                  ]
+            },
+            {
+                  "name": "Paroisse Protestatante De La Sallaz-Les Croisettes",
+                  "text": "O biserică protestantă care deservește comunitatea din Epalinges.",
+                  "category": "religious",
+                  "coords": [
+                        6.673765,
+                        46.545966
+                  ]
             }
       ],
       "en": [
@@ -132006,6 +137757,24 @@ export const poiExtraAtChMissingV1: POI[] = [
                   "coords": [
                         6.629251,
                         46.534163
+                  ]
+            },
+            {
+                  "name": "Jorat Nature Discovery Park",
+                  "text": "An extensive nature reserve in the Jorat forest, ideal for nature observation.",
+                  "category": "natural",
+                  "coords": [
+                        6.678175,
+                        46.577781
+                  ]
+            },
+            {
+                  "name": "Paroisse Protestatante De La Sallaz-Les Croisettes",
+                  "text": "A Protestant church serving the community in Epalinges.",
+                  "category": "religious",
+                  "coords": [
+                        6.673765,
+                        46.545966
                   ]
             }
       ]
@@ -137516,7 +143285,520 @@ export const poiExtraAtChMissingV1: POI[] = [
             }
       ]
 }, "type": "city", "parent": "CH-VS", "coords": [7.3041, 46.2199], "population": 9412, "image": "/geo-images/switzerland/ch-conthey.webp", "name": {"de": "Conthey", "hu": "Conthey", "ro": "Conthey", "en": "Conthey"}, "description": {"de": "Conthey ist eine sonnenverwöhnte Gemeinde im Herzen des Wallis, die für ihre ausgedehnten Weinberge und ihre bedeutende Gewerbezone bekannt ist.", "hu": "Conthey egy napsütötte település Valais szívében, amely kiterjedt szőlőültetvényeiről és jelentős kereskedelmi övezetéről ismert.", "ro": "Conthey este o municipalitate însorită din inima Valais-ului, cunoscută pentru podgoriile sale vaste și zona comercială importantă.", "en": "Conthey is a sun-drenched municipality in the heart of Valais, known for its extensive vineyards and significant commercial zone."}, "facts": {"de": ["Grosses Weinbaugebiet", "Nähe zur Stadt Sitten (Sion)", "Eingang zum Derborence-Tal", "Bedeutendes Einkaufszentrum"], "hu": ["Nagy bortermelő vidék", "Sion (Sitten) városa mellett", "A Derborence-völgy kapuja", "Jelentős bevásárlóközpont"], "ro": ["Zonă viticolă mare", "Aproape de orașul Sion (Sitten)", "Intrarea în valea Derborence", "Centru comercial important"], "en": ["Large wine-growing area", "Near the city of Sion", "Gateway to the Derborence valley", "Major shopping hub"]}, "descriptionAdvanced": {"de": "Conthey liegt im Zentrum des Kantons Wallis, am rechten Ufer der Rhone und unmittelbar westlich der Kantonshauptstadt Sitten. Die Gemeinde zeichnet sich durch eine enorme geografische Vielfalt aus: Sie reicht von der Ebene der Rhone über die steilen Weinterrassen bis hinauf in die hochalpine Region der Berner Alpen. Ein bedeutender Teil der lokalen Wirtschaft basiert auf dem Weinbau; Conthey gehört zu den grössten Weinbauproduzenten des Kantons, wobei Sorten wie Fendant und Pinot Noir dominieren. In der Ebene hat sich zudem eine der grössten Gewerbe- und Einkaufszonen des Wallis entwickelt, die eine überregionale Ausstrahlung besitzt. Für Naturliebhaber ist Conthey der Ausgangspunkt ins wilde Derborence-Tal, das durch gigantische Bergstürze im 18. Jahrhundert geformt wurde und heute ein Naturschutzgebiet von nationaler Bedeutung ist. Die historische Bausubstanz der Gemeinde umfasst malerische Weiler und die weithin sichtbare Kirche von Plan-Conthey. Das Klima ist mild und trocken, was die Landwirtschaft und den Tourismus begünstigt. Die Infrastruktur ist hervorragend ausgebaut, mit Schulen, Kulturzentren und einer sehr guten Anbindung an die Autobahn A9. Die Gemeinde pflegt ihre Traditionen mit Weinfesten und kulturellen Veranstaltungen, die Besucher aus dem ganzen Kanton anziehen. Die Architektur reicht von traditionellen Walliser Steinhäusern bis hin zu modernen Gewerbebauten in der Ebene.", "hu": "Conthey Valais kanton központjában található, a Rhone folyó jobb partján, közvetlenül a kanton fővárosától, Siontól nyugatra. A községet hatalmas földrajzi sokféleség jellemzi: a Rhone-síkságtól a meredek szőlőteraszokon át egészen a Berni-Alpok magashegyi régiójáig terjed. A helyi gazdaság jelentős része a szőlőtermesztésen alapul; Conthey a kanton egyik legnagyobb bortermelője, ahol az olyan fajták dominálnak, mint a Fendant és a Pinot Noir. A síkságon emellett Valais egyik legnagyobb kereskedelmi és bevásárlóövezete alakult ki, amely régiókon átívelő vonzerővel bír. A természet kedvelői számára Conthey a kiindulópontja a vadregényes Derborence-völgynek, amelyet a 18. századi óriási hegyomlások formáltak, és ma országos jelentőségű természetvédelmi terület. A település történelmi épületállománya festői tanyákat és Plan-Conthey messziről látható templomát foglalja magában. Az éghajlat enyhe és száraz, ami kedvez a mezőgazdaságnak és a turizmusnak. Az infrastruktúra kiválóan kiépített, iskolákkal, kulturális központokkal és az A9-es autópályához való nagyon jó kapcsolattal rendelkezik. A közösség ápolja hagyományait borkóstolókkal és kulturális eseményekkel, amelyek az egész kantonból vonzzák a látogatókat. Az építészet a hagyományos vallisi kőházaktól a síkságon található modern kereskedelmi épületekig terjed.", "ro": "Conthey este situat în centrul cantonului Valais, pe malul drept al Ronului și imediat la vest de capitala cantonului, Sion. Comuna se caracterizează printr-o diversitate geografică enormă: se întinde de la câmpia Ronului, peste terasele abrupte de viță de vie, până în regiunea alpină înaltă a Alpilor Bernezi. O parte importantă a economiei locale se bazează pe viticultură; Conthey este unul dintre cei mai mari producători de vin din canton, predominând soiuri precum Fendant și Pinot Noir. În câmpie s-a dezvoltat, de asemenea, una dintre cele mai mari zone comerciale și de cumpărături din Valais, care are o influență supraregională. Pentru iubitorii de natură, Conthey este punctul de plecare spre valea sălbatică Derborence, care a fost formată de alunecări de teren gigantice în secolul al XVIII-lea și este astăzi o rezervație naturală de importanță națională. Patrimoniul istoric al comunei include cătune pitorești și biserica din Plan-Conthey, vizibilă de la distanță. Climatul este blând și uscat, ceea ce favorizează agricultura și turismul. Infrastructura este excelent dezvoltată, cu școli, centre culturale și o conexiune foarte bună la autostrada A9. Comuna își menține tradițiile cu festivaluri ale vinului și evenimente culturale care atrag vizitatori din tot cantonul. Arhitectura variază de la case tradiționale din piatră din Valais până la clădiri comerciale moderne în câmpie.", "en": "Conthey is located in the center of the canton of Valais, on the right bank of the Rhone and immediately west of the cantonal capital, Sion. The municipality is characterized by enormous geographical diversity, stretching from the Rhone plain across steep vineyard terraces up to the high alpine regions of the Bernese Alps. A significant part of the local economy is based on viticulture; Conthey is one of the largest wine producers in the canton, with varieties such as Fendant and Pinot Noir dominating. In the plain, one of the largest commercial and shopping zones in Valais has also developed, possessing a supra-regional appeal. For nature lovers, Conthey is the starting point for the wild Derborence valley, which was formed by gigantic landslides in the 18th century and is now a nature reserve of national importance. The municipality's historic buildings include picturesque hamlets and the church of Plan-Conthey, visible from afar. The climate is mild and dry, favoring both agriculture and tourism. The infrastructure is excellently developed, with schools, cultural centers, and very good access to the A9 motorway. The community cultivates its traditions with wine festivals and cultural events that attract visitors from all over the canton. The architecture ranges from traditional Valais stone houses to modern commercial buildings in the plain."}, "factsAdvanced": {"de": ["Zweitgrösste Weinbaufläche im Wallis", "Derborence-See entstand durch Bergstürze", "Bedeutende römische Funde in der Umgebung", "Umfasst mehrere Dörfer wie Plan-Conthey und Erde", "Höchster Punkt am Sanetschpass", "Wichtigster Handelsplatz im Zentralwallis"], "hu": ["Valais második legnagyobb szőlőtermő területe", "A Derborence-tó hegyomlások során jött létre", "Jelentős római kori leletek a környéken", "Több falut foglal magában, például Plan-Conthey-t és Erdét", "Legmagasabb pontja a Sanetsch-hágónál", "Közép-Valais legfontosabb kereskedelmi helyszíne"], "ro": ["A doua cea mai mare suprafață viticolă din Valais", "Lacul Derborence a luat naștere prin alunecări de teren", "Descoperiri romane importante în zonă", "Cuprinde mai multe sate precum Plan-Conthey și Erde", "Punctul maxim în pasul Sanetsch", "Cea mai importantă locație comercială din centrul Valais"], "en": ["Second largest vineyard area in Valais", "Derborence Lake was formed by landslides", "Significant Roman finds in the area", "Comprises several villages such as Plan-Conthey and Erde", "Highest point at the Sanetsch Pass", "Most important trading center in Central Valais"]}, "faq": {"de": [{"q": "Was ist das Hauptprodukt von Conthey?", "a": "Conthey ist vor allem für seine Weine bekannt, insbesondere für den Fendant."}, {"q": "Wo liegt das Derborence-Tal?", "a": "Das Tal liegt oberhalb von Conthey und ist bekannt für seine natürliche Schönheit und Geschichte."}, {"q": "Ist Conthey ein guter Ort zum Einkaufen?", "a": "Ja, in der Ebene gibt es eine der grössten Einkaufszonen des Kantons Wallis."}, {"q": "Welche Stadt liegt am nächsten bei Conthey?", "a": "Die Kantonshauptstadt Sitten (Sion) grenzt direkt an Conthey."}], "hu": [{"q": "Mi Conthey fő terméke?", "a": "Conthey elsősorban borairól ismert, különösen a Fendant fajtáról."}, {"q": "Hol található a Derborence-völgy?", "a": "A völgy Conthey felett található, és természeti szépségéről, valamint történelméről ismert."}, {"q": "Jó hely Conthey a vásárlásra?", "a": "Igen, a síkságon található Valais kanton egyik legnagyobb bevásárlóövezete."}, {"q": "Melyik város fekszik a legközelebb Conthey-hez?", "a": "Sion (Sitten), a kanton fővárosa közvetlenül határos Conthey-vel."}], "ro": [{"q": "Care este principalul produs din Conthey?", "a": "Conthey este cunoscut în special pentru vinurile sale, mai ales pentru Fendant."}, {"q": "Unde se află valea Derborence?", "a": "Valea se află deasupra localității Conthey și este cunoscută pentru frumusețea sa naturală și istorie."}, {"q": "Este Conthey un loc bun pentru cumpărături?", "a": "Da, în câmpie se află una dintre cele mai mari zone comerciale din cantonul Valais."}, {"q": "Ce oraș este cel mai aproape de Conthey?", "a": "Capitala cantonului, Sion (Sitten), se învecinează direct cu Conthey."}], "en": [{"q": "What is the main product of Conthey?", "a": "Conthey is primarily known for its wines, especially Fendant."}, {"q": "Where is the Derborence valley located?", "a": "The valley is located above Conthey and is known for its natural beauty and history."}, {"q": "Is Conthey a good place for shopping?", "a": "Yes, in the plain there is one of the largest shopping zones in the canton of Valais."}, {"q": "Which city is closest to Conthey?", "a": "The cantonal capital Sion is directly adjacent to Conthey."}]}},
-  {"id": "ch-aadorf", "sights": {"de": [{"name": "Divertimento", "text": "Ein lokaler Veranstaltungsort für Theateraufführungen und Kultur.", "category": "cultural", "coords": [8.897756, 47.490939]}, {"name": "Freibad Aadorf", "text": "Ein öffentliches Schwimmbad in Aadorf für Sport und Freizeit.", "category": "family", "coords": [8.907239, 47.49954]}, {"name": "Heimatmuseum", "text": "Das Heimatmuseum der Schweizer Ortschaft Aadorf ist der Bewahrung der örtlichen Identität gewidmet. Besucher tauchen hier tief in die Traditionen und die historische Entwicklung von Aadorf ein. Die Sammlung zeigt eindrucksvoll, wie sich das Leben in der Region im Laufe der Zeit gewandelt hat.", "category": "museum", "coords": [8.87309, 47.488932]}, {"name": "Eggholz", "text": "Ein geschütztes Naturgebiet mit vielfältiger Flora und Fauna.", "category": "natural", "coords": [8.895475, 47.51617]}, {"name": "Tänikon", "text": "Ein historischer Ort, der früher Sitz eines Klosters war.", "category": "religious", "coords": [8.907178, 47.479387]}, {"name": "Reformierte Kirche St. Michael", "text": "Die evangelische Kirche der Gemeinde, dem heiligen Michael geweiht.", "category": "religious", "coords": [8.897671, 47.492191]}, {"name": "Kirche St. Georg", "text": "Eine spätgotische Kirche in der Nachbargemeinde Elgg.", "category": "religious", "coords": [8.862535, 47.492988]}, {"name": "Reformierte Kirche Elgg", "text": "Das reformierte Kirchengebäude im historischen Kern von Elgg.", "category": "religious", "coords": [8.867422, 47.49013]}, {"name": "Heurütiweiher", "text": "Ein kleiner Weiher in Aadorf, der zu einem ruhigen Spaziergang einlädt.", "category": "natural", "coords": [8.865035, 47.472769]}, {"name": "Ziegeleiweiher", "text": "Ein Gewässer in Aadorf in schöner Natur für entspannte Momente.", "category": "natural", "coords": [8.972455, 47.461247]}, {"name": "Feuerwehrweiher", "text": "Ein ruhiger Weiher in Aadorf, der sich gut für eine kurze Pause im Grünen eignet.", "category": "natural", "coords": [8.969444, 47.461301]}, {"name": "Reservoir Undertuttwil", "text": "Ein Reservoir bei Aadorf in ruhiger Lage.", "category": "natural", "coords": [8.943515, 47.481277]}, {"name": "Hallenbad Aadorf", "text": "Das Hallenbad Aadorf bietet Möglichkeiten zum Schwimmen in einer überdachten Anlage.", "category": "family", "coords": [8.904786, 47.493865]}], "hu": [{"name": "Divertimento", "text": "Helyi rendezvényhelyszín színházi előadásokhoz és kultúrához.", "category": "cultural", "coords": [8.897756, 47.490939]}, {"name": "Freibad Aadorf", "text": "Aadorf nyilvános úszómedencéje sportoláshoz és kikapcsolódáshoz.", "category": "family", "coords": [8.907239, 47.49954]}, {"name": "Heimatmuseum", "text": "A svájci Aadorf település Heimatmuseum nevű intézménye a helyi identitás megőrzésének szenteli magát. A látogatók itt mélyen elmerülhetnek Aadorf hagyományaiban és történelmi fejlődésében. A gyűjtemény lenyűgözően mutatja be, hogyan változott az élet a régióban az idők során.", "category": "museum", "coords": [8.87309, 47.488932]}, {"name": "Eggholz", "text": "Védett természeti terület változatos növény- és állatvilággal.", "category": "natural", "coords": [8.895475, 47.51617]}, {"name": "Tänikon", "text": "Történelmi helyszín, amely egykor kolostornak adott otthont.", "category": "religious", "coords": [8.907178, 47.479387]}, {"name": "Reformierte Kirche St. Michael", "text": "A község Szent Mihálynak szentelt evangélikus temploma.", "category": "religious", "coords": [8.897671, 47.492191]}, {"name": "Kirche St. Georg", "text": "Késő gótikus templom a szomszédos Elgg községben.", "category": "religious", "coords": [8.862535, 47.492988]}, {"name": "Reformierte Kirche Elgg", "text": "Református templomépület Elgg történelmi központjában.", "category": "religious", "coords": [8.867422, 47.49013]}, {"name": "Heurütiweiher", "text": "Egy kis tavacska Aadorfban, amely nyugodt sétára hívogat.", "category": "natural", "coords": [8.865035, 47.472769]}, {"name": "Ziegeleiweiher", "text": "Egy állóvíz Aadorfban, szép természeti környezetben a pihentető pillanatokhoz.", "category": "natural", "coords": [8.972455, 47.461247]}, {"name": "Feuerwehrweiher", "text": "Egy csendes tavacska Aadorfban, amely alkalmas egy rövid pihenőre a zöldben.", "category": "natural", "coords": [8.969444, 47.461301]}, {"name": "Reservoir Undertuttwil", "text": "Egy víztározó Aadorf közelében, csendes helyen.", "category": "natural", "coords": [8.943515, 47.481277]}, {"name": "Hallenbad Aadorf", "text": "Az aadorfi fedett uszoda úszási lehetőséget biztosít egy fedett létesítményben.", "category": "family", "coords": [8.904786, 47.493865]}], "ro": [{"name": "Divertimento", "text": "Un loc de desfășurare pentru spectacole de teatru și cultură locală.", "category": "cultural", "coords": [8.897756, 47.490939]}, {"name": "Freibad Aadorf", "text": "O piscină publică în Aadorf pentru sport și petrecerea timpului liber.", "category": "family", "coords": [8.907239, 47.49954]}, {"name": "Heimatmuseum", "text": "Heimatmuseum din localitatea elvețiană Aadorf este dedicat păstrării identității locale. Vizitatorii se cufundă aici adânc în tradițiile și dezvoltarea istorică a orașului Aadorf. Colecția arată în mod impresionant modul în care s-a schimbat viața în regiune de-a lungul timpului.", "category": "museum", "coords": [8.87309, 47.488932]}, {"name": "Eggholz", "text": "O arie naturală protejată cu o floră și faună diversă.", "category": "natural", "coords": [8.895475, 47.51617]}, {"name": "Tänikon", "text": "Un loc istoric care a fost în trecut sediul unei mănăstiri.", "category": "religious", "coords": [8.907178, 47.479387]}, {"name": "Reformierte Kirche St. Michael", "text": "Biserica evanghelică a comunei, închinată Sfântului Mihail.", "category": "religious", "coords": [8.897671, 47.492191]}, {"name": "Kirche St. Georg", "text": "O biserică în stil gotic târziu în comuna vecină Elgg.", "category": "religious", "coords": [8.862535, 47.492988]}, {"name": "Reformierte Kirche Elgg", "text": "Clădirea bisericii reformate din centrul istoric al localității Elgg.", "category": "religious", "coords": [8.867422, 47.49013]}, {"name": "Heurütiweiher", "text": "Un mic iaz în Aadorf, care invită la o plimbare liniștită.", "category": "natural", "coords": [8.865035, 47.472769]}, {"name": "Ziegeleiweiher", "text": "Un ochi de apă în Aadorf, în mijlocul naturii frumoase, pentru momente de relaxare.", "category": "natural", "coords": [8.972455, 47.461247]}, {"name": "Feuerwehrweiher", "text": "Un iaz liniștit în Aadorf, potrivit pentru o scurtă pauză în natură.", "category": "natural", "coords": [8.969444, 47.461301]}, {"name": "Reservoir Undertuttwil", "text": "Un rezervor lângă Aadorf, situat într-o zonă liniștită.", "category": "natural", "coords": [8.943515, 47.481277]}, {"name": "Hallenbad Aadorf", "text": "Piscina interioară din Aadorf oferă condiții pentru înot într-o facilitate acoperită.", "category": "family", "coords": [8.904786, 47.493865]}], "en": [{"name": "Divertimento", "text": "A local venue for theatrical performances and culture.", "category": "cultural", "coords": [8.897756, 47.490939]}, {"name": "Freibad Aadorf", "text": "A public swimming pool in Aadorf for sports and leisure.", "category": "family", "coords": [8.907239, 47.49954]}, {"name": "Heimatmuseum", "text": "The Heimatmuseum in the Swiss town of Aadorf is dedicated to preserving local identity. Visitors dive deep into the traditions and historical development of Aadorf here. The collection impressively displays how life in the region has changed over time.", "category": "museum", "coords": [8.87309, 47.488932]}, {"name": "Eggholz", "text": "A protected nature area with diverse flora and fauna.", "category": "natural", "coords": [8.895475, 47.51617]}, {"name": "Tänikon", "text": "A historic site that was formerly the seat of a monastery.", "category": "religious", "coords": [8.907178, 47.479387]}, {"name": "Reformierte Kirche St. Michael", "text": "The evangelical church of the community, dedicated to Saint Michael.", "category": "religious", "coords": [8.897671, 47.492191]}, {"name": "Kirche St. Georg", "text": "A late Gothic church in the neighboring municipality of Elgg.", "category": "religious", "coords": [8.862535, 47.492988]}, {"name": "Reformierte Kirche Elgg", "text": "The reformed church building in the historic center of Elgg.", "category": "religious", "coords": [8.867422, 47.49013]}, {"name": "Heurütiweiher", "text": "A small pond in Aadorf, perfect for a quiet walk.", "category": "natural", "coords": [8.865035, 47.472769]}, {"name": "Ziegeleiweiher", "text": "A body of water in Aadorf surrounded by beautiful nature for relaxing moments.", "category": "natural", "coords": [8.972455, 47.461247]}, {"name": "Feuerwehrweiher", "text": "A quiet pond in Aadorf, well-suited for a short break in the countryside.", "category": "natural", "coords": [8.969444, 47.461301]}, {"name": "Reservoir Undertuttwil", "text": "A reservoir near Aadorf in a quiet location.", "category": "natural", "coords": [8.943515, 47.481277]}, {"name": "Hallenbad Aadorf", "text": "Aadorf indoor pool offers swimming opportunities in a covered facility.", "category": "family", "coords": [8.904786, 47.493865]}]}, "type": "city", "parent": "CH-TG", "coords": [8.8973, 47.4894], "population": 9408, "image": "/geo-images/switzerland/ch-aadorf.webp", "name": {"de": "Aadorf", "hu": "Aadorf", "ro": "Aadorf", "en": "Aadorf"}, "description": {"de": "Aadorf ist eine einladende Gemeinde im Thurgau, die durch ihre idyllische Lage im Lützelmurgtal und ihre hervorragende Anbindung an Winterthur besticht.", "hu": "Aadorf egy barátságos település Thurgau kantonban, amely a Lützelmurg-völgy idilli környezetével és Winterthurhoz való kiváló közelségével tűnik ki.", "ro": "Aadorf este o municipalitate primitoare din Thurgau, care impresionează prin locația sa idilică în valea Lützelmurg și conexiunea excelentă cu Winterthur.", "en": "Aadorf is a welcoming municipality in Thurgau, boasting an idyllic location in the Lützelmurg valley and excellent connections to Winterthur."}, "facts": {"de": ["Liegt im Lützelmurgtal", "Grenzt an den Kanton Zürich", "Vielseitiger Wohnstandort", "Wasserschloss Hagenwil in der Nähe"], "hu": ["A Lützelmurg-völgyben fekszik", "Zürich kantonnal határos", "Sokoldalú lakóövezet", "A Hagenwil vízi kastély a közelben található"], "ro": ["Situat în valea Lützelmurg", "Se învecinează cu cantonul Zürich", "Zonă rezidențială versatilă", "Castelul pe apă Hagenwil se află în apropiere"], "en": ["Located in the Lützelmurg valley", "Borders the canton of Zurich", "Versatile residential location", "Hagenwil water castle nearby"]}, "descriptionAdvanced": {"de": "Aadorf liegt im äussersten Westen des Kantons Thurgau, eingebettet in die hügelige Landschaft des Hinterthurgaus. Die Gemeinde umfasst neben dem Hauptort Aadorf auch die Dörfer Ettenhausen, Guntershausen und Wittenwil. Durch das Gemeindegebiet fliesst die Lützelmurg, die der Region ihren charakteristischen Charme verleiht. Historisch war Aadorf lange von der Landwirtschaft und kleineren Handwerksbetrieben geprägt, erlebte jedoch im 19. Jahrhundert durch die Textilindustrie einen ersten Aufschwung. Heute präsentiert sich Aadorf als moderne, wachsende Gemeinde mit einer hohen Lebensqualität. Die Nähe zur Stadt Winterthur und die gute Anbindung an die Autobahn A1 machen Aadorf zu einem bevorzugten Wohnort für Familien und Berufstätige. Die Umgebung bietet vielfältige Erholungsmöglichkeiten mit ausgedehnten Wäldern, Wanderwegen und Radrouten. Wirtschaftlich ist die Gemeinde durch einen gesunden Mix aus Dienstleistungsbetrieben, Gewerbe und spezialisierter Industrie geprägt. Ein kultureller Höhepunkt in der Region ist das nahegelegene Wasserschloss Hagenwil, eines der besterhaltenen Wasserschlösser der Schweiz. Die Infrastruktur in Aadorf ist mit modernen Schulen, Sportanlagen und Einkaufsmöglichkeiten hervorragend ausgebaut. Das Dorfbild wird durch einen Mix aus historischen Gebäuden und zeitgenössischer Architektur geprägt, was den Wandel von der ländlichen Siedlung zum modernen Vorort widerspiegelt.", "hu": "Aadorf Thurgau kanton távoli nyugati részén fekszik, a Hinterthurgau dombos tájaiba ágyazva. A község Aadorf központi települése mellett Ettenhausen, Guntershausen és Wittenwil falvakat is magában foglalja. A település területén folyik keresztül a Lützelmurg folyó, amely a régiónak sajátos bájt kölcsönöz. Történelmileg Aadorfot sokáig a mezőgazdaság és a kisebb kézműves üzemek jellemezték, azonban a 19. században a textilipar révén érte el első fellendülését. Ma Aadorf modern, növekvő közösségként mutatkozik be, magas életminőséggel. Winterthur városának közelsége és az A1-es autópályához való jó csatlakozás Aadorfot a családok és a dolgozók kedvelt lakóhelyévé teszi. A környék sokféle kikapcsolódási lehetőséget kínál kiterjedt erdőkkel, túraútvonalakkal és kerékpárutakkal. Gazdaságilag a települést a szolgáltató szektor, a kisipar és a speciális iparágak egészséges keveréke jellemzi. A régió egyik kulturális fénypontja a közeli Hagenwil vízi kastély, amely Svájc egyik legjobban megőrzött vízi vára. Aadorf infrastruktúrája kiválóan kiépített modern iskolákkal, sportlétesítményekkel és bevásárlási lehetőségekkel. A faluképet a történelmi épületek és a kortárs építészet keveréke határozza meg, ami tükrözi a vidéki településből modern elővárossá való átalakulást.", "ro": "Aadorf este situat în extremitatea vestică a cantonului Thurgau, încadrat în peisajul colinar din Hinterthurgau. Comuna cuprinde, pe lângă localitatea principală Aadorf, și satele Ettenhausen, Guntershausen și Wittenwil. Prin teritoriul comunei curge râul Lützelmurg, care conferă regiunii farmecul său caracteristic. Din punct de vedere istoric, Aadorf a fost mult timp marcat de agricultură și mici ateliere meșteșugărești, dar a cunoscut un prim avânt în secolul al XIX-lea prin industria textilă. Astăzi, Aadorf se prezintă ca o municipalitate modernă, în creștere, cu o calitate ridicată a vieții. Proximitatea față de orașul Winterthur și conexiunea bună la autostrada A1 fac din Aadorf o locație rezidențială preferată pentru familii și profesioniști. Împrejurimile oferă diverse posibilități de recreere cu păduri întinse, trasee de drumeție și rute pentru biciclete. Economic, comuna este caracterizată de un mix sănătos de servicii, meșteșuguri și industrie specializată. Un punct culminant cultural în regiune este castelul pe apă Hagenwil din apropiere, unul dintre cele mai bine conservate casteluri pe apă din Elveția. Infrastructura din Aadorf este excelent dezvoltată, cu școli moderne, facilități sportive și posibilități de cumpărături. Aspectul satului este marcat de un mix de clădiri istorice și arhitectură contemporană, reflectând transformarea de la o așezare rurală la o suburbie modernă.", "en": "Aadorf is located in the far west of the canton of Thurgau, nestled in the hilly landscape of the Hinterthurgau. In addition to the main town of Aadorf, the municipality includes the villages of Ettenhausen, Guntershausen, and Wittenwil. The Lützelmurg river flows through the municipal territory, giving the region its characteristic charm. Historically, Aadorf was long dominated by agriculture and small craft businesses, but experienced its first boom in the 19th century through the textile industry. Today, Aadorf presents itself as a modern, growing community with a high quality of life. Proximity to the city of Winterthur and good access to the A1 motorway make Aadorf a preferred residential location for families and professionals. The surrounding area offers diverse recreational opportunities with extensive forests, hiking trails, and cycling routes. Economically, the municipality is characterized by a healthy mix of service providers, trades, and specialized industry. A cultural highlight in the region is the nearby Hagenwil water castle, one of the best-preserved moated castles in Switzerland. The infrastructure in Aadorf is excellently developed with modern schools, sports facilities, and shopping opportunities. The village landscape is shaped by a mix of historic buildings and contemporary architecture, reflecting the transformation from a rural settlement to a modern suburb."}, "factsAdvanced": {"de": ["Fläche von 19,9 Quadratkilometern", "Zweitwestlichste Gemeinde des Kantons Thurgau", "Bahnstation an der Linie Winterthur-Wil", "Besitzt ein beheiztes Freibad", "Fluss Lützelmurg mündet in die Murg", "Höchster Punkt auf 607 m ü. M."], "hu": ["Területe 19,9 négyzetkilométer", "Thurgau kanton második legnyugatibb községe", "Vasútállomás a Winterthur-Wil vonalon", "Fűtött szabadtéri stranddal rendelkezik", "A Lützelmurg folyó a Murgba torkollik", "Legmagasabb pontja 607 méteren található"], "ro": ["Suprafață de 19,9 kilometri pătrați", "A doua cea mai vestică comună din cantonul Thurgau", "Gară pe linia Winterthur-Wil", "Deține un ștrand în aer liber încălzit", "Râul Lützelmurg se varsă în Murg", "Punctul maxim la 607 m altitudine"], "en": ["Area of 19.9 square kilometers", "Second westernmost municipality in the canton of Thurgau", "Railway station on the Winterthur-Wil line", "Has a heated outdoor swimming pool", "Lützelmurg river flows into the Murg", "Highest point at 607 m above sea level"]}, "faq": {"de": [{"q": "Wo liegt Aadorf?", "a": "Aadorf liegt im Westen des Kantons Thurgau, nahe der Grenze zum Kanton Zürich."}, {"q": "Welche grössere Stadt liegt in der Nähe von Aadorf?", "a": "Winterthur ist die nächstgelegene grössere Stadt und schnell erreichbar."}, {"q": "Was bietet Aadorf für Familien?", "a": "Aadorf bietet gute Schulen, viel Natur, Sportanlagen und ein beheiztes Freibad."}, {"q": "Welcher Fluss fliesst durch Aadorf?", "a": "Die Lützelmurg fliesst durch das Gemeindegebiet von Aadorf."}], "hu": [{"q": "Hol található Aadorf?", "a": "Aadorf Thurgau kanton nyugati részén fekszik, közel Zürich kanton határához."}, {"q": "Melyik nagyobb város van Aadorf közelében?", "a": "Winterthur a legközelebbi nagyobb város, amely gyorsan elérhető."}, {"q": "Mit kínál Aadorf a családoknak?", "a": "Aadorf jó iskolákat, sok természetet, sportlétesítményeket és fűtött strandot kínál."}, {"q": "Melyik folyó folyik át Aadorfon?", "a": "A Lützelmurg folyó folyik keresztül Aadorf területén."}], "ro": [{"q": "Unde se află Aadorf?", "a": "Aadorf se află în vestul cantonului Thurgau, aproape de granița cu cantonul Zürich."}, {"q": "Ce oraș mai mare se află în apropiere de Aadorf?", "a": "Winterthur este cel mai apropiat oraș mare și este rapid accesibil."}, {"q": "Ce oferă Aadorf pentru familii?", "a": "Aadorf oferă școli bune, multă natură, facilități sportive și un ștrand încălzit."}, {"q": "Ce râu trece prin Aadorf?", "a": "Râul Lützelmurg trece prin teritoriul comunei Aadorf."}], "en": [{"q": "Where is Aadorf located?", "a": "Aadorf is located in the west of the canton of Thurgau, near the border with the canton of Zurich."}, {"q": "Which larger city is near Aadorf?", "a": "Winterthur is the closest major city and can be reached quickly."}, {"q": "What does Aadorf offer for families?", "a": "Aadorf offers good schools, plenty of nature, sports facilities, and a heated outdoor pool."}, {"q": "Which river flows through Aadorf?", "a": "The Lützelmurg flows through the municipality of Aadorf."}]}},
+  {"id": "ch-aadorf", "sights": {
+      "de": [
+            {
+                  "name": "Divertimento",
+                  "text": "Ein lokaler Veranstaltungsort für Theateraufführungen und Kultur.",
+                  "category": "cultural",
+                  "coords": [
+                        8.897756,
+                        47.490939
+                  ]
+            },
+            {
+                  "name": "Freibad Aadorf",
+                  "text": "Ein öffentliches Schwimmbad in Aadorf für Sport und Freizeit.",
+                  "category": "family",
+                  "coords": [
+                        8.907239,
+                        47.49954
+                  ]
+            },
+            {
+                  "name": "Heimatmuseum",
+                  "text": "Das Heimatmuseum der Schweizer Ortschaft Aadorf ist der Bewahrung der örtlichen Identität gewidmet. Besucher tauchen hier tief in die Traditionen und die historische Entwicklung von Aadorf ein. Die Sammlung zeigt eindrucksvoll, wie sich das Leben in der Region im Laufe der Zeit gewandelt hat.",
+                  "category": "museum",
+                  "coords": [
+                        8.87309,
+                        47.488932
+                  ]
+            },
+            {
+                  "name": "Eggholz",
+                  "text": "Ein geschütztes Naturgebiet mit vielfältiger Flora und Fauna.",
+                  "category": "natural",
+                  "coords": [
+                        8.895475,
+                        47.51617
+                  ]
+            },
+            {
+                  "name": "Tänikon",
+                  "text": "Ein historischer Ort, der früher Sitz eines Klosters war.",
+                  "category": "religious",
+                  "coords": [
+                        8.907178,
+                        47.479387
+                  ]
+            },
+            {
+                  "name": "Reformierte Kirche St. Michael",
+                  "text": "Die evangelische Kirche der Gemeinde, dem heiligen Michael geweiht.",
+                  "category": "religious",
+                  "coords": [
+                        8.897671,
+                        47.492191
+                  ]
+            },
+            {
+                  "name": "Kirche St. Georg",
+                  "text": "Eine spätgotische Kirche in der Nachbargemeinde Elgg.",
+                  "category": "religious",
+                  "coords": [
+                        8.862535,
+                        47.492988
+                  ]
+            },
+            {
+                  "name": "Reformierte Kirche Elgg",
+                  "text": "Das reformierte Kirchengebäude im historischen Kern von Elgg.",
+                  "category": "religious",
+                  "coords": [
+                        8.867422,
+                        47.49013
+                  ]
+            },
+            {
+                  "name": "Heurütiweiher",
+                  "text": "Ein kleiner Weiher in Aadorf, der zu einem ruhigen Spaziergang einlädt.",
+                  "category": "natural",
+                  "coords": [
+                        8.865035,
+                        47.472769
+                  ]
+            },
+            {
+                  "name": "Ziegeleiweiher",
+                  "text": "Ein Gewässer in Aadorf in schöner Natur für entspannte Momente.",
+                  "category": "natural",
+                  "coords": [
+                        8.972455,
+                        47.461247
+                  ]
+            },
+            {
+                  "name": "Feuerwehrweiher",
+                  "text": "Ein ruhiger Weiher in Aadorf, der sich gut für eine kurze Pause im Grünen eignet.",
+                  "category": "natural",
+                  "coords": [
+                        8.969444,
+                        47.461301
+                  ]
+            },
+            {
+                  "name": "Reservoir Undertuttwil",
+                  "text": "Ein Reservoir bei Aadorf in ruhiger Lage.",
+                  "category": "natural",
+                  "coords": [
+                        8.943515,
+                        47.481277
+                  ]
+            },
+            {
+                  "name": "Hallenbad Aadorf",
+                  "text": "Das Hallenbad Aadorf bietet Möglichkeiten zum Schwimmen in einer überdachten Anlage.",
+                  "category": "family",
+                  "coords": [
+                        8.904786,
+                        47.493865
+                  ]
+            },
+            {
+                  "name": "Schloss Elgg",
+                  "text": "Ein gut erhaltenes, spätgotisches Wasserschloss in der Nähe von Aadorf.",
+                  "category": "castle",
+                  "coords": [
+                        8.865858,
+                        47.483403
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Divertimento",
+                  "text": "Helyi rendezvényhelyszín színházi előadásokhoz és kultúrához.",
+                  "category": "cultural",
+                  "coords": [
+                        8.897756,
+                        47.490939
+                  ]
+            },
+            {
+                  "name": "Freibad Aadorf",
+                  "text": "Aadorf nyilvános úszómedencéje sportoláshoz és kikapcsolódáshoz.",
+                  "category": "family",
+                  "coords": [
+                        8.907239,
+                        47.49954
+                  ]
+            },
+            {
+                  "name": "Heimatmuseum",
+                  "text": "A svájci Aadorf település Heimatmuseum nevű intézménye a helyi identitás megőrzésének szenteli magát. A látogatók itt mélyen elmerülhetnek Aadorf hagyományaiban és történelmi fejlődésében. A gyűjtemény lenyűgözően mutatja be, hogyan változott az élet a régióban az idők során.",
+                  "category": "museum",
+                  "coords": [
+                        8.87309,
+                        47.488932
+                  ]
+            },
+            {
+                  "name": "Eggholz",
+                  "text": "Védett természeti terület változatos növény- és állatvilággal.",
+                  "category": "natural",
+                  "coords": [
+                        8.895475,
+                        47.51617
+                  ]
+            },
+            {
+                  "name": "Tänikon",
+                  "text": "Történelmi helyszín, amely egykor kolostornak adott otthont.",
+                  "category": "religious",
+                  "coords": [
+                        8.907178,
+                        47.479387
+                  ]
+            },
+            {
+                  "name": "Reformierte Kirche St. Michael",
+                  "text": "A község Szent Mihálynak szentelt evangélikus temploma.",
+                  "category": "religious",
+                  "coords": [
+                        8.897671,
+                        47.492191
+                  ]
+            },
+            {
+                  "name": "Kirche St. Georg",
+                  "text": "Késő gótikus templom a szomszédos Elgg községben.",
+                  "category": "religious",
+                  "coords": [
+                        8.862535,
+                        47.492988
+                  ]
+            },
+            {
+                  "name": "Reformierte Kirche Elgg",
+                  "text": "Református templomépület Elgg történelmi központjában.",
+                  "category": "religious",
+                  "coords": [
+                        8.867422,
+                        47.49013
+                  ]
+            },
+            {
+                  "name": "Heurütiweiher",
+                  "text": "Egy kis tavacska Aadorfban, amely nyugodt sétára hívogat.",
+                  "category": "natural",
+                  "coords": [
+                        8.865035,
+                        47.472769
+                  ]
+            },
+            {
+                  "name": "Ziegeleiweiher",
+                  "text": "Egy állóvíz Aadorfban, szép természeti környezetben a pihentető pillanatokhoz.",
+                  "category": "natural",
+                  "coords": [
+                        8.972455,
+                        47.461247
+                  ]
+            },
+            {
+                  "name": "Feuerwehrweiher",
+                  "text": "Egy csendes tavacska Aadorfban, amely alkalmas egy rövid pihenőre a zöldben.",
+                  "category": "natural",
+                  "coords": [
+                        8.969444,
+                        47.461301
+                  ]
+            },
+            {
+                  "name": "Reservoir Undertuttwil",
+                  "text": "Egy víztározó Aadorf közelében, csendes helyen.",
+                  "category": "natural",
+                  "coords": [
+                        8.943515,
+                        47.481277
+                  ]
+            },
+            {
+                  "name": "Hallenbad Aadorf",
+                  "text": "Az aadorfi fedett uszoda úszási lehetőséget biztosít egy fedett létesítményben.",
+                  "category": "family",
+                  "coords": [
+                        8.904786,
+                        47.493865
+                  ]
+            },
+            {
+                  "name": "Schloss Elgg",
+                  "text": "Jó állapotban fennmaradt késő gótikus vízi kastély Aadorf közelében.",
+                  "category": "castle",
+                  "coords": [
+                        8.865858,
+                        47.483403
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Divertimento",
+                  "text": "Un loc de desfășurare pentru spectacole de teatru și cultură locală.",
+                  "category": "cultural",
+                  "coords": [
+                        8.897756,
+                        47.490939
+                  ]
+            },
+            {
+                  "name": "Freibad Aadorf",
+                  "text": "O piscină publică în Aadorf pentru sport și petrecerea timpului liber.",
+                  "category": "family",
+                  "coords": [
+                        8.907239,
+                        47.49954
+                  ]
+            },
+            {
+                  "name": "Heimatmuseum",
+                  "text": "Heimatmuseum din localitatea elvețiană Aadorf este dedicat păstrării identității locale. Vizitatorii se cufundă aici adânc în tradițiile și dezvoltarea istorică a orașului Aadorf. Colecția arată în mod impresionant modul în care s-a schimbat viața în regiune de-a lungul timpului.",
+                  "category": "museum",
+                  "coords": [
+                        8.87309,
+                        47.488932
+                  ]
+            },
+            {
+                  "name": "Eggholz",
+                  "text": "O arie naturală protejată cu o floră și faună diversă.",
+                  "category": "natural",
+                  "coords": [
+                        8.895475,
+                        47.51617
+                  ]
+            },
+            {
+                  "name": "Tänikon",
+                  "text": "Un loc istoric care a fost în trecut sediul unei mănăstiri.",
+                  "category": "religious",
+                  "coords": [
+                        8.907178,
+                        47.479387
+                  ]
+            },
+            {
+                  "name": "Reformierte Kirche St. Michael",
+                  "text": "Biserica evanghelică a comunei, închinată Sfântului Mihail.",
+                  "category": "religious",
+                  "coords": [
+                        8.897671,
+                        47.492191
+                  ]
+            },
+            {
+                  "name": "Kirche St. Georg",
+                  "text": "O biserică în stil gotic târziu în comuna vecină Elgg.",
+                  "category": "religious",
+                  "coords": [
+                        8.862535,
+                        47.492988
+                  ]
+            },
+            {
+                  "name": "Reformierte Kirche Elgg",
+                  "text": "Clădirea bisericii reformate din centrul istoric al localității Elgg.",
+                  "category": "religious",
+                  "coords": [
+                        8.867422,
+                        47.49013
+                  ]
+            },
+            {
+                  "name": "Heurütiweiher",
+                  "text": "Un mic iaz în Aadorf, care invită la o plimbare liniștită.",
+                  "category": "natural",
+                  "coords": [
+                        8.865035,
+                        47.472769
+                  ]
+            },
+            {
+                  "name": "Ziegeleiweiher",
+                  "text": "Un ochi de apă în Aadorf, în mijlocul naturii frumoase, pentru momente de relaxare.",
+                  "category": "natural",
+                  "coords": [
+                        8.972455,
+                        47.461247
+                  ]
+            },
+            {
+                  "name": "Feuerwehrweiher",
+                  "text": "Un iaz liniștit în Aadorf, potrivit pentru o scurtă pauză în natură.",
+                  "category": "natural",
+                  "coords": [
+                        8.969444,
+                        47.461301
+                  ]
+            },
+            {
+                  "name": "Reservoir Undertuttwil",
+                  "text": "Un rezervor lângă Aadorf, situat într-o zonă liniștită.",
+                  "category": "natural",
+                  "coords": [
+                        8.943515,
+                        47.481277
+                  ]
+            },
+            {
+                  "name": "Hallenbad Aadorf",
+                  "text": "Piscina interioară din Aadorf oferă condiții pentru înot într-o facilitate acoperită.",
+                  "category": "family",
+                  "coords": [
+                        8.904786,
+                        47.493865
+                  ]
+            },
+            {
+                  "name": "Schloss Elgg",
+                  "text": "Un castel cu apă în stil gotic târziu, bine conservat, situat lângă Aadorf.",
+                  "category": "castle",
+                  "coords": [
+                        8.865858,
+                        47.483403
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Divertimento",
+                  "text": "A local venue for theatrical performances and culture.",
+                  "category": "cultural",
+                  "coords": [
+                        8.897756,
+                        47.490939
+                  ]
+            },
+            {
+                  "name": "Freibad Aadorf",
+                  "text": "A public swimming pool in Aadorf for sports and leisure.",
+                  "category": "family",
+                  "coords": [
+                        8.907239,
+                        47.49954
+                  ]
+            },
+            {
+                  "name": "Heimatmuseum",
+                  "text": "The Heimatmuseum in the Swiss town of Aadorf is dedicated to preserving local identity. Visitors dive deep into the traditions and historical development of Aadorf here. The collection impressively displays how life in the region has changed over time.",
+                  "category": "museum",
+                  "coords": [
+                        8.87309,
+                        47.488932
+                  ]
+            },
+            {
+                  "name": "Eggholz",
+                  "text": "A protected nature area with diverse flora and fauna.",
+                  "category": "natural",
+                  "coords": [
+                        8.895475,
+                        47.51617
+                  ]
+            },
+            {
+                  "name": "Tänikon",
+                  "text": "A historic site that was formerly the seat of a monastery.",
+                  "category": "religious",
+                  "coords": [
+                        8.907178,
+                        47.479387
+                  ]
+            },
+            {
+                  "name": "Reformierte Kirche St. Michael",
+                  "text": "The evangelical church of the community, dedicated to Saint Michael.",
+                  "category": "religious",
+                  "coords": [
+                        8.897671,
+                        47.492191
+                  ]
+            },
+            {
+                  "name": "Kirche St. Georg",
+                  "text": "A late Gothic church in the neighboring municipality of Elgg.",
+                  "category": "religious",
+                  "coords": [
+                        8.862535,
+                        47.492988
+                  ]
+            },
+            {
+                  "name": "Reformierte Kirche Elgg",
+                  "text": "The reformed church building in the historic center of Elgg.",
+                  "category": "religious",
+                  "coords": [
+                        8.867422,
+                        47.49013
+                  ]
+            },
+            {
+                  "name": "Heurütiweiher",
+                  "text": "A small pond in Aadorf, perfect for a quiet walk.",
+                  "category": "natural",
+                  "coords": [
+                        8.865035,
+                        47.472769
+                  ]
+            },
+            {
+                  "name": "Ziegeleiweiher",
+                  "text": "A body of water in Aadorf surrounded by beautiful nature for relaxing moments.",
+                  "category": "natural",
+                  "coords": [
+                        8.972455,
+                        47.461247
+                  ]
+            },
+            {
+                  "name": "Feuerwehrweiher",
+                  "text": "A quiet pond in Aadorf, well-suited for a short break in the countryside.",
+                  "category": "natural",
+                  "coords": [
+                        8.969444,
+                        47.461301
+                  ]
+            },
+            {
+                  "name": "Reservoir Undertuttwil",
+                  "text": "A reservoir near Aadorf in a quiet location.",
+                  "category": "natural",
+                  "coords": [
+                        8.943515,
+                        47.481277
+                  ]
+            },
+            {
+                  "name": "Hallenbad Aadorf",
+                  "text": "Aadorf indoor pool offers swimming opportunities in a covered facility.",
+                  "category": "family",
+                  "coords": [
+                        8.904786,
+                        47.493865
+                  ]
+            },
+            {
+                  "name": "Schloss Elgg",
+                  "text": "A well-preserved late Gothic moated castle located near Aadorf.",
+                  "category": "castle",
+                  "coords": [
+                        8.865858,
+                        47.483403
+                  ]
+            }
+      ]
+}, "type": "city", "parent": "CH-TG", "coords": [8.8973, 47.4894], "population": 9408, "image": "/geo-images/switzerland/ch-aadorf.webp", "name": {"de": "Aadorf", "hu": "Aadorf", "ro": "Aadorf", "en": "Aadorf"}, "description": {"de": "Aadorf ist eine einladende Gemeinde im Thurgau, die durch ihre idyllische Lage im Lützelmurgtal und ihre hervorragende Anbindung an Winterthur besticht.", "hu": "Aadorf egy barátságos település Thurgau kantonban, amely a Lützelmurg-völgy idilli környezetével és Winterthurhoz való kiváló közelségével tűnik ki.", "ro": "Aadorf este o municipalitate primitoare din Thurgau, care impresionează prin locația sa idilică în valea Lützelmurg și conexiunea excelentă cu Winterthur.", "en": "Aadorf is a welcoming municipality in Thurgau, boasting an idyllic location in the Lützelmurg valley and excellent connections to Winterthur."}, "facts": {"de": ["Liegt im Lützelmurgtal", "Grenzt an den Kanton Zürich", "Vielseitiger Wohnstandort", "Wasserschloss Hagenwil in der Nähe"], "hu": ["A Lützelmurg-völgyben fekszik", "Zürich kantonnal határos", "Sokoldalú lakóövezet", "A Hagenwil vízi kastély a közelben található"], "ro": ["Situat în valea Lützelmurg", "Se învecinează cu cantonul Zürich", "Zonă rezidențială versatilă", "Castelul pe apă Hagenwil se află în apropiere"], "en": ["Located in the Lützelmurg valley", "Borders the canton of Zurich", "Versatile residential location", "Hagenwil water castle nearby"]}, "descriptionAdvanced": {"de": "Aadorf liegt im äussersten Westen des Kantons Thurgau, eingebettet in die hügelige Landschaft des Hinterthurgaus. Die Gemeinde umfasst neben dem Hauptort Aadorf auch die Dörfer Ettenhausen, Guntershausen und Wittenwil. Durch das Gemeindegebiet fliesst die Lützelmurg, die der Region ihren charakteristischen Charme verleiht. Historisch war Aadorf lange von der Landwirtschaft und kleineren Handwerksbetrieben geprägt, erlebte jedoch im 19. Jahrhundert durch die Textilindustrie einen ersten Aufschwung. Heute präsentiert sich Aadorf als moderne, wachsende Gemeinde mit einer hohen Lebensqualität. Die Nähe zur Stadt Winterthur und die gute Anbindung an die Autobahn A1 machen Aadorf zu einem bevorzugten Wohnort für Familien und Berufstätige. Die Umgebung bietet vielfältige Erholungsmöglichkeiten mit ausgedehnten Wäldern, Wanderwegen und Radrouten. Wirtschaftlich ist die Gemeinde durch einen gesunden Mix aus Dienstleistungsbetrieben, Gewerbe und spezialisierter Industrie geprägt. Ein kultureller Höhepunkt in der Region ist das nahegelegene Wasserschloss Hagenwil, eines der besterhaltenen Wasserschlösser der Schweiz. Die Infrastruktur in Aadorf ist mit modernen Schulen, Sportanlagen und Einkaufsmöglichkeiten hervorragend ausgebaut. Das Dorfbild wird durch einen Mix aus historischen Gebäuden und zeitgenössischer Architektur geprägt, was den Wandel von der ländlichen Siedlung zum modernen Vorort widerspiegelt.", "hu": "Aadorf Thurgau kanton távoli nyugati részén fekszik, a Hinterthurgau dombos tájaiba ágyazva. A község Aadorf központi települése mellett Ettenhausen, Guntershausen és Wittenwil falvakat is magában foglalja. A település területén folyik keresztül a Lützelmurg folyó, amely a régiónak sajátos bájt kölcsönöz. Történelmileg Aadorfot sokáig a mezőgazdaság és a kisebb kézműves üzemek jellemezték, azonban a 19. században a textilipar révén érte el első fellendülését. Ma Aadorf modern, növekvő közösségként mutatkozik be, magas életminőséggel. Winterthur városának közelsége és az A1-es autópályához való jó csatlakozás Aadorfot a családok és a dolgozók kedvelt lakóhelyévé teszi. A környék sokféle kikapcsolódási lehetőséget kínál kiterjedt erdőkkel, túraútvonalakkal és kerékpárutakkal. Gazdaságilag a települést a szolgáltató szektor, a kisipar és a speciális iparágak egészséges keveréke jellemzi. A régió egyik kulturális fénypontja a közeli Hagenwil vízi kastély, amely Svájc egyik legjobban megőrzött vízi vára. Aadorf infrastruktúrája kiválóan kiépített modern iskolákkal, sportlétesítményekkel és bevásárlási lehetőségekkel. A faluképet a történelmi épületek és a kortárs építészet keveréke határozza meg, ami tükrözi a vidéki településből modern elővárossá való átalakulást.", "ro": "Aadorf este situat în extremitatea vestică a cantonului Thurgau, încadrat în peisajul colinar din Hinterthurgau. Comuna cuprinde, pe lângă localitatea principală Aadorf, și satele Ettenhausen, Guntershausen și Wittenwil. Prin teritoriul comunei curge râul Lützelmurg, care conferă regiunii farmecul său caracteristic. Din punct de vedere istoric, Aadorf a fost mult timp marcat de agricultură și mici ateliere meșteșugărești, dar a cunoscut un prim avânt în secolul al XIX-lea prin industria textilă. Astăzi, Aadorf se prezintă ca o municipalitate modernă, în creștere, cu o calitate ridicată a vieții. Proximitatea față de orașul Winterthur și conexiunea bună la autostrada A1 fac din Aadorf o locație rezidențială preferată pentru familii și profesioniști. Împrejurimile oferă diverse posibilități de recreere cu păduri întinse, trasee de drumeție și rute pentru biciclete. Economic, comuna este caracterizată de un mix sănătos de servicii, meșteșuguri și industrie specializată. Un punct culminant cultural în regiune este castelul pe apă Hagenwil din apropiere, unul dintre cele mai bine conservate casteluri pe apă din Elveția. Infrastructura din Aadorf este excelent dezvoltată, cu școli moderne, facilități sportive și posibilități de cumpărături. Aspectul satului este marcat de un mix de clădiri istorice și arhitectură contemporană, reflectând transformarea de la o așezare rurală la o suburbie modernă.", "en": "Aadorf is located in the far west of the canton of Thurgau, nestled in the hilly landscape of the Hinterthurgau. In addition to the main town of Aadorf, the municipality includes the villages of Ettenhausen, Guntershausen, and Wittenwil. The Lützelmurg river flows through the municipal territory, giving the region its characteristic charm. Historically, Aadorf was long dominated by agriculture and small craft businesses, but experienced its first boom in the 19th century through the textile industry. Today, Aadorf presents itself as a modern, growing community with a high quality of life. Proximity to the city of Winterthur and good access to the A1 motorway make Aadorf a preferred residential location for families and professionals. The surrounding area offers diverse recreational opportunities with extensive forests, hiking trails, and cycling routes. Economically, the municipality is characterized by a healthy mix of service providers, trades, and specialized industry. A cultural highlight in the region is the nearby Hagenwil water castle, one of the best-preserved moated castles in Switzerland. The infrastructure in Aadorf is excellently developed with modern schools, sports facilities, and shopping opportunities. The village landscape is shaped by a mix of historic buildings and contemporary architecture, reflecting the transformation from a rural settlement to a modern suburb."}, "factsAdvanced": {"de": ["Fläche von 19,9 Quadratkilometern", "Zweitwestlichste Gemeinde des Kantons Thurgau", "Bahnstation an der Linie Winterthur-Wil", "Besitzt ein beheiztes Freibad", "Fluss Lützelmurg mündet in die Murg", "Höchster Punkt auf 607 m ü. M."], "hu": ["Területe 19,9 négyzetkilométer", "Thurgau kanton második legnyugatibb községe", "Vasútállomás a Winterthur-Wil vonalon", "Fűtött szabadtéri stranddal rendelkezik", "A Lützelmurg folyó a Murgba torkollik", "Legmagasabb pontja 607 méteren található"], "ro": ["Suprafață de 19,9 kilometri pătrați", "A doua cea mai vestică comună din cantonul Thurgau", "Gară pe linia Winterthur-Wil", "Deține un ștrand în aer liber încălzit", "Râul Lützelmurg se varsă în Murg", "Punctul maxim la 607 m altitudine"], "en": ["Area of 19.9 square kilometers", "Second westernmost municipality in the canton of Thurgau", "Railway station on the Winterthur-Wil line", "Has a heated outdoor swimming pool", "Lützelmurg river flows into the Murg", "Highest point at 607 m above sea level"]}, "faq": {"de": [{"q": "Wo liegt Aadorf?", "a": "Aadorf liegt im Westen des Kantons Thurgau, nahe der Grenze zum Kanton Zürich."}, {"q": "Welche grössere Stadt liegt in der Nähe von Aadorf?", "a": "Winterthur ist die nächstgelegene grössere Stadt und schnell erreichbar."}, {"q": "Was bietet Aadorf für Familien?", "a": "Aadorf bietet gute Schulen, viel Natur, Sportanlagen und ein beheiztes Freibad."}, {"q": "Welcher Fluss fliesst durch Aadorf?", "a": "Die Lützelmurg fliesst durch das Gemeindegebiet von Aadorf."}], "hu": [{"q": "Hol található Aadorf?", "a": "Aadorf Thurgau kanton nyugati részén fekszik, közel Zürich kanton határához."}, {"q": "Melyik nagyobb város van Aadorf közelében?", "a": "Winterthur a legközelebbi nagyobb város, amely gyorsan elérhető."}, {"q": "Mit kínál Aadorf a családoknak?", "a": "Aadorf jó iskolákat, sok természetet, sportlétesítményeket és fűtött strandot kínál."}, {"q": "Melyik folyó folyik át Aadorfon?", "a": "A Lützelmurg folyó folyik keresztül Aadorf területén."}], "ro": [{"q": "Unde se află Aadorf?", "a": "Aadorf se află în vestul cantonului Thurgau, aproape de granița cu cantonul Zürich."}, {"q": "Ce oraș mai mare se află în apropiere de Aadorf?", "a": "Winterthur este cel mai apropiat oraș mare și este rapid accesibil."}, {"q": "Ce oferă Aadorf pentru familii?", "a": "Aadorf oferă școli bune, multă natură, facilități sportive și un ștrand încălzit."}, {"q": "Ce râu trece prin Aadorf?", "a": "Râul Lützelmurg trece prin teritoriul comunei Aadorf."}], "en": [{"q": "Where is Aadorf located?", "a": "Aadorf is located in the west of the canton of Thurgau, near the border with the canton of Zurich."}, {"q": "Which larger city is near Aadorf?", "a": "Winterthur is the closest major city and can be reached quickly."}, {"q": "What does Aadorf offer for families?", "a": "Aadorf offers good schools, plenty of nature, sports facilities, and a heated outdoor pool."}, {"q": "Which river flows through Aadorf?", "a": "The Lützelmurg flows through the municipality of Aadorf."}]}},
   {"id": "ch-neuenhof", "sights": {
       "de": [
             {
@@ -140961,6 +147243,15 @@ export const poiExtraAtChMissingV1: POI[] = [
                         8.459716,
                         47.150496
                   ]
+            },
+            {
+                  "name": "Schloss Sankt Andreas",
+                  "text": "Ein historisches Schlossgut in Hünenberg direkt am Ufer des Zugersees.",
+                  "category": "castle",
+                  "coords": [
+                        8.466224,
+                        47.178725
+                  ]
             }
       ],
       "hu": [
@@ -141160,6 +147451,15 @@ export const poiExtraAtChMissingV1: POI[] = [
                   "coords": [
                         8.459716,
                         47.150496
+                  ]
+            },
+            {
+                  "name": "Schloss Sankt Andreas",
+                  "text": "Történelmi kastélybirtok Hünenbergben, gemeinsam am Ufer des Zugersees.",
+                  "category": "castle",
+                  "coords": [
+                        8.466224,
+                        47.178725
                   ]
             }
       ],
@@ -141361,6 +147661,15 @@ export const poiExtraAtChMissingV1: POI[] = [
                         8.459716,
                         47.150496
                   ]
+            },
+            {
+                  "name": "Schloss Sankt Andreas",
+                  "text": "O proprietate istorică de tip castel în Hünenberg, situată pe malul lacului Zug.",
+                  "category": "castle",
+                  "coords": [
+                        8.466224,
+                        47.178725
+                  ]
             }
       ],
       "en": [
@@ -141560,6 +147869,15 @@ export const poiExtraAtChMissingV1: POI[] = [
                   "coords": [
                         8.459716,
                         47.150496
+                  ]
+            },
+            {
+                  "name": "Schloss Sankt Andreas",
+                  "text": "A historical castle estate in Hünenberg located directly on the shores of Lake Zug.",
+                  "category": "castle",
+                  "coords": [
+                        8.466224,
+                        47.178725
                   ]
             }
       ]
@@ -154663,6 +160981,15 @@ export const poiExtraAtChMissingV1: POI[] = [
                         8.364752,
                         47.379702
                   ]
+            },
+            {
+                  "name": "Benediktinerinnenkloster St. Martin",
+                  "text": "Das auch als Kloster Hermetschwil bekannte Benediktinerinnenkloster liegt an der Reuss.",
+                  "category": "landmark",
+                  "coords": [
+                        8.346225,
+                        47.334299
+                  ]
             }
       ],
       "hu": [
@@ -154844,6 +161171,15 @@ export const poiExtraAtChMissingV1: POI[] = [
                   "coords": [
                         8.364752,
                         47.379702
+                  ]
+            },
+            {
+                  "name": "Benediktinerinnenkloster St. Martin",
+                  "text": "A Hermetschwil-kolostorként is ismert bencés apácakolostor a Reuss partján fekszik.",
+                  "category": "landmark",
+                  "coords": [
+                        8.346225,
+                        47.334299
                   ]
             }
       ],
@@ -155027,6 +161363,15 @@ export const poiExtraAtChMissingV1: POI[] = [
                         8.364752,
                         47.379702
                   ]
+            },
+            {
+                  "name": "Benediktinerinnenkloster St. Martin",
+                  "text": "Mănăstirea benedictină, cunoscută și sub numele de Hermetschwil, este situată pe râul Reuss.",
+                  "category": "landmark",
+                  "coords": [
+                        8.346225,
+                        47.334299
+                  ]
             }
       ],
       "en": [
@@ -155208,6 +161553,15 @@ export const poiExtraAtChMissingV1: POI[] = [
                   "coords": [
                         8.364752,
                         47.379702
+                  ]
+            },
+            {
+                  "name": "Benediktinerinnenkloster St. Martin",
+                  "text": "The Benedictine convent, also known as Hermetschwil Abbey, is situated on the Reuss river.",
+                  "category": "landmark",
+                  "coords": [
+                        8.346225,
+                        47.334299
                   ]
             }
       ]
@@ -157267,6 +163621,15 @@ export const poiExtraAtChMissingV1: POI[] = [
                         7.394759,
                         47.278315
                   ]
+            },
+            {
+                  "name": "Gorges de Moutier",
+                  "text": "Eine beeindruckende Schlucht bei Moutier, bekannt für ihre Felsformationen.",
+                  "category": "landmark",
+                  "coords": [
+                        7.380615,
+                        47.291247
+                  ]
             }
       ],
       "hu": [
@@ -157403,6 +163766,15 @@ export const poiExtraAtChMissingV1: POI[] = [
                   "coords": [
                         7.394759,
                         47.278315
+                  ]
+            },
+            {
+                  "name": "Gorges de Moutier",
+                  "text": "Lenyűgöző szurdok Moutier közelében, amely sziklaalakzatairól ismert.",
+                  "category": "landmark",
+                  "coords": [
+                        7.380615,
+                        47.291247
                   ]
             }
       ],
@@ -157541,6 +163913,15 @@ export const poiExtraAtChMissingV1: POI[] = [
                         7.394759,
                         47.278315
                   ]
+            },
+            {
+                  "name": "Gorges de Moutier",
+                  "text": "Un defileu impresionant lângă Moutier, cunoscut pentru formațiunile sale stâncoase.",
+                  "category": "landmark",
+                  "coords": [
+                        7.380615,
+                        47.291247
+                  ]
             }
       ],
       "en": [
@@ -157677,6 +164058,15 @@ export const poiExtraAtChMissingV1: POI[] = [
                   "coords": [
                         7.394759,
                         47.278315
+                  ]
+            },
+            {
+                  "name": "Gorges de Moutier",
+                  "text": "An impressive gorge near Moutier known for its striking rock formations.",
+                  "category": "landmark",
+                  "coords": [
+                        7.380615,
+                        47.291247
                   ]
             }
       ]

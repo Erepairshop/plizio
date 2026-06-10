@@ -95,7 +95,304 @@ imageHint: "Antwerp Diamond District street view with jewelry shops",
     },
     image: "/poi-images/belgium-antwerp-diamond-district-economic-v2.webp",
 },  {
-    id: "belgium-doel-nuclear-plant-economic-v2",
+    id: "belgium-doel-nuclear-plant-economic-v2", "sights": {
+      "de": [
+            {
+                  "name": "Hedwigepolder",
+                  "text": "Ein grenzüberschreitendes Naturschutzgebiet an der Schelde.",
+                  "category": "natural",
+                  "coords": [
+                        4.213687,
+                        51.341083
+                  ]
+            },
+            {
+                  "name": "PolderMAS",
+                  "text": "Ein Museum über die Geschichte der Polderlandschaft bei Doel.",
+                  "category": "museum",
+                  "coords": [
+                        4.235697,
+                        51.335035
+                  ]
+            },
+            {
+                  "name": "Kasteel Reigershof",
+                  "text": "Ein Schlossgebäude in der Polderregion in der Nähe von Doel.",
+                  "category": "castle",
+                  "coords": [
+                        4.313722,
+                        51.339349
+                  ]
+            },
+            {
+                  "name": "Infocentrum Hedwigepolder",
+                  "text": "Ein Informationszentrum über das Naturschutzprojekt Hedwigepolder.",
+                  "category": "museum",
+                  "coords": [
+                        4.227777,
+                        51.328351
+                  ]
+            },
+            {
+                  "name": "Schor van Ouden Doel",
+                  "text": "Ein Naturschutzgebiet mit Gezeitenlandschaft an der Schelde.",
+                  "category": "natural",
+                  "coords": [
+                        4.246386,
+                        51.340196
+                  ]
+            },
+            {
+                  "name": "Groot Buitenschoor",
+                  "text": "Ein wertvolles Brackwasser-Naturschutzgebiet in der Nähe von Doel.",
+                  "category": "natural",
+                  "coords": [
+                        4.239132,
+                        51.365954
+                  ]
+            },
+            {
+                  "name": "Prosperpolder Noord",
+                  "text": "Ein Naturschutzgebiet in der Polderlandschaft bei Doel.",
+                  "category": "natural",
+                  "coords": [
+                        4.229085,
+                        51.336596
+                  ]
+            },
+            {
+                  "name": "Doelpolder Noord en Brakke Kreek",
+                  "text": "Ein Naturschutzgebiet mit Wasserflächen in der Nähe des Kraftwerks Doel.",
+                  "category": "natural",
+                  "coords": [
+                        4.239338,
+                        51.330766
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Hedwigepolder",
+                  "text": "Határon átnyúló természetvédelmi terület a Schelde folyónál.",
+                  "category": "natural",
+                  "coords": [
+                        4.213687,
+                        51.341083
+                  ]
+            },
+            {
+                  "name": "PolderMAS",
+                  "text": "A Doel környéki polder táj történelmét bemutató múzeum.",
+                  "category": "museum",
+                  "coords": [
+                        4.235697,
+                        51.335035
+                  ]
+            },
+            {
+                  "name": "Kasteel Reigershof",
+                  "text": "Kastélyépület a polder régióban, Doel közelében.",
+                  "category": "castle",
+                  "coords": [
+                        4.313722,
+                        51.339349
+                  ]
+            },
+            {
+                  "name": "Infocentrum Hedwigepolder",
+                  "text": "A Hedwigepolder természetvédelmi projekt információs központja.",
+                  "category": "museum",
+                  "coords": [
+                        4.227777,
+                        51.328351
+                  ]
+            },
+            {
+                  "name": "Schor van Ouden Doel",
+                  "text": "Árapály-mocsaras természetvédelmi terület a Schelde mentén.",
+                  "category": "natural",
+                  "coords": [
+                        4.246386,
+                        51.340196
+                  ]
+            },
+            {
+                  "name": "Groot Buitenschoor",
+                  "text": "Értékes brakkvízi természetvédelmi terület Doel közelében.",
+                  "category": "natural",
+                  "coords": [
+                        4.239132,
+                        51.365954
+                  ]
+            },
+            {
+                  "name": "Prosperpolder Noord",
+                  "text": "Természetvédelmi terület a Doel melletti polder tájon.",
+                  "category": "natural",
+                  "coords": [
+                        4.229085,
+                        51.336596
+                  ]
+            },
+            {
+                  "name": "Doelpolder Noord en Brakke Kreek",
+                  "text": "Vizes élőhelyeket magában foglaló természetvédelmi terület a doeli erőmű közelében.",
+                  "category": "natural",
+                  "coords": [
+                        4.239338,
+                        51.330766
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Hedwigepolder",
+                  "text": "O rezervație naturală transfrontalieră pe râul Escaut.",
+                  "category": "natural",
+                  "coords": [
+                        4.213687,
+                        51.341083
+                  ]
+            },
+            {
+                  "name": "PolderMAS",
+                  "text": "Un muzeu despre istoria peisajului polderelor de lângă Doel.",
+                  "category": "museum",
+                  "coords": [
+                        4.235697,
+                        51.335035
+                  ]
+            },
+            {
+                  "name": "Kasteel Reigershof",
+                  "text": "O clădire de castel în regiunea polderelor, lângă Doel.",
+                  "category": "castle",
+                  "coords": [
+                        4.313722,
+                        51.339349
+                  ]
+            },
+            {
+                  "name": "Infocentrum Hedwigepolder",
+                  "text": "Un centru de informare despre proiectul natural Hedwigepolder.",
+                  "category": "museum",
+                  "coords": [
+                        4.227777,
+                        51.328351
+                  ]
+            },
+            {
+                  "name": "Schor van Ouden Doel",
+                  "text": "O rezervație naturală cu mlaștini de maree de-a lungul râului Escaut.",
+                  "category": "natural",
+                  "coords": [
+                        4.246386,
+                        51.340196
+                  ]
+            },
+            {
+                  "name": "Groot Buitenschoor",
+                  "text": "O valoroasă rezervație naturală de apă salmastră lângă Doel.",
+                  "category": "natural",
+                  "coords": [
+                        4.239132,
+                        51.365954
+                  ]
+            },
+            {
+                  "name": "Prosperpolder Noord",
+                  "text": "O rezervație naturală în peisajul polderelor de lângă Doel.",
+                  "category": "natural",
+                  "coords": [
+                        4.229085,
+                        51.336596
+                  ]
+            },
+            {
+                  "name": "Doelpolder Noord en Brakke Kreek",
+                  "text": "O rezervație naturală cu zone umede lângă centrala nucleară Doel.",
+                  "category": "natural",
+                  "coords": [
+                        4.239338,
+                        51.330766
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Hedwigepolder",
+                  "text": "A cross-border nature reserve located along the Scheldt river.",
+                  "category": "natural",
+                  "coords": [
+                        4.213687,
+                        51.341083
+                  ]
+            },
+            {
+                  "name": "PolderMAS",
+                  "text": "A museum about the history of the polder landscape near Doel.",
+                  "category": "museum",
+                  "coords": [
+                        4.235697,
+                        51.335035
+                  ]
+            },
+            {
+                  "name": "Kasteel Reigershof",
+                  "text": "A castle building in the polder region near Doel.",
+                  "category": "castle",
+                  "coords": [
+                        4.313722,
+                        51.339349
+                  ]
+            },
+            {
+                  "name": "Infocentrum Hedwigepolder",
+                  "text": "An information center about the Hedwigepolder nature project.",
+                  "category": "museum",
+                  "coords": [
+                        4.227777,
+                        51.328351
+                  ]
+            },
+            {
+                  "name": "Schor van Ouden Doel",
+                  "text": "A nature reserve with tidal marshes along the Scheldt river.",
+                  "category": "natural",
+                  "coords": [
+                        4.246386,
+                        51.340196
+                  ]
+            },
+            {
+                  "name": "Groot Buitenschoor",
+                  "text": "A valuable brackish water nature reserve located near Doel.",
+                  "category": "natural",
+                  "coords": [
+                        4.239132,
+                        51.365954
+                  ]
+            },
+            {
+                  "name": "Prosperpolder Noord",
+                  "text": "A nature reserve in the polder landscape near Doel.",
+                  "category": "natural",
+                  "coords": [
+                        4.229085,
+                        51.336596
+                  ]
+            },
+            {
+                  "name": "Doelpolder Noord en Brakke Kreek",
+                  "text": "A nature reserve with wetlands located near the Doel power plant.",
+                  "category": "natural",
+                  "coords": [
+                        4.239338,
+                        51.330766
+                  ]
+            }
+      ]
+},
     parent: "BE",
     type: "industry",
     name: { de: "Kernkraftwerk Doel", hu: "Doeli atomerőmű", ro: "Centrala Nucleară de la Doel", en: "Doel Nuclear Power Plant"},
@@ -1755,7 +2052,304 @@ imageHint: "Modern office park and logistics warehouses in Nivelles",
     image: "/poi-images/belgium-gembloux-agritech-economic-v2.webp",
   },
   {
-    id: "belgium-tessenderlo-chemical-economic-v2",
+    id: "belgium-tessenderlo-chemical-economic-v2", "sights": {
+      "de": [
+            {
+                  "name": "LOMAK",
+                  "text": "Ein Museum in Tessenderlo, das sich mit der lokalen Geschichte oder Kunst befasst.",
+                  "category": "museum",
+                  "coords": [
+                        5.088203,
+                        51.0677
+                  ]
+            },
+            {
+                  "name": "Bosmuseum Gerhagen",
+                  "text": "Ein Waldmuseum im Naturgebiet Gerhagen, das die lokale Flora und Fauna zeigt.",
+                  "category": "museum",
+                  "coords": [
+                        5.036093,
+                        51.052637
+                  ]
+            },
+            {
+                  "name": "De Kapel Heemkundige Kring",
+                  "text": "Ein ehemaliges religiöses Gebäude, das heute oft für lokale historische Zwecke genutzt wird.",
+                  "category": "religious",
+                  "coords": [
+                        5.095726,
+                        51.038081
+                  ]
+            },
+            {
+                  "name": "Kinderboerderij Juffertje in't Groen",
+                  "text": "Ein Streichelzoo und Bildungsbauernhof für Kinder in Tessenderlo.",
+                  "category": "recreational",
+                  "coords": [
+                        5.093782,
+                        51.077225
+                  ]
+            },
+            {
+                  "name": "Kasteel Meerlaer",
+                  "text": "Ein historisches Schlossgut in der Gemeinde Tessenderlo.",
+                  "category": "castle",
+                  "coords": [
+                        5.088737,
+                        51.091085
+                  ]
+            },
+            {
+                  "name": "Het LOO Cultuurhuis",
+                  "text": "Ein Kulturzentrum in Tessenderlo, das Ausstellungen und Veranstaltungen beherbergt.",
+                  "category": "cultural",
+                  "coords": [
+                        5.089889,
+                        51.070082
+                  ]
+            },
+            {
+                  "name": "Oude Molen",
+                  "text": "Eine historische Windmühle, die als Denkmal in Tessenderlo erhalten ist.",
+                  "category": "landmark",
+                  "coords": [
+                        5.091197,
+                        51.060081
+                  ]
+            },
+            {
+                  "name": "VVV-toren",
+                  "text": "Ein Aussichtsturm, der Besuchern einen Blick über die Umgebung von Tessenderlo ermöglicht.",
+                  "category": "natural",
+                  "coords": [
+                        5.037256,
+                        51.052987
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "LOMAK",
+                  "text": "Múzeum Tessenderlo városában, amely a helyi történelemmel vagy művészettel foglalkozik.",
+                  "category": "museum",
+                  "coords": [
+                        5.088203,
+                        51.0677
+                  ]
+            },
+            {
+                  "name": "Bosmuseum Gerhagen",
+                  "text": "Erdőmúzeum a Gerhagen természetvédelmi területen, amely a helyi növény- és állatvilágot mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        5.036093,
+                        51.052637
+                  ]
+            },
+            {
+                  "name": "De Kapel Heemkundige Kring",
+                  "text": "Egykori vallási épület, amelyet ma gyakran helytörténeti célokra használnak.",
+                  "category": "religious",
+                  "coords": [
+                        5.095726,
+                        51.038081
+                  ]
+            },
+            {
+                  "name": "Kinderboerderij Juffertje in't Groen",
+                  "text": "Állatsimogató és oktatófarm gyerekeknek Tessenderlo városában.",
+                  "category": "recreational",
+                  "coords": [
+                        5.093782,
+                        51.077225
+                  ]
+            },
+            {
+                  "name": "Kasteel Meerlaer",
+                  "text": "Történelmi kastélybirtok Tessenderlo községben.",
+                  "category": "castle",
+                  "coords": [
+                        5.088737,
+                        51.091085
+                  ]
+            },
+            {
+                  "name": "Het LOO Cultuurhuis",
+                  "text": "Kulturális központ Tessenderlóban, amely kiállításoknak és eseményeknek ad otthont.",
+                  "category": "cultural",
+                  "coords": [
+                        5.089889,
+                        51.070082
+                  ]
+            },
+            {
+                  "name": "Oude Molen",
+                  "text": "Történelmi szélmalom, amely műemlékként maradt fenn Tessenderlóban.",
+                  "category": "landmark",
+                  "coords": [
+                        5.091197,
+                        51.060081
+                  ]
+            },
+            {
+                  "name": "VVV-toren",
+                  "text": "Kilátótorony, amely kilátást nyújt a látogatóknak Tessenderlo környékére.",
+                  "category": "natural",
+                  "coords": [
+                        5.037256,
+                        51.052987
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "LOMAK",
+                  "text": "Un muzeu din Tessenderlo care se ocupă cu istoria sau arta locală.",
+                  "category": "museum",
+                  "coords": [
+                        5.088203,
+                        51.0677
+                  ]
+            },
+            {
+                  "name": "Bosmuseum Gerhagen",
+                  "text": "Un muzeu al pădurii în zona naturală Gerhagen, prezentând flora și fauna locală.",
+                  "category": "museum",
+                  "coords": [
+                        5.036093,
+                        51.052637
+                  ]
+            },
+            {
+                  "name": "De Kapel Heemkundige Kring",
+                  "text": "O fostă clădire religioasă, utilizată astăzi adesea în scopuri istorice locale.",
+                  "category": "religious",
+                  "coords": [
+                        5.095726,
+                        51.038081
+                  ]
+            },
+            {
+                  "name": "Kinderboerderij Juffertje in't Groen",
+                  "text": "O grădină zoologică cu animale de mângâiat și o fermă educațională pentru copii în Tessenderlo.",
+                  "category": "recreational",
+                  "coords": [
+                        5.093782,
+                        51.077225
+                  ]
+            },
+            {
+                  "name": "Kasteel Meerlaer",
+                  "text": "Un domeniu istoric cu castel în comuna Tessenderlo.",
+                  "category": "castle",
+                  "coords": [
+                        5.088737,
+                        51.091085
+                  ]
+            },
+            {
+                  "name": "Het LOO Cultuurhuis",
+                  "text": "Un centru cultural din Tessenderlo care găzduiește expoziții și evenimente.",
+                  "category": "cultural",
+                  "coords": [
+                        5.089889,
+                        51.070082
+                  ]
+            },
+            {
+                  "name": "Oude Molen",
+                  "text": "O moară de vânt istorică, păstrată ca monument în Tessenderlo.",
+                  "category": "landmark",
+                  "coords": [
+                        5.091197,
+                        51.060081
+                  ]
+            },
+            {
+                  "name": "VVV-toren",
+                  "text": "Un turn de observație care permite vizitatorilor să vadă împrejurimile orașului Tessenderlo.",
+                  "category": "natural",
+                  "coords": [
+                        5.037256,
+                        51.052987
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "LOMAK",
+                  "text": "A museum in Tessenderlo focusing on local history or art.",
+                  "category": "museum",
+                  "coords": [
+                        5.088203,
+                        51.0677
+                  ]
+            },
+            {
+                  "name": "Bosmuseum Gerhagen",
+                  "text": "A forest museum in the Gerhagen nature area showcasing local flora and fauna.",
+                  "category": "museum",
+                  "coords": [
+                        5.036093,
+                        51.052637
+                  ]
+            },
+            {
+                  "name": "De Kapel Heemkundige Kring",
+                  "text": "A former religious building, now often used for local historical purposes.",
+                  "category": "religious",
+                  "coords": [
+                        5.095726,
+                        51.038081
+                  ]
+            },
+            {
+                  "name": "Kinderboerderij Juffertje in't Groen",
+                  "text": "A petting zoo and educational farm for children in Tessenderlo.",
+                  "category": "recreational",
+                  "coords": [
+                        5.093782,
+                        51.077225
+                  ]
+            },
+            {
+                  "name": "Kasteel Meerlaer",
+                  "text": "A historical castle estate located in the Tessenderlo municipality.",
+                  "category": "castle",
+                  "coords": [
+                        5.088737,
+                        51.091085
+                  ]
+            },
+            {
+                  "name": "Het LOO Cultuurhuis",
+                  "text": "A cultural centre in Tessenderlo that hosts exhibitions and events.",
+                  "category": "cultural",
+                  "coords": [
+                        5.089889,
+                        51.070082
+                  ]
+            },
+            {
+                  "name": "Oude Molen",
+                  "text": "A historic windmill preserved as a monument in Tessenderlo.",
+                  "category": "landmark",
+                  "coords": [
+                        5.091197,
+                        51.060081
+                  ]
+            },
+            {
+                  "name": "VVV-toren",
+                  "text": "An observation tower allowing visitors to view the surroundings of Tessenderlo.",
+                  "category": "natural",
+                  "coords": [
+                        5.037256,
+                        51.052987
+                  ]
+            }
+      ]
+},
     type: "industry",
     parent: "BE",
     name: { de: "Chemiepark Tessenderlo", hu: "Tessenderlo vegyipari park", ro: "Parc chimic Tessenderlo", en: "Tessenderlo Chemical Park" },

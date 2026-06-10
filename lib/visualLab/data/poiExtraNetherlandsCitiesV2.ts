@@ -1498,6 +1498,78 @@ export const netherlandsCitiesV2: POI[] = [
                         5.405702,
                         52.14352
                   ]
+            },
+            {
+                  "name": "Rietveldpaviljoen",
+                  "text": "Ein von Gerrit Rietveld entworfener Pavillon für zeitgenössische Kunst.",
+                  "category": "museum",
+                  "coords": [
+                        5.38403,
+                        52.151791
+                  ]
+            },
+            {
+                  "name": "Mondriaanhuis",
+                  "text": "Das Geburtshaus von Piet Mondrian, das heute als Museum für seine Werke dient.",
+                  "category": "museum",
+                  "coords": [
+                        5.39038,
+                        52.154748
+                  ]
+            },
+            {
+                  "name": "Nationaal Monument Kamp Amersfoort",
+                  "text": "Eine Gedenkstätte und ein Museum auf dem Gelände eines ehemaligen Konzentrationslagers.",
+                  "category": "museum",
+                  "coords": [
+                        5.36531,
+                        52.132332
+                  ]
+            },
+            {
+                  "name": "Museum Flehite",
+                  "text": "Ein Regionalmuseum in Amersfoort, das in historischen Gebäuden untergebracht ist.",
+                  "category": "museum",
+                  "coords": [
+                        5.386547,
+                        52.157716
+                  ]
+            },
+            {
+                  "name": "Cavaleriemuseum",
+                  "text": "Das niederländische Kavallerie-Museum befindet sich in der Bernhardkaserne.",
+                  "category": "museum",
+                  "coords": [
+                        5.352989,
+                        52.148871
+                  ]
+            },
+            {
+                  "name": "Musiom",
+                  "text": "Ein Museum für zeitgenössische Kunst in Amersfoort.",
+                  "category": "museum",
+                  "coords": [
+                        5.3906,
+                        52.152317
+                  ]
+            },
+            {
+                  "name": "De Lieve Vrouw",
+                  "text": "Ein Theater- und Filmzentrum im Herzen der Stadt.",
+                  "category": "cultural",
+                  "coords": [
+                        5.388247,
+                        52.155435
+                  ]
+            },
+            {
+                  "name": "Werk aan de Glashut",
+                  "text": "Ein ehemaliges Verteidigungswerk der Grebbe-Linie.",
+                  "category": "fortress",
+                  "coords": [
+                        5.372579,
+                        52.168098
+                  ]
             }
       ],
       "hu": [
@@ -1526,6 +1598,78 @@ export const netherlandsCitiesV2: POI[] = [
                   "coords": [
                         5.405702,
                         52.14352
+                  ]
+            },
+            {
+                  "name": "Rietveldpaviljoen",
+                  "text": "Gerrit Rietveld által tervezett modern művészeti pavilon.",
+                  "category": "museum",
+                  "coords": [
+                        5.38403,
+                        52.151791
+                  ]
+            },
+            {
+                  "name": "Mondriaanhuis",
+                  "text": "Piet Mondrian szülőháza, amely ma műveit bemutató múzeum.",
+                  "category": "museum",
+                  "coords": [
+                        5.39038,
+                        52.154748
+                  ]
+            },
+            {
+                  "name": "Nationaal Monument Kamp Amersfoort",
+                  "text": "Emlékhely és múzeum egy egykori koncentrációs tábor területén.",
+                  "category": "museum",
+                  "coords": [
+                        5.36531,
+                        52.132332
+                  ]
+            },
+            {
+                  "name": "Museum Flehite",
+                  "text": "Amersfoort helytörténeti múzeuma, amely történelmi épületekben kapott helyet.",
+                  "category": "museum",
+                  "coords": [
+                        5.386547,
+                        52.157716
+                  ]
+            },
+            {
+                  "name": "Cavaleriemuseum",
+                  "text": "A holland lovassági múzeum a Bernhard-laktanyában található.",
+                  "category": "museum",
+                  "coords": [
+                        5.352989,
+                        52.148871
+                  ]
+            },
+            {
+                  "name": "Musiom",
+                  "text": "Kortárs művészeti múzeum Amersfoortban.",
+                  "category": "museum",
+                  "coords": [
+                        5.3906,
+                        52.152317
+                  ]
+            },
+            {
+                  "name": "De Lieve Vrouw",
+                  "text": "Színházi és filmes kulturális központ a város szívében.",
+                  "category": "cultural",
+                  "coords": [
+                        5.388247,
+                        52.155435
+                  ]
+            },
+            {
+                  "name": "Werk aan de Glashut",
+                  "text": "A Grebbe-vonal egykori védelmi erődítménye.",
+                  "category": "fortress",
+                  "coords": [
+                        5.372579,
+                        52.168098
                   ]
             }
       ],
@@ -1556,6 +1700,78 @@ export const netherlandsCitiesV2: POI[] = [
                         5.405702,
                         52.14352
                   ]
+            },
+            {
+                  "name": "Rietveldpaviljoen",
+                  "text": "Un pavilion de artă contemporană proiectat de Gerrit Rietveld.",
+                  "category": "museum",
+                  "coords": [
+                        5.38403,
+                        52.151791
+                  ]
+            },
+            {
+                  "name": "Mondriaanhuis",
+                  "text": "Casa natală a lui Piet Mondrian, devenită astăzi muzeu dedicat operei sale.",
+                  "category": "museum",
+                  "coords": [
+                        5.39038,
+                        52.154748
+                  ]
+            },
+            {
+                  "name": "Nationaal Monument Kamp Amersfoort",
+                  "text": "Un monument și muzeu situat pe locul unui fost lagăr de concentrare.",
+                  "category": "museum",
+                  "coords": [
+                        5.36531,
+                        52.132332
+                  ]
+            },
+            {
+                  "name": "Museum Flehite",
+                  "text": "Muzeul de istorie locală din Amersfoort, găzduit în clădiri istorice.",
+                  "category": "museum",
+                  "coords": [
+                        5.386547,
+                        52.157716
+                  ]
+            },
+            {
+                  "name": "Cavaleriemuseum",
+                  "text": "Muzeul cavaleriei olandeze, situat în incinta cazărmii Bernhard.",
+                  "category": "museum",
+                  "coords": [
+                        5.352989,
+                        52.148871
+                  ]
+            },
+            {
+                  "name": "Musiom",
+                  "text": "Un muzeu de artă contemporană din Amersfoort.",
+                  "category": "museum",
+                  "coords": [
+                        5.3906,
+                        52.152317
+                  ]
+            },
+            {
+                  "name": "De Lieve Vrouw",
+                  "text": "Un centru cultural pentru teatru și film în inima orașului.",
+                  "category": "cultural",
+                  "coords": [
+                        5.388247,
+                        52.155435
+                  ]
+            },
+            {
+                  "name": "Werk aan de Glashut",
+                  "text": "O fostă fortificație militară care face parte din linia Grebbe.",
+                  "category": "fortress",
+                  "coords": [
+                        5.372579,
+                        52.168098
+                  ]
             }
       ],
       "en": [
@@ -1584,6 +1800,78 @@ export const netherlandsCitiesV2: POI[] = [
                   "coords": [
                         5.405702,
                         52.14352
+                  ]
+            },
+            {
+                  "name": "Rietveldpaviljoen",
+                  "text": "A contemporary art pavilion designed by architect Gerrit Rietveld.",
+                  "category": "museum",
+                  "coords": [
+                        5.38403,
+                        52.151791
+                  ]
+            },
+            {
+                  "name": "Mondriaanhuis",
+                  "text": "The birthplace of Piet Mondrian, now a museum dedicated to his life and work.",
+                  "category": "museum",
+                  "coords": [
+                        5.39038,
+                        52.154748
+                  ]
+            },
+            {
+                  "name": "Nationaal Monument Kamp Amersfoort",
+                  "text": "A memorial and museum located on the site of a former transit camp.",
+                  "category": "museum",
+                  "coords": [
+                        5.36531,
+                        52.132332
+                  ]
+            },
+            {
+                  "name": "Museum Flehite",
+                  "text": "A regional history museum in Amersfoort housed in historic buildings.",
+                  "category": "museum",
+                  "coords": [
+                        5.386547,
+                        52.157716
+                  ]
+            },
+            {
+                  "name": "Cavaleriemuseum",
+                  "text": "The Dutch Cavalry Museum, located within the Bernhard barracks.",
+                  "category": "museum",
+                  "coords": [
+                        5.352989,
+                        52.148871
+                  ]
+            },
+            {
+                  "name": "Musiom",
+                  "text": "A museum for contemporary art located in Amersfoort.",
+                  "category": "museum",
+                  "coords": [
+                        5.3906,
+                        52.152317
+                  ]
+            },
+            {
+                  "name": "De Lieve Vrouw",
+                  "text": "A theatre and cinema cultural centre in the heart of the city.",
+                  "category": "cultural",
+                  "coords": [
+                        5.388247,
+                        52.155435
+                  ]
+            },
+            {
+                  "name": "Werk aan de Glashut",
+                  "text": "A former defensive fortification part of the Grebbe Line.",
+                  "category": "fortress",
+                  "coords": [
+                        5.372579,
+                        52.168098
                   ]
             }
       ]
@@ -8595,6 +8883,60 @@ export const netherlandsCitiesV2: POI[] = [
                         4.655805,
                         52.132047
                   ]
+            },
+            {
+                  "name": "Theater Castellum",
+                  "text": "Ein bekanntes Theater und Kino in Alphen aan den Rijn mit einem vielfältigen Kulturprogramm.",
+                  "category": "cultural",
+                  "coords": [
+                        4.662045,
+                        52.129498
+                  ]
+            },
+            {
+                  "name": "Zaanse Rietveld",
+                  "text": "Ein malerisches Naturschutzgebiet bei Alphen aan den Rijn, ideal zur Vogelbeobachtung und zum Wandern.",
+                  "category": "natural",
+                  "coords": [
+                        4.657708,
+                        52.106666
+                  ]
+            },
+            {
+                  "name": "Archeologiehuis Zuid-Holland",
+                  "text": "Dieses Museum in Alphen aan den Rijn zeigt archäologische Funde aus der Provinz Südholland.",
+                  "category": "museum",
+                  "coords": [
+                        4.651704,
+                        52.11407
+                  ]
+            },
+            {
+                  "name": "Korenmolen De Eendracht",
+                  "text": "Eine traditionelle Windmühle aus dem 18. Jahrhundert in Alphen aan den Rijn, die heute noch in Betrieb ist.",
+                  "category": "landmark",
+                  "coords": [
+                        4.670255,
+                        52.11973
+                  ]
+            },
+            {
+                  "name": "Romeins vrachtschip",
+                  "text": "Eine Attraktion in Alphen aan den Rijn mit einem rekonstruierten oder erhaltenen antiken römischen Frachtschiff.",
+                  "category": "landmark",
+                  "coords": [
+                        4.646929,
+                        52.115759
+                  ]
+            },
+            {
+                  "name": "Galerie Alphen Art",
+                  "text": "Ein Kunstzentrum in Alphen aan den Rijn, das lokale Künstler fördert und kreative Workshops veranstaltet.",
+                  "category": "cultural",
+                  "coords": [
+                        4.664815,
+                        52.129717
+                  ]
             }
       ],
       "hu": [
@@ -8776,6 +9118,60 @@ export const netherlandsCitiesV2: POI[] = [
                   "coords": [
                         4.655805,
                         52.132047
+                  ]
+            },
+            {
+                  "name": "Theater Castellum",
+                  "text": "Alphen aan den Rijn jelentős színháza és mozija, amely változatos kulturális programokat kínál.",
+                  "category": "cultural",
+                  "coords": [
+                        4.662045,
+                        52.129498
+                  ]
+            },
+            {
+                  "name": "Zaanse Rietveld",
+                  "text": "Festői természetvédelmi terület Alphen aan den Rijn közelében, amely ideális madármegfigyelésre és sétákra.",
+                  "category": "natural",
+                  "coords": [
+                        4.657708,
+                        52.106666
+                  ]
+            },
+            {
+                  "name": "Archeologiehuis Zuid-Holland",
+                  "text": "Ez az Alphen aan den Rijn-i múzeum Dél-Holland tartomány régészeti leleteit mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        4.651704,
+                        52.11407
+                  ]
+            },
+            {
+                  "name": "Korenmolen De Eendracht",
+                  "text": "Hagyományos, 18. századi szélmalom Alphen aan den Rijnben, amely ma is működőképes.",
+                  "category": "landmark",
+                  "coords": [
+                        4.670255,
+                        52.11973
+                  ]
+            },
+            {
+                  "name": "Romeins vrachtschip",
+                  "text": "Alphen aan den Rijn egyik látványossága, amely egy rekonstruált vagy megőrzött ókori római teherhajót mutat be.",
+                  "category": "landmark",
+                  "coords": [
+                        4.646929,
+                        52.115759
+                  ]
+            },
+            {
+                  "name": "Galerie Alphen Art",
+                  "text": "Művészeti központ Alphen aan den Rijnben, amely helyi művészeket népszerűsít és kreatív műhelyeknek ad otthont.",
+                  "category": "cultural",
+                  "coords": [
+                        4.664815,
+                        52.129717
                   ]
             }
       ],
@@ -8959,6 +9355,60 @@ export const netherlandsCitiesV2: POI[] = [
                         4.655805,
                         52.132047
                   ]
+            },
+            {
+                  "name": "Theater Castellum",
+                  "text": "Un teatru și cinematograf proeminent din Alphen aan den Rijn, care oferă o programare culturală diversă.",
+                  "category": "cultural",
+                  "coords": [
+                        4.662045,
+                        52.129498
+                  ]
+            },
+            {
+                  "name": "Zaanse Rietveld",
+                  "text": "O rezervație naturală pitorească lângă Alphen aan den Rijn, ideală pentru observarea păsărilor și plimbări.",
+                  "category": "natural",
+                  "coords": [
+                        4.657708,
+                        52.106666
+                  ]
+            },
+            {
+                  "name": "Archeologiehuis Zuid-Holland",
+                  "text": "Acest muzeu din Alphen aan den Rijn expune descoperiri arheologice din provincia Olanda de Sud.",
+                  "category": "museum",
+                  "coords": [
+                        4.651704,
+                        52.11407
+                  ]
+            },
+            {
+                  "name": "Korenmolen De Eendracht",
+                  "text": "O moară de vânt tradițională din secolul al XVIII-lea în Alphen aan den Rijn, care este încă operațională și astăzi.",
+                  "category": "landmark",
+                  "coords": [
+                        4.670255,
+                        52.11973
+                  ]
+            },
+            {
+                  "name": "Romeins vrachtschip",
+                  "text": "O atracție din Alphen aan den Rijn care prezintă o navă de marfă romană antică reconstruită sau conservată.",
+                  "category": "landmark",
+                  "coords": [
+                        4.646929,
+                        52.115759
+                  ]
+            },
+            {
+                  "name": "Galerie Alphen Art",
+                  "text": "Un centru de artă din Alphen aan den Rijn care promovează artiștii locali și găzduiește ateliere creative.",
+                  "category": "cultural",
+                  "coords": [
+                        4.664815,
+                        52.129717
+                  ]
             }
       ],
       "en": [
@@ -9141,6 +9591,60 @@ export const netherlandsCitiesV2: POI[] = [
                         4.655805,
                         52.132047
                   ]
+            },
+            {
+                  "name": "Theater Castellum",
+                  "text": "A prominent theatre and cinema in Alphen aan den Rijn offering diverse cultural programming.",
+                  "category": "cultural",
+                  "coords": [
+                        4.662045,
+                        52.129498
+                  ]
+            },
+            {
+                  "name": "Zaanse Rietveld",
+                  "text": "A scenic nature reserve near Alphen aan den Rijn ideal for birdwatching and walking.",
+                  "category": "natural",
+                  "coords": [
+                        4.657708,
+                        52.106666
+                  ]
+            },
+            {
+                  "name": "Archeologiehuis Zuid-Holland",
+                  "text": "This museum in Alphen aan den Rijn displays archaeological finds from the province of South Holland.",
+                  "category": "museum",
+                  "coords": [
+                        4.651704,
+                        52.11407
+                  ]
+            },
+            {
+                  "name": "Korenmolen De Eendracht",
+                  "text": "A traditional 18th-century windmill in Alphen aan den Rijn that is still operational today.",
+                  "category": "landmark",
+                  "coords": [
+                        4.670255,
+                        52.11973
+                  ]
+            },
+            {
+                  "name": "Romeins vrachtschip",
+                  "text": "An attraction in Alphen aan den Rijn featuring a reconstructed or preserved ancient Roman cargo ship.",
+                  "category": "landmark",
+                  "coords": [
+                        4.646929,
+                        52.115759
+                  ]
+            },
+            {
+                  "name": "Galerie Alphen Art",
+                  "text": "An arts centre in Alphen aan den Rijn that promotes local artists and hosts creative workshops.",
+                  "category": "cultural",
+                  "coords": [
+                        4.664815,
+                        52.129717
+                  ]
             }
       ]
 },
@@ -9188,7 +9692,268 @@ export const netherlandsCitiesV2: POI[] = [
     image: "/poi-images/netherlands-alphen-aan-den-rijn-cities-v2.webp",
   },
   {
-    id: "netherlands-venlo-cities-v2",
+    id: "netherlands-venlo-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Océ museum",
+                  "text": "Ein Museum in Venlo, das der Geschichte der Druck- und Kopiertechnik gewidmet ist.",
+                  "category": "museum",
+                  "coords": [
+                        6.16711,
+                        51.382888
+                  ]
+            },
+            {
+                  "name": "Museum van Bommel van Dam",
+                  "text": "Ein Museum für moderne und zeitgenössische Kunst in Venlo.",
+                  "category": "museum",
+                  "coords": [
+                        6.171313,
+                        51.367429
+                  ]
+            },
+            {
+                  "name": "De Maaspoort",
+                  "text": "Ein großes Theater- und Kongresszentrum direkt an der Maas in Venlo.",
+                  "category": "cultural",
+                  "coords": [
+                        6.167884,
+                        51.370364
+                  ]
+            },
+            {
+                  "name": "'t Raodhoes",
+                  "text": "Ein kulturelles Veranstaltungszentrum und Theater im Stadtteil Blerick.",
+                  "category": "cultural",
+                  "coords": [
+                        6.152772,
+                        51.365476
+                  ]
+            },
+            {
+                  "name": "Domani",
+                  "text": "Eine Bühne für Kultur und Musik in einer ehemaligen Kapelle in Venlo.",
+                  "category": "cultural",
+                  "coords": [
+                        6.169669,
+                        51.367965
+                  ]
+            },
+            {
+                  "name": "Fort Sint-Michiel",
+                  "text": "Überreste einer historischen Festung am Westufer der Maas.",
+                  "category": "historical",
+                  "coords": [
+                        6.157512,
+                        51.372237
+                  ]
+            },
+            {
+                  "name": "Jammerdal",
+                  "text": "Ein Naturschutzgebiet und ehemaliges Tongrubengebiet bei Venlo.",
+                  "category": "natural",
+                  "coords": [
+                        6.176715,
+                        51.344869
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Océ museum",
+                  "text": "Venloi múzeum, amely a nyomtatási és másolási technológia történetét mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        6.16711,
+                        51.382888
+                  ]
+            },
+            {
+                  "name": "Museum van Bommel van Dam",
+                  "text": "Modern és kortárs művészeti múzeum Venlo városában.",
+                  "category": "museum",
+                  "coords": [
+                        6.171313,
+                        51.367429
+                  ]
+            },
+            {
+                  "name": "De Maaspoort",
+                  "text": "Nagy színház- és kongresszusi központ Venloban, közvetlenül a Maas partján.",
+                  "category": "cultural",
+                  "coords": [
+                        6.167884,
+                        51.370364
+                  ]
+            },
+            {
+                  "name": "'t Raodhoes",
+                  "text": "Kulturális rendezvényközpont és színház Blerick városrészben.",
+                  "category": "cultural",
+                  "coords": [
+                        6.152772,
+                        51.365476
+                  ]
+            },
+            {
+                  "name": "Domani",
+                  "text": "Kulturális és zenei színpad egy egykori kápolnában Venloban.",
+                  "category": "cultural",
+                  "coords": [
+                        6.169669,
+                        51.367965
+                  ]
+            },
+            {
+                  "name": "Fort Sint-Michiel",
+                  "text": "Egy történelmi erőd maradványai a Maas nyugati partján.",
+                  "category": "historical",
+                  "coords": [
+                        6.157512,
+                        51.372237
+                  ]
+            },
+            {
+                  "name": "Jammerdal",
+                  "text": "Természetvédelmi terület és egykori agyagbánya Venlo közelében.",
+                  "category": "natural",
+                  "coords": [
+                        6.176715,
+                        51.344869
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Océ museum",
+                  "text": "Un muzeu din Venlo dedicat istoriei tehnologiei de imprimare și copiere.",
+                  "category": "museum",
+                  "coords": [
+                        6.16711,
+                        51.382888
+                  ]
+            },
+            {
+                  "name": "Museum van Bommel van Dam",
+                  "text": "Un muzeu de artă modernă și contemporană din Venlo.",
+                  "category": "museum",
+                  "coords": [
+                        6.171313,
+                        51.367429
+                  ]
+            },
+            {
+                  "name": "De Maaspoort",
+                  "text": "Un teatru mare și centru de congrese în Venlo, situat pe malul râului Maas.",
+                  "category": "cultural",
+                  "coords": [
+                        6.167884,
+                        51.370364
+                  ]
+            },
+            {
+                  "name": "'t Raodhoes",
+                  "text": "Un centru cultural și teatru în districtul Blerick.",
+                  "category": "cultural",
+                  "coords": [
+                        6.152772,
+                        51.365476
+                  ]
+            },
+            {
+                  "name": "Domani",
+                  "text": "O scenă pentru cultură și muzică situată într-o fostă capelă din Venlo.",
+                  "category": "cultural",
+                  "coords": [
+                        6.169669,
+                        51.367965
+                  ]
+            },
+            {
+                  "name": "Fort Sint-Michiel",
+                  "text": "Rămășițele unei fortificații istorice pe malul de vest al râului Maas.",
+                  "category": "historical",
+                  "coords": [
+                        6.157512,
+                        51.372237
+                  ]
+            },
+            {
+                  "name": "Jammerdal",
+                  "text": "O rezervație naturală și fostă zonă de extracție a argilei lângă Venlo.",
+                  "category": "natural",
+                  "coords": [
+                        6.176715,
+                        51.344869
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Océ museum",
+                  "text": "A museum in Venlo dedicated to the history of printing and copying technology.",
+                  "category": "museum",
+                  "coords": [
+                        6.16711,
+                        51.382888
+                  ]
+            },
+            {
+                  "name": "Museum van Bommel van Dam",
+                  "text": "A museum of modern and contemporary art located in Venlo.",
+                  "category": "museum",
+                  "coords": [
+                        6.171313,
+                        51.367429
+                  ]
+            },
+            {
+                  "name": "De Maaspoort",
+                  "text": "A large theatre and congress center in Venlo, situated on the banks of the Meuse.",
+                  "category": "cultural",
+                  "coords": [
+                        6.167884,
+                        51.370364
+                  ]
+            },
+            {
+                  "name": "'t Raodhoes",
+                  "text": "A cultural event center and theatre in the Blerick district.",
+                  "category": "cultural",
+                  "coords": [
+                        6.152772,
+                        51.365476
+                  ]
+            },
+            {
+                  "name": "Domani",
+                  "text": "A stage for culture and music housed in a former chapel in Venlo.",
+                  "category": "cultural",
+                  "coords": [
+                        6.169669,
+                        51.367965
+                  ]
+            },
+            {
+                  "name": "Fort Sint-Michiel",
+                  "text": "Remains of a historic fortification on the west bank of the Meuse.",
+                  "category": "historical",
+                  "coords": [
+                        6.157512,
+                        51.372237
+                  ]
+            },
+            {
+                  "name": "Jammerdal",
+                  "text": "A nature reserve and former clay extraction area near Venlo.",
+                  "category": "natural",
+                  "coords": [
+                        6.176715,
+                        51.344869
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "NL",
     name: { de: "Venlo", hu: "Venlo", ro: "Venlo", en: "Venlo" },
@@ -12033,6 +12798,60 @@ export const netherlandsCitiesV2: POI[] = [
                         4.453308,
                         51.513469
                   ]
+            },
+            {
+                  "name": "Schouwburg De Kring",
+                  "text": "Ein bekanntes Theater und Kulturzentrum, das eine Vielzahl von Bühnenaufführungen anbietet.",
+                  "category": "cultural",
+                  "coords": [
+                        4.458631,
+                        51.533342
+                  ]
+            },
+            {
+                  "name": "De Kring",
+                  "text": "Ein bedeutendes Kulturzentrum und Theater im Herzen von Roosendaal.",
+                  "category": "cultural",
+                  "coords": [
+                        4.451913,
+                        51.534914
+                  ]
+            },
+            {
+                  "name": "Openluchttheater Vrouwenhof",
+                  "text": "Ein Freilichttheater, das sich im malerischen Park Vrouwenhof befindet.",
+                  "category": "cultural",
+                  "coords": [
+                        4.463677,
+                        51.527911
+                  ]
+            },
+            {
+                  "name": "De Hoop",
+                  "text": "Eine historische Getreidemühle aus Backstein in Roosendaal, die ein lokales Wahrzeichen ist.",
+                  "category": "landmark",
+                  "coords": [
+                        4.465664,
+                        51.517655
+                  ]
+            },
+            {
+                  "name": "Burgemeester Marijnenpark",
+                  "text": "Ein öffentlicher Stadtpark in Roosendaal, ideal für Spaziergänge und Freizeit.",
+                  "category": "park",
+                  "coords": [
+                        4.453703,
+                        51.517966
+                  ]
+            },
+            {
+                  "name": "De Twee Gebroeders",
+                  "text": "Eine traditionelle holländische Windmühle, die Teil des industriellen Erbes von Roosendaal ist.",
+                  "category": "landmark",
+                  "coords": [
+                        4.438217,
+                        51.53059
+                  ]
             }
       ],
       "hu": [
@@ -12043,6 +12862,60 @@ export const netherlandsCitiesV2: POI[] = [
                   "coords": [
                         4.453308,
                         51.513469
+                  ]
+            },
+            {
+                  "name": "Schouwburg De Kring",
+                  "text": "Kiváló színház és kulturális központ, amely változatos színpadi előadásokat kínál.",
+                  "category": "cultural",
+                  "coords": [
+                        4.458631,
+                        51.533342
+                  ]
+            },
+            {
+                  "name": "De Kring",
+                  "text": "Roosendaal szívében található jelentős kulturális helyszín és színház.",
+                  "category": "cultural",
+                  "coords": [
+                        4.451913,
+                        51.534914
+                  ]
+            },
+            {
+                  "name": "Openluchttheater Vrouwenhof",
+                  "text": "A festői Vrouwenhof parkban található szabadtéri színház.",
+                  "category": "cultural",
+                  "coords": [
+                        4.463677,
+                        51.527911
+                  ]
+            },
+            {
+                  "name": "De Hoop",
+                  "text": "Roosendaali történelmi tégla szélmalom, amely a város egyik jelképe.",
+                  "category": "landmark",
+                  "coords": [
+                        4.465664,
+                        51.517655
+                  ]
+            },
+            {
+                  "name": "Burgemeester Marijnenpark",
+                  "text": "Roosendaali nyilvános városi park, amely ideális sétákhoz und kikapcsolódáshoz.",
+                  "category": "park",
+                  "coords": [
+                        4.453703,
+                        51.517966
+                  ]
+            },
+            {
+                  "name": "De Twee Gebroeders",
+                  "text": "Hagyományos holland szélmalom, Roosendaal ipari örökségének része.",
+                  "category": "landmark",
+                  "coords": [
+                        4.438217,
+                        51.53059
                   ]
             }
       ],
@@ -12055,6 +12928,60 @@ export const netherlandsCitiesV2: POI[] = [
                         4.453308,
                         51.513469
                   ]
+            },
+            {
+                  "name": "Schouwburg De Kring",
+                  "text": "Un teatru și centru cultural proeminent, care oferă o varietate de spectacole pe scenă.",
+                  "category": "cultural",
+                  "coords": [
+                        4.458631,
+                        51.533342
+                  ]
+            },
+            {
+                  "name": "De Kring",
+                  "text": "Un loc cultural și teatru important situat în inima orașului Roosendaal.",
+                  "category": "cultural",
+                  "coords": [
+                        4.451913,
+                        51.534914
+                  ]
+            },
+            {
+                  "name": "Openluchttheater Vrouwenhof",
+                  "text": "Un teatru în aer liber situat în pitorescul parc Vrouwenhof.",
+                  "category": "cultural",
+                  "coords": [
+                        4.463677,
+                        51.527911
+                  ]
+            },
+            {
+                  "name": "De Hoop",
+                  "text": "O moară de cereale istorică din cărămidă în Roosendaal, care rămâne un reper local.",
+                  "category": "landmark",
+                  "coords": [
+                        4.465664,
+                        51.517655
+                  ]
+            },
+            {
+                  "name": "Burgemeester Marijnenpark",
+                  "text": "Un parc public din Roosendaal, ideal pentru plimbări și recreere.",
+                  "category": "park",
+                  "coords": [
+                        4.453703,
+                        51.517966
+                  ]
+            },
+            {
+                  "name": "De Twee Gebroeders",
+                  "text": "O moară de vânt olandeză tradițională, care face parte din moștenirea industrială a orașului Roosendaal.",
+                  "category": "landmark",
+                  "coords": [
+                        4.438217,
+                        51.53059
+                  ]
             }
       ],
       "en": [
@@ -12065,6 +12992,60 @@ export const netherlandsCitiesV2: POI[] = [
                   "coords": [
                         4.453308,
                         51.513469
+                  ]
+            },
+            {
+                  "name": "Schouwburg De Kring",
+                  "text": "A prominent theatre and cultural center offering a variety of stage performances.",
+                  "category": "cultural",
+                  "coords": [
+                        4.458631,
+                        51.533342
+                  ]
+            },
+            {
+                  "name": "De Kring",
+                  "text": "A major cultural venue and theatre located in the heart of Roosendaal.",
+                  "category": "cultural",
+                  "coords": [
+                        4.451913,
+                        51.534914
+                  ]
+            },
+            {
+                  "name": "Openluchttheater Vrouwenhof",
+                  "text": "An open-air theatre situated within the scenic Vrouwenhof park.",
+                  "category": "cultural",
+                  "coords": [
+                        4.463677,
+                        51.527911
+                  ]
+            },
+            {
+                  "name": "De Hoop",
+                  "text": "A historic brick corn mill in Roosendaal that remains a local landmark.",
+                  "category": "landmark",
+                  "coords": [
+                        4.465664,
+                        51.517655
+                  ]
+            },
+            {
+                  "name": "Burgemeester Marijnenpark",
+                  "text": "A public city park in Roosendaal ideal for walks and leisure.",
+                  "category": "park",
+                  "coords": [
+                        4.453703,
+                        51.517966
+                  ]
+            },
+            {
+                  "name": "De Twee Gebroeders",
+                  "text": "A traditional Dutch windmill that is part of the industrial heritage of Roosendaal.",
+                  "category": "landmark",
+                  "coords": [
+                        4.438217,
+                        51.53059
                   ]
             }
       ]
@@ -22513,6 +23494,78 @@ export const netherlandsCitiesV2: POI[] = [
                         5.254756,
                         52.084522
                   ]
+            },
+            {
+                  "name": "Museum Het Hernhutter Huis",
+                  "text": "Ein Museum in Zeist, das die Geschichte und Kultur der Herrnhuter Brüdergemeine dokumentiert.",
+                  "category": "museum",
+                  "coords": [
+                        5.237438,
+                        52.081349
+                  ]
+            },
+            {
+                  "name": "De Bunzing",
+                  "text": "Ein Naturreservat in Zeist, das Lebensraum für verschiedene lokale Tierarten bietet.",
+                  "category": "natural",
+                  "coords": [
+                        5.243418,
+                        52.073212
+                  ]
+            },
+            {
+                  "name": "Zeisterbos",
+                  "text": "Ein ausgedehntes Waldgebiet in Zeist, das als Naherholungsgebiet und Naturraum dient.",
+                  "category": "natural",
+                  "coords": [
+                        5.265644,
+                        52.088418
+                  ]
+            },
+            {
+                  "name": "Ma Retraite",
+                  "text": "Ein ehemaliger Landsitz oder kleines Schloss in Zeist mit historischer Architektur.",
+                  "category": "castle",
+                  "coords": [
+                        5.225932,
+                        52.092185
+                  ]
+            },
+            {
+                  "name": "De Egeling",
+                  "text": "Ein lokales Theater in Zeist, das Aufführungen und kulturelle Veranstaltungen beherbergt.",
+                  "category": "cultural",
+                  "coords": [
+                        5.240937,
+                        52.095455
+                  ]
+            },
+            {
+                  "name": "Amfitheater",
+                  "text": "Ein Freilichttheater in Zeist, das für verschiedene Veranstaltungen unter freiem Himmel genutzt wird.",
+                  "category": "cultural",
+                  "coords": [
+                        5.280315,
+                        52.084361
+                  ]
+            },
+            {
+                  "name": "Sanatoriumbos",
+                  "text": "Ein Waldschutzgebiet in Zeist, das Teil eines ehemaligen Sanatoriumsgeländes ist.",
+                  "category": "natural",
+                  "coords": [
+                        5.230096,
+                        52.098888
+                  ]
+            },
+            {
+                  "name": "Kinderboerderij De Brink",
+                  "text": "Ein Kinderbauernhof in Zeist, der Besuchern den Kontakt zu heimischen Nutztieren ermöglicht.",
+                  "category": "recreational",
+                  "coords": [
+                        5.227712,
+                        52.086284
+                  ]
             }
       ],
       "hu": [
@@ -22523,6 +23576,78 @@ export const netherlandsCitiesV2: POI[] = [
                   "coords": [
                         5.254756,
                         52.084522
+                  ]
+            },
+            {
+                  "name": "Museum Het Hernhutter Huis",
+                  "text": "Múzeum Zeistben, amely a hernhuti testvérgyülekezet történetét és kultúráját mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        5.237438,
+                        52.081349
+                  ]
+            },
+            {
+                  "name": "De Bunzing",
+                  "text": "Természetvédelmi terület Zeistben, amely különféle helyi állatfajoknak nyújt élőhelyet.",
+                  "category": "natural",
+                  "coords": [
+                        5.243418,
+                        52.073212
+                  ]
+            },
+            {
+                  "name": "Zeisterbos",
+                  "text": "Kiterjedt erdőterület Zeistben, amely pihenőhelyként és természetvédelmi területként szolgál.",
+                  "category": "natural",
+                  "coords": [
+                        5.265644,
+                        52.088418
+                  ]
+            },
+            {
+                  "name": "Ma Retraite",
+                  "text": "Egykori udvarház vagy kis kastély Zeistben, történelmi építészeti stílussal.",
+                  "category": "castle",
+                  "coords": [
+                        5.225932,
+                        52.092185
+                  ]
+            },
+            {
+                  "name": "De Egeling",
+                  "text": "Helyi színház Zeistben, amely előadásoknak és kulturális eseményeknek ad otthont.",
+                  "category": "cultural",
+                  "coords": [
+                        5.240937,
+                        52.095455
+                  ]
+            },
+            {
+                  "name": "Amfitheater",
+                  "text": "Szabadtéri színház Zeistben, amelyet különféle eseményekre használnak a szabad ég alatt.",
+                  "category": "cultural",
+                  "coords": [
+                        5.280315,
+                        52.084361
+                  ]
+            },
+            {
+                  "name": "Sanatoriumbos",
+                  "text": "Erdős természetvédelmi terület Zeistben, amely egy egykori szanatórium területének része.",
+                  "category": "natural",
+                  "coords": [
+                        5.230096,
+                        52.098888
+                  ]
+            },
+            {
+                  "name": "Kinderboerderij De Brink",
+                  "text": "Gyermek-állatkert Zeistben, amely lehetővé teszi a látogatóknak a háziállatokkal való ismerkedést.",
+                  "category": "recreational",
+                  "coords": [
+                        5.227712,
+                        52.086284
                   ]
             }
       ],
@@ -22535,6 +23660,78 @@ export const netherlandsCitiesV2: POI[] = [
                         5.254756,
                         52.084522
                   ]
+            },
+            {
+                  "name": "Museum Het Hernhutter Huis",
+                  "text": "Un muzeu în Zeist care documentează istoria și cultura comunității Herrnhuter.",
+                  "category": "museum",
+                  "coords": [
+                        5.237438,
+                        52.081349
+                  ]
+            },
+            {
+                  "name": "De Bunzing",
+                  "text": "O rezervație naturală în Zeist, care oferă habitat pentru diverse specii locale.",
+                  "category": "natural",
+                  "coords": [
+                        5.243418,
+                        52.073212
+                  ]
+            },
+            {
+                  "name": "Zeisterbos",
+                  "text": "O zonă forestieră extinsă în Zeist, servind ca spațiu de recreere și arie naturală.",
+                  "category": "natural",
+                  "coords": [
+                        5.265644,
+                        52.088418
+                  ]
+            },
+            {
+                  "name": "Ma Retraite",
+                  "text": "O fostă reședință de la țară sau un mic castel în Zeist, cu arhitectură istorică.",
+                  "category": "castle",
+                  "coords": [
+                        5.225932,
+                        52.092185
+                  ]
+            },
+            {
+                  "name": "De Egeling",
+                  "text": "Un teatru local în Zeist, care găzduiește spectacole și evenimente culturale.",
+                  "category": "cultural",
+                  "coords": [
+                        5.240937,
+                        52.095455
+                  ]
+            },
+            {
+                  "name": "Amfitheater",
+                  "text": "Un amfiteatru în Zeist, utilizat pentru diverse evenimente în aer liber.",
+                  "category": "cultural",
+                  "coords": [
+                        5.280315,
+                        52.084361
+                  ]
+            },
+            {
+                  "name": "Sanatoriumbos",
+                  "text": "O rezervație naturală forestieră în Zeist, parte a terenului unui fost sanatoriu.",
+                  "category": "natural",
+                  "coords": [
+                        5.230096,
+                        52.098888
+                  ]
+            },
+            {
+                  "name": "Kinderboerderij De Brink",
+                  "text": "O fermă pentru copii în Zeist, care permite vizitatorilor contactul cu animalele domestice locale.",
+                  "category": "recreational",
+                  "coords": [
+                        5.227712,
+                        52.086284
+                  ]
             }
       ],
       "en": [
@@ -22545,6 +23742,78 @@ export const netherlandsCitiesV2: POI[] = [
                   "coords": [
                         5.254756,
                         52.084522
+                  ]
+            },
+            {
+                  "name": "Museum Het Hernhutter Huis",
+                  "text": "A museum in Zeist documenting the history and culture of the Moravian Church (Herrnhuters).",
+                  "category": "museum",
+                  "coords": [
+                        5.237438,
+                        52.081349
+                  ]
+            },
+            {
+                  "name": "De Bunzing",
+                  "text": "A nature reserve in Zeist providing habitat for various local wildlife species.",
+                  "category": "natural",
+                  "coords": [
+                        5.243418,
+                        52.073212
+                  ]
+            },
+            {
+                  "name": "Zeisterbos",
+                  "text": "An extensive forested area in Zeist, serving as a recreation spot and natural space.",
+                  "category": "natural",
+                  "coords": [
+                        5.265644,
+                        52.088418
+                  ]
+            },
+            {
+                  "name": "Ma Retraite",
+                  "text": "A former country estate or small castle in Zeist with historical architecture.",
+                  "category": "castle",
+                  "coords": [
+                        5.225932,
+                        52.092185
+                  ]
+            },
+            {
+                  "name": "De Egeling",
+                  "text": "A local theatre in Zeist hosting performances and cultural events.",
+                  "category": "cultural",
+                  "coords": [
+                        5.240937,
+                        52.095455
+                  ]
+            },
+            {
+                  "name": "Amfitheater",
+                  "text": "An open-air theatre in Zeist used for various events under the sky.",
+                  "category": "cultural",
+                  "coords": [
+                        5.280315,
+                        52.084361
+                  ]
+            },
+            {
+                  "name": "Sanatoriumbos",
+                  "text": "A forested nature reserve in Zeist, part of the grounds of a former sanatorium.",
+                  "category": "natural",
+                  "coords": [
+                        5.230096,
+                        52.098888
+                  ]
+            },
+            {
+                  "name": "Kinderboerderij De Brink",
+                  "text": "A children's farm in Zeist allowing visitors to interact with local domestic animals.",
+                  "category": "recreational",
+                  "coords": [
+                        5.227712,
+                        52.086284
                   ]
             }
       ]
@@ -31883,6 +33152,15 @@ export const netherlandsCitiesV2: POI[] = [
                         5.41752,
                         51.895579
                   ]
+            },
+            {
+                  "name": "Kleine Willemswaard",
+                  "text": "Ein Naturschutzgebiet am Ufer der Waal bei Tiel, das zur Erholung und Naturbeobachtung einlädt.",
+                  "category": "natural",
+                  "coords": [
+                        5.451007,
+                        51.889711
+                  ]
             }
       ],
       "hu": [
@@ -32010,6 +33288,15 @@ export const netherlandsCitiesV2: POI[] = [
                   "coords": [
                         5.41752,
                         51.895579
+                  ]
+            },
+            {
+                  "name": "Kleine Willemswaard",
+                  "text": "Természetvédelmi terület a Waal partján Tielnél, amely kikapcsolódásra és megfigyelésre csábít.",
+                  "category": "natural",
+                  "coords": [
+                        5.451007,
+                        51.889711
                   ]
             }
       ],
@@ -32139,6 +33426,15 @@ export const netherlandsCitiesV2: POI[] = [
                         5.41752,
                         51.895579
                   ]
+            },
+            {
+                  "name": "Kleine Willemswaard",
+                  "text": "O rezervație naturală pe malul râului Waal, lângă Tiel, ideală pentru recreere și observarea naturii.",
+                  "category": "natural",
+                  "coords": [
+                        5.451007,
+                        51.889711
+                  ]
             }
       ],
       "en": [
@@ -32267,6 +33563,15 @@ export const netherlandsCitiesV2: POI[] = [
                         5.41752,
                         51.895579
                   ]
+            },
+            {
+                  "name": "Kleine Willemswaard",
+                  "text": "A nature reserve on the banks of the Waal near Tiel, ideal for recreation and nature observation.",
+                  "category": "natural",
+                  "coords": [
+                        5.451007,
+                        51.889711
+                  ]
             }
       ]
 },
@@ -32333,6 +33638,78 @@ export const netherlandsCitiesV2: POI[] = [
                         6.722519,
                         51.994032
                   ]
+            },
+            {
+                  "name": "Buskersbos",
+                  "text": "Ein alter Laubwald und Naturschutzgebiet mit reicher Artenvielfalt.",
+                  "category": "natural",
+                  "coords": [
+                        6.737436,
+                        51.955193
+                  ]
+            },
+            {
+                  "name": "De Storm",
+                  "text": "Ein regionales Theater und Kulturzentrum in Winterswijk für verschiedene Aufführungen.",
+                  "category": "cultural",
+                  "coords": [
+                        6.713375,
+                        51.974439
+                  ]
+            },
+            {
+                  "name": "Synagoge Winterswijk",
+                  "text": "Eine wunderschön erhaltene historische Synagoge, die heute als Museum dient.",
+                  "category": "museum",
+                  "coords": [
+                        6.717872,
+                        51.968877
+                  ]
+            },
+            {
+                  "name": "Theater Astoria",
+                  "text": "Ein ehemaliges Kinogebäude mit markanter Architektur, das heute kulturell genutzt wird.",
+                  "category": "museum",
+                  "coords": [
+                        6.722578,
+                        51.965608
+                  ]
+            },
+            {
+                  "name": "De MuseumFabriek",
+                  "text": "Ein Heimatmuseum in Winterswijk mit Schwerpunkt auf der Textilindustrie.",
+                  "category": "museum",
+                  "coords": [
+                        6.725127,
+                        51.969397
+                  ]
+            },
+            {
+                  "name": "Transit Oost",
+                  "text": "Ein Museum, das der Geschichte des regionalen öffentlichen Nahverkehrs gewidmet ist.",
+                  "category": "museum",
+                  "coords": [
+                        6.717276,
+                        51.96661
+                  ]
+            },
+            {
+                  "name": "Villa Mondriaan",
+                  "text": "Ein Museum im ehemaligen Wohnhaus des berühmten Malers Piet Mondrian.",
+                  "category": "museum",
+                  "coords": [
+                        6.723631,
+                        51.971716
+                  ]
+            },
+            {
+                  "name": "Openlucht Theater",
+                  "text": "Ein Freilichttheater, das im Sommer für Musik- und Theateraufführungen genutzt wird.",
+                  "category": "cultural",
+                  "coords": [
+                        6.731191,
+                        51.964884
+                  ]
             }
       ],
       "hu": [
@@ -32352,6 +33729,78 @@ export const netherlandsCitiesV2: POI[] = [
                   "coords": [
                         6.722519,
                         51.994032
+                  ]
+            },
+            {
+                  "name": "Buskersbos",
+                  "text": "Ősi lombhullató erdő és természetvédelmi terület gazdag élővilággal.",
+                  "category": "natural",
+                  "coords": [
+                        6.737436,
+                        51.955193
+                  ]
+            },
+            {
+                  "name": "De Storm",
+                  "text": "Regionális színház és kulturális központ Winterswijkben különféle előadások számára.",
+                  "category": "cultural",
+                  "coords": [
+                        6.713375,
+                        51.974439
+                  ]
+            },
+            {
+                  "name": "Synagoge Winterswijk",
+                  "text": "Egy gyönyörűen megőrzött történelmi zsinagóga, amely ma múzeumként működik.",
+                  "category": "museum",
+                  "coords": [
+                        6.717872,
+                        51.968877
+                  ]
+            },
+            {
+                  "name": "Theater Astoria",
+                  "text": "Egy jellegzetes építészetű egykori moziépület, amelyet ma kulturális célokra használnak.",
+                  "category": "museum",
+                  "coords": [
+                        6.722578,
+                        51.965608
+                  ]
+            },
+            {
+                  "name": "De MuseumFabriek",
+                  "text": "Helytörténeti múzeum Winterswijkben, amely a textiliparra összpontosít.",
+                  "category": "museum",
+                  "coords": [
+                        6.725127,
+                        51.969397
+                  ]
+            },
+            {
+                  "name": "Transit Oost",
+                  "text": "A regionális tömegközlekedés és a vasút történetének szentelt múzeum.",
+                  "category": "museum",
+                  "coords": [
+                        6.717276,
+                        51.96661
+                  ]
+            },
+            {
+                  "name": "Villa Mondriaan",
+                  "text": "A híres festő, Piet Mondrian gyermekkori otthonában kialakított múzeum.",
+                  "category": "museum",
+                  "coords": [
+                        6.723631,
+                        51.971716
+                  ]
+            },
+            {
+                  "name": "Openlucht Theater",
+                  "text": "Szabadtéri színház, ahol nyaranta zenei és drámai előadásokat tartanak.",
+                  "category": "cultural",
+                  "coords": [
+                        6.731191,
+                        51.964884
                   ]
             }
       ],
@@ -32373,6 +33822,78 @@ export const netherlandsCitiesV2: POI[] = [
                         6.722519,
                         51.994032
                   ]
+            },
+            {
+                  "name": "Buskersbos",
+                  "text": "O pădure străveche de foioase și rezervație naturală cu o biodiversitate bogată.",
+                  "category": "natural",
+                  "coords": [
+                        6.737436,
+                        51.955193
+                  ]
+            },
+            {
+                  "name": "De Storm",
+                  "text": "Un teatru regional și centru cultural din Winterswijk pentru diverse spectacole.",
+                  "category": "cultural",
+                  "coords": [
+                        6.713375,
+                        51.974439
+                  ]
+            },
+            {
+                  "name": "Synagoge Winterswijk",
+                  "text": "O sinagogă istorică frumos conservată, care servește acum ca muzeu.",
+                  "category": "museum",
+                  "coords": [
+                        6.717872,
+                        51.968877
+                  ]
+            },
+            {
+                  "name": "Theater Astoria",
+                  "text": "O fostă clădire de cinematograf cu o arhitectură distinctivă, folosită în scopuri culturale.",
+                  "category": "museum",
+                  "coords": [
+                        6.722578,
+                        51.965608
+                  ]
+            },
+            {
+                  "name": "De MuseumFabriek",
+                  "text": "Un muzeu de istorie locală din Winterswijk, axat pe industria textilă.",
+                  "category": "museum",
+                  "coords": [
+                        6.725127,
+                        51.969397
+                  ]
+            },
+            {
+                  "name": "Transit Oost",
+                  "text": "Un muzeu dedicat istoriei transportului public regional și a căilor ferate.",
+                  "category": "museum",
+                  "coords": [
+                        6.717276,
+                        51.96661
+                  ]
+            },
+            {
+                  "name": "Villa Mondriaan",
+                  "text": "Un muzeu situat în casa copilăriei faimosului pictor Piet Mondrian.",
+                  "category": "museum",
+                  "coords": [
+                        6.723631,
+                        51.971716
+                  ]
+            },
+            {
+                  "name": "Openlucht Theater",
+                  "text": "Un teatru în aer liber folosit pentru spectacole muzicale și dramatice în timpul verii.",
+                  "category": "cultural",
+                  "coords": [
+                        6.731191,
+                        51.964884
+                  ]
             }
       ],
       "en": [
@@ -32392,6 +33913,78 @@ export const netherlandsCitiesV2: POI[] = [
                   "coords": [
                         6.722519,
                         51.994032
+                  ]
+            },
+            {
+                  "name": "Buskersbos",
+                  "text": "An ancient deciduous forest and nature reserve with rich biodiversity.",
+                  "category": "natural",
+                  "coords": [
+                        6.737436,
+                        51.955193
+                  ]
+            },
+            {
+                  "name": "De Storm",
+                  "text": "A regional theatre and cultural center in Winterswijk for various performances.",
+                  "category": "cultural",
+                  "coords": [
+                        6.713375,
+                        51.974439
+                  ]
+            },
+            {
+                  "name": "Synagoge Winterswijk",
+                  "text": "A beautifully preserved historic synagogue that now serves as a museum.",
+                  "category": "museum",
+                  "coords": [
+                        6.717872,
+                        51.968877
+                  ]
+            },
+            {
+                  "name": "Theater Astoria",
+                  "text": "A former cinema building with distinctive architecture, now used for cultural purposes.",
+                  "category": "museum",
+                  "coords": [
+                        6.722578,
+                        51.965608
+                  ]
+            },
+            {
+                  "name": "De MuseumFabriek",
+                  "text": "A local history museum in Winterswijk focusing on the textile industry.",
+                  "category": "museum",
+                  "coords": [
+                        6.725127,
+                        51.969397
+                  ]
+            },
+            {
+                  "name": "Transit Oost",
+                  "text": "A museum dedicated to the history of regional public transport and railways.",
+                  "category": "museum",
+                  "coords": [
+                        6.717276,
+                        51.96661
+                  ]
+            },
+            {
+                  "name": "Villa Mondriaan",
+                  "text": "A museum located in the childhood home of the famous painter Piet Mondrian.",
+                  "category": "museum",
+                  "coords": [
+                        6.723631,
+                        51.971716
+                  ]
+            },
+            {
+                  "name": "Openlucht Theater",
+                  "text": "An open-air theatre used for musical and dramatic performances during the summer.",
+                  "category": "cultural",
+                  "coords": [
+                        6.731191,
+                        51.964884
                   ]
             }
       ]
@@ -32674,7 +34267,304 @@ export const netherlandsCitiesV2: POI[] = [
     image: "/poi-images/netherlands-hardinxveld-giessendam-cities-v2.webp",
   },
   {
-    id: "netherlands-soest-cities-v2",
+    id: "netherlands-soest-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Openluchttheater Cabrio",
+                  "text": "Ein Freilichttheater in Soest, in dem verschiedene kulturelle Aufführungen stattfinden.",
+                  "category": "cultural",
+                  "coords": [
+                        5.304589,
+                        52.154448
+                  ]
+            },
+            {
+                  "name": "Pijnenburg-Brandenburg",
+                  "text": "Teil eines historischen Anwesens, das für seine Waldlandschaften und Naturpfade bekannt ist.",
+                  "category": "natural",
+                  "coords": [
+                        5.250241,
+                        52.180398
+                  ]
+            },
+            {
+                  "name": "Soesterveen",
+                  "text": "Ein Naturschutzgebiet, das ein seltenes Hochmoorgebiet schützt.",
+                  "category": "natural",
+                  "coords": [
+                        5.269859,
+                        52.167785
+                  ]
+            },
+            {
+                  "name": "Pijnenburg -Beer z'n Veld",
+                  "text": "Ein Naturgebiet auf dem Gut Pijnenburg, das dem Naturschutz dient.",
+                  "category": "natural",
+                  "coords": [
+                        5.255977,
+                        52.17699
+                  ]
+            },
+            {
+                  "name": "Het Enghenbergje",
+                  "text": "Eine historische Stätte mit einem Grabhügel aus der Bronzezeit.",
+                  "category": "historical",
+                  "coords": [
+                        5.302965,
+                        52.170221
+                  ]
+            },
+            {
+                  "name": "Koningin Emmapark",
+                  "text": "Ein nach Königin Emma benannter Landschaftspark und Naturraum.",
+                  "category": "natural",
+                  "coords": [
+                        5.267779,
+                        52.191971
+                  ]
+            },
+            {
+                  "name": "Paleis Soestdijk",
+                  "text": "Ein ehemaliger Palast der niederländischen Königsfamilie in der Region Soest.",
+                  "category": "castle",
+                  "coords": [
+                        5.279351,
+                        52.193457
+                  ]
+            },
+            {
+                  "name": "KunstenCentrum Idea",
+                  "text": "Ein Kulturzentrum und Theater, das Raum für Kunst und Aufführungen bietet.",
+                  "category": "cultural",
+                  "coords": [
+                        5.282528,
+                        52.168323
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Openluchttheater Cabrio",
+                  "text": "Szabadtéri színház Soestben, amely különféle kulturális előadásoknak ad otthont.",
+                  "category": "cultural",
+                  "coords": [
+                        5.304589,
+                        52.154448
+                  ]
+            },
+            {
+                  "name": "Pijnenburg-Brandenburg",
+                  "text": "Erdei tájairól és tanösvényeiről ismert történelmi birtok része.",
+                  "category": "natural",
+                  "coords": [
+                        5.250241,
+                        52.180398
+                  ]
+            },
+            {
+                  "name": "Soesterveen",
+                  "text": "Ritka magasláp területet védő természetvédelmi terület.",
+                  "category": "natural",
+                  "coords": [
+                        5.269859,
+                        52.167785
+                  ]
+            },
+            {
+                  "name": "Pijnenburg -Beer z'n Veld",
+                  "text": "Természetvédelmi terület a Pijnenburg birtokon belül.",
+                  "category": "natural",
+                  "coords": [
+                        5.255977,
+                        52.17699
+                  ]
+            },
+            {
+                  "name": "Het Enghenbergje",
+                  "text": "Bronzkori halomsírt rejtő történelmi lelőhely.",
+                  "category": "historical",
+                  "coords": [
+                        5.302965,
+                        52.170221
+                  ]
+            },
+            {
+                  "name": "Koningin Emmapark",
+                  "text": "Emma királynőről elnevezett tájképi park és természetvédelmi terület.",
+                  "category": "natural",
+                  "coords": [
+                        5.267779,
+                        52.191971
+                  ]
+            },
+            {
+                  "name": "Paleis Soestdijk",
+                  "text": "A holland királyi család egykori palotája Soest környékén.",
+                  "category": "castle",
+                  "coords": [
+                        5.279351,
+                        52.193457
+                  ]
+            },
+            {
+                  "name": "KunstenCentrum Idea",
+                  "text": "Kulturális központ és színház, amely művészeti előadásoknak ad otthont.",
+                  "category": "cultural",
+                  "coords": [
+                        5.282528,
+                        52.168323
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Openluchttheater Cabrio",
+                  "text": "Un teatru în aer liber din Soest care găzduiește diverse spectacole culturale.",
+                  "category": "cultural",
+                  "coords": [
+                        5.304589,
+                        52.154448
+                  ]
+            },
+            {
+                  "name": "Pijnenburg-Brandenburg",
+                  "text": "Parte a unei moșii istorice cunoscută pentru peisajele sale împădurite și potecile naturale.",
+                  "category": "natural",
+                  "coords": [
+                        5.250241,
+                        52.180398
+                  ]
+            },
+            {
+                  "name": "Soesterveen",
+                  "text": "O rezervație naturală care protejează o zonă rară de turbărie înaltă.",
+                  "category": "natural",
+                  "coords": [
+                        5.269859,
+                        52.167785
+                  ]
+            },
+            {
+                  "name": "Pijnenburg -Beer z'n Veld",
+                  "text": "O zonă naturală în cadrul moșiei Pijnenburg utilizată pentru conservare.",
+                  "category": "natural",
+                  "coords": [
+                        5.255977,
+                        52.17699
+                  ]
+            },
+            {
+                  "name": "Het Enghenbergje",
+                  "text": "Un sit istoric care cuprinde un tumul din Epoca Bronzului.",
+                  "category": "historical",
+                  "coords": [
+                        5.302965,
+                        52.170221
+                  ]
+            },
+            {
+                  "name": "Koningin Emmapark",
+                  "text": "Un parc peisagistic și zonă naturală numită după Regina Emma.",
+                  "category": "natural",
+                  "coords": [
+                        5.267779,
+                        52.191971
+                  ]
+            },
+            {
+                  "name": "Paleis Soestdijk",
+                  "text": "Un fost palat al familiei regale olandeze situat în zona Soest.",
+                  "category": "castle",
+                  "coords": [
+                        5.279351,
+                        52.193457
+                  ]
+            },
+            {
+                  "name": "KunstenCentrum Idea",
+                  "text": "Un centru cultural și teatru care oferă spațiu pentru arte și spectacole.",
+                  "category": "cultural",
+                  "coords": [
+                        5.282528,
+                        52.168323
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Openluchttheater Cabrio",
+                  "text": "An open-air theatre hosting various cultural performances in Soest.",
+                  "category": "cultural",
+                  "coords": [
+                        5.304589,
+                        52.154448
+                  ]
+            },
+            {
+                  "name": "Pijnenburg-Brandenburg",
+                  "text": "Part of a historic estate known for its forested landscapes and nature paths.",
+                  "category": "natural",
+                  "coords": [
+                        5.250241,
+                        52.180398
+                  ]
+            },
+            {
+                  "name": "Soesterveen",
+                  "text": "A nature reserve protecting a rare area of high peat bog.",
+                  "category": "natural",
+                  "coords": [
+                        5.269859,
+                        52.167785
+                  ]
+            },
+            {
+                  "name": "Pijnenburg -Beer z'n Veld",
+                  "text": "A natural area within the Pijnenburg estate used for conservation.",
+                  "category": "natural",
+                  "coords": [
+                        5.255977,
+                        52.17699
+                  ]
+            },
+            {
+                  "name": "Het Enghenbergje",
+                  "text": "A historic site featuring a burial mound from the Bronze Age.",
+                  "category": "historical",
+                  "coords": [
+                        5.302965,
+                        52.170221
+                  ]
+            },
+            {
+                  "name": "Koningin Emmapark",
+                  "text": "A landscaped park and nature area named after Queen Emma.",
+                  "category": "natural",
+                  "coords": [
+                        5.267779,
+                        52.191971
+                  ]
+            },
+            {
+                  "name": "Paleis Soestdijk",
+                  "text": "A former palace of the Dutch royal family located in the Soest area.",
+                  "category": "castle",
+                  "coords": [
+                        5.279351,
+                        52.193457
+                  ]
+            },
+            {
+                  "name": "KunstenCentrum Idea",
+                  "text": "A cultural center and theatre providing a space for arts and performances.",
+                  "category": "cultural",
+                  "coords": [
+                        5.282528,
+                        52.168323
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "NL",
     name: { de: "Soest", hu: "Soest", ro: "Soest", en: "Soest" },
@@ -33259,7 +35149,268 @@ export const netherlandsCitiesV2: POI[] = [
     image: "/poi-images/netherlands-ijsselstein-cities-v2.webp",
   },
   {
-    id: "netherlands-boxmeer-cities-v2",
+    id: "netherlands-boxmeer-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Schraalzand",
+                  "text": "Ein Naturschutzgebiet in der Nähe von Boxmeer, das für seine natürliche Landschaft und Flora bewahrt wird.",
+                  "category": "natural",
+                  "coords": [
+                        5.928295,
+                        51.640225
+                  ]
+            },
+            {
+                  "name": "Linde van Sambeek",
+                  "text": "Eine der ältesten Linden der Niederlande, die sich in Sambeek bei Boxmeer befindet.",
+                  "category": "landmark",
+                  "coords": [
+                        5.968604,
+                        51.632323
+                  ]
+            },
+            {
+                  "name": "Gerardamolen",
+                  "text": "Eine traditionelle holländische Windmühle in Boxmeer, die als lokales Wahrzeichen dient.",
+                  "category": "landmark",
+                  "coords": [
+                        5.992384,
+                        51.654121
+                  ]
+            },
+            {
+                  "name": "De Weijer",
+                  "text": "Ein Kultur- und Kunstzentrum in Boxmeer, das in einem historischen Gebäude untergebracht ist.",
+                  "category": "cultural",
+                  "coords": [
+                        5.950668,
+                        51.64943
+                  ]
+            },
+            {
+                  "name": "Sint-Janstoren",
+                  "text": "Der markante Turm der Kirche St. Johannes der Täufer in Boxmeer.",
+                  "category": "tower",
+                  "coords": [
+                        5.964632,
+                        51.635744
+                  ]
+            },
+            {
+                  "name": "Sint-Petrusbasiliek",
+                  "text": "Eine katholische Basilika in Boxmeer, bekannt für ihre religiöse Bedeutung und Architektur.",
+                  "category": "religious",
+                  "coords": [
+                        5.952882,
+                        51.647007
+                  ]
+            },
+            {
+                  "name": "Johannes Nepomucenus Kapel",
+                  "text": "Eine kleine Kapelle, die dem Heiligen Johannes Nepomuk gewidmet ist und sich in Boxmeer befindet.",
+                  "category": "religious",
+                  "coords": [
+                        5.955671,
+                        51.651782
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Schraalzand",
+                  "text": "Természetvédelmi terület Boxmeer közelében, amelyet természetes tája és növényvilága miatt őriztek meg.",
+                  "category": "natural",
+                  "coords": [
+                        5.928295,
+                        51.640225
+                  ]
+            },
+            {
+                  "name": "Linde van Sambeek",
+                  "text": "Hollandia egyik legidősebb hársfája, amely a Boxmeer melletti Sambeekben található.",
+                  "category": "landmark",
+                  "coords": [
+                        5.968604,
+                        51.632323
+                  ]
+            },
+            {
+                  "name": "Gerardamolen",
+                  "text": "Hagyományos holland szélmalom Boxmeerben, amely helyi nevezetességként szolgál.",
+                  "category": "landmark",
+                  "coords": [
+                        5.992384,
+                        51.654121
+                  ]
+            },
+            {
+                  "name": "De Weijer",
+                  "text": "Kulturális és művészeti központ Boxmeerben, amely egy történelmi épületben kapott helyet.",
+                  "category": "cultural",
+                  "coords": [
+                        5.950668,
+                        51.64943
+                  ]
+            },
+            {
+                  "name": "Sint-Janstoren",
+                  "text": "A Keresztelő Szent János-templom jellegzetes tornya Boxmeerben.",
+                  "category": "tower",
+                  "coords": [
+                        5.964632,
+                        51.635744
+                  ]
+            },
+            {
+                  "name": "Sint-Petrusbasiliek",
+                  "text": "Katolikus bazilika Boxmeerben, amely vallási jelentőségéről és építészetéről ismert.",
+                  "category": "religious",
+                  "coords": [
+                        5.952882,
+                        51.647007
+                  ]
+            },
+            {
+                  "name": "Johannes Nepomucenus Kapel",
+                  "text": "Nepomuki Szent Jánosnak szentelt kis kápolna Boxmeer városában.",
+                  "category": "religious",
+                  "coords": [
+                        5.955671,
+                        51.651782
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Schraalzand",
+                  "text": "O rezervație naturală situată lângă Boxmeer, conservată pentru peisajul său natural și floră.",
+                  "category": "natural",
+                  "coords": [
+                        5.928295,
+                        51.640225
+                  ]
+            },
+            {
+                  "name": "Linde van Sambeek",
+                  "text": "Unul dintre cei mai vechi tei din Țările de Jos, situat în Sambeek, lângă Boxmeer.",
+                  "category": "landmark",
+                  "coords": [
+                        5.968604,
+                        51.632323
+                  ]
+            },
+            {
+                  "name": "Gerardamolen",
+                  "text": "O moară de vânt tradițională olandeză situată în Boxmeer, servind ca punct de reper local.",
+                  "category": "landmark",
+                  "coords": [
+                        5.992384,
+                        51.654121
+                  ]
+            },
+            {
+                  "name": "De Weijer",
+                  "text": "Un centru cultural și artistic în Boxmeer, găzduit într-o clădire istorică.",
+                  "category": "cultural",
+                  "coords": [
+                        5.950668,
+                        51.64943
+                  ]
+            },
+            {
+                  "name": "Sint-Janstoren",
+                  "text": "Turnul proeminent al bisericii Sfântul Ioan Botezătorul din Boxmeer.",
+                  "category": "tower",
+                  "coords": [
+                        5.964632,
+                        51.635744
+                  ]
+            },
+            {
+                  "name": "Sint-Petrusbasiliek",
+                  "text": "O bazilică catolică din Boxmeer, cunoscută pentru semnificația sa religioasă și arhitectură.",
+                  "category": "religious",
+                  "coords": [
+                        5.952882,
+                        51.647007
+                  ]
+            },
+            {
+                  "name": "Johannes Nepomucenus Kapel",
+                  "text": "O mică capelă dedicată Sfântului Ioan Nepomuk, situată în orașul Boxmeer.",
+                  "category": "religious",
+                  "coords": [
+                        5.955671,
+                        51.651782
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Schraalzand",
+                  "text": "A nature reserve located near Boxmeer, preserved for its natural landscape and flora.",
+                  "category": "natural",
+                  "coords": [
+                        5.928295,
+                        51.640225
+                  ]
+            },
+            {
+                  "name": "Linde van Sambeek",
+                  "text": "One of the oldest linden trees in the Netherlands, located in Sambeek near Boxmeer.",
+                  "category": "landmark",
+                  "coords": [
+                        5.968604,
+                        51.632323
+                  ]
+            },
+            {
+                  "name": "Gerardamolen",
+                  "text": "A traditional Dutch windmill located in Boxmeer, serving as a local landmark.",
+                  "category": "landmark",
+                  "coords": [
+                        5.992384,
+                        51.654121
+                  ]
+            },
+            {
+                  "name": "De Weijer",
+                  "text": "A cultural and arts centre in Boxmeer housed in a historic building.",
+                  "category": "cultural",
+                  "coords": [
+                        5.950668,
+                        51.64943
+                  ]
+            },
+            {
+                  "name": "Sint-Janstoren",
+                  "text": "The prominent tower of the Saint John the Baptist church in Boxmeer.",
+                  "category": "tower",
+                  "coords": [
+                        5.964632,
+                        51.635744
+                  ]
+            },
+            {
+                  "name": "Sint-Petrusbasiliek",
+                  "text": "A Catholic basilica in Boxmeer, known for its religious significance and architecture.",
+                  "category": "religious",
+                  "coords": [
+                        5.952882,
+                        51.647007
+                  ]
+            },
+            {
+                  "name": "Johannes Nepomucenus Kapel",
+                  "text": "A small chapel dedicated to Saint John Nepomuk, located in the town of Boxmeer.",
+                  "category": "religious",
+                  "coords": [
+                        5.955671,
+                        51.651782
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "NL",
     name: { de: "Boxmeer", hu: "Boxmeer", ro: "Boxmeer", en: "Boxmeer" },
@@ -33332,6 +35483,60 @@ export const netherlandsCitiesV2: POI[] = [
                         6.413056,
                         52.516955
                   ]
+            },
+            {
+                  "name": "Nationaal Tinnen Figuren Museum",
+                  "text": "Ein Museum in Ommen mit einer großen Sammlung historischer Zinnfiguren.",
+                  "category": "museum",
+                  "coords": [
+                        6.422337,
+                        52.517669
+                  ]
+            },
+            {
+                  "name": "Historisch Museum Ommen",
+                  "text": "Ein Museum, das die Lokalgeschichte und das Erbe der Stadt Ommen beleuchtet.",
+                  "category": "museum",
+                  "coords": [
+                        6.425509,
+                        52.51791
+                  ]
+            },
+            {
+                  "name": "Historisch Rijwielmuseum Ommen",
+                  "text": "Ein spezialisiertes Museum in Ommen, das der Geschichte der Fahrräder gewidmet ist.",
+                  "category": "museum",
+                  "coords": [
+                        6.423932,
+                        52.518592
+                  ]
+            },
+            {
+                  "name": "Vliegermuseum Space Art",
+                  "text": "Ein einzigartiges Museum in Ommen, das Drachen und Flugobjekte ausstellt.",
+                  "category": "museum",
+                  "coords": [
+                        6.42857,
+                        52.521259
+                  ]
+            },
+            {
+                  "name": "Cultuur historisch monument Varsen",
+                  "text": "Ein kulturhistorisches Denkmal in Varsen, das die regionale Vergangenheit dokumentiert.",
+                  "category": "historical",
+                  "coords": [
+                        6.379608,
+                        52.514767
+                  ]
+            },
+            {
+                  "name": "De grote kampvuurkuil",
+                  "text": "Eine große Freilichtbühne in Ommen, die für Gemeinschaftsveranstaltungen genutzt wird.",
+                  "category": "cultural",
+                  "coords": [
+                        6.39825,
+                        52.51406
+                  ]
             }
       ],
       "hu": [
@@ -33360,6 +35565,60 @@ export const netherlandsCitiesV2: POI[] = [
                   "coords": [
                         6.413056,
                         52.516955
+                  ]
+            },
+            {
+                  "name": "Nationaal Tinnen Figuren Museum",
+                  "text": "Ommen múzeuma, amely történelmi ólomkatonák és figurák gyűjteményét mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        6.422337,
+                        52.517669
+                  ]
+            },
+            {
+                  "name": "Historisch Museum Ommen",
+                  "text": "Ommen városának helytörténetét és örökségét bemutató múzeum.",
+                  "category": "museum",
+                  "coords": [
+                        6.425509,
+                        52.51791
+                  ]
+            },
+            {
+                  "name": "Historisch Rijwielmuseum Ommen",
+                  "text": "Speciális múzeum Ommenben, amely a kerékpárok történetét mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        6.423932,
+                        52.518592
+                  ]
+            },
+            {
+                  "name": "Vliegermuseum Space Art",
+                  "text": "Egyedülálló sárkányeregető múzeum Ommenben.",
+                  "category": "museum",
+                  "coords": [
+                        6.42857,
+                        52.521259
+                  ]
+            },
+            {
+                  "name": "Cultuur historisch monument Varsen",
+                  "text": "Kultúrtörténeti emlékmű Varsenben, amely a régió múltját őrzi.",
+                  "category": "historical",
+                  "coords": [
+                        6.379608,
+                        52.514767
+                  ]
+            },
+            {
+                  "name": "De grote kampvuurkuil",
+                  "text": "Hatalmas szabadtéri közösségi tűzrakóhely és rendezvénytér Ommenben.",
+                  "category": "cultural",
+                  "coords": [
+                        6.39825,
+                        52.51406
                   ]
             }
       ],
@@ -33390,6 +35649,60 @@ export const netherlandsCitiesV2: POI[] = [
                         6.413056,
                         52.516955
                   ]
+            },
+            {
+                  "name": "Nationaal Tinnen Figuren Museum",
+                  "text": "Un muzeu din Ommen care expune o colecție vastă de figurine istorice din cositor.",
+                  "category": "museum",
+                  "coords": [
+                        6.422337,
+                        52.517669
+                  ]
+            },
+            {
+                  "name": "Historisch Museum Ommen",
+                  "text": "Un muzeu dedicat istoriei locale și patrimoniului orașului Ommen.",
+                  "category": "museum",
+                  "coords": [
+                        6.425509,
+                        52.51791
+                  ]
+            },
+            {
+                  "name": "Historisch Rijwielmuseum Ommen",
+                  "text": "Un muzeu specializat din Ommen dedicat istoriei bicicletelor.",
+                  "category": "museum",
+                  "coords": [
+                        6.423932,
+                        52.518592
+                  ]
+            },
+            {
+                  "name": "Vliegermuseum Space Art",
+                  "text": "Un muzeu inedit în Ommen dedicat zmeielor și artei acestora.",
+                  "category": "museum",
+                  "coords": [
+                        6.42857,
+                        52.521259
+                  ]
+            },
+            {
+                  "name": "Cultuur historisch monument Varsen",
+                  "text": "Un monument cultural și istoric în Varsen care documentează trecutul regiunii.",
+                  "category": "historical",
+                  "coords": [
+                        6.379608,
+                        52.514767
+                  ]
+            },
+            {
+                  "name": "De grote kampvuurkuil",
+                  "text": "Un amfiteatru în aer liber din Ommen folosit pentru evenimente comunitare.",
+                  "category": "cultural",
+                  "coords": [
+                        6.39825,
+                        52.51406
+                  ]
             }
       ],
       "en": [
@@ -33418,6 +35731,60 @@ export const netherlandsCitiesV2: POI[] = [
                   "coords": [
                         6.413056,
                         52.516955
+                  ]
+            },
+            {
+                  "name": "Nationaal Tinnen Figuren Museum",
+                  "text": "A museum in Ommen showcasing a vast collection of historic tin figures.",
+                  "category": "museum",
+                  "coords": [
+                        6.422337,
+                        52.517669
+                  ]
+            },
+            {
+                  "name": "Historisch Museum Ommen",
+                  "text": "A museum exploring the local history and heritage of Ommen.",
+                  "category": "museum",
+                  "coords": [
+                        6.425509,
+                        52.51791
+                  ]
+            },
+            {
+                  "name": "Historisch Rijwielmuseum Ommen",
+                  "text": "A specialized museum in Ommen dedicated to the history of bicycles.",
+                  "category": "museum",
+                  "coords": [
+                        6.423932,
+                        52.518592
+                  ]
+            },
+            {
+                  "name": "Vliegermuseum Space Art",
+                  "text": "A unique museum in Ommen dedicated to kites and kite art.",
+                  "category": "museum",
+                  "coords": [
+                        6.42857,
+                        52.521259
+                  ]
+            },
+            {
+                  "name": "Cultuur historisch monument Varsen",
+                  "text": "A cultural-historical monument in Varsen documenting the regional past.",
+                  "category": "historical",
+                  "coords": [
+                        6.379608,
+                        52.514767
+                  ]
+            },
+            {
+                  "name": "De grote kampvuurkuil",
+                  "text": "A large outdoor theater pit in Ommen used for community events.",
+                  "category": "cultural",
+                  "coords": [
+                        6.39825,
+                        52.51406
                   ]
             }
       ]
@@ -33530,6 +35897,51 @@ export const netherlandsCitiesV2: POI[] = [
                         4.711311,
                         52.107787
                   ]
+            },
+            {
+                  "name": "Fort Wierickerschans",
+                  "text": "Dieses historische Fort aus dem 17. Jahrhundert war Teil der alten holländischen Wasserlinie.",
+                  "category": "fortress",
+                  "coords": [
+                        4.783503,
+                        52.081688
+                  ]
+            },
+            {
+                  "name": "De Arkduif",
+                  "text": "Eine klassische holländische Galerieholländer-Windmühle, die das Stadtbild von Bodegraven prägt.",
+                  "category": "landmark",
+                  "coords": [
+                        4.742052,
+                        52.085692
+                  ]
+            },
+            {
+                  "name": "Reeuwijkse Hout",
+                  "text": "Ein Erholungsgebiet bei Bodegraven, das Möglichkeiten zum Wandern, Radfahren und für Wassersport bietet.",
+                  "category": "park",
+                  "coords": [
+                        4.741792,
+                        52.061208
+                  ]
+            },
+            {
+                  "name": "Willibrordus",
+                  "text": "Eine bedeutende katholische Kirche in Bodegraven, bekannt für ihre neugotische Architektur.",
+                  "category": "religious",
+                  "coords": [
+                        4.743828,
+                        52.084274
+                  ]
+            },
+            {
+                  "name": "PKN Ned Hervormd",
+                  "text": "Diese historische reformierte Kirche im Ortsteil Zwammerdam ist ein wichtiges lokales Denkmal.",
+                  "category": "religious",
+                  "coords": [
+                        4.727686,
+                        52.10537
+                  ]
             }
       ],
       "hu": [
@@ -33549,6 +35961,51 @@ export const netherlandsCitiesV2: POI[] = [
                   "coords": [
                         4.711311,
                         52.107787
+                  ]
+            },
+            {
+                  "name": "Fort Wierickerschans",
+                  "text": "Ez a 17. századi történelmi erőd a régi holland vízvonal részét képezte.",
+                  "category": "fortress",
+                  "coords": [
+                        4.783503,
+                        52.081688
+                  ]
+            },
+            {
+                  "name": "De Arkduif",
+                  "text": "Klasszikus holland szélmalom, amely meghatározza Bodegraven városképét.",
+                  "category": "landmark",
+                  "coords": [
+                        4.742052,
+                        52.085692
+                  ]
+            },
+            {
+                  "name": "Reeuwijkse Hout",
+                  "text": "Bodegraven közeli üdülőövezet, amely túrázási, kerékpározási és vízisportolási lehetőségeket kínál.",
+                  "category": "park",
+                  "coords": [
+                        4.741792,
+                        52.061208
+                  ]
+            },
+            {
+                  "name": "Willibrordus",
+                  "text": "Jelentős katolikus templom Bodegravenben, amely neogótikus építészetéről ismert.",
+                  "category": "religious",
+                  "coords": [
+                        4.743828,
+                        52.084274
+                  ]
+            },
+            {
+                  "name": "PKN Ned Hervormd",
+                  "text": "Zwammerdam településrész történelmi református temploma fontos helyi műemlék.",
+                  "category": "religious",
+                  "coords": [
+                        4.727686,
+                        52.10537
                   ]
             }
       ],
@@ -33570,6 +36027,51 @@ export const netherlandsCitiesV2: POI[] = [
                         4.711311,
                         52.107787
                   ]
+            },
+            {
+                  "name": "Fort Wierickerschans",
+                  "text": "Această fortăreață istorică din secolul al XVII-lea a făcut parte din vechea linie de apă olandeză.",
+                  "category": "fortress",
+                  "coords": [
+                        4.783503,
+                        52.081688
+                  ]
+            },
+            {
+                  "name": "De Arkduif",
+                  "text": "O moară de vânt olandeză clasică, care definește imaginea orașului Bodegraven.",
+                  "category": "landmark",
+                  "coords": [
+                        4.742052,
+                        52.085692
+                  ]
+            },
+            {
+                  "name": "Reeuwijkse Hout",
+                  "text": "O zonă de recreere lângă Bodegraven, care oferă oportunități pentru drumeții, ciclism și sporturi nautice.",
+                  "category": "park",
+                  "coords": [
+                        4.741792,
+                        52.061208
+                  ]
+            },
+            {
+                  "name": "Willibrordus",
+                  "text": "O biserică catolică importantă în Bodegraven, cunoscută pentru arhitectura sa neogotică.",
+                  "category": "religious",
+                  "coords": [
+                        4.743828,
+                        52.084274
+                  ]
+            },
+            {
+                  "name": "PKN Ned Hervormd",
+                  "text": "Această biserică reformată istorică din cartierul Zwammerdam este un monument local important.",
+                  "category": "religious",
+                  "coords": [
+                        4.727686,
+                        52.10537
+                  ]
             }
       ],
       "en": [
@@ -33589,6 +36091,51 @@ export const netherlandsCitiesV2: POI[] = [
                   "coords": [
                         4.711311,
                         52.107787
+                  ]
+            },
+            {
+                  "name": "Fort Wierickerschans",
+                  "text": "This historical 17th-century fort was part of the Old Hollandic Water Line.",
+                  "category": "fortress",
+                  "coords": [
+                        4.783503,
+                        52.081688
+                  ]
+            },
+            {
+                  "name": "De Arkduif",
+                  "text": "A classic Dutch gallery windmill that defines the cityscape of Bodegraven.",
+                  "category": "landmark",
+                  "coords": [
+                        4.742052,
+                        52.085692
+                  ]
+            },
+            {
+                  "name": "Reeuwijkse Hout",
+                  "text": "A recreation area near Bodegraven offering opportunities for hiking, cycling, and water sports.",
+                  "category": "park",
+                  "coords": [
+                        4.741792,
+                        52.061208
+                  ]
+            },
+            {
+                  "name": "Willibrordus",
+                  "text": "A significant Catholic church in Bodegraven, known for its Neo-Gothic architecture.",
+                  "category": "religious",
+                  "coords": [
+                        4.743828,
+                        52.084274
+                  ]
+            },
+            {
+                  "name": "PKN Ned Hervormd",
+                  "text": "This historical Reformed church in the Zwammerdam district is an important local monument.",
+                  "category": "religious",
+                  "coords": [
+                        4.727686,
+                        52.10537
                   ]
             }
       ]
@@ -34232,6 +36779,15 @@ export const netherlandsCitiesV2: POI[] = [
                         4.569235,
                         51.842239
                   ]
+            },
+            {
+                  "name": "De Gorzen",
+                  "text": "Ein Natur- und Erholungspark in Ridderkerk, der auf einer ehemaligen Mülldeponie angelegt wurde.",
+                  "category": "park",
+                  "coords": [
+                        4.625916,
+                        51.869538
+                  ]
             }
       ],
       "hu": [
@@ -34440,6 +36996,15 @@ export const netherlandsCitiesV2: POI[] = [
                   "coords": [
                         4.569235,
                         51.842239
+                  ]
+            },
+            {
+                  "name": "De Gorzen",
+                  "text": "Természetvédelmi és szabadidőpark Ridderkerkben, amelyet egy korábbi szeméttelepen alakítottak ki.",
+                  "category": "park",
+                  "coords": [
+                        4.625916,
+                        51.869538
                   ]
             }
       ],
@@ -34650,6 +37215,15 @@ export const netherlandsCitiesV2: POI[] = [
                         4.569235,
                         51.842239
                   ]
+            },
+            {
+                  "name": "De Gorzen",
+                  "text": "Un parc natural și de recreere în Ridderkerk, creat pe locul unei foste rampe de gunoi.",
+                  "category": "park",
+                  "coords": [
+                        4.625916,
+                        51.869538
+                  ]
             }
       ],
       "en": [
@@ -34859,6 +37433,15 @@ export const netherlandsCitiesV2: POI[] = [
                         4.569235,
                         51.842239
                   ]
+            },
+            {
+                  "name": "De Gorzen",
+                  "text": "A nature and recreation park in Ridderkerk created on a former landfill site.",
+                  "category": "park",
+                  "coords": [
+                        4.625916,
+                        51.869538
+                  ]
             }
       ]
 },
@@ -34934,6 +37517,51 @@ export const netherlandsCitiesV2: POI[] = [
                         6.773787,
                         52.678733
                   ]
+            },
+            {
+                  "name": "Kasteel van Coevorden",
+                  "text": "Eine historische Burg in Coevorden, deren Ursprünge bis ins 11. Jahrhundert zurückreichen.",
+                  "category": "castle",
+                  "coords": [
+                        6.741452,
+                        52.662553
+                  ]
+            },
+            {
+                  "name": "De Bente",
+                  "text": "Eine traditionelle niederländische Getreidemühle in Dalen, in der Nähe von Coevorden.",
+                  "category": "landmark",
+                  "coords": [
+                        6.751529,
+                        52.688023
+                  ]
+            },
+            {
+                  "name": "Van Heutszpark",
+                  "text": "Ein schöner öffentlicher Park in Coevorden, benannt nach Joannes Benedictus van Heutsz.",
+                  "category": "park",
+                  "coords": [
+                        6.744542,
+                        52.665443
+                  ]
+            },
+            {
+                  "name": "De Arend",
+                  "text": "Eine historische Windmühle in Coevorden, die in ihrem früheren Glanz restauriert wurde.",
+                  "category": "landmark",
+                  "coords": [
+                        6.7247,
+                        52.65974
+                  ]
+            },
+            {
+                  "name": "Ontdekplek Laar",
+                  "text": "Ein Aussichtspunkt und Entdeckungsort in der ländlichen Gegend von Coevorden.",
+                  "category": "natural",
+                  "coords": [
+                        6.772058,
+                        52.650066
+                  ]
             }
       ],
       "hu": [
@@ -34962,6 +37590,51 @@ export const netherlandsCitiesV2: POI[] = [
                   "coords": [
                         6.773787,
                         52.678733
+                  ]
+            },
+            {
+                  "name": "Kasteel van Coevorden",
+                  "text": "Történelmi vár Coevordenben, amelynek eredete a 11. századig nyúlik vissza.",
+                  "category": "castle",
+                  "coords": [
+                        6.741452,
+                        52.662553
+                  ]
+            },
+            {
+                  "name": "De Bente",
+                  "text": "Hagyományos holland szélmalom Dalenben, Coevorden közelében.",
+                  "category": "landmark",
+                  "coords": [
+                        6.751529,
+                        52.688023
+                  ]
+            },
+            {
+                  "name": "Van Heutszpark",
+                  "text": "Közpark Coevordenben, amely Joannes Benedictus van Heutszról kapta a nevét.",
+                  "category": "park",
+                  "coords": [
+                        6.744542,
+                        52.665443
+                  ]
+            },
+            {
+                  "name": "De Arend",
+                  "text": "Történelmi szélmalom Coevordenben, amelyet eredeti pompájában állítottak helyre.",
+                  "category": "landmark",
+                  "coords": [
+                        6.7247,
+                        52.65974
+                  ]
+            },
+            {
+                  "name": "Ontdekplek Laar",
+                  "text": "Kilátópont és felfedezőhely Coevorden vidéki területén.",
+                  "category": "natural",
+                  "coords": [
+                        6.772058,
+                        52.650066
                   ]
             }
       ],
@@ -34992,6 +37665,51 @@ export const netherlandsCitiesV2: POI[] = [
                         6.773787,
                         52.678733
                   ]
+            },
+            {
+                  "name": "Kasteel van Coevorden",
+                  "text": "Un castel istoric din Coevorden, datând inițial din secolul al XI-lea.",
+                  "category": "castle",
+                  "coords": [
+                        6.741452,
+                        52.662553
+                  ]
+            },
+            {
+                  "name": "De Bente",
+                  "text": "O moară de vânt tradițională olandeză situată în Dalen, lângă Coevorden.",
+                  "category": "landmark",
+                  "coords": [
+                        6.751529,
+                        52.688023
+                  ]
+            },
+            {
+                  "name": "Van Heutszpark",
+                  "text": "Un parc public pitoresc din Coevorden, numit după Joannes Benedictus van Heutsz.",
+                  "category": "park",
+                  "coords": [
+                        6.744542,
+                        52.665443
+                  ]
+            },
+            {
+                  "name": "De Arend",
+                  "text": "O moară de vânt istorică din Coevorden, care a fost restaurată la gloria de odinioară.",
+                  "category": "landmark",
+                  "coords": [
+                        6.7247,
+                        52.65974
+                  ]
+            },
+            {
+                  "name": "Ontdekplek Laar",
+                  "text": "Un punct de belvedere și de descoperire situat în zona rurală din Coevorden.",
+                  "category": "natural",
+                  "coords": [
+                        6.772058,
+                        52.650066
+                  ]
             }
       ],
       "en": [
@@ -35020,6 +37738,51 @@ export const netherlandsCitiesV2: POI[] = [
                   "coords": [
                         6.773787,
                         52.678733
+                  ]
+            },
+            {
+                  "name": "Kasteel van Coevorden",
+                  "text": "A historic castle in Coevorden, originally dating back to the 11th century.",
+                  "category": "castle",
+                  "coords": [
+                        6.741452,
+                        52.662553
+                  ]
+            },
+            {
+                  "name": "De Bente",
+                  "text": "A traditional Dutch flour mill located in the town of Dalen, near Coevorden.",
+                  "category": "landmark",
+                  "coords": [
+                        6.751529,
+                        52.688023
+                  ]
+            },
+            {
+                  "name": "Van Heutszpark",
+                  "text": "A scenic public park in Coevorden named after Joannes Benedictus van Heutsz.",
+                  "category": "park",
+                  "coords": [
+                        6.744542,
+                        52.665443
+                  ]
+            },
+            {
+                  "name": "De Arend",
+                  "text": "A historic windmill in Coevorden that has been restored to its former glory.",
+                  "category": "landmark",
+                  "coords": [
+                        6.7247,
+                        52.65974
+                  ]
+            },
+            {
+                  "name": "Ontdekplek Laar",
+                  "text": "A viewpoint and discovery site located in the rural area of Coevorden.",
+                  "category": "natural",
+                  "coords": [
+                        6.772058,
+                        52.650066
                   ]
             }
       ]
@@ -36878,6 +39641,15 @@ export const netherlandsCitiesV2: POI[] = [
                         6.226076,
                         52.627274
                   ]
+            },
+            {
+                  "name": "De Leijen",
+                  "text": "Eine historische Poldermühle und ein Wahrzeichen in der Gegend von Staphorst.",
+                  "category": "landmark",
+                  "coords": [
+                        6.244878,
+                        52.658694
+                  ]
             }
       ],
       "hu": [
@@ -36906,6 +39678,15 @@ export const netherlandsCitiesV2: POI[] = [
                   "coords": [
                         6.226076,
                         52.627274
+                  ]
+            },
+            {
+                  "name": "De Leijen",
+                  "text": "Történelmi szélmalom és jellegzetes építmény Staphorst környékén.",
+                  "category": "landmark",
+                  "coords": [
+                        6.244878,
+                        52.658694
                   ]
             }
       ],
@@ -36936,6 +39717,15 @@ export const netherlandsCitiesV2: POI[] = [
                         6.226076,
                         52.627274
                   ]
+            },
+            {
+                  "name": "De Leijen",
+                  "text": "O moară de vânt istorică și un punct de reper situat în zona Staphorst.",
+                  "category": "landmark",
+                  "coords": [
+                        6.244878,
+                        52.658694
+                  ]
             }
       ],
       "en": [
@@ -36964,6 +39754,15 @@ export const netherlandsCitiesV2: POI[] = [
                   "coords": [
                         6.226076,
                         52.627274
+                  ]
+            },
+            {
+                  "name": "De Leijen",
+                  "text": "A historic drainage windmill and landmark located in the Staphorst area.",
+                  "category": "landmark",
+                  "coords": [
+                        6.244878,
+                        52.658694
                   ]
             }
       ]
@@ -37049,6 +39848,78 @@ export const netherlandsCitiesV2: POI[] = [
                         4.614247,
                         51.881055
                   ]
+            },
+            {
+                  "name": "Streekmuseum Krimpenerwaard",
+                  "text": "Ein Heimatmuseum in Krimpen aan den IJssel, das in einem historischen Bauernhaus untergebracht ist.",
+                  "category": "museum",
+                  "coords": [
+                        4.588117,
+                        51.919971
+                  ]
+            },
+            {
+                  "name": "De Zaag",
+                  "text": "Ein dynamisches Naturschutzgebiet auf einer Insel im Fluss Lek bei Krimpen aan den IJssel.",
+                  "category": "natural",
+                  "coords": [
+                        4.595993,
+                        51.897301
+                  ]
+            },
+            {
+                  "name": "Kleine Zaag",
+                  "text": "Ein kleineres Naturareal bei Krimpen aan den IJssel, das Teil des Feuchtgebiets am Fluss ist.",
+                  "category": "natural",
+                  "coords": [
+                        4.608418,
+                        51.893889
+                  ]
+            },
+            {
+                  "name": "Isala Theater",
+                  "text": "Ein modernes Theater in Krimpen aan den IJssel mit einem vielfältigen Programm für die Region.",
+                  "category": "cultural",
+                  "coords": [
+                        4.588221,
+                        51.93156
+                  ]
+            },
+            {
+                  "name": "Gemaal Jan Anne Beijerinck",
+                  "text": "Ein historisches Schöpfwerk in Krimpen aan den IJssel, das heute als technisches Museum dient.",
+                  "category": "museum",
+                  "coords": [
+                        4.565528,
+                        51.92943
+                  ]
+            },
+            {
+                  "name": "De Schelvenaer",
+                  "text": "De Schelvenaer ist eine traditionelle Getreidemühle in Krimpen aan den IJssel.",
+                  "category": "landmark",
+                  "coords": [
+                        4.595975,
+                        51.923918
+                  ]
+            },
+            {
+                  "name": "Donckse Bos",
+                  "text": "Der Donckse Bos ist eine bewaldete Parkanlage in Krimpen aan den IJssel.",
+                  "category": "park",
+                  "coords": [
+                        4.593743,
+                        51.886466
+                  ]
+            },
+            {
+                  "name": "Kasteel Capelle",
+                  "text": "Das Kasteel Capelle umfasst die historischen Überreste einer ehemaligen Burg in Krimpen aan den IJssel.",
+                  "category": "historical",
+                  "coords": [
+                        4.583557,
+                        51.922346
+                  ]
             }
       ],
       "hu": [
@@ -37086,6 +39957,78 @@ export const netherlandsCitiesV2: POI[] = [
                   "coords": [
                         4.614247,
                         51.881055
+                  ]
+            },
+            {
+                  "name": "Streekmuseum Krimpenerwaard",
+                  "text": "Helytörténeti múzeum Krimpen aan den IJsselben, amely egy történelmi parasztházban található.",
+                  "category": "museum",
+                  "coords": [
+                        4.588117,
+                        51.919971
+                  ]
+            },
+            {
+                  "name": "De Zaag",
+                  "text": "Dinamikus természetvédelmi terület a Lek folyó egyik szigetén Krimpen aan den IJssel közelében.",
+                  "category": "natural",
+                  "coords": [
+                        4.595993,
+                        51.897301
+                  ]
+            },
+            {
+                  "name": "Kleine Zaag",
+                  "text": "Kisebb természetvédelmi terület Krimpen aan den IJssel közelében, a folyó menti vizes élőhely része.",
+                  "category": "natural",
+                  "coords": [
+                        4.608418,
+                        51.893889
+                  ]
+            },
+            {
+                  "name": "Isala Theater",
+                  "text": "Modern színház Krimpen aan den IJsselben, a régió számára kínált változatos programmal.",
+                  "category": "cultural",
+                  "coords": [
+                        4.588221,
+                        51.93156
+                  ]
+            },
+            {
+                  "name": "Gemaal Jan Anne Beijerinck",
+                  "text": "Történelmi szivattyútelep Krimpen aan den IJsselben, amely ma technikai múzeumként működik.",
+                  "category": "museum",
+                  "coords": [
+                        4.565528,
+                        51.92943
+                  ]
+            },
+            {
+                  "name": "De Schelvenaer",
+                  "text": "De Schelvenaer egy hagyományos gabonőrlő szélmalom Krimpen aan den IJsselben.",
+                  "category": "landmark",
+                  "coords": [
+                        4.595975,
+                        51.923918
+                  ]
+            },
+            {
+                  "name": "Donckse Bos",
+                  "text": "A Donckse Bos egy erdős park Krimpen aan den IJssel területén.",
+                  "category": "park",
+                  "coords": [
+                        4.593743,
+                        51.886466
+                  ]
+            },
+            {
+                  "name": "Kasteel Capelle",
+                  "text": "A Kasteel Capelle egy egykori vár romjait őrzi Krimpen aan den IJsselben.",
+                  "category": "historical",
+                  "coords": [
+                        4.583557,
+                        51.922346
                   ]
             }
       ],
@@ -37125,6 +40068,78 @@ export const netherlandsCitiesV2: POI[] = [
                         4.614247,
                         51.881055
                   ]
+            },
+            {
+                  "name": "Streekmuseum Krimpenerwaard",
+                  "text": "Un muzeu de istorie locală în Krimpen aan den IJssel, situat într-o fermă istorică.",
+                  "category": "museum",
+                  "coords": [
+                        4.588117,
+                        51.919971
+                  ]
+            },
+            {
+                  "name": "De Zaag",
+                  "text": "O rezervație naturală dinamică pe o insulă în râul Lek, lângă Krimpen aan den IJssel.",
+                  "category": "natural",
+                  "coords": [
+                        4.595993,
+                        51.897301
+                  ]
+            },
+            {
+                  "name": "Kleine Zaag",
+                  "text": "O zonă naturală mai mică lângă Krimpen aan den IJssel, care face parte din zona umedă a râului.",
+                  "category": "natural",
+                  "coords": [
+                        4.608418,
+                        51.893889
+                  ]
+            },
+            {
+                  "name": "Isala Theater",
+                  "text": "Un teatru modern în Krimpen aan den IJssel, cu un program variat pentru regiune.",
+                  "category": "cultural",
+                  "coords": [
+                        4.588221,
+                        51.93156
+                  ]
+            },
+            {
+                  "name": "Gemaal Jan Anne Beijerinck",
+                  "text": "O stație istorică de pompare în Krimpen aan den IJssel, care astăzi servește drept muzeu tehnic.",
+                  "category": "museum",
+                  "coords": [
+                        4.565528,
+                        51.92943
+                  ]
+            },
+            {
+                  "name": "De Schelvenaer",
+                  "text": "De Schelvenaer este o moară de vânt tradițională din Krimpen aan den IJssel.",
+                  "category": "landmark",
+                  "coords": [
+                        4.595975,
+                        51.923918
+                  ]
+            },
+            {
+                  "name": "Donckse Bos",
+                  "text": "Donckse Bos este un parc împădurit situat în Krimpen aan den IJssel.",
+                  "category": "park",
+                  "coords": [
+                        4.593743,
+                        51.886466
+                  ]
+            },
+            {
+                  "name": "Kasteel Capelle",
+                  "text": "Kasteel Capelle cuprinde ruinele istorice ale unui fost castel din Krimpen aan den IJssel.",
+                  "category": "historical",
+                  "coords": [
+                        4.583557,
+                        51.922346
+                  ]
             }
       ],
       "en": [
@@ -37162,6 +40177,78 @@ export const netherlandsCitiesV2: POI[] = [
                   "coords": [
                         4.614247,
                         51.881055
+                  ]
+            },
+            {
+                  "name": "Streekmuseum Krimpenerwaard",
+                  "text": "A local history museum in Krimpen aan den IJssel located in a historic farmhouse.",
+                  "category": "museum",
+                  "coords": [
+                        4.588117,
+                        51.919971
+                  ]
+            },
+            {
+                  "name": "De Zaag",
+                  "text": "A dynamic nature reserve on an island in the Lek river near Krimpen aan den IJssel.",
+                  "category": "natural",
+                  "coords": [
+                        4.595993,
+                        51.897301
+                  ]
+            },
+            {
+                  "name": "Kleine Zaag",
+                  "text": "A smaller nature area near Krimpen aan den IJssel, part of the river wetland.",
+                  "category": "natural",
+                  "coords": [
+                        4.608418,
+                        51.893889
+                  ]
+            },
+            {
+                  "name": "Isala Theater",
+                  "text": "A modern theatre in Krimpen aan den IJssel with a diverse program for the region.",
+                  "category": "cultural",
+                  "coords": [
+                        4.588221,
+                        51.93156
+                  ]
+            },
+            {
+                  "name": "Gemaal Jan Anne Beijerinck",
+                  "text": "A historic pumping station in Krimpen aan den IJssel, now serving as a technical museum.",
+                  "category": "museum",
+                  "coords": [
+                        4.565528,
+                        51.92943
+                  ]
+            },
+            {
+                  "name": "De Schelvenaer",
+                  "text": "De Schelvenaer is a traditional flour windmill located in Krimpen aan den IJssel.",
+                  "category": "landmark",
+                  "coords": [
+                        4.595975,
+                        51.923918
+                  ]
+            },
+            {
+                  "name": "Donckse Bos",
+                  "text": "Donckse Bos is a wooded park area in Krimpen aan den IJssel.",
+                  "category": "park",
+                  "coords": [
+                        4.593743,
+                        51.886466
+                  ]
+            },
+            {
+                  "name": "Kasteel Capelle",
+                  "text": "Kasteel Capelle features the historical ruins of a former castle in Krimpen aan den IJssel.",
+                  "category": "historical",
+                  "coords": [
+                        4.583557,
+                        51.922346
                   ]
             }
       ]
@@ -38831,6 +41918,69 @@ export const netherlandsCitiesV2: POI[] = [
                         4.478501,
                         51.953263
                   ]
+            },
+            {
+                  "name": "De Buurvrouw",
+                  "text": "De Buurvrouw ist ein lokales Theater und kultureller Veranstaltungsort in Berkel en Rodenrijs.",
+                  "category": "cultural",
+                  "coords": [
+                        4.471709,
+                        51.961416
+                  ]
+            },
+            {
+                  "name": "Schiebroekse Park",
+                  "text": "Der Schiebroekse Park ist eine großzügige öffentliche Grünanlage in Berkel en Rodenrijs.",
+                  "category": "park",
+                  "coords": [
+                        4.475618,
+                        51.968577
+                  ]
+            },
+            {
+                  "name": "De Valk",
+                  "text": "De Valk ist eine historische Windmühle, die das Stadtbild von Berkel en Rodenrijs prägt.",
+                  "category": "landmark",
+                  "coords": [
+                        4.428756,
+                        51.979754
+                  ]
+            },
+            {
+                  "name": "Atelier de Hichte",
+                  "text": "Atelier de Hichte ist ein Kunstzentrum und Atelier in Berkel en Rodenrijs.",
+                  "category": "cultural",
+                  "coords": [
+                        4.474108,
+                        52.005884
+                  ]
+            },
+            {
+                  "name": "Belevenisboerderij Schieveen",
+                  "text": "Die Belevenisboerderij Schieveen ist ein Erlebnisbauernhof für Besucher in Berkel en Rodenrijs.",
+                  "category": "landmark",
+                  "coords": [
+                        4.440727,
+                        51.965678
+                  ]
+            },
+            {
+                  "name": "Gemeentehuis Lansingerland",
+                  "text": "Das Gemeentehuis Lansingerland ist das moderne Rathaus der Gemeinde in Berkel en Rodenrijs.",
+                  "category": "landmark",
+                  "coords": [
+                        4.493435,
+                        51.981578
+                  ]
+            },
+            {
+                  "name": "De Kikvors",
+                  "text": "De Kikvors ist eine Brücke in der Umgebung von Berkel en Rodenrijs.",
+                  "category": "landmark",
+                  "coords": [
+                        4.427967,
+                        51.976533
+                  ]
             }
       ],
       "hu": [
@@ -38868,6 +42018,69 @@ export const netherlandsCitiesV2: POI[] = [
                   "coords": [
                         4.478501,
                         51.953263
+                  ]
+            },
+            {
+                  "name": "De Buurvrouw",
+                  "text": "A De Buurvrouw egy helyi színház és kulturális helyszín Berkel en Rodenrijsben.",
+                  "category": "cultural",
+                  "coords": [
+                        4.471709,
+                        51.961416
+                  ]
+            },
+            {
+                  "name": "Schiebroekse Park",
+                  "text": "A Schiebroekse Park egy tágas közpark Berkel en Rodenrijs városában.",
+                  "category": "park",
+                  "coords": [
+                        4.475618,
+                        51.968577
+                  ]
+            },
+            {
+                  "name": "De Valk",
+                  "text": "A De Valk egy történelmi szélmalom Berkel en Rodenrijs területén.",
+                  "category": "landmark",
+                  "coords": [
+                        4.428756,
+                        51.979754
+                  ]
+            },
+            {
+                  "name": "Atelier de Hichte",
+                  "text": "Az Atelier de Hichte egy művészeti központ és galéria Berkel en Rodenrijsben.",
+                  "category": "cultural",
+                  "coords": [
+                        4.474108,
+                        52.005884
+                  ]
+            },
+            {
+                  "name": "Belevenisboerderij Schieveen",
+                  "text": "A Belevenisboerderij Schieveen egy látogatható élménygazdaság Berkel en Rodenrijsben.",
+                  "category": "landmark",
+                  "coords": [
+                        4.440727,
+                        51.965678
+                  ]
+            },
+            {
+                  "name": "Gemeentehuis Lansingerland",
+                  "text": "A Gemeentehuis Lansingerland Lansingerland község modern városházája Berkel en Rodenrijsben.",
+                  "category": "landmark",
+                  "coords": [
+                        4.493435,
+                        51.981578
+                  ]
+            },
+            {
+                  "name": "De Kikvors",
+                  "text": "A De Kikvors egy híd Berkel en Rodenrijs területén.",
+                  "category": "landmark",
+                  "coords": [
+                        4.427967,
+                        51.976533
                   ]
             }
       ],
@@ -38907,6 +42120,69 @@ export const netherlandsCitiesV2: POI[] = [
                         4.478501,
                         51.953263
                   ]
+            },
+            {
+                  "name": "De Buurvrouw",
+                  "text": "De Buurvrouw este un teatru local și un centru cultural în Berkel en Rodenrijs.",
+                  "category": "cultural",
+                  "coords": [
+                        4.471709,
+                        51.961416
+                  ]
+            },
+            {
+                  "name": "Schiebroekse Park",
+                  "text": "Parcul Schiebroekse este o zonă verde publică în Berkel en Rodenrijs.",
+                  "category": "park",
+                  "coords": [
+                        4.475618,
+                        51.968577
+                  ]
+            },
+            {
+                  "name": "De Valk",
+                  "text": "De Valk este o moară de vânt istorică situată în Berkel en Rodenrijs.",
+                  "category": "landmark",
+                  "coords": [
+                        4.428756,
+                        51.979754
+                  ]
+            },
+            {
+                  "name": "Atelier de Hichte",
+                  "text": "Atelier de Hichte este un centru de artă și atelier în Berkel en Rodenrijs.",
+                  "category": "cultural",
+                  "coords": [
+                        4.474108,
+                        52.005884
+                  ]
+            },
+            {
+                  "name": "Belevenisboerderij Schieveen",
+                  "text": "Belevenisboerderij Schieveen este o fermă educațională situată în Berkel en Rodenrijs.",
+                  "category": "landmark",
+                  "coords": [
+                        4.440727,
+                        51.965678
+                  ]
+            },
+            {
+                  "name": "Gemeentehuis Lansingerland",
+                  "text": "Gemeentehuis Lansingerland este primăria modernă a municipalității din Berkel en Rodenrijs.",
+                  "category": "landmark",
+                  "coords": [
+                        4.493435,
+                        51.981578
+                  ]
+            },
+            {
+                  "name": "De Kikvors",
+                  "text": "De Kikvors este un pod situat în Berkel en Rodenrijs.",
+                  "category": "landmark",
+                  "coords": [
+                        4.427967,
+                        51.976533
+                  ]
             }
       ],
       "en": [
@@ -38944,6 +42220,69 @@ export const netherlandsCitiesV2: POI[] = [
                   "coords": [
                         4.478501,
                         51.953263
+                  ]
+            },
+            {
+                  "name": "De Buurvrouw",
+                  "text": "De Buurvrouw is a local theatre and cultural venue in Berkel en Rodenrijs.",
+                  "category": "cultural",
+                  "coords": [
+                        4.471709,
+                        51.961416
+                  ]
+            },
+            {
+                  "name": "Schiebroekse Park",
+                  "text": "Schiebroekse Park is a spacious public park in Berkel en Rodenrijs.",
+                  "category": "park",
+                  "coords": [
+                        4.475618,
+                        51.968577
+                  ]
+            },
+            {
+                  "name": "De Valk",
+                  "text": "De Valk is a historic windmill located in Berkel en Rodenrijs.",
+                  "category": "landmark",
+                  "coords": [
+                        4.428756,
+                        51.979754
+                  ]
+            },
+            {
+                  "name": "Atelier de Hichte",
+                  "text": "Atelier de Hichte is an arts centre and studio in Berkel en Rodenrijs.",
+                  "category": "cultural",
+                  "coords": [
+                        4.474108,
+                        52.005884
+                  ]
+            },
+            {
+                  "name": "Belevenisboerderij Schieveen",
+                  "text": "Belevenisboerderij Schieveen is an educational experience farm in Berkel en Rodenrijs.",
+                  "category": "landmark",
+                  "coords": [
+                        4.440727,
+                        51.965678
+                  ]
+            },
+            {
+                  "name": "Gemeentehuis Lansingerland",
+                  "text": "Gemeentehuis Lansingerland is the modern town hall of the municipality in Berkel en Rodenrijs.",
+                  "category": "landmark",
+                  "coords": [
+                        4.493435,
+                        51.981578
+                  ]
+            },
+            {
+                  "name": "De Kikvors",
+                  "text": "De Kikvors is a bridge located in Berkel en Rodenrijs.",
+                  "category": "landmark",
+                  "coords": [
+                        4.427967,
+                        51.976533
                   ]
             }
       ]
@@ -40352,6 +43691,60 @@ export const netherlandsCitiesV2: POI[] = [
                         5.095052,
                         51.683366
                   ]
+            },
+            {
+                  "name": "Kasteel d'Oultremont",
+                  "text": "Ein historisches Schloss in Drunen, bekannt für seine Architektur.",
+                  "category": "castle",
+                  "coords": [
+                        5.169722,
+                        51.692866
+                  ]
+            },
+            {
+                  "name": "Hertogin van Brabant",
+                  "text": "Eine traditionelle holländische Windmühle in Drunen.",
+                  "category": "landmark",
+                  "coords": [
+                        5.1153,
+                        51.691785
+                  ]
+            },
+            {
+                  "name": "Grens Holland-Brabant 1795",
+                  "text": "Eine historische Markierung der Grenze zwischen Holland und Brabant aus dem Jahr 1795.",
+                  "category": "landmark",
+                  "coords": [
+                        5.175978,
+                        51.677509
+                  ]
+            },
+            {
+                  "name": "Landgoed Steenenburg",
+                  "text": "Ein malerisches Landgut und Erholungsgebiet in der Nähe von Drunen.",
+                  "category": "landmark",
+                  "coords": [
+                        5.167465,
+                        51.694103
+                  ]
+            },
+            {
+                  "name": "Voorste Venne",
+                  "text": "Ein Kultur- und Kunstzentrum in Drunen, das verschiedene Veranstaltungen beherbergt.",
+                  "category": "cultural",
+                  "coords": [
+                        5.126193,
+                        51.685825
+                  ]
+            },
+            {
+                  "name": "Sint-Jan-Evangelistkerk",
+                  "text": "Die dem heiligen Johannes dem Evangelisten geweihte Hauptkirche von Drunen.",
+                  "category": "religious",
+                  "coords": [
+                        5.136431,
+                        51.700684
+                  ]
             }
       ],
       "hu": [
@@ -40362,6 +43755,60 @@ export const netherlandsCitiesV2: POI[] = [
                   "coords": [
                         5.095052,
                         51.683366
+                  ]
+            },
+            {
+                  "name": "Kasteel d'Oultremont",
+                  "text": "Történelmi kastély Drunenben, amely építészetéről ismert.",
+                  "category": "castle",
+                  "coords": [
+                        5.169722,
+                        51.692866
+                  ]
+            },
+            {
+                  "name": "Hertogin van Brabant",
+                  "text": "Egy hagyományos holland szélmalom Drunen városában.",
+                  "category": "landmark",
+                  "coords": [
+                        5.1153,
+                        51.691785
+                  ]
+            },
+            {
+                  "name": "Grens Holland-Brabant 1795",
+                  "text": "Hollandia és Brabant 1795-ös történelmi határának emlékműve.",
+                  "category": "landmark",
+                  "coords": [
+                        5.175978,
+                        51.677509
+                  ]
+            },
+            {
+                  "name": "Landgoed Steenenburg",
+                  "text": "Egy festői birtok és pihenőhely Drunen közelében.",
+                  "category": "landmark",
+                  "coords": [
+                        5.167465,
+                        51.694103
+                  ]
+            },
+            {
+                  "name": "Voorste Venne",
+                  "text": "Kulturális és művészeti központ Drunenben, amely különféle rendezvényeknek ad otthont.",
+                  "category": "cultural",
+                  "coords": [
+                        5.126193,
+                        51.685825
+                  ]
+            },
+            {
+                  "name": "Sint-Jan-Evangelistkerk",
+                  "text": "Drunen főtemploma, amelyet Szent János evangélistának szenteltek.",
+                  "category": "religious",
+                  "coords": [
+                        5.136431,
+                        51.700684
                   ]
             }
       ],
@@ -40374,6 +43821,60 @@ export const netherlandsCitiesV2: POI[] = [
                         5.095052,
                         51.683366
                   ]
+            },
+            {
+                  "name": "Kasteel d'Oultremont",
+                  "text": "Un castel istoric din Drunen, cunoscut pentru arhitectura sa.",
+                  "category": "castle",
+                  "coords": [
+                        5.169722,
+                        51.692866
+                  ]
+            },
+            {
+                  "name": "Hertogin van Brabant",
+                  "text": "O moară de vânt olandeză tradițională situată în Drunen.",
+                  "category": "landmark",
+                  "coords": [
+                        5.1153,
+                        51.691785
+                  ]
+            },
+            {
+                  "name": "Grens Holland-Brabant 1795",
+                  "text": "Un marcaj istoric al graniței dintre Olanda și Brabant din anul 1795.",
+                  "category": "landmark",
+                  "coords": [
+                        5.175978,
+                        51.677509
+                  ]
+            },
+            {
+                  "name": "Landgoed Steenenburg",
+                  "text": "O moșie pitorească și zonă de recreere situată lângă Drunen.",
+                  "category": "landmark",
+                  "coords": [
+                        5.167465,
+                        51.694103
+                  ]
+            },
+            {
+                  "name": "Voorste Venne",
+                  "text": "Un centru cultural și artistic din Drunen care găzduiește diverse evenimente.",
+                  "category": "cultural",
+                  "coords": [
+                        5.126193,
+                        51.685825
+                  ]
+            },
+            {
+                  "name": "Sint-Jan-Evangelistkerk",
+                  "text": "Biserica principală din Drunen, dedicată Sfântului Ioan Evanghelistul.",
+                  "category": "religious",
+                  "coords": [
+                        5.136431,
+                        51.700684
+                  ]
             }
       ],
       "en": [
@@ -40384,6 +43885,60 @@ export const netherlandsCitiesV2: POI[] = [
                   "coords": [
                         5.095052,
                         51.683366
+                  ]
+            },
+            {
+                  "name": "Kasteel d'Oultremont",
+                  "text": "A historic castle in Drunen, known for its architecture.",
+                  "category": "castle",
+                  "coords": [
+                        5.169722,
+                        51.692866
+                  ]
+            },
+            {
+                  "name": "Hertogin van Brabant",
+                  "text": "A traditional Dutch windmill located in Drunen.",
+                  "category": "landmark",
+                  "coords": [
+                        5.1153,
+                        51.691785
+                  ]
+            },
+            {
+                  "name": "Grens Holland-Brabant 1795",
+                  "text": "A historical marker of the border between Holland and Brabant from 1795.",
+                  "category": "landmark",
+                  "coords": [
+                        5.175978,
+                        51.677509
+                  ]
+            },
+            {
+                  "name": "Landgoed Steenenburg",
+                  "text": "A picturesque estate and recreation area located near Drunen.",
+                  "category": "landmark",
+                  "coords": [
+                        5.167465,
+                        51.694103
+                  ]
+            },
+            {
+                  "name": "Voorste Venne",
+                  "text": "A cultural and arts centre in Drunen that hosts various events.",
+                  "category": "cultural",
+                  "coords": [
+                        5.126193,
+                        51.685825
+                  ]
+            },
+            {
+                  "name": "Sint-Jan-Evangelistkerk",
+                  "text": "The main church of Drunen, dedicated to Saint John the Evangelist.",
+                  "category": "religious",
+                  "coords": [
+                        5.136431,
+                        51.700684
                   ]
             }
       ]
@@ -42278,6 +45833,33 @@ export const netherlandsCitiesV2: POI[] = [
                         4.911898,
                         52.889145
                   ]
+            },
+            {
+                  "name": "De Onderneming",
+                  "text": "De Onderneming ist eine traditionelle holländische Getreidemühle in Hippolytushoef aus dem Jahr 1891.",
+                  "category": "landmark",
+                  "coords": [
+                        4.947759,
+                        52.90253
+                  ]
+            },
+            {
+                  "name": "Normerven - Vogelkijkscherm",
+                  "text": "Eine Aussichtsplattform zur Vogelbeobachtung im Naturgebiet Normerven bei Hippolytushoef.",
+                  "category": "natural",
+                  "coords": [
+                        4.94104,
+                        52.90547
+                  ]
+            },
+            {
+                  "name": "Hippolytuskerk",
+                  "text": "Eine historische Kirche in Hippolytushoef, deren Ursprünge bis in das 12. Jahrhundert zurückreichen.",
+                  "category": "religious",
+                  "coords": [
+                        4.962286,
+                        52.907406
+                  ]
             }
       ],
       "hu": [
@@ -42288,6 +45870,33 @@ export const netherlandsCitiesV2: POI[] = [
                   "coords": [
                         4.911898,
                         52.889145
+                  ]
+            },
+            {
+                  "name": "De Onderneming",
+                  "text": "A De Onderneming egy 1891-ben épült hagyományos holland gabonaőrlő szélmalom Hippolytushoefben.",
+                  "category": "landmark",
+                  "coords": [
+                        4.947759,
+                        52.90253
+                  ]
+            },
+            {
+                  "name": "Normerven - Vogelkijkscherm",
+                  "text": "Madármegfigyelő kilátóhely a Hippolytushoef melletti Normerven természetvédelmi területen.",
+                  "category": "natural",
+                  "coords": [
+                        4.94104,
+                        52.90547
+                  ]
+            },
+            {
+                  "name": "Hippolytuskerk",
+                  "text": "Történelmi templom Hippolytushoefben, amelynek eredete a 12. századig nyúlik vissza.",
+                  "category": "religious",
+                  "coords": [
+                        4.962286,
+                        52.907406
                   ]
             }
       ],
@@ -42300,6 +45909,33 @@ export const netherlandsCitiesV2: POI[] = [
                         4.911898,
                         52.889145
                   ]
+            },
+            {
+                  "name": "De Onderneming",
+                  "text": "De Onderneming este o moară de vânt tradițională olandeză din Hippolytushoef, construită în 1891.",
+                  "category": "landmark",
+                  "coords": [
+                        4.947759,
+                        52.90253
+                  ]
+            },
+            {
+                  "name": "Normerven - Vogelkijkscherm",
+                  "text": "Un punct de observație a păsărilor în zona naturală Normerven, lângă Hippolytushoef.",
+                  "category": "natural",
+                  "coords": [
+                        4.94104,
+                        52.90547
+                  ]
+            },
+            {
+                  "name": "Hippolytuskerk",
+                  "text": "O biserică istorică în Hippolytushoef, cu origini ce datează din secolul al XII-lea.",
+                  "category": "religious",
+                  "coords": [
+                        4.962286,
+                        52.907406
+                  ]
             }
       ],
       "en": [
@@ -42310,6 +45946,33 @@ export const netherlandsCitiesV2: POI[] = [
                   "coords": [
                         4.911898,
                         52.889145
+                  ]
+            },
+            {
+                  "name": "De Onderneming",
+                  "text": "De Onderneming is a traditional Dutch flour windmill in Hippolytushoef, built in 1891.",
+                  "category": "landmark",
+                  "coords": [
+                        4.947759,
+                        52.90253
+                  ]
+            },
+            {
+                  "name": "Normerven - Vogelkijkscherm",
+                  "text": "A bird watching viewpoint in the Normerven nature area near Hippolytushoef.",
+                  "category": "natural",
+                  "coords": [
+                        4.94104,
+                        52.90547
+                  ]
+            },
+            {
+                  "name": "Hippolytuskerk",
+                  "text": "A historic church in Hippolytushoef, with origins dating back to the 12th century.",
+                  "category": "religious",
+                  "coords": [
+                        4.962286,
+                        52.907406
                   ]
             }
       ]
@@ -44213,6 +47876,15 @@ export const netherlandsCitiesV2: POI[] = [
                         4.696649,
                         52.032513
                   ]
+            },
+            {
+                  "name": "Kinderboerderij Dierendal",
+                  "text": "Die Kinderboerderij Dierendal ist ein kleiner Streichelzoo für Kinder in Waddinxveen.",
+                  "category": "recreational",
+                  "coords": [
+                        4.652613,
+                        52.042875
+                  ]
             }
       ],
       "hu": [
@@ -44592,6 +48264,15 @@ export const netherlandsCitiesV2: POI[] = [
                   "coords": [
                         4.696649,
                         52.032513
+                  ]
+            },
+            {
+                  "name": "Kinderboerderij Dierendal",
+                  "text": "A Kinderboerderij Dierendal egy kis állatsimogató gyerekeknek Waddinxveenben.",
+                  "category": "recreational",
+                  "coords": [
+                        4.652613,
+                        52.042875
                   ]
             }
       ],
@@ -44973,6 +48654,15 @@ export const netherlandsCitiesV2: POI[] = [
                         4.696649,
                         52.032513
                   ]
+            },
+            {
+                  "name": "Kinderboerderij Dierendal",
+                  "text": "Kinderboerderij Dierendal este o mică grădină zoologică pentru copii în Waddinxveen.",
+                  "category": "recreational",
+                  "coords": [
+                        4.652613,
+                        52.042875
+                  ]
             }
       ],
       "en": [
@@ -45352,6 +49042,15 @@ export const netherlandsCitiesV2: POI[] = [
                   "coords": [
                         4.696649,
                         52.032513
+                  ]
+            },
+            {
+                  "name": "Kinderboerderij Dierendal",
+                  "text": "Kinderboerderij Dierendal is a small petting zoo for children in Waddinxveen.",
+                  "category": "recreational",
+                  "coords": [
+                        4.652613,
+                        52.042875
                   ]
             }
       ]
@@ -48443,6 +52142,78 @@ export const netherlandsCitiesV2: POI[] = [
                         5.750033,
                         51.979621
                   ]
+            },
+            {
+                  "name": "The Island",
+                  "text": "Ein Kriegsmuseum in Renkum, das sich auf die Ereignisse in der Betuwe zwischen 1944 und 1945 konzentriert.",
+                  "category": "museum",
+                  "coords": [
+                        5.753342,
+                        51.960648
+                  ]
+            },
+            {
+                  "name": "Gelders Smalspoormuseum",
+                  "text": "Ein Museum in Renkum, das der Geschichte der Schmalspurbahnen gewidmet ist.",
+                  "category": "museum",
+                  "coords": [
+                        5.730533,
+                        51.966048
+                  ]
+            },
+            {
+                  "name": "Oostereng",
+                  "text": "Ein waldreiches Naturschutzgebiet und historisches Landgut in der Gemeinde Renkum.",
+                  "category": "natural",
+                  "coords": [
+                        5.72188,
+                        51.99364
+                  ]
+            },
+            {
+                  "name": "Quadenoord",
+                  "text": "Ein weitläufiges Naturschutzgebiet und Landgut bei Renkum, bekannt für seine Wälder und Moore.",
+                  "category": "natural",
+                  "coords": [
+                        5.73884,
+                        52.002599
+                  ]
+            },
+            {
+                  "name": "Oranje Nassau's Oord",
+                  "text": "Ein geschichtsträchtiges Naturschutzgebiet in Renkum, das früher als königliches Sanatorium diente.",
+                  "category": "natural",
+                  "coords": [
+                        5.711912,
+                        51.974399
+                  ]
+            },
+            {
+                  "name": "De Keijenberg",
+                  "text": "Ein Naturschutzgebiet in Renkum mit abwechslungsreichen Wald- und Heidelandschaften.",
+                  "category": "natural",
+                  "coords": [
+                        5.73353,
+                        51.985211
+                  ]
+            },
+            {
+                  "name": "De Kamp",
+                  "text": "Ein kleines Naturschutzgebiet bei Heelsum in der Gemeinde Renkum.",
+                  "category": "natural",
+                  "coords": [
+                        5.77047,
+                        51.984307
+                  ]
+            },
+            {
+                  "name": "De Dorschkamp",
+                  "text": "Ein Waldgebiet und Naturschutzgebiet in Renkum, das zur Erholung genutzt wird.",
+                  "category": "natural",
+                  "coords": [
+                        5.702102,
+                        51.975866
+                  ]
             }
       ],
       "hu": [
@@ -48462,6 +52233,78 @@ export const netherlandsCitiesV2: POI[] = [
                   "coords": [
                         5.750033,
                         51.979621
+                  ]
+            },
+            {
+                  "name": "The Island",
+                  "text": "Egy háború múzeum Renkumban, amely az 1944-1945 közötti betuwei eseményekre összpontosít.",
+                  "category": "museum",
+                  "coords": [
+                        5.753342,
+                        51.960648
+                  ]
+            },
+            {
+                  "name": "Gelders Smalspoormuseum",
+                  "text": "Egy múzeum Renkumban, amely a keskeny nyomtávú vasutak történetét mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        5.730533,
+                        51.966048
+                  ]
+            },
+            {
+                  "name": "Oostereng",
+                  "text": "Erdős természetvédelmi terület és történelmi birtok Renkum községben.",
+                  "category": "natural",
+                  "coords": [
+                        5.72188,
+                        51.99364
+                  ]
+            },
+            {
+                  "name": "Quadenoord",
+                  "text": "Egy kiterjedt természetvédelmi terület és birtok Renkum közelében, erdőiről és lápjairól ismert.",
+                  "category": "natural",
+                  "coords": [
+                        5.73884,
+                        52.002599
+                  ]
+            },
+            {
+                  "name": "Oranje Nassau's Oord",
+                  "text": "Történelmi jelentőségű természetvédelmi terület Renkumban, amely korábban királyi szanatórium volt.",
+                  "category": "natural",
+                  "coords": [
+                        5.711912,
+                        51.974399
+                  ]
+            },
+            {
+                  "name": "De Keijenberg",
+                  "text": "Természetvédelmi terület Renkumban, változatos erdős és fenyéres tájakkal.",
+                  "category": "natural",
+                  "coords": [
+                        5.73353,
+                        51.985211
+                  ]
+            },
+            {
+                  "name": "De Kamp",
+                  "text": "Egy kis természetvédelmi terület Heelsum közelében, Renkum községben.",
+                  "category": "natural",
+                  "coords": [
+                        5.77047,
+                        51.984307
+                  ]
+            },
+            {
+                  "name": "De Dorschkamp",
+                  "text": "Egy erdős természetvédelmi terület Renkumban, amely kikapcsolódásra szolgál.",
+                  "category": "natural",
+                  "coords": [
+                        5.702102,
+                        51.975866
                   ]
             }
       ],
@@ -48483,6 +52326,78 @@ export const netherlandsCitiesV2: POI[] = [
                         5.750033,
                         51.979621
                   ]
+            },
+            {
+                  "name": "The Island",
+                  "text": "Un muzeu de război din Renkum, axat pe evenimentele din regiunea Betuwe între 1944 și 1945.",
+                  "category": "museum",
+                  "coords": [
+                        5.753342,
+                        51.960648
+                  ]
+            },
+            {
+                  "name": "Gelders Smalspoormuseum",
+                  "text": "Un muzeu din Renkum dedicat istoriei căilor ferate cu ecartament îngust.",
+                  "category": "museum",
+                  "coords": [
+                        5.730533,
+                        51.966048
+                  ]
+            },
+            {
+                  "name": "Oostereng",
+                  "text": "O rezervație naturală împădurită și o moșie istorică în municipalitatea Renkum.",
+                  "category": "natural",
+                  "coords": [
+                        5.72188,
+                        51.99364
+                  ]
+            },
+            {
+                  "name": "Quadenoord",
+                  "text": "O rezervație naturală și moșie vastă lângă Renkum, cunoscută pentru pădurile și mlaștinile sale.",
+                  "category": "natural",
+                  "coords": [
+                        5.73884,
+                        52.002599
+                  ]
+            },
+            {
+                  "name": "Oranje Nassau's Oord",
+                  "text": "O rezervație naturală cu semnificație istorică în Renkum, care a servit anterior drept sanatoriu regal.",
+                  "category": "natural",
+                  "coords": [
+                        5.711912,
+                        51.974399
+                  ]
+            },
+            {
+                  "name": "De Keijenberg",
+                  "text": "O rezervație naturală în Renkum, cu peisaje variate de pădure și pajiști cu iarbă neagră.",
+                  "category": "natural",
+                  "coords": [
+                        5.73353,
+                        51.985211
+                  ]
+            },
+            {
+                  "name": "De Kamp",
+                  "text": "O mică rezervație naturală lângă Heelsum, în municipalitatea Renkum.",
+                  "category": "natural",
+                  "coords": [
+                        5.77047,
+                        51.984307
+                  ]
+            },
+            {
+                  "name": "De Dorschkamp",
+                  "text": "O zonă forestieră și rezervație naturală în Renkum, utilizată pentru recreere.",
+                  "category": "natural",
+                  "coords": [
+                        5.702102,
+                        51.975866
+                  ]
             }
       ],
       "en": [
@@ -48502,6 +52417,78 @@ export const netherlandsCitiesV2: POI[] = [
                   "coords": [
                         5.750033,
                         51.979621
+                  ]
+            },
+            {
+                  "name": "The Island",
+                  "text": "A war museum in Renkum focusing on the events in the Betuwe region between 1944 and 1945.",
+                  "category": "museum",
+                  "coords": [
+                        5.753342,
+                        51.960648
+                  ]
+            },
+            {
+                  "name": "Gelders Smalspoormuseum",
+                  "text": "A museum in Renkum dedicated to the history of narrow-gauge railways.",
+                  "category": "museum",
+                  "coords": [
+                        5.730533,
+                        51.966048
+                  ]
+            },
+            {
+                  "name": "Oostereng",
+                  "text": "A forested nature reserve and historic estate in the municipality of Renkum.",
+                  "category": "natural",
+                  "coords": [
+                        5.72188,
+                        51.99364
+                  ]
+            },
+            {
+                  "name": "Quadenoord",
+                  "text": "A vast nature reserve and estate near Renkum, known for its forests and heaths.",
+                  "category": "natural",
+                  "coords": [
+                        5.73884,
+                        52.002599
+                  ]
+            },
+            {
+                  "name": "Oranje Nassau's Oord",
+                  "text": "A nature reserve with historical significance in Renkum, formerly used as a royal sanatorium.",
+                  "category": "natural",
+                  "coords": [
+                        5.711912,
+                        51.974399
+                  ]
+            },
+            {
+                  "name": "De Keijenberg",
+                  "text": "A nature reserve in Renkum featuring varied forest and heathland landscapes.",
+                  "category": "natural",
+                  "coords": [
+                        5.73353,
+                        51.985211
+                  ]
+            },
+            {
+                  "name": "De Kamp",
+                  "text": "A small nature reserve near Heelsum in the municipality of Renkum.",
+                  "category": "natural",
+                  "coords": [
+                        5.77047,
+                        51.984307
+                  ]
+            },
+            {
+                  "name": "De Dorschkamp",
+                  "text": "A forested nature reserve in Renkum used for outdoor recreation.",
+                  "category": "natural",
+                  "coords": [
+                        5.702102,
+                        51.975866
                   ]
             }
       ]
@@ -49316,6 +53303,42 @@ export const netherlandsCitiesV2: POI[] = [
                         4.709051,
                         52.602164
                   ]
+            },
+            {
+                  "name": "De Beun",
+                  "text": "De Beun ist ein lokales Theater und Kulturzentrum in Heiloo.",
+                  "category": "cultural",
+                  "coords": [
+                        4.71324,
+                        52.606634
+                  ]
+            },
+            {
+                  "name": "Verhalenkamer Willibrordus",
+                  "text": "Die Verhalenkamer Willibrordus dokumentiert die Geschichte der Psychiatrie in Heiloo.",
+                  "category": "museum",
+                  "coords": [
+                        4.709972,
+                        52.596829
+                  ]
+            },
+            {
+                  "name": "Archeologisch museum Baduhenna",
+                  "text": "Das Archeologisch Museum Baduhenna beleuchtet die antike Geschichte von Heiloo.",
+                  "category": "museum",
+                  "coords": [
+                        4.708643,
+                        52.596214
+                  ]
+            },
+            {
+                  "name": "Witte Kerk",
+                  "text": "Eine historische weiße Kirche im Zentrum von Heiloo, bekannt für ihre charakteristische Architektur.",
+                  "category": "religious",
+                  "coords": [
+                        4.713073,
+                        52.604993
+                  ]
             }
       ],
       "hu": [
@@ -49434,6 +53457,42 @@ export const netherlandsCitiesV2: POI[] = [
                   "coords": [
                         4.709051,
                         52.602164
+                  ]
+            },
+            {
+                  "name": "De Beun",
+                  "text": "A De Beun egy helyi színház és kulturális központ Heiloo városában.",
+                  "category": "cultural",
+                  "coords": [
+                        4.71324,
+                        52.606634
+                  ]
+            },
+            {
+                  "name": "Verhalenkamer Willibrordus",
+                  "text": "A Verhalenkamer Willibrordus a pszichiátriai ellátás történetét mutatja be Heilooban.",
+                  "category": "museum",
+                  "coords": [
+                        4.709972,
+                        52.596829
+                  ]
+            },
+            {
+                  "name": "Archeologisch museum Baduhenna",
+                  "text": "Az Archeologisch museum Baduhenna Heiloo ókori történelmét mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        4.708643,
+                        52.596214
+                  ]
+            },
+            {
+                  "name": "Witte Kerk",
+                  "text": "Történelmi fehér templom Heiloo központjában, amely jellegzetes építészetéről ismert.",
+                  "category": "religious",
+                  "coords": [
+                        4.713073,
+                        52.604993
                   ]
             }
       ],
@@ -49554,6 +53613,42 @@ export const netherlandsCitiesV2: POI[] = [
                         4.709051,
                         52.602164
                   ]
+            },
+            {
+                  "name": "De Beun",
+                  "text": "De Beun este un teatru și centru cultural local în Heiloo.",
+                  "category": "cultural",
+                  "coords": [
+                        4.71324,
+                        52.606634
+                  ]
+            },
+            {
+                  "name": "Verhalenkamer Willibrordus",
+                  "text": "Verhalenkamer Willibrordus prezintă istoria îngrijirii psihiatrice din Heiloo.",
+                  "category": "museum",
+                  "coords": [
+                        4.709972,
+                        52.596829
+                  ]
+            },
+            {
+                  "name": "Archeologisch museum Baduhenna",
+                  "text": "Muzeul Arheologic Baduhenna explorează istoria antică a regiunii Heiloo.",
+                  "category": "museum",
+                  "coords": [
+                        4.708643,
+                        52.596214
+                  ]
+            },
+            {
+                  "name": "Witte Kerk",
+                  "text": "O biserică albă istorică din centrul localității Heiloo, cunoscută pentru arhitectura sa iconică.",
+                  "category": "religious",
+                  "coords": [
+                        4.713073,
+                        52.604993
+                  ]
             }
       ],
       "en": [
@@ -49673,6 +53768,42 @@ export const netherlandsCitiesV2: POI[] = [
                         4.709051,
                         52.602164
                   ]
+            },
+            {
+                  "name": "De Beun",
+                  "text": "De Beun is a local theatre and cultural centre in Heiloo.",
+                  "category": "cultural",
+                  "coords": [
+                        4.71324,
+                        52.606634
+                  ]
+            },
+            {
+                  "name": "Verhalenkamer Willibrordus",
+                  "text": "Verhalenkamer Willibrordus showcases the history of psychiatric care in Heiloo.",
+                  "category": "museum",
+                  "coords": [
+                        4.709972,
+                        52.596829
+                  ]
+            },
+            {
+                  "name": "Archeologisch museum Baduhenna",
+                  "text": "Archeologisch museum Baduhenna explores the ancient history of the Heiloo region.",
+                  "category": "museum",
+                  "coords": [
+                        4.708643,
+                        52.596214
+                  ]
+            },
+            {
+                  "name": "Witte Kerk",
+                  "text": "A historic white church in the center of Heiloo, known for its iconic architecture.",
+                  "category": "religious",
+                  "coords": [
+                        4.713073,
+                        52.604993
+                  ]
             }
       ]
 },
@@ -49720,7 +53851,304 @@ export const netherlandsCitiesV2: POI[] = [
     image: "/poi-images/netherlands-heilo-cities-v2.webp",
   },
   {
-    id: "netherlands-oldenzaal-cities-v2",
+    id: "netherlands-oldenzaal-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Stadstheater De Bond",
+                  "text": "Das städtische Theater von Oldenzaal, das verschiedene kulturelle Aufführungen bietet.",
+                  "category": "cultural",
+                  "coords": [
+                        6.931977,
+                        52.315864
+                  ]
+            },
+            {
+                  "name": "Landgoederen Oldenzaal",
+                  "text": "Ein Naturschutzgebiet bei Oldenzaal mit historischen Landgütern.",
+                  "category": "natural",
+                  "coords": [
+                        6.964994,
+                        52.311662
+                  ]
+            },
+            {
+                  "name": "Palthe Huis",
+                  "text": "Ein Museum in einem historischen Stadthaus, das die lokale Geschichte zeigt.",
+                  "category": "museum",
+                  "coords": [
+                        6.930489,
+                        52.313246
+                  ]
+            },
+            {
+                  "name": "Koepel op de Tankenberg",
+                  "text": "Ein kleiner Pavillon auf dem Tankenberg, der eine weite Aussicht bietet.",
+                  "category": "natural",
+                  "coords": [
+                        6.955711,
+                        52.323413
+                  ]
+            },
+            {
+                  "name": "Muziekkoepel Oldenzaal",
+                  "text": "Ein traditioneller Musikpavillon im Zentrum von Oldenzaal für öffentliche Konzerte.",
+                  "category": "landmark",
+                  "coords": [
+                        6.935554,
+                        52.301857
+                  ]
+            },
+            {
+                  "name": "'n Preakstool",
+                  "text": "Ein ländlicher Aussichtspunkt in der malerischen Umgebung von Oldenzaal.",
+                  "category": "natural",
+                  "coords": [
+                        6.966105,
+                        52.317246
+                  ]
+            },
+            {
+                  "name": "bank \"zonder oe\"",
+                  "text": "Eine Ruhebank mit Aussicht auf die umliegende Landschaft von Oldenzaal.",
+                  "category": "natural",
+                  "coords": [
+                        6.957035,
+                        52.317082
+                  ]
+            },
+            {
+                  "name": "Sint Plechelmusbasiliek",
+                  "text": "Eine bedeutende romanische Basilika aus dem 12. Jahrhundert im Stadtzentrum.",
+                  "category": "religious",
+                  "coords": [
+                        6.928813,
+                        52.312412
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Stadstheater De Bond",
+                  "text": "Oldenzaal városi színháza, amely különféle kulturális előadásoknak ad otthont.",
+                  "category": "cultural",
+                  "coords": [
+                        6.931977,
+                        52.315864
+                  ]
+            },
+            {
+                  "name": "Landgoederen Oldenzaal",
+                  "text": "Oldenzaal környéki természetvédelmi terület történelmi birtokokkal.",
+                  "category": "natural",
+                  "coords": [
+                        6.964994,
+                        52.311662
+                  ]
+            },
+            {
+                  "name": "Palthe Huis",
+                  "text": "Történelmi polgárházban berendezett múzeum, amely a helyi múltat mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        6.930489,
+                        52.313246
+                  ]
+            },
+            {
+                  "name": "Koepel op de Tankenberg",
+                  "text": "Kisméretű pavilon a Tankenberg-dombon, ahonnan messzire el lehet látni.",
+                  "category": "natural",
+                  "coords": [
+                        6.955711,
+                        52.323413
+                  ]
+            },
+            {
+                  "name": "Muziekkoepel Oldenzaal",
+                  "text": "Hagyományos zenepavilon Oldenzaal központjában szabadtéri koncertekhez.",
+                  "category": "landmark",
+                  "coords": [
+                        6.935554,
+                        52.301857
+                  ]
+            },
+            {
+                  "name": "'n Preakstool",
+                  "text": "Vidéki kilátópont Oldenzaal festői környezetében.",
+                  "category": "natural",
+                  "coords": [
+                        6.966105,
+                        52.317246
+                  ]
+            },
+            {
+                  "name": "bank \"zonder oe\"",
+                  "text": "Pihenőpad kilátással Oldenzaal környéki tájaira.",
+                  "category": "natural",
+                  "coords": [
+                        6.957035,
+                        52.317082
+                  ]
+            },
+            {
+                  "name": "Sint Plechelmusbasiliek",
+                  "text": "Jelentős 12. századi román stílusú bazilika a városközpontban.",
+                  "category": "religious",
+                  "coords": [
+                        6.928813,
+                        52.312412
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Stadstheater De Bond",
+                  "text": "Teatrul municipal din Oldenzaal, care găzduiește diverse spectacole culturale.",
+                  "category": "cultural",
+                  "coords": [
+                        6.931977,
+                        52.315864
+                  ]
+            },
+            {
+                  "name": "Landgoederen Oldenzaal",
+                  "text": "O rezervație naturală lângă Oldenzaal, cuprinzând domenii istorice.",
+                  "category": "natural",
+                  "coords": [
+                        6.964994,
+                        52.311662
+                  ]
+            },
+            {
+                  "name": "Palthe Huis",
+                  "text": "Un muzeu situat într-o casă istorică, prezentând istoria locală.",
+                  "category": "museum",
+                  "coords": [
+                        6.930489,
+                        52.313246
+                  ]
+            },
+            {
+                  "name": "Koepel op de Tankenberg",
+                  "text": "Un mic pavilion pe dealul Tankenberg, oferind o vedere panoramică vastă.",
+                  "category": "natural",
+                  "coords": [
+                        6.955711,
+                        52.323413
+                  ]
+            },
+            {
+                  "name": "Muziekkoepel Oldenzaal",
+                  "text": "Un pavilion muzical tradițional în centrul orașului Oldenzaal pentru concerte publice.",
+                  "category": "landmark",
+                  "coords": [
+                        6.935554,
+                        52.301857
+                  ]
+            },
+            {
+                  "name": "'n Preakstool",
+                  "text": "Un punct de observație rural în împrejurimile pitorești ale orașului Oldenzaal.",
+                  "category": "natural",
+                  "coords": [
+                        6.966105,
+                        52.317246
+                  ]
+            },
+            {
+                  "name": "bank \"zonder oe\"",
+                  "text": "O bancă de odihnă care oferă o vedere asupra peisajului din jur în Oldenzaal.",
+                  "category": "natural",
+                  "coords": [
+                        6.957035,
+                        52.317082
+                  ]
+            },
+            {
+                  "name": "Sint Plechelmusbasiliek",
+                  "text": "O bazilică romanică importantă din secolul al XII-lea, situată în centrul orașului.",
+                  "category": "religious",
+                  "coords": [
+                        6.928813,
+                        52.312412
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Stadstheater De Bond",
+                  "text": "The municipal theatre of Oldenzaal, hosting various cultural performances.",
+                  "category": "cultural",
+                  "coords": [
+                        6.931977,
+                        52.315864
+                  ]
+            },
+            {
+                  "name": "Landgoederen Oldenzaal",
+                  "text": "A nature reserve near Oldenzaal featuring historic country estates.",
+                  "category": "natural",
+                  "coords": [
+                        6.964994,
+                        52.311662
+                  ]
+            },
+            {
+                  "name": "Palthe Huis",
+                  "text": "A museum housed in a historic townhouse showcasing local history.",
+                  "category": "museum",
+                  "coords": [
+                        6.930489,
+                        52.313246
+                  ]
+            },
+            {
+                  "name": "Koepel op de Tankenberg",
+                  "text": "A small cupola on the Tankenberg hill offering wide scenic views.",
+                  "category": "natural",
+                  "coords": [
+                        6.955711,
+                        52.323413
+                  ]
+            },
+            {
+                  "name": "Muziekkoepel Oldenzaal",
+                  "text": "A traditional music pavilion in the center of Oldenzaal for public concerts.",
+                  "category": "landmark",
+                  "coords": [
+                        6.935554,
+                        52.301857
+                  ]
+            },
+            {
+                  "name": "'n Preakstool",
+                  "text": "A rural viewpoint in the scenic surroundings of Oldenzaal.",
+                  "category": "natural",
+                  "coords": [
+                        6.966105,
+                        52.317246
+                  ]
+            },
+            {
+                  "name": "bank \"zonder oe\"",
+                  "text": "A resting bench offering a view of the surrounding landscape in Oldenzaal.",
+                  "category": "natural",
+                  "coords": [
+                        6.957035,
+                        52.317082
+                  ]
+            },
+            {
+                  "name": "Sint Plechelmusbasiliek",
+                  "text": "A significant 12th-century Romanesque basilica in the city center.",
+                  "category": "religious",
+                  "coords": [
+                        6.928813,
+                        52.312412
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "NL",
     name: { de: "Oldenzaal", hu: "Oldenzaal", ro: "Oldenzaal", en: "Oldenzaal" },

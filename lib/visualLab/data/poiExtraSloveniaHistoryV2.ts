@@ -233,7 +233,268 @@ imageHint: "Medieval castle on a cliff overlooking a blue lake",
     },
     image: "/poi-images/slovenia-bled-castle-history-v2.webp",
 },  {
-    id: "slovenia-sticna-abbey-history-v2",
+    id: "slovenia-sticna-abbey-history-v2", "sights": {
+      "de": [
+            {
+                  "name": "Kulturni dom Ivančna Gorica",
+                  "text": "Ein Gemeinschaftszentrum für Kunst, das Raum für lokale kulturelle Veranstaltungen und kreative Aktivitäten bietet.",
+                  "category": "cultural",
+                  "coords": [
+                        14.804526,
+                        45.938593
+                  ]
+            },
+            {
+                  "name": "Milnik",
+                  "text": "Ein historischer Meilenstein oder Denkmal, das einen bedeutenden Punkt in der Gegend von Stična markiert.",
+                  "category": "historical",
+                  "coords": [
+                        14.80458,
+                        45.939629
+                  ]
+            },
+            {
+                  "name": "Žrtvam za našo svobodo",
+                  "text": "Ein Gedenkmonument für diejenigen, die für die nationale Freiheit gekämpft und sich geopfert haben.",
+                  "category": "historical",
+                  "coords": [
+                        14.806785,
+                        45.956464
+                  ]
+            },
+            {
+                  "name": "Šentvid pri Stični, geod. točka 0. reda",
+                  "text": "Ein spezieller geodätischer Markierungspunkt, der als primärer Referenzpunkt für Vermessungen in der Region dient.",
+                  "category": "historical",
+                  "coords": [
+                        14.83599,
+                        45.954782
+                  ]
+            },
+            {
+                  "name": "Cerkev sv. Jožefa",
+                  "text": "Eine bemerkenswerte katholische Kirche in der Nähe der Abtei Stična, die dem heiligen Josef gewidmet ist.",
+                  "category": "religious",
+                  "coords": [
+                        14.808319,
+                        45.936687
+                  ]
+            },
+            {
+                  "name": "Žalostna Mati Božja",
+                  "text": "Eine religiöse Stätte oder Kapelle in der Nähe von Stična, die der Schmerzensreichen Mutter Gottes gewidmet ist.",
+                  "category": "religious",
+                  "coords": [
+                        14.805037,
+                        45.956892
+                  ]
+            },
+            {
+                  "name": "Cerkev sv. Vida, Šentvid pri Stični",
+                  "text": "Die historische Pfarrkirche St. Vitus im Dorf Šentvid bei Stična.",
+                  "category": "religious",
+                  "coords": [
+                        14.838046,
+                        45.953821
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Kulturni dom Ivančna Gorica",
+                  "text": "Közösségi művészeti központ, amely helyet biztosít a helyi kulturális eseményeknek és kreatív tevékenységeknek.",
+                  "category": "cultural",
+                  "coords": [
+                        14.804526,
+                        45.938593
+                  ]
+            },
+            {
+                  "name": "Milnik",
+                  "text": "Történelmi mérföldkő vagy emlékmű, amely egy jelentős pontot jelöl Stična környékén.",
+                  "category": "historical",
+                  "coords": [
+                        14.80458,
+                        45.939629
+                  ]
+            },
+            {
+                  "name": "Žrtvam za našo svobodo",
+                  "text": "Emlékmű azoknak, akik a nemzeti szabadságért harcoltak és áldozták életüket.",
+                  "category": "historical",
+                  "coords": [
+                        14.806785,
+                        45.956464
+                  ]
+            },
+            {
+                  "name": "Šentvid pri Stični, geod. točka 0. reda",
+                  "text": "Egy speciális geodéziai jelzőpont, amely a régió földmérésének elsődleges referenciapontját képviseli.",
+                  "category": "historical",
+                  "coords": [
+                        14.83599,
+                        45.954782
+                  ]
+            },
+            {
+                  "name": "Cerkev sv. Jožefa",
+                  "text": "Egy jelentős katolikus templom a Stična-apátság közelében, amelyet Szent Józsefnek szenteltek.",
+                  "category": "religious",
+                  "coords": [
+                        14.808319,
+                        45.936687
+                  ]
+            },
+            {
+                  "name": "Žalostna Mati Božja",
+                  "text": "Vallási helyszín vagy kápolna Stična közelében, amelyet a Fájdalmas Szűzanyának szenteltek.",
+                  "category": "religious",
+                  "coords": [
+                        14.805037,
+                        45.956892
+                  ]
+            },
+            {
+                  "name": "Cerkev sv. Vida, Šentvid pri Stični",
+                  "text": "Szent Vitus történelmi plébániatemploma Šentvid faluban, Stična közelében.",
+                  "category": "religious",
+                  "coords": [
+                        14.838046,
+                        45.953821
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Kulturni dom Ivančna Gorica",
+                  "text": "Un centru comunitar de artă care oferă spațiu pentru evenimente culturale locale și activități creative.",
+                  "category": "cultural",
+                  "coords": [
+                        14.804526,
+                        45.938593
+                  ]
+            },
+            {
+                  "name": "Milnik",
+                  "text": "O piatră de hotar istorică sau un monument care marchează un punct semnificativ în zona Stična.",
+                  "category": "historical",
+                  "coords": [
+                        14.80458,
+                        45.939629
+                  ]
+            },
+            {
+                  "name": "Žrtvam za našo svobodo",
+                  "text": "Un monument memorial dedicat celor care au luptat și s-au jertfit pentru libertatea națională.",
+                  "category": "historical",
+                  "coords": [
+                        14.806785,
+                        45.956464
+                  ]
+            },
+            {
+                  "name": "Šentvid pri Stični, geod. točka 0. reda",
+                  "text": "Un marcaj geodezic specific care reprezintă un punct de referință primar pentru măsurătorile din regiune.",
+                  "category": "historical",
+                  "coords": [
+                        14.83599,
+                        45.954782
+                  ]
+            },
+            {
+                  "name": "Cerkev sv. Jožefa",
+                  "text": "O biserică catolică notabilă lângă Abația Stična, dedicată Sfântului Iosif.",
+                  "category": "religious",
+                  "coords": [
+                        14.808319,
+                        45.936687
+                  ]
+            },
+            {
+                  "name": "Žalostna Mati Božja",
+                  "text": "Un sit religios sau o capelă dedicată Maicii Domnului Îndurerate în vecinătatea localității Stična.",
+                  "category": "religious",
+                  "coords": [
+                        14.805037,
+                        45.956892
+                  ]
+            },
+            {
+                  "name": "Cerkev sv. Vida, Šentvid pri Stični",
+                  "text": "Biserica parohială istorică Sfântul Vitus, situată în satul Šentvid, lângă Stična.",
+                  "category": "religious",
+                  "coords": [
+                        14.838046,
+                        45.953821
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Kulturni dom Ivančna Gorica",
+                  "text": "A community arts center providing space for local cultural events and creative activities.",
+                  "category": "cultural",
+                  "coords": [
+                        14.804526,
+                        45.938593
+                  ]
+            },
+            {
+                  "name": "Milnik",
+                  "text": "A historic milestone or monument marking a significant point in the Stična area.",
+                  "category": "historical",
+                  "coords": [
+                        14.80458,
+                        45.939629
+                  ]
+            },
+            {
+                  "name": "Žrtvam za našo svobodo",
+                  "text": "A memorial monument dedicated to those who fought and sacrificed for national freedom.",
+                  "category": "historical",
+                  "coords": [
+                        14.806785,
+                        45.956464
+                  ]
+            },
+            {
+                  "name": "Šentvid pri Stični, geod. točka 0. reda",
+                  "text": "A specific geodetic marker representing a primary reference point for surveying in the region.",
+                  "category": "historical",
+                  "coords": [
+                        14.83599,
+                        45.954782
+                  ]
+            },
+            {
+                  "name": "Cerkev sv. Jožefa",
+                  "text": "A notable Catholic church near Stična Abbey dedicated to Saint Joseph.",
+                  "category": "religious",
+                  "coords": [
+                        14.808319,
+                        45.936687
+                  ]
+            },
+            {
+                  "name": "Žalostna Mati Božja",
+                  "text": "A religious site or chapel dedicated to Our Lady of Sorrows in the vicinity of Stična.",
+                  "category": "religious",
+                  "coords": [
+                        14.805037,
+                        45.956892
+                  ]
+            },
+            {
+                  "name": "Cerkev sv. Vida, Šentvid pri Stični",
+                  "text": "The historic parish church of Saint Vitus located in the village of Šentvid near Stična.",
+                  "category": "religious",
+                  "coords": [
+                        14.838046,
+                        45.953821
+                  ]
+            }
+      ]
+},
     parent: "SI",
     type: "monument",
     name: { de: "Kloster Stična", hu: "Stičnai apátság", ro: "Abbația Stična", en: "Stična Abbey"},
@@ -279,7 +540,304 @@ imageHint: "Ancient monastery complex with a large stone church",
     },
     image: "/poi-images/slovenia-sticna-abbey-history-v2.webp",
 },  {
-    id: "slovenia-zice-charterhouse-history-v2",
+    id: "slovenia-zice-charterhouse-history-v2", "sights": {
+      "de": [
+            {
+                  "name": "Grad Konjice",
+                  "text": "Die Ruinen einer mittelalterlichen Burg auf einem Hügel über Slovenske Konjice.",
+                  "category": "castle",
+                  "coords": [
+                        15.409069,
+                        46.335875
+                  ]
+            },
+            {
+                  "name": "Kartäuserkloster Seiz",
+                  "text": "Die Überreste eines ehemaligen Kartäuserklosters aus dem 12. Jahrhundert.",
+                  "category": "historical",
+                  "coords": [
+                        15.392468,
+                        46.311313
+                  ]
+            },
+            {
+                  "name": "Sv. Uršula",
+                  "text": "Ein Gipfel in den Konjice-Hügeln, der Wandermöglichkeiten und Aussichten bietet.",
+                  "category": "landmark",
+                  "coords": [
+                        15.413969,
+                        46.280636
+                  ]
+            },
+            {
+                  "name": "Dvorec Trebnik",
+                  "text": "Ein historisches Herrenhaus in Slovenske Konjice, das heute für kulturelle Zwecke genutzt wird.",
+                  "category": "historical",
+                  "coords": [
+                        15.418862,
+                        46.334902
+                  ]
+            },
+            {
+                  "name": "Skala",
+                  "text": "Ein lokaler Aussichtspunkt mit Blick auf die umliegende slowenische Landschaft.",
+                  "category": "natural",
+                  "coords": [
+                        15.415528,
+                        46.325205
+                  ]
+            },
+            {
+                  "name": "Kmečki turizem Marjetka",
+                  "text": "Ein Agrotourismus-Ziel in der Nähe von Žiče, das traditionelle Erlebnisse bietet.",
+                  "category": "landmark",
+                  "coords": [
+                        15.423277,
+                        46.289065
+                  ]
+            },
+            {
+                  "name": "Hrastenški vrhi (kontrolna točka - žig)",
+                  "text": "Ein Wanderziel und Kontrollpunkt in den Hügeln bei Slovenske Konjice.",
+                  "category": "landmark",
+                  "coords": [
+                        15.376049,
+                        46.289414
+                  ]
+            },
+            {
+                  "name": "Trije križi na Konjiški gori",
+                  "text": "Eine Stätte mit drei Kreuzen auf dem Konjice-Berg, beliebt bei Wanderern.",
+                  "category": "landmark",
+                  "coords": [
+                        15.395136,
+                        46.325556
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Grad Konjice",
+                  "text": "Egy középkori vár romjai a Slovenske Konjice feletti dombon.",
+                  "category": "castle",
+                  "coords": [
+                        15.409069,
+                        46.335875
+                  ]
+            },
+            {
+                  "name": "Žička kartuzija",
+                  "text": "Egy 12. században alapított egykori karthauzi kolostor maradványai.",
+                  "category": "historical",
+                  "coords": [
+                        15.392468,
+                        46.311313
+                  ]
+            },
+            {
+                  "name": "Sv. Uršula",
+                  "text": "Csúcs a Konjice-dombságban, amely túrázási lehetőséget és kilátást kínál.",
+                  "category": "landmark",
+                  "coords": [
+                        15.413969,
+                        46.280636
+                  ]
+            },
+            {
+                  "name": "Dvorec Trebnik",
+                  "text": "Történelmi kúria Slovenske Konjice városában, amelyet ma kulturális célokra használnak.",
+                  "category": "historical",
+                  "coords": [
+                        15.418862,
+                        46.334902
+                  ]
+            },
+            {
+                  "name": "Skala",
+                  "text": "Helyi kilátópont, ahonnan kilátás nyílik a környező szlovén tájra.",
+                  "category": "natural",
+                  "coords": [
+                        15.415528,
+                        46.325205
+                  ]
+            },
+            {
+                  "name": "Kmečki turizem Marjetka",
+                  "text": "Falusi turisztikai célpont Žiče közelében, amely hagyományos élményeket kínál.",
+                  "category": "landmark",
+                  "coords": [
+                        15.423277,
+                        46.289065
+                  ]
+            },
+            {
+                  "name": "Hrastenški vrhi (kontrolna točka - žig)",
+                  "text": "Túracélpont és ellenőrzőpont a Slovenske Konjice melletti dombokon.",
+                  "category": "landmark",
+                  "coords": [
+                        15.376049,
+                        46.289414
+                  ]
+            },
+            {
+                  "name": "Trije križi na Konjiški gori",
+                  "text": "Három kereszt a Konjice-hegyen, amely népszerű hely a túrázók körében.",
+                  "category": "landmark",
+                  "coords": [
+                        15.395136,
+                        46.325556
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Grad Konjice",
+                  "text": "Ruinele unui castel medieval situat pe un deal deasupra localității Slovenske Konjice.",
+                  "category": "castle",
+                  "coords": [
+                        15.409069,
+                        46.335875
+                  ]
+            },
+            {
+                  "name": "Žička kartuzija",
+                  "text": "Rămășițele unei foste mănăstiri cartusiene fondate în secolul al XII-lea.",
+                  "category": "historical",
+                  "coords": [
+                        15.392468,
+                        46.311313
+                  ]
+            },
+            {
+                  "name": "Sv. Uršula",
+                  "text": "Un vârf în dealurile Konjice care oferă oportunități de drumeție și priveliști.",
+                  "category": "landmark",
+                  "coords": [
+                        15.413969,
+                        46.280636
+                  ]
+            },
+            {
+                  "name": "Dvorec Trebnik",
+                  "text": "Un conac istoric în Slovenske Konjice, utilizat astăzi în scopuri culturale.",
+                  "category": "historical",
+                  "coords": [
+                        15.418862,
+                        46.334902
+                  ]
+            },
+            {
+                  "name": "Skala",
+                  "text": "Un punct de belvedere local care oferă priveliști asupra peisajului sloven din jur.",
+                  "category": "natural",
+                  "coords": [
+                        15.415528,
+                        46.325205
+                  ]
+            },
+            {
+                  "name": "Kmečki turizem Marjetka",
+                  "text": "O destinație de agroturism care oferă experiențe tradiționale lângă Žiče.",
+                  "category": "landmark",
+                  "coords": [
+                        15.423277,
+                        46.289065
+                  ]
+            },
+            {
+                  "name": "Hrastenški vrhi (kontrolna točka - žig)",
+                  "text": "O destinație de drumeție și punct de control în dealurile de lângă Slovenske Konjice.",
+                  "category": "landmark",
+                  "coords": [
+                        15.376049,
+                        46.289414
+                  ]
+            },
+            {
+                  "name": "Trije križi na Konjiški gori",
+                  "text": "Un sit cu trei cruci pe muntele Konjice, popular printre excursioniști.",
+                  "category": "landmark",
+                  "coords": [
+                        15.395136,
+                        46.325556
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Grad Konjice",
+                  "text": "The ruins of a medieval castle situated on a hill above Slovenske Konjice.",
+                  "category": "castle",
+                  "coords": [
+                        15.409069,
+                        46.335875
+                  ]
+            },
+            {
+                  "name": "Žiče Charterhouse",
+                  "text": "The remains of a former Carthusian monastery founded in the 12th century.",
+                  "category": "historical",
+                  "coords": [
+                        15.392468,
+                        46.311313
+                  ]
+            },
+            {
+                  "name": "Sv. Uršula",
+                  "text": "A peak in the Konjice hills offering hiking opportunities and views.",
+                  "category": "landmark",
+                  "coords": [
+                        15.413969,
+                        46.280636
+                  ]
+            },
+            {
+                  "name": "Trebnik Mansion",
+                  "text": "A historic manor house in Slovenske Konjice, now used for cultural purposes.",
+                  "category": "historical",
+                  "coords": [
+                        15.418862,
+                        46.334902
+                  ]
+            },
+            {
+                  "name": "Skala",
+                  "text": "A local viewpoint providing views of the surrounding Slovenian landscape.",
+                  "category": "natural",
+                  "coords": [
+                        15.415528,
+                        46.325205
+                  ]
+            },
+            {
+                  "name": "Kmečki turizem Marjetka",
+                  "text": "A farm tourism destination offering traditional experiences near Žiče.",
+                  "category": "landmark",
+                  "coords": [
+                        15.423277,
+                        46.289065
+                  ]
+            },
+            {
+                  "name": "Hrastenški vrhi (kontrolna točka - žig)",
+                  "text": "A hiking destination and checkpoint in the hills near Slovenske Konjice.",
+                  "category": "landmark",
+                  "coords": [
+                        15.376049,
+                        46.289414
+                  ]
+            },
+            {
+                  "name": "Trije križi na Konjiški gori",
+                  "text": "A site featuring three crosses on the Konjice mountain, popular with hikers.",
+                  "category": "landmark",
+                  "coords": [
+                        15.395136,
+                        46.325556
+                  ]
+            }
+      ]
+},
     parent: "SI",
     type: "ruins",
     name: { de: "Kartause Žiče", hu: "Zicsei karthauzi kolostor", ro: "Cartusia Žiče", en: "Žiče Charterhouse"},
@@ -371,7 +929,196 @@ imageHint: "Historical entrance to a mercury mine in Idrija",
     },
     image: "/poi-images/slovenia-idrija-anthony-shaft-history-v2.webp",
 },  {
-    id: "slovenia-franja-hospital-history-v2",
+    id: "slovenia-franja-hospital-history-v2", "sights": {
+      "de": [
+            {
+                  "name": "Kopa",
+                  "text": "Ein Berggipfel in der Nähe des Partisanenhospitals Franja.",
+                  "category": "landmark",
+                  "coords": [
+                        14.004307,
+                        46.163268
+                  ]
+            },
+            {
+                  "name": "Partisanen Lazarett",
+                  "text": "Die Ruinen eines geheimen Krankenhauses aus dem Zweiten Weltkrieg.",
+                  "category": "historical",
+                  "coords": [
+                        14.028216,
+                        46.154034
+                  ]
+            },
+            {
+                  "name": "Spomenik 47 padlim",
+                  "text": "Ein Denkmal für 47 Gefallene in der Nähe des Partisanenhospitals.",
+                  "category": "historical",
+                  "coords": [
+                        13.989898,
+                        46.130699
+                  ]
+            },
+            {
+                  "name": "Vrh Plazi",
+                  "text": "Ein Aussichtspunkt mit Blick auf die umliegende Berglandschaft.",
+                  "category": "natural",
+                  "coords": [
+                        14.002636,
+                        46.160743
+                  ]
+            },
+            {
+                  "name": "Miklavžev turn",
+                  "text": "Historische Ruinen in der Nähe des Partisanenhospitals Franja.",
+                  "category": "historical",
+                  "coords": [
+                        13.996952,
+                        46.139483
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Kopa",
+                  "text": "Egy hegycsúcs a Franja Partizánkórház közelében.",
+                  "category": "landmark",
+                  "coords": [
+                        14.004307,
+                        46.163268
+                  ]
+            },
+            {
+                  "name": "Franja Partizánkórház",
+                  "text": "Egy második világháborús titkos kórház maradványai.",
+                  "category": "historical",
+                  "coords": [
+                        14.028216,
+                        46.154034
+                  ]
+            },
+            {
+                  "name": "Spomenik 47 padlim",
+                  "text": "Emlékmű a kórház közelében elesett 47 katona tiszteletére.",
+                  "category": "historical",
+                  "coords": [
+                        13.989898,
+                        46.130699
+                  ]
+            },
+            {
+                  "name": "Vrh Plazi",
+                  "text": "Kilátópont, ahonnan panoráma nyílik a környező hegyvidékre.",
+                  "category": "natural",
+                  "coords": [
+                        14.002636,
+                        46.160743
+                  ]
+            },
+            {
+                  "name": "Miklavžev turn",
+                  "text": "Történelmi romok a Franja Partizánkórház közelében.",
+                  "category": "historical",
+                  "coords": [
+                        13.996952,
+                        46.139483
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Kopa",
+                  "text": "Un vârf muntos situat în apropierea Spitalului de Partizani Franja.",
+                  "category": "landmark",
+                  "coords": [
+                        14.004307,
+                        46.163268
+                  ]
+            },
+            {
+                  "name": "Partizanska bolnica Franja",
+                  "text": "Ruinele unui spital secret din timpul celui de-al Doilea Război Mondial.",
+                  "category": "historical",
+                  "coords": [
+                        14.028216,
+                        46.154034
+                  ]
+            },
+            {
+                  "name": "Spomenik 47 padlim",
+                  "text": "Un monument dedicat celor 47 de căzuți în apropierea spitalului de partizani.",
+                  "category": "historical",
+                  "coords": [
+                        13.989898,
+                        46.130699
+                  ]
+            },
+            {
+                  "name": "Vrh Plazi",
+                  "text": "Un punct de belvedere cu vedere asupra peisajului montan înconjurător.",
+                  "category": "natural",
+                  "coords": [
+                        14.002636,
+                        46.160743
+                  ]
+            },
+            {
+                  "name": "Miklavžev turn",
+                  "text": "Ruine istorice situate în apropierea Spitalului de Partizani Franja.",
+                  "category": "historical",
+                  "coords": [
+                        13.996952,
+                        46.139483
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Kopa",
+                  "text": "A mountain peak located near the Franja Partisan Hospital.",
+                  "category": "landmark",
+                  "coords": [
+                        14.004307,
+                        46.163268
+                  ]
+            },
+            {
+                  "name": "Franja Partisan Hospital",
+                  "text": "The ruins of a secret hospital from the Second World War.",
+                  "category": "historical",
+                  "coords": [
+                        14.028216,
+                        46.154034
+                  ]
+            },
+            {
+                  "name": "Spomenik 47 padlim",
+                  "text": "A monument dedicated to 47 fallen soldiers near the partisan hospital.",
+                  "category": "historical",
+                  "coords": [
+                        13.989898,
+                        46.130699
+                  ]
+            },
+            {
+                  "name": "Vrh Plazi",
+                  "text": "A viewpoint offering views of the surrounding mountain landscape.",
+                  "category": "natural",
+                  "coords": [
+                        14.002636,
+                        46.160743
+                  ]
+            },
+            {
+                  "name": "Miklavžev turn",
+                  "text": "Historic ruins located near the Franja Partisan Hospital.",
+                  "category": "historical",
+                  "coords": [
+                        13.996952,
+                        46.139483
+                  ]
+            }
+      ]
+},
     parent: "SI",
     type: "museum",
     name: { de: "Partisanenlazarett Franja", hu: "Franja partizánkórház", ro: "Spitalul Partizanii Franja", en: "Franja Partisan Hospital"},
@@ -417,7 +1164,268 @@ imageHint: "Wooden barracks of a secret hospital in a rocky gorge",
     },
     image: "/poi-images/slovenia-franja-hospital-history-v2.webp",
 },  {
-    id: "slovenia-kobarid-ossuary-history-v2", "sights": {"de": [{"name": "Kobarid Beach", "text": "Nahe der ehrwürdigen Gedenkstätte von Kobarid gelegen, schmiegt sich der Kobarid Beach wunderschön an den örtlichen Flusslauf. Die Atmosphäre hält dabei die perfekte Balance zwischen atemberaubender Natur und einer ruhigen, nachdenklichen Stimmung. Besucher können ihre Füße in das erfrischende Wasser tauchen oder still auf den Kieseln sitzen, umgeben von spürbarer Geschichte. Angesichts des kalten Wassers ist ein Besuch an den heißesten Sommertagen besonders angenehm.", "category": "recreational", "coords": [13.586991, 46.247321]}], "hu": [{"name": "Kobarid Beach", "text": "Az ünnepélyes Kobaridi Csontkápolna közelében található Kobarid Beach gyönyörűen terül el a helyi folyó vize mentén. Az általános atmoszféra tökéletes egyensúlyt teremt a nyers természeti szépség és a csendes, kissé elmélkedő hangulat között. A látogatók belemárthatják a lábukat a frissítő vízbe, vagy csendben ücsöröghetnek a kavicsokon, miközben körülveszi őket a történelem. A hűvös vizet figyelembe véve egyértelműen a legforróbb nyári napokon a legkellemesebb ide látogatni.", "category": "recreational", "coords": [13.586991, 46.247321]}], "ro": [{"name": "Kobarid Beach", "text": "Situată în apropierea solemnului Osuar din Kobarid, Kobarid Beach se întinde superb de-a lungul apelor râului local. Atmosfera generală echilibrează perfect frumusețea naturală brută cu o stare de spirit liniștită, ușor contemplativă. Vizitatorii își pot scufunda picioarele în apa revigorantă sau pot sta în liniște pe pietricele, fiind complet înconjurați de istorie. Având în vedere apa rece, este cu siguranță cel mai plăcut să planificați o vizită în cele mai fierbinți zile de vară.", "category": "recreational", "coords": [13.586991, 46.247321]}], "en": [{"name": "Kobarid Beach", "text": "Situated close to the solemn Kobarid Ossuary, Kobarid Beach lies beautifully along the local river waters. The overall atmosphere perfectly balances raw natural beauty with a quiet, slightly contemplative mood. Visitors can dip their feet in the bracing water or sit quietly on the pebbles, fully surrounded by history. Given the famously cold waters, it is definitely most refreshing to plan a visit during the hottest days of summer.", "category": "recreational", "coords": [13.586991, 46.247321]}]},
+    id: "slovenia-kobarid-ossuary-history-v2", "sights": {
+      "de": [
+            {
+                  "name": "Kobarid Beach",
+                  "text": "Nahe der ehrwürdigen Gedenkstätte von Kobarid gelegen, schmiegt sich der Kobarid Beach wunderschön an den örtlichen Flusslauf. Die Atmosphäre hält dabei die perfekte Balance zwischen atemberaubender Natur und einer ruhigen, nachdenklichen Stimmung. Besucher können ihre Füße in das erfrischende Wasser tauchen oder still auf den Kieseln sitzen, umgeben von spürbarer Geschichte. Angesichts des kalten Wassers ist ein Besuch an den heißesten Sommertagen besonders angenehm.",
+                  "category": "recreational",
+                  "coords": [
+                        13.586991,
+                        46.247321
+                  ]
+            },
+            {
+                  "name": "Kobarider Museum",
+                  "text": "Dieses preisgekrönte Museum dokumentiert die Ereignisse an der Isonzo-Front während des Ersten Weltkriegs.",
+                  "category": "museum",
+                  "coords": [
+                        13.580988,
+                        46.246533
+                  ]
+            },
+            {
+                  "name": "Tonovcov grad",
+                  "text": "Eine bedeutende spätantike archäologische Ausgrabungsstätte auf einem Hügel nahe Kobarid.",
+                  "category": "historical",
+                  "coords": [
+                        13.580481,
+                        46.257539
+                  ]
+            },
+            {
+                  "name": "Muzej Sirarstva",
+                  "text": "Ein Museum, das der Tradition der Käseherstellung in der Region Kobarid gewidmet ist.",
+                  "category": "museum",
+                  "coords": [
+                        13.584976,
+                        46.245545
+                  ]
+            },
+            {
+                  "name": "Muzejska zbirka Kobarid v veliki vojni 1917",
+                  "text": "Eine Museumssammlung, die sich auf die militärhistorischen Ereignisse des Jahres 1917 konzentriert.",
+                  "category": "museum",
+                  "coords": [
+                        13.583186,
+                        46.247685
+                  ]
+            },
+            {
+                  "name": "Kulturni Dom Kobarid",
+                  "text": "Ein kulturelles Zentrum und Theater in Kobarid für lokale Aufführungen und Veranstaltungen.",
+                  "category": "cultural",
+                  "coords": [
+                        13.577064,
+                        46.247534
+                  ]
+            },
+            {
+                  "name": "Muzejska Zbirka Botognice",
+                  "text": "Eine kleine Museumssammlung mit Fundstücken aus den Gebirgskämpfen des Ersten Weltkriegs.",
+                  "category": "museum",
+                  "coords": [
+                        13.614882,
+                        46.257002
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Kobarid Beach",
+                  "text": "Az ünnepélyes Kobaridi Csontkápolna közelében található Kobarid Beach gyönyörűen terül el a helyi folyó vize mentén. Az általános atmoszféra tökéletes egyensúlyt teremt a nyers természeti szépség és a csendes, kissé elmélkedő hangulat között. A látogatók belemárthatják a lábukat a frissítő vízbe, vagy csendben ücsöröghetnek a kavicsokon, miközben körülveszi őket a történelem. A hűvös vizet figyelembe véve egyértelműen a legforróbb nyári napokon a legkellemesebb ide látogatni.",
+                  "category": "recreational",
+                  "coords": [
+                        13.586991,
+                        46.247321
+                  ]
+            },
+            {
+                  "name": "Kobariški muzej",
+                  "text": "Ez a díjnyertes múzeum az első világháború Isonzó-frontjának eseményeit dokumentálja.",
+                  "category": "museum",
+                  "coords": [
+                        13.580988,
+                        46.246533
+                  ]
+            },
+            {
+                  "name": "Tonovcov grad",
+                  "text": "Jelentős késő antik régészeti lelőhely egy dombtetőn, Kobarid közelében.",
+                  "category": "historical",
+                  "coords": [
+                        13.580481,
+                        46.257539
+                  ]
+            },
+            {
+                  "name": "Muzej Sirarstva",
+                  "text": "A kobaridi régió sajtkészítési hagyományainak szentelt múzeum.",
+                  "category": "museum",
+                  "coords": [
+                        13.584976,
+                        46.245545
+                  ]
+            },
+            {
+                  "name": "Muzejska zbirka Kobarid v veliki vojni 1917",
+                  "text": "Múzeumi gyűjtemény, amely az 1917-es év hadtörténeti eseményeire összpontosít.",
+                  "category": "museum",
+                  "coords": [
+                        13.583186,
+                        46.247685
+                  ]
+            },
+            {
+                  "name": "Kulturni Dom Kobarid",
+                  "text": "Kobaridi kulturális központ és színház helyi előadások és rendezvények számára.",
+                  "category": "cultural",
+                  "coords": [
+                        13.577064,
+                        46.247534
+                  ]
+            },
+            {
+                  "name": "Muzejska Zbirka Botognice",
+                  "text": "Kisebb múzeumi gyűjtemény az első világháborús hegyi harcokból származó leletekkel.",
+                  "category": "museum",
+                  "coords": [
+                        13.614882,
+                        46.257002
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Kobarid Beach",
+                  "text": "Situată în apropierea solemnului Osuar din Kobarid, Kobarid Beach se întinde superb de-a lungul apelor râului local. Atmosfera generală echilibrează perfect frumusețea naturală brută cu o stare de spirit liniștită, ușor contemplativă. Vizitatorii își pot scufunda picioarele în apa revigorantă sau pot sta în liniște pe pietricele, fiind complet înconjurați de istorie. Având în vedere apa rece, este cu siguranță cel mai plăcut să planificați o vizită în cele mai fierbinți zile de vară.",
+                  "category": "recreational",
+                  "coords": [
+                        13.586991,
+                        46.247321
+                  ]
+            },
+            {
+                  "name": "Kobariški muzej",
+                  "text": "Acest muzeu premiat documentează evenimentele de pe frontul de la Isonzo din timpul Primului Război Mondial.",
+                  "category": "museum",
+                  "coords": [
+                        13.580988,
+                        46.246533
+                  ]
+            },
+            {
+                  "name": "Tonovcov grad",
+                  "text": "Un sit arheologic important din antichitatea târzie, situat pe un deal lângă Kobarid.",
+                  "category": "historical",
+                  "coords": [
+                        13.580481,
+                        46.257539
+                  ]
+            },
+            {
+                  "name": "Muzej Sirarstva",
+                  "text": "Un muzeu dedicat tradiției fabricării brânzei în regiunea Kobarid.",
+                  "category": "museum",
+                  "coords": [
+                        13.584976,
+                        46.245545
+                  ]
+            },
+            {
+                  "name": "Muzejska zbirka Kobarid v veliki vojni 1917",
+                  "text": "O colecție muzeală care se concentrează pe evenimentele de istorie militară din anul 1917.",
+                  "category": "museum",
+                  "coords": [
+                        13.583186,
+                        46.247685
+                  ]
+            },
+            {
+                  "name": "Kulturni Dom Kobarid",
+                  "text": "Un centru cultural și teatru în Kobarid pentru spectacole și evenimente locale.",
+                  "category": "cultural",
+                  "coords": [
+                        13.577064,
+                        46.247534
+                  ]
+            },
+            {
+                  "name": "Muzejska Zbirka Botognice",
+                  "text": "O mică colecție muzeală cu obiecte provenite din luptele montane ale Primului Război Mondial.",
+                  "category": "museum",
+                  "coords": [
+                        13.614882,
+                        46.257002
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Kobarid Beach",
+                  "text": "Situated close to the solemn Kobarid Ossuary, Kobarid Beach lies beautifully along the local river waters. The overall atmosphere perfectly balances raw natural beauty with a quiet, slightly contemplative mood. Visitors can dip their feet in the bracing water or sit quietly on the pebbles, fully surrounded by history. Given the famously cold waters, it is definitely most refreshing to plan a visit during the hottest days of summer.",
+                  "category": "recreational",
+                  "coords": [
+                        13.586991,
+                        46.247321
+                  ]
+            },
+            {
+                  "name": "Kobariški Museum",
+                  "text": "This award-winning museum documents the events of the Isonzo Front during World War I.",
+                  "category": "museum",
+                  "coords": [
+                        13.580988,
+                        46.246533
+                  ]
+            },
+            {
+                  "name": "Tonovcov grad",
+                  "text": "A significant late antiquity archaeological site located on a hilltop near Kobarid.",
+                  "category": "historical",
+                  "coords": [
+                        13.580481,
+                        46.257539
+                  ]
+            },
+            {
+                  "name": "Museum of Cheesemaking",
+                  "text": "A museum dedicated to the tradition of cheesemaking in the Kobarid region.",
+                  "category": "museum",
+                  "coords": [
+                        13.584976,
+                        46.245545
+                  ]
+            },
+            {
+                  "name": "Museum Collection Kobarid in the Great War 1917",
+                  "text": "A museum collection focusing on the military history events of the year 1917.",
+                  "category": "museum",
+                  "coords": [
+                        13.583186,
+                        46.247685
+                  ]
+            },
+            {
+                  "name": "Kulturni Dom Kobarid",
+                  "text": "A cultural center and theatre in Kobarid for local performances and events.",
+                  "category": "cultural",
+                  "coords": [
+                        13.577064,
+                        46.247534
+                  ]
+            },
+            {
+                  "name": "Muzejska Zbirka Botognice",
+                  "text": "A small museum collection featuring finds from the mountain battles of World War I.",
+                  "category": "museum",
+                  "coords": [
+                        13.614882,
+                        46.257002
+                  ]
+            }
+      ]
+},
     parent: "SI",
     type: "monument",
     name: { de: "Beinhaus von Kobarid", hu: "Kobaridi osszárium", ro: "Osuarul din Kobarid", en: "Kobarid Ossuary"},
@@ -463,7 +1471,304 @@ imageHint: "Large stone monument with circular terraces on a hill",
     },
     image: "/poi-images/slovenia-kobarid-ossuary-history-v2.webp",
 },  {
-    id: "slovenia-russian-chapel-vrsic-history-v2",
+    id: "slovenia-russian-chapel-vrsic-history-v2", "sights": {
+      "de": [
+            {
+                  "name": "Gozdni rezervat Mala Pišnica",
+                  "text": "Ein geschütztes Waldreservat mit Urwaldresten in der Nähe des Vršič-Passes.",
+                  "category": "natural",
+                  "coords": [
+                        13.749724,
+                        46.460351
+                  ]
+            },
+            {
+                  "name": "Prisank",
+                  "text": "Ein markanter Berg in den Julischen Alpen, bekannt für sein natürliches Felsfenster.",
+                  "category": "landmark",
+                  "coords": [
+                        13.769714,
+                        46.4247
+                  ]
+            },
+            {
+                  "name": "Škrlatica",
+                  "text": "Der zweithöchste Gipfel Sloweniens in den Julischen Alpen.",
+                  "category": "landmark",
+                  "coords": [
+                        13.82096,
+                        46.432805
+                  ]
+            },
+            {
+                  "name": "Vršič",
+                  "text": "Ein majestätischer Berggipfel mit Panoramablick in der Region Russian Chapel on the Vršič Pass.",
+                  "category": "landmark",
+                  "coords": [
+                        13.746647,
+                        46.4341
+                  ]
+            },
+            {
+                  "name": "Slemenova špica",
+                  "text": "Ein malerischer Aussichtspunkt mit herrlichem Blick auf die umliegende Landschaft bei Russian Chapel on the Vršič Pass.",
+                  "category": "natural",
+                  "coords": [
+                        13.726485,
+                        46.446007
+                  ]
+            },
+            {
+                  "name": "Špik",
+                  "text": "Ein markanter, nadelförmiger Berggipfel in den Julischen Alpen.",
+                  "category": "landmark",
+                  "coords": [
+                        13.814347,
+                        46.448813
+                  ]
+            },
+            {
+                  "name": "Ciprnik",
+                  "text": "Ein majestätischer Berggipfel mit Panoramablick in der Region Russian Chapel on the Vršič Pass.",
+                  "category": "landmark",
+                  "coords": [
+                        13.740043,
+                        46.468783
+                  ]
+            },
+            {
+                  "name": "Rušica",
+                  "text": "Ein majestätischer Berggipfel mit Panoramablick in der Region Russian Chapel on the Vršič Pass.",
+                  "category": "landmark",
+                  "coords": [
+                        13.806119,
+                        46.458011
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Gozdni rezervat Mala Pišnica",
+                  "text": "Védett erdőrezervátum őserdővel a Vršič-hágó közelében.",
+                  "category": "natural",
+                  "coords": [
+                        13.749724,
+                        46.460351
+                  ]
+            },
+            {
+                  "name": "Prisank",
+                  "text": "A Júliai-Alpok egyik jelentős hegye, amely a rajta található természetes sziklaablakról híres.",
+                  "category": "landmark",
+                  "coords": [
+                        13.769714,
+                        46.4247
+                  ]
+            },
+            {
+                  "name": "Škrlatica",
+                  "text": "Szlovénia második legmagasabb csúcsa a Júliai-Alpokban.",
+                  "category": "landmark",
+                  "coords": [
+                        13.82096,
+                        46.432805
+                  ]
+            },
+            {
+                  "name": "Vršič",
+                  "text": "Egy fenséges hegycsúcs panorámás kilátással Russian Chapel on the Vršič Pass régiójában.",
+                  "category": "landmark",
+                  "coords": [
+                        13.746647,
+                        46.4341
+                  ]
+            },
+            {
+                  "name": "Slemenova špica",
+                  "text": "Festői kilátóhely, ahonnan lenyűgöző kilátás nyílik a környező tájra Russian Chapel on the Vršič Pass közelében.",
+                  "category": "natural",
+                  "coords": [
+                        13.726485,
+                        46.446007
+                  ]
+            },
+            {
+                  "name": "Špik",
+                  "text": "Jellegzetes, tűszerű hegycsúcs a Júliai-Alpokban.",
+                  "category": "landmark",
+                  "coords": [
+                        13.814347,
+                        46.448813
+                  ]
+            },
+            {
+                  "name": "Ciprnik",
+                  "text": "Egy fenséges hegycsúcs panorámás kilátással Russian Chapel on the Vršič Pass régiójában.",
+                  "category": "landmark",
+                  "coords": [
+                        13.740043,
+                        46.468783
+                  ]
+            },
+            {
+                  "name": "Rušica",
+                  "text": "Egy fenséges hegycsúcs panorámás kilátással Russian Chapel on the Vršič Pass régiójában.",
+                  "category": "landmark",
+                  "coords": [
+                        13.806119,
+                        46.458011
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Gozdni rezervat Mala Pišnica",
+                  "text": "O rezervație forestieră protejată care cuprinde o pădure virgină lângă pasul Vršič.",
+                  "category": "natural",
+                  "coords": [
+                        13.749724,
+                        46.460351
+                  ]
+            },
+            {
+                  "name": "Prisank",
+                  "text": "Un munte proeminent din Alpii Iulieni, faimos pentru fereastra sa naturală în stâncă.",
+                  "category": "landmark",
+                  "coords": [
+                        13.769714,
+                        46.4247
+                  ]
+            },
+            {
+                  "name": "Škrlatica",
+                  "text": "Al doilea cel mai înalt vârf din Slovenia, situat în Alpii Iulieni.",
+                  "category": "landmark",
+                  "coords": [
+                        13.82096,
+                        46.432805
+                  ]
+            },
+            {
+                  "name": "Vršič",
+                  "text": "Un vârf montan maiestuos care oferă vederi panoramice în regiunea Russian Chapel on the Vršič Pass.",
+                  "category": "landmark",
+                  "coords": [
+                        13.746647,
+                        46.4341
+                  ]
+            },
+            {
+                  "name": "Slemenova špica",
+                  "text": "Un punct de belvedere pitoresc care oferă panorame uimitoare asupra peisajului din apropiere de Russian Chapel on the Vršič Pass.",
+                  "category": "natural",
+                  "coords": [
+                        13.726485,
+                        46.446007
+                  ]
+            },
+            {
+                  "name": "Špik",
+                  "text": "Un vârf muntos proeminent și ascuțit în Alpii Iulieni.",
+                  "category": "landmark",
+                  "coords": [
+                        13.814347,
+                        46.448813
+                  ]
+            },
+            {
+                  "name": "Ciprnik",
+                  "text": "Un vârf montan maiestuos care oferă vederi panoramice în regiunea Russian Chapel on the Vršič Pass.",
+                  "category": "landmark",
+                  "coords": [
+                        13.740043,
+                        46.468783
+                  ]
+            },
+            {
+                  "name": "Rušica",
+                  "text": "Un vârf montan maiestuos care oferă vederi panoramice în regiunea Russian Chapel on the Vršič Pass.",
+                  "category": "landmark",
+                  "coords": [
+                        13.806119,
+                        46.458011
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Gozdni rezervat Mala Pišnica",
+                  "text": "A protected forest reserve featuring primeval woodland near the Vršič Pass.",
+                  "category": "natural",
+                  "coords": [
+                        13.749724,
+                        46.460351
+                  ]
+            },
+            {
+                  "name": "Prisojnik",
+                  "text": "A prominent mountain in the Julian Alps, famous for its natural window rock formation.",
+                  "category": "landmark",
+                  "coords": [
+                        13.769714,
+                        46.4247
+                  ]
+            },
+            {
+                  "name": "Škrlatica",
+                  "text": "The second highest peak in Slovenia, located in the Julian Alps.",
+                  "category": "landmark",
+                  "coords": [
+                        13.82096,
+                        46.432805
+                  ]
+            },
+            {
+                  "name": "Vršič",
+                  "text": "A majestic mountain peak offering panoramic views in the Russian Chapel on the Vršič Pass region.",
+                  "category": "landmark",
+                  "coords": [
+                        13.746647,
+                        46.4341
+                  ]
+            },
+            {
+                  "name": "Slemenova špica",
+                  "text": "A scenic viewpoint providing stunning vistas of the surrounding landscape near Russian Chapel on the Vršič Pass.",
+                  "category": "natural",
+                  "coords": [
+                        13.726485,
+                        46.446007
+                  ]
+            },
+            {
+                  "name": "Špik",
+                  "text": "A prominent and needle-like mountain peak in the Julian Alps.",
+                  "category": "landmark",
+                  "coords": [
+                        13.814347,
+                        46.448813
+                  ]
+            },
+            {
+                  "name": "Ciprnik",
+                  "text": "A majestic mountain peak offering panoramic views in the Russian Chapel on the Vršič Pass region.",
+                  "category": "landmark",
+                  "coords": [
+                        13.740043,
+                        46.468783
+                  ]
+            },
+            {
+                  "name": "Rušica",
+                  "text": "A majestic mountain peak offering panoramic views in the Russian Chapel on the Vršič Pass region.",
+                  "category": "landmark",
+                  "coords": [
+                        13.806119,
+                        46.458011
+                  ]
+            }
+      ]
+},
     parent: "SI",
     type: "church",
     name: { de: "Russische Kapelle am Vršič-Pass", hu: "Orosz kápolna a Vršič-hágónál", ro: "Capela Rusă de la Pasul Vršič", en: "Russian Chapel on the Vršič Pass"},
@@ -1374,7 +2679,304 @@ imageHint: "Stone village on a hill with a castle and a scenic garden",
     },
     image: "/poi-images/slovenia-stanjel-history-v2.webp",
 },  {
-    id: "slovenia-sempeter-necropolis-history-v2",
+    id: "slovenia-sempeter-necropolis-history-v2", "sights": {
+      "de": [
+            {
+                  "name": "Gasilski muzej",
+                  "text": "Ein Feuerwehrmuseum, das die Geschichte der Brandbekämpfung und historische Ausrüstung zeigt.",
+                  "category": "museum",
+                  "coords": [
+                        15.159957,
+                        46.252688
+                  ]
+            },
+            {
+                  "name": "Dom II. slovenskega tabora",
+                  "text": "Ein Kulturzentrum und Theater in Šempeter, benannt nach einem historischen slowenischen Lager.",
+                  "category": "cultural",
+                  "coords": [
+                        15.162814,
+                        46.253576
+                  ]
+            },
+            {
+                  "name": "Graščina Prebold",
+                  "text": "Ein historisches Herrenhaus in Prebold, das Zeugnis der regionalen Architekturgeschichte ist.",
+                  "category": "castle",
+                  "coords": [
+                        15.088511,
+                        46.235317
+                  ]
+            },
+            {
+                  "name": "Rimska nekropola",
+                  "text": "Eine bedeutende archäologische Stätte mit aufwendig verzierten römischen Marmorgrabmälern.",
+                  "category": "historical",
+                  "coords": [
+                        15.12105,
+                        46.25532
+                  ]
+            },
+            {
+                  "name": "Zotlova kovačija",
+                  "text": "Eine traditionelle Schmiede in Šempeter, die Einblicke in ein altes Handwerk bietet.",
+                  "category": "landmark",
+                  "coords": [
+                        15.163685,
+                        46.252231
+                  ]
+            },
+            {
+                  "name": "Cerkev sv. Pankracija Griže",
+                  "text": "Die Kirche des Heiligen Pankratius in Griže, ein wichtiges lokales Baudenkmal.",
+                  "category": "religious",
+                  "coords": [
+                        15.154527,
+                        46.23075
+                  ]
+            },
+            {
+                  "name": "Cerkev Svetega Lovrenca",
+                  "text": "Eine historische Kirche in Sveti Lovrenc, die dem heiligen Laurentius geweiht ist.",
+                  "category": "religious",
+                  "coords": [
+                        15.108572,
+                        46.236184
+                  ]
+            },
+            {
+                  "name": "Župnijska cerkev sv. Petra",
+                  "text": "Die dem heiligen Petrus geweihte Pfarrkirche in Šempeter v Savinjski dolini.",
+                  "category": "religious",
+                  "coords": [
+                        15.122216,
+                        46.255657
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Gasilski muzej",
+                  "text": "Tűzoltómúzeum, amely a tűzoltás történetét és történelmi felszereléseket mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        15.159957,
+                        46.252688
+                  ]
+            },
+            {
+                  "name": "Dom II. slovenskega tabora",
+                  "text": "Kulturális központ és színház Šempeterben, egy történelmi szlovén táborról elnevezve.",
+                  "category": "cultural",
+                  "coords": [
+                        15.162814,
+                        46.253576
+                  ]
+            },
+            {
+                  "name": "Graščina Prebold",
+                  "text": "Történelmi kúria Preboldban, amely a helyi építészeti múlt emléke.",
+                  "category": "castle",
+                  "coords": [
+                        15.088511,
+                        46.235317
+                  ]
+            },
+            {
+                  "name": "Rimska nekropola",
+                  "text": "Jelentős régészeti lelőhely gazdagon díszített római márványsírokkal.",
+                  "category": "historical",
+                  "coords": [
+                        15.12105,
+                        46.25532
+                  ]
+            },
+            {
+                  "name": "Zotlova kovačija",
+                  "text": "Hagyományos kovácsműhely Šempeterben, amely betekintést nyújt egy régi mesterségbe.",
+                  "category": "landmark",
+                  "coords": [
+                        15.163685,
+                        46.252231
+                  ]
+            },
+            {
+                  "name": "Cerkev sv. Pankracija Griže",
+                  "text": "Szent Pongrác-templom Griže faluban, fontos helyi építészeti emlék.",
+                  "category": "religious",
+                  "coords": [
+                        15.154527,
+                        46.23075
+                  ]
+            },
+            {
+                  "name": "Cerkev Svetega Lovrenca",
+                  "text": "Szent Lőrincnek szentelt történelmi templom Sveti Lovrenc településen.",
+                  "category": "religious",
+                  "coords": [
+                        15.108572,
+                        46.236184
+                  ]
+            },
+            {
+                  "name": "Župnijska cerkev sv. Petra",
+                  "text": "Szent Péternek szentelt plébániatemplom Šempeter v Savinjski dolini településen.",
+                  "category": "religious",
+                  "coords": [
+                        15.122216,
+                        46.255657
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Gasilski muzej",
+                  "text": "Un muzeu al pompierilor care prezintă istoria luptei împotriva incendiilor și echipamente istorice.",
+                  "category": "museum",
+                  "coords": [
+                        15.159957,
+                        46.252688
+                  ]
+            },
+            {
+                  "name": "Dom II. slovenskega tabora",
+                  "text": "Un centru cultural și teatru în Šempeter, numit după o tabără istorică slovenă.",
+                  "category": "cultural",
+                  "coords": [
+                        15.162814,
+                        46.253576
+                  ]
+            },
+            {
+                  "name": "Graščina Prebold",
+                  "text": "Un conac istoric în Prebold, care stă mărturie istoriei arhitecturale regionale.",
+                  "category": "castle",
+                  "coords": [
+                        15.088511,
+                        46.235317
+                  ]
+            },
+            {
+                  "name": "Rimska nekropola",
+                  "text": "Un sit arheologic important cu morminte romane din marmură bogat decorate.",
+                  "category": "historical",
+                  "coords": [
+                        15.12105,
+                        46.25532
+                  ]
+            },
+            {
+                  "name": "Zotlova kovačija",
+                  "text": "O fierărie tradițională în Šempeter, oferind o privire asupra unui meșteșug vechi.",
+                  "category": "landmark",
+                  "coords": [
+                        15.163685,
+                        46.252231
+                  ]
+            },
+            {
+                  "name": "Cerkev sv. Pankracija Griže",
+                  "text": "Biserica Sfântul Pancrațiu din Griže, un monument arhitectural local important.",
+                  "category": "religious",
+                  "coords": [
+                        15.154527,
+                        46.23075
+                  ]
+            },
+            {
+                  "name": "Cerkev Svetega Lovrenca",
+                  "text": "O biserică istorică în Sveti Lovrenc, dedicată Sfântului Laurențiu.",
+                  "category": "religious",
+                  "coords": [
+                        15.108572,
+                        46.236184
+                  ]
+            },
+            {
+                  "name": "Župnijska cerkev sv. Petra",
+                  "text": "Biserica parohială dedicată Sfântului Petru din Šempeter v Savinjski dolini.",
+                  "category": "religious",
+                  "coords": [
+                        15.122216,
+                        46.255657
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Gasilski muzej",
+                  "text": "A firefighting museum showcasing the history of fire protection and historical equipment.",
+                  "category": "museum",
+                  "coords": [
+                        15.159957,
+                        46.252688
+                  ]
+            },
+            {
+                  "name": "Dom II. slovenskega tabora",
+                  "text": "A cultural center and theatre in Šempeter named after a historic Slovenian camp.",
+                  "category": "cultural",
+                  "coords": [
+                        15.162814,
+                        46.253576
+                  ]
+            },
+            {
+                  "name": "Graščina Prebold",
+                  "text": "A historic manor house in Prebold, standing as a testament to regional architectural history.",
+                  "category": "castle",
+                  "coords": [
+                        15.088511,
+                        46.235317
+                  ]
+            },
+            {
+                  "name": "Rimska nekropola",
+                  "text": "A significant archaeological site featuring elaborately decorated Roman marble tombs.",
+                  "category": "historical",
+                  "coords": [
+                        15.12105,
+                        46.25532
+                  ]
+            },
+            {
+                  "name": "Zotlova kovačija",
+                  "text": "A traditional blacksmith shop in Šempeter offering insight into an old craft.",
+                  "category": "landmark",
+                  "coords": [
+                        15.163685,
+                        46.252231
+                  ]
+            },
+            {
+                  "name": "Cerkev sv. Pankracija Griže",
+                  "text": "The Church of Saint Pancratius in Griže, a significant local architectural monument.",
+                  "category": "religious",
+                  "coords": [
+                        15.154527,
+                        46.23075
+                  ]
+            },
+            {
+                  "name": "Cerkev Svetega Lovrenca",
+                  "text": "A historic church in Sveti Lovrenc dedicated to Saint Lawrence.",
+                  "category": "religious",
+                  "coords": [
+                        15.108572,
+                        46.236184
+                  ]
+            },
+            {
+                  "name": "Župnijska cerkev sv. Petra",
+                  "text": "The parish church dedicated to Saint Peter in Šempeter v Savinjski dolini.",
+                  "category": "religious",
+                  "coords": [
+                        15.122216,
+                        46.255657
+                  ]
+            }
+      ]
+},
     parent: "SI",
     type: "ruins",
     name: { de: "Römische Nekropole Šempeter", hu: "Šempeteri római nekropolisz", ro: "Necropola Romană Šempeter", en: "Roman Necropolis Šempeter"},
@@ -1420,7 +3022,124 @@ imageHint: "Ornate Roman stone tomb monuments in an outdoor park",
     },
     image: "/poi-images/slovenia-sempeter-necropolis-history-v2.webp",
 },  {
-    id: "slovenia-divje-babe-history-v2",
+    id: "slovenia-divje-babe-history-v2", "sights": {
+      "de": [
+            {
+                  "name": "Divje babe",
+                  "text": "Ein Höhleneingang im Archäologischen Park Divje Babe, bekannt für den Fund einer altsteinzeitlichen Flöte.",
+                  "category": "landmark",
+                  "coords": [
+                        13.915686,
+                        46.112475
+                  ]
+            },
+            {
+                  "name": "Arheološki park Divje Babe",
+                  "text": "Ein archäologischer Park, der bedeutende steinzeitliche Funde schützt.",
+                  "category": "park",
+                  "coords": [
+                        13.917103,
+                        46.109873
+                  ]
+            },
+            {
+                  "name": "Cerkev Marijinega rojstva",
+                  "text": "Eine Marienkirche in der Nähe des Archäologischen Parks Divje Babe.",
+                  "category": "religious",
+                  "coords": [
+                        13.904775,
+                        46.123668
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Divje babe",
+                  "text": "Barlangbejárat a Divje Babe Régészeti Parkban, amely egy paleolit kori furulya leletéről nevezetes.",
+                  "category": "landmark",
+                  "coords": [
+                        13.915686,
+                        46.112475
+                  ]
+            },
+            {
+                  "name": "Arheološki park Divje Babe",
+                  "text": "Régészeti park, amely jelentős kőkorszaki leleteket őriz.",
+                  "category": "park",
+                  "coords": [
+                        13.917103,
+                        46.109873
+                  ]
+            },
+            {
+                  "name": "Cerkev Marijinega rojstva",
+                  "text": "Szűz Mária születésének szentelt templom a Divje Babe Régészeti Park közelében.",
+                  "category": "religious",
+                  "coords": [
+                        13.904775,
+                        46.123668
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Divje babe",
+                  "text": "O intrare în peșteră în Parcul Arheologic Divje Babe, cunoscută pentru descoperirea unui flaut paleolitic.",
+                  "category": "landmark",
+                  "coords": [
+                        13.915686,
+                        46.112475
+                  ]
+            },
+            {
+                  "name": "Arheološki park Divje Babe",
+                  "text": "Un parc arheologic care protejează descoperiri importante din epoca pietrei.",
+                  "category": "park",
+                  "coords": [
+                        13.917103,
+                        46.109873
+                  ]
+            },
+            {
+                  "name": "Cerkev Marijinega rojstva",
+                  "text": "O biserică dedicată Nașterii Maicii Domnului în apropierea Parcul Arheologic Divje Babe.",
+                  "category": "religious",
+                  "coords": [
+                        13.904775,
+                        46.123668
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Divje babe",
+                  "text": "A cave entrance in the Divje Babe Archaeological Park, famous for the discovery of a Paleolithic flute.",
+                  "category": "landmark",
+                  "coords": [
+                        13.915686,
+                        46.112475
+                  ]
+            },
+            {
+                  "name": "Arheološki park Divje Babe",
+                  "text": "An archaeological park protecting significant Stone Age findings.",
+                  "category": "park",
+                  "coords": [
+                        13.917103,
+                        46.109873
+                  ]
+            },
+            {
+                  "name": "Cerkev Marijinega rojstva",
+                  "text": "A church dedicated to the Nativity of Mary near the Divje Babe Archaeological Park.",
+                  "category": "religious",
+                  "coords": [
+                        13.904775,
+                        46.123668
+                  ]
+            }
+      ]
+},
     parent: "SI",
     type: "ruins",
     name: { de: "Archäologischer Park Divje Babe", hu: "Divje Babe régészeti park", ro: "Parcul arheologic Divje Babe", en: "Divje Babe Archaeological Park"},
@@ -1512,7 +3231,124 @@ imageHint: "Entrance to a prehistoric cave in a rocky cliff",
     },
   },
   {
-    id: "slovenia-gornji-grad-cathedral-history-v2",
+    id: "slovenia-gornji-grad-cathedral-history-v2", "sights": {
+      "de": [
+            {
+                  "name": "Gavge v Homu",
+                  "text": "Ein lokales historisches Denkmal in der Nähe des Doms von Gornji Grad.",
+                  "category": "landmark",
+                  "coords": [
+                        14.841493,
+                        46.311549
+                  ]
+            },
+            {
+                  "name": "Cerkev sv. Primoža in Felicijana",
+                  "text": "Eine Kirche in Gornji Grad, die den Heiligen Primus und Felicianus geweiht ist.",
+                  "category": "religious",
+                  "coords": [
+                        14.818517,
+                        46.291346
+                  ]
+            },
+            {
+                  "name": "Cerkev Marijinega darovanja",
+                  "text": "Eine katholische Kirche, die der Darbringung Mariens im Tempel gewidmet ist.",
+                  "category": "religious",
+                  "coords": [
+                        14.76504,
+                        46.275132
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Gavge v Homu",
+                  "text": "Helyi történelmi emlékhely a gornji gradi székesegyház közelében.",
+                  "category": "landmark",
+                  "coords": [
+                        14.841493,
+                        46.311549
+                  ]
+            },
+            {
+                  "name": "Cerkev sv. Primoža in Felicijana",
+                  "text": "Szent Primusnak és Feliciánnak szentelt templom Gornji Gradban.",
+                  "category": "religious",
+                  "coords": [
+                        14.818517,
+                        46.291346
+                  ]
+            },
+            {
+                  "name": "Cerkev Marijinega darovanja",
+                  "text": "Szűz Mária templomban való bemutatásának szentelt katolikus templom.",
+                  "category": "religious",
+                  "coords": [
+                        14.76504,
+                        46.275132
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Gavge v Homu",
+                  "text": "Un monument istoric local situat în apropierea catedralei din Gornji Grad.",
+                  "category": "landmark",
+                  "coords": [
+                        14.841493,
+                        46.311549
+                  ]
+            },
+            {
+                  "name": "Cerkev sv. Primoža in Felicijana",
+                  "text": "Biserică din Gornji Grad închinată Sfinților Prim și Felician.",
+                  "category": "religious",
+                  "coords": [
+                        14.818517,
+                        46.291346
+                  ]
+            },
+            {
+                  "name": "Cerkev Marijinega darovanja",
+                  "text": "Biserică catolică dedicată Prezentării la Templu a Fecioarei Maria.",
+                  "category": "religious",
+                  "coords": [
+                        14.76504,
+                        46.275132
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Gavge v Homu",
+                  "text": "A local historical monument located near the Gornji Grad cathedral.",
+                  "category": "landmark",
+                  "coords": [
+                        14.841493,
+                        46.311549
+                  ]
+            },
+            {
+                  "name": "Cerkev sv. Primoža in Felicijana",
+                  "text": "A church in Gornji Grad dedicated to Saints Primus and Felician.",
+                  "category": "religious",
+                  "coords": [
+                        14.818517,
+                        46.291346
+                  ]
+            },
+            {
+                  "name": "Cerkev Marijinega darovanja",
+                  "text": "A Catholic church dedicated to the Presentation of Mary in the Temple.",
+                  "category": "religious",
+                  "coords": [
+                        14.76504,
+                        46.275132
+                  ]
+            }
+      ]
+},
     parent: "SI",
     type: "cathedral",
     name: { de: "Kathedrale von Gornji Grad", hu: "Gornji Grad-i katedrális", ro: "Catedrala din Gornji Grad", en: "Gornji Grad Cathedral"},
@@ -1558,7 +3394,160 @@ imageHint: "Massive Baroque cathedral with a large dome in a small town",
     },
     image: "/poi-images/slovenia-gornji-grad-cathedral-history-v2.webp",
 },  {
-    id: "slovenia-kostanjevica-monastery-history-v2",
+    id: "slovenia-kostanjevica-monastery-history-v2", "sights": {
+      "de": [
+            {
+                  "name": "Krakovski pragozd",
+                  "text": "Ein geschütztes Urwaldgebiet in Slowenien, bekannt für seine Artenvielfalt.",
+                  "category": "natural",
+                  "coords": [
+                        15.406938,
+                        45.876533
+                  ]
+            },
+            {
+                  "name": "Galerija Božidar Jakac (Former Monastary Fons Beatae Mariae)",
+                  "text": "Eine bedeutende Kunstgalerie, die in einem ehemaligen Zisterzienserkloster untergebracht ist.",
+                  "category": "museum",
+                  "coords": [
+                        15.416405,
+                        45.835181
+                  ]
+            },
+            {
+                  "name": "Kostanjeviška jama",
+                  "text": "Eine Schauhöhle in Slowenien mit beeindruckenden Tropfsteinformationen.",
+                  "category": "landmark",
+                  "coords": [
+                        15.434388,
+                        45.838203
+                  ]
+            },
+            {
+                  "name": "Župnijska cerkev Sv. Križa",
+                  "text": "Die örtliche Pfarrkirche von Kostanjevica na Krki, dem Heiligen Kreuz geweiht.",
+                  "category": "religious",
+                  "coords": [
+                        15.465878,
+                        45.863756
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Krakovski pragozd",
+                  "text": "Védett őserdő terület Szlovéniában, amely biodiverzitásáról ismert.",
+                  "category": "natural",
+                  "coords": [
+                        15.406938,
+                        45.876533
+                  ]
+            },
+            {
+                  "name": "Galerija Božidar Jakac (Former Monastary Fons Beatae Mariae)",
+                  "text": "Jelentős művészeti galéria, amely egy egykori ciszterci kolostorban kapott helyet.",
+                  "category": "museum",
+                  "coords": [
+                        15.416405,
+                        45.835181
+                  ]
+            },
+            {
+                  "name": "Kostanjeviška jama",
+                  "text": "Látogatható barlang Szlovéniában, lenyűgöző cseppkőképződményekkel.",
+                  "category": "landmark",
+                  "coords": [
+                        15.434388,
+                        45.838203
+                  ]
+            },
+            {
+                  "name": "Župnijska cerkev Sv. Križa",
+                  "text": "Kostanjevica na Krki helyi plébániatemploma, amelyet a Szent Kereszt tiszteletére szenteltek.",
+                  "category": "religious",
+                  "coords": [
+                        15.465878,
+                        45.863756
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Krakovski pragozd",
+                  "text": "O zonă protejată de pădure virgină în Slovenia, cunoscută pentru biodiversitatea sa.",
+                  "category": "natural",
+                  "coords": [
+                        15.406938,
+                        45.876533
+                  ]
+            },
+            {
+                  "name": "Galerija Božidar Jakac (Former Monastary Fons Beatae Mariae)",
+                  "text": "O importantă galerie de artă găzduită într-o fostă mănăstire cisterciană.",
+                  "category": "museum",
+                  "coords": [
+                        15.416405,
+                        45.835181
+                  ]
+            },
+            {
+                  "name": "Kostanjeviška jama",
+                  "text": "O peșteră vizitabilă în Slovenia, cu formațiuni de stalactite impresionante.",
+                  "category": "landmark",
+                  "coords": [
+                        15.434388,
+                        45.838203
+                  ]
+            },
+            {
+                  "name": "Župnijska cerkev Sv. Križa",
+                  "text": "Biserica parohială locală din Kostanjevica na Krki, dedicată Sfintei Cruci.",
+                  "category": "religious",
+                  "coords": [
+                        15.465878,
+                        45.863756
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Krakovski pragozd",
+                  "text": "A protected virgin forest area in Slovenia, known for its biodiversity.",
+                  "category": "natural",
+                  "coords": [
+                        15.406938,
+                        45.876533
+                  ]
+            },
+            {
+                  "name": "Galerija Božidar Jakac (Former Monastary Fons Beatae Mariae)",
+                  "text": "An important art gallery housed in a former Cistercian monastery.",
+                  "category": "museum",
+                  "coords": [
+                        15.416405,
+                        45.835181
+                  ]
+            },
+            {
+                  "name": "Kostanjeviška jama",
+                  "text": "A show cave in Slovenia with impressive dripstone formations.",
+                  "category": "landmark",
+                  "coords": [
+                        15.434388,
+                        45.838203
+                  ]
+            },
+            {
+                  "name": "Župnijska cerkev Sv. Križa",
+                  "text": "The local parish church of Kostanjevica na Krki, dedicated to the Holy Cross.",
+                  "category": "religious",
+                  "coords": [
+                        15.465878,
+                        45.863756
+                  ]
+            }
+      ]
+},
     parent: "SI",
     type: "monument",
     name: { de: "Kloster Kostanjevica na Krki", hu: "Kostanjevica na Krki kolostor", ro: "Mănăstirea Kostanjevica na Krki", en: "Kostanjevica na Krki Monastery"},
@@ -2012,7 +4001,196 @@ imageHint: "Medieval castle on a small island surrounded by a river",
     image: "/poi-images/slovenia-tabor-lasko-history-v2.webp",
   },
   {
-    id: "slovenia-hartenstein-castle-history-v2",
+    id: "slovenia-hartenstein-castle-history-v2", "sights": {
+      "de": [
+            {
+                  "name": "Jenkova Kasarna",
+                  "text": "Eine historische Kaserne, die heute als Museum dient.",
+                  "category": "museum",
+                  "coords": [
+                        14.523763,
+                        46.408525
+                  ]
+            },
+            {
+                  "name": "Kärntner Storschitz / Pristovški Storžič",
+                  "text": "Ein markanter Berggipfel in den Karawanken an der Grenze.",
+                  "category": "landmark",
+                  "coords": [
+                        14.525476,
+                        46.431227
+                  ]
+            },
+            {
+                  "name": "Goli vrh",
+                  "text": "Ein Berggipfel mit Aussicht in der Nähe des Seebergsattels.",
+                  "category": "landmark",
+                  "coords": [
+                        14.546868,
+                        46.397979
+                  ]
+            },
+            {
+                  "name": "Kleiner Grintoutz",
+                  "text": "Ein Berggipfel an der Grenze zwischen Slowenien und Österreich.",
+                  "category": "landmark",
+                  "coords": [
+                        14.479391,
+                        46.413405
+                  ]
+            },
+            {
+                  "name": "Gut Trögern",
+                  "text": "Ein historisches Anwesen in der Region Kärnten.",
+                  "category": "historical",
+                  "coords": [
+                        14.488655,
+                        46.437628
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Jenkova Kasarna",
+                  "text": "Történelmi laktanyaépület, amely ma múzeumnak ad otthont.",
+                  "category": "museum",
+                  "coords": [
+                        14.523763,
+                        46.408525
+                  ]
+            },
+            {
+                  "name": "Kärntner Storschitz / Pristovški Storžič",
+                  "text": "Jellegzetes hegycsúcs a Karavankák vonulatában a határon.",
+                  "category": "landmark",
+                  "coords": [
+                        14.525476,
+                        46.431227
+                  ]
+            },
+            {
+                  "name": "Goli vrh",
+                  "text": "Panorámás hegycsúcs a környéken.",
+                  "category": "landmark",
+                  "coords": [
+                        14.546868,
+                        46.397979
+                  ]
+            },
+            {
+                  "name": "Virnikov Grintovec / Kleiner Grintoutz",
+                  "text": "Hegycsúcs a szlovén-osztrák határon.",
+                  "category": "landmark",
+                  "coords": [
+                        14.479391,
+                        46.413405
+                  ]
+            },
+            {
+                  "name": "Gut Trögern",
+                  "text": "Történelmi kúria Karintia régiójában.",
+                  "category": "historical",
+                  "coords": [
+                        14.488655,
+                        46.437628
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Jenkova Kasarna",
+                  "text": "O fostă cazarmă istorică transformată în muzeu.",
+                  "category": "museum",
+                  "coords": [
+                        14.523763,
+                        46.408525
+                  ]
+            },
+            {
+                  "name": "Kärntner Storschitz / Pristovški Storžič",
+                  "text": "Un vârf muntos proeminent situat în Munții Karawanken.",
+                  "category": "landmark",
+                  "coords": [
+                        14.525476,
+                        46.431227
+                  ]
+            },
+            {
+                  "name": "Goli vrh",
+                  "text": "Un vârf muntos ce oferă priveliști panoramice.",
+                  "category": "landmark",
+                  "coords": [
+                        14.546868,
+                        46.397979
+                  ]
+            },
+            {
+                  "name": "Virnikov Grintovec / Kleiner Grintoutz",
+                  "text": "Un vârf muntos situat la granița dintre Slovenia și Austria.",
+                  "category": "landmark",
+                  "coords": [
+                        14.479391,
+                        46.413405
+                  ]
+            },
+            {
+                  "name": "Gut Trögern",
+                  "text": "Un conac istoric situat în regiunea Carintia.",
+                  "category": "historical",
+                  "coords": [
+                        14.488655,
+                        46.437628
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Jenkova Kasarna",
+                  "text": "A historic barracks building that now serves as a museum.",
+                  "category": "museum",
+                  "coords": [
+                        14.523763,
+                        46.408525
+                  ]
+            },
+            {
+                  "name": "Kärntner Storschitz / Pristovški Storžič",
+                  "text": "A prominent mountain peak in the Karawanks range.",
+                  "category": "landmark",
+                  "coords": [
+                        14.525476,
+                        46.431227
+                  ]
+            },
+            {
+                  "name": "Goli vrh",
+                  "text": "A mountain peak offering scenic views of the surrounding area.",
+                  "category": "landmark",
+                  "coords": [
+                        14.546868,
+                        46.397979
+                  ]
+            },
+            {
+                  "name": "Virnikov Grintovec / Kleiner Grintoutz",
+                  "text": "A mountain peak located on the border between Slovenia and Austria.",
+                  "category": "landmark",
+                  "coords": [
+                        14.479391,
+                        46.413405
+                  ]
+            },
+            {
+                  "name": "Gut Trögern",
+                  "text": "A historic manor house located in the Carinthia region.",
+                  "category": "historical",
+                  "coords": [
+                        14.488655,
+                        46.437628
+                  ]
+            }
+      ]
+},
     type: "ruins",
     parent: "SI",
     name: { de: "Burg Hartenstein", hu: "Hartenstein vára", ro: "Castelul Hartenstein", en: "Hartenstein Castle" },
@@ -2057,7 +4235,88 @@ imageHint: "Medieval castle on a small island surrounded by a river",
     image: "/poi-images/slovenia-hartenstein-castle-history-v2.webp",
   },
   {
-    id: "slovenia-klanec-church-history-v2",
+    id: "slovenia-klanec-church-history-v2", "sights": {
+      "de": [
+            {
+                  "name": "Sv. Marjeta",
+                  "text": "Die Überreste einer historischen Kirche in der Nähe der St.-Kanzian-Kirche in Klanec.",
+                  "category": "historical",
+                  "coords": [
+                        14.270187,
+                        45.687621
+                  ]
+            },
+            {
+                  "name": "Sv. Nikolaj",
+                  "text": "Ein der heiligen Nikolaus gewidmetes Gotteshaus in der Nähe der St.-Kanzian-Kirche in Klanec.",
+                  "category": "religious",
+                  "coords": [
+                        14.257476,
+                        45.675914
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Sv. Marjeta",
+                  "text": "Egy történelmi templom maradványai a klaneci Szent Kancián-templom közelében.",
+                  "category": "historical",
+                  "coords": [
+                        14.270187,
+                        45.687621
+                  ]
+            },
+            {
+                  "name": "Sv. Nikolaj",
+                  "text": "Szent Miklósnak szentelt istentiszteleti hely a klaneci Szent Kancián-templom közelében.",
+                  "category": "religious",
+                  "coords": [
+                        14.257476,
+                        45.675914
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Sv. Marjeta",
+                  "text": "Rămășițele unei biserici istorice situate lângă Biserica Sfântul Canțian din Klanec.",
+                  "category": "historical",
+                  "coords": [
+                        14.270187,
+                        45.687621
+                  ]
+            },
+            {
+                  "name": "Sv. Nikolaj",
+                  "text": "Un lăcaș de cult dedicat Sfântului Nicolae, situat lângă Biserica Sfântul Canțian din Klanec.",
+                  "category": "religious",
+                  "coords": [
+                        14.257476,
+                        45.675914
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Sv. Marjeta",
+                  "text": "The remains of a historic church located near the St. Kancijan Church in Klanec.",
+                  "category": "historical",
+                  "coords": [
+                        14.270187,
+                        45.687621
+                  ]
+            },
+            {
+                  "name": "Sv. Nikolaj",
+                  "text": "A place of worship dedicated to Saint Nicholas, located near the St. Kancijan Church in Klanec.",
+                  "category": "religious",
+                  "coords": [
+                        14.257476,
+                        45.675914
+                  ]
+            }
+      ]
+},
     type: "church",
     parent: "SI",
     name: { de: "Kirche St. Kancijan in Klanec", hu: "Klaneci Szent Kancijan-templom", ro: "Biserica Sf. Kancijan din Klanec", en: "St. Kancijan Church in Klanec" },
@@ -2147,7 +4406,160 @@ imageHint: "Medieval castle on a small island surrounded by a river",
     image: "/poi-images/slovenia-stanjel-castle-history-v2.webp",
   },
   {
-    id: "slovenia-hrib-cerkno-church-history-v2",
+    id: "slovenia-hrib-cerkno-church-history-v2", "sights": {
+      "de": [
+            {
+                  "name": "Mestni Muzej Idrija",
+                  "text": "Ein städtisches Museum, das die Bergbaugeschichte und das kulturelle Erbe von Idrija präsentiert.",
+                  "category": "museum",
+                  "coords": [
+                        13.987617,
+                        46.128155
+                  ]
+            },
+            {
+                  "name": "Spomenik 47 padlim",
+                  "text": "Ein Denkmal zum Gedenken an 47 Gefallene in der Nähe von Hrib.",
+                  "category": "historical",
+                  "coords": [
+                        13.989898,
+                        46.130699
+                  ]
+            },
+            {
+                  "name": "Mejnik Rapalske meje",
+                  "text": "Ein historischer Grenzstein der ehemaligen Rapallo-Grenze.",
+                  "category": "historical",
+                  "coords": [
+                        14.020927,
+                        46.096409
+                  ]
+            },
+            {
+                  "name": "Miklavžev turn",
+                  "text": "Überreste eines historischen Turms oder Gebäudes in der Gegend von Hrib.",
+                  "category": "historical",
+                  "coords": [
+                        13.996952,
+                        46.139483
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Mestni Muzej Idrija",
+                  "text": "Idrija városi múzeuma, amely a bányászat történetét és a kulturális örökséget mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        13.987617,
+                        46.128155
+                  ]
+            },
+            {
+                  "name": "Spomenik 47 padlim",
+                  "text": "Egy emlékmű a 47 elesett katona emlékére Hrib közelében.",
+                  "category": "historical",
+                  "coords": [
+                        13.989898,
+                        46.130699
+                  ]
+            },
+            {
+                  "name": "Mejnik Rapalske meje",
+                  "text": "A korábbi rapallói határ egyik történelmi határköve.",
+                  "category": "historical",
+                  "coords": [
+                        14.020927,
+                        46.096409
+                  ]
+            },
+            {
+                  "name": "Miklavžev turn",
+                  "text": "Egy történelmi torony vagy épület maradványai Hrib környékén.",
+                  "category": "historical",
+                  "coords": [
+                        13.996952,
+                        46.139483
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Mestni Muzej Idrija",
+                  "text": "Un muzeu municipal care prezintă istoria minieră și moștenirea culturală din Idrija.",
+                  "category": "museum",
+                  "coords": [
+                        13.987617,
+                        46.128155
+                  ]
+            },
+            {
+                  "name": "Spomenik 47 padlim",
+                  "text": "Un monument dedicat celor 47 de căzuți în apropiere de Hrib.",
+                  "category": "historical",
+                  "coords": [
+                        13.989898,
+                        46.130699
+                  ]
+            },
+            {
+                  "name": "Mejnik Rapalske meje",
+                  "text": "O bornă istorică ce marca fosta frontieră de la Rapallo.",
+                  "category": "historical",
+                  "coords": [
+                        14.020927,
+                        46.096409
+                  ]
+            },
+            {
+                  "name": "Miklavžev turn",
+                  "text": "Ruinele unui turn sau ale unei construcții istorice din zona Hrib.",
+                  "category": "historical",
+                  "coords": [
+                        13.996952,
+                        46.139483
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Mestni Muzej Idrija",
+                  "text": "A municipal museum showcasing the mining history and cultural heritage of Idrija.",
+                  "category": "museum",
+                  "coords": [
+                        13.987617,
+                        46.128155
+                  ]
+            },
+            {
+                  "name": "Spomenik 47 padlim",
+                  "text": "A monument dedicated to the 47 fallen soldiers located near Hrib.",
+                  "category": "historical",
+                  "coords": [
+                        13.989898,
+                        46.130699
+                  ]
+            },
+            {
+                  "name": "Mejnik Rapalske meje",
+                  "text": "A historical boundary stone marking the former Rapallo border.",
+                  "category": "historical",
+                  "coords": [
+                        14.020927,
+                        46.096409
+                  ]
+            },
+            {
+                  "name": "Miklavžev turn",
+                  "text": "Ruins of a historical tower or structure in the Hrib area.",
+                  "category": "historical",
+                  "coords": [
+                        13.996952,
+                        46.139483
+                  ]
+            }
+      ]
+},
     type: "church",
     parent: "SI",
     name: { de: "St. Anna Kirche in Hrib", hu: "Hribi Szent Anna-templom", ro: "Biserica Sf. Ana din Hrib", en: "St. Anne Church in Hrib" },
@@ -2192,7 +4604,196 @@ imageHint: "Medieval castle on a small island surrounded by a river",
     image: "/poi-images/slovenia-hrib-cerkno-church-history-v2.webp",
   },
   {
-    id: "slovenia-vitanje-castle-history-v2",
+    id: "slovenia-vitanje-castle-history-v2", "sights": {
+      "de": [
+            {
+                  "name": "Goležev grad (Grad Vitanje)",
+                  "text": "Die Ruinen einer alten Burg in Vitanje Castle, die das mittelalterliche Erbe der Region repräsentieren.",
+                  "category": "castle",
+                  "coords": [
+                        15.293047,
+                        46.376663
+                  ]
+            },
+            {
+                  "name": "Krajnikov grad",
+                  "text": "Ein historisches Schlossgebäude in Vitanje Castle, das die lokale Architekturgeschichte widerspiegelt.",
+                  "category": "castle",
+                  "coords": [
+                        15.293277,
+                        46.379187
+                  ]
+            },
+            {
+                  "name": "Grad Lindek",
+                  "text": "Die Überreste einer mittelalterlichen Burg in Vitanje Castle, bekannt für ihre historischen Mauern.",
+                  "category": "castle",
+                  "coords": [
+                        15.325222,
+                        46.352575
+                  ]
+            },
+            {
+                  "name": "KSEVT",
+                  "text": "Ein modernes Museum in Vitanje Castle, das der Weltraumtechnologie und Kultur gewidmet ist.",
+                  "category": "museum",
+                  "coords": [
+                        15.295346,
+                        46.383036
+                  ]
+            },
+            {
+                  "name": "Smereška peč",
+                  "text": "Ein malerischer Aussichtspunkt in Vitanje Castle mit Blick auf die umliegende Landschaft.",
+                  "category": "natural",
+                  "coords": [
+                        15.280155,
+                        46.383014
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Goležev grad (Grad Vitanje)",
+                  "text": "Egy régi vár romjai Vitanjéban, amelyek a régió középkori örökségét képviselik.",
+                  "category": "castle",
+                  "coords": [
+                        15.293047,
+                        46.376663
+                  ]
+            },
+            {
+                  "name": "Krajnikov grad",
+                  "text": "Történelmi várépület Vitanjéban, amely a helyi építészettörténetet tükrözi.",
+                  "category": "castle",
+                  "coords": [
+                        15.293277,
+                        46.379187
+                  ]
+            },
+            {
+                  "name": "Grad Lindek",
+                  "text": "Egy középkori vár maradványai Vitanjéban, amely történelmi falairól ismert.",
+                  "category": "castle",
+                  "coords": [
+                        15.325222,
+                        46.352575
+                  ]
+            },
+            {
+                  "name": "KSEVT",
+                  "text": "Modern múzeum Vitanjéban, amely az űrtechnológiának és a kultúrának szentelt.",
+                  "category": "museum",
+                  "coords": [
+                        15.295346,
+                        46.383036
+                  ]
+            },
+            {
+                  "name": "Smereška peč",
+                  "text": "Malerikus kilátópont Vitanjéban, ahonnan kilátás nyílik a környező tájra.",
+                  "category": "natural",
+                  "coords": [
+                        15.280155,
+                        46.383014
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Goležev grad (Grad Vitanje)",
+                  "text": "Ruinele unui vechi castel din Vitanje, care reprezintă moștenirea medievală a regiunii.",
+                  "category": "castle",
+                  "coords": [
+                        15.293047,
+                        46.376663
+                  ]
+            },
+            {
+                  "name": "Krajnikov grad",
+                  "text": "O structură de castel istoric din Vitanje care reflectă istoria arhitecturală locală.",
+                  "category": "castle",
+                  "coords": [
+                        15.293277,
+                        46.379187
+                  ]
+            },
+            {
+                  "name": "Grad Lindek",
+                  "text": "Rămășițele unui castel medieval din Vitanje, cunoscut pentru zidurile sale istorice.",
+                  "category": "castle",
+                  "coords": [
+                        15.325222,
+                        46.352575
+                  ]
+            },
+            {
+                  "name": "KSEVT",
+                  "text": "Un muzeu modern din Vitanje dedicat tehnologiei spațiale și culturii.",
+                  "category": "museum",
+                  "coords": [
+                        15.295346,
+                        46.383036
+                  ]
+            },
+            {
+                  "name": "Smereška peč",
+                  "text": "Un punct de observație pitoresc din Vitanje, care oferă vederi asupra peisajului înconjurător.",
+                  "category": "natural",
+                  "coords": [
+                        15.280155,
+                        46.383014
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Goležev grad (Grad Vitanje)",
+                  "text": "The ruins of an old castle in Vitanje, representing the medieval heritage of the region.",
+                  "category": "castle",
+                  "coords": [
+                        15.293047,
+                        46.376663
+                  ]
+            },
+            {
+                  "name": "Krajnikov grad",
+                  "text": "A historic castle structure in Vitanje reflecting the local architectural history.",
+                  "category": "castle",
+                  "coords": [
+                        15.293277,
+                        46.379187
+                  ]
+            },
+            {
+                  "name": "Grad Lindek",
+                  "text": "The remains of a medieval castle in Vitanje, known for its historic walls.",
+                  "category": "castle",
+                  "coords": [
+                        15.325222,
+                        46.352575
+                  ]
+            },
+            {
+                  "name": "KSEVT",
+                  "text": "A modern museum in Vitanje dedicated to space technology and culture.",
+                  "category": "museum",
+                  "coords": [
+                        15.295346,
+                        46.383036
+                  ]
+            },
+            {
+                  "name": "Smereška peč",
+                  "text": "A scenic viewpoint in Vitanje offering vistas of the surrounding landscape.",
+                  "category": "natural",
+                  "coords": [
+                        15.280155,
+                        46.383014
+                  ]
+            }
+      ]
+},
     type: "ruins",
     parent: "SI",
     name: { de: "Burg Vitanje", hu: "Vitanje vára", ro: "Castelul Vitanje", en: "Vitanje Castle" },
@@ -2327,7 +4928,88 @@ imageHint: "Medieval castle on a small island surrounded by a river",
     image: "/poi-images/slovenia-selo-rotunda-history-v2.webp",
   },
   {
-    id: "slovenia-sumberk-ruins-history-v2",
+    id: "slovenia-sumberk-ruins-history-v2", "sights": {
+      "de": [
+            {
+                  "name": "Grad Šumberk",
+                  "text": "Die Ruinen einer mittelalterlichen Burg bei Šumberk.",
+                  "category": "castle",
+                  "coords": [
+                        14.895939,
+                        45.890574
+                  ]
+            },
+            {
+                  "name": "Grad Kozjek",
+                  "text": "Eine historische Burgruine in der Region Šumberk.",
+                  "category": "castle",
+                  "coords": [
+                        14.927392,
+                        45.893355
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Grad Šumberk",
+                  "text": "Egy középkori vár romjai Šumberk közelében.",
+                  "category": "castle",
+                  "coords": [
+                        14.895939,
+                        45.890574
+                  ]
+            },
+            {
+                  "name": "Grad Kozjek",
+                  "text": "Történelmi várrom Šumberk régiójában.",
+                  "category": "castle",
+                  "coords": [
+                        14.927392,
+                        45.893355
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Grad Šumberk",
+                  "text": "Ruinele unui castel medieval lângă Šumberk.",
+                  "category": "castle",
+                  "coords": [
+                        14.895939,
+                        45.890574
+                  ]
+            },
+            {
+                  "name": "Grad Kozjek",
+                  "text": "O ruină istorică de castel în regiunea Šumberk.",
+                  "category": "castle",
+                  "coords": [
+                        14.927392,
+                        45.893355
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Grad Šumberk",
+                  "text": "The ruins of a medieval castle near Šumberk.",
+                  "category": "castle",
+                  "coords": [
+                        14.895939,
+                        45.890574
+                  ]
+            },
+            {
+                  "name": "Grad Kozjek",
+                  "text": "A historical castle ruin in the Šumberk region.",
+                  "category": "castle",
+                  "coords": [
+                        14.927392,
+                        45.893355
+                  ]
+            }
+      ]
+},
     type: "ruins",
     parent: "SI",
     name: { de: "Burg Šumberk", hu: "Šumberk vára", ro: "Castelul Šumberk", en: "Šumberk Castle" },
@@ -2372,7 +5054,124 @@ imageHint: "Medieval castle on a small island surrounded by a river",
     image: "/poi-images/slovenia-sumberk-ruins-history-v2.webp",
   },
   {
-    id: "slovenia-hrib-pod-goro-church-history-v2",
+    id: "slovenia-hrib-pod-goro-church-history-v2", "sights": {
+      "de": [
+            {
+                  "name": "Jezerska Kočna",
+                  "text": "Ein hoher Berggipfel in den Steiner Alpen in Slowenien.",
+                  "category": "landmark",
+                  "coords": [
+                        14.521967,
+                        46.358757
+                  ]
+            },
+            {
+                  "name": "Srednji vrh",
+                  "text": "Ein markanter Berggipfel in der slowenischen Landschaft.",
+                  "category": "landmark",
+                  "coords": [
+                        14.439229,
+                        46.339458
+                  ]
+            },
+            {
+                  "name": "Veliki vrh (Križ)",
+                  "text": "Ein malerischer Berggipfel in Slowenien mit Blick auf die umliegenden Gebirgszüge.",
+                  "category": "landmark",
+                  "coords": [
+                        14.497926,
+                        46.371654
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Jezerska Kočna",
+                  "text": "Magas hegycsúcs a Kamniki-Alpokban, Szlovéniában.",
+                  "category": "landmark",
+                  "coords": [
+                        14.521967,
+                        46.358757
+                  ]
+            },
+            {
+                  "name": "Srednji vrh",
+                  "text": "Jellegzetes hegycsúcs a szlovén tájon.",
+                  "category": "landmark",
+                  "coords": [
+                        14.439229,
+                        46.339458
+                  ]
+            },
+            {
+                  "name": "Veliki vrh (Križ)",
+                  "text": "Festői hegycsúcs Szlovéniában, kilátással a környező vonulatokra.",
+                  "category": "landmark",
+                  "coords": [
+                        14.497926,
+                        46.371654
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Jezerska Kočna",
+                  "text": "Un vârf muntos înalt din Alpii Kamnik-Savinja din Slovenia.",
+                  "category": "landmark",
+                  "coords": [
+                        14.521967,
+                        46.358757
+                  ]
+            },
+            {
+                  "name": "Srednji vrh",
+                  "text": "Un vârf muntos proeminent situat în peisajul sloven.",
+                  "category": "landmark",
+                  "coords": [
+                        14.439229,
+                        46.339458
+                  ]
+            },
+            {
+                  "name": "Veliki vrh (Križ)",
+                  "text": "Un vârf muntos pitoresc din Slovenia, oferind priveliști asupra lanțurilor muntoase din jur.",
+                  "category": "landmark",
+                  "coords": [
+                        14.497926,
+                        46.371654
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Jezerska Kočna",
+                  "text": "A high mountain peak in the Kamnik–Savinja Alps of Slovenia.",
+                  "category": "landmark",
+                  "coords": [
+                        14.521967,
+                        46.358757
+                  ]
+            },
+            {
+                  "name": "Srednji vrh",
+                  "text": "A prominent mountain peak located in the Slovenian landscape.",
+                  "category": "landmark",
+                  "coords": [
+                        14.439229,
+                        46.339458
+                  ]
+            },
+            {
+                  "name": "Veliki vrh (Križ)",
+                  "text": "A scenic mountain peak in Slovenia, offering views of the surrounding ranges.",
+                  "category": "landmark",
+                  "coords": [
+                        14.497926,
+                        46.371654
+                  ]
+            }
+      ]
+},
     type: "church",
     parent: "SI",
     name: { de: "Kirche St. Laurentius", hu: "Szent Lőrinc-templom", ro: "Biserica Sf. Laurențiu", en: "St. Lawrence Church" },
@@ -2417,7 +5216,196 @@ imageHint: "Medieval castle on a small island surrounded by a river",
     image: "/poi-images/slovenia-hrib-pod-goro-church-history-v2.webp",
   },
   {
-    id: "slovenia-zgornja-polskava-castle-history-v2",
+    id: "slovenia-zgornja-polskava-castle-history-v2", "sights": {
+      "de": [
+            {
+                  "name": "Grad Gromberg",
+                  "text": "Die Überreste der mittelalterlichen Burg Gromberg auf einem Hügel.",
+                  "category": "historical",
+                  "coords": [
+                        15.583742,
+                        46.445093
+                  ]
+            },
+            {
+                  "name": "Framski grad",
+                  "text": "Ruinen einer alten Befestigungsanlage in der Nähe von Fram.",
+                  "category": "historical",
+                  "coords": [
+                        15.624207,
+                        46.457455
+                  ]
+            },
+            {
+                  "name": "Mühlwerk Dejan Pečovnik s.p.",
+                  "text": "Ein Ort, der Einblicke in traditionelle Mahltechniken in der Region bietet.",
+                  "category": "landmark",
+                  "coords": [
+                        15.634404,
+                        46.453303
+                  ]
+            },
+            {
+                  "name": "Cerkev sv. Štefana",
+                  "text": "Eine dem heiligen Stephanus geweihte Kirche in der Umgebung von Fram.",
+                  "category": "religious",
+                  "coords": [
+                        15.640027,
+                        46.412037
+                  ]
+            },
+            {
+                  "name": "Cerkev sv. Ane Fram",
+                  "text": "Die katholische Pfarrkirche der Ortschaft Fram, der heiligen Anna gewidmet.",
+                  "category": "religious",
+                  "coords": [
+                        15.626242,
+                        46.456341
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Grad Gromberg",
+                  "text": "Gromberg középkori várának maradványai egy dombtetőn.",
+                  "category": "historical",
+                  "coords": [
+                        15.583742,
+                        46.445093
+                  ]
+            },
+            {
+                  "name": "Framski grad",
+                  "text": "Egy régi erődítmény romjai Fram közelében.",
+                  "category": "historical",
+                  "coords": [
+                        15.624207,
+                        46.457455
+                  ]
+            },
+            {
+                  "name": "Mlinarstvo Dejan Pečovnik s.p.",
+                  "text": "Helyszín, amely betekintést nyújt a régió hagyományos őrlési technikáiba.",
+                  "category": "landmark",
+                  "coords": [
+                        15.634404,
+                        46.453303
+                  ]
+            },
+            {
+                  "name": "Cerkev sv. Štefana",
+                  "text": "Szent István tiszteletére szentelt templom Fram környékén.",
+                  "category": "religious",
+                  "coords": [
+                        15.640027,
+                        46.412037
+                  ]
+            },
+            {
+                  "name": "Cerkev sv. Ane Fram",
+                  "text": "Szent Anna tiszteletére szentelt katolikus plébániatemplom Fram településen.",
+                  "category": "religious",
+                  "coords": [
+                        15.626242,
+                        46.456341
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Grad Gromberg",
+                  "text": "Rămășițele castelului medieval Gromberg, situate pe un deal.",
+                  "category": "historical",
+                  "coords": [
+                        15.583742,
+                        46.445093
+                  ]
+            },
+            {
+                  "name": "Framski grad",
+                  "text": "Ruinele unei vechi fortificații situate în apropiere de Fram.",
+                  "category": "historical",
+                  "coords": [
+                        15.624207,
+                        46.457455
+                  ]
+            },
+            {
+                  "name": "Mlinarstvo Dejan Pečovnik s.p.",
+                  "text": "Un loc ce oferă informații despre tehnicile tradiționale de măcinare din regiune.",
+                  "category": "landmark",
+                  "coords": [
+                        15.634404,
+                        46.453303
+                  ]
+            },
+            {
+                  "name": "Cerkev sv. Štefana",
+                  "text": "O biserică dedicată Sfântului Ștefan în împrejurimile localității Fram.",
+                  "category": "religious",
+                  "coords": [
+                        15.640027,
+                        46.412037
+                  ]
+            },
+            {
+                  "name": "Cerkev sv. Ane Fram",
+                  "text": "Biserica parohială catolică din Fram, dedicată Sfintei Ana.",
+                  "category": "religious",
+                  "coords": [
+                        15.626242,
+                        46.456341
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Grad Gromberg",
+                  "text": "The remains of the medieval Gromberg Castle located on a hill.",
+                  "category": "historical",
+                  "coords": [
+                        15.583742,
+                        46.445093
+                  ]
+            },
+            {
+                  "name": "Framski grad",
+                  "text": "Ruins of an old fortification located near Fram.",
+                  "category": "historical",
+                  "coords": [
+                        15.624207,
+                        46.457455
+                  ]
+            },
+            {
+                  "name": "Milling Dejan Pečovnik s.p.",
+                  "text": "A site providing insight into traditional milling techniques in the region.",
+                  "category": "landmark",
+                  "coords": [
+                        15.634404,
+                        46.453303
+                  ]
+            },
+            {
+                  "name": "Cerkev sv. Štefana",
+                  "text": "A church dedicated to Saint Stephen in the vicinity of Fram.",
+                  "category": "religious",
+                  "coords": [
+                        15.640027,
+                        46.412037
+                  ]
+            },
+            {
+                  "name": "Cerkev sv. Ane Fram",
+                  "text": "The Catholic parish church of Fram, dedicated to Saint Anne.",
+                  "category": "religious",
+                  "coords": [
+                        15.626242,
+                        46.456341
+                  ]
+            }
+      ]
+},
     type: "castle",
     parent: "SI",
     name: { de: "Schloss Frajštajn", hu: "Frajštajn kastély", ro: "Castelul Frajštajn", en: "Frajštajn Castle" },

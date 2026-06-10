@@ -711,7 +711,2752 @@ export const austriaRegions: POI[] = [
 
 export const austriaCities: POI[] = [
   {
-    id: "AT-Graz", "sights": {"de": [{"name": "Puchmuseum", "text": "Ein Museum in Graz, das der Geschichte der Puch-Fahrzeuge gewidmet ist.", "category": "museum", "coords": [15.43765, 47.04397]}, {"name": "Diözesanmuseum Graz", "text": "Das Museum der Diözese Graz-Seckau zeigt christliche Kunst.", "category": "museum", "coords": [15.441755, 47.071698]}, {"name": "Landeszeughaus", "text": "Die weltweit größte historische Waffenkammer mit einer riesigen Sammlung.", "category": "museum", "coords": [15.439883, 47.069803]}, {"name": "GrazMuseum", "text": "Das Stadtmuseum von Graz präsentiert die lokale Geschichte und Kultur.", "category": "museum", "coords": [15.436518, 47.072656]}, {"name": "Montan- und Werksbahnmuseum Graz", "text": "Ein Museum in Graz, das sich auf Werks- und Montanbahnen spezialisiert hat.", "category": "museum", "coords": [15.437505, 47.078714]}, {"name": "Messe-Schlößl", "text": "Ein historisches Schlösschen auf dem Gelände der Grazer Messe.", "category": "castle", "coords": [15.451066, 47.059291]}, {"name": "Halle für Kunst Steiermark", "text": "Ein zeitgenössisches Kunstmuseum im Grazer Stadtpark.", "category": "museum", "coords": [15.44458, 47.07174]}, {"name": "Volkskundemuseum", "text": "Ein Museum für steirische Volkskunde und regionale Traditionen.", "category": "museum", "coords": [15.439702, 47.075029]}, {"name": "Kunsthaus", "text": "Ein architektonisch markantes Museum für moderne Kunst, auch „Friendly Alien“ genannt.", "category": "museum", "coords": [15.434015, 47.071298]}, {"name": "Kindermuseum FRida & freD", "text": "Ein interaktives Erlebnismuseum für Kinder in Graz.", "category": "museum", "coords": [15.436239, 47.063162]}, {"name": "Museum der Wahrnehmung", "text": "Ein Museum in Graz, das sich mit der menschlichen Wahrnehmung befasst.", "category": "museum", "coords": [15.437541, 47.062613]}, {"name": "Mühlschlössl", "text": "Ein historisches Schloss in Graz mit barocken Elementen.", "category": "castle", "coords": [15.425893, 47.074071]}, {"name": "Meerscheinschlössl", "text": "Ein barockes Lustschloss, das heute von der Universität Graz genutzt wird.", "category": "castle", "coords": [15.447013, 47.07938]}, {"name": "Tupay-Schlössl", "text": "Ein ehemaliges spätbarockes Adelsschloss im Grazer Stadtbezirk Leonhard.", "category": "castle", "coords": [15.445429, 47.052136]}, {"name": "Hallerschloss", "text": "Ein geschütztes historisches Schlossgebäude in Graz.", "category": "castle", "coords": [15.464259, 47.070574]}, {"name": "Metahof-Schlössl", "text": "Ein barockes Schlösschen inmitten einer Parkanlage in Graz.", "category": "castle", "coords": [15.421252, 47.072984]}, {"name": "Schloss Neu-Grabenhofen", "text": "Ein Schloss am nördlichen Stadtrand von Graz.", "category": "castle", "coords": [15.437473, 47.095175]}, {"name": "Minoritenschlössl", "text": "Ein historisches Schlossgebäude, das ehemals dem Minoritenorden gehörte.", "category": "castle", "coords": [15.446838, 47.090824]}, {"name": "Rosenhof", "text": "Ein Grazer Schlossbau mit langer Geschichte.", "category": "castle", "coords": [15.441602, 47.089802]}, {"name": "Hubertus-Schlössl", "text": "Ein kleines Jagdschloss im Grazer Stadtbezirk Eggenberg.", "category": "castle", "coords": [15.447529, 47.088756]}, {"name": "Mausoleum Prokesch-Osten", "text": "Ein bedeutendes Grabdenkmal auf dem Friedhof St. Leonhard.", "category": "historical", "coords": [15.46747, 47.077377]}, {"name": "Burgtor", "text": "Eines der erhaltenen historischen Stadttore von Graz.", "category": "fortress", "coords": [15.443051, 47.072161]}, {"name": "Oper", "text": "Das zweitgrößte Opernhaus Österreichs mit beeindruckender Architektur.", "category": "cultural", "coords": [15.445683, 47.069004]}, {"name": "Schauspielhaus", "text": "Ein bedeutendes Theatergebäude für Schauspielkunst in Graz.", "category": "cultural", "coords": [15.441641, 47.072705]}, {"name": "Orpheum", "text": "Ein traditionsreiches Veranstaltungszentrum für Konzerte und Kleinkunst.", "category": "cultural", "coords": [15.429949, 47.072328]}, {"name": "Kasematten", "text": "Eine Freilichtbühne in den historischen Gemäuern auf dem Schloßberg.", "category": "cultural", "coords": [15.43741, 47.076321]}, {"name": "Stefaniensaal", "text": "Ein prunkvoller Konzertsaal im Herzen von Graz.", "category": "cultural", "coords": [15.437803, 47.069801]}, {"name": "Helmut-List-Halle", "text": "Eine multifunktionale Veranstaltungshalle für Kunst und Kultur.", "category": "cultural", "coords": [15.411948, 47.079682]}, {"name": "Forum Stadtpark", "text": "Als Zentrum für zeitgenössische Kunst und Kultur lädt das Forum Stadtpark in Graz zu inspirierenden Besuchen ein. Diese kulturelle Einrichtung befindet sich direkt im städtischen Parkgelände.", "category": "cultural", "coords": [15.443571, 47.074651]}, {"name": "Tennenmälzerei", "text": "Ein historisches Industriegebäude, das heute kulturell genutzt wird.", "category": "cultural", "coords": [15.411465, 47.064232]}, {"name": "Altkatholische Christophoruskirche", "text": "Die Kirche der altkatholischen Kirchengemeinde in Graz.", "category": "religious", "coords": [15.430862, 47.069594]}, {"name": "Kalvarienberg", "text": "Ein religiöser Komplex mit Kreuzwegstationen und Kapellen.", "category": "religious", "coords": [15.417565, 47.093152]}, {"name": "Leechkirche", "text": "Eine der ältesten Kirchen von Graz mit gotischen Elementen.", "category": "religious", "coords": [15.446743, 47.075571]}, {"name": "Stadtpfarrkirche zum Heiligen Blut", "text": "Die barocke Hauptpfarrkirche von Graz mit bedeutenden Kunstwerken.", "category": "religious", "coords": [15.441151, 47.069413]}, {"name": "Sankt-Josef-Kirche", "text": "Eine neugotische Kirche im Grazer Stadtbezirk Jakomini.", "category": "religious", "coords": [15.441031, 47.058849]}, {"name": "Synagoge", "text": "Das religiöse Zentrum der jüdischen Gemeinde in Graz.", "category": "religious", "coords": [15.433563, 47.064138]}, {"name": "Landeskrankenhauskirche zum Heiligsten Erlöser", "text": "Ein modernes katholisches Kirchengebäude im Westen von Graz.", "category": "religious", "coords": [15.465785, 47.082636]}, {"name": "Herz-Jesu-Kirche", "text": "Eine imposante neugotische Kirche mit dem höchsten Kirchturm von Graz.", "category": "religious", "coords": [15.455737, 47.069626]}, {"name": "Sankt Johannes", "text": "Eine moderne katholische Pfarre im Grazer Stadtteil Straßgang.", "category": "religious", "coords": [15.427986, 47.049339]}, {"name": "Münzgrabenkirche", "text": "Eine markante Kirche in Graz, die nach dem Zweiten Weltkrieg wiederaufgebaut wurde.", "category": "religious", "coords": [15.4523, 47.061317]}, {"name": "Kirche Hl. Kyrill und Method", "text": "Die serbisch-orthodoxe Kirche in Graz.", "category": "religious", "coords": [15.427313, 47.045289]}, {"name": "Barmherzigenkirche Maria Verkündigung", "text": "Eine barocke Klosterkirche der Barmherzigen Brüder.", "category": "religious", "coords": [15.432035, 47.071442]}, {"name": "Pfarrkirche Sankt Leonhard", "text": "Eine gotische Hallenkirche mit einem bedeutenden Friedhof.", "category": "religious", "coords": [15.465103, 47.078581]}, {"name": "Franziskanerkirche", "text": "Ein Kloster und eine Kirche des Franziskanerordens in der Grazer Altstadt.", "category": "religious", "coords": [15.436444, 47.070693]}, {"name": "Stiegenkirche", "text": "Eine historische Treppenkirche in der Grazer Innenstadt.", "category": "religious", "coords": [15.438745, 47.072602]}, {"name": "Mariahilfer Kirche", "text": "Eine bedeutende barocke Wallfahrtskirche in Graz.", "category": "religious", "coords": [15.433031, 47.072797]}, {"name": "Sankt Vinzenz", "text": "Eine römisch-katholische Pfarrkirche im Grazer Bezirk Eggenberg.", "category": "religious", "coords": [15.405101, 47.074555]}, {"name": "Christus der Auferstandene", "text": "Eine moderne römisch-katholische Kirche im Grazer Bezirk Straßgang.", "category": "religious", "coords": [15.450884, 47.046613]}, {"name": "Grabenkirche", "text": "Eine historische Kirche in der Nähe des Stadtparks, bekannt für ihren barocken Altar.", "category": "religious", "coords": [15.439751, 47.081475]}, {"name": "Pfarrkirche Sankt Andrä", "text": "Eine markante Kirche im Grazer Bezirk Gries, bekannt für ihre Integration moderner Kunst.", "category": "religious", "coords": [15.429007, 47.069603]}, {"name": "Kirche Sankt Ulrichsbrunn", "text": "Eine idyllisch gelegene Wallfahrtskirche mit einer heiligen Quelle im Norden von Graz.", "category": "religious", "coords": [15.429072, 47.096565]}, {"name": "Pfarrkirche Don Bosco", "text": "Eine moderne römisch-katholische Pfarrkirche im Grazer Bezirk Lend.", "category": "religious", "coords": [15.416474, 47.056462]}, {"name": "Thalersee", "text": "Der Thalersee in Graz ist ein beliebtes Ziel für Spaziergänge und Naturerlebnisse.", "category": "natural", "coords": [15.366565, 47.07003]}, {"name": "Wagner-Jauregg-Bad", "text": "Das Wagner-Jauregg-Bad in Graz bietet eine ruhige Umgebung am Wasser.", "category": "natural", "coords": [15.426908, 47.037179]}, {"name": "Bespielbarer Bach", "text": "Dieser Spielbereich in Graz ermöglicht Kindern das naturnahe Spielen am Wasser.", "category": "family", "coords": [15.458488, 47.0735]}, {"name": "Sandkiste", "text": "Ein kleiner Spielplatz mit Sandkiste in Graz für die jüngsten Besucher.", "category": "family", "coords": [15.46606, 47.060773]}, {"name": "Grete-Schurz-Platz", "text": "Der Spielplatz am Grete-Schurz-Platz in Graz bietet Abwechslung im städtischen Umfeld.", "category": "family", "coords": [15.407622, 47.059263]}, {"name": "Dr.-Hans-Spitzy-Platzl", "text": "Ein zentral gelegener Kinderspielplatz in Graz für eine kurze Spielpause.", "category": "family", "coords": [15.43014, 47.051783]}, {"name": "Junges Europa", "text": "Dieser moderne Spielplatz in Graz bietet verschiedene Kletter- und Spielmöglichkeiten.", "category": "family", "coords": [15.403698, 47.071577]}, {"name": "Minigolf Milkowski", "text": "Die Minigolfanlage in Graz ist ein unterhaltsames Ziel für einen Familienausflug.", "category": "family", "coords": [15.454618, 47.082524]}, {"name": "Abenteuerspielplatz Afritschgarten", "text": "Dieser Abenteuerspielplatz in Graz bietet Kindern viele Möglichkeiten zum Entdecken.", "category": "family", "coords": [15.426263, 47.077055]}, {"name": "Theodor-Körner Spielplatz", "text": "Ein schattiger Spielplatz in Graz, ideal für Familien mit kleinen Kindern.", "category": "family", "coords": [15.425459, 47.09266]}, {"name": "Kinderspielplatz Marienwiese", "text": "Der Kinderspielplatz Marienwiese in Graz liegt in einer grünen Umgebung.", "category": "family", "coords": [15.422457, 47.078286]}, {"name": "Konsumwiese", "text": "Ein beliebter Treffpunkt für Familien mit Kindern im Grazer Stadtgebiet.", "category": "family", "coords": [15.411434, 47.078262]}, {"name": "Volksschule Leopoldinum", "text": "Dieser Spielplatz in Graz bietet nachmittags Raum für Bewegung und Spiel.", "category": "family", "coords": [15.410443, 47.078925]}, {"name": "Motorikpark St. Peter", "text": "Der Motorikpark in Graz fördert spielerisch die Geschicklichkeit von Kindern.", "category": "family", "coords": [15.464363, 47.053596]}, {"name": "Calisthenics", "text": "Ein Spielplatz in Graz mit Geräten zur sportlichen Betätigung für die ganze Familie.", "category": "family", "coords": [15.447337, 47.064277]}, {"name": "Spielzeile Reininghaus", "text": "Diese Spielzeile in Graz bietet moderne Spielgeräte in ansprechendem Design.", "category": "family", "coords": [15.410397, 47.061903]}, {"name": "Augartenbad", "text": "Das Augartenbad in Graz bietet vielseitige Schwimmmöglichkeiten und Liegeflächen zur Entspannung.", "category": "family", "coords": [15.436132, 47.057972]}, {"name": "Margaretenbad", "text": "Das Margaretenbad in Graz ist ein charmantes Freibad, das zur Erfrischung an heißen Tagen einlädt.", "category": "family", "coords": [15.443677, 47.080843]}, {"name": "Auster Sport- und Freibad", "text": "Das Auster Sport- und Freibad in Graz verfügt über umfangreiche Wasserflächen für Sportler und Familien.", "category": "family", "coords": [15.39971, 47.072254]}, {"name": "Stukitz-Bad", "text": "Das Stukitz-Bad in Graz bietet abwechslungsreiche Wasserattraktionen für einen gelungenen Badetag.", "category": "family", "coords": [15.424461, 47.101962]}, {"name": "Lehrschwimmbecken", "text": "Das Lehrschwimmbecken in Graz dient vor allem Anfängern zum sicheren Erlernen des Schwimmens.", "category": "family", "coords": [15.400112, 47.073154]}, {"name": "Streichelzoo HIB Liebenau", "text": "Der Streichelzoo HIB Liebenau in Graz ermöglicht Kindern den direkten Kontakt mit freundlichen Tieren.", "category": "family", "coords": [15.45513, 47.037239]}], "hu": [{"name": "Puchmuseum", "text": "A Puch-járművek történetének szentelt múzeum Grazban.", "category": "museum", "coords": [15.43765, 47.04397]}, {"name": "Diözesanmuseum Graz", "text": "A Graz-Seckau-i egyházmegye múzeuma keresztény művészeti alkotásokat mutat be.", "category": "museum", "coords": [15.441755, 47.071698]}, {"name": "Landeszeughaus", "text": "A világ legnagyobb történelmi fegyvertára hatalmas gyűjteménnyel.", "category": "museum", "coords": [15.439883, 47.069803]}, {"name": "GrazMuseum", "text": "Graz városi múzeuma a helyi történelmet és kultúrát mutatja be.", "category": "museum", "coords": [15.436518, 47.072656]}, {"name": "Montan- und Werksbahnmuseum Graz", "text": "Ipari és bányavasutakra szakosodott múzeum Grazban.", "category": "museum", "coords": [15.437505, 47.078714]}, {"name": "Messe-Schlößl", "text": "Történelmi kiskastély a grazi vásár területén.", "category": "castle", "coords": [15.451066, 47.059291]}, {"name": "Halle für Kunst Steiermark", "text": "Kortárs művészeti múzeum a grazi Városligetben.", "category": "museum", "coords": [15.44458, 47.07174]}, {"name": "Volkskundemuseum", "text": "Stájer néprajzi és regionális hagyományokat bemutató múzeum.", "category": "museum", "coords": [15.439702, 47.075029]}, {"name": "Kunsthaus Graz", "text": "Építészetileg meghatározó modern művészeti múzeum, más néven „Friendly Alien”.", "category": "museum", "coords": [15.434015, 47.071298]}, {"name": "Kindermuseum FRida & freD", "text": "Interaktív élménymúzeum gyermekek számára Grazban.", "category": "museum", "coords": [15.436239, 47.063162]}, {"name": "Museum der Wahrnehmung", "text": "Az emberi érzékeléssel foglalkozó múzeum Grazban.", "category": "museum", "coords": [15.437541, 47.062613]}, {"name": "Mühlschlössl", "text": "Történelmi kastély Grazban barokk elemekkel.", "category": "castle", "coords": [15.425893, 47.074071]}, {"name": "Meerscheinschlössl", "text": "Barokk kastély, amelyet ma a Grazi Egyetem használ.", "category": "castle", "coords": [15.447013, 47.07938]}, {"name": "Tupay-Schlössl", "text": "Egykori késő barokk nemesi kastély Graz Leonhard negyedében.", "category": "castle", "coords": [15.445429, 47.052136]}, {"name": "Hallerschloss", "text": "Védett történelmi kastélyépület Grazban.", "category": "castle", "coords": [15.464259, 47.070574]}, {"name": "Metahof-Schlössl", "text": "Barokk kiskastély egy grazi park közepén.", "category": "castle", "coords": [15.421252, 47.072984]}, {"name": "Schloss Neu-Grabenhofen", "text": "Kastély Graz északi peremén.", "category": "castle", "coords": [15.437473, 47.095175]}, {"name": "Minoritenschlössl", "text": "Történelmi kastélyépület, amely egykor a minorita rendé volt.", "category": "castle", "coords": [15.446838, 47.090824]}, {"name": "Rosenhof", "text": "Hosszú múltra visszatekintő grazi kastélyépület.", "category": "castle", "coords": [15.441602, 47.089802]}, {"name": "Hubertus-Schlössl", "text": "Kisméretű vadászkastély Graz Eggenberg negyedében.", "category": "castle", "coords": [15.447529, 47.088756]}, {"name": "Mausoleum Prokesch-Osten", "text": "Jelentős síremlék a Szent Leonárd-temetőben.", "category": "historical", "coords": [15.46747, 47.077377]}, {"name": "Burgtor", "text": "Graz egyik fennmaradt történelmi városkapuja.", "category": "fortress", "coords": [15.443051, 47.072161]}, {"name": "Oper", "text": "Ausztria második legnagyobb operaháza lenyűgöző építészettel.", "category": "cultural", "coords": [15.445683, 47.069004]}, {"name": "Schauspielhaus", "text": "Graz jelentős színházépülete a drámai művészetek számára.", "category": "cultural", "coords": [15.441641, 47.072705]}, {"name": "Orpheum", "text": "Nagy múltú rendezvényközpont koncertek és kabarék számára.", "category": "cultural", "coords": [15.429949, 47.072328]}, {"name": "Kasematten", "text": "Szabadtéri színpad a várhegyi történelmi falak között.", "category": "cultural", "coords": [15.43741, 47.076321]}, {"name": "Stefaniensaal", "text": "Pompás hangversenyterem Graz szívében.", "category": "cultural", "coords": [15.437803, 47.069801]}, {"name": "Helmut-List-Halle", "text": "Többfunkciós rendezvénycsarnok művészeti és kulturális eseményekhez.", "category": "cultural", "coords": [15.411948, 47.079682]}, {"name": "Forum Stadtpark", "text": "A grazi Forum Stadtpark egy kortárs művészeti és kulturális központ, amely a városi parkban kapott helyet. A kulturális intézmény inspiráló látogatást kínál az érdeklődőknek.", "category": "cultural", "coords": [15.443571, 47.074651]}, {"name": "Tennenmälzerei", "text": "Történelmi ipari épület, amelyet ma kulturális célokra használnak.", "category": "cultural", "coords": [15.411465, 47.064232]}, {"name": "Altkatholische Christophoruskirche", "text": "Az ókatolikus egyházközség temploma Grazban.", "category": "religious", "coords": [15.430862, 47.069594]}, {"name": "Kalvarienberg", "text": "Vallási épületegyüttes keresztúti állomásokkal és kápolnákkal.", "category": "religious", "coords": [15.417565, 47.093152]}, {"name": "Leechkirche", "text": "Graz egyik legrégebbi temploma gótikus elemekkel.", "category": "religious", "coords": [15.446743, 47.075571]}, {"name": "Stadtpfarrkirche zum Heiligen Blut", "text": "Graz barokk főplébániatemploma jelentős műalkotásokkal.", "category": "religious", "coords": [15.441151, 47.069413]}, {"name": "Sankt-Josef-Kirche", "text": "Neogótikus templom Graz Jakomini negyedében.", "category": "religious", "coords": [15.441031, 47.058849]}, {"name": "Synagoge", "text": "A grazi zsidó hitközség vallási központja.", "category": "religious", "coords": [15.433563, 47.064138]}, {"name": "Landeskrankenhauskirche zum Heiligsten Erlöser", "text": "Modern katolikus templomépület Graz nyugati részén.", "category": "religious", "coords": [15.465785, 47.082636]}, {"name": "Herz-Jesu-Kirche", "text": "Impozáns neogótikus templom Graz legmagasabb tornyával.", "category": "religious", "coords": [15.455737, 47.069626]}, {"name": "Sankt Johannes", "text": "Modern katolikus plébánia Graz Straßgang negyedében.", "category": "religious", "coords": [15.427986, 47.049339]}, {"name": "Münzgrabenkirche", "text": "Jellegzetes grazi templom, amelyet a második világháború után építettek újjá.", "category": "religious", "coords": [15.4523, 47.061317]}, {"name": "Kirche Hl. Kyrill und Method", "text": "A szerb ortodox templom Grazban.", "category": "religious", "coords": [15.427313, 47.045289]}, {"name": "Barmherzigenkirche Maria Verkündigung", "text": "Az Irgalmas Rend barokk kolostortemploma.", "category": "religious", "coords": [15.432035, 47.071442]}, {"name": "Pfarrkirche Sankt Leonhard", "text": "Gótikus csarnoktemplom jelentős temetővel.", "category": "religious", "coords": [15.465103, 47.078581]}, {"name": "Franziskanerkirche", "text": "A ferences rend kolostora és temploma Graz óvárosában.", "category": "religious", "coords": [15.436444, 47.070693]}, {"name": "Stiegenkirche", "text": "Történelmi lépcsős templom Graz belvárosában.", "category": "religious", "coords": [15.438745, 47.072602]}, {"name": "Mariahilfer Kirche", "text": "Jelentős barokk zarándoktemplom Grazban.", "category": "religious", "coords": [15.433031, 47.072797]}, {"name": "Sankt Vinzenz", "text": "Római katolikus plébániatemplom Graz Eggenberg negyedében.", "category": "religious", "coords": [15.405101, 47.074555]}, {"name": "Christus der Auferstandene", "text": "Modern római katolikus templom Graz Straßgang negyedében.", "category": "religious", "coords": [15.450884, 47.046613]}, {"name": "Grabenkirche", "text": "Történelmi templom a városi park közelében, barokk oltáráról ismert.", "category": "religious", "coords": [15.439751, 47.081475]}, {"name": "Pfarrkirche Sankt Andrä", "text": "Graz Gries negyedének jellegzetes temploma, amely a modern művészet integrációjáról ismert.", "category": "religious", "coords": [15.429007, 47.069603]}, {"name": "Kirche Sankt Ulrichsbrunn", "text": "Idilli fekvésű zarándoktemplom szent forrással Graz északi részén.", "category": "religious", "coords": [15.429072, 47.096565]}, {"name": "Pfarrkirche Don Bosco", "text": "Modern római katolikus plébániatemplom Graz Lend negyedében.", "category": "religious", "coords": [15.416474, 47.056462]}, {"name": "Thalersee", "text": "A grazi Thalersee népszerű úti cél sétákhoz és természetjáráshoz.", "category": "natural", "coords": [15.366565, 47.07003]}, {"name": "Wagner-Jauregg-Bad", "text": "A grazi Wagner-Jauregg-Bad nyugodt környezetet biztosít a vízparton.", "category": "natural", "coords": [15.426908, 47.037179]}, {"name": "Bespielbarer Bach", "text": "Ez a grazi játszóterület lehetővé teszi a gyerekeknek a természethez közeli játékot a víznél.", "category": "family", "coords": [15.458488, 47.0735]}, {"name": "Sandkiste", "text": "Egy kis játszótér homokozóval Grazban a legkisebb látogatók számára.", "category": "family", "coords": [15.46606, 47.060773]}, {"name": "Grete-Schurz-Platz", "text": "A grazi Grete-Schurz-Platz játszótere kikapcsolódást nyújt a városi környezetben.", "category": "family", "coords": [15.407622, 47.059263]}, {"name": "Dr.-Hans-Spitzy-Platzl", "text": "Egy központi fekvésű játszótér Grazban egy rövid játékos szünethez.", "category": "family", "coords": [15.43014, 47.051783]}, {"name": "Junges Europa", "text": "Ez a modern grazi játszótér különféle mászó- és játéklehetőségeket kínál.", "category": "family", "coords": [15.403698, 47.071577]}, {"name": "Minigolf Milkowski", "text": "A grazi minigolfpálya szórakoztató úti cél egy családi kiránduláshoz.", "category": "family", "coords": [15.454618, 47.082524]}, {"name": "Abenteuerspielplatz Afritschgarten", "text": "Ez a grazi kalandjátszótér számos felfedezési lehetőséget kínál a gyerekeknek.", "category": "family", "coords": [15.426263, 47.077055]}, {"name": "Theodor-Körner Spielplatz", "text": "Egy árnyas játszótér Grazban, amely ideális kisgyermekes családoknak.", "category": "family", "coords": [15.425459, 47.09266]}, {"name": "Kinderspielplatz Marienwiese", "text": "A grazi Marienwiese játszótér zöld környezetben található.", "category": "family", "coords": [15.422457, 47.078286]}, {"name": "Konsumwiese", "text": "Népszerű találkozóhely gyermekes családok számára Graz városában.", "category": "family", "coords": [15.411434, 47.078262]}, {"name": "Volksschule Leopoldinum", "text": "Ez a grazi játszótér délutánonként teret biztosít a mozgáshoz és a játékhoz.", "category": "family", "coords": [15.410443, 47.078925]}, {"name": "Motorikpark St. Peter", "text": "A grazi motorikus park játékos formában fejleszti a gyerekek ügyességét.", "category": "family", "coords": [15.464363, 47.053596]}, {"name": "Calisthenics", "text": "Egy grazi játszótér sporteszközökkel az egész család számára.", "category": "family", "coords": [15.447337, 47.064277]}, {"name": "Spielzeile Reininghaus", "text": "Ez a grazi játszósáv modern játékokat kínál vonzó kivitelben.", "category": "family", "coords": [15.410397, 47.061903]}, {"name": "Augartenbad", "text": "A grazi Augartenbad változatos úszási lehetőségeket és pihenőhelyeket kínál a látogatóknak.", "category": "family", "coords": [15.436132, 47.057972]}, {"name": "Margaretenbad", "text": "A grazi Margaretenbad egy bájos szabadtéri fürdő, amely felfrissülést nyújt a forró napokon.", "category": "family", "coords": [15.443677, 47.080843]}, {"name": "Auster Sport- und Freibad", "text": "A grazi Auster Sport- und Freibad kiterjedt vízfelületekkel várja a sportolókat és a családokat.", "category": "family", "coords": [15.39971, 47.072254]}, {"name": "Stukitz-Bad", "text": "A grazi Stukitz-Bad változatos vízi élményeket kínál egy sikeres fürdőnaphoz.", "category": "family", "coords": [15.424461, 47.101962]}, {"name": "Lehrschwimmbecken", "text": "A grazi tanmedence elsősorban a kezdők számára szolgál az úszás biztonságos elsajátítására.", "category": "family", "coords": [15.400112, 47.073154]}, {"name": "Streichelzoo HIB Liebenau", "text": "A grazi Streichelzoo HIB Liebenau közvetlen kapcsolatot tesz lehetővé a gyerekek és a barátságos állatok között.", "category": "family", "coords": [15.45513, 47.037239]}], "ro": [{"name": "Puchmuseum", "text": "Un muzeu din Graz dedicat istoriei vehiculelor Puch.", "category": "museum", "coords": [15.43765, 47.04397]}, {"name": "Diözesanmuseum Graz", "text": "Muzeul Diecezei Graz-Seckau expune artă creștină.", "category": "museum", "coords": [15.441755, 47.071698]}, {"name": "Landeszeughaus", "text": "Cea mai mare armurărie istorică din lume, cu o colecție vastă.", "category": "museum", "coords": [15.439883, 47.069803]}, {"name": "GrazMuseum", "text": "Muzeul orașului Graz prezintă istoria și cultura locală.", "category": "museum", "coords": [15.436518, 47.072656]}, {"name": "Montan- und Werksbahnmuseum Graz", "text": "Un muzeu din Graz specializat în căi ferate industriale și miniere.", "category": "museum", "coords": [15.437505, 47.078714]}, {"name": "Messe-Schlößl", "text": "Un mic castel istoric situat în incinta târgului din Graz.", "category": "castle", "coords": [15.451066, 47.059291]}, {"name": "Halle für Kunst Steiermark", "text": "Un muzeu de artă contemporană în parcul orașului Graz.", "category": "museum", "coords": [15.44458, 47.07174]}, {"name": "Volkskundemuseum", "text": "Un muzeu de etnografie stiriană și tradiții regionale.", "category": "museum", "coords": [15.439702, 47.075029]}, {"name": "Kunsthaus Graz", "text": "Un muzeu de artă modernă cu o arhitectură distinctă, supranumit „Friendly Alien”.", "category": "museum", "coords": [15.434015, 47.071298]}, {"name": "Kindermuseum FRida & freD", "text": "Un muzeu interactiv și experimental pentru copii în Graz.", "category": "museum", "coords": [15.436239, 47.063162]}, {"name": "Museum der Wahrnehmung", "text": "Un muzeu din Graz care explorează percepția umană.", "category": "museum", "coords": [15.437541, 47.062613]}, {"name": "Mühlschlössl", "text": "Un castel istoric din Graz cu elemente baroce.", "category": "castle", "coords": [15.425893, 47.074071]}, {"name": "Meerscheinschlössl", "text": "Un castel baroc utilizat astăzi de Universitatea din Graz.", "category": "castle", "coords": [15.447013, 47.07938]}, {"name": "Tupay-Schlössl", "text": "Un fost castel nobiliar în stil baroc târziu din districtul Leonhard din Graz.", "category": "castle", "coords": [15.445429, 47.052136]}, {"name": "Hallerschloss", "text": "O clădire de castel istoric protejată în Graz.", "category": "castle", "coords": [15.464259, 47.070574]}, {"name": "Metahof-Schlössl", "text": "Un mic castel baroc în mijlocul unui parc din Graz.", "category": "castle", "coords": [15.421252, 47.072984]}, {"name": "Schloss Neu-Grabenhofen", "text": "Un castel situat la periferia nordică a orașului Graz.", "category": "castle", "coords": [15.437473, 47.095175]}, {"name": "Minoritenschlössl", "text": "O clădire istorică de castel care a aparținut ordinului minorit.", "category": "castle", "coords": [15.446838, 47.090824]}, {"name": "Rosenhof", "text": "O construcție de castel din Graz cu o istorie îndelungată.", "category": "castle", "coords": [15.441602, 47.089802]}, {"name": "Hubertus-Schlössl", "text": "Un mic castel de vânătoare în districtul Eggenberg din Graz.", "category": "castle", "coords": [15.447529, 47.088756]}, {"name": "Mausoleum Prokesch-Osten", "text": "Un monument funerar important în cimitirul Sf. Leonhard.", "category": "historical", "coords": [15.46747, 47.077377]}, {"name": "Burgtor", "text": "Una dintre porțile istorice păstrate ale orașului Graz.", "category": "fortress", "coords": [15.443051, 47.072161]}, {"name": "Oper", "text": "A doua cea mai mare operă din Austria, cu o arhitectură impresionantă.", "category": "cultural", "coords": [15.445683, 47.069004]}, {"name": "Schauspielhaus", "text": "O clădire teatrală importantă pentru arta dramatică din Graz.", "category": "cultural", "coords": [15.441641, 47.072705]}, {"name": "Orpheum", "text": "Un centru de evenimente cu tradiție pentru concerte și spectacole mici.", "category": "cultural", "coords": [15.429949, 47.072328]}, {"name": "Kasematten", "text": "O scenă în aer liber în zidurile istorice de pe Schloßberg.", "category": "cultural", "coords": [15.43741, 47.076321]}, {"name": "Stefaniensaal", "text": "O sală de concerte somptuoasă în inima orașului Graz.", "category": "cultural", "coords": [15.437803, 47.069801]}, {"name": "Helmut-List-Halle", "text": "O sală de evenimente multifuncțională pentru artă și cultură.", "category": "cultural", "coords": [15.411948, 47.079682]}, {"name": "Forum Stadtpark", "text": "Fiind un centru pentru arta și cultura contemporană, Forum Stadtpark din Graz își așteaptă vizitatorii în parcul orașului. Această instituție culturală oferă un spațiu de explorare a tendințelor artistice actuale.", "category": "cultural", "coords": [15.443571, 47.074651]}, {"name": "Tennenmälzerei", "text": "O clădire industrială istorică, utilizată astăzi în scopuri culturale.", "category": "cultural", "coords": [15.411465, 47.064232]}, {"name": "Altkatholische Christophoruskirche", "text": "Biserica comunității vechi-catolice din Graz.", "category": "religious", "coords": [15.430862, 47.069594]}, {"name": "Kalvarienberg", "text": "Un complex religios cu stații ale Căii Crucii și capele.", "category": "religious", "coords": [15.417565, 47.093152]}, {"name": "Leechkirche", "text": "Una dintre cele mai vechi biserici din Graz, cu elemente gotice.", "category": "religious", "coords": [15.446743, 47.075571]}, {"name": "Stadtpfarrkirche zum Heiligen Blut", "text": "Biserica parohială principală în stil baroc din Graz, cu opere de artă importante.", "category": "religious", "coords": [15.441151, 47.069413]}, {"name": "Sankt-Josef-Kirche", "text": "O biserică neogotică în districtul Jakomini din Graz.", "category": "religious", "coords": [15.441031, 47.058849]}, {"name": "Synagoge", "text": "Centrul religios al comunității evreiești din Graz.", "category": "religious", "coords": [15.433563, 47.064138]}, {"name": "Landeskrankenhauskirche zum Heiligsten Erlöser", "text": "O clădire modernă de biserică catolică în vestul orașului Graz.", "category": "religious", "coords": [15.465785, 47.082636]}, {"name": "Herz-Jesu-Kirche", "text": "O biserică neogotică impunătoare cu cel mai înalt turn din Graz.", "category": "religious", "coords": [15.455737, 47.069626]}, {"name": "Sankt Johannes", "text": "O parohie catolică modernă în cartierul Straßgang din Graz.", "category": "religious", "coords": [15.427986, 47.049339]}, {"name": "Münzgrabenkirche", "text": "O biserică distinctivă din Graz, reconstruită după al Doilea Război Mondial.", "category": "religious", "coords": [15.4523, 47.061317]}, {"name": "Kirche Hl. Kyrill und Method", "text": "Biserica ortodoxă sârbă din Graz.", "category": "religious", "coords": [15.427313, 47.045289]}, {"name": "Barmherzigenkirche Maria Verkündigung", "text": "O biserică mănăstirească barocă a Ordinului Ospitalier.", "category": "religious", "coords": [15.432035, 47.071442]}, {"name": "Pfarrkirche Sankt Leonhard", "text": "O biserică hală gotică cu un cimitir important.", "category": "religious", "coords": [15.465103, 47.078581]}, {"name": "Franziskanerkirche", "text": "O mănăstire și o biserică a ordinului franciscan în centrul vechi din Graz.", "category": "religious", "coords": [15.436444, 47.070693]}, {"name": "Stiegenkirche", "text": "O biserică istorică cu scări în centrul orașului Graz.", "category": "religious", "coords": [15.438745, 47.072602]}, {"name": "Mariahilfer Kirche", "text": "O biserică de pelerinaj barocă importantă din Graz.", "category": "religious", "coords": [15.433031, 47.072797]}, {"name": "Sankt Vinzenz", "text": "O biserică parohială romano-catolică din cartierul Eggenberg din Graz.", "category": "religious", "coords": [15.405101, 47.074555]}, {"name": "Christus der Auferstandene", "text": "O biserică romano-catolică modernă în districtul Straßgang din Graz.", "category": "religious", "coords": [15.450884, 47.046613]}, {"name": "Grabenkirche", "text": "O biserică istorică lângă parcul orașului, cunoscută pentru altarul său baroc.", "category": "religious", "coords": [15.439751, 47.081475]}, {"name": "Pfarrkirche Sankt Andrä", "text": "O biserică proeminentă din districtul Gries din Graz, cunoscută pentru integrarea artei moderne.", "category": "religious", "coords": [15.429007, 47.069603]}, {"name": "Kirche Sankt Ulrichsbrunn", "text": "O biserică de pelerinaj situată idilic, cu un izvor sfânt în nordul orașului Graz.", "category": "religious", "coords": [15.429072, 47.096565]}, {"name": "Pfarrkirche Don Bosco", "text": "O biserică parohială romano-catolică modernă în districtul Lend din Graz.", "category": "religious", "coords": [15.416474, 47.056462]}, {"name": "Thalersee", "text": "Lacul Thaler din Graz este o destinație populară pentru plimbări și experiențe în natură.", "category": "natural", "coords": [15.366565, 47.07003]}, {"name": "Wagner-Jauregg-Bad", "text": "Wagner-Jauregg-Bad din Graz oferă un mediu liniștit lângă apă.", "category": "natural", "coords": [15.426908, 47.037179]}, {"name": "Bespielbarer Bach", "text": "Această zonă de joacă din Graz permite copiilor să se joace în apropierea apei și a naturii.", "category": "family", "coords": [15.458488, 47.0735]}, {"name": "Sandkiste", "text": "Un mic loc de joacă cu groapă de nisip în Graz pentru cei mai tineri vizitatori.", "category": "family", "coords": [15.46606, 47.060773]}, {"name": "Grete-Schurz-Platz", "text": "Locul de joacă de la Grete-Schurz-Platz din Graz oferă diversitate în mediul urban.", "category": "family", "coords": [15.407622, 47.059263]}, {"name": "Dr.-Hans-Spitzy-Platzl", "text": "Un loc de joacă central în Graz pentru o scurtă pauză de joacă.", "category": "family", "coords": [15.43014, 47.051783]}, {"name": "Junges Europa", "text": "Acest loc de joacă modern din Graz oferă diverse posibilități de cățărare și joacă.", "category": "family", "coords": [15.403698, 47.071577]}, {"name": "Minigolf Milkowski", "text": "Terenul de minigolf din Graz este o destinație distractivă pentru o excursie în familie.", "category": "family", "coords": [15.454618, 47.082524]}, {"name": "Abenteuerspielplatz Afritschgarten", "text": "Acest loc de joacă de aventură din Graz oferă copiilor multe oportunități de explorare.", "category": "family", "coords": [15.426263, 47.077055]}, {"name": "Theodor-Körner Spielplatz", "text": "Un loc de joacă umbrit în Graz, ideal pentru familiile cu copii mici.", "category": "family", "coords": [15.425459, 47.09266]}, {"name": "Kinderspielplatz Marienwiese", "text": "Locul de joacă pentru copii Marienwiese din Graz este situat într-un mediu verde.", "category": "family", "coords": [15.422457, 47.078286]}, {"name": "Konsumwiese", "text": "Un loc de întâlnire popular pentru familiile cu copii în zona orașului Graz.", "category": "family", "coords": [15.411434, 47.078262]}, {"name": "Volksschule Leopoldinum", "text": "Acest loc de joacă din Graz oferă spațiu pentru mișcare și joacă după-amiaza.", "category": "family", "coords": [15.410443, 47.078925]}, {"name": "Motorikpark St. Peter", "text": "Parcul de motricitate din Graz promovează abilitățile copiilor prin joacă.", "category": "family", "coords": [15.464363, 47.053596]}, {"name": "Calisthenics", "text": "Un loc de joacă din Graz cu echipamente pentru activități sportive pentru întreaga familie.", "category": "family", "coords": [15.447337, 47.064277]}, {"name": "Spielzeile Reininghaus", "text": "Această zonă de joacă din Graz oferă echipamente moderne într-un design atractiv.", "category": "family", "coords": [15.410397, 47.061903]}, {"name": "Augartenbad", "text": "Augartenbad din Graz oferă posibilități variate de înot și zone de plajă pentru relaxare.", "category": "family", "coords": [15.436132, 47.057972]}, {"name": "Margaretenbad", "text": "Margaretenbad din Graz este un ștrand fermecător care invită la răcorire în zilele toride.", "category": "family", "coords": [15.443677, 47.080843]}, {"name": "Auster Sport- und Freibad", "text": "Auster Sport- und Freibad din Graz dispune de suprafețe extinse de apă pentru sportivi și familii.", "category": "family", "coords": [15.39971, 47.072254]}, {"name": "Stukitz-Bad", "text": "Stukitz-Bad din Graz oferă atracții acvatice variate pentru o zi reușită la piscină.", "category": "family", "coords": [15.424461, 47.101962]}, {"name": "Lehrschwimmbecken", "text": "Piscina de învățare din Graz servește în special începătorilor pentru a învăța înotul în siguranță.", "category": "family", "coords": [15.400112, 47.073154]}, {"name": "Streichelzoo HIB Liebenau", "text": "Grădina zoologică cu animale de mângâiat HIB Liebenau din Graz permite copiilor contactul direct cu animale prietenoase.", "category": "family", "coords": [15.45513, 47.037239]}], "en": [{"name": "Puchmuseum", "text": "A museum in Graz dedicated to the history of Puch vehicles.", "category": "museum", "coords": [15.43765, 47.04397]}, {"name": "Diözesanmuseum Graz", "text": "The museum of the Graz-Seckau diocese displaying Christian art.", "category": "museum", "coords": [15.441755, 47.071698]}, {"name": "Styrian Armoury", "text": "The world's largest historical armoury featuring a vast collection.", "category": "museum", "coords": [15.439883, 47.069803]}, {"name": "GrazMuseum", "text": "The city museum of Graz presenting local history and culture.", "category": "museum", "coords": [15.436518, 47.072656]}, {"name": "Montan- und Werksbahnmuseum Graz", "text": "A museum in Graz specializing in industrial and mining railways.", "category": "museum", "coords": [15.437505, 47.078714]}, {"name": "Messe-Schlößl", "text": "A historic small castle located on the Graz exhibition grounds.", "category": "castle", "coords": [15.451066, 47.059291]}, {"name": "Halle für Kunst Steiermark", "text": "A contemporary art museum located in the Graz city park.", "category": "museum", "coords": [15.44458, 47.07174]}, {"name": "Volkskundemuseum", "text": "A museum of Styrian folklore and regional traditions.", "category": "museum", "coords": [15.439702, 47.075029]}, {"name": "Modern Art Museum Graz", "text": "An architecturally striking modern art museum, also known as the 'Friendly Alien'.", "category": "museum", "coords": [15.434015, 47.071298]}, {"name": "Kindermuseum FRida & freD", "text": "An interactive experiential museum for children in Graz.", "category": "museum", "coords": [15.436239, 47.063162]}, {"name": "Museum der Wahrnehmung", "text": "A museum in Graz focused on human perception.", "category": "museum", "coords": [15.437541, 47.062613]}, {"name": "Mühlschlössl", "text": "A historic castle in Graz with Baroque elements.", "category": "castle", "coords": [15.425893, 47.074071]}, {"name": "Meerscheinschlössl", "text": "A Baroque castle currently used by the University of Graz.", "category": "castle", "coords": [15.447013, 47.07938]}, {"name": "Tupay-Schlössl", "text": "A former late-Baroque noble castle in the Leonhard district of Graz.", "category": "castle", "coords": [15.445429, 47.052136]}, {"name": "Hallerschloss", "text": "A protected historic castle building in Graz.", "category": "castle", "coords": [15.464259, 47.070574]}, {"name": "Metahof-Schlössl", "text": "A small Baroque castle set within a park in Graz.", "category": "castle", "coords": [15.421252, 47.072984]}, {"name": "Schloss Neu-Grabenhofen", "text": "A castle located on the northern outskirts of Graz.", "category": "castle", "coords": [15.437473, 47.095175]}, {"name": "Minoritenschlössl", "text": "A historic castle building formerly belonging to the Minorite order.", "category": "castle", "coords": [15.446838, 47.090824]}, {"name": "Rosenhof", "text": "A Graz castle building with a long history.", "category": "castle", "coords": [15.441602, 47.089802]}, {"name": "Hubertus-Schlössl", "text": "A small hunting lodge located in the Eggenberg district of Graz.", "category": "castle", "coords": [15.447529, 47.088756]}, {"name": "Mausoleum Prokesch-Osten", "text": "A significant funerary monument in the St. Leonhard cemetery.", "category": "historical", "coords": [15.46747, 47.077377]}, {"name": "Burgtor", "text": "One of the surviving historic city gates of Graz.", "category": "fortress", "coords": [15.443051, 47.072161]}, {"name": "Oper", "text": "The second largest opera house in Austria with impressive architecture.", "category": "cultural", "coords": [15.445683, 47.069004]}, {"name": "Schauspielhaus", "text": "A significant theatre building for dramatic arts in Graz.", "category": "cultural", "coords": [15.441641, 47.072705]}, {"name": "Orpheum", "text": "A traditional event venue for concerts and cabaret.", "category": "cultural", "coords": [15.429949, 47.072328]}, {"name": "Kasematten", "text": "An open-air stage within the historic walls on the Schloßberg hill.", "category": "cultural", "coords": [15.43741, 47.076321]}, {"name": "Stefaniensaal", "text": "A magnificent concert hall in the heart of Graz.", "category": "cultural", "coords": [15.437803, 47.069801]}, {"name": "Helmut-List-Halle", "text": "A multi-functional event hall for arts and culture.", "category": "cultural", "coords": [15.411948, 47.079682]}, {"name": "Forum Stadtpark", "text": "Located within the city park, the Forum Stadtpark in Graz serves as a vibrant center for contemporary art and culture. This cultural institution offers visitors a space to engage with current artistic expressions.", "category": "cultural", "coords": [15.443571, 47.074651]}, {"name": "Tennenmälzerei", "text": "A historic industrial building now used for cultural purposes.", "category": "cultural", "coords": [15.411465, 47.064232]}, {"name": "Altkatholische Christophoruskirche", "text": "The church of the Old Catholic community in Graz.", "category": "religious", "coords": [15.430862, 47.069594]}, {"name": "Kalvarienberg", "text": "A religious complex featuring Stations of the Cross and chapels.", "category": "religious", "coords": [15.417565, 47.093152]}, {"name": "Leechkirche", "text": "One of the oldest churches in Graz with Gothic elements.", "category": "religious", "coords": [15.446743, 47.075571]}, {"name": "Stadtpfarrkirche zum Heiligen Blut", "text": "The Baroque main parish church of Graz featuring significant artworks.", "category": "religious", "coords": [15.441151, 47.069413]}, {"name": "Sankt-Josef-Kirche", "text": "A Neo-Gothic church in the Jakomini district of Graz.", "category": "religious", "coords": [15.441031, 47.058849]}, {"name": "Synagoge", "text": "The religious center of the Jewish community in Graz.", "category": "religious", "coords": [15.433563, 47.064138]}, {"name": "Catholic Church", "text": "A modern Catholic church building in the west of Graz.", "category": "religious", "coords": [15.465785, 47.082636]}, {"name": "Herz-Jesu-Kirche", "text": "An imposing Neo-Gothic church featuring the tallest church tower in Graz.", "category": "religious", "coords": [15.455737, 47.069626]}, {"name": "Sankt Johannes", "text": "A modern Catholic parish in the Straßgang district of Graz.", "category": "religious", "coords": [15.427986, 47.049339]}, {"name": "Münzgrabenkirche", "text": "A distinctive church in Graz rebuilt after World War II.", "category": "religious", "coords": [15.4523, 47.061317]}, {"name": "Kirche Hl. Kyrill und Method", "text": "The Serbian Orthodox church in Graz.", "category": "religious", "coords": [15.427313, 47.045289]}, {"name": "Barmherzigenkirche Maria Verkündigung", "text": "A Baroque monastery church of the Hospitaller Order.", "category": "religious", "coords": [15.432035, 47.071442]}, {"name": "Pfarrkirche Sankt Leonhard", "text": "A Gothic hall church with a significant cemetery.", "category": "religious", "coords": [15.465103, 47.078581]}, {"name": "Franziskanerkirche", "text": "A monastery and church of the Franciscan order in the Graz old town.", "category": "religious", "coords": [15.436444, 47.070693]}, {"name": "Stiegenkirche", "text": "A historic staircase church in the city center of Graz.", "category": "religious", "coords": [15.438745, 47.072602]}, {"name": "Mariahilfer Kirche", "text": "A significant Baroque pilgrimage church in Graz.", "category": "religious", "coords": [15.433031, 47.072797]}, {"name": "Sankt Vinzenz", "text": "A Roman Catholic parish church located in the Eggenberg district of Graz.", "category": "religious", "coords": [15.405101, 47.074555]}, {"name": "Christus der Auferstandene", "text": "A modern Roman Catholic church located in the Straßgang district of Graz.", "category": "religious", "coords": [15.450884, 47.046613]}, {"name": "Grabenkirche", "text": "A historic church near the city park, known for its Baroque altar.", "category": "religious", "coords": [15.439751, 47.081475]}, {"name": "Pfarrkirche Sankt Andrä", "text": "A prominent church in the Gries district of Graz, known for its integration of modern art.", "category": "religious", "coords": [15.429007, 47.069603]}, {"name": "Kirche Sankt Ulrichsbrunn", "text": "An idyllically situated pilgrimage church with a holy spring in the north of Graz.", "category": "religious", "coords": [15.429072, 47.096565]}, {"name": "Pfarrkirche Don Bosco", "text": "A modern Roman Catholic parish church in the Lend district of Graz.", "category": "religious", "coords": [15.416474, 47.056462]}, {"name": "Thalersee", "text": "The Thalersee in Graz is a popular destination for walks and nature experiences.", "category": "natural", "coords": [15.366565, 47.07003]}, {"name": "Wagner-Jauregg-Bad", "text": "The Wagner-Jauregg-Bad in Graz offers a quiet environment by the water.", "category": "natural", "coords": [15.426908, 47.037179]}, {"name": "Bespielbarer Bach", "text": "This play area in Graz allows children to play close to nature by the water.", "category": "family", "coords": [15.458488, 47.0735]}, {"name": "Sandkiste", "text": "A small playground with a sandbox in Graz for the youngest visitors.", "category": "family", "coords": [15.46606, 47.060773]}, {"name": "Grete-Schurz-Platz", "text": "The playground at Grete-Schurz-Platz in Graz offers variety in an urban setting.", "category": "family", "coords": [15.407622, 47.059263]}, {"name": "Dr.-Hans-Spitzy-Platzl", "text": "A centrally located playground in Graz for a short play break.", "category": "family", "coords": [15.43014, 47.051783]}, {"name": "Junges Europa", "text": "This modern playground in Graz offers various climbing and play options.", "category": "family", "coords": [15.403698, 47.071577]}, {"name": "Minigolf Milkowski", "text": "The miniature golf course in Graz is an entertaining destination for a family outing.", "category": "family", "coords": [15.454618, 47.082524]}, {"name": "Abenteuerspielplatz Afritschgarten", "text": "This adventure playground in Graz offers children many opportunities for discovery.", "category": "family", "coords": [15.426263, 47.077055]}, {"name": "Theodor-Körner Spielplatz", "text": "A shaded playground in Graz, ideal for families with young children.", "category": "family", "coords": [15.425459, 47.09266]}, {"name": "Kinderspielplatz Marienwiese", "text": "The Marienwiese playground in Graz is situated in a green environment.", "category": "family", "coords": [15.422457, 47.078286]}, {"name": "Konsumwiese", "text": "A popular meeting spot for families with children in the Graz urban area.", "category": "family", "coords": [15.411434, 47.078262]}, {"name": "Volksschule Leopoldinum", "text": "This playground in Graz offers space for movement and play in the afternoons.", "category": "family", "coords": [15.410443, 47.078925]}, {"name": "Motorikpark St. Peter", "text": "The motor skills park in Graz promotes children's dexterity through play.", "category": "family", "coords": [15.464363, 47.053596]}, {"name": "Calisthenics", "text": "A playground in Graz with equipment for athletic activities for the whole family.", "category": "family", "coords": [15.447337, 47.064277]}, {"name": "Spielzeile Reininghaus", "text": "This play area in Graz offers modern play equipment in an appealing design.", "category": "family", "coords": [15.410397, 47.061903]}, {"name": "Augartenbad", "text": "The Augartenbad in Graz offers versatile swimming opportunities and sunbathing areas for relaxation.", "category": "family", "coords": [15.436132, 47.057972]}, {"name": "Margaretenbad", "text": "The Margaretenbad in Graz is a charming outdoor pool that invites you to cool off on hot days.", "category": "family", "coords": [15.443677, 47.080843]}, {"name": "Auster Sport- und Freibad", "text": "The Auster Sport- und Freibad in Graz features extensive water areas for athletes and families.", "category": "family", "coords": [15.39971, 47.072254]}, {"name": "Stukitz-Bad", "text": "The Stukitz-Bad in Graz offers varied water attractions for a successful day at the pool.", "category": "family", "coords": [15.424461, 47.101962]}, {"name": "Lehrschwimmbecken", "text": "The teaching pool in Graz primarily serves beginners for learning to swim safely.", "category": "family", "coords": [15.400112, 47.073154]}, {"name": "Streichelzoo HIB Liebenau", "text": "The petting zoo HIB Liebenau in Graz allows children to have direct contact with friendly animals.", "category": "family", "coords": [15.45513, 47.037239]}]}, type: "city", parent: "AT-6", coords: [15.4395, 47.0707],
+    id: "AT-Graz", "sights": {
+      "de": [
+            {
+                  "name": "Puchmuseum",
+                  "text": "Ein Museum in Graz, das der Geschichte der Puch-Fahrzeuge gewidmet ist.",
+                  "category": "museum",
+                  "coords": [
+                        15.43765,
+                        47.04397
+                  ]
+            },
+            {
+                  "name": "Diözesanmuseum Graz",
+                  "text": "Das Museum der Diözese Graz-Seckau zeigt christliche Kunst.",
+                  "category": "museum",
+                  "coords": [
+                        15.441755,
+                        47.071698
+                  ]
+            },
+            {
+                  "name": "Landeszeughaus",
+                  "text": "Die weltweit größte historische Waffenkammer mit einer riesigen Sammlung.",
+                  "category": "museum",
+                  "coords": [
+                        15.439883,
+                        47.069803
+                  ]
+            },
+            {
+                  "name": "GrazMuseum",
+                  "text": "Das Stadtmuseum von Graz präsentiert die lokale Geschichte und Kultur.",
+                  "category": "museum",
+                  "coords": [
+                        15.436518,
+                        47.072656
+                  ]
+            },
+            {
+                  "name": "Montan- und Werksbahnmuseum Graz",
+                  "text": "Ein Museum in Graz, das sich auf Werks- und Montanbahnen spezialisiert hat.",
+                  "category": "museum",
+                  "coords": [
+                        15.437505,
+                        47.078714
+                  ]
+            },
+            {
+                  "name": "Messe-Schlößl",
+                  "text": "Ein historisches Schlösschen auf dem Gelände der Grazer Messe.",
+                  "category": "castle",
+                  "coords": [
+                        15.451066,
+                        47.059291
+                  ]
+            },
+            {
+                  "name": "Halle für Kunst Steiermark",
+                  "text": "Ein zeitgenössisches Kunstmuseum im Grazer Stadtpark.",
+                  "category": "museum",
+                  "coords": [
+                        15.44458,
+                        47.07174
+                  ]
+            },
+            {
+                  "name": "Volkskundemuseum",
+                  "text": "Ein Museum für steirische Volkskunde und regionale Traditionen.",
+                  "category": "museum",
+                  "coords": [
+                        15.439702,
+                        47.075029
+                  ]
+            },
+            {
+                  "name": "Kunsthaus",
+                  "text": "Ein architektonisch markantes Museum für moderne Kunst, auch „Friendly Alien“ genannt.",
+                  "category": "museum",
+                  "coords": [
+                        15.434015,
+                        47.071298
+                  ]
+            },
+            {
+                  "name": "Kindermuseum FRida & freD",
+                  "text": "Ein interaktives Erlebnismuseum für Kinder in Graz.",
+                  "category": "museum",
+                  "coords": [
+                        15.436239,
+                        47.063162
+                  ]
+            },
+            {
+                  "name": "Museum der Wahrnehmung",
+                  "text": "Ein Museum in Graz, das sich mit der menschlichen Wahrnehmung befasst.",
+                  "category": "museum",
+                  "coords": [
+                        15.437541,
+                        47.062613
+                  ]
+            },
+            {
+                  "name": "Mühlschlössl",
+                  "text": "Ein historisches Schloss in Graz mit barocken Elementen.",
+                  "category": "castle",
+                  "coords": [
+                        15.425893,
+                        47.074071
+                  ]
+            },
+            {
+                  "name": "Meerscheinschlössl",
+                  "text": "Ein barockes Lustschloss, das heute von der Universität Graz genutzt wird.",
+                  "category": "castle",
+                  "coords": [
+                        15.447013,
+                        47.07938
+                  ]
+            },
+            {
+                  "name": "Tupay-Schlössl",
+                  "text": "Ein ehemaliges spätbarockes Adelsschloss im Grazer Stadtbezirk Leonhard.",
+                  "category": "castle",
+                  "coords": [
+                        15.445429,
+                        47.052136
+                  ]
+            },
+            {
+                  "name": "Hallerschloss",
+                  "text": "Ein geschütztes historisches Schlossgebäude in Graz.",
+                  "category": "castle",
+                  "coords": [
+                        15.464259,
+                        47.070574
+                  ]
+            },
+            {
+                  "name": "Metahof-Schlössl",
+                  "text": "Ein barockes Schlösschen inmitten einer Parkanlage in Graz.",
+                  "category": "castle",
+                  "coords": [
+                        15.421252,
+                        47.072984
+                  ]
+            },
+            {
+                  "name": "Schloss Neu-Grabenhofen",
+                  "text": "Ein Schloss am nördlichen Stadtrand von Graz.",
+                  "category": "castle",
+                  "coords": [
+                        15.437473,
+                        47.095175
+                  ]
+            },
+            {
+                  "name": "Minoritenschlössl",
+                  "text": "Ein historisches Schlossgebäude, das ehemals dem Minoritenorden gehörte.",
+                  "category": "castle",
+                  "coords": [
+                        15.446838,
+                        47.090824
+                  ]
+            },
+            {
+                  "name": "Rosenhof",
+                  "text": "Ein Grazer Schlossbau mit langer Geschichte.",
+                  "category": "castle",
+                  "coords": [
+                        15.441602,
+                        47.089802
+                  ]
+            },
+            {
+                  "name": "Hubertus-Schlössl",
+                  "text": "Ein kleines Jagdschloss im Grazer Stadtbezirk Eggenberg.",
+                  "category": "castle",
+                  "coords": [
+                        15.447529,
+                        47.088756
+                  ]
+            },
+            {
+                  "name": "Mausoleum Prokesch-Osten",
+                  "text": "Ein bedeutendes Grabdenkmal auf dem Friedhof St. Leonhard.",
+                  "category": "historical",
+                  "coords": [
+                        15.46747,
+                        47.077377
+                  ]
+            },
+            {
+                  "name": "Burgtor",
+                  "text": "Eines der erhaltenen historischen Stadttore von Graz.",
+                  "category": "fortress",
+                  "coords": [
+                        15.443051,
+                        47.072161
+                  ]
+            },
+            {
+                  "name": "Oper",
+                  "text": "Das zweitgrößte Opernhaus Österreichs mit beeindruckender Architektur.",
+                  "category": "cultural",
+                  "coords": [
+                        15.445683,
+                        47.069004
+                  ]
+            },
+            {
+                  "name": "Schauspielhaus",
+                  "text": "Ein bedeutendes Theatergebäude für Schauspielkunst in Graz.",
+                  "category": "cultural",
+                  "coords": [
+                        15.441641,
+                        47.072705
+                  ]
+            },
+            {
+                  "name": "Orpheum",
+                  "text": "Ein traditionsreiches Veranstaltungszentrum für Konzerte und Kleinkunst.",
+                  "category": "cultural",
+                  "coords": [
+                        15.429949,
+                        47.072328
+                  ]
+            },
+            {
+                  "name": "Kasematten",
+                  "text": "Eine Freilichtbühne in den historischen Gemäuern auf dem Schloßberg.",
+                  "category": "cultural",
+                  "coords": [
+                        15.43741,
+                        47.076321
+                  ]
+            },
+            {
+                  "name": "Stefaniensaal",
+                  "text": "Ein prunkvoller Konzertsaal im Herzen von Graz.",
+                  "category": "cultural",
+                  "coords": [
+                        15.437803,
+                        47.069801
+                  ]
+            },
+            {
+                  "name": "Helmut-List-Halle",
+                  "text": "Eine multifunktionale Veranstaltungshalle für Kunst und Kultur.",
+                  "category": "cultural",
+                  "coords": [
+                        15.411948,
+                        47.079682
+                  ]
+            },
+            {
+                  "name": "Forum Stadtpark",
+                  "text": "Als Zentrum für zeitgenössische Kunst und Kultur lädt das Forum Stadtpark in Graz zu inspirierenden Besuchen ein. Diese kulturelle Einrichtung befindet sich direkt im städtischen Parkgelände.",
+                  "category": "cultural",
+                  "coords": [
+                        15.443571,
+                        47.074651
+                  ]
+            },
+            {
+                  "name": "Tennenmälzerei",
+                  "text": "Ein historisches Industriegebäude, das heute kulturell genutzt wird.",
+                  "category": "cultural",
+                  "coords": [
+                        15.411465,
+                        47.064232
+                  ]
+            },
+            {
+                  "name": "Altkatholische Christophoruskirche",
+                  "text": "Die Kirche der altkatholischen Kirchengemeinde in Graz.",
+                  "category": "religious",
+                  "coords": [
+                        15.430862,
+                        47.069594
+                  ]
+            },
+            {
+                  "name": "Kalvarienberg",
+                  "text": "Ein religiöser Komplex mit Kreuzwegstationen und Kapellen.",
+                  "category": "religious",
+                  "coords": [
+                        15.417565,
+                        47.093152
+                  ]
+            },
+            {
+                  "name": "Leechkirche",
+                  "text": "Eine der ältesten Kirchen von Graz mit gotischen Elementen.",
+                  "category": "religious",
+                  "coords": [
+                        15.446743,
+                        47.075571
+                  ]
+            },
+            {
+                  "name": "Stadtpfarrkirche zum Heiligen Blut",
+                  "text": "Die barocke Hauptpfarrkirche von Graz mit bedeutenden Kunstwerken.",
+                  "category": "religious",
+                  "coords": [
+                        15.441151,
+                        47.069413
+                  ]
+            },
+            {
+                  "name": "Sankt-Josef-Kirche",
+                  "text": "Eine neugotische Kirche im Grazer Stadtbezirk Jakomini.",
+                  "category": "religious",
+                  "coords": [
+                        15.441031,
+                        47.058849
+                  ]
+            },
+            {
+                  "name": "Synagoge",
+                  "text": "Das religiöse Zentrum der jüdischen Gemeinde in Graz.",
+                  "category": "religious",
+                  "coords": [
+                        15.433563,
+                        47.064138
+                  ]
+            },
+            {
+                  "name": "Landeskrankenhauskirche zum Heiligsten Erlöser",
+                  "text": "Ein modernes katholisches Kirchengebäude im Westen von Graz.",
+                  "category": "religious",
+                  "coords": [
+                        15.465785,
+                        47.082636
+                  ]
+            },
+            {
+                  "name": "Herz-Jesu-Kirche",
+                  "text": "Eine imposante neugotische Kirche mit dem höchsten Kirchturm von Graz.",
+                  "category": "religious",
+                  "coords": [
+                        15.455737,
+                        47.069626
+                  ]
+            },
+            {
+                  "name": "Sankt Johannes",
+                  "text": "Eine moderne katholische Pfarre im Grazer Stadtteil Straßgang.",
+                  "category": "religious",
+                  "coords": [
+                        15.427986,
+                        47.049339
+                  ]
+            },
+            {
+                  "name": "Münzgrabenkirche",
+                  "text": "Eine markante Kirche in Graz, die nach dem Zweiten Weltkrieg wiederaufgebaut wurde.",
+                  "category": "religious",
+                  "coords": [
+                        15.4523,
+                        47.061317
+                  ]
+            },
+            {
+                  "name": "Kirche Hl. Kyrill und Method",
+                  "text": "Die serbisch-orthodoxe Kirche in Graz.",
+                  "category": "religious",
+                  "coords": [
+                        15.427313,
+                        47.045289
+                  ]
+            },
+            {
+                  "name": "Barmherzigenkirche Maria Verkündigung",
+                  "text": "Eine barocke Klosterkirche der Barmherzigen Brüder.",
+                  "category": "religious",
+                  "coords": [
+                        15.432035,
+                        47.071442
+                  ]
+            },
+            {
+                  "name": "Pfarrkirche Sankt Leonhard",
+                  "text": "Eine gotische Hallenkirche mit einem bedeutenden Friedhof.",
+                  "category": "religious",
+                  "coords": [
+                        15.465103,
+                        47.078581
+                  ]
+            },
+            {
+                  "name": "Franziskanerkirche",
+                  "text": "Ein Kloster und eine Kirche des Franziskanerordens in der Grazer Altstadt.",
+                  "category": "religious",
+                  "coords": [
+                        15.436444,
+                        47.070693
+                  ]
+            },
+            {
+                  "name": "Stiegenkirche",
+                  "text": "Eine historische Treppenkirche in der Grazer Innenstadt.",
+                  "category": "religious",
+                  "coords": [
+                        15.438745,
+                        47.072602
+                  ]
+            },
+            {
+                  "name": "Mariahilfer Kirche",
+                  "text": "Eine bedeutende barocke Wallfahrtskirche in Graz.",
+                  "category": "religious",
+                  "coords": [
+                        15.433031,
+                        47.072797
+                  ]
+            },
+            {
+                  "name": "Sankt Vinzenz",
+                  "text": "Eine römisch-katholische Pfarrkirche im Grazer Bezirk Eggenberg.",
+                  "category": "religious",
+                  "coords": [
+                        15.405101,
+                        47.074555
+                  ]
+            },
+            {
+                  "name": "Christus der Auferstandene",
+                  "text": "Eine moderne römisch-katholische Kirche im Grazer Bezirk Straßgang.",
+                  "category": "religious",
+                  "coords": [
+                        15.450884,
+                        47.046613
+                  ]
+            },
+            {
+                  "name": "Grabenkirche",
+                  "text": "Eine historische Kirche in der Nähe des Stadtparks, bekannt für ihren barocken Altar.",
+                  "category": "religious",
+                  "coords": [
+                        15.439751,
+                        47.081475
+                  ]
+            },
+            {
+                  "name": "Pfarrkirche Sankt Andrä",
+                  "text": "Eine markante Kirche im Grazer Bezirk Gries, bekannt für ihre Integration moderner Kunst.",
+                  "category": "religious",
+                  "coords": [
+                        15.429007,
+                        47.069603
+                  ]
+            },
+            {
+                  "name": "Kirche Sankt Ulrichsbrunn",
+                  "text": "Eine idyllisch gelegene Wallfahrtskirche mit einer heiligen Quelle im Norden von Graz.",
+                  "category": "religious",
+                  "coords": [
+                        15.429072,
+                        47.096565
+                  ]
+            },
+            {
+                  "name": "Pfarrkirche Don Bosco",
+                  "text": "Eine moderne römisch-katholische Pfarrkirche im Grazer Bezirk Lend.",
+                  "category": "religious",
+                  "coords": [
+                        15.416474,
+                        47.056462
+                  ]
+            },
+            {
+                  "name": "Thalersee",
+                  "text": "Der Thalersee in Graz ist ein beliebtes Ziel für Spaziergänge und Naturerlebnisse.",
+                  "category": "natural",
+                  "coords": [
+                        15.366565,
+                        47.07003
+                  ]
+            },
+            {
+                  "name": "Wagner-Jauregg-Bad",
+                  "text": "Das Wagner-Jauregg-Bad in Graz bietet eine ruhige Umgebung am Wasser.",
+                  "category": "natural",
+                  "coords": [
+                        15.426908,
+                        47.037179
+                  ]
+            },
+            {
+                  "name": "Bespielbarer Bach",
+                  "text": "Dieser Spielbereich in Graz ermöglicht Kindern das naturnahe Spielen am Wasser.",
+                  "category": "family",
+                  "coords": [
+                        15.458488,
+                        47.0735
+                  ]
+            },
+            {
+                  "name": "Sandkiste",
+                  "text": "Ein kleiner Spielplatz mit Sandkiste in Graz für die jüngsten Besucher.",
+                  "category": "family",
+                  "coords": [
+                        15.46606,
+                        47.060773
+                  ]
+            },
+            {
+                  "name": "Grete-Schurz-Platz",
+                  "text": "Der Spielplatz am Grete-Schurz-Platz in Graz bietet Abwechslung im städtischen Umfeld.",
+                  "category": "family",
+                  "coords": [
+                        15.407622,
+                        47.059263
+                  ]
+            },
+            {
+                  "name": "Dr.-Hans-Spitzy-Platzl",
+                  "text": "Ein zentral gelegener Kinderspielplatz in Graz für eine kurze Spielpause.",
+                  "category": "family",
+                  "coords": [
+                        15.43014,
+                        47.051783
+                  ]
+            },
+            {
+                  "name": "Junges Europa",
+                  "text": "Dieser moderne Spielplatz in Graz bietet verschiedene Kletter- und Spielmöglichkeiten.",
+                  "category": "family",
+                  "coords": [
+                        15.403698,
+                        47.071577
+                  ]
+            },
+            {
+                  "name": "Minigolf Milkowski",
+                  "text": "Die Minigolfanlage in Graz ist ein unterhaltsames Ziel für einen Familienausflug.",
+                  "category": "family",
+                  "coords": [
+                        15.454618,
+                        47.082524
+                  ]
+            },
+            {
+                  "name": "Abenteuerspielplatz Afritschgarten",
+                  "text": "Dieser Abenteuerspielplatz in Graz bietet Kindern viele Möglichkeiten zum Entdecken.",
+                  "category": "family",
+                  "coords": [
+                        15.426263,
+                        47.077055
+                  ]
+            },
+            {
+                  "name": "Theodor-Körner Spielplatz",
+                  "text": "Ein schattiger Spielplatz in Graz, ideal für Familien mit kleinen Kindern.",
+                  "category": "family",
+                  "coords": [
+                        15.425459,
+                        47.09266
+                  ]
+            },
+            {
+                  "name": "Kinderspielplatz Marienwiese",
+                  "text": "Der Kinderspielplatz Marienwiese in Graz liegt in einer grünen Umgebung.",
+                  "category": "family",
+                  "coords": [
+                        15.422457,
+                        47.078286
+                  ]
+            },
+            {
+                  "name": "Konsumwiese",
+                  "text": "Ein beliebter Treffpunkt für Familien mit Kindern im Grazer Stadtgebiet.",
+                  "category": "family",
+                  "coords": [
+                        15.411434,
+                        47.078262
+                  ]
+            },
+            {
+                  "name": "Volksschule Leopoldinum",
+                  "text": "Dieser Spielplatz in Graz bietet nachmittags Raum für Bewegung und Spiel.",
+                  "category": "family",
+                  "coords": [
+                        15.410443,
+                        47.078925
+                  ]
+            },
+            {
+                  "name": "Motorikpark St. Peter",
+                  "text": "Der Motorikpark in Graz fördert spielerisch die Geschicklichkeit von Kindern.",
+                  "category": "family",
+                  "coords": [
+                        15.464363,
+                        47.053596
+                  ]
+            },
+            {
+                  "name": "Calisthenics",
+                  "text": "Ein Spielplatz in Graz mit Geräten zur sportlichen Betätigung für die ganze Familie.",
+                  "category": "family",
+                  "coords": [
+                        15.447337,
+                        47.064277
+                  ]
+            },
+            {
+                  "name": "Spielzeile Reininghaus",
+                  "text": "Diese Spielzeile in Graz bietet moderne Spielgeräte in ansprechendem Design.",
+                  "category": "family",
+                  "coords": [
+                        15.410397,
+                        47.061903
+                  ]
+            },
+            {
+                  "name": "Augartenbad",
+                  "text": "Das Augartenbad in Graz bietet vielseitige Schwimmmöglichkeiten und Liegeflächen zur Entspannung.",
+                  "category": "family",
+                  "coords": [
+                        15.436132,
+                        47.057972
+                  ]
+            },
+            {
+                  "name": "Margaretenbad",
+                  "text": "Das Margaretenbad in Graz ist ein charmantes Freibad, das zur Erfrischung an heißen Tagen einlädt.",
+                  "category": "family",
+                  "coords": [
+                        15.443677,
+                        47.080843
+                  ]
+            },
+            {
+                  "name": "Auster Sport- und Freibad",
+                  "text": "Das Auster Sport- und Freibad in Graz verfügt über umfangreiche Wasserflächen für Sportler und Familien.",
+                  "category": "family",
+                  "coords": [
+                        15.39971,
+                        47.072254
+                  ]
+            },
+            {
+                  "name": "Stukitz-Bad",
+                  "text": "Das Stukitz-Bad in Graz bietet abwechslungsreiche Wasserattraktionen für einen gelungenen Badetag.",
+                  "category": "family",
+                  "coords": [
+                        15.424461,
+                        47.101962
+                  ]
+            },
+            {
+                  "name": "Lehrschwimmbecken",
+                  "text": "Das Lehrschwimmbecken in Graz dient vor allem Anfängern zum sicheren Erlernen des Schwimmens.",
+                  "category": "family",
+                  "coords": [
+                        15.400112,
+                        47.073154
+                  ]
+            },
+            {
+                  "name": "Streichelzoo HIB Liebenau",
+                  "text": "Der Streichelzoo HIB Liebenau in Graz ermöglicht Kindern den direkten Kontakt mit freundlichen Tieren.",
+                  "category": "family",
+                  "coords": [
+                        15.45513,
+                        47.037239
+                  ]
+            },
+            {
+                  "name": "Schell Collection",
+                  "text": "Spezialmuseum in Graz für Schlüssel, Schlösser und Kästchen.",
+                  "category": "museum",
+                  "coords": [
+                        15.429133,
+                        47.077821
+                  ]
+            },
+            {
+                  "name": "Neue Galerie Graz",
+                  "text": "Museum für moderne und zeitgenössische Kunst in Graz.",
+                  "category": "museum",
+                  "coords": [
+                        15.437581,
+                        47.068465
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Puchmuseum",
+                  "text": "A Puch-járművek történetének szentelt múzeum Grazban.",
+                  "category": "museum",
+                  "coords": [
+                        15.43765,
+                        47.04397
+                  ]
+            },
+            {
+                  "name": "Diözesanmuseum Graz",
+                  "text": "A Graz-Seckau-i egyházmegye múzeuma keresztény művészeti alkotásokat mutat be.",
+                  "category": "museum",
+                  "coords": [
+                        15.441755,
+                        47.071698
+                  ]
+            },
+            {
+                  "name": "Landeszeughaus",
+                  "text": "A világ legnagyobb történelmi fegyvertára hatalmas gyűjteménnyel.",
+                  "category": "museum",
+                  "coords": [
+                        15.439883,
+                        47.069803
+                  ]
+            },
+            {
+                  "name": "GrazMuseum",
+                  "text": "Graz városi múzeuma a helyi történelmet és kultúrát mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        15.436518,
+                        47.072656
+                  ]
+            },
+            {
+                  "name": "Montan- und Werksbahnmuseum Graz",
+                  "text": "Ipari és bányavasutakra szakosodott múzeum Grazban.",
+                  "category": "museum",
+                  "coords": [
+                        15.437505,
+                        47.078714
+                  ]
+            },
+            {
+                  "name": "Messe-Schlößl",
+                  "text": "Történelmi kiskastély a grazi vásár területén.",
+                  "category": "castle",
+                  "coords": [
+                        15.451066,
+                        47.059291
+                  ]
+            },
+            {
+                  "name": "Halle für Kunst Steiermark",
+                  "text": "Kortárs művészeti múzeum a grazi Városligetben.",
+                  "category": "museum",
+                  "coords": [
+                        15.44458,
+                        47.07174
+                  ]
+            },
+            {
+                  "name": "Volkskundemuseum",
+                  "text": "Stájer néprajzi és regionális hagyományokat bemutató múzeum.",
+                  "category": "museum",
+                  "coords": [
+                        15.439702,
+                        47.075029
+                  ]
+            },
+            {
+                  "name": "Kunsthaus Graz",
+                  "text": "Építészetileg meghatározó modern művészeti múzeum, más néven „Friendly Alien”.",
+                  "category": "museum",
+                  "coords": [
+                        15.434015,
+                        47.071298
+                  ]
+            },
+            {
+                  "name": "Kindermuseum FRida & freD",
+                  "text": "Interaktív élménymúzeum gyermekek számára Grazban.",
+                  "category": "museum",
+                  "coords": [
+                        15.436239,
+                        47.063162
+                  ]
+            },
+            {
+                  "name": "Museum der Wahrnehmung",
+                  "text": "Az emberi érzékeléssel foglalkozó múzeum Grazban.",
+                  "category": "museum",
+                  "coords": [
+                        15.437541,
+                        47.062613
+                  ]
+            },
+            {
+                  "name": "Mühlschlössl",
+                  "text": "Történelmi kastély Grazban barokk elemekkel.",
+                  "category": "castle",
+                  "coords": [
+                        15.425893,
+                        47.074071
+                  ]
+            },
+            {
+                  "name": "Meerscheinschlössl",
+                  "text": "Barokk kastély, amelyet ma a Grazi Egyetem használ.",
+                  "category": "castle",
+                  "coords": [
+                        15.447013,
+                        47.07938
+                  ]
+            },
+            {
+                  "name": "Tupay-Schlössl",
+                  "text": "Egykori késő barokk nemesi kastély Graz Leonhard negyedében.",
+                  "category": "castle",
+                  "coords": [
+                        15.445429,
+                        47.052136
+                  ]
+            },
+            {
+                  "name": "Hallerschloss",
+                  "text": "Védett történelmi kastélyépület Grazban.",
+                  "category": "castle",
+                  "coords": [
+                        15.464259,
+                        47.070574
+                  ]
+            },
+            {
+                  "name": "Metahof-Schlössl",
+                  "text": "Barokk kiskastély egy grazi park közepén.",
+                  "category": "castle",
+                  "coords": [
+                        15.421252,
+                        47.072984
+                  ]
+            },
+            {
+                  "name": "Schloss Neu-Grabenhofen",
+                  "text": "Kastély Graz északi peremén.",
+                  "category": "castle",
+                  "coords": [
+                        15.437473,
+                        47.095175
+                  ]
+            },
+            {
+                  "name": "Minoritenschlössl",
+                  "text": "Történelmi kastélyépület, amely egykor a minorita rendé volt.",
+                  "category": "castle",
+                  "coords": [
+                        15.446838,
+                        47.090824
+                  ]
+            },
+            {
+                  "name": "Rosenhof",
+                  "text": "Hosszú múltra visszatekintő grazi kastélyépület.",
+                  "category": "castle",
+                  "coords": [
+                        15.441602,
+                        47.089802
+                  ]
+            },
+            {
+                  "name": "Hubertus-Schlössl",
+                  "text": "Kisméretű vadászkastély Graz Eggenberg negyedében.",
+                  "category": "castle",
+                  "coords": [
+                        15.447529,
+                        47.088756
+                  ]
+            },
+            {
+                  "name": "Mausoleum Prokesch-Osten",
+                  "text": "Jelentős síremlék a Szent Leonárd-temetőben.",
+                  "category": "historical",
+                  "coords": [
+                        15.46747,
+                        47.077377
+                  ]
+            },
+            {
+                  "name": "Burgtor",
+                  "text": "Graz egyik fennmaradt történelmi városkapuja.",
+                  "category": "fortress",
+                  "coords": [
+                        15.443051,
+                        47.072161
+                  ]
+            },
+            {
+                  "name": "Oper",
+                  "text": "Ausztria második legnagyobb operaháza lenyűgöző építészettel.",
+                  "category": "cultural",
+                  "coords": [
+                        15.445683,
+                        47.069004
+                  ]
+            },
+            {
+                  "name": "Schauspielhaus",
+                  "text": "Graz jelentős színházépülete a drámai művészetek számára.",
+                  "category": "cultural",
+                  "coords": [
+                        15.441641,
+                        47.072705
+                  ]
+            },
+            {
+                  "name": "Orpheum",
+                  "text": "Nagy múltú rendezvényközpont koncertek és kabarék számára.",
+                  "category": "cultural",
+                  "coords": [
+                        15.429949,
+                        47.072328
+                  ]
+            },
+            {
+                  "name": "Kasematten",
+                  "text": "Szabadtéri színpad a várhegyi történelmi falak között.",
+                  "category": "cultural",
+                  "coords": [
+                        15.43741,
+                        47.076321
+                  ]
+            },
+            {
+                  "name": "Stefaniensaal",
+                  "text": "Pompás hangversenyterem Graz szívében.",
+                  "category": "cultural",
+                  "coords": [
+                        15.437803,
+                        47.069801
+                  ]
+            },
+            {
+                  "name": "Helmut-List-Halle",
+                  "text": "Többfunkciós rendezvénycsarnok művészeti és kulturális eseményekhez.",
+                  "category": "cultural",
+                  "coords": [
+                        15.411948,
+                        47.079682
+                  ]
+            },
+            {
+                  "name": "Forum Stadtpark",
+                  "text": "A grazi Forum Stadtpark egy kortárs művészeti és kulturális központ, amely a városi parkban kapott helyet. A kulturális intézmény inspiráló látogatást kínál az érdeklődőknek.",
+                  "category": "cultural",
+                  "coords": [
+                        15.443571,
+                        47.074651
+                  ]
+            },
+            {
+                  "name": "Tennenmälzerei",
+                  "text": "Történelmi ipari épület, amelyet ma kulturális célokra használnak.",
+                  "category": "cultural",
+                  "coords": [
+                        15.411465,
+                        47.064232
+                  ]
+            },
+            {
+                  "name": "Altkatholische Christophoruskirche",
+                  "text": "Az ókatolikus egyházközség temploma Grazban.",
+                  "category": "religious",
+                  "coords": [
+                        15.430862,
+                        47.069594
+                  ]
+            },
+            {
+                  "name": "Kalvarienberg",
+                  "text": "Vallási épületegyüttes keresztúti állomásokkal és kápolnákkal.",
+                  "category": "religious",
+                  "coords": [
+                        15.417565,
+                        47.093152
+                  ]
+            },
+            {
+                  "name": "Leechkirche",
+                  "text": "Graz egyik legrégebbi temploma gótikus elemekkel.",
+                  "category": "religious",
+                  "coords": [
+                        15.446743,
+                        47.075571
+                  ]
+            },
+            {
+                  "name": "Stadtpfarrkirche zum Heiligen Blut",
+                  "text": "Graz barokk főplébániatemploma jelentős műalkotásokkal.",
+                  "category": "religious",
+                  "coords": [
+                        15.441151,
+                        47.069413
+                  ]
+            },
+            {
+                  "name": "Sankt-Josef-Kirche",
+                  "text": "Neogótikus templom Graz Jakomini negyedében.",
+                  "category": "religious",
+                  "coords": [
+                        15.441031,
+                        47.058849
+                  ]
+            },
+            {
+                  "name": "Synagoge",
+                  "text": "A grazi zsidó hitközség vallási központja.",
+                  "category": "religious",
+                  "coords": [
+                        15.433563,
+                        47.064138
+                  ]
+            },
+            {
+                  "name": "Landeskrankenhauskirche zum Heiligsten Erlöser",
+                  "text": "Modern katolikus templomépület Graz nyugati részén.",
+                  "category": "religious",
+                  "coords": [
+                        15.465785,
+                        47.082636
+                  ]
+            },
+            {
+                  "name": "Herz-Jesu-Kirche",
+                  "text": "Impozáns neogótikus templom Graz legmagasabb tornyával.",
+                  "category": "religious",
+                  "coords": [
+                        15.455737,
+                        47.069626
+                  ]
+            },
+            {
+                  "name": "Sankt Johannes",
+                  "text": "Modern katolikus plébánia Graz Straßgang negyedében.",
+                  "category": "religious",
+                  "coords": [
+                        15.427986,
+                        47.049339
+                  ]
+            },
+            {
+                  "name": "Münzgrabenkirche",
+                  "text": "Jellegzetes grazi templom, amelyet a második világháború után építettek újjá.",
+                  "category": "religious",
+                  "coords": [
+                        15.4523,
+                        47.061317
+                  ]
+            },
+            {
+                  "name": "Kirche Hl. Kyrill und Method",
+                  "text": "A szerb ortodox templom Grazban.",
+                  "category": "religious",
+                  "coords": [
+                        15.427313,
+                        47.045289
+                  ]
+            },
+            {
+                  "name": "Barmherzigenkirche Maria Verkündigung",
+                  "text": "Az Irgalmas Rend barokk kolostortemploma.",
+                  "category": "religious",
+                  "coords": [
+                        15.432035,
+                        47.071442
+                  ]
+            },
+            {
+                  "name": "Pfarrkirche Sankt Leonhard",
+                  "text": "Gótikus csarnoktemplom jelentős temetővel.",
+                  "category": "religious",
+                  "coords": [
+                        15.465103,
+                        47.078581
+                  ]
+            },
+            {
+                  "name": "Franziskanerkirche",
+                  "text": "A ferences rend kolostora és temploma Graz óvárosában.",
+                  "category": "religious",
+                  "coords": [
+                        15.436444,
+                        47.070693
+                  ]
+            },
+            {
+                  "name": "Stiegenkirche",
+                  "text": "Történelmi lépcsős templom Graz belvárosában.",
+                  "category": "religious",
+                  "coords": [
+                        15.438745,
+                        47.072602
+                  ]
+            },
+            {
+                  "name": "Mariahilfer Kirche",
+                  "text": "Jelentős barokk zarándoktemplom Grazban.",
+                  "category": "religious",
+                  "coords": [
+                        15.433031,
+                        47.072797
+                  ]
+            },
+            {
+                  "name": "Sankt Vinzenz",
+                  "text": "Római katolikus plébániatemplom Graz Eggenberg negyedében.",
+                  "category": "religious",
+                  "coords": [
+                        15.405101,
+                        47.074555
+                  ]
+            },
+            {
+                  "name": "Christus der Auferstandene",
+                  "text": "Modern római katolikus templom Graz Straßgang negyedében.",
+                  "category": "religious",
+                  "coords": [
+                        15.450884,
+                        47.046613
+                  ]
+            },
+            {
+                  "name": "Grabenkirche",
+                  "text": "Történelmi templom a városi park közelében, barokk oltáráról ismert.",
+                  "category": "religious",
+                  "coords": [
+                        15.439751,
+                        47.081475
+                  ]
+            },
+            {
+                  "name": "Pfarrkirche Sankt Andrä",
+                  "text": "Graz Gries negyedének jellegzetes temploma, amely a modern művészet integrációjáról ismert.",
+                  "category": "religious",
+                  "coords": [
+                        15.429007,
+                        47.069603
+                  ]
+            },
+            {
+                  "name": "Kirche Sankt Ulrichsbrunn",
+                  "text": "Idilli fekvésű zarándoktemplom szent forrással Graz északi részén.",
+                  "category": "religious",
+                  "coords": [
+                        15.429072,
+                        47.096565
+                  ]
+            },
+            {
+                  "name": "Pfarrkirche Don Bosco",
+                  "text": "Modern római katolikus plébániatemplom Graz Lend negyedében.",
+                  "category": "religious",
+                  "coords": [
+                        15.416474,
+                        47.056462
+                  ]
+            },
+            {
+                  "name": "Thalersee",
+                  "text": "A grazi Thalersee népszerű úti cél sétákhoz és természetjáráshoz.",
+                  "category": "natural",
+                  "coords": [
+                        15.366565,
+                        47.07003
+                  ]
+            },
+            {
+                  "name": "Wagner-Jauregg-Bad",
+                  "text": "A grazi Wagner-Jauregg-Bad nyugodt környezetet biztosít a vízparton.",
+                  "category": "natural",
+                  "coords": [
+                        15.426908,
+                        47.037179
+                  ]
+            },
+            {
+                  "name": "Bespielbarer Bach",
+                  "text": "Ez a grazi játszóterület lehetővé teszi a gyerekeknek a természethez közeli játékot a víznél.",
+                  "category": "family",
+                  "coords": [
+                        15.458488,
+                        47.0735
+                  ]
+            },
+            {
+                  "name": "Sandkiste",
+                  "text": "Egy kis játszótér homokozóval Grazban a legkisebb látogatók számára.",
+                  "category": "family",
+                  "coords": [
+                        15.46606,
+                        47.060773
+                  ]
+            },
+            {
+                  "name": "Grete-Schurz-Platz",
+                  "text": "A grazi Grete-Schurz-Platz játszótere kikapcsolódást nyújt a városi környezetben.",
+                  "category": "family",
+                  "coords": [
+                        15.407622,
+                        47.059263
+                  ]
+            },
+            {
+                  "name": "Dr.-Hans-Spitzy-Platzl",
+                  "text": "Egy központi fekvésű játszótér Grazban egy rövid játékos szünethez.",
+                  "category": "family",
+                  "coords": [
+                        15.43014,
+                        47.051783
+                  ]
+            },
+            {
+                  "name": "Junges Europa",
+                  "text": "Ez a modern grazi játszótér különféle mászó- és játéklehetőségeket kínál.",
+                  "category": "family",
+                  "coords": [
+                        15.403698,
+                        47.071577
+                  ]
+            },
+            {
+                  "name": "Minigolf Milkowski",
+                  "text": "A grazi minigolfpálya szórakoztató úti cél egy családi kiránduláshoz.",
+                  "category": "family",
+                  "coords": [
+                        15.454618,
+                        47.082524
+                  ]
+            },
+            {
+                  "name": "Abenteuerspielplatz Afritschgarten",
+                  "text": "Ez a grazi kalandjátszótér számos felfedezési lehetőséget kínál a gyerekeknek.",
+                  "category": "family",
+                  "coords": [
+                        15.426263,
+                        47.077055
+                  ]
+            },
+            {
+                  "name": "Theodor-Körner Spielplatz",
+                  "text": "Egy árnyas játszótér Grazban, amely ideális kisgyermekes családoknak.",
+                  "category": "family",
+                  "coords": [
+                        15.425459,
+                        47.09266
+                  ]
+            },
+            {
+                  "name": "Kinderspielplatz Marienwiese",
+                  "text": "A grazi Marienwiese játszótér zöld környezetben található.",
+                  "category": "family",
+                  "coords": [
+                        15.422457,
+                        47.078286
+                  ]
+            },
+            {
+                  "name": "Konsumwiese",
+                  "text": "Népszerű találkozóhely gyermekes családok számára Graz városában.",
+                  "category": "family",
+                  "coords": [
+                        15.411434,
+                        47.078262
+                  ]
+            },
+            {
+                  "name": "Volksschule Leopoldinum",
+                  "text": "Ez a grazi játszótér délutánonként teret biztosít a mozgáshoz és a játékhoz.",
+                  "category": "family",
+                  "coords": [
+                        15.410443,
+                        47.078925
+                  ]
+            },
+            {
+                  "name": "Motorikpark St. Peter",
+                  "text": "A grazi motorikus park játékos formában fejleszti a gyerekek ügyességét.",
+                  "category": "family",
+                  "coords": [
+                        15.464363,
+                        47.053596
+                  ]
+            },
+            {
+                  "name": "Calisthenics",
+                  "text": "Egy grazi játszótér sporteszközökkel az egész család számára.",
+                  "category": "family",
+                  "coords": [
+                        15.447337,
+                        47.064277
+                  ]
+            },
+            {
+                  "name": "Spielzeile Reininghaus",
+                  "text": "Ez a grazi játszósáv modern játékokat kínál vonzó kivitelben.",
+                  "category": "family",
+                  "coords": [
+                        15.410397,
+                        47.061903
+                  ]
+            },
+            {
+                  "name": "Augartenbad",
+                  "text": "A grazi Augartenbad változatos úszási lehetőségeket és pihenőhelyeket kínál a látogatóknak.",
+                  "category": "family",
+                  "coords": [
+                        15.436132,
+                        47.057972
+                  ]
+            },
+            {
+                  "name": "Margaretenbad",
+                  "text": "A grazi Margaretenbad egy bájos szabadtéri fürdő, amely felfrissülést nyújt a forró napokon.",
+                  "category": "family",
+                  "coords": [
+                        15.443677,
+                        47.080843
+                  ]
+            },
+            {
+                  "name": "Auster Sport- und Freibad",
+                  "text": "A grazi Auster Sport- und Freibad kiterjedt vízfelületekkel várja a sportolókat és a családokat.",
+                  "category": "family",
+                  "coords": [
+                        15.39971,
+                        47.072254
+                  ]
+            },
+            {
+                  "name": "Stukitz-Bad",
+                  "text": "A grazi Stukitz-Bad változatos vízi élményeket kínál egy sikeres fürdőnaphoz.",
+                  "category": "family",
+                  "coords": [
+                        15.424461,
+                        47.101962
+                  ]
+            },
+            {
+                  "name": "Lehrschwimmbecken",
+                  "text": "A grazi tanmedence elsősorban a kezdők számára szolgál az úszás biztonságos elsajátítására.",
+                  "category": "family",
+                  "coords": [
+                        15.400112,
+                        47.073154
+                  ]
+            },
+            {
+                  "name": "Streichelzoo HIB Liebenau",
+                  "text": "A grazi Streichelzoo HIB Liebenau közvetlen kapcsolatot tesz lehetővé a gyerekek és a barátságos állatok között.",
+                  "category": "family",
+                  "coords": [
+                        15.45513,
+                        47.037239
+                  ]
+            },
+            {
+                  "name": "Schell Collection",
+                  "text": "Speciális múzeum Grazban, amely kulcsokat, zárakat és szelencéket mutat be.",
+                  "category": "museum",
+                  "coords": [
+                        15.429133,
+                        47.077821
+                  ]
+            },
+            {
+                  "name": "Neue Galerie Graz",
+                  "text": "Modern és kortárs művészeti múzeum Grazban.",
+                  "category": "museum",
+                  "coords": [
+                        15.437581,
+                        47.068465
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Puchmuseum",
+                  "text": "Un muzeu din Graz dedicat istoriei vehiculelor Puch.",
+                  "category": "museum",
+                  "coords": [
+                        15.43765,
+                        47.04397
+                  ]
+            },
+            {
+                  "name": "Diözesanmuseum Graz",
+                  "text": "Muzeul Diecezei Graz-Seckau expune artă creștină.",
+                  "category": "museum",
+                  "coords": [
+                        15.441755,
+                        47.071698
+                  ]
+            },
+            {
+                  "name": "Landeszeughaus",
+                  "text": "Cea mai mare armurărie istorică din lume, cu o colecție vastă.",
+                  "category": "museum",
+                  "coords": [
+                        15.439883,
+                        47.069803
+                  ]
+            },
+            {
+                  "name": "GrazMuseum",
+                  "text": "Muzeul orașului Graz prezintă istoria și cultura locală.",
+                  "category": "museum",
+                  "coords": [
+                        15.436518,
+                        47.072656
+                  ]
+            },
+            {
+                  "name": "Montan- und Werksbahnmuseum Graz",
+                  "text": "Un muzeu din Graz specializat în căi ferate industriale și miniere.",
+                  "category": "museum",
+                  "coords": [
+                        15.437505,
+                        47.078714
+                  ]
+            },
+            {
+                  "name": "Messe-Schlößl",
+                  "text": "Un mic castel istoric situat în incinta târgului din Graz.",
+                  "category": "castle",
+                  "coords": [
+                        15.451066,
+                        47.059291
+                  ]
+            },
+            {
+                  "name": "Halle für Kunst Steiermark",
+                  "text": "Un muzeu de artă contemporană în parcul orașului Graz.",
+                  "category": "museum",
+                  "coords": [
+                        15.44458,
+                        47.07174
+                  ]
+            },
+            {
+                  "name": "Volkskundemuseum",
+                  "text": "Un muzeu de etnografie stiriană și tradiții regionale.",
+                  "category": "museum",
+                  "coords": [
+                        15.439702,
+                        47.075029
+                  ]
+            },
+            {
+                  "name": "Kunsthaus Graz",
+                  "text": "Un muzeu de artă modernă cu o arhitectură distinctă, supranumit „Friendly Alien”.",
+                  "category": "museum",
+                  "coords": [
+                        15.434015,
+                        47.071298
+                  ]
+            },
+            {
+                  "name": "Kindermuseum FRida & freD",
+                  "text": "Un muzeu interactiv și experimental pentru copii în Graz.",
+                  "category": "museum",
+                  "coords": [
+                        15.436239,
+                        47.063162
+                  ]
+            },
+            {
+                  "name": "Museum der Wahrnehmung",
+                  "text": "Un muzeu din Graz care explorează percepția umană.",
+                  "category": "museum",
+                  "coords": [
+                        15.437541,
+                        47.062613
+                  ]
+            },
+            {
+                  "name": "Mühlschlössl",
+                  "text": "Un castel istoric din Graz cu elemente baroce.",
+                  "category": "castle",
+                  "coords": [
+                        15.425893,
+                        47.074071
+                  ]
+            },
+            {
+                  "name": "Meerscheinschlössl",
+                  "text": "Un castel baroc utilizat astăzi de Universitatea din Graz.",
+                  "category": "castle",
+                  "coords": [
+                        15.447013,
+                        47.07938
+                  ]
+            },
+            {
+                  "name": "Tupay-Schlössl",
+                  "text": "Un fost castel nobiliar în stil baroc târziu din districtul Leonhard din Graz.",
+                  "category": "castle",
+                  "coords": [
+                        15.445429,
+                        47.052136
+                  ]
+            },
+            {
+                  "name": "Hallerschloss",
+                  "text": "O clădire de castel istoric protejată în Graz.",
+                  "category": "castle",
+                  "coords": [
+                        15.464259,
+                        47.070574
+                  ]
+            },
+            {
+                  "name": "Metahof-Schlössl",
+                  "text": "Un mic castel baroc în mijlocul unui parc din Graz.",
+                  "category": "castle",
+                  "coords": [
+                        15.421252,
+                        47.072984
+                  ]
+            },
+            {
+                  "name": "Schloss Neu-Grabenhofen",
+                  "text": "Un castel situat la periferia nordică a orașului Graz.",
+                  "category": "castle",
+                  "coords": [
+                        15.437473,
+                        47.095175
+                  ]
+            },
+            {
+                  "name": "Minoritenschlössl",
+                  "text": "O clădire istorică de castel care a aparținut ordinului minorit.",
+                  "category": "castle",
+                  "coords": [
+                        15.446838,
+                        47.090824
+                  ]
+            },
+            {
+                  "name": "Rosenhof",
+                  "text": "O construcție de castel din Graz cu o istorie îndelungată.",
+                  "category": "castle",
+                  "coords": [
+                        15.441602,
+                        47.089802
+                  ]
+            },
+            {
+                  "name": "Hubertus-Schlössl",
+                  "text": "Un mic castel de vânătoare în districtul Eggenberg din Graz.",
+                  "category": "castle",
+                  "coords": [
+                        15.447529,
+                        47.088756
+                  ]
+            },
+            {
+                  "name": "Mausoleum Prokesch-Osten",
+                  "text": "Un monument funerar important în cimitirul Sf. Leonhard.",
+                  "category": "historical",
+                  "coords": [
+                        15.46747,
+                        47.077377
+                  ]
+            },
+            {
+                  "name": "Burgtor",
+                  "text": "Una dintre porțile istorice păstrate ale orașului Graz.",
+                  "category": "fortress",
+                  "coords": [
+                        15.443051,
+                        47.072161
+                  ]
+            },
+            {
+                  "name": "Oper",
+                  "text": "A doua cea mai mare operă din Austria, cu o arhitectură impresionantă.",
+                  "category": "cultural",
+                  "coords": [
+                        15.445683,
+                        47.069004
+                  ]
+            },
+            {
+                  "name": "Schauspielhaus",
+                  "text": "O clădire teatrală importantă pentru arta dramatică din Graz.",
+                  "category": "cultural",
+                  "coords": [
+                        15.441641,
+                        47.072705
+                  ]
+            },
+            {
+                  "name": "Orpheum",
+                  "text": "Un centru de evenimente cu tradiție pentru concerte și spectacole mici.",
+                  "category": "cultural",
+                  "coords": [
+                        15.429949,
+                        47.072328
+                  ]
+            },
+            {
+                  "name": "Kasematten",
+                  "text": "O scenă în aer liber în zidurile istorice de pe Schloßberg.",
+                  "category": "cultural",
+                  "coords": [
+                        15.43741,
+                        47.076321
+                  ]
+            },
+            {
+                  "name": "Stefaniensaal",
+                  "text": "O sală de concerte somptuoasă în inima orașului Graz.",
+                  "category": "cultural",
+                  "coords": [
+                        15.437803,
+                        47.069801
+                  ]
+            },
+            {
+                  "name": "Helmut-List-Halle",
+                  "text": "O sală de evenimente multifuncțională pentru artă și cultură.",
+                  "category": "cultural",
+                  "coords": [
+                        15.411948,
+                        47.079682
+                  ]
+            },
+            {
+                  "name": "Forum Stadtpark",
+                  "text": "Fiind un centru pentru arta și cultura contemporană, Forum Stadtpark din Graz își așteaptă vizitatorii în parcul orașului. Această instituție culturală oferă un spațiu de explorare a tendințelor artistice actuale.",
+                  "category": "cultural",
+                  "coords": [
+                        15.443571,
+                        47.074651
+                  ]
+            },
+            {
+                  "name": "Tennenmälzerei",
+                  "text": "O clădire industrială istorică, utilizată astăzi în scopuri culturale.",
+                  "category": "cultural",
+                  "coords": [
+                        15.411465,
+                        47.064232
+                  ]
+            },
+            {
+                  "name": "Altkatholische Christophoruskirche",
+                  "text": "Biserica comunității vechi-catolice din Graz.",
+                  "category": "religious",
+                  "coords": [
+                        15.430862,
+                        47.069594
+                  ]
+            },
+            {
+                  "name": "Kalvarienberg",
+                  "text": "Un complex religios cu stații ale Căii Crucii și capele.",
+                  "category": "religious",
+                  "coords": [
+                        15.417565,
+                        47.093152
+                  ]
+            },
+            {
+                  "name": "Leechkirche",
+                  "text": "Una dintre cele mai vechi biserici din Graz, cu elemente gotice.",
+                  "category": "religious",
+                  "coords": [
+                        15.446743,
+                        47.075571
+                  ]
+            },
+            {
+                  "name": "Stadtpfarrkirche zum Heiligen Blut",
+                  "text": "Biserica parohială principală în stil baroc din Graz, cu opere de artă importante.",
+                  "category": "religious",
+                  "coords": [
+                        15.441151,
+                        47.069413
+                  ]
+            },
+            {
+                  "name": "Sankt-Josef-Kirche",
+                  "text": "O biserică neogotică în districtul Jakomini din Graz.",
+                  "category": "religious",
+                  "coords": [
+                        15.441031,
+                        47.058849
+                  ]
+            },
+            {
+                  "name": "Synagoge",
+                  "text": "Centrul religios al comunității evreiești din Graz.",
+                  "category": "religious",
+                  "coords": [
+                        15.433563,
+                        47.064138
+                  ]
+            },
+            {
+                  "name": "Landeskrankenhauskirche zum Heiligsten Erlöser",
+                  "text": "O clădire modernă de biserică catolică în vestul orașului Graz.",
+                  "category": "religious",
+                  "coords": [
+                        15.465785,
+                        47.082636
+                  ]
+            },
+            {
+                  "name": "Herz-Jesu-Kirche",
+                  "text": "O biserică neogotică impunătoare cu cel mai înalt turn din Graz.",
+                  "category": "religious",
+                  "coords": [
+                        15.455737,
+                        47.069626
+                  ]
+            },
+            {
+                  "name": "Sankt Johannes",
+                  "text": "O parohie catolică modernă în cartierul Straßgang din Graz.",
+                  "category": "religious",
+                  "coords": [
+                        15.427986,
+                        47.049339
+                  ]
+            },
+            {
+                  "name": "Münzgrabenkirche",
+                  "text": "O biserică distinctivă din Graz, reconstruită după al Doilea Război Mondial.",
+                  "category": "religious",
+                  "coords": [
+                        15.4523,
+                        47.061317
+                  ]
+            },
+            {
+                  "name": "Kirche Hl. Kyrill und Method",
+                  "text": "Biserica ortodoxă sârbă din Graz.",
+                  "category": "religious",
+                  "coords": [
+                        15.427313,
+                        47.045289
+                  ]
+            },
+            {
+                  "name": "Barmherzigenkirche Maria Verkündigung",
+                  "text": "O biserică mănăstirească barocă a Ordinului Ospitalier.",
+                  "category": "religious",
+                  "coords": [
+                        15.432035,
+                        47.071442
+                  ]
+            },
+            {
+                  "name": "Pfarrkirche Sankt Leonhard",
+                  "text": "O biserică hală gotică cu un cimitir important.",
+                  "category": "religious",
+                  "coords": [
+                        15.465103,
+                        47.078581
+                  ]
+            },
+            {
+                  "name": "Franziskanerkirche",
+                  "text": "O mănăstire și o biserică a ordinului franciscan în centrul vechi din Graz.",
+                  "category": "religious",
+                  "coords": [
+                        15.436444,
+                        47.070693
+                  ]
+            },
+            {
+                  "name": "Stiegenkirche",
+                  "text": "O biserică istorică cu scări în centrul orașului Graz.",
+                  "category": "religious",
+                  "coords": [
+                        15.438745,
+                        47.072602
+                  ]
+            },
+            {
+                  "name": "Mariahilfer Kirche",
+                  "text": "O biserică de pelerinaj barocă importantă din Graz.",
+                  "category": "religious",
+                  "coords": [
+                        15.433031,
+                        47.072797
+                  ]
+            },
+            {
+                  "name": "Sankt Vinzenz",
+                  "text": "O biserică parohială romano-catolică din cartierul Eggenberg din Graz.",
+                  "category": "religious",
+                  "coords": [
+                        15.405101,
+                        47.074555
+                  ]
+            },
+            {
+                  "name": "Christus der Auferstandene",
+                  "text": "O biserică romano-catolică modernă în districtul Straßgang din Graz.",
+                  "category": "religious",
+                  "coords": [
+                        15.450884,
+                        47.046613
+                  ]
+            },
+            {
+                  "name": "Grabenkirche",
+                  "text": "O biserică istorică lângă parcul orașului, cunoscută pentru altarul său baroc.",
+                  "category": "religious",
+                  "coords": [
+                        15.439751,
+                        47.081475
+                  ]
+            },
+            {
+                  "name": "Pfarrkirche Sankt Andrä",
+                  "text": "O biserică proeminentă din districtul Gries din Graz, cunoscută pentru integrarea artei moderne.",
+                  "category": "religious",
+                  "coords": [
+                        15.429007,
+                        47.069603
+                  ]
+            },
+            {
+                  "name": "Kirche Sankt Ulrichsbrunn",
+                  "text": "O biserică de pelerinaj situată idilic, cu un izvor sfânt în nordul orașului Graz.",
+                  "category": "religious",
+                  "coords": [
+                        15.429072,
+                        47.096565
+                  ]
+            },
+            {
+                  "name": "Pfarrkirche Don Bosco",
+                  "text": "O biserică parohială romano-catolică modernă în districtul Lend din Graz.",
+                  "category": "religious",
+                  "coords": [
+                        15.416474,
+                        47.056462
+                  ]
+            },
+            {
+                  "name": "Thalersee",
+                  "text": "Lacul Thaler din Graz este o destinație populară pentru plimbări și experiențe în natură.",
+                  "category": "natural",
+                  "coords": [
+                        15.366565,
+                        47.07003
+                  ]
+            },
+            {
+                  "name": "Wagner-Jauregg-Bad",
+                  "text": "Wagner-Jauregg-Bad din Graz oferă un mediu liniștit lângă apă.",
+                  "category": "natural",
+                  "coords": [
+                        15.426908,
+                        47.037179
+                  ]
+            },
+            {
+                  "name": "Bespielbarer Bach",
+                  "text": "Această zonă de joacă din Graz permite copiilor să se joace în apropierea apei și a naturii.",
+                  "category": "family",
+                  "coords": [
+                        15.458488,
+                        47.0735
+                  ]
+            },
+            {
+                  "name": "Sandkiste",
+                  "text": "Un mic loc de joacă cu groapă de nisip în Graz pentru cei mai tineri vizitatori.",
+                  "category": "family",
+                  "coords": [
+                        15.46606,
+                        47.060773
+                  ]
+            },
+            {
+                  "name": "Grete-Schurz-Platz",
+                  "text": "Locul de joacă de la Grete-Schurz-Platz din Graz oferă diversitate în mediul urban.",
+                  "category": "family",
+                  "coords": [
+                        15.407622,
+                        47.059263
+                  ]
+            },
+            {
+                  "name": "Dr.-Hans-Spitzy-Platzl",
+                  "text": "Un loc de joacă central în Graz pentru o scurtă pauză de joacă.",
+                  "category": "family",
+                  "coords": [
+                        15.43014,
+                        47.051783
+                  ]
+            },
+            {
+                  "name": "Junges Europa",
+                  "text": "Acest loc de joacă modern din Graz oferă diverse posibilități de cățărare și joacă.",
+                  "category": "family",
+                  "coords": [
+                        15.403698,
+                        47.071577
+                  ]
+            },
+            {
+                  "name": "Minigolf Milkowski",
+                  "text": "Terenul de minigolf din Graz este o destinație distractivă pentru o excursie în familie.",
+                  "category": "family",
+                  "coords": [
+                        15.454618,
+                        47.082524
+                  ]
+            },
+            {
+                  "name": "Abenteuerspielplatz Afritschgarten",
+                  "text": "Acest loc de joacă de aventură din Graz oferă copiilor multe oportunități de explorare.",
+                  "category": "family",
+                  "coords": [
+                        15.426263,
+                        47.077055
+                  ]
+            },
+            {
+                  "name": "Theodor-Körner Spielplatz",
+                  "text": "Un loc de joacă umbrit în Graz, ideal pentru familiile cu copii mici.",
+                  "category": "family",
+                  "coords": [
+                        15.425459,
+                        47.09266
+                  ]
+            },
+            {
+                  "name": "Kinderspielplatz Marienwiese",
+                  "text": "Locul de joacă pentru copii Marienwiese din Graz este situat într-un mediu verde.",
+                  "category": "family",
+                  "coords": [
+                        15.422457,
+                        47.078286
+                  ]
+            },
+            {
+                  "name": "Konsumwiese",
+                  "text": "Un loc de întâlnire popular pentru familiile cu copii în zona orașului Graz.",
+                  "category": "family",
+                  "coords": [
+                        15.411434,
+                        47.078262
+                  ]
+            },
+            {
+                  "name": "Volksschule Leopoldinum",
+                  "text": "Acest loc de joacă din Graz oferă spațiu pentru mișcare și joacă după-amiaza.",
+                  "category": "family",
+                  "coords": [
+                        15.410443,
+                        47.078925
+                  ]
+            },
+            {
+                  "name": "Motorikpark St. Peter",
+                  "text": "Parcul de motricitate din Graz promovează abilitățile copiilor prin joacă.",
+                  "category": "family",
+                  "coords": [
+                        15.464363,
+                        47.053596
+                  ]
+            },
+            {
+                  "name": "Calisthenics",
+                  "text": "Un loc de joacă din Graz cu echipamente pentru activități sportive pentru întreaga familie.",
+                  "category": "family",
+                  "coords": [
+                        15.447337,
+                        47.064277
+                  ]
+            },
+            {
+                  "name": "Spielzeile Reininghaus",
+                  "text": "Această zonă de joacă din Graz oferă echipamente moderne într-un design atractiv.",
+                  "category": "family",
+                  "coords": [
+                        15.410397,
+                        47.061903
+                  ]
+            },
+            {
+                  "name": "Augartenbad",
+                  "text": "Augartenbad din Graz oferă posibilități variate de înot și zone de plajă pentru relaxare.",
+                  "category": "family",
+                  "coords": [
+                        15.436132,
+                        47.057972
+                  ]
+            },
+            {
+                  "name": "Margaretenbad",
+                  "text": "Margaretenbad din Graz este un ștrand fermecător care invită la răcorire în zilele toride.",
+                  "category": "family",
+                  "coords": [
+                        15.443677,
+                        47.080843
+                  ]
+            },
+            {
+                  "name": "Auster Sport- und Freibad",
+                  "text": "Auster Sport- und Freibad din Graz dispune de suprafețe extinse de apă pentru sportivi și familii.",
+                  "category": "family",
+                  "coords": [
+                        15.39971,
+                        47.072254
+                  ]
+            },
+            {
+                  "name": "Stukitz-Bad",
+                  "text": "Stukitz-Bad din Graz oferă atracții acvatice variate pentru o zi reușită la piscină.",
+                  "category": "family",
+                  "coords": [
+                        15.424461,
+                        47.101962
+                  ]
+            },
+            {
+                  "name": "Lehrschwimmbecken",
+                  "text": "Piscina de învățare din Graz servește în special începătorilor pentru a învăța înotul în siguranță.",
+                  "category": "family",
+                  "coords": [
+                        15.400112,
+                        47.073154
+                  ]
+            },
+            {
+                  "name": "Streichelzoo HIB Liebenau",
+                  "text": "Grădina zoologică cu animale de mângâiat HIB Liebenau din Graz permite copiilor contactul direct cu animale prietenoase.",
+                  "category": "family",
+                  "coords": [
+                        15.45513,
+                        47.037239
+                  ]
+            },
+            {
+                  "name": "Schell Collection",
+                  "text": "Muzeu specializat în Graz pentru chei, încuietori și casete.",
+                  "category": "museum",
+                  "coords": [
+                        15.429133,
+                        47.077821
+                  ]
+            },
+            {
+                  "name": "Neue Galerie Graz",
+                  "text": "Muzeu de artă modernă și contemporană în Graz.",
+                  "category": "museum",
+                  "coords": [
+                        15.437581,
+                        47.068465
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Puchmuseum",
+                  "text": "A museum in Graz dedicated to the history of Puch vehicles.",
+                  "category": "museum",
+                  "coords": [
+                        15.43765,
+                        47.04397
+                  ]
+            },
+            {
+                  "name": "Diözesanmuseum Graz",
+                  "text": "The museum of the Graz-Seckau diocese displaying Christian art.",
+                  "category": "museum",
+                  "coords": [
+                        15.441755,
+                        47.071698
+                  ]
+            },
+            {
+                  "name": "Styrian Armoury",
+                  "text": "The world's largest historical armoury featuring a vast collection.",
+                  "category": "museum",
+                  "coords": [
+                        15.439883,
+                        47.069803
+                  ]
+            },
+            {
+                  "name": "GrazMuseum",
+                  "text": "The city museum of Graz presenting local history and culture.",
+                  "category": "museum",
+                  "coords": [
+                        15.436518,
+                        47.072656
+                  ]
+            },
+            {
+                  "name": "Montan- und Werksbahnmuseum Graz",
+                  "text": "A museum in Graz specializing in industrial and mining railways.",
+                  "category": "museum",
+                  "coords": [
+                        15.437505,
+                        47.078714
+                  ]
+            },
+            {
+                  "name": "Messe-Schlößl",
+                  "text": "A historic small castle located on the Graz exhibition grounds.",
+                  "category": "castle",
+                  "coords": [
+                        15.451066,
+                        47.059291
+                  ]
+            },
+            {
+                  "name": "Halle für Kunst Steiermark",
+                  "text": "A contemporary art museum located in the Graz city park.",
+                  "category": "museum",
+                  "coords": [
+                        15.44458,
+                        47.07174
+                  ]
+            },
+            {
+                  "name": "Volkskundemuseum",
+                  "text": "A museum of Styrian folklore and regional traditions.",
+                  "category": "museum",
+                  "coords": [
+                        15.439702,
+                        47.075029
+                  ]
+            },
+            {
+                  "name": "Modern Art Museum Graz",
+                  "text": "An architecturally striking modern art museum, also known as the 'Friendly Alien'.",
+                  "category": "museum",
+                  "coords": [
+                        15.434015,
+                        47.071298
+                  ]
+            },
+            {
+                  "name": "Kindermuseum FRida & freD",
+                  "text": "An interactive experiential museum for children in Graz.",
+                  "category": "museum",
+                  "coords": [
+                        15.436239,
+                        47.063162
+                  ]
+            },
+            {
+                  "name": "Museum der Wahrnehmung",
+                  "text": "A museum in Graz focused on human perception.",
+                  "category": "museum",
+                  "coords": [
+                        15.437541,
+                        47.062613
+                  ]
+            },
+            {
+                  "name": "Mühlschlössl",
+                  "text": "A historic castle in Graz with Baroque elements.",
+                  "category": "castle",
+                  "coords": [
+                        15.425893,
+                        47.074071
+                  ]
+            },
+            {
+                  "name": "Meerscheinschlössl",
+                  "text": "A Baroque castle currently used by the University of Graz.",
+                  "category": "castle",
+                  "coords": [
+                        15.447013,
+                        47.07938
+                  ]
+            },
+            {
+                  "name": "Tupay-Schlössl",
+                  "text": "A former late-Baroque noble castle in the Leonhard district of Graz.",
+                  "category": "castle",
+                  "coords": [
+                        15.445429,
+                        47.052136
+                  ]
+            },
+            {
+                  "name": "Hallerschloss",
+                  "text": "A protected historic castle building in Graz.",
+                  "category": "castle",
+                  "coords": [
+                        15.464259,
+                        47.070574
+                  ]
+            },
+            {
+                  "name": "Metahof-Schlössl",
+                  "text": "A small Baroque castle set within a park in Graz.",
+                  "category": "castle",
+                  "coords": [
+                        15.421252,
+                        47.072984
+                  ]
+            },
+            {
+                  "name": "Schloss Neu-Grabenhofen",
+                  "text": "A castle located on the northern outskirts of Graz.",
+                  "category": "castle",
+                  "coords": [
+                        15.437473,
+                        47.095175
+                  ]
+            },
+            {
+                  "name": "Minoritenschlössl",
+                  "text": "A historic castle building formerly belonging to the Minorite order.",
+                  "category": "castle",
+                  "coords": [
+                        15.446838,
+                        47.090824
+                  ]
+            },
+            {
+                  "name": "Rosenhof",
+                  "text": "A Graz castle building with a long history.",
+                  "category": "castle",
+                  "coords": [
+                        15.441602,
+                        47.089802
+                  ]
+            },
+            {
+                  "name": "Hubertus-Schlössl",
+                  "text": "A small hunting lodge located in the Eggenberg district of Graz.",
+                  "category": "castle",
+                  "coords": [
+                        15.447529,
+                        47.088756
+                  ]
+            },
+            {
+                  "name": "Mausoleum Prokesch-Osten",
+                  "text": "A significant funerary monument in the St. Leonhard cemetery.",
+                  "category": "historical",
+                  "coords": [
+                        15.46747,
+                        47.077377
+                  ]
+            },
+            {
+                  "name": "Burgtor",
+                  "text": "One of the surviving historic city gates of Graz.",
+                  "category": "fortress",
+                  "coords": [
+                        15.443051,
+                        47.072161
+                  ]
+            },
+            {
+                  "name": "Oper",
+                  "text": "The second largest opera house in Austria with impressive architecture.",
+                  "category": "cultural",
+                  "coords": [
+                        15.445683,
+                        47.069004
+                  ]
+            },
+            {
+                  "name": "Schauspielhaus",
+                  "text": "A significant theatre building for dramatic arts in Graz.",
+                  "category": "cultural",
+                  "coords": [
+                        15.441641,
+                        47.072705
+                  ]
+            },
+            {
+                  "name": "Orpheum",
+                  "text": "A traditional event venue for concerts and cabaret.",
+                  "category": "cultural",
+                  "coords": [
+                        15.429949,
+                        47.072328
+                  ]
+            },
+            {
+                  "name": "Kasematten",
+                  "text": "An open-air stage within the historic walls on the Schloßberg hill.",
+                  "category": "cultural",
+                  "coords": [
+                        15.43741,
+                        47.076321
+                  ]
+            },
+            {
+                  "name": "Stefaniensaal",
+                  "text": "A magnificent concert hall in the heart of Graz.",
+                  "category": "cultural",
+                  "coords": [
+                        15.437803,
+                        47.069801
+                  ]
+            },
+            {
+                  "name": "Helmut-List-Halle",
+                  "text": "A multi-functional event hall for arts and culture.",
+                  "category": "cultural",
+                  "coords": [
+                        15.411948,
+                        47.079682
+                  ]
+            },
+            {
+                  "name": "Forum Stadtpark",
+                  "text": "Located within the city park, the Forum Stadtpark in Graz serves as a vibrant center for contemporary art and culture. This cultural institution offers visitors a space to engage with current artistic expressions.",
+                  "category": "cultural",
+                  "coords": [
+                        15.443571,
+                        47.074651
+                  ]
+            },
+            {
+                  "name": "Tennenmälzerei",
+                  "text": "A historic industrial building now used for cultural purposes.",
+                  "category": "cultural",
+                  "coords": [
+                        15.411465,
+                        47.064232
+                  ]
+            },
+            {
+                  "name": "Altkatholische Christophoruskirche",
+                  "text": "The church of the Old Catholic community in Graz.",
+                  "category": "religious",
+                  "coords": [
+                        15.430862,
+                        47.069594
+                  ]
+            },
+            {
+                  "name": "Kalvarienberg",
+                  "text": "A religious complex featuring Stations of the Cross and chapels.",
+                  "category": "religious",
+                  "coords": [
+                        15.417565,
+                        47.093152
+                  ]
+            },
+            {
+                  "name": "Leechkirche",
+                  "text": "One of the oldest churches in Graz with Gothic elements.",
+                  "category": "religious",
+                  "coords": [
+                        15.446743,
+                        47.075571
+                  ]
+            },
+            {
+                  "name": "Stadtpfarrkirche zum Heiligen Blut",
+                  "text": "The Baroque main parish church of Graz featuring significant artworks.",
+                  "category": "religious",
+                  "coords": [
+                        15.441151,
+                        47.069413
+                  ]
+            },
+            {
+                  "name": "Sankt-Josef-Kirche",
+                  "text": "A Neo-Gothic church in the Jakomini district of Graz.",
+                  "category": "religious",
+                  "coords": [
+                        15.441031,
+                        47.058849
+                  ]
+            },
+            {
+                  "name": "Synagoge",
+                  "text": "The religious center of the Jewish community in Graz.",
+                  "category": "religious",
+                  "coords": [
+                        15.433563,
+                        47.064138
+                  ]
+            },
+            {
+                  "name": "Catholic Church",
+                  "text": "A modern Catholic church building in the west of Graz.",
+                  "category": "religious",
+                  "coords": [
+                        15.465785,
+                        47.082636
+                  ]
+            },
+            {
+                  "name": "Herz-Jesu-Kirche",
+                  "text": "An imposing Neo-Gothic church featuring the tallest church tower in Graz.",
+                  "category": "religious",
+                  "coords": [
+                        15.455737,
+                        47.069626
+                  ]
+            },
+            {
+                  "name": "Sankt Johannes",
+                  "text": "A modern Catholic parish in the Straßgang district of Graz.",
+                  "category": "religious",
+                  "coords": [
+                        15.427986,
+                        47.049339
+                  ]
+            },
+            {
+                  "name": "Münzgrabenkirche",
+                  "text": "A distinctive church in Graz rebuilt after World War II.",
+                  "category": "religious",
+                  "coords": [
+                        15.4523,
+                        47.061317
+                  ]
+            },
+            {
+                  "name": "Kirche Hl. Kyrill und Method",
+                  "text": "The Serbian Orthodox church in Graz.",
+                  "category": "religious",
+                  "coords": [
+                        15.427313,
+                        47.045289
+                  ]
+            },
+            {
+                  "name": "Barmherzigenkirche Maria Verkündigung",
+                  "text": "A Baroque monastery church of the Hospitaller Order.",
+                  "category": "religious",
+                  "coords": [
+                        15.432035,
+                        47.071442
+                  ]
+            },
+            {
+                  "name": "Pfarrkirche Sankt Leonhard",
+                  "text": "A Gothic hall church with a significant cemetery.",
+                  "category": "religious",
+                  "coords": [
+                        15.465103,
+                        47.078581
+                  ]
+            },
+            {
+                  "name": "Franziskanerkirche",
+                  "text": "A monastery and church of the Franciscan order in the Graz old town.",
+                  "category": "religious",
+                  "coords": [
+                        15.436444,
+                        47.070693
+                  ]
+            },
+            {
+                  "name": "Stiegenkirche",
+                  "text": "A historic staircase church in the city center of Graz.",
+                  "category": "religious",
+                  "coords": [
+                        15.438745,
+                        47.072602
+                  ]
+            },
+            {
+                  "name": "Mariahilfer Kirche",
+                  "text": "A significant Baroque pilgrimage church in Graz.",
+                  "category": "religious",
+                  "coords": [
+                        15.433031,
+                        47.072797
+                  ]
+            },
+            {
+                  "name": "Sankt Vinzenz",
+                  "text": "A Roman Catholic parish church located in the Eggenberg district of Graz.",
+                  "category": "religious",
+                  "coords": [
+                        15.405101,
+                        47.074555
+                  ]
+            },
+            {
+                  "name": "Christus der Auferstandene",
+                  "text": "A modern Roman Catholic church located in the Straßgang district of Graz.",
+                  "category": "religious",
+                  "coords": [
+                        15.450884,
+                        47.046613
+                  ]
+            },
+            {
+                  "name": "Grabenkirche",
+                  "text": "A historic church near the city park, known for its Baroque altar.",
+                  "category": "religious",
+                  "coords": [
+                        15.439751,
+                        47.081475
+                  ]
+            },
+            {
+                  "name": "Pfarrkirche Sankt Andrä",
+                  "text": "A prominent church in the Gries district of Graz, known for its integration of modern art.",
+                  "category": "religious",
+                  "coords": [
+                        15.429007,
+                        47.069603
+                  ]
+            },
+            {
+                  "name": "Kirche Sankt Ulrichsbrunn",
+                  "text": "An idyllically situated pilgrimage church with a holy spring in the north of Graz.",
+                  "category": "religious",
+                  "coords": [
+                        15.429072,
+                        47.096565
+                  ]
+            },
+            {
+                  "name": "Pfarrkirche Don Bosco",
+                  "text": "A modern Roman Catholic parish church in the Lend district of Graz.",
+                  "category": "religious",
+                  "coords": [
+                        15.416474,
+                        47.056462
+                  ]
+            },
+            {
+                  "name": "Thalersee",
+                  "text": "The Thalersee in Graz is a popular destination for walks and nature experiences.",
+                  "category": "natural",
+                  "coords": [
+                        15.366565,
+                        47.07003
+                  ]
+            },
+            {
+                  "name": "Wagner-Jauregg-Bad",
+                  "text": "The Wagner-Jauregg-Bad in Graz offers a quiet environment by the water.",
+                  "category": "natural",
+                  "coords": [
+                        15.426908,
+                        47.037179
+                  ]
+            },
+            {
+                  "name": "Bespielbarer Bach",
+                  "text": "This play area in Graz allows children to play close to nature by the water.",
+                  "category": "family",
+                  "coords": [
+                        15.458488,
+                        47.0735
+                  ]
+            },
+            {
+                  "name": "Sandkiste",
+                  "text": "A small playground with a sandbox in Graz for the youngest visitors.",
+                  "category": "family",
+                  "coords": [
+                        15.46606,
+                        47.060773
+                  ]
+            },
+            {
+                  "name": "Grete-Schurz-Platz",
+                  "text": "The playground at Grete-Schurz-Platz in Graz offers variety in an urban setting.",
+                  "category": "family",
+                  "coords": [
+                        15.407622,
+                        47.059263
+                  ]
+            },
+            {
+                  "name": "Dr.-Hans-Spitzy-Platzl",
+                  "text": "A centrally located playground in Graz for a short play break.",
+                  "category": "family",
+                  "coords": [
+                        15.43014,
+                        47.051783
+                  ]
+            },
+            {
+                  "name": "Junges Europa",
+                  "text": "This modern playground in Graz offers various climbing and play options.",
+                  "category": "family",
+                  "coords": [
+                        15.403698,
+                        47.071577
+                  ]
+            },
+            {
+                  "name": "Minigolf Milkowski",
+                  "text": "The miniature golf course in Graz is an entertaining destination for a family outing.",
+                  "category": "family",
+                  "coords": [
+                        15.454618,
+                        47.082524
+                  ]
+            },
+            {
+                  "name": "Abenteuerspielplatz Afritschgarten",
+                  "text": "This adventure playground in Graz offers children many opportunities for discovery.",
+                  "category": "family",
+                  "coords": [
+                        15.426263,
+                        47.077055
+                  ]
+            },
+            {
+                  "name": "Theodor-Körner Spielplatz",
+                  "text": "A shaded playground in Graz, ideal for families with young children.",
+                  "category": "family",
+                  "coords": [
+                        15.425459,
+                        47.09266
+                  ]
+            },
+            {
+                  "name": "Kinderspielplatz Marienwiese",
+                  "text": "The Marienwiese playground in Graz is situated in a green environment.",
+                  "category": "family",
+                  "coords": [
+                        15.422457,
+                        47.078286
+                  ]
+            },
+            {
+                  "name": "Konsumwiese",
+                  "text": "A popular meeting spot for families with children in the Graz urban area.",
+                  "category": "family",
+                  "coords": [
+                        15.411434,
+                        47.078262
+                  ]
+            },
+            {
+                  "name": "Volksschule Leopoldinum",
+                  "text": "This playground in Graz offers space for movement and play in the afternoons.",
+                  "category": "family",
+                  "coords": [
+                        15.410443,
+                        47.078925
+                  ]
+            },
+            {
+                  "name": "Motorikpark St. Peter",
+                  "text": "The motor skills park in Graz promotes children's dexterity through play.",
+                  "category": "family",
+                  "coords": [
+                        15.464363,
+                        47.053596
+                  ]
+            },
+            {
+                  "name": "Calisthenics",
+                  "text": "A playground in Graz with equipment for athletic activities for the whole family.",
+                  "category": "family",
+                  "coords": [
+                        15.447337,
+                        47.064277
+                  ]
+            },
+            {
+                  "name": "Spielzeile Reininghaus",
+                  "text": "This play area in Graz offers modern play equipment in an appealing design.",
+                  "category": "family",
+                  "coords": [
+                        15.410397,
+                        47.061903
+                  ]
+            },
+            {
+                  "name": "Augartenbad",
+                  "text": "The Augartenbad in Graz offers versatile swimming opportunities and sunbathing areas for relaxation.",
+                  "category": "family",
+                  "coords": [
+                        15.436132,
+                        47.057972
+                  ]
+            },
+            {
+                  "name": "Margaretenbad",
+                  "text": "The Margaretenbad in Graz is a charming outdoor pool that invites you to cool off on hot days.",
+                  "category": "family",
+                  "coords": [
+                        15.443677,
+                        47.080843
+                  ]
+            },
+            {
+                  "name": "Auster Sport- und Freibad",
+                  "text": "The Auster Sport- und Freibad in Graz features extensive water areas for athletes and families.",
+                  "category": "family",
+                  "coords": [
+                        15.39971,
+                        47.072254
+                  ]
+            },
+            {
+                  "name": "Stukitz-Bad",
+                  "text": "The Stukitz-Bad in Graz offers varied water attractions for a successful day at the pool.",
+                  "category": "family",
+                  "coords": [
+                        15.424461,
+                        47.101962
+                  ]
+            },
+            {
+                  "name": "Lehrschwimmbecken",
+                  "text": "The teaching pool in Graz primarily serves beginners for learning to swim safely.",
+                  "category": "family",
+                  "coords": [
+                        15.400112,
+                        47.073154
+                  ]
+            },
+            {
+                  "name": "Streichelzoo HIB Liebenau",
+                  "text": "The petting zoo HIB Liebenau in Graz allows children to have direct contact with friendly animals.",
+                  "category": "family",
+                  "coords": [
+                        15.45513,
+                        47.037239
+                  ]
+            },
+            {
+                  "name": "Schell Collection",
+                  "text": "Specialized museum in Graz for keys, locks, and boxes.",
+                  "category": "museum",
+                  "coords": [
+                        15.429133,
+                        47.077821
+                  ]
+            },
+            {
+                  "name": "Neue Galerie Graz",
+                  "text": "Museum for modern and contemporary art in Graz.",
+                  "category": "museum",
+                  "coords": [
+                        15.437581,
+                        47.068465
+                  ]
+            }
+      ]
+}, type: "city", parent: "AT-6", coords: [15.4395, 47.0707],
     name: { de: "Graz", hu: "Graz", ro: "Graz", en: "Graz" },
     image: "/geo-images/austria/graz.webp",
     description: {
@@ -1475,6 +4220,15 @@ export const austriaCities: POI[] = [
                         14.271453,
                         48.280684
                   ]
+            },
+            {
+                  "name": "Tower 15 (Luitgarde)",
+                  "text": "Ein weiterer Turm der historischen Maximilianischen Befestigungsanlage von Linz.",
+                  "category": "fortress",
+                  "coords": [
+                        14.24873,
+                        48.314446
+                  ]
             }
       ],
       "hu": [
@@ -2214,6 +4968,15 @@ export const austriaCities: POI[] = [
                   "coords": [
                         14.271453,
                         48.280684
+                  ]
+            },
+            {
+                  "name": "Tower 15 (Luitgarde)",
+                  "text": "A linzi történelmi Miksa-féle erődrendszer egy újabb tornya.",
+                  "category": "fortress",
+                  "coords": [
+                        14.24873,
+                        48.314446
                   ]
             }
       ],
@@ -2955,6 +5718,15 @@ export const austriaCities: POI[] = [
                         14.271453,
                         48.280684
                   ]
+            },
+            {
+                  "name": "Tower 15 (Luitgarde)",
+                  "text": "Un alt turn al fortificației istorice maximiliene din Linz.",
+                  "category": "fortress",
+                  "coords": [
+                        14.24873,
+                        48.314446
+                  ]
             }
       ],
       "en": [
@@ -3694,6 +6466,15 @@ export const austriaCities: POI[] = [
                   "coords": [
                         14.271453,
                         48.280684
+                  ]
+            },
+            {
+                  "name": "Tower 15 (Luitgarde)",
+                  "text": "Another tower of the historical Maximilianic fortifications of Linz.",
+                  "category": "fortress",
+                  "coords": [
+                        14.24873,
+                        48.314446
                   ]
             }
       ]
@@ -6472,7 +9253,1852 @@ export const austriaCities: POI[] = [
     },
   },
   {
-    id: "AT-Klagenfurt", "sights": {"de": [{"name": "Museum Moderner Kunst Kärnten", "text": "Ein Museum in der Klagenfurter Burg, das zeitgenössische Kunst und Kärntner Klassiker präsentiert.", "category": "museum", "coords": [14.310132, 46.62417]}, {"name": "Eboardmuseum", "text": "Ein einzigartiges Museum in Klagenfurt, das sich elektronischen Tasteninstrumenten widmet.", "category": "museum", "coords": [14.304934, 46.616492]}, {"name": "Diözesanmuseum", "text": "Ein Museum in Klagenfurt, das religiöse Kunst und kirchengeschichtliche Exponate zeigt.", "category": "museum", "coords": [14.309381, 46.622353]}, {"name": "Robert Musil Museum", "text": "Das Geburtshaus des Schriftstellers Robert Musil dient heute als Literaturmuseum und Forschungsstätte.", "category": "museum", "coords": [14.313034, 46.616579]}, {"name": "Stadttheater", "text": "Das bedeutendste Theaterhaus Kärntens mit einem vielfältigen Programm an Opern und Schauspielen.", "category": "cultural", "coords": [14.305478, 46.627075]}, {"name": "Jugendstiltheater Klagenfurt", "text": "Ein historisches Theatergebäude im Jugendstil, das für kulturelle Veranstaltungen genutzt wird.", "category": "cultural", "coords": [14.302498, 46.627068]}, {"name": "Thomas-Koschat-Museum", "text": "Das Thomas-Koschat-Museum in Klagenfurt widmet sich dem Leben und dem musikalischen Werk des bekannten Kärntner Komponisten. Besucher können hier tiefere Einblicke in sein Schaffen gewinnen.", "category": "museum", "coords": [14.31049, 46.620318]}, {"name": "Kammerlichtspiele", "text": "Eine traditionsreiche Bühne in Klagenfurt, die heute als Jazzclub und Theater fungiert.", "category": "cultural", "coords": [14.312617, 46.62361]}, {"name": "VENTIL", "text": "Ein freies Theater und Kulturzentrum in Klagenfurt für zeitgenössische Bühnenkunst.", "category": "cultural", "coords": [14.311764, 46.624686]}, {"name": "Mali Schachmuseum", "text": "Ein privates Museum in Klagenfurt, das eine umfangreiche Sammlung zum Thema Schach präsentiert.", "category": "museum", "coords": [14.290218, 46.6065]}, {"name": "Figuren-Museum für Kaffeebeigaben", "text": "Ein ungewöhnliches Museum, das Sammelfiguren zeigt, die früher Kaffeepackungen beilagen.", "category": "museum", "coords": [14.306637, 46.622086]}, {"name": "wissens.wert.welt", "text": "Ein interaktives Mitmachmuseum in Klagenfurt, das Wissenschaft für Kinder erlebbar macht.", "category": "museum", "coords": [14.32905, 46.611416]}, {"name": "Kreuzbergl", "text": "Der Hausberg von Klagenfurt ist ein beliebtes Naherholungsgebiet mit Waldwegen und Teichen.", "category": "natural", "coords": [14.276646, 46.631716]}, {"name": "Wappensaal", "text": "Ein prächtiger Saal im Klagenfurter Landhaus, geschmückt mit den Wappen der Kärntner Landstände.", "category": "landmark", "coords": [14.305739, 46.625053]}, {"name": "Spitalsberg", "text": "Eine bewaldete Anhöhe in Klagenfurt, die als ruhiges Wandergebiet geschätzt wird.", "category": "natural", "coords": [14.307858, 46.644088]}, {"name": "Schillerpark", "text": "Eine gepflegte Parkanlage in Klagenfurt, die zum Spazierengehen und Verweilen einlädt.", "category": "park", "coords": [14.303219, 46.625416]}, {"name": "Herbertstöckl", "text": "Ein historisches Herrenhaus in Klagenfurt mit charakteristischer Architektur.", "category": "historical", "coords": [14.302183, 46.628338]}, {"name": "Botanischer Garten", "text": "Ein vielfältiger Garten am Fuße des Kreuzbergls, der die heimische und exotische Pflanzenwelt zeigt.", "category": "park", "coords": [14.293014, 46.629668]}, {"name": "St.Egyd Panorama View", "text": "Ein Aussichtspunkt in Klagenfurt, der einen weiten Blick über die Stadt bietet.", "category": "natural", "coords": [14.307223, 46.626224]}, {"name": "Karawankenblick", "text": "Ein Aussichtspunkt, der für seinen freien Blick auf die Gebirgskette der Karawanken bekannt ist.", "category": "natural", "coords": [14.288248, 46.627867]}, {"name": "the artbooster", "text": "Eine Kunstgalerie in Klagenfurt, die zeitgenössische Werke präsentiert.", "category": "museum", "coords": [14.307873, 46.624688]}, {"name": "galerie 31", "text": "Eine kleine Kunstgalerie in Klagenfurt mit Fokus auf regionale Künstler.", "category": "museum", "coords": [14.310977, 46.62268]}, {"name": "BV-Galerie", "text": "Die Galerie der Berufsvereinigung Bildender Künstler Österreichs in Klagenfurt.", "category": "museum", "coords": [14.30147, 46.631208]}, {"name": "Galerie Kunstwerk", "text": "Eine Galerie in Klagenfurt für zeitgenössische Kunst und Ausstellungen.", "category": "museum", "coords": [14.300228, 46.627442]}, {"name": "Raum für Fotografie", "text": "Eine Galerie in Klagenfurt, die sich ausschließlich der Fotokunst widmet.", "category": "museum", "coords": [14.306786, 46.619697]}, {"name": "Jugendzentrum kwadrat", "text": "Ein kulturelles Zentrum für Jugendliche in Klagenfurt mit Fokus auf Musik und Kunst.", "category": "cultural", "coords": [14.303331, 46.616682]}, {"name": "Favela", "text": "Ein Ausstellungsraum in Klagenfurt für junge und alternative Kunst.", "category": "museum", "coords": [14.286403, 46.62027]}, {"name": "ArtGalerie Branko", "text": "Eine Galerie in Klagenfurt, die moderne Kunstwerke präsentiert.", "category": "museum", "coords": [14.309709, 46.625904]}, {"name": "Christkönigskirche", "text": "Eine römisch-katholische Kirche in Klagenfurt mit auffälliger moderner Architektur.", "category": "religious", "coords": [14.295697, 46.623245]}, {"name": "Heiligengeistkirche", "text": "Eine historische Kirche am Heiligengeistplatz im Herzen von Klagenfurt.", "category": "religious", "coords": [14.304751, 46.624782]}, {"name": "St. Martin", "text": "Eine römisch-katholische Pfarrkirche im Klagenfurter Stadtteil St. Martin.", "category": "religious", "coords": [14.279731, 46.624204]}, {"name": "Don Bosco", "text": "Eine moderne Kirche in Klagenfurt, die der Seelsorge und Gemeinschaft gewidmet ist.", "category": "religious", "coords": [14.298692, 46.610726]}, {"name": "Filialkirche Sankt Primus", "text": "Eine kleinere Kirche in Klagenfurt, die dem heiligen Primus geweiht ist.", "category": "religious", "coords": [14.276493, 46.638537]}, {"name": "Neuapostolische Kirche Klagenfurt", "text": "Das Gemeindezentrum der Neuapostolischen Kirche in Klagenfurt.", "category": "religious", "coords": [14.311766, 46.641207]}, {"name": "Klagenfurt-St. Hemma", "text": "Eine moderne katholische Pfarrkirche in Klagenfurt, benannt nach der heiligen Hemma.", "category": "religious", "coords": [14.296736, 46.634534]}, {"name": "St. Lorenzen", "text": "Eine historische Kirche im ländlich geprägten Umfeld von Klagenfurt.", "category": "religious", "coords": [14.315839, 46.626015]}, {"name": "Johanneskirche", "text": "Eine evangelische Kirche in Klagenfurt mit schlichter und einladender Gestaltung.", "category": "religious", "coords": [14.299596, 46.623668]}, {"name": "Pfarrkirche St. Josef", "text": "Eine römisch-katholische Pfarrkirche, die den Mittelpunkt des Stadtteils Siebenhügel bildet.", "category": "religious", "coords": [14.283565, 46.612462]}, {"name": "Christuskirche", "text": "Ein Kirchengebäude in Klagenfurt, das als Ort des Gebets und der Besinnung dient.", "category": "religious", "coords": [14.327702, 46.632603]}, {"name": "St. Theresia", "text": "Eine katholische Kirche in Klagenfurt.", "category": "religious", "coords": [14.324201, 46.634642]}, {"name": "Pfarrkirche St. Peter", "text": "Eine dem heiligen Peter geweihte Pfarrkirche in Klagenfurt.", "category": "religious", "coords": [14.328167, 46.624467]}, {"name": "Pfarrkirche St. Modestus", "text": "Eine römisch-katholische Pfarrkirche in Klagenfurt.", "category": "religious", "coords": [14.332908, 46.619623]}, {"name": "Pfarrkirche Annabichl", "text": "Die Pfarrkirche im Stadtteil Annabichl in Klagenfurt.", "category": "religious", "coords": [14.313437, 46.640378]}, {"name": "Kreuzberglkirche", "text": "Eine markante Kalvarienbergkirche auf dem Kreuzbergl in Klagenfurt.", "category": "religious", "coords": [14.29195, 46.628725]}, {"name": "St. Ruprecht", "text": "Eine dem heiligen Ruprecht geweihte Kirche in Klagenfurt.", "category": "religious", "coords": [14.313333, 46.61214]}, {"name": "Strandbad Klagenfurt", "text": "Das Strandbad Klagenfurt am Wörthersee ist eines der größten Binnenseebäder Europas mit weitläufigen Stegen.", "category": "family", "coords": [14.255109, 46.618699]}, {"name": "Minimundus", "text": "Minimundus in Klagenfurt zeigt berühmte Bauwerke der Welt im Miniaturformat und begeistert alle Altersgruppen.", "category": "family", "coords": [14.264326, 46.619804]}, {"name": "Reptilienzoo Happ", "text": "Der Reptilienzoo Happ in Klagenfurt präsentiert eine Vielzahl von Schlangen, Echsen und anderen Reptilien.", "category": "family", "coords": [14.265566, 46.619839]}], "hu": [{"name": "Museum Moderner Kunst Kärnten", "text": "Klagenfurt várában található múzeum, amely kortárs művészetet és karintiai klasszikusokat mutat be.", "category": "museum", "coords": [14.310132, 46.62417]}, {"name": "Eboardmuseum", "text": "Egyedülálló klagenfurti múzeum, amelyet elektronikus billentyűs hangszereknek szenteltek.", "category": "museum", "coords": [14.304934, 46.616492]}, {"name": "Diözesanmuseum", "text": "Klagenfurti múzeum, amely vallási művészetet és egyháztörténeti kiállítási tárgyakat mutat be.", "category": "museum", "coords": [14.309381, 46.622353]}, {"name": "Robert Musil Museum", "text": "Robert Musil író szülőháza ma irodalmi múzeumként és kutatóhelyként szolgál.", "category": "museum", "coords": [14.313034, 46.616579]}, {"name": "Stadttheater", "text": "Karintia legjelentősebb színháza, operák és színdarabok változatos programjával.", "category": "cultural", "coords": [14.305478, 46.627075]}, {"name": "Jugendstiltheater Klagenfurt", "text": "Történelmi szecessziós színházépület, amelyet kulturális eseményekre használnak.", "category": "cultural", "coords": [14.302498, 46.627068]}, {"name": "Thomas-Koschat-Museum", "text": "A klagenfurti Thomas-Koschat-Museum a híres karintiai zeneszerző életének és munkásságának állít emléket. A múzeum látogatói mélyebb bepillantást nyerhetnek zenei örökségébe.", "category": "museum", "coords": [14.31049, 46.620318]}, {"name": "Kammerlichtspiele", "text": "Gazdag hagyományokkal rendelkező színpad Klagenfurtban, amely ma jazzklubként és színházként működik.", "category": "cultural", "coords": [14.312617, 46.62361]}, {"name": "VENTIL", "text": "Független színház és kulturális központ Klagenfurtban a kortárs színművészet számára.", "category": "cultural", "coords": [14.311764, 46.624686]}, {"name": "Mali Schachmuseum", "text": "Klagenfurti magánmúzeum, amely kiterjedt gyűjteményt mutat be a sakk témakörében.", "category": "museum", "coords": [14.290218, 46.6065]}, {"name": "Figuren-Museum für Kaffeebeigaben", "text": "Szokatlan múzeum, amely a korábban kávécsomagokhoz mellékelt gyűjthető figurákat mutatja be.", "category": "museum", "coords": [14.306637, 46.622086]}, {"name": "wissens.wert.welt", "text": "Interaktív klagenfurti múzeum, amely a tudományt élményszerűvé teszi gyerekek számára.", "category": "museum", "coords": [14.32905, 46.611416]}, {"name": "Kreuzbergl", "text": "Klagenfurt házi hegye népszerű kirándulóhely erdei utakkal és tavakkal.", "category": "natural", "coords": [14.276646, 46.631716]}, {"name": "Wappensaal", "text": "A klagenfurti Landhaus pompás terme, amelyet a karintiai rendek címerei díszítenek.", "category": "landmark", "coords": [14.305739, 46.625053]}, {"name": "Spitalsberg", "text": "Erdős domb Klagenfurtban, amelyet csendes túraútvonalként kedvelnek.", "category": "natural", "coords": [14.307858, 46.644088]}, {"name": "Schillerpark", "text": "Gondozott park Klagenfurtban, amely sétára és kikapcsolódásra hív.", "category": "park", "coords": [14.303219, 46.625416]}, {"name": "Herbertstöckl", "text": "Történelmi udvarház Klagenfurtban, jellegzetes építészeti stílussal.", "category": "historical", "coords": [14.302183, 46.628338]}, {"name": "Botanischer Garten", "text": "Változatos kert a Kreuzbergl lábánál, amely a hazai és az egzotikus növényvilágot mutatja be.", "category": "park", "coords": [14.293014, 46.629668]}, {"name": "St.Egyd Panorama View", "text": "Kilátópont Klagenfurtban, ahonnan pazar kilátás nyílik a városra.", "category": "natural", "coords": [14.307223, 46.626224]}, {"name": "Karawankenblick", "text": "Kilátópont, amely a Karavankák hegyláncára nyíló zavartalan kilátásáról ismert.", "category": "natural", "coords": [14.288248, 46.627867]}, {"name": "the artbooster", "text": "Kortárs műveket bemutató művészeti galéria Klagenfurtban.", "category": "museum", "coords": [14.307873, 46.624688]}, {"name": "galerie 31", "text": "Kis művészeti galéria Klagenfurtban, regionális művészekre fókuszálva.", "category": "museum", "coords": [14.310977, 46.62268]}, {"name": "BV-Galerie", "text": "Az osztrák képzőművészek szakmai szövetségének galériája Klagenfurtban.", "category": "museum", "coords": [14.30147, 46.631208]}, {"name": "Galerie Kunstwerk", "text": "Kortárs művészeti galéria és kiállítóhely Klagenfurtban.", "category": "museum", "coords": [14.300228, 46.627442]}, {"name": "Raum für Fotografie", "text": "Klagenfurti galéria, amelyet kizárólag a fotóművészetnek szenteltek.", "category": "museum", "coords": [14.306786, 46.619697]}, {"name": "Jugendzentrum kwadrat", "text": "Kulturális központ fiataloknak Klagenfurtban, a zenére és a művészetre összpontosítva.", "category": "cultural", "coords": [14.303331, 46.616682]}, {"name": "Favela", "text": "Kiállítóhely Klagenfurtban fiatal és alternatív művészet számára.", "category": "museum", "coords": [14.286403, 46.62027]}, {"name": "ArtGalerie Branko", "text": "Modern műalkotásokat bemutató galéria Klagenfurtban.", "category": "museum", "coords": [14.309709, 46.625904]}, {"name": "Christkönigskirche", "text": "Római katolikus templom Klagenfurtban, feltűnő modern építészettel.", "category": "religious", "coords": [14.295697, 46.623245]}, {"name": "Heiligengeistkirche", "text": "Történelmi templom a Heiligengeistplatzon, Klagenfurt szívében.", "category": "religious", "coords": [14.304751, 46.624782]}, {"name": "St. Martin", "text": "Római katolikus plébániatemplom Klagenfurt Szent Márton városrészében.", "category": "religious", "coords": [14.279731, 46.624204]}, {"name": "Don Bosco", "text": "Modern templom Klagenfurtban, amelyet a lelkigondozásnak és a közösségnek szenteltek.", "category": "religious", "coords": [14.298692, 46.610726]}, {"name": "Filialkirche Sankt Primus", "text": "Kisebb templom Klagenfurtban, amelyet Szent Primusz tiszteletére szenteltek.", "category": "religious", "coords": [14.276493, 46.638537]}, {"name": "Neuapostolische Kirche Klagenfurt", "text": "Az Új Apostoli Egyház gyülekezeti központja Klagenfurtban.", "category": "religious", "coords": [14.311766, 46.641207]}, {"name": "Klagenfurt-St. Hemma", "text": "Modern katolikus plébániatemplom Klagenfurtban, Szent Hemmáról elnevezve.", "category": "religious", "coords": [14.296736, 46.634534]}, {"name": "St. Lorenzen", "text": "Történelmi templom Klagenfurt vidékies környezetében.", "category": "religious", "coords": [14.315839, 46.626015]}, {"name": "Johanneskirche", "text": "Egyszerű és hívogató kialakítású evangélikus templom Klagenfurtban.", "category": "religious", "coords": [14.299596, 46.623668]}, {"name": "Pfarrkirche St. Josef", "text": "Római katolikus plébániatemplom, amely a Siebenhügel városrész központját alkotja.", "category": "religious", "coords": [14.283565, 46.612462]}, {"name": "Christuskirche", "text": "Templomépület Klagenfurtban, amely az imádság és az elmélkedés helyszínéül szolgál.", "category": "religious", "coords": [14.327702, 46.632603]}, {"name": "St. Theresia", "text": "Egy katolikus templom Klagenfurtban.", "category": "religious", "coords": [14.324201, 46.634642]}, {"name": "Pfarrkirche St. Peter", "text": "Szent Péternek szentelt plébániatemplom Klagenfurtban.", "category": "religious", "coords": [14.328167, 46.624467]}, {"name": "Pfarrkirche St. Modestus", "text": "Római katolikus plébániatemplom Klagenfurtban.", "category": "religious", "coords": [14.332908, 46.619623]}, {"name": "Pfarrkirche Annabichl", "text": "Klagenfurt Annabichl negyedének plébániatemploma.", "category": "religious", "coords": [14.313437, 46.640378]}, {"name": "Kreuzberglkirche", "text": "Jellegzetes kálvária-templom a klagenfurti Kreuzbergl-dombon.", "category": "religious", "coords": [14.29195, 46.628725]}, {"name": "St. Ruprecht", "text": "Szent Ruprechtnek szentelt templom Klagenfurtban.", "category": "religious", "coords": [14.313333, 46.61214]}, {"name": "Strandbad Klagenfurt", "text": "A klagenfurti strand a Wörthi-tónál Európa egyik legnagyobb tavi fürdője tágas stégekkel.", "category": "family", "coords": [14.255109, 46.618699]}, {"name": "Minimundus", "text": "A klagenfurti Minimundus a világ híres épületeit mutatja be miniatűr formában, minden korosztályt lenyűgözve.", "category": "family", "coords": [14.264326, 46.619804]}, {"name": "Reptilienzoo Happ", "text": "A klagenfurti Reptilienzoo Happ kígyók, gyíkok és más hüllők sokaságát mutatja be.", "category": "family", "coords": [14.265566, 46.619839]}], "ro": [{"name": "Museum Moderner Kunst Kärnten", "text": "Un muzeu din castelul Klagenfurt care prezintă artă contemporană și clasici din Carintia.", "category": "museum", "coords": [14.310132, 46.62417]}, {"name": "Eboardmuseum", "text": "Un muzeu unic din Klagenfurt dedicat instrumentelor cu claviatură electronice.", "category": "museum", "coords": [14.304934, 46.616492]}, {"name": "Diözesanmuseum", "text": "Un muzeu din Klagenfurt care expune artă religioasă și obiecte de istorie bisericească.", "category": "museum", "coords": [14.309381, 46.622353]}, {"name": "Robert Musil Museum", "text": "Casa natală a scriitorului Robert Musil servește astăzi drept muzeu literar și centru de cercetare.", "category": "museum", "coords": [14.313034, 46.616579]}, {"name": "Stadttheater", "text": "Cea mai importantă casă de teatru din Carintia, cu un program divers de opere și piese de teatru.", "category": "cultural", "coords": [14.305478, 46.627075]}, {"name": "Jugendstiltheater Klagenfurt", "text": "O clădire istorică de teatru în stil Jugendstil, utilizată pentru evenimente culturale.", "category": "cultural", "coords": [14.302498, 46.627068]}, {"name": "Thomas-Koschat-Museum", "text": "Muzeul Thomas-Koschat din Klagenfurt este dedicat vieții și operei celebrului compozitor carintian. În cadrul acestui muzeu, vizitatorii pot explora moștenirea sa muzicală.", "category": "museum", "coords": [14.31049, 46.620318]}, {"name": "Kammerlichtspiele", "text": "O scenă cu tradiție din Klagenfurt, care funcționează astăzi ca club de jazz și teatru.", "category": "cultural", "coords": [14.312617, 46.62361]}, {"name": "VENTIL", "text": "Un teatru independent și centru cultural din Klagenfurt pentru arta dramatică contemporană.", "category": "cultural", "coords": [14.311764, 46.624686]}, {"name": "Mali Schachmuseum", "text": "Un muzeu privat din Klagenfurt care prezintă o colecție extinsă pe tema șahului.", "category": "museum", "coords": [14.290218, 46.6065]}, {"name": "Figuren-Museum für Kaffeebeigaben", "text": "Un muzeu neobișnuit care expune figurine de colecție ce însoțeau anterior pachetele de cafea.", "category": "museum", "coords": [14.306637, 46.622086]}, {"name": "wissens.wert.welt", "text": "Un muzeu interactiv din Klagenfurt care face știința accesibilă copiilor.", "category": "museum", "coords": [14.32905, 46.611416]}, {"name": "Kreuzbergl", "text": "Muntele local al orașului Klagenfurt este o zonă populară de recreere cu poteci și iazuri.", "category": "natural", "coords": [14.276646, 46.631716]}, {"name": "Wappensaal", "text": "O sală magnifică în Landhaus-ul din Klagenfurt, decorată cu blazoanele stărilor carintiene.", "category": "landmark", "coords": [14.305739, 46.625053]}, {"name": "Spitalsberg", "text": "O colină împădurită din Klagenfurt, apreciată ca zonă liniștită de drumeții.", "category": "natural", "coords": [14.307858, 46.644088]}, {"name": "Schillerpark", "text": "Un parc bine întreținut în Klagenfurt, care invită la plimbări și relaxare.", "category": "park", "coords": [14.303219, 46.625416]}, {"name": "Herbertstöckl", "text": "Un conac istoric din Klagenfurt cu arhitectură caracteristică.", "category": "historical", "coords": [14.302183, 46.628338]}, {"name": "Botanischer Garten", "text": "O grădină diversă la poalele Kreuzbergl, care prezintă flora locală și exotică.", "category": "park", "coords": [14.293014, 46.629668]}, {"name": "St.Egyd Panorama View", "text": "Un punct de observație din Klagenfurt, care oferă o vedere panoramică asupra orașului.", "category": "natural", "coords": [14.307223, 46.626224]}, {"name": "Karawankenblick", "text": "Un punct de observație cunoscut pentru vederea sa asupra lanțului muntos Karawanken.", "category": "natural", "coords": [14.288248, 46.627867]}, {"name": "the artbooster", "text": "O galerie de artă din Klagenfurt care prezintă lucrări contemporane.", "category": "museum", "coords": [14.307873, 46.624688]}, {"name": "galerie 31", "text": "O mică galerie de artă din Klagenfurt, cu accent pe artiștii regionali.", "category": "museum", "coords": [14.310977, 46.62268]}, {"name": "BV-Galerie", "text": "Galeria asociației profesionale a artiștilor vizuali din Austria în Klagenfurt.", "category": "museum", "coords": [14.30147, 46.631208]}, {"name": "Galerie Kunstwerk", "text": "O galerie în Klagenfurt pentru artă contemporană și expoziții.", "category": "museum", "coords": [14.300228, 46.627442]}, {"name": "Raum für Fotografie", "text": "O galerie din Klagenfurt dedicată exclusiv artei fotografice.", "category": "museum", "coords": [14.306786, 46.619697]}, {"name": "Jugendzentrum kwadrat", "text": "Un centru cultural pentru tineri în Klagenfurt, cu accent pe muzică și artă.", "category": "cultural", "coords": [14.303331, 46.616682]}, {"name": "Favela", "text": "Un spațiu de expoziție în Klagenfurt pentru artă tânără și alternativă.", "category": "museum", "coords": [14.286403, 46.62027]}, {"name": "ArtGalerie Branko", "text": "O galerie din Klagenfurt care prezintă opere de artă modernă.", "category": "museum", "coords": [14.309709, 46.625904]}, {"name": "Christkönigskirche", "text": "O biserică romano-catolică din Klagenfurt cu o arhitectură modernă frapantă.", "category": "religious", "coords": [14.295697, 46.623245]}, {"name": "Heiligengeistkirche", "text": "O biserică istorică în Heiligengeistplatz, în inima orașului Klagenfurt.", "category": "religious", "coords": [14.304751, 46.624782]}, {"name": "St. Martin", "text": "O biserică parohială romano-catolică în cartierul St. Martin din Klagenfurt.", "category": "religious", "coords": [14.279731, 46.624204]}, {"name": "Don Bosco", "text": "O biserică modernă din Klagenfurt dedicată asistenței spirituale și comunității.", "category": "religious", "coords": [14.298692, 46.610726]}, {"name": "Filialkirche Sankt Primus", "text": "O biserică mai mică din Klagenfurt, sfințită în cinstea Sfântului Primus.", "category": "religious", "coords": [14.276493, 46.638537]}, {"name": "Neuapostolische Kirche Klagenfurt", "text": "Centrul comunitar al Bisericii Nou-Apostolice din Klagenfurt.", "category": "religious", "coords": [14.311766, 46.641207]}, {"name": "Klagenfurt-St. Hemma", "text": "O biserică parohială catolică modernă din Klagenfurt, numită după Sfânta Hemma.", "category": "religious", "coords": [14.296736, 46.634534]}, {"name": "St. Lorenzen", "text": "O biserică istorică în cadrul rural al orașului Klagenfurt.", "category": "religious", "coords": [14.315839, 46.626015]}, {"name": "Johanneskirche", "text": "O biserică evanghelică din Klagenfurt, cu un design simplu și primitor.", "category": "religious", "coords": [14.299596, 46.623668]}, {"name": "Pfarrkirche St. Josef", "text": "O biserică parohială romano-catolică ce formează centrul cartierului Siebenhügel.", "category": "religious", "coords": [14.283565, 46.612462]}, {"name": "Christuskirche", "text": "O clădire de biserică din Klagenfurt, care servește ca loc de rugăciune și reflecție.", "category": "religious", "coords": [14.327702, 46.632603]}, {"name": "St. Theresia", "text": "O biserică catolică din Klagenfurt.", "category": "religious", "coords": [14.324201, 46.634642]}, {"name": "Pfarrkirche St. Peter", "text": "O biserică parohială dedicată Sfântului Petru din Klagenfurt.", "category": "religious", "coords": [14.328167, 46.624467]}, {"name": "Pfarrkirche St. Modestus", "text": "O biserică parohială romano-catolică din Klagenfurt.", "category": "religious", "coords": [14.332908, 46.619623]}, {"name": "Pfarrkirche Annabichl", "text": "Biserica parohială din cartierul Annabichl din Klagenfurt.", "category": "religious", "coords": [14.313437, 46.640378]}, {"name": "Kreuzberglkirche", "text": "O biserică emblematică de pe dealul Kreuzbergl din Klagenfurt.", "category": "religious", "coords": [14.29195, 46.628725]}, {"name": "St. Ruprecht", "text": "O biserică dedicată Sfântului Ruprecht din Klagenfurt.", "category": "religious", "coords": [14.313333, 46.61214]}, {"name": "Strandbad Klagenfurt", "text": "Ștrandul Klagenfurt de pe lacul Wörthersee este unul dintre cele mai mari ștranduri lacustre din Europa, cu pontoane largi.", "category": "family", "coords": [14.255109, 46.618699]}, {"name": "Minimundus", "text": "Minimundus din Klagenfurt prezintă clădiri celebre din întreaga lume în format miniatură, fascinând toate vârstele.", "category": "family", "coords": [14.264326, 46.619804]}, {"name": "Reptilienzoo Happ", "text": "Grădina Zoologică de Reptile Happ din Klagenfurt prezintă o varietate de șerpi, șopârle și alte reptile.", "category": "family", "coords": [14.265566, 46.619839]}], "en": [{"name": "Museum Moderner Kunst Kärnten", "text": "A museum in the Klagenfurt Castle presenting contemporary art and Carinthian classics.", "category": "museum", "coords": [14.310132, 46.62417]}, {"name": "Eboardmuseum", "text": "A unique museum in Klagenfurt dedicated to electronic keyboard instruments.", "category": "museum", "coords": [14.304934, 46.616492]}, {"name": "Diözesanmuseum", "text": "A museum in Klagenfurt displaying religious art and church history exhibits.", "category": "museum", "coords": [14.309381, 46.622353]}, {"name": "Robert Musil Museum", "text": "The birthplace of writer Robert Musil now serves as a literary museum and research center.", "category": "museum", "coords": [14.313034, 46.616579]}, {"name": "Stadttheater", "text": "Carinthia's most important theater house with a diverse program of operas and plays.", "category": "cultural", "coords": [14.305478, 46.627075]}, {"name": "Jugendstiltheater Klagenfurt", "text": "A historic Art Nouveau theater building used for cultural events.", "category": "cultural", "coords": [14.302498, 46.627068]}, {"name": "Thomas-Koschat-Museum", "text": "The Thomas-Koschat-Museum in Klagenfurt is dedicated to the life and work of the renowned Carinthian composer. This museum allows visitors to gain a deeper understanding of his musical legacy.", "category": "museum", "coords": [14.31049, 46.620318]}, {"name": "Kammerlichtspiele", "text": "A traditional stage in Klagenfurt that today functions as a jazz club and theater.", "category": "cultural", "coords": [14.312617, 46.62361]}, {"name": "VENTIL", "text": "An independent theater and cultural center in Klagenfurt for contemporary performing arts.", "category": "cultural", "coords": [14.311764, 46.624686]}, {"name": "Mali Schachmuseum", "text": "A private museum in Klagenfurt presenting an extensive collection on the subject of chess.", "category": "museum", "coords": [14.290218, 46.6065]}, {"name": "Figuren-Museum für Kaffeebeigaben", "text": "An unusual museum displaying collectible figures that formerly accompanied coffee packages.", "category": "museum", "coords": [14.306637, 46.622086]}, {"name": "wissens.wert.welt", "text": "An interactive hands-on museum in Klagenfurt that makes science accessible for children.", "category": "museum", "coords": [14.32905, 46.611416]}, {"name": "Kreuzbergl", "text": "The local mountain of Klagenfurt is a popular recreation area with forest paths and ponds.", "category": "natural", "coords": [14.276646, 46.631716]}, {"name": "Wappensaal", "text": "A magnificent hall in the Klagenfurt Landhaus, decorated with the coats of arms of the Carinthian estates.", "category": "landmark", "coords": [14.305739, 46.625053]}, {"name": "Spitalsberg", "text": "A wooded hill in Klagenfurt appreciated as a quiet hiking area.", "category": "natural", "coords": [14.307858, 46.644088]}, {"name": "Schillerpark", "text": "A well-maintained park in Klagenfurt that invites walking and relaxation.", "category": "park", "coords": [14.303219, 46.625416]}, {"name": "Herbertstöckl", "text": "A historic manor house in Klagenfurt with characteristic architecture.", "category": "historical", "coords": [14.302183, 46.628338]}, {"name": "Botanischer Garten", "text": "A diverse garden at the foot of the Kreuzbergl, showcasing local and exotic plant life.", "category": "park", "coords": [14.293014, 46.629668]}, {"name": "St.Egyd Panorama View", "text": "A viewpoint in Klagenfurt offering a wide view over the city.", "category": "natural", "coords": [14.307223, 46.626224]}, {"name": "Karawankenblick", "text": "A viewpoint known for its clear view of the Karawanken mountain range.", "category": "natural", "coords": [14.288248, 46.627867]}, {"name": "the artbooster", "text": "An art gallery in Klagenfurt presenting contemporary works.", "category": "museum", "coords": [14.307873, 46.624688]}, {"name": "galerie 31", "text": "A small art gallery in Klagenfurt focusing on regional artists.", "category": "museum", "coords": [14.310977, 46.62268]}, {"name": "BV-Galerie", "text": "The gallery of the professional association of visual artists in Austria in Klagenfurt.", "category": "museum", "coords": [14.30147, 46.631208]}, {"name": "Galerie Kunstwerk", "text": "A gallery in Klagenfurt for contemporary art and exhibitions.", "category": "museum", "coords": [14.300228, 46.627442]}, {"name": "Raum für Fotografie", "text": "A gallery in Klagenfurt dedicated exclusively to the art of photography.", "category": "museum", "coords": [14.306786, 46.619697]}, {"name": "Jugendzentrum kwadrat", "text": "A cultural center for youth in Klagenfurt with a focus on music and art.", "category": "cultural", "coords": [14.303331, 46.616682]}, {"name": "Favela", "text": "An exhibition space in Klagenfurt for young and alternative art.", "category": "museum", "coords": [14.286403, 46.62027]}, {"name": "ArtGalerie Branko", "text": "A gallery in Klagenfurt presenting modern works of art.", "category": "museum", "coords": [14.309709, 46.625904]}, {"name": "Christkönigskirche", "text": "A Roman Catholic church in Klagenfurt with striking modern architecture.", "category": "religious", "coords": [14.295697, 46.623245]}, {"name": "Heiligengeistkirche", "text": "A historic church on Heiligengeistplatz in the heart of Klagenfurt.", "category": "religious", "coords": [14.304751, 46.624782]}, {"name": "St. Martin", "text": "A Roman Catholic parish church in the St. Martin district of Klagenfurt.", "category": "religious", "coords": [14.279731, 46.624204]}, {"name": "Don Bosco", "text": "A modern church in Klagenfurt dedicated to pastoral care and community.", "category": "religious", "coords": [14.298692, 46.610726]}, {"name": "Filialkirche Sankt Primus", "text": "A smaller church in Klagenfurt dedicated to Saint Primus.", "category": "religious", "coords": [14.276493, 46.638537]}, {"name": "Neuapostolische Kirche Klagenfurt", "text": "The community center of the New Apostolic Church in Klagenfurt.", "category": "religious", "coords": [14.311766, 46.641207]}, {"name": "Klagenfurt-St. Hemma", "text": "A modern Catholic parish church in Klagenfurt named after Saint Hemma.", "category": "religious", "coords": [14.296736, 46.634534]}, {"name": "St. Lorenzen", "text": "A historic church in the rural surroundings of Klagenfurt.", "category": "religious", "coords": [14.315839, 46.626015]}, {"name": "Johanneskirche", "text": "A Protestant church in Klagenfurt with a simple and inviting design.", "category": "religious", "coords": [14.299596, 46.623668]}, {"name": "Pfarrkirche St. Josef", "text": "A Roman Catholic parish church that forms the center of the Siebenhügel district.", "category": "religious", "coords": [14.283565, 46.612462]}, {"name": "Christuskirche", "text": "A church building in Klagenfurt serving as a place of prayer and reflection.", "category": "religious", "coords": [14.327702, 46.632603]}, {"name": "St. Theresia", "text": "A Catholic church located in Klagenfurt.", "category": "religious", "coords": [14.324201, 46.634642]}, {"name": "Pfarrkirche St. Peter", "text": "A parish church dedicated to St. Peter in Klagenfurt.", "category": "religious", "coords": [14.328167, 46.624467]}, {"name": "Pfarrkirche St. Modestus", "text": "A Roman Catholic parish church in Klagenfurt.", "category": "religious", "coords": [14.332908, 46.619623]}, {"name": "Pfarrkirche Annabichl", "text": "The parish church in the Annabichl district of Klagenfurt.", "category": "religious", "coords": [14.313437, 46.640378]}, {"name": "Kreuzberglkirche", "text": "A prominent Calvary church located on the Kreuzbergl hill in Klagenfurt.", "category": "religious", "coords": [14.29195, 46.628725]}, {"name": "St. Ruprecht", "text": "A church dedicated to St. Ruprecht in Klagenfurt.", "category": "religious", "coords": [14.313333, 46.61214]}, {"name": "Strandbad Klagenfurt", "text": "The Strandbad Klagenfurt on Lake Wörthersee is one of Europe's largest lakeside resorts with extensive piers.", "category": "family", "coords": [14.255109, 46.618699]}, {"name": "Minimundus", "text": "Minimundus in Klagenfurt displays famous buildings of the world in miniature and delights all age groups.", "category": "family", "coords": [14.264326, 46.619804]}, {"name": "Reptilienzoo Happ", "text": "The Reptilienzoo Happ in Klagenfurt presents a variety of snakes, lizards, and other reptiles.", "category": "family", "coords": [14.265566, 46.619839]}]}, type: "city", parent: "AT-2", coords: [14.3053, 46.6247],
+    id: "AT-Klagenfurt", "sights": {
+      "de": [
+            {
+                  "name": "Museum Moderner Kunst Kärnten",
+                  "text": "Ein Museum in der Klagenfurter Burg, das zeitgenössische Kunst und Kärntner Klassiker präsentiert.",
+                  "category": "museum",
+                  "coords": [
+                        14.310132,
+                        46.62417
+                  ]
+            },
+            {
+                  "name": "Eboardmuseum",
+                  "text": "Ein einzigartiges Museum in Klagenfurt, das sich elektronischen Tasteninstrumenten widmet.",
+                  "category": "museum",
+                  "coords": [
+                        14.304934,
+                        46.616492
+                  ]
+            },
+            {
+                  "name": "Diözesanmuseum",
+                  "text": "Ein Museum in Klagenfurt, das religiöse Kunst und kirchengeschichtliche Exponate zeigt.",
+                  "category": "museum",
+                  "coords": [
+                        14.309381,
+                        46.622353
+                  ]
+            },
+            {
+                  "name": "Robert Musil Museum",
+                  "text": "Das Geburtshaus des Schriftstellers Robert Musil dient heute als Literaturmuseum und Forschungsstätte.",
+                  "category": "museum",
+                  "coords": [
+                        14.313034,
+                        46.616579
+                  ]
+            },
+            {
+                  "name": "Stadttheater",
+                  "text": "Das bedeutendste Theaterhaus Kärntens mit einem vielfältigen Programm an Opern und Schauspielen.",
+                  "category": "cultural",
+                  "coords": [
+                        14.305478,
+                        46.627075
+                  ]
+            },
+            {
+                  "name": "Jugendstiltheater Klagenfurt",
+                  "text": "Ein historisches Theatergebäude im Jugendstil, das für kulturelle Veranstaltungen genutzt wird.",
+                  "category": "cultural",
+                  "coords": [
+                        14.302498,
+                        46.627068
+                  ]
+            },
+            {
+                  "name": "Thomas-Koschat-Museum",
+                  "text": "Das Thomas-Koschat-Museum in Klagenfurt widmet sich dem Leben und dem musikalischen Werk des bekannten Kärntner Komponisten. Besucher können hier tiefere Einblicke in sein Schaffen gewinnen.",
+                  "category": "museum",
+                  "coords": [
+                        14.31049,
+                        46.620318
+                  ]
+            },
+            {
+                  "name": "Kammerlichtspiele",
+                  "text": "Eine traditionsreiche Bühne in Klagenfurt, die heute als Jazzclub und Theater fungiert.",
+                  "category": "cultural",
+                  "coords": [
+                        14.312617,
+                        46.62361
+                  ]
+            },
+            {
+                  "name": "VENTIL",
+                  "text": "Ein freies Theater und Kulturzentrum in Klagenfurt für zeitgenössische Bühnenkunst.",
+                  "category": "cultural",
+                  "coords": [
+                        14.311764,
+                        46.624686
+                  ]
+            },
+            {
+                  "name": "Mali Schachmuseum",
+                  "text": "Ein privates Museum in Klagenfurt, das eine umfangreiche Sammlung zum Thema Schach präsentiert.",
+                  "category": "museum",
+                  "coords": [
+                        14.290218,
+                        46.6065
+                  ]
+            },
+            {
+                  "name": "Figuren-Museum für Kaffeebeigaben",
+                  "text": "Ein ungewöhnliches Museum, das Sammelfiguren zeigt, die früher Kaffeepackungen beilagen.",
+                  "category": "museum",
+                  "coords": [
+                        14.306637,
+                        46.622086
+                  ]
+            },
+            {
+                  "name": "wissens.wert.welt",
+                  "text": "Ein interaktives Mitmachmuseum in Klagenfurt, das Wissenschaft für Kinder erlebbar macht.",
+                  "category": "museum",
+                  "coords": [
+                        14.32905,
+                        46.611416
+                  ]
+            },
+            {
+                  "name": "Kreuzbergl",
+                  "text": "Der Hausberg von Klagenfurt ist ein beliebtes Naherholungsgebiet mit Waldwegen und Teichen.",
+                  "category": "natural",
+                  "coords": [
+                        14.276646,
+                        46.631716
+                  ]
+            },
+            {
+                  "name": "Wappensaal",
+                  "text": "Ein prächtiger Saal im Klagenfurter Landhaus, geschmückt mit den Wappen der Kärntner Landstände.",
+                  "category": "landmark",
+                  "coords": [
+                        14.305739,
+                        46.625053
+                  ]
+            },
+            {
+                  "name": "Spitalsberg",
+                  "text": "Eine bewaldete Anhöhe in Klagenfurt, die als ruhiges Wandergebiet geschätzt wird.",
+                  "category": "natural",
+                  "coords": [
+                        14.307858,
+                        46.644088
+                  ]
+            },
+            {
+                  "name": "Schillerpark",
+                  "text": "Eine gepflegte Parkanlage in Klagenfurt, die zum Spazierengehen und Verweilen einlädt.",
+                  "category": "park",
+                  "coords": [
+                        14.303219,
+                        46.625416
+                  ]
+            },
+            {
+                  "name": "Herbertstöckl",
+                  "text": "Ein historisches Herrenhaus in Klagenfurt mit charakteristischer Architektur.",
+                  "category": "historical",
+                  "coords": [
+                        14.302183,
+                        46.628338
+                  ]
+            },
+            {
+                  "name": "Botanischer Garten",
+                  "text": "Ein vielfältiger Garten am Fuße des Kreuzbergls, der die heimische und exotische Pflanzenwelt zeigt.",
+                  "category": "park",
+                  "coords": [
+                        14.293014,
+                        46.629668
+                  ]
+            },
+            {
+                  "name": "St.Egyd Panorama View",
+                  "text": "Ein Aussichtspunkt in Klagenfurt, der einen weiten Blick über die Stadt bietet.",
+                  "category": "natural",
+                  "coords": [
+                        14.307223,
+                        46.626224
+                  ]
+            },
+            {
+                  "name": "Karawankenblick",
+                  "text": "Ein Aussichtspunkt, der für seinen freien Blick auf die Gebirgskette der Karawanken bekannt ist.",
+                  "category": "natural",
+                  "coords": [
+                        14.288248,
+                        46.627867
+                  ]
+            },
+            {
+                  "name": "the artbooster",
+                  "text": "Eine Kunstgalerie in Klagenfurt, die zeitgenössische Werke präsentiert.",
+                  "category": "museum",
+                  "coords": [
+                        14.307873,
+                        46.624688
+                  ]
+            },
+            {
+                  "name": "galerie 31",
+                  "text": "Eine kleine Kunstgalerie in Klagenfurt mit Fokus auf regionale Künstler.",
+                  "category": "museum",
+                  "coords": [
+                        14.310977,
+                        46.62268
+                  ]
+            },
+            {
+                  "name": "BV-Galerie",
+                  "text": "Die Galerie der Berufsvereinigung Bildender Künstler Österreichs in Klagenfurt.",
+                  "category": "museum",
+                  "coords": [
+                        14.30147,
+                        46.631208
+                  ]
+            },
+            {
+                  "name": "Galerie Kunstwerk",
+                  "text": "Eine Galerie in Klagenfurt für zeitgenössische Kunst und Ausstellungen.",
+                  "category": "museum",
+                  "coords": [
+                        14.300228,
+                        46.627442
+                  ]
+            },
+            {
+                  "name": "Raum für Fotografie",
+                  "text": "Eine Galerie in Klagenfurt, die sich ausschließlich der Fotokunst widmet.",
+                  "category": "museum",
+                  "coords": [
+                        14.306786,
+                        46.619697
+                  ]
+            },
+            {
+                  "name": "Jugendzentrum kwadrat",
+                  "text": "Ein kulturelles Zentrum für Jugendliche in Klagenfurt mit Fokus auf Musik und Kunst.",
+                  "category": "cultural",
+                  "coords": [
+                        14.303331,
+                        46.616682
+                  ]
+            },
+            {
+                  "name": "Favela",
+                  "text": "Ein Ausstellungsraum in Klagenfurt für junge und alternative Kunst.",
+                  "category": "museum",
+                  "coords": [
+                        14.286403,
+                        46.62027
+                  ]
+            },
+            {
+                  "name": "ArtGalerie Branko",
+                  "text": "Eine Galerie in Klagenfurt, die moderne Kunstwerke präsentiert.",
+                  "category": "museum",
+                  "coords": [
+                        14.309709,
+                        46.625904
+                  ]
+            },
+            {
+                  "name": "Christkönigskirche",
+                  "text": "Eine römisch-katholische Kirche in Klagenfurt mit auffälliger moderner Architektur.",
+                  "category": "religious",
+                  "coords": [
+                        14.295697,
+                        46.623245
+                  ]
+            },
+            {
+                  "name": "Heiligengeistkirche",
+                  "text": "Eine historische Kirche am Heiligengeistplatz im Herzen von Klagenfurt.",
+                  "category": "religious",
+                  "coords": [
+                        14.304751,
+                        46.624782
+                  ]
+            },
+            {
+                  "name": "St. Martin",
+                  "text": "Eine römisch-katholische Pfarrkirche im Klagenfurter Stadtteil St. Martin.",
+                  "category": "religious",
+                  "coords": [
+                        14.279731,
+                        46.624204
+                  ]
+            },
+            {
+                  "name": "Don Bosco",
+                  "text": "Eine moderne Kirche in Klagenfurt, die der Seelsorge und Gemeinschaft gewidmet ist.",
+                  "category": "religious",
+                  "coords": [
+                        14.298692,
+                        46.610726
+                  ]
+            },
+            {
+                  "name": "Filialkirche Sankt Primus",
+                  "text": "Eine kleinere Kirche in Klagenfurt, die dem heiligen Primus geweiht ist.",
+                  "category": "religious",
+                  "coords": [
+                        14.276493,
+                        46.638537
+                  ]
+            },
+            {
+                  "name": "Neuapostolische Kirche Klagenfurt",
+                  "text": "Das Gemeindezentrum der Neuapostolischen Kirche in Klagenfurt.",
+                  "category": "religious",
+                  "coords": [
+                        14.311766,
+                        46.641207
+                  ]
+            },
+            {
+                  "name": "Klagenfurt-St. Hemma",
+                  "text": "Eine moderne katholische Pfarrkirche in Klagenfurt, benannt nach der heiligen Hemma.",
+                  "category": "religious",
+                  "coords": [
+                        14.296736,
+                        46.634534
+                  ]
+            },
+            {
+                  "name": "St. Lorenzen",
+                  "text": "Eine historische Kirche im ländlich geprägten Umfeld von Klagenfurt.",
+                  "category": "religious",
+                  "coords": [
+                        14.315839,
+                        46.626015
+                  ]
+            },
+            {
+                  "name": "Johanneskirche",
+                  "text": "Eine evangelische Kirche in Klagenfurt mit schlichter und einladender Gestaltung.",
+                  "category": "religious",
+                  "coords": [
+                        14.299596,
+                        46.623668
+                  ]
+            },
+            {
+                  "name": "Pfarrkirche St. Josef",
+                  "text": "Eine römisch-katholische Pfarrkirche, die den Mittelpunkt des Stadtteils Siebenhügel bildet.",
+                  "category": "religious",
+                  "coords": [
+                        14.283565,
+                        46.612462
+                  ]
+            },
+            {
+                  "name": "Christuskirche",
+                  "text": "Ein Kirchengebäude in Klagenfurt, das als Ort des Gebets und der Besinnung dient.",
+                  "category": "religious",
+                  "coords": [
+                        14.327702,
+                        46.632603
+                  ]
+            },
+            {
+                  "name": "St. Theresia",
+                  "text": "Eine katholische Kirche in Klagenfurt.",
+                  "category": "religious",
+                  "coords": [
+                        14.324201,
+                        46.634642
+                  ]
+            },
+            {
+                  "name": "Pfarrkirche St. Peter",
+                  "text": "Eine dem heiligen Peter geweihte Pfarrkirche in Klagenfurt.",
+                  "category": "religious",
+                  "coords": [
+                        14.328167,
+                        46.624467
+                  ]
+            },
+            {
+                  "name": "Pfarrkirche St. Modestus",
+                  "text": "Eine römisch-katholische Pfarrkirche in Klagenfurt.",
+                  "category": "religious",
+                  "coords": [
+                        14.332908,
+                        46.619623
+                  ]
+            },
+            {
+                  "name": "Pfarrkirche Annabichl",
+                  "text": "Die Pfarrkirche im Stadtteil Annabichl in Klagenfurt.",
+                  "category": "religious",
+                  "coords": [
+                        14.313437,
+                        46.640378
+                  ]
+            },
+            {
+                  "name": "Kreuzberglkirche",
+                  "text": "Eine markante Kalvarienbergkirche auf dem Kreuzbergl in Klagenfurt.",
+                  "category": "religious",
+                  "coords": [
+                        14.29195,
+                        46.628725
+                  ]
+            },
+            {
+                  "name": "St. Ruprecht",
+                  "text": "Eine dem heiligen Ruprecht geweihte Kirche in Klagenfurt.",
+                  "category": "religious",
+                  "coords": [
+                        14.313333,
+                        46.61214
+                  ]
+            },
+            {
+                  "name": "Strandbad Klagenfurt",
+                  "text": "Das Strandbad Klagenfurt am Wörthersee ist eines der größten Binnenseebäder Europas mit weitläufigen Stegen.",
+                  "category": "family",
+                  "coords": [
+                        14.255109,
+                        46.618699
+                  ]
+            },
+            {
+                  "name": "Minimundus",
+                  "text": "Minimundus in Klagenfurt zeigt berühmte Bauwerke der Welt im Miniaturformat und begeistert alle Altersgruppen.",
+                  "category": "family",
+                  "coords": [
+                        14.264326,
+                        46.619804
+                  ]
+            },
+            {
+                  "name": "Reptilienzoo Happ",
+                  "text": "Der Reptilienzoo Happ in Klagenfurt präsentiert eine Vielzahl von Schlangen, Echsen und anderen Reptilien.",
+                  "category": "family",
+                  "coords": [
+                        14.265566,
+                        46.619839
+                  ]
+            },
+            {
+                  "name": "Schloss Welzenegg",
+                  "text": "Ein Renaissance-Schloss im Osten der Stadt Klagenfurt.",
+                  "category": "castle",
+                  "coords": [
+                        14.332251,
+                        46.628315
+                  ]
+            },
+            {
+                  "name": "Landesmuseum Karnten",
+                  "text": "Das Kärntner Landesmuseum zeigt Exponate zu Archäologie, Kunst und Natur.",
+                  "category": "museum",
+                  "coords": [
+                        14.312461,
+                        46.621046
+                  ]
+            },
+            {
+                  "name": "Schloss Zigguln",
+                  "text": "Historisches Schloss und Anwesen am Stadtrand von Klagenfurt.",
+                  "category": "castle",
+                  "coords": [
+                        14.291837,
+                        46.635206
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Museum Moderner Kunst Kärnten",
+                  "text": "Klagenfurt várában található múzeum, amely kortárs művészetet és karintiai klasszikusokat mutat be.",
+                  "category": "museum",
+                  "coords": [
+                        14.310132,
+                        46.62417
+                  ]
+            },
+            {
+                  "name": "Eboardmuseum",
+                  "text": "Egyedülálló klagenfurti múzeum, amelyet elektronikus billentyűs hangszereknek szenteltek.",
+                  "category": "museum",
+                  "coords": [
+                        14.304934,
+                        46.616492
+                  ]
+            },
+            {
+                  "name": "Diözesanmuseum",
+                  "text": "Klagenfurti múzeum, amely vallási művészetet és egyháztörténeti kiállítási tárgyakat mutat be.",
+                  "category": "museum",
+                  "coords": [
+                        14.309381,
+                        46.622353
+                  ]
+            },
+            {
+                  "name": "Robert Musil Museum",
+                  "text": "Robert Musil író szülőháza ma irodalmi múzeumként és kutatóhelyként szolgál.",
+                  "category": "museum",
+                  "coords": [
+                        14.313034,
+                        46.616579
+                  ]
+            },
+            {
+                  "name": "Stadttheater",
+                  "text": "Karintia legjelentősebb színháza, operák és színdarabok változatos programjával.",
+                  "category": "cultural",
+                  "coords": [
+                        14.305478,
+                        46.627075
+                  ]
+            },
+            {
+                  "name": "Jugendstiltheater Klagenfurt",
+                  "text": "Történelmi szecessziós színházépület, amelyet kulturális eseményekre használnak.",
+                  "category": "cultural",
+                  "coords": [
+                        14.302498,
+                        46.627068
+                  ]
+            },
+            {
+                  "name": "Thomas-Koschat-Museum",
+                  "text": "A klagenfurti Thomas-Koschat-Museum a híres karintiai zeneszerző életének és munkásságának állít emléket. A múzeum látogatói mélyebb bepillantást nyerhetnek zenei örökségébe.",
+                  "category": "museum",
+                  "coords": [
+                        14.31049,
+                        46.620318
+                  ]
+            },
+            {
+                  "name": "Kammerlichtspiele",
+                  "text": "Gazdag hagyományokkal rendelkező színpad Klagenfurtban, amely ma jazzklubként és színházként működik.",
+                  "category": "cultural",
+                  "coords": [
+                        14.312617,
+                        46.62361
+                  ]
+            },
+            {
+                  "name": "VENTIL",
+                  "text": "Független színház és kulturális központ Klagenfurtban a kortárs színművészet számára.",
+                  "category": "cultural",
+                  "coords": [
+                        14.311764,
+                        46.624686
+                  ]
+            },
+            {
+                  "name": "Mali Schachmuseum",
+                  "text": "Klagenfurti magánmúzeum, amely kiterjedt gyűjteményt mutat be a sakk témakörében.",
+                  "category": "museum",
+                  "coords": [
+                        14.290218,
+                        46.6065
+                  ]
+            },
+            {
+                  "name": "Figuren-Museum für Kaffeebeigaben",
+                  "text": "Szokatlan múzeum, amely a korábban kávécsomagokhoz mellékelt gyűjthető figurákat mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        14.306637,
+                        46.622086
+                  ]
+            },
+            {
+                  "name": "wissens.wert.welt",
+                  "text": "Interaktív klagenfurti múzeum, amely a tudományt élményszerűvé teszi gyerekek számára.",
+                  "category": "museum",
+                  "coords": [
+                        14.32905,
+                        46.611416
+                  ]
+            },
+            {
+                  "name": "Kreuzbergl",
+                  "text": "Klagenfurt házi hegye népszerű kirándulóhely erdei utakkal és tavakkal.",
+                  "category": "natural",
+                  "coords": [
+                        14.276646,
+                        46.631716
+                  ]
+            },
+            {
+                  "name": "Wappensaal",
+                  "text": "A klagenfurti Landhaus pompás terme, amelyet a karintiai rendek címerei díszítenek.",
+                  "category": "landmark",
+                  "coords": [
+                        14.305739,
+                        46.625053
+                  ]
+            },
+            {
+                  "name": "Spitalsberg",
+                  "text": "Erdős domb Klagenfurtban, amelyet csendes túraútvonalként kedvelnek.",
+                  "category": "natural",
+                  "coords": [
+                        14.307858,
+                        46.644088
+                  ]
+            },
+            {
+                  "name": "Schillerpark",
+                  "text": "Gondozott park Klagenfurtban, amely sétára és kikapcsolódásra hív.",
+                  "category": "park",
+                  "coords": [
+                        14.303219,
+                        46.625416
+                  ]
+            },
+            {
+                  "name": "Herbertstöckl",
+                  "text": "Történelmi udvarház Klagenfurtban, jellegzetes építészeti stílussal.",
+                  "category": "historical",
+                  "coords": [
+                        14.302183,
+                        46.628338
+                  ]
+            },
+            {
+                  "name": "Botanischer Garten",
+                  "text": "Változatos kert a Kreuzbergl lábánál, amely a hazai és az egzotikus növényvilágot mutatja be.",
+                  "category": "park",
+                  "coords": [
+                        14.293014,
+                        46.629668
+                  ]
+            },
+            {
+                  "name": "St.Egyd Panorama View",
+                  "text": "Kilátópont Klagenfurtban, ahonnan pazar kilátás nyílik a városra.",
+                  "category": "natural",
+                  "coords": [
+                        14.307223,
+                        46.626224
+                  ]
+            },
+            {
+                  "name": "Karawankenblick",
+                  "text": "Kilátópont, amely a Karavankák hegyláncára nyíló zavartalan kilátásáról ismert.",
+                  "category": "natural",
+                  "coords": [
+                        14.288248,
+                        46.627867
+                  ]
+            },
+            {
+                  "name": "the artbooster",
+                  "text": "Kortárs műveket bemutató művészeti galéria Klagenfurtban.",
+                  "category": "museum",
+                  "coords": [
+                        14.307873,
+                        46.624688
+                  ]
+            },
+            {
+                  "name": "galerie 31",
+                  "text": "Kis művészeti galéria Klagenfurtban, regionális művészekre fókuszálva.",
+                  "category": "museum",
+                  "coords": [
+                        14.310977,
+                        46.62268
+                  ]
+            },
+            {
+                  "name": "BV-Galerie",
+                  "text": "Az osztrák képzőművészek szakmai szövetségének galériája Klagenfurtban.",
+                  "category": "museum",
+                  "coords": [
+                        14.30147,
+                        46.631208
+                  ]
+            },
+            {
+                  "name": "Galerie Kunstwerk",
+                  "text": "Kortárs művészeti galéria és kiállítóhely Klagenfurtban.",
+                  "category": "museum",
+                  "coords": [
+                        14.300228,
+                        46.627442
+                  ]
+            },
+            {
+                  "name": "Raum für Fotografie",
+                  "text": "Klagenfurti galéria, amelyet kizárólag a fotóművészetnek szenteltek.",
+                  "category": "museum",
+                  "coords": [
+                        14.306786,
+                        46.619697
+                  ]
+            },
+            {
+                  "name": "Jugendzentrum kwadrat",
+                  "text": "Kulturális központ fiataloknak Klagenfurtban, a zenére és a művészetre összpontosítva.",
+                  "category": "cultural",
+                  "coords": [
+                        14.303331,
+                        46.616682
+                  ]
+            },
+            {
+                  "name": "Favela",
+                  "text": "Kiállítóhely Klagenfurtban fiatal és alternatív művészet számára.",
+                  "category": "museum",
+                  "coords": [
+                        14.286403,
+                        46.62027
+                  ]
+            },
+            {
+                  "name": "ArtGalerie Branko",
+                  "text": "Modern műalkotásokat bemutató galéria Klagenfurtban.",
+                  "category": "museum",
+                  "coords": [
+                        14.309709,
+                        46.625904
+                  ]
+            },
+            {
+                  "name": "Christkönigskirche",
+                  "text": "Római katolikus templom Klagenfurtban, feltűnő modern építészettel.",
+                  "category": "religious",
+                  "coords": [
+                        14.295697,
+                        46.623245
+                  ]
+            },
+            {
+                  "name": "Heiligengeistkirche",
+                  "text": "Történelmi templom a Heiligengeistplatzon, Klagenfurt szívében.",
+                  "category": "religious",
+                  "coords": [
+                        14.304751,
+                        46.624782
+                  ]
+            },
+            {
+                  "name": "St. Martin",
+                  "text": "Római katolikus plébániatemplom Klagenfurt Szent Márton városrészében.",
+                  "category": "religious",
+                  "coords": [
+                        14.279731,
+                        46.624204
+                  ]
+            },
+            {
+                  "name": "Don Bosco",
+                  "text": "Modern templom Klagenfurtban, amelyet a lelkigondozásnak és a közösségnek szenteltek.",
+                  "category": "religious",
+                  "coords": [
+                        14.298692,
+                        46.610726
+                  ]
+            },
+            {
+                  "name": "Filialkirche Sankt Primus",
+                  "text": "Kisebb templom Klagenfurtban, amelyet Szent Primusz tiszteletére szenteltek.",
+                  "category": "religious",
+                  "coords": [
+                        14.276493,
+                        46.638537
+                  ]
+            },
+            {
+                  "name": "Neuapostolische Kirche Klagenfurt",
+                  "text": "Az Új Apostoli Egyház gyülekezeti központja Klagenfurtban.",
+                  "category": "religious",
+                  "coords": [
+                        14.311766,
+                        46.641207
+                  ]
+            },
+            {
+                  "name": "Klagenfurt-St. Hemma",
+                  "text": "Modern katolikus plébániatemplom Klagenfurtban, Szent Hemmáról elnevezve.",
+                  "category": "religious",
+                  "coords": [
+                        14.296736,
+                        46.634534
+                  ]
+            },
+            {
+                  "name": "St. Lorenzen",
+                  "text": "Történelmi templom Klagenfurt vidékies környezetében.",
+                  "category": "religious",
+                  "coords": [
+                        14.315839,
+                        46.626015
+                  ]
+            },
+            {
+                  "name": "Johanneskirche",
+                  "text": "Egyszerű és hívogató kialakítású evangélikus templom Klagenfurtban.",
+                  "category": "religious",
+                  "coords": [
+                        14.299596,
+                        46.623668
+                  ]
+            },
+            {
+                  "name": "Pfarrkirche St. Josef",
+                  "text": "Római katolikus plébániatemplom, amely a Siebenhügel városrész központját alkotja.",
+                  "category": "religious",
+                  "coords": [
+                        14.283565,
+                        46.612462
+                  ]
+            },
+            {
+                  "name": "Christuskirche",
+                  "text": "Templomépület Klagenfurtban, amely az imádság és az elmélkedés helyszínéül szolgál.",
+                  "category": "religious",
+                  "coords": [
+                        14.327702,
+                        46.632603
+                  ]
+            },
+            {
+                  "name": "St. Theresia",
+                  "text": "Egy katolikus templom Klagenfurtban.",
+                  "category": "religious",
+                  "coords": [
+                        14.324201,
+                        46.634642
+                  ]
+            },
+            {
+                  "name": "Pfarrkirche St. Peter",
+                  "text": "Szent Péternek szentelt plébániatemplom Klagenfurtban.",
+                  "category": "religious",
+                  "coords": [
+                        14.328167,
+                        46.624467
+                  ]
+            },
+            {
+                  "name": "Pfarrkirche St. Modestus",
+                  "text": "Római katolikus plébániatemplom Klagenfurtban.",
+                  "category": "religious",
+                  "coords": [
+                        14.332908,
+                        46.619623
+                  ]
+            },
+            {
+                  "name": "Pfarrkirche Annabichl",
+                  "text": "Klagenfurt Annabichl negyedének plébániatemploma.",
+                  "category": "religious",
+                  "coords": [
+                        14.313437,
+                        46.640378
+                  ]
+            },
+            {
+                  "name": "Kreuzberglkirche",
+                  "text": "Jellegzetes kálvária-templom a klagenfurti Kreuzbergl-dombon.",
+                  "category": "religious",
+                  "coords": [
+                        14.29195,
+                        46.628725
+                  ]
+            },
+            {
+                  "name": "St. Ruprecht",
+                  "text": "Szent Ruprechtnek szentelt templom Klagenfurtban.",
+                  "category": "religious",
+                  "coords": [
+                        14.313333,
+                        46.61214
+                  ]
+            },
+            {
+                  "name": "Strandbad Klagenfurt",
+                  "text": "A klagenfurti strand a Wörthi-tónál Európa egyik legnagyobb tavi fürdője tágas stégekkel.",
+                  "category": "family",
+                  "coords": [
+                        14.255109,
+                        46.618699
+                  ]
+            },
+            {
+                  "name": "Minimundus",
+                  "text": "A klagenfurti Minimundus a világ híres épületeit mutatja be miniatűr formában, minden korosztályt lenyűgözve.",
+                  "category": "family",
+                  "coords": [
+                        14.264326,
+                        46.619804
+                  ]
+            },
+            {
+                  "name": "Reptilienzoo Happ",
+                  "text": "A klagenfurti Reptilienzoo Happ kígyók, gyíkok és más hüllők sokaságát mutatja be.",
+                  "category": "family",
+                  "coords": [
+                        14.265566,
+                        46.619839
+                  ]
+            },
+            {
+                  "name": "Schloss Welzenegg",
+                  "text": "Reneszánsz kastély Klagenfurt városának keleti részén.",
+                  "category": "castle",
+                  "coords": [
+                        14.332251,
+                        46.628315
+                  ]
+            },
+            {
+                  "name": "Landesmuseum Karnten",
+                  "text": "A Karintiai Tartományi Múzeum régészeti, művészeti és természeti tárgyakat mutat be.",
+                  "category": "museum",
+                  "coords": [
+                        14.312461,
+                        46.621046
+                  ]
+            },
+            {
+                  "name": "Schloss Zigguln",
+                  "text": "Történelmi kastély és birtok Klagenfurt szélén.",
+                  "category": "castle",
+                  "coords": [
+                        14.291837,
+                        46.635206
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Museum Moderner Kunst Kärnten",
+                  "text": "Un muzeu din castelul Klagenfurt care prezintă artă contemporană și clasici din Carintia.",
+                  "category": "museum",
+                  "coords": [
+                        14.310132,
+                        46.62417
+                  ]
+            },
+            {
+                  "name": "Eboardmuseum",
+                  "text": "Un muzeu unic din Klagenfurt dedicat instrumentelor cu claviatură electronice.",
+                  "category": "museum",
+                  "coords": [
+                        14.304934,
+                        46.616492
+                  ]
+            },
+            {
+                  "name": "Diözesanmuseum",
+                  "text": "Un muzeu din Klagenfurt care expune artă religioasă și obiecte de istorie bisericească.",
+                  "category": "museum",
+                  "coords": [
+                        14.309381,
+                        46.622353
+                  ]
+            },
+            {
+                  "name": "Robert Musil Museum",
+                  "text": "Casa natală a scriitorului Robert Musil servește astăzi drept muzeu literar și centru de cercetare.",
+                  "category": "museum",
+                  "coords": [
+                        14.313034,
+                        46.616579
+                  ]
+            },
+            {
+                  "name": "Stadttheater",
+                  "text": "Cea mai importantă casă de teatru din Carintia, cu un program divers de opere și piese de teatru.",
+                  "category": "cultural",
+                  "coords": [
+                        14.305478,
+                        46.627075
+                  ]
+            },
+            {
+                  "name": "Jugendstiltheater Klagenfurt",
+                  "text": "O clădire istorică de teatru în stil Jugendstil, utilizată pentru evenimente culturale.",
+                  "category": "cultural",
+                  "coords": [
+                        14.302498,
+                        46.627068
+                  ]
+            },
+            {
+                  "name": "Thomas-Koschat-Museum",
+                  "text": "Muzeul Thomas-Koschat din Klagenfurt este dedicat vieții și operei celebrului compozitor carintian. În cadrul acestui muzeu, vizitatorii pot explora moștenirea sa muzicală.",
+                  "category": "museum",
+                  "coords": [
+                        14.31049,
+                        46.620318
+                  ]
+            },
+            {
+                  "name": "Kammerlichtspiele",
+                  "text": "O scenă cu tradiție din Klagenfurt, care funcționează astăzi ca club de jazz și teatru.",
+                  "category": "cultural",
+                  "coords": [
+                        14.312617,
+                        46.62361
+                  ]
+            },
+            {
+                  "name": "VENTIL",
+                  "text": "Un teatru independent și centru cultural din Klagenfurt pentru arta dramatică contemporană.",
+                  "category": "cultural",
+                  "coords": [
+                        14.311764,
+                        46.624686
+                  ]
+            },
+            {
+                  "name": "Mali Schachmuseum",
+                  "text": "Un muzeu privat din Klagenfurt care prezintă o colecție extinsă pe tema șahului.",
+                  "category": "museum",
+                  "coords": [
+                        14.290218,
+                        46.6065
+                  ]
+            },
+            {
+                  "name": "Figuren-Museum für Kaffeebeigaben",
+                  "text": "Un muzeu neobișnuit care expune figurine de colecție ce însoțeau anterior pachetele de cafea.",
+                  "category": "museum",
+                  "coords": [
+                        14.306637,
+                        46.622086
+                  ]
+            },
+            {
+                  "name": "wissens.wert.welt",
+                  "text": "Un muzeu interactiv din Klagenfurt care face știința accesibilă copiilor.",
+                  "category": "museum",
+                  "coords": [
+                        14.32905,
+                        46.611416
+                  ]
+            },
+            {
+                  "name": "Kreuzbergl",
+                  "text": "Muntele local al orașului Klagenfurt este o zonă populară de recreere cu poteci și iazuri.",
+                  "category": "natural",
+                  "coords": [
+                        14.276646,
+                        46.631716
+                  ]
+            },
+            {
+                  "name": "Wappensaal",
+                  "text": "O sală magnifică în Landhaus-ul din Klagenfurt, decorată cu blazoanele stărilor carintiene.",
+                  "category": "landmark",
+                  "coords": [
+                        14.305739,
+                        46.625053
+                  ]
+            },
+            {
+                  "name": "Spitalsberg",
+                  "text": "O colină împădurită din Klagenfurt, apreciată ca zonă liniștită de drumeții.",
+                  "category": "natural",
+                  "coords": [
+                        14.307858,
+                        46.644088
+                  ]
+            },
+            {
+                  "name": "Schillerpark",
+                  "text": "Un parc bine întreținut în Klagenfurt, care invită la plimbări și relaxare.",
+                  "category": "park",
+                  "coords": [
+                        14.303219,
+                        46.625416
+                  ]
+            },
+            {
+                  "name": "Herbertstöckl",
+                  "text": "Un conac istoric din Klagenfurt cu arhitectură caracteristică.",
+                  "category": "historical",
+                  "coords": [
+                        14.302183,
+                        46.628338
+                  ]
+            },
+            {
+                  "name": "Botanischer Garten",
+                  "text": "O grădină diversă la poalele Kreuzbergl, care prezintă flora locală și exotică.",
+                  "category": "park",
+                  "coords": [
+                        14.293014,
+                        46.629668
+                  ]
+            },
+            {
+                  "name": "St.Egyd Panorama View",
+                  "text": "Un punct de observație din Klagenfurt, care oferă o vedere panoramică asupra orașului.",
+                  "category": "natural",
+                  "coords": [
+                        14.307223,
+                        46.626224
+                  ]
+            },
+            {
+                  "name": "Karawankenblick",
+                  "text": "Un punct de observație cunoscut pentru vederea sa asupra lanțului muntos Karawanken.",
+                  "category": "natural",
+                  "coords": [
+                        14.288248,
+                        46.627867
+                  ]
+            },
+            {
+                  "name": "the artbooster",
+                  "text": "O galerie de artă din Klagenfurt care prezintă lucrări contemporane.",
+                  "category": "museum",
+                  "coords": [
+                        14.307873,
+                        46.624688
+                  ]
+            },
+            {
+                  "name": "galerie 31",
+                  "text": "O mică galerie de artă din Klagenfurt, cu accent pe artiștii regionali.",
+                  "category": "museum",
+                  "coords": [
+                        14.310977,
+                        46.62268
+                  ]
+            },
+            {
+                  "name": "BV-Galerie",
+                  "text": "Galeria asociației profesionale a artiștilor vizuali din Austria în Klagenfurt.",
+                  "category": "museum",
+                  "coords": [
+                        14.30147,
+                        46.631208
+                  ]
+            },
+            {
+                  "name": "Galerie Kunstwerk",
+                  "text": "O galerie în Klagenfurt pentru artă contemporană și expoziții.",
+                  "category": "museum",
+                  "coords": [
+                        14.300228,
+                        46.627442
+                  ]
+            },
+            {
+                  "name": "Raum für Fotografie",
+                  "text": "O galerie din Klagenfurt dedicată exclusiv artei fotografice.",
+                  "category": "museum",
+                  "coords": [
+                        14.306786,
+                        46.619697
+                  ]
+            },
+            {
+                  "name": "Jugendzentrum kwadrat",
+                  "text": "Un centru cultural pentru tineri în Klagenfurt, cu accent pe muzică și artă.",
+                  "category": "cultural",
+                  "coords": [
+                        14.303331,
+                        46.616682
+                  ]
+            },
+            {
+                  "name": "Favela",
+                  "text": "Un spațiu de expoziție în Klagenfurt pentru artă tânără și alternativă.",
+                  "category": "museum",
+                  "coords": [
+                        14.286403,
+                        46.62027
+                  ]
+            },
+            {
+                  "name": "ArtGalerie Branko",
+                  "text": "O galerie din Klagenfurt care prezintă opere de artă modernă.",
+                  "category": "museum",
+                  "coords": [
+                        14.309709,
+                        46.625904
+                  ]
+            },
+            {
+                  "name": "Christkönigskirche",
+                  "text": "O biserică romano-catolică din Klagenfurt cu o arhitectură modernă frapantă.",
+                  "category": "religious",
+                  "coords": [
+                        14.295697,
+                        46.623245
+                  ]
+            },
+            {
+                  "name": "Heiligengeistkirche",
+                  "text": "O biserică istorică în Heiligengeistplatz, în inima orașului Klagenfurt.",
+                  "category": "religious",
+                  "coords": [
+                        14.304751,
+                        46.624782
+                  ]
+            },
+            {
+                  "name": "St. Martin",
+                  "text": "O biserică parohială romano-catolică în cartierul St. Martin din Klagenfurt.",
+                  "category": "religious",
+                  "coords": [
+                        14.279731,
+                        46.624204
+                  ]
+            },
+            {
+                  "name": "Don Bosco",
+                  "text": "O biserică modernă din Klagenfurt dedicată asistenței spirituale și comunității.",
+                  "category": "religious",
+                  "coords": [
+                        14.298692,
+                        46.610726
+                  ]
+            },
+            {
+                  "name": "Filialkirche Sankt Primus",
+                  "text": "O biserică mai mică din Klagenfurt, sfințită în cinstea Sfântului Primus.",
+                  "category": "religious",
+                  "coords": [
+                        14.276493,
+                        46.638537
+                  ]
+            },
+            {
+                  "name": "Neuapostolische Kirche Klagenfurt",
+                  "text": "Centrul comunitar al Bisericii Nou-Apostolice din Klagenfurt.",
+                  "category": "religious",
+                  "coords": [
+                        14.311766,
+                        46.641207
+                  ]
+            },
+            {
+                  "name": "Klagenfurt-St. Hemma",
+                  "text": "O biserică parohială catolică modernă din Klagenfurt, numită după Sfânta Hemma.",
+                  "category": "religious",
+                  "coords": [
+                        14.296736,
+                        46.634534
+                  ]
+            },
+            {
+                  "name": "St. Lorenzen",
+                  "text": "O biserică istorică în cadrul rural al orașului Klagenfurt.",
+                  "category": "religious",
+                  "coords": [
+                        14.315839,
+                        46.626015
+                  ]
+            },
+            {
+                  "name": "Johanneskirche",
+                  "text": "O biserică evanghelică din Klagenfurt, cu un design simplu și primitor.",
+                  "category": "religious",
+                  "coords": [
+                        14.299596,
+                        46.623668
+                  ]
+            },
+            {
+                  "name": "Pfarrkirche St. Josef",
+                  "text": "O biserică parohială romano-catolică ce formează centrul cartierului Siebenhügel.",
+                  "category": "religious",
+                  "coords": [
+                        14.283565,
+                        46.612462
+                  ]
+            },
+            {
+                  "name": "Christuskirche",
+                  "text": "O clădire de biserică din Klagenfurt, care servește ca loc de rugăciune și reflecție.",
+                  "category": "religious",
+                  "coords": [
+                        14.327702,
+                        46.632603
+                  ]
+            },
+            {
+                  "name": "St. Theresia",
+                  "text": "O biserică catolică din Klagenfurt.",
+                  "category": "religious",
+                  "coords": [
+                        14.324201,
+                        46.634642
+                  ]
+            },
+            {
+                  "name": "Pfarrkirche St. Peter",
+                  "text": "O biserică parohială dedicată Sfântului Petru din Klagenfurt.",
+                  "category": "religious",
+                  "coords": [
+                        14.328167,
+                        46.624467
+                  ]
+            },
+            {
+                  "name": "Pfarrkirche St. Modestus",
+                  "text": "O biserică parohială romano-catolică din Klagenfurt.",
+                  "category": "religious",
+                  "coords": [
+                        14.332908,
+                        46.619623
+                  ]
+            },
+            {
+                  "name": "Pfarrkirche Annabichl",
+                  "text": "Biserica parohială din cartierul Annabichl din Klagenfurt.",
+                  "category": "religious",
+                  "coords": [
+                        14.313437,
+                        46.640378
+                  ]
+            },
+            {
+                  "name": "Kreuzberglkirche",
+                  "text": "O biserică emblematică de pe dealul Kreuzbergl din Klagenfurt.",
+                  "category": "religious",
+                  "coords": [
+                        14.29195,
+                        46.628725
+                  ]
+            },
+            {
+                  "name": "St. Ruprecht",
+                  "text": "O biserică dedicată Sfântului Ruprecht din Klagenfurt.",
+                  "category": "religious",
+                  "coords": [
+                        14.313333,
+                        46.61214
+                  ]
+            },
+            {
+                  "name": "Strandbad Klagenfurt",
+                  "text": "Ștrandul Klagenfurt de pe lacul Wörthersee este unul dintre cele mai mari ștranduri lacustre din Europa, cu pontoane largi.",
+                  "category": "family",
+                  "coords": [
+                        14.255109,
+                        46.618699
+                  ]
+            },
+            {
+                  "name": "Minimundus",
+                  "text": "Minimundus din Klagenfurt prezintă clădiri celebre din întreaga lume în format miniatură, fascinând toate vârstele.",
+                  "category": "family",
+                  "coords": [
+                        14.264326,
+                        46.619804
+                  ]
+            },
+            {
+                  "name": "Reptilienzoo Happ",
+                  "text": "Grădina Zoologică de Reptile Happ din Klagenfurt prezintă o varietate de șerpi, șopârle și alte reptile.",
+                  "category": "family",
+                  "coords": [
+                        14.265566,
+                        46.619839
+                  ]
+            },
+            {
+                  "name": "Schloss Welzenegg",
+                  "text": "Un castel renascentist în estul orașului Klagenfurt.",
+                  "category": "castle",
+                  "coords": [
+                        14.332251,
+                        46.628315
+                  ]
+            },
+            {
+                  "name": "Landesmuseum Karnten",
+                  "text": "Muzeul de Stat al Carintiei expune obiecte de arheologie, artă și natură.",
+                  "category": "museum",
+                  "coords": [
+                        14.312461,
+                        46.621046
+                  ]
+            },
+            {
+                  "name": "Schloss Zigguln",
+                  "text": "Castel istoric și domeniu la marginea orașului Klagenfurt.",
+                  "category": "castle",
+                  "coords": [
+                        14.291837,
+                        46.635206
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Museum Moderner Kunst Kärnten",
+                  "text": "A museum in the Klagenfurt Castle presenting contemporary art and Carinthian classics.",
+                  "category": "museum",
+                  "coords": [
+                        14.310132,
+                        46.62417
+                  ]
+            },
+            {
+                  "name": "Eboardmuseum",
+                  "text": "A unique museum in Klagenfurt dedicated to electronic keyboard instruments.",
+                  "category": "museum",
+                  "coords": [
+                        14.304934,
+                        46.616492
+                  ]
+            },
+            {
+                  "name": "Diözesanmuseum",
+                  "text": "A museum in Klagenfurt displaying religious art and church history exhibits.",
+                  "category": "museum",
+                  "coords": [
+                        14.309381,
+                        46.622353
+                  ]
+            },
+            {
+                  "name": "Robert Musil Museum",
+                  "text": "The birthplace of writer Robert Musil now serves as a literary museum and research center.",
+                  "category": "museum",
+                  "coords": [
+                        14.313034,
+                        46.616579
+                  ]
+            },
+            {
+                  "name": "Stadttheater",
+                  "text": "Carinthia's most important theater house with a diverse program of operas and plays.",
+                  "category": "cultural",
+                  "coords": [
+                        14.305478,
+                        46.627075
+                  ]
+            },
+            {
+                  "name": "Jugendstiltheater Klagenfurt",
+                  "text": "A historic Art Nouveau theater building used for cultural events.",
+                  "category": "cultural",
+                  "coords": [
+                        14.302498,
+                        46.627068
+                  ]
+            },
+            {
+                  "name": "Thomas-Koschat-Museum",
+                  "text": "The Thomas-Koschat-Museum in Klagenfurt is dedicated to the life and work of the renowned Carinthian composer. This museum allows visitors to gain a deeper understanding of his musical legacy.",
+                  "category": "museum",
+                  "coords": [
+                        14.31049,
+                        46.620318
+                  ]
+            },
+            {
+                  "name": "Kammerlichtspiele",
+                  "text": "A traditional stage in Klagenfurt that today functions as a jazz club and theater.",
+                  "category": "cultural",
+                  "coords": [
+                        14.312617,
+                        46.62361
+                  ]
+            },
+            {
+                  "name": "VENTIL",
+                  "text": "An independent theater and cultural center in Klagenfurt for contemporary performing arts.",
+                  "category": "cultural",
+                  "coords": [
+                        14.311764,
+                        46.624686
+                  ]
+            },
+            {
+                  "name": "Mali Schachmuseum",
+                  "text": "A private museum in Klagenfurt presenting an extensive collection on the subject of chess.",
+                  "category": "museum",
+                  "coords": [
+                        14.290218,
+                        46.6065
+                  ]
+            },
+            {
+                  "name": "Figuren-Museum für Kaffeebeigaben",
+                  "text": "An unusual museum displaying collectible figures that formerly accompanied coffee packages.",
+                  "category": "museum",
+                  "coords": [
+                        14.306637,
+                        46.622086
+                  ]
+            },
+            {
+                  "name": "wissens.wert.welt",
+                  "text": "An interactive hands-on museum in Klagenfurt that makes science accessible for children.",
+                  "category": "museum",
+                  "coords": [
+                        14.32905,
+                        46.611416
+                  ]
+            },
+            {
+                  "name": "Kreuzbergl",
+                  "text": "The local mountain of Klagenfurt is a popular recreation area with forest paths and ponds.",
+                  "category": "natural",
+                  "coords": [
+                        14.276646,
+                        46.631716
+                  ]
+            },
+            {
+                  "name": "Wappensaal",
+                  "text": "A magnificent hall in the Klagenfurt Landhaus, decorated with the coats of arms of the Carinthian estates.",
+                  "category": "landmark",
+                  "coords": [
+                        14.305739,
+                        46.625053
+                  ]
+            },
+            {
+                  "name": "Spitalsberg",
+                  "text": "A wooded hill in Klagenfurt appreciated as a quiet hiking area.",
+                  "category": "natural",
+                  "coords": [
+                        14.307858,
+                        46.644088
+                  ]
+            },
+            {
+                  "name": "Schillerpark",
+                  "text": "A well-maintained park in Klagenfurt that invites walking and relaxation.",
+                  "category": "park",
+                  "coords": [
+                        14.303219,
+                        46.625416
+                  ]
+            },
+            {
+                  "name": "Herbertstöckl",
+                  "text": "A historic manor house in Klagenfurt with characteristic architecture.",
+                  "category": "historical",
+                  "coords": [
+                        14.302183,
+                        46.628338
+                  ]
+            },
+            {
+                  "name": "Botanischer Garten",
+                  "text": "A diverse garden at the foot of the Kreuzbergl, showcasing local and exotic plant life.",
+                  "category": "park",
+                  "coords": [
+                        14.293014,
+                        46.629668
+                  ]
+            },
+            {
+                  "name": "St.Egyd Panorama View",
+                  "text": "A viewpoint in Klagenfurt offering a wide view over the city.",
+                  "category": "natural",
+                  "coords": [
+                        14.307223,
+                        46.626224
+                  ]
+            },
+            {
+                  "name": "Karawankenblick",
+                  "text": "A viewpoint known for its clear view of the Karawanken mountain range.",
+                  "category": "natural",
+                  "coords": [
+                        14.288248,
+                        46.627867
+                  ]
+            },
+            {
+                  "name": "the artbooster",
+                  "text": "An art gallery in Klagenfurt presenting contemporary works.",
+                  "category": "museum",
+                  "coords": [
+                        14.307873,
+                        46.624688
+                  ]
+            },
+            {
+                  "name": "galerie 31",
+                  "text": "A small art gallery in Klagenfurt focusing on regional artists.",
+                  "category": "museum",
+                  "coords": [
+                        14.310977,
+                        46.62268
+                  ]
+            },
+            {
+                  "name": "BV-Galerie",
+                  "text": "The gallery of the professional association of visual artists in Austria in Klagenfurt.",
+                  "category": "museum",
+                  "coords": [
+                        14.30147,
+                        46.631208
+                  ]
+            },
+            {
+                  "name": "Galerie Kunstwerk",
+                  "text": "A gallery in Klagenfurt for contemporary art and exhibitions.",
+                  "category": "museum",
+                  "coords": [
+                        14.300228,
+                        46.627442
+                  ]
+            },
+            {
+                  "name": "Raum für Fotografie",
+                  "text": "A gallery in Klagenfurt dedicated exclusively to the art of photography.",
+                  "category": "museum",
+                  "coords": [
+                        14.306786,
+                        46.619697
+                  ]
+            },
+            {
+                  "name": "Jugendzentrum kwadrat",
+                  "text": "A cultural center for youth in Klagenfurt with a focus on music and art.",
+                  "category": "cultural",
+                  "coords": [
+                        14.303331,
+                        46.616682
+                  ]
+            },
+            {
+                  "name": "Favela",
+                  "text": "An exhibition space in Klagenfurt for young and alternative art.",
+                  "category": "museum",
+                  "coords": [
+                        14.286403,
+                        46.62027
+                  ]
+            },
+            {
+                  "name": "ArtGalerie Branko",
+                  "text": "A gallery in Klagenfurt presenting modern works of art.",
+                  "category": "museum",
+                  "coords": [
+                        14.309709,
+                        46.625904
+                  ]
+            },
+            {
+                  "name": "Christkönigskirche",
+                  "text": "A Roman Catholic church in Klagenfurt with striking modern architecture.",
+                  "category": "religious",
+                  "coords": [
+                        14.295697,
+                        46.623245
+                  ]
+            },
+            {
+                  "name": "Heiligengeistkirche",
+                  "text": "A historic church on Heiligengeistplatz in the heart of Klagenfurt.",
+                  "category": "religious",
+                  "coords": [
+                        14.304751,
+                        46.624782
+                  ]
+            },
+            {
+                  "name": "St. Martin",
+                  "text": "A Roman Catholic parish church in the St. Martin district of Klagenfurt.",
+                  "category": "religious",
+                  "coords": [
+                        14.279731,
+                        46.624204
+                  ]
+            },
+            {
+                  "name": "Don Bosco",
+                  "text": "A modern church in Klagenfurt dedicated to pastoral care and community.",
+                  "category": "religious",
+                  "coords": [
+                        14.298692,
+                        46.610726
+                  ]
+            },
+            {
+                  "name": "Filialkirche Sankt Primus",
+                  "text": "A smaller church in Klagenfurt dedicated to Saint Primus.",
+                  "category": "religious",
+                  "coords": [
+                        14.276493,
+                        46.638537
+                  ]
+            },
+            {
+                  "name": "Neuapostolische Kirche Klagenfurt",
+                  "text": "The community center of the New Apostolic Church in Klagenfurt.",
+                  "category": "religious",
+                  "coords": [
+                        14.311766,
+                        46.641207
+                  ]
+            },
+            {
+                  "name": "Klagenfurt-St. Hemma",
+                  "text": "A modern Catholic parish church in Klagenfurt named after Saint Hemma.",
+                  "category": "religious",
+                  "coords": [
+                        14.296736,
+                        46.634534
+                  ]
+            },
+            {
+                  "name": "St. Lorenzen",
+                  "text": "A historic church in the rural surroundings of Klagenfurt.",
+                  "category": "religious",
+                  "coords": [
+                        14.315839,
+                        46.626015
+                  ]
+            },
+            {
+                  "name": "Johanneskirche",
+                  "text": "A Protestant church in Klagenfurt with a simple and inviting design.",
+                  "category": "religious",
+                  "coords": [
+                        14.299596,
+                        46.623668
+                  ]
+            },
+            {
+                  "name": "Pfarrkirche St. Josef",
+                  "text": "A Roman Catholic parish church that forms the center of the Siebenhügel district.",
+                  "category": "religious",
+                  "coords": [
+                        14.283565,
+                        46.612462
+                  ]
+            },
+            {
+                  "name": "Christuskirche",
+                  "text": "A church building in Klagenfurt serving as a place of prayer and reflection.",
+                  "category": "religious",
+                  "coords": [
+                        14.327702,
+                        46.632603
+                  ]
+            },
+            {
+                  "name": "St. Theresia",
+                  "text": "A Catholic church located in Klagenfurt.",
+                  "category": "religious",
+                  "coords": [
+                        14.324201,
+                        46.634642
+                  ]
+            },
+            {
+                  "name": "Pfarrkirche St. Peter",
+                  "text": "A parish church dedicated to St. Peter in Klagenfurt.",
+                  "category": "religious",
+                  "coords": [
+                        14.328167,
+                        46.624467
+                  ]
+            },
+            {
+                  "name": "Pfarrkirche St. Modestus",
+                  "text": "A Roman Catholic parish church in Klagenfurt.",
+                  "category": "religious",
+                  "coords": [
+                        14.332908,
+                        46.619623
+                  ]
+            },
+            {
+                  "name": "Pfarrkirche Annabichl",
+                  "text": "The parish church in the Annabichl district of Klagenfurt.",
+                  "category": "religious",
+                  "coords": [
+                        14.313437,
+                        46.640378
+                  ]
+            },
+            {
+                  "name": "Kreuzberglkirche",
+                  "text": "A prominent Calvary church located on the Kreuzbergl hill in Klagenfurt.",
+                  "category": "religious",
+                  "coords": [
+                        14.29195,
+                        46.628725
+                  ]
+            },
+            {
+                  "name": "St. Ruprecht",
+                  "text": "A church dedicated to St. Ruprecht in Klagenfurt.",
+                  "category": "religious",
+                  "coords": [
+                        14.313333,
+                        46.61214
+                  ]
+            },
+            {
+                  "name": "Strandbad Klagenfurt",
+                  "text": "The Strandbad Klagenfurt on Lake Wörthersee is one of Europe's largest lakeside resorts with extensive piers.",
+                  "category": "family",
+                  "coords": [
+                        14.255109,
+                        46.618699
+                  ]
+            },
+            {
+                  "name": "Minimundus",
+                  "text": "Minimundus in Klagenfurt displays famous buildings of the world in miniature and delights all age groups.",
+                  "category": "family",
+                  "coords": [
+                        14.264326,
+                        46.619804
+                  ]
+            },
+            {
+                  "name": "Reptilienzoo Happ",
+                  "text": "The Reptilienzoo Happ in Klagenfurt presents a variety of snakes, lizards, and other reptiles.",
+                  "category": "family",
+                  "coords": [
+                        14.265566,
+                        46.619839
+                  ]
+            },
+            {
+                  "name": "Schloss Welzenegg",
+                  "text": "A Renaissance castle in the east of the city of Klagenfurt.",
+                  "category": "castle",
+                  "coords": [
+                        14.332251,
+                        46.628315
+                  ]
+            },
+            {
+                  "name": "Landesmuseum Karnten",
+                  "text": "The Carinthian State Museum displays exhibits on archaeology, art, and nature.",
+                  "category": "museum",
+                  "coords": [
+                        14.312461,
+                        46.621046
+                  ]
+            },
+            {
+                  "name": "Schloss Zigguln",
+                  "text": "Historic castle and estate on the outskirts of Klagenfurt.",
+                  "category": "castle",
+                  "coords": [
+                        14.291837,
+                        46.635206
+                  ]
+            }
+      ]
+}, type: "city", parent: "AT-2", coords: [14.3053, 46.6247],
     name: { de: "Klagenfurt", hu: "Klagenfurt", ro: "Klagenfurt", en: "Klagenfurt" },
     image: "/geo-images/austria/klagenfurt.webp",
     description: { de: "Klagenfurt am Wörthersee, die Hauptstadt Kärntens, gilt als die charmante Renaissance-Perle des österreichischen Südens. Die Altstadt wird von wunderschön restaurierten Palazzi und malerischen Innenhöfen geprägt, die von italienischen Baumeistern im 16. Jahrhundert entworfen wurden. Das Wahrzeichen der Stadt, der mächtige steinerne Lindwurm, bewacht den weitläufigen Neuen Platz. Was Klagenfurt besonders attraktiv macht, ist seine unmittelbare Nähe zum türkisfarbenen Wörthersee, der im Sommer mit seinem warmen Wasser fast karibisches Flair verströmt. Hier verschmelzen urbane Kultur, sportliche Aktivität und entspanntes Badeleben zu einer perfekten Symbiose.", hu: "Klagenfurt am Wörthersee, Karintia fővárosa, az osztrák délvidék bájos reneszánsz gyöngyszemének számít. Az óvárost gyönyörűen felújított palazzók és festői belső udvarok jellemzik, amelyeket olasz építőmesterek terveztek a 16. században. A város jelképe, a hatalmas kőből faragott Lindwurm (sárkány) őrzi a tágas Új Teret (Neuer Platz). Ami Klagenfurtot különösen vonzóvá teszi, az a türkizkék Wörthersee (wörthi-tó) közvetlen közelsége, amely nyáron meleg vizével szinte karibi hangulatot áraszt. Itt az urbánus kultúra, a sporttevékenységek és a pihentető fürdőélet tökéletes szimbiózissá olvad össze.", ro: "Klagenfurt am Wörthersee, capitala Carintiei, este considerată fermecătoarea perlă renascentistă a sudului austriac. Orașul vechi este caracterizat de palate frumos restaurate și curți pitorești, care au fost proiectate de maeștrii constructori italieni în secolul al XVI-lea. Simbolul orașului, masivul balaur din piatră (Lindwurm), păzește piața spațioasă Neuer Platz. Ceea ce face din Klagenfurt un oraș deosebit de atractiv este proximitatea sa imediată față de apele turcoaz ale lacului Wörthersee, care emană o atmosferă aproape caraibiană vara cu apa sa caldă. Aici, cultura urbană, activitățile sportive și relaxarea la plajă se contopesc într-o simbioză perfectă.", en: "Klagenfurt am Wörthersee, the capital of Carinthia, is considered the charming Renaissance pearl of the Austrian south. The old town is characterized by beautifully restored palazzi and picturesque courtyards, which were designed by Italian master builders in the 16th century. The city's landmark, the massive stone Lindwurm (dragon), guards the spacious Neuer Platz. What makes Klagenfurt particularly attractive is its immediate proximity to the turquoise waters of Lake Wörthersee, which exudes an almost Caribbean flair in summer with its warm water. Here, urban culture, sporting activities, and relaxed beach life merge into a perfect symbiosis." , es: "Klagenfurt am Wörthersee, la capital de Carintia, es considerada la encantadora perla renacentista del sur de Austria. El casco antiguo se caracteriza por palacios bellamente restaurados y patios pintorescos, diseñados por arquitectos italianos en el siglo XVI. El símbolo de la ciudad, el poderoso Lindwurm de piedra, custodia la amplia Neuer Platz. Lo que hace a Klagenfurt especialmente atractiva es su proximidad inmediata al turquesa lago Wörthersee, que en verano desprende un aire casi caribeño con sus aguas cálidas. Aquí, la cultura urbana, la actividad deportiva y la relajada vida de baño se funden en una simbiosis perfecta.", pt: "Klagenfurt am Wörthersee, a capital da Caríntia, é considerada a encantadora pérola renascentista do sul da Áustria. O centro histórico é marcado por palácios magnificamente restaurados e pátios interiores pitorescos, projetados por construtores italianos no século XVI. O ex-líbris da cidade, o imponente Lindwurm de pedra, guarda a ampla Neuer Platz. O que torna Klagenfurt particularmente atraente é a sua proximidade imediata ao lago Wörthersee, de águas azul-turquesa, que no verão emana um toque quase caribenho com as suas águas quentes. Aqui, a cultura urbana, a atividade desportiva e a vida balnear descontraída fundem-se numa simbiose perfeita.", fr: "Klagenfurt am Wörthersee, capitale de la Carinthie, est considérée comme la charmante perle de la Renaissance du sud de l'Autriche. La vieille ville est marquée par des palais magnifiquement restaurés et des cours intérieures pittoresques, conçus par des bâtisseurs italiens au XVIe siècle. L'emblème de la ville, le puissant Lindwurm (dragon) de pierre, garde la vaste Neuer Platz. Ce qui rend Klagenfurt particulièrement attrayante, c'est sa proximité immédiate avec les eaux turquoise du lac Wörthersee qui, en été, dégagent un air presque caribéen avec leurs eaux chaudes. Ici, la culture urbaine, l'activité sportive et la vie balnéaire détendue se fondent en une symbiose parfaite."},
@@ -9746,7 +14372,304 @@ export const austriaCities: POI[] = [
     },
   },
   {
-    id: "AT-Hofburg", type: "landmark", parent: "AT-9", coords: [16.3653, 48.2065],
+    id: "AT-Hofburg", "sights": {
+      "de": [
+            {
+                  "name": "Albertina",
+                  "text": "Ein weltberühmtes Kunstmuseum in der Wiener Hofburg mit einer bedeutenden grafischen Sammlung.",
+                  "category": "museum",
+                  "coords": [
+                        16.36826,
+                        48.204636
+                  ]
+            },
+            {
+                  "name": "Rabenhof",
+                  "text": "Ein bekanntes Theater in Wien, das für seine zeitgenössischen Inszenierungen bekannt ist.",
+                  "category": "cultural",
+                  "coords": [
+                        16.401665,
+                        48.19582
+                  ]
+            },
+            {
+                  "name": "Metropol",
+                  "text": "Ein traditionsreiches Wiener Veranstaltungszentrum für Konzerte und Kabarett.",
+                  "category": "cultural",
+                  "coords": [
+                        16.33422,
+                        48.217006
+                  ]
+            },
+            {
+                  "name": "Theater im Zentrum",
+                  "text": "Ein bekanntes Wiener Theater, das sich auf Vorstellungen für junges Publikum spezialisiert hat.",
+                  "category": "cultural",
+                  "coords": [
+                        16.372964,
+                        48.207203
+                  ]
+            },
+            {
+                  "name": "Bank Austria Kunstforum",
+                  "text": "Ein renommiertes Kunstmuseum in Wien, das bedeutende Wechselausstellungen präsentiert.",
+                  "category": "museum",
+                  "coords": [
+                        16.366258,
+                        48.211441
+                  ]
+            },
+            {
+                  "name": "Architekturzentrum Wien",
+                  "text": "Ein Museum in der Wiener Hofburg, das sich der modernen Architektur widmet.",
+                  "category": "museum",
+                  "coords": [
+                        16.357616,
+                        48.204179
+                  ]
+            },
+            {
+                  "name": "Pfadfindermuseum",
+                  "text": "Ein Museum in Wien, das die Geschichte der Pfadfinderbewegung dokumentiert.",
+                  "category": "museum",
+                  "coords": [
+                        16.325881,
+                        48.199936
+                  ]
+            },
+            {
+                  "name": "Kammerspiele",
+                  "text": "Ein traditionsreiches Theater in Wien, das Teil des Theaters an der Josefstadt ist.",
+                  "category": "cultural",
+                  "coords": [
+                        16.375983,
+                        48.211105
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Albertina",
+                  "text": "Világhírű művészeti múzeum a bécsi Hofburgban, jelentős grafikai gyűjteménnyel.",
+                  "category": "museum",
+                  "coords": [
+                        16.36826,
+                        48.204636
+                  ]
+            },
+            {
+                  "name": "Rabenhof",
+                  "text": "Ismert bécsi színház, amely kortárs előadásairól nevezetes.",
+                  "category": "cultural",
+                  "coords": [
+                        16.401665,
+                        48.19582
+                  ]
+            },
+            {
+                  "name": "Metropol",
+                  "text": "Hagyományőrző bécsi rendezvényközpont koncertek és kabaré számára.",
+                  "category": "cultural",
+                  "coords": [
+                        16.33422,
+                        48.217006
+                  ]
+            },
+            {
+                  "name": "Theater im Zentrum",
+                  "text": "Ismert bécsi színház, amely a fiatal közönségnek szóló előadásokra szakosodott.",
+                  "category": "cultural",
+                  "coords": [
+                        16.372964,
+                        48.207203
+                  ]
+            },
+            {
+                  "name": "Bank Austria kortárs művészeti fórum",
+                  "text": "Neves bécsi művészeti múzeum, amely jelentős időszaki kiállításokat mutat be.",
+                  "category": "museum",
+                  "coords": [
+                        16.366258,
+                        48.211441
+                  ]
+            },
+            {
+                  "name": "Bécsi Építészeti Központ",
+                  "text": "A bécsi Hofburgban található múzeum, amely a modern építészetnek szentelt.",
+                  "category": "museum",
+                  "coords": [
+                        16.357616,
+                        48.204179
+                  ]
+            },
+            {
+                  "name": "Pfadfindermuseum",
+                  "text": "Bécsi múzeum, amely a cserkészmozgalom történetét mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        16.325881,
+                        48.199936
+                  ]
+            },
+            {
+                  "name": "Kammerspiele",
+                  "text": "Hagyományos bécsi színház, a Theater an der Josefstadt része.",
+                  "category": "cultural",
+                  "coords": [
+                        16.375983,
+                        48.211105
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Albertina",
+                  "text": "Un muzeu de artă de renume mondial din Hofburg, Viena, cu o colecție grafică importantă.",
+                  "category": "museum",
+                  "coords": [
+                        16.36826,
+                        48.204636
+                  ]
+            },
+            {
+                  "name": "Rabenhof",
+                  "text": "Un teatru cunoscut din Viena, apreciat pentru producțiile sale contemporane.",
+                  "category": "cultural",
+                  "coords": [
+                        16.401665,
+                        48.19582
+                  ]
+            },
+            {
+                  "name": "Metropol",
+                  "text": "Un centru de evenimente tradițional din Viena pentru concerte și cabaret.",
+                  "category": "cultural",
+                  "coords": [
+                        16.33422,
+                        48.217006
+                  ]
+            },
+            {
+                  "name": "Theater im Zentrum",
+                  "text": "Un teatru cunoscut din Viena, specializat în spectacole pentru publicul tânăr.",
+                  "category": "cultural",
+                  "coords": [
+                        16.372964,
+                        48.207203
+                  ]
+            },
+            {
+                  "name": "Bank Austria Kunstforum",
+                  "text": "Un muzeu de artă renumit din Viena, care găzduiește expoziții temporare importante.",
+                  "category": "museum",
+                  "coords": [
+                        16.366258,
+                        48.211441
+                  ]
+            },
+            {
+                  "name": "Architekturzentrum Wien",
+                  "text": "Un muzeu din complexul Hofburg din Viena dedicat arhitecturii moderne.",
+                  "category": "museum",
+                  "coords": [
+                        16.357616,
+                        48.204179
+                  ]
+            },
+            {
+                  "name": "Pfadfindermuseum",
+                  "text": "Un muzeu din Viena care documentează istoria mișcării de cercetași.",
+                  "category": "museum",
+                  "coords": [
+                        16.325881,
+                        48.199936
+                  ]
+            },
+            {
+                  "name": "Kammerspiele",
+                  "text": "Un teatru tradițional din Viena, parte a Theater an der Josefstadt.",
+                  "category": "cultural",
+                  "coords": [
+                        16.375983,
+                        48.211105
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Albertina",
+                  "text": "A world-famous art museum in the Hofburg, Vienna, with a significant graphic collection.",
+                  "category": "museum",
+                  "coords": [
+                        16.36826,
+                        48.204636
+                  ]
+            },
+            {
+                  "name": "Rabenhof",
+                  "text": "A well-known theatre in Vienna known for its contemporary productions.",
+                  "category": "cultural",
+                  "coords": [
+                        16.401665,
+                        48.19582
+                  ]
+            },
+            {
+                  "name": "Metropol",
+                  "text": "A traditional Viennese event venue for concerts and cabaret.",
+                  "category": "cultural",
+                  "coords": [
+                        16.33422,
+                        48.217006
+                  ]
+            },
+            {
+                  "name": "Theater im Zentrum",
+                  "text": "A well-known Viennese theatre specializing in performances for young audiences.",
+                  "category": "cultural",
+                  "coords": [
+                        16.372964,
+                        48.207203
+                  ]
+            },
+            {
+                  "name": "Bank Austria Kunstforum",
+                  "text": "A renowned art museum in Vienna that hosts significant temporary exhibitions.",
+                  "category": "museum",
+                  "coords": [
+                        16.366258,
+                        48.211441
+                  ]
+            },
+            {
+                  "name": "Architecture Centre Vienna",
+                  "text": "A museum in the Hofburg, Vienna, dedicated to modern architecture.",
+                  "category": "museum",
+                  "coords": [
+                        16.357616,
+                        48.204179
+                  ]
+            },
+            {
+                  "name": "Pfadfindermuseum",
+                  "text": "A museum in Vienna documenting the history of the scouting movement.",
+                  "category": "museum",
+                  "coords": [
+                        16.325881,
+                        48.199936
+                  ]
+            },
+            {
+                  "name": "Kammerspiele",
+                  "text": "A traditional theatre in Vienna, part of the Theater an der Josefstadt.",
+                  "category": "cultural",
+                  "coords": [
+                        16.375983,
+                        48.211105
+                  ]
+            }
+      ]
+}, type: "landmark", parent: "AT-9", coords: [16.3653, 48.2065],
     name: { de: "Hofburg", hu: "Hofburg", ro: "Hofburg", en: "Hofburg Palace" },
     image: "/geo-images/austria/hofburg-palace.webp",
     description: {"de":"Die Hofburg im Herzen Wiens war über sechs Jahrhunderte lang die Hauptresidenz und das Machtzentrum der mächtigen Habsburger-Dynastie. Heute beherbergt der weitläufige Palastkomplex den Amtssitz des österreichischen Bundespräsidenten sowie zahlreiche Museen und kulturelle Institutionen. Die riesige Anlage, die laufend erweitert wurde, spiegelt verschiedene Architekturstile von der Gotik bis zum Historismus wider. Besucher können die kaiserlichen Appartements von Kaiser Franz Joseph und Kaiserin Sisi, das faszinierende Sisi-Museum und die weltberühmte Spanische Hofreitschule besichtigen. Die Hofburg ist ein unverzichtbares Monument der österreichischen Geschichte und Kultur.","hu":"A bécsi Hofburg több mint hat évszázadon át a hatalmas Habsburg-dinasztia fő rezidenciája és hatalmi központja volt. Ma a kiterjedt palotakomplexum az osztrák szövetségi elnök hivatalának, valamint számos múzeumnak és kulturális intézménynek ad otthont. A folyamatosan bővített hatalmas létesítmény a gótikától a historizmusig különböző építészeti stílusokat tükröz. A látogatók megtekinthetik Ferenc József császár és Sisi császárné császári lakosztályait, a lenyűgöző Sisi Múzeumot és a világhírű Spanyol Lovasiskolát. A Hofburg az osztrák történelem és kultúra kihagyhatatlan műemléke.","ro":"Hofburg, situat în inima Vienei, a fost timp de peste șase secole reședința principală și centrul de putere al puternicei dinastii de Habsburg. Astăzi, vastul complex de palate găzduiește reședința oficială a președintelui federal austriac, precum și numeroase muzee și instituții culturale. Imensul complex, care a fost extins în mod continuu, reflectă diverse stiluri arhitecturale, de la gotic la istoricism. Vizitatorii pot explora apartamentele imperiale ale Împăratului Franz Joseph și ale Împărătesei Sisi, fascinantul Muzeu Sisi și faimoasa Școală Spaniolă de Călărie. Hofburg este un monument indispensabil al istoriei și culturii austriece.","en":"The Hofburg in the heart of Vienna was the main residence and center of power of the mighty Habsburg dynasty for over six centuries. Today, the extensive palace complex houses the official residence of the Austrian Federal President, as well as numerous museums and cultural institutions. The huge complex, which was continuously expanded, reflects various architectural styles from Gothic to Historicism. Visitors can explore the imperial apartments of Emperor Franz Joseph and Empress Sisi, the fascinating Sisi Museum, and the world-famous Spanish Riding School. The Hofburg is an indispensable monument to Austrian history and culture.", es: "El Palacio de Hofburg, en el corazón de Viena, fue durante más de seis siglos la residencia principal y el centro de poder de la poderosa dinastía de los Habsburgo. Hoy en día, el extenso complejo palaciego alberga la sede oficial del Presidente de Austria, así como numerosos museos e instituciones culturales. El enorme complejo, que fue ampliado continuamente, refleja varios estilos arquitectónicos, desde el gótico hasta el historicismo. Los visitantes pueden visitar los apartamentos imperiales del emperador Francisco José y la emperatriz Sisi, el fascinante Museo Sisi y la mundialmente famosa Escuela Española de Equitación. El Hofburg es un monumento indispensable de la historia y cultura austriacas.", pt: "O Palácio de Hofburg, no coração de Viena, foi durante mais de seis séculos a residência principal e o centro de poder da poderosa dinastia dos Habsburgos. Hoje, o vasto complexo palaciano alberga a sede oficial do Presidente Federal da Áustria, bem como numerosos museus e instituições culturais. O enorme complexo, que foi continuamente ampliado, reflete vários estilos arquitetónicos, do gótico ao historicismo. Os visitantes podem visitar os apartamentos imperiais do Imperador Francisco José e da Imperatriz Sisi, o fascinante Museu Sisi e a mundialmente famosa Escola Espanhola de Equitação. O Hofburg é um monumento indispensável da história e cultura austríacas.", fr: "La Hofburg, au cœur de Vienne, a été pendant plus de six siècles la résidence principale et le centre du pouvoir de la puissante dynastie des Habsbourg. Aujourd'hui, ce vaste complexe palatial abrite le siège officiel du président de la République autrichienne ainsi que de nombreux musées et institutions culturelles. L'immense domaine, qui a été constamment agrandi, reflète différents styles architecturaux, du gothique à l'historicisme. Les visiteurs peuvent y découvrir les appartements impériaux de l'empereur François-Joseph et de l'impératrice Sissi, le fascinant musée Sissi et la célèbre École espagnole d'équitation. La Hofburg est un monument incontournable de l'histoire et de la culture autrichiennes."}, facts: {"de":["Mit rund 2.600 Räumen ist die Hofburg einer der größten Palastkomplexe Europas.","Beherbergt die Schatzkammer mit der Krone des Heiligen Römischen Reiches.","In der Spanischen Hofreitschule treten die berühmten Lipizzaner auf.","Die Österreichische Nationalbibliothek in der Neuen Burg hat einen prachtvollen Prunksaal.","Das Sisi-Museum zeigt persönliche Gegenstände der Kaiserin Elisabeth.","Die Heldenplatz-Fassade in der Neuen Burg ist historisch bedeutsam.","Die Burgkapelle ist die älteste erhaltene Kirche der Hofburg.","War das Zentrum des österreichisch-ungarischen Reiches.","Hier hat der österreichische Bundespräsident seinen offiziellen Amtssitz.","Der Komplex wurde über mehr als 700 Jahre kontinuierlich ausgebaut."],"hu":["Mintegy 2600 szobájával a Hofburg Európa egyik legnagyobb palotakomplexuma.","Itt található a Kincstár a Német-római Birodalom koronájával.","A Spanyol Lovasiskolában lépnek fel a híres lipicai lovak.","A Neue Burgban található Osztrák Nemzeti Könyvtárnak pompás díszterme van.","A Sisi Múzeum Erzsébet császárné személyes tárgyait mutatja be.","A Neue Burg Hősök tere (Heldenplatz) felőli homlokzata történelmi jelentőségű.","A Várkápolna (Burgkapelle) a Hofburg legrégebbi fennmaradt temploma.","Az Osztrák-Magyar Monarchia központja volt.","Itt van az osztrák szövetségi elnök hivatalos székhelye.","A komplexumot több mint 700 éven keresztül folyamatosan bővítették."],"ro":["Cu aproximativ 2.600 de camere, Hofburg este unul dintre cele mai mari complexe de palate din Europa.","Găzduiește Trezoreria (Schatzkammer) cu Coroana Sfântului Imperiu Roman.","Celebrii cai lipițani concertează la Școala Spaniolă de Călărie.","Biblioteca Națională a Austriei din Neue Burg are o Sală de Stat (Prunksaal) magnifică.","Muzeul Sisi expune obiecte personale ale Împărătesei Elisabeta.","Fațada către Heldenplatz (Piața Eroilor) din Neue Burg are o semnificație istorică.","Capela Palatului este cea mai veche biserică păstrată din Hofburg.","A fost centrul Imperiului Austro-Ungar.","Președintele federal austriac are aici reședința oficială.","Complexul a fost extins în mod continuu pe parcursul a peste 700 de ani."],"en":["With around 2,600 rooms, the Hofburg is one of the largest palace complexes in Europe.","Houses the Imperial Treasury with the Crown of the Holy Roman Empire.","The famous Lipizzaner horses perform in the Spanish Riding School.","The Austrian National Library in the Neue Burg has a magnificent State Hall (Prunksaal).","The Sisi Museum displays personal items of Empress Elisabeth.","The Heldenplatz facade in the Neue Burg is historically significant.","The Palace Chapel is the oldest preserved church in the Hofburg.","Was the center of the Austro-Hungarian Empire.","The Austrian Federal President has his official residence here.","The complex was continuously expanded over more than 700 years."], es: ["Con unas 2.600 habitaciones, el Hofburg es uno de los complejos palaciegos más grandes de Europa.", "Alberga la Tesorería con la corona del Sacro Imperio Romano Germánico.", "En la Escuela Española de Equitación actúan los famosos Lipizzanos.", "La Biblioteca Nacional de Austria en el Nuevo Castillo tiene una magnífica sala de gala.", "El Museo Sisi muestra objetos personales de la emperatriz Isabel.", "La fachada de la Heldenplatz en el Nuevo Castillo es históricamente significativa.", "La capilla del castillo es la iglesia conservada más antigua del Hofburg.", "Fue el centro del Imperio Austrohúngaro.", "Aquí tiene el Presidente de Austria su sede oficial.", "El complejo fue ampliado continuamente durante más de 700 años."], pt: ["Com cerca de 2.600 salas, o Hofburg é um dos maiores complexos palacianos da Europa.", "Alberga a Tesouraria com a coroa do Sacro Império Romano-Germânico.", "Na Escola Espanhola de Equitação atuam os famosos Lipizzanos.", "A Biblioteca Nacional da Áustria no Novo Castelo tem um magnífico salão de gala.", "O Museu Sisi mostra objetos pessoais da Imperatriz Isabel.", "A fachada da Heldenplatz no Novo Castelo é historicamente significativa.", "A capela do castelo é a igreja preservada mais antiga do Hofburg.", "Foi o centro do Império Áustro-Húngaro.", "Aqui o Presidente Federal da Áustria tem a sua sede oficial.", "O complexo foi continuamente ampliado ao longo de mais de 700 anos."], fr: ["Avec environ 2 600 pièces, la Hofburg est l'un des plus grands complexes palatiaux d'Europe.", "Elle abrite le Trésor impérial avec la couronne du Saint-Empire romain germanique.", "Les célèbres lipizzans se produisent à l'École espagnole d'équitation.", "La Bibliothèque nationale autrichienne dans la Neue Burg possède une somptueuse salle d'apparat.", "Le musée Sissi expose des objets personnels de l'impératrice Élisabeth.", "La façade de la Heldenplatz dans la Neue Burg est d'une grande importance historique.", "La chapelle impériale est la plus ancienne église conservée de la Hofburg.", "Elle était le centre de l'Empire austro-hongrois.", "Le président de la République autrichienne y a son siège officiel.", "Le complexe a été continuellement agrandi pendant plus de 700 ans."]},
@@ -9770,7 +14693,304 @@ export const austriaCities: POI[] = [
     },
   },
   {
-    id: "AT-Stephansdom", type: "landmark", parent: "AT-9", coords: [16.3731, 48.2085],
+    id: "AT-Stephansdom", "sights": {
+      "de": [
+            {
+                  "name": "Albertina",
+                  "text": "Ein weltberühmtes Kunstmuseum in Wien, das eine der bedeutendsten grafischen Sammlungen beherbergt.",
+                  "category": "museum",
+                  "coords": [
+                        16.36826,
+                        48.204636
+                  ]
+            },
+            {
+                  "name": "Rabenhof",
+                  "text": "Ein bekanntes Wiener Theater, das für seine zeitgenössischen und kabarettistischen Produktionen berühmt ist.",
+                  "category": "cultural",
+                  "coords": [
+                        16.401665,
+                        48.19582
+                  ]
+            },
+            {
+                  "name": "Metropol",
+                  "text": "Ein traditionsreiches Wiener Veranstaltungszentrum, das für Konzerte, Musicals und Kabarett bekannt ist.",
+                  "category": "cultural",
+                  "coords": [
+                        16.33422,
+                        48.217006
+                  ]
+            },
+            {
+                  "name": "Theater im Zentrum",
+                  "text": "Eine Spielstätte in Wien, die vor allem Theateraufführungen für Kinder und Jugendliche anbietet.",
+                  "category": "cultural",
+                  "coords": [
+                        16.372964,
+                        48.207203
+                  ]
+            },
+            {
+                  "name": "Bank Austria Kunstforum",
+                  "text": "Ein privates Kunstmuseum in Wien, das hochkarätige Wechselausstellungen zur klassischen Moderne zeigt.",
+                  "category": "museum",
+                  "coords": [
+                        16.366258,
+                        48.211441
+                  ]
+            },
+            {
+                  "name": "Architekturzentrum Wien",
+                  "text": "Das österreichische Architekturmuseum, das Ausstellungen zur Baukunst und Stadtplanung präsentiert.",
+                  "category": "museum",
+                  "coords": [
+                        16.357616,
+                        48.204179
+                  ]
+            },
+            {
+                  "name": "Pfadfindermuseum",
+                  "text": "Ein Museum in Wien, das die Geschichte und Werte der weltweiten Pfadfinderbewegung dokumentiert.",
+                  "category": "museum",
+                  "coords": [
+                        16.325881,
+                        48.199936
+                  ]
+            },
+            {
+                  "name": "Kammerspiele",
+                  "text": "Eine traditionsreiche Bühne in Wien, die für Komödien und zeitgenössische Theaterstücke bekannt ist.",
+                  "category": "cultural",
+                  "coords": [
+                        16.375983,
+                        48.211105
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Albertina",
+                  "text": "Világhírű bécsi művészeti múzeum, amely az egyik legjelentősebb grafikai gyűjteménynek ad otthont.",
+                  "category": "museum",
+                  "coords": [
+                        16.36826,
+                        48.204636
+                  ]
+            },
+            {
+                  "name": "Rabenhof",
+                  "text": "Ismert bécsi színház, amely kortárs és kabaréprodukcióiról híres.",
+                  "category": "cultural",
+                  "coords": [
+                        16.401665,
+                        48.19582
+                  ]
+            },
+            {
+                  "name": "Metropol",
+                  "text": "Gazdag hagyományokkal rendelkező bécsi rendezvényközpont, amely koncertekről és musicalekről ismert.",
+                  "category": "cultural",
+                  "coords": [
+                        16.33422,
+                        48.217006
+                  ]
+            },
+            {
+                  "name": "Theater im Zentrum",
+                  "text": "Bécsi játszóhely, amely elsősorban gyermek- és ifjúsági színházi előadásokat kínál.",
+                  "category": "cultural",
+                  "coords": [
+                        16.372964,
+                        48.207203
+                  ]
+            },
+            {
+                  "name": "Bank Austria kortárs művészeti fórum",
+                  "text": "Privát bécsi művészeti múzeum, amely a klasszikus modernizmus rangos időszaki kiállításait mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        16.366258,
+                        48.211441
+                  ]
+            },
+            {
+                  "name": "Bécsi Építészeti Központ",
+                  "text": "Az osztrák építészeti múzeum, amely az építőművészettel és várostervezéssel kapcsolatos kiállításokat mutat be.",
+                  "category": "museum",
+                  "coords": [
+                        16.357616,
+                        48.204179
+                  ]
+            },
+            {
+                  "name": "Pfadfindermuseum",
+                  "text": "Bécsi múzeum, amely a globális cserkészmozgalom történetét és értékeit mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        16.325881,
+                        48.199936
+                  ]
+            },
+            {
+                  "name": "Kammerspiele",
+                  "text": "Hagyományos bécsi színpad, amely vígjátékairól és kortárs színdarabjairól ismert.",
+                  "category": "cultural",
+                  "coords": [
+                        16.375983,
+                        48.211105
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Albertina",
+                  "text": "Un muzeu de artă de renume mondial din Viena, care adăpostește una dintre cele mai importante colecții grafice.",
+                  "category": "museum",
+                  "coords": [
+                        16.36826,
+                        48.204636
+                  ]
+            },
+            {
+                  "name": "Rabenhof",
+                  "text": "Un cunoscut teatru vienez, renumit pentru producțiile sale contemporane și de cabaret.",
+                  "category": "cultural",
+                  "coords": [
+                        16.401665,
+                        48.19582
+                  ]
+            },
+            {
+                  "name": "Metropol",
+                  "text": "Un centru de evenimente vienez cu tradiție, cunoscut pentru concerte, musicaluri și cabaret.",
+                  "category": "cultural",
+                  "coords": [
+                        16.33422,
+                        48.217006
+                  ]
+            },
+            {
+                  "name": "Theater im Zentrum",
+                  "text": "O sală de spectacole din Viena, care oferă în principal piese de teatru pentru copii și tineret.",
+                  "category": "cultural",
+                  "coords": [
+                        16.372964,
+                        48.207203
+                  ]
+            },
+            {
+                  "name": "Bank Austria Kunstforum",
+                  "text": "Un muzeu de artă privat din Viena, care prezintă expoziții temporare de modernism clasic.",
+                  "category": "museum",
+                  "coords": [
+                        16.366258,
+                        48.211441
+                  ]
+            },
+            {
+                  "name": "Architekturzentrum Wien",
+                  "text": "Muzeul austriac de arhitectură, care prezintă expoziții despre arta construcțiilor și urbanism.",
+                  "category": "museum",
+                  "coords": [
+                        16.357616,
+                        48.204179
+                  ]
+            },
+            {
+                  "name": "Pfadfindermuseum",
+                  "text": "Un muzeu din Viena care documentează istoria și valorile mișcării de cercetași.",
+                  "category": "museum",
+                  "coords": [
+                        16.325881,
+                        48.199936
+                  ]
+            },
+            {
+                  "name": "Kammerspiele",
+                  "text": "O scenă cu tradiție din Viena, cunoscută pentru comedii și piese de teatru moderne.",
+                  "category": "cultural",
+                  "coords": [
+                        16.375983,
+                        48.211105
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Albertina",
+                  "text": "A world-renowned art museum in Vienna housing one of the most significant graphic collections.",
+                  "category": "museum",
+                  "coords": [
+                        16.36826,
+                        48.204636
+                  ]
+            },
+            {
+                  "name": "Rabenhof",
+                  "text": "A well-known Viennese theatre famous for its contemporary and cabaret productions.",
+                  "category": "cultural",
+                  "coords": [
+                        16.401665,
+                        48.19582
+                  ]
+            },
+            {
+                  "name": "Metropol",
+                  "text": "A traditional Viennese venue known for hosting concerts, musicals, and cabaret performances.",
+                  "category": "cultural",
+                  "coords": [
+                        16.33422,
+                        48.217006
+                  ]
+            },
+            {
+                  "name": "Theater im Zentrum",
+                  "text": "A venue in Vienna primarily offering theatre performances for children and young audiences.",
+                  "category": "cultural",
+                  "coords": [
+                        16.372964,
+                        48.207203
+                  ]
+            },
+            {
+                  "name": "Bank Austria Kunstforum",
+                  "text": "A private art museum in Vienna presenting high-profile temporary exhibitions on classic modernism.",
+                  "category": "museum",
+                  "coords": [
+                        16.366258,
+                        48.211441
+                  ]
+            },
+            {
+                  "name": "Architecture Centre Vienna",
+                  "text": "The Austrian architecture museum, showcasing exhibitions on building arts and urban planning.",
+                  "category": "museum",
+                  "coords": [
+                        16.357616,
+                        48.204179
+                  ]
+            },
+            {
+                  "name": "Pfadfindermuseum",
+                  "text": "A museum in Vienna documenting the history and values of the global scouting movement.",
+                  "category": "museum",
+                  "coords": [
+                        16.325881,
+                        48.199936
+                  ]
+            },
+            {
+                  "name": "Kammerspiele",
+                  "text": "A traditional stage in Vienna known for comedies and contemporary theatrical plays.",
+                  "category": "cultural",
+                  "coords": [
+                        16.375983,
+                        48.211105
+                  ]
+            }
+      ]
+}, type: "landmark", parent: "AT-9", coords: [16.3731, 48.2085],
     name: { de: "Stephansdom", hu: "Szent István-székesegyház", ro: "Catedrala Sfântul Ștefan", en: "St. Stephen's Cathedral" },
     image: "/geo-images/austria/st-stephen-s-cathedral.webp",
     description: {"de":"Der Stephansdom, von den Wienern liebevoll 'Steffl' genannt, ist das wichtigste Wahrzeichen Wiens und das bedeutendste gotische Bauwerk Österreichs. Mit seinem 136 Meter hohen Südturm überragt er das historische Stadtzentrum und prägt die Silhouette der Stadt. Das farbenprächtige Dach des Doms, das aus fast einer Viertelmillion glasierter Dachziegel besteht und den kaiserlichen Doppeladler zeigt, ist weltberühmt. Im Inneren beeindruckt die Kathedrale durch kunstvolle Altäre, tiefe Katakomben und eine tief spirituelle Atmosphäre. Als Sitz des Erzbischofs von Wien ist der Stephansdom seit Jahrhunderten das religiöse Zentrum des Landes.","hu":"A bécsiek által szeretetteljesen 'Steffl'-nek nevezett Szent István-dóm (Stephansdom) Bécs legfontosabb jelképe és Ausztria legjelentősebb gótikus épülete. 136 méter magas déli tornyával a történelmi városközpont fölé magasodik, és meghatározza a város sziluettjét. A dóm színpompás teteje, amely közel negyedmillió mázas tetőcserépből áll, és a császári kétfejű sast ábrázolja, világhírű. A katedrális belseje művészi oltárokkal, mély katakombákkal és mélyen spirituális légkörrel nyűgözi le a látogatókat. Bécs érsekének székhelyeként a Szent István-dóm évszázadok óta az ország vallási központja.","ro":"Catedrala Sf. Ștefan (Stephansdom), numită cu afecțiune „Steffl” de către vienezi, este cel mai important simbol al Vienei și cea mai semnificativă clădire gotică din Austria. Cu Turnul său de Sud de 136 de metri înălțime, domină centrul istoric al orașului și definește silueta acestuia. Acoperișul colorat al catedralei, format din aproape un sfert de milion de țigle smălțuite care înfățișează vulturul imperial cu două capete, este renumit în întreaga lume. În interior, catedrala impresionează prin altare artistice, catacombe adânci și o atmosferă profund spirituală. Ca sediu al Arhiepiscopului Vienei, Catedrala Sf. Ștefan a fost centrul religios al țării timp de secole.","en":"St. Stephen's Cathedral (Stephansdom), affectionately called 'Steffl' by the Viennese, is Vienna's most important landmark and Austria's most significant Gothic building. With its 136-meter-high South Tower, it towers over the historic city center and shapes the city's skyline. The colorful roof of the cathedral, consisting of almost a quarter of a million glazed roof tiles and depicting the imperial double-headed eagle, is world-famous. Inside, the cathedral impresses with its ornate altars, deep catacombs, and a profoundly spiritual atmosphere. As the seat of the Archbishop of Vienna, St. Stephen's Cathedral has been the religious center of the country for centuries.", es: "La Catedral de San Esteban, llamada cariñosamente 'Steffl' por los vieneses, es el emblema más importante de Viena y el edificio gótico más significativo de Austria. Con su torre sur de 136 metros de altura, sobresale sobre el centro histórico de la ciudad y marca su silueta. El colorido tejado de la catedral, que consta de casi un cuarto de millón de tejas vidriadas y muestra el águila bicéfala imperial, es mundialmente famoso. En el interior, la catedral impresiona por sus artísticos altares, profundas catacumbas y una atmósfera profundamente espiritual. Como sede del arzobispo de Viena, la Catedral de San Esteban es desde hace siglos el centro religioso del país.", pt: "A Catedral de Santo Estêvão, carinhosamente chamada 'Steffl' pelos vienenses, é o símbolo mais importante de Viena e o edifício gótico mais significativo da Áustria. Com a sua torre sul de 136 metros de altura, eleva-se sobre o centro histórico da cidade e molda a sua silhueta. O telhado colorido da catedral, composto por quase um quarto de milhão de telhas vidradas e que ostenta a águia imperial de duas cabeças, é mundialmente famoso. No interior, a catedral impressiona com altares artísticos, catacumbas profundas e uma atmosfera profundamente espiritual. Enquanto sede do Arcebispo de Viena, a Catedral de Santo Estêvão é o centro religioso do país há séculos.", fr: "La cathédrale Saint-Étienne, affectueusement surnommée 'Steffl' par les Viennois, est le monument le plus important de Vienne et l'édifice gothique le plus remarquable d'Autriche. Avec sa tour sud haute de 136 mètres, elle domine le centre historique de la ville et marque sa silhouette. Le toit coloré de la cathédrale, composé de près d'un quart de million de tuiles vernissées et représentant l'aigle impérial à deux têtes, est mondialement connu. À l'intérieur, la cathédrale impressionne par ses autels artistiques, ses catacombes profondes et son atmosphère profondément spirituelle. Siège de l'archevêque de Vienne, la cathédrale Saint-Étienne est depuis des siècles le cœur religieux du pays."}, facts: {"de":["Der Südturm ('Steffl') ist exakt 136,4 Meter hoch.","Im Nordturm hängt die Pummerin, Österreichs größte Glocke.","Das farbige Dachdekor besteht aus über 230.000 Ziegeln.","In den Katakomben ruhen die Innereien vieler Habsburger Kaiser.","Der Bau des heutigen gotischen Doms begann im 14. Jahrhundert.","Wolfgang Amadeus Mozart heiratete in dieser Kathedrale.","Der Dom wurde beim Stadtbrand 1945 schwer beschädigt und rasch wieder aufgebaut.","Es führen genau 343 Stufen hinauf in die Türmerstube des Südturms.","Der Dom ist dem heiligen Stephanus, dem ersten christlichen Märtyrer, geweiht.","Er ist das geografische Zentrum der Stadt Wien."],"hu":["A déli torony ('Steffl') pontosan 136,4 méter magas.","Az északi toronyban lóg a Pummerin, Ausztria legnagyobb harangja.","A színes tetődíszítés több mint 230 000 cserépből áll.","A katakombákban számos Habsburg császár belső szervei nyugszanak.","A mai gótikus dóm építése a 14. században kezdődött.","Wolfgang Amadeus Mozart ebben a katedrálisban kötött házasságot.","A dóm az 1945-ös városi tűzvészben súlyosan megsérült, de gyorsan újjáépítették.","Pontosan 343 lépcsőfok vezet fel a déli torony őrszobájába.","A dómot Szent Istvánnak, az első keresztény vértanúnak szentelték.","A dóm Bécs városának földrajzi központja."],"ro":["Turnul de Sud („Steffl”) are exact 136,4 metri înălțime.","În Turnul de Nord se află Pummerin, cel mai mare clopot din Austria.","Decorul colorat al acoperișului este format din peste 230.000 de țigle.","Măruntaiele multor împărați habsburgici se odihnesc în catacombe.","Construcția actualei catedrale gotice a început în secolul al XIV-lea.","Wolfgang Amadeus Mozart s-a căsătorit în această catedrală.","Catedrala a fost grav avariată în incendiul orașului din 1945 și reconstruită rapid.","Există exact 343 de trepte care duc la camera paznicului din Turnul de Sud.","Catedrala este dedicată Sfântului Ștefan, primul martir creștin.","Este centrul geografic al orașului Viena."],"en":["The South Tower ('Steffl') is exactly 136.4 meters high.","The North Tower houses the Pummerin, Austria's largest bell.","The colorful roof decor consists of over 230,000 tiles.","The entrails of many Habsburg emperors rest in the catacombs.","Construction of the current Gothic cathedral began in the 14th century.","Wolfgang Amadeus Mozart was married in this cathedral.","The cathedral was severely damaged in the 1945 city fire and quickly rebuilt.","There are exactly 343 steps leading up to the watchman's room in the South Tower.","The cathedral is dedicated to Saint Stephen, the first Christian martyr.","It marks the geographical center of the city of Vienna."], es: ["La torre sur ('Steffl') tiene exactamente 136,4 metros de altura.", "En la torre norte cuelga la Pummerin, la campana más grande de Austria.", "La decoración colorida del tejado consta de más de 230.000 tejas.", "En las catacumbas descansan las vísceras de muchos emperadores Habsburgo.", "La construcción de la actual catedral gótica comenzó en el siglo XIV.", "Wolfgang Amadeus Mozart se casó en esta catedral.", "La catedral resultó gravemente dañada en el incendio de la ciudad de 1945 y fue reconstruida rápidamente.", "Hay exactamente 343 escalones hasta la cámara del vigía de la torre sur.", "La catedral está dedicada a San Esteban, el primer mártir cristiano.", "Es el centro geográfico de la ciudad de Viena."], pt: ["A torre sul ('Steffl') tem exatamente 136,4 metros de altura.", "Na torre norte está pendurada a Pummerin, o maior sino da Áustria.", "A decoração colorida do telhado é composta por mais de 230.000 telhas.", "Nas catacumbas repousam as entranhas de muitos imperadores Habsburgo.", "A construção da atual catedral gótica começou no século XIV.", "Wolfgang Amadeus Mozart casou-se nesta catedral.", "A catedral foi gravemente danificada no incêndio da cidade em 1945 e rapidamente reconstruída.", "Existem exatamente 343 degraus até à sala do vigia da torre sul.", "A catedral é dedicada a Santo Estêvão, o primeiro mártir cristão.", "É o centro geográfico da cidade de Viena."], fr: ["La tour sud ('Steffl') mesure exactement 136,4 mètres de haut.", "La Pummerin, la plus grande cloche d'Autriche, se trouve dans la tour nord.", "Le décor coloré du toit est composé de plus de 230 000 tuiles.", "Les viscères de nombreux empereurs Habsbourg reposent dans les catacombes.", "La construction de l'actuelle cathédrale gothique a débuté au XIVe siècle.", "Wolfgang Amadeus Mozart s'est marié dans cette cathédrale.", "La cathédrale fut gravement endommagée lors de l'incendie de la ville en 1945 et rapidement reconstruite.", "Il y a exactement 343 marches pour monter à la salle du guetteur de la tour sud.", "La cathédrale est dédiée à saint Étienne, le premier martyr chrétien.", "Elle constitue le centre géographique de la ville de Vienne."]},
@@ -9842,7 +15062,304 @@ export const austriaCities: POI[] = [
     },
   },
   {
-    id: "AT-Grossglockner", type: "mountain", parent: "AT", coords: [12.6936, 47.0742],
+    id: "AT-Grossglockner", "sights": {
+      "de": [
+            {
+                  "name": "Nationalpark Hohe Tauern",
+                  "text": "Das größte Naturschutzgebiet der Alpen, das sich rund um den Großglockner erstreckt.",
+                  "category": "natural",
+                  "coords": [
+                        12.664512,
+                        47.071906
+                  ]
+            },
+            {
+                  "name": "Kleinglockner",
+                  "text": "Ein Nebengipfel des Großglockners, der mit 3.770 Metern der zweithöchste Punkt Österreichs ist.",
+                  "category": "landmark",
+                  "coords": [
+                        12.694676,
+                        47.074184
+                  ]
+            },
+            {
+                  "name": "Romariswandköpfe",
+                  "text": "Gipfel in der Glocknergruppe der Hohen Tauern an der Grenze zwischen Kärnten und Osttirol.",
+                  "category": "landmark",
+                  "coords": [
+                        12.668589,
+                        47.091471
+                  ]
+            },
+            {
+                  "name": "Schneewinkelkopf",
+                  "text": "Ein 3.476 Meter hoher Berggipfel in den Zentralalpen in der Nähe des Großglockners.",
+                  "category": "landmark",
+                  "coords": [
+                        12.660015,
+                        47.097317
+                  ]
+            },
+            {
+                  "name": "Glocknerhorn",
+                  "text": "Ein markanter Felsgipfel in der Glocknergruppe, bekannt für seine anspruchsvollen Kletterrouten.",
+                  "category": "landmark",
+                  "coords": [
+                        12.691638,
+                        47.076692
+                  ]
+            },
+            {
+                  "name": "Schwertkopf",
+                  "text": "Ein alpine Berggipfel in der Region Großglockner, ideal für Bergsteiger.",
+                  "category": "landmark",
+                  "coords": [
+                        12.737913,
+                        47.054994
+                  ]
+            },
+            {
+                  "name": "Kellerskopf",
+                  "text": "Ein Berggipfel in den Hohen Tauern, der Teil der beeindruckenden Alpenlandschaft ist.",
+                  "category": "landmark",
+                  "coords": [
+                        12.72144,
+                        47.063509
+                  ]
+            },
+            {
+                  "name": "Kellersberg",
+                  "text": "Ein markanter Gipfel in den österreichischen Alpen in der Nähe des höchsten Berges des Landes.",
+                  "category": "landmark",
+                  "coords": [
+                        12.716392,
+                        47.066126
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Nationalpark Hohe Tauern",
+                  "text": "Az Alpok legnagyobb természetvédelmi területe, amely a Grossglockner körül terül el.",
+                  "category": "natural",
+                  "coords": [
+                        12.664512,
+                        47.071906
+                  ]
+            },
+            {
+                  "name": "Kleinglockner",
+                  "text": "A Grossglockner mellékcsúcsa, amely 3770 méterével Ausztria második legmagasabb pontja.",
+                  "category": "landmark",
+                  "coords": [
+                        12.694676,
+                        47.074184
+                  ]
+            },
+            {
+                  "name": "Romariswandköpfe",
+                  "text": "Csúcsok a Magas-Tauern Glockner-csoportjában, Karintia és Kelet-Tirol határán.",
+                  "category": "landmark",
+                  "coords": [
+                        12.668589,
+                        47.091471
+                  ]
+            },
+            {
+                  "name": "Schneewinkelkopf",
+                  "text": "3476 méter magas hegycsúcs a Központi-Alpokban, a Grossglockner közelében.",
+                  "category": "landmark",
+                  "coords": [
+                        12.660015,
+                        47.097317
+                  ]
+            },
+            {
+                  "name": "Glocknerhorn",
+                  "text": "Jellegzetes sziklacsúcs a Glockner-csoportban, amely nehéz mászóútvonalairól ismert.",
+                  "category": "landmark",
+                  "coords": [
+                        12.691638,
+                        47.076692
+                  ]
+            },
+            {
+                  "name": "Schwertkopf",
+                  "text": "Alpesi hegycsúcs a Grossglockner régióban, amely ideális a hegymászók számára.",
+                  "category": "landmark",
+                  "coords": [
+                        12.737913,
+                        47.054994
+                  ]
+            },
+            {
+                  "name": "Kellerskopf",
+                  "text": "Hegycsúcs a Magas-Tauernben, amely a lenyűgöző alpesi táj része.",
+                  "category": "landmark",
+                  "coords": [
+                        12.72144,
+                        47.063509
+                  ]
+            },
+            {
+                  "name": "Kellersberg",
+                  "text": "Jellegzetes csúcs az osztrák Alpokban, az ország legmagasabb hegyének közelében.",
+                  "category": "landmark",
+                  "coords": [
+                        12.716392,
+                        47.066126
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Parcul Național Hohe Tauern",
+                  "text": "Cea mai mare rezervație naturală din Alpi, care se întinde în jurul vârfului Grossglockner.",
+                  "category": "natural",
+                  "coords": [
+                        12.664512,
+                        47.071906
+                  ]
+            },
+            {
+                  "name": "Kleinglockner",
+                  "text": "Un vârf secundar al Grossglockner-ului, fiind al doilea cel mai înalt punct din Austria, la 3.770 de metri.",
+                  "category": "landmark",
+                  "coords": [
+                        12.694676,
+                        47.074184
+                  ]
+            },
+            {
+                  "name": "Romariswandköpfe",
+                  "text": "Vârfuri în grupul Glockner din Hohe Tauern, la granița dintre Carintia și Tirolul de Est.",
+                  "category": "landmark",
+                  "coords": [
+                        12.668589,
+                        47.091471
+                  ]
+            },
+            {
+                  "name": "Schneewinkelkopf",
+                  "text": "Un vârf montan de 3.476 de metri în Alpii Centrali, situat lângă Grossglockner.",
+                  "category": "landmark",
+                  "coords": [
+                        12.660015,
+                        47.097317
+                  ]
+            },
+            {
+                  "name": "Glocknerhorn",
+                  "text": "Un vârf stâncos distinctiv în grupul Glockner, cunoscut pentru rutele sale provocatoare de cățărare.",
+                  "category": "landmark",
+                  "coords": [
+                        12.691638,
+                        47.076692
+                  ]
+            },
+            {
+                  "name": "Schwertkopf",
+                  "text": "Un vârf montan alpin în regiunea Grossglockner, ideal pentru alpinism.",
+                  "category": "landmark",
+                  "coords": [
+                        12.737913,
+                        47.054994
+                  ]
+            },
+            {
+                  "name": "Kellerskopf",
+                  "text": "Un vârf montan în Hohe Tauern, făcând parte din impresionantul peisaj alpin.",
+                  "category": "landmark",
+                  "coords": [
+                        12.72144,
+                        47.063509
+                  ]
+            },
+            {
+                  "name": "Kellersberg",
+                  "text": "Un vârf proeminent în Alpii austrieci, situat lângă cel mai înalt munte din țară.",
+                  "category": "landmark",
+                  "coords": [
+                        12.716392,
+                        47.066126
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "High Tauern National Park",
+                  "text": "The largest nature reserve in the Alps, stretching around the Grossglockner peak.",
+                  "category": "natural",
+                  "coords": [
+                        12.664512,
+                        47.071906
+                  ]
+            },
+            {
+                  "name": "Kleinglockner",
+                  "text": "A secondary peak of the Grossglockner, being the second highest point in Austria at 3,770 metres.",
+                  "category": "landmark",
+                  "coords": [
+                        12.694676,
+                        47.074184
+                  ]
+            },
+            {
+                  "name": "Romariswandköpfe",
+                  "text": "Peaks in the Glockner group of the Hohe Tauern, on the border of Carinthia and East Tyrol.",
+                  "category": "landmark",
+                  "coords": [
+                        12.668589,
+                        47.091471
+                  ]
+            },
+            {
+                  "name": "Schneewinkelkopf",
+                  "text": "A 3,476-metre mountain peak in the Central Alps located near the Grossglockner.",
+                  "category": "landmark",
+                  "coords": [
+                        12.660015,
+                        47.097317
+                  ]
+            },
+            {
+                  "name": "Glocknerhorn",
+                  "text": "A distinctive rocky peak in the Glockner group known for its challenging climbing routes.",
+                  "category": "landmark",
+                  "coords": [
+                        12.691638,
+                        47.076692
+                  ]
+            },
+            {
+                  "name": "Schwertkopf",
+                  "text": "An alpine mountain peak in the Grossglockner region, ideal for mountaineers.",
+                  "category": "landmark",
+                  "coords": [
+                        12.737913,
+                        47.054994
+                  ]
+            },
+            {
+                  "name": "Kellerskopf",
+                  "text": "A mountain peak in the Hohe Tauern, part of the impressive alpine landscape.",
+                  "category": "landmark",
+                  "coords": [
+                        12.72144,
+                        47.063509
+                  ]
+            },
+            {
+                  "name": "Kellersberg",
+                  "text": "A prominent peak in the Austrian Alps, located near the country's highest mountain.",
+                  "category": "landmark",
+                  "coords": [
+                        12.716392,
+                        47.066126
+                  ]
+            }
+      ]
+}, type: "mountain", parent: "AT", coords: [12.6936, 47.0742],
     name: { de: "Großglockner", hu: "Großglockner", ro: "Grossglockner", en: "Grossglockner" },
     image: "/geo-images/austria/grossglockner.webp",
     description: {"de":"Der Großglockner, an der Grenze zwischen Kärnten und Tirol gelegen, ist mit 3.798 Metern der höchste Berg Österreichs und das majestätische Kronjuwel der Hohen Tauern. Sein markanter pyramidenförmiger Gipfel und die Pasterze, der größte Gletscher der Ostalpen, bilden eine atemberaubende, hochalpine Kulisse. Der Berg ist nicht nur ein Paradies für erfahrene Alpinisten und Kletterer, sondern dank der berühmten Großglockner Hochalpenstraße auch für Ausflügler zugänglich, die das faszinierende Alpenpanorama hautnah erleben möchten. Die einzigartige Flora und Fauna rund um den Großglockner ist streng geschützt und bietet Heimat für Steinböcke, Murmeltiere und majestätische Steinadler.","hu":"A Karintia és Tirol határán fekvő Großglockner 3798 méterével Ausztria legmagasabb hegye, és a Magas-Tauern fenséges koronaékszere. Markáns, piramis alakú csúcsa és a Pasterze – a Keleti-Alpok legnagyobb gleccsere – lélegzetelállító magashegyi kulisszát alkotnak. A hegy nemcsak a tapasztalt alpinisták és hegymászók paradicsoma, hanem a híres Großglockner Magasalpesi Útnak (Hochalpenstraße) köszönhetően a kirándulók számára is elérhető, akik testközelből szeretnék megtapasztalni a lenyűgöző alpesi panorámát. A Großglockner körüli egyedülálló növény- és állatvilág szigorúan védett, kőszáli kecskéknek, mormotáknak és fenséges szirti sasoknak ad otthont.","ro":"Grossglockner, situat la granița dintre Carintia și Tirol, este cel mai înalt munte din Austria, având 3.798 de metri, și bijuteria maiestuoasă a lanțului Hohe Tauern. Vârful său distinctiv, în formă de piramidă, și Pasterze, cel mai mare ghețar din Alpii Orientali, formează un fundal alpin de înaltă altitudine, uluitor. Muntele nu este doar un paradis pentru alpiniștii și cățărătorii experimentați, ci este și accesibil turiștilor datorită renumitului Drum Alpin Grossglockner (Hochalpenstraße), care permite vizitatorilor să experimenteze de aproape panorama alpină fascinantă. Flora și fauna unice din jurul Grossglockner sunt strict protejate și oferă un habitat pentru ibecși, marmote și acvile de munte maiestuoase.","en":"The Grossglockner, located on the border between Carinthia and Tyrol, is the highest mountain in Austria at 3,798 meters and the majestic crown jewel of the Hohe Tauern. Its striking pyramid-shaped peak and the Pasterze, the largest glacier in the Eastern Alps, form a breathtaking high-alpine backdrop. The mountain is not only a paradise for experienced alpinists and climbers but is also accessible to excursionists thanks to the famous Grossglockner High Alpine Road, allowing visitors to experience the fascinating alpine panorama up close. The unique flora and fauna around the Grossglockner is strictly protected and provides a habitat for ibexes, marmots, and majestic golden eagles.", es: "El Großglockner, situado en la frontera entre Carintia y el Tirol, es con 3.798 metros la montaña más alta de Austria y la majestuosa joya de la corona de los Hohe Tauern. Su distintiva cima piramidal y la Pasterze, el glaciar más grande de los Alpes orientales, forman un impresionante escenario de alta montaña. La montaña no es solo un paraíso para alpinistas y escaladores experimentados, sino que, gracias a la famosa Carretera alpina del Großglockner, también es accesible para excursionistas que deseen experimentar de cerca el fascinante panorama alpino. La flora y fauna únicas alrededor del Großglockner están estrictamente protegidas y ofrecen un hogar para cabras montesas, marmotas y majestuosas águilas reales.", pt: "O Großglockner, situado na fronteira entre a Caríntia e o Tirol, é com 3.798 metros a montanha mais alta da Áustria e a majestosa joia da coroa dos Hohe Tauern. O seu distinto cume piramidal e a Pasterze, o maior glaciar dos Alpes Orientais, formam um cenário deslumbrante de alta montanha. A montanha não é apenas um paraíso para alpinistas e escaladores experientes, mas graças à famosa Estrada alpina de Großglockner, também é acessível a excursionistas que desejam experimentar de perto o fascinante panorama alpino. A flora e fauna únicas em redor do Großglockner são estritamente protegidas e oferecem abrigo a íbexes, marmotas e majestosas águias-reais.", fr: "Le Großglockner, situé à la frontière entre la Carinthie et le Tyrol, est avec ses 3 798 mètres le plus haut sommet d'Autriche et le joyau majestueux des Hohe Tauern. Son sommet pyramidal caractéristique et la Pasterze, le plus grand glacier des Alpes orientales, forment un décor de haute montagne époustouflant. La montagne n'est pas seulement un paradis pour les alpinistes et grimpeurs chevronnés, mais elle est aussi accessible aux excursionnistes grâce à la célèbre route alpine du Großglockner, leur permettant de vivre de près le fascinant panorama alpin. La flore et la faune uniques autour du Großglockner sont strictement protégées et servent d'habitat aux bouquetins, aux marmottes et aux majestueux aigles royaux."}, facts: {"de":["Der Großglockner ist mit 3.798 m der höchste Berg Österreichs.","An seinem Fuß liegt die Pasterze, der größte Gletscher Österreichs.","Die Erstbesteigung erfolgte am 28. Juli 1800 durch eine Expedition um Fürstbischof Salm-Reifferscheidt.","Die Grenze zwischen Kärnten und Tirol verläuft direkt über den Gipfel.","Die Großglockner Hochalpenstraße macht ihn für Millionen von Touristen erreichbar.","Liegt im Zentrum des Nationalparks Hohe Tauern.","Besteht hauptsächlich aus Prasinit, einem harten, grünlichen Gestein.","Das berühmte Gipfelkreuz aus Eisen wiegt 300 Kilo und wurde 1880 aufgestellt.","Gilt als einer der prominentesten Berge in den Ostalpen.","Wird jährlich von rund 5.000 Bergsteigern bezwungen."],"hu":["A Großglockner 3798 méterével Ausztria legmagasabb hegye.","Lábánál fekszik a Pasterze, Ausztria legnagyobb gleccsere.","Az első sikeres megmászása 1800. július 28-án történt egy Salm-Reifferscheidt hercegérsek vezette expedíció során.","Karintia és Tirol határa közvetlenül a csúcson halad át.","A Großglockner Magasalpesi Út turisták milliói számára teszi elérhetővé.","A Magas-Tauern Nemzeti Park közepén található.","Főként prazinitból, egy kemény, zöldes kőzetből áll.","A híres vas csúcskereszt 300 kilót nyom, és 1880-ban állították fel.","A Keleti-Alpok egyik legjelentősebb hegyének számít.","Évente mintegy 5000 hegymászó hódítja meg."],"ro":["Grossglockner este cel mai înalt munte din Austria, având 3.798 m.","La baza sa se află Pasterze, cel mai mare ghețar din Austria.","Prima ascensiune a avut loc pe 28 iulie 1800 de către o expediție condusă de Prințul-Episcop Salm-Reifferscheidt.","Granița dintre Carintia și Tirol trece direct peste vârf.","Drumul Alpin Grossglockner îl face accesibil pentru milioane de turiști.","Situat în centrul Parcului Național Hohe Tauern.","Constă în principal din prazinit, o rocă dură, verzuie.","Faimoasa cruce de vârf din fier cântărește 300 de kilograme și a fost ridicată în 1880.","Considerat unul dintre cei mai proeminenți munți din Alpii Orientali.","Este cucerit anual de aproximativ 5.000 de alpiniști."],"en":["The Grossglockner is Austria's highest mountain at 3,798 m.","At its foot lies the Pasterze, Austria's largest glacier.","The first ascent took place on July 28, 1800, by an expedition led by Prince-Bishop Salm-Reifferscheidt.","The border between Carinthia and Tyrol runs directly over the peak.","The Grossglockner High Alpine Road makes it accessible to millions of tourists.","Located in the center of the Hohe Tauern National Park.","Consists mainly of prasinite, a hard, greenish rock.","The famous iron summit cross weighs 300 kilos and was erected in 1880.","Considered one of the most prominent mountains in the Eastern Alps.","Is summited by around 5,000 mountaineers annually."], es: ["El Großglockner es, con 3.798 m, la montaña más alta de Austria.", "A su pie se encuentra la Pasterze, el glaciar más grande de Austria.", "La primera ascensión se realizó el 28 de julio de 1800 por una expedición dirigida por el obispo príncipe Salm-Reifferscheidt.", "La frontera entre Carintia y Tirol pasa directamente por la cima.", "La Carretera alpina del Großglockner lo hace accesible para millones de turistas.", "Se encuentra en el centro del Parque Nacional Hohe Tauern.", "Se compone principalmente de prasinita, una roca dura y verdosa.", "La famosa cruz de hierro de la cima pesa 300 kilos y se instaló en 1880.", "Es considerada una de las montañas más prominentes de los Alpes orientales.", "Es conquistada anualmente por unos 5.000 montañeros."], pt: ["O Großglockner é, com 3.798 m, a montanha mais alta da Áustria.", "No seu sopé encontra-se a Pasterze, o maior glaciar da Áustria.", "A primeira ascensão ocorreu em 28 de julho de 1800 por uma expedição liderada pelo príncipe-bispo Salm-Reifferscheidt.", "A fronteira entre a Caríntia e o Tirol passa diretamente pelo cume.", "A Estrada alpina de Großglockner torna-o acessível a milhões de turistas.", "Situa-se no centro do Parque Nacional Hohe Tauern.", "É composto principalmente por prasinita, uma rocha dura e esverdeada.", "A famosa cruz de ferro do cume pesa 300 quilos e foi colocada em 1880.", "É considerada uma das montanhas mais proeminentes dos Alpes Orientais.", "É conquistado anualmente por cerca de 5.000 montanhistas."], fr: ["Le Großglockner est, avec 3 798 m, le plus haut sommet d'Autriche.", "À son pied se trouve la Pasterze, le plus grand glacier d'Autriche.", "La première ascension a eu lieu le 28 juillet 1800 par une expédition autour du prince-évêque Salm-Reifferscheidt.", "La frontière entre la Carinthie et le Tyrol passe directement par le sommet.", "La route alpine du Großglockner le rend accessible à des millions de touristes.", "Il est situé au centre du parc national des Hohe Tauern.", "Il est principalement composé de prasinite, une roche dure et verdâtre.", "La célèbre croix de fer du sommet pèse 300 kilos et a été installée en 1880.", "Il est considéré comme l'une des montagnes les plus proéminentes des Alpes orientales.", "Il est gravi chaque année par environ 5 000 alpinistes."]},
@@ -9866,7 +15383,304 @@ export const austriaCities: POI[] = [
     },
   },
   {
-    id: "AT-Zillertal", type: "landmark", parent: "AT-7", coords: [11.8797, 47.2344],
+    id: "AT-Zillertal", "sights": {
+      "de": [
+            {
+                  "name": "Strasser, Stille Nacht, heilige Nacht",
+                  "text": "Ein Museum in Laimach, das der Familie Strasser gewidmet ist, die zur weltweiten Verbreitung des Liedes „Stille Nacht“ beitrug.",
+                  "category": "museum",
+                  "coords": [
+                        11.865811,
+                        47.217455
+                  ]
+            },
+            {
+                  "name": "Erlebnisfreibad",
+                  "text": "Ein Erlebnis-Freibad im Zillertal mit verschiedenen Wasserattraktionen für Familien.",
+                  "category": "recreational",
+                  "coords": [
+                        11.87802,
+                        47.229241
+                  ]
+            },
+            {
+                  "name": "BrauKunstHaus",
+                  "text": "Ein interaktives Brauereimuseum in Zell am Ziller, das die Tradition der Tiroler Bierherstellung zeigt.",
+                  "category": "museum",
+                  "coords": [
+                        11.891679,
+                        47.230066
+                  ]
+            },
+            {
+                  "name": "Laimach Regionalmuseum",
+                  "text": "Ein Museum im Zillertal, das sich auf die Regionalgeschichte und die lokale Kultur konzentriert.",
+                  "category": "museum",
+                  "coords": [
+                        11.872673,
+                        47.221501
+                  ]
+            },
+            {
+                  "name": "Musikkapelle Hippach",
+                  "text": "Ein Ort für musikalische Darbietungen und traditionelle Konzerte im Dorf Hippach.",
+                  "category": "cultural",
+                  "coords": [
+                        11.865548,
+                        47.203177
+                  ]
+            },
+            {
+                  "name": "Kleintierpark",
+                  "text": "Ein Kleintierpark im Zillertal, in dem Besucher verschiedene einheimische Tierarten sehen können.",
+                  "category": "recreational",
+                  "coords": [
+                        11.897815,
+                        47.222157
+                  ]
+            },
+            {
+                  "name": "Sommerwelt Hippach",
+                  "text": "Eine Sommer-Sport- und Freizeitanlage in Hippach mit Schwimmbecken und Sportanlagen.",
+                  "category": "recreational",
+                  "coords": [
+                        11.868167,
+                        47.201792
+                  ]
+            },
+            {
+                  "name": "Goldschaubergwerk",
+                  "text": "Ein historisches Schaubergwerk in Zell am Ziller, in dem Besucher etwas über den traditionellen Goldbergbau erfahren können.",
+                  "category": "landmark",
+                  "coords": [
+                        11.896409,
+                        47.221786
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Strasser, Stille Nacht, heilige Nacht",
+                  "text": "Múzeum Laimachban, amelyet a Strasser családnak szenteltek, akik segítettek a „Csendes éj” című karácsonyi ének világszerte történő elterjesztésében.",
+                  "category": "museum",
+                  "coords": [
+                        11.865811,
+                        47.217455
+                  ]
+            },
+            {
+                  "name": "Erlebnisfreibad",
+                  "text": "Szabadtéri élményfürdő a Ziller-völgyben, különféle vízi attrakciókkal családok számára.",
+                  "category": "recreational",
+                  "coords": [
+                        11.87802,
+                        47.229241
+                  ]
+            },
+            {
+                  "name": "BrauKunstHaus",
+                  "text": "Interaktív sörfőzde-múzeum Zell am Zillerben, amely a tiroli sörfőzés hagyományait mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        11.891679,
+                        47.230066
+                  ]
+            },
+            {
+                  "name": "Laimach Regionalmuseum",
+                  "text": "A Ziller-völgyben található múzeum, amely a régió történelmére és a helyi kultúrára összpontosít.",
+                  "category": "museum",
+                  "coords": [
+                        11.872673,
+                        47.221501
+                  ]
+            },
+            {
+                  "name": "Musikkapelle Hippach",
+                  "text": "Zenei előadások és hagyományos koncertek helyszíne Hippach faluban.",
+                  "category": "cultural",
+                  "coords": [
+                        11.865548,
+                        47.203177
+                  ]
+            },
+            {
+                  "name": "Kleintierpark",
+                  "text": "Kisállatpark a Ziller-völgyben, ahol a látogatók különféle helyi állatfajokat láthatnak.",
+                  "category": "recreational",
+                  "coords": [
+                        11.897815,
+                        47.222157
+                  ]
+            },
+            {
+                  "name": "Sommerwelt Hippach",
+                  "text": "Nyári sport- és szabadidőközpont Hippachban, úszómedencékkel és sportlétesítményekkel.",
+                  "category": "recreational",
+                  "coords": [
+                        11.868167,
+                        47.201792
+                  ]
+            },
+            {
+                  "name": "Goldschaubergwerk",
+                  "text": "Történelmi aranybánya-múzeum Zell am Zillerben, ahol a látogatók megismerhetik a hagyományos bányászatot.",
+                  "category": "landmark",
+                  "coords": [
+                        11.896409,
+                        47.221786
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Strasser, Stille Nacht, heilige Nacht",
+                  "text": "Un muzeu din Laimach dedicat familiei Strasser, care a ajutat la răspândirea colindului „Silent Night” în întreaga lume.",
+                  "category": "museum",
+                  "coords": [
+                        11.865811,
+                        47.217455
+                  ]
+            },
+            {
+                  "name": "Erlebnisfreibad",
+                  "text": "O piscină exterioară de agrement în valea Zillertal, cu diverse atracții acvatice pentru familii.",
+                  "category": "recreational",
+                  "coords": [
+                        11.87802,
+                        47.229241
+                  ]
+            },
+            {
+                  "name": "BrauKunstHaus",
+                  "text": "Un muzeu interactiv al berii în Zell am Ziller, care prezintă tradiția fabricării berii tiroleze.",
+                  "category": "museum",
+                  "coords": [
+                        11.891679,
+                        47.230066
+                  ]
+            },
+            {
+                  "name": "Laimach Regionalmuseum",
+                  "text": "Un muzeu din valea Zillertal axat pe istoria regională și cultura locală.",
+                  "category": "museum",
+                  "coords": [
+                        11.872673,
+                        47.221501
+                  ]
+            },
+            {
+                  "name": "Musikkapelle Hippach",
+                  "text": "Un loc pentru spectacole muzicale și concerte tradiționale în satul Hippach.",
+                  "category": "cultural",
+                  "coords": [
+                        11.865548,
+                        47.203177
+                  ]
+            },
+            {
+                  "name": "Kleintierpark",
+                  "text": "Un parc de animale mici în valea Zillertal, unde vizitatorii pot vedea diverse specii locale.",
+                  "category": "recreational",
+                  "coords": [
+                        11.897815,
+                        47.222157
+                  ]
+            },
+            {
+                  "name": "Sommerwelt Hippach",
+                  "text": "Un complex sportiv și de agrement de vară în Hippach, cu piscine și facilități sportive.",
+                  "category": "recreational",
+                  "coords": [
+                        11.868167,
+                        47.201792
+                  ]
+            },
+            {
+                  "name": "Goldschaubergwerk",
+                  "text": "Un muzeu istoric al unei mine de aur în Zell am Ziller, unde vizitatorii pot învăța despre mineritul tradițional.",
+                  "category": "landmark",
+                  "coords": [
+                        11.896409,
+                        47.221786
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Strasser, Stille Nacht, heilige Nacht",
+                  "text": "A museum in Laimach dedicated to the Strasser family, who helped spread the carol \"Silent Night\" worldwide.",
+                  "category": "museum",
+                  "coords": [
+                        11.865811,
+                        47.217455
+                  ]
+            },
+            {
+                  "name": "Erlebnisfreibad",
+                  "text": "An outdoor leisure pool in the Zillertal valley with various water attractions for families.",
+                  "category": "recreational",
+                  "coords": [
+                        11.87802,
+                        47.229241
+                  ]
+            },
+            {
+                  "name": "BrauKunstHaus",
+                  "text": "An interactive brewery museum in Zell am Ziller showcasing the tradition of Tyrolean beer making.",
+                  "category": "museum",
+                  "coords": [
+                        11.891679,
+                        47.230066
+                  ]
+            },
+            {
+                  "name": "Laimach Regionalmuseum",
+                  "text": "A museum in the Zillertal valley focused on regional history and local culture.",
+                  "category": "museum",
+                  "coords": [
+                        11.872673,
+                        47.221501
+                  ]
+            },
+            {
+                  "name": "Musikkapelle Hippach",
+                  "text": "A venue for musical performances and traditional concerts in the village of Hippach.",
+                  "category": "cultural",
+                  "coords": [
+                        11.865548,
+                        47.203177
+                  ]
+            },
+            {
+                  "name": "Kleintierpark",
+                  "text": "A small animal park in the Zillertal valley where visitors can see various local species.",
+                  "category": "recreational",
+                  "coords": [
+                        11.897815,
+                        47.222157
+                  ]
+            },
+            {
+                  "name": "Sommerwelt Hippach",
+                  "text": "A summer sports and leisure complex in Hippach featuring swimming pools and athletic facilities.",
+                  "category": "recreational",
+                  "coords": [
+                        11.868167,
+                        47.201792
+                  ]
+            },
+            {
+                  "name": "Goldschaubergwerk",
+                  "text": "A historic gold mine museum in Zell am Ziller where visitors can learn about traditional mining.",
+                  "category": "landmark",
+                  "coords": [
+                        11.896409,
+                        47.221786
+                  ]
+            }
+      ]
+}, type: "landmark", parent: "AT-7", coords: [11.8797, 47.2344],
     name: { de: "Zillertal", hu: "Zillertal", ro: "Valea Ziller", en: "Zillertal" },
     image: "/geo-images/austria/zillertal.webp",
     description: {"de":"Das Zillertal in Tirol ist eines der bekanntesten und lebhaftesten Alpentäler Europas, das sich als ultimatives Ziel für Aktivurlauber etabliert hat. Umgeben von den majestätischen Dreitausendern der Zillertaler Alpen, bietet das Tal das ganze Jahr über herausragende Freizeitmöglichkeiten. Im Winter locken die Zillertal Arena, Mayrhofen und der Hintertuxer Gletscher – Österreichs einziges Ganzjahresskigebiet – mit Hunderten von Pistenkilometern. Im Sommer verwandelt sich die Region in ein riesiges Netzwerk aus Wander- und Mountainbikewegen. Zudem ist das Zillertal weltberühmt für seine tief verwurzelte Volksmusiktradition und traditionelle Feste.","hu":"A tiroli Zillertal (Ziller-völgy) Európa egyik legismertebb és legélénkebb alpesi völgye, amely az aktív nyaralók végső célpontjaként vonult be a köztudatba. A Zillertali-Alpok fenséges, 3000 méter feletti csúcsaival körülvett völgy egész évben kiváló szabadidős lehetőségeket kínál. Télen a Zillertal Arena, Mayrhofen és a Hintertux-gleccser – Ausztria egyetlen egész évben nyitva tartó síterepe – több száz kilométernyi sípályával csábít. Nyáron a régió a túra- és hegyikerékpár-útvonalak hatalmas hálózatává alakul át. Ezenkívül a Zillertal világhírű mélyen gyökerező népzenei hagyományairól és hagyományos ünnepeiről.","ro":"Valea Zillertal din Tirol este una dintre cele mai faimoase și mai pline de viață văi alpine din Europa, care s-a impus ca destinație supremă pentru vacanțele active. Înconjurată de vârfurile maiestuoase de peste 3.000 de metri ale Alpilor Zillertal, valea oferă oportunități de agrement remarcabile pe tot parcursul anului. Iarna, Zillertal Arena, Mayrhofen și Ghețarul Hintertux – singura zonă de schi deschisă tot anul din Austria – atrag cu sute de kilometri de pârtii. Vara, regiunea se transformă într-o vastă rețea de trasee pentru drumeții și ciclism montan. În plus, Zillertal este renumită în întreaga lume pentru tradiția sa de muzică populară adânc înrădăcinată și festivalurile tradiționale.","en":"The Zillertal in Tyrol is one of the most famous and lively Alpine valleys in Europe, which has established itself as the ultimate destination for active holidaymakers. Surrounded by the majestic three-thousanders of the Zillertal Alps, the valley offers outstanding recreational opportunities all year round. In winter, the Zillertal Arena, Mayrhofen, and the Hintertux Glacier – Austria's only year-round ski area – attract with hundreds of kilometers of slopes. In summer, the region transforms into a vast network of hiking and mountain biking trails. In addition, the Zillertal is world-famous for its deep-rooted folk music tradition and traditional festivals.", es: "El Zillertal en el Tirol es uno de los valles alpinos más conocidos y animados de Europa, consolidado como un destino definitivo para los turistas activos. Rodeado por los majestuosos picos de tres mil metros de los Alpes de Zillertal, el valle ofrece excelentes oportunidades de ocio durante todo el año. En invierno, el Zillertal Arena, Mayrhofen y el glaciar de Hintertux —la única estación de esquí de Austria abierta todo el año— atraen con cientos de kilómetros de pistas. En verano, la región se transforma en una enorme red de rutas para senderismo y bicicleta de montaña. Además, el Zillertal es mundialmente famoso por su arraigada tradición de música folclórica y sus festivales tradicionales.", pt: "O Zillertal, no Tirol, é um dos vales alpinos mais conhecidos e animados da Europa, tendo-se estabelecido como o destino final para turistas ativos. Rodeado pelos majestosos picos de três mil metros dos Alpes de Zillertal, o vale oferece excelentes oportunidades de lazer durante todo o ano. No inverno, o Zillertal Arena, Mayrhofen e o Glaciar Hintertux – a única estância de esqui da Áustria aberta todo o ano – atraem visitantes com centenas de quilómetros de pistas. No verão, a região transforma-se numa enorme rede de trilhos para caminhadas e BTT. Além disso, o Zillertal é mundialmente famoso pela sua profunda tradição de música folclórica e festas tradicionais.", fr: "Le Zillertal, dans le Tyrol, est l'une des vallées alpines les plus célèbres et les plus animées d'Europe, s'étant imposée comme la destination ultime pour les vacanciers actifs. Entourée par les majestueux sommets de trois mille mètres des Alpes de Zillertal, la vallée offre des possibilités de loisirs exceptionnelles tout au long de l'année. En hiver, la Zillertal Arena, Mayrhofen et le glacier de Hintertux – le seul domaine skiable d'Autriche ouvert toute l'année – attirent les visiteurs avec des centaines de kilomètres de pistes. En été, la région se transforme en un vaste réseau de sentiers de randonnée et de VTT. De plus, le Zillertal est mondialement célèbre pour sa tradition de musique populaire profondément enracinée et ses fêtes traditionnelles."}, facts: {"de":["Das Zillertal ist das größte Seitental des Inntals in Tirol.","Der Hintertuxer Gletscher ermöglicht Skifahren an 365 Tagen im Jahr.","Das weltbekannte Weihnachtslied 'Stille Nacht, heilige Nacht' wurde von Zillertaler Sängern in die Welt getragen.","Die Zillertalbahn, eine historische Schmalspurbahn, verkehrt im Tal.","Beherbergt den Naturpark Zillertaler Alpen, ein streng geschütztes Gebiet.","Beliebte Wintersportzentren sind Mayrhofen und Zell am Ziller.","Die Harpfnerwand ist ein berühmtes Kletterziel für Alpinisten.","Das Tal hat eine starke Tradition der alpenländischen Volksmusik (z.B. Zillertaler Schürzenjäger).","Ein bekanntes kulinarisches Produkt ist der Zillertaler Graukäse.","Zahlreiche Speicherseen zur Stromgewinnung (z.B. Schlegeisspeicher) prägen die Landschaft."],"hu":["A Zillertal az Inn-völgy legnagyobb mellékvölgye Tirolban.","A Hintertux-gleccser az év 365 napján kínál síelési lehetőséget.","A világszerte ismert 'Csendes éj' című karácsonyi dalt zillertali énekesek tették híressé a világon.","A völgyben közlekedik a Zillertalbahn, egy történelmi keskeny nyomtávú vasút.","Itt található a Zillertali-Alpok Natúrpark, egy szigorúan védett terület.","Népszerű téli sportközpontjai Mayrhofen és Zell am Ziller.","A Harpfnerwand híres mászóhely az alpinisták körében.","A völgynek erős alpesi népzenei hagyománya van (pl. Zillertaler Schürzenjäger).","Egyik ismert kulináris terméke a Zillertaler Graukäse (szürkesajt).","A tájat számos, áramtermelést szolgáló víztározó (pl. Schlegeisspeicher) jellemzi."],"ro":["Zillertal este cea mai mare vale laterală a Văii Inn din Tirol.","Ghețarul Hintertux permite schiatul în 365 de zile pe an.","Cunoscutul colind de Crăciun „Stille Nacht” (Noapte de vis) a fost răspândit în lume de cântăreți din Zillertal.","Zillertalbahn, o cale ferată istorică cu ecartament îngust, funcționează în vale.","Găzduiește Parcul Natural Alpii Zillertal, o zonă strict protejată.","Centre populare pentru sporturi de iarnă sunt Mayrhofen și Zell am Ziller.","Harpfnerwand este o destinație celebră de escaladă pentru alpiniști.","Valea are o tradiție puternică de muzică populară alpină (de ex. Zillertaler Schürzenjäger).","Un produs culinar bine-cunoscut este brânza Zillertaler Graukäse.","Peisajul este caracterizat de numeroase lacuri de acumulare pentru generarea de energie electrică (de ex. Schlegeisspeicher)."],"en":["The Zillertal is the largest side valley of the Inn Valley in Tyrol.","The Hintertux Glacier allows for skiing 365 days a year.","The world-famous Christmas carol 'Silent Night' was spread to the world by Zillertal singers.","The Zillertalbahn, a historic narrow-gauge railway, operates in the valley.","Houses the Zillertal Alps Nature Park, a strictly protected area.","Popular winter sports centers include Mayrhofen and Zell am Ziller.","The Harpfnerwand is a famous climbing destination for alpinists.","The valley has a strong tradition of Alpine folk music (e.g., Zillertaler Schürzenjäger).","A well-known culinary product is the Zillertaler Graukäse (grey cheese).","Numerous reservoirs for power generation (e.g., Schlegeisspeicher) characterize the landscape."], es: ["El Zillertal es el valle lateral más grande del valle del Inn en el Tirol.", "El glaciar de Hintertux permite esquiar los 365 días del año.", "El mundialmente famoso villancico 'Noche de Paz' fue llevado al mundo por cantantes del Zillertal.", "El Zillertalbahn, un ferrocarril histórico de vía estrecha, circula por el valle.", "Alberga el Parque Natural de los Alpes de Zillertal, una zona estrictamente protegida.", "Mayrhofen y Zell am Ziller son centros de deportes de invierno muy populares.", "La pared de Harpfnerwand es un famoso destino de escalada para alpinistas.", "El valle tiene una fuerte tradición de música folclórica alpina (por ejemplo, Zillertaler Schürzenjäger).", "Un producto culinario muy conocido es el Zillertaler Graukäse (queso gris).", "Numerosos embalses para la generación de electricidad (como el Schlegeisspeicher) definen el paisaje."], pt: ["O Zillertal é o maior vale lateral do vale do Inn, no Tirol.", "O Glaciar Hintertux permite esquiar 365 dias por ano.", "A mundialmente famosa canção de Natal 'Noite de Paz' foi levada ao mundo por cantores do Zillertal.", "O Zillertalbahn, um comboio histórico de bitola estreita, circula no vale.", "Abriga o Parque Natural dos Alpes de Zillertal, uma área estritamente protegida.", "Mayrhofen e Zell am Ziller são centros de desportos de inverno populares.", "A Harpfnerwand é um destino de escalada famoso para alpinistas.", "O vale tem uma forte tradição de música folclórica alpina (ex: Zillertaler Schürzenjäger).", "Um produto culinário conhecido é o Zillertaler Graukäse (queijo cinzento).", "Inúmeras barragens para produção de eletricidade (ex: Schlegeisspeicher) marcam a paisagem."], fr: ["Le Zillertal est la plus grande vallée latérale de la vallée de l'Inn dans le Tyrol.", "Le glacier de Hintertux permet de skier 365 jours par an.", "Le célèbre chant de Noël 'Douce Nuit, sainte nuit' a été diffusé dans le monde par des chanteurs du Zillertal.", "Le Zillertalbahn, un chemin de fer historique à voie étroite, circule dans la vallée.", "Il abrite le parc naturel des Alpes de Zillertal, une zone strictement protégée.", "Mayrhofen et Zell am Ziller sont des centres de sports d'hiver populaires.", "La paroi de Harpfnerwand est une destination d'escalade célèbre pour les alpinistes.", "La vallée possède une forte tradition de musique populaire alpine (ex. Zillertaler Schürzenjäger).", "Un produit culinaire célèbre est le Zillertaler Graukäse (fromage gris).", "De nombreux lacs de barrage pour la production d'électricité (ex. Schlegeisspeicher) marquent le paysage."]},
@@ -12142,7 +17956,304 @@ export const austriaCities: POI[] = [
     },
   },
   {
-    id: "AT-Wolfgangsee", type: "lake", parent: "AT-5", coords: [13.435, 47.7472],
+    id: "AT-Wolfgangsee", "sights": {
+      "de": [
+            {
+                  "name": "Puppenmuseum St. Wolfgang",
+                  "text": "Ein Museum in St. Wolfgang, das eine Sammlung von Puppen ausstellt.",
+                  "category": "museum",
+                  "coords": [
+                        13.443827,
+                        47.740652
+                  ]
+            },
+            {
+                  "name": "Strand Seehotel Huber",
+                  "text": "Ein Strandabschnitt am Wolfgangsee, der zum Seehotel Huber gehört.",
+                  "category": "recreational",
+                  "coords": [
+                        13.434975,
+                        47.736183
+                  ]
+            },
+            {
+                  "name": "Arboretum",
+                  "text": "Eine Parkanlage mit einer Sammlung verschiedener Baumarten am Wolfgangsee.",
+                  "category": "recreational",
+                  "coords": [
+                        13.413953,
+                        47.726652
+                  ]
+            },
+            {
+                  "name": "Badzone Gamsjaga",
+                  "text": "Ein Badebereich am Ufer des Wolfgangsees.",
+                  "category": "recreational",
+                  "coords": [
+                        13.394884,
+                        47.738792
+                  ]
+            },
+            {
+                  "name": "ABARENA",
+                  "text": "Ein Erlebnispark am Wolfgangsee mit Attraktionen für Kinder.",
+                  "category": "recreational",
+                  "coords": [
+                        13.416852,
+                        47.729823
+                  ]
+            },
+            {
+                  "name": "Schafberg",
+                  "text": "Ein bekannter Aussichtsberg am Wolfgangsee in den Salzkammergut-Bergen.",
+                  "category": "landmark",
+                  "coords": [
+                        13.433485,
+                        47.776581
+                  ]
+            },
+            {
+                  "name": "Spinnerin",
+                  "text": "Ein Berggipfel in der Region des Wolfgangsees.",
+                  "category": "landmark",
+                  "coords": [
+                        13.442548,
+                        47.773581
+                  ]
+            },
+            {
+                  "name": "Käferwandl",
+                  "text": "Eine Erhebung in der Berglandschaft rund um den Wolfgangsee.",
+                  "category": "landmark",
+                  "coords": [
+                        13.476366,
+                        47.751684
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Puppenmuseum St. Wolfgang",
+                  "text": "Múzeum St. Wolfgangban, amely babagyűjteményt mutat be.",
+                  "category": "museum",
+                  "coords": [
+                        13.443827,
+                        47.740652
+                  ]
+            },
+            {
+                  "name": "Strand Seehotel Huber",
+                  "text": "Strand szakasz a Wolfgang-tónál, amely a Seehotel Huberhez tartozik.",
+                  "category": "recreational",
+                  "coords": [
+                        13.434975,
+                        47.736183
+                  ]
+            },
+            {
+                  "name": "Arboretum",
+                  "text": "Különböző fafajok gyűjteményét bemutató park a Wolfgang-tónál.",
+                  "category": "recreational",
+                  "coords": [
+                        13.413953,
+                        47.726652
+                  ]
+            },
+            {
+                  "name": "Badzone Gamsjaga",
+                  "text": "Fürdőhely a Wolfgang-tó partján.",
+                  "category": "recreational",
+                  "coords": [
+                        13.394884,
+                        47.738792
+                  ]
+            },
+            {
+                  "name": "ABARENA",
+                  "text": "Élménypark a Wolfgang-tónál, látnivalókkal gyerekeknek.",
+                  "category": "recreational",
+                  "coords": [
+                        13.416852,
+                        47.729823
+                  ]
+            },
+            {
+                  "name": "Schafberg",
+                  "text": "Népszerű kilátóhely a Wolfgang-tónál, a Salzkammerguti-Alpokban.",
+                  "category": "landmark",
+                  "coords": [
+                        13.433485,
+                        47.776581
+                  ]
+            },
+            {
+                  "name": "Spinnerin",
+                  "text": "Hegycsúcs a Wolfgang-tó régiójában.",
+                  "category": "landmark",
+                  "coords": [
+                        13.442548,
+                        47.773581
+                  ]
+            },
+            {
+                  "name": "Käferwandl",
+                  "text": "Hegycsúcs a Wolfgang-tó körüli hegyvidéken.",
+                  "category": "landmark",
+                  "coords": [
+                        13.476366,
+                        47.751684
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Puppenmuseum St. Wolfgang",
+                  "text": "Un muzeu din St. Wolfgang care expune o colecție de păpuși.",
+                  "category": "museum",
+                  "coords": [
+                        13.443827,
+                        47.740652
+                  ]
+            },
+            {
+                  "name": "Strand Seehotel Huber",
+                  "text": "O porțiune de plajă la lacul Wolfgang, aparținând de Seehotel Huber.",
+                  "category": "recreational",
+                  "coords": [
+                        13.434975,
+                        47.736183
+                  ]
+            },
+            {
+                  "name": "Arboretum",
+                  "text": "Un parc ce cuprinde o colecție de diverse specii de arbori la lacul Wolfgang.",
+                  "category": "recreational",
+                  "coords": [
+                        13.413953,
+                        47.726652
+                  ]
+            },
+            {
+                  "name": "Badzone Gamsjaga",
+                  "text": "O zonă de scăldat pe malul lacului Wolfgang.",
+                  "category": "recreational",
+                  "coords": [
+                        13.394884,
+                        47.738792
+                  ]
+            },
+            {
+                  "name": "ABARENA",
+                  "text": "Un parc de distracții la lacul Wolfgang, cu atracții pentru copii.",
+                  "category": "recreational",
+                  "coords": [
+                        13.416852,
+                        47.729823
+                  ]
+            },
+            {
+                  "name": "Schafberg",
+                  "text": "Un munte cu panoramă cunoscut de la lacul Wolfgang, în munții Salzkammergut.",
+                  "category": "landmark",
+                  "coords": [
+                        13.433485,
+                        47.776581
+                  ]
+            },
+            {
+                  "name": "Spinnerin",
+                  "text": "Un vârf montan din regiunea lacului Wolfgang.",
+                  "category": "landmark",
+                  "coords": [
+                        13.442548,
+                        47.773581
+                  ]
+            },
+            {
+                  "name": "Käferwandl",
+                  "text": "O culme montană în peisajul alpin din jurul lacului Wolfgang.",
+                  "category": "landmark",
+                  "coords": [
+                        13.476366,
+                        47.751684
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Puppenmuseum St. Wolfgang",
+                  "text": "A museum in St. Wolfgang exhibiting a collection of dolls.",
+                  "category": "museum",
+                  "coords": [
+                        13.443827,
+                        47.740652
+                  ]
+            },
+            {
+                  "name": "Strand Seehotel Huber",
+                  "text": "A beach section at Lake Wolfgang belonging to the Seehotel Huber.",
+                  "category": "recreational",
+                  "coords": [
+                        13.434975,
+                        47.736183
+                  ]
+            },
+            {
+                  "name": "Arboretum",
+                  "text": "A park area featuring a collection of various tree species by Lake Wolfgang.",
+                  "category": "recreational",
+                  "coords": [
+                        13.413953,
+                        47.726652
+                  ]
+            },
+            {
+                  "name": "Badzone Gamsjaga",
+                  "text": "A bathing area on the shores of Lake Wolfgang.",
+                  "category": "recreational",
+                  "coords": [
+                        13.394884,
+                        47.738792
+                  ]
+            },
+            {
+                  "name": "ABARENA",
+                  "text": "An adventure park by Lake Wolfgang with attractions for children.",
+                  "category": "recreational",
+                  "coords": [
+                        13.416852,
+                        47.729823
+                  ]
+            },
+            {
+                  "name": "Schafberg",
+                  "text": "A well-known panoramic mountain by Lake Wolfgang in the Salzkammergut Mountains.",
+                  "category": "landmark",
+                  "coords": [
+                        13.433485,
+                        47.776581
+                  ]
+            },
+            {
+                  "name": "Spinnerin",
+                  "text": "A mountain peak in the Lake Wolfgang region.",
+                  "category": "landmark",
+                  "coords": [
+                        13.442548,
+                        47.773581
+                  ]
+            },
+            {
+                  "name": "Käferwandl",
+                  "text": "A peak in the mountain landscape around Lake Wolfgang.",
+                  "category": "landmark",
+                  "coords": [
+                        13.476366,
+                        47.751684
+                  ]
+            }
+      ]
+}, type: "lake", parent: "AT-5", coords: [13.435, 47.7472],
     name: { de: "Wolfgangsee", hu: "Wolfgangsee", ro: "Lacul Wolfgang", en: "Lake Wolfgang" },
     image: "/geo-images/austria/lake-wolfgang.webp",
     description: {"de":"Der Wolfgangsee ist eines der schillerndsten Naturjuwele im Salzkammergut und fasziniert mit seinem glasklaren, tiefblauen Wasser, das im Sommer eine hervorragende Trinkwasserqualität erreicht. Eingerahmt von majestätischen Bergen wie dem Schafberg und dem Zwölferhorn, ist der See ein Paradies für Segler, Surfer und Schwimmer. Internationale Bekanntheit erlangte die Region durch die Operette 'Im Weißen Rössl' am Wolfgangsee, die den charmanten Ort St. Wolfgang in den Fokus rückte. Zudem ist St. Wolfgang seit Jahrhunderten ein bedeutender Wallfahrtsort mit einer prächtigen Kirche. Die Schafbergbahn, eine nostalgische Zahnradbahn, bringt Besucher steil hinauf, um den atemberaubenden Panoramablick auf die Seenkulisse zu genießen.","hu":"A Wolfgangsee (Wolfgang-tó) a Salzkammergut egyik legragyogóbb természeti gyöngyszeme, amely kristálytiszta, mélykék vizével nyűgöz le; vize nyáron kiváló ivóvíz-minőséget ér el. Olyan fenséges hegyekkel körülvéve, mint a Schafberg és a Zwölferhorn, a tó a vitorlázók, szörfösök és úszók paradicsoma. A régió nemzetközi ismertségét a 'Fehér Ló fogadó' (Im Weißen Rössl) című operett hozta meg, amely a bájos St. Wolfgang településre irányította a figyelmet. Ráadásul St. Wolfgang évszázadok óta jelentős zarándokhely, egy pompás templommal. A Schafbergbahn, egy nosztalgikus fogaskerekű vasút meredeken viszi fel a látogatókat, hogy élvezhessék a tóvidékre nyíló lélegzetelállító panorámát.","ro":"Wolfgangsee (Lacul Wolfgang) este una dintre cele mai strălucitoare bijuterii naturale din Salzkammergut și fascinează cu apa sa cristalină, de un albastru intens, care atinge vara o calitate excelentă de apă potabilă. Încadrat de munți maiestuoși, precum Schafberg și Zwölferhorn, lacul este un paradis pentru marinari, surferi și înotători. Regiunea a câștigat faimă internațională prin opereta „La Calul Bălan” (Im Weißen Rössl) de la Wolfgangsee, care a adus în centrul atenției fermecătorul oraș St. Wolfgang. În plus, St. Wolfgang este de secole un loc de pelerinaj important, având o biserică magnifică. Schafbergbahn, o cale ferată cu cremalieră nostalgică, transportă vizitatorii pe pante abrupte pentru a se bucura de vederea panoramică uluitoare a peisajului lacustru.","en":"The Wolfgangsee (Lake Wolfgang) is one of the most dazzling natural jewels in the Salzkammergut and fascinates with its crystal-clear, deep blue water, which achieves excellent drinking water quality in summer. Framed by majestic mountains such as the Schafberg and the Zwölferhorn, the lake is a paradise for sailors, surfers, and swimmers. The region gained international fame through the operetta 'The White Horse Inn' (Im Weißen Rössl) at the Wolfgangsee, which brought the charming town of St. Wolfgang into focus. In addition, St. Wolfgang has been an important place of pilgrimage with a magnificent church for centuries. The Schafbergbahn, a nostalgic cog railway, takes visitors steeply up to enjoy the breathtaking panoramic view of the lake scenery.", es: "El Wolfgangsee es una de las joyas naturales más deslumbrantes de Salzkammergut y fascina con sus aguas cristalinas de color azul profundo, que alcanzan una excelente calidad de agua potable en verano. Enmarcado por majestuosas montañas como el Schafberg y el Zwölferhorn, el lago es un paraíso para regatistas, surfistas y nadadores. La región alcanzó fama internacional gracias a la opereta 'El Albergue del Caballo Blanco' (Im Weißen Rössl) en el Wolfgangsee, que puso el encantador pueblo de St. Wolfgang en el punto de mira. Además, St. Wolfgang es desde hace siglos un importante lugar de peregrinación con una magnífica iglesia. El Schafbergbahn, un nostálgico ferrocarril de cremallera, lleva a los visitantes por una pendiente pronunciada para disfrutar de la impresionante vista panorámica del paisaje lacustre.", pt: "O Wolfgangsee é uma das joias naturais mais deslumbrantes de Salzkammergut e fascina com as suas águas cristalinas de cor azul profundo, que atingem uma excelente qualidade de água potável no verão. Emoldurado por montanhas majestosas como o Schafberg e o Zwölferhorn, o lago é um paraíso para velejadores, surfistas e nadadores. A região alcançou fama internacional através da opereta 'A Estalagem do Cavalo Branco' (Im Weißen Rössl) no Wolfgangsee, que colocou a charmosa vila de St. Wolfgang em destaque. Além disso, St. Wolfgang é há séculos um importante local de peregrinação com uma igreja magnífica. O Schafbergbahn, um nostálgico comboio de cremalheira, leva os visitantes encosta acima para desfrutar da deslumbrante vista panorâmica sobre o cenário do lago.", fr: "Le Wolfgangsee est l'un des joyaux naturels les plus éblouissants du Salzkammergut et fascine par ses eaux cristallines d'un bleu profond, qui atteignent une excellente qualité d'eau potable en été. Encadré par des montagnes majestueuses comme le Schafberg et le Zwölferhorn, le lac est un paradis pour les navigateurs, les surfeurs et les nageurs. La région a acquis une renommée internationale grâce à l'opérette 'L'Auberge du Cheval Blanc' (Im Weißen Rössl) au bord du Wolfgangsee, qui a mis en lumière le charmant village de St. Wolfgang. De plus, St. Wolfgang est depuis des siècles un lieu de pèlerinage important doté d'une magnifique église. Le Schafbergbahn, un chemin de fer à crémaillère nostalgique, emmène les visiteurs sur une pente raide pour profiter d'une vue panoramique imprenable sur le paysage lacustre."}, facts: {"de":["Der See teilt sich auf die Bundesländer Salzburg und Oberösterreich auf.","Im Sommer erwärmt sich das klare Wasser auf bis zu 24°C.","Das Hotel 'Im Weißen Rössl' in St. Wolfgang ist weltberühmt aus Film und Theater.","Die Pfarrkirche St. Wolfgang beherbergt den berühmten Pacher-Altar aus dem 15. Jahrhundert.","Die Schafbergbahn ist die steilste Zahnradbahn Österreichs (seit 1893).","St. Gilgen, ein weiterer Ort am See, war der Wohnort von Mozarts Mutter.","Der Wolfgangsee ist ein beliebtes Revier für Taucher und Segler.","Die Falkensteinwand fällt direkt in den See ab und ist ein spektakuläres Klettergebiet.","Im Advent verbindet eine Schifffahrt die romantischen Weihnachtsmärkte der Seegemeinden.","Kaiser Franz Joseph urlaubte oft in der nahegelegenen Region."],"hu":["A tó Salzburg és Felső-Ausztria tartományok között oszlik meg.","Nyáron a tiszta víz akár 24°C-ra is felmelegszik.","A St. Wolfgang-i 'Im Weißen Rössl' (Fehér Ló fogadó) szálloda világhírű filmekből és színházból.","A St. Wolfgang-i plébániatemplomban található a híres, 15. századi Pacher-oltár.","A Schafbergbahn Ausztria legmeredekebb fogaskerekű vasútja (1893 óta).","St. Gilgen, a tó egy másik települése, Mozart édesanyjának lakóhelye volt.","A Wolfgangsee a búvárok és a vitorlázók kedvelt területe.","A Falkensteinwand nevű sziklafal egyenesen a tóba szakad le, és látványos mászóhely.","Advent idején hajójáratok kötik össze a tóparti települések romantikus karácsonyi vásárait.","Ferenc József császár gyakran nyaralt a közeli régióban."],"ro":["Lacul este împărțit între landurile Salzburg și Austria Superioară.","Vara, apa limpede se încălzește până la 24°C.","Hotelul „Im Weißen Rössl” (La Calul Bălan) din St. Wolfgang este renumit mondial din filme și teatru.","Biserica parohială St. Wolfgang găzduiește celebrul altar Pacher din secolul al XV-lea.","Schafbergbahn este cea mai abruptă cale ferată cu cremalieră din Austria (din 1893).","St. Gilgen, un alt oraș de pe malul lacului, a fost reședința mamei lui Mozart.","Wolfgangsee este o zonă populară pentru scafandri și marinari.","Faleza Falkensteinwand coboară abrupt direct în lac și este o zonă de escaladă spectaculoasă.","În perioada Adventului, feriboturile conectează piețele de Crăciun romantice ale comunităților de pe lac.","Împăratul Franz Joseph își petrecea adesea vacanțele în regiunea din apropiere."],"en":["The lake is divided between the federal states of Salzburg and Upper Austria.","In summer, the clear water warms up to 24°C.","The hotel 'Im Weißen Rössl' (The White Horse Inn) in St. Wolfgang is world-famous from film and theater.","The St. Wolfgang parish church houses the famous 15th-century Pacher Altar.","The Schafbergbahn is the steepest cog railway in Austria (since 1893).","St. Gilgen, another town on the lake, was the residence of Mozart's mother.","The Wolfgangsee is a popular area for divers and sailors.","The Falkensteinwand cliff drops directly into the lake and is a spectacular climbing area.","During Advent, boat trips connect the romantic Christmas markets of the lake communities.","Emperor Franz Joseph often vacationed in the nearby region."], es: ["El lago se divide entre los estados de Salzburgo y Alta Austria.", "En verano, el agua clara se calienta hasta los 24 °C.", "El hotel 'Im Weißen Rössl' en St. Wolfgang es mundialmente famoso por el cine y el teatro.", "La iglesia parroquial de St. Wolfgang alberga el famoso altar de Pacher del siglo XV.", "El Schafbergbahn es el ferrocarril de cremallera más inclinado de Austria (desde 1893).", "St. Gilgen, otro pueblo junto al lago, fue el lugar de residencia de la madre de Mozart.", "El Wolfgangsee es una zona popular para buceadores y regatistas.", "La pared de Falkenstein cae directamente al lago y es una zona de escalada espectacular.", "En Adviento, un servicio de barcos conecta los románticos mercados navideños de los municipios del lago.", "El emperador Francisco José veraneaba a menudo en la región cercana."], pt: ["O lago divide-se entre os estados federais de Salzburgo e Alta Áustria.", "No verão, a água clara aquece até aos 24°C.", "O hotel 'Im Weißen Rössl' em St. Wolfgang é mundialmente famoso pelo cinema e teatro.", "A igreja paroquial de St. Wolfgang abriga o famoso altar de Pacher do século XV.", "O Schafbergbahn é o comboio de cremalheira mais íngreme da Áustria (desde 1893).", "St. Gilgen, outra localidade à beira do lago, foi a residência da mãe de Mozart.", "O Wolfgangsee é um destino popular para mergulhadores e velejadores.", "A parede de Falkenstein cai diretamente no lago e é uma área de escalada espetacular.", "No Advento, uma linha de navegação liga os românticos mercados de Natal das comunidades ribeirinhas.", "O imperador Francisco José passava frequentemente férias na região próxima."], fr: ["Le lac est partagé entre les États de Salzbourg et de Haute-Autriche.", "En été, l'eau claire se réchauffe jusqu'à 24 °C.", "L'hôtel 'Im Weißen Rössl' à St. Wolfgang est mondialement célèbre grâce au cinéma et au théâtre.", "L'église paroissiale de St. Wolfgang abrite le célèbre autel de Pacher du XVe siècle.", "Le Schafbergbahn est le chemin de fer à crémaillère le plus raide d'Autriche (depuis 1893).", "St. Gilgen, un autre village au bord du lac, était la résidence de la mère de Mozart.", "Le Wolfgangsee est un site prisé des plongeurs et des navigateurs.", "La paroi de Falkenstein tombe directement dans le lac et constitue un site d'escalade spectaculaire.", "Pendant l'Avent, une navette fluviale relie les marchés de Noël romantiques des communes riveraines.", "L'empereur François-Joseph passait souvent ses vacances dans la région voisine."]},
@@ -12166,7 +18277,160 @@ export const austriaCities: POI[] = [
     },
   },
   {
-    id: "AT-NeusiedlerSee", type: "lake", parent: "AT-1", coords: [16.7725, 47.8183],
+    id: "AT-NeusiedlerSee", "sights": {
+      "de": [
+            {
+                  "name": "Naturzone Illmitz - Hölle",
+                  "text": "Ein geschütztes Gebiet am Neusiedler See mit einzigartiger Flora.",
+                  "category": "natural",
+                  "coords": [
+                        16.763745,
+                        47.78395
+                  ]
+            },
+            {
+                  "name": "Naturzone Podersdorf - Karmazik",
+                  "text": "Ein Naturschutzgebiet, das für seine Artenvielfalt und Vögel bekannt ist.",
+                  "category": "natural",
+                  "coords": [
+                        16.802948,
+                        47.833704
+                  ]
+            },
+            {
+                  "name": "Aussichtsturm",
+                  "text": "Ein hölzerner Turm, der einen weiten Blick über den See bietet.",
+                  "category": "natural",
+                  "coords": [
+                        16.783386,
+                        47.795986
+                  ]
+            },
+            {
+                  "name": "Aussichtswarte Hölle",
+                  "text": "Ein Beobachtungspunkt für Naturliebhaber in der Nähe des Schilfgürtels.",
+                  "category": "natural",
+                  "coords": [
+                        16.798806,
+                        47.825461
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Naturzone Illmitz - Hölle",
+                  "text": "Védett terület a Fertő-tónál, egyedülálló növényvilággal.",
+                  "category": "natural",
+                  "coords": [
+                        16.763745,
+                        47.78395
+                  ]
+            },
+            {
+                  "name": "Naturzone Podersdorf - Karmazik",
+                  "text": "Természetvédelmi terület, amely biológiai sokféleségéről és madarairól ismert.",
+                  "category": "natural",
+                  "coords": [
+                        16.802948,
+                        47.833704
+                  ]
+            },
+            {
+                  "name": "Aussichtsturm",
+                  "text": "Fatorony, amely tágas kilátást nyújt a tóra.",
+                  "category": "natural",
+                  "coords": [
+                        16.783386,
+                        47.795986
+                  ]
+            },
+            {
+                  "name": "Aussichtswarte Hölle",
+                  "text": "Megfigyelőpont a természetkedvelők számára a nádas közelében.",
+                  "category": "natural",
+                  "coords": [
+                        16.798806,
+                        47.825461
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Naturzone Illmitz - Hölle",
+                  "text": "O zonă protejată la Lacul Neusiedl, cu o floră unică.",
+                  "category": "natural",
+                  "coords": [
+                        16.763745,
+                        47.78395
+                  ]
+            },
+            {
+                  "name": "Naturzone Podersdorf - Karmazik",
+                  "text": "O rezervație naturală cunoscută pentru biodiversitatea și păsările sale.",
+                  "category": "natural",
+                  "coords": [
+                        16.802948,
+                        47.833704
+                  ]
+            },
+            {
+                  "name": "Aussichtsturm",
+                  "text": "Un turn de lemn care oferă o vedere largă asupra lacului.",
+                  "category": "natural",
+                  "coords": [
+                        16.783386,
+                        47.795986
+                  ]
+            },
+            {
+                  "name": "Aussichtswarte Hölle",
+                  "text": "Un punct de observație pentru iubitorii de natură în apropierea stufului.",
+                  "category": "natural",
+                  "coords": [
+                        16.798806,
+                        47.825461
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Naturzone Illmitz - Hölle",
+                  "text": "A protected area at Lake Neusiedl with unique flora.",
+                  "category": "natural",
+                  "coords": [
+                        16.763745,
+                        47.78395
+                  ]
+            },
+            {
+                  "name": "Naturzone Podersdorf - Karmazik",
+                  "text": "A nature reserve known for its biodiversity and birdlife.",
+                  "category": "natural",
+                  "coords": [
+                        16.802948,
+                        47.833704
+                  ]
+            },
+            {
+                  "name": "Aussichtsturm",
+                  "text": "A wooden tower offering a wide view over the lake.",
+                  "category": "natural",
+                  "coords": [
+                        16.783386,
+                        47.795986
+                  ]
+            },
+            {
+                  "name": "Aussichtswarte Hölle",
+                  "text": "An observation point for nature lovers near the reed belt.",
+                  "category": "natural",
+                  "coords": [
+                        16.798806,
+                        47.825461
+                  ]
+            }
+      ]
+}, type: "lake", parent: "AT-1", coords: [16.7725, 47.8183],
     name: { de: "Neusiedler See", hu: "Fertő tó", ro: "Lacul Neusiedl", en: "Lake Neusiedl" },
     image: "/geo-images/austria/lake-neusiedl.webp",
     description: {"de":"Der Neusiedler See im Burgenland ist ein faszinierendes Naturphänomen und der größte See Österreichs. Als extrem flacher Steppensee, der fast vollständig von einem dichten Schilfgürtel umgeben ist, bietet er einen Lebensraum von unschätzbarem ökologischem Wert. Der Nationalpark Neusiedler See-Seewinkel schützt Hunderte von seltenen Vogelarten und macht die Region zu einem Paradies für Vogelbeobachter. Gleichzeitig sind die stetigen Winde ideal für Segler und Kitesurfer, während das milde pannonische Klima die umliegenden Weinberge gedeihen lässt. Das Zusammenspiel aus intakter Natur, erstklassigen Weinen und der Nähe zu Ungarn verleiht dem See seinen unverwechselbaren Charakter als UNESCO-Welterbestätte.","hu":"A burgenlandi Fertő tó (Neusiedler See) egy lenyűgöző természeti jelenség és Ausztria legnagyobb tava. Rendkívül sekély sztyepptóként, amelyet szinte teljesen sűrű nádas vesz körül, felbecsülhetetlen ökológiai értékű élőhelyet kínál. A Fertő-Hanság (Neusiedler See-Seewinkel) Nemzeti Park több száz ritka madárfajt véd, és a régiót a madármegfigyelők paradicsomává teszi. Ugyanakkor a folyamatos szelek ideálisak a vitorlázók és a kiteszörfösök számára, míg az enyhe pannon éghajlat a környező szőlőültetvényeket virágoztatja fel. Az érintetlen természet, az első osztályú borok és a Magyarországhoz való közelség egyedülálló karaktert kölcsönöz a tónak, mint UNESCO világörökségi helyszínnek.","ro":"Lacul Neusiedl (Neusiedler See) din Burgenland este un fenomen natural fascinant și cel mai mare lac din Austria. Fiind un lac de stepă extrem de plat, care este aproape complet înconjurat de o centură de stuf dens, oferă un habitat cu o valoare ecologică inestimabilă. Parcul Național Neusiedler See-Seewinkel protejează sute de specii rare de păsări și transformă regiunea într-un paradis pentru observatorii de păsări. În același timp, vânturile constante sunt ideale pentru marinari și iubitorii de kitesurfing, în timp ce clima blândă panonică face ca podgoriile din jur să prospere. Interacțiunea dintre natura intactă, vinurile de primă clasă și proximitatea de Ungaria conferă lacului caracterul său inconfundabil ca sit al Patrimoniului Mondial UNESCO.","en":"Lake Neusiedl (Neusiedler See) in Burgenland is a fascinating natural phenomenon and the largest lake in Austria. As an extremely shallow steppe lake that is almost completely surrounded by a dense reed belt, it offers a habitat of inestimable ecological value. The Neusiedler See-Seewinkel National Park protects hundreds of rare bird species and makes the region a paradise for bird watchers. At the same time, the constant winds are ideal for sailors and kite surfers, while the mild Pannonian climate allows the surrounding vineyards to thrive. The interaction of intact nature, first-class wines, and its proximity to Hungary gives the lake its unmistakable character as a UNESCO World Heritage site.", es: "El Lago Neusiedl, en Burgenland, es un fascinante fenómeno natural y el lago más grande de Austria. Como lago de estepa extremadamente poco profundo, rodeado casi por completo por un denso cinturón de carrizos, ofrece un hábitat de valor ecológico incalculable. El Parque Nacional Neusiedler See-Seewinkel protege cientos de especies de aves raras, convirtiendo la región en un paraíso para los observadores de aves. Al mismo tiempo, los vientos constantes son ideales para navegantes y kitesurfistas, mientras que el suave clima panónico permite que prosperen los viñedos circundantes. La interacción entre la naturaleza intacta, los vinos de primera clase y la proximidad a Hungría confiere al lago su carácter inconfundible como sitio del Patrimonio Mundial de la UNESCO.", pt: "O Lago Neusiedl, em Burgenland, é um fenómeno natural fascinante e o maior lago da Áustria. Sendo um lago de estepe extremamente raso, quase inteiramente rodeado por um denso cinturão de juncos, oferece um habitat de valor ecológico inestimável. O Parque Nacional Neusiedler See-Seewinkel protege centenas de espécies de aves raras, tornando a região um paraíso para os observadores de aves. Ao mesmo tiempo, os ventos constantes são ideais para velejadores e kitesurfistas, enquanto o clima ameno da Panónia faz prosperar as vinhas circundantes. A interação entre a natureza intacta, vinhos de primeira classe e a proximidade com a Hungria confere ao lago o seu carácter inconfundível como Património Mundial da UNESCO.", fr: "Le lac de Neusiedl, dans le Burgenland, est un phénomène naturel fascinant et le plus grand lac d'Autriche. En tant que lac de steppe extrêmement peu profond, presque entièrement entouré d'une épaisse ceinture de roseaux, il offre un habitat d'une valeur écologique inestimable. Le parc national Neusiedler See-Seewinkel protège des centaines d'espèces d'oiseaux rares et fait de la région un paradis pour les ornithologues. Parallèlement, les vents constants sont idéaux pour les navigateurs et les kitesurfeurs, tandis que le doux climat pannonique fait prospérer les vignobles environnants. L'interaction entre une nature intacte, des vins de première qualité et la proximité de la Hongrie confère au lac son caractère unique en tant que site du patrimoine mondial de l'UNESCO."}, facts: {"de":["Der See teilt sich Österreich mit Ungarn (dort Fertő tó genannt).","Die durchschnittliche Wassertiefe beträgt lediglich rund 1 Meter.","Die Kulturlandschaft Fertő/Neusiedler See ist UNESCO-Welterbe.","Beherbergt den Nationalpark Neusiedler See-Seewinkel.","Der riesige Schilfgürtel ist nach dem Donaudelta der zweitgrößte Europas.","Der See hat keinen natürlichen Abfluss.","Im Winter ist er bei Frost oft die größte Eislauffläche Mitteleuropas.","Podersdorf und Rust (Heimat der Störche) sind bekannte Orte am Ufer.","Ein wichtiges Rastgebiet für Zugvögel zwischen Europa und Afrika.","Rund um den See wachsen exzellente Weine, besonders Süßweine."],"hu":["A tavon Ausztria Magyarországgal osztozik (Fertő tó néven).","Az átlagos vízmélység mindössze körülbelül 1 méter.","A Fertő-táj (Fertő/Neusiedler See) UNESCO világörökség.","Itt található a Fertő-Hanság (Neusiedler See-Seewinkel) Nemzeti Park.","A hatalmas nádas a Duna-delta után Európa második legnagyobbja.","A tónak nincs természetes lefolyása.","Télen, fagy esetén gyakran Közép-Európa legnagyobb korcsolyapályája.","Podersdorf (Pátfalu) és Rust (Rusztt – a gólyák hazája) híres tóparti települések.","Fontos pihenőhely az Európa és Afrika között vonuló madarak számára.","A tó körül kiváló borok, különösen édes borok teremnek."],"ro":["Lacul este împărțit între Austria și Ungaria (unde este numit Fertő tó).","Adâncimea medie a apei este de doar aproximativ 1 metru.","Peisajul cultural Fertő/Neusiedler See este un sit al Patrimoniului Mondial UNESCO.","Găzduiește Parcul Național Neusiedler See-Seewinkel.","Imensa centură de stuf este a doua ca mărime din Europa, după Delta Dunării.","Lacul nu are nicio scurgere naturală.","Iarna, când îngheață, este adesea cel mai mare patinoar din Europa Centrală.","Podersdorf și Rust (patria berzelor) sunt orașe binecunoscute pe țărm.","Un important popas pentru păsările migratoare între Europa și Africa.","În jurul lacului se produc vinuri excelente, în special vinuri dulci."],"en":["Austria shares the lake with Hungary (where it is called Fertő tó).","The average water depth is only about 1 meter.","The Fertő/Neusiedler See Cultural Landscape is a UNESCO World Heritage site.","Houses the Neusiedler See-Seewinkel National Park.","The huge reed belt is the second largest in Europe after the Danube Delta.","The lake has no natural outflow.","In winter, when frozen, it is often the largest ice-skating rink in Central Europe.","Podersdorf and Rust (home of the storks) are well-known towns on the shore.","An important resting area for migratory birds between Europe and Africa.","Excellent wines, especially sweet wines, are grown around the lake."], es: ["El lago se comparte entre Austria y Hungría (allí llamado Fertő tó).", "La profundidad media del agua es de solo 1 metro aproximadamente.", "El paisaje cultural de Fertő/Neusiedler See es Patrimonio de la Humanidad.", "Alberga el Parque Nacional Neusiedler See-Seewinkel.", "El enorme cinturón de carrizos es el segundo más grande de Europa tras el delta del Danubio.", "El lago no tiene desagüe natural.", "En invierno, con las heladas, suele ser la mayor superficie de patinaje sobre hielo de Europa Central.", "Podersdorf y Rust (hogar de las cigüeñas) son lugares conocidos en la orilla.", "Una importante zona de descanso para aves migratorias entre Europa y África.", "Alrededor del lago crecen vinos excelentes, especialmente vinos dulces."], pt: ["O lago é partilhado entre a Áustria e a Hungria (onde se chama Fertő tó).", "A profundidade média da água é de apenas cerca de 1 metro.", "A paisagem cultural de Fertő/Lago Neusiedl é Património Mundial da UNESCO.", "Alberga o Parque Nacional Neusiedler See-Seewinkel.", "A enorme cintura de juncos é a segunda maior da Europa, depois do delta do Danúbio.", "O lago não tem escoamento natural.", "No inverno, com a geada, é frequentemente a maior pista de patinagem no gelo da Europa Central.", "Podersdorf e Rust (terra das cegonhas) são locais conhecidos na margem.", "Uma importante área de repouso para aves migratórias entre a Europa e a África.", "Excelentes vinhos crescem em redor do lago, especialmente vinhos doces."], fr: ["Le lac est partagé entre l'Autriche et la Hongrie (appelé Fertő tó là-bas).", "La profondeur moyenne de l'eau n'est que d'environ 1 mètre.", "Le paysage culturel de Fertő/Neusiedler See est classé au patrimoine mondial de l'UNESCO.", "Abrite le parc national Neusiedler See-Seewinkel.", "L'immense ceinture de roseaux est la deuxième plus grande d'Europe après le delta du Danube.", "Le lac n'a pas d'écoulement naturel.", "En hiver, par temps de gel, c'est souvent la plus grande surface de patinage d'Europe centrale.", "Podersdorf et Rust (pays des cigognes) sont des localités connues sur la rive.", "Une zone de repos importante pour les oiseaux migrateurs entre l'Europe et l'Afrique.", "D'excellents vins poussent autour du lac, notamment des vins liquoreux."]},
@@ -12190,7 +18454,304 @@ export const austriaCities: POI[] = [
     },
   },
   {
-    id: "AT-Melk", type: "landmark", parent: "AT-3", coords: [15.3314, 48.2289],
+    id: "AT-Melk", "sights": {
+      "de": [
+            {
+                  "name": "Höhensiedlung Wachberg",
+                  "text": "Eine archäologische Fundstätte einer prähistorischen Höhensiedlung nahe Melk.",
+                  "category": "historical",
+                  "coords": [
+                        15.367272,
+                        48.213491
+                  ]
+            },
+            {
+                  "name": "Burgruine Gossam",
+                  "text": "Mittelalterliche Burgruine auf einem Felsen oberhalb der Donau.",
+                  "category": "castle",
+                  "coords": [
+                        15.33547,
+                        48.262954
+                  ]
+            },
+            {
+                  "name": "Schloss Leiben",
+                  "text": "Ein historisches Schloss, das heute ein Traktormuseum und Ausstellungen beherbergt.",
+                  "category": "castle",
+                  "coords": [
+                        15.284229,
+                        48.24346
+                  ]
+            },
+            {
+                  "name": "Schloss Luberegg",
+                  "text": "Ein Barockschloss in der Nähe der Donau, das einst als kaiserliche Sommerresidenz diente.",
+                  "category": "castle",
+                  "coords": [
+                        15.314048,
+                        48.232638
+                  ]
+            },
+            {
+                  "name": "Ruine Weitenegg",
+                  "text": "Die Überreste einer einst mächtigen Burganlage mit weitem Blick über das Donautal.",
+                  "category": "castle",
+                  "coords": [
+                        15.294071,
+                        48.230036
+                  ]
+            },
+            {
+                  "name": "Schloss Rothenhof",
+                  "text": "Ein historisches Schlossgebäude in der Wachau, das heute privat genutzt wird.",
+                  "category": "castle",
+                  "coords": [
+                        15.33141,
+                        48.242699
+                  ]
+            },
+            {
+                  "name": "Wachaulabor",
+                  "text": "Ein modernes Museum im Stift Melk, das sich mit der Geschichte der Region befasst.",
+                  "category": "museum",
+                  "coords": [
+                        15.333346,
+                        48.228653
+                  ]
+            },
+            {
+                  "name": "Wachaubad",
+                  "text": "Ein öffentliches Erlebnisbad in Melk für Sport und Freizeitspaß im Wasser.",
+                  "category": "recreational",
+                  "coords": [
+                        15.345865,
+                        48.224479
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Höhensiedlung Wachberg",
+                  "text": "Egy őskori magaslati település régészeti lelőhelye Melk közelében.",
+                  "category": "historical",
+                  "coords": [
+                        15.367272,
+                        48.213491
+                  ]
+            },
+            {
+                  "name": "Burgruine Gossam",
+                  "text": "Középkori várrom egy sziklán, a Duna felett.",
+                  "category": "castle",
+                  "coords": [
+                        15.33547,
+                        48.262954
+                  ]
+            },
+            {
+                  "name": "Schloss Leiben",
+                  "text": "Történelmi kastély, amely ma traktormúzeumnak és kiállításoknak ad otthont.",
+                  "category": "castle",
+                  "coords": [
+                        15.284229,
+                        48.24346
+                  ]
+            },
+            {
+                  "name": "Schloss Luberegg",
+                  "text": "Barokk kastély a Duna közelében, amely egykor császári nyári rezidenciaként szolgált.",
+                  "category": "castle",
+                  "coords": [
+                        15.314048,
+                        48.232638
+                  ]
+            },
+            {
+                  "name": "Ruine Weitenegg",
+                  "text": "Egy egykor hatalmas vár maradványai, pazar kilátással a Duna völgyére.",
+                  "category": "castle",
+                  "coords": [
+                        15.294071,
+                        48.230036
+                  ]
+            },
+            {
+                  "name": "Schloss Rothenhof",
+                  "text": "Történelmi kastélyépület a Wachau-vidéken, amely ma magántulajdonban van.",
+                  "category": "castle",
+                  "coords": [
+                        15.33141,
+                        48.242699
+                  ]
+            },
+            {
+                  "name": "Wachaulabor",
+                  "text": "Modern múzeumi tér a melki apátságban, amely a régió történelmével foglalkozik.",
+                  "category": "museum",
+                  "coords": [
+                        15.333346,
+                        48.228653
+                  ]
+            },
+            {
+                  "name": "Wachaubad",
+                  "text": "Nyilvános élményfürdő Melkben sportoláshoz és vízi kikapcsolódáshoz.",
+                  "category": "recreational",
+                  "coords": [
+                        15.345865,
+                        48.224479
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Höhensiedlung Wachberg",
+                  "text": "Un sit arheologic al unei așezări preistorice de înălțime lângă Melk.",
+                  "category": "historical",
+                  "coords": [
+                        15.367272,
+                        48.213491
+                  ]
+            },
+            {
+                  "name": "Burgruine Gossam",
+                  "text": "Ruinele unei cetăți medievale situate pe o stâncă deasupra Dunării.",
+                  "category": "castle",
+                  "coords": [
+                        15.33547,
+                        48.262954
+                  ]
+            },
+            {
+                  "name": "Schloss Leiben",
+                  "text": "Un castel istoric care găzduiește astăzi un muzeu de tractoare și diverse expoziții.",
+                  "category": "castle",
+                  "coords": [
+                        15.284229,
+                        48.24346
+                  ]
+            },
+            {
+                  "name": "Schloss Luberegg",
+                  "text": "Un castel baroc lângă Dunăre, care a servit odinioară drept reședință imperială de vară.",
+                  "category": "castle",
+                  "coords": [
+                        15.314048,
+                        48.232638
+                  ]
+            },
+            {
+                  "name": "Ruine Weitenegg",
+                  "text": "Rămășițele unei fortărețe odinioară puternice, cu vedere largă asupra văii Dunării.",
+                  "category": "castle",
+                  "coords": [
+                        15.294071,
+                        48.230036
+                  ]
+            },
+            {
+                  "name": "Schloss Rothenhof",
+                  "text": "O clădire de castel istorică în regiunea Wachau, folosită astăzi în scopuri private.",
+                  "category": "castle",
+                  "coords": [
+                        15.33141,
+                        48.242699
+                  ]
+            },
+            {
+                  "name": "Wachaulabor",
+                  "text": "Un spațiu muzeal modern în cadrul Abației Melk, axat pe istoria regiunii.",
+                  "category": "museum",
+                  "coords": [
+                        15.333346,
+                        48.228653
+                  ]
+            },
+            {
+                  "name": "Wachaubad",
+                  "text": "Un parc acvatic public în Melk pentru sport și distracție recreativă în apă.",
+                  "category": "recreational",
+                  "coords": [
+                        15.345865,
+                        48.224479
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Höhensiedlung Wachberg",
+                  "text": "An archaeological site of a prehistoric hilltop settlement near Melk.",
+                  "category": "historical",
+                  "coords": [
+                        15.367272,
+                        48.213491
+                  ]
+            },
+            {
+                  "name": "Burgruine Gossam",
+                  "text": "Medieval castle ruins situated on a rock above the Danube.",
+                  "category": "castle",
+                  "coords": [
+                        15.33547,
+                        48.262954
+                  ]
+            },
+            {
+                  "name": "Schloss Leiben",
+                  "text": "A historic castle that now houses a tractor museum and exhibitions.",
+                  "category": "castle",
+                  "coords": [
+                        15.284229,
+                        48.24346
+                  ]
+            },
+            {
+                  "name": "Schloss Luberegg",
+                  "text": "A Baroque castle near the Danube that once served as an imperial summer residence.",
+                  "category": "castle",
+                  "coords": [
+                        15.314048,
+                        48.232638
+                  ]
+            },
+            {
+                  "name": "Ruine Weitenegg",
+                  "text": "The remains of a once powerful castle with broad views over the Danube valley.",
+                  "category": "castle",
+                  "coords": [
+                        15.294071,
+                        48.230036
+                  ]
+            },
+            {
+                  "name": "Schloss Rothenhof",
+                  "text": "A historic castle building in the Wachau region, currently in private use.",
+                  "category": "castle",
+                  "coords": [
+                        15.33141,
+                        48.242699
+                  ]
+            },
+            {
+                  "name": "Wachaulabor",
+                  "text": "A modern museum space within Melk Abbey focusing on the region's history.",
+                  "category": "museum",
+                  "coords": [
+                        15.333346,
+                        48.228653
+                  ]
+            },
+            {
+                  "name": "Wachaubad",
+                  "text": "A public water park in Melk for sports and recreational swimming.",
+                  "category": "recreational",
+                  "coords": [
+                        15.345865,
+                        48.224479
+                  ]
+            }
+      ]
+}, type: "landmark", parent: "AT-3", coords: [15.3314, 48.2289],
     name: { de: "Stift Melk", hu: "Melki apátság", ro: "Abația Melk", en: "Melk Abbey" },
     image: "/geo-images/austria/melk-abbey.webp",
     description: {
@@ -12363,7 +18924,304 @@ export const austriaCities: POI[] = [
     },
   },
   {
-    id: "AT-Semmering", type: "landmark", parent: "AT-3", coords: [15.83, 47.6433],
+    id: "AT-Semmering", "sights": {
+      "de": [
+            {
+                  "name": "Ghega-Museum",
+                  "text": "Ein Museum am Semmering, das dem Erbauer der Semmeringbahn, Carl von Ghega, gewidmet ist.",
+                  "category": "museum",
+                  "coords": [
+                        15.805351,
+                        47.656027
+                  ]
+            },
+            {
+                  "name": "Burgruine Klamm",
+                  "text": "Die Ruinen einer mittelalterlichen Burg, die hoch über der Semmeringbahn liegen.",
+                  "category": "castle",
+                  "coords": [
+                        15.86766,
+                        47.659959
+                  ]
+            },
+            {
+                  "name": "Hochstraßenmuseum",
+                  "text": "Ein Museum am Semmering, das die Geschichte der Passstraße dokumentiert.",
+                  "category": "museum",
+                  "coords": [
+                        15.825769,
+                        47.638173
+                  ]
+            },
+            {
+                  "name": "Kunst+Technik Skulpturenpark",
+                  "text": "Ein Skulpturenpark am Semmering, der Kunstwerke im Freien präsentiert.",
+                  "category": "museum",
+                  "coords": [
+                        15.823762,
+                        47.649601
+                  ]
+            },
+            {
+                  "name": "Hirschenkogel",
+                  "text": "Ein Berg am Semmering, bekannt für sein Skigebiet und den Bikepark.",
+                  "category": "landmark",
+                  "coords": [
+                        15.833766,
+                        47.622151
+                  ]
+            },
+            {
+                  "name": "Semmeringbahn",
+                  "text": "Die erste Gebirgshochbahn der Welt und Teil des UNESCO-Welterbes.",
+                  "category": "landmark",
+                  "coords": [
+                        15.827972,
+                        47.648778
+                  ]
+            },
+            {
+                  "name": "Pinkenkogel",
+                  "text": "Ein beliebter Wanderberg in der Semmering-Region.",
+                  "category": "landmark",
+                  "coords": [
+                        15.813452,
+                        47.636829
+                  ]
+            },
+            {
+                  "name": "Wolfsbergkogel",
+                  "text": "Ein Aussichtspunkt am Semmering mit Blick auf die beeindruckenden Viadukte der Bahnstrecke.",
+                  "category": "landmark",
+                  "coords": [
+                        15.824395,
+                        47.652157
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Ghega-Museum",
+                  "text": "A Semmering-vasút építőjének, Carl von Ghegának szentelt múzeum a Semmeringen.",
+                  "category": "museum",
+                  "coords": [
+                        15.805351,
+                        47.656027
+                  ]
+            },
+            {
+                  "name": "Burgruine Klamm",
+                  "text": "Egy középkori vár romjai, amelyek magasan a Semmering-vasút felett állnak.",
+                  "category": "castle",
+                  "coords": [
+                        15.86766,
+                        47.659959
+                  ]
+            },
+            {
+                  "name": "Hochstraßenmuseum",
+                  "text": "Múzeum a Semmeringen, amely a hágóút történetét dokumentálja.",
+                  "category": "museum",
+                  "coords": [
+                        15.825769,
+                        47.638173
+                  ]
+            },
+            {
+                  "name": "Kunst+Technik Skulpturenpark",
+                  "text": "Szoborpark a Semmeringen, ahol szabadtéri műalkotások láthatók.",
+                  "category": "museum",
+                  "coords": [
+                        15.823762,
+                        47.649601
+                  ]
+            },
+            {
+                  "name": "Hirschenkogel",
+                  "text": "Hegycsúcs a Semmeringen, sípályáiról és kerékpáros parkjáról ismert.",
+                  "category": "landmark",
+                  "coords": [
+                        15.833766,
+                        47.622151
+                  ]
+            },
+            {
+                  "name": "Semmeringbahn",
+                  "text": "A világ első hegyi vasútja és az UNESCO Világörökség része.",
+                  "category": "landmark",
+                  "coords": [
+                        15.827972,
+                        47.648778
+                  ]
+            },
+            {
+                  "name": "Pinkenkogel",
+                  "text": "Népszerű túraútvonalak célpontja a Semmering-régióban.",
+                  "category": "landmark",
+                  "coords": [
+                        15.813452,
+                        47.636829
+                  ]
+            },
+            {
+                  "name": "Wolfsbergkogel",
+                  "text": "Kilátópont a Semmeringen, rálátással a vasútvonal lenyűgöző viaduktjaira.",
+                  "category": "landmark",
+                  "coords": [
+                        15.824395,
+                        47.652157
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Ghega-Museum",
+                  "text": "Un muzeu la Semmering dedicat constructorului căii ferate Semmering, Carl von Ghega.",
+                  "category": "museum",
+                  "coords": [
+                        15.805351,
+                        47.656027
+                  ]
+            },
+            {
+                  "name": "Burgruine Klamm",
+                  "text": "Ruinele unui castel medieval situate la înălțime deasupra căii ferate Semmering.",
+                  "category": "castle",
+                  "coords": [
+                        15.86766,
+                        47.659959
+                  ]
+            },
+            {
+                  "name": "Hochstraßenmuseum",
+                  "text": "Un muzeu la Semmering care documentează istoria drumului prin pas.",
+                  "category": "museum",
+                  "coords": [
+                        15.825769,
+                        47.638173
+                  ]
+            },
+            {
+                  "name": "Kunst+Technik Skulpturenpark",
+                  "text": "Un parc de sculpturi la Semmering, care prezintă opere de artă în aer liber.",
+                  "category": "museum",
+                  "coords": [
+                        15.823762,
+                        47.649601
+                  ]
+            },
+            {
+                  "name": "Hirschenkogel",
+                  "text": "Un munte la Semmering, cunoscut pentru stațiunea de schi și parcul de biciclete.",
+                  "category": "landmark",
+                  "coords": [
+                        15.833766,
+                        47.622151
+                  ]
+            },
+            {
+                  "name": "Semmeringbahn",
+                  "text": "Prima cale ferată montană din lume și parte a Patrimoniului Mondial UNESCO.",
+                  "category": "landmark",
+                  "coords": [
+                        15.827972,
+                        47.648778
+                  ]
+            },
+            {
+                  "name": "Pinkenkogel",
+                  "text": "Un munte popular pentru drumeții în regiunea Semmering.",
+                  "category": "landmark",
+                  "coords": [
+                        15.813452,
+                        47.636829
+                  ]
+            },
+            {
+                  "name": "Wolfsbergkogel",
+                  "text": "Un punct de belvedere la Semmering cu vedere la viaductele impresionante ale căii ferate.",
+                  "category": "landmark",
+                  "coords": [
+                        15.824395,
+                        47.652157
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Ghega-Museum",
+                  "text": "A museum at the Semmering dedicated to the builder of the Semmering Railway, Carl von Ghega.",
+                  "category": "museum",
+                  "coords": [
+                        15.805351,
+                        47.656027
+                  ]
+            },
+            {
+                  "name": "Burgruine Klamm",
+                  "text": "The ruins of a medieval castle situated high above the Semmering Railway.",
+                  "category": "castle",
+                  "coords": [
+                        15.86766,
+                        47.659959
+                  ]
+            },
+            {
+                  "name": "Hochstraßenmuseum",
+                  "text": "A museum at the Semmering documenting the history of the mountain pass road.",
+                  "category": "museum",
+                  "coords": [
+                        15.825769,
+                        47.638173
+                  ]
+            },
+            {
+                  "name": "Kunst+Technik Skulpturenpark",
+                  "text": "A sculpture park at the Semmering showcasing outdoor works of art.",
+                  "category": "museum",
+                  "coords": [
+                        15.823762,
+                        47.649601
+                  ]
+            },
+            {
+                  "name": "Hirschenkogel",
+                  "text": "A mountain at the Semmering known for its ski resort and bike park.",
+                  "category": "landmark",
+                  "coords": [
+                        15.833766,
+                        47.622151
+                  ]
+            },
+            {
+                  "name": "Semmering railway",
+                  "text": "The world's first mountain railway and a UNESCO World Heritage site.",
+                  "category": "landmark",
+                  "coords": [
+                        15.827972,
+                        47.648778
+                  ]
+            },
+            {
+                  "name": "Pinkenkogel",
+                  "text": "A popular mountain for hiking in the Semmering region.",
+                  "category": "landmark",
+                  "coords": [
+                        15.813452,
+                        47.636829
+                  ]
+            },
+            {
+                  "name": "Wolfsbergkogel",
+                  "text": "A viewpoint at the Semmering with views of the railway line's impressive viaducts.",
+                  "category": "landmark",
+                  "coords": [
+                        15.824395,
+                        47.652157
+                  ]
+            }
+      ]
+}, type: "landmark", parent: "AT-3", coords: [15.83, 47.6433],
     name: { de: "Semmeringbahn", hu: "Semmeringi vasút", ro: "Calea ferată Semmering", en: "Semmering Railway" },
     image: "/geo-images/austria/semmering-railway.webp",
     description: {"de":"Die Semmeringbahn, die Niederösterreich mit der Steiermark verbindet, ist nicht nur eine wichtige Verkehrsader, sondern ein Meisterwerk der Ingenieurskunst aus der Mitte des 19. Jahrhunderts. Unter der Leitung von Carl Ritter von Ghega erbaut, war sie die erste normalspurige Gebirgsbahn Europas, die sich harmonisch in die schroffe, alpine Landschaft einfügt. Mit ihren 14 Tunneln, 16 Viadukten und unzähligen Brücken, die aus Millionen von Ziegeln und Steinquadern errichtet wurden, revolutionierte sie das Reisen. Wegen ihrer überragenden architektonischen Bedeutung und landschaftlichen Schönheit wurde die Semmeringbahn 1998 als erste Bahnlinie der Welt in die Liste der UNESCO-Weltkulturerbestätten aufgenommen.","hu":"A Semmering-vasút, amely Alsó-Ausztriát köti össze Stájerországgal, nemcsak egy fontos közlekedési ütőér, hanem a 19. század közepének mérnöki mesterműve is. A Carl Ritter von Ghega vezetésével épült vasút volt Európa első normál nyomtávú hegyi vasútja, amely harmonikusan illeszkedik a zord, alpesi tájba. 14 alagútjával, 16 viaduktjával és számtalan hídjával, amelyeket több millió téglából és kőtömbből építettek, forradalmasította az utazást. Kiemelkedő építészeti jelentősége és táji szépsége miatt a Semmering-vasutat 1998-ban, a világon első vasútvonalként felvették az UNESCO világörökségi listájára.","ro":"Calea ferată Semmering (Semmeringbahn), care leagă Austria Inferioară de Stiria, nu este doar o arteră de transport importantă, ci și o capodoperă a ingineriei de la mijlocul secolului al XIX-lea. Construită sub conducerea lui Carl Ritter von Ghega, a fost prima cale ferată montană cu ecartament normal din Europa care s-a integrat armonios în peisajul alpin accidentat. Cu cele 14 tuneluri, 16 viaducte și nenumăratele poduri construite din milioane de cărămizi și blocuri de piatră, a revoluționat călătoriile. Datorită importanței sale arhitecturale remarcabile și a frumuseții pitorești, Calea ferată Semmering a fost inclusă pe lista Patrimoniului Mondial UNESCO în 1998, fiind prima linie de cale ferată din lume care a primit această onoare.","en":"The Semmering Railway (Semmeringbahn), which connects Lower Austria with Styria, is not only an important transport artery but a masterpiece of engineering from the mid-19th century. Built under the direction of Carl Ritter von Ghega, it was the first standard-gauge mountain railway in Europe to blend harmoniously into the rugged alpine landscape. With its 14 tunnels, 16 viaducts, and countless bridges built from millions of bricks and stone blocks, it revolutionized travel. Due to its outstanding architectural significance and scenic beauty, the Semmering Railway was added to the UNESCO World Heritage list in 1998 as the first railway line in the world to receive this honor.", es: "El ferrocarril de Semmering, que conecta la Baja Austria con Estiria, no es solo una importante arteria de transporte, sino una obra maestra de la ingeniería de mediados del siglo XIX. Construido bajo la dirección de Carl Ritter von Ghega, fue el primer ferrocarril de montaña de ancho normal de Europa, integrándose armoniosamente en el escarpado paisaje alpino. Con sus 14 túneles, 16 viaductos e innumerables puentes, construidos con millones de ladrillos y bloques de piedra, revolucionó los viajes. Debido a su destacada importancia arquitectónica y belleza paisajística, el ferrocarril de Semmering fue incluido en 1998 en la lista del Patrimonio Mundial de la UNESCO como la primera línea ferroviaria del mundo.", pt: "A ferrovia de Semmering, que liga a Baixa Áustria à Estíria, não é apenas uma importante artéria de transporte, mas uma obra-prima da engenharia de meados do século XIX. Construída sob a direção de Carl Ritter von Ghega, foi a primeira ferrovia de montanha de bitola normal na Europa a integrar-se harmoniosamente na paisagem alpina escarpada. Com os seus 14 túneis, 16 viadutos e inúmeras pontes, construídas com milhões de tijolos e blocos de pedra, revolucionou as viagens. Devido à sua excelente importância arquitetónica e beleza paisagística, a ferrovia de Semmering foi a primeira linha ferroviária do mundo a ser incluída na lista do Património Mundial da UNESCO em 1998.", fr: "La ligne du Semmering, qui relie la Basse-Autriche à la Styrie, n'est pas seulement une artère de transport importante, mais un chef-d'œuvre de l'ingénierie du milieu du XIXe siècle. Construite sous la direction de Carl Ritter von Ghega, elle fut la première ligne de montagne à voie normale d'Europe, s'intégrant harmonieusement dans le paysage alpin escarpé. Avec ses 14 tunnels, ses 16 viaducs et ses innombrables ponts érigés à partir de millions de briques et de pierres de taille, elle a révolutionné le voyage. En raison de son importance architecturale exceptionnelle et de la beauté de ses paysages, le chemin de fer du Semmering a été la première ligne ferroviaire au monde à être inscrite sur la liste du patrimoine mondial de l'UNESCO en 1998."}, facts: {"de":["Erbaut zwischen 1848 und 1854 von Carl Ritter von Ghega.","Überwindet einen Höhenunterschied von rund 460 Metern.","Das berühmte 'Zwanzig-Schilling-Motto' zierte einst die 20-Schilling-Banknote.","Gilt als die erste Gebirgsbahn Europas in Normalspur.","Die historische Bahntrasse führt über 16 Viadukte und durch 14 Tunnel.","Entlang der Strecke entstand die berühmte Semmering-Villenarchitektur.","Ein begleitender Bahnwanderweg bietet tolle Aussichten auf die Viadukte.","Wurde komplett ohne Stahlkonstruktionen, nur aus Stein und Ziegeln, erbaut.","Der höchste Punkt liegt im Scheiteltunnel auf 895 Metern Seehöhe.","Ermöglichte die Entwicklung des Semmerings zu einem mondänen Luftkurort."],"hu":["Carl Ritter von Ghega építtette 1848 és 1854 között.","Körülbelül 460 méteres szintkülönbséget küzd le.","A híres viadukt egykor a 20 schillinges bankjegyet díszítette.","Európa első normál nyomtávú hegyi vasútjának tartják.","A történelmi vasútvonal 16 viadukton és 14 alagúton halad át.","A vonal mentén alakult ki a híres semmeringi villaépítészet.","Egy kísérő vasúti túraútvonal nagyszerű kilátást nyújt a viaduktokra.","Teljesen acélszerkezetek nélkül, kizárólag kőből és téglából épült.","A legmagasabb pontja az alagút tetőpontján, 895 méteres magasságban van.","Lehetővé tette Semmering divatos magaslati üdülőhellyé válását."],"ro":["Construită între 1848 și 1854 de Carl Ritter von Ghega.","Depășește o diferență de altitudine de aproximativ 460 de metri.","Celebrul viaduct a decorat odată bancnota de 20 de șilingi austrieci.","Considerată prima cale ferată montană cu ecartament normal din Europa.","Traseul istoric al căii ferate trece peste 16 viaducte și prin 14 tuneluri.","De-a lungul rutei s-a dezvoltat celebra arhitectură a vilelor din Semmering.","Un traseu de drumeții adiacent oferă vederi minunate asupra viaductelor.","A fost construită complet fără structuri de oțel, doar din piatră și cărămidă.","Cel mai înalt punct se află în tunelul principal (Scheiteltunnel) la 895 de metri.","A permis dezvoltarea Semmeringului într-o stațiune climatică la modă."],"en":["Built between 1848 and 1854 by Carl Ritter von Ghega.","Overcomes an altitude difference of approximately 460 meters.","The famous viaduct once adorned the 20 Austrian Schilling banknote.","Considered the first standard-gauge mountain railway in Europe.","The historic railway line crosses 16 viaducts and passes through 14 tunnels.","The famous Semmering villa architecture developed along the route.","An accompanying railway hiking trail offers great views of the viaducts.","Was built completely without steel structures, using only stone and brick.","The highest point is in the summit tunnel at 895 meters above sea level.","Enabled the development of the Semmering into a fashionable climatic spa resort."], es: ["Construido entre 1848 y 1854 por Carl Ritter von Ghega.", "Supera un desnivel de unos 460 metros.", "El famoso motivo de los 'veinte chelines' adornó en su día el billete de 20 chelines.", "Se considera el primer ferrocarril de montaña de Europa en ancho normal.", "El trazado histórico del ferrocarril pasa por 16 viaductos y a través de 14 túneles.", "A lo largo del trayecto surgió la famosa arquitectura de villas de Semmering.", "Un sendero de senderismo ferroviario paralelo ofrece magníficas vistas de los viaductos.", "Fue construido completamente sin estructuras de acero, solo de piedra y ladrillo.", "El punto más alto se encuentra en el túnel de la cumbre a 895 metros sobre el nivel del mar.", "Permitió el desarrollo de Semmering como un elegante balneario climático."], pt: ["Construída entre 1848 e 1854 por Carl Ritter von Ghega.", "Vence um desnível de cerca de 460 metros.", "O famoso 'motivo de vinte xelins' outrora adornava a nota de 20 xelins.", "É considerada a primeira ferrovia de montanha da Europa em bitola normal.", "A linha histórica passa por 16 viadutos e 14 túneis.", "A famosa arquitetura de moradias de Semmering surgiu ao longo da linha.", "Um trilho de caminhada ferroviário acompanhante oferece excelentes vistas dos viadutos.", "Foi construída inteiramente sem estruturas de aço, apenas de pedra e tijolo.", "O ponto mais alto situa-se no túnel de cumeada a 895 metros de altitude.", "Permitiu o desenvolvimento de Semmering como uma estância climática requintada."], fr: ["Construite entre 1848 et 1854 par Carl Ritter von Ghega.", "Franchit un dénivelé d'environ 460 mètres.", "Le célèbre motif du 'billet de vingt schillings' ornait autrefois les billets de 20 schillings.", "Considérée comme la première ligne de montagne d'Europe à voie normale.", "Le tracé historique passe sur 16 viaducs et à travers 14 tunnels.", "La célèbre architecture des villas du Semmering s'est développée le long de la ligne.", "Un sentier de randonnée le long de la voie ferrée offre des vues imprenables sur les viaducs.", "A été construite entièrement sans structures métalliques, uniquement en pierre et en brique.", "Le point culminant se trouve dans le tunnel de faîte à 895 mètres d'altitude.", "A permis le développement du Semmering en tant que station climatique mondaine."]},
@@ -12555,7 +19413,304 @@ export const austriaCities: POI[] = [
     },
   },
   {
-    id: "AT-Krimml", type: "landmark", parent: "AT-5", coords: [12.1694, 47.2100],
+    id: "AT-Krimml", "sights": {
+      "de": [
+            {
+                  "name": "WasserWunderWelt Krimml",
+                  "text": "Ein interaktiver Themenpark rund um das Element Wasser bei den Krimmler Wasserfällen.",
+                  "category": "recreational",
+                  "coords": [
+                        12.169139,
+                        47.214304
+                  ]
+            },
+            {
+                  "name": "Schwimmbad Krimml",
+                  "text": "Ein öffentliches Freibad in der Gemeinde Krimml.",
+                  "category": "recreational",
+                  "coords": [
+                        12.176363,
+                        47.221017
+                  ]
+            },
+            {
+                  "name": "Krimmler Wasserfälle",
+                  "text": "Die höchsten Wasserfälle Österreichs im Nationalpark Hohe Tauern.",
+                  "category": "landmark",
+                  "coords": [
+                        12.170224,
+                        47.208376
+                  ]
+            },
+            {
+                  "name": "Plattenkogel",
+                  "text": "Ein markanter Berggipfel in der Nähe von Krimml.",
+                  "category": "landmark",
+                  "coords": [
+                        12.135277,
+                        47.224859
+                  ]
+            },
+            {
+                  "name": "Arbeskopf",
+                  "text": "Ein Gipfel in der Gebirgsgruppe der Venediger- oder Reichenspitzgruppe.",
+                  "category": "landmark",
+                  "coords": [
+                        12.154689,
+                        47.194269
+                  ]
+            },
+            {
+                  "name": "Achkogel",
+                  "text": "Ein Gipfel in den Alpen nahe der Krimmler Wasserfälle.",
+                  "category": "landmark",
+                  "coords": [
+                        12.209925,
+                        47.212259
+                  ]
+            },
+            {
+                  "name": "Seekarkopf",
+                  "text": "Ein Berg im Gebiet der Hohen Tauern.",
+                  "category": "landmark",
+                  "coords": [
+                        12.13668,
+                        47.193651
+                  ]
+            },
+            {
+                  "name": "Berger Blick",
+                  "text": "Ein Aussichtspunkt mit Blick auf die umliegende Berglandschaft.",
+                  "category": "natural",
+                  "coords": [
+                        12.170636,
+                        47.200146
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "WasserWunderWelt Krimml",
+                  "text": "Interaktív vizes élménypark a Krimml-vízesésnél.",
+                  "category": "recreational",
+                  "coords": [
+                        12.169139,
+                        47.214304
+                  ]
+            },
+            {
+                  "name": "Schwimmbad Krimml",
+                  "text": "Nyilvános szabadtéri strandfürdő Krimml községben.",
+                  "category": "recreational",
+                  "coords": [
+                        12.176363,
+                        47.221017
+                  ]
+            },
+            {
+                  "name": "Krimmler Wasserfälle",
+                  "text": "Ausztria legmagasabb vízesése a Magas-Tauern Nemzeti Parkban.",
+                  "category": "landmark",
+                  "coords": [
+                        12.170224,
+                        47.208376
+                  ]
+            },
+            {
+                  "name": "Plattenkogel",
+                  "text": "Egy jellegzetes hegycsúcs Krimml közelében.",
+                  "category": "landmark",
+                  "coords": [
+                        12.135277,
+                        47.224859
+                  ]
+            },
+            {
+                  "name": "Arbeskopf",
+                  "text": "Egy hegycsúcs a Venediger- vagy a Reichenspitz-csoportban.",
+                  "category": "landmark",
+                  "coords": [
+                        12.154689,
+                        47.194269
+                  ]
+            },
+            {
+                  "name": "Achkogel",
+                  "text": "Egy hegycsúcs az Alpokban a Krimml-vízesés közelében.",
+                  "category": "landmark",
+                  "coords": [
+                        12.209925,
+                        47.212259
+                  ]
+            },
+            {
+                  "name": "Seekarkopf",
+                  "text": "Egy hegy a Magas-Tauern vidékén.",
+                  "category": "landmark",
+                  "coords": [
+                        12.13668,
+                        47.193651
+                  ]
+            },
+            {
+                  "name": "Berger Blick",
+                  "text": "Kilátópont, ahonnan panoráma nyílik a környező hegyvidékre.",
+                  "category": "natural",
+                  "coords": [
+                        12.170636,
+                        47.200146
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "WasserWunderWelt Krimml",
+                  "text": "Un parc tematic interactiv dedicat apei, situat lângă Cascada Krimml.",
+                  "category": "recreational",
+                  "coords": [
+                        12.169139,
+                        47.214304
+                  ]
+            },
+            {
+                  "name": "Schwimmbad Krimml",
+                  "text": "O piscină publică în aer liber în localitatea Krimml.",
+                  "category": "recreational",
+                  "coords": [
+                        12.176363,
+                        47.221017
+                  ]
+            },
+            {
+                  "name": "Krimmler Wasserfälle",
+                  "text": "Cele mai înalte cascade din Austria, situate în Parcul Național Hohe Tauern.",
+                  "category": "landmark",
+                  "coords": [
+                        12.170224,
+                        47.208376
+                  ]
+            },
+            {
+                  "name": "Plattenkogel",
+                  "text": "Un vârf montan proeminent situat lângă Krimml.",
+                  "category": "landmark",
+                  "coords": [
+                        12.135277,
+                        47.224859
+                  ]
+            },
+            {
+                  "name": "Arbeskopf",
+                  "text": "Un vârf în grupul muntos Venediger sau Reichenspitz.",
+                  "category": "landmark",
+                  "coords": [
+                        12.154689,
+                        47.194269
+                  ]
+            },
+            {
+                  "name": "Achkogel",
+                  "text": "Un vârf montan în Alpi, aproape de Cascada Krimml.",
+                  "category": "landmark",
+                  "coords": [
+                        12.209925,
+                        47.212259
+                  ]
+            },
+            {
+                  "name": "Seekarkopf",
+                  "text": "Un munte în regiunea Hohe Tauern.",
+                  "category": "landmark",
+                  "coords": [
+                        12.13668,
+                        47.193651
+                  ]
+            },
+            {
+                  "name": "Berger Blick",
+                  "text": "Un punct de observare cu vedere panoramică asupra peisajului montan din jur.",
+                  "category": "natural",
+                  "coords": [
+                        12.170636,
+                        47.200146
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "WasserWunderWelt Krimml",
+                  "text": "An interactive water theme park located near the Krimml Waterfalls.",
+                  "category": "recreational",
+                  "coords": [
+                        12.169139,
+                        47.214304
+                  ]
+            },
+            {
+                  "name": "Schwimmbad Krimml",
+                  "text": "A public outdoor swimming pool in the municipality of Krimml.",
+                  "category": "recreational",
+                  "coords": [
+                        12.176363,
+                        47.221017
+                  ]
+            },
+            {
+                  "name": "Krimml Waterfalls",
+                  "text": "Austria's highest waterfalls, located in the Hohe Tauern National Park.",
+                  "category": "landmark",
+                  "coords": [
+                        12.170224,
+                        47.208376
+                  ]
+            },
+            {
+                  "name": "Plattenkogel",
+                  "text": "A prominent mountain peak located near Krimml.",
+                  "category": "landmark",
+                  "coords": [
+                        12.135277,
+                        47.224859
+                  ]
+            },
+            {
+                  "name": "Arbeskopf",
+                  "text": "A mountain peak in the Venediger or Reichenspitz group.",
+                  "category": "landmark",
+                  "coords": [
+                        12.154689,
+                        47.194269
+                  ]
+            },
+            {
+                  "name": "Achkogel",
+                  "text": "A mountain peak in the Alps near the Krimml Waterfalls.",
+                  "category": "landmark",
+                  "coords": [
+                        12.209925,
+                        47.212259
+                  ]
+            },
+            {
+                  "name": "Seekarkopf",
+                  "text": "A mountain in the Hohe Tauern region.",
+                  "category": "landmark",
+                  "coords": [
+                        12.13668,
+                        47.193651
+                  ]
+            },
+            {
+                  "name": "Berger Blick",
+                  "text": "A viewpoint offering a panoramic view of the surrounding mountain landscape.",
+                  "category": "natural",
+                  "coords": [
+                        12.170636,
+                        47.200146
+                  ]
+            }
+      ]
+}, type: "landmark", parent: "AT-5", coords: [12.1694, 47.2100],
     name: { de: "Krimmler Wasserfälle", hu: "Krimmli vízesés", ro: "Cascada Krimml", en: "Krimml Waterfalls" },
     image: "/geo-images/austria/krimml.webp",
     description: {"de":"Die Krimmler Wasserfälle im Bundesland Salzburg sind mit einer beeindruckenden Fallhöhe von 380 Metern die höchsten Wasserfälle Österreichs und gehören zu den fünthöchsten der Welt. Eingebettet in die unberührte Natur des Nationalparks Hohe Tauern, stürzen die gigantischen Wassermassen in drei gewaltigen Stufen tosend ins Tal. Der feine Sprühnebel, der dabei entsteht, bietet nicht nur ein spektakuläres visuelles Erlebnis mit zahlreichen Regenbögen, sondern hat auch medizinisch nachgewiesene heilende Eigenschaften, insbesondere für Asthmatiker und Allergiker. Ein gut ausgebauter Wasserfallweg ermöglicht es Besuchern, hautnah an die tosenden Wassermassen heranzutreten und die rohe Kraft der Natur zu spüren.","hu":"A Salzburg tartományban található Krimmli-vízesés lenyűgöző, 380 méteres esésmagasságával Ausztria legmagasabb vízesése, és a világ öt legmagasabb vízesésének egyike. A Magas-Tauern Nemzeti Park érintetlen természetébe ágyazva a gigantikus víztömegek három hatalmas lépcsőben zuhannak dübörögve a völgybe. A keletkező finom vízpermet nemcsak látványos vizuális élményt nyújt a számtalan szivárvánnyal, hanem orvosilag bizonyított gyógyító hatása is van, különösen asztmások és allergiások számára. Egy jól kiépített túraútvonal (Wasserfallweg) lehetővé teszi a látogatók számára, hogy testközelből is megtapasztalhassák a dübörgő víztömeget és a természet nyers erejét.","ro":"Cascadele Krimml din landul Salzburg sunt, cu o înălțime impresionantă de 380 de metri, cele mai înalte cascade din Austria și se numără printre primele cinci ca înălțime din lume. Înglobate în natura neatinsă a Parcului Național Hohe Tauern, masele gigantice de apă se prăvălesc cu zgomot în vale în trei trepte masive. Ceața fină care este creată oferă nu numai o experiență vizuală spectaculoasă cu numeroase curcubee, dar are și proprietăți vindecătoare dovedite medical, în special pentru astmatici și cei care suferă de alergii. Un traseu bine amenajat de-a lungul cascadei permite vizitatorilor să se apropie de masele de apă învolburate și să simtă forța brută a naturii.","en":"The Krimml Waterfalls in the federal state of Salzburg are, with an impressive drop of 380 meters, the highest waterfalls in Austria and among the five highest in the world. Nestled in the pristine nature of the Hohe Tauern National Park, the gigantic water masses plunge roaringly into the valley in three massive tiers. The fine spray created in the process not only offers a spectacular visual experience with numerous rainbows but also has medically proven healing properties, especially for asthmatics and allergy sufferers. A well-developed waterfall trail allows visitors to get up close to the roaring water masses and feel the raw power of nature.", es: "Las cataratas de Krimml, en el estado federal de Salzburgo, son con una impresionante altura de caída de 380 metros las cataratas más altas de Austria y figuran entre las cinco más altas del mundo. Enclavadas en la naturaleza virgen del Parque Nacional Hohe Tauern, las gigantescas masas de agua se precipitan al valle en tres enormes niveles estruendosos. La fina bruma que se genera no solo ofrece una experiencia visual espectacular con numerosos arcoíris, sino que también tiene propiedades curativas demostradas médicamente, especialmente para asmáticos y alérgicos. Un camino bien acondicionado permite a los visitantes acercarse a las estruendosas masas de agua y sentir la fuerza bruta de la naturaleza.", pt: "As cataratas de Krimml, no estado de Salzburgo, são as cataratas mais altas da Áustria, com uma impressionante altura de queda de 380 metros, e pertencem às cinco mais altas do mundo. Inseridas na natureza intocada do Parque Nacional Hohe Tauern, as gigantescas massas de água despenham-se no vale em três enormes patamares estrondosos. A fina névoa que se forma oferece não só uma experiência visual espetacular com inúmeros arco-íris, mas também possui propriedades curativas comprovadas medicamente, especialmente para asmáticos e alérgicos. Um trilho bem estruturado permite aos visitantes aproximarem-se das estrondosas massas de água e sentirem a força bruta da natureza.", fr: "Les cascades de Krimml, dans le Land de Salzbourg, sont les plus hautes d'Autriche avec une hauteur de chute impressionnante de 380 mètres, et comptent parmi les cinq plus hautes du monde. Nichées dans la nature préservée du parc national des Hohe Tauern, les gigantesques masses d'eau s'abattent dans la vallée en trois paliers fracassants. La fine brume qui s'en dégage offre non seulement un spectacle visuel grandiose avec de nombreux arcs-en-ciel, mais possède également des vertus curatives médicalement prouvées, notamment pour les asthmatiques et les allergiques. Un sentier bien aménagé permet aux visiteurs de s'approcher au plus près des masses d'eau vrombissantes et de ressentir la force brute de la nature."}, facts: {"de":["Mit 380 Metern sind die Krimmler Wasserfälle die höchsten Österreichs.","Das Wasser stürzt in drei mächtigen Kaskaden in die Tiefe.","Liegen im Herzen des Nationalparks Hohe Tauern.","Die Wasserfälle werden vom Schmelzwasser des Krimmler Kees-Gletschers gespeist.","Über 400.000 Besucher kommen jährlich zu diesem Naturdenkmal.","Der Sprühnebel der Fälle hat nachweislich heilende Wirkung auf Atemwegserkrankungen.","Der Alpenverein hat bereits 1879 einen sicheren Besichtigungsweg entlang der Fälle erbaut.","Der höchste Wasserdurchfluss wird in den frühen Sommermonaten erreicht.","Neben den Fällen befindet sich die interaktive Ausstellung 'WasserWelten'.","Die Fälle waren eines der ersten Naturschutzgebiete Österreichs."],"hu":["A 380 méteres esésű Krimmli-vízesés a legmagasabb Ausztriában.","A víz három hatalmas lépcsőben, kaszkádszerűen zuhan a mélybe.","A Magas-Tauern Nemzeti Park szívében található.","A vízeséseket a Krimmler Kees gleccser olvadékvize táplálja.","Évente több mint 400 000 látogató keresi fel ezt a természeti emléket.","A vízesések vízpermete bizonyítottan gyógyító hatással van a légúti megbetegedésekre.","Az Osztrák Alpesi Klub már 1879-ben kiépített egy biztonságos látogatói utat a vízesések mentén.","A legnagyobb vízhozamot a kora nyári hónapokban érik el.","A vízesések mellett található az interaktív 'WasserWelten' (Vízivilág) kiállítás.","A vízesések Ausztria első természetvédelmi területei közé tartoztak."],"ro":["La 380 de metri, Cascadele Krimml sunt cele mai înalte din Austria.","Apa se prăvălește în jos în trei cascade masive.","Sunt situate în inima Parcului Național Hohe Tauern.","Cascadele sunt alimentate de apa de topire de la ghețarul Krimmler Kees.","Peste 400.000 de vizitatori vin anual la acest monument al naturii.","Ceața de la cascade s-a dovedit a avea un efect curativ asupra bolilor respiratorii.","Clubul Alpin a construit un traseu de vizitare sigur de-a lungul cascadelor încă din 1879.","Cel mai mare debit de apă este atins în primele luni de vară.","Lângă cascade se află expoziția interactivă „WasserWelten” (Lumile Apei).","Cascadele au fost una dintre primele rezervații naturale din Austria."],"en":["At 380 meters, the Krimml Waterfalls are the highest in Austria.","The water plunges down in three massive cascades.","Located in the heart of the Hohe Tauern National Park.","The waterfalls are fed by the meltwater of the Krimmler Kees glacier.","Over 400,000 visitors come to this natural monument every year.","The spray from the falls has been proven to have a healing effect on respiratory diseases.","The Alpine Club built a safe viewing path along the falls as early as 1879.","The highest water flow is reached in the early summer months.","Next to the falls is the interactive exhibition 'WasserWelten' (Water Worlds).","The falls were one of the first nature reserves in Austria."], es: ["Con 380 metros, las cataratas de Krimml son las más altas de Austria.", "El agua se precipita al vacío en tres poderosas cascadas.", "Se encuentran en el corazón del Parque Nacional Hohe Tauern.", "Las cataratas se alimentan del agua de deshielo del glaciar Krimmler Kees.", "Más de 400.000 visitantes acuden anualmente a este monumento natural.", "La bruma de las cataratas tiene un efecto curativo demostrado en enfermedades respiratorias.", "El Club Alpino ya construyó en 1879 un camino de visita seguro a lo largo de las cataratas.", "El caudal de agua más alto se alcanza en los primeros meses de verano.", "Junto a las cataratas se encuentra la exposición interactiva 'WasserWelten'.", "Las cataratas fueron una de las primeras áreas naturales protegidas de Austria."], pt: ["Com 380 metros, as cataratas de Krimml são as mais altas da Áustria.", "A água despenha-se no abismo em três cascatas imponentes.", "Situam-se no coração do Parque Nacional Hohe Tauern.", "As cataratas são alimentadas pela água do degelo do glaciar Krimmler Kees.", "Mais de 400.000 visitantes visitam anualmente este monumento natural.", "A névoa das cataratas tem comprovadamente um efeito curativo em doenças respiratórias.", "O Clube Alpino construiu já em 1879 um trilho de visita seguro ao longo das cataratas.", "O maior fluxo de água é atingido nos primeiros meses de verão.", "Junto às cataratas encontra-se a exposição interativa 'WasserWelten'.", "As cataratas foram uma das primeiras áreas de conservação da natureza na Áustria."], fr: ["Avec 380 mètres, les cascades de Krimml sont les plus hautes d'Autriche.", "L'eau se précipite dans le vide en trois puissantes cascades.", "Se situent au cœur du parc national des Hohe Tauern.", "Les cascades sont alimentées par les eaux de fonte du glacier Krimmler Kees.", "Plus de 400 000 visiteurs se rendent chaque année sur ce site naturel.", "La brume des chutes a un effet curatif prouvé sur les maladies respiratoires.", "Le Club alpin a construit dès 1879 un sentier de visite sécurisé le long des chutes.", "Le débit d'eau maximal est atteint au début de l'été.", "À côté des chutes se trouve l'exposition interactive 'WasserWelten'.", "Les chutes furent l'une des premières zones protégées d'Autriche."]},
@@ -12603,7 +19758,304 @@ export const austriaCities: POI[] = [
     },
   },
   {
-    id: "AT-Dachstein", type: "mountain", parent: "AT-6", coords: [13.6108, 47.4675],
+    id: "AT-Dachstein", "sights": {
+      "de": [
+            {
+                  "name": "Alpin-Museum Ramsau Dachstein",
+                  "text": "Ein Museum in Ramsau am Dachstein, das sich der regionalen Alpingeschichte widmet.",
+                  "category": "museum",
+                  "coords": [
+                        13.619213,
+                        47.443013
+                  ]
+            },
+            {
+                  "name": "Hohe Gamsfeldspitze",
+                  "text": "Ein Berggipfel in der Region Dachstein.",
+                  "category": "landmark",
+                  "coords": [
+                        13.645396,
+                        47.451982
+                  ]
+            },
+            {
+                  "name": "Großer Koppenkarstein",
+                  "text": "Ein markanter Berggipfel im Dachsteingebirge.",
+                  "category": "landmark",
+                  "coords": [
+                        13.64015,
+                        47.466309
+                  ]
+            },
+            {
+                  "name": "Hinterer Türlspitz",
+                  "text": "Ein Gipfel im Dachsteinmassiv.",
+                  "category": "landmark",
+                  "coords": [
+                        13.635552,
+                        47.46271
+                  ]
+            },
+            {
+                  "name": "Hunerkogel",
+                  "text": "Ein Berggipfel in der Dachsteinregion.",
+                  "category": "landmark",
+                  "coords": [
+                        13.626113,
+                        47.46809
+                  ]
+            },
+            {
+                  "name": "Kleiner Koppenkarstein",
+                  "text": "Ein Berggipfel im Dachsteingebirge.",
+                  "category": "landmark",
+                  "coords": [
+                        13.635496,
+                        47.466334
+                  ]
+            },
+            {
+                  "name": "Marstein",
+                  "text": "Ein Gipfel in der Dachsteinregion.",
+                  "category": "landmark",
+                  "coords": [
+                        13.596974,
+                        47.463315
+                  ]
+            },
+            {
+                  "name": "Mitterspitz",
+                  "text": "Ein markanter Berggipfel im Dachsteinmassiv.",
+                  "category": "landmark",
+                  "coords": [
+                        13.595527,
+                        47.476101
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Alpin-Museum Ramsau Dachstein",
+                  "text": "Az alpesi történelemnek szentelt múzeum Ramsau am Dachsteinben.",
+                  "category": "museum",
+                  "coords": [
+                        13.619213,
+                        47.443013
+                  ]
+            },
+            {
+                  "name": "Hohe Gamsfeldspitze",
+                  "text": "Hegycsúcs a Dachstein-régióban.",
+                  "category": "landmark",
+                  "coords": [
+                        13.645396,
+                        47.451982
+                  ]
+            },
+            {
+                  "name": "Großer Koppenkarstein",
+                  "text": "Jellegzetes hegycsúcs a Dachstein-hegységben.",
+                  "category": "landmark",
+                  "coords": [
+                        13.64015,
+                        47.466309
+                  ]
+            },
+            {
+                  "name": "Hinterer Türlspitz",
+                  "text": "Egy hegycsúcs a Dachstein-masszívumban.",
+                  "category": "landmark",
+                  "coords": [
+                        13.635552,
+                        47.46271
+                  ]
+            },
+            {
+                  "name": "Hunerkogel",
+                  "text": "Hegycsúcs a Dachstein régióban.",
+                  "category": "landmark",
+                  "coords": [
+                        13.626113,
+                        47.46809
+                  ]
+            },
+            {
+                  "name": "Kleiner Koppenkarstein",
+                  "text": "Hegycsúcs a Dachstein-hegységben.",
+                  "category": "landmark",
+                  "coords": [
+                        13.635496,
+                        47.466334
+                  ]
+            },
+            {
+                  "name": "Marstein",
+                  "text": "Egy hegycsúcs a Dachstein régióban.",
+                  "category": "landmark",
+                  "coords": [
+                        13.596974,
+                        47.463315
+                  ]
+            },
+            {
+                  "name": "Mitterspitz",
+                  "text": "Jellegzetes hegycsúcs a Dachstein-masszívumban.",
+                  "category": "landmark",
+                  "coords": [
+                        13.595527,
+                        47.476101
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Alpin-Museum Ramsau Dachstein",
+                  "text": "Un muzeu în Ramsau am Dachstein dedicat istoriei alpine.",
+                  "category": "museum",
+                  "coords": [
+                        13.619213,
+                        47.443013
+                  ]
+            },
+            {
+                  "name": "Hohe Gamsfeldspitze",
+                  "text": "Un vârf muntos în regiunea Dachstein.",
+                  "category": "landmark",
+                  "coords": [
+                        13.645396,
+                        47.451982
+                  ]
+            },
+            {
+                  "name": "Großer Koppenkarstein",
+                  "text": "Un vârf muntos proeminent în munții Dachstein.",
+                  "category": "landmark",
+                  "coords": [
+                        13.64015,
+                        47.466309
+                  ]
+            },
+            {
+                  "name": "Hinterer Türlspitz",
+                  "text": "Un vârf în masivul Dachstein.",
+                  "category": "landmark",
+                  "coords": [
+                        13.635552,
+                        47.46271
+                  ]
+            },
+            {
+                  "name": "Hunerkogel",
+                  "text": "Un vârf muntos în regiunea Dachstein.",
+                  "category": "landmark",
+                  "coords": [
+                        13.626113,
+                        47.46809
+                  ]
+            },
+            {
+                  "name": "Kleiner Koppenkarstein",
+                  "text": "Un vârf muntos în munții Dachstein.",
+                  "category": "landmark",
+                  "coords": [
+                        13.635496,
+                        47.466334
+                  ]
+            },
+            {
+                  "name": "Marstein",
+                  "text": "Un vârf în regiunea Dachstein.",
+                  "category": "landmark",
+                  "coords": [
+                        13.596974,
+                        47.463315
+                  ]
+            },
+            {
+                  "name": "Mitterspitz",
+                  "text": "Un vârf muntos proeminent în masivul Dachstein.",
+                  "category": "landmark",
+                  "coords": [
+                        13.595527,
+                        47.476101
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Alpin-Museum Ramsau Dachstein",
+                  "text": "A museum in Ramsau am Dachstein dedicated to alpine history.",
+                  "category": "museum",
+                  "coords": [
+                        13.619213,
+                        47.443013
+                  ]
+            },
+            {
+                  "name": "Hohe Gamsfeldspitze",
+                  "text": "A mountain peak in the Dachstein region.",
+                  "category": "landmark",
+                  "coords": [
+                        13.645396,
+                        47.451982
+                  ]
+            },
+            {
+                  "name": "Großer Koppenkarstein",
+                  "text": "A prominent mountain peak in the Dachstein Mountains.",
+                  "category": "landmark",
+                  "coords": [
+                        13.64015,
+                        47.466309
+                  ]
+            },
+            {
+                  "name": "Hinterer Türlspitz",
+                  "text": "A peak in the Dachstein massif.",
+                  "category": "landmark",
+                  "coords": [
+                        13.635552,
+                        47.46271
+                  ]
+            },
+            {
+                  "name": "Hunerkogel",
+                  "text": "A mountain peak in the Dachstein region.",
+                  "category": "landmark",
+                  "coords": [
+                        13.626113,
+                        47.46809
+                  ]
+            },
+            {
+                  "name": "Kleiner Koppenkarstein",
+                  "text": "A mountain peak in the Dachstein Mountains.",
+                  "category": "landmark",
+                  "coords": [
+                        13.635496,
+                        47.466334
+                  ]
+            },
+            {
+                  "name": "Marstein",
+                  "text": "A peak in the Dachstein region.",
+                  "category": "landmark",
+                  "coords": [
+                        13.596974,
+                        47.463315
+                  ]
+            },
+            {
+                  "name": "Mitterspitz",
+                  "text": "A prominent mountain peak in the Dachstein massif.",
+                  "category": "landmark",
+                  "coords": [
+                        13.595527,
+                        47.476101
+                  ]
+            }
+      ]
+}, type: "mountain", parent: "AT-6", coords: [13.6108, 47.4675],
     name: { de: "Dachstein", hu: "Dachstein", ro: "Dachstein", en: "Dachstein" },
     image: "/geo-images/austria/dachstein.webp",
     description: {"de":"Der Dachstein ist der höchste Berg der Bundesländer Steiermark und Oberösterreich und zweifellos eines der imposantesten Massive der Nördlichen Kalkalpen. Mit seinen bis zu 2.995 Metern Höhe überragt er majestätisch das Ennstal und das Salzkammergut. Der Berg ist für seine spektakulären Eishöhlen, wie die riesige Dachstein-Rieseneishöhle, und sein faszinierendes Gletscherplateau berühmt, das das ganze Jahr über Wintersport und Gletscherwanderungen ermöglicht. Nervenkitzel pur bieten der 'Skywalk' – ein gläserner Balkon, der über eine 250 Meter senkrecht abfallende Felswand ragt – und die Hängebrücke mit der 'Treppe ins Nichts'. Das gesamte Massiv ist Teil des UNESCO-Welterbes.","hu":"A Dachstein Stájerország és Felső-Ausztria legmagasabb hegye, és kétségtelenül az Északi-Mészkőalpok egyik legimpozánsabb masszívuma. Akár 2995 méteres magasságával fenségesen magasodik az Enns völgye és a Salzkammergut fölé. A hegy híres látványos jégbarlangjairól, mint a hatalmas Dachsteini Óriásjégbarlang, és lenyűgöző gleccserplatójáról, amely egész évben lehetőséget biztosít a téli sportokra és a gleccsertúrákra. Tiszta izgalmat kínál a 'Skywalk' – egy üveg erkély, amely egy 250 méteres függőleges sziklafal fölé nyúlik – és a függőhíd a 'Semmibe vezető lépcsővel' (Treppe ins Nichts). A teljes masszívum az UNESCO világörökség része.","ro":"Dachstein este cel mai înalt munte din landurile Stiria și Austria Superioară și este, fără îndoială, unul dintre cele mai impunătoare masive din Alpii Calcaroși Nordici. Cu o înălțime de până la 2.995 de metri, domină maiestuos valea Ennstal și Salzkammergut. Muntele este faimos pentru peșterile sale spectaculoase de gheață, cum ar fi uriașa Peșteră de Gheață Dachstein, și platoul său glaciar fascinant, care permite sporturi de iarnă și drumeții pe ghețar pe tot parcursul anului. 'Skywalk' – un balcon de sticlă care iese în afară peste o stâncă verticală de 250 de metri – și podul suspendat cu 'Scara către Nicăieri' (Treppe ins Nichts) oferă emoții pure. Întregul masiv face parte din Patrimoniul Mondial UNESCO.","en":"The Dachstein is the highest mountain in the federal states of Styria and Upper Austria and undoubtedly one of the most imposing massifs in the Northern Limestone Alps. Reaching heights of up to 2,995 meters, it majestically towers over the Ennstal valley and the Salzkammergut. The mountain is famous for its spectacular ice caves, such as the huge Dachstein Giant Ice Cave, and its fascinating glacier plateau, which allows for winter sports and glacier hikes all year round. Pure thrills are offered by the 'Skywalk' – a glass balcony protruding over a 250-meter vertical rock face – and the suspension bridge with the 'Stairway to Nothingness' (Treppe ins Nichts). The entire massif is part of the UNESCO World Heritage site.", es: "El Dachstein es la montaña más alta de los estados de Estiria y Alta Austria y uno de los macizos más imponentes de los Alpes Calcáreos del Norte.", pt: "O Dachstein é a montanha mais alta dos estados da Estíria e da Alta Áustria e um dos maciços mais imponentes dos Alpes Calcários do Norte.", fr: "Le Dachstein est le plus haut sommet des Länder de Styrie et de Haute-Autriche et l'un des massifs les plus imposants des Alpes calcaires du Nord."}, facts: {"de":["Der Hohe Dachstein ist mit 2.995 m der höchste Gipfel des Massivs.","Der Dachsteingletscher ist der östlichste Gletscher der Alpen.","Der 'Dachstein Skywalk' bietet eine schwindelerregende Aussichtsplattform mit Glasboden.","Die Dachstein-Rieseneishöhle ist eine der größten Eishöhlen der Welt.","Im Eispalast tief im Inneren des Gletschers werden kunstvolle Eisskulpturen ausgestellt.","Mit der Südwandbahn, einer modernen Gondel ohne Stützen, erreicht man den Gletscher.","Die Hängebrücke und die 'Treppe ins Nichts' sind nichts für schwache Nerven.","Ist ein Dorado für Kletterer, mit der berühmten, steilen 'Dachstein-Südwand'.","Es befinden sich spektakuläre Klettersteige (Via Ferrata) am Berg.","Fossilien beweisen, dass die Kalksteinspitzen einst der Grund eines Urmeeres waren."],"hu":["A Hoher Dachstein a masszívum legmagasabb csúcsa a maga 2995 méterével.","A Dachstein-gleccser az Alpok legkeletibb gleccsere.","A 'Dachstein Skywalk' egy szédítő kilátóplatform üvegpadlóval.","A Dachsteini Óriásjégbarlang a világ egyik legnagyobb jégbarlangja.","A gleccser mélyén található Jégpalotában (Eispalast) művészi jégszobrokat állítanak ki.","A gleccser a Südwandbahn (Déli-fal felvonó) nevű modern, oszlopok nélküli drótkötélpályával érhető el.","A függőhíd és a 'Semmibe vezető lépcső' nem a gyenge idegzetűeknek való.","Valóságos Eldorádó a hegymászók számára a híres, meredek Dachstein-délifallal ('Dachstein-Südwand').","Látványos via ferraták (Klettersteigek) találhatók a hegyen.","A kövületek bizonyítják, hogy a mészkőcsúcsok egykor egy ősóceán fenekét képezték."],"ro":["Hoher Dachstein este cel mai înalt vârf al masivului, având 2.995 m.","Ghețarul Dachstein este cel mai estic ghețar din Alpi.","Dachstein Skywalk oferă o platformă de observare amețitoare cu podea de sticlă.","Peștera Uriașă de Gheață Dachstein este una dintre cele mai mari peșteri de gheață din lume.","Sculpturi de gheață elaborate sunt expuse în Palatul de Gheață (Eispalast) aflat adânc în interiorul ghețarului.","Ghețarul este atins cu Südwandbahn, o telegondolă modernă fără piloni de sprijin.","Podul suspendat și „Scara către Nicăieri” nu sunt pentru cei slabi de inimă.","Este un Eldorado pentru alpiniști, având faimosul și abruptul „Perete Sudic Dachstein”.","Pe munte există rute de via ferrata (Klettersteig) spectaculoase.","Fosilele dovedesc că vârfurile de calcar au fost odată fundul unui ocean primordial."],"en":["The Hoher Dachstein is the highest peak of the massif at 2,995 m.","The Dachstein Glacier is the easternmost glacier in the Alps.","The 'Dachstein Skywalk' offers a dizzying observation platform with a glass floor.","The Dachstein Giant Ice Cave is one of the largest ice caves in the world.","Elaborate ice sculptures are exhibited in the Ice Palace (Eispalast) deep inside the glacier.","The glacier is reached via the Südwandbahn, a modern gondola with no support pillars.","The suspension bridge and the 'Stairway to Nothingness' are not for the faint of heart.","It is an El Dorado for climbers, featuring the famous, steep 'Dachstein South Face'.","Spectacular via ferrata (Klettersteig) routes are located on the mountain.","Fossils prove that the limestone peaks were once the bottom of a primordial ocean."], es: ["El Hohe Dachstein es con 2.995 m el pico más alto del macizo.", "El glaciar del Dachstein es el glaciar más oriental de los Alpes.", "El 'Dachstein Skywalk' ofrece una plataforma de observación de vértigo con suelo de cristal.", "La cueva de hielo gigante del Dachstein es una de las más grandes del mundo.", "En el palacio de hielo, en el interior del glaciar, se exhiben artísticas esculturas de hielo.", "Con el teleférico Südwandbahn se llega al glaciar sin pilares intermedios.", "El puente colgante y la 'escalera a la nada' no son para personas con miedo a las alturas.", "Es un paraíso para escaladores, con la famosa y empinada pared sur del Dachstein.", "Se encuentran espectaculares vías ferratas en la montaña.", "Los fósiles demuestran que las cumbres de piedra caliza fueron antaño el fondo de un mar primitivo."], pt: ["O Hohe Dachstein é, com 2.995 m, o pico mais alto do maciço.", "O glaciar Dachstein é o glaciar mais oriental dos Alpes.", "O 'Dachstein Skywalk' oferece uma plataforma de observação vertiginosa com fundo de vidro.", "A caverna de gelo gigante de Dachstein é uma das maiores do mundo.", "No palácio de gelo, no interior do glaciar, são expostas esculturas de gelo artísticas.", "Com a Südwandbahn, uma moderna gôndola sem pilares, chega-se ao glaciar.", "A ponte suspensa e a 'escada para o nada' não são para os mais sensíveis.", "É um paraíso para escaladores, com a famosa parede sul de Dachstein.", "Existem vias ferratas espetaculares na montanha.", "Fósseis provam que os picos de calcário foram outrora o fundo de um mar primitivo."], fr: ["Le Hohe Dachstein est le point culminant du massif avec 2 995 m.", "Le glacier du Dachstein est le glacier le plus oriental des Alpes.", "Le 'Dachstein Skywalk' propose une plateforme d'observation vertigineuse avec un sol en verre.", "La grotte de glace géante du Dachstein est l'une des plus grandes au monde.", "Des sculptures de glace artistiques sont exposées dans le Palais de glace au cœur du glacier.", "Le téléphérique de la paroi sud (Südwandbahn) permet d'atteindre le glacier sans pylône.", "Le pont suspendu et l''escalier vers le néant' ne sont pas pour les personnes sujettes au vertige.", "C'est un eldorado pour les grimpeurs, avec la célèbre paroi sud du Dachstein.", "On y trouve de spectaculaires via ferrata.", "Des fossiles prouvent que les sommets calcaires étaient autrefois le fond d'une mer primitive."]},
@@ -12645,7 +20097,304 @@ export const austriaCities: POI[] = [
     },
   },
   {
-    id: "AT-Staatsoper", type: "landmark", parent: "AT-9", coords: [16.3691, 48.2031],
+    id: "AT-Staatsoper", "sights": {
+      "de": [
+            {
+                  "name": "Albertina",
+                  "text": "Dieses berühmte Wiener Museum beherbergt eine der bedeutendsten grafischen Sammlungen der Welt.",
+                  "category": "museum",
+                  "coords": [
+                        16.36826,
+                        48.204636
+                  ]
+            },
+            {
+                  "name": "Rabenhof",
+                  "text": "Ein zeitgenössisches Theater im Wiener Rabenhof, das für seine vielfältigen Produktionen bekannt ist.",
+                  "category": "cultural",
+                  "coords": [
+                        16.401665,
+                        48.19582
+                  ]
+            },
+            {
+                  "name": "Metropol",
+                  "text": "Ein beliebtes Wiener Unterhaltungstheater, das Musicals, Kabarett und Konzerte anbietet.",
+                  "category": "cultural",
+                  "coords": [
+                        16.33422,
+                        48.217006
+                  ]
+            },
+            {
+                  "name": "Theater im Zentrum",
+                  "text": "Ein Wiener Theater, das sich auf Aufführungen für Kinder und Jugendliche spezialisiert hat.",
+                  "category": "cultural",
+                  "coords": [
+                        16.372964,
+                        48.207203
+                  ]
+            },
+            {
+                  "name": "Bank Austria Kunstforum",
+                  "text": "Ein wichtiges Ausstellungszentrum in Wien, das bedeutende Werke der klassischen Moderne zeigt.",
+                  "category": "museum",
+                  "coords": [
+                        16.366258,
+                        48.211441
+                  ]
+            },
+            {
+                  "name": "Architekturzentrum Wien",
+                  "text": "Dieses Museum im Wiener MuseumsQuartier widmet sich der Architektur und Stadtplanung.",
+                  "category": "museum",
+                  "coords": [
+                        16.357616,
+                        48.204179
+                  ]
+            },
+            {
+                  "name": "Pfadfindermuseum",
+                  "text": "Dieses Museum in Wien dokumentiert die Geschichte der Pfadfinderbewegung.",
+                  "category": "museum",
+                  "coords": [
+                        16.325881,
+                        48.199936
+                  ]
+            },
+            {
+                  "name": "Kammerspiele",
+                  "text": "Ein traditionsreiches Wiener Boulevardtheater, das zum Theater in der Josefstadt gehört.",
+                  "category": "cultural",
+                  "coords": [
+                        16.375983,
+                        48.211105
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Albertina",
+                  "text": "Ez a híres bécsi múzeum a világ egyik legjelentősebb grafikai gyűjteményének ad otthont.",
+                  "category": "museum",
+                  "coords": [
+                        16.36826,
+                        48.204636
+                  ]
+            },
+            {
+                  "name": "Rabenhof",
+                  "text": "Kortárs színház a bécsi Rabenhof lakótelepen, amely változatos produkcióiról ismert.",
+                  "category": "cultural",
+                  "coords": [
+                        16.401665,
+                        48.19582
+                  ]
+            },
+            {
+                  "name": "Metropol",
+                  "text": "Népszerű bécsi szórakoztató színház, amely musicaleket, kabarékat és koncerteket kínál.",
+                  "category": "cultural",
+                  "coords": [
+                        16.33422,
+                        48.217006
+                  ]
+            },
+            {
+                  "name": "Theater im Zentrum",
+                  "text": "Bécsi színház, amely gyermekeknek és fiataloknak szóló előadásokra szakosodott.",
+                  "category": "cultural",
+                  "coords": [
+                        16.372964,
+                        48.207203
+                  ]
+            },
+            {
+                  "name": "Bank Austria kortárs művészeti fórum",
+                  "text": "Fontos bécsi kiállítóhely, amely a klasszikus modernizmus jelentős alkotásait mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        16.366258,
+                        48.211441
+                  ]
+            },
+            {
+                  "name": "Bécsi Építészeti Központ",
+                  "text": "Ez a bécsi MuseumsQuartierban található múzeum az építészetnek és a várostervezésnek szentelt.",
+                  "category": "museum",
+                  "coords": [
+                        16.357616,
+                        48.204179
+                  ]
+            },
+            {
+                  "name": "Pfadfindermuseum",
+                  "text": "Ez a bécsi múzeum a cserkészmozgalom történelmét dokumentálja.",
+                  "category": "museum",
+                  "coords": [
+                        16.325881,
+                        48.199936
+                  ]
+            },
+            {
+                  "name": "Kammerspiele",
+                  "text": "Hagyományőrző bécsi bulvárszínház, amely a Theater in der Josefstadthoz tartozik.",
+                  "category": "cultural",
+                  "coords": [
+                        16.375983,
+                        48.211105
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Albertina",
+                  "text": "Acest faimos muzeu din Viena găzduiește una dintre cele mai importante colecții grafice din lume.",
+                  "category": "museum",
+                  "coords": [
+                        16.36826,
+                        48.204636
+                  ]
+            },
+            {
+                  "name": "Rabenhof",
+                  "text": "Un teatru contemporan situat în complexul Rabenhof din Viena, cunoscut pentru producțiile sale diverse.",
+                  "category": "cultural",
+                  "coords": [
+                        16.401665,
+                        48.19582
+                  ]
+            },
+            {
+                  "name": "Metropol",
+                  "text": "Un teatru de divertisment popular din Viena, care oferă musicaluri, cabaret și concerte.",
+                  "category": "cultural",
+                  "coords": [
+                        16.33422,
+                        48.217006
+                  ]
+            },
+            {
+                  "name": "Theater im Zentrum",
+                  "text": "Un teatru din Viena specializat în spectacole pentru copii și tineri.",
+                  "category": "cultural",
+                  "coords": [
+                        16.372964,
+                        48.207203
+                  ]
+            },
+            {
+                  "name": "Bank Austria Kunstforum",
+                  "text": "Un centru expozițional important din Viena, care prezintă opere semnificative ale modernismului clasic.",
+                  "category": "museum",
+                  "coords": [
+                        16.366258,
+                        48.211441
+                  ]
+            },
+            {
+                  "name": "Architekturzentrum Wien",
+                  "text": "Acest muzeu din cartierul muzeelor din Viena este dedicat arhitecturii și urbanismului.",
+                  "category": "museum",
+                  "coords": [
+                        16.357616,
+                        48.204179
+                  ]
+            },
+            {
+                  "name": "Pfadfindermuseum",
+                  "text": "Acest muzeu din Viena documentează istoria mișcării de cercetași.",
+                  "category": "museum",
+                  "coords": [
+                        16.325881,
+                        48.199936
+                  ]
+            },
+            {
+                  "name": "Kammerspiele",
+                  "text": "Un teatru de bulevard cu tradiție din Viena, care aparține de Theater in der Josefstadt.",
+                  "category": "cultural",
+                  "coords": [
+                        16.375983,
+                        48.211105
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Albertina",
+                  "text": "This famous Vienna museum houses one of the most important graphic collections in the world.",
+                  "category": "museum",
+                  "coords": [
+                        16.36826,
+                        48.204636
+                  ]
+            },
+            {
+                  "name": "Rabenhof",
+                  "text": "A contemporary theatre in Vienna's Rabenhof, known for its diverse productions.",
+                  "category": "cultural",
+                  "coords": [
+                        16.401665,
+                        48.19582
+                  ]
+            },
+            {
+                  "name": "Metropol",
+                  "text": "A popular Vienna entertainment theatre offering musicals, cabaret, and concerts.",
+                  "category": "cultural",
+                  "coords": [
+                        16.33422,
+                        48.217006
+                  ]
+            },
+            {
+                  "name": "Theater im Zentrum",
+                  "text": "A Vienna theatre specializing in performances for children and young people.",
+                  "category": "cultural",
+                  "coords": [
+                        16.372964,
+                        48.207203
+                  ]
+            },
+            {
+                  "name": "Bank Austria Kunstforum",
+                  "text": "An important exhibition center in Vienna featuring major works of classical modernism.",
+                  "category": "museum",
+                  "coords": [
+                        16.366258,
+                        48.211441
+                  ]
+            },
+            {
+                  "name": "Architecture Centre Vienna",
+                  "text": "This museum in Vienna's MuseumsQuartier is dedicated to architecture and urban planning.",
+                  "category": "museum",
+                  "coords": [
+                        16.357616,
+                        48.204179
+                  ]
+            },
+            {
+                  "name": "Pfadfindermuseum",
+                  "text": "This museum in Vienna documents the history of the scouting movement.",
+                  "category": "museum",
+                  "coords": [
+                        16.325881,
+                        48.199936
+                  ]
+            },
+            {
+                  "name": "Kammerspiele",
+                  "text": "A traditional Vienna boulevard theatre belonging to the Theater in der Josefstadt.",
+                  "category": "cultural",
+                  "coords": [
+                        16.375983,
+                        48.211105
+                  ]
+            }
+      ]
+}, type: "landmark", parent: "AT-9", coords: [16.3691, 48.2031],
     name: { de: "Wiener Staatsoper", hu: "Bécsi Állami Operaház", ro: "Opera de Stat din Viena", en: "Vienna State Opera" },
     image: "/geo-images/austria/vienna.webp",
     description: {"de":"Die Wiener Staatsoper, prachtvoll an der Ringstraße gelegen, ist eines der international bedeutendsten und berühmtesten Opernhäuser der Welt. Das prächtige Gebäude im Stil der Neorenaissance wurde 1869 mit Mozarts 'Don Giovanni' feierlich eröffnet. Nach schweren Zerstörungen im Zweiten Weltkrieg wurde das Haus originalgetreu wieder aufgebaut und symbolisiert heute wie kein anderes den musikalischen Weltruf Wiens. Die Staatsoper besticht durch ein riesiges Repertoire, ein hochkarätiges Ensemble und das weltweit gefeierte Wiener Staatsopernorchester, aus dessen Reihen sich die Wiener Philharmoniker rekrutieren. Einmal im Jahr verwandelt sich der ehrwürdige Zuschauerraum beim weltbekannten Wiener Opernball in den elegantesten Ballsaal der Welt.","hu":"A bécsi Ringstraße mentén pompázatosan elhelyezkedő Bécsi Állami Operaház (Wiener Staatsoper) a világ egyik nemzetközileg legjelentősebb és leghíresebb operaháza. A neoreneszánsz stílusú pompás épületet 1869-ben Mozart 'Don Giovanni'-jával nyitották meg ünnepélyesen. A második világháború súlyos pusztításai után az épületet hűen az eredetihez építették újjá, és ma minden másnál jobban szimbolizálja Bécs zenei világhírnevét. Az Állami Operaház hatalmas repertoárral, magas színvonalú társulattal és a világszerte ünnepelt Bécsi Állami Operaház Zenekarával büszkélkedhet, amelynek soraiból a Bécsi Filharmonikusok is kikerülnek. Évente egyszer a tiszteletre méltó nézőtér a világhírű Bécsi Operabál idején a világ legelegánsabb báltermévé változik át.","ro":"Opera de Stat din Viena (Wiener Staatsoper), situată magnific pe bulevardul Ringstrasse, este una dintre cele mai importante și renumite opere la nivel internațional din lume. Clădirea magnifică în stil neorenascentist a fost deschisă oficial în 1869 cu „Don Giovanni” de Mozart. După distrugeri severe în al Doilea Război Mondial, clădirea a fost reconstruită fidel și astăzi simbolizează reputația muzicală mondială a Vienei ca nicio alta. Opera de Stat impresionează cu un repertoriu uriaș, un ansamblu de top și apreciata orchestră a Operei de Stat din Viena, din rândurile căreia sunt recrutați membrii Filarmonicii din Viena. O dată pe an, venerabilul auditorium este transformat în cea mai elegantă sală de bal din lume în timpul faimosului Bal al Operei din Viena.","en":"The Vienna State Opera (Wiener Staatsoper), magnificently located on the Ringstrasse boulevard, is one of the most internationally significant and famous opera houses in the world. The magnificent neo-Renaissance building was officially opened in 1869 with Mozart's 'Don Giovanni'. After severe destruction in World War II, the building was faithfully rebuilt and today symbolizes Vienna's global musical reputation like no other. The State Opera impresses with a huge repertoire, a top-class ensemble, and the world-acclaimed Vienna State Opera Orchestra, from whose ranks the Vienna Philharmonic is recruited. Once a year, the venerable auditorium is transformed into the most elegant ballroom in the world during the world-famous Vienna Opera Ball.", es: "La Ópera Estatal de Viena, magníficamente situada en la Ringstraße, es uno de los teatros de ópera más importantes y famosos del mundo. El espléndido edificio de estilo neorenacentista fue inaugurado solemnemente en 1869 con el 'Don Giovanni' de Mozart. Tras las graves destrucciones de la Segunda Guerra Mundial, la casa fue reconstruida fielmente y simboliza hoy como ninguna otra la reputación musical mundial de Viena. La Ópera Estatal destaca por un enorme repertorio, un elenco de primera categoría y la mundialmente aclamada Orquesta de la Ópera Estatal de Viena, de cuyas filas se reclutan los miembros de la Filarmónica de Viena. Una vez al año, la venerable sala de espectadores se transforma en el salón de baile más elegante del mundo con el mundialmente conocido Baile de la Ópera de Viena.", pt: "A Ópera Estatal de Viena, magnificamente situada na Ringstraße, é uma das casas de ópera mais importantes e famosas do mundo. O esplêndido edifício em estilo neorenascentista foi solenemente inaugurado em 1869 com 'Don Giovanni' de Mozart. Após as graves destruições da Segunda Guerra Mundial, o edifício foi fielmente reconstruído e simboliza hoje, como nenhum outro, a reputação musical mundial de Viena. A Ópera Estatal impressiona com um enorme repertório, um elenco de topo e a mundialmente aclamada Orquestra da Ópera Estatal de Viena, de cujas fileiras são recrutados os membros da Filarmónica de Viena. Uma vez por ano, o venerável auditório transforma-se no salão de baile mais elegante do mundo, no mundialmente famoso Baile da Ópera de Viena.", fr: "L'Opéra d'État de Vienne, magnifiquement situé sur la Ringstraße, est l'un des opéras les plus importants et les plus célèbres au monde. Ce splendide édifice de style néo-Renaissance a été inauguré solennellement en 1869 avec le 'Don Giovanni' de Mozart. Après de graves destructions lors de la Seconde Guerre mondiale, l'établissement a été reconstruit à l'identique et symbolise aujourd'hui plus que tout autre la réputation musicale mondiale de Vienne. L'Opéra d'État séduit par son immense répertoire, un ensemble de haut niveau et l'Orchestre de l'Opéra d'État de Vienne, mondialement acclamé, dont sont issus les membres de l'Orchestre philharmonique de Vienne. Une fois par an, l'auguste salle de spectacle se transforme en la plus élégante salle de bal du monde lors du célèbre bal de l'Opéra de Vienne."}, facts: {"de":["Das Gebäude wurde von den Architekten August Sicard von Sicardsburg und Eduard van der Nüll entworfen.","Anfangs als 'K.K. Hof-Operntheater' bezeichnet.","Bietet mit über 60 verschiedenen Opern- und Ballettwerken pro Saison das größte Repertoire weltweit.","Die Bühne hat eine riesige Fläche von 1.500 Quadratmetern.","Fast jeden Tag im Jahr findet hier eine andere Aufführung statt (A-stagione-Betrieb).","Viele Vorstellungen werden im April, Mai und Juni live auf eine Leinwand vor der Oper ('Oper live am Platz') übertragen.","Herbert von Karajan und Gustav Mahler waren berühmte Direktoren des Hauses.","Die Feststiege und das Schwind-Foyer blieben bei den Bombenangriffen 1945 unversehrt.","Es gibt über 2.200 Steh- und Sitzplätze im Zuschauerraum.","Der Wiener Opernball lockt alljährlich Prominenz aus Politik, Wirtschaft und Kultur an."],"hu":["Az épületet August Sicard von Sicardsburg és Eduard van der Nüll építészek tervezték.","Kezdetben 'Császári és Királyi Udvari Operaszínház' (K.K. Hof-Operntheater) néven ismerték.","Szezononként több mint 60 különböző opera- és balettművel a világ legnagyobb repertoárját kínálja.","A színpad hatalmas, 1500 négyzetméteres területtel rendelkezik.","Az év majdnem minden napján más előadást tartanak (stagione-rendszer).","Áprilisban, májusban és júniusban számos előadást élőben közvetítenek az opera előtti tér kivetítőjén ('Oper live am Platz').","Herbert von Karajan és Gustav Mahler az intézmény híres igazgatói voltak.","A Díszlépcsőház és a Schwind-Foyer sértetlen maradt az 1945-ös bombázások során.","A nézőtéren több mint 2200 álló- és ülőhely található.","A Bécsi Operabál minden évben a politika, a gazdaság és a kultúra kiválóságait vonzza."],"ro":["Clădirea a fost proiectată de arhitecții August Sicard von Sicardsburg și Eduard van der Nüll.","Numită inițial 'Teatrul de Operă al Curții Imperiale și Regale' (K.K. Hof-Operntheater).","Oferă cel mai mare repertoriu din lume, cu peste 60 de lucrări diferite de operă și balet pe stagiune.","Scena are o suprafață uriașă de 1.500 de metri pătrați.","În aproape fiecare zi a anului are loc o reprezentație diferită (sistem stagione).","Multe spectacole sunt transmise live pe un ecran în fața operei ('Oper live am Platz') în aprilie, mai și iunie.","Herbert von Karajan și Gustav Mahler au fost directori celebri ai instituției.","Scara Mare (Feststiege) și Foaierul Schwind au rămas intacte în timpul bombardamentelor din 1945.","Există peste 2.200 de locuri pe scaune și în picioare în auditorium.","Balul Operei din Viena atrage anual celebrități din politică, afaceri și cultură."],"en":["The building was designed by architects August Sicard von Sicardsburg and Eduard van der Nüll.","Initially referred to as the 'Imperial and Royal Court Opera Theater' (K.K. Hof-Operntheater).","Offers the largest repertoire worldwide with over 60 different opera and ballet works per season.","The stage has a huge area of 1,500 square meters.","A different performance takes place here almost every day of the year (stagione system).","Many performances are broadcast live on a screen in front of the opera ('Oper live am Platz') in April, May, and June.","Herbert von Karajan and Gustav Mahler were famous directors of the house.","The Grand Staircase and the Schwind Foyer remained intact during the bombings in 1945.","There are over 2,200 standing and seating places in the auditorium.","The Vienna Opera Ball attracts celebrities from politics, business, and culture every year."], es: ["El edificio fue diseñado por los arquitectos August Sicard von Sicardsburg y Eduard van der Nüll.", "Originalmente se denominó 'K.K. Hof-Operntheater'.", "Ofrece el mayor repertorio del mundo con más de 60 obras diferentes de ópera y ballet por temporada.", "El escenario tiene una superficie enorme de 1.500 metros cuadrados.", "Casi todos los días del año hay una función diferente (sistema de repertorio).", "Muchas funciones se transmiten en directo en abril, mayo y junio en una pantalla frente a la ópera ('Ópera en directo en la plaza').", "Herbert von Karajan y Gustav Mahler fueron directores famosos de la casa.", "La escalera de gala y el Foyer Schwind permanecieron intactos tras los bombardeos de 1945.", "Hay más de 2.200 plazas de pie y de asiento en la sala de espectadores.", "El Baile de la Ópera de Viena atrae anualmente a celebridades de la política, la economía y la cultura."], pt: ["O edifício foi projetado pelos arquitetos August Sicard von Sicardsburg e Eduard van der Nüll.", "Inicialmente designado como 'K.K. Hof-Operntheater'.", "Oferece o maior repertório do mundo, com mais de 60 obras de ópera e ballet diferentes por temporada.", "O palco tem uma área enorme de 1.500 metros quadrados.", "Há um espetáculo diferente quase todos os dias do ano (sistema de repertório).", "Muitos espetáculos são transmitidos ao vivo em abril, maio e junho num ecrã em frente à ópera ('Oper live am Platz').", "Herbert von Karajan e Gustav Mahler foram diretores famosos da casa.", "A escadaria festiva e o Schwind-Foyer permaneceram intactos durante os bombardeamentos de 1945.", "Existem mais de 2.200 lugares em pé e sentados no auditório.", "O Baile da Ópera de Viena atrai anualmente celebridades da política, economia e cultura."], fr: ["Le bâtiment a été conçu par les architectes August Sicard von Sicardsburg et Eduard van der Nüll.", "Initialement appelé 'K.K. Hof-Operntheater'.", "Propose le plus grand répertoire au monde avec plus de 60 œuvres d'opéra et de ballet différentes par saison.", "La scène a une surface immense de 1 500 mètres carrés.", "Presque chaque jour de l'année, une représentation différente a lieu (fonctionnement en répertoire).", "De nombreuses représentations sont retransmises en direct en avril, mai et juin sur un écran devant l'opéra ('Oper live am Platz').", "Herbert von Karajan et Gustav Mahler furent de célèbres directeurs de l'établissement.", "L'escalier d'honneur et le foyer Schwind sont restés intacts lors des bombardements de 1945.", "Le auditorium compte plus de 2 200 places debout et assises.", "Le bal de l'Opéra de Vienne attire chaque année des personnalités de la politique, de l'économie et de la culture."]},
@@ -12669,7 +20418,304 @@ export const austriaCities: POI[] = [
     },
   },
   {
-    id: "AT-Albertina", type: "landmark", parent: "AT-9", coords: [16.3683, 48.2047],
+    id: "AT-Albertina", "sights": {
+      "de": [
+            {
+                  "name": "Albertina",
+                  "text": "Ein weltberühmtes Kunstmuseum in Wien, das eine der bedeutendsten grafischen Sammlungen der Welt beherbergt.",
+                  "category": "museum",
+                  "coords": [
+                        16.36826,
+                        48.204636
+                  ]
+            },
+            {
+                  "name": "Rabenhof",
+                  "text": "Ein bekanntes Theater im Wiener Rabenhof, das für sein zeitgenössisches Programm geschätzt wird.",
+                  "category": "cultural",
+                  "coords": [
+                        16.401665,
+                        48.19582
+                  ]
+            },
+            {
+                  "name": "Metropol",
+                  "text": "Ein traditionsreiches Wiener Theater und Veranstaltungszentrum im Stadtteil Hernals.",
+                  "category": "cultural",
+                  "coords": [
+                        16.33422,
+                        48.217006
+                  ]
+            },
+            {
+                  "name": "Theater im Zentrum",
+                  "text": "Ein Wiener Theater, das sich auf Aufführungen für Kinder und Jugendliche spezialisiert hat.",
+                  "category": "cultural",
+                  "coords": [
+                        16.372964,
+                        48.207203
+                  ]
+            },
+            {
+                  "name": "Bank Austria Kunstforum",
+                  "text": "Ein bekanntes Kunstmuseum in Wien, das bedeutende internationale Wechselausstellungen zeigt.",
+                  "category": "museum",
+                  "coords": [
+                        16.366258,
+                        48.211441
+                  ]
+            },
+            {
+                  "name": "Architekturzentrum Wien",
+                  "text": "Ein Museum und Ausstellungszentrum in Wien, das sich der modernen Architektur widmet.",
+                  "category": "museum",
+                  "coords": [
+                        16.357616,
+                        48.204179
+                  ]
+            },
+            {
+                  "name": "Pfadfindermuseum",
+                  "text": "Ein Museum in Wien, das die Geschichte und Kultur der Pfadfinderbewegung dokumentiert.",
+                  "category": "museum",
+                  "coords": [
+                        16.325881,
+                        48.199936
+                  ]
+            },
+            {
+                  "name": "Kammerspiele",
+                  "text": "Ein traditionsreiches Wiener Theater, das für seine Unterhaltungsstücke bekannt ist.",
+                  "category": "cultural",
+                  "coords": [
+                        16.375983,
+                        48.211105
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Albertina",
+                  "text": "Világhírű bécsi művészeti múzeum, amely a világ egyik legjelentősebb grafikai gyűjteményének ad otthont.",
+                  "category": "museum",
+                  "coords": [
+                        16.36826,
+                        48.204636
+                  ]
+            },
+            {
+                  "name": "Rabenhof",
+                  "text": "Ismert színház a bécsi Rabenhofban, amelyet kortárs programjaiért értékelnek.",
+                  "category": "cultural",
+                  "coords": [
+                        16.401665,
+                        48.19582
+                  ]
+            },
+            {
+                  "name": "Metropol",
+                  "text": "Nagy múltú bécsi színház és rendezvényközpont Hernals városrészben.",
+                  "category": "cultural",
+                  "coords": [
+                        16.33422,
+                        48.217006
+                  ]
+            },
+            {
+                  "name": "Theater im Zentrum",
+                  "text": "Gyermek- és ifjúsági előadásokra szakosodott bécsi színház.",
+                  "category": "cultural",
+                  "coords": [
+                        16.372964,
+                        48.207203
+                  ]
+            },
+            {
+                  "name": "Bank Austria kortárs művészeti fórum",
+                  "text": "Bécsi művészeti múzeum, amely jelentős nemzetközi időszaki kiállításoknak ad otthont.",
+                  "category": "museum",
+                  "coords": [
+                        16.366258,
+                        48.211441
+                  ]
+            },
+            {
+                  "name": "Bécsi Építészeti Központ",
+                  "text": "Bécsi múzeum és kiállítási központ, amely a modern építészetre összpontosít.",
+                  "category": "museum",
+                  "coords": [
+                        16.357616,
+                        48.204179
+                  ]
+            },
+            {
+                  "name": "Pfadfindermuseum",
+                  "text": "Bécsi múzeum, amely a cserkészmozgalom történetét és kultúráját mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        16.325881,
+                        48.199936
+                  ]
+            },
+            {
+                  "name": "Kammerspiele",
+                  "text": "Hagyományos bécsi színház, amely szórakoztató darabjairól ismert.",
+                  "category": "cultural",
+                  "coords": [
+                        16.375983,
+                        48.211105
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Albertina",
+                  "text": "Un muzeu de artă de renume mondial din Viena, care găzduiește una dintre cele mai importante colecții grafice din lume.",
+                  "category": "museum",
+                  "coords": [
+                        16.36826,
+                        48.204636
+                  ]
+            },
+            {
+                  "name": "Rabenhof",
+                  "text": "Un teatru cunoscut în complexul Rabenhof din Viena, apreciat pentru programul său contemporan.",
+                  "category": "cultural",
+                  "coords": [
+                        16.401665,
+                        48.19582
+                  ]
+            },
+            {
+                  "name": "Metropol",
+                  "text": "Un teatru și centru de evenimente cu tradiție din Viena, situat în cartierul Hernals.",
+                  "category": "cultural",
+                  "coords": [
+                        16.33422,
+                        48.217006
+                  ]
+            },
+            {
+                  "name": "Theater im Zentrum",
+                  "text": "Un teatru din Viena specializat în spectacole pentru copii și tineret.",
+                  "category": "cultural",
+                  "coords": [
+                        16.372964,
+                        48.207203
+                  ]
+            },
+            {
+                  "name": "Bank Austria Kunstforum",
+                  "text": "Un muzeu de artă renumit din Viena, care găzduiește expoziții internaționale temporare majore.",
+                  "category": "museum",
+                  "coords": [
+                        16.366258,
+                        48.211441
+                  ]
+            },
+            {
+                  "name": "Architekturzentrum Wien",
+                  "text": "Un muzeu și centru de expoziții din Viena dedicat arhitecturii moderne.",
+                  "category": "museum",
+                  "coords": [
+                        16.357616,
+                        48.204179
+                  ]
+            },
+            {
+                  "name": "Pfadfindermuseum",
+                  "text": "Un muzeu din Viena care documentează istoria și cultura mișcării cercetașilor.",
+                  "category": "museum",
+                  "coords": [
+                        16.325881,
+                        48.199936
+                  ]
+            },
+            {
+                  "name": "Kammerspiele",
+                  "text": "Un teatru tradițional din Viena, cunoscut pentru spectacolele sale de divertisment.",
+                  "category": "cultural",
+                  "coords": [
+                        16.375983,
+                        48.211105
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Albertina",
+                  "text": "A world-famous art museum in Vienna housing one of the most important graphic collections in the world.",
+                  "category": "museum",
+                  "coords": [
+                        16.36826,
+                        48.204636
+                  ]
+            },
+            {
+                  "name": "Rabenhof",
+                  "text": "A well-known theatre in Vienna's Rabenhof complex, valued for its contemporary programming.",
+                  "category": "cultural",
+                  "coords": [
+                        16.401665,
+                        48.19582
+                  ]
+            },
+            {
+                  "name": "Metropol",
+                  "text": "A long-standing Viennese theatre and event center located in the Hernals district.",
+                  "category": "cultural",
+                  "coords": [
+                        16.33422,
+                        48.217006
+                  ]
+            },
+            {
+                  "name": "Theater im Zentrum",
+                  "text": "A Viennese theatre specializing in performances for children and young people.",
+                  "category": "cultural",
+                  "coords": [
+                        16.372964,
+                        48.207203
+                  ]
+            },
+            {
+                  "name": "Bank Austria Kunstforum",
+                  "text": "A well-known art museum in Vienna hosting major international temporary exhibitions.",
+                  "category": "museum",
+                  "coords": [
+                        16.366258,
+                        48.211441
+                  ]
+            },
+            {
+                  "name": "Architecture Centre Vienna",
+                  "text": "A museum and exhibition center in Vienna dedicated to modern architecture.",
+                  "category": "museum",
+                  "coords": [
+                        16.357616,
+                        48.204179
+                  ]
+            },
+            {
+                  "name": "Pfadfindermuseum",
+                  "text": "A museum in Vienna documenting the history and culture of the scouting movement.",
+                  "category": "museum",
+                  "coords": [
+                        16.325881,
+                        48.199936
+                  ]
+            },
+            {
+                  "name": "Kammerspiele",
+                  "text": "A traditional Vienna theatre known for its entertainment plays.",
+                  "category": "cultural",
+                  "coords": [
+                        16.375983,
+                        48.211105
+                  ]
+            }
+      ]
+}, type: "landmark", parent: "AT-9", coords: [16.3683, 48.2047],
     name: { de: "Albertina", hu: "Albertina", ro: "Albertina", en: "Albertina" },
     image: "/geo-images/austria/albertina.webp",
     description: {"de":"Die Albertina im Herzen Wiens, unmittelbar neben der Hofburg gelegen, ist eines der bedeutendsten Kunstmuseen der Welt. Sie residiert in einem prachtvollen Palais, das einst dem Habsburger Erzherzog Albrecht gehörte, der auch der Namensgeber des Museums ist. Die Albertina beherbergt eine der größten und wertvollsten grafischen Sammlungen der Welt mit Meisterwerken wie Albrecht Dürers 'Feldhase' und Dürers 'Betende Hände'. Neben der historischen Grafischen Sammlung präsentiert das Museum dauerhaft herausragende Werke der Klassischen Moderne und der zeitgenössischen Kunst, darunter Gemälde von Monet, Picasso und Batliner. Die prunkvollen, original ausgestatteten Habsburger Prunkräume im Inneren des Palastes vermitteln zudem authentisches imperiales Flair.","hu":"A bécsi Albertina, amely közvetlenül a Hofburg mellett, a város szívében található, a világ egyik legjelentősebb művészeti múzeuma. Egy pompás palotában működik, amely egykor a Habsburg Albrecht főherceg tulajdona volt; róla kapta nevét is a múzeum. Az Albertina ad otthont a világ egyik legnagyobb és legértékesebb grafikai gyűjteményének, olyan mesterművekkel, mint Albrecht Dürer 'Mezei nyúl' és 'Imádkozó kezek' című alkotásai. A történelmi Grafikai Gyűjtemény mellett a múzeum folyamatosan bemutatja a klasszikus modernizmus és a kortárs művészet kiemelkedő alkotásait is, köztük Monet, Picasso és a Batliner-gyűjtemény festményeit. A palota belsejében lévő pompás, eredeti bútorzatú Habsburg dísztermek ráadásul autentikus császári hangulatot árasztanak.","ro":"Albertina, situată în inima Vienei, chiar lângă Hofburg, este unul dintre cele mai importante muzee de artă din lume. Are sediul într-un palat magnific care a aparținut odată Arhiducelui habsburgic Albrecht, care este și omonimul muzeului. Albertina găzduiește una dintre cele mai mari și mai valoroase colecții de artă grafică din lume, cu capodopere precum „Iepurele de câmp” și „Mâinile în rugăciune” ale lui Albrecht Dürer. Pe lângă istorica Colecție de Artă Grafică, muzeul prezintă permanent lucrări remarcabile ale modernismului clasic și ale artei contemporane, inclusiv picturi de Monet, Picasso și din colecția Batliner. De asemenea, camerele de stat magnifice, mobilate original, din interiorul palatului, transmit o atmosferă imperială autentică.","en":"The Albertina in the heart of Vienna, located right next to the Hofburg, is one of the most important art museums in the world. It resides in a magnificent palace that once belonged to the Habsburg Archduke Albrecht, who is also the museum's namesake. The Albertina houses one of the largest and most valuable graphic art collections in the world, featuring masterpieces such as Albrecht Dürer's 'Young Hare' and 'Praying Hands'. In addition to the historical Graphic Art Collection, the museum permanently presents outstanding works of classical modernism and contemporary art, including paintings by Monet, Picasso, and from the Batliner collection. Furthermore, the magnificent, originally furnished Habsburg state rooms inside the palace convey an authentic imperial flair.", es: "La Albertina, situada en el corazón de Viena junto al Hofburg, es uno de los museos de arte más importantes del mundo.", pt: "A Albertina, situada no coração de Viena, junto ao Hofburg, é um dos museus de arte mais importantes do mundo.", fr: "L'Albertina, située au cœur de Vienne juste à côté de la Hofburg, est l'un des musées d'art les plus importants au monde."}, facts: {"de":["Gegründet 1776 von Herzog Albert von Sachsen-Teschen.","Die Grafische Sammlung umfasst über eine Million Druckgrafiken und 60.000 Zeichnungen.","Das markante 'Soravia Wing' ist ein modernes Flugdach am Eingang, entworfen von Hans Hollein.","Die 20 prunkvoll restaurierten Habsburger-Räume zeigen Möbel aus der Zeit des Klassizismus.","Die ständige Ausstellung 'Monet bis Picasso' basiert auf der Sammlung Batliner.","Zu den grafischen Highlights zählen Werke von Michelangelo, Rembrandt und Rubens.","Das Museum verfügt über ein erstklassiges Restaurant-Café (Do & Co Albertina).","Die Albertina modern im Künstlerhaus widmet sich zeitgenössischer Kunst.","Albrecht Dürers berühmter 'Feldhase' wird aus Konservierungsgründen nur selten im Original gezeigt.","Steht auf einer der letzten erhaltenen Bastionen der Wiener Stadtmauer."],"hu":["Albert Szász–Tescheni herceg alapította 1776-ban.","A Grafikai Gyűjtemény több mint egymillió nyomatot és 60 000 rajzot foglal magában.","A bejáratnál lévő markáns 'Soravia Wing' egy Hans Hollein által tervezett modern 'repülőtető'.","A 20 pompásan felújított Habsburg-terem a klasszicizmus korából származó bútorokat mutat be.","A 'Monet-tól Picassóig' című állandó kiállítás a Batliner-gyűjteményen alapul.","A grafikai fénypontok közé tartoznak Michelangelo, Rembrandt és Rubens művei.","A múzeum egy első osztályú étterem-kávézóval (Do & Co Albertina) is rendelkezik.","A Künstlerhausban található 'Albertina modern' a kortárs művészetnek szenteli magát.","Albrecht Dürer híres 'Mezei nyúl' című alkotását állagmegóvási okokból csak ritkán mutatják be eredetiben.","A bécsi városfal egyik utolsó fennmaradt bástyáján áll."],"ro":["Fondată în 1776 de Ducele Albert de Saxa-Teschen.","Colecția de artă grafică cuprinde peste un milion de gravuri și 60.000 de desene.","Izbitorul „Soravia Wing” (Aripa Soravia) este un acoperiș zburător modern de la intrare, proiectat de Hans Hollein.","Cele 20 de camere de stat habsburgice, restaurate somptuos, prezintă mobilier din epoca neoclasică.","Expoziția permanentă „De la Monet la Picasso” are la bază colecția Batliner.","Atracțiile grafice includ lucrări de Michelangelo, Rembrandt și Rubens.","Muzeul dispune de un restaurant-cafenea de primă clasă (Do & Co Albertina).","„Albertina modern” din clădirea Künstlerhaus este dedicată artei contemporane.","Faimosul „Iepure de câmp” al lui Albrecht Dürer este rar arătat în original din motive de conservare.","Se află pe unul dintre ultimele bastioane păstrate ale zidului orașului Viena."],"en":["Founded in 1776 by Duke Albert of Saxony-Teschen.","The Graphic Art Collection comprises over one million prints and 60,000 drawings.","The striking 'Soravia Wing' is a modern flying roof at the entrance, designed by Hans Hollein.","The 20 sumptuously restored Habsburg state rooms show furniture from the Neoclassical period.","The permanent exhibition 'Monet to Picasso' is based on the Batliner collection.","Graphic highlights include works by Michelangelo, Rembrandt, and Rubens.","The museum features a first-class restaurant-cafe (Do & Co Albertina).","The 'Albertina modern' in the Künstlerhaus is dedicated to contemporary art.","Albrecht Dürer's famous 'Young Hare' is rarely shown in the original for conservation reasons.","Stands on one of the last preserved bastions of the Vienna city wall."], es: ["Fundada en 1776 por el duque Alberto de Sajonia-Teschen.", "La colección gráfica comprende más de un millón de grabados y 60.000 dibujos.", "El distintivo 'Soravia Wing' es un moderno tejado voladizo en la entrada, diseñado por Hans Hollein.", "Los 20 suntuosos salones Habsburgo restaurados muestran muebles de la época del neoclasicismo.", "La exposición permanente 'De Monet a Picasso' se basa en la colección Batliner.", "Entre los hitos gráficos se encuentran obras de Miguel Ángel, Rembrandt y Rubens.", "El museo cuenta con un restaurante-café de primera clase (Do & Co Albertina).", "La Albertina modern, en la Künstlerhaus, se dedica al arte contemporáneo.", "La famosa 'Liebre' de Durero rara vez se muestra en original por razones de conservación.", "Se asienta sobre uno de los últimos baluartes conservados de la muralla de Viena."], pt: ["Fundada em 1776 pelo Duque Alberto de Saxe-Teschen.", "A coleção gráfica inclui mais de um milhão de gravuras e 60.000 desenhos.", "A distintiva 'Soravia Wing' é uma moderna cobertura na entrada, projetada por Hans Hollein.", "As 20 salas de estado restauradas dos Habsburgo exibem mobiliário do período neoclássico.", "A exposição permanente 'De Monet a Picasso' baseia-se na coleção Batliner.", "Os destaques gráficos incluem obras de Michelangelo, Rembrandt e Rubens.", "O museu possui um restaurante-café de classe mundial (Do & Co Albertina).", "A Albertina modern, na Künstlerhaus, dedica-se à arte contemporânea.", "A famosa 'Lebre' de Dürer raramente é exibida no original por razões de conservação.", "Situa-se num dos últimos baluartes preservados da muralha da cidade de Viena."], fr: ["Fondée en 1776 par le duc Albert de Saxe-Teschen.", "La collection graphique comprend plus d'un million d'estampes et 60 000 dessins.", "Le 'Soravia Wing' est un auvent moderne à l'entrée, conçu par Hans Hollein.", "Les 20 salles d'apparat restaurées présentent des meubles de l'époque néoclassique.", "L'exposition permanente 'De Monet à Picasso' est basée sur la collection Batliner.", "Parmi les chefs-d'œuvre graphiques figurent des œuvres de Michel-Ange, Rembrandt et Rubens.", "Le musée dispose d'un restaurant-café de premier ordre (Do & Co Albertina).", "L'Albertina modern, située dans la Künstlerhaus, est dédiée à l'art contemporain.", "Le célèbre 'Lièvre' d'Albrecht Dürer est rarement exposé en original pour des raisons de conservation.", "Construit sur l'un des derniers bastions conservés des remparts de Vienne."]},
@@ -12693,7 +20739,304 @@ export const austriaCities: POI[] = [
     },
   },
   {
-    id: "AT-KHM", type: "landmark", parent: "AT-9", coords: [16.3617, 48.2036],
+    id: "AT-KHM", "sights": {
+      "de": [
+            {
+                  "name": "Albertina",
+                  "text": "Ein bedeutendes Kunstmuseum in Wien mit einer der größten grafischen Sammlungen der Welt.",
+                  "category": "museum",
+                  "coords": [
+                        16.36826,
+                        48.204636
+                  ]
+            },
+            {
+                  "name": "Rabenhof",
+                  "text": "Ein Wiener Theater, das für zeitgenössische Stücke und Kabarett bekannt ist.",
+                  "category": "cultural",
+                  "coords": [
+                        16.401665,
+                        48.19582
+                  ]
+            },
+            {
+                  "name": "Metropol",
+                  "text": "Ein bekanntes Wiener Veranstaltungszentrum für Musik und Theater.",
+                  "category": "cultural",
+                  "coords": [
+                        16.33422,
+                        48.217006
+                  ]
+            },
+            {
+                  "name": "Theater im Zentrum",
+                  "text": "Ein Wiener Theater, das sich auf Aufführungen für Kinder und Jugendliche spezialisiert hat.",
+                  "category": "cultural",
+                  "coords": [
+                        16.372964,
+                        48.207203
+                  ]
+            },
+            {
+                  "name": "Bank Austria Kunstforum",
+                  "text": "Ein renommiertes Ausstellungshaus für bildende Kunst in der Wiener Innenstadt.",
+                  "category": "museum",
+                  "coords": [
+                        16.366258,
+                        48.211441
+                  ]
+            },
+            {
+                  "name": "Architekturzentrum Wien",
+                  "text": "Das österreichische Museum für Architektur im MuseumsQuartier Wien.",
+                  "category": "museum",
+                  "coords": [
+                        16.357616,
+                        48.204179
+                  ]
+            },
+            {
+                  "name": "Pfadfindermuseum",
+                  "text": "Ein Museum in Wien, das die Geschichte der Pfadfinderbewegung dokumentiert.",
+                  "category": "museum",
+                  "coords": [
+                        16.325881,
+                        48.199936
+                  ]
+            },
+            {
+                  "name": "Kammerspiele",
+                  "text": "Ein traditionsreiches Wiener Theater, das zum Theater in der Josefstadt gehört.",
+                  "category": "cultural",
+                  "coords": [
+                        16.375983,
+                        48.211105
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Albertina",
+                  "text": "Bécs egyik legjelentősebb művészeti múzeuma, a világ egyik legnagyobb grafikai gyűjteményével.",
+                  "category": "museum",
+                  "coords": [
+                        16.36826,
+                        48.204636
+                  ]
+            },
+            {
+                  "name": "Rabenhof",
+                  "text": "Kortárs darabokról és kabaréiról ismert bécsi színház.",
+                  "category": "cultural",
+                  "coords": [
+                        16.401665,
+                        48.19582
+                  ]
+            },
+            {
+                  "name": "Metropol",
+                  "text": "Ismert bécsi rendezvényközpont zenei és színházi előadások számára.",
+                  "category": "cultural",
+                  "coords": [
+                        16.33422,
+                        48.217006
+                  ]
+            },
+            {
+                  "name": "Theater im Zentrum",
+                  "text": "Gyermek- és ifjúsági előadásokra szakosodott bécsi színház.",
+                  "category": "cultural",
+                  "coords": [
+                        16.372964,
+                        48.207203
+                  ]
+            },
+            {
+                  "name": "Bank Austria kortárs művészeti fórum",
+                  "text": "A képzőművészet elismert kiállítóhelye Bécs belvárosában.",
+                  "category": "museum",
+                  "coords": [
+                        16.366258,
+                        48.211441
+                  ]
+            },
+            {
+                  "name": "Bécsi Építészeti Központ",
+                  "text": "Ausztria építészeti múzeuma a bécsi MuseumsQuartierben.",
+                  "category": "museum",
+                  "coords": [
+                        16.357616,
+                        48.204179
+                  ]
+            },
+            {
+                  "name": "Pfadfindermuseum",
+                  "text": "Bécsi múzeum, amely a cserkészmozgalom történetét mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        16.325881,
+                        48.199936
+                  ]
+            },
+            {
+                  "name": "Kammerspiele",
+                  "text": "Nagy múltú bécsi színház, amely a Theater in der Josefstadt részét képezi.",
+                  "category": "cultural",
+                  "coords": [
+                        16.375983,
+                        48.211105
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Albertina",
+                  "text": "Un muzeu de artă major din Viena, cu una dintre cele mai mari colecții grafice din lume.",
+                  "category": "museum",
+                  "coords": [
+                        16.36826,
+                        48.204636
+                  ]
+            },
+            {
+                  "name": "Rabenhof",
+                  "text": "Un teatru vienez cunoscut pentru piese contemporane și cabaret.",
+                  "category": "cultural",
+                  "coords": [
+                        16.401665,
+                        48.19582
+                  ]
+            },
+            {
+                  "name": "Metropol",
+                  "text": "Un centru de evenimente cunoscut în Viena pentru muzică și teatru.",
+                  "category": "cultural",
+                  "coords": [
+                        16.33422,
+                        48.217006
+                  ]
+            },
+            {
+                  "name": "Theater im Zentrum",
+                  "text": "Un teatru din Viena specializat în spectacole pentru copii și tineret.",
+                  "category": "cultural",
+                  "coords": [
+                        16.372964,
+                        48.207203
+                  ]
+            },
+            {
+                  "name": "Bank Austria Kunstforum",
+                  "text": "O prestigioasă casă de expoziții pentru arte plastice în centrul Vienei.",
+                  "category": "museum",
+                  "coords": [
+                        16.366258,
+                        48.211441
+                  ]
+            },
+            {
+                  "name": "Architekturzentrum Wien",
+                  "text": "Muzeul austriac de arhitectură din MuseumsQuartier Viena.",
+                  "category": "museum",
+                  "coords": [
+                        16.357616,
+                        48.204179
+                  ]
+            },
+            {
+                  "name": "Pfadfindermuseum",
+                  "text": "Un muzeu din Viena care documentează istoria mișcării cercetașilor.",
+                  "category": "museum",
+                  "coords": [
+                        16.325881,
+                        48.199936
+                  ]
+            },
+            {
+                  "name": "Kammerspiele",
+                  "text": "Un teatru vienez cu tradiție, care aparține de Theater in der Josefstadt.",
+                  "category": "cultural",
+                  "coords": [
+                        16.375983,
+                        48.211105
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Albertina",
+                  "text": "A major art museum in Vienna housing one of the world's largest graphic collections.",
+                  "category": "museum",
+                  "coords": [
+                        16.36826,
+                        48.204636
+                  ]
+            },
+            {
+                  "name": "Rabenhof",
+                  "text": "A Viennese theatre known for contemporary plays and cabaret.",
+                  "category": "cultural",
+                  "coords": [
+                        16.401665,
+                        48.19582
+                  ]
+            },
+            {
+                  "name": "Metropol",
+                  "text": "A well-known Viennese event venue for music and theatre.",
+                  "category": "cultural",
+                  "coords": [
+                        16.33422,
+                        48.217006
+                  ]
+            },
+            {
+                  "name": "Theater im Zentrum",
+                  "text": "A Viennese theatre specializing in performances for children and young people.",
+                  "category": "cultural",
+                  "coords": [
+                        16.372964,
+                        48.207203
+                  ]
+            },
+            {
+                  "name": "Bank Austria Kunstforum",
+                  "text": "A renowned exhibition venue for fine arts in Vienna's city center.",
+                  "category": "museum",
+                  "coords": [
+                        16.366258,
+                        48.211441
+                  ]
+            },
+            {
+                  "name": "Architecture Centre Vienna",
+                  "text": "The Austrian museum of architecture located in the MuseumsQuartier Vienna.",
+                  "category": "museum",
+                  "coords": [
+                        16.357616,
+                        48.204179
+                  ]
+            },
+            {
+                  "name": "Pfadfindermuseum",
+                  "text": "A museum in Vienna documenting the history of the scouting movement.",
+                  "category": "museum",
+                  "coords": [
+                        16.325881,
+                        48.199936
+                  ]
+            },
+            {
+                  "name": "Kammerspiele",
+                  "text": "A traditional Viennese theatre belonging to the Theater in der Josefstadt.",
+                  "category": "cultural",
+                  "coords": [
+                        16.375983,
+                        48.211105
+                  ]
+            }
+      ]
+}, type: "landmark", parent: "AT-9", coords: [16.3617, 48.2036],
     name: { de: "Kunsthistorisches Museum", hu: "Szépművészeti Múzeum", ro: "Muzeul de Istorie a Artei", en: "Kunsthistorisches Museum" },
     image: "/geo-images/austria/khm.webp",
     description: {"de":"Das Kunsthistorische Museum (KHM) in Wien ist eines der prachtvollsten und bedeutendsten Museen der Welt, das von Kaiser Franz Joseph I. erbaut wurde, um die gigantischen kaiserlichen Sammlungen der Habsburger der Öffentlichkeit zu präsentieren. Das monumentale Neorenaissance-Gebäude am Maria-Theresien-Platz beeindruckt bereits beim Betreten mit seinem atemberaubenden, reich verzierten Treppenhaus und Gemälden von Gustav Klimt. Die Gemäldegalerie des Museums ist legendär und beherbergt die weltgrößte Sammlung von Werken Pieter Bruegels des Člteren, darunter 'Der Turmbau zu Babel'. Ebenso von Weltrang sind die Kunstkammer mit der berühmten goldenen 'Saliera' von Benvenuto Cellini sowie die ägyptisch-orientalische und die Antikensammlung.","hu":"A bécsi Művészettörténeti Múzeum (KHM) a világ egyik legpompásabb és legjelentősebb múzeuma, amelyet I. Ferenc József császár építtetett, hogy a Habsburgok gigantikus császári gyűjteményeit a nyilvánosság elé tárja. A Mária Terézia téren álló monumentális neoreneszánsz épület már belépéskor lenyűgöző a gazdagon díszített, lélegzetelállító lépcsőházával és Gustav Klimt festményeivel. A múzeum Képtára legendás, és a világ legnagyobb Pieter Bruegel (az idősebb) gyűjteményének ad otthont, köztük a 'Bábel tornya' című műnek. Ugyancsak világszínvonalú a Művészeti Kamara (Kunstkammer) Benvenuto Cellini híres arany 'Salierá'-jával (sótartó), valamint az egyiptomi-orientális és az antik gyűjtemény.","ro":"Muzeul de Istorie a Artei (Kunsthistorisches Museum - KHM) din Viena este unul dintre cele mai magnifice și importante muzee din lume, construit de Împăratul Franz Joseph I pentru a prezenta publicului giganticele colecții imperiale ale Habsburgilor. Monumentala clădire în stil neorenascentist din Piața Maria Tereza impresionează încă de la intrare prin scara sa uluitoare, bogat decorată, și picturile de Gustav Klimt. Galeria de picturi a muzeului este legendară și găzduiește cea mai mare colecție din lume de lucrări ale lui Pieter Bruegel cel Bătrân, inclusiv „Turnul Babel”. La fel de renumite pe plan mondial sunt Camera de Artă (Kunstkammer) cu faimoasa „Saliera” (solniță) de aur realizată de Benvenuto Cellini, precum și colecțiile egipteano-orientale și de antichități.","en":"The Kunsthistorisches Museum (KHM - Museum of Art History) in Vienna is one of the most magnificent and important museums in the world, built by Emperor Franz Joseph I to present the gigantic imperial collections of the Habsburgs to the public. The monumental neo-Renaissance building on Maria-Theresien-Platz impresses upon entering with its breathtaking, richly decorated staircase and paintings by Gustav Klimt. The museum's Picture Gallery is legendary and houses the world's largest collection of works by Pieter Bruegel the Elder, including 'The Tower of Babel'. Equally world-class are the Kunstkammer (Chamber of Art and Wonders) with the famous golden 'Saliera' (salt cellar) by Benvenuto Cellini, as well as the Egyptian-Oriental and Antiquities collections.", es: "El Museo de Historia del Arte (KHM) en Viena es uno de los museos más espléndidos e importantes del mundo, construido por el emperador Francisco José I para presentar al público las gigantescas colecciones imperiales de los Habsburgo. El monumental edificio neorrenacentista en la Maria-Theresien-Platz impresiona ya al entrar con su impresionante escalera ricamente decorada y pinturas de Gustav Klimt. La pinacoteca del museo es legendaria y alberga la mayor colección mundial de obras de Pieter Bruegel el Viejo, incluyendo 'La torre de Babel'. Igualmente de clase mundial son la Kunstkammer con la famosa 'Saliera' de oro de Benvenuto Cellini, así como las colecciones egipcio-oriental y de antigüedades.", pt: "O Museu de História da Arte (KHM) em Viena é um dos museus mais magníficos e importantes do mundo, construído pelo Imperador Francisco José I para apresentar as gigantescas coleções imperiais dos Habsburgo ao público. O monumental edifício neorrenascentista na Maria-Theresien-Platz impressiona logo à entrada com a sua escadaria deslumbrante e ricamente decorada e pinturas de Gustav Klimt. A galeria de pintura do museu é lendária e abriga a maior coleção mundial de obras de Pieter Bruegel, o Velho, incluindo 'A Torre de Babel'. Igualmente de classe mundial são a Kunstkammer com a famosa 'Saliera' de ouro de Benvenuto Cellini, bem como as coleções egípcio-oriental e de antiguidades.", fr: "Le Musée de l'Histoire de l'Art (KHM) à Vienne est l'un des musées les plus somptueux et les plus importants au monde, édifié par l'empereur François-Joseph Ier pour présenter au public les gigantesques collections impériales des Habsbourg. L'imposant bâtiment néo-Renaissance situé sur la Maria-Theresien-Platz impressionne dès l'entrée par son escalier époustouflant, richement décoré, et ses peintures de Gustav Klimt. La galerie de peintures du musée est légendaire et abrite la plus grande collection au monde d'œuvres de Pierre Brueghel l'Ancien, dont 'La Tour de Babel'. La Kunstkammer, avec la célèbre 'Saliera' en or de Benvenuto Cellini, ainsi que les collections égyptienne, orientale et antique, sont également de renommée mondiale."}, facts: {"de":["Eröffnet im Jahr 1891, entworfen von Gottfried Semper und Karl Freiherr von Hasenauer.","Steht exakt symmetrisch gegenüber seinem architektonischen Zwilling, dem Naturhistorischen Museum.","Beherbergt Meisterwerke von Tizian, Veronese, Tintoretto, Rubens und Velázquez.","Die 'Saliera' ist ein unschätzbar wertvolles Salzfass und wurde 2003 gestohlen, aber 2006 wiedergefunden.","Das Treppenhaus wird von einem monumentalen Deckengemälde von Mihály Munkácsy bekrönt.","Die Kunstkammer zeigt Objekte der 'Habsburger Wunderkammern'.","Die Münzkabinett-Sammlung gehört zu den fünf größten und bedeutendsten der Welt.","Kaiser Rudolf II. und Erzherzog Leopold Wilhelm trugen massiv zum Grundstock der Sammlung bei.","Im atemberaubenden Kuppelsaal befindet sich ein exquisites Museums-Café.","Gehört mit über 1,5 Millionen Besuchern pro Jahr zu den wichtigsten Kulturinstitutionen Österreichs."],"hu":["1891-ben nyitotta meg kapuit, Gottfried Semper és Karl Freiherr von Hasenauer tervei alapján.","Pontosan szimmetrikusan áll építészeti ikertestvérével, a Természettudományi Múzeummal szemben.","Olyan mesterek alkotásait őrzi, mint Tiziano, Veronese, Tintoretto, Rubens és Velázquez.","A 'Saliera' egy felbecsülhetetlen értékű sótartó, amelyet 2003-ban elloptak, de 2006-ban előkerült.","A lépcsőházat Munkácsy Mihály monumentális mennyezetfreskója koronázza meg.","A Művészeti Kamara (Kunstkammer) a 'Habsburg csodakamrák' tárgyait mutatja be.","Az éremgyűjtemény a világ öt legnagyobb és legjelentősebb gyűjteménye közé tartozik.","II. Rudolf császár és Lipót Vilmos főherceg hatalmas mértékben hozzájárult a gyűjtemény alapjaihoz.","A lélegzetelállító kupolacsarnokban egy exkluzív múzeumi kávézó található.","Évi több mint 1,5 millió látogatójával Ausztria legfontosabb kulturális intézményei közé tartozik."],"ro":["Deschis în 1891, proiectat de Gottfried Semper și Karl Freiherr von Hasenauer.","Stă exact simetric față de geamănul său arhitectural, Muzeul de Istorie Naturală.","Găzduiește capodopere de Tițian, Veronese, Tintoretto, Rubens și Velázquez.","„Saliera” este o solniță inestimabilă care a fost furată în 2003, dar recuperată în 2006.","Casa scărilor este încoronată de o pictură monumentală pe tavan realizată de Mihály Munkácsy.","Kunstkammer prezintă obiecte din „Camerele de curiozități ale Habsburgilor”.","Colecția Cabinetului de Monede este una dintre cele mai mari și mai importante cinci din lume.","Împăratul Rudolf al II-lea și Arhiducele Leopold Wilhelm au contribuit masiv la fondarea colecției.","Există o cafenea de muzeu rafinată în uluitoarea Sală cu Cupolă.","Cu peste 1,5 milioane de vizitatori pe an, este una dintre cele mai importante instituții culturale din Austria."],"en":["Opened in 1891, designed by Gottfried Semper and Karl Freiherr von Hasenauer.","Stands exactly symmetrical opposite its architectural twin, the Natural History Museum.","Houses masterpieces by Titian, Veronese, Tintoretto, Rubens, and Velázquez.","The 'Saliera' is an invaluable salt cellar that was stolen in 2003 but recovered in 2006.","The staircase is crowned by a monumental ceiling painting by Mihály Munkácsy.","The Kunstkammer displays objects from the 'Habsburg Chambers of Wonders'.","The Coin Cabinet collection is one of the five largest and most important in the world.","Emperor Rudolf II and Archduke Leopold Wilhelm contributed massively to the foundation of the collection.","There is an exquisite museum café in the breathtaking Cupola Hall.","With over 1.5 million visitors a year, it is one of Austria's most important cultural institutions."], es: ["Inaugurado en 1891, diseñado por Gottfried Semper y Karl Freiherr von Hasenauer.", "Se sitúa exactamente simétrico frente a su gemelo arquitectónico, el Museo de Historia Natural.", "Alberga obras maestras de Tiziano, Veronés, Tintoretto, Rubens y Velázquez.", "La 'Saliera' es un salero de valor incalculable que fue robado en 2003 y recuperado en 2006.", "La escalera está coronada por una monumental pintura de techo de Mihály Munkácsy.", "La Kunstkammer muestra objetos de las 'Cámaras de Maravillas de los Habsburgo'.", "La colección del Gabinete Numismático es una de las cinco más grandes e importantes del mundo.", "El emperador Rodolfo II y el archiduque Leopoldo Guillermo contribuyeron masivamente a la colección.", "En la impresionante sala de la cúpula se encuentra un exquisito café de museo.", "Con más de 1,5 millones de visitantes al año, es una de las instituciones culturales más importantes de Austria."], pt: ["Inaugurado em 1891, projetado por Gottfried Semper e Karl Freiherr von Hasenauer.", "Situa-se exatamente simétrico ao seu gémeo arquitetónico, o Museu de História Natural.", "Abriga obras-primas de Ticiano, Veronese, Tintoretto, Rubens e Velázquez.", "A 'Saliera' é um saleiro de valor inestimável que foi roubado em 2003 e recuperado em 2006.", "A escadaria é coroada por uma monumental pintura de teto de Mihály Munkácsy.", "A Kunstkammer exibe objetos das 'Câmaras de Maravilhas dos Habsburgo'.", "A coleção do Gabinete Numismático é uma das cinco maiores e mais importantes do mundo.", "O Imperador Rodolfo II e o Arquiduque Leopoldo Guilherme contribuíram massivamente para o acervo.", "No deslumbrante salão da cúpula encontra-se um requintado café de museu.", "Com mais de 1,5 milhões de visitantes por ano, é uma das instituições culturais mais importantes da Áustria."], fr: ["Inauguré en 1891, conçu par Gottfried Semper et Karl Freiherr von Hasenauer.", "Se dresse exactement en symétrie face à son jumeau architectural, le Musée d'Histoire Naturelle.", "Abrite des chefs-d'œuvre de Titien, Véronèse, Tintoret, Rubens et Velázquez.", "La 'Saliera' est une salière d'une valeur inestimable, volée en 2003 et retrouvée en 2006.", "L'escalier est surmonté d'une peinture monumentale au plafond de Mihály Munkácsy.", "La Kunstkammer présente des objets issus des 'Cabinets de curiosités des Habsbourg'.", "La collection du Cabinet des médailles est l'une des cinq plus grandes et plus importantes au monde.", "L'empereur Rodolphe II et l'archiduc Léopold-Guillaume ont massivement contribué au fonds de la collection.", "Un café de musée exquis se trouve dans la magnifique salle sous coupole.", "Avec plus de 1,5 million de visiteurs par an, c'est l'une des institutions culturelles les plus importantes d'Autriche."]},
@@ -12717,7 +21060,304 @@ export const austriaCities: POI[] = [
     },
   },
   {
-    id: "AT-Prater", type: "landmark", parent: "AT-9", coords: [16.3958, 48.2167],
+    id: "AT-Prater", "sights": {
+      "de": [
+            {
+                  "name": "Albertina",
+                  "text": "Die Albertina beherbergt eine der bedeutendsten grafischen Sammlungen der Welt.",
+                  "category": "museum",
+                  "coords": [
+                        16.36826,
+                        48.204636
+                  ]
+            },
+            {
+                  "name": "Rabenhof",
+                  "text": "Ein populäres Wiener Theater, das für seine zeitgenössischen Produktionen und Kabaretts bekannt ist.",
+                  "category": "cultural",
+                  "coords": [
+                        16.401665,
+                        48.19582
+                  ]
+            },
+            {
+                  "name": "Theater im Zentrum",
+                  "text": "Ein Theater in Wien, das sich besonders auf Aufführungen für ein junges Publikum konzentriert.",
+                  "category": "cultural",
+                  "coords": [
+                        16.372964,
+                        48.207203
+                  ]
+            },
+            {
+                  "name": "Bank Austria Kunstforum",
+                  "text": "Ein renommiertes Museum in Wien, das bedeutende Wechselausstellungen zur klassischen Moderne zeigt.",
+                  "category": "museum",
+                  "coords": [
+                        16.366258,
+                        48.211441
+                  ]
+            },
+            {
+                  "name": "Architekturzentrum Wien",
+                  "text": "Das österreichische Architekturmuseum präsentiert Ausstellungen zur Architektur des 20. und 21. Jahrhunderts.",
+                  "category": "museum",
+                  "coords": [
+                        16.357616,
+                        48.204179
+                  ]
+            },
+            {
+                  "name": "Kammerspiele",
+                  "text": "Eine traditionsreiche Bühne der Josefstadt, die vor allem für Unterhaltungstheater bekannt ist.",
+                  "category": "cultural",
+                  "coords": [
+                        16.375983,
+                        48.211105
+                  ]
+            },
+            {
+                  "name": "Jüdisches Museum Wien",
+                  "text": "Das Museum dokumentiert die Geschichte und Kultur der jüdischen Gemeinde in Wien.",
+                  "category": "museum",
+                  "coords": [
+                        16.369293,
+                        48.20713
+                  ]
+            },
+            {
+                  "name": "Wiener Kriminalmuseum",
+                  "text": "Ein Museum, das die Geschichte des Wiener Justiz- und Polizeiwesens sowie Kriminalfälle dokumentiert.",
+                  "category": "museum",
+                  "coords": [
+                        16.378488,
+                        48.218225
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Albertina",
+                  "text": "Az Albertina a világ egyik legjelentősebb grafikai gyűjteményének ad otthont.",
+                  "category": "museum",
+                  "coords": [
+                        16.36826,
+                        48.204636
+                  ]
+            },
+            {
+                  "name": "Rabenhof",
+                  "text": "Népszerű bécsi színház, amely kortárs produkcióiról és kabaréiról ismert.",
+                  "category": "cultural",
+                  "coords": [
+                        16.401665,
+                        48.19582
+                  ]
+            },
+            {
+                  "name": "Theater im Zentrum",
+                  "text": "Bécsi színház, amely elsősorban a fiatal közönségnek szóló előadásokra összpontosít.",
+                  "category": "cultural",
+                  "coords": [
+                        16.372964,
+                        48.207203
+                  ]
+            },
+            {
+                  "name": "Bank Austria kortárs művészeti fórum",
+                  "text": "Renomált bécsi múzeum, amely jelentős időszaki kiállításokat mutat be a klasszikus modernizmusról.",
+                  "category": "museum",
+                  "coords": [
+                        16.366258,
+                        48.211441
+                  ]
+            },
+            {
+                  "name": "Bécsi Építészeti Központ",
+                  "text": "Az osztrák építészeti múzeum a 20. és 21. századi építészetet bemutató kiállításokat kínál.",
+                  "category": "museum",
+                  "coords": [
+                        16.357616,
+                        48.204179
+                  ]
+            },
+            {
+                  "name": "Kammerspiele",
+                  "text": "A Josefstadt nagy múltú színpada, amely elsősorban szórakoztató darabjairól ismert.",
+                  "category": "cultural",
+                  "coords": [
+                        16.375983,
+                        48.211105
+                  ]
+            },
+            {
+                  "name": "Bécsi Zsidó Múzeum",
+                  "text": "A múzeum a bécsi zsidó közösség történelmét és kultúráját mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        16.369293,
+                        48.20713
+                  ]
+            },
+            {
+                  "name": "Bécsi Bűnügyi Múzeum",
+                  "text": "A múzeum a bécsi igazságszolgáltatás, a rendőrség és a bűnesetek történetét mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        16.378488,
+                        48.218225
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Albertina",
+                  "text": "Albertina găzduiește una dintre cele mai importante colecții de grafică din lume.",
+                  "category": "museum",
+                  "coords": [
+                        16.36826,
+                        48.204636
+                  ]
+            },
+            {
+                  "name": "Rabenhof",
+                  "text": "Un teatru popular din Viena, cunoscut pentru producțiile sale contemporane și spectacolele de cabaret.",
+                  "category": "cultural",
+                  "coords": [
+                        16.401665,
+                        48.19582
+                  ]
+            },
+            {
+                  "name": "Theater im Zentrum",
+                  "text": "Un teatru din Viena care se concentrează în special pe spectacole pentru publicul tânăr.",
+                  "category": "cultural",
+                  "coords": [
+                        16.372964,
+                        48.207203
+                  ]
+            },
+            {
+                  "name": "Bank Austria Kunstforum",
+                  "text": "Un muzeu renumit din Viena, care prezintă expoziții temporare importante de artă modernă clasică.",
+                  "category": "museum",
+                  "coords": [
+                        16.366258,
+                        48.211441
+                  ]
+            },
+            {
+                  "name": "Architekturzentrum Wien",
+                  "text": "Muzeul austriac de arhitectură prezintă expoziții despre arhitectura secolelor XX și XXI.",
+                  "category": "museum",
+                  "coords": [
+                        16.357616,
+                        48.204179
+                  ]
+            },
+            {
+                  "name": "Kammerspiele",
+                  "text": "O scenă cu tradiție a Teatrului Josefstadt, cunoscută în special pentru spectacole de divertisment.",
+                  "category": "cultural",
+                  "coords": [
+                        16.375983,
+                        48.211105
+                  ]
+            },
+            {
+                  "name": "Jüdisches Museum Wien",
+                  "text": "Muzeul documentează istoria și cultura comunității evreiești din Viena.",
+                  "category": "museum",
+                  "coords": [
+                        16.369293,
+                        48.20713
+                  ]
+            },
+            {
+                  "name": "Wiener Kriminalmuseum",
+                  "text": "Un muzeu care documentează istoria sistemului judiciar și de poliție din Viena, precum și cazuri criminale.",
+                  "category": "museum",
+                  "coords": [
+                        16.378488,
+                        48.218225
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Albertina",
+                  "text": "The Albertina houses one of the most significant graphic collections in the world.",
+                  "category": "museum",
+                  "coords": [
+                        16.36826,
+                        48.204636
+                  ]
+            },
+            {
+                  "name": "Rabenhof",
+                  "text": "A popular Viennese theatre known for its contemporary productions and cabarets.",
+                  "category": "cultural",
+                  "coords": [
+                        16.401665,
+                        48.19582
+                  ]
+            },
+            {
+                  "name": "Theater im Zentrum",
+                  "text": "A theatre in Vienna that focuses particularly on performances for a young audience.",
+                  "category": "cultural",
+                  "coords": [
+                        16.372964,
+                        48.207203
+                  ]
+            },
+            {
+                  "name": "Bank Austria Kunstforum",
+                  "text": "A renowned museum in Vienna showcasing significant temporary exhibitions of classic modern art.",
+                  "category": "museum",
+                  "coords": [
+                        16.366258,
+                        48.211441
+                  ]
+            },
+            {
+                  "name": "Architecture Centre Vienna",
+                  "text": "The Austrian architecture museum presents exhibitions on 20th and 21st-century architecture.",
+                  "category": "museum",
+                  "coords": [
+                        16.357616,
+                        48.204179
+                  ]
+            },
+            {
+                  "name": "Kammerspiele",
+                  "text": "A traditional stage of the Josefstadt Theatre, known primarily for entertainment theatre.",
+                  "category": "cultural",
+                  "coords": [
+                        16.375983,
+                        48.211105
+                  ]
+            },
+            {
+                  "name": "Jewish Museum Vienna",
+                  "text": "The museum documents the history and culture of the Jewish community in Vienna.",
+                  "category": "museum",
+                  "coords": [
+                        16.369293,
+                        48.20713
+                  ]
+            },
+            {
+                  "name": "Wiener Kriminalmuseum",
+                  "text": "A museum documenting the history of the Viennese justice and police systems, as well as criminal cases.",
+                  "category": "museum",
+                  "coords": [
+                        16.378488,
+                        48.218225
+                  ]
+            }
+      ]
+}, type: "landmark", parent: "AT-9", coords: [16.3958, 48.2167],
     name: { de: "Wiener Prater", hu: "Práter", ro: "Prater", en: "Prater" },
     image: "/geo-images/austria/prater.webp",
     description: {"de":"Der Wiener Prater ist eine faszinierende Mischung aus einem riesigen naturnahen Erholungsgebiet und dem berühmten Vergnügungspark, dem 'Wurstelprater'. Das Herzstück und Wahrzeichen Wiens ist das weithin sichtbare Riesenrad, das 1897 zur Feier des 50. Thronjubiläums von Kaiser Franz Joseph erbaut wurde und unvergessliche Ausblicke über die Stadt bietet. Während der Wurstelprater mit über 250 Attraktionen – von nostalgischen Geisterbahnen bis zu hochmodernen Achterbahnen – Spaß und Nervenkitzel verspricht, bietet der 'Grüne Prater' endlose Alleen, Wiesen und Wälder zum Joggen, Radfahren und Entspannen. Kulinarisch lockt der Prater mit dem berühmten Schweizerhaus und seinem originalen Prater-Stelzen (Eisbein).","hu":"A bécsi Práter (Wiener Prater) egy hatalmas, természethez közeli rekreációs terület és a híres vidámpark, a 'Wurstelprater' lenyűgöző keveréke. A park szíve és Bécs messziről látható jelképe az Óriáskerék (Riesenrad), amelyet 1897-ben Ferenc József császár trónra lépésének 50. évfordulója alkalmából építettek, és felejthetetlen kilátást nyújt a városra. Míg a Wurstelprater több mint 250 attrakcióval – a nosztalgikus szellemvasutaktól a legmodernebb hullámvasutakig – szórakozást és izgalmat ígér, addig a 'Zöld Práter' végtelen fasorokat, réteket és erdőket kínál kocogáshoz, kerékpározáshoz és pihenéshez. Kulináris szempontból a Práter a híres Schweizerhaus vendéglővel és az ottani eredeti Práter-csülökkel (Stelze) csalogat.","ro":"Praterul vienez (Wiener Prater) este un amestec fascinant între o zonă vastă de recreere naturală și faimosul parc de distracții, 'Wurstelprater'. Piesa centrală și simbolul Vienei este Marea Roată (Riesenrad), vizibilă de departe, care a fost construită în 1897 pentru a sărbători a 50-a aniversare a urcării pe tron a Împăratului Franz Joseph și oferă vederi de neuitat asupra orașului. În timp ce Wurstelprater promite distracție și emoții cu peste 250 de atracții – de la trenuri fantomă nostalgice la montagne ruse ultramoderne – 'Praterul Verde' oferă alei nesfârșite, pajiști și păduri pentru jogging, ciclism și relaxare. Din punct de vedere culinar, Praterul atrage cu faimosul restaurant Schweizerhaus și ciolanul său original de porc (Stelze) la grătar.","en":"The Vienna Prater (Wiener Prater) is a fascinating mix of a huge near-natural recreation area and the famous amusement park, the 'Wurstelprater'. The centerpiece and landmark of Vienna is the widely visible Giant Ferris Wheel (Riesenrad), which was built in 1897 to celebrate the 50th jubilee of Emperor Franz Joseph and offers unforgettable views over the city. While the Wurstelprater promises fun and thrills with over 250 attractions – from nostalgic ghost trains to ultra-modern roller coasters – the 'Green Prater' offers endless avenues, meadows, and forests for jogging, cycling, and relaxing. Culinarily, the Prater entices with the famous Schweizerhaus restaurant and its original roasted pork knuckle (Stelze).", es: "El Prater de Viena es una fascinante mezcla de una enorme zona recreativa natural y el famoso parque de atracciones, el 'Wurstelprater'. La pieza central y emblema de Viena es la Noria Gigante, visible desde lejos, construida en 1897 para celebrar el 50º aniversario del ascenso al trono del emperador Francisco José, que ofrece vistas inolvidables de la ciudad. Mientras que el Wurstelprater promete diversión y emoción con sus más de 250 atracciones —desde nostálgicos trenes fantasma hasta ultramodernas montañas rusas—, el 'Prater Verde' ofrece infinitas avenidas, prados y bosques para correr, montar en bicicleta y relajarse. Gastronómicamente, el Prater atrae con el famoso Schweizerhaus y su original codillo (Prater-Stelzen).", pt: "O Prater de Viena é uma mistura fascinante de uma enorme área de lazer natural e o famoso parque de diversões, o 'Wurstelprater'. A peça central e símbolo de Viena é a Roda Gigante, visível de longe, construída em 1897 para celebrar o 50.º jubileu do trono do Imperador Francisco José, oferecendo vistas inesquecíveis da cidade. Enquanto o Wurstelprater promete diversão e emoção com mais de 250 atrações — desde comboios fantasma nostálgicos a montanhas-russas ultramodernas —, o 'Prater Verde' oferece avenidas intermináveis, prados e florestas para correr, andar de bicicleta e relaxar. Em termos gastronómicos, o Prater atrai com a famosa Schweizerhaus e o seu original pernil de porco (Prater-Stelzen).", fr: "Le Prater de Vienne est un mélange fascinant entre une immense zone de loisirs proche de la nature et le célèbre parc d'attractions, le 'Wurstelprater'. La pièce maîtresse et l'emblème de Vienne est la Grande Roue, visible de loin, construite en 1897 pour célébrer le 50e jubilé du trône de l'empereur François-Joseph, offrant des vues inoubliables sur la ville. Alors que le Wurstelprater promet amusement et sensations fortes avec plus de 250 attractions — des trains fantômes nostalgiques aux montagnes russes ultramodernes — le 'Prater Vert' offre des allées, des prairies et des forêts infinies pour le jogging, le vélo et la détente. Côté gastronomie, le Prater séduit avec le célèbre Schweizerhaus et son jarret de porc (Prater-Stelzen) original."}, facts: {"de":["Das Wiener Riesenrad spielte eine Hauptrolle im Film noir-Klassiker 'Der dritte Mann'.","Der Prater war ursprünglich ein kaiserliches Jagdrevier und wurde 1766 für die Öffentlichkeit freigegeben.","Die vier Kilometer lange Hauptallee (Prater Hauptallee) ist gesäumt von Kastanienbäumen.","Im Prater fand 1873 die Wiener Weltausstellung statt.","Der Vergnügungspark (Wurstelprater) kostet keinen Eintritt; bezahlt wird pro Fahrgeschäft.","Die Liliputbahn ist eine Miniatur-Schmalspurbahn, die auf 4 km Länge durch den Park fährt.","Das Madame Tussauds Wachsfigurenkabinett hat hier eine Wiener Niederlassung.","Das Riesenrad hat heute nur noch 15 Waggons (statt ursprünglich 30, die im 2. Weltkrieg verbrannten).","Der 'Grüne Prater' ist fast doppelt so groß wie der Central Park in New York.","Das Ernst-Happel-Stadion, Österreichs größtes Fußballstadion, liegt ebenfalls im Prater."],"hu":["A bécsi Óriáskerék főszerepet játszott 'A harmadik ember' című klasszikus film noirban.","A Práter eredetileg császári vadászterület volt, amelyet 1766-ban nyitottak meg a nagyközönség előtt.","A négy kilométer hosszú fő sétányt (Prater Hauptallee) gesztenyefák szegélyezik.","1873-ban a Práterben rendezték meg a bécsi világkiállítást.","A vidámparkba (Wurstelprater) nincs belépődíj; az egyes attrakciókért kell fizetni.","A Liliputbahn egy miniatűr keskeny nyomtávú vasút, amely 4 km hosszan kanyarog a parkon keresztül.","A Madame Tussauds viaszmúzeumnak is van itt egy bécsi fiókja.","Az Óriáskeréknek ma már csak 15 kocsija van (az eredeti 30 helyett, amelyek a 2. világháborúban elégtek).","A 'Zöld Práter' majdnem kétszer akkora, mint a New York-i Central Park.","Az Ernst Happel Stadion, Ausztria legnagyobb futballstadionja szintén a Práterben található."],"ro":["Marea Roată din Viena a jucat un rol principal în filmul clasic noir „Al treilea om” (The Third Man).","Praterul a fost inițial un teren imperial de vânătoare și a fost deschis publicului în 1766.","Aleea principală (Prater Hauptallee), lungă de patru kilometri, este mărginită de castani.","Expoziția Universală de la Viena din 1873 a avut loc în Prater.","Parcul de distracții (Wurstelprater) nu percepe taxă de intrare; se plătește pentru fiecare atracție.","Liliputbahn este o cale ferată miniaturală cu ecartament îngust care traversează parcul pe o distanță de 4 km.","Muzeul de ceară Madame Tussauds are o filială vieneză aici.","Marea Roată are astăzi doar 15 vagoane (în loc de cele 30 originale, care au ars în al Doilea Război Mondial).","„Praterul Verde” este de aproape două ori mai mare decât Central Park din New York.","Stadionul Ernst Happel, cel mai mare stadion de fotbal din Austria, este, de asemenea, situat în Prater."],"en":["The Vienna Giant Ferris Wheel played a starring role in the classic film noir 'The Third Man'.","The Prater was originally an imperial hunting ground and was opened to the public in 1766.","The four-kilometer-long main avenue (Prater Hauptallee) is lined with chestnut trees.","The Vienna World's Fair was held in the Prater in 1873.","The amusement park (Wurstelprater) does not charge an entrance fee; you pay per ride.","The Liliputbahn is a miniature narrow-gauge railway that runs through the park for 4 km.","The Madame Tussauds wax museum has a Viennese branch here.","The Giant Ferris Wheel today only has 15 wagons (instead of the original 30, which burned down in WWII).","The 'Green Prater' is almost twice the size of Central Park in New York.","The Ernst Happel Stadium, Austria's largest football stadium, is also located in the Prater."], es: ["La Noria Gigante de Viena tuvo un papel protagonista en el clásico del cine negro 'El tercer hombre'.", "El Prater era originalmente un coto de caza imperial y se abrió al público en 1766.", "La Hauptallee, de cuatro kilómetros de largo, está bordeada de castaños.", "En el Prater se celebró la Exposición Universal de Viena de 1873.", "El parque de atracciones (Wurstelprater) no tiene entrada; se paga por cada atracción.", "El Liliputbahn es un ferrocarril en miniatura de vía estrecha que recorre 4 km por el parque.", "El museo de cera Madame Tussauds tiene una sucursal vienesa aquí.", "La Noria Gigante solo tiene hoy 15 cabinas (en lugar de las 30 originales, que se quemaron en la II Guerra Mundial).", "El 'Prater Verde' es casi el doble de grande que el Central Park de Nueva York.", "El Estadio Ernst Happel, el mayor estadio de fútbol de Austria, también se encuentra en el Prater."], pt: ["A Roda Gigante de Viena desempenhou um papel principal no clássico do filme noir 'O Terceiro Homem'.", "O Prater era originalmente uma reserva de caça imperial e foi aberto ao público em 1766.", "A avenida principal de quatro quilómetros (Prater Hauptallee) é ladeada por castanheiros.", "A Exposição Mundial de Viena de 1873 teve lugar no Prater.", "O parque de diversões (Wurstelprater) não cobra entrada; paga-se por diversão.", "O Liliputbahn é um caminho-de-ferro em miniatura de via estreita que percorre 4 km através do parque.", "O museu de cera Madame Tussauds tem uma filial em Viena aqui.", "A Roda Gigante tem hoje apenas 15 cabines (em vez das 30 originais, que arderam na Segunda Guerra Mundial).", "O 'Prater Verde' é quase o dobro do tamanho do Central Park em Nova Iorque.", "O Estádio Ernst Happel, o maior estádio de futebol da Áustria, também se situa no Prater."], fr: ["La Grande Roue de Vienne a joué un rôle principal dans le classique du film noir 'Le Troisième Homme'.", "Le Prater était à l'origine un domaine de chasse impérial et a été ouvert au public en 1766.", "La Hauptallee, longue de quatre kilomètres, est bordée de marronniers.", "L'Exposition universelle de Vienne de 1873 s'est tenue au Prater.", "L'entrée du parc d'attractions (Wurstelprater) est gratuite ; on paie par manège.", "Le Liliputbahn est un chemin de fer miniature à voie étroite qui parcourt 4 km à travers le parc.", "Le musée de cire Madame Tussauds possède une antenne viennoise ici.", "La Grande Roue ne compte plus que 15 wagons aujourd'hui (contre 30 à l'origine, brûlés pendant la Seconde Guerre mondiale).", "Le 'Prater Vert' est presque deux fois plus grand que Central Park à New York.", "Le stade Ernst-Happel, le plus grand stade de football d'Autriche, se trouve également au Prater."]},
@@ -12861,7 +21501,160 @@ export const austriaCities: POI[] = [
     },
   },
   {
-    id: "AT-Arlberg", type: "landmark", parent: "AT-7", coords: [10.2114, 47.1294],
+    id: "AT-Arlberg", "sights": {
+      "de": [
+            {
+                  "name": "Museum St. Anton",
+                  "text": "Ein Museum in einem historischen Chalet, das die Entwicklung des Skisports und die Lokalgeschichte zeigt.",
+                  "category": "museum",
+                  "coords": [
+                        10.260494,
+                        47.127657
+                  ]
+            },
+            {
+                  "name": "Hall Of Fame",
+                  "text": "Eine Ausstellung am Arlberg, die den Pionieren des alpinen Skisports gewidmet ist.",
+                  "category": "museum",
+                  "coords": [
+                        10.179596,
+                        47.153825
+                  ]
+            },
+            {
+                  "name": "Schindlerspitze",
+                  "text": "Ein markanter Berggipfel in der Arlberg-Region, der besonders bei Freeridern und Skifahrern beliebt ist.",
+                  "category": "landmark",
+                  "coords": [
+                        10.221822,
+                        47.149459
+                  ]
+            },
+            {
+                  "name": "Nördlicher Trittkopf",
+                  "text": "Der Nördliche Trittkopf ist ein Berggipfel in der Arlberg-Region.",
+                  "category": "landmark",
+                  "coords": [
+                        10.188968,
+                        47.161646
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Museum St. Anton",
+                  "text": "Történelmi faházban található múzeum, amely a síelés fejlődését és a helytörténetet mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        10.260494,
+                        47.127657
+                  ]
+            },
+            {
+                  "name": "Hall Of Fame",
+                  "text": "Kiállítás az Arlbergen, amelyet az alpesi síelés úttörőinek szenteltek.",
+                  "category": "museum",
+                  "coords": [
+                        10.179596,
+                        47.153825
+                  ]
+            },
+            {
+                  "name": "Schindlerspitze",
+                  "text": "Jellegzetes hegycsúcs az Arlberg-régióban, amely különösen a freeride-osok és síelők körében népszerű.",
+                  "category": "landmark",
+                  "coords": [
+                        10.221822,
+                        47.149459
+                  ]
+            },
+            {
+                  "name": "Nördlicher Trittkopf",
+                  "text": "A Nördlicher Trittkopf egy hegycsúcs az Arlberg-vidéken.",
+                  "category": "landmark",
+                  "coords": [
+                        10.188968,
+                        47.161646
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Museum St. Anton",
+                  "text": "Un muzeu într-o cabană istorică, care prezintă dezvoltarea schiului și istoria locală.",
+                  "category": "museum",
+                  "coords": [
+                        10.260494,
+                        47.127657
+                  ]
+            },
+            {
+                  "name": "Hall Of Fame",
+                  "text": "O expoziție la Arlberg dedicată pionierilor schiului alpin.",
+                  "category": "museum",
+                  "coords": [
+                        10.179596,
+                        47.153825
+                  ]
+            },
+            {
+                  "name": "Schindlerspitze",
+                  "text": "Un vârf montan distinctiv în regiunea Arlberg, popular în special printre schiori și freerideri.",
+                  "category": "landmark",
+                  "coords": [
+                        10.221822,
+                        47.149459
+                  ]
+            },
+            {
+                  "name": "Nördlicher Trittkopf",
+                  "text": "Nördlicher Trittkopf este un vârf montan în regiunea Arlberg.",
+                  "category": "landmark",
+                  "coords": [
+                        10.188968,
+                        47.161646
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Museum St. Anton",
+                  "text": "A museum in a historic chalet showcasing the development of skiing and local history.",
+                  "category": "museum",
+                  "coords": [
+                        10.260494,
+                        47.127657
+                  ]
+            },
+            {
+                  "name": "Hall Of Fame",
+                  "text": "An exhibition at the Arlberg dedicated to the pioneers of alpine skiing.",
+                  "category": "museum",
+                  "coords": [
+                        10.179596,
+                        47.153825
+                  ]
+            },
+            {
+                  "name": "Schindlerspitze",
+                  "text": "A distinctive mountain peak in the Arlberg region, popular especially among skiers and freeriders.",
+                  "category": "landmark",
+                  "coords": [
+                        10.221822,
+                        47.149459
+                  ]
+            },
+            {
+                  "name": "Nördlicher Trittkopf",
+                  "text": "The Nördlicher Trittkopf is a mountain peak in the Arlberg region.",
+                  "category": "landmark",
+                  "coords": [
+                        10.188968,
+                        47.161646
+                  ]
+            }
+      ]
+}, type: "landmark", parent: "AT-7", coords: [10.2114, 47.1294],
     name: { de: "Arlberg", hu: "Arlberg", ro: "Arlberg", en: "Arlberg" },
     image: "/geo-images/austria/arlberg.webp",
     description: {"de":"Der Arlberg, die natürliche Gebirgsgrenze zwischen den Bundesländern Tirol und Vorarlberg, ist ein weltweiter Mythos im alpinen Wintersport und gilt als die 'Wiege des alpinen Skilaufs'. Berühmte, mondäne Skidörfer wie St. Anton, Lech, Zürs und St. Christoph bilden zusammen mit Ski Arlberg das größte zusammenhängende Skigebiet Österreichs und eines der fünf größten der Welt. Über 300 Pistenkilometer und beispiellose Tiefschneehänge locken High Society, Könige und passionierte Freerider gleichermaßen an. Neben seinem Ruf als Skiparadies mit exzellenter Gastronomie und legendärem Après-Ski ist der Arlberg-Pass seit Jahrhunderten auch eine historisch bedeutsame Verkehrsverbindung zwischen West- und Zentraleuropa.","hu":"Az Arlberg, a Tirol és Vorarlberg tartományok közötti természetes hegyi határ, az alpesi téli sportok világszerte ismert mítosza, és az 'alpesi síelés bölcsőjének' tartják. Olyan híres, elegáns sífalvak, mint St. Anton, Lech, Zürs és St. Christoph alkotják együtt a Ski Arlberget, Ausztria legnagyobb összefüggő síterepét, és a világ öt legnagyobb síterepének egyikét. Több mint 300 kilométernyi sípálya és páratlan mélyhósí-lejtők vonzzák a felső tízezert, a királyokat és a szenvedélyes freeridereket egyaránt. A kiváló gasztronómiával és legendás après-ski (sízés utáni szórakozás) lehetőségekkel rendelkező síparadicsom hírneve mellett az Arlberg-hágó évszázadok óta történelmileg jelentős közlekedési kapcsolat Nyugat- és Közép-Európa között.","ro":"Arlberg, granița montană naturală dintre landurile Tirol și Vorarlberg, este un mit global în sporturile de iarnă alpine și este considerat „leagănul schiului alpin”. Sate de schi faimoase și sofisticate precum St. Anton, Lech, Zürs și St. Christoph formează împreună Ski Arlberg, cea mai mare zonă de schi contiguă din Austria și una dintre cele mai mari cinci din lume. Peste 300 de kilometri de pârtii și pante de zăpadă adâncă de neegalat atrag înalta societate, regalitatea și freeriderii pasionați în egală măsură. Pe lângă reputația sa de paradis al schiului cu o gastronomie excelentă și un legendar après-ski, Pasul Arlberg a fost și o conexiune de transport importantă istoric între vestul și centrul Europei de secole.","en":"The Arlberg, the natural mountain border between the federal states of Tyrol and Vorarlberg, is a global myth in alpine winter sports and is considered the 'cradle of alpine skiing'. Famous, sophisticated ski villages like St. Anton, Lech, Zürs, and St. Christoph together form Ski Arlberg, the largest contiguous ski area in Austria and one of the five largest in the world. Over 300 kilometers of slopes and unparalleled deep snow slopes attract high society, royalty, and passionate freeriders alike. In addition to its reputation as a ski paradise with excellent gastronomy and legendary après-ski, the Arlberg Pass has also been a historically significant transport connection between Western and Central Europe for centuries.", es: "El Arlberg, límite montañoso entre el Tirol y Vorarlberg, es un mito mundial en los deportes de invierno y se considera la 'cuna del esquí alpino'.", pt: "O Arlberg, a fronteira montanhosa natural entre o Tirol e Vorarlberg, é um mito mundial nos desportos de inverno e é considerado o 'berço do esqui alpino'.", fr: "L'Arlberg, frontière montagneuse naturelle entre le Tyrol et le Vorarlberg, est un mythe mondial du sport d'hiver et est considéré comme le 'berceau du ski alpin'."}, facts: {"de":["Gilt als 'Wiege des alpinen Skilaufs' (der erste Skiclub wurde hier 1901 gegründet).","Ski Arlberg ist mit 302 Pistenkilometern das größte Skigebiet in Österreich.","Der Arlberg-Straßentunnel (knapp 14 km) ist der längste Straßentunnel Österreichs.","Lech und Zürs sind traditionelle Urlaubsorte des internationalen Jetsets und des Adels.","Hannes Schneider aus St. Anton revolutionierte mit der 'Arlberg-Technik' das Skifahren.","Der 'Weiße Ring' in Lech ist ein legendäres Skirennen und eine beliebte Skirunde.","Die Valluga (2.811 m) ist der höchste Berg im Arlberg-Skigebiet.","St. Christoph am Arlberg war einst ein Hospiz zur Rettung von Reisenden aus dem Schnee.","Der Arlberg-Eisenbahntunnel wurde bereits 1884 eröffnet.","Das Skigebiet ist berühmt für seine gigantischen Off-Piste- und Heliskiing-Möglichkeiten."],"hu":["Az 'alpesi síelés bölcsőjének' tartják (az első síklubot itt alapították 1901-ben).","A Ski Arlberg 302 kilométernyi pályájával a legnagyobb síterep Ausztriában.","Az Arlberg-közúti alagút (közel 14 km) Ausztria leghosszabb közúti alagútja.","Lech és Zürs a nemzetközi jet-set és a nemesség hagyományos üdülőhelyei.","A St. Anton-i Hannes Schneider az 'Arlberg-technikával' forradalmasította a síelést.","A lechi 'Fehér Gyűrű' (Der Weiße Ring) egy legendás síverseny és kedvelt sítúra.","A Valluga (2811 m) az Arlberg-síterep legmagasabb hegye.","St. Christoph am Arlberg egykor menedékház volt a hóban rekedt utazók megmentésére.","Az Arlberg-vasúti alagutat már 1884-ben megnyitották.","A síterep híres hatalmas off-piste (pályán kívüli) és heliskiing lehetőségeiről."],"ro":["Considerat „leagănul schiului alpin” (primul club de schi a fost fondat aici în 1901).","Ski Arlberg este cea mai mare zonă de schi din Austria, cu 302 km de pârtii.","Tunelul rutier Arlberg (aproape 14 km) este cel mai lung tunel rutier din Austria.","Lech și Zürs sunt destinații tradiționale de vacanță pentru înalta societate internațională și nobilime.","Hannes Schneider din St. Anton a revoluționat schiatul cu „Tehnica Arlberg”.","„Inelul Alb” (Der Weiße Ring) din Lech este o cursă legendară de schi și un circuit popular de schi.","Valluga (2.811 m) este cel mai înalt munte din zona de schi Arlberg.","St. Christoph am Arlberg a fost cândva un ospiciu pentru a salva călătorii din zăpadă.","Tunelul feroviar Arlberg a fost deschis încă din 1884.","Zona de schi este renumită pentru oportunitățile sale gigantice de schi off-piste și heliski."],"en":["Considered the 'cradle of alpine skiing' (the first ski club was founded here in 1901).","Ski Arlberg is the largest ski area in Austria with 302 km of slopes.","The Arlberg Road Tunnel (almost 14 km) is the longest road tunnel in Austria.","Lech and Zürs are traditional holiday destinations for the international jet set and nobility.","Hannes Schneider from St. Anton revolutionized skiing with the 'Arlberg technique'.","The 'White Ring' (Der Weiße Ring) in Lech is a legendary ski race and popular ski circuit.","The Valluga (2,811 m) is the highest mountain in the Arlberg ski area.","St. Christoph am Arlberg was once a hospice to rescue travelers from the snow.","The Arlberg Railway Tunnel was opened as early as 1884.","The ski area is famous for its gigantic off-piste and heliskiing opportunities."], es: ["Considerado la 'cuna del esquí alpino' (el primer club de esquí se fundó aquí en 1901).", "Ski Arlberg es la zona de esquí más grande de Austria con 302 kilómetros de pistas.", "El túnel de carretera del Arlberg (casi 14 km) es el túnel de carretera más largo de Austria.", "Lech y Zürs son destinos tradicionales de vacaciones de la jet set internacional y la aristocracia.", "Hannes Schneider, de St. Anton, revolucionó el esquí con la 'técnica Arlberg'.", "El 'Anillo Blanco' en Lech es una carrera de esquí legendaria y una ruta de esquí popular.", "El Valluga (2.811 m) es la montaña más alta de la zona de esquí del Arlberg.", "St. Christoph am Arlberg fue antiguamente un hospicio para rescatar a viajeros de la nieve.", "El túnel ferroviario del Arlberg se inauguró ya en 1884.", "La zona de esquí es famosa por sus gigantescas posibilidades de fuera de pista y heliesquí."], pt: ["Considerado o 'berço do esqui alpino' (o primeiro clube de esqui foi fundado aqui em 1901).", "Ski Arlberg é a maior estância de esqui da Áustria, com 302 quilómetros de pistas.", "O túnel rodoviário de Arlberg (quase 14 km) é o túnel rodoviário mais longo da Áustria.", "Lech e Zürs são locais de férias tradicionais para o jet set internacional e a nobreza.", "Hannes Schneider, de St. Anton, revolucionou o esqui com a 'técnica Arlberg'.", "O 'Anel Branco' em Lech é uma corrida de esqui lendária e um percurso popular.", "O Valluga (2.811 m) é a montanha mais alta da estância de esqui de Arlberg.", "St. Christoph am Arlberg foi outrora um hospício para resgatar viajantes da neve.", "O túnel ferroviário de Arlberg foi aberto já em 1884.", "A estância é famosa pelas suas gigantescas possibilidades de fora de pista e heliesqui."], fr: ["Considéré comme le 'berceau du ski alpin' (le premier club de ski y fut fondé en 1901).", "Ski Arlberg est le plus grand domaine skiable d'Autriche avec 302 km de pistes.", "Le tunnel routier de l'Arlberg (près de 14 km) est le plus long tunnel routier d'Autriche.", "Lech et Zürs sont des lieux de vacances traditionnels de la jet-set internationale et de la noblesse.", "Hannes Schneider de St. Anton a révolutionné le ski avec la 'technique de l'Arlberg'.", "L''Anneau Blanc' à Lech est une course de ski légendaire et un circuit de ski prisé.", "La Valluga (2 811 m) est le plus haut sommet du domaine skiable de l'Arlberg.", "St. Christoph am Arlberg était autrefois un hospice pour secourir les voyageurs dans la neige.", "Le tunnel ferroviaire de l'Arlberg a été ouvert dès 1884.", "Le domaine est célèbre pour ses gigantesques possibilités de hors-piste et d'héliski."]},
@@ -13742,6 +22535,15 @@ export const austriaCities: POI[] = [
                         12.784195,
                         46.828875
                   ]
+            },
+            {
+                  "name": "Franziskanerkloster St. Marien",
+                  "text": "Das Franziskanerkloster in Lienz ist eine historische Klosteranlage mit einer gotischen Kirche.",
+                  "category": "religious",
+                  "coords": [
+                        12.766108,
+                        46.830484
+                  ]
             }
       ],
       "hu": [
@@ -13986,6 +22788,15 @@ export const austriaCities: POI[] = [
                   "coords": [
                         12.784195,
                         46.828875
+                  ]
+            },
+            {
+                  "name": "Franziskanerkloster St. Marien",
+                  "text": "A lienzi ferences kolostor egy történelmi kolostoregyüttes gótikus templommal.",
+                  "category": "religious",
+                  "coords": [
+                        12.766108,
+                        46.830484
                   ]
             }
       ],
@@ -14232,6 +23043,15 @@ export const austriaCities: POI[] = [
                         12.784195,
                         46.828875
                   ]
+            },
+            {
+                  "name": "Franziskanerkloster St. Marien",
+                  "text": "Mănăstirea Franciscană din Lienz este un complex monahal istoric cu o biserică gotică.",
+                  "category": "religious",
+                  "coords": [
+                        12.766108,
+                        46.830484
+                  ]
             }
       ],
       "en": [
@@ -14477,6 +23297,15 @@ export const austriaCities: POI[] = [
                         12.784195,
                         46.828875
                   ]
+            },
+            {
+                  "name": "Franziskanerkloster St. Marien",
+                  "text": "The Franciscan Monastery in Lienz is a historical monastic complex featuring a Gothic church.",
+                  "category": "religious",
+                  "coords": [
+                        12.766108,
+                        46.830484
+                  ]
             }
       ]
 },
@@ -14547,7 +23376,268 @@ export const austriaCities: POI[] = [
     },
   },
   {
-    "id": "at-zell-am-see",
+    "id": "at-zell-am-see", "sights": {
+      "de": [
+            {
+                  "name": "Schloss Rosenberg",
+                  "text": "Ein Schloss in Zell am See, das heute als Rathaus der Stadt dient.",
+                  "category": "castle",
+                  "coords": [
+                        12.796448,
+                        47.32334
+                  ]
+            },
+            {
+                  "name": "Vogtturm Museum",
+                  "text": "Ein Museum in einem historischen Turm in Zell am See.",
+                  "category": "museum",
+                  "coords": [
+                        12.797874,
+                        47.32361
+                  ]
+            },
+            {
+                  "name": "Konzertmuschel",
+                  "text": "Eine Freiluftbühne in Zell am See für musikalische Darbietungen.",
+                  "category": "cultural",
+                  "coords": [
+                        12.798977,
+                        47.32161
+                  ]
+            },
+            {
+                  "name": "Natur- und Europaschutzgebiet Zeller See",
+                  "text": "Ein geschütztes Naturgebiet rund um den Zeller See.",
+                  "category": "natural",
+                  "coords": [
+                        12.808611,
+                        47.303182
+                  ]
+            },
+            {
+                  "name": "Strandbad Thumersbach",
+                  "text": "Ein Strandbad in Thumersbach mit Wasserattraktionen für Besucher.",
+                  "category": "recreational",
+                  "coords": [
+                        12.811399,
+                        47.329628
+                  ]
+            },
+            {
+                  "name": "Kalvarienberg",
+                  "text": "Ein Kalvarienberg in Zell am See, der als religiöse Attraktion gilt.",
+                  "category": "landmark",
+                  "coords": [
+                        12.796662,
+                        47.330851
+                  ]
+            },
+            {
+                  "name": "Strandbad Zell am See",
+                  "text": "Ein Badeort am Zeller See mit verschiedenen Freizeiteinrichtungen.",
+                  "category": "recreational",
+                  "coords": [
+                        12.799858,
+                        47.326452
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Schloss Rosenberg",
+                  "text": "Kastély Zell am See-ben, amely ma a városházának ad otthont.",
+                  "category": "castle",
+                  "coords": [
+                        12.796448,
+                        47.32334
+                  ]
+            },
+            {
+                  "name": "Vogtturm Museum",
+                  "text": "Múzeum egy történelmi toronyban Zell am See településen.",
+                  "category": "museum",
+                  "coords": [
+                        12.797874,
+                        47.32361
+                  ]
+            },
+            {
+                  "name": "Konzertmuschel",
+                  "text": "Szabadtéri színpad Zell am See-ben zenei előadásokhoz.",
+                  "category": "cultural",
+                  "coords": [
+                        12.798977,
+                        47.32161
+                  ]
+            },
+            {
+                  "name": "Natur- und Europaschutzgebiet Zeller See",
+                  "text": "Természetvédelmi terület a Zell-i tó környékén.",
+                  "category": "natural",
+                  "coords": [
+                        12.808611,
+                        47.303182
+                  ]
+            },
+            {
+                  "name": "Strandbad Thumersbach",
+                  "text": "Strandfürdő Thumersbachban, vízi attrakciókkal a látogatók számára.",
+                  "category": "recreational",
+                  "coords": [
+                        12.811399,
+                        47.329628
+                  ]
+            },
+            {
+                  "name": "Kalvarienberg",
+                  "text": "Kálvária-hegy Zell am See-ben, amely vallási látnivaló.",
+                  "category": "landmark",
+                  "coords": [
+                        12.796662,
+                        47.330851
+                  ]
+            },
+            {
+                  "name": "Strandbad Zell am See",
+                  "text": "Fürdőhely a Zell-i tónál, különféle szabadidős szolgáltatásokkal.",
+                  "category": "recreational",
+                  "coords": [
+                        12.799858,
+                        47.326452
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Schloss Rosenberg",
+                  "text": "Un castel în Zell am See, care servește în prezent ca primărie a orașului.",
+                  "category": "castle",
+                  "coords": [
+                        12.796448,
+                        47.32334
+                  ]
+            },
+            {
+                  "name": "Vogtturm Museum",
+                  "text": "Un muzeu situat într-un turn istoric din Zell am See.",
+                  "category": "museum",
+                  "coords": [
+                        12.797874,
+                        47.32361
+                  ]
+            },
+            {
+                  "name": "Konzertmuschel",
+                  "text": "O scenă în aer liber în Zell am See pentru spectacole muzicale.",
+                  "category": "cultural",
+                  "coords": [
+                        12.798977,
+                        47.32161
+                  ]
+            },
+            {
+                  "name": "Natur- und Europaschutzgebiet Zeller See",
+                  "text": "O zonă naturală protejată în jurul lacului Zell.",
+                  "category": "natural",
+                  "coords": [
+                        12.808611,
+                        47.303182
+                  ]
+            },
+            {
+                  "name": "Strandbad Thumersbach",
+                  "text": "Un ștrand în Thumersbach cu atracții acvatice pentru vizitatori.",
+                  "category": "recreational",
+                  "coords": [
+                        12.811399,
+                        47.329628
+                  ]
+            },
+            {
+                  "name": "Kalvarienberg",
+                  "text": "Un munte al calvarului în Zell am See, considerat o atracție religioasă.",
+                  "category": "landmark",
+                  "coords": [
+                        12.796662,
+                        47.330851
+                  ]
+            },
+            {
+                  "name": "Strandbad Zell am See",
+                  "text": "O stațiune de plajă la lacul Zell, cu diverse facilități de agrement.",
+                  "category": "recreational",
+                  "coords": [
+                        12.799858,
+                        47.326452
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Schloss Rosenberg",
+                  "text": "A castle in Zell am See that now serves as the city's town hall.",
+                  "category": "castle",
+                  "coords": [
+                        12.796448,
+                        47.32334
+                  ]
+            },
+            {
+                  "name": "Vogtturm Museum",
+                  "text": "A museum located within a historic tower in Zell am See.",
+                  "category": "museum",
+                  "coords": [
+                        12.797874,
+                        47.32361
+                  ]
+            },
+            {
+                  "name": "Konzertmuschel",
+                  "text": "An outdoor stage in Zell am See used for musical performances.",
+                  "category": "cultural",
+                  "coords": [
+                        12.798977,
+                        47.32161
+                  ]
+            },
+            {
+                  "name": "Natur- und Europaschutzgebiet Zeller See",
+                  "text": "A protected nature area surrounding Lake Zell.",
+                  "category": "natural",
+                  "coords": [
+                        12.808611,
+                        47.303182
+                  ]
+            },
+            {
+                  "name": "Strandbad Thumersbach",
+                  "text": "A lido in Thumersbach featuring water-based attractions for visitors.",
+                  "category": "recreational",
+                  "coords": [
+                        12.811399,
+                        47.329628
+                  ]
+            },
+            {
+                  "name": "Kalvarienberg",
+                  "text": "A calvary hill in Zell am See serving as a religious attraction.",
+                  "category": "landmark",
+                  "coords": [
+                        12.796662,
+                        47.330851
+                  ]
+            },
+            {
+                  "name": "Strandbad Zell am See",
+                  "text": "A beach resort at Lake Zell with various recreational facilities.",
+                  "category": "recreational",
+                  "coords": [
+                        12.799858,
+                        47.326452
+                  ]
+            }
+      ]
+},
     "type": "lake",
     "parent": "AT-5",
     "coords": [
@@ -14683,7 +23773,304 @@ export const austriaCities: POI[] = [
     },
   },
   {
-    "id": "at-kitzsteinhorn",
+    "id": "at-kitzsteinhorn", "sights": {
+      "de": [
+            {
+                  "name": "Erlebniswelt Strom & Eis",
+                  "text": "Eine Ausstellung über die Erzeugung von Wasserkraft und die Welt der hochalpinen Gletscher.",
+                  "category": "museum",
+                  "coords": [
+                        12.721708,
+                        47.169548
+                  ]
+            },
+            {
+                  "name": "Kitzsteinhorn",
+                  "text": "Ein markanter vergletscherter Gipfel in den Hohen Tauern, bekannt für sein Ganzjahresskigebiet.",
+                  "category": "landmark",
+                  "coords": [
+                        12.687498,
+                        47.188044
+                  ]
+            },
+            {
+                  "name": "Großer Schmiedinger",
+                  "text": "Ein Berggipfel im Salzburger Land mit steilen Hängen und schroffem alpinem Gelände.",
+                  "category": "landmark",
+                  "coords": [
+                        12.671343,
+                        47.197251
+                  ]
+            },
+            {
+                  "name": "Kleiner Grieskogel",
+                  "text": "Ein hochalpiner Gipfel in den österreichischen Alpen in der Nähe des Kitzsteinhorn-Gletschers.",
+                  "category": "landmark",
+                  "coords": [
+                        12.694277,
+                        47.164339
+                  ]
+            },
+            {
+                  "name": "Scharkogel",
+                  "text": "Ein Berggipfel in den Hohen Tauern, Teil der malerischen alpinen Landschaft Österreichs.",
+                  "category": "landmark",
+                  "coords": [
+                        12.661473,
+                        47.174557
+                  ]
+            },
+            {
+                  "name": "Jaggeser",
+                  "text": "Ein Berggipfel in der Nähe des Kitzsteinhorns in den österreichischen Alpen.",
+                  "category": "landmark",
+                  "coords": [
+                        12.644689,
+                        47.206023
+                  ]
+            },
+            {
+                  "name": "Rettinger",
+                  "text": "Ein Alpengipfel im Gebiet des Kitzsteinhorns.",
+                  "category": "landmark",
+                  "coords": [
+                        12.676983,
+                        47.223274
+                  ]
+            },
+            {
+                  "name": "Lakarschneid",
+                  "text": "Ein Berggipfel in der Gebirgsgruppe des Kitzsteinhorns.",
+                  "category": "landmark",
+                  "coords": [
+                        12.682132,
+                        47.218939
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Erlebniswelt Strom & Eis",
+                  "text": "A vízi energia előállítását és a magashegyi gleccserek világát bemutató kiállítás.",
+                  "category": "museum",
+                  "coords": [
+                        12.721708,
+                        47.169548
+                  ]
+            },
+            {
+                  "name": "Kitzsteinhorn",
+                  "text": "A Magas-Tauern hegység egyik jellegzetes, gleccserrel borított csúcsa, amely egész évben síelhető.",
+                  "category": "landmark",
+                  "coords": [
+                        12.687498,
+                        47.188044
+                  ]
+            },
+            {
+                  "name": "Großer Schmiedinger",
+                  "text": "Hegycsúcs Salzburg tartományban, meredek lejtőkkel és zord alpesi tereppel.",
+                  "category": "landmark",
+                  "coords": [
+                        12.671343,
+                        47.197251
+                  ]
+            },
+            {
+                  "name": "Kleiner Grieskogel",
+                  "text": "Magasan fekvő hegycsúcs az osztrák Alpokban, a Kitzsteinhorn-gleccser közelében.",
+                  "category": "landmark",
+                  "coords": [
+                        12.694277,
+                        47.164339
+                  ]
+            },
+            {
+                  "name": "Scharkogel",
+                  "text": "Hegycsúcs a Magas-Tauernben, Ausztria festői alpesi tájának része.",
+                  "category": "landmark",
+                  "coords": [
+                        12.661473,
+                        47.174557
+                  ]
+            },
+            {
+                  "name": "Jaggeser",
+                  "text": "Egy hegycsúcs a Kitzsteinhorn közelében az osztrák Alpokban.",
+                  "category": "landmark",
+                  "coords": [
+                        12.644689,
+                        47.206023
+                  ]
+            },
+            {
+                  "name": "Rettinger",
+                  "text": "Egy alpesi hegycsúcs a Kitzsteinhorn vidékén.",
+                  "category": "landmark",
+                  "coords": [
+                        12.676983,
+                        47.223274
+                  ]
+            },
+            {
+                  "name": "Lakarschneid",
+                  "text": "Egy hegycsúcs a Kitzsteinhorn hegycsoportjában.",
+                  "category": "landmark",
+                  "coords": [
+                        12.682132,
+                        47.218939
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Erlebniswelt Strom & Eis",
+                  "text": "O expoziție care detaliază generarea de energie hidroelectrică și lumea ghețarilor de munte.",
+                  "category": "museum",
+                  "coords": [
+                        12.721708,
+                        47.169548
+                  ]
+            },
+            {
+                  "name": "Kitzsteinhorn",
+                  "text": "Un vârf muntos proeminent din masivul Hohe Tauern, faimos pentru domeniul său schiabil deschis tot anul.",
+                  "category": "landmark",
+                  "coords": [
+                        12.687498,
+                        47.188044
+                  ]
+            },
+            {
+                  "name": "Großer Schmiedinger",
+                  "text": "Un vârf muntos din regiunea Salzburg, oferind pante abrupte și un teren alpin accidentat.",
+                  "category": "landmark",
+                  "coords": [
+                        12.671343,
+                        47.197251
+                  ]
+            },
+            {
+                  "name": "Kleiner Grieskogel",
+                  "text": "Un vârf de mare altitudine situat în Alpii Austriaci, lângă ghețarul Kitzsteinhorn.",
+                  "category": "landmark",
+                  "coords": [
+                        12.694277,
+                        47.164339
+                  ]
+            },
+            {
+                  "name": "Scharkogel",
+                  "text": "Un vârf muntos din Hohe Tauern, făcând parte din pitorescul peisaj alpin al Austriei.",
+                  "category": "landmark",
+                  "coords": [
+                        12.661473,
+                        47.174557
+                  ]
+            },
+            {
+                  "name": "Jaggeser",
+                  "text": "Un vârf montan situat în apropierea Kitzsteinhorn din Alpii austrieci.",
+                  "category": "landmark",
+                  "coords": [
+                        12.644689,
+                        47.206023
+                  ]
+            },
+            {
+                  "name": "Rettinger",
+                  "text": "Un vârf alpin în zona Kitzsteinhorn.",
+                  "category": "landmark",
+                  "coords": [
+                        12.676983,
+                        47.223274
+                  ]
+            },
+            {
+                  "name": "Lakarschneid",
+                  "text": "Un vârf muntos din grupul Kitzsteinhorn.",
+                  "category": "landmark",
+                  "coords": [
+                        12.682132,
+                        47.218939
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Erlebniswelt Strom & Eis",
+                  "text": "An exhibition detailing the generation of hydroelectric power and the world of high-alpine glaciers.",
+                  "category": "museum",
+                  "coords": [
+                        12.721708,
+                        47.169548
+                  ]
+            },
+            {
+                  "name": "Kitzsteinhorn",
+                  "text": "A prominent glaciated peak in the Hohe Tauern range, famous for its year-round ski area.",
+                  "category": "landmark",
+                  "coords": [
+                        12.687498,
+                        47.188044
+                  ]
+            },
+            {
+                  "name": "Großer Schmiedinger",
+                  "text": "A mountain peak in the Salzburg region, offering steep slopes and rugged alpine terrain.",
+                  "category": "landmark",
+                  "coords": [
+                        12.671343,
+                        47.197251
+                  ]
+            },
+            {
+                  "name": "Kleiner Grieskogel",
+                  "text": "A high-altitude peak located in the Austrian Alps near the Kitzsteinhorn glacier.",
+                  "category": "landmark",
+                  "coords": [
+                        12.694277,
+                        47.164339
+                  ]
+            },
+            {
+                  "name": "Scharkogel",
+                  "text": "A mountain summit in the Hohe Tauern, part of the scenic alpine landscape of Austria.",
+                  "category": "landmark",
+                  "coords": [
+                        12.661473,
+                        47.174557
+                  ]
+            },
+            {
+                  "name": "Jaggeser",
+                  "text": "A mountain peak located near the Kitzsteinhorn in the Austrian Alps.",
+                  "category": "landmark",
+                  "coords": [
+                        12.644689,
+                        47.206023
+                  ]
+            },
+            {
+                  "name": "Rettinger",
+                  "text": "An alpine peak in the Kitzsteinhorn area.",
+                  "category": "landmark",
+                  "coords": [
+                        12.676983,
+                        47.223274
+                  ]
+            },
+            {
+                  "name": "Lakarschneid",
+                  "text": "A mountain peak in the Kitzsteinhorn mountain group.",
+                  "category": "landmark",
+                  "coords": [
+                        12.682132,
+                        47.218939
+                  ]
+            }
+      ]
+},
     "type": "mountain",
     "parent": "AT-5",
     "coords": [
@@ -14751,7 +24138,304 @@ export const austriaCities: POI[] = [
     },
   },
   {
-    "id": "at-nockberge",
+    "id": "at-nockberge", "sights": {
+      "de": [
+            {
+                  "name": "Bretthöhe",
+                  "text": "Ein Berggipfel in den Kärntner Nockbergen.",
+                  "category": "landmark",
+                  "coords": [
+                        13.936475,
+                        46.912472
+                  ]
+            },
+            {
+                  "name": "Lattersteighöhe",
+                  "text": "Ein Gipfel im Biosphärenpark Nockberge in Österreich.",
+                  "category": "landmark",
+                  "coords": [
+                        13.947838,
+                        46.918965
+                  ]
+            },
+            {
+                  "name": "Großer Speikkofel",
+                  "text": "Ein Berggipfel in den Gurktaler Alpen im Biosphärenpark Nockberge.",
+                  "category": "landmark",
+                  "coords": [
+                        13.939921,
+                        46.89401
+                  ]
+            },
+            {
+                  "name": "Kleiner Speikkofel",
+                  "text": "Ein Berggipfel in der österreichischen Region Nockberge.",
+                  "category": "landmark",
+                  "coords": [
+                        13.934738,
+                        46.883249
+                  ]
+            },
+            {
+                  "name": "Hochkaser",
+                  "text": "Ein Berggipfel in der Gebirgsgruppe der Nockberge.",
+                  "category": "landmark",
+                  "coords": [
+                        13.903604,
+                        46.874686
+                  ]
+            },
+            {
+                  "name": "Kegel",
+                  "text": "Ein Gipfel in der alpinen Landschaft der Nockberge.",
+                  "category": "landmark",
+                  "coords": [
+                        13.986662,
+                        46.862619
+                  ]
+            },
+            {
+                  "name": "Märchenwanderweg",
+                  "text": "Ein thematischer Wanderweg für Familien in der Nockberge-Region.",
+                  "category": "landmark",
+                  "coords": [
+                        13.987946,
+                        46.872515
+                  ]
+            },
+            {
+                  "name": "St- Lorenzen",
+                  "text": "Ein religiöses Bauwerk in der Region Nockberge.",
+                  "category": "religious",
+                  "coords": [
+                        13.926894,
+                        46.856932
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Bretthöhe",
+                  "text": "Egy hegycsúcs a karintiai Nockberge-hegységben.",
+                  "category": "landmark",
+                  "coords": [
+                        13.936475,
+                        46.912472
+                  ]
+            },
+            {
+                  "name": "Lattersteighöhe",
+                  "text": "Egy hegycsúcs a Nockberge Bioszféra-rezervátumban, Ausztriában.",
+                  "category": "landmark",
+                  "coords": [
+                        13.947838,
+                        46.918965
+                  ]
+            },
+            {
+                  "name": "Großer Speikkofel",
+                  "text": "Egy hegycsúcs a Nockberge Bioszféra-rezervátum területén.",
+                  "category": "landmark",
+                  "coords": [
+                        13.939921,
+                        46.89401
+                  ]
+            },
+            {
+                  "name": "Kleiner Speikkofel",
+                  "text": "Egy hegycsúcs az osztrák Nockberge régióban.",
+                  "category": "landmark",
+                  "coords": [
+                        13.934738,
+                        46.883249
+                  ]
+            },
+            {
+                  "name": "Hochkaser",
+                  "text": "Egy hegycsúcs a Nockberge-hegységben.",
+                  "category": "landmark",
+                  "coords": [
+                        13.903604,
+                        46.874686
+                  ]
+            },
+            {
+                  "name": "Kegel",
+                  "text": "Egy hegycsúcs a Nockberge alpesi táján.",
+                  "category": "landmark",
+                  "coords": [
+                        13.986662,
+                        46.862619
+                  ]
+            },
+            {
+                  "name": "Märchenwanderweg",
+                  "text": "Tematikus túraútvonal családoknak a Nockberge régióban.",
+                  "category": "landmark",
+                  "coords": [
+                        13.987946,
+                        46.872515
+                  ]
+            },
+            {
+                  "name": "St- Lorenzen",
+                  "text": "Vallási épület a Nockberge régióban.",
+                  "category": "religious",
+                  "coords": [
+                        13.926894,
+                        46.856932
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Bretthöhe",
+                  "text": "Un vârf muntos în munții Nockberge din Carintia.",
+                  "category": "landmark",
+                  "coords": [
+                        13.936475,
+                        46.912472
+                  ]
+            },
+            {
+                  "name": "Lattersteighöhe",
+                  "text": "Un vârf muntos în Rezervația Biosferei Nockberge din Austria.",
+                  "category": "landmark",
+                  "coords": [
+                        13.947838,
+                        46.918965
+                  ]
+            },
+            {
+                  "name": "Großer Speikkofel",
+                  "text": "Un vârf muntos în Rezervația Biosferei Nockberge.",
+                  "category": "landmark",
+                  "coords": [
+                        13.939921,
+                        46.89401
+                  ]
+            },
+            {
+                  "name": "Kleiner Speikkofel",
+                  "text": "Un vârf muntos în regiunea austriacă Nockberge.",
+                  "category": "landmark",
+                  "coords": [
+                        13.934738,
+                        46.883249
+                  ]
+            },
+            {
+                  "name": "Hochkaser",
+                  "text": "Un vârf muntos în grupul montan Nockberge.",
+                  "category": "landmark",
+                  "coords": [
+                        13.903604,
+                        46.874686
+                  ]
+            },
+            {
+                  "name": "Kegel",
+                  "text": "Un vârf muntos în peisajul alpin din Nockberge.",
+                  "category": "landmark",
+                  "coords": [
+                        13.986662,
+                        46.862619
+                  ]
+            },
+            {
+                  "name": "Märchenwanderweg",
+                  "text": "Un traseu tematic de drumeție pentru familii în regiunea Nockberge.",
+                  "category": "landmark",
+                  "coords": [
+                        13.987946,
+                        46.872515
+                  ]
+            },
+            {
+                  "name": "St- Lorenzen",
+                  "text": "Un lăcaș de cult în regiunea Nockberge.",
+                  "category": "religious",
+                  "coords": [
+                        13.926894,
+                        46.856932
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Bretthöhe",
+                  "text": "A mountain peak in the Carinthian Nockberge mountains.",
+                  "category": "landmark",
+                  "coords": [
+                        13.936475,
+                        46.912472
+                  ]
+            },
+            {
+                  "name": "Lattersteighöhe",
+                  "text": "A mountain peak in the Nockberge Biosphere Reserve in Austria.",
+                  "category": "landmark",
+                  "coords": [
+                        13.947838,
+                        46.918965
+                  ]
+            },
+            {
+                  "name": "Großer Speikkofel",
+                  "text": "A mountain peak within the Nockberge Biosphere Reserve.",
+                  "category": "landmark",
+                  "coords": [
+                        13.939921,
+                        46.89401
+                  ]
+            },
+            {
+                  "name": "Kleiner Speikkofel",
+                  "text": "A mountain peak in the Austrian Nockberge region.",
+                  "category": "landmark",
+                  "coords": [
+                        13.934738,
+                        46.883249
+                  ]
+            },
+            {
+                  "name": "Hochkaser",
+                  "text": "A mountain peak in the Nockberge mountain group.",
+                  "category": "landmark",
+                  "coords": [
+                        13.903604,
+                        46.874686
+                  ]
+            },
+            {
+                  "name": "Kegel",
+                  "text": "A mountain peak in the alpine landscape of the Nockberge.",
+                  "category": "landmark",
+                  "coords": [
+                        13.986662,
+                        46.862619
+                  ]
+            },
+            {
+                  "name": "Märchenwanderweg",
+                  "text": "A themed hiking trail for families in the Nockberge region.",
+                  "category": "landmark",
+                  "coords": [
+                        13.987946,
+                        46.872515
+                  ]
+            },
+            {
+                  "name": "St- Lorenzen",
+                  "text": "A religious building in the Nockberge region.",
+                  "category": "religious",
+                  "coords": [
+                        13.926894,
+                        46.856932
+                  ]
+            }
+      ]
+},
     "type": "mountain",
     "parent": "AT-2",
     "coords": [
@@ -14819,7 +24503,124 @@ export const austriaCities: POI[] = [
     },
   },
   {
-    "id": "at-kalkalpen-np",
+    "id": "at-kalkalpen-np", "sights": {
+      "de": [
+            {
+                  "name": "Rohrauer Größtenberg",
+                  "text": "Ein Berggipfel im Nationalpark Kalkalpen, beliebt bei Wanderern und Naturfreunden.",
+                  "category": "landmark",
+                  "coords": [
+                        14.288768,
+                        47.787765
+                  ]
+            },
+            {
+                  "name": "Gamsplan",
+                  "text": "Ein Gipfel in den oberösterreichischen Voralpen mit schöner Aussicht auf die Bergwelt.",
+                  "category": "landmark",
+                  "coords": [
+                        14.334643,
+                        47.774431
+                  ]
+            },
+            {
+                  "name": "Hoher Nock",
+                  "text": "Der höchste Berg im Sengsengebirge innerhalb des Nationalparks Kalkalpen.",
+                  "category": "landmark",
+                  "coords": [
+                        14.323054,
+                        47.782791
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Rohrauer Größtenberg",
+                  "text": "Hegycsúcs a Kalkalpen Nemzeti Parkban, a túrázók és természetbarátok kedvelt célpontja.",
+                  "category": "landmark",
+                  "coords": [
+                        14.288768,
+                        47.787765
+                  ]
+            },
+            {
+                  "name": "Gamsplan",
+                  "text": "Hegycsúcs a felső-ausztriai Elő-Alpokban, szép kilátással a környező hegyekre.",
+                  "category": "landmark",
+                  "coords": [
+                        14.334643,
+                        47.774431
+                  ]
+            },
+            {
+                  "name": "Hoher Nock",
+                  "text": "A Sengsengebirge legmagasabb hegye a Kalkalpen Nemzeti Park területén.",
+                  "category": "landmark",
+                  "coords": [
+                        14.323054,
+                        47.782791
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Rohrauer Größtenberg",
+                  "text": "Un vârf montan în Parcul Național Kalkalpen, popular printre drumeți.",
+                  "category": "landmark",
+                  "coords": [
+                        14.288768,
+                        47.787765
+                  ]
+            },
+            {
+                  "name": "Gamsplan",
+                  "text": "Un vârf în prealpii Austriei Superioare, oferind vederi frumoase asupra munților.",
+                  "category": "landmark",
+                  "coords": [
+                        14.334643,
+                        47.774431
+                  ]
+            },
+            {
+                  "name": "Hoher Nock",
+                  "text": "Cel mai înalt munte din masivul Sengsengebirge, în cadrul Parcului Național Kalkalpen.",
+                  "category": "landmark",
+                  "coords": [
+                        14.323054,
+                        47.782791
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Rohrauer Größtenberg",
+                  "text": "A mountain peak in the Kalkalpen National Park, popular with hikers.",
+                  "category": "landmark",
+                  "coords": [
+                        14.288768,
+                        47.787765
+                  ]
+            },
+            {
+                  "name": "Gamsplan",
+                  "text": "A peak in the Upper Austrian Prealps offering fine views of the mountains.",
+                  "category": "landmark",
+                  "coords": [
+                        14.334643,
+                        47.774431
+                  ]
+            },
+            {
+                  "name": "Hoher Nock",
+                  "text": "The highest mountain in the Sengsengebirge range within the Kalkalpen National Park.",
+                  "category": "landmark",
+                  "coords": [
+                        14.323054,
+                        47.782791
+                  ]
+            }
+      ]
+},
     "type": "mountain",
     "parent": "AT-4",
     "coords": [
@@ -14887,7 +24688,268 @@ export const austriaCities: POI[] = [
     },
   },
   {
-    "id": "at-gesauze",
+    "id": "at-gesauze", "sights": {
+      "de": [
+            {
+                  "name": "Nationalparkpavilion",
+                  "text": "Informationszentrum und Museum für den Nationalpark Gesäuse.",
+                  "category": "museum",
+                  "coords": [
+                        14.636356,
+                        47.591637
+                  ]
+            },
+            {
+                  "name": "Hochtor",
+                  "text": "Der höchste Berg in den Ennstaler Alpen.",
+                  "category": "landmark",
+                  "coords": [
+                        14.632606,
+                        47.561847
+                  ]
+            },
+            {
+                  "name": "Hochzinödl",
+                  "text": "Ein markanter Berggipfel in der Region Gesäuse.",
+                  "category": "landmark",
+                  "coords": [
+                        14.666104,
+                        47.565503
+                  ]
+            },
+            {
+                  "name": "Planspitze",
+                  "text": "Auffälliger Kalksteingipfel, beliebt bei Wanderern und Bergsteigern.",
+                  "category": "landmark",
+                  "coords": [
+                        14.640091,
+                        47.573581
+                  ]
+            },
+            {
+                  "name": "Gstatterstein",
+                  "text": "Ein Berggipfel im Nationalpark Gesäuse.",
+                  "category": "landmark",
+                  "coords": [
+                        14.664592,
+                        47.597251
+                  ]
+            },
+            {
+                  "name": "Comicfelsen",
+                  "text": "Eine lokale Felsformation oder Sehenswürdigkeit im Nationalpark.",
+                  "category": "landmark",
+                  "coords": [
+                        14.611793,
+                        47.576551
+                  ]
+            },
+            {
+                  "name": "Hubertuskapelle",
+                  "text": "Eine kleine Kapelle im Wald, die dem heiligen Hubertus gewidmet ist.",
+                  "category": "religious",
+                  "coords": [
+                        14.638601,
+                        47.591409
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Nationalparkpavilion",
+                  "text": "A Gesäuse Nemzeti Park információs központja és múzeuma.",
+                  "category": "museum",
+                  "coords": [
+                        14.636356,
+                        47.591637
+                  ]
+            },
+            {
+                  "name": "Hochtor",
+                  "text": "Az Ennstali-Alpok legmagasabb hegycsúcsa.",
+                  "category": "landmark",
+                  "coords": [
+                        14.632606,
+                        47.561847
+                  ]
+            },
+            {
+                  "name": "Hochzinödl",
+                  "text": "Jellegzetes hegycsúcs a Gesäuse régióban.",
+                  "category": "landmark",
+                  "coords": [
+                        14.666104,
+                        47.565503
+                  ]
+            },
+            {
+                  "name": "Planspitze",
+                  "text": "Látványos mészkőcsúcs, amely népszerű a túrázók és sziklamászók körében.",
+                  "category": "landmark",
+                  "coords": [
+                        14.640091,
+                        47.573581
+                  ]
+            },
+            {
+                  "name": "Gstatterstein",
+                  "text": "Hegycsúcs a Gesäuse Nemzeti Parkban.",
+                  "category": "landmark",
+                  "coords": [
+                        14.664592,
+                        47.597251
+                  ]
+            },
+            {
+                  "name": "Comicfelsen",
+                  "text": "Helyi sziklaalakzat vagy látnivaló a nemzeti parkban.",
+                  "category": "landmark",
+                  "coords": [
+                        14.611793,
+                        47.576551
+                  ]
+            },
+            {
+                  "name": "Hubertuskapelle",
+                  "text": "Szent Hubertusznak szentelt kis kápolna az erdőben.",
+                  "category": "religious",
+                  "coords": [
+                        14.638601,
+                        47.591409
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Nationalparkpavilion",
+                  "text": "Centru de informare și muzeu pentru Parcul Național Gesäuse.",
+                  "category": "museum",
+                  "coords": [
+                        14.636356,
+                        47.591637
+                  ]
+            },
+            {
+                  "name": "Hochtor",
+                  "text": "Cel mai înalt munte din Alpii Ennstal.",
+                  "category": "landmark",
+                  "coords": [
+                        14.632606,
+                        47.561847
+                  ]
+            },
+            {
+                  "name": "Hochzinödl",
+                  "text": "Un vârf montan proeminent în regiunea Gesäuse.",
+                  "category": "landmark",
+                  "coords": [
+                        14.666104,
+                        47.565503
+                  ]
+            },
+            {
+                  "name": "Planspitze",
+                  "text": "Un vârf calcaros impresionant, popular printre drumeți și alpiniști.",
+                  "category": "landmark",
+                  "coords": [
+                        14.640091,
+                        47.573581
+                  ]
+            },
+            {
+                  "name": "Gstatterstein",
+                  "text": "Un vârf muntos în Parcul Național Gesäuse.",
+                  "category": "landmark",
+                  "coords": [
+                        14.664592,
+                        47.597251
+                  ]
+            },
+            {
+                  "name": "Comicfelsen",
+                  "text": "O formațiune stâncoasă locală sau atracție în parcul național.",
+                  "category": "landmark",
+                  "coords": [
+                        14.611793,
+                        47.576551
+                  ]
+            },
+            {
+                  "name": "Hubertuskapelle",
+                  "text": "O mică capelă dedicată Sfântului Hubertus în pădure.",
+                  "category": "religious",
+                  "coords": [
+                        14.638601,
+                        47.591409
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Nationalparkpavilion",
+                  "text": "Information center and museum for the Gesäuse National Park.",
+                  "category": "museum",
+                  "coords": [
+                        14.636356,
+                        47.591637
+                  ]
+            },
+            {
+                  "name": "Hochtor",
+                  "text": "The highest mountain in the Ennstaler Alps.",
+                  "category": "landmark",
+                  "coords": [
+                        14.632606,
+                        47.561847
+                  ]
+            },
+            {
+                  "name": "Hochzinödl",
+                  "text": "A prominent mountain peak in the Gesäuse region.",
+                  "category": "landmark",
+                  "coords": [
+                        14.666104,
+                        47.565503
+                  ]
+            },
+            {
+                  "name": "Planspitze",
+                  "text": "A striking limestone peak popular with hikers and climbers.",
+                  "category": "landmark",
+                  "coords": [
+                        14.640091,
+                        47.573581
+                  ]
+            },
+            {
+                  "name": "Gstatterstein",
+                  "text": "A mountain summit in the Gesäuse National Park.",
+                  "category": "landmark",
+                  "coords": [
+                        14.664592,
+                        47.597251
+                  ]
+            },
+            {
+                  "name": "Comicfelsen",
+                  "text": "A local rock formation or attraction in the National Park.",
+                  "category": "landmark",
+                  "coords": [
+                        14.611793,
+                        47.576551
+                  ]
+            },
+            {
+                  "name": "Hubertuskapelle",
+                  "text": "A small chapel dedicated to Saint Hubertus in the forest.",
+                  "category": "religious",
+                  "coords": [
+                        14.638601,
+                        47.591409
+                  ]
+            }
+      ]
+},
     "type": "mountain",
     "parent": "AT-6",
     "coords": [
@@ -14955,7 +25017,304 @@ export const austriaCities: POI[] = [
     },
   },
   {
-    "id": "at-thayatal-np",
+    "id": "at-thayatal-np", "sights": {
+      "de": [
+            {
+                  "name": "Burg Hardegg",
+                  "text": "Eine mächtige Burganlage über der Thaya, bekannt für ihre gut erhaltenen Wehranlagen.",
+                  "category": "castle",
+                  "coords": [
+                        15.856877,
+                        48.853735
+                  ]
+            },
+            {
+                  "name": "Ruine Kaja",
+                  "text": "Die Ruinen einer mittelalterlichen Höhenburg im Nationalpark Thayatal.",
+                  "category": "castle",
+                  "coords": [
+                        15.888264,
+                        48.826634
+                  ]
+            },
+            {
+                  "name": "Schloss Karlslust",
+                  "text": "Ein barockes Jagdschloss im Thayatal, das von einer weitläufigen Parkanlage umgeben ist.",
+                  "category": "castle",
+                  "coords": [
+                        15.922762,
+                        48.814457
+                  ]
+            },
+            {
+                  "name": "Guckkastenmuseum",
+                  "text": "Ein Museum im Thayatal, das die Geschichte und Technik von Guckkästen präsentiert.",
+                  "category": "museum",
+                  "coords": [
+                        15.858186,
+                        48.854389
+                  ]
+            },
+            {
+                  "name": "ehem. Zollhaus",
+                  "text": "Ein kleines Museum in einem ehemaligen Zollhaus an der Grenze zwischen Österreich und Tschechien.",
+                  "category": "museum",
+                  "coords": [
+                        15.86231,
+                        48.852548
+                  ]
+            },
+            {
+                  "name": "Waldbad Hardegg",
+                  "text": "Ein beheiztes Freibad in Hardegg, das Erholung inmitten des Nationalparks bietet.",
+                  "category": "recreational",
+                  "coords": [
+                        15.850037,
+                        48.853763
+                  ]
+            },
+            {
+                  "name": "Ruine Neuhäusl",
+                  "text": "Die eindrucksvollen Ruinen einer Doppelburg im Thayatal, nahe der tschechischen Grenze.",
+                  "category": "historical",
+                  "coords": [
+                        15.906216,
+                        48.837267
+                  ]
+            },
+            {
+                  "name": "Hardegger Warte",
+                  "text": "Ein Aussichtspunkt im Nationalpark Thayatal mit Blick auf die Stadt Hardegg.",
+                  "category": "natural",
+                  "coords": [
+                        15.860989,
+                        48.857428
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Burg Hardegg",
+                  "text": "Hatalmas várrendszer a Thaya folyó felett, amely jól megőrzött védműveiről ismert.",
+                  "category": "castle",
+                  "coords": [
+                        15.856877,
+                        48.853735
+                  ]
+            },
+            {
+                  "name": "Ruine Kaja",
+                  "text": "Egy középkori hegyi vár romjai a Thayatal Nemzeti Parkban.",
+                  "category": "castle",
+                  "coords": [
+                        15.888264,
+                        48.826634
+                  ]
+            },
+            {
+                  "name": "Schloss Karlslust",
+                  "text": "Barokk vadászkastély a Thaya-völgyben, amelyet tágas parkrendszer vesz körül.",
+                  "category": "castle",
+                  "coords": [
+                        15.922762,
+                        48.814457
+                  ]
+            },
+            {
+                  "name": "Guckkastenmuseum",
+                  "text": "Múzeum a Thaya-völgyben, amely a kukucskáló dobozok (Guckkasten) történetét és technikáját mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        15.858186,
+                        48.854389
+                  ]
+            },
+            {
+                  "name": "ehem. Zollhaus",
+                  "text": "Kismúzeum egy egykori vámszáz épületében az osztrák-cseh határon.",
+                  "category": "museum",
+                  "coords": [
+                        15.86231,
+                        48.852548
+                  ]
+            },
+            {
+                  "name": "Waldbad Hardegg",
+                  "text": "Fűtött szabadtéri strand Hardeggben, amely kikapcsolódást nyújt a nemzeti park közepén.",
+                  "category": "recreational",
+                  "coords": [
+                        15.850037,
+                        48.853763
+                  ]
+            },
+            {
+                  "name": "Nový Hrádek",
+                  "text": "Egy kettősvár lenyűgöző romjai a Thaya-völgyben, a cseh határ közelében.",
+                  "category": "historical",
+                  "coords": [
+                        15.906216,
+                        48.837267
+                  ]
+            },
+            {
+                  "name": "Hardegger Warte",
+                  "text": "Kilátópont a Thayatal Nemzeti Parkban, ahonnan Hardegg városára nyílik kilátás.",
+                  "category": "natural",
+                  "coords": [
+                        15.860989,
+                        48.857428
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Burg Hardegg",
+                  "text": "O cetate impunătoare deasupra râului Thaya, cunoscută pentru fortificațiile sale bine conservate.",
+                  "category": "castle",
+                  "coords": [
+                        15.856877,
+                        48.853735
+                  ]
+            },
+            {
+                  "name": "Ruine Kaja",
+                  "text": "Ruinele unui castel medieval situat pe deal în Parcul Național Thayatal.",
+                  "category": "castle",
+                  "coords": [
+                        15.888264,
+                        48.826634
+                  ]
+            },
+            {
+                  "name": "Schloss Karlslust",
+                  "text": "Un castel de vânătoare baroc în Valea Thaya, înconjurat de un parc vast.",
+                  "category": "castle",
+                  "coords": [
+                        15.922762,
+                        48.814457
+                  ]
+            },
+            {
+                  "name": "Guckkastenmuseum",
+                  "text": "Un muzeu în Valea Thaya, care prezintă istoria și tehnica cutiilor optice (Guckkasten).",
+                  "category": "museum",
+                  "coords": [
+                        15.858186,
+                        48.854389
+                  ]
+            },
+            {
+                  "name": "ehem. Zollhaus",
+                  "text": "Un mic muzeu situat într-o fostă vamă la granița dintre Austria și Cehia.",
+                  "category": "museum",
+                  "coords": [
+                        15.86231,
+                        48.852548
+                  ]
+            },
+            {
+                  "name": "Waldbad Hardegg",
+                  "text": "O piscină în aer liber în Hardegg, oferind recreere în mijlocul parcului național.",
+                  "category": "recreational",
+                  "coords": [
+                        15.850037,
+                        48.853763
+                  ]
+            },
+            {
+                  "name": "Nový Hrádek",
+                  "text": "Ruinele impresionante ale unui castel dublu în Valea Thaya, aproape de granița cu Cehia.",
+                  "category": "historical",
+                  "coords": [
+                        15.906216,
+                        48.837267
+                  ]
+            },
+            {
+                  "name": "Hardegger Warte",
+                  "text": "Un punct de observare în Parcul Național Thayatal, cu vedere spre orașul Hardegg.",
+                  "category": "natural",
+                  "coords": [
+                        15.860989,
+                        48.857428
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Burg Hardegg",
+                  "text": "A mighty castle complex above the Thaya, known for its well-preserved fortifications.",
+                  "category": "castle",
+                  "coords": [
+                        15.856877,
+                        48.853735
+                  ]
+            },
+            {
+                  "name": "Ruine Kaja",
+                  "text": "The ruins of a medieval hilltop castle in the Thayatal National Park.",
+                  "category": "castle",
+                  "coords": [
+                        15.888264,
+                        48.826634
+                  ]
+            },
+            {
+                  "name": "Schloss Karlslust",
+                  "text": "A baroque hunting lodge in the Thaya Valley, surrounded by an extensive park.",
+                  "category": "castle",
+                  "coords": [
+                        15.922762,
+                        48.814457
+                  ]
+            },
+            {
+                  "name": "Guckkastenmuseum",
+                  "text": "A museum in the Thaya Valley presenting the history and technique of peep boxes.",
+                  "category": "museum",
+                  "coords": [
+                        15.858186,
+                        48.854389
+                  ]
+            },
+            {
+                  "name": "ehem. Zollhaus",
+                  "text": "A small museum housed in a former customs house on the Austrian-Czech border.",
+                  "category": "museum",
+                  "coords": [
+                        15.86231,
+                        48.852548
+                  ]
+            },
+            {
+                  "name": "Waldbad Hardegg",
+                  "text": "An outdoor swimming pool in Hardegg, offering recreation in the middle of the national park.",
+                  "category": "recreational",
+                  "coords": [
+                        15.850037,
+                        48.853763
+                  ]
+            },
+            {
+                  "name": "Nový Hrádek",
+                  "text": "The impressive ruins of a double castle in the Thaya Valley, near the Czech border.",
+                  "category": "historical",
+                  "coords": [
+                        15.906216,
+                        48.837267
+                  ]
+            },
+            {
+                  "name": "Hardegg vista",
+                  "text": "A viewpoint in the Thayatal National Park with a view of the town of Hardegg.",
+                  "category": "natural",
+                  "coords": [
+                        15.860989,
+                        48.857428
+                  ]
+            }
+      ]
+},
     "type": "landmark",
     "parent": "AT-3",
     "coords": [
@@ -15023,7 +25382,304 @@ export const austriaCities: POI[] = [
     },
   },
   {
-    "id": "at-oetztal",
+    "id": "at-oetztal", "sights": {
+      "de": [
+            {
+                  "name": "Puitkogel",
+                  "text": "Ein markanter Berggipfel in den Ötztaler Alpen mit einer Höhe von 3.343 Metern.",
+                  "category": "landmark",
+                  "coords": [
+                        10.901199,
+                        46.981466
+                  ]
+            },
+            {
+                  "name": "Wassertalkogel",
+                  "text": "Ein Gipfel im Geigenkamm der Ötztaler Alpen, der bei erfahrenen Bergsteigern beliebt ist.",
+                  "category": "landmark",
+                  "coords": [
+                        10.905262,
+                        46.967066
+                  ]
+            },
+            {
+                  "name": "Ampferkogel",
+                  "text": "Ein Berggipfel in der Geigenkamm-Untergruppe der Ötztaler Alpen in Tirol.",
+                  "category": "landmark",
+                  "coords": [
+                        10.913539,
+                        46.996417
+                  ]
+            },
+            {
+                  "name": "Fotzenkarstange",
+                  "text": "Ein hoher Berggipfel in den österreichischen Alpen, gelegen in der Region Ötztal.",
+                  "category": "landmark",
+                  "coords": [
+                        10.927649,
+                        46.99637
+                  ]
+            },
+            {
+                  "name": "Hohe Geige",
+                  "text": "Der höchste Berg des Geigenkamms in den Ötztaler Alpen mit beeindruckender Panoramaaussicht.",
+                  "category": "landmark",
+                  "coords": [
+                        10.908649,
+                        47.004808
+                  ]
+            },
+            {
+                  "name": "Hundstalkogel",
+                  "text": "Ein Gipfel in den Ötztaler Alpen, der für sein schroffes Gelände und anspruchsvolle Kletterrouten bekannt ist.",
+                  "category": "landmark",
+                  "coords": [
+                        10.892966,
+                        47.032698
+                  ]
+            },
+            {
+                  "name": "Sturpen",
+                  "text": "Ein Berggipfel in der Region Ötztal, Teil der malerischen Alpinlandschaft Tirols.",
+                  "category": "landmark",
+                  "coords": [
+                        10.883278,
+                        47.023423
+                  ]
+            },
+            {
+                  "name": "Gahwinden",
+                  "text": "Ein malerischer Aussichtspunkt im Ötztal mit weitem Blick auf die umliegenden Gletscher und Gipfel.",
+                  "category": "natural",
+                  "coords": [
+                        10.88732,
+                        47.000402
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Puitkogel",
+                  "text": "Jellegzetes hegycsúcs az Ötztali-Alpokban, amely 3343 méteres magasságba nyúlik.",
+                  "category": "landmark",
+                  "coords": [
+                        10.901199,
+                        46.981466
+                  ]
+            },
+            {
+                  "name": "Wassertalkogel",
+                  "text": "Az Ötztali-Alpok Geigenkamm-vonulatának egyik csúcsa, amely kedvelt a tapasztalt hegymászók körében.",
+                  "category": "landmark",
+                  "coords": [
+                        10.905262,
+                        46.967066
+                  ]
+            },
+            {
+                  "name": "Ampferkogel",
+                  "text": "Hegycsúcs Tirolban, az Ötztali-Alpok Geigenkamm nevű hegygerincén.",
+                  "category": "landmark",
+                  "coords": [
+                        10.913539,
+                        46.996417
+                  ]
+            },
+            {
+                  "name": "Fotzenkarstange",
+                  "text": "Magas hegycsúcs az osztrák Alpokban, az Ötztal régió területén.",
+                  "category": "landmark",
+                  "coords": [
+                        10.927649,
+                        46.99637
+                  ]
+            },
+            {
+                  "name": "Hohe Geige",
+                  "text": "Az Ötztali-Alpok Geigenkamm-vonulatának legmagasabb hegye, ahonnan lenyűgöző panoráma nyílik.",
+                  "category": "landmark",
+                  "coords": [
+                        10.908649,
+                        47.004808
+                  ]
+            },
+            {
+                  "name": "Hundstalkogel",
+                  "text": "Az Ötztali-Alpok egyik csúcsa, amely zord terepéről és nehéz mászóútvonalairól ismert.",
+                  "category": "landmark",
+                  "coords": [
+                        10.892966,
+                        47.032698
+                  ]
+            },
+            {
+                  "name": "Sturpen",
+                  "text": "Hegycsúcs az Ötztal régióban, Tirol festői alpesi tájának része.",
+                  "category": "landmark",
+                  "coords": [
+                        10.883278,
+                        47.023423
+                  ]
+            },
+            {
+                  "name": "Gahwinden",
+                  "text": "Festői kilátóhely az Ötztal-völgyben, ahonnan pazar kilátás nyílik a környező gleccserekre és csúcsokra.",
+                  "category": "natural",
+                  "coords": [
+                        10.88732,
+                        47.000402
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Puitkogel",
+                  "text": "Un vârf montan proeminent din Alpii Ötztal, atingând o altitudine de 3.343 de metri.",
+                  "category": "landmark",
+                  "coords": [
+                        10.901199,
+                        46.981466
+                  ]
+            },
+            {
+                  "name": "Wassertalkogel",
+                  "text": "Un vârf din creasta Geigenkamm a Alpilor Ötztal, popular printre alpiniștii experimentați.",
+                  "category": "landmark",
+                  "coords": [
+                        10.905262,
+                        46.967066
+                  ]
+            },
+            {
+                  "name": "Ampferkogel",
+                  "text": "Un vârf montan situat în subgrupa Geigenkamm a Alpilor Ötztal din Tirol.",
+                  "category": "landmark",
+                  "coords": [
+                        10.913539,
+                        46.996417
+                  ]
+            },
+            {
+                  "name": "Fotzenkarstange",
+                  "text": "Un vârf montan înalt din Alpii austrieci, situat în regiunea Ötztal.",
+                  "category": "landmark",
+                  "coords": [
+                        10.927649,
+                        46.99637
+                  ]
+            },
+            {
+                  "name": "Hohe Geige",
+                  "text": "Cel mai înalt munte din creasta Geigenkamm a Alpilor Ötztal, oferind vederi panoramice impresionante.",
+                  "category": "landmark",
+                  "coords": [
+                        10.908649,
+                        47.004808
+                  ]
+            },
+            {
+                  "name": "Hundstalkogel",
+                  "text": "Un vârf din Alpii Ötztal, cunoscut pentru terenul său accidentat și rutele de cățărare provocatoare.",
+                  "category": "landmark",
+                  "coords": [
+                        10.892966,
+                        47.032698
+                  ]
+            },
+            {
+                  "name": "Sturpen",
+                  "text": "Un vârf montan din regiunea Ötztal, parte a peisajului alpin pitoresc din Tirol.",
+                  "category": "landmark",
+                  "coords": [
+                        10.883278,
+                        47.023423
+                  ]
+            },
+            {
+                  "name": "Gahwinden",
+                  "text": "Un punct de belvedere pitoresc din valea Ötztal, oferind vederi panoramice asupra ghețarilor și vârfurilor din jur.",
+                  "category": "natural",
+                  "coords": [
+                        10.88732,
+                        47.000402
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Puitkogel",
+                  "text": "A prominent mountain peak in the Ötztal Alps, reaching an elevation of 3,343 meters.",
+                  "category": "landmark",
+                  "coords": [
+                        10.901199,
+                        46.981466
+                  ]
+            },
+            {
+                  "name": "Wassertalkogel",
+                  "text": "A peak in the Geigenkamm range of the Ötztal Alps, popular among experienced mountaineers.",
+                  "category": "landmark",
+                  "coords": [
+                        10.905262,
+                        46.967066
+                  ]
+            },
+            {
+                  "name": "Ampferkogel",
+                  "text": "A mountain peak located in the Geigenkamm subgroup of the Ötztal Alps in Tyrol.",
+                  "category": "landmark",
+                  "coords": [
+                        10.913539,
+                        46.996417
+                  ]
+            },
+            {
+                  "name": "Fotzenkarstange",
+                  "text": "A high mountain peak in the Austrian Alps, situated within the Ötztal region.",
+                  "category": "landmark",
+                  "coords": [
+                        10.927649,
+                        46.99637
+                  ]
+            },
+            {
+                  "name": "Hohe Geige",
+                  "text": "The highest mountain of the Geigenkamm range in the Ötztal Alps, offering impressive panoramic views.",
+                  "category": "landmark",
+                  "coords": [
+                        10.908649,
+                        47.004808
+                  ]
+            },
+            {
+                  "name": "Hundstalkogel",
+                  "text": "A summit in the Ötztal Alps known for its rugged terrain and challenging climbing routes.",
+                  "category": "landmark",
+                  "coords": [
+                        10.892966,
+                        47.032698
+                  ]
+            },
+            {
+                  "name": "Sturpen",
+                  "text": "A mountain peak in the Ötztal region, part of the scenic alpine landscape of Tyrol.",
+                  "category": "landmark",
+                  "coords": [
+                        10.883278,
+                        47.023423
+                  ]
+            },
+            {
+                  "name": "Gahwinden",
+                  "text": "A scenic viewpoint in the Ötztal valley offering sweeping views of the surrounding glaciers and peaks.",
+                  "category": "natural",
+                  "coords": [
+                        10.88732,
+                        47.000402
+                  ]
+            }
+      ]
+},
     "type": "mountain",
     "parent": "AT-7",
     "coords": [
@@ -15159,7 +25815,196 @@ export const austriaCities: POI[] = [
     },
   },
   {
-    "id": "at-donau-auen-np",
+    "id": "at-donau-auen-np", "sights": {
+      "de": [
+            {
+                  "name": "Schiffmühle Orth",
+                  "text": "Eine originalgetreu rekonstruierte Schiffmühle an der Donau bei Orth.",
+                  "category": "museum",
+                  "coords": [
+                        16.711213,
+                        48.123476
+                  ]
+            },
+            {
+                  "name": "museumORTH",
+                  "text": "Das lokale Museum im Schloss Orth befasst sich mit der Geschichte der Region.",
+                  "category": "museum",
+                  "coords": [
+                        16.701117,
+                        48.144357
+                  ]
+            },
+            {
+                  "name": "Nationalpark Donau-Auen",
+                  "text": "Einer der größten verbliebenen Donau-Auen-Nationalparks in Mitteleuropa.",
+                  "category": "natural",
+                  "coords": [
+                        16.715299,
+                        48.145052
+                  ]
+            },
+            {
+                  "name": "Schloss Orth an der Donau, Wohnungstrakt",
+                  "text": "Ein Teil der historischen Schlossanlage von Orth an der Donau.",
+                  "category": "castle",
+                  "coords": [
+                        16.700217,
+                        48.144608
+                  ]
+            },
+            {
+                  "name": "Rex Regum",
+                  "text": "Ein modernes religiöses Denkmal in der Nähe von Orth an der Donau.",
+                  "category": "historical",
+                  "coords": [
+                        16.690212,
+                        48.108741
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Schiffmühle Orth",
+                  "text": "Hűen rekonstruált hajómalom a Dunán, Orth közelében.",
+                  "category": "museum",
+                  "coords": [
+                        16.711213,
+                        48.123476
+                  ]
+            },
+            {
+                  "name": "museumORTH",
+                  "text": "Az orthi kastélyban található helyi múzeum a régió történelmével foglalkozik.",
+                  "category": "museum",
+                  "coords": [
+                        16.701117,
+                        48.144357
+                  ]
+            },
+            {
+                  "name": "Nationalpark Donau-Auen",
+                  "text": "Közép-Európa egyik legnagyobb megmaradt ártéri nemzeti parkja a Duna mentén.",
+                  "category": "natural",
+                  "coords": [
+                        16.715299,
+                        48.145052
+                  ]
+            },
+            {
+                  "name": "Schloss Orth an der Donau, Wohnungstrakt",
+                  "text": "Az Orth an der Donau-i történelmi kastélyegyüttes része.",
+                  "category": "castle",
+                  "coords": [
+                        16.700217,
+                        48.144608
+                  ]
+            },
+            {
+                  "name": "Rex Regum",
+                  "text": "Modern vallási emlékmű Orth an der Donau közelében.",
+                  "category": "historical",
+                  "coords": [
+                        16.690212,
+                        48.108741
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Schiffmühle Orth",
+                  "text": "O moară pe apă reconstruită fidel pe Dunăre, lângă Orth.",
+                  "category": "museum",
+                  "coords": [
+                        16.711213,
+                        48.123476
+                  ]
+            },
+            {
+                  "name": "museumORTH",
+                  "text": "Muzeul local din castelul Orth se ocupă de istoria regiunii.",
+                  "category": "museum",
+                  "coords": [
+                        16.701117,
+                        48.144357
+                  ]
+            },
+            {
+                  "name": "Nationalpark Donau-Auen",
+                  "text": "Unul dintre cele mai mari parcuri naționale de luncă a Dunării rămase în Europa Centrală.",
+                  "category": "natural",
+                  "coords": [
+                        16.715299,
+                        48.145052
+                  ]
+            },
+            {
+                  "name": "Schloss Orth an der Donau, Wohnungstrakt",
+                  "text": "O parte a complexului istoric al castelului din Orth an der Donau.",
+                  "category": "castle",
+                  "coords": [
+                        16.700217,
+                        48.144608
+                  ]
+            },
+            {
+                  "name": "Rex Regum",
+                  "text": "Un monument religios modern situat în apropiere de Orth an der Donau.",
+                  "category": "historical",
+                  "coords": [
+                        16.690212,
+                        48.108741
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Schiffmühle Orth",
+                  "text": "A faithfully reconstructed ship mill on the Danube near Orth.",
+                  "category": "museum",
+                  "coords": [
+                        16.711213,
+                        48.123476
+                  ]
+            },
+            {
+                  "name": "museumORTH",
+                  "text": "The local museum located in Orth Castle deals with the history of the region.",
+                  "category": "museum",
+                  "coords": [
+                        16.701117,
+                        48.144357
+                  ]
+            },
+            {
+                  "name": "Donau-Auen National Park",
+                  "text": "One of the largest remaining Danube wetlands national parks in Central Europe.",
+                  "category": "natural",
+                  "coords": [
+                        16.715299,
+                        48.145052
+                  ]
+            },
+            {
+                  "name": "Schloss Orth an der Donau, Wohnungstrakt",
+                  "text": "A part of the historic castle complex of Orth an der Donau.",
+                  "category": "castle",
+                  "coords": [
+                        16.700217,
+                        48.144608
+                  ]
+            },
+            {
+                  "name": "Rex Regum",
+                  "text": "A modern religious monument located near Orth an der Donau.",
+                  "category": "historical",
+                  "coords": [
+                        16.690212,
+                        48.108741
+                  ]
+            }
+      ]
+},
     "type": "landmark",
     "parent": "AT-3",
     "coords": [
@@ -15295,7 +26140,268 @@ export const austriaCities: POI[] = [
     },
   },
   {
-    "id": "at-stift-admont",
+    "id": "at-stift-admont", "sights": {
+      "de": [
+            {
+                  "name": "Stiftsbibliothek Admont",
+                  "text": "Die weltgrößte Klosterbibliothek beeindruckt mit prachtvoller barocker Architektur und Fresken.",
+                  "category": "museum",
+                  "coords": [
+                        14.463393,
+                        47.574487
+                  ]
+            },
+            {
+                  "name": "Schloss Röthelstein",
+                  "text": "Dieses barocke Schloss thront über Admont und dient heute als Tagungszentrum.",
+                  "category": "castle",
+                  "coords": [
+                        14.452927,
+                        47.566699
+                  ]
+            },
+            {
+                  "name": "Freibad Hall",
+                  "text": "Ein lokales Freibad in Hall bei Admont für sommerliches Badevergnügen.",
+                  "category": "recreational",
+                  "coords": [
+                        14.456881,
+                        47.603342
+                  ]
+            },
+            {
+                  "name": "Dörfelstein",
+                  "text": "Ein markanter Berggipfel in der Region um das Stift Admont.",
+                  "category": "landmark",
+                  "coords": [
+                        14.478498,
+                        47.603687
+                  ]
+            },
+            {
+                  "name": "Leichenberg",
+                  "text": "Ein Berggipfel in der alpinen Landschaft nahe Admont.",
+                  "category": "landmark",
+                  "coords": [
+                        14.427173,
+                        47.591159
+                  ]
+            },
+            {
+                  "name": "Hahnstein",
+                  "text": "Ein Wanderziel mit Aussicht auf die umliegende Gebirgswelt von Admont.",
+                  "category": "landmark",
+                  "coords": [
+                        14.4879,
+                        47.547981
+                  ]
+            },
+            {
+                  "name": "Lärchkogel",
+                  "text": "Ein Berggipfel in den Ennstaler Alpen bei Admont.",
+                  "category": "landmark",
+                  "coords": [
+                        14.50487,
+                        47.560005
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Stiftsbibliothek Admont",
+                  "text": "A világ legnagyobb kolostori könyvtára lenyűgöző barokk építészetével és freskóival.",
+                  "category": "museum",
+                  "coords": [
+                        14.463393,
+                        47.574487
+                  ]
+            },
+            {
+                  "name": "Schloss Röthelstein",
+                  "text": "Ez a barokk kastély Admont felett magasodik, ma rendezvényközpontként működik.",
+                  "category": "castle",
+                  "coords": [
+                        14.452927,
+                        47.566699
+                  ]
+            },
+            {
+                  "name": "Freibad Hall",
+                  "text": "Helyi szabadtéri strand Admont közelében a nyári kikapcsolódáshoz.",
+                  "category": "recreational",
+                  "coords": [
+                        14.456881,
+                        47.603342
+                  ]
+            },
+            {
+                  "name": "Dörfelstein",
+                  "text": "Egy jellegzetes hegycsúcs az admonti apátság környékén.",
+                  "category": "landmark",
+                  "coords": [
+                        14.478498,
+                        47.603687
+                  ]
+            },
+            {
+                  "name": "Leichenberg",
+                  "text": "Hegycsúcs az Admont környéki alpesi tájon.",
+                  "category": "landmark",
+                  "coords": [
+                        14.427173,
+                        47.591159
+                  ]
+            },
+            {
+                  "name": "Hahnstein",
+                  "text": "Túraútvonal kilátással az Admont környéki hegyekre.",
+                  "category": "landmark",
+                  "coords": [
+                        14.4879,
+                        47.547981
+                  ]
+            },
+            {
+                  "name": "Lärchkogel",
+                  "text": "Hegycsúcs az Enns-völgyi Alpokban, Admont közelében.",
+                  "category": "landmark",
+                  "coords": [
+                        14.50487,
+                        47.560005
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Stiftsbibliothek Admont",
+                  "text": "Cea mai mare bibliotecă monahală din lume impresionează prin arhitectura barocă și frescele sale.",
+                  "category": "museum",
+                  "coords": [
+                        14.463393,
+                        47.574487
+                  ]
+            },
+            {
+                  "name": "Schloss Röthelstein",
+                  "text": "Acest castel baroc domină localitatea Admont și servește astăzi drept centru de conferințe.",
+                  "category": "castle",
+                  "coords": [
+                        14.452927,
+                        47.566699
+                  ]
+            },
+            {
+                  "name": "Freibad Hall",
+                  "text": "Un ștrand local în Hall lângă Admont pentru relaxare pe timp de vară.",
+                  "category": "recreational",
+                  "coords": [
+                        14.456881,
+                        47.603342
+                  ]
+            },
+            {
+                  "name": "Dörfelstein",
+                  "text": "Un vârf montan proeminent în regiunea din jurul abației Admont.",
+                  "category": "landmark",
+                  "coords": [
+                        14.478498,
+                        47.603687
+                  ]
+            },
+            {
+                  "name": "Leichenberg",
+                  "text": "Un vârf montan în peisajul alpin de lângă Admont.",
+                  "category": "landmark",
+                  "coords": [
+                        14.427173,
+                        47.591159
+                  ]
+            },
+            {
+                  "name": "Hahnstein",
+                  "text": "O destinație de drumeție cu vedere spre munții din jurul localității Admont.",
+                  "category": "landmark",
+                  "coords": [
+                        14.4879,
+                        47.547981
+                  ]
+            },
+            {
+                  "name": "Lärchkogel",
+                  "text": "Un vârf montan în Alpii Ennstal, lângă Admont.",
+                  "category": "landmark",
+                  "coords": [
+                        14.50487,
+                        47.560005
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Stiftsbibliothek Admont",
+                  "text": "The world's largest monastic library features stunning Baroque architecture and frescoes.",
+                  "category": "museum",
+                  "coords": [
+                        14.463393,
+                        47.574487
+                  ]
+            },
+            {
+                  "name": "Schloss Röthelstein",
+                  "text": "This Baroque castle overlooks Admont and now serves as a conference center.",
+                  "category": "castle",
+                  "coords": [
+                        14.452927,
+                        47.566699
+                  ]
+            },
+            {
+                  "name": "Freibad Hall",
+                  "text": "A local outdoor swimming pool in Hall near Admont for summer recreation.",
+                  "category": "recreational",
+                  "coords": [
+                        14.456881,
+                        47.603342
+                  ]
+            },
+            {
+                  "name": "Dörfelstein",
+                  "text": "A prominent mountain peak in the region around Admont Abbey.",
+                  "category": "landmark",
+                  "coords": [
+                        14.478498,
+                        47.603687
+                  ]
+            },
+            {
+                  "name": "Leichenberg",
+                  "text": "A mountain peak in the alpine landscape near Admont.",
+                  "category": "landmark",
+                  "coords": [
+                        14.427173,
+                        47.591159
+                  ]
+            },
+            {
+                  "name": "Hahnstein",
+                  "text": "A hiking destination offering views of the surrounding mountains of Admont.",
+                  "category": "landmark",
+                  "coords": [
+                        14.4879,
+                        47.547981
+                  ]
+            },
+            {
+                  "name": "Lärchkogel",
+                  "text": "A mountain peak in the Ennstal Alps near Admont.",
+                  "category": "landmark",
+                  "coords": [
+                        14.50487,
+                        47.560005
+                  ]
+            }
+      ]
+},
     "type": "historical",
     "parent": "AT-6",
     "coords": [
@@ -15499,7 +26605,268 @@ export const austriaCities: POI[] = [
     },
   },
   {
-    "id": "at-schladming-dachstein",
+    "id": "at-schladming-dachstein", "sights": {
+      "de": [
+            {
+                  "name": "Ramsauer Badeparadies",
+                  "text": "Ein Wasserpark in der Region Schladming-Dachstein, ideal für Familien und Freizeit.",
+                  "category": "recreational",
+                  "coords": [
+                        13.653581,
+                        47.420187
+                  ]
+            },
+            {
+                  "name": "Erlebnisbad Schladming",
+                  "text": "Ein modernes Erlebnisbad in Schladming mit Innen- und Außenbereichen.",
+                  "category": "recreational",
+                  "coords": [
+                        13.693901,
+                        47.39586
+                  ]
+            },
+            {
+                  "name": "Planai",
+                  "text": "Die Planai ist ein bekannter Skiberg und Wanderziel in den Schladminger Tauern.",
+                  "category": "landmark",
+                  "coords": [
+                        13.726362,
+                        47.368984
+                  ]
+            },
+            {
+                  "name": "Denkmal Stadtmauer",
+                  "text": "Ein Denkmal in Schladming, das an die historischen Reste der Stadtmauer erinnert.",
+                  "category": "landmark",
+                  "coords": [
+                        13.689825,
+                        47.393025
+                  ]
+            },
+            {
+                  "name": "Sattelberg",
+                  "text": "Der Sattelberg ist ein markanter Gipfel in der Region Schladming-Dachstein.",
+                  "category": "landmark",
+                  "coords": [
+                        13.706634,
+                        47.422321
+                  ]
+            },
+            {
+                  "name": "Evang. Peter-und-Paul-Kirche",
+                  "text": "Die evangelische Peter-und-Paul-Kirche ist ein bedeutendes religiöses Bauwerk in Schladming.",
+                  "category": "historical",
+                  "coords": [
+                        13.688874,
+                        47.390551
+                  ]
+            },
+            {
+                  "name": "Stadtmuseum",
+                  "text": "Das Stadtmuseum Schladming zeigt die lokale Bergbau- und Kulturgeschichte.",
+                  "category": "historical",
+                  "coords": [
+                        13.686358,
+                        47.390619
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Ramsauer Badeparadies",
+                  "text": "Egy vízi park a Schladming-Dachstein régióban, amely ideális családoknak és kikapcsolódásra.",
+                  "category": "recreational",
+                  "coords": [
+                        13.653581,
+                        47.420187
+                  ]
+            },
+            {
+                  "name": "Erlebnisbad Schladming",
+                  "text": "Egy modern élményfürdő Schladmingban, fedett és szabadtéri részlegekkel.",
+                  "category": "recreational",
+                  "coords": [
+                        13.693901,
+                        47.39586
+                  ]
+            },
+            {
+                  "name": "Planai",
+                  "text": "A Planai egy ismert síhegy és túracélpont a Schladmingi-Tauern hegységben.",
+                  "category": "landmark",
+                  "coords": [
+                        13.726362,
+                        47.368984
+                  ]
+            },
+            {
+                  "name": "Denkmal Stadtmauer",
+                  "text": "Emlékmű Schladmingban, amely a városfal történelmi maradványait jelzi.",
+                  "category": "landmark",
+                  "coords": [
+                        13.689825,
+                        47.393025
+                  ]
+            },
+            {
+                  "name": "Sattelberg",
+                  "text": "A Sattelberg egy jellegzetes csúcs a Schladming-Dachstein régióban.",
+                  "category": "landmark",
+                  "coords": [
+                        13.706634,
+                        47.422321
+                  ]
+            },
+            {
+                  "name": "Evang. Peter-und-Paul-Kirche",
+                  "text": "Az evangélikus Péter és Pál-templom Schladming jelentős vallási épülete.",
+                  "category": "historical",
+                  "coords": [
+                        13.688874,
+                        47.390551
+                  ]
+            },
+            {
+                  "name": "Stadtmuseum",
+                  "text": "A Schladming-i városi múzeum a helyi bányászat és kultúra történetét mutatja be.",
+                  "category": "historical",
+                  "coords": [
+                        13.686358,
+                        47.390619
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Ramsauer Badeparadies",
+                  "text": "Un parc acvatic în regiunea Schladming-Dachstein, ideal pentru familii și recreere.",
+                  "category": "recreational",
+                  "coords": [
+                        13.653581,
+                        47.420187
+                  ]
+            },
+            {
+                  "name": "Erlebnisbad Schladming",
+                  "text": "Un complex acvatic modern în Schladming, cu zone interioare și exterioare.",
+                  "category": "recreational",
+                  "coords": [
+                        13.693901,
+                        47.39586
+                  ]
+            },
+            {
+                  "name": "Planai",
+                  "text": "Planai este un munte renumit pentru schi și drumeții situat în Schladminger Tauern.",
+                  "category": "landmark",
+                  "coords": [
+                        13.726362,
+                        47.368984
+                  ]
+            },
+            {
+                  "name": "Denkmal Stadtmauer",
+                  "text": "Un monument în Schladming care marchează rămășițele istorice ale zidului cetății.",
+                  "category": "landmark",
+                  "coords": [
+                        13.689825,
+                        47.393025
+                  ]
+            },
+            {
+                  "name": "Sattelberg",
+                  "text": "Sattelberg este un vârf proeminent situat în regiunea Schladming-Dachstein.",
+                  "category": "landmark",
+                  "coords": [
+                        13.706634,
+                        47.422321
+                  ]
+            },
+            {
+                  "name": "Evang. Peter-und-Paul-Kirche",
+                  "text": "Biserica evanghelică Sf. Petru și Pavel este un edificiu religios important din Schladming.",
+                  "category": "historical",
+                  "coords": [
+                        13.688874,
+                        47.390551
+                  ]
+            },
+            {
+                  "name": "Stadtmuseum",
+                  "text": "Muzeul orașului Schladming prezintă istoria minieră și culturală locală.",
+                  "category": "historical",
+                  "coords": [
+                        13.686358,
+                        47.390619
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Ramsauer Badeparadies",
+                  "text": "A water park in the Schladming-Dachstein region, ideal for families and recreation.",
+                  "category": "recreational",
+                  "coords": [
+                        13.653581,
+                        47.420187
+                  ]
+            },
+            {
+                  "name": "Erlebnisbad Schladming",
+                  "text": "A modern adventure pool in Schladming featuring both indoor and outdoor sections.",
+                  "category": "recreational",
+                  "coords": [
+                        13.693901,
+                        47.39586
+                  ]
+            },
+            {
+                  "name": "Planai",
+                  "text": "The Planai is a well-known ski mountain and hiking destination in the Schladminger Tauern.",
+                  "category": "landmark",
+                  "coords": [
+                        13.726362,
+                        47.368984
+                  ]
+            },
+            {
+                  "name": "Denkmal Stadtmauer",
+                  "text": "A monument in Schladming marking the historic remains of the town wall.",
+                  "category": "landmark",
+                  "coords": [
+                        13.689825,
+                        47.393025
+                  ]
+            },
+            {
+                  "name": "Sattelberg",
+                  "text": "The Sattelberg is a prominent peak located in the Schladming-Dachstein region.",
+                  "category": "landmark",
+                  "coords": [
+                        13.706634,
+                        47.422321
+                  ]
+            },
+            {
+                  "name": "Evang. Peter-und-Paul-Kirche",
+                  "text": "The evangelical Peter and Paul Church is a significant religious building in Schladming.",
+                  "category": "historical",
+                  "coords": [
+                        13.688874,
+                        47.390551
+                  ]
+            },
+            {
+                  "name": "Stadtmuseum",
+                  "text": "The Schladming City Museum showcases the local mining and cultural history.",
+                  "category": "historical",
+                  "coords": [
+                        13.686358,
+                        47.390619
+                  ]
+            }
+      ]
+},
     "type": "mountain",
     "parent": "AT-6",
     "coords": [
@@ -15908,7 +27275,304 @@ export const austriaCities: POI[] = [
   }
   ,
   {
-    id: "at-historic-centre-vienna",
+    id: "at-historic-centre-vienna", "sights": {
+      "de": [
+            {
+                  "name": "Rabenhof",
+                  "text": "Ein beliebtes Theater in einem historischen Gemeindebau im 3. Wiener Gemeindebezirk.",
+                  "category": "cultural",
+                  "coords": [
+                        16.401665,
+                        48.19582
+                  ]
+            },
+            {
+                  "name": "Metropol",
+                  "text": "Ein vielseitiger Veranstaltungsort und Theater in Wien, bekannt für Musicals und Konzerte.",
+                  "category": "cultural",
+                  "coords": [
+                        16.33422,
+                        48.217006
+                  ]
+            },
+            {
+                  "name": "Theater im Zentrum",
+                  "text": "Ein bedeutendes Kinder- und Jugendtheater im Herzen von Wien.",
+                  "category": "cultural",
+                  "coords": [
+                        16.372964,
+                        48.207203
+                  ]
+            },
+            {
+                  "name": "Bank Austria Kunstforum",
+                  "text": "Ein Ausstellungsraum in Wien, berühmt für seine großen Retrospektiven moderner Kunst.",
+                  "category": "museum",
+                  "coords": [
+                        16.366258,
+                        48.211441
+                  ]
+            },
+            {
+                  "name": "Architekturzentrum Wien",
+                  "text": "Österreichs nationales Museum und Ausstellungszentrum für Architektur und Stadtplanung.",
+                  "category": "museum",
+                  "coords": [
+                        16.357616,
+                        48.204179
+                  ]
+            },
+            {
+                  "name": "Pfadfindermuseum",
+                  "text": "Ein Museum in Wien, das der Geschichte der Pfadfinderbewegung gewidmet ist.",
+                  "category": "museum",
+                  "coords": [
+                        16.325881,
+                        48.199936
+                  ]
+            },
+            {
+                  "name": "Kammerspiele",
+                  "text": "Ein Traditionstheater in der Wiener Innenstadt, bekannt für Boulevardstücke und Komödien.",
+                  "category": "cultural",
+                  "coords": [
+                        16.375983,
+                        48.211105
+                  ]
+            },
+            {
+                  "name": "Jüdisches Museum Wien",
+                  "text": "Ein Museum zur Geschichte, Kultur und zum Leben der jüdischen Gemeinde in Wien.",
+                  "category": "museum",
+                  "coords": [
+                        16.369293,
+                        48.20713
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Rabenhof",
+                  "text": "Népszerű színház egy történelmi önkormányzati lakóépületben Bécs 3. kerületében.",
+                  "category": "cultural",
+                  "coords": [
+                        16.401665,
+                        48.19582
+                  ]
+            },
+            {
+                  "name": "Metropol",
+                  "text": "Sokoldalú szórakoztatóhely és színház Bécsben, amely musicaljeiről és koncertjeiről ismert.",
+                  "category": "cultural",
+                  "coords": [
+                        16.33422,
+                        48.217006
+                  ]
+            },
+            {
+                  "name": "Theater im Zentrum",
+                  "text": "Jelentős gyermek- és ifjúsági színház Bécs szívében.",
+                  "category": "cultural",
+                  "coords": [
+                        16.372964,
+                        48.207203
+                  ]
+            },
+            {
+                  "name": "Bank Austria kortárs művészeti fórum",
+                  "text": "Kiállítóhely Bécsben, amely a modern művészet nagy retrospektív tárlatairól híres.",
+                  "category": "museum",
+                  "coords": [
+                        16.366258,
+                        48.211441
+                  ]
+            },
+            {
+                  "name": "Bécsi Építészeti Központ",
+                  "text": "Ausztria nemzeti építészeti és várostervezési múzeuma és kiállítóhelye.",
+                  "category": "museum",
+                  "coords": [
+                        16.357616,
+                        48.204179
+                  ]
+            },
+            {
+                  "name": "Pfadfindermuseum",
+                  "text": "Bécsi múzeum, amely a cserkészmozgalom történetét mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        16.325881,
+                        48.199936
+                  ]
+            },
+            {
+                  "name": "Kammerspiele",
+                  "text": "Hagyományos színház Bécs belvárosában, amely bulvárdarabjairól és vígjátékairól ismert.",
+                  "category": "cultural",
+                  "coords": [
+                        16.375983,
+                        48.211105
+                  ]
+            },
+            {
+                  "name": "Bécsi Zsidó Múzeum",
+                  "text": "A bécsi zsidó közösség történelmét, kultúráját és életét bemutató múzeum.",
+                  "category": "museum",
+                  "coords": [
+                        16.369293,
+                        48.20713
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Rabenhof",
+                  "text": "Un teatru popular situat într-un complex istoric de locuințe municipale din districtul 3 al Vienei.",
+                  "category": "cultural",
+                  "coords": [
+                        16.401665,
+                        48.19582
+                  ]
+            },
+            {
+                  "name": "Metropol",
+                  "text": "O locație versatilă de divertisment și teatru din Viena, cunoscută pentru musicaluri și concerte.",
+                  "category": "cultural",
+                  "coords": [
+                        16.33422,
+                        48.217006
+                  ]
+            },
+            {
+                  "name": "Theater im Zentrum",
+                  "text": "Un important teatru pentru copii și tineret situat în inima Vienei.",
+                  "category": "cultural",
+                  "coords": [
+                        16.372964,
+                        48.207203
+                  ]
+            },
+            {
+                  "name": "Bank Austria Kunstforum",
+                  "text": "Un spațiu expozițional din Viena, renumit pentru marile sale retrospective de artă modernă.",
+                  "category": "museum",
+                  "coords": [
+                        16.366258,
+                        48.211441
+                  ]
+            },
+            {
+                  "name": "Architekturzentrum Wien",
+                  "text": "Muzeul național și centrul expozițional al Austriei dedicat arhitecturii și designului urban.",
+                  "category": "museum",
+                  "coords": [
+                        16.357616,
+                        48.204179
+                  ]
+            },
+            {
+                  "name": "Pfadfindermuseum",
+                  "text": "Un muzeu din Viena dedicat istoriei mișcării cercetașilor.",
+                  "category": "museum",
+                  "coords": [
+                        16.325881,
+                        48.199936
+                  ]
+            },
+            {
+                  "name": "Kammerspiele",
+                  "text": "Un teatru tradițional din centrul Vienei, cunoscut pentru piesele de bulevard și comedii.",
+                  "category": "cultural",
+                  "coords": [
+                        16.375983,
+                        48.211105
+                  ]
+            },
+            {
+                  "name": "Jüdisches Museum Wien",
+                  "text": "Un muzeu care prezintă istoria, cultura și viața comunității evreiești din Viena.",
+                  "category": "museum",
+                  "coords": [
+                        16.369293,
+                        48.20713
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Rabenhof",
+                  "text": "A popular theatre located in a historic municipal housing complex in Vienna's 3rd district.",
+                  "category": "cultural",
+                  "coords": [
+                        16.401665,
+                        48.19582
+                  ]
+            },
+            {
+                  "name": "Metropol",
+                  "text": "A versatile entertainment venue and theatre in Vienna known for its musicals and concerts.",
+                  "category": "cultural",
+                  "coords": [
+                        16.33422,
+                        48.217006
+                  ]
+            },
+            {
+                  "name": "Theater im Zentrum",
+                  "text": "A prominent children's and youth theatre located in the heart of Vienna.",
+                  "category": "cultural",
+                  "coords": [
+                        16.372964,
+                        48.207203
+                  ]
+            },
+            {
+                  "name": "Bank Austria Kunstforum",
+                  "text": "An exhibition space in Vienna famous for its major retrospectives of modern art.",
+                  "category": "museum",
+                  "coords": [
+                        16.366258,
+                        48.211441
+                  ]
+            },
+            {
+                  "name": "Architecture Centre Vienna",
+                  "text": "Austria's national museum and exhibition center dedicated to architecture and urban design.",
+                  "category": "museum",
+                  "coords": [
+                        16.357616,
+                        48.204179
+                  ]
+            },
+            {
+                  "name": "Pfadfindermuseum",
+                  "text": "A museum in Vienna dedicated to the history of the scouting movement.",
+                  "category": "museum",
+                  "coords": [
+                        16.325881,
+                        48.199936
+                  ]
+            },
+            {
+                  "name": "Kammerspiele",
+                  "text": "A traditional theatre in Vienna's inner city, known for its boulevard plays and comedies.",
+                  "category": "cultural",
+                  "coords": [
+                        16.375983,
+                        48.211105
+                  ]
+            },
+            {
+                  "name": "Jewish Museum Vienna",
+                  "text": "A museum chronicling the history, culture, and life of the Jewish community in Vienna.",
+                  "category": "museum",
+                  "coords": [
+                        16.369293,
+                        48.20713
+                  ]
+            }
+      ]
+},
     type: "historical",
     parent: "AT",
     coords: [16.3738, 48.2082],
@@ -16084,7 +27748,232 @@ export const austriaCities: POI[] = [
     },
   },
   {
-    id: "at-burg-aggstein",
+    id: "at-burg-aggstein", "sights": {
+      "de": [
+            {
+                  "name": "Kartause Aggsbach",
+                  "text": "Ein ehemaliges Kartäuserkloster aus dem 14. Jahrhundert in Niederösterreich.",
+                  "category": "religious",
+                  "coords": [
+                        15.424355,
+                        48.294157
+                  ]
+            },
+            {
+                  "name": "Venus-Fundstelle",
+                  "text": "Der Fundort der berühmten prähistorischen Statuette Venus von Willendorf.",
+                  "category": "historical",
+                  "coords": [
+                        15.404266,
+                        48.323397
+                  ]
+            },
+            {
+                  "name": "Schloss Grabenhof",
+                  "text": "Ein historisches Schlossgebäude in der Wachau-Region in Niederösterreich.",
+                  "category": "castle",
+                  "coords": [
+                        15.471325,
+                        48.300696
+                  ]
+            },
+            {
+                  "name": "Schloss Gurhof",
+                  "text": "Ein barockes Landschloss in der niederösterreichischen Gemeinde Dunkelsteinerwald.",
+                  "category": "castle",
+                  "coords": [
+                        15.467883,
+                        48.29227
+                  ]
+            },
+            {
+                  "name": "Burgruine Aggstein",
+                  "text": "Eine imposante Burgruine hoch über der Donau mit weitem Blick über die Wachau.",
+                  "category": "castle",
+                  "coords": [
+                        15.421511,
+                        48.313899
+                  ]
+            },
+            {
+                  "name": "Mineralienzentrum Steinstadel",
+                  "text": "Ein Museum in Aggsbach Dorf, das eine Vielfalt an regionalen Mineralien zeigt.",
+                  "category": "museum",
+                  "coords": [
+                        15.424888,
+                        48.295541
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Kartause Aggsbach",
+                  "text": "Egykori 14. századi karthauzi kolostor Alsó-Ausztriában.",
+                  "category": "religious",
+                  "coords": [
+                        15.424355,
+                        48.294157
+                  ]
+            },
+            {
+                  "name": "Venus-Fundstelle",
+                  "text": "A híres őskori szobrocska, a Willendorfi Vénusz lelőhelye.",
+                  "category": "historical",
+                  "coords": [
+                        15.404266,
+                        48.323397
+                  ]
+            },
+            {
+                  "name": "Schloss Grabenhof",
+                  "text": "Történelmi kastélyépület az alsó-ausztriai Wachau régióban.",
+                  "category": "castle",
+                  "coords": [
+                        15.471325,
+                        48.300696
+                  ]
+            },
+            {
+                  "name": "Schloss Gurhof",
+                  "text": "Barokk vidéki kastély az alsó-ausztriai Dunkelsteinerwald községben.",
+                  "category": "castle",
+                  "coords": [
+                        15.467883,
+                        48.29227
+                  ]
+            },
+            {
+                  "name": "Burgruine Aggstein",
+                  "text": "Impozáns várrom a Duna felett, ahonnan pazar kilátás nyílik a Wachaura.",
+                  "category": "castle",
+                  "coords": [
+                        15.421511,
+                        48.313899
+                  ]
+            },
+            {
+                  "name": "Mineralienzentrum Steinstadel",
+                  "text": "Aggsbach Dorfban található múzeum, amely helyi ásványokat mutat be.",
+                  "category": "museum",
+                  "coords": [
+                        15.424888,
+                        48.295541
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Kartause Aggsbach",
+                  "text": "O fostă mănăstire cartusiană din secolul al XIV-lea în Austria Inferioară.",
+                  "category": "religious",
+                  "coords": [
+                        15.424355,
+                        48.294157
+                  ]
+            },
+            {
+                  "name": "Venus-Fundstelle",
+                  "text": "Locul unde a fost descoperită celebra statuetă preistorică Venus din Willendorf.",
+                  "category": "historical",
+                  "coords": [
+                        15.404266,
+                        48.323397
+                  ]
+            },
+            {
+                  "name": "Schloss Grabenhof",
+                  "text": "O clădire istorică de castel situată în regiunea Wachau din Austria Inferioară.",
+                  "category": "castle",
+                  "coords": [
+                        15.471325,
+                        48.300696
+                  ]
+            },
+            {
+                  "name": "Schloss Gurhof",
+                  "text": "Un castel baroc situat în comuna Dunkelsteinerwald din Austria Inferioară.",
+                  "category": "castle",
+                  "coords": [
+                        15.467883,
+                        48.29227
+                  ]
+            },
+            {
+                  "name": "Burgruine Aggstein",
+                  "text": "O ruină de castel impunătoare deasupra Dunării, oferind o vedere panoramică asupra regiunii Wachau.",
+                  "category": "castle",
+                  "coords": [
+                        15.421511,
+                        48.313899
+                  ]
+            },
+            {
+                  "name": "Mineralienzentrum Steinstadel",
+                  "text": "Un muzeu din Aggsbach Dorf care expune o varietate de minerale regionale.",
+                  "category": "museum",
+                  "coords": [
+                        15.424888,
+                        48.295541
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Kartause Aggsbach",
+                  "text": "A former 14th-century Carthusian monastery in Lower Austria.",
+                  "category": "religious",
+                  "coords": [
+                        15.424355,
+                        48.294157
+                  ]
+            },
+            {
+                  "name": "Venus-Fundstelle",
+                  "text": "The discovery site of the famous prehistoric statuette, the Venus of Willendorf.",
+                  "category": "historical",
+                  "coords": [
+                        15.404266,
+                        48.323397
+                  ]
+            },
+            {
+                  "name": "Schloss Grabenhof",
+                  "text": "A historical castle building located in the Wachau region of Lower Austria.",
+                  "category": "castle",
+                  "coords": [
+                        15.471325,
+                        48.300696
+                  ]
+            },
+            {
+                  "name": "Schloss Gurhof",
+                  "text": "A Baroque country castle in the Lower Austrian municipality of Dunkelsteinerwald.",
+                  "category": "castle",
+                  "coords": [
+                        15.467883,
+                        48.29227
+                  ]
+            },
+            {
+                  "name": "Burgruine Aggstein",
+                  "text": "An impressive castle ruin high above the Danube, offering wide views over the Wachau.",
+                  "category": "castle",
+                  "coords": [
+                        15.421511,
+                        48.313899
+                  ]
+            },
+            {
+                  "name": "Mineralienzentrum Steinstadel",
+                  "text": "A museum in Aggsbach Dorf showcasing a variety of regional minerals.",
+                  "category": "museum",
+                  "coords": [
+                        15.424888,
+                        48.295541
+                  ]
+            }
+      ]
+},
     type: "historical",
     parent: "AT",
     coords: [15.4369, 48.3094],
@@ -16172,7 +28061,268 @@ export const austriaCities: POI[] = [
     },
   },
   {
-    id: "at-burg-heidenreichstein",
+    id: "at-burg-heidenreichstein", "sights": {
+      "de": [
+            {
+                  "name": "Burg Heidenreichstein",
+                  "text": "Eine gut erhaltene mittelalterliche Wasserburg, die in ihrer Geschichte nie erobert wurde.",
+                  "category": "castle",
+                  "coords": [
+                        15.121648,
+                        48.864403
+                  ]
+            },
+            {
+                  "name": "Gemeindeau",
+                  "text": "Ein Naturgebiet und Feuchtgebietsschutzgebiet in der Nähe von Heidenreichstein.",
+                  "category": "natural",
+                  "coords": [
+                        15.144988,
+                        48.852638
+                  ]
+            },
+            {
+                  "name": "Moor und Torfmuseum",
+                  "text": "Ein Museum, das der lokalen Moorökologie und der Geschichte des Torfabbaus gewidmet ist.",
+                  "category": "museum",
+                  "coords": [
+                        15.112121,
+                        48.862174
+                  ]
+            },
+            {
+                  "name": "Theater unterm Giebel",
+                  "text": "Ein lokales Theater in Heidenreichstein, in dem verschiedene Aufführungen stattfinden.",
+                  "category": "cultural",
+                  "coords": [
+                        15.12381,
+                        48.86767
+                  ]
+            },
+            {
+                  "name": "Streichelzoo",
+                  "text": "Ein familienfreundlicher Streichelzoo, in dem Besucher mit Haustieren interagieren können.",
+                  "category": "recreational",
+                  "coords": [
+                        15.120143,
+                        48.873436
+                  ]
+            },
+            {
+                  "name": "Geyersteine",
+                  "text": "Markante Felsformationen im Waldgebiet bei Heidenreichstein.",
+                  "category": "landmark",
+                  "coords": [
+                        15.069774,
+                        48.870091
+                  ]
+            },
+            {
+                  "name": "Neuteichberg",
+                  "text": "Ein kleiner bewaldeter Gipfel in der Nähe von Heidenreichstein mit Wanderwegen.",
+                  "category": "landmark",
+                  "coords": [
+                        15.129119,
+                        48.847788
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Burg Heidenreichstein",
+                  "text": "Egy jól megőrzött középkori vízi vár, amelyet története során soha nem hódítottak meg.",
+                  "category": "castle",
+                  "coords": [
+                        15.121648,
+                        48.864403
+                  ]
+            },
+            {
+                  "name": "Gemeindeau",
+                  "text": "Heidenreichstein közelében található természeti terület és mocsári rezervátum.",
+                  "category": "natural",
+                  "coords": [
+                        15.144988,
+                        48.852638
+                  ]
+            },
+            {
+                  "name": "Moor und Torfmuseum",
+                  "text": "A helyi lápvidéki ökológiának és a tőzegkitermelés történetének szentelt múzeum.",
+                  "category": "museum",
+                  "coords": [
+                        15.112121,
+                        48.862174
+                  ]
+            },
+            {
+                  "name": "Theater unterm Giebel",
+                  "text": "Helyi színház Heidenreichsteinben, amely különféle előadásoknak ad otthont.",
+                  "category": "cultural",
+                  "coords": [
+                        15.12381,
+                        48.86767
+                  ]
+            },
+            {
+                  "name": "Streichelzoo",
+                  "text": "Családbarát állatsimogató, ahol a látogatók háziállatokkal ismerkedhetnek meg.",
+                  "category": "recreational",
+                  "coords": [
+                        15.120143,
+                        48.873436
+                  ]
+            },
+            {
+                  "name": "Geyersteine",
+                  "text": "Jellegzetes sziklaalakzatok a Heidenreichstein közeli erdős területen.",
+                  "category": "landmark",
+                  "coords": [
+                        15.069774,
+                        48.870091
+                  ]
+            },
+            {
+                  "name": "Neuteichberg",
+                  "text": "Egy kis erdős csúcs Heidenreichstein környékén, túraútvonalakkal.",
+                  "category": "landmark",
+                  "coords": [
+                        15.129119,
+                        48.847788
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Burg Heidenreichstein",
+                  "text": "Un castel de apă medieval bine conservat, niciodată cucerit în istoria sa.",
+                  "category": "castle",
+                  "coords": [
+                        15.121648,
+                        48.864403
+                  ]
+            },
+            {
+                  "name": "Gemeindeau",
+                  "text": "O zonă naturală și o rezervație de mlaștină situată lângă Heidenreichstein.",
+                  "category": "natural",
+                  "coords": [
+                        15.144988,
+                        48.852638
+                  ]
+            },
+            {
+                  "name": "Moor und Torfmuseum",
+                  "text": "Un muzeu dedicat ecologiei locale a mlaștinilor și istoriei extracției de turbă.",
+                  "category": "museum",
+                  "coords": [
+                        15.112121,
+                        48.862174
+                  ]
+            },
+            {
+                  "name": "Theater unterm Giebel",
+                  "text": "O sală de teatru locală din Heidenreichstein care găzduiește diverse spectacole.",
+                  "category": "cultural",
+                  "coords": [
+                        15.12381,
+                        48.86767
+                  ]
+            },
+            {
+                  "name": "Streichelzoo",
+                  "text": "O grădină zoologică prietenoasă pentru familii, unde vizitatorii pot interacționa cu animale domestice.",
+                  "category": "recreational",
+                  "coords": [
+                        15.120143,
+                        48.873436
+                  ]
+            },
+            {
+                  "name": "Geyersteine",
+                  "text": "Formațiuni stâncoase distinctive situate în zona împădurită de lângă Heidenreichstein.",
+                  "category": "landmark",
+                  "coords": [
+                        15.069774,
+                        48.870091
+                  ]
+            },
+            {
+                  "name": "Neuteichberg",
+                  "text": "Un mic vârf împădurit în vecinătatea orașului Heidenreichstein, cu trasee de drumeție.",
+                  "category": "landmark",
+                  "coords": [
+                        15.129119,
+                        48.847788
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Burg Heidenreichstein",
+                  "text": "A well-preserved medieval water castle that was never conquered in its history.",
+                  "category": "castle",
+                  "coords": [
+                        15.121648,
+                        48.864403
+                  ]
+            },
+            {
+                  "name": "Gemeindeau",
+                  "text": "A natural area and wetland preserve located near Heidenreichstein.",
+                  "category": "natural",
+                  "coords": [
+                        15.144988,
+                        48.852638
+                  ]
+            },
+            {
+                  "name": "Moor und Torfmuseum",
+                  "text": "A museum dedicated to the local moorland ecology and the history of peat extraction.",
+                  "category": "museum",
+                  "coords": [
+                        15.112121,
+                        48.862174
+                  ]
+            },
+            {
+                  "name": "Theater unterm Giebel",
+                  "text": "A local theatre venue in Heidenreichstein hosting various stage performances.",
+                  "category": "cultural",
+                  "coords": [
+                        15.12381,
+                        48.86767
+                  ]
+            },
+            {
+                  "name": "Streichelzoo",
+                  "text": "A family-friendly petting zoo where visitors can interact with domestic animals.",
+                  "category": "recreational",
+                  "coords": [
+                        15.120143,
+                        48.873436
+                  ]
+            },
+            {
+                  "name": "Geyersteine",
+                  "text": "Distinctive rock formations located in the forested area near Heidenreichstein.",
+                  "category": "landmark",
+                  "coords": [
+                        15.069774,
+                        48.870091
+                  ]
+            },
+            {
+                  "name": "Neuteichberg",
+                  "text": "A small forested peak near Heidenreichstein offering local hiking trails.",
+                  "category": "landmark",
+                  "coords": [
+                        15.129119,
+                        48.847788
+                  ]
+            }
+      ]
+},
     type: "historical",
     parent: "AT",
     coords: [15.1228, 48.8641],
@@ -16305,7 +28455,304 @@ export const austriaCities: POI[] = [
     },
   },
   {
-    id: "at-gerlitzen",
+    id: "at-gerlitzen", "sights": {
+      "de": [
+            {
+                  "name": "Puppenmuseum: Elli Riehl Puppenwelt",
+                  "text": "Ein Museum mit einer Sammlung handgefertigter Puppen von Elli Riehl.",
+                  "category": "museum",
+                  "coords": [
+                        13.835064,
+                        46.68714
+                  ]
+            },
+            {
+                  "name": "Burgruine Alt-Treffen",
+                  "text": "Ruinen einer mittelalterlichen Höhenburg in Kärnten.",
+                  "category": "castle",
+                  "coords": [
+                        13.842556,
+                        46.686222
+                  ]
+            },
+            {
+                  "name": "Pilzmuseum",
+                  "text": "Ein Museum, das der Welt der Pilze gewidmet ist.",
+                  "category": "museum",
+                  "coords": [
+                        13.83056,
+                        46.686754
+                  ]
+            },
+            {
+                  "name": "Freilichtbühne",
+                  "text": "Eine Bühne für Aufführungen unter freiem Himmel.",
+                  "category": "cultural",
+                  "coords": [
+                        13.850946,
+                        46.728508
+                  ]
+            },
+            {
+                  "name": "Steinerner Tisch",
+                  "text": "Ein markanter Felsstein in Form eines Tisches.",
+                  "category": "landmark",
+                  "coords": [
+                        13.874339,
+                        46.699266
+                  ]
+            },
+            {
+                  "name": "St. Peter",
+                  "text": "Eine christliche Kirche in der Region Gerlitzen.",
+                  "category": "religious",
+                  "coords": [
+                        13.816735,
+                        46.735521
+                  ]
+            },
+            {
+                  "name": "Katholische Filialkirche Heiliger Lambert",
+                  "text": "Eine katholische Filialkirche, die dem heiligen Lambert geweiht ist.",
+                  "category": "religious",
+                  "coords": [
+                        13.834029,
+                        46.704777
+                  ]
+            },
+            {
+                  "name": "Evang. Pfarrkirche",
+                  "text": "Ein evangelisches Kirchengebäude für den Gottesdienst.",
+                  "category": "religious",
+                  "coords": [
+                        13.7953,
+                        46.72743
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Puppenmuseum: Elli Riehl Puppenwelt",
+                  "text": "Múzeum Elli Riehl kézzel készített babáinak gyűjteményével.",
+                  "category": "museum",
+                  "coords": [
+                        13.835064,
+                        46.68714
+                  ]
+            },
+            {
+                  "name": "Burgruine Alt-Treffen",
+                  "text": "Egy középkori hegyi vár romjai Karintiában.",
+                  "category": "castle",
+                  "coords": [
+                        13.842556,
+                        46.686222
+                  ]
+            },
+            {
+                  "name": "Pilzmuseum",
+                  "text": "A gombák világának szentelt múzeum.",
+                  "category": "museum",
+                  "coords": [
+                        13.83056,
+                        46.686754
+                  ]
+            },
+            {
+                  "name": "Freilichtbühne",
+                  "text": "Szabadtéri színpad előadásokhoz.",
+                  "category": "cultural",
+                  "coords": [
+                        13.850946,
+                        46.728508
+                  ]
+            },
+            {
+                  "name": "Steinerner Tisch",
+                  "text": "Asztal formájú, jellegzetes sziklakő.",
+                  "category": "landmark",
+                  "coords": [
+                        13.874339,
+                        46.699266
+                  ]
+            },
+            {
+                  "name": "St. Peter",
+                  "text": "Keresztény templom a Gerlitzen régióban.",
+                  "category": "religious",
+                  "coords": [
+                        13.816735,
+                        46.735521
+                  ]
+            },
+            {
+                  "name": "Katholische Filialkirche Heiliger Lambert",
+                  "text": "Szent Lambertnek szentelt katolikus fióktemplom.",
+                  "category": "religious",
+                  "coords": [
+                        13.834029,
+                        46.704777
+                  ]
+            },
+            {
+                  "name": "Evang. Pfarrkirche",
+                  "text": "Evangélikus templomépület istentiszteletekhez.",
+                  "category": "religious",
+                  "coords": [
+                        13.7953,
+                        46.72743
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Puppenmuseum: Elli Riehl Puppenwelt",
+                  "text": "Un muzeu care expune o colecție de păpuși lucrate manual de Elli Riehl.",
+                  "category": "museum",
+                  "coords": [
+                        13.835064,
+                        46.68714
+                  ]
+            },
+            {
+                  "name": "Burgruine Alt-Treffen",
+                  "text": "Ruinele unei cetăți medievale de munte din Carintia.",
+                  "category": "castle",
+                  "coords": [
+                        13.842556,
+                        46.686222
+                  ]
+            },
+            {
+                  "name": "Pilzmuseum",
+                  "text": "Un muzeu dedicat lumii ciupercilor.",
+                  "category": "museum",
+                  "coords": [
+                        13.83056,
+                        46.686754
+                  ]
+            },
+            {
+                  "name": "Freilichtbühne",
+                  "text": "O scenă pentru spectacole în aer liber.",
+                  "category": "cultural",
+                  "coords": [
+                        13.850946,
+                        46.728508
+                  ]
+            },
+            {
+                  "name": "Steinerner Tisch",
+                  "text": "O formațiune stâncoasă distinctivă în formă de masă.",
+                  "category": "landmark",
+                  "coords": [
+                        13.874339,
+                        46.699266
+                  ]
+            },
+            {
+                  "name": "St. Peter",
+                  "text": "O biserică creștină în regiunea Gerlitzen.",
+                  "category": "religious",
+                  "coords": [
+                        13.816735,
+                        46.735521
+                  ]
+            },
+            {
+                  "name": "Katholische Filialkirche Heiliger Lambert",
+                  "text": "O biserică filială catolică dedicată Sfântului Lambert.",
+                  "category": "religious",
+                  "coords": [
+                        13.834029,
+                        46.704777
+                  ]
+            },
+            {
+                  "name": "Evang. Pfarrkirche",
+                  "text": "O biserică evanghelică pentru serviciul religios.",
+                  "category": "religious",
+                  "coords": [
+                        13.7953,
+                        46.72743
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Puppenmuseum: Elli Riehl Puppenwelt",
+                  "text": "A museum displaying a collection of handmade dolls by Elli Riehl.",
+                  "category": "museum",
+                  "coords": [
+                        13.835064,
+                        46.68714
+                  ]
+            },
+            {
+                  "name": "Burgruine Alt-Treffen",
+                  "text": "Ruins of a medieval hill castle in Carinthia.",
+                  "category": "castle",
+                  "coords": [
+                        13.842556,
+                        46.686222
+                  ]
+            },
+            {
+                  "name": "Pilzmuseum",
+                  "text": "A museum dedicated to the world of mushrooms.",
+                  "category": "museum",
+                  "coords": [
+                        13.83056,
+                        46.686754
+                  ]
+            },
+            {
+                  "name": "Freilichtbühne",
+                  "text": "A stage for open-air performances.",
+                  "category": "cultural",
+                  "coords": [
+                        13.850946,
+                        46.728508
+                  ]
+            },
+            {
+                  "name": "Steinerner Tisch",
+                  "text": "A distinctive rock formation in the shape of a table.",
+                  "category": "landmark",
+                  "coords": [
+                        13.874339,
+                        46.699266
+                  ]
+            },
+            {
+                  "name": "St. Peter",
+                  "text": "A Christian church in the Gerlitzen region.",
+                  "category": "religious",
+                  "coords": [
+                        13.816735,
+                        46.735521
+                  ]
+            },
+            {
+                  "name": "Katholische Filialkirche Heiliger Lambert",
+                  "text": "A Catholic filial church dedicated to Saint Lambert.",
+                  "category": "religious",
+                  "coords": [
+                        13.834029,
+                        46.704777
+                  ]
+            },
+            {
+                  "name": "Evang. Pfarrkirche",
+                  "text": "An Evangelical church building for worship.",
+                  "category": "religious",
+                  "coords": [
+                        13.7953,
+                        46.72743
+                  ]
+            }
+      ]
+},
     type: "mountain",
     parent: "AT",
     coords: [13.8327, 46.7161],
@@ -16349,7 +28796,304 @@ export const austriaCities: POI[] = [
     },
   },
   {
-    id: "at-rax",
+    id: "at-rax", "sights": {
+      "de": [
+            {
+                  "name": "Lichtensternhütten",
+                  "text": "Archäologische Überreste historischer Hütten auf der Rax-Hochebene.",
+                  "category": "historical",
+                  "coords": [
+                        15.703052,
+                        47.69901
+                  ]
+            },
+            {
+                  "name": "Eishütten",
+                  "text": "Eine archäologische Fundstelle ehemaliger Eishütten im Rax-Gebirge.",
+                  "category": "historical",
+                  "coords": [
+                        15.728496,
+                        47.708188
+                  ]
+            },
+            {
+                  "name": "Kohlberghütte",
+                  "text": "Historische Überreste einer ehemaligen Berghütte auf der Rax.",
+                  "category": "historical",
+                  "coords": [
+                        15.770585,
+                        47.710605
+                  ]
+            },
+            {
+                  "name": "Halterhütte",
+                  "text": "Die archäologische Fundstelle einer einstigen Almhütte im Rax-Gebiet.",
+                  "category": "historical",
+                  "coords": [
+                        15.770634,
+                        47.711513
+                  ]
+            },
+            {
+                  "name": "Rumpler",
+                  "text": "Eine archäologische Stätte mit historischen Funden auf dem Rax-Plateau.",
+                  "category": "historical",
+                  "coords": [
+                        15.76786,
+                        47.697099
+                  ]
+            },
+            {
+                  "name": "Großauer Hütte",
+                  "text": "Historische Reste einer ehemaligen Unterkunftshütte im Rax-Massiv.",
+                  "category": "historical",
+                  "coords": [
+                        15.758119,
+                        47.692709
+                  ]
+            },
+            {
+                  "name": "Wertner Schwaig",
+                  "text": "Archäologische Überreste einer historischen Almwirtschaft auf der Rax.",
+                  "category": "historical",
+                  "coords": [
+                        15.709844,
+                        47.67919
+                  ]
+            },
+            {
+                  "name": "Pehoferhütte",
+                  "text": "Die Fundstelle der Überreste einer einstigen Berghütte im Rax-Gebirge.",
+                  "category": "historical",
+                  "coords": [
+                        15.699272,
+                        47.715
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Lichtensternhütten",
+                  "text": "Történelmi kunyhók régészeti maradványai a Rax-fennsíkon.",
+                  "category": "historical",
+                  "coords": [
+                        15.703052,
+                        47.69901
+                  ]
+            },
+            {
+                  "name": "Eishütten",
+                  "text": "Egykori jégkunyhók régészeti lelőhelye a Rax-hegységben.",
+                  "category": "historical",
+                  "coords": [
+                        15.728496,
+                        47.708188
+                  ]
+            },
+            {
+                  "name": "Kohlberghütte",
+                  "text": "Egy egykori hegyi kunyhó történelmi maradványai a Raxon.",
+                  "category": "historical",
+                  "coords": [
+                        15.770585,
+                        47.710605
+                  ]
+            },
+            {
+                  "name": "Halterhütte",
+                  "text": "Egy egykori alpesi kunyhó régészeti lelőhelye a Rax vidékén.",
+                  "category": "historical",
+                  "coords": [
+                        15.770634,
+                        47.711513
+                  ]
+            },
+            {
+                  "name": "Rumpler",
+                  "text": "Régészeti lelőhely történelmi leletekkel a Rax-fennsíkon.",
+                  "category": "historical",
+                  "coords": [
+                        15.76786,
+                        47.697099
+                  ]
+            },
+            {
+                  "name": "Großauer Hütte",
+                  "text": "Egy egykori menedékház történelmi maradványai a Rax-masszívumban.",
+                  "category": "historical",
+                  "coords": [
+                        15.758119,
+                        47.692709
+                  ]
+            },
+            {
+                  "name": "Wertner Schwaig",
+                  "text": "Egy történelmi alpesi gazdaság régészeti maradványai a Raxon.",
+                  "category": "historical",
+                  "coords": [
+                        15.709844,
+                        47.67919
+                  ]
+            },
+            {
+                  "name": "Pehoferhütte",
+                  "text": "Egy egykori hegyi kunyhó maradványainak lelőhelye a Rax-hegységben.",
+                  "category": "historical",
+                  "coords": [
+                        15.699272,
+                        47.715
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Lichtensternhütten",
+                  "text": "Rămășițe arheologice ale unor colibe istorice pe platoul Rax.",
+                  "category": "historical",
+                  "coords": [
+                        15.703052,
+                        47.69901
+                  ]
+            },
+            {
+                  "name": "Eishütten",
+                  "text": "Un sit arheologic al fostelor colibe de gheață din munții Rax.",
+                  "category": "historical",
+                  "coords": [
+                        15.728496,
+                        47.708188
+                  ]
+            },
+            {
+                  "name": "Kohlberghütte",
+                  "text": "Rămășițe istorice ale unei foste cabane montane pe Rax.",
+                  "category": "historical",
+                  "coords": [
+                        15.770585,
+                        47.710605
+                  ]
+            },
+            {
+                  "name": "Halterhütte",
+                  "text": "Sit arheologic al unei foste colibe alpine din zona Rax.",
+                  "category": "historical",
+                  "coords": [
+                        15.770634,
+                        47.711513
+                  ]
+            },
+            {
+                  "name": "Rumpler",
+                  "text": "Un sit arheologic cu descoperiri istorice pe platoul Rax.",
+                  "category": "historical",
+                  "coords": [
+                        15.76786,
+                        47.697099
+                  ]
+            },
+            {
+                  "name": "Großauer Hütte",
+                  "text": "Rămășițe istorice ale unei foste cabane de adăpost din masivul Rax.",
+                  "category": "historical",
+                  "coords": [
+                        15.758119,
+                        47.692709
+                  ]
+            },
+            {
+                  "name": "Wertner Schwaig",
+                  "text": "Rămășițele arheologice ale unei ferme alpine istorice pe Rax.",
+                  "category": "historical",
+                  "coords": [
+                        15.709844,
+                        47.67919
+                  ]
+            },
+            {
+                  "name": "Pehoferhütte",
+                  "text": "Sit de descoperire a rămășițelor unei foste cabane montane din munții Rax.",
+                  "category": "historical",
+                  "coords": [
+                        15.699272,
+                        47.715
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Lichtensternhütten",
+                  "text": "Archaeological remains of historical huts on the Rax plateau.",
+                  "category": "historical",
+                  "coords": [
+                        15.703052,
+                        47.69901
+                  ]
+            },
+            {
+                  "name": "Eishütten",
+                  "text": "An archaeological site of former ice huts in the Rax mountains.",
+                  "category": "historical",
+                  "coords": [
+                        15.728496,
+                        47.708188
+                  ]
+            },
+            {
+                  "name": "Kohlberghütte",
+                  "text": "Historical remains of a former mountain hut on the Rax.",
+                  "category": "historical",
+                  "coords": [
+                        15.770585,
+                        47.710605
+                  ]
+            },
+            {
+                  "name": "Halterhütte",
+                  "text": "The archaeological site of a former alpine hut in the Rax area.",
+                  "category": "historical",
+                  "coords": [
+                        15.770634,
+                        47.711513
+                  ]
+            },
+            {
+                  "name": "Rumpler",
+                  "text": "An archaeological site with historical finds on the Rax plateau.",
+                  "category": "historical",
+                  "coords": [
+                        15.76786,
+                        47.697099
+                  ]
+            },
+            {
+                  "name": "Großauer Hütte",
+                  "text": "Historical remains of a former shelter hut in the Rax massif.",
+                  "category": "historical",
+                  "coords": [
+                        15.758119,
+                        47.692709
+                  ]
+            },
+            {
+                  "name": "Wertner Schwaig",
+                  "text": "Archaeological remains of a historical alpine farm on the Rax.",
+                  "category": "historical",
+                  "coords": [
+                        15.709844,
+                        47.67919
+                  ]
+            },
+            {
+                  "name": "Pehoferhütte",
+                  "text": "The site of the remains of a former mountain hut in the Rax mountains.",
+                  "category": "historical",
+                  "coords": [
+                        15.699272,
+                        47.715
+                  ]
+            }
+      ]
+},
     type: "mountain",
     parent: "AT",
     coords: [15.7246, 47.7107],
@@ -16393,7 +29137,268 @@ export const austriaCities: POI[] = [
     },
   },
   {
-    id: "at-stuhleck",
+    id: "at-stuhleck", "sights": {
+      "de": [
+            {
+                  "name": "Wittgensteinmuseum",
+                  "text": "Museum, das dem Leben und Werk des Philosophen Ludwig Wittgenstein gewidmet ist.",
+                  "category": "museum",
+                  "coords": [
+                        15.89072,
+                        47.602277
+                  ]
+            },
+            {
+                  "name": "Hochstraßenmuseum",
+                  "text": "Museum zur Geschichte der Hochstraßen in der Region Stuhleck.",
+                  "category": "museum",
+                  "coords": [
+                        15.827919,
+                        47.635081
+                  ]
+            },
+            {
+                  "name": "Hirschenkogel",
+                  "text": "Berggipfel am Semmering-Pass, bekannt für Skifahren und Wandern.",
+                  "category": "landmark",
+                  "coords": [
+                        15.833766,
+                        47.622151
+                  ]
+            },
+            {
+                  "name": "Rabenkropf",
+                  "text": "Aussichtspunkt im Stuhleck-Gebiet mit Blick auf die Alpen.",
+                  "category": "natural",
+                  "coords": [
+                        15.876843,
+                        47.572792
+                  ]
+            },
+            {
+                  "name": "Sonnwendstein",
+                  "text": "Alpiner Berggipfel mit einer markanten Kapelle und Panoramablick.",
+                  "category": "landmark",
+                  "coords": [
+                        15.860275,
+                        47.629686
+                  ]
+            },
+            {
+                  "name": "Erzkogel",
+                  "text": "Aussichtspunkt in den Ostalpen in der Nähe des Stuhlecks.",
+                  "category": "natural",
+                  "coords": [
+                        15.857452,
+                        47.622345
+                  ]
+            },
+            {
+                  "name": "Infoblick Fröschnitzgraben",
+                  "text": "Aussichtspunkt mit Informationen und Blick auf den Fröschnitzgraben.",
+                  "category": "natural",
+                  "coords": [
+                        15.828566,
+                        47.592277
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Wittgensteinmuseum",
+                  "text": "Ludwig Wittgenstein filozófus életét és munkásságát bemutató múzeum.",
+                  "category": "museum",
+                  "coords": [
+                        15.89072,
+                        47.602277
+                  ]
+            },
+            {
+                  "name": "Hochstraßenmuseum",
+                  "text": "A környékbeli magashegyi utak történetét bemutató múzeum.",
+                  "category": "museum",
+                  "coords": [
+                        15.827919,
+                        47.635081
+                  ]
+            },
+            {
+                  "name": "Hirschenkogel",
+                  "text": "A Semmering-hágó közeli hegycsúcs, amely sípályáiról és túraútvonalairól ismert.",
+                  "category": "landmark",
+                  "coords": [
+                        15.833766,
+                        47.622151
+                  ]
+            },
+            {
+                  "name": "Rabenkropf",
+                  "text": "Kilátópont a Stuhleck-hegységben, kilátással az Alpokra.",
+                  "category": "natural",
+                  "coords": [
+                        15.876843,
+                        47.572792
+                  ]
+            },
+            {
+                  "name": "Sonnwendstein",
+                  "text": "Alpesi hegycsúcs jellegzetes kápolnával és panorámás kilátással.",
+                  "category": "landmark",
+                  "coords": [
+                        15.860275,
+                        47.629686
+                  ]
+            },
+            {
+                  "name": "Erzkogel",
+                  "text": "Kilátópont a Keleti-Alpokban, a Stuhleck közelében.",
+                  "category": "natural",
+                  "coords": [
+                        15.857452,
+                        47.622345
+                  ]
+            },
+            {
+                  "name": "Infoblick Fröschnitzgraben",
+                  "text": "Kilátópont, amely tájékoztatást és kilátást nyújt a Fröschnitzgraben völgyére.",
+                  "category": "natural",
+                  "coords": [
+                        15.828566,
+                        47.592277
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Wittgensteinmuseum",
+                  "text": "Muzeu dedicat vieții și operei filosofului Ludwig Wittgenstein.",
+                  "category": "museum",
+                  "coords": [
+                        15.89072,
+                        47.602277
+                  ]
+            },
+            {
+                  "name": "Hochstraßenmuseum",
+                  "text": "Muzeu dedicat istoriei drumurilor montane din regiunea Stuhleck.",
+                  "category": "museum",
+                  "coords": [
+                        15.827919,
+                        47.635081
+                  ]
+            },
+            {
+                  "name": "Hirschenkogel",
+                  "text": "Vârf montan de lângă pasul Semmering, cunoscut pentru schi și drumeții.",
+                  "category": "landmark",
+                  "coords": [
+                        15.833766,
+                        47.622151
+                  ]
+            },
+            {
+                  "name": "Rabenkropf",
+                  "text": "Punct de observație în Munții Stuhleck ce oferă panorame alpine.",
+                  "category": "natural",
+                  "coords": [
+                        15.876843,
+                        47.572792
+                  ]
+            },
+            {
+                  "name": "Sonnwendstein",
+                  "text": "Vârf montan alpin cu o capelă proeminentă și vedere panoramică.",
+                  "category": "landmark",
+                  "coords": [
+                        15.860275,
+                        47.629686
+                  ]
+            },
+            {
+                  "name": "Erzkogel",
+                  "text": "Punct de observație montan în Alpii Orientali, lângă Stuhleck.",
+                  "category": "natural",
+                  "coords": [
+                        15.857452,
+                        47.622345
+                  ]
+            },
+            {
+                  "name": "Infoblick Fröschnitzgraben",
+                  "text": "Punct de observație ce oferă informații și vederi asupra văii Fröschnitzgraben.",
+                  "category": "natural",
+                  "coords": [
+                        15.828566,
+                        47.592277
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Wittgensteinmuseum",
+                  "text": "Museum dedicated to the life and work of philosopher Ludwig Wittgenstein.",
+                  "category": "museum",
+                  "coords": [
+                        15.89072,
+                        47.602277
+                  ]
+            },
+            {
+                  "name": "Hochstraßenmuseum",
+                  "text": "Museum focusing on the history of the high-altitude pass roads.",
+                  "category": "museum",
+                  "coords": [
+                        15.827919,
+                        47.635081
+                  ]
+            },
+            {
+                  "name": "Hirschenkogel",
+                  "text": "Mountain peak near the Semmering Pass, known for skiing and hiking.",
+                  "category": "landmark",
+                  "coords": [
+                        15.833766,
+                        47.622151
+                  ]
+            },
+            {
+                  "name": "Rabenkropf",
+                  "text": "Viewpoint in the Stuhleck mountains offering Alpine vistas.",
+                  "category": "natural",
+                  "coords": [
+                        15.876843,
+                        47.572792
+                  ]
+            },
+            {
+                  "name": "Sonnwendstein",
+                  "text": "Alpine mountain peak with a prominent church and panoramic views.",
+                  "category": "landmark",
+                  "coords": [
+                        15.860275,
+                        47.629686
+                  ]
+            },
+            {
+                  "name": "Erzkogel",
+                  "text": "Scenic mountain viewpoint in the Eastern Alps near Stuhleck.",
+                  "category": "natural",
+                  "coords": [
+                        15.857452,
+                        47.622345
+                  ]
+            },
+            {
+                  "name": "Infoblick Fröschnitzgraben",
+                  "text": "Viewpoint providing information and vistas of the Fröschnitzgraben valley.",
+                  "category": "natural",
+                  "coords": [
+                        15.828566,
+                        47.592277
+                  ]
+            }
+      ]
+},
     type: "mountain",
     parent: "AT",
     coords: [15.8596, 47.6062],
@@ -16525,7 +29530,232 @@ export const austriaCities: POI[] = [
     },
   },
   {
-    id: "at-pielach-river",
+    id: "at-pielach-river", "sights": {
+      "de": [
+            {
+                  "name": "Ruine Sooß",
+                  "text": "Die Ruine Sooß umfasst die Überreste einer einstigen mittelalterlichen Burganlage in Niederösterreich.",
+                  "category": "castle",
+                  "coords": [
+                        15.367162,
+                        48.166347
+                  ]
+            },
+            {
+                  "name": "Schlösschen Kälberhart",
+                  "text": "Dieses Renaissanceschloss in der Nähe von Hürm blickt auf eine mehrhundertjährige Geschichte zurück.",
+                  "category": "castle",
+                  "coords": [
+                        15.361493,
+                        48.128862
+                  ]
+            },
+            {
+                  "name": "Ruine Sichtenberg",
+                  "text": "Die auf einem Hügel gelegene Ruine Sichtenberg ist ein markantes Zeugnis mittelalterlicher Wehrkunst.",
+                  "category": "castle",
+                  "coords": [
+                        15.374769,
+                        48.175264
+                  ]
+            },
+            {
+                  "name": "Maria Steinparz",
+                  "text": "Maria Steinparz ist ein lokales Ausflugsziel, das als Ort der Ruhe und Besinnung bekannt ist.",
+                  "category": "landmark",
+                  "coords": [
+                        15.351786,
+                        48.172036
+                  ]
+            },
+            {
+                  "name": "Simonsberg (NÖ)",
+                  "text": "Der Simonsberg bietet Wanderern einen weiten Blick über das niederösterreichische Mostviertel.",
+                  "category": "natural",
+                  "coords": [
+                        15.352538,
+                        48.150298
+                  ]
+            },
+            {
+                  "name": "Pfarrkirche Hürm",
+                  "text": "Die Pfarrkirche von Hürm ist das geistliche Zentrum der Gemeinde in der Region Pielach.",
+                  "category": "religious",
+                  "coords": [
+                        15.411902,
+                        48.156345
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Ruine Sooß",
+                  "text": "Sooß várroma egy egykori középkori erődítmény maradványait foglalja magában Alsó-Ausztriában.",
+                  "category": "castle",
+                  "coords": [
+                        15.367162,
+                        48.166347
+                  ]
+            },
+            {
+                  "name": "Schlösschen Kälberhart",
+                  "text": "Ez a Hürm közelében található reneszánsz kastély több évszázados múltra tekint vissza.",
+                  "category": "castle",
+                  "coords": [
+                        15.361493,
+                        48.128862
+                  ]
+            },
+            {
+                  "name": "Ruine Sichtenberg",
+                  "text": "A dombtetőn álló Sichtenberg vára a középkori várépítészet egyik jellegzetes emléke.",
+                  "category": "castle",
+                  "coords": [
+                        15.374769,
+                        48.175264
+                  ]
+            },
+            {
+                  "name": "Maria Steinparz",
+                  "text": "Maria Steinparz egy helyi kirándulóhely, amely nyugalmáról és szakrális jellegéről ismert.",
+                  "category": "landmark",
+                  "coords": [
+                        15.351786,
+                        48.172036
+                  ]
+            },
+            {
+                  "name": "Simonsberg (NÖ)",
+                  "text": "A Simonsberg tágas kilátást nyújt a túrázóknak az alsó-ausztriai Mostviertel vidékére.",
+                  "category": "natural",
+                  "coords": [
+                        15.352538,
+                        48.150298
+                  ]
+            },
+            {
+                  "name": "Pfarrkirche Hürm",
+                  "text": "Hürm plébániatemploma a település hitéletének központja a Pielach régióban.",
+                  "category": "religious",
+                  "coords": [
+                        15.411902,
+                        48.156345
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Ruine Sooß",
+                  "text": "Ruina Sooß cuprinde rămășițele unei foste fortificații medievale din Austria Inferioară.",
+                  "category": "castle",
+                  "coords": [
+                        15.367162,
+                        48.166347
+                  ]
+            },
+            {
+                  "name": "Schlösschen Kälberhart",
+                  "text": "Acest castel în stil renascentist de lângă Hürm are o istorie de câteva secole.",
+                  "category": "castle",
+                  "coords": [
+                        15.361493,
+                        48.128862
+                  ]
+            },
+            {
+                  "name": "Ruine Sichtenberg",
+                  "text": "Situată pe un deal, ruina Sichtenberg este o mărturie a arhitecturii defensive medievale.",
+                  "category": "castle",
+                  "coords": [
+                        15.374769,
+                        48.175264
+                  ]
+            },
+            {
+                  "name": "Maria Steinparz",
+                  "text": "Maria Steinparz este o destinație locală cunoscută ca loc de liniște și reflecție.",
+                  "category": "landmark",
+                  "coords": [
+                        15.351786,
+                        48.172036
+                  ]
+            },
+            {
+                  "name": "Simonsberg (NÖ)",
+                  "text": "Simonsberg oferă drumeților o vedere panoramică asupra regiunii Mostviertel din Austria Inferioară.",
+                  "category": "natural",
+                  "coords": [
+                        15.352538,
+                        48.150298
+                  ]
+            },
+            {
+                  "name": "Pfarrkirche Hürm",
+                  "text": "Biserica parohială din Hürm este centrul spiritual al comunității din regiunea Pielach.",
+                  "category": "religious",
+                  "coords": [
+                        15.411902,
+                        48.156345
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Ruine Sooß",
+                  "text": "The Sooß ruins comprise the remains of a former medieval castle in Lower Austria.",
+                  "category": "castle",
+                  "coords": [
+                        15.367162,
+                        48.166347
+                  ]
+            },
+            {
+                  "name": "Schlösschen Kälberhart",
+                  "text": "This Renaissance-style castle near Hürm has a history dating back several centuries.",
+                  "category": "castle",
+                  "coords": [
+                        15.361493,
+                        48.128862
+                  ]
+            },
+            {
+                  "name": "Ruine Sichtenberg",
+                  "text": "Located on a hill, the Sichtenberg ruins are a testament to medieval defensive architecture.",
+                  "category": "castle",
+                  "coords": [
+                        15.374769,
+                        48.175264
+                  ]
+            },
+            {
+                  "name": "Maria Steinparz",
+                  "text": "Maria Steinparz is a local destination known as a place of peace and reflection.",
+                  "category": "landmark",
+                  "coords": [
+                        15.351786,
+                        48.172036
+                  ]
+            },
+            {
+                  "name": "Simonsberg (NÖ)",
+                  "text": "Simonsberg offers hikers a wide view over the Mostviertel region of Lower Austria.",
+                  "category": "natural",
+                  "coords": [
+                        15.352538,
+                        48.150298
+                  ]
+            },
+            {
+                  "name": "Pfarrkirche Hürm",
+                  "text": "The parish church of Hürm is the spiritual center of the community in the Pielach region.",
+                  "category": "religious",
+                  "coords": [
+                        15.411902,
+                        48.156345
+                  ]
+            }
+      ]
+},
     type: "river",
     parent: "AT",
     coords: [15.3968, 48.1547],
@@ -16702,7 +29932,304 @@ export const austriaCities: POI[] = [
     },
   },
   {
-    id: "at-burgtheater",
+    id: "at-burgtheater", "sights": {
+      "de": [
+            {
+                  "name": "Albertina",
+                  "text": "Ein bedeutendes Kunstmuseum in Wien mit einer der weltweit größten grafischen Sammlungen.",
+                  "category": "museum",
+                  "coords": [
+                        16.36826,
+                        48.204636
+                  ]
+            },
+            {
+                  "name": "Rabenhof",
+                  "text": "Ein bekanntes Wiener Theater, das für seine zeitgenössischen Aufführungen geschätzt wird.",
+                  "category": "cultural",
+                  "coords": [
+                        16.401665,
+                        48.19582
+                  ]
+            },
+            {
+                  "name": "Metropol",
+                  "text": "Ein vielseitiger Veranstaltungsort und Theater im Wiener Bezirk Hernals.",
+                  "category": "cultural",
+                  "coords": [
+                        16.33422,
+                        48.217006
+                  ]
+            },
+            {
+                  "name": "Theater im Zentrum",
+                  "text": "Ein Theater im Zentrum Wiens, das auf Kinder- und Jugendstücke spezialisiert ist.",
+                  "category": "cultural",
+                  "coords": [
+                        16.372964,
+                        48.207203
+                  ]
+            },
+            {
+                  "name": "Bank Austria Kunstforum",
+                  "text": "Ein renommiertes Ausstellungshaus in Wien für internationale Kunst.",
+                  "category": "museum",
+                  "coords": [
+                        16.366258,
+                        48.211441
+                  ]
+            },
+            {
+                  "name": "Architekturzentrum Wien",
+                  "text": "Ein Museum und Forschungszentrum für Architektur im Wiener Museumsquartier.",
+                  "category": "museum",
+                  "coords": [
+                        16.357616,
+                        48.204179
+                  ]
+            },
+            {
+                  "name": "Pfadfindermuseum",
+                  "text": "Ein Museum in Wien, das die Geschichte der Pfadfinderbewegung dokumentiert.",
+                  "category": "museum",
+                  "coords": [
+                        16.325881,
+                        48.199936
+                  ]
+            },
+            {
+                  "name": "Kammerspiele",
+                  "text": "Eine traditionsreiche Spielstätte des Theaters in der Josefstadt in Wien.",
+                  "category": "cultural",
+                  "coords": [
+                        16.375983,
+                        48.211105
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Albertina",
+                  "text": "Jelentős bécsi művészeti múzeum, amely a világ egyik legnagyobb grafikai gyűjteményének ad otthont.",
+                  "category": "museum",
+                  "coords": [
+                        16.36826,
+                        48.204636
+                  ]
+            },
+            {
+                  "name": "Rabenhof",
+                  "text": "Ismert bécsi színház, amely kortárs előadásairól nevezetes.",
+                  "category": "cultural",
+                  "coords": [
+                        16.401665,
+                        48.19582
+                  ]
+            },
+            {
+                  "name": "Metropol",
+                  "text": "Sokoldalú rendezvényhelyszín és színház Bécs Hernals negyedében.",
+                  "category": "cultural",
+                  "coords": [
+                        16.33422,
+                        48.217006
+                  ]
+            },
+            {
+                  "name": "Theater im Zentrum",
+                  "text": "Bécs központjában található színház, amely gyermek- és ifjúsági darabokra szakosodott.",
+                  "category": "cultural",
+                  "coords": [
+                        16.372964,
+                        48.207203
+                  ]
+            },
+            {
+                  "name": "Bank Austria kortárs művészeti fórum",
+                  "text": "Néves bécsi kiállítóhely, amely nemzetközi művészeti tárlatoknak ad otthont.",
+                  "category": "museum",
+                  "coords": [
+                        16.366258,
+                        48.211441
+                  ]
+            },
+            {
+                  "name": "Bécsi Építészeti Központ",
+                  "text": "Építészeti múzeum és kutatóközpont a bécsi Museumsquartier területén.",
+                  "category": "museum",
+                  "coords": [
+                        16.357616,
+                        48.204179
+                  ]
+            },
+            {
+                  "name": "Pfadfindermuseum",
+                  "text": "Bécsi múzeum, amely a cserkészmozgalom történelmét mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        16.325881,
+                        48.199936
+                  ]
+            },
+            {
+                  "name": "Kammerspiele",
+                  "text": "A bécsi Theater in der Josefstadt patinás kamaraszínpada.",
+                  "category": "cultural",
+                  "coords": [
+                        16.375983,
+                        48.211105
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Albertina",
+                  "text": "Un muzeu de artă major din Viena, care găzduiește una dintre cele mai mari colecții grafice din lume.",
+                  "category": "museum",
+                  "coords": [
+                        16.36826,
+                        48.204636
+                  ]
+            },
+            {
+                  "name": "Rabenhof",
+                  "text": "Un teatru vienez renumit, apreciat pentru spectacolele sale contemporane.",
+                  "category": "cultural",
+                  "coords": [
+                        16.401665,
+                        48.19582
+                  ]
+            },
+            {
+                  "name": "Metropol",
+                  "text": "O locație versatilă pentru evenimente și teatru în districtul Hernals din Viena.",
+                  "category": "cultural",
+                  "coords": [
+                        16.33422,
+                        48.217006
+                  ]
+            },
+            {
+                  "name": "Theater im Zentrum",
+                  "text": "Un teatru din centrul Vienei specializat în piese pentru copii și tineret.",
+                  "category": "cultural",
+                  "coords": [
+                        16.372964,
+                        48.207203
+                  ]
+            },
+            {
+                  "name": "Bank Austria Kunstforum",
+                  "text": "O casă de expoziții renumită din Viena dedicată artei internaționale.",
+                  "category": "museum",
+                  "coords": [
+                        16.366258,
+                        48.211441
+                  ]
+            },
+            {
+                  "name": "Architekturzentrum Wien",
+                  "text": "Un muzeu și centru de cercetare pentru arhitectură situat în cartierul muzeelor din Viena.",
+                  "category": "museum",
+                  "coords": [
+                        16.357616,
+                        48.204179
+                  ]
+            },
+            {
+                  "name": "Pfadfindermuseum",
+                  "text": "Un muzeu din Viena care documentează istoria mișcării cercetașilor.",
+                  "category": "museum",
+                  "coords": [
+                        16.325881,
+                        48.199936
+                  ]
+            },
+            {
+                  "name": "Kammerspiele",
+                  "text": "O scenă tradițională a teatrului vienez Josefstadt.",
+                  "category": "cultural",
+                  "coords": [
+                        16.375983,
+                        48.211105
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Albertina",
+                  "text": "A major art museum in Vienna housing one of the world's largest graphic art collections.",
+                  "category": "museum",
+                  "coords": [
+                        16.36826,
+                        48.204636
+                  ]
+            },
+            {
+                  "name": "Rabenhof",
+                  "text": "A well-known Viennese theatre appreciated for its contemporary performances.",
+                  "category": "cultural",
+                  "coords": [
+                        16.401665,
+                        48.19582
+                  ]
+            },
+            {
+                  "name": "Metropol",
+                  "text": "A versatile event venue and theatre in Vienna's Hernals district.",
+                  "category": "cultural",
+                  "coords": [
+                        16.33422,
+                        48.217006
+                  ]
+            },
+            {
+                  "name": "Theater im Zentrum",
+                  "text": "A theatre in the center of Vienna specializing in plays for children and young audiences.",
+                  "category": "cultural",
+                  "coords": [
+                        16.372964,
+                        48.207203
+                  ]
+            },
+            {
+                  "name": "Bank Austria Kunstforum",
+                  "text": "A renowned exhibition venue in Vienna for international art.",
+                  "category": "museum",
+                  "coords": [
+                        16.366258,
+                        48.211441
+                  ]
+            },
+            {
+                  "name": "Architecture Centre Vienna",
+                  "text": "A museum and research center for architecture located in Vienna's Museumsquartier.",
+                  "category": "museum",
+                  "coords": [
+                        16.357616,
+                        48.204179
+                  ]
+            },
+            {
+                  "name": "Pfadfindermuseum",
+                  "text": "A museum in Vienna documenting the history of the scouting movement.",
+                  "category": "museum",
+                  "coords": [
+                        16.325881,
+                        48.199936
+                  ]
+            },
+            {
+                  "name": "Kammerspiele",
+                  "text": "A traditional theatre venue in Vienna belonging to the Theater in der Josefstadt.",
+                  "category": "cultural",
+                  "coords": [
+                        16.375983,
+                        48.211105
+                  ]
+            }
+      ]
+},
     type: "landmark",
     parent: "AT",
     coords: [16.3614, 48.2102],
@@ -16746,7 +30273,304 @@ export const austriaCities: POI[] = [
     },
   },
   {
-    id: "at-austrian-parliament",
+    id: "at-austrian-parliament", "sights": {
+      "de": [
+            {
+                  "name": "Albertina",
+                  "text": "Eines der bedeutendsten Kunstmuseen Wiens mit einer weltberühmten Grafischen Sammlung.",
+                  "category": "museum",
+                  "coords": [
+                        16.36826,
+                        48.204636
+                  ]
+            },
+            {
+                  "name": "Rabenhof",
+                  "text": "Ein modernes Theater in einem Wiener Gemeindebau, bekannt für Kabarett und Satire.",
+                  "category": "cultural",
+                  "coords": [
+                        16.401665,
+                        48.19582
+                  ]
+            },
+            {
+                  "name": "Metropol",
+                  "text": "Ein bekanntes Wiener Veranstaltungshaus für Musik, Theater und Kabarett.",
+                  "category": "cultural",
+                  "coords": [
+                        16.33422,
+                        48.217006
+                  ]
+            },
+            {
+                  "name": "Theater im Zentrum",
+                  "text": "Ein Wiener Theater, das sich auf anspruchsvolle Stücke für Kinder und Jugendliche spezialisiert hat.",
+                  "category": "cultural",
+                  "coords": [
+                        16.372964,
+                        48.207203
+                  ]
+            },
+            {
+                  "name": "Bank Austria Kunstforum",
+                  "text": "Ein renommiertes Ausstellungshaus in Wien für internationale klassische Moderne.",
+                  "category": "museum",
+                  "coords": [
+                        16.366258,
+                        48.211441
+                  ]
+            },
+            {
+                  "name": "Architekturzentrum Wien",
+                  "text": "Ein Zentrum in Wien, das sich der Vermittlung und Erforschung von Architektur widmet.",
+                  "category": "museum",
+                  "coords": [
+                        16.357616,
+                        48.204179
+                  ]
+            },
+            {
+                  "name": "Pfadfindermuseum",
+                  "text": "Ein kleines Museum in Wien, das die Geschichte der Pfadfinderbewegung dokumentiert.",
+                  "category": "museum",
+                  "coords": [
+                        16.325881,
+                        48.199936
+                  ]
+            },
+            {
+                  "name": "Kammerspiele",
+                  "text": "Ein traditionsreiches Wiener Theater, das Unterhaltung auf hohem Niveau bietet.",
+                  "category": "cultural",
+                  "coords": [
+                        16.375983,
+                        48.211105
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Albertina",
+                  "text": "Bécs egyik legfontosabb művészeti múzeuma világírű grafikai gyűjteménnyel.",
+                  "category": "museum",
+                  "coords": [
+                        16.36826,
+                        48.204636
+                  ]
+            },
+            {
+                  "name": "Rabenhof",
+                  "text": "Modern színház egy bécsi lakótelepen, amely kabaréiról és szatíráiról ismert.",
+                  "category": "cultural",
+                  "coords": [
+                        16.401665,
+                        48.19582
+                  ]
+            },
+            {
+                  "name": "Metropol",
+                  "text": "Ismert bécsi rendezvényhelyszín zenei esteknek, színháznak és kabarénak.",
+                  "category": "cultural",
+                  "coords": [
+                        16.33422,
+                        48.217006
+                  ]
+            },
+            {
+                  "name": "Theater im Zentrum",
+                  "text": "Gyermekeknek és fiataloknak szóló igényes darabokra szakosodott bécsi színház.",
+                  "category": "cultural",
+                  "coords": [
+                        16.372964,
+                        48.207203
+                  ]
+            },
+            {
+                  "name": "Bank Austria kortárs művészeti fórum",
+                  "text": "Rangos bécsi kiállítóhely, amely a nemzetközi klasszikus modern művészetre összpontosít.",
+                  "category": "museum",
+                  "coords": [
+                        16.366258,
+                        48.211441
+                  ]
+            },
+            {
+                  "name": "Bécsi Építészeti Központ",
+                  "text": "Bécsi központ, amely az építészet közvetítésével és kutatásával foglalkozik.",
+                  "category": "museum",
+                  "coords": [
+                        16.357616,
+                        48.204179
+                  ]
+            },
+            {
+                  "name": "Pfadfindermuseum",
+                  "text": "Kismúzeum Bécsben, amely a cserkészmozgalom történetét mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        16.325881,
+                        48.199936
+                  ]
+            },
+            {
+                  "name": "Kammerspiele",
+                  "text": "Nagy múltú bécsi színház, amely színvonalas szórakoztató darabokat kínál.",
+                  "category": "cultural",
+                  "coords": [
+                        16.375983,
+                        48.211105
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Albertina",
+                  "text": "Unul dintre cele mai importante muzee de artă din Viena, cu o colecție grafică celebră.",
+                  "category": "museum",
+                  "coords": [
+                        16.36826,
+                        48.204636
+                  ]
+            },
+            {
+                  "name": "Rabenhof",
+                  "text": "Un teatru modern într-un complex de locuințe din Viena, cunoscut pentru cabaret și satiră.",
+                  "category": "cultural",
+                  "coords": [
+                        16.401665,
+                        48.19582
+                  ]
+            },
+            {
+                  "name": "Metropol",
+                  "text": "O cunoscută sală de spectacole din Viena pentru muzică, teatru și cabaret.",
+                  "category": "cultural",
+                  "coords": [
+                        16.33422,
+                        48.217006
+                  ]
+            },
+            {
+                  "name": "Theater im Zentrum",
+                  "text": "Un teatru vienez specializat în piese de calitate pentru copii și tineret.",
+                  "category": "cultural",
+                  "coords": [
+                        16.372964,
+                        48.207203
+                  ]
+            },
+            {
+                  "name": "Bank Austria Kunstforum",
+                  "text": "O renumită galerie de artă din Viena, axată pe modernismul clasic internațional.",
+                  "category": "museum",
+                  "coords": [
+                        16.366258,
+                        48.211441
+                  ]
+            },
+            {
+                  "name": "Architekturzentrum Wien",
+                  "text": "Un centru din Viena dedicat medierii și cercetării arhitecturii.",
+                  "category": "museum",
+                  "coords": [
+                        16.357616,
+                        48.204179
+                  ]
+            },
+            {
+                  "name": "Pfadfindermuseum",
+                  "text": "Un mic muzeu în Viena care documentează istoria mișcării cercetașilor.",
+                  "category": "museum",
+                  "coords": [
+                        16.325881,
+                        48.199936
+                  ]
+            },
+            {
+                  "name": "Kammerspiele",
+                  "text": "Un teatru vienez cu tradiție, care oferă spectacole de divertisment de înaltă calitate.",
+                  "category": "cultural",
+                  "coords": [
+                        16.375983,
+                        48.211105
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Albertina",
+                  "text": "One of Vienna's most important art museums, home to a world-famous graphic collection.",
+                  "category": "museum",
+                  "coords": [
+                        16.36826,
+                        48.204636
+                  ]
+            },
+            {
+                  "name": "Rabenhof",
+                  "text": "A modern theatre in a Vienna housing estate, known for cabaret and satire.",
+                  "category": "cultural",
+                  "coords": [
+                        16.401665,
+                        48.19582
+                  ]
+            },
+            {
+                  "name": "Metropol",
+                  "text": "A well-known Vienna venue for music, theatre, and cabaret performances.",
+                  "category": "cultural",
+                  "coords": [
+                        16.33422,
+                        48.217006
+                  ]
+            },
+            {
+                  "name": "Theater im Zentrum",
+                  "text": "A Vienna theatre specializing in high-quality plays for children and young people.",
+                  "category": "cultural",
+                  "coords": [
+                        16.372964,
+                        48.207203
+                  ]
+            },
+            {
+                  "name": "Bank Austria Kunstforum",
+                  "text": "A renowned exhibition venue in Vienna focusing on international classic modern art.",
+                  "category": "museum",
+                  "coords": [
+                        16.366258,
+                        48.211441
+                  ]
+            },
+            {
+                  "name": "Architecture Centre Vienna",
+                  "text": "A centre in Vienna dedicated to the communication and research of architecture.",
+                  "category": "museum",
+                  "coords": [
+                        16.357616,
+                        48.204179
+                  ]
+            },
+            {
+                  "name": "Pfadfindermuseum",
+                  "text": "A small museum in Vienna documenting the history of the scouting movement.",
+                  "category": "museum",
+                  "coords": [
+                        16.325881,
+                        48.199936
+                  ]
+            },
+            {
+                  "name": "Kammerspiele",
+                  "text": "A traditional Vienna theatre offering high-quality entertainment and comedy.",
+                  "category": "cultural",
+                  "coords": [
+                        16.375983,
+                        48.211105
+                  ]
+            }
+      ]
+},
     type: "landmark",
     parent: "AT",
     coords: [16.3583, 48.2084],
@@ -16790,7 +30614,304 @@ export const austriaCities: POI[] = [
     },
   },
   {
-    id: "at-vienna-city-hall",
+    id: "at-vienna-city-hall", "sights": {
+      "de": [
+            {
+                  "name": "Albertina",
+                  "text": "Ein bedeutendes Kunstmuseum in Wien, das eine der weltweit größten grafischen Sammlungen beherbergt.",
+                  "category": "museum",
+                  "coords": [
+                        16.36826,
+                        48.204636
+                  ]
+            },
+            {
+                  "name": "Rabenhof",
+                  "text": "Ein Theater in einem historischen Gemeindebau, bekannt für zeitgenössische Stücke.",
+                  "category": "cultural",
+                  "coords": [
+                        16.401665,
+                        48.19582
+                  ]
+            },
+            {
+                  "name": "Metropol",
+                  "text": "Ein beliebtes Wiener Veranstaltungslokal für Konzerte, Musicals und Kabarett.",
+                  "category": "cultural",
+                  "coords": [
+                        16.33422,
+                        48.217006
+                  ]
+            },
+            {
+                  "name": "Theater im Zentrum",
+                  "text": "Eine Spielstätte des Theaters der Jugend, spezialisiert auf Aufführungen für ein junges Publikum.",
+                  "category": "cultural",
+                  "coords": [
+                        16.372964,
+                        48.207203
+                  ]
+            },
+            {
+                  "name": "Bank Austria Kunstforum",
+                  "text": "Eine private Kunstgalerie in Wien, die Wechselausstellungen moderner und zeitgenössischer Kunst zeigt.",
+                  "category": "museum",
+                  "coords": [
+                        16.366258,
+                        48.211441
+                  ]
+            },
+            {
+                  "name": "Architekturzentrum Wien",
+                  "text": "Ein Museum in Wien, das der Architektur und Baukultur gewidmet ist.",
+                  "category": "museum",
+                  "coords": [
+                        16.357616,
+                        48.204179
+                  ]
+            },
+            {
+                  "name": "Pfadfindermuseum",
+                  "text": "Ein Museum in Wien, das die Geschichte der Pfadfinderbewegung dokumentiert.",
+                  "category": "museum",
+                  "coords": [
+                        16.325881,
+                        48.199936
+                  ]
+            },
+            {
+                  "name": "Kammerspiele",
+                  "text": "Ein traditionsreiches Wiener Theater, das heute Teil des Theaters in der Josefstadt ist.",
+                  "category": "cultural",
+                  "coords": [
+                        16.375983,
+                        48.211105
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Albertina",
+                  "text": "Bécs egyik jelentős művészeti múzeuma, amely a világ egyik legnagyobb grafikai gyűjteményének ad otthont.",
+                  "category": "museum",
+                  "coords": [
+                        16.36826,
+                        48.204636
+                  ]
+            },
+            {
+                  "name": "Rabenhof",
+                  "text": "Egy történelmi önkormányzati lakótelepen található színház, amely kortárs darabjairól ismert.",
+                  "category": "cultural",
+                  "coords": [
+                        16.401665,
+                        48.19582
+                  ]
+            },
+            {
+                  "name": "Metropol",
+                  "text": "Népszerű bécsi szórakozóhely, amely koncerteknek, musicaleknek és kabaréknak ad otthont.",
+                  "category": "cultural",
+                  "coords": [
+                        16.33422,
+                        48.217006
+                  ]
+            },
+            {
+                  "name": "Theater im Zentrum",
+                  "text": "A Theater der Jugend egyik játszóhelye, amely fiatal közönségnek szóló előadásokra szakosodott.",
+                  "category": "cultural",
+                  "coords": [
+                        16.372964,
+                        48.207203
+                  ]
+            },
+            {
+                  "name": "Bank Austria kortárs művészeti fórum",
+                  "text": "Magánművészeti galéria Bécsben, amely modern és kortárs művészeti időszaki kiállításoknak ad otthont.",
+                  "category": "museum",
+                  "coords": [
+                        16.366258,
+                        48.211441
+                  ]
+            },
+            {
+                  "name": "Bécsi Építészeti Központ",
+                  "text": "Bécsi múzeum, amely az építészetnek és az építészeti kultúrának szentelt.",
+                  "category": "museum",
+                  "coords": [
+                        16.357616,
+                        48.204179
+                  ]
+            },
+            {
+                  "name": "Pfadfindermuseum",
+                  "text": "A cserkészmozgalom történetét bemutató múzeum Bécsben.",
+                  "category": "museum",
+                  "coords": [
+                        16.325881,
+                        48.199936
+                  ]
+            },
+            {
+                  "name": "Kammerspiele",
+                  "text": "Nagy múltú bécsi színház, amely ma a Theater in der Josefstadt része.",
+                  "category": "cultural",
+                  "coords": [
+                        16.375983,
+                        48.211105
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Albertina",
+                  "text": "Un important muzeu de artă din Viena, care adăpostește una dintre cele mai mari colecții de grafică din lume.",
+                  "category": "museum",
+                  "coords": [
+                        16.36826,
+                        48.204636
+                  ]
+            },
+            {
+                  "name": "Rabenhof",
+                  "text": "Un teatru situat într-un complex istoric de locuințe municipale, cunoscut pentru piese contemporane.",
+                  "category": "cultural",
+                  "coords": [
+                        16.401665,
+                        48.19582
+                  ]
+            },
+            {
+                  "name": "Metropol",
+                  "text": "O locație populară de divertisment din Viena, care găzduiește concerte, musicaluri și cabaret.",
+                  "category": "cultural",
+                  "coords": [
+                        16.33422,
+                        48.217006
+                  ]
+            },
+            {
+                  "name": "Theater im Zentrum",
+                  "text": "O locație a Theater der Jugend, specializată în spectacole pentru publicul tânăr.",
+                  "category": "cultural",
+                  "coords": [
+                        16.372964,
+                        48.207203
+                  ]
+            },
+            {
+                  "name": "Bank Austria Kunstforum",
+                  "text": "O galerie de artă privată din Viena care găzduiește expoziții temporare de artă modernă și contemporană.",
+                  "category": "museum",
+                  "coords": [
+                        16.366258,
+                        48.211441
+                  ]
+            },
+            {
+                  "name": "Architekturzentrum Wien",
+                  "text": "Un muzeu din Viena dedicat arhitecturii și culturii arhitecturale.",
+                  "category": "museum",
+                  "coords": [
+                        16.357616,
+                        48.204179
+                  ]
+            },
+            {
+                  "name": "Pfadfindermuseum",
+                  "text": "Un muzeu din Viena care documentează istoria mișcării cercetașilor.",
+                  "category": "museum",
+                  "coords": [
+                        16.325881,
+                        48.199936
+                  ]
+            },
+            {
+                  "name": "Kammerspiele",
+                  "text": "Un teatru tradițional din Viena, care astăzi face parte din Theater in der Josefstadt.",
+                  "category": "cultural",
+                  "coords": [
+                        16.375983,
+                        48.211105
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Albertina",
+                  "text": "A major art museum in Vienna housing one of the world's largest print rooms.",
+                  "category": "museum",
+                  "coords": [
+                        16.36826,
+                        48.204636
+                  ]
+            },
+            {
+                  "name": "Rabenhof",
+                  "text": "A theatre located in a historic municipal housing complex, known for contemporary plays.",
+                  "category": "cultural",
+                  "coords": [
+                        16.401665,
+                        48.19582
+                  ]
+            },
+            {
+                  "name": "Metropol",
+                  "text": "A popular entertainment venue in Vienna hosting concerts, musicals, and cabaret.",
+                  "category": "cultural",
+                  "coords": [
+                        16.33422,
+                        48.217006
+                  ]
+            },
+            {
+                  "name": "Theater im Zentrum",
+                  "text": "A venue of the Theater der Jugend, specializing in performances for young audiences.",
+                  "category": "cultural",
+                  "coords": [
+                        16.372964,
+                        48.207203
+                  ]
+            },
+            {
+                  "name": "Bank Austria Kunstforum",
+                  "text": "A private art gallery in Vienna hosting temporary exhibitions of modern and contemporary art.",
+                  "category": "museum",
+                  "coords": [
+                        16.366258,
+                        48.211441
+                  ]
+            },
+            {
+                  "name": "Architecture Centre Vienna",
+                  "text": "A museum in Vienna dedicated to architecture and architectural culture.",
+                  "category": "museum",
+                  "coords": [
+                        16.357616,
+                        48.204179
+                  ]
+            },
+            {
+                  "name": "Pfadfindermuseum",
+                  "text": "A museum in Vienna documenting the history of the Scouting movement.",
+                  "category": "museum",
+                  "coords": [
+                        16.325881,
+                        48.199936
+                  ]
+            },
+            {
+                  "name": "Kammerspiele",
+                  "text": "A traditional Viennese theatre that is now part of the Theater in der Josefstadt.",
+                  "category": "cultural",
+                  "coords": [
+                        16.375983,
+                        48.211105
+                  ]
+            }
+      ]
+},
     type: "landmark",
     parent: "AT",
     coords: [16.3578, 48.2109],
@@ -16834,7 +30955,304 @@ export const austriaCities: POI[] = [
     },
   },
   {
-    id: "at-museumquartier",
+    id: "at-museumquartier", "sights": {
+      "de": [
+            {
+                  "name": "Albertina",
+                  "text": "Ein weltberühmtes Kunstmuseum in Wien mit einer umfangreichen grafischen Sammlung.",
+                  "category": "museum",
+                  "coords": [
+                        16.36826,
+                        48.204636
+                  ]
+            },
+            {
+                  "name": "Rabenhof",
+                  "text": "Ein populäres Wiener Theater, das für sein vielfältiges Programm und seine soziale Satire bekannt ist.",
+                  "category": "cultural",
+                  "coords": [
+                        16.401665,
+                        48.19582
+                  ]
+            },
+            {
+                  "name": "Metropol",
+                  "text": "Ein bekannter Veranstaltungsort in Wien für Musik, Kabarett und Theateraufführungen.",
+                  "category": "cultural",
+                  "coords": [
+                        16.33422,
+                        48.217006
+                  ]
+            },
+            {
+                  "name": "Theater im Zentrum",
+                  "text": "Ein Theater im Wiener Stadtzentrum, das vor allem Stücke für Kinder und Jugendliche zeigt.",
+                  "category": "cultural",
+                  "coords": [
+                        16.372964,
+                        48.207203
+                  ]
+            },
+            {
+                  "name": "Bank Austria Kunstforum",
+                  "text": "Eine bedeutende Wiener Kunstgalerie, die große Wechselausstellungen moderner und klassischer Kunst zeigt.",
+                  "category": "museum",
+                  "coords": [
+                        16.366258,
+                        48.211441
+                  ]
+            },
+            {
+                  "name": "Architekturzentrum Wien",
+                  "text": "Ein Museum und Forschungszentrum im Wiener MuseumsQuartier mit Schwerpunkt auf moderner Architektur.",
+                  "category": "museum",
+                  "coords": [
+                        16.357616,
+                        48.204179
+                  ]
+            },
+            {
+                  "name": "Pfadfindermuseum",
+                  "text": "Ein spezialisiertes Museum in Wien, das der Geschichte der Pfadfinderbewegung gewidmet ist.",
+                  "category": "museum",
+                  "coords": [
+                        16.325881,
+                        48.199936
+                  ]
+            },
+            {
+                  "name": "Kammerspiele",
+                  "text": "Ein historisches Wiener Theater, das zur Bühne des Theaters in der Josefstadt gehört.",
+                  "category": "cultural",
+                  "coords": [
+                        16.375983,
+                        48.211105
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Albertina",
+                  "text": "Világhírű bécsi művészeti múzeum, amely jelentős grafikai gyűjteménnyel rendelkezik.",
+                  "category": "museum",
+                  "coords": [
+                        16.36826,
+                        48.204636
+                  ]
+            },
+            {
+                  "name": "Rabenhof",
+                  "text": "Népszerű bécsi színház, amely változatos programjáról és társadalmi szatíráiról ismert.",
+                  "category": "cultural",
+                  "coords": [
+                        16.401665,
+                        48.19582
+                  ]
+            },
+            {
+                  "name": "Metropol",
+                  "text": "Ismert bécsi szórakozóhely, amely koncerteknek, kabaréknak és színházi előadásoknak ad otthont.",
+                  "category": "cultural",
+                  "coords": [
+                        16.33422,
+                        48.217006
+                  ]
+            },
+            {
+                  "name": "Theater im Zentrum",
+                  "text": "Bécs belvárosában található színház, amely elsősorban gyermek- és ifjúsági előadásokra szakosodott.",
+                  "category": "cultural",
+                  "coords": [
+                        16.372964,
+                        48.207203
+                  ]
+            },
+            {
+                  "name": "Bank Austria kortárs művészeti fórum",
+                  "text": "Jelentős bécsi művészeti galéria, amely modern és klasszikus művészeti időszaki kiállításoknak ad otthont.",
+                  "category": "museum",
+                  "coords": [
+                        16.366258,
+                        48.211441
+                  ]
+            },
+            {
+                  "name": "Bécsi Építészeti Központ",
+                  "text": "A bécsi MuseumsQuartier területén található múzeum és kutatóhely, amely a modern építészetre összpontosít.",
+                  "category": "museum",
+                  "coords": [
+                        16.357616,
+                        48.204179
+                  ]
+            },
+            {
+                  "name": "Pfadfindermuseum",
+                  "text": "Speciális bécsi múzeum, amely a cserkészmozgalom történetét mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        16.325881,
+                        48.199936
+                  ]
+            },
+            {
+                  "name": "Kammerspiele",
+                  "text": "Történelmi bécsi színház, amely a Theater in der Josefstadt részét képezi.",
+                  "category": "cultural",
+                  "coords": [
+                        16.375983,
+                        48.211105
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Albertina",
+                  "text": "Un muzeu de artă de renume mondial din Viena, care adăpostește o colecție vastă de artă grafică.",
+                  "category": "museum",
+                  "coords": [
+                        16.36826,
+                        48.204636
+                  ]
+            },
+            {
+                  "name": "Rabenhof",
+                  "text": "Un teatru popular din Viena, cunoscut pentru programul său divers și satira socială.",
+                  "category": "cultural",
+                  "coords": [
+                        16.401665,
+                        48.19582
+                  ]
+            },
+            {
+                  "name": "Metropol",
+                  "text": "O locație cunoscută din Viena care găzduiește spectacole de muzică, cabaret și teatru.",
+                  "category": "cultural",
+                  "coords": [
+                        16.33422,
+                        48.217006
+                  ]
+            },
+            {
+                  "name": "Theater im Zentrum",
+                  "text": "Un teatru din centrul Vienei, dedicat în principal spectacolelor pentru copii și tineret.",
+                  "category": "cultural",
+                  "coords": [
+                        16.372964,
+                        48.207203
+                  ]
+            },
+            {
+                  "name": "Bank Austria Kunstforum",
+                  "text": "O galerie de artă proeminentă din Viena, care găzduiește expoziții temporare majore de artă modernă și clasică.",
+                  "category": "museum",
+                  "coords": [
+                        16.366258,
+                        48.211441
+                  ]
+            },
+            {
+                  "name": "Architekturzentrum Wien",
+                  "text": "Un muzeu și centru de cercetare din MuseumsQuartier, Viena, concentrat pe arhitectura modernă.",
+                  "category": "museum",
+                  "coords": [
+                        16.357616,
+                        48.204179
+                  ]
+            },
+            {
+                  "name": "Pfadfindermuseum",
+                  "text": "Un muzeu specializat din Viena, dedicat istoriei mișcării cercetașilor.",
+                  "category": "museum",
+                  "coords": [
+                        16.325881,
+                        48.199936
+                  ]
+            },
+            {
+                  "name": "Kammerspiele",
+                  "text": "Un teatru istoric din Viena, care face parte din ansamblul Theater in der Josefstadt.",
+                  "category": "cultural",
+                  "coords": [
+                        16.375983,
+                        48.211105
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Albertina",
+                  "text": "A world-famous art museum in Vienna housing an extensive collection of graphic arts.",
+                  "category": "museum",
+                  "coords": [
+                        16.36826,
+                        48.204636
+                  ]
+            },
+            {
+                  "name": "Rabenhof",
+                  "text": "A popular theatre in Vienna known for its diverse program and social satire.",
+                  "category": "cultural",
+                  "coords": [
+                        16.401665,
+                        48.19582
+                  ]
+            },
+            {
+                  "name": "Metropol",
+                  "text": "A well-known venue in Vienna hosting music, cabaret, and theatre performances.",
+                  "category": "cultural",
+                  "coords": [
+                        16.33422,
+                        48.217006
+                  ]
+            },
+            {
+                  "name": "Theater im Zentrum",
+                  "text": "A theatre in Vienna's city center dedicated primarily to performances for children and youth.",
+                  "category": "cultural",
+                  "coords": [
+                        16.372964,
+                        48.207203
+                  ]
+            },
+            {
+                  "name": "Bank Austria Kunstforum",
+                  "text": "A prominent art gallery in Vienna hosting major temporary exhibitions of modern and classical art.",
+                  "category": "museum",
+                  "coords": [
+                        16.366258,
+                        48.211441
+                  ]
+            },
+            {
+                  "name": "Architecture Centre Vienna",
+                  "text": "A museum and research facility in Vienna's MuseumsQuartier focused on modern architecture.",
+                  "category": "museum",
+                  "coords": [
+                        16.357616,
+                        48.204179
+                  ]
+            },
+            {
+                  "name": "Pfadfindermuseum",
+                  "text": "A specialized museum in Vienna dedicated to the history of the scouting movement.",
+                  "category": "museum",
+                  "coords": [
+                        16.325881,
+                        48.199936
+                  ]
+            },
+            {
+                  "name": "Kammerspiele",
+                  "text": "A historic theatre in Vienna forming part of the Theater in der Josefstadt.",
+                  "category": "cultural",
+                  "coords": [
+                        16.375983,
+                        48.211105
+                  ]
+            }
+      ]
+},
     type: "landmark",
     parent: "AT",
     coords: [16.3598, 48.2040],
@@ -16878,7 +31296,304 @@ export const austriaCities: POI[] = [
     },
   },
   {
-    id: "at-haus-der-musik",
+    id: "at-haus-der-musik", "sights": {
+      "de": [
+            {
+                  "name": "Albertina",
+                  "text": "Die Albertina ist ein weltberühmtes Kunstmuseum in Wien mit einer bedeutenden grafischen Sammlung.",
+                  "category": "museum",
+                  "coords": [
+                        16.36826,
+                        48.204636
+                  ]
+            },
+            {
+                  "name": "Metropol",
+                  "text": "Das Metropol ist ein bekanntes Veranstaltungs- und Theaterzentrum in Wien.",
+                  "category": "cultural",
+                  "coords": [
+                        16.33422,
+                        48.217006
+                  ]
+            },
+            {
+                  "name": "Theater im Zentrum",
+                  "text": "Dieses Wiener Theater gehört zum Theater der Jugend und konzentriert sich auf junges Publikum.",
+                  "category": "cultural",
+                  "coords": [
+                        16.372964,
+                        48.207203
+                  ]
+            },
+            {
+                  "name": "Bank Austria Kunstforum",
+                  "text": "Das Bank Austria Kunstforum ist ein renommiertes Ausstellungshaus für moderne Kunst in Wien.",
+                  "category": "museum",
+                  "coords": [
+                        16.366258,
+                        48.211441
+                  ]
+            },
+            {
+                  "name": "Architekturzentrum Wien",
+                  "text": "Das Architekturzentrum Wien ist ein Museum, das der Architektur und Baukultur gewidmet ist.",
+                  "category": "museum",
+                  "coords": [
+                        16.357616,
+                        48.204179
+                  ]
+            },
+            {
+                  "name": "Pfadfindermuseum",
+                  "text": "Dieses Museum dokumentiert die Geschichte der Pfadfinderbewegung in Österreich.",
+                  "category": "museum",
+                  "coords": [
+                        16.325881,
+                        48.199936
+                  ]
+            },
+            {
+                  "name": "Kammerspiele",
+                  "text": "Die Kammerspiele sind eine traditionsreiche Spielstätte des Theaters in der Josefstadt.",
+                  "category": "cultural",
+                  "coords": [
+                        16.375983,
+                        48.211105
+                  ]
+            },
+            {
+                  "name": "Jüdisches Museum Wien",
+                  "text": "Das Jüdische Museum Wien zeigt die Geschichte und Kultur der jüdischen Gemeinde der Stadt.",
+                  "category": "museum",
+                  "coords": [
+                        16.369293,
+                        48.20713
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Albertina",
+                  "text": "Az Albertina egy világhírű bécsi művészeti múzeum jelentős grafikai gyűjteménnyel.",
+                  "category": "museum",
+                  "coords": [
+                        16.36826,
+                        48.204636
+                  ]
+            },
+            {
+                  "name": "Metropol",
+                  "text": "A Metropol egy ismert bécsi rendezvény- és színházi központ.",
+                  "category": "cultural",
+                  "coords": [
+                        16.33422,
+                        48.217006
+                  ]
+            },
+            {
+                  "name": "Theater im Zentrum",
+                  "text": "Ez a bécsi színház az Ifjúsági Színház része, és a fiatal közönségre összpontosít.",
+                  "category": "cultural",
+                  "coords": [
+                        16.372964,
+                        48.207203
+                  ]
+            },
+            {
+                  "name": "Bank Austria kortárs művészeti fórum",
+                  "text": "A Bank Austria Kunstforum egy neves bécsi kiállítóhely a modern művészet számára.",
+                  "category": "museum",
+                  "coords": [
+                        16.366258,
+                        48.211441
+                  ]
+            },
+            {
+                  "name": "Bécsi Építészeti Központ",
+                  "text": "Az Architekturzentrum Wien az építészetnek és az építészeti kultúrának szentelt múzeum.",
+                  "category": "museum",
+                  "coords": [
+                        16.357616,
+                        48.204179
+                  ]
+            },
+            {
+                  "name": "Pfadfindermuseum",
+                  "text": "Ez a múzeum a cserkészmozgalom történetét mutatja be Ausztriában.",
+                  "category": "museum",
+                  "coords": [
+                        16.325881,
+                        48.199936
+                  ]
+            },
+            {
+                  "name": "Kammerspiele",
+                  "text": "A Kammerspiele a Theater in der Josefstadt nagy múltú játszóhelye.",
+                  "category": "cultural",
+                  "coords": [
+                        16.375983,
+                        48.211105
+                  ]
+            },
+            {
+                  "name": "Bécsi Zsidó Múzeum",
+                  "text": "A Zsidó Múzeum Bécs város zsidó közösségének történelmét és kultúráját mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        16.369293,
+                        48.20713
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Albertina",
+                  "text": "Albertina este un muzeu de artă de renume mondial din Viena, cu o colecție grafică importantă.",
+                  "category": "museum",
+                  "coords": [
+                        16.36826,
+                        48.204636
+                  ]
+            },
+            {
+                  "name": "Metropol",
+                  "text": "Metropol este un cunoscut centru de evenimente și teatru din Viena.",
+                  "category": "cultural",
+                  "coords": [
+                        16.33422,
+                        48.217006
+                  ]
+            },
+            {
+                  "name": "Theater im Zentrum",
+                  "text": "Acest teatru vienez face parte din Teatrul Tineretului și se concentrează pe publicul tânăr.",
+                  "category": "cultural",
+                  "coords": [
+                        16.372964,
+                        48.207203
+                  ]
+            },
+            {
+                  "name": "Bank Austria Kunstforum",
+                  "text": "Bank Austria Kunstforum este un renumit spațiu de expoziții de artă modernă din Viena.",
+                  "category": "museum",
+                  "coords": [
+                        16.366258,
+                        48.211441
+                  ]
+            },
+            {
+                  "name": "Architekturzentrum Wien",
+                  "text": "Centrul de Arhitectură din Viena este un muzeu dedicat arhitecturii și culturii construcțiilor.",
+                  "category": "museum",
+                  "coords": [
+                        16.357616,
+                        48.204179
+                  ]
+            },
+            {
+                  "name": "Pfadfindermuseum",
+                  "text": "Acest muzeu documentează istoria mișcării cercetașilor din Austria.",
+                  "category": "museum",
+                  "coords": [
+                        16.325881,
+                        48.199936
+                  ]
+            },
+            {
+                  "name": "Kammerspiele",
+                  "text": "Kammerspiele este o locație cu tradiție a Teatrului din Josefstadt.",
+                  "category": "cultural",
+                  "coords": [
+                        16.375983,
+                        48.211105
+                  ]
+            },
+            {
+                  "name": "Jüdisches Museum Wien",
+                  "text": "Muzeul Evreiesc din Viena prezintă istoria și cultura comunității evreiești din oraș.",
+                  "category": "museum",
+                  "coords": [
+                        16.369293,
+                        48.20713
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Albertina",
+                  "text": "The Albertina is a world-famous art museum in Vienna housing a significant graphic collection.",
+                  "category": "museum",
+                  "coords": [
+                        16.36826,
+                        48.204636
+                  ]
+            },
+            {
+                  "name": "Metropol",
+                  "text": "The Metropol is a well-known event and theatre center in Vienna.",
+                  "category": "cultural",
+                  "coords": [
+                        16.33422,
+                        48.217006
+                  ]
+            },
+            {
+                  "name": "Theater im Zentrum",
+                  "text": "This Viennese theatre is part of the Theater der Jugend and focuses on young audiences.",
+                  "category": "cultural",
+                  "coords": [
+                        16.372964,
+                        48.207203
+                  ]
+            },
+            {
+                  "name": "Bank Austria Kunstforum",
+                  "text": "The Bank Austria Kunstforum is a renowned exhibition venue for modern art in Vienna.",
+                  "category": "museum",
+                  "coords": [
+                        16.366258,
+                        48.211441
+                  ]
+            },
+            {
+                  "name": "Architecture Centre Vienna",
+                  "text": "The Architecture Centre Vienna is a museum dedicated to architecture and building culture.",
+                  "category": "museum",
+                  "coords": [
+                        16.357616,
+                        48.204179
+                  ]
+            },
+            {
+                  "name": "Pfadfindermuseum",
+                  "text": "This museum documents the history of the scouting movement in Austria.",
+                  "category": "museum",
+                  "coords": [
+                        16.325881,
+                        48.199936
+                  ]
+            },
+            {
+                  "name": "Kammerspiele",
+                  "text": "The Kammerspiele is a long-standing theatre venue of the Theater in der Josefstadt.",
+                  "category": "cultural",
+                  "coords": [
+                        16.375983,
+                        48.211105
+                  ]
+            },
+            {
+                  "name": "Jewish Museum Vienna",
+                  "text": "The Jewish Museum Vienna showcases the history and culture of the city's Jewish community.",
+                  "category": "museum",
+                  "coords": [
+                        16.369293,
+                        48.20713
+                  ]
+            }
+      ]
+},
     type: "landmark",
     parent: "AT",
     coords: [16.3730, 48.2079],
@@ -16922,7 +31637,304 @@ export const austriaCities: POI[] = [
     },
   },
   {
-    id: "at-ankeruhr",
+    id: "at-ankeruhr", "sights": {
+      "de": [
+            {
+                  "name": "Rabenhof",
+                  "text": "Ein beliebtes Theater in einem historischen Gemeindebau in Wien.",
+                  "category": "cultural",
+                  "coords": [
+                        16.401665,
+                        48.19582
+                  ]
+            },
+            {
+                  "name": "Metropol",
+                  "text": "Ein bekannter Veranstaltungsort für Konzerte und Musiktheater in Wien.",
+                  "category": "cultural",
+                  "coords": [
+                        16.33422,
+                        48.217006
+                  ]
+            },
+            {
+                  "name": "Theater im Zentrum",
+                  "text": "Ein bekanntes Kinder- und Jugendtheater im Zentrum von Wien.",
+                  "category": "cultural",
+                  "coords": [
+                        16.372964,
+                        48.207203
+                  ]
+            },
+            {
+                  "name": "Bank Austria Kunstforum",
+                  "text": "Ein bedeutendes Kunstmuseum in Wien, das wichtige Wechselausstellungen zeigt.",
+                  "category": "museum",
+                  "coords": [
+                        16.366258,
+                        48.211441
+                  ]
+            },
+            {
+                  "name": "Architekturzentrum Wien",
+                  "text": "Österreichs Architekturmuseum im Wiener MuseumsQuartier.",
+                  "category": "museum",
+                  "coords": [
+                        16.357616,
+                        48.204179
+                  ]
+            },
+            {
+                  "name": "Pfadfindermuseum",
+                  "text": "Ein Museum in Wien, das der Geschichte der Pfadfinderbewegung gewidmet ist.",
+                  "category": "museum",
+                  "coords": [
+                        16.325881,
+                        48.199936
+                  ]
+            },
+            {
+                  "name": "Kammerspiele",
+                  "text": "Eine traditionelle Wiener Spielstätte, die zum Theater in der Josefstadt gehört.",
+                  "category": "cultural",
+                  "coords": [
+                        16.375983,
+                        48.211105
+                  ]
+            },
+            {
+                  "name": "Jüdisches Museum Wien",
+                  "text": "Ein Museum, das die Geschichte und das Leben der jüdischen Gemeinde in Wien dokumentiert.",
+                  "category": "museum",
+                  "coords": [
+                        16.369293,
+                        48.20713
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Rabenhof",
+                  "text": "Népszerű színház Bécs egyik történelmi lakóépületében.",
+                  "category": "cultural",
+                  "coords": [
+                        16.401665,
+                        48.19582
+                  ]
+            },
+            {
+                  "name": "Metropol",
+                  "text": "Ismert koncerthelyszín és zenés színház Bécsben.",
+                  "category": "cultural",
+                  "coords": [
+                        16.33422,
+                        48.217006
+                  ]
+            },
+            {
+                  "name": "Theater im Zentrum",
+                  "text": "Jelentős gyermek- és ifjúsági színház Bécs központjában.",
+                  "category": "cultural",
+                  "coords": [
+                        16.372964,
+                        48.207203
+                  ]
+            },
+            {
+                  "name": "Bank Austria kortárs művészeti fórum",
+                  "text": "Bécs egyik jelentős művészeti múzeuma, amely fontos időszaki kiállításoknak ad otthont.",
+                  "category": "museum",
+                  "coords": [
+                        16.366258,
+                        48.211441
+                  ]
+            },
+            {
+                  "name": "Bécsi Építészeti Központ",
+                  "text": "Ausztria építészeti múzeuma a bécsi MuseumsQuartier területén.",
+                  "category": "museum",
+                  "coords": [
+                        16.357616,
+                        48.204179
+                  ]
+            },
+            {
+                  "name": "Pfadfindermuseum",
+                  "text": "A cserkészmozgalom történetének szentelt múzeum Bécsben.",
+                  "category": "museum",
+                  "coords": [
+                        16.325881,
+                        48.199936
+                  ]
+            },
+            {
+                  "name": "Kammerspiele",
+                  "text": "Tradicionális bécsi színház, a Theater in der Josefstadt része.",
+                  "category": "cultural",
+                  "coords": [
+                        16.375983,
+                        48.211105
+                  ]
+            },
+            {
+                  "name": "Bécsi Zsidó Múzeum",
+                  "text": "A bécsi zsidó közösség történelmét és életét bemutató múzeum.",
+                  "category": "museum",
+                  "coords": [
+                        16.369293,
+                        48.20713
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Rabenhof",
+                  "text": "Un teatru popular situat într-un complex rezidențial istoric din Viena.",
+                  "category": "cultural",
+                  "coords": [
+                        16.401665,
+                        48.19582
+                  ]
+            },
+            {
+                  "name": "Metropol",
+                  "text": "O locație cunoscută pentru concerte și teatru muzical din Viena.",
+                  "category": "cultural",
+                  "coords": [
+                        16.33422,
+                        48.217006
+                  ]
+            },
+            {
+                  "name": "Theater im Zentrum",
+                  "text": "Un important teatru pentru copii și tineret situat în inima Vienei.",
+                  "category": "cultural",
+                  "coords": [
+                        16.372964,
+                        48.207203
+                  ]
+            },
+            {
+                  "name": "Bank Austria Kunstforum",
+                  "text": "Un muzeu de artă major din Viena care găzduiește expoziții temporare importante.",
+                  "category": "museum",
+                  "coords": [
+                        16.366258,
+                        48.211441
+                  ]
+            },
+            {
+                  "name": "Architekturzentrum Wien",
+                  "text": "Muzeul național de arhitectură al Austriei, situat în cartierul muzeelor din Viena.",
+                  "category": "museum",
+                  "coords": [
+                        16.357616,
+                        48.204179
+                  ]
+            },
+            {
+                  "name": "Pfadfindermuseum",
+                  "text": "Un muzeu din Viena dedicat istoriei mișcării de cercetași.",
+                  "category": "museum",
+                  "coords": [
+                        16.325881,
+                        48.199936
+                  ]
+            },
+            {
+                  "name": "Kammerspiele",
+                  "text": "O sală de teatru tradițională din Viena, parte a teatrului din Josefstadt.",
+                  "category": "cultural",
+                  "coords": [
+                        16.375983,
+                        48.211105
+                  ]
+            },
+            {
+                  "name": "Jüdisches Museum Wien",
+                  "text": "Un muzeu care documentează istoria și viața comunității evreiești din Viena.",
+                  "category": "museum",
+                  "coords": [
+                        16.369293,
+                        48.20713
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Rabenhof",
+                  "text": "A popular theatre venue located in a historic residential complex in Vienna.",
+                  "category": "cultural",
+                  "coords": [
+                        16.401665,
+                        48.19582
+                  ]
+            },
+            {
+                  "name": "Metropol",
+                  "text": "A well-known venue for concerts and musical theatre in Vienna.",
+                  "category": "cultural",
+                  "coords": [
+                        16.33422,
+                        48.217006
+                  ]
+            },
+            {
+                  "name": "Theater im Zentrum",
+                  "text": "A prominent children's and youth theatre located in the heart of Vienna.",
+                  "category": "cultural",
+                  "coords": [
+                        16.372964,
+                        48.207203
+                  ]
+            },
+            {
+                  "name": "Bank Austria Kunstforum",
+                  "text": "A major art museum in Vienna hosting significant temporary exhibitions.",
+                  "category": "museum",
+                  "coords": [
+                        16.366258,
+                        48.211441
+                  ]
+            },
+            {
+                  "name": "Architecture Centre Vienna",
+                  "text": "Austria's national museum for architecture, located in the MuseumsQuartier.",
+                  "category": "museum",
+                  "coords": [
+                        16.357616,
+                        48.204179
+                  ]
+            },
+            {
+                  "name": "Pfadfindermuseum",
+                  "text": "A museum in Vienna dedicated to the history of the scouting movement.",
+                  "category": "museum",
+                  "coords": [
+                        16.325881,
+                        48.199936
+                  ]
+            },
+            {
+                  "name": "Kammerspiele",
+                  "text": "A traditional theatre venue in Vienna, part of the Theater in der Josefstadt.",
+                  "category": "cultural",
+                  "coords": [
+                        16.375983,
+                        48.211105
+                  ]
+            },
+            {
+                  "name": "Jewish Museum Vienna",
+                  "text": "A museum documenting the history and life of the Jewish community in Vienna.",
+                  "category": "museum",
+                  "coords": [
+                        16.369293,
+                        48.20713
+                  ]
+            }
+      ]
+},
     type: "landmark",
     parent: "AT",
     coords: [16.3734, 48.2087],
@@ -17143,7 +32155,268 @@ export const austriaCities: POI[] = [
     },
   },
   {
-    id: "at-wachau-vineyards",
+    id: "at-wachau-vineyards", "sights": {
+      "de": [
+            {
+                  "name": "Türkentor",
+                  "text": "Ein historisches Tor und archäologische Stätte in der Wachau.",
+                  "category": "historical",
+                  "coords": [
+                        15.457804,
+                        48.357584
+                  ]
+            },
+            {
+                  "name": "Schloss Spitz-Niederhaus",
+                  "text": "Ein Schloss in Spitz an der Donau, das unterhalb der Ruine Hinterhaus liegt.",
+                  "category": "castle",
+                  "coords": [
+                        15.412728,
+                        48.36572
+                  ]
+            },
+            {
+                  "name": "Ruine Hinterhaus",
+                  "text": "Eine markante Burgruine über dem Ort Spitz in der Wachau.",
+                  "category": "castle",
+                  "coords": [
+                        15.407076,
+                        48.358656
+                  ]
+            },
+            {
+                  "name": "Pfarrkirche Weißenkirchen",
+                  "text": "Diese wehrhafte Pfarrkirche prägt das Ortsbild von Weißenkirchen in der Wachau.",
+                  "category": "castle",
+                  "coords": [
+                        15.470239,
+                        48.398037
+                  ]
+            },
+            {
+                  "name": "Schloss Hofarnsdorf",
+                  "text": "Ein historisches Schloss am rechten Ufer der Donau in der Wachau.",
+                  "category": "castle",
+                  "coords": [
+                        15.427421,
+                        48.364236
+                  ]
+            },
+            {
+                  "name": "Gunther Philipp Museum",
+                  "text": "Ein Museum in der Wachau, das dem Schauspieler Gunther Philipp gewidmet ist.",
+                  "category": "museum",
+                  "coords": [
+                        15.421562,
+                        48.367432
+                  ]
+            },
+            {
+                  "name": "7 Gräber",
+                  "text": "Eine archäologische Fundstelle mit antiken Gräbern in der Wachau.",
+                  "category": "historical",
+                  "coords": [
+                        15.504381,
+                        48.363207
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Türkentor",
+                  "text": "Történelmi kapu és régészeti helyszín a Wachau-völgyben.",
+                  "category": "historical",
+                  "coords": [
+                        15.457804,
+                        48.357584
+                  ]
+            },
+            {
+                  "name": "Schloss Spitz-Niederhaus",
+                  "text": "Kastély a Duna-parti Spitzben, a Hinterhaus-rom alatt.",
+                  "category": "castle",
+                  "coords": [
+                        15.412728,
+                        48.36572
+                  ]
+            },
+            {
+                  "name": "Ruine Hinterhaus",
+                  "text": "Jellegzetes várrom a wachaui Spitz település felett.",
+                  "category": "castle",
+                  "coords": [
+                        15.407076,
+                        48.358656
+                  ]
+            },
+            {
+                  "name": "Pfarrkirche Weißenkirchen",
+                  "text": "Ez az erődtemplom meghatározza a wachaui Weißenkirchen látképét.",
+                  "category": "castle",
+                  "coords": [
+                        15.470239,
+                        48.398037
+                  ]
+            },
+            {
+                  "name": "Schloss Hofarnsdorf",
+                  "text": "Történelmi kastély a Duna jobb partján, a Wachau-völgyben.",
+                  "category": "castle",
+                  "coords": [
+                        15.427421,
+                        48.364236
+                  ]
+            },
+            {
+                  "name": "Gunther Philipp Museum",
+                  "text": "A Wachau-völgyben található múzeum, amelyet Gunther Philipp színésznek szenteltek.",
+                  "category": "museum",
+                  "coords": [
+                        15.421562,
+                        48.367432
+                  ]
+            },
+            {
+                  "name": "7 Gräber",
+                  "text": "Régészeti lelőhely ókori sírokkal a Wachau-völgyben.",
+                  "category": "historical",
+                  "coords": [
+                        15.504381,
+                        48.363207
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Türkentor",
+                  "text": "O poartă istorică și sit arheologic în regiunea Wachau.",
+                  "category": "historical",
+                  "coords": [
+                        15.457804,
+                        48.357584
+                  ]
+            },
+            {
+                  "name": "Schloss Spitz-Niederhaus",
+                  "text": "Un castel din Spitz, pe Dunăre, situat sub ruina Hinterhaus.",
+                  "category": "castle",
+                  "coords": [
+                        15.412728,
+                        48.36572
+                  ]
+            },
+            {
+                  "name": "Ruine Hinterhaus",
+                  "text": "O ruină de castel proeminentă deasupra localității Spitz din Wachau.",
+                  "category": "castle",
+                  "coords": [
+                        15.407076,
+                        48.358656
+                  ]
+            },
+            {
+                  "name": "Pfarrkirche Weißenkirchen",
+                  "text": "Această biserică parohială fortificată domină peisajul din Weißenkirchen in der Wachau.",
+                  "category": "castle",
+                  "coords": [
+                        15.470239,
+                        48.398037
+                  ]
+            },
+            {
+                  "name": "Schloss Hofarnsdorf",
+                  "text": "Un castel istoric pe malul drept al Dunării, în Wachau.",
+                  "category": "castle",
+                  "coords": [
+                        15.427421,
+                        48.364236
+                  ]
+            },
+            {
+                  "name": "Gunther Philipp Museum",
+                  "text": "Un muzeu din Wachau dedicat actorului Gunther Philipp.",
+                  "category": "museum",
+                  "coords": [
+                        15.421562,
+                        48.367432
+                  ]
+            },
+            {
+                  "name": "7 Gräber",
+                  "text": "Un sit arheologic cu morminte antice în Wachau.",
+                  "category": "historical",
+                  "coords": [
+                        15.504381,
+                        48.363207
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Türkentor",
+                  "text": "A historic gate and archaeological site in the Wachau region.",
+                  "category": "historical",
+                  "coords": [
+                        15.457804,
+                        48.357584
+                  ]
+            },
+            {
+                  "name": "Schloss Spitz-Niederhaus",
+                  "text": "A castle in Spitz on the Danube, located below the Hinterhaus ruins.",
+                  "category": "castle",
+                  "coords": [
+                        15.412728,
+                        48.36572
+                  ]
+            },
+            {
+                  "name": "Ruine Hinterhaus",
+                  "text": "A prominent castle ruin overlooking the town of Spitz in the Wachau.",
+                  "category": "castle",
+                  "coords": [
+                        15.407076,
+                        48.358656
+                  ]
+            },
+            {
+                  "name": "Pfarrkirche Weißenkirchen",
+                  "text": "This fortified parish church characterizes the cityscape of Weißenkirchen in the Wachau.",
+                  "category": "castle",
+                  "coords": [
+                        15.470239,
+                        48.398037
+                  ]
+            },
+            {
+                  "name": "Schloss Hofarnsdorf",
+                  "text": "A historic castle on the right bank of the Danube in the Wachau.",
+                  "category": "castle",
+                  "coords": [
+                        15.427421,
+                        48.364236
+                  ]
+            },
+            {
+                  "name": "Gunther Philipp Museum",
+                  "text": "A museum in the Wachau dedicated to the actor Gunther Philipp.",
+                  "category": "museum",
+                  "coords": [
+                        15.421562,
+                        48.367432
+                  ]
+            },
+            {
+                  "name": "7 Gräber",
+                  "text": "An archaeological site featuring ancient graves in the Wachau.",
+                  "category": "historical",
+                  "coords": [
+                        15.504381,
+                        48.363207
+                  ]
+            }
+      ]
+},
     type: "agriculture",
     parent: "AT",
     coords: [15.4560, 48.3660],
