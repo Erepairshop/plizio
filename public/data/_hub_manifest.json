@@ -1,0 +1,146 @@
+{
+  "hr": {
+    "attractions": {
+      "de": "kroatien-sehenswuerdigkeiten",
+      "hu": "horvatorszag-latnivalok",
+      "ro": "croatia-obiective-turistice",
+      "en": "croatia-attractions"
+    }
+  },
+  "de": {
+    "attractions": {
+      "de": "deutschland-sehenswuerdigkeiten",
+      "hu": "nemetorszag-latnivalok",
+      "ro": "germania-obiective-turistice",
+      "en": "germany-attractions"
+    }
+  },
+  "at": {
+    "attractions": {
+      "de": "oesterreich-sehenswuerdigkeiten",
+      "hu": "ausztria-latnivalok",
+      "ro": "austria-obiective-turistice",
+      "en": "austria-attractions"
+    }
+  },
+  "ch": {
+    "attractions": {
+      "de": "schweiz-sehenswuerdigkeiten",
+      "hu": "svajc-latnivalok",
+      "ro": "elvetia-obiective-turistice",
+      "en": "switzerland-attractions"
+    }
+  },
+  "fr": {
+    "attractions": {
+      "de": "frankreich-sehenswuerdigkeiten",
+      "hu": "franciaorszag-latnivalok",
+      "ro": "franta-obiective-turistice",
+      "en": "france-attractions"
+    }
+  },
+  "it": {
+    "attractions": {
+      "de": "italien-sehenswuerdigkeiten",
+      "hu": "olaszorszag-latnivalok",
+      "ro": "italia-obiective-turistice",
+      "en": "italy-attractions"
+    }
+  },
+  "es": {
+    "attractions": {
+      "de": "spanien-sehenswuerdigkeiten",
+      "hu": "spanyolorszag-latnivalok",
+      "ro": "spania-obiective-turistice",
+      "en": "spain-attractions"
+    }
+  },
+  "pt": {
+    "attractions": {
+      "de": "portugal-sehenswuerdigkeiten",
+      "hu": "portugalia-latnivalok",
+      "ro": "portugalia-obiective-turistice",
+      "en": "portugal-attractions"
+    }
+  },
+  "nl": {
+    "attractions": {
+      "de": "niederlande-sehenswuerdigkeiten",
+      "hu": "hollandia-latnivalok",
+      "ro": "tarile-de-jos-obiective-turistice",
+      "en": "netherlands-attractions"
+    }
+  },
+  "be": {
+    "attractions": {
+      "de": "belgien-sehenswuerdigkeiten",
+      "hu": "belgium-latnivalok",
+      "ro": "belgia-obiective-turistice",
+      "en": "belgium-attractions"
+    }
+  },
+  "gr": {
+    "attractions": {
+      "de": "griechenland-sehenswuerdigkeiten",
+      "hu": "goeroegorszag-latnivalok",
+      "ro": "grecia-obiective-turistice",
+      "en": "greece-attractions"
+    }
+  },
+  "pl": {
+    "attractions": {
+      "de": "polen-sehenswuerdigkeiten",
+      "hu": "lengyelorszag-latnivalok",
+      "ro": "polonia-obiective-turistice",
+      "en": "poland-attractions"
+    }
+  },
+  "cz": {
+    "attractions": {
+      "de": "tschechien-sehenswuerdigkeiten",
+      "hu": "csehorszag-latnivalok",
+      "ro": "cehia-obiective-turistice",
+      "en": "czechia-attractions"
+    }
+  },
+  "hu": {
+    "attractions": {
+      "de": "ungarn-sehenswuerdigkeiten",
+      "hu": "magyarorszag-latnivalok",
+      "ro": "ungaria-obiective-turistice",
+      "en": "hungary-attractions"
+    }
+  },
+  "ro": {
+    "attractions": {
+      "de": "rumaenien-sehenswuerdigkeiten",
+      "hu": "romania-latnivalok",
+      "ro": "romania-obiective-turistice",
+      "en": "romania-attractions"
+    }
+  },
+  "ie": {
+    "attractions": {
+      "de": "irland-sehenswuerdigkeiten",
+      "hu": "irorszag-latnivalok",
+      "ro": "irlanda-obiective-turistice",
+      "en": "ireland-attractions"
+    }
+  },
+  "si": {
+    "attractions": {
+      "de": "slowenien-sehenswuerdigkeiten",
+      "hu": "szlovenia-latnivalok",
+      "ro": "slovenia-obiective-turistice",
+      "en": "slovenia-attractions"
+    }
+  },
+  "sk": {
+    "attractions": {
+      "de": "slowakei-sehenswuerdigkeiten",
+      "hu": "szlovakia-latnivalok",
+      "ro": "slovacia-obiective-turistice",
+      "en": "slovakia-attractions"
+    }
+  }
+}

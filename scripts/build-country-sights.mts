@@ -93,6 +93,23 @@ type POI = { id: string; type?: string; parent?: string; coords?: number[]; imag
 type CountryCfg = { iso: string; mapSlug: string; names: Record<Lang, string> };
 const COUNTRIES: CountryCfg[] = [
   { iso: "hr", mapSlug: "croatia", names: { de: "Kroatien", hu: "Horvátország", ro: "Croația", en: "Croatia" } },
+  { iso: "de", mapSlug: "deutschland", names: { de: "Deutschland", hu: "Németország", ro: "Germania", en: "Germany" } },
+  { iso: "at", mapSlug: "austria", names: { de: "Österreich", hu: "Ausztria", ro: "Austria", en: "Austria" } },
+  { iso: "ch", mapSlug: "switzerland", names: { de: "Schweiz", hu: "Svájc", ro: "Elveția", en: "Switzerland" } },
+  { iso: "fr", mapSlug: "france", names: { de: "Frankreich", hu: "Franciaország", ro: "Franța", en: "France" } },
+  { iso: "it", mapSlug: "italy", names: { de: "Italien", hu: "Olaszország", ro: "Italia", en: "Italy" } },
+  { iso: "es", mapSlug: "spain", names: { de: "Spanien", hu: "Spanyolország", ro: "Spania", en: "Spain" } },
+  { iso: "pt", mapSlug: "portugal", names: { de: "Portugal", hu: "Portugália", ro: "Portugalia", en: "Portugal" } },
+  { iso: "nl", mapSlug: "netherlands", names: { de: "Niederlande", hu: "Hollandia", ro: "Țările de Jos", en: "Netherlands" } },
+  { iso: "be", mapSlug: "belgium", names: { de: "Belgien", hu: "Belgium", ro: "Belgia", en: "Belgium" } },
+  { iso: "gr", mapSlug: "greece", names: { de: "Griechenland", hu: "Görögország", ro: "Grecia", en: "Greece" } },
+  { iso: "pl", mapSlug: "poland", names: { de: "Polen", hu: "Lengyelország", ro: "Polonia", en: "Poland" } },
+  { iso: "cz", mapSlug: "czech-republic", names: { de: "Tschechien", hu: "Csehország", ro: "Cehia", en: "Czechia" } },
+  { iso: "hu", mapSlug: "magyarorszag", names: { de: "Ungarn", hu: "Magyarország", ro: "Ungaria", en: "Hungary" } },
+  { iso: "ro", mapSlug: "romania", names: { de: "Rumänien", hu: "Románia", ro: "România", en: "Romania" } },
+  { iso: "ie", mapSlug: "ireland", names: { de: "Irland", hu: "Írország", ro: "Irlanda", en: "Ireland" } },
+  { iso: "si", mapSlug: "slovenia", names: { de: "Slowenien", hu: "Szlovénia", ro: "Slovenia", en: "Slovenia" } },
+  { iso: "sk", mapSlug: "slovakia", names: { de: "Slowakei", hu: "Szlovákia", ro: "Slovacia", en: "Slovakia" } },
 ];
 
 const SITE = "https://plizio.com";
@@ -330,17 +347,22 @@ ${sections}
 </div></body></html>`;
 }
 
+// hub-manifest a bekoteshez (sitemap + orszag-oldal link): iso -> category -> lang -> slug
+let CAT_KEY = "attractions";
+const HUB_MANIFEST: Record<string, Record<string, Record<string, string>>> = {};
 function buildOne(c: CountryCfg): void {
   const jsonp = path.resolve(process.cwd(), "public/data/pois", `${c.iso.toUpperCase()}.json`);
   if (!fs.existsSync(jsonp)) { console.log(`SKIP ${c.iso}: no ${c.iso.toUpperCase()}.json`); return; }
   const j = JSON.parse(fs.readFileSync(jsonp, "utf8"));
   const pois: POI[] = (j.pois || j) as POI[];
   const top = FLAT ? selectPliziogo(pois) : selectTop(pois);
+  if (!top.length) { console.log(`SKIP ${c.iso}: 0 entry (${CAT_KEY})`); return; }
   for (const lang of LANGS) {
     const slug = `${slugify(c.names[lang])}-${SIGHTS_SLUG[lang]}`;
     const dir = path.resolve(process.cwd(), "public", slug);
     fs.mkdirSync(dir, { recursive: true });
     fs.writeFileSync(path.join(dir, "index.html"), render(c, lang, top), "utf8");
+    ((HUB_MANIFEST[c.iso] ??= {})[CAT_KEY] ??= {})[lang] = slug;
     console.log(`OK ${c.iso} ${lang} → public/${slug}/ (${top.length} sights)`);
   }
 }
@@ -351,10 +373,12 @@ if (category === "pliziogo" || category === "itinerary" || category === "reisero
   SIGHTS_SLUG = PLIZIOGO_SLUG;
   T = T_PLIZIOGO;
   FLAT = true;
+  CAT_KEY = "itinerary";
   console.log("category: PlizioGo itineraries (cities with a day plan)");
 } else if (category === "nature" || category === "nationalparks") {
   SIGHTS_SLUG = NATURE_SLUG;
   T = T_NATURE;
+  CAT_KEY = "nature";
   // Many iconic national parks are typed "landmark" (Plitvice "Plitvicer Seen",
   // Krka "Nationalpark Krka", Kornati/Brijuni "...-Inseln"), so also include any
   // POI whose name carries a nature / national-park keyword.
@@ -366,3 +390,13 @@ if (category === "pliziogo" || category === "itinerary" || category === "reisero
 const list = target === "all" ? COUNTRIES : COUNTRIES.filter(c => target.split(",").includes(c.iso));
 if (!list.length) { console.error(`No country '${target}' configured`); process.exit(1); }
 for (const c of list) buildOne(c);
+
+// hub-manifest mentes (merge a meglevovel, hogy a tobb-kategoriás futasok halmozodjanak) — a bekotest ez vezerli
+const manifPath = path.resolve(process.cwd(), "public/data/_hub_manifest.json");
+let manif: Record<string, Record<string, Record<string, string>>> = {};
+try { manif = JSON.parse(fs.readFileSync(manifPath, "utf8")); } catch { /* uj */ }
+for (const iso of Object.keys(HUB_MANIFEST)) {
+  manif[iso] = { ...(manif[iso] || {}), ...HUB_MANIFEST[iso] };
+}
+fs.writeFileSync(manifPath, JSON.stringify(manif, null, 2), "utf8");
+console.log(`[hub-manifest] ${Object.keys(HUB_MANIFEST).length} orszag irva → public/data/_hub_manifest.json`);
