@@ -177,7 +177,11 @@ try {
 const HUB_IMG_READY = HUB_IMG.size >= 1000;
 function resolveImg(p: POI): string | null {
   const base = (u?: string) => (u ? u.split("/").pop() || "" : "");
-  if (p.image && (!HUB_IMG_READY || HUB_IMG.has(base(p.image)))) return p.image;
+  if (p.image) {
+    const b = base(p.image);
+    if (!HUB_IMG_READY) return p.image;            // nincs manifest -> p.image-re bizunk
+    if (HUB_IMG.has(b)) return `/poi-images/${b}`;  // manifest = /poi-images: kanonikus path (a stale /geo-images/ prefix 404-ezett)
+  }
   const tryStem = (s: string) => (HUB_IMG.has(`${s}.webp`) ? `/poi-images/${s}.webp` : null);
   let r = tryStem(p.id);
   if (r) return r;
@@ -266,7 +270,8 @@ function render(c: CountryCfg, lang: Lang, top: POI[]): string {
     const href = poiHref(p, lang);
     const desc = esc(firstSentence((p.descriptionAdvanced?.[lang] || p.description?.[lang] || "")));
     const badge = esc((TYPE_LABEL[p.type||""]?.[lang]) || p.type || "");
-    const img = p.image ? `<img loading="lazy" src="${esc(p.image)}" alt="${nm}" />` : `<div class="noimg"></div>`;
+    const imgUrl = resolveImg(p);  // selectTop ugyanezzel szurt -> mindig van; p.image VAGY stem-resolved
+    const img = imgUrl ? `<img loading="lazy" width="300" height="150" src="${esc(imgUrl)}" alt="${nm}" />` : `<div class="noimg"></div>`;
     const inner = `${img}<div class="cbody"><span class="badge">${badge}</span><h3>${nm}</h3>${desc?`<p>${desc}</p>`:""}${href?`<span class="more">${t.more} →</span>`:""}</div>`;
     return href ? `<a class="card" href="${esc(href)}">${inner}</a>` : `<div class="card">${inner}</div>`;
   }
@@ -297,8 +302,8 @@ function render(c: CountryCfg, lang: Lang, top: POI[]): string {
   const faqSchema = { "@context":"https://schema.org","@type":"FAQPage","mainEntity": faqs.map(([q,a])=>({ "@type":"Question","name":q,"acceptedAnswer":{"@type":"Answer","text":a} })) };
   const breadcrumb = { "@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":t.home,"item":`${SITE}/${lang==="de"?"":lang+"/"}`},{"@type":"ListItem","position":2,"name":t.heading(country),"item":url}] };
 
-  const hero = top.find(p=>p.image);
-  const heroImg = hero?.image ? esc(hero.image) : "";
+  const hero = top.map(p=>resolveImg(p)).find(Boolean);
+  const heroImg = hero ? esc(hero) : "";
 
   return `<!DOCTYPE html><html lang="${lang}"><head>
 <meta charset="utf-8"/><meta name="viewport" content="width=device-width,initial-scale=1"/>
