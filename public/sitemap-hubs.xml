@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <url>
+    <loc>https://plizio.com/kroatien-sehenswuerdigkeiten/</loc>
+    <xhtml:link rel="alternate" hreflang="de" href="https://plizio.com/kroatien-sehenswuerdigkeiten/"/>
+    <xhtml:link rel="alternate" hreflang="hu" href="https://plizio.com/horvatorszag-latnivalok/"/>
+    <xhtml:link rel="alternate" hreflang="ro" href="https://plizio.com/croatia-obiective-turistice/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://plizio.com/croatia-attractions/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://plizio.com/croatia-attractions/"/>
+  </url>
+  <url>
+    <loc>https://plizio.com/horvatorszag-latnivalok/</loc>
+    <xhtml:link rel="alternate" hreflang="de" href="https://plizio.com/kroatien-sehenswuerdigkeiten/"/>
+    <xhtml:link rel="alternate" hreflang="hu" href="https://plizio.com/horvatorszag-latnivalok/"/>
+    <xhtml:link rel="alternate" hreflang="ro" href="https://plizio.com/croatia-obiective-turistice/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://plizio.com/croatia-attractions/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://plizio.com/croatia-attractions/"/>
+  </url>
+  <url>
+    <loc>https://plizio.com/croatia-obiective-turistice/</loc>
+    <xhtml:link rel="alternate" hreflang="de" href="https://plizio.com/kroatien-sehenswuerdigkeiten/"/>
+    <xhtml:link rel="alternate" hreflang="hu" href="https://plizio.com/horvatorszag-latnivalok/"/>
+    <xhtml:link rel="alternate" hreflang="ro" href="https://plizio.com/croatia-obiective-turistice/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://plizio.com/croatia-attractions/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://plizio.com/croatia-attractions/"/>
+  </url>
+  <url>
+    <loc>https://plizio.com/croatia-attractions/</loc>
+    <xhtml:link rel="alternate" hreflang="de" href="https://plizio.com/kroatien-sehenswuerdigkeiten/"/>
+    <xhtml:link rel="alternate" hreflang="hu" href="https://plizio.com/horvatorszag-latnivalok/"/>
+    <xhtml:link rel="alternate" hreflang="ro" href="https://plizio.com/croatia-obiective-turistice/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://plizio.com/croatia-attractions/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://plizio.com/croatia-attractions/"/>
+  </url>
+</urlset>

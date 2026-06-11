@@ -10,6 +10,7 @@ import {
 } from "@/lib/seo/typeIndex";
 import StructuredData, { createCountryStructuredData } from "@/components/seo/StructuredData";
 import { mapSlugForCountry } from "@/lib/seo/countryMapSlug";
+import { sightsHubSlug, SIGHTS_HUB_LABEL, type HubLang } from "@/lib/seo/sightsHubs";
 import {
   COUNTRY_COPY,
   getCountryCopy,
@@ -93,6 +94,7 @@ export default async function CountryPage({
   // old inline SVG, which only had DE/RO/HU shapes and rendered Germany for every
   // other country. mapSlug is null for the handful without a static map.
   const mapSlug = mapSlugForCountry(countryId);
+  const hubSlug = sightsHubSlug(countryId, lang);
   const mapHref = mapSlug ? `/${mapSlug}-map/${lang === "hu" ? "" : lang + "/"}` : null;
   const ML = ({
     de: { kicker: "Interaktive Karte", cta: `${countryCopy.name} entdecken`, sub: "Sehenswürdigkeiten, Städte, Karte & Suche", world: "Weltkarte ansehen", open: "Karte öffnen" },
@@ -137,6 +139,18 @@ export default async function CountryPage({
                 {ML.world} →
               </a>
             )}
+
+            {/* Inbound link to the "Top 50 Sehenswürdigkeiten" SEO hub (when one
+                exists for this country). Closes the orphan-page gap: the hub
+                links down to POIs, this links the hub into the crawl graph. */}
+            {hubSlug ? (
+              <a
+                href={`/${hubSlug}/`}
+                className="mt-4 inline-flex items-center gap-2 rounded-full border border-amber-400/25 bg-amber-400/[0.07] px-5 py-2 text-sm text-amber-100/90 transition hover:border-amber-300/50 hover:bg-amber-400/[0.12]"
+              >
+                {SIGHTS_HUB_LABEL[lang as HubLang] ?? SIGHTS_HUB_LABEL.en} →
+              </a>
+            ) : null}
           </div>
 
           {countryRegions.length ? (

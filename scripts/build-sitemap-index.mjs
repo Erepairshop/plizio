@@ -35,6 +35,13 @@ entries.push({
   loc: `${SITE}/sitemap-images.xml`, // always produced by generate-image-sitemap.mts
   lastmod: iso(fs.existsSync(imgPath) ? fs.statSync(imgPath).mtime : new Date()),
 });
+// SEO hub pages (Top-50 Sehenswürdigkeiten landing pages) — static public/
+// sitemap-hubs.xml copied into out/. Without this the hubs are orphaned from
+// Google (not in any chunk). Optional → only appended when present.
+const hubsPath = path.join(OUT, "sitemap-hubs.xml");
+if (fs.existsSync(hubsPath)) {
+  entries.push({ loc: `${SITE}/sitemap-hubs.xml`, lastmod: iso(fs.statSync(hubsPath).mtime) });
+}
 
 const xml =
   '<?xml version="1.0" encoding="UTF-8"?>\n' +
