@@ -52,6 +52,26 @@ jobs:
           fi
           rm -rf out
 
+      - name: Pre-build disk guard (prune orphan releases before building)
+        shell: bash
+        run: |
+          # A full static export is ~24G; a crashed prior build leaves orphan
+          # releases + the end-of-job rotation never ran -> disk fills and the
+          # NEXT build crashes too (spiral). Prune everything except the LIVE
+          # release at the START, so a build always has room.
+          REL="${{ env.RELEASE_BASE }}/releases"
+          CUR=$(readlink -f "${{ env.RELEASE_BASE }}/current" 2>/dev/null || echo "")
+          if [ -d "$REL" ]; then
+            for d in "$REL"/*/; do
+              full=$(readlink -f "$d")
+              [ -z "$full" ] && continue
+              if [ "$full" = "$CUR" ]; then continue; fi
+              echo "pre-build prune: $full"
+              rm -rf "$full" || true
+            done
+          fi
+          df -h / | tail -1
+
       - run: npm ci
 
       - name: Patch Next worker memory limit (4GB hard-cap → 12GB)
@@ -245,7 +265,7 @@ jobs:
           # the old 24h-stale rule and filled the disk (2026-05-30 incident).
           # The current target is ALWAYS protected by explicit resolved-path match,
           # so a deploy/prune race can never delete the live release (2026-05-19 bug).
-          KEEP="${KEEP_RELEASES:-2}"
+          KEEP="${KEEP_RELEASES:-1}"
           CURRENT_TARGET=$(readlink -f "${{ env.RELEASE_BASE }}/current" 2>/dev/null || echo "")
           n=0
           for d in $(ls -1dt "${{ env.RELEASE_BASE }}/releases"/*/ 2>/dev/null); do
