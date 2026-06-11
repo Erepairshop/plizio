@@ -11417,6 +11417,15 @@ imageHint: "Krujë Castle and old bazaar street",
                         20.590204,
                         40.635003
                   ]
+            },
+            {
+                  "name": "Old bridge - XVII A.D.",
+                  "text": "Die alte Brücke aus dem 17. Jahrhundert ist ein faszinierendes architektonisches Relikt in Voskopojë.",
+                  "category": "landmark",
+                  "coords": [
+                        20.59351,
+                        40.638039
+                  ]
             }
       ],
       "hu": [
@@ -11517,6 +11526,15 @@ imageHint: "Krujë Castle and old bazaar street",
                   "coords": [
                         20.590204,
                         40.635003
+                  ]
+            },
+            {
+                  "name": "Old bridge - XVII A.D.",
+                  "text": "A 17. századi régi híd lenyűgöző építészeti emlék Voskopojëban.",
+                  "category": "landmark",
+                  "coords": [
+                        20.59351,
+                        40.638039
                   ]
             }
       ],
@@ -11619,6 +11637,15 @@ imageHint: "Krujë Castle and old bazaar street",
                         20.590204,
                         40.635003
                   ]
+            },
+            {
+                  "name": "Old bridge - XVII A.D.",
+                  "text": "Vechiul pod din secolul al XVII-lea este o relicvă arhitecturală fascinantă în Voskopojë.",
+                  "category": "landmark",
+                  "coords": [
+                        20.59351,
+                        40.638039
+                  ]
             }
       ],
       "en": [
@@ -11719,6 +11746,15 @@ imageHint: "Krujë Castle and old bazaar street",
                   "coords": [
                         20.590204,
                         40.635003
+                  ]
+            },
+            {
+                  "name": "Old bridge - XVII A.D.",
+                  "text": "The old bridge from the 17th century is a fascinating architectural relic in Voskopojë.",
+                  "category": "landmark",
+                  "coords": [
+                        20.59351,
+                        40.638039
                   ]
             }
       ]

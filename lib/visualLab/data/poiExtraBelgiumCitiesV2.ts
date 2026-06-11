@@ -7346,6 +7346,15 @@ export const belgiumCitiesV2: POI[] = [
                         4.85806,
                         50.47316
                   ]
+            },
+            {
+                  "name": "Fort d'Orange",
+                  "text": "Das Fort d'Orange ist eine historische Burganlage in Namur.",
+                  "category": "castle",
+                  "coords": [
+                        4.851032,
+                        50.4585
+                  ]
             }
       ],
       "hu": [
@@ -7814,6 +7823,15 @@ export const belgiumCitiesV2: POI[] = [
                   "coords": [
                         4.85806,
                         50.47316
+                  ]
+            },
+            {
+                  "name": "Fort d'Orange",
+                  "text": "A Fort d'Orange egy történelmi várkastély Namurban.",
+                  "category": "castle",
+                  "coords": [
+                        4.851032,
+                        50.4585
                   ]
             }
       ],
@@ -8284,6 +8302,15 @@ export const belgiumCitiesV2: POI[] = [
                         4.85806,
                         50.47316
                   ]
+            },
+            {
+                  "name": "Fort d'Orange",
+                  "text": "Fort d'Orange este o structură de castel istorică situată în Namur.",
+                  "category": "castle",
+                  "coords": [
+                        4.851032,
+                        50.4585
+                  ]
             }
       ],
       "en": [
@@ -8752,6 +8779,15 @@ export const belgiumCitiesV2: POI[] = [
                   "coords": [
                         4.85806,
                         50.47316
+                  ]
+            },
+            {
+                  "name": "Fort d'Orange",
+                  "text": "Fort d'Orange is a historic castle structure situated in Namur.",
+                  "category": "castle",
+                  "coords": [
+                        4.851032,
+                        50.4585
                   ]
             }
       ]
@@ -42469,7 +42505,988 @@ imageHint: "Geraardsbergen Muur climb view",
     },
     image: "/poi-images/belgium-geraardsbergen-cities-v2.webp",
 },  {
-    id: "belgium-knokke-heist-cities-v2", "sights": {"de": [{"name": "HEY", "text": "Das HEY ist ein Museum in Knokke-Heist.", "category": "museum", "coords": [3.24528, 51.337479]}, {"name": "Hoge vuurtoren van Heist", "text": "Der hohe Leuchtturm von Heist ist ein markantes Bauwerk in Knokke-Heist.", "category": "landmark", "coords": [3.230383, 51.337565]}, {"name": "Sashul", "text": "Sashul ist ein Naturschutzgebiet in Knokke-Heist.", "category": "natural", "coords": [3.22849, 51.335691]}, {"name": "Tobruk (Zwinduinen en -polders)", "text": "Tobruk ist Teil des Naturschutzgebiets Zwinduinen en -polders in Knokke-Heist.", "category": "natural", "coords": [3.337552, 51.358846]}, {"name": "For Freedom Museum", "text": "Das For Freedom Museum in Knokke-Heist widmet sich der Geschichte des Zweiten Weltkriegs.", "category": "museum", "coords": [3.252138, 51.313477]}, {"name": "Fort Sint-Pol", "text": "Fort Sint-Pol ist eine historische Befestigungsanlage in Knokke-Heist.", "category": "fortress", "coords": [3.324669, 51.349572]}, {"name": "Baai van Heist", "text": "Die Baai van Heist ist ein geschütztes Naturschutzgebiet in Knokke-Heist.", "category": "natural", "coords": [3.230326, 51.343752]}, {"name": "AlbertStrand", "text": "Der AlbertStrand ist ein beliebter Strandabschnitt in Knokke-Heist.", "category": "recreational", "coords": [3.250934, 51.344362]}, {"name": "Laguna Beach", "text": "An der belgischen Nordseeküste in Knokke-Heist bietet der Laguna Beach feinsten Sand und maritime Frische. Dieser Strandbereich zieht Urlauber an, die sich nach Sonne und Meeresrauschen sehnen. Besucher können hier ausgiebige Strandwanderungen unternehmen oder im Strandkorb entspannen. Für windige Tage an der See ist eine leichte Jacke stets empfehlenswert.", "category": "recreational", "coords": [3.257298, 51.335181]}, {"name": "Peiremuzee", "text": "Das Peiremuzee ist ein Museum in Knokke-Heist.", "category": "museum", "coords": [3.292818, 51.341451]}, {"name": "Molen van Siska", "text": "Die Molen van Siska ist eine historische Windmühle in Knokke-Heist.", "category": "landmark", "coords": [3.324279, 51.346062]}, {"name": "Kalfmolen", "text": "Die Kalfmolen ist eine Windmühle in Knokke-Heist.", "category": "landmark", "coords": [3.315228, 51.338719]}, {"name": "Oude Molen", "text": "Die Oude Molen ist eine historische Windmühle in Knokke-Heist.", "category": "landmark", "coords": [3.308487, 51.346123]}, {"name": "Directeur-Generaal Willemspark", "text": "Der Directeur-Generaal Willemspark ist eine öffentliche Parkanlage in Knokke-Heist.", "category": "park", "coords": [3.251874, 51.341473]}, {"name": "Mulier Mulier", "text": "Mulier Mulier ist eine Kunstgalerie in Knokke-Heist.", "category": "museum", "coords": [3.306079, 51.356824]}, {"name": "Victoria", "text": "Victoria ist eine Kunstgalerie in Knokke-Heist.", "category": "museum", "coords": [3.243143, 51.34177]}, {"name": "Horus Gallery", "text": "Die Horus Gallery ist eine Kunstgalerie in Knokke-Heist.", "category": "museum", "coords": [3.294309, 51.354453]}, {"name": "Early Birds Art Gallery", "text": "Die Early Birds Art Gallery ist eine Kunstgalerie in Knokke-Heist.", "category": "museum", "coords": [3.295793, 51.354773]}, {"name": "Dominicanenkerk", "text": "Die Dominicanenkerk ist ein Gotteshaus in Knokke-Heist.", "category": "religious", "coords": [3.30579, 51.352686]}, {"name": "Sint-Vincentiuskerk", "text": "Die Sint-Vincentiuskerk ist ein Gotteshaus in Knokke-Heist.", "category": "religious", "coords": [3.250402, 51.315178]}, {"name": "Sint-Niklaaskerk", "text": "Die Sint-Niklaaskerk ist eine Kirche in Westkapelle bei Knokke-Heist.", "category": "religious", "coords": [3.302842, 51.314483]}, {"name": "Onbevlekt Hart van Maria- en Margaretakerk", "text": "Diese Kirche ist ein Gotteshaus in Knokke-Heist.", "category": "religious", "coords": [3.28628, 51.341857]}, {"name": "Heilig Hartkerk", "text": "Die Heilig Hartkerk ist ein Gotteshaus in Knokke-Heist.", "category": "religious", "coords": [3.291632, 51.351106]}, {"name": "Heilige Familiekerk", "text": "Die Heilige Familiekerk ist ein Gotteshaus in Knokke-Heist.", "category": "religious", "coords": [3.260684, 51.340297]}, {"name": "Sint-Antonius-Abtkerk", "text": "Die Sint-Antonius-Abtkerk ist ein Gotteshaus in Knokke-Heist.", "category": "religious", "coords": [3.235874, 51.339419]}, {"name": "Kristus-Koningkapel", "text": "Die Kristus-Koningkapel ist ein Gotteshaus in Knokke-Heist.", "category": "religious", "coords": [3.262155, 51.342618]}], "hu": [{"name": "HEY", "text": "A HEY egy múzeum Knokke-Heistben.", "category": "museum", "coords": [3.24528, 51.337479]}, {"name": "Hoge vuurtoren van Heist", "text": "A Heist-i magas világítótorony egy jellegzetes építmény Knokke-Heistben.", "category": "landmark", "coords": [3.230383, 51.337565]}, {"name": "Sashul", "text": "A Sashul egy természetvédelmi terület Knokke-Heistben.", "category": "natural", "coords": [3.22849, 51.335691]}, {"name": "Tobruk (Zwinduinen en -polders)", "text": "A Tobruk a Zwinduinen en -polders természetvédelmi terület része Knokke-Heistben.", "category": "natural", "coords": [3.337552, 51.358846]}, {"name": "For Freedom Museum", "text": "A knokke-heisti For Freedom Múzeum a második világháború történetét mutatja be.", "category": "museum", "coords": [3.252138, 51.313477]}, {"name": "Fort Sint-Pol", "text": "A Fort Sint-Pol egy történelmi erődítmény Knokke-Heist városában.", "category": "fortress", "coords": [3.324669, 51.349572]}, {"name": "Baai van Heist", "text": "A Baai van Heist egy védett természetvédelmi terület Knokke-Heistnél.", "category": "natural", "coords": [3.230326, 51.343752]}, {"name": "AlbertStrand", "text": "Az AlbertStrand egy népszerű partszakasz Knokke-Heist városában.", "category": "recreational", "coords": [3.250934, 51.344362]}, {"name": "Laguna Beach", "text": "A belga Északi-tenger partján fekvő Knokke-Heist-i Laguna Beach finom homokot és tengeri frissességet kínál. Ez a partszakasz olyan nyaralókat vonz, akik napfényre és a tenger zúgására vágynak. A látogatók kiadós parti sétákat tehetnek, vagy egyszerűen csak pihenhetnek a homokban. A szeles tengerparti napokra mindig érdemes egy könnyű kabátot bekészíteni.", "category": "recreational", "coords": [3.257298, 51.335181]}, {"name": "Peiremuzee", "text": "A Peiremuzee egy múzeum Knokke-Heist városában.", "category": "museum", "coords": [3.292818, 51.341451]}, {"name": "Molen van Siska", "text": "A Molen van Siska egy történelmi szélmalom Knokke-Heist városában.", "category": "landmark", "coords": [3.324279, 51.346062]}, {"name": "Kalfmolen", "text": "A Kalfmolen egy szélmalom Knokke-Heistnél.", "category": "landmark", "coords": [3.315228, 51.338719]}, {"name": "Oude Molen", "text": "Az Oude Molen egy történelmi szélmalom Knokke-Heist városában.", "category": "landmark", "coords": [3.308487, 51.346123]}, {"name": "Directeur-Generaal Willemspark", "text": "A Directeur-Generaal Willemspark egy nyilvános park Knokke-Heist városában.", "category": "park", "coords": [3.251874, 51.341473]}, {"name": "Mulier Mulier", "text": "A Mulier Mulier egy művészeti galéria Knokke-Heist városában.", "category": "museum", "coords": [3.306079, 51.356824]}, {"name": "Victoria", "text": "A Victoria egy művészeti galéria Knokke-Heist városában.", "category": "museum", "coords": [3.243143, 51.34177]}, {"name": "Horus Gallery", "text": "A Horus Gallery egy művészeti galéria Knokke-Heistben.", "category": "museum", "coords": [3.294309, 51.354453]}, {"name": "Early Birds Art Gallery", "text": "Az Early Birds Art Gallery egy művészeti galéria Knokke-Heistben.", "category": "museum", "coords": [3.295793, 51.354773]}, {"name": "Dominicanenkerk", "text": "A Dominicanenkerk egy templom Knokke-Heistben.", "category": "religious", "coords": [3.30579, 51.352686]}, {"name": "Sint-Vincentiuskerk", "text": "A Sint-Vincentiuskerk egy templom Knokke-Heistben.", "category": "religious", "coords": [3.250402, 51.315178]}, {"name": "Sint-Niklaaskerk", "text": "A Sint-Niklaaskerk egy templom a Knokke-Heist melletti Westkapellében.", "category": "religious", "coords": [3.302842, 51.314483]}, {"name": "Onbevlekt Hart van Maria- en Margaretakerk", "text": "Ez a templom egy istentiszteleti hely Knokke-Heistben.", "category": "religious", "coords": [3.28628, 51.341857]}, {"name": "Heilig Hartkerk", "text": "A Heilig Hartkerk egy templom Knokke-Heistben.", "category": "religious", "coords": [3.291632, 51.351106]}, {"name": "Heilige Familiekerk", "text": "A Heilige Familiekerk egy templom Knokke-Heistben.", "category": "religious", "coords": [3.260684, 51.340297]}, {"name": "Sint-Antonius-Abtkerk", "text": "A Sint-Antonius-Abtkerk egy templom Knokke-Heistben.", "category": "religious", "coords": [3.235874, 51.339419]}, {"name": "Kristus-Koningkapel", "text": "A Kristus-Koningkapel egy kápolna Knokke-Heistben.", "category": "religious", "coords": [3.262155, 51.342618]}], "ro": [{"name": "HEY", "text": "HEY este un muzeu din Knokke-Heist.", "category": "museum", "coords": [3.24528, 51.337479]}, {"name": "Hoge vuurtoren van Heist", "text": "Farul înalt din Heist este o structură distinctivă din Knokke-Heist.", "category": "landmark", "coords": [3.230383, 51.337565]}, {"name": "Sashul", "text": "Sashul este o rezervație naturală din Knokke-Heist.", "category": "natural", "coords": [3.22849, 51.335691]}, {"name": "Tobruk (Zwinduinen en -polders)", "text": "Tobruk face parte din rezervația naturală Zwinduinen en -polders din Knokke-Heist.", "category": "natural", "coords": [3.337552, 51.358846]}, {"name": "For Freedom Museum", "text": "Muzeul For Freedom din Knokke-Heist este dedicat istoriei celui de-al Doilea Război Mondial.", "category": "museum", "coords": [3.252138, 51.313477]}, {"name": "Fort Sint-Pol", "text": "Fort Sint-Pol este o fortificație istorică situată în Knokke-Heist.", "category": "fortress", "coords": [3.324669, 51.349572]}, {"name": "Baai van Heist", "text": "Baai van Heist este o rezervație naturală protejată din Knokke-Heist.", "category": "natural", "coords": [3.230326, 51.343752]}, {"name": "AlbertStrand", "text": "AlbertStrand este o porțiune de plajă populară din Knokke-Heist.", "category": "recreational", "coords": [3.250934, 51.344362]}, {"name": "Laguna Beach", "text": "Pe coasta belgiană a Mării Nordului din Knokke-Heist, Laguna Beach oferă nisip fin și prospețime maritimă. Această zonă de plajă atrage turiștii care tânjesc după soare și sunetul valurilor. Vizitatorii pot face plimbări lungi pe plajă sau se pot relaxa pur și simplu. O jachetă ușoară este întotdeauna recomandată pentru zilele vântoase la mare.", "category": "recreational", "coords": [3.257298, 51.335181]}, {"name": "Peiremuzee", "text": "Peiremuzee este un muzeu situat în Knokke-Heist.", "category": "museum", "coords": [3.292818, 51.341451]}, {"name": "Molen van Siska", "text": "Molen van Siska este o moară de vânt istorică din Knokke-Heist.", "category": "landmark", "coords": [3.324279, 51.346062]}, {"name": "Kalfmolen", "text": "Kalfmolen este o moară de vânt din Knokke-Heist.", "category": "landmark", "coords": [3.315228, 51.338719]}, {"name": "Oude Molen", "text": "Oude Molen este o moară de vânt istorică din Knokke-Heist.", "category": "landmark", "coords": [3.308487, 51.346123]}, {"name": "Directeur-Generaal Willemspark", "text": "Directeur-Generaal Willemspark este un parc public din Knokke-Heist.", "category": "park", "coords": [3.251874, 51.341473]}, {"name": "Mulier Mulier", "text": "Mulier Mulier este o galerie de artă din Knokke-Heist.", "category": "museum", "coords": [3.306079, 51.356824]}, {"name": "Victoria", "text": "Victoria este o galerie de artă situată în Knokke-Heist.", "category": "museum", "coords": [3.243143, 51.34177]}, {"name": "Horus Gallery", "text": "Horus Gallery este o galerie de artă din Knokke-Heist.", "category": "museum", "coords": [3.294309, 51.354453]}, {"name": "Early Birds Art Gallery", "text": "Early Birds Art Gallery este o galerie de artă din Knokke-Heist.", "category": "museum", "coords": [3.295793, 51.354773]}, {"name": "Dominicanenkerk", "text": "Dominicanenkerk este un lăcaș de cult din Knokke-Heist.", "category": "religious", "coords": [3.30579, 51.352686]}, {"name": "Sint-Vincentiuskerk", "text": "Sint-Vincentiuskerk este un lăcaș de cult din Knokke-Heist.", "category": "religious", "coords": [3.250402, 51.315178]}, {"name": "Sint-Niklaaskerk", "text": "Sint-Niklaaskerk este o biserică din Westkapelle, lângă Knokke-Heist.", "category": "religious", "coords": [3.302842, 51.314483]}, {"name": "Onbevlekt Hart van Maria- en Margaretakerk", "text": "Această biserică este un lăcaș de cult din Knokke-Heist.", "category": "religious", "coords": [3.28628, 51.341857]}, {"name": "Heilig Hartkerk", "text": "Heilig Hartkerk este un lăcaș de cult din Knokke-Heist.", "category": "religious", "coords": [3.291632, 51.351106]}, {"name": "Heilige Familiekerk", "text": "Heilige Familiekerk este un lăcaș de cult din Knokke-Heist.", "category": "religious", "coords": [3.260684, 51.340297]}, {"name": "Sint-Antonius-Abtkerk", "text": "Sint-Antonius-Abtkerk este un lăcaș de cult din Knokke-Heist.", "category": "religious", "coords": [3.235874, 51.339419]}, {"name": "Kristus-Koningkapel", "text": "Kristus-Koningkapel este un lăcaș de cult din Knokke-Heist.", "category": "religious", "coords": [3.262155, 51.342618]}], "en": [{"name": "HEY", "text": "HEY is a museum in Knokke-Heist.", "category": "museum", "coords": [3.24528, 51.337479]}, {"name": "Hoge vuurtoren van Heist", "text": "The high lighthouse of Heist is a landmark in Knokke-Heist.", "category": "landmark", "coords": [3.230383, 51.337565]}, {"name": "Sashul", "text": "Sashul is a nature reserve in Knokke-Heist.", "category": "natural", "coords": [3.22849, 51.335691]}, {"name": "Tobruk (Zwinduinen en -polders)", "text": "Tobruk is part of the Zwinduinen en -polders nature reserve in Knokke-Heist.", "category": "natural", "coords": [3.337552, 51.358846]}, {"name": "For Freedom Museum", "text": "The For Freedom Museum in Knokke-Heist is dedicated to the history of the Second World War.", "category": "museum", "coords": [3.252138, 51.313477]}, {"name": "Fort Sint-Pol", "text": "Fort Sint-Pol is a historic fortification located in Knokke-Heist.", "category": "fortress", "coords": [3.324669, 51.349572]}, {"name": "Baai van Heist", "text": "Baai van Heist is a protected nature reserve in Knokke-Heist.", "category": "natural", "coords": [3.230326, 51.343752]}, {"name": "AlbertStrand", "text": "AlbertStrand is a popular beach area in Knokke-Heist.", "category": "recreational", "coords": [3.250934, 51.344362]}, {"name": "Laguna Beach", "text": "On the Belgian North Sea coast in Knokke-Heist, Laguna Beach offers fine sand and maritime freshness. This beach area attracts vacationers who yearn for sunshine and the sound of the ocean. Visitors can take extensive beach walks or simply relax on the shore. A light jacket is always recommended for breezy days by the sea.", "category": "recreational", "coords": [3.257298, 51.335181]}, {"name": "Peiremuzee", "text": "Peiremuzee is a museum located in Knokke-Heist.", "category": "museum", "coords": [3.292818, 51.341451]}, {"name": "Molen van Siska", "text": "Molen van Siska is a historic windmill in Knokke-Heist.", "category": "landmark", "coords": [3.324279, 51.346062]}, {"name": "Kalfmolen", "text": "Kalfmolen is a windmill in Knokke-Heist.", "category": "landmark", "coords": [3.315228, 51.338719]}, {"name": "Oude Molen", "text": "Oude Molen is a historic windmill in Knokke-Heist.", "category": "landmark", "coords": [3.308487, 51.346123]}, {"name": "Directeur-Generaal Willemspark", "text": "Directeur-Generaal Willemspark is a public park in Knokke-Heist.", "category": "park", "coords": [3.251874, 51.341473]}, {"name": "Mulier Mulier", "text": "Mulier Mulier is an art gallery in Knokke-Heist.", "category": "museum", "coords": [3.306079, 51.356824]}, {"name": "Victoria", "text": "Victoria is an art gallery located in Knokke-Heist.", "category": "museum", "coords": [3.243143, 51.34177]}, {"name": "Horus Gallery", "text": "Horus Gallery is an art gallery in Knokke-Heist.", "category": "museum", "coords": [3.294309, 51.354453]}, {"name": "Early Birds Art Gallery", "text": "Early Birds Art Gallery is an art gallery in Knokke-Heist.", "category": "museum", "coords": [3.295793, 51.354773]}, {"name": "Dominicanenkerk", "text": "Dominicanenkerk is a place of worship in Knokke-Heist.", "category": "religious", "coords": [3.30579, 51.352686]}, {"name": "Sint-Vincentiuskerk", "text": "Sint-Vincentiuskerk is a place of worship in Knokke-Heist.", "category": "religious", "coords": [3.250402, 51.315178]}, {"name": "Sint-Niklaaskerk", "text": "Sint-Niklaaskerk is a church in Westkapelle near Knokke-Heist.", "category": "religious", "coords": [3.302842, 51.314483]}, {"name": "Onbevlekt Hart van Maria- en Margaretakerk", "text": "This church is a place of worship in Knokke-Heist.", "category": "religious", "coords": [3.28628, 51.341857]}, {"name": "Heilig Hartkerk", "text": "Heilig Hartkerk is a place of worship in Knokke-Heist.", "category": "religious", "coords": [3.291632, 51.351106]}, {"name": "Heilige Familiekerk", "text": "Heilige Familiekerk is a place of worship in Knokke-Heist.", "category": "religious", "coords": [3.260684, 51.340297]}, {"name": "Sint-Antonius-Abtkerk", "text": "Sint-Antonius-Abtkerk is a place of worship in Knokke-Heist.", "category": "religious", "coords": [3.235874, 51.339419]}, {"name": "Kristus-Koningkapel", "text": "Kristus-Koningkapel is a place of worship in Knokke-Heist.", "category": "religious", "coords": [3.262155, 51.342618]}]},
+    id: "belgium-knokke-heist-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "HEY",
+                  "text": "Das HEY ist ein Museum in Knokke-Heist.",
+                  "category": "museum",
+                  "coords": [
+                        3.24528,
+                        51.337479
+                  ]
+            },
+            {
+                  "name": "Hoge vuurtoren van Heist",
+                  "text": "Der hohe Leuchtturm von Heist ist ein markantes Bauwerk in Knokke-Heist.",
+                  "category": "landmark",
+                  "coords": [
+                        3.230383,
+                        51.337565
+                  ]
+            },
+            {
+                  "name": "Sashul",
+                  "text": "Sashul ist ein Naturschutzgebiet in Knokke-Heist.",
+                  "category": "natural",
+                  "coords": [
+                        3.22849,
+                        51.335691
+                  ]
+            },
+            {
+                  "name": "Tobruk (Zwinduinen en -polders)",
+                  "text": "Tobruk ist Teil des Naturschutzgebiets Zwinduinen en -polders in Knokke-Heist.",
+                  "category": "natural",
+                  "coords": [
+                        3.337552,
+                        51.358846
+                  ]
+            },
+            {
+                  "name": "For Freedom Museum",
+                  "text": "Das For Freedom Museum in Knokke-Heist widmet sich der Geschichte des Zweiten Weltkriegs.",
+                  "category": "museum",
+                  "coords": [
+                        3.252138,
+                        51.313477
+                  ]
+            },
+            {
+                  "name": "Fort Sint-Pol",
+                  "text": "Fort Sint-Pol ist eine historische Befestigungsanlage in Knokke-Heist.",
+                  "category": "fortress",
+                  "coords": [
+                        3.324669,
+                        51.349572
+                  ]
+            },
+            {
+                  "name": "Baai van Heist",
+                  "text": "Die Baai van Heist ist ein geschütztes Naturschutzgebiet in Knokke-Heist.",
+                  "category": "natural",
+                  "coords": [
+                        3.230326,
+                        51.343752
+                  ]
+            },
+            {
+                  "name": "AlbertStrand",
+                  "text": "Der AlbertStrand ist ein beliebter Strandabschnitt in Knokke-Heist.",
+                  "category": "recreational",
+                  "coords": [
+                        3.250934,
+                        51.344362
+                  ]
+            },
+            {
+                  "name": "Laguna Beach",
+                  "text": "An der belgischen Nordseeküste in Knokke-Heist bietet der Laguna Beach feinsten Sand und maritime Frische. Dieser Strandbereich zieht Urlauber an, die sich nach Sonne und Meeresrauschen sehnen. Besucher können hier ausgiebige Strandwanderungen unternehmen oder im Strandkorb entspannen. Für windige Tage an der See ist eine leichte Jacke stets empfehlenswert.",
+                  "category": "recreational",
+                  "coords": [
+                        3.257298,
+                        51.335181
+                  ]
+            },
+            {
+                  "name": "Peiremuzee",
+                  "text": "Das Peiremuzee ist ein Museum in Knokke-Heist.",
+                  "category": "museum",
+                  "coords": [
+                        3.292818,
+                        51.341451
+                  ]
+            },
+            {
+                  "name": "Molen van Siska",
+                  "text": "Die Molen van Siska ist eine historische Windmühle in Knokke-Heist.",
+                  "category": "landmark",
+                  "coords": [
+                        3.324279,
+                        51.346062
+                  ]
+            },
+            {
+                  "name": "Kalfmolen",
+                  "text": "Die Kalfmolen ist eine Windmühle in Knokke-Heist.",
+                  "category": "landmark",
+                  "coords": [
+                        3.315228,
+                        51.338719
+                  ]
+            },
+            {
+                  "name": "Oude Molen",
+                  "text": "Die Oude Molen ist eine historische Windmühle in Knokke-Heist.",
+                  "category": "landmark",
+                  "coords": [
+                        3.308487,
+                        51.346123
+                  ]
+            },
+            {
+                  "name": "Directeur-Generaal Willemspark",
+                  "text": "Der Directeur-Generaal Willemspark ist eine öffentliche Parkanlage in Knokke-Heist.",
+                  "category": "park",
+                  "coords": [
+                        3.251874,
+                        51.341473
+                  ]
+            },
+            {
+                  "name": "Mulier Mulier",
+                  "text": "Mulier Mulier ist eine Kunstgalerie in Knokke-Heist.",
+                  "category": "museum",
+                  "coords": [
+                        3.306079,
+                        51.356824
+                  ]
+            },
+            {
+                  "name": "Victoria",
+                  "text": "Victoria ist eine Kunstgalerie in Knokke-Heist.",
+                  "category": "museum",
+                  "coords": [
+                        3.243143,
+                        51.34177
+                  ]
+            },
+            {
+                  "name": "Horus Gallery",
+                  "text": "Die Horus Gallery ist eine Kunstgalerie in Knokke-Heist.",
+                  "category": "museum",
+                  "coords": [
+                        3.294309,
+                        51.354453
+                  ]
+            },
+            {
+                  "name": "Early Birds Art Gallery",
+                  "text": "Die Early Birds Art Gallery ist eine Kunstgalerie in Knokke-Heist.",
+                  "category": "museum",
+                  "coords": [
+                        3.295793,
+                        51.354773
+                  ]
+            },
+            {
+                  "name": "Dominicanenkerk",
+                  "text": "Die Dominicanenkerk ist ein Gotteshaus in Knokke-Heist.",
+                  "category": "religious",
+                  "coords": [
+                        3.30579,
+                        51.352686
+                  ]
+            },
+            {
+                  "name": "Sint-Vincentiuskerk",
+                  "text": "Die Sint-Vincentiuskerk ist ein Gotteshaus in Knokke-Heist.",
+                  "category": "religious",
+                  "coords": [
+                        3.250402,
+                        51.315178
+                  ]
+            },
+            {
+                  "name": "Sint-Niklaaskerk",
+                  "text": "Die Sint-Niklaaskerk ist eine Kirche in Westkapelle bei Knokke-Heist.",
+                  "category": "religious",
+                  "coords": [
+                        3.302842,
+                        51.314483
+                  ]
+            },
+            {
+                  "name": "Onbevlekt Hart van Maria- en Margaretakerk",
+                  "text": "Diese Kirche ist ein Gotteshaus in Knokke-Heist.",
+                  "category": "religious",
+                  "coords": [
+                        3.28628,
+                        51.341857
+                  ]
+            },
+            {
+                  "name": "Heilig Hartkerk",
+                  "text": "Die Heilig Hartkerk ist ein Gotteshaus in Knokke-Heist.",
+                  "category": "religious",
+                  "coords": [
+                        3.291632,
+                        51.351106
+                  ]
+            },
+            {
+                  "name": "Heilige Familiekerk",
+                  "text": "Die Heilige Familiekerk ist ein Gotteshaus in Knokke-Heist.",
+                  "category": "religious",
+                  "coords": [
+                        3.260684,
+                        51.340297
+                  ]
+            },
+            {
+                  "name": "Sint-Antonius-Abtkerk",
+                  "text": "Die Sint-Antonius-Abtkerk ist ein Gotteshaus in Knokke-Heist.",
+                  "category": "religious",
+                  "coords": [
+                        3.235874,
+                        51.339419
+                  ]
+            },
+            {
+                  "name": "Kristus-Koningkapel",
+                  "text": "Die Kristus-Koningkapel ist ein Gotteshaus in Knokke-Heist.",
+                  "category": "religious",
+                  "coords": [
+                        3.262155,
+                        51.342618
+                  ]
+            },
+            {
+                  "name": "Saint George Anglican Church",
+                  "text": "Die anglikanische Kirche St. George ist ein einladendes Gotteshaus in Knokke-Heist.",
+                  "category": "religious",
+                  "coords": [
+                        3.294733,
+                        51.350332
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "HEY",
+                  "text": "A HEY egy múzeum Knokke-Heistben.",
+                  "category": "museum",
+                  "coords": [
+                        3.24528,
+                        51.337479
+                  ]
+            },
+            {
+                  "name": "Hoge vuurtoren van Heist",
+                  "text": "A Heist-i magas világítótorony egy jellegzetes építmény Knokke-Heistben.",
+                  "category": "landmark",
+                  "coords": [
+                        3.230383,
+                        51.337565
+                  ]
+            },
+            {
+                  "name": "Sashul",
+                  "text": "A Sashul egy természetvédelmi terület Knokke-Heistben.",
+                  "category": "natural",
+                  "coords": [
+                        3.22849,
+                        51.335691
+                  ]
+            },
+            {
+                  "name": "Tobruk (Zwinduinen en -polders)",
+                  "text": "A Tobruk a Zwinduinen en -polders természetvédelmi terület része Knokke-Heistben.",
+                  "category": "natural",
+                  "coords": [
+                        3.337552,
+                        51.358846
+                  ]
+            },
+            {
+                  "name": "For Freedom Museum",
+                  "text": "A knokke-heisti For Freedom Múzeum a második világháború történetét mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        3.252138,
+                        51.313477
+                  ]
+            },
+            {
+                  "name": "Fort Sint-Pol",
+                  "text": "A Fort Sint-Pol egy történelmi erődítmény Knokke-Heist városában.",
+                  "category": "fortress",
+                  "coords": [
+                        3.324669,
+                        51.349572
+                  ]
+            },
+            {
+                  "name": "Baai van Heist",
+                  "text": "A Baai van Heist egy védett természetvédelmi terület Knokke-Heistnél.",
+                  "category": "natural",
+                  "coords": [
+                        3.230326,
+                        51.343752
+                  ]
+            },
+            {
+                  "name": "AlbertStrand",
+                  "text": "Az AlbertStrand egy népszerű partszakasz Knokke-Heist városában.",
+                  "category": "recreational",
+                  "coords": [
+                        3.250934,
+                        51.344362
+                  ]
+            },
+            {
+                  "name": "Laguna Beach",
+                  "text": "A belga Északi-tenger partján fekvő Knokke-Heist-i Laguna Beach finom homokot és tengeri frissességet kínál. Ez a partszakasz olyan nyaralókat vonz, akik napfényre és a tenger zúgására vágynak. A látogatók kiadós parti sétákat tehetnek, vagy egyszerűen csak pihenhetnek a homokban. A szeles tengerparti napokra mindig érdemes egy könnyű kabátot bekészíteni.",
+                  "category": "recreational",
+                  "coords": [
+                        3.257298,
+                        51.335181
+                  ]
+            },
+            {
+                  "name": "Peiremuzee",
+                  "text": "A Peiremuzee egy múzeum Knokke-Heist városában.",
+                  "category": "museum",
+                  "coords": [
+                        3.292818,
+                        51.341451
+                  ]
+            },
+            {
+                  "name": "Molen van Siska",
+                  "text": "A Molen van Siska egy történelmi szélmalom Knokke-Heist városában.",
+                  "category": "landmark",
+                  "coords": [
+                        3.324279,
+                        51.346062
+                  ]
+            },
+            {
+                  "name": "Kalfmolen",
+                  "text": "A Kalfmolen egy szélmalom Knokke-Heistnél.",
+                  "category": "landmark",
+                  "coords": [
+                        3.315228,
+                        51.338719
+                  ]
+            },
+            {
+                  "name": "Oude Molen",
+                  "text": "Az Oude Molen egy történelmi szélmalom Knokke-Heist városában.",
+                  "category": "landmark",
+                  "coords": [
+                        3.308487,
+                        51.346123
+                  ]
+            },
+            {
+                  "name": "Directeur-Generaal Willemspark",
+                  "text": "A Directeur-Generaal Willemspark egy nyilvános park Knokke-Heist városában.",
+                  "category": "park",
+                  "coords": [
+                        3.251874,
+                        51.341473
+                  ]
+            },
+            {
+                  "name": "Mulier Mulier",
+                  "text": "A Mulier Mulier egy művészeti galéria Knokke-Heist városában.",
+                  "category": "museum",
+                  "coords": [
+                        3.306079,
+                        51.356824
+                  ]
+            },
+            {
+                  "name": "Victoria",
+                  "text": "A Victoria egy művészeti galéria Knokke-Heist városában.",
+                  "category": "museum",
+                  "coords": [
+                        3.243143,
+                        51.34177
+                  ]
+            },
+            {
+                  "name": "Horus Gallery",
+                  "text": "A Horus Gallery egy művészeti galéria Knokke-Heistben.",
+                  "category": "museum",
+                  "coords": [
+                        3.294309,
+                        51.354453
+                  ]
+            },
+            {
+                  "name": "Early Birds Art Gallery",
+                  "text": "Az Early Birds Art Gallery egy művészeti galéria Knokke-Heistben.",
+                  "category": "museum",
+                  "coords": [
+                        3.295793,
+                        51.354773
+                  ]
+            },
+            {
+                  "name": "Dominicanenkerk",
+                  "text": "A Dominicanenkerk egy templom Knokke-Heistben.",
+                  "category": "religious",
+                  "coords": [
+                        3.30579,
+                        51.352686
+                  ]
+            },
+            {
+                  "name": "Sint-Vincentiuskerk",
+                  "text": "A Sint-Vincentiuskerk egy templom Knokke-Heistben.",
+                  "category": "religious",
+                  "coords": [
+                        3.250402,
+                        51.315178
+                  ]
+            },
+            {
+                  "name": "Sint-Niklaaskerk",
+                  "text": "A Sint-Niklaaskerk egy templom a Knokke-Heist melletti Westkapellében.",
+                  "category": "religious",
+                  "coords": [
+                        3.302842,
+                        51.314483
+                  ]
+            },
+            {
+                  "name": "Onbevlekt Hart van Maria- en Margaretakerk",
+                  "text": "Ez a templom egy istentiszteleti hely Knokke-Heistben.",
+                  "category": "religious",
+                  "coords": [
+                        3.28628,
+                        51.341857
+                  ]
+            },
+            {
+                  "name": "Heilig Hartkerk",
+                  "text": "A Heilig Hartkerk egy templom Knokke-Heistben.",
+                  "category": "religious",
+                  "coords": [
+                        3.291632,
+                        51.351106
+                  ]
+            },
+            {
+                  "name": "Heilige Familiekerk",
+                  "text": "A Heilige Familiekerk egy templom Knokke-Heistben.",
+                  "category": "religious",
+                  "coords": [
+                        3.260684,
+                        51.340297
+                  ]
+            },
+            {
+                  "name": "Sint-Antonius-Abtkerk",
+                  "text": "A Sint-Antonius-Abtkerk egy templom Knokke-Heistben.",
+                  "category": "religious",
+                  "coords": [
+                        3.235874,
+                        51.339419
+                  ]
+            },
+            {
+                  "name": "Kristus-Koningkapel",
+                  "text": "A Kristus-Koningkapel egy kápolna Knokke-Heistben.",
+                  "category": "religious",
+                  "coords": [
+                        3.262155,
+                        51.342618
+                  ]
+            },
+            {
+                  "name": "Saint George Anglican Church",
+                  "text": "A Saint George anglikán templom egy hívogató istentiszteleti hely Knokke-Heist városában.",
+                  "category": "religious",
+                  "coords": [
+                        3.294733,
+                        51.350332
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "HEY",
+                  "text": "HEY este un muzeu din Knokke-Heist.",
+                  "category": "museum",
+                  "coords": [
+                        3.24528,
+                        51.337479
+                  ]
+            },
+            {
+                  "name": "Hoge vuurtoren van Heist",
+                  "text": "Farul înalt din Heist este o structură distinctivă din Knokke-Heist.",
+                  "category": "landmark",
+                  "coords": [
+                        3.230383,
+                        51.337565
+                  ]
+            },
+            {
+                  "name": "Sashul",
+                  "text": "Sashul este o rezervație naturală din Knokke-Heist.",
+                  "category": "natural",
+                  "coords": [
+                        3.22849,
+                        51.335691
+                  ]
+            },
+            {
+                  "name": "Tobruk (Zwinduinen en -polders)",
+                  "text": "Tobruk face parte din rezervația naturală Zwinduinen en -polders din Knokke-Heist.",
+                  "category": "natural",
+                  "coords": [
+                        3.337552,
+                        51.358846
+                  ]
+            },
+            {
+                  "name": "For Freedom Museum",
+                  "text": "Muzeul For Freedom din Knokke-Heist este dedicat istoriei celui de-al Doilea Război Mondial.",
+                  "category": "museum",
+                  "coords": [
+                        3.252138,
+                        51.313477
+                  ]
+            },
+            {
+                  "name": "Fort Sint-Pol",
+                  "text": "Fort Sint-Pol este o fortificație istorică situată în Knokke-Heist.",
+                  "category": "fortress",
+                  "coords": [
+                        3.324669,
+                        51.349572
+                  ]
+            },
+            {
+                  "name": "Baai van Heist",
+                  "text": "Baai van Heist este o rezervație naturală protejată din Knokke-Heist.",
+                  "category": "natural",
+                  "coords": [
+                        3.230326,
+                        51.343752
+                  ]
+            },
+            {
+                  "name": "AlbertStrand",
+                  "text": "AlbertStrand este o porțiune de plajă populară din Knokke-Heist.",
+                  "category": "recreational",
+                  "coords": [
+                        3.250934,
+                        51.344362
+                  ]
+            },
+            {
+                  "name": "Laguna Beach",
+                  "text": "Pe coasta belgiană a Mării Nordului din Knokke-Heist, Laguna Beach oferă nisip fin și prospețime maritimă. Această zonă de plajă atrage turiștii care tânjesc după soare și sunetul valurilor. Vizitatorii pot face plimbări lungi pe plajă sau se pot relaxa pur și simplu. O jachetă ușoară este întotdeauna recomandată pentru zilele vântoase la mare.",
+                  "category": "recreational",
+                  "coords": [
+                        3.257298,
+                        51.335181
+                  ]
+            },
+            {
+                  "name": "Peiremuzee",
+                  "text": "Peiremuzee este un muzeu situat în Knokke-Heist.",
+                  "category": "museum",
+                  "coords": [
+                        3.292818,
+                        51.341451
+                  ]
+            },
+            {
+                  "name": "Molen van Siska",
+                  "text": "Molen van Siska este o moară de vânt istorică din Knokke-Heist.",
+                  "category": "landmark",
+                  "coords": [
+                        3.324279,
+                        51.346062
+                  ]
+            },
+            {
+                  "name": "Kalfmolen",
+                  "text": "Kalfmolen este o moară de vânt din Knokke-Heist.",
+                  "category": "landmark",
+                  "coords": [
+                        3.315228,
+                        51.338719
+                  ]
+            },
+            {
+                  "name": "Oude Molen",
+                  "text": "Oude Molen este o moară de vânt istorică din Knokke-Heist.",
+                  "category": "landmark",
+                  "coords": [
+                        3.308487,
+                        51.346123
+                  ]
+            },
+            {
+                  "name": "Directeur-Generaal Willemspark",
+                  "text": "Directeur-Generaal Willemspark este un parc public din Knokke-Heist.",
+                  "category": "park",
+                  "coords": [
+                        3.251874,
+                        51.341473
+                  ]
+            },
+            {
+                  "name": "Mulier Mulier",
+                  "text": "Mulier Mulier este o galerie de artă din Knokke-Heist.",
+                  "category": "museum",
+                  "coords": [
+                        3.306079,
+                        51.356824
+                  ]
+            },
+            {
+                  "name": "Victoria",
+                  "text": "Victoria este o galerie de artă situată în Knokke-Heist.",
+                  "category": "museum",
+                  "coords": [
+                        3.243143,
+                        51.34177
+                  ]
+            },
+            {
+                  "name": "Horus Gallery",
+                  "text": "Horus Gallery este o galerie de artă din Knokke-Heist.",
+                  "category": "museum",
+                  "coords": [
+                        3.294309,
+                        51.354453
+                  ]
+            },
+            {
+                  "name": "Early Birds Art Gallery",
+                  "text": "Early Birds Art Gallery este o galerie de artă din Knokke-Heist.",
+                  "category": "museum",
+                  "coords": [
+                        3.295793,
+                        51.354773
+                  ]
+            },
+            {
+                  "name": "Dominicanenkerk",
+                  "text": "Dominicanenkerk este un lăcaș de cult din Knokke-Heist.",
+                  "category": "religious",
+                  "coords": [
+                        3.30579,
+                        51.352686
+                  ]
+            },
+            {
+                  "name": "Sint-Vincentiuskerk",
+                  "text": "Sint-Vincentiuskerk este un lăcaș de cult din Knokke-Heist.",
+                  "category": "religious",
+                  "coords": [
+                        3.250402,
+                        51.315178
+                  ]
+            },
+            {
+                  "name": "Sint-Niklaaskerk",
+                  "text": "Sint-Niklaaskerk este o biserică din Westkapelle, lângă Knokke-Heist.",
+                  "category": "religious",
+                  "coords": [
+                        3.302842,
+                        51.314483
+                  ]
+            },
+            {
+                  "name": "Onbevlekt Hart van Maria- en Margaretakerk",
+                  "text": "Această biserică este un lăcaș de cult din Knokke-Heist.",
+                  "category": "religious",
+                  "coords": [
+                        3.28628,
+                        51.341857
+                  ]
+            },
+            {
+                  "name": "Heilig Hartkerk",
+                  "text": "Heilig Hartkerk este un lăcaș de cult din Knokke-Heist.",
+                  "category": "religious",
+                  "coords": [
+                        3.291632,
+                        51.351106
+                  ]
+            },
+            {
+                  "name": "Heilige Familiekerk",
+                  "text": "Heilige Familiekerk este un lăcaș de cult din Knokke-Heist.",
+                  "category": "religious",
+                  "coords": [
+                        3.260684,
+                        51.340297
+                  ]
+            },
+            {
+                  "name": "Sint-Antonius-Abtkerk",
+                  "text": "Sint-Antonius-Abtkerk este un lăcaș de cult din Knokke-Heist.",
+                  "category": "religious",
+                  "coords": [
+                        3.235874,
+                        51.339419
+                  ]
+            },
+            {
+                  "name": "Kristus-Koningkapel",
+                  "text": "Kristus-Koningkapel este un lăcaș de cult din Knokke-Heist.",
+                  "category": "religious",
+                  "coords": [
+                        3.262155,
+                        51.342618
+                  ]
+            },
+            {
+                  "name": "Saint George Anglican Church",
+                  "text": "Biserica Anglicană Sfântul Gheorghe este un lăcaș de cult primitor din Knokke-Heist.",
+                  "category": "religious",
+                  "coords": [
+                        3.294733,
+                        51.350332
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "HEY",
+                  "text": "HEY is a museum in Knokke-Heist.",
+                  "category": "museum",
+                  "coords": [
+                        3.24528,
+                        51.337479
+                  ]
+            },
+            {
+                  "name": "Hoge vuurtoren van Heist",
+                  "text": "The high lighthouse of Heist is a landmark in Knokke-Heist.",
+                  "category": "landmark",
+                  "coords": [
+                        3.230383,
+                        51.337565
+                  ]
+            },
+            {
+                  "name": "Sashul",
+                  "text": "Sashul is a nature reserve in Knokke-Heist.",
+                  "category": "natural",
+                  "coords": [
+                        3.22849,
+                        51.335691
+                  ]
+            },
+            {
+                  "name": "Tobruk (Zwinduinen en -polders)",
+                  "text": "Tobruk is part of the Zwinduinen en -polders nature reserve in Knokke-Heist.",
+                  "category": "natural",
+                  "coords": [
+                        3.337552,
+                        51.358846
+                  ]
+            },
+            {
+                  "name": "For Freedom Museum",
+                  "text": "The For Freedom Museum in Knokke-Heist is dedicated to the history of the Second World War.",
+                  "category": "museum",
+                  "coords": [
+                        3.252138,
+                        51.313477
+                  ]
+            },
+            {
+                  "name": "Fort Sint-Pol",
+                  "text": "Fort Sint-Pol is a historic fortification located in Knokke-Heist.",
+                  "category": "fortress",
+                  "coords": [
+                        3.324669,
+                        51.349572
+                  ]
+            },
+            {
+                  "name": "Baai van Heist",
+                  "text": "Baai van Heist is a protected nature reserve in Knokke-Heist.",
+                  "category": "natural",
+                  "coords": [
+                        3.230326,
+                        51.343752
+                  ]
+            },
+            {
+                  "name": "AlbertStrand",
+                  "text": "AlbertStrand is a popular beach area in Knokke-Heist.",
+                  "category": "recreational",
+                  "coords": [
+                        3.250934,
+                        51.344362
+                  ]
+            },
+            {
+                  "name": "Laguna Beach",
+                  "text": "On the Belgian North Sea coast in Knokke-Heist, Laguna Beach offers fine sand and maritime freshness. This beach area attracts vacationers who yearn for sunshine and the sound of the ocean. Visitors can take extensive beach walks or simply relax on the shore. A light jacket is always recommended for breezy days by the sea.",
+                  "category": "recreational",
+                  "coords": [
+                        3.257298,
+                        51.335181
+                  ]
+            },
+            {
+                  "name": "Peiremuzee",
+                  "text": "Peiremuzee is a museum located in Knokke-Heist.",
+                  "category": "museum",
+                  "coords": [
+                        3.292818,
+                        51.341451
+                  ]
+            },
+            {
+                  "name": "Molen van Siska",
+                  "text": "Molen van Siska is a historic windmill in Knokke-Heist.",
+                  "category": "landmark",
+                  "coords": [
+                        3.324279,
+                        51.346062
+                  ]
+            },
+            {
+                  "name": "Kalfmolen",
+                  "text": "Kalfmolen is a windmill in Knokke-Heist.",
+                  "category": "landmark",
+                  "coords": [
+                        3.315228,
+                        51.338719
+                  ]
+            },
+            {
+                  "name": "Oude Molen",
+                  "text": "Oude Molen is a historic windmill in Knokke-Heist.",
+                  "category": "landmark",
+                  "coords": [
+                        3.308487,
+                        51.346123
+                  ]
+            },
+            {
+                  "name": "Directeur-Generaal Willemspark",
+                  "text": "Directeur-Generaal Willemspark is a public park in Knokke-Heist.",
+                  "category": "park",
+                  "coords": [
+                        3.251874,
+                        51.341473
+                  ]
+            },
+            {
+                  "name": "Mulier Mulier",
+                  "text": "Mulier Mulier is an art gallery in Knokke-Heist.",
+                  "category": "museum",
+                  "coords": [
+                        3.306079,
+                        51.356824
+                  ]
+            },
+            {
+                  "name": "Victoria",
+                  "text": "Victoria is an art gallery located in Knokke-Heist.",
+                  "category": "museum",
+                  "coords": [
+                        3.243143,
+                        51.34177
+                  ]
+            },
+            {
+                  "name": "Horus Gallery",
+                  "text": "Horus Gallery is an art gallery in Knokke-Heist.",
+                  "category": "museum",
+                  "coords": [
+                        3.294309,
+                        51.354453
+                  ]
+            },
+            {
+                  "name": "Early Birds Art Gallery",
+                  "text": "Early Birds Art Gallery is an art gallery in Knokke-Heist.",
+                  "category": "museum",
+                  "coords": [
+                        3.295793,
+                        51.354773
+                  ]
+            },
+            {
+                  "name": "Dominicanenkerk",
+                  "text": "Dominicanenkerk is a place of worship in Knokke-Heist.",
+                  "category": "religious",
+                  "coords": [
+                        3.30579,
+                        51.352686
+                  ]
+            },
+            {
+                  "name": "Sint-Vincentiuskerk",
+                  "text": "Sint-Vincentiuskerk is a place of worship in Knokke-Heist.",
+                  "category": "religious",
+                  "coords": [
+                        3.250402,
+                        51.315178
+                  ]
+            },
+            {
+                  "name": "Sint-Niklaaskerk",
+                  "text": "Sint-Niklaaskerk is a church in Westkapelle near Knokke-Heist.",
+                  "category": "religious",
+                  "coords": [
+                        3.302842,
+                        51.314483
+                  ]
+            },
+            {
+                  "name": "Onbevlekt Hart van Maria- en Margaretakerk",
+                  "text": "This church is a place of worship in Knokke-Heist.",
+                  "category": "religious",
+                  "coords": [
+                        3.28628,
+                        51.341857
+                  ]
+            },
+            {
+                  "name": "Heilig Hartkerk",
+                  "text": "Heilig Hartkerk is a place of worship in Knokke-Heist.",
+                  "category": "religious",
+                  "coords": [
+                        3.291632,
+                        51.351106
+                  ]
+            },
+            {
+                  "name": "Heilige Familiekerk",
+                  "text": "Heilige Familiekerk is a place of worship in Knokke-Heist.",
+                  "category": "religious",
+                  "coords": [
+                        3.260684,
+                        51.340297
+                  ]
+            },
+            {
+                  "name": "Sint-Antonius-Abtkerk",
+                  "text": "Sint-Antonius-Abtkerk is a place of worship in Knokke-Heist.",
+                  "category": "religious",
+                  "coords": [
+                        3.235874,
+                        51.339419
+                  ]
+            },
+            {
+                  "name": "Kristus-Koningkapel",
+                  "text": "Kristus-Koningkapel is a place of worship in Knokke-Heist.",
+                  "category": "religious",
+                  "coords": [
+                        3.262155,
+                        51.342618
+                  ]
+            },
+            {
+                  "name": "Saint George Anglican Church",
+                  "text": "Saint George Anglican Church is a welcoming place of worship located in Knokke-Heist.",
+                  "category": "religious",
+                  "coords": [
+                        3.294733,
+                        51.350332
+                  ]
+            }
+      ]
+},
     parent: "BE",
     type: "town",
     name: { de: "Knokke-Heist", hu: "Knokke-Heist", ro: "Knokke-Heist", en: "Knokke-Heist"},

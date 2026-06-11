@@ -3442,6 +3442,15 @@ export const bulgariaCitiesV2: POI[] = [
                         24.335778,
                         41.649976
                   ]
+            },
+            {
+                  "name": "Devil's Gorge",
+                  "text": "Die Teufelsschlucht ist eine faszinierende Naturattraktion in der Nähe von Yagodina.",
+                  "category": "landmark",
+                  "coords": [
+                        24.329407,
+                        41.649751
+                  ]
             }
       ],
       "hu": [
@@ -3515,6 +3524,15 @@ export const bulgariaCitiesV2: POI[] = [
                   "coords": [
                         24.335778,
                         41.649976
+                  ]
+            },
+            {
+                  "name": "Devil's Gorge",
+                  "text": "Az Ördög-szurdok egy lenyűgöző természeti látványosság Yagodina közelében.",
+                  "category": "landmark",
+                  "coords": [
+                        24.329407,
+                        41.649751
                   ]
             }
       ],
@@ -3590,6 +3608,15 @@ export const bulgariaCitiesV2: POI[] = [
                         24.335778,
                         41.649976
                   ]
+            },
+            {
+                  "name": "Devil's Gorge",
+                  "text": "Defileul Diavolului este o atracție naturală fascinantă situată lângă Yagodina.",
+                  "category": "landmark",
+                  "coords": [
+                        24.329407,
+                        41.649751
+                  ]
             }
       ],
       "en": [
@@ -3663,6 +3690,15 @@ export const bulgariaCitiesV2: POI[] = [
                   "coords": [
                         24.335778,
                         41.649976
+                  ]
+            },
+            {
+                  "name": "Devil's Gorge",
+                  "text": "Devil's Gorge is an intriguing natural attraction situated near Yagodina.",
+                  "category": "landmark",
+                  "coords": [
+                        24.329407,
+                        41.649751
                   ]
             }
       ]

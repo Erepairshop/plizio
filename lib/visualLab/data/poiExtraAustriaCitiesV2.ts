@@ -27283,6 +27283,15 @@ export const austriaCitiesV2: POI[] = [
                         13.624808,
                         47.713026
                   ]
+            },
+            {
+                  "name": "Burgruine Wildenstein",
+                  "text": "Die Burgruine Wildenstein sind die historischen Überreste einer mittelalterlichen Höhenburg in Bad Ischl.",
+                  "category": "castle",
+                  "coords": [
+                        13.604762,
+                        47.696679
+                  ]
             }
       ],
       "hu": [
@@ -27572,6 +27581,15 @@ export const austriaCitiesV2: POI[] = [
                   "coords": [
                         13.624808,
                         47.713026
+                  ]
+            },
+            {
+                  "name": "Burgruine Wildenstein",
+                  "text": "A Wildenstein várrom egy középkori hegyi vár történelmi maradványa Bad Ischlben.",
+                  "category": "castle",
+                  "coords": [
+                        13.604762,
+                        47.696679
                   ]
             }
       ],
@@ -27863,6 +27881,15 @@ export const austriaCitiesV2: POI[] = [
                         13.624808,
                         47.713026
                   ]
+            },
+            {
+                  "name": "Burgruine Wildenstein",
+                  "text": "Ruinele Castelului Wildenstein reprezintă vestigiile istorice ale unui castel medieval situat pe un deal din Bad Ischl.",
+                  "category": "castle",
+                  "coords": [
+                        13.604762,
+                        47.696679
+                  ]
             }
       ],
       "en": [
@@ -28152,6 +28179,15 @@ export const austriaCitiesV2: POI[] = [
                   "coords": [
                         13.624808,
                         47.713026
+                  ]
+            },
+            {
+                  "name": "Castle Ruin Wildenstein",
+                  "text": "Castle Ruin Wildenstein is the historic remains of a medieval hilltop castle located in Bad Ischl.",
+                  "category": "castle",
+                  "coords": [
+                        13.604762,
+                        47.696679
                   ]
             }
       ]
