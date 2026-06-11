@@ -150,8 +150,30 @@ function km(a: number[], b: number[]): number {
   return 2*R*Math.asin(Math.min(1,Math.sqrt(x)));
 }
 
+// --- image-manifest: a hubon CSAK kep-fedett entry jelenjen meg (nincs ures doboz) ---
+// A VPS-en TENYLEGESEN letezo ~66k kep listaja (_image-manifest.json) + p.image.
+const HUB_IMG = new Set<string>();
+try {
+  const mf = JSON.parse(fs.readFileSync("public/data/_image-manifest.json", "utf8")) as string[];
+  for (const f of mf) if (typeof f === "string" && f.endsWith(".webp")) HUB_IMG.add(f);
+} catch { /* ha nincs manifest, p.image-re esunk vissza */ }
+const HUB_IMG_READY = HUB_IMG.size >= 1000;
+function resolveImg(p: POI): string | null {
+  const base = (u?: string) => (u ? u.split("/").pop() || "" : "");
+  if (p.image && (!HUB_IMG_READY || HUB_IMG.has(base(p.image)))) return p.image;
+  const tryStem = (s: string) => (HUB_IMG.has(`${s}.webp`) ? `/poi-images/${s}.webp` : null);
+  let r = tryStem(p.id);
+  if (r) return r;
+  const core = p.id
+    .replace(/-(history|landmarks|nature|cities|economic|relief|life|culture)-v\d+$/, "")
+    .replace(/-v\d+$/, "").replace(/-extra$/, "");
+  if (core !== p.id) { r = tryStem(core); if (r) return r; }
+  return null;
+}
+
 function selectTop(pois: POI[]): POI[] {
-  const attractions = pois.filter(p => p.type && CAT_FILTER(p) && p.coords);
+  // CSAK kep-fedett latnivalo kerul a hubra (user-dontes 2026-06-11: teljes kepek, nincs ures doboz)
+  const attractions = pois.filter(p => p.type && CAT_FILTER(p) && p.coords && resolveImg(p));
   const TYPE_W: Record<string,number> = { landmark: 60, castle: 55, cathedral: 50, church: 30, monastery: 40, ruins: 35, palace: 55, waterfall: 65, lake: 55, peak: 35, mountain: 30, park: 60, wildlife: 45, museum: 35, fortress: 50, monument: 30, tower: 30, bridge: 30, nature: 55, coast: 45, gorge: 45, canyon: 45 };
   function score(p: POI): number {
     let s = 0;
