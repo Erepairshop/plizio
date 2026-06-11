@@ -14363,7 +14363,88 @@ imageHint: "Vinkovci central square and church",
     },
   },
   {
-    id: "croatia-vodice-cities-v2",
+    id: "croatia-vodice-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Velo Gračište",
+                  "text": "Velo Gračište ist ein Berggipfel in Vodice.",
+                  "category": "natural",
+                  "coords": [
+                        14.378213,
+                        45.019735
+                  ]
+            },
+            {
+                  "name": "45° Paralela",
+                  "text": "45° Paralela ist ein markanter Aussichtspunkt in Vodice.",
+                  "category": "natural",
+                  "coords": [
+                        14.404136,
+                        44.999639
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Velo Gračište",
+                  "text": "A Velo Gračište egy hegycsúcs Vodicében.",
+                  "category": "natural",
+                  "coords": [
+                        14.378213,
+                        45.019735
+                  ]
+            },
+            {
+                  "name": "45° Paralela",
+                  "text": "A 45° Paralela egy nevezetes kilátópont Vodicében.",
+                  "category": "natural",
+                  "coords": [
+                        14.404136,
+                        44.999639
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Velo Gračište",
+                  "text": "Velo Gračište este un vârf de munte din Vodice.",
+                  "category": "natural",
+                  "coords": [
+                        14.378213,
+                        45.019735
+                  ]
+            },
+            {
+                  "name": "45° Paralela",
+                  "text": "45° Paralela este un punct de belvedere din Vodice.",
+                  "category": "natural",
+                  "coords": [
+                        14.404136,
+                        44.999639
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Velo Gračište",
+                  "text": "Velo Gračište is a mountain peak offering elevated views in Vodice.",
+                  "category": "natural",
+                  "coords": [
+                        14.378213,
+                        45.019735
+                  ]
+            },
+            {
+                  "name": "45° Paralela",
+                  "text": "45° Paralela is a landmark viewpoint in Vodice marking the 45th parallel north.",
+                  "category": "natural",
+                  "coords": [
+                        14.404136,
+                        44.999639
+                  ]
+            }
+      ]
+},
     parent: "HR",
     type: "city",
     name: { de: "Vodice", hu: "Vodice", ro: "Vodice", en: "Vodice"},
