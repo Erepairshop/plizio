@@ -26,6 +26,7 @@ try { _tzLookup = _tzRequire("tz-lookup"); } catch { _tzLookup = null; }
 import * as _slugsNs from "../lib/seo/slugs";
 import type { POI } from "../lib/visualLab/data/poi";
 import * as _exploreNs from "../lib/explore/explore-block";
+import { sightsHubSlug, SIGHTS_HUB_LABEL, type HubLang } from "../lib/seo/sightsHubs";
 const _expl: any = (_exploreNs as any).default ?? _exploreNs;
 const renderExploreBlock = _expl.renderExploreBlock as (o: any) => string;
 const EXPLORE_CSS = _expl.EXPLORE_CSS as string;
@@ -2143,6 +2144,12 @@ function renderHtml(poi: POI, lang: Lang): string | null {
   const countryId = getCountryId(poi.parent);
   // Lokalizalt, helyesen irt orszagnev (nem nyers slug) — SEO title/h1/breadcrumb/alt
   const countryName = slugs.localizedCountryName(countryId, lang);
+  // Belso link a "Top 50 Sehenswuerdigkeiten" hubra (reciprok: a hub linkel a POI-kra,
+  // a POI vissza a hubra -> topikus-szulo link + a hub authority-jat erositi).
+  const _hubSlug = sightsHubSlug(countryId, lang);
+  const hubLinkHtml = _hubSlug
+    ? `<a class="plz-cta plz-cta-hub" href="/${_hubSlug}/">${SIGHTS_HUB_LABEL[lang as HubLang] ?? SIGHTS_HUB_LABEL.en} →</a>`
+    : "";
   const ccap = countryName;
   // SEO alt-text helper. Builds "Subject in POI (Country)" patterns.
   const buildAlt = (subject: string, ctx?: string) =>
@@ -2882,6 +2889,7 @@ ready();})();</script>
   ${renderFAQ(poi, lang) || faqHtml}
   <section>
     <a class="plz-cta" href="${countryMapUrl(countryId) ?? (poi.parent === countryId ? buildCountryPath(lang, countryId) : buildStatePath(lang, poi.parent))}">${I("viewMap", lang)} →</a>
+    ${hubLinkHtml}
     ${osmLink}
   </section>
   ${renderExploreBlock({ poiId: poi.id, countryId, countryName: countryName, countryMapUrl: countryMapUrl(countryId), lang: lang as any })}
